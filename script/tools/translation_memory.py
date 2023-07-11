@@ -1,22 +1,77 @@
 import json
-from os import walk
+from os import walk, makedirs, remove
+from multiprocessing import Pool
+import re
 from codecs import open
-from os.path import basename, dirname
+from os.path import dirname, exists, relpath, abspath, basename
 from os.path import join as join_path
 from sys import platform
-from json_tools import prepare
+from functools import partial
+from json_tools import prepare, field_by_path, list_field_paths
 
-
-def export_memory(root_path, memory_file):
+def export_memory_para_old(path, memory_file,show_fname=False):
     memory = dict()
-    for path, d, filelist in walk(root_path):
-        if path.replace(root_path, "").startswith("\others"):
-            continue
+    for path, d, filelist in walk(path):
         for filename in filelist:
             if basename(filename) in ["substitutions.json", "totallabels.json", "translatedlabels.json", "patch_substitutions.json", "parse_problem.txt", "_metadata", "_previewimage", "memory.json"]:
                 continue
             i = join_path(path, filename)
-            print(basename(i))
+            if show_fname  == True: 
+                print(basename(i))
+            with open(i, "rb+", "utf-8") as f:
+                jsondata = json.loads(prepare(f))
+                for i, v in enumerate(jsondata):
+                    if 'translation' in jsondata[i]:
+                        if jsondata[i]['original'] in memory.keys():
+                            pass
+                        elif jsondata[i]['translation'] != "":
+                            if jsondata[i]['original'] != jsondata[i]['translation']:
+                                memory[jsondata[i]['original']
+                                       ] = jsondata[i]['translation']
+                    else:
+                        pass
+    result = json.dumps(memory, ensure_ascii=False,
+                        sort_keys=True, indent=2)
+    f = open(memory_file, "wb+", "utf-8")
+    f.write(result)
+    f.close
+
+def export_memory_para(path, memory_file,show_fname=False):
+    memory = dict()
+    for path, d, filelist in walk(path):
+        for filename in filelist:
+            if basename(filename) in ["substitutions.json", "totallabels.json", "translatedlabels.json", "patch_substitutions.json", "parse_problem.txt", "_metadata", "_previewimage", "memory.json"]:
+                continue
+            i = join_path(path, filename)
+            if show_fname  == True: 
+                print(basename(i))
+            with open(i, "rb+", "utf-8") as f:
+                jsondata = json.loads(prepare(f))
+                for i, v in enumerate(jsondata):
+                    if 'value' in jsondata[i]:
+                        if jsondata[i]['raw'] in memory.keys():
+                            pass
+                        elif jsondata[i]['value'] != "":
+                            memory[jsondata[i]['raw']
+                                       ] = jsondata[i]['value']
+                    else:
+                        pass
+    result = json.dumps(memory, ensure_ascii=False,
+                        sort_keys=True, indent=2)
+    f = open(memory_file, "wb+", "utf-8")
+    f.write(result)
+    f.close
+
+
+def export_memory(path, memory_file,show_fname=False):
+    memory = dict()
+    for path, d, filelist in walk(path):
+        for filename in filelist:
+            if basename(filename) in ["substitutions.json", "totallabels.json", "translatedlabels.json", "patch_substitutions.json", "parse_problem.txt", "_metadata", "_previewimage", "memory.json"]:
+                continue
+            i = join_path(path, filename)
+            if show_fname  == True: 
+                print(basename(i))
             with open(i, "rb+", "utf-8") as f:
                 jsondata = json.loads(prepare(f))
                 for i, v in enumerate(jsondata):
@@ -35,16 +90,15 @@ def export_memory(root_path, memory_file):
     f.close
 
 
-def import_memory(root_path, memory_file):
+def import_memory(path, memory_file,show_fname=False):
     memory = json.loads(prepare(open(memory_file, "r", "utf-8")))
-    for path, d, filelist in walk(root_path):
-        if path.replace(root_path, "").startswith("\others"):
-            continue
+    for path, d, filelist in walk(path):
         for filename in filelist:
             if basename(filename) in ["substitutions.json", "totallabels.json", "translatedlabels.json", "patch_substitutions.json", "parse_problem.txt", "_metadata", "_previewimage", "memory.json"]:
                 continue
             i = join_path(path, filename)
-            print(basename(i))
+            if show_fname  == True: 
+                print(basename(i))
             with open(i, "rb+", "utf-8") as f:
                 jsondata = json.loads(prepare(f))
                 for t, v in enumerate(jsondata):
@@ -61,5 +115,34 @@ def import_memory(root_path, memory_file):
             f.close
 
 
-#export_memory("/git/FrackinUniverse-sChinese-Project/translations","/git/FrackinUniverse-sChinese-Project/memory.json")
-#import_memory("/git/FrackinUniverse-sChinese-Project/translations","/git/FrackinUniverse-sChinese-Project/memory.json")
+def import_memory_para(path, memory_file,glitch=False,show_fname=False):
+    memory = json.loads(prepare(open(memory_file, "r", "utf-8")))
+    for path, d, filelist in walk(path):
+        for filename in filelist:
+            if basename(filename) in ["substitutions.json", "totallabels.json", "translatedlabels.json", "patch_substitutions.json", "parse_problem.txt", "_metadata", "_previewimage", "memory.json"]:
+                continue
+            i = join_path(path, filename)
+            if show_fname  == True: 
+                print(basename(i))
+            with open(i, "rb+", "utf-8") as f:
+                jsondata = json.load(f)
+                for t, v in enumerate(jsondata):
+                    if v['value'] != "":
+                        pass
+                    else:
+                        if v['raw'] in memory.keys():
+                            jsondata[t]['value'] = memory[jsondata[t]['raw']]
+                        elif len(v['raw'].split(". ",1))>=2 and glitch==True:
+                            if v['raw'].split(". ",1)[0]+"." in memory.keys() and v['raw'].split(". ",1)[1] in memory.keys():
+                                jsondata[t]['value'] = memory[jsondata[t]['raw'].split(". ",1)[0]+"."]+memory[jsondata[t]['raw'].split(". ",1)[1]]
+            text = json.dumps(jsondata, ensure_ascii=False,
+                              sort_keys=True, indent=2)
+            f = open(i, "wb+", "utf-8")
+            f.write(text)
+            f.close
+
+
+#export_memory_para("/workplace/StarBound_Mods_SChinese_Project/text/SChinese_para/raw","/workplace/StarBound_Mods_SChinese_Project/text/SChinese_para/memory.json")
+#export_memory("F:/workplace/FFS-sChinese-Project/translations","F:/workplace/StarBound_Mods_SChinese_Project/text/FFS/memory.json")
+#import_memory_para("/workplace/StarBound_Mods_SChinese_Project/text/StardustLib/raw","/workplace/StarBound_Mods_SChinese_Project/text/SChinese_para/memory.json")
+#import_memory("F:/workplace/FrackinUniverse-sChinese-Project/translations","F:/workplace/FrackinUniverse-sChinese-Project-50f2f901921bf33addce960a95b157e379309e66/memory.json")

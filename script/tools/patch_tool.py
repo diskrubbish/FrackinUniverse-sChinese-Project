@@ -3,7 +3,15 @@ import os
 import re
 from codecs import open as open_n_decode
 from json_tools import field_by_path, list_field_paths, prepare
+from sys import platform
+from os.path import abspath, basename, dirname, exists, join, relpath
+if platform == "win32":
+    from os.path import normpath as normpath_old
 
+    def normpath(path):
+        return normpath_old(path).replace('\\', '/')
+else:
+    from os.path import normpath
 # 网上抄的函数，用来合成json，结果还算可靠尼玛呢坑死我了
 
 
@@ -42,10 +50,11 @@ def op_select(jsons):
     return result
 
 # 为某些patch文件写的解析法？大概吧，效率很低
+
+
 def detect_patch(jsons):
-    string = prepare(jsons)
-    result = json.loads(string)
-    new_list=list()
+    result = json.loads(prepare(jsons))
+    new_list = list()
     for i in result:
         if 'path' in i:
             new_list.append(i)
@@ -57,134 +66,46 @@ def detect_patch(jsons):
 # 绝对可靠的扫描方式，针对普通的patch，摒弃了繁琐的转换和词典筛选！
 
 
-def trans_patch(jsons,ex=None):
+
+
+def trans_patch(jsons, ex=None):
     json_text = detect_patch(jsons)
-    dict_result = list()
-    fin_result = list() 
-    for i, value in enumerate(json_text):
+    fin_result = dict()
+    for i in json_text:
         try:
-            dict_result.append([value['op'],  value['path'],value['value']])
+            if i['op'] == "add" or i['op'] == "replace":
+                subpath = i['path']
+                if isinstance(i['value'], str):
+                    if i['op'] == "add" and subpath.endswith("/-") and ex != None:
+                        for end in ex.keys():
+                            if subpath.rstrip("/-").endswith(end):
+                                fin_result[normpath(subpath.replace(
+                                    "/-", "/"+str(ex[end]["index"])))] = i['value']
+                                if ex[end]["increase"] == True:
+                                    ex[end]["index"] = ex[end]["index"]+1
+                        else:
+                            pass
+                    else:
+                        fin_result[subpath] = i['value']
+                elif isinstance(i['value'], (list, dict)):
+                    contexts = list_field_paths(i['value'])
+                    if i['op'] == "add" and subpath.endswith("/-") and ex != None:
+                        for v in contexts:
+                            for end in ex.keys():
+                                if subpath.rstrip("/-").endswith(end):
+                                    fin_result[normpath(join(subpath.replace(
+                                            "/-", "/"+str(ex[end]["index"])), str(v)))] = field_by_path(i['value'], str(v))
+                                    if ex[end]["increase"] == True:
+                                        ex[end]["index"] = ex[end]["index"]+1
+                                else:
+                                    continue
+                    else:
+                        for v in contexts:
+                            fin_result[normpath(join(subpath, str(v)))] = field_by_path(
+                                i['value'], str(v))
         except:
-            pass
-    if ex is not None:
-            try:
-                path_list = [i[1] for i in dict_result]
-                for v in ex:
-                    path_list = replace_the_path(path_list, v)
-                for x,y in enumerate(path_list):
-                    dict_result[x][1] = y
-            except:
-                pass
-    for i in dict_result:
-        if i[0] == 'add' or i[0] == 'replace':
-            path_1 = i[1]
-            path_2 = list_field_paths(i[2])
-            if path_2 == []:
-                path_2 = ['*']
-            else:
-                pass
-            for v in path_2:
-                if path_2 == ['*']:
-                    value = i[2]
-                    path = path_1.replace('/', '', 1)
-                    fin_result.append([path,value])
-                else:
-                    value = field_by_path(i[2], v)
-                    path = (path_1+'/' + v).replace('/', '', 1)
-                    fin_result.append([path,value])
-        else:
-            pass
+            return fin_result
     return fin_result
-    
-
-
-
-def to_a_list(tuple, no):
-    re = list()
-    for i in tuple:
-        re.append(i[no])
-    return re
-
-
-
-
-
-
-# fuck utf8 bom!(未完成)
-"""
-def fuck_utf8_bom(jsons):
-    print(str(jsons))
-    u = str(jsons).decode('utf-8-sig') 
-    s = u.encode('utf-8') 
-    return s
-"""
-
-
-def trans_patch_spcial_1(jsons, ex):
-    json_text = detect_patch(jsons)
-    value_list = list()
-    path_list = list()
-    path_list_2 = list()
-    path_list_3 = list()
-    value_list_2 = list()
-    op_list = list()
-    ex_list = ex
-    for i, value in enumerate(json_text):
-        path_result = value['path']
-        op_result = value['op']
-        try:
-            value_result = value['value']
-        except:
-            value_result = ''
-        value_list.append(value_result)
-        path_list.append(path_result)
-        op_list.append(op_result)
-    """
-    for i in ex_list:
-        if i[2] == 1 :
-            o = i[1]
-            for text in path_list:
-                if not re.search(i[0]+'/'+'-',text) == None :
-                    wait = text.replace(i[0]+'/'+'-',i[0]+'/'+str(o))
-                    path_list_3.append(wait)
-                    o=o+1
-                else:
-                    path_list_3.append(text)
-        else:
-            for text in path_list:
-                if not re.search(i[0]+'/'+'-',text) == None :
-                    wait = text.replace(i[0]+'/-',i[0]+'/'+str(i[1]))
-                    path_list_3.append(wait)
-                else:
-                    path_list_3.append(text)
-        path_list = path_list_3  
-    """
-    for i in ex_list:
-        path_list = replace_the_path(path_list, i)
-    dict_result = tuple(zip(op_list, path_list, value_list))
-    for i in dict_result:
-        if i[0] == 'add' or i[0] == 'replace':
-            path_1 = i[1]
-            path_2 = list_field_paths(i[2])
-            if path_2 == []:
-                path_2 = ['*']
-            else:
-                pass
-            for v in path_2:
-                if path_2 == ['*']:
-                    value = i[2]
-                    path = path_1.replace('/', '', 1)
-                    value_list_2.append(value)
-                    path_list_2.append(path)
-                else:
-                    value = field_by_path(i[2], v)
-                    path = (path_1+'/' + v).replace('/', '', 1)
-                    value_list_2.append(value)
-                    path_list_2.append(path)
-        else:
-            pass
-    result = tuple(zip(path_list_2, value_list_2))
-    return result
 
 
 def replace_the_path(path, rule):
@@ -207,20 +128,12 @@ def replace_the_path(path, rule):
     return path_list_3
 
 
-if __name__ == "__main__":
-    
-    jsons2 = open_n_decode(
-        'E:/FrackinUniverse/dungeon_worlds.config.patch', "r", "utf_8_sig")
-    jsons3 = open_n_decode(
-        'E:/FrackinUniverse/items/categories.config.patch', "r", "utf_8_sig")
-    list233 = [('generic', 70, 1),('cheerful', 31, 1),('jerk', 31, 1),('flirty', 31, 1),('anxious', 31, 1),('easilyspooked',32,1),('clumsy',31,1),('excited',31,1),('intrusive',31,1),('dumb',32,1),('emo',30,1),('fast',31,1),('nocturnal',32,1),('socialite',31,1),('ambitious',30,1)]
-
-    test = trans_patch(jsons2)
-    ##test = detect_patch(json.loads(prepare(jsons3)))
-    """
-    dict_old = dict()
-    for i in range(len(test)):
-         dict_old['/'+test[i][0]] = test[i][1]
-    print(dict_old)
-    """
-    
+def items_subset(items):
+    file_list = []
+    for originfile, jsonpaths in items:
+        if isinstance(jsonpaths, list):
+            for i in jsonpaths:
+                file_list.append([originfile, i])
+        else:
+            file_list.append([originfile, jsonpaths])
+    return file_list

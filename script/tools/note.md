@@ -1,81 +1,55 @@
-# export_mod.py
+## 启动器
 
-将extract_labels.py导出的翻译文件转换成patch。
+### Startranz.py
 
-2020 11-29 现在当中文与英文相同时，pass。
+还没写完的GUI，也不想写了。
 
-# extract_labels.py
+### translation_console.py
 
-用来导出所有指定文件夹内的可翻译文件。
+临时写的简陋GUI，帮助使用者更便捷的操作.
 
-2020 6-28 已与extract_labels_patch.py合并为一个脚本，优化了各处的代码，将配置变量独立到extract_labels_config.py。
+## 非依赖库部分
 
-2020 11-29 优化了过滤patch的逻辑，更加丝滑更加强大（不是）
+### extract_labels_config.py
 
-# extract_labels_config.py
-
-extract_labels.py的可配置参数。
-2020 11-29 将patch_spciallist.py并入其中
-
-# ~~extract_patch_labels.py~~
-
-~~用来导出所有指定文件夹内patch的可翻译文本，目前基本上没有bug，处理能力有待提升。~~
-~~更新：2020 5-4 规范了部分代码，增加了识别词条黑名单的能力 by diskrubbish~~
-
-2020 6-28 已与extract_labels.py合并为一个脚本。  by diskrubbish
-
-# ignore_file.py
-
-忽略文件名单。
-
-# ~~patch_spciallist.py~~
-
-~~过滤特殊patch的规则。~~
-
-2020 11-29 已并入extract_labels_config。
+核心配置参数。
 
 
-# parser_settings.py
+### parser_settings.py
 
-过滤规则列表。
-更新：2020 5-4 修正以前的规则，现在应该不会过滤到界面坐标了;新增增强典籍文本的过滤规则 by diskrubbish
-    2020 5-14 添加 spaceStationData.config 的有关规则  by diskrubbish
+过滤Path的规则列表。用正则过滤。由于体量较大，所以没有并入extract_labels_config.py。
 
-# ~~extract_all_labels.py~~
 
-~~很拙略的写了个整合脚本，以后会改的。~~ ~~已经弃置~~ 已经删除
 
-# ~~help_translation.py~~
+## 依赖库部分
 
-~~采用彩云小译的api帮助翻译，并不能代替全部的汉化工作。~~
 
-~~api用我自己的，所以能不能用要看我钱包啦。（~~
+### json_tools.py
 
-~~更新：2020 5-4 现在能识别英文文本中的颜色符号并去除，方便中文排版 by diskrubbish~~
+为stb不规范json进行规范化的函数所用依赖库。
 
-目前已加入translation_tools.py中
+### patch_tool.py
 
-# blacklist.py
+处理patch的函数所用依赖库，非常不好用。
 
-过滤黑名单，包含目录黑名单和path黑名单。
+### stbtran_utils.py
 
-# ~~blacklist_patch.py~~
+核心依赖库，很冗杂。
 
-~~黑名单，专用于patch文件的过滤~~ 已经弃置
+### requests_tool、para_api.py
 
-# ~~export_patch.py~~
+为操作paratranz所写的依赖。
 
-~~导出汉化mod的patch中的文本到脚本导出的json中，目前代码还好，比以前智能力，，~~
+### special_cases.py、shared_path.py
 
-目前已加入translation_tools.py中
+老格式的过滤器之一，过滤电子人前缀和相同文本。
 
-# ~~dict_replace.py~~
+对于paratranz格式已经过时，等待被移除。
 
-对于特殊词汇的不靠谱的替换PY，~~目前搁置~~目前已加入translation_tools.py中
+### export_mod_para.py
 
-# translation_tools.py
+导出可以供stb使用patch的依赖，等待优化。
 
-help_translation、dict_replace、export_patch三个脚本的合集，复制粘贴的屑作。
+### translation_memory.py
 
-未来大概还会增加新的功能？大概吧，鸽了。
-
+为操作翻译所写的依赖。等待优化。
