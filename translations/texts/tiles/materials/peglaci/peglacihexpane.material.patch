@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A panel of crystal with hexagonal tiles.",
+    "value": "镶有六角瓦片的水晶面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hexpane Panel",
+    "value": "六角面板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. Appears to be ice, but is actually a sturdier crystalline metal.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can see self many times in reflections.",
+    "value": "叶族人可以看到好多多多个自己。"
+  },
+  {
+    "op": "replace",
+    "path": "/peglaciDescription",
+    "raw": "Hexpane - each individual pane is made from a crystalline metal.",
+    "value": "六角玻璃——每个单独的板都由结晶金属制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "Hexpane - each individual pane is made from a crystalline metal.",
+    "value": "六角玻璃——每个单独的板都由结晶金属制成。"
+  }
+]

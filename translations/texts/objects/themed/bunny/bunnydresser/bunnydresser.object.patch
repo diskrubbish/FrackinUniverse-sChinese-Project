@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Store your valuables in this cutesy bunny dresser. Like carrots!",
+    "value": "把你的贵重物品放在这个可爱的兔子梳妆台上。就像胡萝卜！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bunny Dresser",
+    "value": "兔子梳妆台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This dresser comes with a built in mirror.",
+    "value": "这个梳妆台有一面内置的镜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I can see myself preening looking into a mirror like this.",
+    "value": "我可以看到自己像这样对着镜子打扮。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Dressers don't have ears! Ssilly!",
+    "value": "梳妆台没有耳朵！嘘！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uncomfortable. Must this dresser be so... pink?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "If you say their name three times in this mirror, the Easter Bunny appears right behind you.",
+    "value": "如果你在镜子里三次说出他们的名字，复活节兔子就会出现在你身后。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This dresser has a mirror built into it. Cute AND efficient!",
+    "value": "这个梳妆台内置了一面镜子。可爱又高效！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'm nearly expectin' for this dresser to smell like carrots.",
+    "value": "我几乎期待着这个梳妆台闻起来像胡萝卜。"
+  }
+]

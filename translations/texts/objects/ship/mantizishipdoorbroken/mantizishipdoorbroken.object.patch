@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An airlock of Mantizi design.",
+    "value": "一扇Mantizi风格的气闸门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Ship Door",
+    "value": "Mantizi飞船门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "We use doors like these on our ships.",
+    "value": "我们在我们的飞船上使用像这样的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A door. It won't open.",
+    "value": "一扇门。它打不开。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Door won't open!",
+    "value": "这门它不开！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A door. It appears to be disabled.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Cool door. Too bad it isn't opening.",
+    "value": "很酷的门。它打不开，真是糟糕。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A basic door. It won't open.",
+    "value": "一扇基础的门。它打不开。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The door is broken, it ain't opening any time soon.",
+    "value": "这扇门坏了，显然在一段时间内不能被打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Usually for keeping the plebs out.",
+    "value": "通常用于将平民隔绝在外。"
+  }
+]

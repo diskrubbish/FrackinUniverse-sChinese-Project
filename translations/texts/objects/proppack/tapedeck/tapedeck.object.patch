@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tapedeck.",
+    "value": "录音带。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tapedeck",
+    "value": "录音带"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "My tapedeck! I like listening to local tunes.",
+    "value": "我的录音带！我喜欢听当地的曲调。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's a tapedeck.",
+    "value": "这是一张录音带。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Radio box for musssic.",
+    "value": "musssic的广播箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. It's the dorm tapedeck.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ah, my tapedeck! It's good for background noise.",
+    "value": "啊，我的录音带！这对背景噪音有好处。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A simple tapedeck.",
+    "value": "一个简单的录音带。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just a tapedeck.",
+    "value": "只是一个录音带。"
+  }
+]

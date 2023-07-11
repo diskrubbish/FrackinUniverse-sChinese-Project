@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bag made of a thick slime substance.",
+    "value": "一种由厚厚的史莱姆物质制成的袋子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Sack",
+    "value": "史莱姆麻袋"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'm wary of how useful a translucent bag is.",
+    "value": "我担心半透明的袋子有多有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I can see the bag contents through the slime. That's neat!",
+    "value": "我可以透过史莱姆看到袋子里的东西。太好了！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A see-through bag is not very sssneaky.",
+    "value": "一个透明的袋子不是很狡猾。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. I can see this bag's contents through the slime casing.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "If I look closely, I can see right through the slime.",
+    "value": "如果我仔细看，我能看穿史莱姆。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This bag looks as though it could be made of green glass.",
+    "value": "这个包看起来好像是绿色玻璃做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "What's the use of a bag you can see into without opening it?",
+    "value": "不用打开就能看到的袋子有什么用？"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "My favorite bag.",
+    "value": "我最喜欢的包。"
+  }
+]

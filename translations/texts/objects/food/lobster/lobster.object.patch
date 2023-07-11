@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Any resemblance to crown princes are purely coincidental.",
+    "value": "与王储的任何相似之处纯属巧合。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lobster",
+    "value": "龙虾"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fine meal... For those cozying up to the Miniknog, at least.",
+    "value": "一顿美餐...至少对于那些喜欢在科技发展部前嬉戏的人来说是这样。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Perhaps I can crack the shell open with my beak?",
+    "value": "也许我能用我的喙把壳敲开？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Not sso pinchy now, huh?",
+    "value": "现在不是很吝啬了吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Humbled. I doubt many Glitch peasants have ever seen such a fine meal in their lifetimes.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Where's the cheddar biscuits?",
+    "value": "切达饼干在哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Even in death, the shell of this creature maintains a marvelous red sheen.",
+    "value": "即使在死亡时，这种生物的外壳仍保持着一种奇妙的红色光泽。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A purty fancy meal. Assumin' you can get that shell off, that is.",
+    "value": "一顿美味的大餐。假设你能把壳取下来，就是这样。"
+  }
+]

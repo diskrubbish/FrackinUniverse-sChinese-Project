@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Place it on a surface to place a strip that throws people to the right.",
+    "value": "将它放在地形表面，可以形成传送带。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Propulsion Strip R",
+    "value": "传送带(右)"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I would hope people only use this for cargo, but I'd be wrong.",
+    "value": "我希望用这个来运输货物，但我想错了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Sure. Hurl myself around at breakneck speed. What could possibly go wrong?",
+    "value": "当然。以惊人的速度推进自己。怎么会是个烂设计？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wheeeeeeeeee!!!",
+    "value": "哈哈哈哈！！！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Irritable. Science was not developed to invent stupid garbage like this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This is like the worst fairground technology ever.",
+    "value": "这简直就像最糟糕的游乐场技术。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I have no words for this level of stupidity.",
+    "value": "如果我没有保持平衡而跌倒了，别人肯定笑我。"
+  }
+]

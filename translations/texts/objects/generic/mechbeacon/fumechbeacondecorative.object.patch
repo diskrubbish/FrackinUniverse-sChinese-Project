@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This guidance beacon marks the position of a landing bay.",
+    "value": "该导航信标标记着着陆台的位置。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Landing Beacon (Decorative)",
+    "value": "着陆信标（装饰性）"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This marks the position of a mech landing bay.",
+    "value": "这标志着机械着陆舱的位置。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This marker signifies a space bay made for mech entry.",
+    "value": "此标记表示为机械进入而制造的空间间隔。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Beacon showsss where mechs can enter space.",
+    "value": "显示机械师可以进入太空的位置的信标。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informed. This beacon type is useful for tracking where mech vehicles can dock.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A marker to tell pilots where to land their mech suits.",
+    "value": "告诉飞行员在哪里降落他们的机甲的标记。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This beacon is for marking entry bays for mechs.",
+    "value": "该信标用于标记机械手的进入间隔。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This marker is here to mark where t'saddle up your mech.",
+    "value": "这个记号笔是用来标记你的机甲在哪里上驾的。"
+  }
+]

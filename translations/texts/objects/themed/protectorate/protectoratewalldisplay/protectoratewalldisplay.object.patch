@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Isn't that...?",
+    "value": "那不是...？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protectorate Monitor",
+    "value": "大地守护团监视器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This must be a Protectorate planet monitor.",
+    "value": "这一定是大地守护团星球监视器。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The Protectorate uses these to scope out the threat levels of various planets.",
+    "value": "大地守护团利用这些来确定各种行星的威胁程度。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "It'sss a large tv.",
+    "value": "这是一台大电视。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. Is that planet... supposed to be the Earth? When was this monitor last updated?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "... This screen hasn't been updated lately, huh?",
+    "value": "... 这个屏幕最近没有更新，是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The planet being displayed... Don't tell me that's-",
+    "value": "正在展示的星球...别告诉我那是-"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Protectorate technology... Some of the best kind out there.",
+    "value": "大地守护团技术...最好的那种。"
+  }
+]

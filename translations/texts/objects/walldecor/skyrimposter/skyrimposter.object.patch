@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Looking at this poster... it makes you wanna shout!",
+    "value": "看这张海报。。。这让你想大喊大叫！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dragon Poster",
+    "value": "龙海报"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This poster... It's so invigorating!",
+    "value": "这张海报。。。太令人振奋了！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I feel like I've seen this poster before somewhere...",
+    "value": "我觉得我以前在什么地方见过这张海报。。。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can best ssstupid dragon any day!",
+    "value": "叶族人随时都能击败笨龙！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excited. I feel like I could very well take on the dragon in this poster.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh this was a great entry for this franchise! I hear the developers are starting work on the sixth game soon!",
+    "value": "哦，这是一个伟大的进入这个专营权！我听说开发者很快就要开始第六个游戏了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A poster for a mediocre and overhyped game.",
+    "value": "一个平庸且被过度炒作的游戏的海报。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's one fierce lookin' dragon.",
+    "value": "那是一条凶猛的龙。"
+  }
+]

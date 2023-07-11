@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shiny, all-purpose metal.",
+    "value": "闪亮的外形，糅合了各类金属制成的护甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metallic Chest",
+    "value": "合金胸甲"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "That's a nice rich purple, right there.",
+    "value": "这紫色简直漂亮极了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Purple Orchid",
+    "value": "紫色兰花种子"
+  }
+]

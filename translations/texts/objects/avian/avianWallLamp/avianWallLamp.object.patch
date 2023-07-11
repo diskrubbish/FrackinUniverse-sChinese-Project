@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A beautiful wall-mounted lamp built from Avian crystal tech.",
+    "value": "一盏用翼族水晶技制作的漂亮的壁挂式灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avian Wall Lamp",
+    "value": "翼族墙灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This lamp glows brightly without power.",
+    "value": "这盏灯在没有电源的情况下能发出明亮的光。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Crystal lamps never run out of light.",
+    "value": "水晶灯永不熄灭。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Light remind Floran of red ssssunsset.",
+    "value": "这盏灯的灯光让叶族人想起了红色的日日日出出出。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This lamp is its own powersource.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The glow from these lamps is ominous.",
+    "value": "这些灯发出的光是不祥之兆。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Hylotl could make great use of this crystal technology beneath the waves.",
+    "value": "鲛人们1可以可以充分利用这种水晶技术劈波斩浪。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A glowin' crystal. How does it do that?",
+    "value": "一块发光的水晶。它是怎么做到的？"
+  }
+]

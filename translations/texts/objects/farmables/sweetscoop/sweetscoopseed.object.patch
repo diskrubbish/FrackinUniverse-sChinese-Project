@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A plant with fruit that tastes like dessert.",
+    "value": "可以收获糖果笼，食用后会提高能量值上限。这种植物的果实吃起来就像甜点一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sweetscoop Seed",
+    "value": "糖果笼种子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It has the consistency and feel of a banana but tastes like a pie.",
+    "value": "它看上去很像香蕉，不过味道和馅饼一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This tastes like something a human would eat around one of their holidays.",
+    "value": "这种口味就像人们在假期里吃的某种东西一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmashy fruit ball is sssweet.",
+    "value": "糖果笼的果实是甜甜甜的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delight. This must be what kineptic use to make all their food taste good.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It tastes like pumpkin pie with a bit of a tangy twist.",
+    "value": "它有着和捣烂的南瓜饼一样的强烈味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'm hesitant to call this a fruit. It tastes like it would cause diabetes.",
+    "value": "我不知道该不该把这称为水果。它味道像是会导致糖尿病。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A plant that grows dessert. Well I'll be.",
+    "value": "生长沙漠的植物。好吧，我会试着种植的。"
+  },
+  {
+    "op": "replace",
+    "path": "/kinepticDescription",
+    "raw": "It scoops very well--hence the name--and makes a wicked cobbler.",
+    "value": "It scoops very well--hence the name--and makes a wicked cobbler。"
+  }
+]

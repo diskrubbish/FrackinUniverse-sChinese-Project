@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rough, unrefined stone.",
+    "value": "粗糙的石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chert",
+    "value": "燧石"
+  }
+]

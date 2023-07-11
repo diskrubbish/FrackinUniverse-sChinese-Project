@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bioluminescent mutant plant, with numerous applications.",
+    "value": "一种会发出生物光的突变植物，具有许多用途。可以收获泡荚，食用后会赋予照明。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blister Pod",
+    "value": "泡荚种子"
+  }
+]

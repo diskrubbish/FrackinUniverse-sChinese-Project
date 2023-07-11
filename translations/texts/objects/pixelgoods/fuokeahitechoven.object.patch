@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Really seals in the flavor!",
+    "value": "嗯，可以做出好吃的！"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Really seals in the flavor!",
+    "value": "嗯，可以做出好吃的！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hi-tech Oven",
+    "value": "高科技烤箱"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Hi-Tech Oven",
+    "value": " 高科技烤箱"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Prepare and cook food",
+    "value": "^#b9b5b2;快来烹饪美食吧！"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perfect craftsmanship by some sort of fish-man-thing.",
+    "value": "这种完美的制作工艺来自鱼人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Cabinet",
+    "value": "远古柜子"
+  }
+]

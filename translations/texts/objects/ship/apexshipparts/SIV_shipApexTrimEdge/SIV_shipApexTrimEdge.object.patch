@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Trim Edge for an Apex spaceship.",
+    "value": "一个为猿族飞船设计的装饰边缘。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apex Trim Edge",
+    "value": "猿人装饰边缘"
+  }
+]

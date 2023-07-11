@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stops transmitting signals for half of a second whenever it becomes active.",
+    "value": "当激活时会让脉冲信号中断0.5s。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Inv. Half-Sec. Pulse Transmitter",
+    "value": "反脉冲发射器(0.5s)"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Stopsss transssmitting sssignalsss for half of a sssecond whenever it becomesss active.",
+    "value": "当激活时会让脉冲信信信号中断0.5s。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. Stops transmitting signals for half of a second whenever it becomes active.",
+    "value": ""
+  }
+]

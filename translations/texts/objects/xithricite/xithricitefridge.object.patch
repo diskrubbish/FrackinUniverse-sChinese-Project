@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fridge made from xithricite.",
+    "value": "赛德瑞瑟晶体制成的冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Fridge",
+    "value": "赛德瑞瑟晶体冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fridge seemingly made from star matter.",
+    "value": "一台似乎由恒星物质制成的冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I feel like I'm looking into the night sky.",
+    "value": "我感觉我在仰望夜空。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstarry food box!",
+    "value": "星光食品盒！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. This fridge seems to be made from the stars themselves.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This fridge looks like it's made from stars!",
+    "value": "这台冰箱看起来像是用星星做的！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This fridge makes me think fondly of the night sky.",
+    "value": "这台冰箱让我想起夜空。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This fridge is mighty pretty.",
+    "value": "这台冰箱非常漂亮。"
+  }
+]

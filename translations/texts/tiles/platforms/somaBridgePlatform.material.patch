@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glass bridge platform.",
+    "value": "玻璃桥平台"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sleek, low impact platforming device.",
+    "value": "光滑，不耐冲击的平台设备。"
+  }
+]

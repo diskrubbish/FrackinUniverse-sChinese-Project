@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A disturbing painting of some kind.",
+    "value": "一个描绘了某种事物的油画，令人不安。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Former Gallery Painting",
+    "value": "昔日画廊油画"
+  }
+]

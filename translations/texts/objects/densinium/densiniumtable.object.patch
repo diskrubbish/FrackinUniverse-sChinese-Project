@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table made from densinium.",
+    "value": "一张由超致密锭制成的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Densinium Table",
+    "value": "超致密桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This table certainly won't be moved while I am using it.",
+    "value": "当我使用这张桌子时，它肯定不会被移动。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This table is extremely heavy!",
+    "value": "这桌子超重的！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Heavy table! Ssshiny metal!",
+    "value": "超重的桌子！闪闪闪亮的桌子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. This will be sturdy enough for me.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's got pretty lights on it.",
+    "value": "上面的灯光很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A very sturdy pod-like table.",
+    "value": "一张非常结实的豆荚状桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's mighty heavy, but sturdy.",
+    "value": "这玩意很重，但很结实。"
+  }
+]

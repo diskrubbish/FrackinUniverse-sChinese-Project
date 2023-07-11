@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A soft, decorative trim material.",
+    "value": "一种柔软的装饰材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avali Trim",
+    "value": "羽族装饰"
+  }
+]

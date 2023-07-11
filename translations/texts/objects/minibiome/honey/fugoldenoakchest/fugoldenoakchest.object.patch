@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy golden chest.",
+    "value": "一个坚固的金色箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Chest",
+    "value": "金色箱子"
+  }
+]

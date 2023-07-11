@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This door is almost rusted shut.",
+    "value": "这扇门几乎锈死了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wrecked Door Prop",
+    "value": "失落门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A rusted door, just about opens.",
+    "value": "一扇生锈的门，正要打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This door is heavy and rusted.",
+    "value": "这扇门很重而且生锈了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Heavy door is hard to open.",
+    "value": "沉重的门难以打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. Rust makes this door creek.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A rusty old door. Very heavy.",
+    "value": "一扇生锈的旧门，很重。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This door was once very secure.",
+    "value": "这扇门曾经非常安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This might have been secure once, before its hinges rusted.",
+    "value": "在它的铰链生锈之前，它本来是可以被固定住的。"
+  }
+]

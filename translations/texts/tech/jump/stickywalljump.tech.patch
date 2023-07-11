@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lets you stick to and jump off vertical walls!",
+    "value": "让你攀附和跳下垂直墙壁！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Sticky Wall Jump",
+    "value": "粘性蹬墙跳"
+  }
+]

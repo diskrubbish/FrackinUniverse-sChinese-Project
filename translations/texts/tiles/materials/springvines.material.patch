@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spring Vine",
+    "value": "葡萄藤"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A thick coil of vines, with flowers. They look strong.",
+    "value": "一些厚厚的葡萄藤，还开着花。它们看起来很强壮。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Some flowering vines.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran like vinesss.",
+    "value": "像葡葡葡萄藤。"
+  }
+]

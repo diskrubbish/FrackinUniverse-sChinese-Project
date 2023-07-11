@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small airlock hatch that has a built-in rail connector for use with elevators.",
+    "value": "一个小型的气闸舱门，有一个内置的轨道连接器，可与电梯一起使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Airlock Rail Hatch",
+    "value": "小型气闸轨道舱门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A sturdy metal hatch. It has a built-in rail!.",
+    "value": "一个坚固的金属舱门。它有一个内置的轨道！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This metal hatch has a rail built into it.",
+    "value": "这个金属舱门有一个内置的轨道。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hatch looksss ssstrong. Alssso hasss rail.",
+    "value": "舱门看看看起来很很坚固。也也也有轨道。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This industrial hatch has an integrated rail.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This hatch looks pretty strong. And it has a rail to boot!",
+    "value": "这个舱门看起来很坚固。它有一个轨道来启动！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This industrail hatch may be ugly, But its integrated rail is certainly efficient.",
+    "value": "这个工业化的舱门可能很丑，但它的集成轨道肯定是高效的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This here hatch has a rail built into it. Neat!",
+    "value": "这个舱门有一个内置的轨道。很好!"
+  }
+]

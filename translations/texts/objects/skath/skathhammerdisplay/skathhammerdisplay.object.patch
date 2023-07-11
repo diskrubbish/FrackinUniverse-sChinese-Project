@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Skath Plasma Hammer, decommissioned for display.",
+    "value": "一个绘世者等离子锤，退役后用于展示。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Hammer Display",
+    "value": "绘世者锤式展台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This hammer looks extraordinarily heavy. How do the Skath even wield them?.",
+    "value": "这把锤子看起来特别重。绘世者是怎么挥舞它们的？。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I don't think I could ever lift this hammer...",
+    "value": "我不认为我能举起这把锤子..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Waterdragon hammer looksss heavy. Floran triesss to lift. Floran failsss.",
+    "value": "水龙锤看起来很重。叶族人试图举起。叶族人失败了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Fascinated. This weapon looks made to crush vehicles and power armour.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This thing looks really heavy. If I tried to lift it, I might break my back.",
+    "value": "这东西看起来很重。如果我试着提起它，我可能会摔断我的背。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Skath weaponry is truly terrifying.",
+    "value": "绘世者的武器真非常恐怖。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty dangerous lookin' Skath Hammer.",
+    "value": "一把看起来很危险的大锤子。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "Hammers like these are fitted with an internal plasma accelerator, to crush power armour and vehicles both. Only the strongest Skath can wield these unassisted.",
+    "value": "像这样的锤子装有内部等离子加速器，用来粉碎动力装甲和车辆。只有最强大的绘世者才能在无人协助的情况下使用这些武器。"
+  }
+]

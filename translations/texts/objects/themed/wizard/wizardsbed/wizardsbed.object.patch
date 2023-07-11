@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dreamy silk bed for weary wizards.",
+    "value": "为疲惫的巫师们准备的梦幻丝绸床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wizard's Bed",
+    "value": "巫师的床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A very sturdy looking bed.",
+    "value": "看起来很结实的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A canopy bed with a sturdy frame.",
+    "value": "有坚固框架的天篷床。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran loves this beds sssilky curtains!",
+    "value": "叶族人喜欢这张丝质窗帘的床！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amazed. These sheets are softer than anything I've ever touched! How is that possible?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh wow... I feel sleepy just looking at this bed.",
+    "value": "哇哦...我一看这张床就想睡。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The frame is simple and utilitarian, but the fabric is sinfully soft!",
+    "value": "框架简单实用，但织物柔软无比！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now THIS is a mighty fine bed.",
+    "value": "这是一张非常好的床。"
+  }
+]

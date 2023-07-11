@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Scans are inconclusive, but no doubt exists that this is intentionally-altered material.",
+    "value": "扫描器没有给出确切的结果，但是可以肯定的是这种物质被有意地改造了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proto Shale",
+    "value": "原体岩"
+  }
+]

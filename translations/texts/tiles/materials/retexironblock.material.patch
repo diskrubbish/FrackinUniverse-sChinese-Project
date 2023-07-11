@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A solid iron block.",
+    "value": "一块固体铁块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tungsten Block",
+    "value": "钨制方块"
+  }
+]

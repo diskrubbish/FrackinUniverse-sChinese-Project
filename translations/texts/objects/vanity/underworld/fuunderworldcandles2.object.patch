@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cheery cult-sacrifice vibe personifies these little darlings.",
+    "value": "可让人感受到一种奇怪的献祭氛围。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Black Candles",
+    "value": "黑蜡烛"
+  }
+]

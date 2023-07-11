@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An inactive robot! ... Nothing happens if it's switched on.",
+    "value": "一个不活跃的机器人...如果它被打开，什么也不会发生。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Inactive Robot",
+    "value": "非活动机器人"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An inactive robot. It looks pretty friendly!",
+    "value": "不活跃的机器人。看起来很友好！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Perhaps I can activate this robot and be met with gratitude.",
+    "value": "也许我可以激活这个机器人，并得到感激。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran want wake metalman!",
+    "value": "叶族人想要唤醒金属人！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Alarm. I detect a hostile logarhythm in this robot's programming.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "All the other robots I've met have been mostly friendly, I bet this is too!",
+    "value": "我遇到的所有其他机器人都很友好，我打赌这也是！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Even if this robot is hostile, I can no doubt use diplomacy to reason with it.",
+    "value": "即使这个机器人怀有敌意，我也毫无疑问可以用外交手段来说服它。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Well shucks, it looks friendly enough. Wakey-wakey, big guy!",
+    "value": "哎呀，看起来很友好。醒醒醒醒，大个子！"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Taste the ocean, with Reef-Cola.",
+    "value": "走五湖四海，喝礁荚可乐。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Reef-Cola",
+    "value": "礁荚可乐"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "\"Sside effects include: temporary growth of webbed feet\". Uh...",
+    "value": "“副作用包括: 蹼足暂时性生长”。额..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgusted. \"Taste the ocean\" indeed - this drink is practically just salt water!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Can't say I care much for the taste. But I do feel mighty fishy after takin' a sip.",
+    "value": "不能说我很在意这个味道，但是喝了一口之后我确实觉得很腥。"
+  }
+]

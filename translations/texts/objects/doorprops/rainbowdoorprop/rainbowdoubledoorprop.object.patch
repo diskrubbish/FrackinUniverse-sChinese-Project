@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Inviting rainbow doors.",
+    "value": "诱人的彩虹之门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rainbow Double Door Prop",
+    "value": "彩虹双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Rainbow-coloured doors. Simply passing through here cheers me up.",
+    "value": "彩虹色的门，只要走过这里就能让我高兴起来。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Hugely inviting doors.",
+    "value": "巨大的邀请之门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssstep through doors with ssskip.",
+    "value": "叶族人跳跳跳着穿过大门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Overwhelmed. I am filled with excitement at the prospect of seeing what lies beyond these doors.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These doors are just begging to be opened.",
+    "value": "这些门就等着被打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What incredibly welcoming doors.",
+    "value": "多么令人难以置信的欢迎之门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Wonder what could be behind such colourful doors?",
+    "value": "想知道这些五颜六色的门后面是什么吗？"
+  }
+]

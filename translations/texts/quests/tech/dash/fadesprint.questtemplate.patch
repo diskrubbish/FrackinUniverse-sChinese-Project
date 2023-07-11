@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Amazing Speed, Amazing Tech",
+    "value": "惊异速度，惊异科技"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Y'know...I just realized a way I can improve on the Sprint tech!",
+    "value": "呃...我只是想到了一种可以改进我的移动速度的方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Using ^orange;Advanced Techniques and resources^reset; I can alter reality around me as I run. This should provide invulnerability!",
+    "value": "凭借着^orange;高级科技和各类资源^reset;，我应该可以改变我自身周围的空间结构。这可以让我免疫任何伤害。"
+  }
+]

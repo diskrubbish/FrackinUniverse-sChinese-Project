@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An amalgamation of thread, crystals and feathers to create intricate patterns.",
+    "value": "这个复杂的图案是由线，晶体和羽毛制作而成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dreamcatcher",
+    "value": "捕梦网"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What a primitive piece of decoration.",
+    "value": "这是什么原始的装饰。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I hope none of these feathers are Avian.",
+    "value": "我希望这些都不是鸟类羽毛。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "They have big ssssspiders on this planet.",
+    "value": "他们这个星球上有大蜘蜘蜘蛛。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. A primitive hanging decoration with audible properties.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hey, this looks just like a dreamcatcher from Earth.",
+    "value": "嘿，这看起来就像地球上的捕梦网。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What a quaint decoration.",
+    "value": "这是什么古雅的装饰。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "Traditionally, packs add ribbons, feathers, crystals and other trinkets to the web, giving a record of major events in their life.",
+    "value": "在传统中，我们会把丝带，羽毛，水晶和其他饰品编织到网上，这是记录我们生活中发生重大事件的方式"
+  }
+]

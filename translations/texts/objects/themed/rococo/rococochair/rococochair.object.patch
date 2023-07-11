@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fancy vintage chair.",
+    "value": "一把精致的老式椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rococo Chair",
+    "value": "洛可可式椅子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fine and comfortable dining room chair.",
+    "value": "一把精致舒适的餐椅。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A fine chair for gathering around the dinner table.",
+    "value": "一把精致的椅子，用来围坐在餐桌旁。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Chair will get food all over it if Floran eats ssitting on it.",
+    "value": "如果叶族人在椅子上吃东西，椅子上就会到处都是食物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. A fine chair for guests at any dinner party.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Pretty nice! Now, do I test my luck and rock back in it or not...",
+    "value": "很好！现在，我是否要测试我的运气，并在其中摇滚或不..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A stylish and perfectly comfortable chair.",
+    "value": "一把时尚舒适的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A chair for gatherin' around the supper table.",
+    "value": "晚餐桌旁的一把椅子。"
+  }
+]

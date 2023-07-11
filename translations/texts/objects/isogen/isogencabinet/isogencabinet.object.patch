@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cabinet that seems far too cold to store things in.",
+    "value": "一个似乎太冷而无法存放东西的柜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Cabinet",
+    "value": "寒霜柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A cabinet. Extremely impractical.",
+    "value": "一个储存柜。非常不切实际。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A cabinet. I wouldn't put anything in this.",
+    "value": "一个储存柜。我不会在里面放任何东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran knowsss thisss isss a cabinet.",
+    "value": "叶族人知道道道这这这是是是个橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This is too cold for a cabinet.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty regular cabinet, but I wouldn't want my things frozen.",
+    "value": "一个相当普通的柜子，但我不想把我的东西冷冻起来。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A good place to store items if they can stand the cold.",
+    "value": "如果物品经得起寒冷，这是存放物品的好地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This cabinet ain't all that good for me.",
+    "value": "这个柜子对我不太好。"
+  }
+]

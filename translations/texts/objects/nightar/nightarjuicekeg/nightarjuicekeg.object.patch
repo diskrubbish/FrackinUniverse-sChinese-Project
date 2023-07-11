@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A keg full of juice. Mmm, juice!",
+    "value": "装满果汁的桶。嗯，果汁！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Juice Keg",
+    "value": "果汁桶"
+  }
+]

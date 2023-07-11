@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dreamy control console.",
+    "value": "一个如梦般的控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Console",
+    "value": "以太控制台"
+  }
+]

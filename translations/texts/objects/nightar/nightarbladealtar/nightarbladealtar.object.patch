@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An altar dedicated to the purity of the blade. Standing near slightly increases your defense.",
+    "value": "供奉刀锋纯洁的祭坛。站在附近能稍微增加你的防御。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Blade Altar",
+    "value": "夜族刀锋祭坛"
+  }
+]

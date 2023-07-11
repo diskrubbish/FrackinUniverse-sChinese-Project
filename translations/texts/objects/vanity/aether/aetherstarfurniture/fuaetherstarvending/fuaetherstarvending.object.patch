@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Vending Machine",
+    "value": "宇宙自动售货机"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A vending machine filled with aetheric beverages.",
+    "value": "一个装满了以太饮料的自动售卖机。"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "Cosmic Vending Machine",
+    "value": "宇宙自动售货机"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " Delicious Cosmic Drinks",
+    "value": "美味的宇宙饮料"
+  }
+]

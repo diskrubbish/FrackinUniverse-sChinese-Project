@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.^reset;",
+    "value": "一个私人传送门，连接着标记过的传送点。\n^red;拆卸后将被永久破坏。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Teleporter",
+    "value": "夜族传送器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A personal teleporter. A functional but fun piece of equipment.",
+    "value": "一台个人传送器。一个功能化但却很有趣的设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I love the whoosh of my feathers when I teleport!",
+    "value": "我喜欢我瞬间移动时羽毛的嗖嗖声！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Perssonal teleporter is fancy!",
+    "value": "个人传送门真是太棒了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Enticed. A personal teleporter, with a custom design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A personal teleporter! Now this is travelling in style.",
+    "value": "一台个人传送器！现在就来场随心而动的旅行。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A personal teleporter, it sports a custom design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "As teleporters go, this sure is fancy lookin'!",
+    "value": "作为传送器，这看起来确实很花哨！"
+  }
+]

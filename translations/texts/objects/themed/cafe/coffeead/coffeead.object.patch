@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An advertisement for a coffee shop.",
+    "value": "咖啡店的广告。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coffee Ad",
+    "value": "咖啡广告"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Sounds like an ideal way to start the morning.",
+    "value": "听起来是一个开始早晨的理想方式。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "There seems to be a discount with the purchase of donuts and coffee.",
+    "value": "买甜甜圈和咖啡似乎有折扣。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran jusst wants the donut.",
+    "value": "叶族人非常想要甜甜圈。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. An ad for a local coffee shops. It seems they're having a special.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Coffee and donuts! Mmm... Donuts...",
+    "value": "咖啡和甜甜圈！嗯...甜甜圈..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It hardly qualifies as a proper meal, but I suppose it's the most some can manage.",
+    "value": "这很难算是一顿正餐，但我想这是一些人能做的最多的了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's a purty sweet deal there. If only I knew where the dang place was...",
+    "value": "这是一笔很好的交易。要是我知道该死的地方在哪里就好了..."
+  }
+]

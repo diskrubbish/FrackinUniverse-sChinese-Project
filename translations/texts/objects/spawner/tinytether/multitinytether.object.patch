@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small multiple pet pod tether.",
+    "value": "一个小型的多格宠物束缚器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tiny Multi-Tether",
+    "value": "小型多格宠物束缚器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A captured creature can be tethered to this spot.",
+    "value": "可以让被捕获到的生物在一定距离内活动。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A handy post that a pet to be tethered to.",
+    "value": "非常方便的设备，这样宠物就没法跑得过远了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Creaturess attached to post ssstay here.",
+    "value": "这样它们就没法法法离开了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Satisfied. A captured creature placed in this device will stay nearby.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A tether for a captured creature.",
+    "value": "一个让宠物不会脱离主人视线的好东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Once placed in this device, a captured creature will not wander far.",
+    "value": "一旦把捕捉仓放到里面，那么其内的宠物就不会跑得过远。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A handy tether post for keepin' captured creatures from wanderin'.",
+    "value": "这真是一个方便设备，可以保证宠物不会跑得太远。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp filled with some sort of strange fluid. It whispers to you softly.",
+    "value": "充满某种奇怪液体的灯。它轻轻地对你耳语。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Lava Lamp",
+    "value": "长老熔岩灯"
+  }
+]

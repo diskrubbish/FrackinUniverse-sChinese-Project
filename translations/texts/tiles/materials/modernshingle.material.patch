@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sleek modern roof shingle.",
+    "value": "光滑的现代屋顶瓦片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Modern Shingle",
+    "value": "现代瓦片"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. A sleek modern roof shingle.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssshiny roof ssquare.",
+    "value": "闪闪闪亮的屋顶瓦瓦瓦片。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty fancy roof tile.",
+    "value": "一种非凡的花式屋顶瓦片。"
+  }
+]

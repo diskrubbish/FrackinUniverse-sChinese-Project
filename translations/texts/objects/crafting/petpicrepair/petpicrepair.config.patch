@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/scanButton/caption",
+    "raw": "Repair Image",
+    "value": "修复图像"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblText/value",
+    "raw": "^#b9b5b2;Place Pod in any slot.",
+    "value": "^#b9b5b2;将捕捉舱放入任意格子内"
+  }
+]

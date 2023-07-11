@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This light has reached the end of its usefulness.",
+    "value": "这盏灯已经到了它的使用寿命的尽头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Faulty Precursor Light",
+    "value": "有故障的先驱灯"
+  }
+]

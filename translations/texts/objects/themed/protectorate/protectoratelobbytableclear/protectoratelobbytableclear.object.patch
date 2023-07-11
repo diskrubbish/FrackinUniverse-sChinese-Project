@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table from the Protectorate academy. This one's free of clutter!",
+    "value": "大地守护团学院的桌子。这个没有杂物！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protectorate Table",
+    "value": "大地守护团桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple table. I like it.",
+    "value": "一张简单的桌子。我喜欢。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This table is very white. It reminds me of summery clouds.",
+    "value": "这张桌子很白。它让我想起夏天的云。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Clean, white table. Floran can sssee reflection in it.",
+    "value": "干净的白色桌子。叶族人看不见里面的倒影。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unimpressed. A white table with a plain design. Maybe an Apex designed it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This is a cool table! I feel cool standing next to it.",
+    "value": "这是一张很酷的桌子！站在它旁边我感觉很酷。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A modern table with a glossy surface.",
+    "value": "表面光滑的现代桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't no table enthusiast, but I guess this is a nice lookin' table.",
+    "value": "我不是桌子爱好者，但我想这张桌子很好看。"
+  }
+]

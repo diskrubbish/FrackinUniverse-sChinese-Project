@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This wall-mounted locker was built with storing firearms in mind.",
+    "value": "这个壁挂式储物柜是为了储存枪支而设计的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Barracks Armory Shelf",
+    "value": "兵营军械库货架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This locker contains some seriously heavy-duty equipment.",
+    "value": "这个储物柜里有一些重型设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Those firearms look ready to fire should something so much as brush by the trigger.",
+    "value": "如果有什么东西触动扳机的话，这些枪械看起来已经准备好开火了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ooh! Floran can put thesse to work.",
+    "value": "哦！叶族人可以让他们工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. These weapons look highly dangerous.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Yeah, maybe I shouldn't mess with these.",
+    "value": "是的，也许我不该搞砸这些。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Are weapons like these even legal to own?",
+    "value": "拥有这样的武器合法吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Whew. This locker's packin' some heat.",
+    "value": "呼。这个储物柜有点烫手。"
+  }
+]

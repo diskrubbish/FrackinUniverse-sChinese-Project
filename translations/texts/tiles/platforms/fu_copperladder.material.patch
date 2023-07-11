@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Copper Ladder",
+    "value": "铜制梯子"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A copper ladder.",
+    "value": "就是铜制的梯子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. This ladder is made from copper.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ladder iss made from sshiny copper.",
+    "value": "有闪闪闪的铜制制制成的梯子"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A ladder made outta copper.",
+    "value": "用铜做的梯子。"
+  }
+]

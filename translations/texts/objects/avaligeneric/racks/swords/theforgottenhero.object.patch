@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An Avali sword on display, it's my first sword!",
+    "value": "这里面展示着一把羽族的剑，这是我的第一把剑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "The Forgotten Hero",
+    "value": "遗忘英雄之剑"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A massive sword.",
+    "value": "一把巨大的剑。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The more I see, the more familiar the Avali feel.",
+    "value": "我看得越多，对羽族的了解就越多。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "*Gasp* Yesyesyesyes BESSSSST SWORD EVER!!!",
+    "value": "*兴奋* 对对对对对，这是最棒棒棒的！！！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pride. Our daggers display superior craftsmanship.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Seems a bit basic for such an advanced race.",
+    "value": "似乎有用这种武器进行的某种比赛。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A little utilitarian for my tastes.",
+    "value": "这种务实的制作符合我的品位。"
+  }
+]

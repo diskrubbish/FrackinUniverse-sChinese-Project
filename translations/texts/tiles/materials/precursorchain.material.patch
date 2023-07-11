@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A super-strong alloy of ancient origin",
+    "value": "一种来自古代的超强合金。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Chain",
+    "value": "先驱链条"
+  }
+]

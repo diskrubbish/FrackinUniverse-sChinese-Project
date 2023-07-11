@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hatches into a tiny pangolin. Happy little omnivores.",
+    "value": "可以孵化出小小的穿山甲，它是一只快乐的杂食动物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pangolin Egg",
+    "value": "穿山甲蛋"
+  }
+]

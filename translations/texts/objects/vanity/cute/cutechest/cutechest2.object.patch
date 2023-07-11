@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute present. Can store stuff in it!",
+    "value": "一个可爱的礼物盒。在里面存放一些东西吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute White Ribbon Present",
+    "value": "可爱的白丝带礼物"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Clearly a place to eat supper in peace.",
+    "value": "这显然是一个安静地吃晚饭的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flesh Table",
+    "value": "血肉桌子"
+  }
+]

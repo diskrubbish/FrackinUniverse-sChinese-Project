@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A nightstand made from xithricite.",
+    "value": "由赛德瑞瑟晶体制成的床头柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Nightstand",
+    "value": "赛德瑞瑟晶体床头柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A nightstand seemingly made from star matter.",
+    "value": "一个床头柜似乎是由星星物质制成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I feel like I'm looking into the night sky.",
+    "value": "我感觉我在仰望夜空。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstarry thing!",
+    "value": "太棒了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. This nightstand seems to be made from the stars themselves.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This nightstand looks like it's made from stars!",
+    "value": "这个床头柜看起来像是星星做的！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This nightstand makes me think fondly of the night sky.",
+    "value": "这个床头柜让我怀念夜空。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This nightstand is mighty pretty.",
+    "value": "这个床头柜非常漂亮。"
+  }
+]

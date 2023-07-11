@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shining, beautiful glass.",
+    "value": "闪亮的，漂亮的玻璃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Silver Glass",
+    "value": "夜族银玻璃"
+  }
+]

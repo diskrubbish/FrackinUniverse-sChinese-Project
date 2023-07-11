@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A thruster bank of Kirhosi design, gifted to the uplifted Fenerox.",
+    "value": "鼠人设计的推进器组，赠予被提升的耳廓狐。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fenerox Thruster Bank",
+    "value": "耳廓狐推进器组"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You can hear it coming!",
+    "value": "你能听到它来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice Cream Truck",
+    "value": "冰淇淋车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A jolly little tune plays from this vendor's vehicle.",
+    "value": "从这个小贩的车里播放着欢快的小调。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What an adorable tune. I might just whistle along!",
+    "value": "多么可爱的曲调啊。我可能只是随声附和！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssong means icy cream is near!",
+    "value": "听到这些歌曲就意味着冰激凌就要来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excited. That sound must mean frozen treats await!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Huh. This music sounds a little familiar, actually.",
+    "value": "呵呵。实际上，这音乐听起来有点熟悉。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The music this truck makes... it's putting me on edge for some reason...",
+    "value": "这辆卡车发出的音乐...因为某些原因，这让我很紧张..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That tune... It's annoyin' alright. But catchy too.",
+    "value": "那首曲子...没关系。但也很吸引人。"
+  }
+]

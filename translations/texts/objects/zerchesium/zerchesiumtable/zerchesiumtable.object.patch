@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table made from Zerchesium. Keeps your food cold.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Table",
+    "value": "高熔点矿表"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A decent table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A nice table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likess table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Indifferent. A table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A table.",
+    "value": "一张桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An unattractive table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just a table.",
+    "value": "就是一张桌子而已。"
+  }
+]

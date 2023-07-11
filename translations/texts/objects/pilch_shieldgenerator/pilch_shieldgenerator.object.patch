@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Generates fields to protect construction, provide air or alter gravity within a defined area.",
+    "value": "生成立场以保护建筑、提供空气或改变定义区域内的重力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Field Generator",
+    "value": "力场发生器"
+  }
+]

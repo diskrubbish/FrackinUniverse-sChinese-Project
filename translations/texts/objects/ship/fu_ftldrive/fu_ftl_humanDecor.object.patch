@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Replica of a Human FTL drive. ^yellow;Does nothing.^reset;",
+    "value": "人族FTL引擎的复制品。^yellow;没有屌用。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Replica Human FTL Drive^reset;",
+    "value": "^cyan;人族FTL引擎复制品^reset;"
+  }
+]

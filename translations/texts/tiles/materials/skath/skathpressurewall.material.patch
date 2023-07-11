@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block of tethyde alloy made for use in high pressure environments.",
+    "value": "一种用于高压环境的韧影合金合金块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pressurized Tethyde",
+    "value": "加压韧影合金"
+  }
+]

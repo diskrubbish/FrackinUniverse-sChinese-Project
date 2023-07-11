@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Now that is one helluva jump.",
+    "value": "极限跳跃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Omega Jump",
+    "value": "终结之跃"
+  }
+]

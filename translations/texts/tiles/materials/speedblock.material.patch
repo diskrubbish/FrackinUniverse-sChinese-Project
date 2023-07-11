@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Gives you a speed boost.",
+    "value": "给予速度提升。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Speed Block",
+    "value": "加速方块"
+  }
+]

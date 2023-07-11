@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Soft to the touch, and bursting with cellular material.",
+    "value": "触摸起来很柔软，并且迸发着细胞物质。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cellpod Seed",
+    "value": "细胞豆荚种子"
+  }
+]

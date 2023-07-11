@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ultimate Flutter Jump",
+    "value": "究极的浮空跳。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Flutter Jump III",
+    "value": "浮空跳 III"
+  }
+]

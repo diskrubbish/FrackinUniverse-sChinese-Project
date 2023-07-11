@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A computer desk for your tenants. \n^yellow;+10 Happiness\n^blue;Requires 4J every 5s.^reset;",
+    "value": "为你的房客提供一张电脑桌。\n^yellow;+10幸福\n^blue;每5秒需要4J能量。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Computer Lab",
+    "value": "计算机实验室"
+  }
+]

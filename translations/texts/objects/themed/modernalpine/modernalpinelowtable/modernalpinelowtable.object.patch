@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wooden coffee table with a stylish pattern embedded on top.",
+    "value": "一张木质咖啡桌，上面嵌有时髦的图案。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alpine Low Table",
+    "value": "阿尔卑斯矮桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ah, there appears to be a pattern on the surface of this table.",
+    "value": "啊，这张桌子的表面似乎有一个图案。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A light wood coffee table.",
+    "value": "一张轻木咖啡桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmall table.",
+    "value": "小桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. The sort of table you could gather around and chat.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A coffee table! Let's hope I don't stub my toe.",
+    "value": "咖啡桌！希望我不会伤到脚趾。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A fine coffee table with an inspired pattern.",
+    "value": "一张精致的咖啡桌，图案灵感四射。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fine li'l wooden table.",
+    "value": "一张精致的木制桌子。"
+  }
+]

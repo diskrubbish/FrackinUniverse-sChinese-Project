@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The flag of the Glitch. Use ^green;[E]^reset; to bookmark a teleportation location.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glitch Flag",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A Glitch flag. Quite striking.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I like the Glitch's flag.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran think this mean metal people nearby!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pride. The flag of the Glitch. Outcast or not, we all turn to this flag.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This flag belongs to the Glitch.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Oh look, it's the Glitch's basic, childish flag.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A nice, simple flag. I like it.",
+    "value": ""
+  }
+]

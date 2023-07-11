@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Impossible Acid Storm (Resist: ^#a10000;Physical^reset;)",
+    "value": "无解酸性风暴 (抵抗: ^#a10000;物理^reset;)"
+  }
+]

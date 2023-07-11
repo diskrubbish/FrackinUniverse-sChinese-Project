@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stack of Prop Pack delivery boxes. Is anything inside?",
+    "value": "一堆道具包投递箱。里面有东西吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prop Packaging Boxes",
+    "value": "道具包装盒"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Delivery boxes. But what's inside?",
+    "value": "送货箱。但是里面是什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Bright packages, some left unopened.",
+    "value": "明亮的包裹，有些没有打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "What iss in pretty yellow boxes?",
+    "value": "漂亮的黄色盒子里有什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. What are all these packages doing out here? Is it for me...?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I didn't even know they made cardboard in these colors.",
+    "value": "我甚至不知道他们用这种颜色做纸板。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Whoever shipped these packages out certainly is dedicated to their brand.",
+    "value": "无论是谁将这些包裹运出，肯定都是为了他们的品牌。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Well don't mind if I do.",
+    "value": "好吧，如果我这么做的话，请不要介意。"
+  }
+]

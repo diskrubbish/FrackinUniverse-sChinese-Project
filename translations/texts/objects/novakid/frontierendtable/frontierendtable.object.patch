@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy, western-styled table.",
+    "value": "坚固的西式桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frontier End Table",
+    "value": "边境端桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small end table.",
+    "value": "一张小桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A well carved little table.",
+    "value": "雕刻精美的小桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Tiny table.",
+    "value": "小桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. A piece of furniture that might sit next to a bed or a chair.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A wooden end table with a variety of uses.",
+    "value": "有多种用途的木制端桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A table built to sit beside a sleeping area, perhaps?",
+    "value": "也许是一张放在睡觉区旁边的桌子？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A l'il table, carved with care.",
+    "value": "一张精心雕刻的桌子。"
+  }
+]

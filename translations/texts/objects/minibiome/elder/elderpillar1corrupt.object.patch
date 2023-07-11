@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ruins of some cyclopean structure",
+    "value": "这是某种巨石建筑的遗址。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cyclopean Pillar",
+    "value": "巨型石柱"
+  }
+]

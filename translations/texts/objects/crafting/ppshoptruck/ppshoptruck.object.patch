@@ -1,0 +1,98 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A perfectly original and legitimate furniture shipment company.",
+    "value": "一家完美的原创合法家具运输公司。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prop Pack Truck",
+    "value": "满是家具卡车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A delivery truck. Is this penguin manning it or just loitering?",
+    "value": "一辆运货卡车。是这只企鹅在操控它，还是只是在闲逛？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A penguin? Alone with a truck? I ought to be on guard.",
+    "value": "一只企鹅？和一辆卡车独处？我应该提高警惕。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Little penguin hasss wares!",
+    "value": "小企鹅大大大卖卖！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Suspicious. This delivery truck is unoccupied save for one penguin \"employee\"...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm not too sure I can trust this guy... but just look at his stock!",
+    "value": "我不太确定我能信任这个家伙...但是看看他的存货！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A penguin delinquent, claiming to be running a shop. I might alert the authorities if this goes south. ",
+    "value": "一只企鹅罪犯，声称自己经营一家商店。如果事情搞砸了，我可能会通知当局。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Somethin' tells me this stock wasn't legally obtained...",
+    "value": "有人告诉我这些货物不是合法获得的..."
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/0",
+    "raw": "Hey you - yeah, you! C'mere a sec. You want in on some killer deals?",
+    "value": "嘿，你——是的，你！稍等一下。你想参与一些杀手级的交易吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/1",
+    "raw": "Pssst - hey kid! You interested in some... Furniture and furniture byproducts?",
+    "value": "等等——嘿，孩子！你有没有兴趣...买些家具和副产品？"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/2",
+    "raw": "OKEA? ... Nope, uh, can't ever say I've heard of 'em. ... What's with that look?",
+    "value": "Ok？...没，我从没听说过他们。你那表情是什么意思？"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/3",
+    "raw": "Quality goods here, fallen right off the back of a truck! ... Er, not this one, though.",
+    "value": "这里有高质量的商品，刚从卡车后面掉下来的！额，但不是这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/4",
+    "raw": "Where do I get this stuff? I got a, er, supplier. Honest Dave. Swell guy, really.",
+    "value": "你问我从哪里得到的这些东西？我找到一个，呃，供货商。诚实的戴夫。他真是个好人。"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/5",
+    "raw": "I'm upset to hear about Earth, don't get me wrong, but I'd be lying if I said I'm not relieved to get the Protectorate off of my flippers.",
+    "value": "听到关于地球的事情我很难过，不过不要误会我的意思，但如果我说我没有因为把守护团的标志从我的鳍上取下来而感到解脱，那我就是在撒谎。"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/6",
+    "raw": "What, you think I can't drive this thing? Me and my booster seat would like to disagree.",
+    "value": "什么，你以为我不会开这玩意儿？我和我的加高座椅可不同意。"
+  }
+]

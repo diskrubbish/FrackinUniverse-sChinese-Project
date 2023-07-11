@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Where does the water come from or go to? I will never know.",
+    "value": "水从哪里来或流向哪里？我永远不会知道。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Sink",
+    "value": "夜族盥洗盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This sink has a built-in conservation system to help prevent wasting water.",
+    "value": "这个水槽有一个内置的保护系统，以帮助防止浪费水。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This sink is just large enough for me to clean my feathers.",
+    "value": "这个水槽刚好够我清洗羽毛。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Clean water flowssss out.",
+    "value": "清水流出。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hylotl across the galaxy would probably clamor to use this.",
+    "value": "银河系的鲛人可能会大声疾呼使用这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Fancy-lookin' sink.",
+    "value": "漂亮的水槽。"
+  }
+]

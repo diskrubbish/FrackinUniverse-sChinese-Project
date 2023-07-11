@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small blue light",
+    "value": "小蓝灯"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Ship Light",
+    "value": "绘世者船灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These lights are commonly used on ships.",
+    "value": "这些灯通常用在飞船上。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A vibrant light.",
+    "value": "一盏明亮的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ship light is harsh on Floran eyesss.",
+    "value": "船灯很刺叶族人的眼眼眼睛。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This lighting fixture generates more light than heat.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A bright, blue light.",
+    "value": "明亮的蓝光。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A bright, blue light. It creates a neutral atmosphere.",
+    "value": "明亮的蓝光。它创造了一种中性的气氛。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's one bright lightbulb.",
+    "value": "那是个明亮的灯泡。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "A blue light, commonly found on our ships and cruisers. The blue light is very calming..",
+    "value": "一种蓝光，常见于我们的船只和巡洋舰上。蓝色的灯光很平静。。"
+  }
+]

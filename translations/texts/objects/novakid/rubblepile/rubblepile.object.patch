@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nothing but junk.",
+    "value": "除了垃圾什么都没有。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rubble Pile",
+    "value": "碎石桩"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Debris from a failed excursion.",
+    "value": "一次失败的旅行留下的碎片。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Nothing of interest here.",
+    "value": "没啥兴趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Just dirty rocksss.",
+    "value": "只有脏石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disappointed. There doesn't seem to be anything worthwhile here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Aw, it's just junk.",
+    "value": "哦，这只是垃圾。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Patience is a virtue indeed.",
+    "value": "耐心确实是一种美德。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Can't all be winners, I guess.",
+    "value": "我想，不可能所有人都是赢家。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Well, this is unnecessarily glowy, but nice. Hard as rock, though.",
+    "value": "好吧，它没必要这么绚丽，但的确挺漂亮的。尽管它如同石头一般坚硬。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Chair",
+    "value": "先驱之椅"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's like a Glitch beehive!",
+    "value": "它像一个小蜂巢！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dark Metal Hexagons",
+    "value": "黑暗金属六镀块"
+  }
+]

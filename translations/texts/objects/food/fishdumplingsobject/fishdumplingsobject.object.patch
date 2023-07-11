@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Simple fish dumplings, steamed and lightly seasoned.",
+    "value": "简单的鱼水饺，清蒸，稍加调味。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fish Dumplings",
+    "value": "鱼饺子"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssoft fishy dumplings.",
+    "value": "松软的鱼饺子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A plate of steaming fish dumplings.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These dumplings are small, but mighty savory.",
+    "value": "这些饺子虽小，但味道鲜美。"
+  }
+]

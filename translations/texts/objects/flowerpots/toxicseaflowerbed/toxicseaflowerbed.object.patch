@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's pretty, assuming you aren't susceptible to radiation burns.",
+    "value": "假设你不易受辐射灼伤的影响，这很不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toxic Sea (Flower) Bed",
+    "value": "有毒海床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'm... Rather concerned for whoever was charged with getting the plants for this planter.",
+    "value": "相对于其他人，我应该是更为关心负责为这个种植园主获取植物的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Should people really be standing around this...?",
+    "value": "人们真的应该站在这附近吗...？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes the sspooky glow of the oshroom.",
+    "value": "叶族人喜欢房间里那令人讨厌的光芒。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned. This flower bed is giving off frighteningly high levels of radiation.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "If I jump into there, would I get super powers?",
+    "value": "如果我跳进去，我会得到超能力吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "When some Hylotl can't afford to raise standard sea flower beds, they turn to... alternative solutions.",
+    "value": "当一些鲛人养不起标准的海洋花坛时，他们会转向...替代解决办法。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That there planter's glowin'. But not in a good way.",
+    "value": "那个种植园主在发光。但不是以一种好的方式。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The edges are...amazingly precise. And looking closer...tiny glyphs adorn the surface.",
+    "value": "它很精致，表面用微型文字装饰着。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Catacombs Tomb",
+    "value": "墓穴储物柜"
+  }
+]

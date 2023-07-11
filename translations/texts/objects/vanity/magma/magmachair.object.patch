@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Do you really want to sit on that?",
+    "value": "难道你真的想坐在这上面吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Magma Chair",
+    "value": "岩浆椅子"
+  }
+]

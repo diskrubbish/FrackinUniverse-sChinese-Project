@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A valuable locker, for storing valuable things.",
+    "value": "一个贵重的储物柜，可用于存储贵重物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ship locker",
+    "value": "飞船储物柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The ship's storage system. It's not currently functional.",
+    "value": "这是一个飞船的存储系统。但它现在并不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A device that holds many items. It appears to function differently from our own. This one is not on.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssstorage. It'sss not on.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Stating the obvious. A  storage system. It is not on.",
+    "value": "显而易见，一个飞船存储系统，但是并不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A ship's locker. It's not working.",
+    "value": "一个飞船储物柜。它不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An elegant storage solution. It's not currently powered.",
+    "value": "一个优雅的存储方案。但它现在并不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/mantiziDescription",
+    "raw": "There may be valuables inside. It's not working, though.",
+    "value": "这里面可能有什么有价值的东西，尽管它不工作。"
+  }
+]

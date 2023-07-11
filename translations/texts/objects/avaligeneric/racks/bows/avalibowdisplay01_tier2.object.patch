@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Weapon Rack - CB2 Lancer",
+    "value": "武器展示架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Fascinating! It appears to materialize its own ammo from some kind of internal storage device.",
+    "value": "有趣！ 它似乎实现了可以从某种内部储存设备补充弹药。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I really have no idea if this is supposed to be a bow or a gun.",
+    "value": "我真的不知道这到底是一把弓还是一把枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bird-men display sssstrange ssshiney bows.",
+    "value": "鸟人展示的一种有着奇怪怪怪光泽的弓。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. This device appears to resemble a primitive bow, but is actually a projectile accelerator in the shape of a bow.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It looks like one of our compound bows, but appears to create its own ammo from thin air!",
+    "value": "它看起来像我们的复合弓，但似乎可以从空气中补充弹药！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What is this meant to be, a bow or a gun?",
+    "value": "这是什么，弓还是枪？"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "I wonder who created this. It uses our technology, but we've never made anything like this before...",
+    "value": "我不知道谁发明了这把武器。它使用了我们的技术，但我们从来没有这样做过..."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An Avali compound tech bow, all set for display.",
+    "value": "这里面展示着羽族科技复合弓。"
+  }
+]

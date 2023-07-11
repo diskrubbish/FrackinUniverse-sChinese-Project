@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A barrel wood dresser with coarse ropes for handles.",
+    "value": "有粗绳子做把手的木桶梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corsair's Dresser",
+    "value": "海盗的梳妆台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This dresser smells of the sea.",
+    "value": "这个梳妆台有大海的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'm not certain I want to put my clothing in these damp drawers.",
+    "value": "我不确定我是否想把衣服放在这些潮湿的抽屉里。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssalty dresser.",
+    "value": "咸的梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. These drawers are slightly damp.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What a cool look! Maybe not practical, but cool!",
+    "value": "多酷的样子！也许不实用，但很酷！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Not the smartest idea for a dresser on the open seas.",
+    "value": "在公海上做梳妆台可不是最聪明的主意。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A wooden dresser. It smells a little like the ocean.",
+    "value": "木制梳妆台。闻起来有点像大海。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Whatever this says, it's probably not a greeting.",
+    "value": "不管上面写什么，我都能打赌这肯定不是简单的问好。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Strange Glyph",
+    "value": "奇怪的字"
+  }
+]

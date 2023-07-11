@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Watch your step, this looks explosive!",
+    "value": "留意脚下，这玩意儿会爆炸！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Military Land Mine",
+    "value": "军事地雷"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A land mine, it could still be active.",
+    "value": "一个地雷，它已经激活了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Uh oh! I do not want to step on this.",
+    "value": "噢，我可不想踩在这玩意儿上。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Watch your ssstep!",
+    "value": "脚步轻轻轻一点儿！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. An active land mine, I had better be careful.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I don't want to risk it, this thing could still go off.",
+    "value": "我可不想踩上去，它会把我炸飞的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Land mines, smaller than sea mines but still lethal.",
+    "value": "虽然小，但致命。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This thing could still blow!",
+    "value": "这个地雷会爆炸！"
+  }
+]

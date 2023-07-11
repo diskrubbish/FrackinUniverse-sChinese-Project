@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A highly refractive prism. There appears to be something inside. Unsmashable!",
+    "value": "高折射棱镜。里面好像有东西。不可理喻！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prism Crystal",
+    "value": "棱镜水晶"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Is that a penguin?",
+    "value": "那是企鹅吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "There's a penguin encased in this crystal.",
+    "value": "水晶里有一只企鹅。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Rock has something inside! Floran wantsss to smash rock!",
+    "value": "岩石里面有东西！叶族人想把石头砸碎！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Puzzled. How could a penguin possibly be inside this prism?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A petrified penguin.",
+    "value": "一只石化的企鹅。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A penguin in a prism. Where does one begin to unravel this mystery?",
+    "value": "棱镜中的企鹅。从哪里开始解开这个谜团？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Hey there, lil' buddy.",
+    "value": "嘿，小家伙。"
+  }
+]

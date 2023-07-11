@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rev up those fryers!",
+    "value": "加快油炸锅的速度！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Grill",
+    "value": "烤架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A rather fancy cooking grill.",
+    "value": "相当别致的烤肉架。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Grounded grill upon a metal grates.",
+    "value": "金属格栅上接地的烤架。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fire iss safe to cook with on this! Sssmart!",
+    "value": "在这上面用火做饭是安全的！机智如我！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excited. Grilled food is quite a treat on a hot summer's day.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ooh, anyone got any burgers?",
+    "value": "有人有汉堡吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A surface method of cooking. It simply could not exist underwater.",
+    "value": "烹饪的表面方法。它根本不可能存在于水下。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'm always up for barbecue!",
+    "value": "我总是准备烧烤！"
+  }
+]

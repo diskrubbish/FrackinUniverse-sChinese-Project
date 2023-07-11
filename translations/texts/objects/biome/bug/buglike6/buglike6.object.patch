@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The edges of this chitin are sharp enough to cut.",
+    "value": "这种甲壳的边缘非常锋利，足以用作切割工具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chitin Structure",
+    "value": "几丁质结构"
+  }
+]

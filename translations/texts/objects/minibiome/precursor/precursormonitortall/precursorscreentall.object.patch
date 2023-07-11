@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This interface has no clear indication of how to use it.",
+    "value": "这个接口没有任何明确的指示，来告知人们如何使用它。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Monitor",
+    "value": "大型显示器"
+  }
+]

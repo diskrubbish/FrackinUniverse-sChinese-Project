@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Be your own conductor!",
+    "value": "做你自己的指挥！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Train Head",
+    "value": "车头"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A tad outdated, but a joy to ride.",
+    "value": "有点过时了，但骑起来很开心。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This train has a shriller whistle than most Avians.",
+    "value": "这列火车的汽笛声比大多数翼族人都尖锐。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Choo-Choo!",
+    "value": "啾啾！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Awed. What a delightful machine!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's like a childhood dream come true!",
+    "value": "这就像童年的梦想成真！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Awfully noisy, isn't it?",
+    "value": "太吵了，不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Shame it's only a prop. I'd love to take this beauty out on a spin.",
+    "value": "可惜这只是个道具。我很想带这个美女出去转转。"
+  }
+]

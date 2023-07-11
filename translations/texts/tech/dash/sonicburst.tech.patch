@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;[Double-tap Up]^reset; to fire a sonic burst!",
+    "value": "^green;[双击上键]^reset;释放一次声波爆炸！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Sonic Burst",
+    "value": "声波爆发"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Gesundheit!",
+    "value": "格松海特！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tissue Box",
+    "value": "纸巾盒"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I hope these tissues can hold up to my sneezes...",
+    "value": "我希望这些纸巾能抵挡住我的喷嚏..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Avian nostrils aren't prone to mucus build up, thankfully.",
+    "value": "谢天谢地，翼族的鼻孔不容易粘液积聚。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssoft tissue paper.",
+    "value": "柔软纸巾。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgusted. Mucus...  being an Glitch does have its advantages",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I should probably keep some of these around, just in case.",
+    "value": "我可能应该留一些，以防万一。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Invaluable in times of ill health.",
+    "value": "在身体不好的时候非常宝贵。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "What's sneezin' like, anyhow? Sounds weird.",
+    "value": "不管怎样，打喷嚏是什么样子的？听起来很奇怪。"
+  }
+]

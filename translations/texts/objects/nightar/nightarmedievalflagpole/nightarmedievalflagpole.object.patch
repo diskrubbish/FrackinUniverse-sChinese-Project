@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A flagpole fit for topping any building.",
+    "value": "适合盖在任何建筑物顶部的旗杆。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medieval Flagpole",
+    "value": "中世纪旗杆"
+  }
+]

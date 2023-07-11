@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lethal when thrown, Hellfire nodules can also be used to create weapons.",
+    "value": "可以收获岩浆炸弹，那是一种致命的投掷物，另外它也是制作武器的绝佳材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hellfire Plant Seed",
+    "value": "地狱火藤蔓种子"
+  }
+]

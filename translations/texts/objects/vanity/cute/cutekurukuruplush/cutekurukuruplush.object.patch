@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute kurukuru plush from a Hylotl cartoon.",
+    "value": "一个可爱的克鲁克鲁毛绒玩具，来自一部鲛人漫画。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kurukuru Plushie",
+    "value": "克鲁克鲁毛绒玩具"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's a kurukuru. This one is just a toy thankfully.",
+    "value": "一个克鲁克鲁。值得庆幸的是，这家伙只是一个玩具而已。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The Hylotl made this after the hit show Sailor Kelp.",
+    "value": "鲛人在风靡一时的“水手凯洛普”播出后制造了它。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Toy isss pink. Isss thing alive?",
+    "value": "这个玩具是是粉红色的。它它它还活着吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. I wonder if these squeak.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's kurukuru!",
+    "value": "克鲁克鲁！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A plush based off of a character from Sailor Kelp",
+    "value": "一个毛绒玩具。它的原型是“水手凯洛普”中的一名人物。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Aww...",
+    "value": "哇......"
+  }
+]

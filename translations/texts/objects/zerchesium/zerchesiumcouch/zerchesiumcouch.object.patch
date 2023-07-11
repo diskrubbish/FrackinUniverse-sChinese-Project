@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A couch made from zerchesium.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Couch",
+    "value": "高熔点矿沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A standard couch.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A simple couch.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssit!",
+    "value": "座座座位！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. A couch. The Glitch occasionally like to sit.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A decent couch.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A basic couch, it serves its purpose.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A functionin' couch.",
+    "value": ""
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^green;Castle Takeshi",
+    "value": "^green;武士之城"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Ninjas in the employ of Shogun Takeshi have kidnapped the Hylotl princess Koto. Are you a bad enough dude to rescue the princess?",
+    "value": "琴乃公主被幕府武士雇用的忍者绑架了，你能顺利救她回来吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Storm Castle Takeshi and save Princess Koto!",
+    "value": "去往武士之城解救琴乃公主！"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "A thousand thanks! I will ensure that my father rewards you appropriately for your heroic efforts!",
+    "value": "万分感谢！我会保证我的父亲会奖赏你的！"
+  }
+]

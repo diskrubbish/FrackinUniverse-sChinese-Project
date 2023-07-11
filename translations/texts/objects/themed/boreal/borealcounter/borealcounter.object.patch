@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lovingly carved pine wood counter with a pot bellied stove. Enough firewood is key to surviving bitter winter nights.",
+    "value": "一个雕刻精美的松木柜台，带有一个锅肚炉。足够的木柴是熬过严冬的关键。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Boreal Counter",
+    "value": "北风柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An old wood burning stove. There's a cozy charm about it.",
+    "value": "一个烧木头的旧炉子。它有一种舒适的魅力。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This kind of stove must be invaluable in frigid regions.",
+    "value": "这种炉子在寒冷地区一定很值钱。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Metal door should keep Floran ssafe from fire inside.",
+    "value": "金属门应该防止叶族人内部着火。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. The crackling of the fire in this stove is calming.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like there's enough wood here to keep this fire going all night long!",
+    "value": "看来这里有足够的木材让这场大火持续一整夜！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A primitive source of heat, but charming nonetheless.",
+    "value": "一个原始的热源，但仍然很迷人。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A warm pot belly stove.",
+    "value": "暖暖的锅肚炉。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Vibrant, with sticky leaves.",
+    "value": "长有生机勃勃的黏黏的叶子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Green Flower",
+    "value": "绿色花种子"
+  }
+]

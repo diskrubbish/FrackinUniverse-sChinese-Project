@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pearlpeas, you'll need to bite down hard.",
+    "value": "珍珠豆，你得咬紧点。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pearlpea Basket",
+    "value": "珍珠豆篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A crunchy pea leads to many broken teeth.",
+    "value": "一颗松脆的豌豆会导致许多牙齿折断。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Pearlpeas are pleasant enough to peck at for a while.",
+    "value": "珍珠豆很好吃，可以啄一会儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hard little ballsss. Floran once usssed as a weapon.",
+    "value": "一种坚硬的小圆球。曾经被叶族人用作武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Proud. Glitch teeth make short work of pearlpeas.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Like a pea, with added toothache.",
+    "value": "像豌豆一样，牙疼。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Delicious, crunchy peas. Fairly valuable underwater.",
+    "value": "美味的脆豌豆。水下很有价值。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Pearlpeas are perfect for loadin' into my pistol! Pew pew!",
+    "value": "珍珠豆最适合装进我的手枪里！biu！biu！"
+  }
+]

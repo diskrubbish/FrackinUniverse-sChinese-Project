@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sulphuric rocks.",
+    "value": "硫磺岩。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sulphuric rocks.",
+    "value": "硫磺岩。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table made from irradium.",
+    "value": "用镭矿制成的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Table",
+    "value": "镭素桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This table seems dangerous to use.",
+    "value": "这张桌子使用起来似乎很危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This can't be safe, can it?!",
+    "value": "这不安全，是吗？！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Odd table. Makesss Floran feel sssick!",
+    "value": "奇怪的桌子。让叶族人感到恶心！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. I really don't think this is safe.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I don't think I can use this table.",
+    "value": "我想我不能用这张桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'm not entirely sure how this is safe.",
+    "value": "我不完全确定这是如何安全的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This table seems mighty unsafe.",
+    "value": "这张桌子看起来很不安全。"
+  }
+]

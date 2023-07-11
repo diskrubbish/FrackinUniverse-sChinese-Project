@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A couch made from irradium.",
+    "value": "用镭矿制成的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Couch",
+    "value": "镭素沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This couch seems dangerous to use.",
+    "value": "这张沙发使用起来似乎很危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This can't be safe, can it?!",
+    "value": "这不安全，是吗？！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Odd couch. Makesss Floran feel sssick!",
+    "value": "奇怪的沙发。让叶族人感到恶心！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. I really don't think this is safe.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I don't think I can use this couch.",
+    "value": "我想我不能用这张沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'm not entirely sure how this is safe.",
+    "value": "我不完全确定这是如何安全的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This couch seems mighty unsafe.",
+    "value": "这张沙发看起来很不安全。"
+  }
+]

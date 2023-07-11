@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's a trough for feeding livestock.",
+    "value": "这是给牲畜喂食的食槽。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Trough",
+    "value": "大食槽"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A wooden trough. It's empty.",
+    "value": "一个木质食槽。空的"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An empty wooden container.",
+    "value": "一个空的木质容器。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssmell food here.",
+    "value": "叶族人嗅嗅到了食物的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Bored. A trough, like many used for feeding livestock.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "One of those things used for feeding livestock. I forget its name.",
+    "value": "这是用来喂养牲畜的东西。我忘了它的名字。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Some kind of food container. Perhaps used for feeding animals.",
+    "value": "某种食物容器。也许是用来喂养动物的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A perfect place to feed a mighty steed. Or just livestock.",
+    "value": "能够养活一匹骏马的完美地方。或者牲畜(小声)。"
+  }
+]

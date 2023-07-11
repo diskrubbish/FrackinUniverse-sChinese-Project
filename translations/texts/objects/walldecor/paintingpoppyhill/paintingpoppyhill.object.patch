@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sometimes simple paintings are the best.",
+    "value": "有时候简单的画是最好的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "\"Poppy Hill\"",
+    "value": "“罂粟山”"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A charming field of painted poppies.",
+    "value": "一片迷人的彩绘罂粟地。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What a darling painting! It sets the mind at ease.",
+    "value": "多可爱的画啊！它让人安心。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty poppiesss.",
+    "value": "漂亮的罂粟花。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. The strokes in this painting are masterfully done.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Aw, what a cute little field!",
+    "value": "啊，多么可爱的一小块田地啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such sights make surface dwelling worth living.",
+    "value": "这样的景观使地面住宅值得居住。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "You ain't got care in the world sittin' in a field of flowers like this.",
+    "value": "坐在这样一片鲜花盛开的田野里，你根本不在乎。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Draconic flight activated with ^green;[F]^reset;.",
+    "value": "按^green;[F]^reset;启动龙翼滑翔。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Elduu'khar Flight",
+    "value": "厄休安飞行"
+  }
+]

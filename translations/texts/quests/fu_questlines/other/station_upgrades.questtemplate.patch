@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Station Upgrade tracker",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "This isn't visible",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "You shouldn't be able to see this in your log.",
+    "value": ""
+  }
+]

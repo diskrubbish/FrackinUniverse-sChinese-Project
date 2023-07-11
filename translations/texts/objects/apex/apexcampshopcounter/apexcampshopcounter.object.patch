@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The counter of an arms dealer. He fits you with weapons. And some of them in the form of words!",
+    "value": "军火商的柜台。他给你配备了武器。还有一些是以文字的形式出现的！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shop Counter, Apex Camp",
+    "value": "猿人营地的商店柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Disreputable arms dealers are sometimes all us resistance members have access to.",
+    "value": "声名狼藉的军火商们有时是我们抵抗军成员可以接触到的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Apex rebels are second only to penguins in illegal weapons distributions.",
+    "value": "在非法分发武器方面，猿人反抗军仅次于企鹅。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran feels like a kid in a candy store!",
+    "value": "叶族人感觉就像一个进了糖果店的孩子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disturbed. The desperate ferocity Apex rebels display is rather frightening.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "There's all kinds of weapons here, but its mostly explosives.",
+    "value": "这里有各种各样的武器，但大部分是炸药。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Only when their arms are sufficient beyond doubt, can they never be employed again...",
+    "value": "只有当他们的武装足够强大，毫无疑问，他们才能永远不再被雇佣..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Armed to the teeth ain't they?",
+    "value": "他们全副武装，不是吗？"
+  }
+]

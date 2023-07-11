@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large pretty storage cabinet.",
+    "value": "一个漂亮的大型存储柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Aether Cabinet",
+    "value": "宇宙以太柜"
+  }
+]

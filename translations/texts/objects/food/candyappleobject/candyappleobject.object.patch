@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "All the nutritious value of an apple masked by globs of sweet, sweet sugar.",
+    "value": "一个苹果的所有营养价值都被甜的糖衣包裹着。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Candy Apple",
+    "value": "糖果苹果"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssilly apple, you're not candy! You can't fool Floran!",
+    "value": "傻苹果，你不是糖果！你骗不了叶族人！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Destitute. Any nutritional value that might've been in this apple has been canceled out.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Careful not to let it stick to nothin'.",
+    "value": "小心别让它粘在一起。"
+  }
+]

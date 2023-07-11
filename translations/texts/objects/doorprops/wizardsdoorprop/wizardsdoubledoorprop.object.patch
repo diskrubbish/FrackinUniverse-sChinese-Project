@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The sort of doors you'd see leading to a wizard's study.",
+    "value": "那种通向巫师书房的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wizard's Double Door Prop",
+    "value": "巫师双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Though wooden, these doors are strong.",
+    "value": "这些门虽然是木制的，但很结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These doors are much stronger than they look.",
+    "value": "这些门比它们看起来要坚固得多。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Doors sso sstrong.",
+    "value": "门太坚固了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Proud. These door are reinforced to make them more secure.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Heavy doors with barred windows.",
+    "value": "门很重，窗户都装了栅栏。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The perfect doors for a defensive structure.",
+    "value": "防御性建筑的完美门户。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Solid, sturdy doors.",
+    "value": "坚固，牢固的门。"
+  }
+]

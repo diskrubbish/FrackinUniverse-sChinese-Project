@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rice! For all your culinary needs.",
+    "value": "米饭！满足你所有的烹饪需求。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rice Basket",
+    "value": "饭篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Rice. A great addition to any meal.",
+    "value": "米饭。对任何一顿饭来说都是很好的补充。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Rice, a delicious snack to peck at.",
+    "value": "米饭，一种美味的小吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran prepare rice as nice side dish for boiled heartsss.",
+    "value": "叶族人准备米饭作为煮过的心的美味配菜。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. A Glitch once ate uncooked rice and launched a successful career as a percussion instrument.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Rice. Good for when you're hungry and want to eat thousands of something.",
+    "value": "米饭。当你饿了，想吃上千种东西的时候，这是个不错的选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Rice. Bland tasting, but serviceable. A simple base for a meal.",
+    "value": "米饭。口感平淡，但很实用。一顿饭的简单底座。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Rice is alright once in a while. Perfect with chilli!",
+    "value": "米饭偶尔也不错。与辣椒完美搭配！"
+  }
+]

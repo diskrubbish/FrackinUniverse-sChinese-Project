@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This strange lamp emits a low green light.",
+    "value": "这盏奇怪的灯发出微弱的绿光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Lamp Pod",
+    "value": "蚁族灯箱"
+  }
+]

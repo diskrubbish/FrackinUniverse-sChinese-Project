@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A plush toy of Trixie, founder of Burger Fool's beloved pet and company mascot.",
+    "value": "Trixie的毛绒玩具，Burger Fool宠爱的宠物和公司吉祥物的创始人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Trixie Plush",
+    "value": "Trixie毛绒玩具"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A trictus doll! It's soft, of course.",
+    "value": "一个诡行仙玩偶！当然是软的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This doll shares a color scheme with the Burger Fool chain.",
+    "value": "这个娃娃和汉堡傻瓜连锁店有着相同的配色方案。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran thought they made friends with Trictusss once. Turned out to be roomate's cactuss planter.",
+    "value": "叶族人认为他们曾经和三角帆交过朋友。原来是室友的仙人掌种植者。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Trictus are actually fairly cute if you ignore the spines. And the  claws. And the man-eating.",
+    "value": "事实上，如果你忽略了刺的话，它是相当可爱的。还有爪子。还有吃人。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "For something that comes as a toy from a fast food chain, this doll is surprisingly high quality.",
+    "value": "对于一些来自快餐连锁店的玩具来说，这个娃娃的质量出人意料地高。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Can't say a Trictus is the first thing that comes to mind when ya think of \"cuddly\".",
+    "value": "不能说当你想到“拥抱”的时候，首先想到的是一个三角肌。"
+  }
+]

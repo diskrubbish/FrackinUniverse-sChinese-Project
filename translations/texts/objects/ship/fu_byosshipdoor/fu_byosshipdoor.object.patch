@@ -1,0 +1,92 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A door suitable for a spaceship.",
+    "value": "一扇适用于飞船的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ship Door",
+    "value": "飞船门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Doors like this are common on ships.",
+    "value": "这种门在飞船上非常普遍。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A spaceship door.",
+    "value": "一扇飞船门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssspaceship door.",
+    "value": "飞飞飞船门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informed. A standard ship door.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A spaceship door.",
+    "value": "一扇飞船门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A basic ship door.",
+    "value": "一扇基础的飞船门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A door, the type you'd find on a ship.",
+    "value": "一扇门，你可以在飞船上找到的那种。"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "Radicool!  A state-of-the-art dual-sliding door!",
+    "value": "好酷！这扇双边滑动门简直就是艺术的一种形式！"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "For keeping the plebs out.",
+    "value": "用于将平民隔绝在外。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Just a typical spaceship door.",
+    "value": "只是一个典型的飞船门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avikanDescription",
+    "raw": "A strong door from home, built for use on ships.",
+    "value": "一种从家里来的坚固的门，为船上使用而建造。"
+  },
+  {
+    "op": "replace",
+    "path": "/trinkDescription",
+    "raw": "An efficient way to seal off an entire ship compartment.",
+    "value": "一种有效的密封整个船舶舱室的方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/drodenDescription",
+    "raw": "Detected door. Analysis: Ship model.",
+    "value": "检测到门。分析：船舶模型。"
+  }
+]

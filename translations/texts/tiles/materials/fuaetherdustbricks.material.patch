@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crafted bricks made from compressed aether dust.",
+    "value": "由压缩以太尘精心制成的砖块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Dust Bricks",
+    "value": "以太尘砖块"
+  }
+]

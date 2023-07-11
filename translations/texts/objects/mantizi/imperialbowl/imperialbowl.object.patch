@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A simple wooden bowl.",
+    "value": "一个简单的木制碗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Bowl",
+    "value": "甲虫碗"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple, clean bowl.",
+    "value": "一个简单、干净的碗。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Food appears to be eaten from this.",
+    "value": "食物似乎是从这里吃的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bowl too sssmall for Floran appetite.",
+    "value": "碗太小，不适合叶族人的胃口。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. A simple bowl. Likely made from wood.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A little bowl, it feels like wood.",
+    "value": "一个小碗，摸起来像木头。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What do the Mantizi eat, I wonder?",
+    "value": "我想知道甲虫族吃什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "It's a bowl, big deal.",
+    "value": "这是一个碗，很重要。"
+  }
+]

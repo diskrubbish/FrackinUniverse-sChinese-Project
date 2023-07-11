@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Grey Slate Stone",
+    "value": "灰色板岩石"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Smooth gray stone",
+    "value": "光滑的灰色石头"
+  }
+]

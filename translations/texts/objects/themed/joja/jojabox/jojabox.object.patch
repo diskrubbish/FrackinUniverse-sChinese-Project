@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A blue cardboard box, adorned with an ominous blue \"J\".",
+    "value": "一个蓝色纸箱，上面装饰着不祥的蓝色“J”。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^blue;Joja^reset; Box",
+    "value": "^blue;Joja^reset;盒子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A delivery box. But of what?",
+    "value": "一个投递箱。但是里面是什么呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A blue package, left unopened.",
+    "value": "一个蓝色的包裹，没有打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "What iss in pretty blue box?",
+    "value": "漂亮的蓝色盒子里有什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. What is a package doing out here? Is it for me...?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I didn't even know they made blue cardboard.",
+    "value": "我甚至不知道他们做的是蓝色纸板。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Whoever shipped this package out certainly is dedicated to their branding.",
+    "value": "无论是谁把这个包裹运出，肯定都是为了他们的品牌。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Well don't mind if I do.",
+    "value": "好吧，如果我这么做的话，请不要介意。"
+  }
+]

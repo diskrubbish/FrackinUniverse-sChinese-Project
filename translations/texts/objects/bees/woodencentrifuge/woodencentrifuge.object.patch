@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An effective device for extraction involving liquids.",
+    "value": "可用于液体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Wooden Centrifuge^reset;",
+    "value": "^cyan;木制离心机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Centrifuge",
+    "value": "离心机"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This should be perfect for tool storage.",
+    "value": "这应该是最完美的工具存放装置了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#e43774;Toolbox^reset;",
+    "value": "^#e43774;工具箱^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A flag used to identify the Fenerox uplifted by the Kirhosi. Use ^green;[E]^reset; to bookmark a teleportation location.",
+    "value": "鼠族举起了用来识别耳廓狐的旗帜。使用^green;[E]^reset;为远程传送位置添加书签。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fenerox Flag",
+    "value": "耳廓狐旗"
+  }
+]

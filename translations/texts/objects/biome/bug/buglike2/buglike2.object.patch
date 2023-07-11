@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I wonder if this could be worn as protection?",
+    "value": "我想知道这能不能提供保护？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chitin Structure",
+    "value": "几丁质结构"
+  }
+]

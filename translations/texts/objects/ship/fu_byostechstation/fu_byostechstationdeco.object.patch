@@ -1,0 +1,140 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short. Does not come with a pet.",
+    "value": "基于船舶的人工智能系统， 或简称为S.A.I.L。没有宠物同来。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "S.A.I.L Interface",
+    "value": "S.A.I.L 控制面板"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I can talk to SAIL through this console.",
+    "value": "我能通过这个面板和SAIL进行交流。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I can use this station to talk to S.A.I.L..",
+    "value": "我可以利用这个电台和S.A.I.L.通话。。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran use thisss magic panel to talk to S.A.I.L.!",
+    "value": "叶族人用这个魔法面板和S.A.I.L.说话。！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. This station allows me to talk to S.A.I.L..",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This station allows me to communicate with S.A.I.L..",
+    "value": "该站允许我与S.A.I.L.通信。。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This console allows me to communicate with S.A.I.L..",
+    "value": "此控制台允许我与S.A.I.L.进行通信。。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This here station lets me talk with S.A.I.L..",
+    "value": "这个站点让我和S.A.I.L.通话。。"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "I can use this to load up on augs or chat with S.A.I.L., if I get lonely.",
+    "value": "如果我感到孤独的话，我可以用它来加载augs或与S.A.I.L聊天。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "I can mess with my techs here, as well as talk to the AI, S.A.I.L.",
+    "value": "我可以在这里弄一弄我的科技，也可以与SAIL交谈。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A tech station - S.A.I.L displays data in both 'visible' and infrared light best suited for Peglaci eyes.",
+    "value": "一个科技站-S.A.I.L用最适合企鹅族眼睛的可见光和红外光显示数据。"
+  },
+  {
+    "op": "replace",
+    "path": "/shadowDescription",
+    "raw": "This reminds me of the One.",
+    "value": "这让我想起了唯一者。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "My friend.",
+    "value": "我的朋友。"
+  },
+  {
+    "op": "replace",
+    "path": "/aegiDescription",
+    "raw": "This panel allows for interaction with S.A.I.L., the ship-based AI.",
+    "value": "该面板允许与基于船舶的人工智能S.A.I.L.进行交互。"
+  },
+  {
+    "op": "replace",
+    "path": "/avikanDescription",
+    "raw": "The Nomada doesn't like AIs like S.A.I.L., but the Protectorate insisted on installing it.",
+    "value": "Momada不像S.A.I.L.那样喜欢人工智能，但大地守护团坚持要安装它。"
+  },
+  {
+    "op": "replace",
+    "path": "/draunaarDescription",
+    "raw": "A station for interacting with S.A.I.L..",
+    "value": "与S.A.I.L.互动的站点。。"
+  },
+  {
+    "op": "replace",
+    "path": "/trinkDescription",
+    "raw": "I can speak to S.A.I.L. using this console. It's good to have another AI on the ship.",
+    "value": "我可以用这个控制台和S.A.I.L.通话。船上有另一台人工智能真好。"
+  },
+  {
+    "op": "replace",
+    "path": "/hymidDescription",
+    "raw": "This console allows for interaction with S.A.I.L.. It's nice to have someone to talk to.",
+    "value": "此控制台允许与S.A.I.L.进行交互。。有人聊天真好。"
+  },
+  {
+    "op": "replace",
+    "path": "/notixDescription",
+    "raw": "S.A.I.L. is one companion who will never fail you.",
+    "value": "S.A.I.L.是一个永远不会让你失望的伴侣。"
+  },
+  {
+    "op": "replace",
+    "path": "/jorgasianDescription",
+    "raw": "A console for communicating with S.A.I.L..",
+    "value": "与S.A.I.L.通信的控制台。。"
+  },
+  {
+    "op": "replace",
+    "path": "/drodenDescription",
+    "raw": "Detected S.A.I.L. interface. Console enables communication with S.A.I.L..",
+    "value": "检测到S.A.I.L.接口。控制台支持与S.A.I.L.的通信。。"
+  },
+  {
+    "op": "replace",
+    "path": "/akkimariDescription",
+    "raw": "Interface-S.A.I.L.. Akki talk to ship here.",
+    "value": "接口-S.A.I.L。。Akki在这里和船通话。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An Nightar chandelier. A good way to light a large castle room.",
+    "value": "夜族吊灯。照亮城堡大房间的好方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Chandelier",
+    "value": "夜族吊灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This chandelier's flames are strangely calming.",
+    "value": "这盏枝形吊灯的火焰异常平静。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A modern touch to a classic design.",
+    "value": "经典设计的现代感。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssstrange fire makesss Floran nervouss.",
+    "value": "这场神秘大火让叶族人神经紧张。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Comforted. A chandelier; this simple light source feels like home.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This could fall down and crush someone.",
+    "value": "这可能会掉下来压碎某人。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This chandelier bathes its surroundings in a cool glow.",
+    "value": "这盏枝形吊灯将周围环境沐浴在凉爽的辉光中。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Are those even flames?",
+    "value": "那些是火焰吗？"
+  }
+]

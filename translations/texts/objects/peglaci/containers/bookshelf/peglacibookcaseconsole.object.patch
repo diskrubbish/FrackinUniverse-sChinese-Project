@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A console containing a variety of digitized books.",
+    "value": "包含各种数字化书籍的控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Bookcase Console",
+    "value": "合金书架控制台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "So many books - something like this would be inconceivable under the Miniknog.",
+    "value": "这么多的书-像这样的东西在科技发展部下是不可想象的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Such a vast collection of knowledge is valuable.",
+    "value": "如此丰富的知识是有价值的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bah! Wordsss on the screen. Not food, not interesssted.",
+    "value": "呸！屏幕上的单词。没有食物，没有兴趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. A terminal connecting to a repository of knowledge.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "All kinds of books right at my fingertips! I wonder if I can play games on it...",
+    "value": "各种各样的书就在我指尖！我想知道我是否可以在上面玩游戏..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "For whatever else they do, the Peglaci have an admirable respect for knowledge.",
+    "value": "无论他们做什么，羊蹄族对知识都有令人钦佩的尊重。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A book case. There's a lot of self-help books here...",
+    "value": "书柜。这里有很多自助书籍..."
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A data terminal that accesses a portion of the Peacekeeper databanks, collecting knowledge from across the galaxy.",
+    "value": "一种数据终端，访问和平卫士数据库的一部分，从整个银河系收集知识。"
+  }
+]

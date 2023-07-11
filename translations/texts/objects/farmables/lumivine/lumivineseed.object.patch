@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The fortitude of these leaves is, frankly, incredible.",
+    "value": "这些叶子的坚硬程度，坦白地说，难以置信。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lumivine Seed",
+    "value": "卢蒂海带种子"
+  }
+]

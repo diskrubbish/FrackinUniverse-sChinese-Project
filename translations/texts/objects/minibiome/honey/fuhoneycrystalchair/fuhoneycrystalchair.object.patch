@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A honey crystal chair. Fit for a monarch.",
+    "value": "一个蜂蜜水晶椅子。适合当做国王的宝座。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Crystal Chair",
+    "value": "蜂蜜水晶椅子"
+  }
+]

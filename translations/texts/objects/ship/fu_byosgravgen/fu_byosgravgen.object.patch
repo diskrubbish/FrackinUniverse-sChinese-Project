@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Generates a gravity field on your ship. Has a range of 80 blocks. ^blue;Input^reset;1: On/Off Switch.",
+    "value": "在你的飞船上生成一片重力力场。拥有30格的范围。\n^blue;输入：^reset;开/关。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Ship Gravity Generator^reset;",
+    "value": "^orange;飞船重力发生器^reset;"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This workstation has everything; cutting board, knife sharpening, waste disposal and tap!",
+    "value": "这里有你一切需要的东西，切割板，磨刀石，垃圾处理器，当然也有水龙头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Culinary Station^reset;",
+    "value": "^orange;烹饪台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Wait, does that food preparation station have its own fume hood?",
+    "value": "等等，有抽油烟机吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's like a stainless steel canvas of cooking possibilities!",
+    "value": "它上面好像有很多油渍？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "It has a ssssharpener for ssstabbies! Also sssstabbing board, best table!",
+    "value": "它有一块磨刀刀刀石，这真是太棒了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wistful. It's a far cry from the castle pantry from the cycles I was a maid.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Is that a dissection table or a kitchen counter?",
+    "value": "一个多层桌子，还是橱柜？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It'll suffice, but as they say, it is the artist, not his tools, that makes it perfection.",
+    "value": "只有艺术家才能作出完美的作品，而不是作出完美的工具，看来羽族很好的贯彻了这一观念。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I could cook up a storm on this 'ere thing.",
+    "value": "我会把烹饪过程变得乱糟糟的。"
+  }
+]

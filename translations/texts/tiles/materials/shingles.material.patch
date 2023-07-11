@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy wooden shingles.",
+    "value": "坚固的木质屋顶板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wooden Shingles",
+    "value": "木质屋顶板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. Some basic shingles for roofing.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssshingles are ssstrong.",
+    "value": "这些顶顶顶板真结结结结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some mighty sturdy roof shingles.",
+    "value": "一些坚固的屋顶板。"
+  }
+]

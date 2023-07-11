@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bed made from cultivated crystal.",
+    "value": "一张由人工水晶制成的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Bed",
+    "value": "水晶床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An opulent bed.",
+    "value": "一张极度奢华的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The crystals this is made out of are beautiful.",
+    "value": "制成它的水晶可真美。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes to sssleep.",
+    "value": "叶族人喜欢睡睡睡觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. This bed looks beautiful.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty bed.",
+    "value": "一张漂亮的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This seems comfortable.",
+    "value": "看起来很舒适。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Good a place as any to take a nap.",
+    "value": "这是个打盹的好地方。"
+  }
+]

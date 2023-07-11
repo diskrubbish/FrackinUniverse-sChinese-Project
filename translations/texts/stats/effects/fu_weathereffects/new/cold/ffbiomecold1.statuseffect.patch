@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Mild Cold (Resist: ^#77f4ff;Ice^reset;)",
+    "value": "温和寒冷 (抵抗: ^#77f4ff;寒气^reset;)"
+  }
+]

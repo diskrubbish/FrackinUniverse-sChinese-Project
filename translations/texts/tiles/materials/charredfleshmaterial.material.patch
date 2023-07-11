@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Charred, crisping flesh.",
+    "value": "被烧焦的骨骸上还残留着烤得无比酥脆的肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Charred Flesh",
+    "value": "焦肉"
+  }
+]

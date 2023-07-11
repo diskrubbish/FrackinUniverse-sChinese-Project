@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "All your data, now in bar form!",
+    "value": "你所有的数据现在都是条形的！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bar Graph",
+    "value": "条形图"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It seems orderly enough, but the actual data is on how tall each of these bars are...",
+    "value": "这看起来很有序，但实际数据是关于每根钢筋的高度。。。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Colorful, but not very engaging, is it?",
+    "value": "五颜六色，但不是很吸引人，是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Colorful barss.",
+    "value": "五颜六色的条形。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. According to this graph, the middle bar is the tallest.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "As you can see by this graph- ... ahem. GRAPH-",
+    "value": "正如你从这张图中看到的。。。嗯哼。图表-"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Perhaps the simplest and most efficient way to communicate data.",
+    "value": "也许是最简单、最有效的数据通信方式。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Pictures make for easier understandin' than numbers, I reckon.",
+    "value": "我认为图片比数字更容易理解。"
+  }
+]

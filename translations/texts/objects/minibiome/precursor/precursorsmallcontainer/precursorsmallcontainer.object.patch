@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy and of ancient design. Stores a lot for so small a space.",
+    "value": "坚固。古老的设计风格。小体型大容量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Precursor Container",
+    "value": "小型先驱容器"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Two candles made with clear beeswax.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Two Ghostly Candles",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Two small candles.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Avian priests often work by candlelight.",
+    "value": "翼族的牧师经常在烛光下工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hsss take it away!",
+    "value": "不不不喜欢，给叶族人拿开！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Explanation. The Glitch do not yet have the technology to produce electric lights.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Pretty little candles.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Little is as beautiful as the flickering of a candle flame.",
+    "value": "如此小的蜡烛却有如此美丽的火焰。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Neat lil candles.",
+    "value": ""
+  }
+]

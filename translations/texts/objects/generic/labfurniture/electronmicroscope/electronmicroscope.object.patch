@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Examine things really, really close up.",
+    "value": "观察某些细微的物质！放大，放大，再放大！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Electron Microscope",
+    "value": "电子显微镜"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Inspect Bees & Items",
+    "value": "观察蜜蜂&物品"
+  }
+]

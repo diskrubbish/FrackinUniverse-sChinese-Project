@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An end table made from lunari.",
+    "value": "由月晶制成的餐桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari End Table",
+    "value": "月晶餐桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An extremely bright end table.",
+    "value": "非常明亮的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the sun.",
+    "value": "这让我想起了太阳。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Tiny sssunssshine table!",
+    "value": "小小的闪光桌子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uncomfortable. This end table almost fries my optics.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This end table is like a star!",
+    "value": "这张桌子就像一颗星星！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This end table almost reminds me of the sun.",
+    "value": "这张餐桌几乎让我想起了太阳。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This end table is brighter than me!",
+    "value": "这张桌子比我还耀眼！"
+  }
+]

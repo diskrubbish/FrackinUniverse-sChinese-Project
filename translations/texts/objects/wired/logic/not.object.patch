@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A /'NOT'/ gate. Inverts the input on the circuit.",
+    "value": "一个非门。输入结果总是与输出结果相反。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NOT Gate",
+    "value": "非门"
+  }
+]

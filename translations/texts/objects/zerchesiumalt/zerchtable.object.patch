@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table made from polished zerchesium.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Table",
+    "value": "高熔点矿表"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A sleek, simple table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This table has a very simple design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likesss ssshiny table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A sleek table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This table looks nice and sleek.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The simplicity of the design is pleasing to the eyes.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This table is mighty simple.",
+    "value": ""
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Broken, but once was a gloriously huge display.",
+    "value": "已损坏，但曾经是一个分外壮观的巨型显示器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Huge Broken Monitor",
+    "value": "损坏的巨型显示器"
+  }
+]

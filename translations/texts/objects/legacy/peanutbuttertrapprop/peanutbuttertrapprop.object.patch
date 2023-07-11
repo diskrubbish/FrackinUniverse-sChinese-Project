@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This could attract anything... Anything but a Jelly, that is.",
+    "value": "这可以吸引任何东西...除了果冻什么都可以。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peanut Butter Trap",
+    "value": "花生酱陷阱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A peanut butter trap. I wonder what this could catch?",
+    "value": "花生酱陷阱。我想知道这能钓到什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A trap with peanut butter. Tasty and deadly.",
+    "value": "花生酱陷阱。美味而致命。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran use peanut sssquishy to catch thing!",
+    "value": "叶族人用花生泥抓东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Sceptical. Surely only a tiny creature will be lured in by this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "If I'm not careful, I'll get caught in this trap myself.",
+    "value": "如果我不小心的话，我自己也会被困在这个陷阱里。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A peanut butter trap. I bet this won't attract a thing.",
+    "value": "花生酱陷阱。我打赌这不会吸引任何东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "What creature would fall for a trap like this? Let's wait and find out I guess.",
+    "value": "什么生物会落入这样的陷阱？让我们等着看吧，我想。"
+  }
+]

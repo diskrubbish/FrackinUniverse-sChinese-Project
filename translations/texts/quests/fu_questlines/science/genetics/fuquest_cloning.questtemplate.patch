@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Cloning Trees",
+    "value": "克隆树木"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "^orange;Cloning Labs^reset; have one single purpose: Making custom trees. Place one sapling on the left, one on the right and you're good to go!",
+    "value": "^orange;树木克隆仪^reset;唯一的用途：复制出你所需的树木。将目标树苗放在右侧，而材料树苗则放在左侧，然后就可以获得更多的目标树苗！"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "^orange;Cloning Labs^reset; have one single purpose: Making custom trees. Place one sapling on the left, one on the right and you're good to go!",
+    "value": "^orange;树木克隆仪^reset;唯一的用途：复制出你所需的树木。将目标树苗放在右侧，而材料树苗则放在左侧，然后就可以获得更多的目标树苗！"
+  }
+]

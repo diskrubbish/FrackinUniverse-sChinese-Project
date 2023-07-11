@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pie with a delightfully flakey crust.",
+    "value": "一块令人愉快的片状外壳的馅饼。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pie",
+    "value": "馅饼"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ah, this pie smells divine.",
+    "value": "啊，这个馅饼闻起来好极了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What a fine smelling pie! I wonder what flavor it is?",
+    "value": "多香的馅饼啊！我想知道它是什么味道？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hopes it's meatss pie.",
+    "value": "叶族人希望这是肉馅派。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Blissful. A delicious pie. Whatever flavor it is, it smells delightful.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Is it too hot to cut yet? I might be willing to risk it.",
+    "value": "天气这么热还不剪？是我的话早就剪了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A pie. It seems to have just come out of the oven.",
+    "value": "馅饼。它好像刚从烤箱里出来。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A real sweet treat right there.",
+    "value": "真是一次甜蜜的款待。"
+  }
+]

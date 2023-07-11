@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A solar panel.",
+    "value": "一块太阳能电池。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Solar Panel Block",
+    "value": "太阳能电池模块"
+  }
+]

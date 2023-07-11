@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Beakseed and dried corn. A common Avian trail mix, or breakfast cereal.",
+    "value": "种子和干玉米。一种常见的翼族痕迹混合物，或早餐麦片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corn Peckers",
+    "value": "啄玉米鸟"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Crunchy birdman cereal.",
+    "value": "松脆的鸟人麦片。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. This cereal is almost entirely nuts and kernels. Truly a meal fit for birds.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This cereal ain't particularly fillin'...",
+    "value": "这种麦片粥不是特别好吃..."
+  }
+]

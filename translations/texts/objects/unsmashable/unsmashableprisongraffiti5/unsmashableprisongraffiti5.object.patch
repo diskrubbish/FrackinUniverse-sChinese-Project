@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Graffiti. The writer seems somewhat peeved. Unbreakable!",
+    "value": "涂鸦。这位作家似乎有点生气。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Graffiti",
+    "value": "涂鸦"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I wonder who this graffiti refers to.",
+    "value": "我不知道这涂鸦指的是谁。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The poor writer.",
+    "value": "可怜的作家。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran is sssure the person came back. It's a happy ssstory, probably.",
+    "value": "叶族人确信那个人回来了。这可能是一个快乐的故事。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Sympathetic. Perhaps the writer should have been careful what they wished for.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This is like something out of a horror movie.",
+    "value": "这就像恐怖电影里的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "You can never count on anyone in this world.",
+    "value": "在这个世界上，你永远不能指望任何人。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Dramatic.",
+    "value": "戏剧性的"
+  }
+]

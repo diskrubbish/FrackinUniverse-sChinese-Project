@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy television made by the Skath.",
+    "value": "绘世者制造的结实的电视机。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath TV",
+    "value": "绘世者电视"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A rare glimpse at Skath culture beyond their military.",
+    "value": "在他们的军队之外，对绘世者文化的罕见一瞥。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wonder what entertainment the Skath enjoy?",
+    "value": "我想知道绘世者喜欢什么娱乐？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran triesss to lift bix box. Box iss too heavy. Floran disssappointed.",
+    "value": "叶族人试着提起bix盒子。箱子太重了。叶族人说。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unimpressed. While durable, this television is hardly more advanced than what is available to most races.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Skath TV shows? I should check them out.",
+    "value": "绘世者电视节目？我应该去看看。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I don't think the Skath have any television shows that would interest me.",
+    "value": "我认为绘世者没有我感兴趣的电视节目。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A sturdy lookin' TV.",
+    "value": "外观结实的电视机。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "When not at work Skath enjoy a variety of TV shows, most popularly Her'Lur'cs Palace. I could never compete at that level.",
+    "value": "不上班的时候，绘世者喜欢看各种各样的电视节目，最受欢迎的是她的“Lur”cs宫殿。我永远无法在那个水平上竞争。"
+  }
+]

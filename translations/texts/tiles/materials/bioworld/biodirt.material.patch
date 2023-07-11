@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Alive with potential, this soil is fertile and mildly mutagenic.",
+    "value": "这种被轻度诱变的土壤很肥沃，充满生机与活力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proto Soil",
+    "value": "原体土块"
+  }
+]

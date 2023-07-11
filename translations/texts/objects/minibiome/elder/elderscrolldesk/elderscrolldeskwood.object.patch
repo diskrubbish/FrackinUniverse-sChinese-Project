@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "Linguistics Table",
+    "value": "语言学桌"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A good place to sit and translate unknown languages.",
+    "value": "一个坐下来翻译未知语言的好地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Linguistics Table",
+    "value": "语言学桌"
+  }
+]

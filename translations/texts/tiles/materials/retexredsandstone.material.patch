@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Monumental!",
+    "value": "不朽！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Red Sandstone",
+    "value": "红砂岩"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A red variant of sandstone.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssandstone.",
+    "value": "这是砂砂砂岩。"
+  }
+]

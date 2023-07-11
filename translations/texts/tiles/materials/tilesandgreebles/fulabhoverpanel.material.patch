@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "High-tech composite material.",
+    "value": "高科技复合材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tek Composite",
+    "value": "高科技复合梁"
+  }
+]

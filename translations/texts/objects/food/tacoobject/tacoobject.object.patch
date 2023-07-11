@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A corn tortilla filled with veggies and meat.",
+    "value": "装满蔬菜和肉的玉米玉米饼。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Taco",
+    "value": "墨西哥玉米薄饼卷"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Tacoss!",
+    "value": "墨西哥玉米！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. This taco is filled with just the right ratio of meat to  vegetables.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'm more a burrito kind of fella myself.",
+    "value": "我自己更喜欢吃玉米煎饼。"
+  }
+]

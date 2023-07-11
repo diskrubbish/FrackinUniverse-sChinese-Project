@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A graffiti warning. Unbreakable!",
+    "value": "涂鸦警告。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "'No Way Out' Graffiti",
+    "value": "【没有出路】-涂鸦"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Hmm, do I trust something written in graffiti?",
+    "value": "我相信涂鸦写的东西吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "But what if it isn't a lie?",
+    "value": "但如果这不是谎言呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran knowsss.",
+    "value": "叶族人知道。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Worried. If this graffiti is true I am in trouble.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Who ever believed something they read on a wall?",
+    "value": "谁曾相信他们在墙上读到的东西？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I don't think much of graffitied omens.",
+    "value": "我不太喜欢涂鸦的预兆。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Hmm is this for real?",
+    "value": "这是真的吗？"
+  }
+]

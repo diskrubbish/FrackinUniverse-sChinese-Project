@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Nightar throne, only for the night's king!",
+    "value": "夜族王座，只为夜族！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar's Throne",
+    "value": "夜族王座"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This throne is definitely out of this world.",
+    "value": "这个王座绝对是世界上独一无二的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wonder if Kluex ever had a throne that was this elegant.",
+    "value": "我想知道克鲁西斯是否有过这样优雅的王座。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wantsssss to sssit in big fancy chair!",
+    "value": "叶族人想坐在一把漂亮的大椅子上！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Enticed. This throne is made of some of the finest materials.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I wonder how angry the Nightar King would be if he saw me sitting on this right now?",
+    "value": "我想知道如果夜族王看到我坐在这上面会有多生气？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This throne is much too fancy for a hylotl.",
+    "value": "这个王座对一个鲛人来说太花哨了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now THAT is a throne fit for a king!",
+    "value": "现在这是一个适合国王的王座！"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Extremely viscous blue slime.",
+    "value": "粘性极强的蓝色粘液。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blue Slime",
+    "value": "蓝色粘液"
+  }
+]

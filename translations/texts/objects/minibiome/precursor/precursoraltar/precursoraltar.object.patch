@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of bulky machine.",
+    "value": "某种体型庞大的机械。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Machine",
+    "value": "先驱机械"
+  }
+]

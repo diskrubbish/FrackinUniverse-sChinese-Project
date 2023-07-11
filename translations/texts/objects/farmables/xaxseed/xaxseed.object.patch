@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mammal and Plant, together at last. Provides levitation and immunity to Grav Rain.",
+    "value": "它既是哺乳动物又是植物。可以收获龙翼，食用后会赋予悬浮能力，以及免疫重力雨。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xax Seed",
+    "value": "龙翼种子"
+  }
+]

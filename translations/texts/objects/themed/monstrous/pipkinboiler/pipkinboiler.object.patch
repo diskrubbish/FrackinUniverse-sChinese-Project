@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A boiler modeled after a Pipkin. For those cold, steam-less nights.",
+    "value": "仿照瓦罐怪的锅炉。为了那些寒冷、没有蒸汽的夜晚。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Monstrous Boiler",
+    "value": "恐怖锅炉"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This boiler whistles like a tea kettle. It's rather relaxing.",
+    "value": "这个锅炉像茶壶一样发出汽笛声。这相当放松。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Pipkin steam is actually rather dangerous, but this boiler has no intention of scalding me.",
+    "value": "瓦罐怪蒸汽实际上相当危险，但这个锅炉无意烫伤我。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hopes they don't have to feed this boiler's fire...",
+    "value": "叶族人希望他们不必给这个锅炉添火..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Content. A cozy little boiler.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "An old timey boiler... Oh wait! This is based off of a Pipkin!",
+    "value": "旧锅炉...等等！这是基于一个皮金！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It's cozy, but if this boiler is especially old, it might not be safe to use...",
+    "value": "它很舒适，但如果这个锅炉特别旧，使用起来可能不安全..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A boiler that whistles like a kettle. It's nice 'n cozy.",
+    "value": "像水壶一样发出汽笛声的锅炉。很舒服。"
+  }
+]

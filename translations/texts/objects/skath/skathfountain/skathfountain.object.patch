@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A water fountain made by the Skath. It seems to have an internal power source.",
+    "value": "绘世者制造的喷泉。它似乎有一个内部电源。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Fountain",
+    "value": "绘世者喷泉"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fountain made from metal.",
+    "value": "由金属制成的喷泉。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This fountain has large beautiful streams of water.",
+    "value": "这个喷泉有许多美丽的小溪。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likess clear water in fountain.",
+    "value": "叶族人喜欢喷泉里清澈的水。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Peaceful. The sound of water flowing trickles from this fountain.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I should make a wish while I'm here.",
+    "value": "我应该在这里许个愿。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Metal shaped into a fountain. An odd choice of material, but the shape and function is pleasant enough.",
+    "value": "形成喷泉的金属。材料的选择很奇怪，但形状和功能都很舒适。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some kinda fountain spoutin' water.",
+    "value": "像喷泉一样喷出水。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "A tethyde fountain, reserved for civilian residential areas. It's filled with saltwater.",
+    "value": "韧影喷泉，为平民住宅区保留。里面装满了盐水。"
+  }
+]

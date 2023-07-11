@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A couch made from lunari.",
+    "value": "一种由月晶制成的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Couch",
+    "value": "月晶沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An extremely bright couch.",
+    "value": "非常明亮的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the sun.",
+    "value": "这让我想起了太阳。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssunssshine couch!",
+    "value": "阳光沙发！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uncomfortable. This couch almost fries my optics.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This couch is like a star!",
+    "value": "这张沙发像一颗星星！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This couch almost reminds me of the sun.",
+    "value": "这张沙发几乎让我想起了太阳。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This couch is brighter than me!",
+    "value": "这张沙发比我还耀眼！"
+  }
+]

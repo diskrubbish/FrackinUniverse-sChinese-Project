@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Severe Poison Gas (Resist: ^green;Poison^reset;)",
+    "value": "严酷毒性气体 (抵抗: ^green;毒素^reset;)"
+  }
+]

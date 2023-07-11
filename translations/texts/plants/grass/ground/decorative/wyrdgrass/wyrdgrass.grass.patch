@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Arboreal Plant",
+    "value": "木本植物"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Arboreal Plant",
+    "value": "木本植物"
+  }
+]

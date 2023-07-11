@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chair made from flesh and organs.",
+    "value": "用血肉和器官做成的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Atropus Chair",
+    "value": "肉源椅子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some sort of vile looking chair.",
+    "value": "某种看起来很恶心的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This makes me want to vomit.",
+    "value": "这让我想吐。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Not chair! Isss food!",
+    "value": "这不是椅子！是是是好吃的！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This chair makes my circuits shake.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This chair makes me feel sick!",
+    "value": "这椅子看得我难受！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This is simply disgusting.",
+    "value": "这简直太恶心了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "There ain't no way I'm sittin' on this.",
+    "value": "我不会坐在上面的。"
+  }
+]

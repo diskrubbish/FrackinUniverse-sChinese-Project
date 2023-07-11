@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What is inside of this?.",
+    "value": "这里面是什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Strange Pod",
+    "value": "奇怪的豆荚"
+  }
+]

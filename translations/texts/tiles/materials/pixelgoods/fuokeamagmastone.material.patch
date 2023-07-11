@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stone made out of magmastone and hellfire.",
+    "value": "使用熔岩和地狱火藤蔓制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hellfire Stone",
+    "value": "地狱火石头"
+  }
+]

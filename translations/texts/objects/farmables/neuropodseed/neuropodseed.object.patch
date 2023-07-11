@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Truly a mad-science creation. Consuming its 'fruit' increases intelligence for a time.",
+    "value": "真正的疯狂科学造物。食用它的“果实”可以暂时提高智力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neuropod Seed",
+    "value": "神经荚种子"
+  }
+]

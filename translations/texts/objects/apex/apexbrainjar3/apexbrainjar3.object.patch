@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A positronic artificial brain. Amazing.",
+    "value": "正电子人工脑。太神奇了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Artificial Brain Housing",
+    "value": "人工大脑储存罐"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small decorative Glitch gear.",
+    "value": "一种小的装饰性的电子人齿轮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Copper Gear",
+    "value": "小铜齿轮"
+  }
+]

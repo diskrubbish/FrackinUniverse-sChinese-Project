@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sinister light from Heck.",
+    "value": "这盏邪恶的灯来自血界。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Heck Light",
+    "value": "血界灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The light makes me feel uneasy.",
+    "value": "发出的光使我感到不安。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "There's something sickly about this light.",
+    "value": "这个灯发出的光让我不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran eyes hurt if Floran look at light.",
+    "value": "叶族人如果直视这种灯，会被光线线线伤害到眼睛的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. This light appears to be powered by some kind of organic fluid.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The hairs on the back of my neck are standing up.",
+    "value": "我脖子后面的头发都立起来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What an adorably basic light.",
+    "value": "这灯光真是太美妙了。"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Waz. Unbreakable!",
+    "value": "哇。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "'Waz' Graffiti",
+    "value": "【哇】-涂鸦"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It says 'WAZ'. Poignant.",
+    "value": "上面写着【哇】。令人感伤的"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What does this word even mean? My translator has nothing.",
+    "value": "这个词到底是什么意思？我的翻译什么都没有。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran write messsssage on wall in blood.",
+    "value": "叶族人用血液在墙上写下消息。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Academic. It is possible this is meant to convey the mathematical equation for evolution.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hehe. Waz. You guys.",
+    "value": "呵呵。哇。你们。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This is a word neither I or my translator are familiar with.",
+    "value": "这个词我和我的翻译都不熟悉。"
+  }
+]

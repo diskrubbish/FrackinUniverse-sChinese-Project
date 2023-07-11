@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large slab of stone.",
+    "value": "一大块石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Stone",
+    "value": "大石头"
+  }
+]

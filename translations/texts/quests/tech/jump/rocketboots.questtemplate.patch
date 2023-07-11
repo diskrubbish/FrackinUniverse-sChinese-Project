@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Rocket Boots?!?!",
+    "value": "火箭靴？！？！"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I've had an epiphany, and subconciously invented ^green;the greatest thing ever: ^orange;ROCKET BOOTS^reset;! As a tech! Woohoo!^reset;",
+    "value": "我心中那突如其来的创意，发明出了有史以来最伟大的科技：^orange;火箭靴^reset;。怎么样？很不错吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "I've had an epiphany, and subconciously invented ^green;the greatest thing ever: ^orange;ROCKET BOOTS^reset;! As a tech! Woohoo!^reset;",
+    "value": "我心中那突如其来的创意，发明出了有史以来最伟大的科技：^orange;火箭靴^reset;。怎么样？很不错吧！"
+  }
+]

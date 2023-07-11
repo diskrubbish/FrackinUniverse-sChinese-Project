@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An ancient holographic depiction of a many-limbed horror.",
+    "value": "一幅古老的全息图，描绘了一个多肢的可怖之物。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "A tentacular being destroying a planet, almost like... Oh. Ah. I see.",
+    "value": "一个触手状的生物正在摧毁一个星球，就像... 哦，啊，我明白了。"
+  }
+]

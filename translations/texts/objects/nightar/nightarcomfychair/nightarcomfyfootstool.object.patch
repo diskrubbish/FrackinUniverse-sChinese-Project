@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Soft, pliable and amazingly comfortable.",
+    "value": "柔软、柔韧、舒适。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Comfy Footstool",
+    "value": "夜族舒适脚凳"
+  }
+]

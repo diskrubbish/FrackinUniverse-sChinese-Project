@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I scream, you scream...",
+    "value": "我尖叫，你尖叫..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice Cream Display Case",
+    "value": "冰淇淋陈列柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Not to be trite, but do they carry banana?",
+    "value": "这不是陈词滥调，但他们带香蕉吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What a colorful array of flavors. Maybe too colorful...",
+    "value": "多么丰富多彩的口味啊。也许太五颜六色了..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Boneboo icy cream pleassse!",
+    "value": "骨竹冰淇淋请客！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delighted. Diadia Chunk! My favorite!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Avesmingo Swirl? Sure, why not? I'm feeling adventurous.",
+    "value": "百味果漩涡？当然，为什么不呢？我觉得很冒险。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Reefpod ice cream has a delightfully unique and savory flavor.",
+    "value": "礁荚冰淇淋有一种令人愉悦的独特风味。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "They got Neonmelon here?",
+    "value": "他们把霓虹瓜带来了？"
+  }
+]

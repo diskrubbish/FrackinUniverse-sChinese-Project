@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Material",
+    "value": "蜂蜜块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The walls are dripping in gold!",
+    "value": "墙壁上有金色的水滴！"
+  }
+]

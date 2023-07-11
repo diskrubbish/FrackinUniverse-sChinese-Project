@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This is one ugly plant mutant. Immune to insanity, and increases damage.",
+    "value": "一株丑陋的变异植物。可以收获眩光茎，食用后会提高伤害，免疫精神错乱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glarestalk Gib",
+    "value": "眩光茎种子"
+  }
+]

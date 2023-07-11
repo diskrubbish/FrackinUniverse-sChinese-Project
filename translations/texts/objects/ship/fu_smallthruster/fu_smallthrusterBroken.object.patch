@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A thruster used for non-FTL travel. It's broken.",
+    "value": "一台用于非超光速旅行的推进器。它坏了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Ship Thruster (Broken)",
+    "value": "小型飞船推进器(已损坏)"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A booster. These have been known to malfunction and explode.",
+    "value": "一组加速器。它们因为容易出故障和爆炸而为人所熟知。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A booster, the wings of a ship.",
+    "value": "一组推进器，飞船的翅膀。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssscary fire.",
+    "value": "可可可怕的火焰"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analyse. Temperature too high to measure.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This thing eats through fuel.",
+    "value": "这家伙很会消耗燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Propulsion.",
+    "value": "推进装置。"
+  }
+]

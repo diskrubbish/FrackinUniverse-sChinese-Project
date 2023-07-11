@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of power conduit. It appears functional.",
+    "value": "某种输送能量的管道。它似乎还可以使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Junction Box",
+    "value": "接线盒"
+  }
+]

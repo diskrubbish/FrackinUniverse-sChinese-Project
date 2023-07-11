@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shiny armour stands resolute.",
+    "value": "闪亮的盔甲坚不可摧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Display Armour",
+    "value": "展示盔甲"
+  }
+]

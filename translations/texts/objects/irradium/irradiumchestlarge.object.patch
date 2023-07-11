@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chest made from irradium.",
+    "value": "由镭矿制成的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Chest",
+    "value": "镭制胸甲"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This chest seems dangerous to use.",
+    "value": "这个箱子使用起来很危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This can't be safe, can it?!",
+    "value": "这不安全，是吗？！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Odd chessst. Makesss Floran feel sssick!",
+    "value": "奇怪的箱子。让叶族人感到恶心！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. I really don't think this is safe.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I don't think I can use this chest.",
+    "value": "我想我不能用这个箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'm not entirely sure how this is safe.",
+    "value": "我不完全确定这是如何安全的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This chest seems mighty unsafe.",
+    "value": "这个箱子似乎很不安全。"
+  }
+]

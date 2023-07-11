@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some macabre pedestal with no clear meaning or purpose.",
+    "value": "完全想不出到底出于什么目的而制造的可怕台子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flesh Monument",
+    "value": "血肉纪念碑"
+  }
+]

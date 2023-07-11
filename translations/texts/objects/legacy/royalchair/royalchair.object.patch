@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An old Glitch chair, worthy of a ship captain, if not a king.",
+    "value": "一把破旧的椅子，配得上船长，如果不是国王的话。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Royal Chair",
+    "value": "王座"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A Regal Glitch-styled chair.",
+    "value": "帝王风格的电子人椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "As old as this chair is, it's as comfortable as ever.",
+    "value": "这把椅子虽然旧了，但仍然舒适。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmells like... Glitch butt?.",
+    "value": "闻起来像...电子人屁股？。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. An old, ornate armchair.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's amazing the velvet on this chair's lasted so long.",
+    "value": "这把椅子上的天鹅绒经久耐用，真是太神奇了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A chair likely built for Glitch royalty. And a wasteful use of gold, at that.",
+    "value": "一把椅子很可能是为电子人的皇室设计的。而且浪费了黄金。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An old Glitch chair. Looks to be lined with velvet.",
+    "value": "一把电子人的旧椅子。看起来衬着天鹅绒。"
+  }
+]

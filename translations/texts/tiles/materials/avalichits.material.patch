@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Holo-archives, data chits and other removable data storage.",
+    "value": "用来进行物理备份的数据储存器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Data Storage",
+    "value": "数据储存器"
+  }
+]

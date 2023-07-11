@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Can be used to change the race of certain ship objects.",
+    "value": "只需要一点小小的改造就能将你制造的飞船家具设备调整成你想要的种族风格"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Racialiser^reset;",
+    "value": "^cyan;飞船用家具定制台^reset;"
+  }
+]

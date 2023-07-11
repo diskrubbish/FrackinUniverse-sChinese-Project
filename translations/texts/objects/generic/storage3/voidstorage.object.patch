@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The ultimate storage.",
+    "value": "终极储存设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#e43774;Dimensional Storage^reset;",
+    "value": "^#e43774;空间储存器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Man, I have slaughtered a lot of creatures.",
+    "value": "哟，我想我得杀很多生物才能填满。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wish my damned wings worked. But nooo...",
+    "value": "我真希望我那该死的翅膀可以飞起来。但是并不行。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Plantss. I iss plantss.",
+    "value": "植物。我我我是植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Why do I exist?",
+    "value": "为什么我会存在？"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I wonder how many giraffes I could fit in here?",
+    "value": "到底里面能装下多少只长颈鹿？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There is no honor in biting another mans nose.",
+    "value": "咬着另一个男人的鼻子可算不上荣誉。"
+  },
+  {
+    "op": "replace",
+    "path": "/ponexDescription",
+    "raw": "My putrid existence is hollow and shameful.",
+    "value": "我腐朽的存在是空虚和可耻的。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spices can be made by drying this plants fruits.",
+    "value": "你可以通过烘干这株植物的果实来制作卡达文香料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kadavan Spice Seed",
+    "value": "卡达文香料果种子"
+  },
+  {
+    "op": "replace",
+    "path": "/ponexDescription",
+    "raw": "When people aren't watching, I like to eat babies.",
+    "value": "When people aren't watching, I like to eat babies。"
+  }
+]

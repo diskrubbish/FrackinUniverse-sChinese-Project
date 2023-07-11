@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A restaurant-grade oven that quickly cooks food without compromising quality.",
+    "value": "一种餐厅级烤箱，可以在不影响质量的情况下快速烹饪食物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Industrial Kitchen Oven",
+    "value": "工业厨房烤箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A high quality kitchen oven and stove.",
+    "value": "高品质的厨房烤箱和炉子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It looks like the oven and stovetop are quick to heat.",
+    "value": "看起来烤箱和炉子很快就可以加热了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran will wear two pairs of oven mitts. Jusst in case.",
+    "value": "叶族人将戴两副烤箱手套。以防万一。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This is a big improvement from wood burning ovens, certainly.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Sure is plenty of space in here. How many cookies could I bake at once...?",
+    "value": "这里当然有足够的空间。我一次能烤几块饼干...？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Quick to heat and quick to cool down. No chef should except anything less.",
+    "value": "快速加热和冷却。任何厨师都不应该这样做，除非少一点。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty modern stovetop.",
+    "value": "一个强大的现代炉灶。"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "  Industrial Kitchen Oven",
+    "value": "工业厨房烤箱"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Yum, yum",
+    "value": "  哎呀，真香"
+  }
+]

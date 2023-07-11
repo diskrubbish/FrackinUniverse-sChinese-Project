@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dynast Wooden Window",
+    "value": "皇家木窗"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A window with dynast wooden panes.",
+    "value": "一扇装有精致木质窗格的窗户。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delighted. This window helps brighten the room.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Nice windowss, Floran can see outside.",
+    "value": "漂亮的窗窗窗户，叶族人可以看到外面。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Nice lookin' window with wooden panes.",
+    "value": "木制窗格组成的漂亮窗户。"
+  }
+]

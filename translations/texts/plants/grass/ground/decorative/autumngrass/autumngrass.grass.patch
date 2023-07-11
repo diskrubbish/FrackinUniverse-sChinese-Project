@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Yellowed grass.",
+    "value": "发黄的草。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Yellowed grass.",
+    "value": "发黄的草。"
+  }
+]

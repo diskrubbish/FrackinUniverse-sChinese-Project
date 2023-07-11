@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A high-quality industrial metal tile.",
+    "value": "一种高品质的工业金属瓷砖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Tiles",
+    "value": "合金瓷砖"
+  }
+]

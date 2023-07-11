@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Emergency water storage at your fingertips! Stores up to 800 water. Scan for info.",
+    "value": "紧急储水滴水不漏！最多可储存800滴水。扫描以查看更多信息。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wooden Water Tower",
+    "value": "木制水塔"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Tank iss high up!",
+    "value": "水管发发发射升空！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A wooden water tower.",
+    "value": ""
+  }
+]

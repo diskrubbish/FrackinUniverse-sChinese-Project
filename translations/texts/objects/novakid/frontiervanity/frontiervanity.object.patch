@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's basically a fancy dresser.",
+    "value": "它基本上是一个华丽的梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frontier Vanity",
+    "value": "边境虚荣"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A rather luxurious looking vanity.",
+    "value": "一种相当奢侈的虚荣心。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What remarkable carpentry! I fear I'd forget to preen just standing in front of it.",
+    "value": "多么了不起的木工活啊！我怕站在它面前就忘了打扮。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Three mirrors, three Floran... Hiss!",
+    "value": "三面镜子，三个叶族人...嘘！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. Everything seems to be in order here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Who would've thought Novakid cared so much about their appearances?",
+    "value": "谁会想到星之子这么在乎他们的外表？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "My-! These products are surprisingly high quality!",
+    "value": "我的-！这些产品的质量出奇的高！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A station for gettin' all dolled up an' such.",
+    "value": "这是一个用来打扮这样的人的地方。"
+  }
+]

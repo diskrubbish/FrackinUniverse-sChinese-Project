@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sugary, carbonated soft drink.",
+    "value": "一种含糖的碳酸饮料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Soft Drink",
+    "value": "汽水"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The burn of a cold cola on the back of the throat... there's nothing like it.",
+    "value": "冷可乐在喉咙后面的灼烧感...没有什么能比得上。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A pop drink. It feels odd going down my throat.",
+    "value": "一杯汽水，喝下去感觉怪怪的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fizzy juice.",
+    "value": "碳酸果汁。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Smug. Other races have to worry about rotting their teeth out with these, but not us.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's all fun and games until you let the ice melt and water the whole thing down.",
+    "value": "这一切都是有趣的和游戏，直到你让冰融化和水的混在一起。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It appears to be a soft drink.",
+    "value": "它看起来像是一种软饮料。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fizzy soda-pop.",
+    "value": "一杯刺激的苏打汽水。"
+  }
+]

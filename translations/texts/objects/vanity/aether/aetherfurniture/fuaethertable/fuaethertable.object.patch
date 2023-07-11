@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table. Perfect for tabletop gaming. Or eating.",
+    "value": "一个桌子。非常适合往桌面游戏，或者就餐。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Table",
+    "value": "以太桌子"
+  }
+]

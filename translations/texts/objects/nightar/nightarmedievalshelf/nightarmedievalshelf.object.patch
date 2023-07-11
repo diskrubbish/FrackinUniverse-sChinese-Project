@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An old wooden shelf.",
+    "value": "旧木架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medieval Shelf",
+    "value": "中世纪木架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An empty wooden shelf.",
+    "value": "空木架。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's just an empty shelf.",
+    "value": "只是一个空架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Empty shelvess.",
+    "value": "空架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disinterested. Just an old shelf.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Just an old wooden shelf.",
+    "value": "只是一个旧木架。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A simple, empty shelf.",
+    "value": "一个简单的空架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An old shelf.",
+    "value": "旧架子。"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Place it on a surface to coat it in glowing gel.",
+    "value": "给地形的表面涂上这种物质，可以发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glowing Gel",
+    "value": "发光凝胶"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A phosphorescent paste. Fascinating.",
+    "value": "会发出磷光的凝胶。有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This gel stuff is really cool-looking.",
+    "value": "这种凝胶真的很酷。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty ssslime. Floran like.",
+    "value": "非常黏。叶族人人人喜欢！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Admiring. This glue has been designed to glow in the dark.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I bet this glowy goo tastes awful. Not going to try it, though.",
+    "value": "我打赌这个发光的玩意儿肯定很难吃。虽然我并不打算吃它。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A luminescent adhesive. What a wonderful idea.",
+    "value": "会发光的粘合剂。多么棒的主意。"
+  }
+]

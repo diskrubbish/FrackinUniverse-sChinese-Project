@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A robust, roman-style pillar.",
+    "value": "坚固的罗马式支柱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Roman Pillar",
+    "value": "罗马柱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A pillar.",
+    "value": "一根柱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A pillar.",
+    "value": "一根柱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big tall ssstone.",
+    "value": "又大又高的石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A pillar.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This pillar sure is interesting.",
+    "value": "这根柱子很有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A substandard pillar.",
+    "value": "不合格的柱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A pillar, standin' tall.",
+    "value": "一根高高的柱子。"
+  }
+]

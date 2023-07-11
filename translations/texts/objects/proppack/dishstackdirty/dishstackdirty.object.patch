@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Well they're not going to clean themselves. Hop to it!",
+    "value": "他们不会自己打扫的。跳起来！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dirty Dishes",
+    "value": "脏盘子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Grimy chinaware...",
+    "value": "肮脏的瓷器..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Well, I suppose someone's going to have to clean these...",
+    "value": "嗯，我想得有人来清理这些..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Can't Floran just lick them clean?",
+    "value": "叶族人就不能把它们舔干净吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgusted. I hope these haven't been sitting here for too long.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Uh-oh, am I on dish duty today? Time to make myself scarce!",
+    "value": "哦，我今天是洗碗班吗？是时候让自己变得稀少了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These need to be washed before the food starts to cake onto the surface.",
+    "value": "在食物开始在表面形成蛋糕之前，这些东西需要清洗。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Dirty tableware.",
+    "value": "脏餐具。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Doors that are good under pressure.",
+    "value": "门在压力下是好的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pressurised D. Door Prop",
+    "value": "加压双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Sturdy pressurised doors.",
+    "value": "坚固的加压门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Very heavy metal doors.",
+    "value": "非常重的金属门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big heavy doors work besst underwater.",
+    "value": "大而沉重的门在水下工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relieved. These doors are very heavy, they should be watertight.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These are big, sturdy doors that cope well with high pressure.",
+    "value": "这些都是大而坚固的门，可以很好地应对高压。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Well-crafted pressurised doors.",
+    "value": "精心制作的加压门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Hefty pressurised doors.",
+    "value": "重型加压门。"
+  }
+]

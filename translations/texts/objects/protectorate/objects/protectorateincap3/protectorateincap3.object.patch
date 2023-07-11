@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Ded monkeyman. Not me. Glad.",
+    "value": "死去的猴子，不是我，很高兴。"
+  },
+  {
+    "op": "replace",
+    "path": "/thelusianDescription",
+    "raw": "Looks delicious.",
+    "value": "看起来很好吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Goodbye...",
+    "value": "永别了..."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An Apex Protector, mangled beyond any hope of revival.",
+    "value": "一位猿人守护者，被毁坏了，已经没有复活的希望了。"
+  }
+]

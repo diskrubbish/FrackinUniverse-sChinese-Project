@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sewer pipe used for transporting waste.",
+    "value": "用于输送废物的下水道管。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgusted. This pipe is filthy, I would hate to see what is inside it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmelly ssewer pipess.",
+    "value": "这排水管子子子有内味味味了"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Filthy, dirty lookin' sewer pipes.",
+    "value": "污秽、肮脏的下水道管道。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "SCB Sewerpipe End",
+    "value": "SCB下水道管端"
+  }
+]

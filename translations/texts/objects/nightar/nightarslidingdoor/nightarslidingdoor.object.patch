@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sleek sliding door, made completely out of obsidian.",
+    "value": "一扇光滑的推拉门，完全由黑曜石制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Obsidian Sliding Door",
+    "value": "黑曜石推拉门"
+  }
+]

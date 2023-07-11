@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A beetle terrarium. Fascinating!",
+    "value": "甲虫玻璃器皿。迷人的！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beetle Enclosure",
+    "value": "甲虫围场"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "That is... an unsettlingly large beetle.",
+    "value": "那就是...令人不安的大甲虫。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The sheen on this bug is actually quite impressive.",
+    "value": "这只虫子身上的光泽实际上相当令人印象深刻。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "SSSmaller than average ixoling.",
+    "value": "小于死亡执行者平均值。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Frightened. Is the lid on this terrarium closed properly?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh yikes. That's one big beetle.",
+    "value": "哎呀。那是一只大甲虫。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A... startlingly large bug.",
+    "value": "A...惊人的大虫子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't so scary from in there, are ya?",
+    "value": "在里面没那么可怕吧？"
+  }
+]

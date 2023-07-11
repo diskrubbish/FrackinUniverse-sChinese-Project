@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An explosive jump that blasts foes.",
+    "value": "一种跳跃科技，双击^green;[W]^reset;可在跳跃时会伤害附近的敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Zero Burst I^reset;",
+    "value": "^#77acc3;爆炸跳跃 I^reset;"
+  }
+]

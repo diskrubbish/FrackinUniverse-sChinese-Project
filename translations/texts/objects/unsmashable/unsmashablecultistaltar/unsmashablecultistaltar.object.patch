@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cultist altar. Nefarious worship goes on here. Unbreakable!",
+    "value": "祭坛。邪恶的崇拜在这里继续。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cultist Altar",
+    "value": "祭坛"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A strange altar. What arcane practice is worshipped here?",
+    "value": "一座奇怪的祭坛。这里崇拜什么奥术？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This is no altar to Kluex, that's for sure.",
+    "value": "这肯定不是克鲁克斯的祭坛。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssmell blood.",
+    "value": "叶族人闻到了血液的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned. This altar appears to have been used for some sinister ritual.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A creepy altar. Just looking at it makes me uneasy.",
+    "value": "令人毛骨悚然的祭坛。光是看着它就让我不安。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A dark and terrible presence lurks here.",
+    "value": "这里潜伏着一种黑暗而可怕的存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This dark altar is eerie and unsettlin'.",
+    "value": "这座黑暗的祭坛诡异而不安。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A colony deed designed for use with a Colony Core. Only collects rent with a Core present.  ^red;Requires a bed in the room.^reset;",
+    "value": "为适配殖民核心而设计的殖民合同。只在与核心工作时收取租金。\n^red;需要房间中有床。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^yellow;Colony Deed Mark II^reset;",
+    "value": "^yellow;殖民合同MK II"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "With these I can create a conclave of tenants... or test subjects.",
+    "value": "有了这些，我可以建立一个租客秘会...或测试样本。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This sure beats pestering my tenants for rent individually.",
+    "value": "这肯定比单独缠着我的房客要房租好多了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "If tenants don't pay rent, Floran will sssstab.",
+    "value": "如果房客不付房租，叶族人就会捅捅捅他。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Greedy. It's time to make some real money.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "With these, I can become a landlord for real.",
+    "value": "有了这些，我可以成为一个真正的房东。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Rent-seeking is immoral. Good thing I have no morals.",
+    "value": "寻租是不道德的，好在我没有道德。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "There's good money in runnin' a boarding house.",
+    "value": "经营寄宿公寓可以赚很多钱。"
+  }
+]

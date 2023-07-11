@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A model based on the story of a legendary blade...",
+    "value": "来自圣剑故事幻想的的模型..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Legendary Sword Stone",
+    "value": "传奇石中剑"
+  }
+]

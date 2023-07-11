@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Flutter Jump II",
+    "value": "浮空跳 III"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Even more fluttery!",
+    "value": "更棒的浮空跳！"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "You don't get much jumpier than this!",
+    "value": "我想我不会跳得比这还高了！"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lush and glowy.",
+    "value": "还算明亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Leafy Lamp",
+    "value": "绿叶灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This standing lamp is actually a light emitting plant.",
+    "value": "这盏台灯实际上是一个发光装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This lamp is just a stand to position this glowing plant.",
+    "value": "这盏灯只是一个放置发光植物的支架。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran standing lamp iss powered by plantss.",
+    "value": "叶族台灯由植物供电。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Puzzled. This standing lamp has no apparent power source.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This plant makes a pretty effective lamp.",
+    "value": "这种植物是一种很有效的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "How remarkable. This lamp is simply a stand for a glowing plant pod.",
+    "value": "真了不起。这盏灯只是一个发光的植物豆荚的支架。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This tall glowin' plant makes a nice light.",
+    "value": "这株高高的发光植物发出很好的光。"
+  }
+]

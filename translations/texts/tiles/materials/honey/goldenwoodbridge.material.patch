@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Bridge Block",
+    "value": "金色木材桥梁快"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The gold colored wood is very old and creaks in the wind.",
+    "value": "这种金色的木材非常陈旧，在风中嘎吱嘎吱响。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Fascinated. This aged wood has a pleasing golden hue.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty wood iss strong.",
+    "value": "这种漂亮的木材很很很结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This here gold colored wood is mighty special.",
+    "value": "这里的金色木材是非常特别的。"
+  }
+]

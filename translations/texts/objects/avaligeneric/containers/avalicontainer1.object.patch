@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A big storage crate, for storing big things",
+    "value": "一个大储存箱，用来储存大量物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cargo Crate",
+    "value": "货物箱"
+  }
+]

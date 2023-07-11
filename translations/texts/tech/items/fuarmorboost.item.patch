@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Passive +5 bonus to defense.",
+    "value": "被动防御值+5"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Defense Matrix I^reset;",
+    "value": "^#77acc3;防御矩阵 I^reset;"
+  }
+]

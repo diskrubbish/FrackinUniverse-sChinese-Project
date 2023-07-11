@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "raw": "  Ore Merchant",
+    "value": "  矿石商人"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  For all your crafting needs!",
+    "value": "  专为你提供优质矿石！"
+  }
+]

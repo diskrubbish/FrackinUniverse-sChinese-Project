@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This torch suspends a tiny plasma orb to provide light.",
+    "value": "这个火炬悬挂着一个微小的等离子球来提供光线。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Plasma Torch",
+    "value": "绘世者等离子火炬"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "There is a tiny plasma orb floating above the torch. This seems dangerous to leave exposed.",
+    "value": "火炬上方漂浮着一个微小的等离子球体。暴露在外似乎很危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of aviolite torches.",
+    "value": "这让我想起了aviolite手电筒。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sscared of blue fireball.",
+    "value": "叶族人分享了蓝色火球。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. It seems a forcefield keeps the plasma in place.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's like a torch, but more sci-fi.",
+    "value": "这就像一个火炬，但更科幻。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A mesmerising orb of plasma.",
+    "value": "一个迷人的等离子球。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This floatin' shiny ball burns just like a torch.",
+    "value": "这个漂浮的闪亮的球像火炬一样燃烧。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "A forcefield keeps this plasma orb in place, so we won't get burned by its heat.",
+    "value": "一个力场把这个等离子体球保持在适当的位置，这样我们就不会被它的热量灼伤。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A majestic watercolor sunset over a savannah.",
+    "value": "热带草原上壮丽的水彩画日落。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Savannah Painting",
+    "value": "萨凡纳绘画"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ah, this painting warms my heart just looking at it.",
+    "value": "啊，这幅画一看就温暖了我的心。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Is there truly anything more awe inspiring than a sunset?",
+    "value": "真的有什么比日落更令人敬畏的吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Dussk is Floran's favorite time of day.",
+    "value": "黄昏是叶族人一天中最喜欢的时间。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Awestruck. Who would've expected such a marvelous view over such unforgiving terrain?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Just look at all those colors!",
+    "value": "看看那些颜色！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Nature never ceases to amaze.",
+    "value": "大自然从不停止惊奇。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Oh now that's a real beaut.",
+    "value": "哦，这才是真正的美人。"
+  }
+]

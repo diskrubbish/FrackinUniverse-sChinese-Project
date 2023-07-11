@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wonderfully decorative slab of amber-infused furniture.",
+    "value": "一张奇妙的琥珀桌子家具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Amber Table",
+    "value": "琥珀桌子"
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "op": "replace",
+    "path": "/pickupAnvil/text",
+    "raw": "In ^blue;Frackin Universe^reset;, nearly everything you can make on an anvil can also be made with an ^orange;Armorworks^reset;. The anvil is still great for decoration though!",
+    "value": "有且仅限在^blue;Frackin Universe^reset;中，你原先能够在^orange;铁砧^reset;制造的每一个物品，现在都能在^orange;军备作坊^reset;中找到。不过，铁砧对装饰制作来说仍然非常有用！"
+  },
+  {
+    "op": "replace",
+    "path": "/pickupWood/text",
+    "raw": "Wood is absolutely essential to your early survival. You'll be able to craft ^orange;Basic Weapons^reset; and gear with your bare hands. I recommend a ^green;Primitive Spear^reset; to start with. ^orange;Research^reset; other uses for wood in your ^orange;Personal Tricorder^reset;.",
+    "value": "木材对于您的早期生存绝对必不可少。俗话说^orange;要致富先撸树^reset;。我建议从一开始就使用^green;原始矛^reset;。记得在^orange;个人三度仪^reset;中^orange;研究^reset;木材的其他用途。"
+  },
+  {
+    "op": "replace",
+    "path": "/pickupshield/text",
+    "raw": "Shields are a useful defensive tool. If you time blocks well, you can ^orange;Shield Bash^reset; (^green;stuns, knocks back enemies and does damage^reset;). Some species get great bonuses for ^orange;perfectly timed blocks^reset;, too.",
+    "value": "盾牌是一种有用的防御工具。如果格挡的时机得当，您可以进行一次^orange;盾牌重击^reset;（^green;眩晕，击退敌人并造成伤害^reset;。） 一些种族会在^orange;完美格挡^reset;时获得增益。"
+  },
+  {
+    "op": "replace",
+    "path": "/radienhealing/text",
+    "raw": "^red;Remember:^reset; You can't heal like carbon-based life does. You're going to need to rely on your natural abilities, ^green;edible isotopes^reset; and ^green;reactive gels^reset;. You will need access to ^green;Algae^reset; in order to make these gels. Build a ^orange;Greenhouse^reset; to get started.",
+    "value": "^red;请铭记：^reset;你不能像碳基生命一样自愈。你需要依靠你的天赋，靠^green;可食用同位素^reset;和^green;辐射凝胶^reset;回复。你需要通过^green;藻类植物^reset;来制作这些凝胶。请从建造一间^orange;温室^reset;开始。"
+  },
+  {
+    "op": "replace",
+    "path": "/wrexornar/text",
+    "raw": "^red;WARNING: PIRATE SIGNAL DETECTED ^reset;! This appears to be a raiding ship under the control of the Wrexor Nar. These vicious cyborgs are among the most feared of raider factions in the galaxy. Tread carefully.",
+    "value": "^red;危险警告：检测到海盗信号！^reset;这似乎是被Wrexor Nar控制的一艘突击舰。这些恶毒的机器人所属的派系是银河系中最令人害怕的袭击者派系。请小心行事。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomegenericheat/text",
+    "raw": "^red;WARNING: HEAT WAVE ^reset;! The climate is spiking in temperature, resulting in extra exertion from movement. You'll be hungry a bit faster, and gradually lose health.",
+    "value": "^red;危险警告：检测到热浪！^reset;温度正在飙升，在跑动时你会更容易疲劳，而饥饿感也在侵蚀着你，生命值也正在慢慢降低。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomegenericcold/text",
+    "raw": "^red;WARNING: FREEZING ^reset;! It suddenly got exceptionally cold! Be careful, and keep warm!",
+    "value": "^red;危险警告：检测到寒潮！^reset;天气变得异常寒冷，请注意保暖！"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomegenericpoison/text",
+    "raw": "^red;WARNING: POISONOUS CLOUDS ^reset;! Poisonous clouds are blowing in the wind, which will weaken and eventually kill you. Seek shelter or find some measure of protection.",
+    "value": "^red;危险警告：检测到毒云！^reset;毒云随着风的流动在四处扩散，它会逐渐削弱你，直至将你杀死。请寻找避难所或防护措施。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomegenericelectric/text",
+    "raw": "^red;WARNING: ELECTRICAL STORM ^reset;! A sudden electrical storm has broken out, which will affect your energy supply. There's also the threat of being struck by a blast. Take shelter underground.",
+    "value": "^red;危险警告：检测到雷电风暴！^reset;漫天的电流正在伺机将所有挑战它的生物击溃，该风暴会影响你的能量供给，伴随着被雷击所带来的风险，我建议你暂时藏在地下。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomegenericradiation/text",
+    "raw": "^red;WARNING: RADIATION STORM ^reset;! Sudden winds have blown in a radiation cloud from somewhere else on this world. Take precautions.",
+    "value": "^red;危险警告：检测到辐射风暴！^reset;风与云内都充满了辐射，它们正在聚拢，准备着粗暴地蹂躏这个世界。你应该未雨绸缪。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomegenericmildcold/text",
+    "raw": "^red;WARNING: COLD ^reset;! While not absolutely freezing, this world is chilly and brisk. Nights are colder, and water could be dangerous to swim in. Wear cold protection.",
+    "value": "^red;危险警告：检测到寒冷气候！^reset;这个世界并不是极端的寒冷，在这里你可以快乐地玩雪，另外夜间将会更冷，尽量不要下水游玩。请准备好保暖措施。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeelectric/text",
+    "raw": "^red;WARNING: ELECTRICAL STORM ^reset;! A nasty electric storm is picking up. The charge in the air will interfere with your energy supply and could cause dangerous overloads. I advise you to find shelter immediately.",
+    "value": "^red;危险警告：检测到雷电风暴！^reset;一场危险的雷电风暴正在形成。空气中的电荷会干扰你的能量供应，并可能导致危险的过载。我建议你马上找个地方躲起来。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeelectricsurface/text",
+    "raw": "Lightning storms are significantly stronger when you are outside. Perhaps head underground where you are grounded and cannot be struck by lightning.",
+    "value": "处于露天场所时，闪电的威力也会随之提升。如果你担心被雷击中，可以尝试躲藏于建筑物内或者地下以避过这场灾难。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeelectricwater/text",
+    "raw": "I must advise you against swimming in liquid during a lightning storm. I hope that I do not need to explain what will happen if lightning strikes you now.",
+    "value": "我必须建议你不要在刮雷电风暴的时候在液体中游泳。我希望我不需要解释如果闪电现在击中你会发生什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/biomeradiation/text",
+    "raw": "^red;WARNING! RADIATION DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "value": "^red;危险警告：检测到辐射！^reset;如果没有适当的防护装备，你不应该尝试进一步的探索！"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomedesert/text",
+    "raw": "^red;WARNING: DESERT HEAT ^reset;! The climate here is exceptionally warm during the day. Water will help you cool off, if you can find it. Fire Resistance will help a great deal. Night is cool but tolerable.",
+    "value": "^red;危险警告：检测到沙漠气候！^reset;沙漠的特征是白天非常暖和，夜晚则会有些冷。在白天，适当地喝水可以浇熄体内的不断攀升的温度，当然，这是建立在你寻找到水源的基础上，另外火炎抗性将会大幅提升你的生存几率。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomedesertwater/text",
+    "raw": "You've managed to cool off in this wonderful pool of liquid. You feel much less uncomfortable now!",
+    "value": "在这难得一遇的水中泡了一会儿之后，你感到没这么难受了。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomedesertunderground/text",
+    "raw": "Heading underground? Not a bad idea. The effect of the surface heat is substantially reduced down here.",
+    "value": "躲到地下？嗯，这真是个好主意，这样就可以降低温度了。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomedesertnight/text",
+    "raw": "The sun has set, and the temperature has blissfully dropped to tolerable levels. You should be relatively comfortable until daybreak.",
+    "value": "太阳已经西沉，温度正在降至令人难以忍受的程度。你应该在天亮之前，寻找一个适合休息的地点。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomedesertsunrise/text",
+    "raw": "The sun is rising, bringing another blistering hot day. Take care, and be aware that the brighter it gets, the worse things will become.",
+    "value": "随着太阳的升起，它正在展现出严酷的另一面。请小心，当阳光越来越强烈时，或许会发生一些更糟的事。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomedesertnoon/text",
+    "raw": "At its brightest, the sun here is extremely uncomfortable. Until it gets into the afternoon, expect to suffer a bit more.",
+    "value": "如此灼热的阳光，真是太难受了。在下午到来前，酷热将会持续。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomejungle/text",
+    "raw": "^red;WARNING: TROPICAL HEAT ^reset;! The climate here is exceptionally warm, which could lead to discomfort if care is not taken. Water will help you cool off, if you can find it. Physical Resistance will help, too.",
+    "value": "^red;危险警告：检测到热带气候！^reset;这里的气候有些过于温暖，如果不谨慎，或许你的身体会有所不适。如果你携带水或者寻找到了水源，那么水将可以帮你降至正常温度。另外，物理抗性在这里也能帮助你面临困境。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomejunglewater/text",
+    "raw": "Ah, a soothing spring. This should help lower your temperature and give you a brief moment of respite.",
+    "value": "呼，这应该可以有助于降低你的体温，你可以暂时松口气了。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeradiationsevere/text",
+    "raw": "^red;WARNING! RADIATION DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "value": "^red;危险警告：检测到辐射！^reset;如果没有适当的防护装备，你不应该尝试进一步的探索！"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeradiationwind/text",
+    "raw": "I suggest taking care, as a nasty wind is blowing radioactive fallout right to your position. Good times!",
+    "value": "你应该小心行事，因为我检测到风裹着放射性尘向着这边吹来。祝你好运！"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomepoison/text",
+    "raw": "^red;WARNING! POISONOUS AIR DETECTED ^reset;! These toxins can permeate through skin and small openings. You are getting weaker. This will get worse the more sick you become.",
+    "value": "^red;危险警告：检测到有毒空气！^reset;这些毒素可以渗透皮肤和小孔。你现在越来越虚弱了。而你的病情越严重，情况就越糟。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomepoisonwind/text",
+    "raw": "This breeze is really stirring up poisonous vapour. Threat level increased.",
+    "value": "起风意味着有毒的气体也正在扩散。星球危险等级正重新估算...危险等级已提升。"
+  },
+  {
+    "op": "replace",
+    "path": "/biomecold/text",
+    "raw": "^red;WARNING! EXTREME COLD DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "value": "^red;危险警告：检测到极端严寒气候！^reset;如果没有适当的防护装备，你不应该尝试进一步的探索！"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomedeadlycold/text",
+    "raw": "^red;WARNING! RADIATION DETECTED ^reset;! You should not attempt further exploration without proper protective equipment. Radiation will sap your health and energy, and make you sick!",
+    "value": "^red;危险警告：检测到辐射！^reset;如果没有适当的防护装备，你不应该尝试进一步的探索。辐射会消耗你的健康和能量，让你生病！"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomecoldnight/text",
+    "raw": "As night falls, the temperature will fall. This will make any effects you feel from the cold even deadlier on you. I suggest finding warmth, and soon.",
+    "value": "随着夜幕降临，气温将会下降。这会使你感受到的任何寒冷对你的影响更加致命。 我建议你尽快躲到一处温暖的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomecoldwater/text",
+    "raw": "You fell in water. On a freezing world. Good job, idiot! Now you'll freeze to death ^red;twice as fast^reset;!",
+    "value": "你在冰封万里的世界，然后掉进水里。干得好，白痴！ 现在你将以^red;两倍的速度^reset;被冻死！"
+  },
+  {
+    "op": "replace",
+    "path": "/biomeheat/text",
+    "raw": "^red;WARNING! EXTREME HEAT DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "value": "^red;危险警告：检测到极端炎热气候！^reset;如果没有适当的防护装备，你不应该尝试进一步的探索！"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeheatcavern/text",
+    "raw": "You'll find it much warmer in caverns, thanks to heat being trapped within. Stay cool, or you'll stay dead^reset;!",
+    "value": "由于洞穴里热度不会扩散，所以相对于外面，这里更为温暖。没办法保持凉爽的话就等于送死。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomedeadlyheat/text",
+    "raw": "^red;WARNING! RADIATION DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "value": "^red;危险警告：检测到辐射！^reset;如果没有适当的防护装备，你不应该尝试进一步的探索！"
+  },
+  {
+    "op": "replace",
+    "path": "/biomeairless/text",
+    "raw": "It may be worth noting that this celestial body has no atmosphere and you will die without some sort of oxygen source.",
+    "value": "值得注意的是，这个天体没有大气层，如果氧气耗尽，你将会死去。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeradiation/text",
+    "raw": "^red;WARNING! RADIATION DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "value": "^red;危险警告：检测到辐射！^reset;如果没有适当的防护装备，你不应该尝试进一步的探索！"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomecold/text",
+    "raw": "^red;WARNING! EXTREME COLD DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "value": "^red;危险警告：检测到极端严寒气候！^reset;如果没有适当的防护装备，你不应该尝试进一步的探索！"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeheat/text",
+    "raw": "^red;WARNING! EXTREME HEAT DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "value": "^red;危险警告：检测到极端炎热气候！^reset;如果没有适当的防护装备，你不应该尝试进一步的探索！"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeproto/text",
+    "raw": "^red;WARNING! POISON ATMOSPHERE DETECTED ^reset;! With ^green;Proto-Poison protection^reset; you'll be fine. Otherwise, Proto poison slowly drains your vitality. Poison resistance reduces or nullifies the effects.",
+    "value": "^red;危险警告：检测到有毒大气！^reset;请装备^green;原毒保护^reset;来确保平安。否则，原始毒素会慢慢耗尽你的生命力。毒素抗性可以减少或抵消这种效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomesulphuric/text",
+    "raw": "^red;WARNING! SULPHURIC ATMOSPHERE DETECTED ^reset;! You should not attempt further exploration without proper protective equipment!",
+    "value": "^red;危险警告：检测到硫酸大气！^reset;如果没有适当的防护装备，你不应该尝试进一步的探索！"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomesulphuricstorm/text",
+    "raw": "^red;WARNING! SULPHURIC STORM^reset;! A deadly Sulphuric storm is brewing! Get to shelter as soon as possible unless you have protection against Sulphuric Acid. You will otherwise die rather rapidly.",
+    "value": "^red;危险警告：检测到硫酸风暴！^reset;在不久后，一场由硫酸主导的风暴将会袭来！如果不想遇到意外，请尽快躲藏起来，除非你有对抗硫酸的护甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeaether/text",
+    "raw": "^red;WARNING! COSMIC ENERGY DETECTED ^reset;! Some sort of protection from cosmic damage would help a great deal. This energy appears to decrease energy regeneration rates.",
+    "value": "^red;危险警告：检测到射线能量！^reset;我建议你先返回飞船，等你获得了相对应的防护措施再进行探索！这种能量似乎会影响能量再生速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeaethernight/text",
+    "raw": "As night falls, the effects of the cosmic energy permeating this planet seem to increase in severity. Somehow, the sun holds the worst of these effects at bay.",
+    "value": "随着夜幕降临，射线能量所造成的影响也越来越强大。无论如何，你都应该寻找一个妥善的安全之所渡过这漫漫长夜。"
+  },
+  {
+    "op": "replace",
+    "path": "/radienmsg/text",
+    "raw": "^green;Excellent^reset;! You have remembered how to spawn X'i Bulbs. With them you can craft many things in your [C] menu, or use them for other purposes unique to the X'i.",
+    "value": "^green;太棒了！^reset;你已经记住了如何生成艾肯球茎。通过它们，你可以在[C]键菜单中制造许多东西，或者用于其他独属于锡安的用途。"
+  },
+  {
+    "op": "replace",
+    "path": "/foodtype/text",
+    "raw": "^red;TOXINS DETECTED ^reset;: While I am sure that *looked* delicious, I regret to inform you that this type of food ^orange;cannot be digested by your physiology^reset;. Avoid foods like this in the future.",
+    "value": "^red;检测到毒素：^reset;尽管我确定这*看起来*非常美味，但是有一件事必须告诉你——你^orange;在生理上无法消化^reset;这种食物，以后请不要吃像这样的食物。"
+  },
+  {
+    "op": "replace",
+    "path": "/foodtyperad/text",
+    "raw": "^red;RADIOACTIVE MATERIAL DETECTED ^reset;: You just ate potentially lethal radioactive isotopes. Your chance of painful death has increased by 99.72%.",
+    "value": "^red;检测到放射性物质：^reset;你刚刚吃下了潜在的放射性同位素，因此你痛苦地死去的可能性增加了99.72%。"
+  }
+]

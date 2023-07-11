@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sign designating a lab.",
+    "value": "指示实验室的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lab Sign",
+    "value": "实验室标志"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It seems there's a lab ahead.",
+    "value": "前面好像有个实验室。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A laboratory apparently is nearby.",
+    "value": "附近显然有个实验室。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssign for lab.",
+    "value": "实验室的设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. This sign signifies a nearby laboratory.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like there's a lab nearby.",
+    "value": "看起来附近有个实验室。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This huge sign informs me that there is a laboratory nearby.",
+    "value": "这个巨大的标志告诉我附近有一个实验室。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A big sign for a lab.",
+    "value": "一个实验室的大标志。"
+  }
+]

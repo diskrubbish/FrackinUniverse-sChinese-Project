@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An...an eye lamp. Great.",
+    "value": "一...一个好大眼睛做成的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flesh Lamp",
+    "value": "血肉灯"
+  }
+]

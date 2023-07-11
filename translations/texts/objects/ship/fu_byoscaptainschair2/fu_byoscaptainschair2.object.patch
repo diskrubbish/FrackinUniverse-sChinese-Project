@@ -1,0 +1,140 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The Captain sits here to fly the ship.",
+    "value": "只有船长才有资格坐在这里指挥这艘飞船的航向\n^#B8860B;可在飞船用家具定制台调整种族风格^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Captain's Chair",
+    "value": "船长椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ahh... Sweet freedom. I can use the ship's navigator from this chair.",
+    "value": "哦...现在想想真是跟做梦一样. 我能坐在使用飞船的导航控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The Captain's chair. That's me! I can use the ship's navigator from this chair.",
+    "value": "这是船长椅.它是我的！我能坐在这打开飞船的导航控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Best chair on ship. Floran can sit here to ussse navigator and fly ship!",
+    "value": "这艘船上最好的椅子.叶族人能坐在这打打打打开导航控制台让这艘船跑起来！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excited. Sitting on the Captain's chair allows me to fly this ship. Where to next?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The Captain's chair. The person sitting here decides where the ship goes!",
+    "value": "这是船长椅.有资格坐在这张椅子上的人有权力决定这艘飞船的航向。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Sitting on the Captain's chair allows me to fly this ship.",
+    "value": "坐在这张船长椅上能允许我指挥这艘飞船的航向"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The Captain's chair. The guy who sits here decides where the ship goes! That's me!",
+    "value": "这是船长椅.只有有资格坐在这的老大能指挥这艘船往哪儿开！但老大就是我！"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "Let's see what this babe can do.",
+    "value": "让我们看看这个宝贝能做什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "It's not solid gold, but it will do.",
+    "value": "不是黄金，胜似黄金。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "The captain's seat of every Peacekeeper ship comes equipped with a life support system. Very nice for those long voyages.",
+    "value": "每艘和平卫士战舰的舰长座位都配备有生命保障系统。很适合长途旅行。"
+  },
+  {
+    "op": "replace",
+    "path": "/shadowDescription",
+    "raw": "Chair.",
+    "value": "椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Looks like a captain's chair.  I could navigate the ship from here.",
+    "value": "看起来像是船长的椅子。我可以从这里驾驶这艘船。"
+  },
+  {
+    "op": "replace",
+    "path": "/aegiDescription",
+    "raw": "This Captain's chair grants access to the navigation console.",
+    "value": "这把船长座椅允许进入导航控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/avikanDescription",
+    "raw": "The Captain's chair - it is a true honour to sit on one of these.",
+    "value": "船长的椅子——坐在其中一把椅子上真是荣幸。"
+  },
+  {
+    "op": "replace",
+    "path": "/draunaarDescription",
+    "raw": "The Captain's chair. It grants access to the navigation console and flight controls.",
+    "value": "船长的椅子。它允许访问导航控制台和飞行控制。"
+  },
+  {
+    "op": "replace",
+    "path": "/trinkDescription",
+    "raw": "This Captain's chair has specialized sensors, allowing only its owner to use the navigator.",
+    "value": "这把船长椅有专门的传感器，只允许它的主人使用导航器。"
+  },
+  {
+    "op": "replace",
+    "path": "/hymidDescription",
+    "raw": "A Captain's chair. The ship's navigation console is linked to it.",
+    "value": "船长的椅子。船上的导航控制台与之相连。"
+  },
+  {
+    "op": "replace",
+    "path": "/notixDescription",
+    "raw": "The Captain's chair, granting access to the starship's navigator.",
+    "value": "船长的椅子，允许进入星际飞船的领航员。"
+  },
+  {
+    "op": "replace",
+    "path": "/jorgasianDescription",
+    "raw": "The ship's navigation console can be accessed from this Captain's chair.",
+    "value": "船上的导航控制台可以从船长的椅子上进入。"
+  },
+  {
+    "op": "replace",
+    "path": "/drodenDescription",
+    "raw": "Detected Captain's chair. Grants access to navigation console.",
+    "value": "发现了船长的椅子。授予对导航控制台的访问权限。"
+  },
+  {
+    "op": "replace",
+    "path": "/akkimariDescription",
+    "raw": "Chair-captain. Linked to console-navigation.",
+    "value": "船长。链接到控制台导航。"
+  }
+]

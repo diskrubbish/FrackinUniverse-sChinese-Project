@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stool made from trianglium.",
+    "value": "用原力矿做的凳子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Trianglium Stool",
+    "value": "原力矿凳子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It reminds me of Avian structures.",
+    "value": "它让我想起了翼族人的建筑。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This looks very much like out temples.",
+    "value": "这看起来很像我们的太阳穴。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran thinksss it looksss like bird houssse.",
+    "value": "叶族人认为它看起来像鸟壳。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. This looks very much like an Avian structure.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It looks like an Avian pyramid.",
+    "value": "它看起来像一个翼族人金字塔。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The design is incredibly opulent.",
+    "value": "这个设计非常华丽。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This is mighty pretty, like those Avians build.",
+    "value": "这是非常漂亮的，就像那些翼族人建造的一样。"
+  }
+]

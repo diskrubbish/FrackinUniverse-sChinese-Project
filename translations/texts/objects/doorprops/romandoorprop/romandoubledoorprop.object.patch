@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Robust, roman-style doors.",
+    "value": "结实的罗马式门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Roman Double Door Prop",
+    "value": "罗马双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What heavy set doors... Clearly someone extraordinarily wealthy owned this.",
+    "value": "多么沉重的门啊... ... 显然是某个特别有钱的人拥有的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The carvings on these doors aren't unlike ones found in Avian temples.",
+    "value": "这些门上的雕刻与翼族庙宇中的雕刻并无不同。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "What do doors need sshiny gold for?",
+    "value": "门需要闪亮的金子做什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Winded. These doors are a little difficult to open.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ooh, these looks like the doors to a mansion or something.",
+    "value": "哦，这些门看起来像是豪宅之类的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The patience needed to cut such intricate carvings on such fine and heavy wood is commendable.",
+    "value": "在如此精致而沉重的木头上雕刻如此错综复杂的雕纹，所需要的耐心值得称赞。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These doors requires some elbow grease to open, for sure.",
+    "value": "这些门肯定需要费力才能打开。"
+  }
+]

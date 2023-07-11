@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pie.",
+    "value": "馅饼"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apple Honey Pie",
+    "value": "苹果蜂蜜馅饼"
+  }
+]

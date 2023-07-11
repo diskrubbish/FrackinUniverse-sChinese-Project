@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This seat is chilly!",
+    "value": "这个座位很冷！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Parlor Chair",
+    "value": "客厅椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This chair is a little too small for me to be comfortable...",
+    "value": "这把椅子太小了，我坐不舒服..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Brr! I suppose no one's sat here for a while.",
+    "value": "波尔儿！我想有一阵子没人坐在这里了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Chair will make excellent freezer back at Floran'ss place.",
+    "value": "这把椅子在弗洛兰家的冰箱里是个不错的选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. Why does everyone keep saying the seats here are cold? I feel just fine.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Either the people running this place are really dedicated to their aesthetic or the AC is turned up way too high.",
+    "value": "要么经营这个地方的人真的致力于他们的审美，要么空调开得太高。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I fear I may freeze in place sitting in this seat for too long.",
+    "value": "我担心在这个座位上坐太久会僵住。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "One of the perks of bein' a livin' star is always havin' a warm seat.",
+    "value": "做一个活明星的好处之一就是总是有一个温暖的座位。"
+  }
+]

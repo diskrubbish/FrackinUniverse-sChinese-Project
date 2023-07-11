@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tiptoe through them!",
+    "value": "踮起脚尖穿过它们！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tulip Flower Pot",
+    "value": "郁金香花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Such bright, cheery flowers.",
+    "value": "如此明亮、欢快的花朵。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These flowers are simply delightful.",
+    "value": "这些花真是令人愉快。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bulbs come in as many colors as Floran!",
+    "value": "灯泡的颜色和叶族人的的一样多！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Knowledgeable. These popular springtime flowers come in a multitude of colors.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "How many colors of tulips are there, anyways?",
+    "value": "到底有多少种颜色的郁金香？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Tulips are a symbol of perfect love in Hylotl culture.",
+    "value": "郁金香是鲛人文化中完美爱情的象征。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now this here's a right colorful flower.",
+    "value": "这是一朵鲜艳的花。"
+  }
+]

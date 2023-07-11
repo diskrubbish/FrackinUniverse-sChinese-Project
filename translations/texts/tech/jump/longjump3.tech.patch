@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Upgraded Flutter Jump",
+    "value": "升级过的浮空跳"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Flutter Jump II",
+    "value": "浮空跳 III"
+  }
+]

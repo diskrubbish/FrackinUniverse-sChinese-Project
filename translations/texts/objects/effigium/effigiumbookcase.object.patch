@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bookcase full of books. It seems to be fading out of existence.",
+    "value": "一个装满书的书柜。它似乎正在消失。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Effigium Bookcase",
+    "value": "幻影书柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An almost invisible bookcase.",
+    "value": "一个几乎不可见的书柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A bookcase. Very simple.",
+    "value": "一个非常简单的书柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssimple bookcase.",
+    "value": "简简简单的书柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uninterested. Just a bookcase.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A regular bookcase... Or is it?",
+    "value": "一个普通的书柜...额，它普通吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A spot to place books.",
+    "value": "一个存放书籍的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A large, fancy bookcase.",
+    "value": "一个大而别致的书柜。"
+  }
+]

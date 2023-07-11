@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An extremely basic bed of hay.",
+    "value": "非常基本的干草床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medieval Hay Bed",
+    "value": "中世纪干草床"
+  }
+]

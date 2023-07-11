@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A heavy golden door with crystals set into its surface.",
+    "value": "一扇沉重的金门，表面镶嵌着水晶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Crystal Door Prop",
+    "value": "金色水晶门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The crystals in this door hum as if generating power. This technology is unknown.",
+    "value": "这扇门里的水晶发出嗡嗡声，仿佛在发出能量。这项技术是未知的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These doors hum with crystal resonance.",
+    "value": "这些门充斥着晶莹的共鸣。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Shiny door makesss Floran happy.",
+    "value": "闪亮的门让让让叶族人高兴。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Inquisitive. The door contains a power source that is beyond my understanding.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The crystals in this door are warm. It hums gently beneath my fingers.",
+    "value": "这扇门上的水晶是温暖的。它在我的手指下轻轻地哼唱。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A beautifully carved stone door, set with crystals.",
+    "value": "一扇雕刻精美的镶有水晶的石门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Well if that ain't the shiniest door I ever seen.",
+    "value": "如果，这不是我见过的最闪亮的门。"
+  }
+]

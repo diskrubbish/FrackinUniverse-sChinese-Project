@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A silver ornate chandelier. A good way to light a large room.",
+    "value": "一盏银色装饰华丽的枝形吊灯。照亮大房间的好方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Silver Ornate Chandelier",
+    "value": "银装饰吊灯"
+  }
+]

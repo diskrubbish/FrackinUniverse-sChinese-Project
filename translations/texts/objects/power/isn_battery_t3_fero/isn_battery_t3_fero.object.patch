@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fantastic battery with exceptional storage and voltage.^truncate; ^red;Scan for Info^reset;\nStorage Capacity: ^green;8000^reset;J",
+    "value": "梦幻般的电力储存设备，有着无与伦比的容量和功率。\n^red;扫描以查看更多信息^reset;\n储存电能：^green;8000^reset;J"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Advanced^reset; Battery",
+    "value": "^cyan;高级^reset;电池"
+  }
+]

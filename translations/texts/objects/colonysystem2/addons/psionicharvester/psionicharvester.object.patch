@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Steals your tenants' negative thoughts and emotions to create psionic energy. Requires 200W. ^yellow;+10 Happiness^reset;",
+    "value": "偷走你房客的消极思想和情绪来创造灵能。\n需要200W电力。\n^yellow;+10幸福^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Psionic Harvester^reset;",
+    "value": "^cyan;灵能收割机^reset;"
+  }
+]

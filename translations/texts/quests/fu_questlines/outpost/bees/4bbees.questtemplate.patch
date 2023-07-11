@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Researching Queens",
+    "value": "研究蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "When you catch wild queens, you can't tell much about them. You can't use them well through guesswork. So, try building a ^orange;Basic Microscope^reset; in the bee station.",
+    "value": "当你抓到野生蜂后时，你可能说不情关于它们的知识，你也不能光靠猜测来利用它们。所以，试着在蜜蜂站制造一台^orange;基础显微镜^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Placing a ^cyan;Wild Queen^reset; in a microscope will allow you to scan her stats, which can greatly influence your breeding choices.",
+    "value": "在显微镜下放置一只^cyan;野生蜂后^reset;来扫描她的属性，这会极大地影响你的繁殖选择。"
+  }
+]

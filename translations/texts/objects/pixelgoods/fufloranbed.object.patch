@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Leaving this bed in the morning is an ultimate test of one's willpower.",
+    "value": "在早上要离开这张床简直对意志力的终极考验。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Leafy Bed",
+    "value": "绿叶床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The most comfortable bed in the universe.",
+    "value": "宇宙中最舒适的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Once you lie here, you won't want to get up.",
+    "value": "一旦你躺下来，你就不想起床了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssink into bed, forget about ssstabbing for just a moment.",
+    "value": "叶族人躺在床上，会把刺的事情忘忘忘记一会儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Blissful. Truly, there is no better bed than this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The most fun I've had in bed since I ate cheese before going to sleep.",
+    "value": "睡觉前，在床上吃奶酪最有趣了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I am speechless with wonder at how comfortable this bed is.",
+    "value": "躺在上面那种舒适的程度让我都不禁呻吟起来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This has to be the best darn bed I've slept in.",
+    "value": "这一定是我睡过的最好的床了。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cool black and white checkered dresser.",
+    "value": "很酷的黑白格子梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Modern Dresser",
+    "value": "现代梳妆台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A black and white dresser... But it's so small it might as well be a nightstand.",
+    "value": "黑白相间的梳妆台...但它太小了，还不如做个床头柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A rather tiny for a dresser, isn't it?",
+    "value": "对于梳妆台来说是一个很小的，不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmall checkered drawers.",
+    "value": "小型格子抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Critical. Is this supposed to be a dresser or a nightstand?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm not sure I could fit all that many clothes in here. At least it's stylish?",
+    "value": "我不确定我能不能把这么多衣服放进去。至少它很时尚？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'm usually willing to sacrifice for form over function, but...",
+    "value": "我通常愿意牺牲形式而不是功能，但是..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A little small... But that ain't much an issue if you don't have much clothin' anyhow.",
+    "value": "有点小...但如果你没有多少衣服穿，那就没什么问题了。"
+  }
+]

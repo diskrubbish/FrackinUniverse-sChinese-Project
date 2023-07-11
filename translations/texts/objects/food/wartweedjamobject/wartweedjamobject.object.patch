@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A coarse, seedy jam that leaves behind a dry taste in your mouth.",
+    "value": "一种粗糙的、有籽的果酱，在口中留下干燥的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wartweed Jam",
+    "value": "疣草酱"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thisss jam feels chunky...",
+    "value": "这种果酱摸起来很厚..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. I'm surprised there's anything soft enough in a wart weed worth jarring.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This jam sticks to the back of yer throat... Lovely.",
+    "value": "这个果酱粘在你的喉咙后面...美丽的"
+  }
+]

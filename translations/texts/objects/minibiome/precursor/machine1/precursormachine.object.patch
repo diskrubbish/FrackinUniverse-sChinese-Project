@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This appears to be some sort of storage medium for electronic data.",
+    "value": "这似乎是某种电子数据的存储介质。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Data Server",
+    "value": "先驱数据服务器"
+  }
+]

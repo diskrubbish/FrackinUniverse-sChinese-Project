@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These powerful pumps drain water and pump it into the purification system.",
+    "value": "这些强大的水泵排出水并将其泵入净化系统。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sturdy Drain",
+    "value": "坚固的排水管"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This drain is generating a lot of suction - I'd better keep my fur away from it.",
+    "value": "这个排水管产生了很大的吸力——我最好让我的毛皮远离它。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This drain seems to pump water away really fast - I guess the Peglaci like some rooms dry.",
+    "value": "这个排水管好像能很快地把水抽走——我想企鹅族家的房间好像有些干了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssucky hole in wall - where doesss the water go?",
+    "value": "墙上有个烂洞-水去哪儿了？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A sophisticated pump and filtration system.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Seems to be draining all the water away. If I put my hand on it it makes a farting sound.",
+    "value": "好像把所有的水都排干了。如果我把手放在它上面，它会发出放屁的声音。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A bog-standard filtration drain. Ho hum.",
+    "value": "一个沼泽标准过滤排水管。呵呵。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This'll get rid of that pesky water!",
+    "value": "这样我就可以把讨厌的水弄走！"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "These drains are used to keep water out of our houses if some manages to make its way in. Wet fur's no fun on land.",
+    "value": "如果有人设法把水引进来的话，这些排水沟是用来防止水进入我们的房子的。湿毛皮在陆地上没有乐趣。"
+  }
+]

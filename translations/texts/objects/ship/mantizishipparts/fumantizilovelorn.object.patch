@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "O she doth teach the torches to burn bright.\nIt seems she hangs upon the cheek of night.",
+    "value": "哦，她教火把燃烧得明亮。\n她似乎挂在夜晚的脸颊上。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Lovelorn Statue",
+    "value": "甲虫族失恋雕像"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tesh",
+    "value": "塔什"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tesh",
+    "value": "塔什"
+  }
+]

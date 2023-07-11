@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A restaurant-grade oven hood. A necessity in a bustling kitchen.",
+    "value": "餐厅级烤箱罩。繁忙厨房里的必需品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Industrial Kitchen Oven Hood",
+    "value": "工业厨房烤箱罩"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A range. For clearing the air around a kitchen.",
+    "value": "射程。用来清洁厨房周围的空气。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It appears to clear away smoke an oven might produce.",
+    "value": "它似乎可以清除烤箱可能产生的烟雾。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran won't choke on smoke with thiss around.",
+    "value": "叶族人不会被烟呛到的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relieved. This ought to keep the air inside my home clean.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hopefully this should stop the smoke alarm from going off.",
+    "value": "希望这能阻止烟雾报警器响起来。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A smart investment. That said, I should make sure I still regularly clean my oven.",
+    "value": "明智的投资。也就是说，我应该确保我仍然定期清洁我的烤箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fan for over your oven.",
+    "value": "烤箱上方的风扇。"
+  }
+]

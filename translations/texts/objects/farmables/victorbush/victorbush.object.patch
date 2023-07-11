@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides a massive run boost.",
+    "value": "可以收获维克多叶芽，食用后会提高移动速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Victor Leaf Seed",
+    "value": "维克多叶种子"
+  }
+]

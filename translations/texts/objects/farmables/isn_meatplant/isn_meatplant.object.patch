@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A plant that grows meat! Not for the squeamish.",
+    "value": "这种植物长着厚厚的肉！可以收获肉串。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Meatvine Bulb",
+    "value": "肉串种子"
+  }
+]

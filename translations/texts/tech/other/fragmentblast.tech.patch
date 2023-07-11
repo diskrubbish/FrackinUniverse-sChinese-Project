@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Eject shards of solid energy. Use ^green;[F]^reset;.",
+    "value": "按^green;[F]^reset;射出固体碎片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Shard Blast",
+    "value": "碎片爆裂"
+  }
+]

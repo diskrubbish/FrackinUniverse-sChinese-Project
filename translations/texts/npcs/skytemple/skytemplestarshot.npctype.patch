@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Attack!",
+    "value": "进攻！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/0",
+    "raw": "Protect the temple!",
+    "value": "为了神而战！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/1",
+    "raw": "You dare intrude upon the most holy of places?",
+    "value": "你胆敢玷污这神圣之地？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/2",
+    "raw": "The divine light of Kluex empowers me to slay you!",
+    "value": "克鲁西斯之光将赐予杀死你的力量于我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/3",
+    "raw": "The piercing wrath of the aether will chill you, fiend!",
+    "value": "克鲁西斯的愤怒会将你碾成齑粉！恶魔！"
+  }
+]

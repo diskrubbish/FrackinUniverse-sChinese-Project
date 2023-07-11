@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Watch out!",
+    "value": "小心！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sharp Spikes",
+    "value": "锋利的尖刺"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Sharp stone spikes.",
+    "value": "锋利的石钉。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The stone looks razor sharp.",
+    "value": "这个石头看起来犹如剃刀般锋利。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssharp and pointy.",
+    "value": "尖锐，锋锋锋利。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. Sharp rock could penetrate Glitch shell.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'd better not touch these.",
+    "value": "我最好不要碰。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I will gracefully avoid these.",
+    "value": "我会优雅地避免碰到它。"
+  }
+]

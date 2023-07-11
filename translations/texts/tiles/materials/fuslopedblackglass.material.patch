@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dark-tinted panel of glass.",
+    "value": "深色的玻璃面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Interested. This glass has been so darkly tinted it is almost not transparent.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can hide behind dark glasss.",
+    "value": "叶族人可以躲在黑色玻璃璃璃后面。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Glass so dark the sun'll hardly shine through.",
+    "value": "玻璃那么黑，太阳几乎照不透。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloped Black Glass",
+    "value": "倾斜黑色玻璃"
+  }
+]

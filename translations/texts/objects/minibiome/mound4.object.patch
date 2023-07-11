@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I should stick my @#$@ing hand in there!",
+    "value": "我应该把我的手贴上去！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Insect Mound",
+    "value": "昆虫堆"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Attack!",
+    "value": "进攻！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/0",
+    "raw": "For the Shogun!",
+    "value": "为了幕府而战！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/1",
+    "raw": "An intruder! Alarm! Alarm!",
+    "value": "警报！警报！入侵警报！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/2",
+    "raw": "Banzai!",
+    "value": "幕府万岁！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/3",
+    "raw": "You intrude upon our peaceful village?",
+    "value": "你扰乱了村子的平静。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/4",
+    "raw": "B-But I'm just a conscript...",
+    "value": "但...但是我只是个才入伍的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/5",
+    "raw": "Yaaaaaah!",
+    "value": "啊啊啊啊！"
+  }
+]

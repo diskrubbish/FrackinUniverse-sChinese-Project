@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An ancient obelisk of sorts, Aether is built into its design.",
+    "value": "一座古老的方尖碑，以太融入进了其设计中。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Obelisk",
+    "value": "以太方尖碑"
+  }
+]

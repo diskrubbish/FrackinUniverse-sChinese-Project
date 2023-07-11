@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small FTL drive, built to travel the stars. This one's broken.",
+    "value": "星际飞船的超光速驱动器。允许你进行星际旅行。它坏了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;(Broken) Small FTL Drive^reset;",
+    "value": "^cyan;已损坏的小型FTL引擎^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A broken FTL drive. Pity.",
+    "value": "一台损坏的FTL引擎。可惜。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This used to harness electricity and convert it into motion.",
+    "value": "这玩意过去利用电力并将其转化为动能。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssad. I wonder why thisss FTL drive fell into disssarray.",
+    "value": "悲悲悲伤。我想知道为什么这这这台FTL引擎会掉进了地狱。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disapproving. This FTL drive will not do.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ugh. Broken FTL drives are worthless.",
+    "value": "嗯。损坏的FTL引擎一文不值。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A broken FTL drive. That's not good.",
+    "value": "一台损坏的FTL引擎，那可不是什么好事。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This 'ere faster'n 'light machine sure is broken!",
+    "value": "这台FTL引擎肯定坏了！"
+  }
+]

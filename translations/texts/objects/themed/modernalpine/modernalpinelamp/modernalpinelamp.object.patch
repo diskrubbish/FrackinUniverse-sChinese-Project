@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wooden lamp with a stylishly patterned lampshade.",
+    "value": "带有时髦图案灯罩的木制灯具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alpine Lamp",
+    "value": "阿尔卑斯灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A light wood table with a pretty lampshade.",
+    "value": "一张带漂亮灯罩的轻木桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This lamp appears to be built into the table it's on.",
+    "value": "这盏灯似乎是放在桌子上的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstylish lamp.",
+    "value": "时尚的台灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. The pattern on this lampshade makes the room even brighter to be in.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The lampshade on this lamp has a pretty cool looking pattern.",
+    "value": "这盏灯的灯罩有一个很酷的图案。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This stylish lamp is mounted onto the table it sits.",
+    "value": "这盏时髦的灯安装在它所坐的桌子上。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Looks like this lamp's stuck here to the table.",
+    "value": "看起来这盏灯卡在桌子上了。"
+  }
+]

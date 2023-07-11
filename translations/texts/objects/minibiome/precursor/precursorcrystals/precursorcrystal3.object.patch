@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Highly energized Lunari crystals.",
+    "value": "高度充能的月晶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Charged Lunari",
+    "value": "大型充能月晶"
+  }
+]

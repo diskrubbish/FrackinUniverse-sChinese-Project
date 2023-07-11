@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Too bad I can't swivel in this chair... It would be so cool if I could, though.",
+    "value": "如果我能在这个椅子上转动身体的话......想必会很酷。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Bar Chair",
+    "value": "以太吧椅"
+  }
+]

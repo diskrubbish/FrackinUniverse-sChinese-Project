@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Keeps a light on in the dark.",
+    "value": "非常可靠的伙伴，在激活后，它会在空中持续地跟随并保护你。攻击手段比普通型少，但是亮度比普通型高。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Light Bot",
+    "value": "两足机器人(照明)"
+  }
+]

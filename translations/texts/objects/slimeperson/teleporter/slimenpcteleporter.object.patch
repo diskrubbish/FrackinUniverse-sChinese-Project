@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A slimy teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.^reset;",
+    "value": "一个粘糊糊的传送器，连接到书签位置。\n^red;损坏时销毁。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Teleporter",
+    "value": "史莱姆传送器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A slimy personal teleporter. A functional but fun piece of equipment.",
+    "value": "粘糊糊的私人传送机。一种实用但有趣的设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I love the whoosh of my feathers when I teleport, but I'm afraid they'll get sticky!",
+    "value": "我喜欢我的羽毛在传送时发出的嗖嗖声，但我担心它们会变得粘乎乎的！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Perssonal ssslimy teleporter is fancy!",
+    "value": "私人史莱姆传送机真是太棒了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Enticed. A personal teleporter, with a custom design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A personal teleporter! Now this is travelling in style, but it's not really up to my taste.",
+    "value": "一个私人传送器！现在，这是一种旅行方式，但它并不真正符合我的口味。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A personal teleporter, it sports a custom design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "As teleporters go, this sure is nice lookin'!",
+    "value": "把人传送走的时候，是真的好看！"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "I can go to other places with this.",
+    "value": "我可以用这个去其他地方。"
+  }
+]

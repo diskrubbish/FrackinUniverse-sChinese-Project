@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A flying monstrosity to spit blood at foes. Sound useful?",
+    "value": "一只向敌人吐血的飞怪。听起来有用吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bloodbound Pteropod",
+    "value": "血界的飞翼豆荚"
+  }
+]

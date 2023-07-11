@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A gene-engineered lamp.",
+    "value": "通过基因工程制造的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bio-Light",
+    "value": "生物灯"
+  }
+]

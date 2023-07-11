@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A space craft thruster of Novakid design.",
+    "value": "一个星之子风格的宇宙飞船推进器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Thruster (Novakid)",
+    "value": "大型推进器(星之子)"
+  }
+]

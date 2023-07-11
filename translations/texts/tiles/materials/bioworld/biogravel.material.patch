@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strange, pulsating granules of... something... swirl within this silty material.",
+    "value": "奇怪的、震动着的颗粒，在这种淤泥中旋转。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proto Silt",
+    "value": "原体淤泥"
+  }
+]

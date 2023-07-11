@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A barrel wood chair with a moth-eaten cushion.",
+    "value": "有虫蛀的垫子的木桶椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corsair's Chair",
+    "value": "海盗椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A chair fashioned out of a barrel. It would be impressive were it not for the smell.",
+    "value": "用桶做成的椅子。如果不是因为它的气味，那将是令人印象深刻的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I suppose when all you have is a hammer...",
+    "value": "我想当你只有一把锤子的时候..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes sssmelly chair.",
+    "value": "叶族人喜欢难闻的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. Is this seat even structurally sound?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's way less comfortable than it looks. And it looks pretty uncomfortable.",
+    "value": "它远不如看上去舒服。而且看起来很不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Crude seating for even cruder individuals.",
+    "value": "甚至对更粗野的人来说，座位也很简陋。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It don't smell like roses but a seats a seat.",
+    "value": "它闻起来不像玫瑰，而是一个座位一个座位。"
+  }
+]

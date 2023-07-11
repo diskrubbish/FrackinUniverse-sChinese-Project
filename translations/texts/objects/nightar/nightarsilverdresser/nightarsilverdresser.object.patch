@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This dresser shines with the purity of silver.",
+    "value": "这个梳妆台闪耀着银色的纯洁光芒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Silver Dresser",
+    "value": "夜族银色梳妆台"
+  }
+]

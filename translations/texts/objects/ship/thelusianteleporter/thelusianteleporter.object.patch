@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Thelusian teleporter technology is not understood by other races.",
+    "value": "蚁族传送技术不为其他种族所理解。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Teleporter",
+    "value": "飞船用传送门"
+  },
+  {
+    "op": "replace",
+    "path": "/thelusianDescription",
+    "raw": "Links minds and places, one and the same.",
+    "value": "连接思想和地点，一模一样。"
+  }
+]

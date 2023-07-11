@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wooden bed embroidered with a stylish pattern.",
+    "value": "绣有时髦图案的木床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alpine Bed",
+    "value": "阿尔卑斯床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It appears the headboard the same pattern as the comforter.",
+    "value": "床头板的图案似乎与被子的图案相同。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The wood of this bed is light, yet the comforter is soft and downy.",
+    "value": "这张床的木头很轻，但被子又软又有绒毛。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstylish bed.",
+    "value": "这张床很时髦。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Drowsy. The comforter on this bed is dangerously tempting...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fancy bed with a fancy pattern and a fancy headboard.",
+    "value": "一张有花式图案和床头板的花式床。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A simple bed with an inspired pattern spread throughout the design.",
+    "value": "一张简单的床，整个设计中都有灵感的图案。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These patterned sheets are mighty comfy.",
+    "value": "这些有图案的床单非常舒适。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A discarded empty meatball can.",
+    "value": "一个废弃的空肉丸罐。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Meatball Can",
+    "value": "肉丸罐头"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Empty meatball can.",
+    "value": "空肉丸罐。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Miffed. A discarded can. Does no one know how to recycle?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An ol' meatball can. Some litterbug's about.",
+    "value": "一个老肉丸罐。一些垃圾虫在附近。"
+  }
+]

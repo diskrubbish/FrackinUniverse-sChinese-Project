@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A medium Gun Decoration for an Apex spaceship.",
+    "value": "一个为猿族飞船设计的中型火炮。(仅用作装饰)"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apex Medium Gun Deco",
+    "value": "猿人飞船中型火炮(装饰)"
+  }
+]

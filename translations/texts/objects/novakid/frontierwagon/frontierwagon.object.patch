@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The #1 choice for settling the west in style. Oxen not included.",
+    "value": "西进风格的第一选择。牛不包括在内。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Covered Wagon",
+    "value": "有篷货车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's awfully cramped inside. But I suppose it does its job.",
+    "value": "里面很挤。但我想它能完成它的工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I imagine the novelty of this cute wagon wears off after a few hours of travel.",
+    "value": "我想，经过几个小时的旅行，这辆可爱的马车的新奇感逐渐消失了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wagon moves too ssslow.",
+    "value": "马车走得太慢了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Adventurous. This wagon will do just fine for carrying those who want to start anew.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I hope whoever used this wagon last didn't contract anything...",
+    "value": "我希望上次使用这辆车的人没有签任何合同..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These boards are dreadfully coarse... I'm likely to get a splinter just looking at them!",
+    "value": "这些木板非常粗糙...我一看到他们就很可能被刺成碎片！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Not exactly comfy, no, but I'm sure those folks didn't have much of a choice.",
+    "value": "不太舒服，但我相信那些人没有太多选择。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A top of the line Quantum Xeno Lab for efficiently extracting genes from seeds.",
+    "value": "基因提取器的升级版，用于从种子内提取基因。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Advanced Xenolab^reset;",
+    "value": "^cyan;高级基因提取器^reset;"
+  }
+]

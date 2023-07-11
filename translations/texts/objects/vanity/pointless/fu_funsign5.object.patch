@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What possible purpose does this sign actually serve?",
+    "value": "这个标志究竟有啥用？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Caution! Sharp Edges!",
+    "value": "警告标志"
+  }
+]

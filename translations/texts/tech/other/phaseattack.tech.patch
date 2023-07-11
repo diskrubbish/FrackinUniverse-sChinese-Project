@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stealth mode ^green;[F]^reset;. Slowly converts Energy to Damage.",
+    "value": "潜匿模式^green;[F]^reset; 缓慢地将能量转换成伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Phase Attack",
+    "value": "潜匿攻击"
+  }
+]

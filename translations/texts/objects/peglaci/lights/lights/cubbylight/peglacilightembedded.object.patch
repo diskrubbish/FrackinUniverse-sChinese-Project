@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An embedded crystal lantern.",
+    "value": "一个内嵌的水晶灯笼。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Wall Lantern",
+    "value": "合金壁灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A crystal lantern embedded into the back wall. Very space efficient.",
+    "value": "一个嵌在后墙上的水晶灯笼。非常节省空间。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Such a lovely crystalline glow.",
+    "value": "多么可爱的水晶光芒。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Looksss like ice with sssun shining through it.",
+    "value": "看起来像冰，阳光透过。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. Light signature is similar to sunlight filtering through ice.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Embedded in the wall to save space, I guess.",
+    "value": "我猜是为了节省空间而嵌入墙中的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Why not use a simple light instead of mucking about with crystals?",
+    "value": "为什么不用一盏简单的灯，而不用水晶灯呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Such a lovely crystalline glow.",
+    "value": "多么可爱的水晶光芒。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "When you need a light but you don't have a lot of space, this could be what you're looking for.",
+    "value": "当你需要一盏灯，但你没有太多的空间，这可能是你正在寻找的。"
+  }
+]

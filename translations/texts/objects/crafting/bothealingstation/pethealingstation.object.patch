@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This bot repair station is used to repair compressed robots.",
+    "value": "这个机器人修复站可以用来修复被损坏的机器人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Bot Healing Station^reset;",
+    "value": "^orange;机器人修复站^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "For broken robots",
+    "value": "为了破损的机器人"
+  }
+]

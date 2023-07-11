@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A nice, spacious, wall-mounted storage solution.",
+    "value": "这个又漂亮又大的壁挂式储物柜是你藏东西的最佳选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Storage Locker",
+    "value": "储物柜"
+  }
+]

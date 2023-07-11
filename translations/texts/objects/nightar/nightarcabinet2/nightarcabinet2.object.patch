@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An attractive place to put things.",
+    "value": "放东西的好地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Cabinet",
+    "value": "夜族橱柜"
+  }
+]

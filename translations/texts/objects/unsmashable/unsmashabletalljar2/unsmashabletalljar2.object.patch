@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This looks like something I made in pottery class. Crude. Unbreakable!",
+    "value": "这看起来像我在陶艺课上做的东西。原油牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crude Pot",
+    "value": "粗锅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A tall pot. Might contain supplies.",
+    "value": "一个高壶。可能有补给。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A tall pot, nothing special.",
+    "value": "一个高壶，没什么特别的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssmash many pot.",
+    "value": "叶族人打破了许多锅。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. To smash or not to smash?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Another day, another pot to smash.",
+    "value": "又一天，又一个要打碎的罐子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These pots have made me a far more aggressive individual.",
+    "value": "这些罐子让我变得更具攻击性。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Gotta smash these to find out what's inside.",
+    "value": "我得把它们砸碎看看里面是什么。"
+  }
+]

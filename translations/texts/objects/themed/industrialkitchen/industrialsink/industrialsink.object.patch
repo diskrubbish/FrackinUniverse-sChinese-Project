@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A restaurant-grade kitchen sink with a spacious well to meet all your culinary needs.",
+    "value": "餐厅级厨房水槽，配备宽敞的水井，满足您的所有烹饪需求。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Industrial Kitchen Sink",
+    "value": "工业厨房水槽"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This sink has a large basin for both cooking and washing dishes.",
+    "value": "这个水槽有一个大盆，可以用来做饭和洗碗。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The well of this sink is almost big enough for me to bathe in!",
+    "value": "这个水槽的井差不多大到可以让我洗澡！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran has to be careful not to sscald themself.",
+    "value": "叶族人必须小心不要伤害自己。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. It'd be simple to fill a large bucket in a sink like this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Probably not a good idea to splash around the water in this, huh?",
+    "value": "在这里面在水里泼水可能不是个好主意，嗯？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A larger washbasin allows for more flexibility in the kitchen.",
+    "value": "更大的脸盆使厨房更灵活。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A spiffy lookin' kitchen sink.",
+    "value": "一个看起来很时髦的厨房水槽。"
+  }
+]

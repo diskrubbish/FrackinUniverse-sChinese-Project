@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fixed light device, to highlight anything on the wall over it.",
+    "value": "一个固定的灯光设备，用来突出墙上的任何东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Spotlight",
+    "value": "合金聚光灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This device uses a glowing crystal to highlight something over it.",
+    "value": "这个设备使用发光的水晶来突出它上面的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This device uses a glowing crystal to highlight something over it.",
+    "value": "这个设备使用发光的水晶来突出它上面的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A shinny sstone to show thingss.",
+    "value": "一块闪闪发光的石头来展示东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Interested. The cold light from the glowing crystal could be usefull to light paintings.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This device uses a glowing crystal to highlight something over it.",
+    "value": "这个设备使用发光的水晶来突出它上面的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This device would be useful for a museum.",
+    "value": "这个装置对博物馆很有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Why someone may want to stare at a wall?",
+    "value": "为什么有人想盯着墙看？"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "We love to decorate our walls with words and geometry. This device help us to appreciate our decorations even more.",
+    "value": "我们喜欢用文字和几何图形来装饰我们的墙壁。这个装置帮助我们更欣赏我们的装饰。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The mythical, creepy Blood Stone.",
+    "value": "传说中的，令人毛骨悚然的血石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystallized Blood Stone",
+    "value": "结晶血石"
+  }
+]

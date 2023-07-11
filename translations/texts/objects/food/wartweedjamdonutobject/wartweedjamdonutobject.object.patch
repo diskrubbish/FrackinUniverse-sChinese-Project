@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Many have been fooled by these unpleasant donuts' tempting appearance.",
+    "value": "许多人被这些令人不快的甜甜圈诱人的外表所愚弄。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wartweed Jam Donuts",
+    "value": "疣草果酱甜甜圈"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thisss donut is... warty.",
+    "value": "这个甜甜圈是...疣。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disturbed. If I didn't know any better, I'd say this pastry had caught an especially hideous disease.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I think I'll pass on these.",
+    "value": "我想我会把这些传下去。"
+  }
+]

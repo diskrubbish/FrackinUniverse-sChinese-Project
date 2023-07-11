@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A flat screen! Modern and sleek!",
+    "value": "平面屏幕！现代时尚！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flat Screen Television",
+    "value": "平板电视"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A television set. I keep expecting to see Big Ape's face.",
+    "value": "电视机。我一直期待看到大猩猩的脸。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A monitor, for watching television.",
+    "value": "显示器，用来看电视的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Moving picturesss.",
+    "value": "动画片。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. The television is truly one of humanity's greatest achievements.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A flat screen! Good to see one of these out here.",
+    "value": "平面屏幕！很高兴在这里看到这样的一个。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "While the technology is impressive, many television shows are devoid of artistic merit.",
+    "value": "虽然技术令人印象深刻，但许多电视节目缺乏艺术价值。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A good ol' television. I do enjoy watching a gritty mystery unfold.",
+    "value": "好电视。我很喜欢看一个棘手的谜团展开。"
+  }
+]

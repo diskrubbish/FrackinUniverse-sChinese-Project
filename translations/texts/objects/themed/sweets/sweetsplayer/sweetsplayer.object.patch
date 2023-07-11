@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A macaroon themed record player. It plays a sweet little song.",
+    "value": "以杏仁饼为主题的录音机。它播放一首甜美的小歌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sweets Music Player",
+    "value": "糖果音乐播放器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ah. It's nice to hear recorded music without subliminal messaging.",
+    "value": "啊。在没有潜意识信息的情况下听到录制的音乐很好。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What a pleasant little music player. And it smells divine!",
+    "value": "多可爱的小音乐播放器啊。闻起来好极了！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wants to eat this, but the ssong is so nice...",
+    "value": "叶族人想吃这个，但是这个汤太好吃了..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. This is the kind of music one would hear in a bistro.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What a nice song... It sounds a little familiar, actually.",
+    "value": "多好听的歌啊...实际上，听起来有点熟悉。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I suppose this record player is rather cute... It's tolerable.",
+    "value": "我想这台唱机很可爱...还可以。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A sweet shaped player playin' a relaxin' tune.",
+    "value": "一个外形甜美的演奏者演奏着“放松”的曲调。"
+  }
+]

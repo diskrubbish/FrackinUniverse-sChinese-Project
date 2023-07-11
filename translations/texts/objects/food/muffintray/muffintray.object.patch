@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Baked with love! And fiber.",
+    "value": "用爱和纤维烤！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Muffin Tray",
+    "value": "松饼盘"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A nice alternative to toast in the mornings, when available.",
+    "value": "如果可以的话，这是早上烤面包的好选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Oh! These ones are topped with little seeds! Delightful.",
+    "value": "哦这些上面有小种子！让人使人快乐"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bland and flavorlessss...",
+    "value": "平淡无味..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Blissful. That smell is almost hypnotizing...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ah muffins - the cupcake's ugly cousin.",
+    "value": "啊，松饼——纸杯蛋糕的丑表弟。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Now THIS I can stomach.",
+    "value": "现在我能忍受了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Plain ol' muffins. Smell good though.",
+    "value": "纯松饼。不过闻起来不错。"
+  }
+]

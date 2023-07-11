@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This can't possibly be comfortable.",
+    "value": "这肯定不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Magma Sofa",
+    "value": "岩浆沙发"
+  }
+]

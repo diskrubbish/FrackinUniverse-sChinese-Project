@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Detects item drops within 8 tiles.",
+    "value": "检测8格内的物品掉落。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Item Sensor",
+    "value": "物品感应器"
+  }
+]

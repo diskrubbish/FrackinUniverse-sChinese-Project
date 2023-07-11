@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Adorable monster from your nightmares.",
+    "value": "来自你的梦魇的可爱的...不，备受崇拜的怪物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "My Little Cthulhu",
+    "value": "我的小小克苏鲁"
+  }
+]

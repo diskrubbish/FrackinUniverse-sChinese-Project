@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shiny armour stands armed and resolute.",
+    "value": "这套闪亮的盔甲代表着武装的坚韧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Armed Display Armour",
+    "value": "金色武装展示盔甲"
+  }
+]

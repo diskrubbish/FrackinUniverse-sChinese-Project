@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Radical!",
+    "value": "根本的"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Geometrical Poster",
+    "value": "几何海报"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I can't quite make out the data written on this poster.",
+    "value": "我看不清这张海报上写的数据。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A curious poster. What is with all these shapes?",
+    "value": "一张奇怪的海报。这些形状是怎么回事？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssshapes!",
+    "value": "形状！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Baffled. The purpose of this poster escapes me.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Not sure what this poster's supposed to mean, but the shapes are kind of cool looking.",
+    "value": "我不确定这张海报是什么意思，但形状看起来很酷。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Geometrical data, but for what purpose, I'm unsure.",
+    "value": "几何数据，但我不确定是为了什么目的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A funky poster of shapes 'n data.",
+    "value": "一张关于形状和数据的时髦海报。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sign telling you to turn back.",
+    "value": "一个标志，告诉你该回头了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Turn Back Sign",
+    "value": "停止前进标志"
+  }
+]

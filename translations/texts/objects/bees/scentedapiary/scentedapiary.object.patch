@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An apiary that does not spawn bees.",
+    "value": "住在这里面的蜜蜂是不会繁殖的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Scented Apiary^reset;",
+    "value": "^orange;芳香蜂箱^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Harvest honey!",
+    "value": "收获蜜蜂！"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table made from exonite.",
+    "value": "一个长石制的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exonite Table",
+    "value": "长石桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The style reminds me a little of the hylotl.",
+    "value": "这风格稍稍让我想起了鲛人。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of Hylotl craftsmanship.",
+    "value": "这个让我想起鲛人的工艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fisssh people table...?",
+    "value": "鱼鱼鱼人茶几...?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A well-made table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The crystal in this table looks pretty.",
+    "value": "这台茶几上的水晶看着太漂亮了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This table oddly reminds me of my people.",
+    "value": "这台茶几反常的让我想起我的同胞。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This table is mighty pretty.",
+    "value": "这张桌子非常漂亮。"
+  }
+]

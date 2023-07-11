@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Small window with text in it.",
+    "value": "在这个全息图内显示出了文本。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hologram, Text Window",
+    "value": "文本窗口全息图"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I think the rosetta module of my translator is acting up...",
+    "value": "我认为我的罗塞塔编译器模块正在启动..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Avali writing is like peck marks.",
+    "value": "羽族写的东西好像啄痕。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Why do not-birdssss need so many words!?",
+    "value": "为什么他们还需要这么多多多文字，他们不是鸟吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pondering. If the Avali have a network, why do they have optical interfaces too?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Wait, I know this writing; it says FUS-RO-DAH!",
+    "value": "等等，我记得这个词，它的发音是： FUS-RO-DAH！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'll just pass a copy of this to my secretary...",
+    "value": "我只是拷贝了一份传给了我的秘书..."
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "I think someone was reading their personal message wall while at work.",
+    "value": "我想有人在工作时正在阅读他们的个人信息墙。"
+  }
+]

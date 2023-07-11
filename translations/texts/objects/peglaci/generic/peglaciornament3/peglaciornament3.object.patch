@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sample of some kind of crystal.",
+    "value": "某种水晶的样品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Sample",
+    "value": "水晶样品"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This looks like a sample of some sort of crystal.",
+    "value": "这看起来像某种水晶的样品。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A small crystal.",
+    "value": "一个小水晶。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Shiny sstone! Lookss important.",
+    "value": "闪亮的水晶！看起来很重要。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This little crystal is quite decorative.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This small crystal looks beautiful, I want one too!",
+    "value": "这个小水晶看起来很漂亮，我也想要一个！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This kind of crystal seems to be used as a decoration.",
+    "value": "这种水晶似乎是用来装饰的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A shiny stone, eh? Not as shiny as me!",
+    "value": "一块闪亮的石头，嗯？没有我那么闪亮！"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "We use this special crystal to make and ornamentate our craftings.",
+    "value": "我们用这种特殊的水晶来制作和装饰我们的工艺品。"
+  }
+]

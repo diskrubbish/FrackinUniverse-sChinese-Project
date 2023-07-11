@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perfect for when you're stranded on a tropical island.",
+    "value": "非常适合被困在热带岛屿上。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coconut Ice Cream",
+    "value": "椰子冰淇淋"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Not as sssweet as Floran was expecting...",
+    "value": "不像叶族人所期望的那么甜蜜..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. This ice cream isn't particularly sweet, but the coolness is still appreciated.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now that's an odd flavor right there. Not bad though.",
+    "value": "这是一种奇怪的味道。不过还不错。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dinosaur nest. Don't disturb the eggs.",
+    "value": "一个恐龙巢，不要去打那些蛋的主意。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Raptor Nest",
+    "value": "恐龙巢"
+  }
+]

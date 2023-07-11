@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/pickupDeuterium/text",
+    "raw": "Deuterium is relatively common, but difficult to extract. It is also necessary for unstable particles which are *extremely* useful in the lab.",
+    "value": "氘相对常见，但难以提取。它是制作不稳定粒子的必要材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/pickupTritium/text",
+    "raw": "Tritium is produced by fission reaction, and is a viable means to obtain helium-3 as well, via extraction in a laboratory.",
+    "value": "氚是核聚变反应所生成的，可以把它萃取制作成氦-3。"
+  },
+  {
+    "op": "replace",
+    "path": "/pickupEnrichedplutonium/text",
+    "raw": "Much more viable as a fuel and resource than its unrefined self. Enriched Plutonium can help you reach the stars.",
+    "value": "相比提纯之前，提纯后的钚是一种更加强效的燃料和资源，它可以帮助你飞向更远的星空。"
+  },
+  {
+    "op": "replace",
+    "path": "/pickupEnricheduranium/text",
+    "raw": "Enriched uranium finds itself a unique niche: armor piercing ability when applied to metallic rounds.",
+    "value": "浓缩铀有着独一无二的穿甲能力。可以用于制作武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/pickupNeptunium/text",
+    "raw": "Slightly more radioactive than uranium, and also a much more useful source of fuel, Neptunium will be your friend when you need it.",
+    "value": "镎的放射性比铀略高，也可以作为燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/pickupThorium/text",
+    "raw": "Relatively rare, but exceptionally useful, Thorium will provide a boost to your survival and ability to travel the stars.",
+    "value": "钍是相对罕见，但又非常有用的物质。它会提高你的生存和星际旅行的能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/pickupUltronium/text",
+    "raw": "Who knows how this is even possible, but you have created a whole new type of radiation. Let us call it: Ultronium. Check out that fuel capability!",
+    "value": "恭喜你，你创造出了一种全新的辐射物质。让我们把它称为：奥创棒！快去测试一下这个新的燃料的性能吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/pickupNeutronium/text",
+    "raw": "This was supposed to be a ^yellow;hypothetical^reset; element. You've gone ahead and created it. I heavily (and I cannot stress this enough) recommend against being careless with this.",
+    "value": "这本应是一种^yellow;假想的^reset;元素，而你已经创造了它。我强烈建议(并且再怎么强调都不为过)你小心对待它。"
+  },
+  {
+    "op": "replace",
+    "path": "/pickupAntiNeutronium/text",
+    "raw": "^red;WARNING!!!^reset;: This element is extremely dangerous and should, under no circumstances, be used to make an explosive paired with Neutronium.",
+    "value": "^red;警告！！！^reset;这种元素在任何情况下都是极其危险的！它被用来和中子素配对，以制造一场大爆炸。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pillars of Impervium alloy able to support enormous structures.",
+    "value": "能够支撑巨大结构的统制合金柱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Impervium Pillar",
+    "value": "统制支柱"
+  }
+]

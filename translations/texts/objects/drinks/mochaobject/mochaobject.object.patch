@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mild blend of coffee and hot chocolate.",
+    "value": "咖啡和热巧克力的温和混合。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mocha",
+    "value": "摩卡"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssweet coffee.",
+    "value": "甜甜甜咖啡。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. A mild blend of coffee and hot chocolate.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Coffee sweetened with a li'l chocolate.",
+    "value": "加了一小块巧克力使咖啡变甜。"
+  }
+]

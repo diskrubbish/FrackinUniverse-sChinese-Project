@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp post.",
+    "value": "一个灯柱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lamp Post",
+    "value": "灯柱"
+  }
+]

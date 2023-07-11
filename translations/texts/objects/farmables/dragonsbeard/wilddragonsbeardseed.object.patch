@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nearly immune to all forms of heat.",
+    "value": "可以收获龙须草，食用后会免疫炎热、致命炎热。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dragonsbeard",
+    "value": "龙须草种子"
+  }
+]

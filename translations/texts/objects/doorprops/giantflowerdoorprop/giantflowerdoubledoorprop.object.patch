@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Doors with a cheerful wreaths on them.",
+    "value": "门上有令人愉快的花环。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Giant Flower D. Door Prop",
+    "value": "巨大花双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Wooden doors garnished with welcoming wreaths.",
+    "value": "有欢迎花环装饰的木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Whoever put these wreath here wanted people to feel welcome.",
+    "value": "不管是谁把这些花环放在这里，都希望人们感到受到欢迎。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran use wreaths as sssign for sssecret hunt club.",
+    "value": "叶族人用花圈作为秘秘秘密狩猎俱乐部的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. Doors with wreaths on them.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What cheerful doors.",
+    "value": "多么令人愉快的门啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These doors are designed to be welcoming.",
+    "value": "这些门设计得很受欢迎。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Nice doors for a welcomin' home. Like a nice smile on a friendly face.",
+    "value": "欢迎回家的好门，就像友好面孔上的微笑。"
+  }
+]

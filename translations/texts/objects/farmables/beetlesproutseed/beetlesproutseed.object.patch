@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange insect-jelly plant. Very tough.",
+    "value": "一种非常坚韧的奇怪虫状凝胶类植物。可以收获虫芽花，食用后会提高防御。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beetle Sprout",
+    "value": "虫芽花种子"
+  }
+]

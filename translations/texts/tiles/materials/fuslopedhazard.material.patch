@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This pattern suggests caution.",
+    "value": "这种图案提醒人们注意安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloped Hazard Block",
+    "value": "倾斜的危险方块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. This pattern indicates I should watch my step.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thesse sstripes mean caution.",
+    "value": "这些条纹意味着小心。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These strips're somethin' I should pay attention to.",
+    "value": "我需要把注意力放在这些条纹上面。"
+  }
+]

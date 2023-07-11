@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This stone reflects no light.",
+    "value": "这块石头没有任何光芒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Umbral Stone",
+    "value": "半影石头"
+  }
+]

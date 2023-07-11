@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cactus",
+    "value": "一株仙人掌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cactus",
+    "value": "仙人掌"
+  }
+]

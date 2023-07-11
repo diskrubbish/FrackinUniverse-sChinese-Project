@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Gives your tenants a place to dispose of their recyclable goods. \n^yellow;+1 Happiness^reset;",
+    "value": "给你的房客一个处理可回收物品的地方。\n^yellow;+1幸福^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Recycling Center",
+    "value": "回收中心"
+  }
+]

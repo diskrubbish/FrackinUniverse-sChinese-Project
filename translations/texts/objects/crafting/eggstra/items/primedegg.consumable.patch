@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's an egg, it might hatch soon.",
+    "value": "这个蛋很快就要孵化了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Primed Egg",
+    "value": "快孵化的蛋"
+  }
+]

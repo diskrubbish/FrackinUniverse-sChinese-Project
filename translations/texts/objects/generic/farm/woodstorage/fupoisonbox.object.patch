@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Keep dangerous crap in here.",
+    "value": "把危险的物品存放在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poison Storage",
+    "value": "毒药储存箱"
+  }
+]

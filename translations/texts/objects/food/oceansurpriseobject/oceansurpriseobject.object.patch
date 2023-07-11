@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Hylotl dish, overloaded with ingredients of questionable oceanic origin.",
+    "value": "一道鲛人菜肴，含有大量来源于海洋的可疑成分。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ocean Surprise",
+    "value": "海洋惊喜"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran not sssure they like this surprise...",
+    "value": "叶族人不确定他们是否喜欢这个惊喜..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Snarky. Oh joy, there's nothing I love more with my food than surprises.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'll be \"surprised\" if this thing doesn't make me keel over dead.",
+    "value": "如果这件事不让我倒下，我会感到“惊讶”。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rough, unrefined arkose.",
+    "value": "粗糙的，未精炼的长石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Arkose Block",
+    "value": "长石块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Arkose.",
+    "value": ""
+  }
+]

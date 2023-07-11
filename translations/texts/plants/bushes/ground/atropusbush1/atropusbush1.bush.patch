@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strange fleshy stuff.",
+    "value": "既奇怪又多肉的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "What in the...just being near this is uncomfortable.",
+    "value": "这到底什么什么东西？靠近它让我感觉很不舒服。"
+  }
+]

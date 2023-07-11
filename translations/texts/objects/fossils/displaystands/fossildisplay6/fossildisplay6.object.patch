@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A display stand for large fossils",
+    "value": "大型化石陈列架"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Display fossils",
+    "value": "展示化石"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X-Large Fossil Display",
+    "value": "大型化石陈列架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A display stand. Used for fossils.",
+    "value": "展台。用于展示化石。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A fossil display stand. Doesn't have a complete fossil though.",
+    "value": "化石陈列架。但没有完整的化石。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fosssil Display isss good.",
+    "value": "很好的化石展示。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Interested. A fossil will be displayed here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Feels a bit sad without a complete fossil to show.",
+    "value": "没有一个完整的化石来展示，我感到有点失望。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'd be more interested if there were a complete fossil displayed here.",
+    "value": "如果这里有完整的化石，我会更感兴趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Looks good. Look a whole lot better with a complete fossil...",
+    "value": "看起来不错。一个完整的化石看起来好多了..."
+  }
+]

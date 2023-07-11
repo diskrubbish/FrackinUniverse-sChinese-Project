@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Latch onto walls for 8s.",
+    "value": "一种抓墙科技，持续时间8秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Magnet Grip I^reset;",
+    "value": "^#77acc3;磁吸攀附 I^reset;"
+  }
+]

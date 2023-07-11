@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Eldergrass",
+    "value": "远古草"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Strange grass",
+    "value": "诡异草"
+  }
+]

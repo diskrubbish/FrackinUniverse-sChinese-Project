@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The fruiting body of a subterranean slime mold. This one has already begun sporing.",
+    "value": "可以收获泡桐果，食用后会赋予黑夜疗愈。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sporing Kiri Fruit [FU]",
+    "value": "泡桐果种子[FU]"
+  }
+]

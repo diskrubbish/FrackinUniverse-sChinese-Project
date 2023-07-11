@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small fridge made from penumbrite.",
+    "value": "用半影矿做成的小冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbrite Mini Fridge",
+    "value": "半影迷你冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fridge similar to the style of the Hylotl.",
+    "value": "类似鲛人风格的冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the Hylotl.",
+    "value": "这让我想起了鲛人。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fisssh perssson food box.",
+    "value": "鱼人食品盒。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A fridge with a complicated design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This fridge looks like something from a Hylotl village!",
+    "value": "这个冰箱看起来像鲛人村的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This fridge almost reminds me of our own craftsmanship.",
+    "value": "这台冰箱几乎让我想起了我们自己的手艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This fridge is mighty fancy like them Hylotl folk make.",
+    "value": "这台冰箱非常奇特，就像鲛人制作的一样。"
+  }
+]

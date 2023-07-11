@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tough wastestone.",
+    "value": "坚固的废墟石块"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wastestone Block",
+    "value": "废墟石块"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Extreme Electrical Storm (Resist: ^#f477ff;Electric^reset;)",
+    "value": "极端雷电风暴 (抵抗: ^#f477ff;电气^reset;)"
+  }
+]

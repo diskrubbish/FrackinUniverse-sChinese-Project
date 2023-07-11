@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some may call this junk. Me, I call them treasures.",
+    "value": "彼视之如粪土。我视之如宝藏。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shop Counter, Glitch",
+    "value": "电子人售货柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Seeing merchants so naturally cheery certainly is a nice change of pace.",
+    "value": "看到商人们如此自然地兴高采烈当然是一步不错的改变。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These merchants certainly do their best to make you feel welcome, don't they?",
+    "value": "这些商人肯定会尽力让你感到受欢迎，不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Will metal man let Floran eat their old counter's woodworms if they ask nicely...?",
+    "value": "如果他们好声好气地问，电子人会让叶族人吃他们的老柜台的木蛀虫...？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. No one more trustworthy than an Glitch shopkeep.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It feels like walking into a renaissance fair.",
+    "value": "这感觉就像走进了一家文艺复兴时代的店铺。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This counter is ancient and likely unsanitary, but the merchants seem nice enough.",
+    "value": "这个柜台很古老，很可能不卫生，但是商人们看起来还不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty fine counter for a mighty kind merchant.",
+    "value": "对于一个非常善良的商人来说，这是一张非常好的柜台。"
+  }
+]

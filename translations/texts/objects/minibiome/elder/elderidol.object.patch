@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A putrid idol of a horrific deity-like creature.",
+    "value": "一个可怕恶魔般生物的祭坛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Altar to Cthulhu",
+    "value": "克苏鲁祭坛"
+  }
+]

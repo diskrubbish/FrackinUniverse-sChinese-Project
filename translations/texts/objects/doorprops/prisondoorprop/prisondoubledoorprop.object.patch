@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Doors made of thick metal bars.",
+    "value": "用厚金属条制成的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Barred Double Door Prop",
+    "value": "屏障双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Strong metal bars. Somehow, they're quite pretty.",
+    "value": "坚固的金属栅栏，不知怎么的，它们很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These bars look pretty sturdy.",
+    "value": "这些栏杆看起来很结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssturdy bars.",
+    "value": "坚坚坚固的栅栏。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. A remarkably strong set of bars.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Bars. No matter which side we're on, aren't we always behind them? And now I have a headache.",
+    "value": "栏杆。不管我们站在哪一边，我们不是总是在他们后面吗？现在我头疼。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Even in a cage, a mind can travel freely.",
+    "value": "即使在笼子里，心灵也可以自由地旅行。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "You'd need some good tools to break outta here.",
+    "value": "你需要一些好工具才能从这里逃出去。"
+  }
+]

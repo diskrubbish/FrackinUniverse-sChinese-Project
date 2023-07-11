@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A soft toy bunny toy. Cuddle it! Go on!",
+    "value": "一个柔软的玩具兔子玩具。拥抱它！继续！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bunny Plushie",
+    "value": "小兔子毛绒玩具"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Do rabbits even come in colors like this? Probably not.",
+    "value": "兔子有这样的颜色吗？可能不会。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I want to cuddle this toy, but I feel like my own bunny would get jealous...",
+    "value": "我想抱抱这个玩具，但我觉得我自己的兔子会嫉妒..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bunny toy has no meats. Floran will settle for cuddles insstead.",
+    "value": "兔子玩具没有肉。叶族人会满足于拥抱。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Resigned. Sigh. I suppose cuddling this toy for a moment won't hurt.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Wow, this toy's pretty soft. It's just BEGGING for someone to cuddle with it.",
+    "value": "哇，这个玩具很柔软。它只是乞求有人拥抱它。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I just want to snuggle with this bunny and never let go!",
+    "value": "我只想依偎着这只兔子，永不放手！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's cute, I guess. Soft too.",
+    "value": "我想它很可爱。也很软。"
+  }
+]

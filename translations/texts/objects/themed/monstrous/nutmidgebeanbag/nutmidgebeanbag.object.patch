@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A beanbag chair modeled after a Nutmidgling. * Additional chairs sold separately.",
+    "value": "一把模仿榛果的豆袋椅。*额外的椅子单独出售。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Monstrous Beanbag",
+    "value": "大豆包"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A beanbag chair. I haven't sat in one of these in years.",
+    "value": "豆袋椅。我已经好几年没坐过了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This chair feels as though it could swallow me... but it's not an entirely bad feeling.",
+    "value": "这把椅子感觉好像能把我吞下去...但这并不是一种完全不好的感觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssquishy chair!",
+    "value": "漂亮的椅子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This chair even has the \"tuft\" of an actual nutmidge!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Aw yeah, beanbag chairs!",
+    "value": "哦，是的，豆包椅！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Rather inelegant seating... but I must admit, it's rather comfortable.",
+    "value": "相当不雅观的座位...但我必须承认，这很舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This chair supposed to be so squishy? Feels weird...",
+    "value": "这把椅子应该这么粘吗？感觉很奇怪..."
+  }
+]

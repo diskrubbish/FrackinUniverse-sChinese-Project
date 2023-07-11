@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy cute wall-mounted bookcase.",
+    "value": "一个坚固的、可爱的壁挂式书柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Hanging Bookcase",
+    "value": "可爱的悬挂式书柜"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A door suitable for a spaceship.",
+    "value": "一扇适用于飞船的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Ship Door",
+    "value": "绘世者船舱门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These doors are used on all our ships. This one is not playing nice.",
+    "value": "这种类型的门在我们猿族的所有飞船上都有使用。这扇门工作异常。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A door. It won't open.",
+    "value": "一扇门。它打不开。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Door won't open!",
+    "value": "这门它不开！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disappointed. A door. It appears to be disabled currently.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Cool door. Too bad it isn't opening right now.",
+    "value": "很酷的门，糟糕的是它现在不能打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A basic ship door. It won't open at the moment.",
+    "value": "一扇基础的飞船门，在这种情况下它不会打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The door is broken, it ain't opening any time soon.",
+    "value": "这扇门坏了，显然在一段时间内不能被打开。"
+  }
+]

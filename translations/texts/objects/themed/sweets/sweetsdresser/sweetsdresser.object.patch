@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dresser fashioned after a chocolate bar, or simply a massive hollowed out chocolate bar?",
+    "value": "是按照巧克力棒设计的梳妆台，还是仅仅是一块巨大的镂空巧克力棒？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sweets Dresser",
+    "value": "糖果梳妆台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "That is... one massive candy bar.",
+    "value": "那就是...一大块糖果。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Where even is the handle on this dresser?",
+    "value": "这个梳妆台的把手在哪？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sshould keep this away from fire too.",
+    "value": "叶族人也应该把这个离火远点。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Worried. Will this dresser melt at room temperature?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Lemme just break off a little corner piece for later~",
+    "value": "让我剪下一小块角块待会儿用~"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'll admit the dedication in carving this dresser is remarkable.",
+    "value": "我承认雕刻这个梳妆台的奉献精神是非凡的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'm not too sure I should be standin' near this dresser... I might just melt it.",
+    "value": "我不太确定我应该站在这个梳妆台附近...我可能会把它融化。"
+  }
+]

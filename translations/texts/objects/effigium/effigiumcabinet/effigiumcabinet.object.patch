@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cabinet that seems to fade in and out of existence.",
+    "value": "一个似乎逐渐消失的柜橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Effigium Cabinet",
+    "value": "幻影橱柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple cabinet. You can't hide anything in here.",
+    "value": "一个简单的橱柜。在这里你不能隐藏任何东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Just a cabinet. The gem is pretty.",
+    "value": "只是一个橱柜。这块宝石很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran knowsss thisss isss a cabinet.",
+    "value": "叶族人知道道道这这这是是是个橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Bored. Simply a cabinet.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty regular cabinet, but I wouldn't want people seeing all my things.",
+    "value": "一个很普通的橱柜，但我不希望别人看到我的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A good place to store items if they are not private.",
+    "value": "一个用来存放非私人物品的好地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A simple cabinet. Everyone can see my jim jams.",
+    "value": "一个简单的橱柜。大家都能看到我的吉姆果酱。"
+  }
+]

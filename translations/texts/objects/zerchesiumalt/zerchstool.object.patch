@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stool made from polished zerchesium.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Stool",
+    "value": "高熔点矿大便"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A sleek, simple stool.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This stool has a very simple design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likesss to ssit.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A sleek stool.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This stool looks nice and sleek.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The simplicity of the design is pleasing to the eyes.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This stool is mighty simple.",
+    "value": ""
+  }
+]

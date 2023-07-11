@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A counter to reserve a seat or get your sushi to go.",
+    "value": "一个柜台，用来预订座位或带走寿司。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sushi Bar Shop Counter",
+    "value": "寿司店柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ah, it looks like they have dishes up front for those who'd prefer to take their meal home.",
+    "value": "啊，看起来他们为那些更愿意把饭带回家的人准备了菜肴。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A clean shop counter. It looks like they have meals to go.",
+    "value": "一个干净的商店柜台。看起来他们要吃饭了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fressh fish... Still sssmelly though.",
+    "value": "这些新鲜鱼...闻起来还是很臭。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. This counter is well kept and the sushi freshly made.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh cool! Looks like I can get sushi to go.",
+    "value": "哦，酷！看来我可以把寿司带走了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "While most Hylotl chefs'd prefer their craft is eaten on the spot, the option to take sushi home exists.",
+    "value": "虽然大多数鲛人厨师更喜欢他们的手艺是当场吃，选择带寿司回家存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I hope they got a chart explainin' what everything is...",
+    "value": "我希望他们有一张图表来解释一切..."
+  }
+]

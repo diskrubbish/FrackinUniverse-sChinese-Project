@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A relic from a simpler time.",
+    "value": "从一个更简单的时代遗留下来的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Retro Computer",
+    "value": "复古计算机"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Apex civilians are largely without access to internet. I should count my blessings I even have this.",
+    "value": "猿族平民基本上无法上网。我应该数我的祝福，我甚至有这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A computer so ancient I'd have reason to believe it was made by the original Stargazers.",
+    "value": "一台如此古老的计算机，我有理由相信它是由最初的天文学家制造的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Old computer gets hot too eassily...",
+    "value": "旧电脑太容易热了..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. Are these really what early computers looked like?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh wow, it's so clunky! I wonder if it has solitaire?",
+    "value": "哦，哇，太笨拙了！不知道有没有纸牌？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An archaic computer. It's a wonder it can even start up, let alone function.",
+    "value": "古老的计算机。这是一个奇迹，它甚至可以启动，更不用说功能。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An old-timey computer, it looks like.",
+    "value": "看起来像是一台老式电脑。"
+  }
+]

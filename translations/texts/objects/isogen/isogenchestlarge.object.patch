@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large chest. It's too cold.",
+    "value": "一个大箱子。天气太冷了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Isogen Chest",
+    "value": "巨型寒霜箱子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A chest. It's too cold to touch.",
+    "value": "一个箱子。天太冷了，摸不着。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Often these chests stored valuables, but this seems to freeze them.",
+    "value": "这些箱子通常存放贵重物品，但这似乎会冻结它们。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Chessst! Floran musst sssearch!",
+    "value": "箱箱箱子！叶族热门必须找找找看！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This is too cold to store items.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A chest! It's too cold to know what's inside.",
+    "value": "一个箱子！天太冷了，不知道里面有什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There is little as exciting as an unopened chest, but I would rather not be frozen.",
+    "value": "没有什么比一个未打开的箱子更令人兴奋的了，但我宁愿不被冻住。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I don't think there'll be much in here.",
+    "value": "我不认为这里会有什么。"
+  }
+]

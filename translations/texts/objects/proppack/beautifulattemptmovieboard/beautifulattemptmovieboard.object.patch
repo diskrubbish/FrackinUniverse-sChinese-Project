@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The hit video game is about to hit the big screen!",
+    "value": "热门视频游戏即将登上大屏幕！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "\"Beautiful Attempt\" Movie Billboard",
+    "value": "【美丽尝试】电影广告牌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Oh this certainly looks like it will be... colorful.",
+    "value": "哦，这看起来肯定是...丰富多彩的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Well that's one way to get the word out.",
+    "value": "好吧，这是一个让这个词出来的方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Stinky fisshman movie.",
+    "value": "臭鱼人电影。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uninterested. I can think of a million better ways to spend both my time and pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh hey, this might be interesting to watch.",
+    "value": "哦，嘿，这可能很有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Ugh, the set piece designs from the trailer looked just AWFUL. And casting Kirami Pista of all people as Kasumi? Honestly, did the director even LOOK at the source material?",
+    "value": "预告片上的定位球设计看起来很糟糕。把所有人的Kirami Pista选为霞？老实说，导演有没有看过原始材料？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This one of them animes?",
+    "value": "这是一部动画片吗？"
+  }
+]

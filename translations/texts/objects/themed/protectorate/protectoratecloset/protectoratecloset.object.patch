@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A standard issue Protectorate dorm room closet.",
+    "value": "一个标准的大地守护团寝室壁橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protectorate Closet",
+    "value": "大地守护团壁橱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A dorm room closet... And this one I can have all to myself!",
+    "value": "宿舍的壁橱...而这个我可以独享！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These closets had just enough space to house a dorm room's collective clothing.",
+    "value": "这些衣橱刚好有足够的空间容纳宿舍的集体服装。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Protectorate closet from Earth...",
+    "value": "来自地球的大地守护团壁橱..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Melancholy. Once upon a time, I wished to have this closet to myself. But now...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This closet's so much roomier with only one person using it...",
+    "value": "这个壁橱更宽敞了，只有一个人用..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A space efficient Protectorate closet. It's very- ... was very suitable for dorm room living.",
+    "value": "一个节省空间的大地守护团壁橱。非常...非常适合宿舍生活。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This closet had to be mighty sturdy to be salvaged from Earth in one piece.",
+    "value": "这个壁橱必须非常坚固，才能完整地从地球上打捞上来。"
+  }
+]

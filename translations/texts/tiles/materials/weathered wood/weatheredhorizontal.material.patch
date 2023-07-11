@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Exceptionally fashionable weathered wood.",
+    "value": "格外时尚的风化木材。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "W. Horizontal Planks",
+    "value": "风化横木板"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some weathered planks of wood.",
+    "value": "一些风化的木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Weathered wood that's been crafted into planks.",
+    "value": "风化的木材，被制作成木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Satisfied. These are well crafted weathered wood planks.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fancy wood plankss.",
+    "value": "漂亮的木板板板。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Some weathered wooden planks.",
+    "value": "一些风化的木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Weathered wood planks.",
+    "value": "风化的木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just some fancy lookin' weathered wood planks.",
+    "value": "只是一些看起来很漂亮的风化木板。"
+  }
+]

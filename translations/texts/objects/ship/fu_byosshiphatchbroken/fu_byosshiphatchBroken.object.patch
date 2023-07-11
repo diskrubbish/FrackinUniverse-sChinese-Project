@@ -1,0 +1,92 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hatch suitable for a spaceship.",
+    "value": "一个适合于宇宙飞船的舱口。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ship Hatch",
+    "value": "船舱口"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These hatchs are used on all our ships. This one is not playing nice.",
+    "value": "这些舱口为所有我们的飞船所用。这一个看起来工作得不怎么好。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A hatch. It won't open.",
+    "value": "一个舱口。它打不开。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hatch won't open!",
+    "value": "打不开舱口！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disappointed. A hatch. It appears to be disabled currently.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Cool hatch. Too bad it isn't opening right now.",
+    "value": "非常酷的舱口。现在无法打开它，真是糟糕。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A basic ship hatch. It won't open at the moment.",
+    "value": "一个基础的飞船舱口。它现在打不开。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The hatch is broken, it ain't opening any time soon.",
+    "value": "这个舱口坏掉了，一时半会是打不开的。"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "Radicool!  A state-of-the-art dual-sliding hatch!",
+    "value": "太酷了！最先进的双滑动舱口！"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "A hatch, for a ship.",
+    "value": "一个舱口，用于飞船。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Neat, a horizontal door.",
+    "value": "整洁，一扇水平门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avikanDescription",
+    "raw": "A strong hatch from home, built for use on ships.",
+    "value": "一种坚固的舱口，从家里建造，用于船上。"
+  },
+  {
+    "op": "replace",
+    "path": "/trinkDescription",
+    "raw": "An efficient way to seal off an entire ship compartment.",
+    "value": "一种有效的密封整个船舶舱室的方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/drodenDescription",
+    "raw": "Detected hatch. Analysis: Ship model.",
+    "value": "检测到舱口。分析：船舶模型。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The pod emits a natural yellow light.",
+    "value": "发出自然的黄色光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honeycomb Light",
+    "value": "蜂巢灯"
+  }
+]

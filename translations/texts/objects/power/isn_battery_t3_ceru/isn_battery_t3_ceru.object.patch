@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A much improved battery perfect for basic industrial use.^truncate; ^red;Scan for Info^reset;\nStorage Capacity: ^green;4000^reset;J",
+    "value": "升级的电力储存设备，完美应用于工业。\n^red;扫描以查看更多信息^reset;\n储存电能：^green;4000^reset;J"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^green;Industrial^reset; Battery",
+    "value": "^orange;工业^reset;电池"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sushi on a conveyer belt! I guess you could call it a Sushi-Go-Round!",
+    "value": "传送带上的寿司！我猜你可以称之为寿司围观！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sushi Belt",
+    "value": "寿司带"
+  }
+]

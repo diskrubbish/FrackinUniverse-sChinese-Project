@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The crystal embedded into this fixture glows with a cold light.",
+    "value": "嵌在这个装置里的水晶发出冷光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Light",
+    "value": "水晶灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A light to see by, perhaps a little flashy in design...",
+    "value": "一盏可以看到的灯，也许设计上有点浮华..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Crystals are useful for everything. But this one feels really cold.",
+    "value": "晶体对任何东西都有用。但是这个感觉很冷。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A shining light fashioned from ssstone.",
+    "value": "用石头制成的闪光的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. What a nice light.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "As far as lamps go, this is a real gem.",
+    "value": "就灯具而言，这是一块真正的宝石。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What an intriguing lamp fashioned from an exemplary gem.",
+    "value": "这是一盏多么迷人的灯啊，它是由一颗堪称典范的宝石制成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This crazy light looks like it's made from rock.",
+    "value": "这盏疯狂的灯看起来像是石头做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "This light is perfect to see in the cold depths of our flooded passages.",
+    "value": "在我们被水淹没的通道的寒冷深处，这种光线是完美的。"
+  }
+]

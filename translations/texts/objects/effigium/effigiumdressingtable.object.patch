@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dressing table that seem to fade in and out of existence.",
+    "value": "一个似乎在逐渐消失的梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Effigium Dressing Table",
+    "value": "幻影梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A medium amount of storage.",
+    "value": "中等容量的存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wouldn't like to sleep next to this.",
+    "value": "我可不想睡在这个旁边。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big ssize ssstorage.",
+    "value": "大号号号的存存存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. A medium amount of storage, but everyone can see what I put in there.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I don't think I'll put this in my bedroom.",
+    "value": "我不想把这玩意放在我的卧室里。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A medium storage space. I dislike how it fades away.",
+    "value": "存储空间中等大小。我不喜欢它逐渐消失。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That is mighty spooky, the way it just disappears.",
+    "value": "这太可怕了，它就这样消失了。"
+  }
+]

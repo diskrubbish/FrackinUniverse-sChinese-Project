@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Uses gnome slave labor to craft your stuff. This is super illegal, but who's going to stop you? Certainly not the gnomes.",
+    "value": "使用地精奴隶来制作你的东西。这铁定违法，但谁能阻止你呢？还能是地精？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Gnome Workshop^reset;",
+    "value": "^orange;地精工坊^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This seems like something the Miniknog would do.",
+    "value": "这似乎是科技发展部会做的事情。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "They work hard for my benefit.",
+    "value": "他们为了我的利益而努力工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Work harder, little ssslaves!",
+    "value": "努力工作，小小小奴隶们！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Oppresive. These gnomes will work ceaselessly.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's like Santa's workshop. But crueler.",
+    "value": "就像圣诞老人的工作室，但更残忍。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'm sure most Hylotl would disapprove of this.",
+    "value": "我相信大多数鲛人都不会赞成这种做法。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Them little folk sure are hard working!",
+    "value": "他们这些小家伙真是辛苦！"
+  }
+]

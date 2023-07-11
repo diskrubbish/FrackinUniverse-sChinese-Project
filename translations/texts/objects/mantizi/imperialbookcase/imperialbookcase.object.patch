@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Probably filled with gossip and smut.",
+    "value": "可能充满了流言蜚语和淫秽。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Bookcase",
+    "value": "甲虫书柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A nicely decorated book case.",
+    "value": "装饰精美的书柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A home for Mantizi books.",
+    "value": "甲虫图书之家。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Do not like bug books.",
+    "value": "我不喜欢虫子书。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Inspection. The Mantizi are famous for their tabloid publications, and infamous for their erotica.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I found a copy of this in the woods when I was young.",
+    "value": "我年轻时在树林里发现了一本。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "How scandalous.",
+    "value": "真可耻。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Ugh, reading.",
+    "value": "啊，读书。"
+  }
+]

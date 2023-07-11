@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Best not sit on it if you're carrying magnetic media.",
+    "value": "如果你携带磁性物品，最好不要坐在上面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Maglev Armchair",
+    "value": "磁悬浮椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What a decadent misuse of science... and fun.",
+    "value": "竟然把科学用在这种地方！不过还蛮有趣的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Hope the cult of Kluex don't see this chair, they'd declare it heretical.",
+    "value": "希望克鲁西斯的崇拜者没有看到这把椅子，要不然他们会宣布它是邪恶的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thissss chair is cheating, it won't fall down.",
+    "value": "这这这椅子在欺骗叶族人，它没有掉下来。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Distress. This chair is radiating a dangerously strong magnetic field!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I have got to get me one of these!",
+    "value": "我要一把这样的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It feels like I'm sitting on nothing at all! Nothing. At. All.",
+    "value": "感觉就像我坐在半空中，底下什么都没有！"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "I could just curl up and fall asleep on it...",
+    "value": "位置太小，看来我得抱成一团才能在上面睡觉..."
+  }
+]

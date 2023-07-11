@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Transforms a planet's climate into a Chromatic biome.",
+    "value": "(请放置于地表，可移动式，激活后请耐心等待)可将星球的特征转换为多彩。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chromatic Terraformer",
+    "value": "多彩转换器"
+  }
+]

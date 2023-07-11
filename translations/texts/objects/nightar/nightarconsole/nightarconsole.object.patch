@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small console made by the Nightar.",
+    "value": "夜族人制作的小型控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Console",
+    "value": "夜族控制台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small consol.",
+    "value": "一个小型控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Dont know what is this.",
+    "value": "我不知道这是什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likess shiny sstuff.",
+    "value": "叶族人喜欢闪亮的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Admiration. An advanced console made with Nightar technologies.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hmm, a console, but not like anything i've seen on Earth.",
+    "value": "嗯，一个控制台，但不像我在地球上见过的任何东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An advanced console",
+    "value": "一个高级控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A neat lookin' shiny console!",
+    "value": "一个整洁的外观闪亮的控制台！"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This abhorrent statue grips some sort of glowing artifact in its inhuman claw.",
+    "value": "某种神器正在这可怕雕像的爪子上发出光芒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Artifact",
+    "value": "远古神器"
+  }
+]

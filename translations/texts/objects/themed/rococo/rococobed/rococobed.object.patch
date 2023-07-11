@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fancy vintage bed.",
+    "value": "一张精致的复古床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rococo Bed",
+    "value": "洛可可床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An expertly crafted bed. A luxury none but the Miniknog could afford, surely.",
+    "value": "精心制作的床。当然，除了科技发展部，没有人能买得起。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What craftsmanship! You just don't find beds this good anymore.",
+    "value": "多好的手艺啊！你再也找不到这么好的床了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fancy wood bed. Looks cozy...",
+    "value": "漂亮的木床。看起来很舒服..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Drowsy. I don't suppose a quick nap would hurt...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh man, this mattress is so soft I might get lost in it.",
+    "value": "天啊，这床垫太软了，我可能会在里面迷路。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A truly beautiful bed. One can only imagine how luxurious it must be to lie in it at night.",
+    "value": "一张非常漂亮的床。人们只能想象晚上躺在床上是多么奢侈。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's a real beauty of a bed, alright.",
+    "value": "床真漂亮，好吧。"
+  }
+]

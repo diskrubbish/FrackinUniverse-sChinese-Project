@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": " Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.",
+    "value": " 在拉莱耶的居所之中，死境的克苏鲁沉入幻梦。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "F't",
+    "value": "祂至"
+  }
+]

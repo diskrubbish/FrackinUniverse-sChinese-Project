@@ -1,0 +1,80 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "raw": "Khe's Shinies",
+    "value": "溪的亮闪闪"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Recover lost 'shinies'",
+    "value": "  找回丢失的“亮闪闪”"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "raw": "I'm Khe. I find shinies. Lose some?",
+    "value": "我是溪，我喜欢亮闪闪的东西。你弄丢了一些？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1",
+    "raw": "I sell lost things. Check them out!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "raw": "Be well. Bring back shinies!",
+    "value": "保重。把亮闪闪们带回来！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1",
+    "raw": "It's no small feat to sell such great things!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/0",
+    "raw": "Follow me for shiny.",
+    "value": "要亮闪闪的就跟我来吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/follow/default/default/1",
+    "raw": "Follow me and we can do business.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+    "raw": "We're here. Shiny?",
+    "value": "我们到了。亮闪闪？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
+    "raw": "Greetings.",
+    "value": "向你问好。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/0",
+    "raw": "Shinies for sale! Lost some? Want some? Get some!",
+    "value": "出售亮闪闪！丢了一些？想来点吗？来点吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/1",
+    "raw": "Mrowr. Looking to purchase things you've lost? I've got what you need.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/npcname",
+    "raw": "Khe",
+    "value": "溪"
+  }
+]

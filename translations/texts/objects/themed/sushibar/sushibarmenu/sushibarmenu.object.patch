@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sleek, modern looking sushi menu.",
+    "value": "外观时尚的寿司菜单。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sushi Bar Menu",
+    "value": "寿司吧菜单"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "My, what a variety! I don't quite know where to start.",
+    "value": "我的天啊，多多样啊！我不知道从哪里开始。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wonder which of these dishes would be easiest on my stomach...",
+    "value": "我想知道这些菜中哪一道对我的胃最容易..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran isn't ssure they WANT to eat here...",
+    "value": "叶族人不认为他们想在这里吃饭..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Overwhelmed. Well that's... quite the menu.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Wow, that's a lot of different fish. Where to start?",
+    "value": "哇，那是很多不同的鱼。从哪里开始？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Most Hylotl venues sample from a wide variety of popular gourmet fish.",
+    "value": "大多数鲛人场馆的样品来自各种各样的流行美食鱼。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just how many ways can Hylotl find to put fish and rice together?",
+    "value": "鲛人能找到多少方法把鱼和米饭放在一起？"
+  }
+]

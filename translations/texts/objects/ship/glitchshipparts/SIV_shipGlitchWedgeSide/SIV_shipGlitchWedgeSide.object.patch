@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Glitch Wedge edge section for a spaceship.",
+    "value": "太空船的电子人楔形边缘部分。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glitch Wedge Side",
+    "value": "电子人楔面"
+  }
+]

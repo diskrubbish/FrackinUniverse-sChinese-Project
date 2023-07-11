@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An exceptionally fashionable weathered wooden planter box.",
+    "value": "一个非常时尚的风化木花盆盒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Weathered Planter Box",
+    "value": "风化种植箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A rustic little planter box. The flowers in it smell delightful.",
+    "value": "一个朴素的小花盆。里面的花闻起来很香。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These flowers... They're often used to cover up the smell of the dead in Avian tombs.",
+    "value": "这些花...它们经常被用来掩盖翼族坟墓中死者的气味。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Box and flowers both ssmell good.",
+    "value": "盒子和花都很好。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. This milk crate has a very 'country' look to it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Wow, those flowers smell great. Maybe I should take a stab at gardening?",
+    "value": "哇，那些花闻起来好香。也许我该试试园艺？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Flowers from the surface have such a variety of fragrances.",
+    "value": "表面的花朵有各种各样的香味。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An old lookin' planter box.",
+    "value": "一个看起来很旧的花盆盒子。"
+  }
+]

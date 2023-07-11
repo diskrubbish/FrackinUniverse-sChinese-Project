@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Delicious eggy fried rice with mushrooms.",
+    "value": "美味的蘑菇蛋炒饭。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mushroom Rice",
+    "value": "蘑菇飯"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Little mushrooms are sssoft and chewy!",
+    "value": "小蘑菇又软又耐嚼！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Satisfied. These mushrooms compliment the egg fried rice rather nicely.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Lotsa textures on this one. Lotsa good flavors too.",
+    "value": "这上面的细小的纹理。味道也不错。"
+  }
+]

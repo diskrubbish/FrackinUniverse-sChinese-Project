@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Activates Bots for portable use (via special Capture Pods).",
+    "value": "激活机器人以便携使用(通过特殊的捕获舱)。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bot Loader",
+    "value": "机器人激活器"
+  }
+]

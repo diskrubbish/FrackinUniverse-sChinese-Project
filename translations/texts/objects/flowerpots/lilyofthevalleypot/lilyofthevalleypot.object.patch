@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "No, not \"jacob's ladder\".",
+    "value": "不，不是“雅各布的梯子”。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lily of the Valley Flower Pot",
+    "value": "铃兰花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A pretty flower with bell shaped petals.",
+    "value": "有钟形花瓣的美丽花朵。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These flowers beautiful, but highly poisonous. Some Avian learn that the hard way.",
+    "value": "这些花很漂亮，但有毒。有些翼族通过艰苦的方式学会了这一点。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty AND deadly... just like Floran!",
+    "value": "美丽而致命...就像叶族人一样！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Charmed. This plant has a soothing aura to it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What a swanky little flower pot!",
+    "value": "多么时髦的小花盆啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These flowers are for the return of happiness in Hylotl culture.",
+    "value": "这些花象征着回归到鲛人文化中的幸福。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A right cute li'l flower. It sorta looks like a bell.",
+    "value": "一朵可爱的梨花。看起来有点像钟。"
+  }
+]

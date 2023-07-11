@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lashers are nasty things, and can induce rage. Their tongues are useful, too.",
+    "value": "可以收获鞭笞者茎干，食用后会提高伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lasher Seed",
+    "value": "鞭笞者种子"
+  }
+]

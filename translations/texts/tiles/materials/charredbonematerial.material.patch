@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A collection of charred bones tightly packed together. Something awful happened to these people.",
+    "value": "所有的骨头都烧焦并堆叠在一起。看起来这些人经历了很可怕的事情。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Charred Bones",
+    "value": "焦骨"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Horrified. Bones from a variety of sources packed together.",
+    "value": ""
+  }
+]

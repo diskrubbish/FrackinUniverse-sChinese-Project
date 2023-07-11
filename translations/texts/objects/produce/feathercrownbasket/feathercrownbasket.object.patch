@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Feathercrown, you have to pluck it before consuming.",
+    "value": "羽冠花，你必须在食用前摘下它。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Feathercrown Basket",
+    "value": "羽冠花篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Looks like a carrot crossed with an Avian. Unusual to say the least.",
+    "value": "看起来像胡萝卜和翼族杂交。至少可以说是不寻常的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An Avian delicacy. Only the finest of dishes contain feathercrown.",
+    "value": "翼族美食。只有最好的菜肴才有羽冠花。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Looksss like a birdman, tassstes like dirt. Birdmen tassstier.",
+    "value": "看起来像个鸟人，尝起来像土。鸟人品尝师。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Philosophical. Perhaps one day a feathercrown will develop sentience and take to the skies.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A carrot with a feather. Good for eating as well as tickling.",
+    "value": "带羽毛的胡萝卜。既能吃又能挠痒痒。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Feathers do not flourish underwater. Neither do feathercrowns.",
+    "value": "羽毛在水下不会茂盛。羽冠花也是如此。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The fruit with a feathery surprise.",
+    "value": "一种带着羽毛般惊喜的水果。"
+  }
+]

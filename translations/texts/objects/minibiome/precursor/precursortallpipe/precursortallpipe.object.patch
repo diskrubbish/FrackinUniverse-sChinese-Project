@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A huge cable for directing intense energies.",
+    "value": "一个用于探测强烈能量的巨型管道。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Power Cable",
+    "value": "先驱能源管道"
+  }
+]

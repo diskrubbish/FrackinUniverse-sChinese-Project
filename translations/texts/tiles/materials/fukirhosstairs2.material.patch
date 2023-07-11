@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A platform able to support exceptional amounts of weight.",
+    "value": "一个能够之称住大量重物的平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kirhosi Stairs",
+    "value": "鼠人楼梯"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Attack!",
+    "value": "进攻！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/0",
+    "raw": "Protect the temple!",
+    "value": "为了神而战！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/1",
+    "raw": "You dare intrude upon the most holy of places?",
+    "value": "你胆敢玷污这神圣之地？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/2",
+    "raw": "My thorns will crush you, interloper!",
+    "value": "我的信念将会粉碎你，入侵者！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/3",
+    "raw": "The light of Kluex fills me with life!",
+    "value": "克鲁西斯之光充满了我的身体！"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mysterious Nightar box.",
+    "value": "一个神秘的夜族盒子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Nightar Box",
+    "value": "大型夜族盒子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A Nightar box.",
+    "value": "一个夜族盒子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A storage box.",
+    "value": "一个存储用盒子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Box!",
+    "value": "盒子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. Is there anything inside?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A Nightar box.",
+    "value": "一个夜族盒子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A box.",
+    "value": "一个盒子。"
+  }
+]

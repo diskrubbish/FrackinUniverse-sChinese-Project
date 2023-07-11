@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A more advanced light sensor that activates various nodes based upon whether or not ambient light levels exceed certain thresholds.",
+    "value": "更高级的环境光传感器，检测环境光是否超过阈值，以用来激活节点。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Advanced Light Sensor",
+    "value": "高级光线传感器"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "More advancced light sensssor that activatess variouss nodess if variouss brightnessesss are excceeded.",
+    "value": "更高级的环境光传感感感器，检测环环环境光是否超过阈值，以用来激激激活节点。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. A more advanced light sensor that activates various nodes based upon whether or not ambient light levels exceed certain thresholds.",
+    "value": ""
+  }
+]

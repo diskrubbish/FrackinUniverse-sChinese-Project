@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A minimalistic bed, stylistically limited in palette and rounded at the edges.",
+    "value": "一张极简主义的床，调色板风格有限，边缘呈圆形。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rounded Bed",
+    "value": "圆形床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Oh? This bed comes with some light storage space.",
+    "value": "哦？这张床有一些光存储空间。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "As normal as this furniture set gets, I suppose.",
+    "value": "我想这套家具会很正常吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "No headboard on round bed?",
+    "value": "圆床上没有床头板吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Drowsy. I'm honestly too tired to care about the unusual shape of this bed.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Well it looks cozy enough, at least.",
+    "value": "至少看起来很舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A bed with no sharp corners. A rather interesting design choice.",
+    "value": "没有尖角的床。一个相当有趣的设计选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A strange lookin' bed. But it least it looks comfortable.",
+    "value": "一张奇怪的床。但至少看起来很舒服。"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Coral.",
+    "value": "珊瑚。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coral.",
+    "value": "珊瑚。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssharp coral.",
+    "value": "锐锐锐利的珊瑚。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Coral.",
+    "value": ""
+  }
+]

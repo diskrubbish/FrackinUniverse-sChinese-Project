@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Darkness among the Trees",
+    "value": "树间阴霾"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Hero fetches artifacts, saves universe. Right? Not in other reality. Why not? Go find first one. See if Kevin was there.",
+    "value": "英雄取来了神器，拯救了宇宙。对吗？在其他维度中不是。那为什么还不动身？去找到第一个。看看凯文是否在那里。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Kevin touched artifact, definitely, and...eww! He left it covered in raptor piss! Dirty stinker used it to etch 'Kevin was here' in the shiny. Hmm...have beacon with new signature though.",
+    "value": "凯文接触了神器，当然，而且......哎哟！他留下了满身的鸟屎。他让它沾上了鸟屎! 肮脏的臭虫用它在光泽上刻下了 “凯文到此一游”。嗯......不过有新签名的信标。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/artifact",
+    "raw": "Find the ^orange;artifact^reset; in ^green;the Dark Hunting Grounds^reset;",
+    "value": "在^orange;极暗狩猎场^reset;中找到^orange;神器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "raw": "Return to ^orange;Kherae^reset; at ^orange;the Science Outpost^reset;",
+    "value": "回到^orange;科学前哨站^reset;去找^orange;溪^reset;"
+  }
+]

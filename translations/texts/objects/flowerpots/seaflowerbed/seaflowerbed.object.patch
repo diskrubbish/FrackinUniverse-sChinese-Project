@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An upcoming Hylotl trend - cultivating flowerbeds of sea flora!",
+    "value": "即将到来的鲛人趋势-培育海洋植物的花坛！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sea (Flower) Bed",
+    "value": "海床（花坛）"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What a novel idea! But how do these survive outside the water?",
+    "value": "多么新奇的想法！但是它们是如何在水外生存的呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I've never seen a sea garden before. It's positively lovely.",
+    "value": "我以前从未见过海上花园。非常可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Don't ssea plants... need to stay in the ssea?",
+    "value": "不要在海上种植...需要留在海里吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. The colors of the sea flora are much more vibrant out of the water.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "That glowing oshroom really adds to the atmosphere!",
+    "value": "那发光的房间真的增加了气氛！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "By watering these plants with a special solution, the planters can sustain them out of water.",
+    "value": "种植者通过用一种特殊的溶液浇灌这些植物来使其保持水分。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A strange garden, alright. But a mighty pretty one too.",
+    "value": "一个奇怪的花园，好吧。但也很漂亮。"
+  }
+]

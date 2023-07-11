@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/particleEmitters/critText/particles/0/particle/text",
+    "raw": "Max Crit",
+    "value": "最大暴击"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Round Radiator unit for a spaceship.",
+    "value": "宇宙飞船的圆形散热器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Radiator Round Unit",
+    "value": "圆形散热器单元"
+  }
+]

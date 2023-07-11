@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Reduced bouncyness. Quite useful.",
+    "value": "减少了弹力。相当有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Emergency Bounce MK2",
+    "value": ""
+  }
+]

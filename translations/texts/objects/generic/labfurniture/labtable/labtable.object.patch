@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Prep for SCIENCE!",
+    "value": "科学万岁！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lab Table",
+    "value": "实验室桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A basic laboratory table.",
+    "value": "普通的实验室桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An alchemist's mixing station.",
+    "value": "可以在上面混合各种科学药剂。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A table for experimentsss",
+    "value": "用于实验验验的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Sarcasm. A very interesting find.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like a lab table.",
+    "value": "看起来像实验室用的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A table built for scientific use.",
+    "value": "一张为科学用途而建的桌子。"
+  }
+]

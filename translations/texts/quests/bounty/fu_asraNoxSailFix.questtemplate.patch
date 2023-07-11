@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "[FU] Asra Nox Sail Fix",
+    "value": "[FU]阿斯拉·诺克斯任务修复"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Door.",
+    "value": "开心就好"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Door?",
+    "value": "嗯，修好了。"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "+2.5% E. Regen -1.25% E. Block",
+    "value": "+2.5% 能量恢复 -1.25% 能量重充能时间"
+  }
+]

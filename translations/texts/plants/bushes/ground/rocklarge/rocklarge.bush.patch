@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Large rocks.",
+    "value": "大石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large rocks.",
+    "value": "大石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Biggy rocks.",
+    "value": "大石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Large rocks.",
+    "value": ""
+  }
+]

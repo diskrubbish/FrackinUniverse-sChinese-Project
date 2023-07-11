@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Homestead III (pt 1)",
+    "value": "家园 III (部分1)"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Ya ever come across ^orange;Oil^reset;? It's quite rare round these 'ere parts. I hear ye kin get some without much hassle by tossin ^orange;Corn^reset; or ^orange;Bone^reset; in a ^orange;Hand Mill^reset;.",
+    "value": "你曾经遇到^orange;油^reset;吗？ 这种东西在这里很少见。我听说在^orange;手动磨机^reset;中，您的亲戚在扔^orange;玉米^reset;或^orange;骨头^reset;时会遇到很多麻烦。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Craft some ^green;Oil^reset; and return to ^green;Welchie^reset;.",
+    "value": "制造一些^orange;油^reset;并回到^green;韦尔奇^reset;处。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Oil kin be quite useful for a number o' things, but I suggest you save that ^orange;Oil^reset; for a very different task. Talk ter me again ta learn more.",
+    "value": "油在很多事情上都非常有用，但是我建议您保存那些^orange;油^reset;以用于一个非常不同的任务。再和我聊一遍，以了解更多信息。"
+  }
+]

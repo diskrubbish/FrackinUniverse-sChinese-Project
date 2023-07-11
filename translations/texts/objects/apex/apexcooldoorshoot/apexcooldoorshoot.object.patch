@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This door is made of some sort of bulletproof material.",
+    "value": "这门是用某种防弹材料制成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blast Door",
+    "value": "防爆门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This door looks strong enough to keep anything out... or everyone in.",
+    "value": "这扇门看起来足够坚固，可以把任何东西挡在外面...或者把所有人都挡在里面。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A strong door. Not even the breeze could slip through.",
+    "value": "一扇坚固的门，连微风都无法穿过。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Door of great ssstrength.",
+    "value": "强强强大的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Jealous. Such strong materials.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A huge, heavy security door.",
+    "value": "一扇巨大而沉重的安全门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This looks strong enough to hold back the ocean.",
+    "value": "这看起来足够坚固，可以阻挡海洋。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A very thick door.",
+    "value": "一扇很厚的门。"
+  }
+]

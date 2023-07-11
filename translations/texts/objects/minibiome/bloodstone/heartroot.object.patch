@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Is that a bush or an organ?",
+    "value": "这玩意是树丛还是器官啊？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Heart Bush",
+    "value": "心脏树丛"
+  }
+]

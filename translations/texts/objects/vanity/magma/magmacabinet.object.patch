@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Probably not safe. But hey...intimidating.",
+    "value": "或许不是很安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Magma Cabinet",
+    "value": "岩浆箱子"
+  }
+]

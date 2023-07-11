@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's a delicious carrot cake! Tastes better than it sounds.",
+    "value": "这是一个美味的胡萝卜蛋糕！味道比听起来好。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carrot Cake",
+    "value": "胡萝卜蛋糕"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's a delicious cake!",
+    "value": "这是一块美味的蛋糕！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's a delicious cake!",
+    "value": "这是一块美味的蛋糕！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "It'sss a yummy cake!",
+    "value": "这是一块美味的蛋糕！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Joyful. It's a delicious cake!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's a delicious cake!",
+    "value": "这是一块美味的蛋糕！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It's a delicious cake!",
+    "value": "这是一块美味的蛋糕！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's a mighty tasty lookin' cake!",
+    "value": "那是一个非常美味的蛋糕！"
+  }
+]

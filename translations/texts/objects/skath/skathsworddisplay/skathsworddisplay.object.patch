@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Skath Plasmablade, decommissioned for display.",
+    "value": "一台绘世者等离子烧蚀机，退役后用于展示。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Blade Display",
+    "value": "绘世者大刀展台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The Skath are famous for wielding blades like these in ground combat. These are terrifying weapons.",
+    "value": "斯卡特人以在地面战斗中挥舞这样的剑而闻名。这些是可怕的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I will never forget the flickering of plasma, the first time I saw one of those in combat.",
+    "value": "我永远不会忘记等离子体的闪烁，那是我第一次看到战斗中的一个。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Waterdragon ussse big blade for ground combat. Floran doesss not approve.",
+    "value": "水龙使用大刃进行地面战斗。叶族人不赞成。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Intrigued. This plasmablade would be a significant upgrade.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This sword's gigantic! I wonder if I can wield it? Probably not.",
+    "value": "这把剑太大了！我想知道我是否能挥舞它？可能不会。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Skath weaponry is truly terrifying.",
+    "value": "绘世者的武器真非常恐怖。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty dangerous lookin' Skath blade.",
+    "value": "一把看起来非常危险的绘世者大刀。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "Broadswords are common ground combat weapons. These Plasmablades can slash through nearly anything.",
+    "value": "大刀是常见的地面战斗武器。这些等离子体层几乎可以穿透任何东西。"
+  }
+]

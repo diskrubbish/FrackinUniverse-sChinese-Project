@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nothing quite like sleeping on a solid mass of ancient amber. Your spine will hate you. Just like your parents.",
+    "value": "没有什么比睡在这张床上更难受的了，我想你的脊椎会抗议的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Amber Bed",
+    "value": "琥珀床"
+  }
+]

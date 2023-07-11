@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "* No familiars were harmed in the making of this station.",
+    "value": "*在建造这座车站的过程中，没有任何熟人受到伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Transfiguration Station",
+    "value": "变形站"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I shudder to think of the Miniknog getting their hands on this kind of power...",
+    "value": "想到科技发展部掌握了这种力量，我不寒而栗..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "...! By Kluex, they've changed form!",
+    "value": "...! 他们改变了形式！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Could Floran turn sssmall meats... into BIG meats?!",
+    "value": "叶族人能把这些小肉...变成大块肉？！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Shocked. This is the kind of black magic that gets people burned at the stake.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Well that's definitely not just some generic magic trick.",
+    "value": "这绝对不是一般的魔法。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This appears to be entirely unethical! Those poor creatures!",
+    "value": "这似乎完全不道德！那些可怜的家伙！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This the face of real magic, then? Freaky...",
+    "value": "这就是真正的魔法吗？奇怪的..."
+  }
+]

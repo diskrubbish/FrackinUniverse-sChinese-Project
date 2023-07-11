@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Mid slope striped section for a Hylotl spaceship.",
+    "value": "鲛人飞船的半坡条纹部分。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hylotl Mid Slope stripe section",
+    "value": "鲛人飞船中坡条纹段"
+  }
+]

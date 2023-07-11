@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The bunny on this chair is just inviting you to sit on it! No, really!",
+    "value": "这把椅子上的兔子只是在邀请你坐在上面！不，真的！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bunny Chair",
+    "value": "兔椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Is that a bunny face on this chair? Cute.",
+    "value": "这把椅子上是兔子脸吗？可爱的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The cushion on this cute little chair is refreshingly plush.",
+    "value": "这把可爱的小椅子上的垫子非常柔软。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran would like to sit on this ssoft chair.",
+    "value": "叶族人想坐在这张ssoft的椅子上。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. For as silly as this chair is, the cushion is remarkably comfortable.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'd feel kind of bad sitting on this bunny's face...",
+    "value": "坐在这只兔子的脸上我会有点不舒服..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "That seat cushion is softer than it has any right to be.",
+    "value": "那个座垫比它应有的柔软。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Is that... a face? On the chair? That's a might creepy...",
+    "value": "那是...一张脸？在椅子上？这可能令人毛骨悚然..."
+  }
+]

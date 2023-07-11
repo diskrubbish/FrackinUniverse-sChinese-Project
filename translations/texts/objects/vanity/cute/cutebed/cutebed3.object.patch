@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute bed. Cute...",
+    "value": "一个可爱的床。......总之就是非常可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Bed",
+    "value": "可爱的床"
+  }
+]

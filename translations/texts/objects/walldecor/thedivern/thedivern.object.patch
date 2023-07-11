@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A haunting painting of a mysterious legendary sea creature.",
+    "value": "一幅令人难忘的画，描绘了一种神秘的传说中的海洋生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "\"The Divern\"",
+    "value": "“潜水员”"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What an unnerving looking silhouette. I would hope this creature doesn't actually exist.",
+    "value": "多么令人不安的轮廓。我希望这个生物不存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Those fins almost resemble wings... Could this creature be capable of flight as well?",
+    "value": "那些鳍几乎像翅膀。。。这种生物也能飞行吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes this deep ssea monster.",
+    "value": "叶族人喜欢这个深沉的海洋怪物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unnerved. This painting is surprisingly detailed for only being an artist's interpretation.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I think there were tales of a similar looking monster back on Earth.",
+    "value": "我想在地球上也有过类似怪物的故事。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This creature looks far too elegant to supposedly be a monster.",
+    "value": "这种生物看起来太优雅了，不可能是怪物。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Yikes. Those eyes are givin' me the shivers.",
+    "value": "哎呀。那双眼睛让我毛骨悚然。"
+  }
+]

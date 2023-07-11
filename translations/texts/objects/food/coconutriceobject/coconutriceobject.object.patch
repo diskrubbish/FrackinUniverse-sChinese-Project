@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You can't see the coconut, but it's there!",
+    "value": "你看不到椰子，但它的确在那儿！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coconut Rice",
+    "value": "椰浆饭"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran approves of sssilly coconut tableware.",
+    "value": "叶族人赞成使用椰子餐具。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. What a novel way to serve a dish.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This coconut bowl's still a li'l fuzzy.",
+    "value": "这只椰子碗还是一团模糊的。"
+  }
+]

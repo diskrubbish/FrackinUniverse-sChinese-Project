@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Used to produce ship components.",
+    "value": "^orange;用于生产模块化的定制飞船设备^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Ship Component Assembler^reset;",
+    "value": "^orange;飞船设备制造台^reset;"
+  }
+]

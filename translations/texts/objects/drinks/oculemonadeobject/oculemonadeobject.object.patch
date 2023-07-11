@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nothing better on a hot day than a cool, refreshing can of Oculemonade.",
+    "value": "在炎热的天气里，没有什么比一罐清凉的眼球柠檬汁更好的了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Oculemonade",
+    "value": "眼球柠檬汁"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "The tasste Floran can sssee! Hehe.",
+    "value": "味味味道叶族人可以看看看见！呵呵。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uneasy. This drink is delicious, but I'm not sure how I feel about it being made of... Oculemons...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Purty sweet taste, if you can get past the ingredients.",
+    "value": "味道甜美，如果你能忍受里面的成分。"
+  }
+]

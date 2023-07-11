@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table lantern lit by a floating and glowing crystals.",
+    "value": "由漂浮发光的水晶照亮的台灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Desk Lamp",
+    "value": "水晶台灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some glowing crystal is floating in this device.",
+    "value": "这个装置里漂浮着一些发光的水晶。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The light it gives off is so cold...",
+    "value": "它发出的光很冷..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Why those shiny stoness fly? the stoness don't fly.",
+    "value": "为什么那些闪亮的石头会飞？石头理论上是不会飞的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Intrigued. Those glowing crystal appears to float in a strong magnetic field.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Those crystals are floating! Yes, science!",
+    "value": "那些水晶在漂浮！是的，这很科学！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such beautiful technology. How did the Peglaci learn to harness it?",
+    "value": "这么漂亮的技术。企鹅族是怎么学会驾驭它的？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Those floating shiny rocks are glowin' bright, but not as bright as me!",
+    "value": "那些漂浮的闪闪发光的岩石闪闪发光，但没有我那么明亮！"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "This little device uses the properties of our crystals to emit light.",
+    "value": "这个小装置利用我们晶体的特性发光。"
+  }
+]

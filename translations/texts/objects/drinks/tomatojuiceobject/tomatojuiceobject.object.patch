@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hearty tomato juice.",
+    "value": "丰盛的番茄汁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tomato Juice",
+    "value": "番茄汁"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Tomatoesss may be red like blood, but doesn't tassste the same at all.",
+    "value": "番茄茄茄可能像血一样红，但根本不一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. This savory crops makes for a surprisingly refreshing beverage.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Tomato juice? S'pose I'll try anything once.",
+    "value": "番茄汁？我什么都可以试一次。"
+  }
+]

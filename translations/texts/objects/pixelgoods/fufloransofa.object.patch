@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perfect for resting.",
+    "value": "不错的休息家具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Leafy Couch",
+    "value": "绿叶沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple, but comfortable couch made of plants.",
+    "value": "一种由植物制成的简单而舒适的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This is much more comfortable than straw.",
+    "value": "这比稻草舒服多了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Leafy couch is ssoft.",
+    "value": "绿叶沙发是松软的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. This couch is very comfortable to sit on.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "For logs and plants, this is really comfortable.",
+    "value": "对于原木和植物来说，这真的很舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This couch is soft, I am relaxed by sitting on it.",
+    "value": "这张沙发很柔软，我坐在上面很放松。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A good place to sit and watch a sun go down.",
+    "value": "一个坐下来看太阳落山的好地方。"
+  }
+]

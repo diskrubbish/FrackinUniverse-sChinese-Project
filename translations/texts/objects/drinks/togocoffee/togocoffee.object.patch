@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hopefully self-explanatory.",
+    "value": "希望不言自明。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coffee to Go",
+    "value": "外带咖啡"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wary of warm cup. Floran won't be scalded again!",
+    "value": "叶族人小心温暖的杯子。叶族人不会再被烫伤了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This cup is designed to allow as much of the coffee's heat to be conserved as possible.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Heh. Joe on the go.",
+    "value": "嘿，乔在忙。"
+  }
+]

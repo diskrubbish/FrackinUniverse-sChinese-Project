@@ -1,0 +1,608 @@
+[
+  {
+    "op": "replace",
+    "path": "/strings/trees/fu_agriculture",
+    "raw": "Agriculture",
+    "value": "农业"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/default/0",
+    "raw": "Instructions",
+    "value": "介绍"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/default/1",
+    "raw": "Select a research by clicking one of the icons on the grid.\nYou can navigate the grid by dragging with the left mouse button.\n\n- The left most button at the upper part of the screen opens a list of research trees to pick from.\n\n- The second button opens a list of non-hidden research options. Click a research on the displayed to center the view on it. Click again to hide the list.\n\n- The third button will center the view on the middle of the tree, or the currently selected research.\n\n- The last button toggles ^orange;low quality mode^reset;. This makes the GUI jump to a position instead of panning to it, or the center button. In addition, dragging/navigating on the the main screen will update only after you release the mouse button. It is best to use the search list with this mode enabled.",
+    "value": "通过点击网格上的一个图标来选择一项研究。\n您可以通过用鼠标左键拖动来导航网格。\n\n-屏幕上方最左边的按钮会打开一个可供选择的研究树列表。\n-第二个按钮会打开一个非隐藏的搜索选项列表。点击显示列表中的一项研究，可以将该项研究的图标置于中心位置。再次点击按钮来隐藏列表。\n-第三个按钮将把视图置于科技树的中央，或者是当前选择的研究项目。\n-最后一个按钮能够开关^orange;低质量模式^reset;，这将使GUI直接跳转到一个位置，而不是通过搜索列表或中心按钮播放平移动画。此外，在主屏幕上拖动和导航只有在释放鼠标按钮后才会更新。最好在启用此模式的情行下使用搜索列表。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/survival_1/0",
+    "raw": "Basic Training",
+    "value": "基础训练"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/survival_1/1",
+    "raw": "^orange;Tier 1^reset;\n\nYour training, thanks to four years in the Protectorate Academy, provides you with basic survival skills to keep you alive for extended periods in the event of a crash.",
+    "value": "^orange;1级^reset;\n\n你在大地守护团学院的四年训练，为你提供了基本的生存技能，使你在碰撞事故中能够长时间存活。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/foragingn/0",
+    "raw": "Agriculture",
+    "value": "农业"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/foragingn/1",
+    "raw": "^orange;Tier 1^reset;\n\nYou've learned how to build a ^orange;Foraging Table^reset; which is the place to invest into agricultural pursuits and hunting. You also learn to make some simple farming tools and a means to capture useful wild bugs.\n\nInvesting into this tree will allow you to learn to create your own plant seeds to grow foodstuffs or useful effect-granting plants, how to raise farm beasts, how to hunt and fish, advanced farming techniques and how to raise bees.",
+    "value": "^orange;1级^reset;\n\n你已经学会了如何建造一张^orange;采集工作台^reset;，在这里你可以投身于农业和狩猎的需求中。你在这还可以学习制作一些简单的农具和捕捉有用野生昆虫的方法。\n\n投资这条分支可以让你学会自己培育植物种子来种植食物或草药，如何饲养农场动物，如何狩猎和捕鱼，先进的农业技术，以及如何养蜂。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/crops1/0",
+    "raw": "Basic Crops",
+    "value": "基础作物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/crops1/1",
+    "raw": "^orange;Tier 1^reset;\n\nThough the universe is filled with many strange plants, the Protectorate academy taught you about quite a few. You've learned to start culvtivating these plants for yourself at a ^orange;Greenhouse^reset; which can be made at your ^orange;Machining Table^reset;. You can also (crudely) extract genetic material from plants for use in the creation of more complex plants at a ^cyan;Sprouting Table^reset;, also made at your Machining Table.\n\n^yellow;Tip:^reset; Grow lots of corn! Corn is an incredibly versatile crop, being a source of oil, cattle feed, and the basis of many more complex plants.",
+    "value": "^orange;1级^reset;\n\n虽然宇宙中充满了许多奇怪的植物，但守护团学院已经教给了你很多知识。你已经学会了从^orange;温室^reset;中开始自己种植这些植物。（^orange;温室^reset;在^orange;加工台^reset;处制作） 您也可以在^orange;植物分析台^reset;处（粗略地）从植物中提取遗传物质，以用于在更复杂的环境中创建更复杂的植物。（^orange;植物分析台^reset;也在^orange;加工台^reset;处制作）\n\n^yellow;小贴士：^reset;^red;多 种 玉 米！^reset; 玉米是一种用途广泛的作物，是油和牛饲料的来源，也是许多复杂植物的基础。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/crops2/0",
+    "raw": "Advanced Crops",
+    "value": "高等作物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/crops2/1",
+    "raw": "^orange;Tier 2^reset;\n\nYou've mastered all the plants the Protectorate Academy taught you about, allowing you to artificially create many more plants, including the all-important ^yellow;Cotton^reset;.\n\nYou're ready to start branching into making various medicinal plants that don't provide satiation, but don't spoil and provide useful buffs like environmental resistance, healing, increased stats, or even act as weapons!\n\nYou'll need ^orange;genes^reset; from this point on - found by processing seeds, saplings and some produce in the ^cyan;Sprouting Table^reset; or its upgrades. Some plants produce more seeds than others: flowers unsuited for dye-making are a good early source of seeds.",
+    "value": "^orange;2级^reset;\n\nn你已经掌握了守护团学院所教给你的所有植物，现在你可以人工培育更多的植物，包括在制作装甲，家具，时装和服装时极为重要的^yellow;棉^reset;。\n\n你已经准备好开始培育各种不提供饱足感但不会变质并提供有用的增益的药用植物，它们能提供环境抵抗力，治疗，增强属性，甚至可以用作武器！\n\n为此你需要^orange;基因^reset;--通过在^orange;植物分析台^reset;及其升级设施处处理种子、树苗和一些农产品中获得。有些植物比其他植物产生更多的种子：不适合做染料的花是种子的良好早期来源。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/explorationplants1/0",
+    "raw": "Basic Exploration Plants",
+    "value": "基础探索植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/explorationplants1/1",
+    "raw": "^orange;Tier 3^reset;\n\nThe universe is a dangerous place, filled with many environments your physiology isn't equipped to handle. Your research has given you access to a number of plants that make the universe a little more forgiving, including plants that assist in traversing difficult terrain, produce natural antitoxins, and shore up your physiology from dangerous climates.",
+    "value": "^orange;3级^reset;\n\n宇宙是危险之地，到处都是你生理无法应付的环境。你的研究让你可以使用多种让宇宙变得更加仁慈的植物，包括有助于穿越困难地形，产生天然抗毒素和在危险气候下增强生理机能的植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/explorationplants2/0",
+    "raw": "Advanced Exploration Plants",
+    "value": "高等探索植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/explorationplants2/1",
+    "raw": "^orange;Tier 4^reset;\n\nFurther research has given you plants that can protect you entirely from poisons and acid, as well as shield you from the dangerous radiation of many alien materials.",
+    "value": "^orange;4级^reset;\n\n进一步的研究使你的植物能完全保护你免受毒物和酸的侵害，并使你免受许多外来物质的危险辐射的伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/explorationplants3/0",
+    "raw": "Superior Exploration Plants",
+    "value": "高级探索植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/explorationplants3/1",
+    "raw": "^orange;Tier 5^reset;\n\nYou're becoming especially adept at exploring alien worlds through the use of bioengineering, and have created several new plants protecting from more esoteric threats, including the crushing pressure of gas giants, eldritch ghosts, and even the poor mental health hours of slaving away over a gene lab results in.",
+    "value": "^orange;5级^reset;\n\n你现在特别善于通过使用生物工程技术探索外星世界，并培育了一些新的朱武来保护自己免受更深层次的威胁，包括气态巨行星的压强，厄尔吉斯幽魂的压制，甚至因为奴役基因实验室而导致的精神健康状况不佳。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/explorationplants4/0",
+    "raw": "Master Exploration Plants",
+    "value": "大师探索植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/explorationplants4/1",
+    "raw": "^orange;Tier 6^reset;\n\nYour latest plants are a thing of beauty, protecting you from even the most dangerous worlds. Equipped only with the contents of your herb pouch, you're now equipped to explore nearly any world imaginable, including those with lead-melting heat, atmospheres so cold it falls to the ground as snow and environments so radioactive that even the ground glistens with energy.",
+    "value": "^orange;6级^reset;\n\n你最新培育的植物是如此的美丽，即使在最危险的世界中也能保护你。仅配备草药袋的内容物，你现在已经可以探索几乎任何可以想象的世界，包括那些融化铅的炎热地带，大气层覆盖的冰天雪地，以及因极高的放射能力而地面发光的环境。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/utilityplants1/0",
+    "raw": "Basic Utility Plants",
+    "value": "基础工具植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/utilityplants1/1",
+    "raw": "^orange;Tier 3^reset;\n\nThe universe is a gruelling place, requiring great effort to extract the meanest of resources from it. Your research uses the miracle of life to lift this burden, by creating plants which provide silk, genetic resources, healing, and mining aids, saving your valuable resources and effort for where they're needed elsewhere.",
+    "value": "^orange;3级^reset;\n\n宇宙是艰苦之地，你需要付出巨大的努力才能从中提取最丰富的资源。而你的研究利用生命的奇迹来减轻负担，方法是创造出能够提供丝绸，遗传资源，愈合物质和采矿辅助工具的植物，从而节省宝贵的资源和精力，以备不时之需。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/utilityplants2/0",
+    "raw": "Advanced Utility Plants",
+    "value": "高等工具植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/utilityplants2/1",
+    "raw": "^orange;Tier 4^reset;\n\nThrough careful experimentation, you've created plants that produce incredibly useful resources, including organic silicon, radiation-resistant silk and enhanced algae which can be processed into fuel for your ship and mech.",
+    "value": "^orange;4级^reset;\n\n通过细致的实验​​，你已经培育了可以产生珍贵资源的植物，包括有机硅，抗辐射的蚕丝绸和可以加工成飞船或机甲的燃料的增强藻类。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/utilityplants3/0",
+    "raw": "Superior Utility Plants",
+    "value": "高级工具植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/utilityplants3/1",
+    "raw": "^orange;Tier 5^reset;\n\nAn adept at genetic engineering, you've begun to create plants which greatly light your way in the darkness, beyond the level that Gold Shroom was capable of. You're also experimenting with organic performance enhancers, including those which protect your body from lethal falls and gravitic rain.",
+    "value": "^orange;5级^reset;\n\n作为遗传工程学的专家，你已经培育出可以在黑暗中将自己照亮的植物，其能力远超金色蘑菇。你还开始尝试使用能保护你的身体免受致命跌落和重力雨侵袭的有机性能增强剂。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/utilityplants4/0",
+    "raw": "Master Utility Plants",
+    "value": "大师工具植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/utilityplants4/1",
+    "raw": "^orange;Tier 6^reset;\n\nThe plants you've learned to make would be illegal in any Olympics, if Earth still existed. You can now run at breakneck speeds, jump up sheer surfaces and even alter the strength of gravity on your body, all with the use of plants. You've also dipped into stranger, less corporeal realms, and created a type of plant which can be eaten in a life-or-death situation to pull you away to safety.",
+    "value": "^orange;6级^reset;\n\n如果地球仍然存在，那么在任何奥运会中，你所培育的植物都是非法的。现在，通过使用植物，你可以以惊人的速度奔跑，跳上陡峭的表面，甚至改变身体的重力强度。你还浸入了陌生的灵躯领域，并培育了一种可以在生死攸关的情况下食用的植物，以使你安全归来。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/soulleaf/0",
+    "raw": "Essence Cultivation",
+    "value": "古代精华培养"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/soulleaf/1",
+    "raw": "^orange;Tier 7^reset;\n\nUsing the properties of Quantum Fluid, you are able to make a plant that grows Ancient Essence botanically. Essence is very useful for upgrading weapons at ancient crucibles.",
+    "value": "^orange;7级^reset;\n\n利用量子流体的特性，你可以培育出一种可以植物性生产古代精华植物。古代精华对于在古代熔炉升级的武器非常有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/combatplants1/0",
+    "raw": "Basic Combat Plants",
+    "value": "基础助战植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/combatplants1/1",
+    "raw": "^orange;Tier 3^reset;\n\nThe universe is a hostile place, with countless monsters and enemies out for your blood and few allies to stand alongside. Your research levels the playing field, fortifying your health and increasing your defenses to shield you from harm.",
+    "value": "^orange;3级^reset;\n\n宇宙是充满敌意之地，无数的怪物和敌人为血而至，而却少有盟友站队。你的研究能为你提供一个公平的竞争环境，这些植物增强您的健康并增强防御能力，使您免受伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/combatplants2/0",
+    "raw": "Advanced Combat Plants",
+    "value": "高等战斗植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/combatplants2/1",
+    "raw": "^orange;Tier 4^reset;\n\nYour studies have borne fruit, granting you the ability to grow stronger varieties of fortifying plants, as well as a curious tentacled plant that reflects damage back at those who would seek to harm you.",
+    "value": "^orange;4级^reset;\n\n你的研究已经开花结果，你现在能够种植更强的强化植物品种，以及一种奇特的触手植物，这种植物能将伤害反馈给那些试图伤害你的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/combatplants3/0",
+    "raw": "Superior Combat Plants",
+    "value": "高级助战植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/combatplants3/1",
+    "raw": "^orange;Tier 5^reset;\n\nThrough much experimentation, you're gradually becoming a force to be reckoned with. Your plants can strengthen you to inhuman levels, sap your enemies' life and increase the damage you deal out.",
+    "value": "^orange;5级^reset;\n\n通过大量的试验，你正逐渐成为不可忽视的力量。你的植物可以使你的力量增强到常人不及的水平，削减敌人的生命，并增加造成的伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/combatplants4/0",
+    "raw": "Master Combat Plants",
+    "value": "大师助战植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/combatplants4/1",
+    "raw": "^orange;Tier 6^reset;\n\nAn unstoppable juggernaut, you now hunt those who used to prey upon you, draining their vitality even as you slay them with your organic weapons. The universe is yours to take now, and your genetic weaponry is unparalelled.",
+    "value": "^orange;6级^reset;\n\n成为了不可阻挡的战神，你现在开始追捕那些曾经掠过您的人，即使你要用有机武器杀死他们，也会先耗尽他们的生命力。你现在就该称霸宇宙，你的遗传武器是天下无双。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/kadavan/0",
+    "raw": "Kadavan Crops",
+    "value": "卡达文作物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/kadavan/1",
+    "raw": "^orange;Tier 2^reset;\n\nYou've learned to cultivate some strange Avikan crops, farmed by a race of starfaring nomads originally from the planet Kadavan.",
+    "value": "^orange;2级^reset;\n\n你已经学会了种植一些来自卡达文星球的奇怪阿威坎作物。这些作物由最初来自卡达文星球的太空游牧民族耕种。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/aquaticplants/0",
+    "raw": "Aquatic Plants",
+    "value": "水生植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/aquaticplants/1",
+    "raw": "^orange;Tier 4.5^reset;\n\nYou've learned how to develop some specialized plants that enhance your mobility in water, and created Vorit, a strange jelly-like mushroom which allows you to breathe normally underwater or even in a total vacuum for a while, then harmlessly passes through your system.\n\nAquapods are especially useful for the copious amounts of genetic information they contain, in both the seeds and bulbs.",
+    "value": "^orange;4.5级^reset;\n\n你已经学会了如何开发一些专门的植物来增强您在水中的流动性，并培育了劳瑞冻（一种类似于果冻的蘑菇），可让您在水下甚至完全真空下呼吸一段时间，然后成分无害地通过生理系统。\n\n水生类的种子和球茎中含有大量的遗传信息，因此特别有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/garpberry/0",
+    "raw": "Garp Berries",
+    "value": "彭泽浆果"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/garpberry/1",
+    "raw": "^orange;Tier 5.5^reset;\n\nYou've created Garp berries, an incredibly useful plant which can be used both eaten to protect yourself from radioactive burns, and processed in your extraction lab to create the rare and extremely useful Alien Compound.",
+    "value": "^orange;5.5级^reset;\n\n你培育出了彭泽浆果，一种非常有用的植物，既可以食用也可以保护自己免受辐射灼伤，还可以在粗去实验室中加工成稀有实用的外星化合物。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/blisterbush/0",
+    "raw": "Blister Bush",
+    "value": "泡荚丛"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/blisterbush/1",
+    "raw": "^orange;Tier 3.5^reset;\n\nYou've learned to grow the gross-but-useful Blister Pods. They're bioluminescent, and can be used in making weapons and armor, as well as lights for decorating your base.",
+    "value": "^orange;3.5级^reset;\n\n您已经学会了培育恶心但有用的泡荚。它们具有生物发光性，可用于制造武器和盔甲，以及用于装饰基地的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/energeticplants/0",
+    "raw": "Energetic Plants",
+    "value": "能量植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/energeticplants/1",
+    "raw": "^orange;Tier 4.5^reset;\n\nYou've created a family of plants that fortify your natural energy reserves, including Energiflower, a plant so packed with energy that it can even power your ship's FTL drive.",
+    "value": "^orange;4.5级^reset;\n\n你已经培育了一系列植物来增加你的自然能源储备，其中包括能量花，这种植物充满了能量，甚至可以为飞船上的FTL驱动器提供动力。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/aenema/0",
+    "raw": "Aenema Flowers",
+    "value": "艾玛花"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/aenema/1",
+    "raw": "^orange;Tier 5.5^reset;\n\nThe searing hot petals of the Aenema plant are packed with useful Caliginous Gas just waiting to be extracted. Now that you can cultivate your own Aenema, you will have easy access to that resource.",
+    "value": "^orange;5.5级^reset;\n\n艾玛花灼热的花瓣中充满了有用的暗影气体，等待着被提取。现在您可以培养您自己的艾玛花，轻而易举地获取暗影气体。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/thornitox/0",
+    "raw": "Thornitox Weaponry",
+    "value": "棘刺军备"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/thornitox/1",
+    "raw": "^orange;Tier 3.5^reset;\n\nThornitox isn't good for eating, but it's a thick, tough vine that can create weapons perfect for killing.",
+    "value": "^orange;3.5级^reset;\n\n另一方面，棘刺不适合食用，但绝对适合杀人。它可以用来制造一些不错的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/throwableplants1/0",
+    "raw": "Throwable Plants",
+    "value": "投掷植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/throwableplants1/1",
+    "raw": "^orange;Tier 4.5^reset;\n\nUnsatisfied with simply eating the plants you grow, you've created new strains which can be thrown as weapons, to share them with your foes as well.",
+    "value": "^orange;4.5级^reset;\n\n你不满足于简单地食用自己种植的植物，而是培育了可以作为武器投入使用的新菌株，快把它们和你的敌人分享吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/throwableplants2/0",
+    "raw": "Advanced Throwable Plants",
+    "value": "高等投掷植物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/throwableplants2/1",
+    "raw": "^orange;Tier 5^reset;\n\nYou've created a number of even stronger plants, which are devastating when thrown, and in the case of hellfire plants can even be used to create some powerful weapons, with some further research in the weaponry tree.",
+    "value": "^orange;5级^reset;\n\n你已经培育了许多更加强力的植物，这些植物在投掷能毁灭一切，若对军备科技树进行深入研究，地狱火植物甚至可以用来制造一些强大的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/xenolab1/0",
+    "raw": "Improved Gene Extraction",
+    "value": "改进基因提取"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/xenolab1/1",
+    "raw": "^orange;Tier 2^reset;\n\nThe sprouting table is a little slow for your liking, so you made a more complex electronic version, which will be critical to your future research efforts. Craft it at your ^orange;Auto-Assembler^reset;.",
+    "value": "^orange;2级^reset;\n\n植物分析台于你的期望来说有点缓慢，所以你设计了一个更复杂的电子版植物分析台，对您未来的研究工作至关重要。在你的^orange;自动组装器^reset;处制作它。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/xenolab2/0",
+    "raw": "Amazing Gene Extraction",
+    "value": "神奇的基因提取"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/xenolab2/1",
+    "raw": "^orange;Tier 4^reset;\n\nYou've improved even further on your Xenolab design. Your new ^cyan;Advanced Xenolab^reset; works incredibly fast.",
+    "value": "^orange;4级^reset;\n\n你已经进一步改进了基因提取器的设计。新的高级^cyan;基因提取器^reset;工作效率非常快。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/treecloner/0",
+    "raw": "Tree Cloning",
+    "value": "树木克隆"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/treecloner/1",
+    "raw": "^orange;Tier 3^reset;\n\nYou've used your knowledge of genetic engineering to splice trees together into strange combined forms with the trunk of one tree and the leaves of another. The possibilities are immense, and experimentation will yield great results.",
+    "value": "^orange;3级^reset;\n\n你运用你的基因工程学知识，把一棵树的树干和另一棵树的叶子拼接成奇怪的组合形式。这项实验充满了巨大的可能性，而其最终将硕果累累。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/farming1/0",
+    "raw": "Farming",
+    "value": "耕种"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/farming1/1",
+    "raw": "^orange;Tier 1^reset;\n\nYou've learned some more complex methods of farming and can now build several helpful farming objects. The ^cyan;Growing Tray^reset; is the most important of these, as it will automatically grow seeds placed inside with the help of fertilizers that increase yields far beyond what is possible through manual labor. Craft it at your ^orange;Foraging Station^reset;.",
+    "value": "^orange;1级^reset;\n\n你已经学会了一些更复杂的耕作方法，你现在可以制造一些有用的耕作用品。^cyan;生长托盘^reset;就是其中最重要的一个，因为它可以在肥料的帮助下自动生长放置的种子，并增加手工耕作所不能达到的产量。在你的^orange;采集工作站^reset;处制作一个。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/farming2/0",
+    "raw": "Advanced Farming",
+    "value": "先进耕种"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/farming2/1",
+    "raw": "^orange;Tier 2^reset;\n\nWith a ^cyan;Heatlamp Tray^reset; made at your ^orange;Electronics Center^reset;, you can turn electrical power into faster plant growth. They'll use more water per plant than a Growing Tray, but the added speed is worth it! \n\nIn addition, you've learned to create hydroponic and aeroponic tubing, more advanced sprinkler systems, and other useful farming enhancements for farming the old-fashioned way if you prefer that.",
+    "value": "^orange;2级^reset;\n\n使用在你的^orange;电子设备制造机^reset;制作的^cyan;热灯托盘^reset;，你可以把电能转化为更快的植物生长生长速度。热灯托盘会比生长托盘需要更多的水，但增加的速度是值得的！\n\n此外，你已经学会了创造水培和气培管道、更先进的洒水系统，如果您愿意，你也获得了新的增强，可以以老式的方式进行耕作。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/farming3/0",
+    "raw": "Farming Mastery",
+    "value": "耕种精通"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/farming3/1",
+    "raw": "^orange;Tier 3^reset;\n\nYou can make an hydroponics-powered Growing Tray that operates even faster when powered, and doesn't use extra water like the Heatlamp Tray does. You can find it at your ^orange;Electronics Center^reset;.",
+    "value": "^orange;3级^reset;\n\n你可以制作一个电力水培生长托盘，它在供电时运转得更快，而且不像热灯托盘那样使用额外的水。你可以在你的^orange;电子设备制造机^reset;找到它。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/gathering1/0",
+    "raw": "Gathering",
+    "value": "采集"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/gathering1/1",
+    "raw": "^orange;Tier 1^reset;\n\nYou've learned hunter-gatherer skills like trapping, fishing and creating specialized weapons designed to maximize usable material from the things you kill.",
+    "value": "^orange;1级^reset;\n\n你已经学会了狩猎采集技能，比如陷阱、捕鱼和制造专门的这些武器旨在最大限度地利用你杀死的东西中可用的材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/gathering2/0",
+    "raw": "Advanced Gathering",
+    "value": "先进采集"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/gathering2/1",
+    "raw": "^orange;Tier 3^reset;\n\nYou've vastly improved in hunter-gathering tactics and can create far more capable hunting tools than before.",
+    "value": "^orange;3级^reset;\n\n你已经在猎人采集战略上有了很大的进步，并且可以创造出比以前更好使用的猎人工具。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/gathering3/0",
+    "raw": "Master Gathering",
+    "value": "大师采集"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/gathering3/1",
+    "raw": "^orange;Tier 4^reset;\n\nYou've mastered hunter-gatherer tactics and can make top-shelf hunting gear.",
+    "value": "^orange;4级^reset;\n\n你已经掌握了狩猎-采集战术，可以制造顶级的狩猎装备。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/husbandry1/0",
+    "raw": "Husbandry",
+    "value": "畜牧"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/husbandry1/1",
+    "raw": "^orange;Tier 1^reset;\n\nYou've learned how to raise farm animals and also designed a few cabinets designed to lure and capture wild bugs.",
+    "value": "^orange;1级^reset;\n\n你已经学会了如何饲养农场动物，还设计了几个专门用来诱捕野生昆虫的柜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/husbandry2/0",
+    "raw": "Advanced Husbandry",
+    "value": "先进畜牧"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/husbandry2/1",
+    "raw": "^orange;Tier 2^reset;\n\nYou can make even better animal feed and some automated devices to collect products from them, saving you the trouble.",
+    "value": "^orange;2级^reset;\n\n你可以制造更好的动物饲料和一些自动化设备来收集动物的产品，省去你的麻烦。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/husbandry3/0",
+    "raw": "Master Husbandry",
+    "value": "大师畜牧"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/husbandry3/1",
+    "raw": "^orange;Tier 3^reset;\n\nTop of the line gear for keeping your farm animals healthy and happy.",
+    "value": "^orange;3级^reset;\n\n保持你的农场动物健康和快乐的顶级装备。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/survival1/0",
+    "raw": "Survival",
+    "value": "生存"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/survival1/1",
+    "raw": "^orange;Tier 1^reset;\n\nYou've learned to create some simple survival aids - namely portable light sources to help with exploration.",
+    "value": "^orange;1级^reset;\n\n你已经学会了创造一些简单的生存辅助工具 - 名为便携式光源的东西来帮助探索。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/survival2/0",
+    "raw": "Advanced Survival",
+    "value": "先进生存"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/survival2/1",
+    "raw": "^orange;Tier 2^reset;\n\nYou can make brighter, better lights and a few advanced survival tools.",
+    "value": "^orange;2级^reset;\n\n你可以制造更亮更棒的灯和一些先进的生存工具。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/survival3/0",
+    "raw": "Master Survival",
+    "value": "大师生存"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/survival3/1",
+    "raw": "^orange;Tier 3^reset;\n\nYou can craft top of the line lights and survival tools.",
+    "value": "^orange;3级^reset;\n\n你可以制作顶级的灯具和生存工具。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/bees1/0",
+    "raw": "Beekeeping",
+    "value": "养蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/bees1/1",
+    "raw": "^orange;Tier 1^reset;\n\nYou've learned to raise bees in an apiary to provide you with useful resources. Make an ^cyan;Apiary Crafting Station^reset; at your ^orange;Machining Table^reset; to get started.\n\nRaising bees is pretty complex. If you're not sure how, buy a guide from the Bee Refuge in the Science Outpost, accessible once you leave your starter planet.\n\nAs a simple starter tip, you need a microscope-identified queen, a matching microscope-identified drone, one or more frames, and some flowers planted nearby for production to start.",
+    "value": "^orange;1级^reset;\n\n你已经学会在蜂房里养蜜蜂，为你提供有用的资源。你可以从在^orange;加工台^reset;制造^cyan;蜂场工作台^white;^reset;上开始。\n\n饲养蜜蜂很复杂。如果你不知道怎么养蜂，你可以从科学前哨的蜜蜂庇护所那里购买一份指南，前哨站在你离开起始星球之后就可以到达。\n\n作为简单入门，你需要一只显微镜识别过的蜂后、一只匹配的显微镜识别过的工蜂、一个或多个框巢，以及在蜂房附近种植的一些花卉，以便开始生产。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/bees2/0",
+    "raw": "Improved Beekeeping",
+    "value": "改进养蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/bees2/1",
+    "raw": "^orange;Tier 2^reset;\n\nYou can make bigger bee apiaries and more useful Frames to supplement their production.",
+    "value": "^orange;2级^reset;\n\n你可以制造更大的蜂房和更有用的框巢来提高蜜蜂的产量。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/bees3/0",
+    "raw": "Advanced Beekeeping",
+    "value": "先进养蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/bees3/1",
+    "raw": "^orange;Tier 4^reset;\n\nYou can make even more powerful Frames that drastically improve your bees' efficiency.",
+    "value": "^orange;4级^reset;\n\n可以制造更强大的框巢，极大地提高蜜蜂的效率。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/bees4/0",
+    "raw": "Efficient Beekeeping",
+    "value": "高效养蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/bees4/1",
+    "raw": "^orange;Tier 5^reset;\n\nYou can make advanced Frames that drastically improve your hives.",
+    "value": "^orange;5级^reset;\n\n你可以制作高级的框巢，大大改善你的蜂巢。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/bees5/0",
+    "raw": "Ultimate Beekeeping",
+    "value": "终极养蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/bees5/1",
+    "raw": "^orange;Tier 6^reset;\n\nYou have achieved a truly enviable master's degree. You have managed to make your hives produce efficiently.",
+    "value": "^orange;6级^reset;\n\n你获得了羡煞旁人的硕士学位，你成功地让你的蜂巢高效地生产。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/fishing1/0",
+    "raw": "Basic Fishing",
+    "value": "基础渔业"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/fishing1/1",
+    "raw": "^orange;Tier 3^reset;\n\nFishing is both a useful survival skill and a relaxing hobby. You can now create a basic fishing rod and use it to catch fish in bodies of water.\n\n^red;Only works on ocean-like planets (Ocean, Arctic, Tidewater, etc.), not in lakes and puddles.^reset;",
+    "value": "^orange;3级^reset;\n\n钓鱼既是一种有用的生存技能，也是一种放松的爱好。你现在可以制作一根基本的钓鱼杆，并使用它来捕捉水体中的鱼。\n\n^red;只在海洋星球（海洋、极地、潮汐等）上起作用，在湖泊和水坑中不起作用。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/fishing2/0",
+    "raw": "Fishing Techniques",
+    "value": "钓鱼技术"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/fishing2/1",
+    "raw": "^orange;Tier 4^reset;\n\nYou can craft better quality fishing tackle, enabling you to catch fish with greater ease.",
+    "value": "^orange;4级^reset;\n\n你可以制作质量更好的钓具，让你更轻松地捕鱼。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/fishing3/0",
+    "raw": "Master Wrangler",
+    "value": "大师牧马"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/fishing3/1",
+    "raw": "^orange;Tier 5^reset;\n\nWith your knowledge of fishing, you can create a nearly perfect fishing rod.",
+    "value": "^orange;5级^reset;\n\n以你的捕鱼知识，你可以制作一根近乎完美的钓竿。"
+  }
+]

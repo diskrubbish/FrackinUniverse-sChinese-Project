@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Wood that has been prepared for building and crafting.",
+    "value": "这些木材已经被准备好用于建造或制作了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Timber",
+    "value": "原木"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some crafted planks of wood.",
+    "value": "一些精心制作的木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Wood that's been crafted into planks.",
+    "value": "这是被制成木板的木头。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Satisfied. These are well crafted wood planks.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssplintery wood plankss.",
+    "value": "这是粗粗粗糙的木木木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Some simple planks made from wood.",
+    "value": "一些由木头制成的简单板子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Basic wood planks.",
+    "value": "这是基本的木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just some basic lookin' wood planks.",
+    "value": "这只是一些看上去很基本的木板。"
+  }
+]

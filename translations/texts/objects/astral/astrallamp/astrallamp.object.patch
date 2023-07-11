@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stellar lamp, uses interdimensional mojo to make light, complicated stuff.",
+    "value": "恒星灯，使用跨维度的魔力来制造光，复杂的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Wall Light",
+    "value": "星辰墙灯"
+  }
+]

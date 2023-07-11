@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's an enormous hologram. What is it depicting?",
+    "value": "一张巨大的全息图。它到底描绘了什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It appears to be a god of some sort...",
+    "value": "它看起来像是一位神祗..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Some sort of heathen god that is not Kluex. This is shameful.",
+    "value": "某位异教的神祗，而不是克鲁西斯。真可耻。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big fluffy man! Sssit on whole world!",
+    "value": "巨大的毛绒绒的人形生物！坐坐坐在了整个世界之上！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Intimidated. This is a huge hologram...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hey, where have I seen that guy before?",
+    "value": "嘿，我以前在哪里见过那个家伙吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A supposed god belonging to the X'ian race.",
+    "value": "一位属于艾肯族的假想神祗。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Hey, I think I know that feller!",
+    "value": "嘿，我想我知道那个樵夫是谁了！"
+  },
+  {
+    "op": "replace",
+    "path": "/radienDescription",
+    "raw": "The Great Star, Orana. He nurtured his kind and ours.",
+    "value": "伟大之星，Orana。他培养了他的善良——以及我们的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Enormous Hologram",
+    "value": "巨型全息图"
+  }
+]

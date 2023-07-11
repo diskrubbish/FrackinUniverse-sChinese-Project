@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/textScrollArea/children/rewardList/schema/listTemplate/rewardsLabel/value",
+    "raw": "Rewards:",
+    "value": "奖励："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/questButton/caption",
+    "raw": "Accept",
+    "value": "接受"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/questlineNoSelected/value",
+    "raw": "^cyan;Select a questline",
+    "value": "^cyan;选择一条任务线"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/questTitle/value",
+    "raw": "I AM ERROR",
+    "value": "*我是错误的*"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/textScrollArea/children/questText/value",
+    "raw": "I AM ERROR",
+    "value": "*我是错误的*"
+  }
+]

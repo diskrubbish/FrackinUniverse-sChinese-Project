@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Trapper Leaf",
+    "value": "捕食叶"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Trapper Leaf",
+    "value": "捕食叶"
+  }
+]

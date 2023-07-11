@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It looks to be a rock.",
+    "value": "它看起来是一块石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A Rock",
+    "value": "一块石头"
+  }
+]

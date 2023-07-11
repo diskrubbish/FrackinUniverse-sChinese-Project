@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This floor seems more starry than most.",
+    "value": "这地板看起来比大多数地方都要繁星点点。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Wood Flooring",
+    "value": "暗木地板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Charmed. A beautiful stellar wooden floor.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran feelss weird walking on starry floor.",
+    "value": "在星光熠熠的地板上行走，叶族人感觉怪怪的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some insanely fancy lookin' ornate floorin'.",
+    "value": "看起来极其华丽的地板。"
+  }
+]

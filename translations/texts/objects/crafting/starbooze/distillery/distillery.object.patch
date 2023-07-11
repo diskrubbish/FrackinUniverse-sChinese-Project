@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A machine that allows distillation of alcohol!",
+    "value": "酿酒时用来进行蒸馏的机器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Distillery / Still^reset;",
+    "value": "^orange;蒸馏器^reset;"
+  }
+]

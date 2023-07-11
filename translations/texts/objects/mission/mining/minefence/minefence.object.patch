@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A metal fence with red and black warning stripes.",
+    "value": "一道有红色和黑色警告条纹的金属围栏。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mine Railing",
+    "value": "矿业栏杆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A metal railing painted with red and black stripes.",
+    "value": "一道涂有红黑条纹的金属栏杆。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A metal railing.",
+    "value": "一个金属栏杆。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran bored of fencesss.",
+    "value": "叶族人厌倦栅栅栅栏。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. The railing is implemented for safety.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A Metal Railing to keep people falling off platforms.",
+    "value": "一道防止人们从平台上掉下来的金属栏杆。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A plain-looking human construction.",
+    "value": "一道看起来很普通的人类构造。"
+  }
+]

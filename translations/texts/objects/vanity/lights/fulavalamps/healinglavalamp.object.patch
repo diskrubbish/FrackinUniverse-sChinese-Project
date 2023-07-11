@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp filled with healing water. It's soothing to watch.",
+    "value": "一盏注满了生命之水的熔岩灯。看着它能够减轻你的痛苦。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Healing Lava Lamp",
+    "value": "生命熔岩灯"
+  }
+]

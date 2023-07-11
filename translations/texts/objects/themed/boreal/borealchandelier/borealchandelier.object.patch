@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lovingly carved pine wood chandelier, outfitted with lightbulbs instead of candles.",
+    "value": "一盏雕刻精美的松木枝形吊灯，配有灯泡而不是蜡烛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Boreal Chandelier",
+    "value": "北风枝形吊灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A wooden chandelier.",
+    "value": "木制枝形吊灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A chandelier of finely carved wood.",
+    "value": "雕刻精美的木头做成的枝形吊灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Isss carved chandelier.",
+    "value": "这是盏雕刻吊灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A chandelier with intricate carvings in the wood.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A cozy chandelier.",
+    "value": "舒适的枝形吊灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Real effort was put into the details of this chandelier, I'll bet.",
+    "value": "我敢打赌，这盏枝形吊灯的细节上花了不少功夫。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A real fancy like chandelier.",
+    "value": "像枝形吊灯一样的花哨。"
+  }
+]

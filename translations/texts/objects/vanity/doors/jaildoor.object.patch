@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A heavy pressure door, great for use on ships.",
+    "value": "一种重型压力门，适合在飞船上使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pressure Door",
+    "value": "压力门"
+  }
+]

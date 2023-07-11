@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/clear/caption",
+    "raw": "Take all",
+    "value": "全部拾取"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/count/value",
+    "raw": "FUEL SLOTS",
+    "value": "燃料槽"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/countwaste/value",
+    "raw": "WASTE SLOT",
+    "value": "废料槽"
+  }
+]

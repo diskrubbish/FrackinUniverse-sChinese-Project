@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cool black and white checkered sofa.",
+    "value": "很酷的黑白格子沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Modern Sofa",
+    "value": "现代沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I believe this couch is armless to seat more people.",
+    "value": "我相信这张沙发没有扶手，可以坐更多的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The leather on this couch is incredibly comfortable to sit on.",
+    "value": "这张沙发上的皮革非常舒适。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssquares sssquare sssofa.",
+    "value": "Sssquares Sssquares sssofa。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. A remarkably fashionable couch.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I wonder why this couch doesn't have arms... is it to look cooler?",
+    "value": "我想知道为什么这张沙发没有扶手...看起来更酷吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A remarkably comfortable sofa that oozes with charm.",
+    "value": "非常舒适的沙发，散发着魅力。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This sofa's the bees knees, I'll tell ya.",
+    "value": "我告诉你，这沙发是蜜蜂的膝盖。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A creepy monitor made of bio-mechanical materials.",
+    "value": "由生物机械材料制成的令人毛骨悚然的监视器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Ceiling Display",
+    "value": "蚁族吸顶显示器"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A smaller communications array.",
+    "value": "一组更小的通讯阵列。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Comm-Unit",
+    "value": "小型通讯阵列"
+  }
+]

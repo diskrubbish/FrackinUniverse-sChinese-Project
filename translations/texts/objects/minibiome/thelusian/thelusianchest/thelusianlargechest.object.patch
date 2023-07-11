@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Made from interconnecting pieces of chitin.",
+    "value": "由相互连接的几丁质片制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Chest",
+    "value": "蚁族箱子"
+  }
+]

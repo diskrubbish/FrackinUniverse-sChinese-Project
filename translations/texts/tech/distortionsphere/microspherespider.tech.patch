@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A slower Micro Sphere ^green;[F]^reset; that clings to walls.",
+    "value": "移动缓慢的微型球^green;[F]^reset;，可以爬墙。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Micro Spider Sphere",
+    "value": "微型爬墙球"
+  }
+]

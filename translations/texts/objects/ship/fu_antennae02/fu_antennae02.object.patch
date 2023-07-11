@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some kind of communication array that includes sensors.",
+    "value": "某种包含传感器的通信阵列。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Communications Array",
+    "value": "通信阵列"
+  }
+]

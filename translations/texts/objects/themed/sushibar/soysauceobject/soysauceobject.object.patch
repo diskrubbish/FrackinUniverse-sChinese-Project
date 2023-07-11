@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A jar of soy sauce. Tangy!",
+    "value": "一罐酱油。刺鼻！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Soy Sauce",
+    "value": "酱油"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Soy sauce pairs well with a number of Hyltol rice dishes, especially sushi.",
+    "value": "酱油与许多海洛尔米饭搭配很好，尤其是寿司。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A sauce made from fermented soybeans. It's better than it sounds, surprisingly.",
+    "value": "由发酵的大豆制成的酱汁。令人惊讶的是，这比听起来要好。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Salty fishman sssauce...",
+    "value": "咸鱼酱..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. This sauce is surprisingly savory with the right foods.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ooh. Do they have any wasabi to mix into it?",
+    "value": "哦。他们有芥末可以拌进去吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Soy sauce is a condiment that's certainly withstood the test of time.",
+    "value": "酱油是一种经过时间考验的调味品。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A tangy Hylotl sauce. It ain't half bad!",
+    "value": "浓烈的鲛人酱。还不错！"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Your typical café seating.",
+    "value": "你典型的咖啡馆座位。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Café Chair",
+    "value": "咖啡椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A cute little chair for enjoying a light meal.",
+    "value": "一把可爱的小椅子，用来享受一顿清淡的晚餐。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The craftsmanship on this chair is actually rather remarkable.",
+    "value": "这把椅子的工艺其实相当出色。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran dinesss here.",
+    "value": "叶族人在这里吃饭。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Content. A lovely place to sit and eat.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The kind of chair you'd see in a bistro.",
+    "value": "你在小酒馆里看到的那种椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "As far as chairs go, this one is rather delightful.",
+    "value": "就椅子而言，这把相当令人愉快。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I could sit and chew the fat here all day.",
+    "value": "我可以整天坐在这里嚼脂肪。"
+  }
+]

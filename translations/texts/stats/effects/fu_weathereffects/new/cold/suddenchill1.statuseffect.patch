@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Cold Snap (Resist: ^#77f4ff;Ice^reset;)",
+    "value": "寒流 (抵抗: ^#77f4ff;寒气^reset;)"
+  }
+]

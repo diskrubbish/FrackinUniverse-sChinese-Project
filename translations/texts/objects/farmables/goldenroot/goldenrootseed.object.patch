@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Flecks of gold adorn this health-restoring vine.",
+    "value": "这种藤蔓包裹着金色的斑点花纹。可以收获黄金根茎，食用后会提高生命值上限。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Root Seed",
+    "value": "黄金根茎种子"
+  }
+]

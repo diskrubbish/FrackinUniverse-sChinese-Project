@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A gem that generates thermal energy. Can be used to keep warm.",
+    "value": "能产生热能的宝石。可以用来在较冷的行星上保持温暖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thanatite Crystal Seed",
+    "value": "心叶石水晶种子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This feels warm to the touch.",
+    "value": "这摸起来很暖和。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These remind me of the sun.",
+    "value": "这些水晶让我想起了太阳。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran will ssstay away from fire rocksss.",
+    "value": "叶族人会远远远离火石。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned. This gem seems like it may catch fire.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "You could heat up a house nicely with these.",
+    "value": "通过这些水晶，你可以很好地温暖一整个屋子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These emit a comforting warmth. It is a joy to be around them.",
+    "value": "这些宝石发出令人舒适的温暖，靠在它们周围是一种乐事。"
+  },
+  {
+    "op": "replace",
+    "path": "/elduukharDescription",
+    "raw": "We used these crystals for warmth before we developed technology.",
+    "value": "在我们的技术尚未得到发展的时候，我们曾用这些水晶取暖。"
+  },
+  {
+    "op": "replace",
+    "path": "/deneroxDescription",
+    "raw": "Why is shiny rock hot like coal from fire?",
+    "value": ""
+  }
+]

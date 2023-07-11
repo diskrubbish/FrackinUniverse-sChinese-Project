@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fine grains of metal.",
+    "value": "金属的细颗粒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Steel Sand",
+    "value": "钢沙"
+  }
+]

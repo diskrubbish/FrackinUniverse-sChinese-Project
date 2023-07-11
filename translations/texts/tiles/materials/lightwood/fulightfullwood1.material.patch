@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Carefully treated wood that maintains a freshly chopped appearance.",
+    "value": "经过精心加工处理的木头，但仍保留着新鲜的切面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Treated Light Wood",
+    "value": "轻质已处理木头"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. This wood looks freshly chopped.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Jusst some bassic wood.",
+    "value": "只是些基本的木头。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It looks fresh cut, but this wood has been treated with somethin'.",
+    "value": "这木头看起来像是刚砍下来，但却已是用某些物质加工过了。"
+  }
+]

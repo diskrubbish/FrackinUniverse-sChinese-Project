@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A banner with the emblem of the Vanguard on it.",
+    "value": "带有先锋队徽记的旗帜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Vanguard Banner",
+    "value": "绘世者先锋旗"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The emblem of the most often encountered Skath faction: the Vanguard military forces.",
+    "value": "最常遇到的绘世者派系的标志：先锋军"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hidesss behind waterdragon banner. Jumpsss out!",
+    "value": "叶族人隐藏藏藏藏在水龙的旗旗旗帜后面。跳跳跳跳出来！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The grounded make similar banners.",
+    "value": "他们制作类似的横幅。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informed. This banner represents the military of the Skath.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This banner reminds me of the ones we had in the Protectorate.",
+    "value": "这个横幅让我想起了我们在保护国的那些经历。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "While Skath technology is ugly, their craftmanship with banners is admirable.",
+    "value": "虽然绘世者的技术是丑陋的，但是他们的工艺与旗帜非常令人钦佩的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fancy lookin' banner, probably made by the Skath.",
+    "value": "一个看起来很漂亮的横幅，可能是由绘世者制作的。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "This banner displays the emblem of the Vanguard, our military forces and the protectors of our race.",
+    "value": "这面旗帜展示了先锋队的象征，我们的军队和我们民族的保护者。"
+  }
+]

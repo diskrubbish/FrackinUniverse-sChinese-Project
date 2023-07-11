@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stack of canned food goods.",
+    "value": "一堆罐头食品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stack of Cans",
+    "value": "一叠罐头"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Not fressh meat, but it'll do.",
+    "value": "肉质不鲜美，但还是可以吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. You can never have enough stockpiled foods for when an emergency strikes.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't no stranger to beans from a can. Doesn't make 'em taste any better though.",
+    "value": "我对罐头里的豆子并不陌生。但这并不能让它们尝起来更好。"
+  }
+]

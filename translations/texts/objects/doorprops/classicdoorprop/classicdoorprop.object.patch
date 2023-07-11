@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A classic banana-infused wood door with a gilded handle.",
+    "value": "一扇经典的香蕉味木门，装有镀金门把手。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Classic Door Prop",
+    "value": "传统门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The handle is solid gold and the wood is banana-scented.",
+    "value": "把手是纯金的，木头是香蕉味的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Such a door is open to very few.",
+    "value": "这样的门只对极少数人开放。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "The ssscent of Apex yellow fruit come from wood.",
+    "value": "猿族黄色果实的香香香味来源于木材。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Irritated. Sensors suggest a unique odour from this door.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Does this door... smell of bananas?",
+    "value": "这扇门...有香蕉的味道吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Scented wood, a practice common in Hylotl craft.",
+    "value": "有香味的木头，这在鲛人工艺中很常见。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That handle is mighty shiny lookin'.",
+    "value": "那个把手看起来闪闪发光。"
+  }
+]

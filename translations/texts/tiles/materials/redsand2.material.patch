@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Soft and warm sand.",
+    "value": "柔软而温暖的沙子"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Red Sand",
+    "value": "红沙"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Sand.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssand.",
+    "value": "沙沙沙子。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lovely spanish violet.",
+    "value": "可爱的西班牙紫罗兰。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spanish Violet Flower Pot",
+    "value": "西班牙紫罗兰花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A pretty violet flower.",
+    "value": "一朵美丽的紫罗兰花。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This flower has a nice scent.",
+    "value": "这朵花很好闻。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Flower sssmells nice.",
+    "value": "花闻起来很香。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. Petals of vivid violet.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It looks like an overgrown violet.",
+    "value": "它看起来像一朵长满杂草的紫罗兰。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Violet is the Hylotl colour of imagination.",
+    "value": "紫罗兰是是鲛人文化里想象力的彰显。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A delicate violet.",
+    "value": "精致的紫罗兰。"
+  }
+]

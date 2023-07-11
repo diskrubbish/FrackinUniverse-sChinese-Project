@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just where does this lead?",
+    "value": "这会指引我去哪？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Strange Map",
+    "value": "奇怪的地图"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This promises to be interesting.",
+    "value": "我希望它能给我带来一丝有趣的事。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A map that shows me the way to a location of interest.",
+    "value": "一张绘制有我感兴趣坐标的地图。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran usssesss map to get to placesss.",
+    "value": "叶族人可以以以使用这份地图去到那里。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excitement. Where will the directions on this map take me?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Right, let's go where this map shows me. What's the worst that could happen?",
+    "value": "很好，这份地图可以显示出我的位置。或许前方有更糟糕的事等着我？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Following the directions on maps of dubious origin is generally not advisable.",
+    "value": "根据来源不明地图来行动是非常不可取的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This makes me hunger for adventure!",
+    "value": "这份地图让我按捺不住心中那股向往冒险的欲望！"
+  }
+]

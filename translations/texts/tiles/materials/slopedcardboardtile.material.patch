@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cats love this tile. Perhaps too much.",
+    "value": "猫会喜欢这个瓷砖，但也太喜欢了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloped Cardboard",
+    "value": "倾斜卡片板"
+  }
+]

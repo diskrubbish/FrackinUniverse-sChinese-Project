@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This bell calls the livestock home.",
+    "value": "这个铃铛是用来叫家畜回家的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dinner Bell",
+    "value": "晚餐铃"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An iron bell. How Pavlovian.",
+    "value": "一个铁制的铃铛，典型的巴普洛夫模式。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Dinner time!",
+    "value": "晚餐时间！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big bell go ding dong!",
+    "value": "这个大铃铛能发出了叮~铛铛铛的声音！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informative. This bell signals food.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A dinner bell. Can I ring it? Please!",
+    "value": "晚餐铃？我可以敲响吗？拜托了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The sound of bells is something most Hylotl have never heard.",
+    "value": "这种铃声作为鲛人的我从未听过。"
+  }
+]

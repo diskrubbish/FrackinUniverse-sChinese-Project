@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Performs basic research on items.\n^cyan;Research Rate^reset;: 5%, 2s",
+    "value": "对物品执行基本的研究。\n^cyan;研究效率^reset;: 5%, 2s"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Personal Computer",
+    "value": "个人电脑"
+  }
+]

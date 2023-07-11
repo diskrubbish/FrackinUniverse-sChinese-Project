@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crafted tiles made from compressed aether dust.",
+    "value": "由压缩以太尘精心制成的瓦片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Dust Tiles",
+    "value": "以太尘瓦片"
+  }
+]

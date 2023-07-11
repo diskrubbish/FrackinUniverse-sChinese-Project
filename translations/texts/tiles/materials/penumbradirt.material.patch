@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This dirt reflects no light.",
+    "value": "这块泥土不反射任何光线。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Umbral Dirt",
+    "value": "半影泥土"
+  }
+]

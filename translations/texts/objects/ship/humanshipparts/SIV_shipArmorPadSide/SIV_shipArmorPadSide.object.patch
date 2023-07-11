@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An Armored Pad Side for a spaceship.",
+    "value": "太空船的装甲护垫。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Human Armored Pad Side",
+    "value": "人类装甲板侧面"
+  }
+]

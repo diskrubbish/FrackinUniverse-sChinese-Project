@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bizarre landscape painting that defies convention or description. It calls to you with eerie calm.",
+    "value": "一幅奇特的风景画，不符合常规或描述。它以令人毛骨悚然的平静呼唤着你。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dreamscape of Kadath",
+    "value": "卡达斯幻梦境"
+  }
+]

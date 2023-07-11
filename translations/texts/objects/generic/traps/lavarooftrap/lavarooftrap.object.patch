@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An automated fire spitting sprinkler.",
+    "value": "一种自动喷火装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fire Trap",
+    "value": "火球陷阱"
+  }
+]

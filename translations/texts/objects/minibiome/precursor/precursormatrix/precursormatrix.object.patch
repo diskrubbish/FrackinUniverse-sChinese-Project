@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A massive power matrix of ancient design.",
+    "value": "一个巨大的能源矩阵，其设计风格非常古老。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Matrix",
+    "value": "先驱矩阵"
+  }
+]

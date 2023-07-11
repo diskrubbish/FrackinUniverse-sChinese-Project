@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spawns in a pet piglett! \n^orange;To locate it after placing, toggle wire mode.^reset;",
+    "value": "生成一只小宠物猪！\n^orange;若要在放置后定位生成器位置，请切换为连线模式。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Piglett Spawner^reset;",
+    "value": "^orange;小猪生成器^reset;"
+  }
+]

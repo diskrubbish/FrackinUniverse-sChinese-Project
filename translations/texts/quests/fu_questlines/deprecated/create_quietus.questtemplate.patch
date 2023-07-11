@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "We gots 6000 dollars!",
+    "value": "我们得到了6000像素！"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I'm offering 6000 pixels for a bit of aid, if you can spare a few moments? I need 5 ^orange;Quietus Bars^reset; in order to finish my work. Can you bring some to me?",
+    "value": "你能抽出一些时间吗？我能提供6000像素作为报酬。我需要5枚^orange;寂灭锭^reset;来完成我的工作。你能帮我带过来吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Bring the ^orange;5 Quietus Bars^reset; to the ^orange;Science Outpost^reset;",
+    "value": "把^orange;5枚寂灭锭^reset;带给^green;科学家^reset;(位于^orange;科学前哨站^reset;)"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Well done, ol' chap. As promised: The cash. Enjoy.",
+    "value": "做得好。这是我的承诺：像素。好好享受吧。"
+  }
+]

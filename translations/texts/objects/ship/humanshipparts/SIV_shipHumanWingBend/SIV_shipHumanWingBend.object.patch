@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A curved wing for a human spaceship.",
+    "value": "人类宇宙飞船的弯曲机翼。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Human Curved Wing",
+    "value": "人的弯曲机翼"
+  }
+]

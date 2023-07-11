@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Captures creatures in Pet Balls.",
+    "value": "可以把生物抓进捕捉舱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Capture Bot",
+    "value": "抓捕机器人"
+  }
+]

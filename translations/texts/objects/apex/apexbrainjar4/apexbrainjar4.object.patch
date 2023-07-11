@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A psionically-boosted brain, ready for use as a battery.",
+    "value": "一团灵能增强过的大脑，可以用作电池。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Advanced Brain Housing",
+    "value": "高级大脑存储罐"
+  }
+]

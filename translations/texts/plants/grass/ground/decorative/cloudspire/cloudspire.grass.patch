@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A spiralling spiky plant.",
+    "value": "带有螺旋刺的植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A spiralling spiky plant.",
+    "value": "带有螺旋刺的植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssspinny and ssspiky.",
+    "value": "矮矮矮林和尖尖尖刺。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A twisted spike plant.",
+    "value": ""
+  }
+]

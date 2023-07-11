@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/particleEmitters/noPower/particles/0/particle/text",
+    "raw": "^shadow;No power!",
+    "value": "^shadow;没有通电！"
+  },
+  {
+    "op": "replace",
+    "path": "/particleEmitters/noSignal/particles/0/particle/text",
+    "raw": "^shadow;No signal currently set!",
+    "value": "^shadow;未设置信号！"
+  },
+  {
+    "op": "replace",
+    "path": "/particleEmitters/emptySignalList/particles/0/particle/text",
+    "raw": "^shadow;No frequencies saved!",
+    "value": "^shadow;频率没有保存！"
+  },
+  {
+    "op": "replace",
+    "path": "/particleEmitters/isn_miningVendor/particles/0/particle/text",
+    "raw": "^shadow;Accessing Ansible Network",
+    "value": "^shadow;访问安赛波购物台"
+  },
+  {
+    "op": "replace",
+    "path": "/particleEmitters/isn_medicalVendor/particles/0/particle/text",
+    "raw": "^shadow;Panacea Medicines Inc.",
+    "value": "^shadow;万灵药医药公司"
+  },
+  {
+    "op": "replace",
+    "path": "/particleEmitters/isn_seedsVendor/particles/0/particle/text",
+    "raw": "^shadow;Stardew Acres",
+    "value": "^shadow;星露谷种植公司"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A precursor quantum fluid NFPA sign.",
+    "value": "一个先驱量子液NFPA标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "PQF NFPA Sign",
+    "value": "先驱量子液NFPA标志"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Creamy, icy, banana goodness.",
+    "value": "奶油、冰、香蕉的精华。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Banana Ice Cream",
+    "value": "香蕉冰淇淋"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Icy monkeyman cream.",
+    "value": "冰镇猿人雪糕。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. This ice cream is perfectly sweet.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can see how Apex could get addicted to this.",
+    "value": "我终于明白猿人为什么会对这个上瘾。"
+  }
+]

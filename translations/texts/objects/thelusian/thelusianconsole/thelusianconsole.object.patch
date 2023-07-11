@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Displays data in the illegible text of the Thelusians.",
+    "value": "让人难以辨认的文本显示数据。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Console",
+    "value": "蚁族控制台"
+  }
+]

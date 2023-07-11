@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Talk about a balancing act.",
+    "value": "谈论平衡行为。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "\"Nutmidge Tower\"",
+    "value": "“榛果怪大厦”"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "So nutmidge do have legs then? Then why is it I never see them using them?",
+    "value": "那么榛果怪有腿吗？那为什么我从来没见过他们使用它们？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "How many nutmidge can fit inside a single shell, I wonder.",
+    "value": "我想知道一个壳里能装多少只榛果怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Nutmidge ssshell is like Floran's birth pod!",
+    "value": "榛果壳就像叶族人的出生豆荚！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. It's incredible that nutmidge can even manage to coordinate themselves stacked atop one another.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "They're like three little kids in a trench coat! If the trench coat was a hard shell.",
+    "value": "他们就像三个穿着风衣的小孩！如果风衣是坚硬的外壳。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Nutmidge stack together for protection, but the minute their shell breaks, the completely scatter. Not smart, that.",
+    "value": "榛果怪为了保护而堆叠在一起，但一旦它们的外壳破裂，它们就完全散开了。这可不聪明。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I wonder if nutmidge actually taste particularly nutty.",
+    "value": "我想知道是否真的有坚果味。"
+  }
+]

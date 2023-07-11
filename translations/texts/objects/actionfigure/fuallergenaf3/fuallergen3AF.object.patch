@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The label reads, \"Releases toxic seeds when threatened.\"",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Seeder Trap Figurine",
+    "value": ""
+  }
+]

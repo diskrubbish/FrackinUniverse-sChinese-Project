@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Looks like we've got another pig for the poking!",
+    "value": "看来我们可以好好地和你玩玩了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "raw": "Seems like another varmint's on the loose!",
+    "value": "看起来又有一个流氓在逃！"
+  }
+]

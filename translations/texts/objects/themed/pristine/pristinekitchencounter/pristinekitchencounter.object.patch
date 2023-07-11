@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A prim and proper kitchen countertop. Be sure to clean up after yourself when you're finished!",
+    "value": "一本正经的厨房台面。吃完后一定要收拾干净！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pristine Counter",
+    "value": "原始柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's a light looking kitchen counter.",
+    "value": "这是一个看起来很轻的厨房柜台。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'd be a little afraid to accidentally stain the wood of this counter.",
+    "value": "我有点害怕不小心弄脏了这个柜台的木头。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Iss too bright for cooking food!",
+    "value": "太亮了，不适合做饭！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. There's ample space for storing cooking utensils underneath the countertop.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A countertop that looks like it belongs in a sunny kitchen.",
+    "value": "一个看起来像是阳光充足的厨房的台面。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A exquisite kitchen counter.",
+    "value": "精致的厨房柜台。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A white kitchen counter.",
+    "value": "一个白色的厨房柜台。"
+  }
+]

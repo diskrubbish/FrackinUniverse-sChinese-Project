@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Letter F.",
+    "value": "字母F。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Letter F",
+    "value": "字母F"
+  }
+]

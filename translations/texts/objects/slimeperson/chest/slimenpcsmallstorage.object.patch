@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hollow, thick slime substance.",
+    "value": "一种中空的，粘稠的史莱姆物质。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Storage",
+    "value": "史莱姆储藏箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'm wary of how useful a translucent storage is.",
+    "value": "我很担心半透明存储器的用处。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I can see what's inside through the slime. That's neat!",
+    "value": "我能透过史莱姆看到里面是什么。太好了！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A see-through ssstorage, can see if meat inssside.",
+    "value": "一个透明的储藏室，可以看到肉是否在里面。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. I can see this storage's contents through the slime casing.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "If I look closely, I can see right through the slime.",
+    "value": "如果我仔细看，我能看穿史莱姆。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This storage looks like some sea creatures from the homeworld.",
+    "value": "这个储藏室看起来像是一些来自家乡的海洋生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "What's the use of a storage you can see into without opening it?",
+    "value": "不用打开就能看到的存储器有什么用？"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "My favorite storage.",
+    "value": "我最喜欢的储藏方式。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimenpcDescription",
+    "raw": "...storage.",
+    "value": "…存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimenpchumanDescription",
+    "raw": "This is the best storage!",
+    "value": "这是最好的储藏方式！"
+  }
+]

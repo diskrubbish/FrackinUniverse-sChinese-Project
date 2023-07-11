@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An arcade machine with an interactive narrative game.",
+    "value": "可互动叙事式街机。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Humped By a Deep One",
+    "value": "驼背的深潜者"
+  }
+]

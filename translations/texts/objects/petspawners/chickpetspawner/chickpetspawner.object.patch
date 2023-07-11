@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spawns in a pet chick! \n^orange;To locate it after placing, toggle wire mode.^reset;",
+    "value": "生成一只小鸡！\n^orange;若要在放置后定位，请切换为连模式。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Chick Spawner^reset;",
+    "value": "^orange;小鸡生成器^reset;"
+  }
+]

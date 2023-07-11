@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A titanium wall.",
+    "value": "一种钛金属墙。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Titanium Wall",
+    "value": "钛金属墙"
+  }
+]

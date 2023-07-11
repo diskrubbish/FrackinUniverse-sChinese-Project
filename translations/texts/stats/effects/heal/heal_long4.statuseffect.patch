@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Restores 250 health over 10 seconds, and instantly cures most status effects.",
+    "value": "在10秒回复250点生命值，同时清除大多数状态效果。"
+  }
+]

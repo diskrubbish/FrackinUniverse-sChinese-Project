@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Doors carved from a cross section of a large geode.",
+    "value": "由一个巨大的晶洞的横截面雕刻而成的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Geode Double Door Prop",
+    "value": "晶洞双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These heavy doors have been cut from a green geode.",
+    "value": "这些沉重的门是用一块绿色的水晶石切割而成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The geode crystals in these door have been smoothed.",
+    "value": "这些门上的晶洞已经被打磨过了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Doors made from sshiny rockss.",
+    "value": "用闪亮的石头做成的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Secure. These heavy geode doors could easily repel unwanted visitors.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The geode crystals in these doors make them glimmer brightly when opened.",
+    "value": "这些门里的晶体使它们在打开时闪闪发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These beautiful stones have been fashioned into a door.",
+    "value": "这些漂亮的石头被做成了一扇门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These big ol' doors are made from polished rock.",
+    "value": "这些大门是用抛光的岩石制成的。"
+  }
+]

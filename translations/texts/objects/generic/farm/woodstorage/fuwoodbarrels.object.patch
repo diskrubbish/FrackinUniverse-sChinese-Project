@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Handy for storing delicious (and nutritious!) alcohols.",
+    "value": "用于储存各种美味(又营养)的酒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wooden Kegs",
+    "value": "木制桶"
+  }
+]

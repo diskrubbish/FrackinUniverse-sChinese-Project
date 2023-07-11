@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Glide as gracefully as you can. Use ^green;[F]^reset;.",
+    "value": "尽可能优雅地滑行。\n激活：^green;[F]^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Avian Slowfall",
+    "value": "缓慢降落(翼族)"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Kramil is known for its potent anti-cold properties.",
+    "value": "这是非常出名的耐寒植物。可以收获克拉姆根茎，食用后会免疫寒冷、致命严寒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kramil",
+    "value": "克拉姆根茎种子"
+  }
+]

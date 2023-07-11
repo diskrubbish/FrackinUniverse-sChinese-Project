@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Diodia, soft root vegetables with a coppery taste.",
+    "value": "纽扣果，软根蔬菜，有铜色的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Diodia Basket",
+    "value": "纽扣果篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Diodia aren't the most pleasant-tasting things, but they're easy to grow.",
+    "value": "纽扣果并不是最美味的东西，但它们很容易种植。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A diodia looks like a nut, doesn't taste like one.",
+    "value": "纽扣果看起来像坚果，但尝起来不像。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Tassstes like blood, Floran find Diodia acceptable sssubstitute.",
+    "value": "像血液一样，叶族人找到纽扣果可以接受的替代品。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Insulted. Diodia are truly an under-appreciated vegetable.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like a potato, tastes like a penny. Not a great trade-off.",
+    "value": "看起来像土豆，尝起来像便士。这不是一个很好的权衡。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A bitter root vegetable. Good for adding flavour.",
+    "value": "苦根蔬菜。有助于增加风味。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Coppery tasting diodia are all the rage with Glitch.",
+    "value": "品尝铜色的纽扣果因电子人而风靡一时。"
+  }
+]

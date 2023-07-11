@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A shiny bookcase for storing books!",
+    "value": "一个闪闪发光的书柜！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Bookcase",
+    "value": "以太书柜"
+  }
+]

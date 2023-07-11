@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Transforms a planet's climate into a Volcanic Primeval Forest.",
+    "value": "(请放置于地表，可移动式，激活后请耐心等待)可将星球的特征转换为火山原始森林。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "V.Primeval Terraformer",
+    "value": "火山原始森林转换器"
+  }
+]

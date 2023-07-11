@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A crystal trophy.",
+    "value": "水晶奖杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Trophy",
+    "value": "水晶奖杯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A trophy. It is made of some sort of crystal.",
+    "value": "奖杯。它是某种水晶做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A trophy. Looks like an award of some sort.",
+    "value": "奖杯。看起来像是某种奖励。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thiss trophy lookss staby!",
+    "value": "这个奖杯看起来很稳定！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This trophy should be some kind of award.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This trophy looks expensive. Better not touch it.",
+    "value": "这个奖杯看起来很贵。最好不要碰它。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This trophy is made of crystal, very decorative.",
+    "value": "这个奖杯是用水晶做的，很有装饰性。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'd bet I could use this thing in a bar fight.",
+    "value": "我打赌我可以在酒吧打架时用这个东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "The crystal used for this trophy is a trademark of our people.",
+    "value": "这个奖杯用的水晶是我们人民的商标。"
+  }
+]

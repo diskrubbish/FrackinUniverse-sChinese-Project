@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Even looking at this makes me feel nauseous and wrong.",
+    "value": "仅仅看一眼就让我觉得很恶心，真是一个错误的决定。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Strange Monument",
+    "value": "奇异的纪念碑"
+  }
+]

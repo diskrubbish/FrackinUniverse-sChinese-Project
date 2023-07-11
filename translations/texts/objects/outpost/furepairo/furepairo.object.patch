@@ -1,0 +1,86 @@
+[
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Vehicle repairs",
+    "value": "车辆维修"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's Roger Repairo, who repairs lost or broken vehicles for pixels.",
+    "value": "是修车杰哥，他修理丢失或损坏的车辆以获取像素。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Roger Repairo",
+    "value": "修车杰哥"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This mechanical man is an expert at fixing things.",
+    "value": "这个机械人是修理东西的专家。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This mechanical merchant will skilfully fix broken vehicles.",
+    "value": "这名机械商人将熟练地修理损坏的车辆。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Shiny metalman fixesss things.",
+    "value": "闪亮的金属人修修修复问题。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relieved. This mechanical man can expertly fix broken vehicles.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Good old Roger Repairo. He's got a cheerful face, and he fixes things like an expert!",
+    "value": "修车杰哥强啊。他长着一张开朗的脸，修起东西来像个专家！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This mechanical merchant is disconcertingly cheerful, but undoubtedly effective.",
+    "value": "这个机械商人笑面藏刀，但绝对牛逼。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "He sure does look happy to be fixin' things all day.",
+    "value": "他看起来确实很高兴整天都在修东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/0",
+    "raw": "Get your fixer-upper fixed up here - a few pixels and you're ready to ride!",
+    "value": "把你的车子器放到这里来修 - 花上小额像素就可以骑了！"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/1",
+    "raw": "Can't remember where you parked your hoverbike? Just reconstitute it from raw pixels!",
+    "value": "不记得你把悬浮车停在哪里了？只要从原始像素中重新组成它就可以了！"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/2",
+    "raw": "With a few pixels, we can polish out those unsightly nicks and dents in a jiffy!",
+    "value": "只需一些像素，我们就可以在瞬间磨去那些难看的缺口和凹痕!"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/3",
+    "raw": "I taught my brother everything he knows, you know!",
+    "value": "我教了我兄弟所有他所能知道的，你懂的！"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Craft all sorts of bee related items!",
+    "value": "制作各种与蜜蜂相关的道具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Apiary Crafting Station^reset;",
+    "value": "^cyan;蜂场工作台^reset;"
+  }
+]

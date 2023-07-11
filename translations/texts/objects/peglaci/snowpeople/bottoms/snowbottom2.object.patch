@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The bottom of a Snowman.",
+    "value": "雪人的底座。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Simple Snowbottom",
+    "value": "简易雪人底座"
+  }
+]

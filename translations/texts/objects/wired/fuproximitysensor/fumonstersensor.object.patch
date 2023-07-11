@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perfect for all your automated door needs! Watches for scary monsters.",
+    "value": "完美满足您所有的自动门需求！观察可怕的怪物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proximity Monster Scanner",
+    "value": "近程怪物扫描器"
+  }
+]

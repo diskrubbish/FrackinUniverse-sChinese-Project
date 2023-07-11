@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A crystal. Unfortunately, it's too hard to get breaking bad... Unbreakable!",
+    "value": "水晶。不幸的是，这太难了。。。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Smashable Crystal",
+    "value": "可粉碎水晶"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I must smash this crystal!",
+    "value": "我必须把这个水晶打碎！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Smashing this crystal will be satisfying.",
+    "value": "打碎这个水晶会让人满意的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmashy shiny!",
+    "value": "漂亮又闪亮！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excited. Smashing this crystal will produce great wealth.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Time to make some crystal mess.",
+    "value": "是时候把水晶弄得一团糟了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Blue crystals. Pretty. I hope I don't smash them!",
+    "value": "蓝色水晶。漂亮的我希望我不要砸了他们！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I just got the strongest urge to smash this 'ere crystal.",
+    "value": "我有一种强烈的冲动想把这个水晶砸碎。"
+  }
+]

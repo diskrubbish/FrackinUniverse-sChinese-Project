@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "If ever you disturb our streets again, your lives shall pay the forfeit of the peace.",
+    "value": "犯我中华者，虽远必诛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Figurehead Statue",
+    "value": "甲虫族塑像"
+  }
+]

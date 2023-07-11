@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mysterious ship blocks.",
+    "value": "神秘的船体方块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Ship Block",
+    "value": "夜族飞船方块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. Mysterious Ship Blocks.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Myssteriouss  Blocksss.",
+    "value": "神秘的方块块块。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Mysterious Ship Blocks.",
+    "value": "神秘的船体方块。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Transforms a planet's climate into a Cybersphere biome.",
+    "value": "(请放置于地表，可移动式，激活后请耐心等待)可将星球的特征转换为金属卫星。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cybersphere Terraformer",
+    "value": "金属卫星转换器"
+  }
+]

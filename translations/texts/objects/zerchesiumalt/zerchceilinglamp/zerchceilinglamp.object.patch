@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A ceiling mounted lamp made from polished zerchesium.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Ceiling Lamp",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A sleek, simple lamp.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This lamp has a very simple design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty lightsss!",
+    "value": "漂亮的灯灯灯！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A sleek lamp.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This lamp looks nice and sleek.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The simplicity of the design is pleasing to the eyes.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This lamp is mighty simple.",
+    "value": ""
+  }
+]

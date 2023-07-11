@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/particleEmitters/statustext/particles/0/particle/text",
+    "raw": "HP Boost",
+    "value": "生命值上限提升"
+  }
+]

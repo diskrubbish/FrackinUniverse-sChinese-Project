@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Don't be fooled - most of that bag is just air.",
+    "value": "别上当了，那个袋子里的大部分都是空气。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chips",
+    "value": "炸薯条"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A bag of salted potato chips.",
+    "value": "一袋咸薯片。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These chips aren't particularly healthy... Yet they're so addicting!",
+    "value": "这些薯片不是特别健康...但是尝了过后却又如此上瘾！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Chipss nice, but Floran needs more on an empty belly.",
+    "value": "薯条是不错，但是叶族人需要更多的空肚子才能吃下。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A bag of chips.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "You can never have just one!",
+    "value": "你永远不能只有一个！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Plesantly salty enough for one to forgive the unhealthy method of cooking them.",
+    "value": "咸得足以让人接受不健康的烹调方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A bag of chips won't do nothin' to sate yer appetite.",
+    "value": "一袋薯条对满足你的食欲没有任何作用。"
+  }
+]

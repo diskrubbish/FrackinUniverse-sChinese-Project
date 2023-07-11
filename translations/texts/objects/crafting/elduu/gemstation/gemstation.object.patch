@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A station to create new gem plants.",
+    "value": "一处创造新的宝石植物的工作站。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Crystal Fusion Station^reset;",
+    "value": "^orange;水晶融合站^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A crafting station. It creates new plants.",
+    "value": "一个工作站。创造了一种新式栽培法。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A tool for creating new types of crystal.",
+    "value": "制造新型水晶的工具。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran make new ssshiniesss.",
+    "value": "叶族人要创造新的亮闪闪。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A gardening tool.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fancy looking station for gemstones.",
+    "value": "一个漂亮的宝石收藏站。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This kind of technology is certainly interesting.",
+    "value": "这种技术相当有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't one for playin' with plants.",
+    "value": "我不喜欢和植物打交道。"
+  }
+]

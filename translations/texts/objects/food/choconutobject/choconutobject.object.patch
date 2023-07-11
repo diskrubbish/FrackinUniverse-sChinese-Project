@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A delicious fusion of coconut and chocolate in donut form.",
+    "value": "美味的椰子和巧克力的混合甜甜圈。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Choconuts",
+    "value": "巧克力"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes little coconut flakes on top of donut.",
+    "value": "叶族人喜欢在甜甜圈上面放一些椰子片。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. The coconut in this pastry compliments the chocolate shockingly well.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Odd combo. Odd, but it works.",
+    "value": "诡异连击。这很奇怪，但很有效。"
+  }
+]

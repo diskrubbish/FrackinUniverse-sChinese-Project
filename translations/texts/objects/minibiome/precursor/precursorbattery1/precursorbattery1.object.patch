@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perfectly honed crystal stores absurd energy.^truncate; ^red;Scan for Info^reset;\nStorage Capacity: ^green;25000^reset;J",
+    "value": "这是一块储存这荒谬能量的打磨后的水晶。\n^truncate; ^red;扫描以浏览更多信息^reset;\n储存电能：^green;25000^reset;J"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#a94db3;Precursor^reset; Battery",
+    "value": "^#a94db3;先驱^reset;电池"
+  }
+]

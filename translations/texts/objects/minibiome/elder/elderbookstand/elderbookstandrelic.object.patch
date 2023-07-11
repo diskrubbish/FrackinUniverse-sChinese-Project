@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "Ancient Texts",
+    "value": "古代文本"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Seek answers for the present from the past.",
+    "value": "从过去之中寻找今昔之解答。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Texts",
+    "value": "古代文本"
+  }
+]

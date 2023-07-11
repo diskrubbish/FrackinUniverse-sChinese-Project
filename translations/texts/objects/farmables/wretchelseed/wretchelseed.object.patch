@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Straddles dimensions and bends the laws of physics.",
+    "value": "它的生长完全没有任何逻辑可言。可以收获扭力藤，食用后会赋予吸收伤害护盾。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wretchel Seed",
+    "value": "扭力藤种子"
+  }
+]

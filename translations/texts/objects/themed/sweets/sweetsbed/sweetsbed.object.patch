@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sweets dreams!",
+    "value": "甜蜜的梦！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sweets Bed",
+    "value": "糖果床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This bed certainly LOOKS sweet, but will it actually properly support someone...?",
+    "value": "这张床看起来很舒服，但它真的能支撑某人吗...？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I feel like I'd peck at that headboard in my sleep.",
+    "value": "我觉得我会在睡梦中啄一下床头板。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Oh ssure. But when Floran ssuggests MEATS bed, it's \"horrific\" and \"a crime\".",
+    "value": "哦，好吧。但当叶族人把肉放在床上时，那是“可怕的”和“犯罪”。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned. Should I be worried about this bed going bad?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This bed's perfect, assuming you don't have a strawberry allergy!",
+    "value": "这张床很完美，假设你没有草莓过敏！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This bed isn't ACTUALLY made of food, right...?",
+    "value": "这张床其实不是食物做的，对吧...？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'm pretty sure this here bed'll give me diabetes just from sleepin' on it.",
+    "value": "我敢肯定这张床会让我因为睡在上面而得糖尿病。"
+  }
+]

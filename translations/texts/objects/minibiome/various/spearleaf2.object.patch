@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spearleaf",
+    "value": "枪叶"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spearleaf",
+    "value": "枪叶"
+  }
+]

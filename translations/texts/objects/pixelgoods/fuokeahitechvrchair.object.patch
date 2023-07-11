@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Escape the bright future into the comfort of an even brighter future!",
+    "value": "挣脱光明未来的束缚，坦然接受更舒适未来的洗礼。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hi-tech VR Set Chair",
+    "value": "高科技虚拟现实座椅"
+  }
+]

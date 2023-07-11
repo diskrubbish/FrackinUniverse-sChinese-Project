@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Coffee with milk.",
+    "value": "加牛奶的咖啡。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flat White Coffee",
+    "value": "牛奶咖啡"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Milky coffee.",
+    "value": "牛奶咖啡。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. Coffee with milk.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Coffee stirred with a bit of milk.",
+    "value": "咖啡加一点牛奶搅拌。"
+  }
+]

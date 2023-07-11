@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "He's insane. I like it.",
+    "value": "他疯掉了，真让我高兴。"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Wanna try something ^orange;super fun^reset;? Let's create something previously thought to be ^green;hypotehtical^reset;! Let's try making ^orange;Neutronium^reset; and ^orange;Anti-Neutronium^reset;! I'll give you something ^red;truly amazing^reset; if you can do it! I promise. For real, this time.",
+    "value": "想要尝试一些^orange;超级有趣^reset;的事情吗？让我们创造一些过去被认为是^green;虚构^reset;的东西——创造一些^orange;中子素^reset;和^orange;反中子素^reset;吧！如果你能做到，我就会交给你一些真的很不可思议的东西。我保证，这一次是真的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Bring ^red;Kevin^reset; 1 ^orange;Neutronium and Anti-Neutronium^reset;",
+    "value": "把1份^orange;中子素和反中子素^reset;带给^red;凯文^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Holy forking shirtballs, you did it. I guess you aren't the dumbass I had assumed. In return, I give you this super-neat technology blueprint I found in the ^orange;Anti-Realm^reset;! No, I won't tell you where that is. You can't know, because you aren't special like ^cyan;Dave^reset;.",
+    "value": "好礼法克屑特宝，你居然做到了。我猜你还没有我想象中的那么笨。作为回报，我会把这个超级牛逼的科技蓝图交给你，这可是我在^orange;反异界^reset;找到的！不，我不会告诉你那是哪里摘到的。你不能知道，因为你不像^cyan;戴夫^reset;那样牛逼。"
+  }
+]

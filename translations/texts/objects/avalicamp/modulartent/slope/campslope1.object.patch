@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A set of decorative sheets, suitable for putting a roof on a tent.",
+    "value": "一个小的装饰顶篷，一般安装在帐篷顶部。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Decorative Topsheet",
+    "value": "装饰顶篷"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What a crude structure.",
+    "value": "多么粗糙的结构。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Reminds me of a market on Avos",
+    "value": "让我想起了以前的虚拟市场。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Funny material, what plant isss it from?",
+    "value": "有趣的材料。是从植物上获取的吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. A sheet of tightly woven carbon-nanofibre weave.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "But what is camping without marshmallows?",
+    "value": "为什么露营时没有棉花糖呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such primitive lifeforms!",
+    "value": "这种原始的生命形式！"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "Most of our tents are assembled piecemeal from carbon nanofibre sheets and poles.",
+    "value": "我们的大多数帐篷都是用零碎的纳米纤维和帐篷杆组装起来的。"
+  }
+]

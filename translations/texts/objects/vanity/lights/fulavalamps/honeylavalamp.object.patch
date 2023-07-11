@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp filled with honey. It smells like a beehive.",
+    "value": "一盏注满了蜂蜜的熔岩灯。它闻起来就像是一个蜂巢。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Lava Lamp",
+    "value": "蜂蜜熔岩灯"
+  }
+]

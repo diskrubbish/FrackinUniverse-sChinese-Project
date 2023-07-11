@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lab Pipe",
+    "value": "实验室用管道"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A heavy-duty pipe used for transporting fluids, gases and anything else that can fit!",
+    "value": "用于输送液体、气体或其他物质的重型管道！"
+  }
+]

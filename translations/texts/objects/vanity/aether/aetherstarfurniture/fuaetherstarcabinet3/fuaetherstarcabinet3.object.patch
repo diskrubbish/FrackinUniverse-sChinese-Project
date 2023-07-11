@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large pretty dresser.",
+    "value": "一个漂亮的大梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Aether Dresser",
+    "value": "宇宙以太梳妆台"
+  }
+]

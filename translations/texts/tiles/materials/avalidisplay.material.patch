@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An LED display works away quietly.",
+    "value": "一个LED显示屏，正在静静地工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "LED Display",
+    "value": "LED显示屏"
+  }
+]

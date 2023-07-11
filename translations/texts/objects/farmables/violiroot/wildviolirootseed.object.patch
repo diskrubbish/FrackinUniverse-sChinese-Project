@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Violiroot will make your plantation super hot.",
+    "value": "维奥根会让你的种植园变得超级热。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Violiroot Seed",
+    "value": "维奥根种子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Bad for teeth, great for researching.",
+    "value": "不利于牙齿，有利于研究。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Violiroot is a great source of metal.",
+    "value": "维奥根是重要的金属来源。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Plasssma ssstick.",
+    "value": "等离离离子树树树枝。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Ponderous. This plant is sharp and potentially deadly.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Violiroot. Don't eat this thing, it's bad for your health.",
+    "value": "维奥根。不要吃这东西，它对你的健康有害。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Violiroot's leaves can be used to make violium.",
+    "value": "维奥根的叶子可以用来制作维奥矿。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This plant is very familiar to me.",
+    "value": "这种植物我很熟悉。"
+  }
+]

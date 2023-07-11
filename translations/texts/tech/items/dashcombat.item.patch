@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "End your dash with a damage boost!",
+    "value": "冲刺结束后，攻击将会提升！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Lance Dash^reset;",
+    "value": "^#77acc3;狂暴冲刺^reset;"
+  }
+]

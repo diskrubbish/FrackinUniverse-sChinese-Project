@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A compact, specially crafted explosive for mining. Detonation requires impact.",
+    "value": "一种用于采矿的特制小型爆炸物。注意安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blasting Dynamite",
+    "value": "爆破炸药"
+  }
+]

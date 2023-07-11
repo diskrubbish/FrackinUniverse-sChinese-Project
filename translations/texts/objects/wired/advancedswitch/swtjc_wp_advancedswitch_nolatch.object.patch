@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Small Wall Switch, Persistent Switch, and Not Gate, all in a single package!",
+    "value": "其内封装有小型墙壁开关、持久开关、非门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Advanced Wall Switch (No Latch)",
+    "value": "高级墙壁开关(无锁存器)"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "value": "哇，这么多功能！到底是先看看说明指南，还是现在就开始试试看呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "value": "哇，这么多功能！到底是先看看说明指南，还是现在就开始试试看呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssso many featuresss! Floran might need to read manual to figure out which node doesss what. Or jussst exxxperiment with it!",
+    "value": "哇，这么多功能！叶族人是先看看说明明明指南，还是现在就开始始始试试看呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Overwhelmed. So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "value": "哇，这么多功能！到底是先看看说明指南，还是现在就开始试试看呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "value": "哇，这么多功能！到底是先看看说明指南，还是现在就开始试试看呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "value": "哇，这么多功能！到底是先看看说明指南，还是现在就开始试试看呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/penguinDescription",
+    "raw": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "value": "哇，这么多功能！到底是先看看说明指南，还是现在就开始试试看呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "So many features! I might need to read the manual to figure out which node does what. Or just experiment with it!",
+    "value": "哇，这么多功能！到底是先看看说明指南，还是现在就开始试试看呢？"
+  }
+]

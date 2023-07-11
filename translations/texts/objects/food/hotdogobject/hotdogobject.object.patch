@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Thankfully, still not made up of actual dogs.",
+    "value": "谢天谢地，它仍然不是由真正的狗组成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hot Dog",
+    "value": "热狗"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pft, Floran eats doggies all the time!",
+    "value": "操蛋，叶族人一直在吃狗狗！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned. My scanners are picking up several different meat sources from this sausage.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Fine as it is with just the meat, but just as good in a bun.",
+    "value": "只要肉就可以了，但包起来也一样好。"
+  }
+]

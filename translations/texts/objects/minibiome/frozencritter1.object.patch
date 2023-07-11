@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of long-frozen creature trapped within the ice.",
+    "value": "某种陷入寒冰中的被冻结已久的生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frozen creature",
+    "value": "被冻结的生物"
+  }
+]

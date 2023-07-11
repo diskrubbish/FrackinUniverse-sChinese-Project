@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Medium Angled Trim of an Apex Spaceship",
+    "value": "猿族飞船的中型角状装饰。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apex Medium Angled Trim",
+    "value": "猿人飞船中型角状装饰"
+  }
+]

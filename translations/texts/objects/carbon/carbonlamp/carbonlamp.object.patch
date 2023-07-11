@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A standing lamp made from carbon.",
+    "value": "碳制的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Lamp",
+    "value": "碳素灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This lamp is lighter than it looks.",
+    "value": "这盏灯比它看起来轻。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A simple looking lamp.",
+    "value": "一盏看起来简单的台灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssseesss it isss a lamp.",
+    "value": "叶族人说那是一盏灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A lamp.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's simple, but it looks nice and sleek.",
+    "value": "它很简单，但是看起来很漂亮，很时髦。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The design is simple, I wouldn't mind this in my room.",
+    "value": "设计很简单，我不介意把它放在我的房间里。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This is mighty simple, but it's pretty.",
+    "value": "非常简单，非常漂亮。"
+  }
+]

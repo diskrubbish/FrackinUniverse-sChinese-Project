@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Enhanced Jump",
+    "value": "加强跳跃"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I've found some sort of ancient tech in a ruin. I wonder what it does?",
+    "value": "我在一处遗迹中发现了一些古代科技。我想知道它有什么用？"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "This strange new technology has ^green;fused into my body^reset;. I seem to have ^orange;increased jumping ability^reset;.",
+    "value": "这种奇怪的新科技已经^green;融入了我的身体^reset;，看来我的^orange;跳跃能力得到了加强^reset;。"
+  }
+]

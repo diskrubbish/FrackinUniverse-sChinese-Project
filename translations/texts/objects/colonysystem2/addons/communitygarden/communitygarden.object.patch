@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Grows crops through community effort. Scan for info. \n^yellow;+2 Happiness^reset;",
+    "value": "通过社区的力量种植庄稼。扫描以查看更多信息。\n^yellow;+2幸福^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Community Garden",
+    "value": "社区园圃"
+  }
+]

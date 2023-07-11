@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This device seems to increase gravity tenfold within a small radius",
+    "value": "这个装置似乎在作用范围内提高十倍的重力"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Force Zone",
+    "value": "重压区"
+  }
+]

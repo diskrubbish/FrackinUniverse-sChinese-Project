@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sharp relish to compliment savoury meaty flavours.",
+    "value": "一种强烈的味道，用来补充肉味的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Relish",
+    "value": "喜欢"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wishes they had a ssslab of meat to go with this.",
+    "value": "叶族人希望他们有一大块肉来配这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Knowledgeable. This condiment is used to compliment a number of meat-based dishes.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Nice and tangy, but it'd go better with a good burger.",
+    "value": "味道不错，但最好配上一个好汉堡。"
+  }
+]

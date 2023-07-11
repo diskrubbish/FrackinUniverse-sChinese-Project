@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A silver chalice, for filling a royal mouth with royal beverages.",
+    "value": "一种银制的圣杯，用于在皇室的嘴里盛满皇室的饮料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Silver Chalice",
+    "value": "银杯"
+  }
+]

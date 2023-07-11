@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Your money: kept in easily busted wooden containers.",
+    "value": "用来存放你的各种财物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gold Storage",
+    "value": "黄金储存箱"
+  }
+]

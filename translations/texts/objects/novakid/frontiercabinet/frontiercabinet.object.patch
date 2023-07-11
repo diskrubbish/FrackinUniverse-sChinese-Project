@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rustic wooden cabinet",
+    "value": "简陋的木柜"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frontier Cabinet",
+    "value": "边境柜子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A large cabinet, with plenty of room to spare.",
+    "value": "一个有足够的空间的大柜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "More than enough space for storing belongings.",
+    "value": "有足够的空间存放物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Old cabinet big enough to sssleep in.",
+    "value": "大到可以睡觉的旧柜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Satisfied. I should be able to keep quite a bit in this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Woah, this was way more space than I was expecting.",
+    "value": "哇，这比我想象的要大得多。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A plethora of storage.",
+    "value": "大容量存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Sturdy and simple storage.",
+    "value": "坚固和简单的存储。"
+  }
+]

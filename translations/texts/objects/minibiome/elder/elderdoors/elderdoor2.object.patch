@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A malignant and unsettling door.",
+    "value": "一扇令人不安的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Door",
+    "value": "远古门"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "...Oh. Oh dear...",
+    "value": "...哦哦天哪。。。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wrecked Plant",
+    "value": "被毁的植物"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What happened here?",
+    "value": "这里发生了什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A ruined fake plant.",
+    "value": "被毁坏的假植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssomeone ssstab potted plant!",
+    "value": "有人在刺这个盆栽植物！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unsure. What happened to this plant?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like a cat got their claws in this one...",
+    "value": "看起来这只猫有爪子。。。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A ruined plant.",
+    "value": "被毁坏的植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some critter got 'hold of this plant.",
+    "value": "一些动物抓住了这种植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/catDescription",
+    "raw": "Meow. Looks like one of my fellow cats couldn't contain themselves...",
+    "value": "喵。看起来我的一只同伴无法控制自己。。。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A makeshift bed for travelling on the move.",
+    "value": "一张跋涉中的旅行者临时的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Hammock",
+    "value": "水晶吊床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I've slept in a few of these on resistance ships, no room for luxury",
+    "value": "我曾在抵抗军的飞船上睡过几个这样的房间，没有豪华的空间。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A suspended nest, what interesting idea!",
+    "value": "一个悬浮的鸟巢，这想法太有趣了！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hehe, bed tries flee from Floran when sitting on it.",
+    "value": "呵呵，什么破床，叶族人不睡了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concern. Bed displays low structural integrity.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'd love to set this up between a couple palm trees on a tropical world.",
+    "value": "我想在热带星球的一对棕榈树之间用这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I wouldn't be caught dead in a bed like that.",
+    "value": "我可不会像那样被困在床上。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "I guess it'll do. I would rather have a proper pile of bedding to spread out on.",
+    "value": "我想这就够了。我宁愿有一堆合适的被褥铺在上面。"
+  }
+]

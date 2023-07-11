@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A child's toy car.",
+    "value": "儿童玩具车。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toy Car",
+    "value": "玩具车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An adorable toy car.",
+    "value": "一辆可爱的玩具车。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A model toy car, how cute!",
+    "value": "一个玩具汽车模型，多可爱啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Car not big enough to drive in...",
+    "value": "车不够大，开不进去..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. A toddler's toy car.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These things are fun until you step on one in the middle of the night.",
+    "value": "这些东西都很有趣，直到你半夜踩到一个。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A model car. Not exactly the most creative of toys.",
+    "value": "模型车。并不是最有创意的玩具。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A cutesy toy car.",
+    "value": "可爱的玩具车。"
+  }
+]

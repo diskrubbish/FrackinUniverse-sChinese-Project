@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rare color for a flower.",
+    "value": "一种颜色很罕见的花朵。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Brown Flower",
+    "value": "棕色花种子"
+  }
+]

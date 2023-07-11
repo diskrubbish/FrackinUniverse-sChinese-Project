@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A thick woven banner depicting the imperial crest.",
+    "value": "描绘皇冠的粗织旗帜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Imperial Banner",
+    "value": "甲虫帝国横幅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A bright woven banner. I wonder what the jewel in the middle means.",
+    "value": "鲜艳的编织横幅。我想知道中间的珠宝是什么意思。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I enjoy the golden accents woven into the fabric.",
+    "value": "我喜欢织入织物的金色口音。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran usually avoid this sssymbol.",
+    "value": "叶族人通常避免使用这个符号。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned. Is the Empire nearby?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A beautifully woven banner.",
+    "value": "编织精美的旗帜。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A sun? Or some kind of creature?",
+    "value": "太阳？或者某种生物？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This banner looks like it has a beetle woven on it.",
+    "value": "这面横幅上好像织着一只甲虫。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Servire Imperium.",
+    "value": "服侍帝国。"
+  }
+]

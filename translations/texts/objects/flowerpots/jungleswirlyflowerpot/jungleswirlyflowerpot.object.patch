@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some lovely swirly flowers.",
+    "value": "一些可爱的漩涡花。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Jungle Swirly Flower Pot",
+    "value": "丛林漩涡花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some pretty purple flowers.",
+    "value": "一些漂亮的紫色花。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These flowers have a nice scent.",
+    "value": "这些花有很好的香味。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Flowers sssmell nice.",
+    "value": "花闻起来很香。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. Petals of delicate purple.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It looks like some overgrown pansies.",
+    "value": "它看起来像一些长得很茂盛的蝴蝶花。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Purple is the Hylotl colour of royalty.",
+    "value": "鲛人文化中，紫色象征忠诚。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some delicate pansies.",
+    "value": "一些精致的三色紫罗兰。"
+  }
+]

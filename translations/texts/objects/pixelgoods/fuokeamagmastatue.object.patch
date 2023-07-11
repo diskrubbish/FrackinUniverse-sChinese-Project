@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stone Guardian Statue.",
+    "value": "一个石质的守护雕像。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stone Guardian Statue",
+    "value": "石头守护者雕像"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Living Stone Guardian Statue.",
+    "value": "这守护雕像是活的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Living Stone Guardian Statue.",
+    "value": "这守护雕像是活的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Living Stone Guardian Statue.",
+    "value": "这守护雕像是活的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Living Stone Guardian Statue.",
+    "value": "这守护雕像是活的。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Living Stone Guardian Statue.",
+    "value": "这守护雕像是活的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Living Stone Guardian Statue.",
+    "value": "这守护雕像是活的。"
+  }
+]

@@ -1,0 +1,770 @@
+[
+  {
+    "op": "replace",
+    "path": "/researchBonus1/text",
+    "raw": "You've gained a +^green;1^reset; ^orange;Research^reset; bonus based on your session playtime. ^red;This bonus will be disabled if you are AFK^reset;.",
+    "value": "基于你的游戏时长，你已经获得了+^green;1^reset;^orange;研究点数^reset;的增益。^red;如果你处于挂机状态，这个增益将被取消。^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/researchBonus2/text",
+    "raw": "You've gained a +^green;2^reset; ^orange;Research^reset; bonus based on your session playtime. ^red;This bonus will be disabled if you are AFK^reset;.",
+    "value": "基于你的游戏时长，你已经获得了+^green;2^reset;^orange;研究点数^reset;的增益。^red;如果你处于挂机状态，这个增益将被取消。^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/researchBonus3/text",
+    "raw": "You've gained a +^green;3^reset; ^orange;Research^reset; bonus based on your session playtime. ^red;This bonus will be disabled if you are AFK^reset;.",
+    "value": "基于你的游戏时长，你已经获得了+^green;3^reset;^orange;研究点数^reset;的增益。^red;如果你处于挂机状态，这个增益将被取消。^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/researchBonus4/text",
+    "raw": "You've gained a +^green;4^reset; ^orange;Research^reset; bonus based on your session playtime. ^red;This bonus will be disabled if you are AFK^reset;.",
+    "value": "基于你的游戏时长，你已经获得了+^green;4^reset;^orange;研究点数^reset;的增益。^red;如果你处于挂机状态，这个增益将被取消。^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/upgrade_station/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrade_station/text",
+    "raw": "I should mention this now before I forget! You will occasionally need to ^orange;upgrade existing crafting stations^reset; using their built in ^green;Upgrade Button^reset; to be able to craft higher-tier gear. Make sure you don't forget!",
+    "value": "在忘记之前，我应该多句嘴！你有时会需要点击内置的^green;升级按钮^reset;来^orange;升级现有的工作台^reset;，以便能够制造更高级别的装备。敬告勿忘！"
+  },
+  {
+    "op": "replace",
+    "path": "/ammoLoad/text",
+    "raw": "You've found a firearm that uses ^orange;Ammo^reset;. Your current ammo count is represented by a visible bar when firing. You do not need to create or carry ammo. Reload by emptying the magazine or by pressing ^green;SHIFT + MOUSE 1^reset;.",
+    "value": "您已经找到了使用^orange;弹药^reset;的军火。发射时，您当前的弹药计数以可见的显示条表示。您无需制作或携带弹药。打空弹匣或按^green;SHIFT + MOUSE 1^reset;来重新上膛。"
+  },
+  {
+    "op": "replace",
+    "path": "/needMicrosphere/text",
+    "raw": "To fit through this gap, you're going to require a ^orange;Microsphere Tech^reset;. You can craft it via your ^orange;Tricorder^reset;. ",
+    "value": "为了填补这处空白，你需要^orange;微型球科技^reset;。你可以在^orange;三度仪^reset;处制作。"
+  },
+  {
+    "op": "replace",
+    "path": "/justkiddingyoureamoron/text",
+    "raw": "Honestly, spawning the most powerful augment? Some savior you are. I'm going to tell the Protectorate what a little cheat you are. ",
+    "value": "我滴包贝尔！老实说，生成最强大的增强模块？ 你就是带带救世主？ 我要告诉大地守护团你是个多么憨憨的骗子。"
+  },
+  {
+    "op": "replace",
+    "path": "/ancientpowerconduit/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/ancientpowerconduit/text",
+    "raw": "I've never seen Ancient tech like this before. It appears to be some sort of power conduit. It must have some use, somewhere. I'd keep that safe, were I you.",
+    "value": "我从没见过这样的古人技术。看起来像是某种能量管道。这一定在某个地方有用。如果我是你，我会好好保管的。"
+  },
+  {
+    "op": "replace",
+    "path": "/precursorDiscovery1/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/precursorDiscovery1/text",
+    "raw": "What...is this? How did we not detect this place? ^orange;Who built it?^reset; Can you please investigate? We've discovered the ruins of an unknown race!",
+    "value": "这是...什么？我们为啥没发现这地方,^orange;这地方谁建造的？^reset;你能赞助我吗？我们发现了一个未知种族建筑的废墟！"
+  },
+  {
+    "op": "replace",
+    "path": "/precursorDiscovery2/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/precursorDiscovery2/text",
+    "raw": "This appears to be some sort of combination lock. I couldn't even begin to guess at a solution. Maybe you're better at puzzles than I am.",
+    "value": "这看起来像是某种密码锁。我甚至不能开始推算出一种解决方案。也许你比我更擅长解谜。"
+  },
+  {
+    "op": "replace",
+    "path": "/subCantOperate/text",
+    "raw": "Your submersible vehicle cannot operate in the substance it is currently immersed in.",
+    "value": "你的潜艇载具无法在这种物质中工作，它完全沉到里面去了。"
+  },
+  {
+    "op": "replace",
+    "path": "/getsmall/text",
+    "raw": "In order to get into that gap, you're going to need to find a way to make yourself smaller. Maybe there's an answer elsewhere in this cavern. I bet it's a secret! Ooh boy! ^orange;I love secrets^reset;!",
+    "value": "为了到达目标点，你需要找到一种方法让自己变得更小。也许在这个洞穴的其他地方有答案。我打赌这是个秘密！哦，小伙子！^orange;我爱秘密^reset;！"
+  },
+  {
+    "op": "replace",
+    "path": "/getsmall/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/getsmall2/text",
+    "raw": "In order to get in here, you're going to have to ^green;Jump^reset; and then ^green;Press [F]^reset; while in the air.",
+    "value": "为了进入这个地方，你将不得不进行一次^green;跳跃^reset;，然后在空中^green;按[F]^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/getsmall2/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptopdoorlocked/text",
+    "raw": "I suppose both symbols glowing would represent 'on', then? That seems to make the most sense. Activate the correct consoles and ^green;ffwwooomf^reset;! Open Sesame! Or a lethal trap, I suppose.",
+    "value": "我想两个发光的标志都代表‘开启’，那么？最有道理的做法似乎就是——激活正确的控制台然后打打打打打开门！不是芝麻开门！就者是致命陷阱。"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptopdoorlocked/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptopdoorshoot1/text",
+    "raw": "Hmm. This door appears well sealed. Oh! It has a neat little missile icon on it! Perhaps some ^orange;explosive force^reset; might open it? A ^green;grenade, bomb or rocket^reset; should do the trick.",
+    "value": "嗯。 这扇门看起来密封得很好。哦！它上面有一个整洁的小导弹图标！也许某种^orange;爆炸力^reset;可以打开它？^green;手榴弹、炸弹或火箭^reset;应该可以解决这道难题。"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptopdoorshoot1/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptopdoorshoot2/text",
+    "raw": "Ah, another of these ^orange;explosive^reset; triggered doors. I should hope you know what to do by now.",
+    "value": "啊，又一个这样的^orange;爆炸^reset; 触发门。我希望你现在知道该怎么做了。"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptopdoorshoot2/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptopdoorshoot3/text",
+    "raw": "Hmm. This switch is far enough from the door that entry without some sort of ^orange;swift boost or motion^reset; appears to be almost impossible.",
+    "value": "嗯。这个开关离门足够远，没有某种类型的^orange;快速推进或运动方式^reset;，似乎是不可能够到的。"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptopdoorshoot3/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop1/text",
+    "raw": "The energy signatures within this cave are quite unusual. I'm getting definite trace readings of ^green;ancient essence^reset;, which doesn't make much sense. The ^#ff00fc;Ancients^reset; have no known historical presence in this sector.",
+    "value": "这个洞穴里的能量信号很不寻常。我得到了明确的^green;古代精华^reset;的痕迹读数，虽说这没什么意义。因为^#ff00fc;古人^reset;在这个星区没有存在历史记载。"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop1/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop1b/text",
+    "raw": "Still...this reads as ^#ff00fc;Ancients^reset;, I'm almost positive. If these readings are accurate, we've stumbled across something truly significant. Press on! This is a rare chance for a true discovery.",
+    "value": "不过...这读数读起来像是^#ff00fc;古人^reset;，我几乎可以肯定。如果这些读数是准确的，我们真就在偶然间发现了一些真正重要的东西。坚持住！这是一个难得的发现真相的机会"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop1b/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop1c/text",
+    "raw": "I suppose it is safe to assume there is nobody here left alive. I can detect no trace of recent activity. I would estimate perhaps a decade since anyone has tread here.",
+    "value": "我敢断定这里没人活着。我没有发现最近活动的痕迹。我估摸着这里大概已经有十年无人踏足了。"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop1c/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop1d/text",
+    "raw": "^orange;YES^reset;! This is ^green;definitely^reset; an energy signature linked with the ^#ff00fc;Ancients^reset;. It's coming from somewhere very close to your position.",
+    "value": "^orange;是的！^reset;这^green;绝对^reset;是一个与^#ff00fc;古人^reset;有关的能量信号。它来自非常接近你的位置。"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop1d/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/ruins/text",
+    "raw": "I would guess that something unpleasant happened to the colonists here. A find like this could be worth millions of pixels, and no new colony is going to pass up that income.",
+    "value": "我猜这里的殖民者一定遇到了什么不愉快的事情。一次像这样的发现可能值数百万像素，而没有新殖民地会错过这些收入。"
+  },
+  {
+    "op": "replace",
+    "path": "/ruins/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/ruins2/text",
+    "raw": "This door is sealed by a locking mechanism that should respond well to ^orange;explosive force^reset;. If you can obtain a ^green;bomb or other sort of explosive^reset;, you could probably open this.",
+    "value": "这扇门有密封锁定机制，应该会对^orange;爆炸力^reset;反应灵敏。如果你能弄到^green;炸弹或其他爆炸物^reset;，你也许可以打开这扇门。"
+  },
+  {
+    "op": "replace",
+    "path": "/ruins2/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop2/text",
+    "raw": "Wow. ^#ff00fc;Ancient^reset; technology in almost perfect condition! This is a ^orange;very^reset; valuable discovery.",
+    "value": "哇哦。近乎完美的^#ff00fc;古人^reset;科技！这是一个^orange;非常^reset;有价值的发现。"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop2/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop4lake/text",
+    "raw": "This door appears to be locked. Perhaps searching elsewhere in the cave will reveal a ^orange;switch^reset; of some sort.^reset;.",
+    "value": "这扇门好像是锁着的。也许在洞穴的其他地方搜索会发现^orange;某种开关^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop4lake/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop4/text",
+    "raw": "A wonderful grotto. This water looks to be quite refreshing. A swim might be ^green;just what you need^reset;, but look out for ^red;predators beneath the surface^reset;.",
+    "value": "一个美丽的洞穴。这里的水看起来很清爽。游泳可能正是^green;你所需要的^reset;，但要小心水面下的捕食者。"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop4/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop5/text",
+    "raw": "It would appear, based on lifesigns, that you have stumbled onto some sort of nest. Be aware: ^red;one large mutant^reset; has been detected.",
+    "value": "根据生命信号，你似乎无意中发现了某种巢穴。 注意：检测到^red;大型突变体^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop5/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop6/text",
+    "raw": "Unless you are exceptionally nimble, you are going to need ^orange;climbing ropes^reset; to get up there. Try finding some or ^orange;make some yourself in your [C]rafting menu^reset;.",
+    "value": "你需要一些^orange;攀爬绳^reset;来到达那里，除非你特别灵活。试着找到一些绳子，或者^orange;在你的制造菜单[C]制造一些^reset;吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop6/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop7/text",
+    "raw": "This switch appears to be a timed trigger. You'll need a means to increase your speed if you are to pass here unless your species is exceptionally quick. Perhaps a ^orange;Dash Tech^reset; will do the trick.",
+    "value": "这个开关看起来是一个定时触发器。如果你想通过这里，你可能需要提高你的移动速度，或者你所属的种族拥有极快的速度。^orange;冲刺科技^reset;可能会提供一些帮助。"
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop7/senderName",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/fubiomeradiation/text",
+    "raw": "WARNING! RADIATION LEVELS ON THIS PLANET ARE EXTREMELY HAZARDOUS!\nYou should not attempt further exploration without proper protective equipment!",
+    "value": "^red;警告！这颗星球上的辐射极其危险！^reset;\n如果没有适当的防护措施，我不建议你继续探索！"
+  },
+  {
+    "op": "replace",
+    "path": "/fubiomepressure/text",
+    "raw": "Greetings! You appear to be rapidly dying due to explosive decompression or extreme pressure. You should seek safety, and relatively quickly or face ^red;certain death^reset;!",
+    "value": "真是值得庆祝！由于你受到爆炸性减压或者极端压强的作用，你似乎正在接近死亡的边缘。你应该快速地寻找一处安全区域或者无抵抗地面对^red;死亡^reset;！"
+  },
+  {
+    "op": "replace",
+    "path": "/fubiomepressure2/text",
+    "raw": "I am uncertain why you came here. This isn't at all a place you are evolved to survive. You will be dead in mere moments without ^orange;pressure protection^reset;. I suggest procuring some.",
+    "value": "我不明白你为什么毫无准备就来到此地，或许你是个白痴？快点离开！你需要可以^orange;抵抗压强^reset;的装备或是道具才能生存下去。"
+  },
+  {
+    "op": "replace",
+    "path": "/fubiomepressure3/text",
+    "raw": "Have you gone mad? The pressure here is enough to crush you almost instantly! What would possess you to come unprotected? Get some ^orange;pressure protection^reset; or face death!",
+    "value": "你疯了吗？这里的压强在累积到某种程度之后足以在瞬间杀死你，我建议你要么回去准备一些^orange;抵抗压强^reset;的东西再来探险，要么体验死亡！"
+  },
+  {
+    "op": "replace",
+    "path": "/fubiomepressure4/text",
+    "raw": "I regret to inform you that your decision to visit a ^red;gas giant^reset; without protection is a ^red;fatal^reset; one.",
+    "value": "我很遗憾地通知你，你刚刚传送到了一个^red;气态巨行星^reset;，而你没有压强保护。傻瓜，享受你的^red;猝死^reset;吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/fubiomepressurenight/text",
+    "raw": "Natural forces change the tide of gasses regularly with day and night cycle. As night approaches, you'll find things get a bit worse on your survival. Perhaps return later.",
+    "value": "自然之力彻底改变了这里的气候，随着黑夜的到来，你将会发现环境越来越恶劣。或许你可以等到白天再开始探索。"
+  },
+  {
+    "op": "replace",
+    "path": "/fubiomepressureday/text",
+    "raw": "As the sun rises, warming the nascent gas of this world you find that the natural forces seem to calm and rapidly reduce in potence.",
+    "value": "随着太阳的升起，行星的气体正逐渐升温，你会发现强烈的自然之力似乎减弱了不少。"
+  },
+  {
+    "op": "replace",
+    "path": "/fubiomepressurewind/text",
+    "raw": "While it is never exactly a pleasant calm day on a Gas Giant, extreme winds severely increase the effects of the environment. Take extra precautions.",
+    "value": "今天可不是平静的一天，极端的风将会大幅度降低你的生存能力，希望你已经做好了防御措施。"
+  },
+  {
+    "op": "replace",
+    "path": "/fubiomecold/text",
+    "raw": "WARNING! TEMPERATURE ON THIS PLANET IS DANGEROUSLY LOW!\nYou should not attempt further exploration without proper protective equipment!",
+    "value": "^red;警告！这颗星球上温度极低！^reset;\n如果没有适当的防护措施，我不建议你继续探索！"
+  },
+  {
+    "op": "replace",
+    "path": "/fubiomecoldwind/text",
+    "raw": "The extreme winds have made the temperature plummet dramatically. You should get out of the wind unless you wish to freeze to death rapidly.",
+    "value": "这恶劣的飓风使得温度正在急剧下降。如果你不想死的话，就快点离开这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/fubiomeproto/text",
+    "raw": "^red;WARNING: TOXIC ATMOSPHERE!^reset; The air here is thick with some sort of viscosity. It makes you feel sluggish, and you feel yourself getting weaker.",
+    "value": "^red;警告：检测到有毒大气！^reset;这里的空气似乎有些黏稠，你发觉你的五感越来越迟钝，身体越来越虚弱。"
+  },
+  {
+    "op": "replace",
+    "path": "/fubiomeheat/text",
+    "raw": "WARNING! TEMPERATURE ON THIS PLANET IS DANGEROUSLY HIGH!\nYou should not attempt further exploration without proper protective equipment!",
+    "value": "^red;警告！这颗星球上温度极高！^reset;\n如果没有适当的防护措施，我不建议你继续探索！"
+  },
+  {
+    "op": "replace",
+    "path": "/fubiomeinsanity/text",
+    "raw": "^red;ALERT: MENTAL STATE DETERIORATING!^reset; Your surroundings are causing your thoughts and feelings to become jumbled. Focus is difficult and you feel yourself going insane...",
+    "value": "^red;警告：检测到日益恶化的精神状态！^reset;这个星球上的某些东西正在使你的大脑变得混乱起来，你甚至没有办法集中自己的注意力，你感觉到自己快要疯了..."
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffect/text",
+    "raw": "^red;ALERT: MENTAL STATE DETERIORATING!^reset; Something is causing your thoughts and feelings to become jumbled. Focus is difficult and you feel yourself going insane...",
+    "value": "^red;警告：检测到日益恶化的精神状态！^reset;这个星球上的某些东西正在使你的大脑变得混乱起来，你甚至没有办法集中自己的注意力，你感觉到自己快要疯了..."
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectwindy/senderName",
+    "raw": "Your Mind",
+    "value": "你的心灵"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectwindy/text",
+    "raw": "The voices in the wind have informed you of a fantastic sale! It can only be found at the bottom of a Sulphuric Ocean, and only if you're naked! Totally legit! Check it out!",
+    "value": "风中似乎传来了一些声音，在你仔细听完之后，发觉这实在太荒诞了！它告诉你在全身赤裸的情况下，深入硫酸海，在海底你可以发现不可思议的大甩卖！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry1/senderName",
+    "raw": "Pocket Lint",
+    "value": "袖珍的棉绒"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry1/text",
+    "raw": "You're getting pretty hangry. That means angry and hungry. Because hunger. Food. Have you considered ^red;cannibalism^reset;? It's fast and easy! Try it ! Murder a neighbor! Trust the voices.",
+    "value": "你变得如此愤怒，正是因为你饿了！你觉得你的朋友怎么样？他那有弹性的皮肤，撕开来或许可以看到鲜嫩的内脏，相信我，这很容易做到，他并没有防备你，快去把他杀了吧，然后你就可以填饱你的肚子了！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry2/senderName",
+    "raw": "A Taco named Steve",
+    "value": "一个名为史蒂夫的墨西哥煎玉米卷"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry2/text",
+    "raw": "Okay. You're really getting hungry now. Why haven't you ^red;eaten a close personal friend^reset; yet? They are full of nutrients!",
+    "value": "好吧，你现在真的饿极了。^red;为什么不吃下你最亲密的朋友呢^reset;？他们可都是养分啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry3/senderName",
+    "raw": "Your Toenail",
+    "value": "你的脚指甲"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry3/text",
+    "raw": "I can't help but notice: You're still hungry, and your ^red;hellish maw is not dripping with the viscera of the slain^reset;. What is wrong with you? Eat ^red;sentient species^reset;!",
+    "value": "我不禁注意到：你仍然饥饿着，你那^red;饕餮食欲正在垂涎于那美味多汁的内脏呢^reset;。你还在等什么？吃点^red;活着的东西^reset;吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry4/senderName",
+    "raw": "Pinky the Nose Squirrel",
+    "value": "鼻松鼠的小指头"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry4/text",
+    "raw": "Brain, you are an idiot. You are about to die, and all you need to do to stop that problem is ^red;murder and devour^reset; the next person you see. Get on it. Or I'll make you.",
+    "value": "脑子，你是一个白痴。你就要死了，你所需要的仅仅是杀掉并吃下你所看到的下一个人。做掉它，否则我会做掉你。"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry5/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry5/text",
+    "raw": "I want to eat raw flesh.",
+    "value": "生肉，我想吃生肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry6/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry6/text",
+    "raw": "Why do I increasingly feel like I require meat?",
+    "value": "为什么我越来越想吃肉呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry7/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry7/text",
+    "raw": "I should have some meat.",
+    "value": "我应该吃一些肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry8/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffecthungry8/text",
+    "raw": "I am slowly going crazy. 1-2-3-4-5-6-^red;Meat^reset;. Crazy going slowly am I 6-5-4-3-2-1-^red;Kill^reset;!",
+    "value": "我正逐渐变得疯狂，1-2-3-4-5-6^red;血肉^reset;，疯狂正在缓慢地6-5-4-3-2-1-^red;杀死^reset;我！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectair/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectair/text",
+    "raw": "Leaping is fun! I should leap immediately from the nearest cliff! I am certain ^orange;Fun Times^reset; will ensue! Alternatively, try impacting the ground at a high speed! You'll get ^green;free cupcakes^reset;!",
+    "value": "跳跃是多么的有趣！我应该立刻从最近的悬崖边上来一次信仰之跃！我很确信^orange;欢乐的时光^reset;将会随之而来！尝试给地面来一次狠狠的头部撞击吧！你会得到一个^green;免费的杯型蛋糕^reset;的！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectair2/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectair2/text",
+    "raw": "Don't forget to jump to your death! How else are you going to make ^green;splatter-cakes^reset;?",
+    "value": "不要忘了来一次死亡之跃！除此之外你还能有什么办法去制作^green;飞溅蛋糕^reset;呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectair3/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectair3/text",
+    "raw": "You are certainly capable of flight! You can at least be sure of that! Go prove it by practicing with a leap off a high ledge! People will be amazed!",
+    "value": "你当然能飞! 至少你也可以肯定自己能！快去去证明一下吧，从高高的壁架上一跃而下进行练习！信仰之跃不再是梦！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectliquid/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectliquid/text",
+    "raw": "I forgot that ^orange;breathing liquid^reset; is a great way to help keep in shape! I should probably ^red;remove this stupid air supply^reset; in order to breathe a ton of it!",
+    "value": "我忘了那些^orange;呼吸着的液体^reset;是保持好身材的最棒的方式了！也许我该^red;脱掉这个笨重的空气供应设备^reset;，然后畅饮一场！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectfast/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectfast/text",
+    "raw": "Moving fast is amazing! ^orange;Especially downwards at the ground^reset; where the magical sparkles await! You should go ^red;really fast^reset; and ram into the ground to collect ^orange;extra^reset; sparkles!",
+    "value": "快速移动真是让人惊奇！^orange;尤其是自上而下面向地面的移动^reset;！魔法火花在那里等着你！你真的应该变快起来，然后给地面以及等待收集的^orange;额外^reset;火花一个拥抱！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectgrav/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectgrav/text",
+    "raw": "I appear to be weightless! I should ^orange;immediately remove my armor or air supply^reset; so that I can truly appreciate weightlessness! I'll float better! Plus, I'll be even ^green;more^reset; desirable to the opposite sex!",
+    "value": "我变得轻盈了！我应该^orange;立刻脱掉我的盔甲或空气供应^reset;，那样我就能真正地体验失重感了！我会漂浮得更好，变得^orange;更加^reset;吸引异性！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectskin/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectskin/text",
+    "raw": "Y'know what I ^red;really hate^reset;? Skin! Removing it is clearly the ^orange;most direct way^reset; to gain access to the ^green;magical realm of skinless gnomes^reset;! Do it! ^red;Remove your epidermis!^reset;",
+    "value": "你知道我^red;真正讨厌的^reset;是什么吗？皮肤！移除它才是到达无面者的魔法领域的^orange;最直接的方法^reset;！快点！快去^red;摘掉这些表面性的东西！^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectneat/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectneat/text",
+    "raw": "Neat, it just got a ^green;tiny bit windy outside^reset;. Do you know what that means? Yes! ^orange;That's right!^reset;, it's ^red;MURDER TIME!^reset; Let's find ourselves something to kill!",
+    "value": "干净之物，外面只有一些^green;微不足道的风^reset;而已。你知道这意味着什么吗？没错，^orange;你猜对了！^reset;^red;“狩猎之夜”已经到来！^reset;加入狩猎，找到自己的猎物吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectwee/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectwee/text",
+    "raw": "The sharper it is, ^red;the more fun it is to eat^reset;! That's what the old tales say! And they're right!",
+    "value": "越尖锐的东西，^red;吃起来就越有趣^reset;！这条古老传说中所提到的道理，乃是完全正确的。来吧，来试一试吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectmusic/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectmusic/text",
+    "raw": "We should very quickly recite a ^orange;rousing poem about the pointlessness of existentialism^reset; whilst conducting a ^green;grain-fed orchestra of meat^reset;!",
+    "value": "我们应该指挥一个^green;由谷物饲养的肉组成的管弦乐队^reset;，来一首^orange;有关存在虚无主义的激动人心的诗歌^reset;！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectweirdo1/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectweirdo1/text",
+    "raw": "hey, you should try experimenting with radioactive materials by ingesting them! you shouldn't miss on getting all the superpowers!",
+    "value": "嘿，你应该尝试摄入一些放射性物质，你不应该错过这一切的超能力！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectweirdo2/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectweirdo2/text",
+    "raw": "It is common knowledge that ingesting molten metal helps you strengthen your bone structure. Don't miss out on that!",
+    "value": "众所周知,食用熔炼金属能够加强你的骨骼结构。不要错过它!"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectweirdo3/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectweirdo3/text",
+    "raw": "To counter the iron loss from cannibalism-induced bleeding, you must consume liquid iron in copious amounts. it's the easiest way to replenish your iron stores. ^red;Trust me^reset;.",
+    "value": "为了应对同类相食导致的流血，所进一步导致的铁元素的流失，你必须摄食大量的液态铁，这是为你的身体补充铁元素的最简单的方法了。^red;相信我。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectweirdo4/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectweirdo4/text",
+    "raw": "Use ^green;all of your energy^reset;, and then ^red;run naked, screaming, into packs of monsters^reset;. There is no other way to make perogies.",
+    "value": "花费^green;你所有的力气^reset;，^red;去裸奔，去尖叫，去成为怪物的一份子吧^reset;。毕竟，这里可没有其他制作馅饼的办法。"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectkyle/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectkyle/text",
+    "raw": "Death is an illusion.",
+    "value": "死亡只是一种幻觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectmike/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectmike/text",
+    "raw": "Wake up, Michael.",
+    "value": "醒来吧，米歇尔。\n^blue;译注：天使长米迦勒，由于其事迹太多，也被称为“不眠的天使”。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectducts/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectducts/text",
+    "raw": "You should start ^red;sleeping in the cargo holds of strangers^reset;, and leaving strange notes in their air ducts. If the mood arises, you could maybe even ^green;steal their face-skin^reset;!",
+    "value": "你应该^red;在陌生人的货舱里睡一觉^reset;，然后在他们的通风管道里留下诡异字条。如果情绪上来了，,你甚至可以^green;偷取他们的脸皮^reset;——然后换下那些纸条！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectdying/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectdying/text",
+    "raw": "I'm bleeding very badly. I should ^red;definitely consider^reset; bleeding even more! I should ^orange;find something sharp^reset; and see if it fits in my eye socket!",
+    "value": "我流血流得很厉害，我应该^red;特别考虑^reset;流得更厉害一些！我要找到^orange;一些锋利的东西^reset;，然后看看它是否正适合我的眼窝！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectdying2/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectdying2/text",
+    "raw": "I cannot wait to bleed to death! Yaaaaay!",
+    "value": "我等不及在鲜血汇成的河流中享受死亡之乐了！呀啊啊啊啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectdying3/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectdying3/text",
+    "raw": "I bet that swimming in ^orange;molten iron^reset; is both revitalizing and enjoyable.",
+    "value": "我敢打赌在^orange;液态铁^reset;里游泳既能得到无限活力，又其乐无穷。"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectdying4/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectdying4/text",
+    "raw": "I am invincible. I should ^red;prove it by getting shot^reset; in the torso!",
+    "value": "我是不可战胜之人。我要证明它，我要^red;朝自己的身体开一枪^reset;！"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectdying5/senderName",
+    "raw": "You",
+    "value": "你"
+  },
+  {
+    "op": "replace",
+    "path": "/insanityeffectdying5/text",
+    "raw": "I hear legends of a ^green;magical cleaning fluid^reset; known as bleach and how ^orange;delicious it is^reset;. Let's find some and ingest!",
+    "value": "我听闻过^green;如魔法般清净的液体的传说^reset;，这些传说因为那种液体的漂白作用和美妙味道而广为流传。找到一些，然后喝下它吧！"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This station helps with upgrading gear and creating ideas.",
+    "value": "这个设备可以升级你的物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Tinkering Table^reset;",
+    "value": "^orange;改造台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "raw": "Tools and specialized equipment.",
+    "value": "制造工具和特殊装备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Tinkering Table^reset;",
+    "value": "^orange;改造台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^#00b097;Tinkering Table^reset;",
+    "value": " ^#00b097;改造台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Tools and specialized equipment.",
+    "value": " ^#dddddd;制造工具和特殊装备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "raw": "Upgrade and enhance, conceptualize and experiment.",
+    "value": "只为升级而存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Engineering Bench^reset;",
+    "value": "^orange;工程台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^#00b097;Engineering Bench^reset;",
+    "value": " ^#00b097;工程台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Create more advanced tools and equipment.",
+    "value": " ^#dddddd;制造更高级的工具和装备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "raw": "Create upgrades and hi-tech gear with nanites.",
+    "value": "利用最先进的设备大幅地提高你的能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Nanofabricator^reset;",
+    "value": "^orange;纳米加工器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^#00b097;Nanofabricator^reset;",
+    "value": " ^#00b097;纳米加工器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Assemble state-of-the-art equipment and tools.",
+    "value": " ^#dddddd;汇编最先进的的工具和装备。"
+  }
+]

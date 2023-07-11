@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An exceptionally fashionable weathered wooden counter.",
+    "value": "一个非常时髦的风化木柜台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Weathered Counter",
+    "value": "风化柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'm kind of worried this counter will give me splinters.",
+    "value": "我有点担心这个柜台会给我碎片。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The wood is old, but the carving is unquestionably solid.",
+    "value": "木头是古老的，但雕刻无疑是坚固的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes the sssmell of musty counter.",
+    "value": "叶族人喜欢发霉柜台的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. It's good to see that despite its price tag, this cabinet is still decently spacious.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Aw, it looks like something right out of a farmhouse!",
+    "value": "看起来就像是从农舍里出来的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I can practically smell the old wood of this counter.",
+    "value": "我几乎能闻到这个柜台的旧木头味。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's nice enough, I s'ppose. But is there anything in it?",
+    "value": "我想这已经够好了。但里面有什么吗？"
+  }
+]

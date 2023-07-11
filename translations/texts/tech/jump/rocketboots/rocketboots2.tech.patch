@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stronger, more efficient Rocket Boots",
+    "value": "更强劲、更高效的火箭跳跃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Rocket Boots II",
+    "value": "火箭靴 II"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A solid, heavy chair made of an advanced alloy.",
+    "value": "高级合金制成的结实而沉重的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Throne",
+    "value": "合金宝座"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Quite a chair - built to last.",
+    "value": "真是一把椅子——耐用。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This chair makes me feel powerful.",
+    "value": "这把椅子让我觉得很有力量。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thisss chair is too heavy.",
+    "value": "这张椅子太重了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. Appears to be a heavy duty command chair.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I feel like some sort of evil king in this chair. Very powerful looking.",
+    "value": "坐在这把椅子上，我觉得自己像个邪恶的国王。看起来非常有力。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Ugly, blocky, and distasteful.",
+    "value": "丑陋的，块状的，令人厌恶的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Chair's a chair, I suppose. This one just ain't to my taste.",
+    "value": "我想这是把椅子吧。这件不符合我的口味。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A heavy-duty chair to be sure, but nevertheless quite comfortable.",
+    "value": "当然是一把很重的椅子，不过还是挺舒服的。"
+  }
+]

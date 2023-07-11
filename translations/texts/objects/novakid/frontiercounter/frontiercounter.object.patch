@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A western-style counter with a polished brass countertop.",
+    "value": "带有抛光黄铜台面的西式柜台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frontier Counter",
+    "value": "边境柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This is a surprisingly stylish kitchen counter.",
+    "value": "这是一个非常时尚的厨房柜台。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This counter still smells of fresh cut wood.",
+    "value": "这个柜台仍有新鲜木材的气味。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can see Floran's face in countertop!",
+    "value": "叶族人可以在台面上看到叶族人的脸！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. A fantastically sturdy yet stylish counter.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It kind of smells like a bar. It's rather charming, actually!",
+    "value": "闻起来有点像酒吧。事实上，它相当迷人！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Despite its age, this counter is still as sturdy as ever.",
+    "value": "尽管年代久远，这个柜台仍然像以前一样坚固。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Someone really put some love into carvin' up this beauty.",
+    "value": "有人真的把爱放在这美丽的车上。"
+  }
+]

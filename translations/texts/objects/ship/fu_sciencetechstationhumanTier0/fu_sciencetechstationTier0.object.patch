@@ -1,0 +1,188 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "value": "舰载人工智能模块，简称S.A.I.L。\n^#B8860B;可在飞船用家具定制台调整种族风格^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Science S.A.I.L",
+    "value": "科学 S.A.I.L"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "When it's working, I can talk to SAIL through this console.",
+    "value": "当它工作时，我就可以通过这个控制台与SAIL交谈。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Rebooting this station should enable me to talk to SAIL.",
+    "value": "重启这个设施后，SAIL应该就能与我交谈了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran fix thisss panel to wake ship up!",
+    "value": "叶族人修修修好了这个面板，唤醒了飞船！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Distressed. I first need to reboot this station to communicate with SAIL.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "If I can reboot this station SAIL should come back online!",
+    "value": "如果我能重启这个设施，SAIL应该就能回到在线状态了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This console will allow me to communicate with SAIL. I need to reboot it first.",
+    "value": "这个控制台将会允许我与SAIL进行交流。我首先需要重启它。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Time to reboot this station so I can talk to SAIL.",
+    "value": "重启它，我就可以和SAIL进行对话了。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/0/0",
+    "raw": "Rebooting...",
+    "value": "系统重启中..."
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/0/1",
+    "raw": "/ai/portraits/humanportrait.png:unique.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/1/0",
+    "raw": "I am S.A.I.L, your Ship-based Artificial Intelligence Lattice. I manage the maintainance of your ship.",
+    "value": "您好.操作者.我是S.A.I.L, 您的舰载人工智能模块.我负责管理您的飞船的维护事项。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/1/1",
+    "raw": "/ai/portraits/humanportrait.png:talk.0",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/2/0",
+    "raw": "I am also programmed to offer you information and advice.",
+    "value": "我的程序也被设定为能够给您提供信息和建议。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/2/1",
+    "raw": "/ai/portraits/humanportrait.png:talk.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/3/0",
+    "raw": "Earth was attacked by an unknown force, and was subsequently annihilated.",
+    "value": "地球遭到了不明力量的攻击，星球结构被彻底摧毁。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/3/1",
+    "raw": "/ai/portraits/humanportrait.png:talk.0",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/4/0",
+    "raw": "The ship's navigation systems were damaged in our escape. Our location is currently unknown.",
+    "value": "飞船在脱离地球轨道过程中导航系统受到严重损害。我们当前所处的位置不明。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/4/1",
+    "raw": "/ai/portraits/humanportrait.png:talk.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/0/0",
+    "raw": "System is down, please reboot.",
+    "value": "系统已崩溃，请重新启动。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/0/1",
+    "raw": "/ai/portraits/humanportrait.png:unique.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/1/0",
+    "raw": "Please reboot the system.",
+    "value": "请重启系统。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/1/1",
+    "raw": "/ai/portraits/humanportrait.png:unique.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/2/0",
+    "raw": "Reboot process remains uninitiated.",
+    "value": "重启系统失败。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/2/1",
+    "raw": "/ai/portraits/humanportrait.png:unique.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/3/0",
+    "raw": "To make use of your S.A.I.L please reboot.",
+    "value": "要想使用你的S.A.I.L，请重启系统。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/3/1",
+    "raw": "/ai/portraits/humanportrait.png:unique.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/4/0",
+    "raw": "Rebooting has shown to improve ship interaction satisfaction levels by 73%.",
+    "value": "重启系统可以将您与飞船的交互度提高到73%。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/4/1",
+    "raw": "/ai/portraits/humanportrait.png:unique.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/5/0",
+    "raw": "Rebooting requires a conscious entity to interact with the S.A.I.L console.",
+    "value": "系统重启需要经由一名有意识的智慧实体与S.A.I.L控制台交汇互动才能进行。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/5/1",
+    "raw": "/ai/portraits/humanportrait.png:unique.1",
+    "value": ""
+  }
+]

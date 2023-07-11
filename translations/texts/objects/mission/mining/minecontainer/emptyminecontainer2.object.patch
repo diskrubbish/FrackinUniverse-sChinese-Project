@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large metal container intended for holding stone and ore.",
+    "value": "用来装石头和矿物空的大金属集装箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mine container",
+    "value": "矿业集装箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A big painted Container, full of rubble and dirt.",
+    "value": "一个很大的刷过漆的集装箱，充满了碎石和泥土。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An ugly metal container.",
+    "value": "一个丑陋的金属集装箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wants to sssleep in yellow box.",
+    "value": "叶族人想要在黄色箱子里睡一觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. The container appears to be empty.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A big Container.",
+    "value": "一个很大的集装箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An ugly metal container.",
+    "value": "一个丑陋的金属集装箱。"
+  }
+]

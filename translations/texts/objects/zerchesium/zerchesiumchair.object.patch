@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chair made from Zerchesium. Cold to sit on.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Padded Zerchesium Chair",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A standard chair.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A simple chair.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssit!",
+    "value": "座座座位！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. A chair. The Glitch occasionally like to sit.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A decent chair.",
+    "value": "一把像样的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A basic chair, it serves its purpose.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A functionin' chair.",
+    "value": "一把功能性的椅子。"
+  }
+]

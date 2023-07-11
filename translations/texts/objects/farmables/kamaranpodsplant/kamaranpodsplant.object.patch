@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hard to crack open.",
+    "value": "可以收获卡玛兰豆荚，食用后会免疫地形效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kamaran Pod Seed",
+    "value": "卡玛兰豆荚种子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The kamaran pod is surprisingly tough.",
+    "value": "卡玛兰豆荚有着令人惊讶的坚韧外壳。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Too hard for my beak to puncture. Not worth it.",
+    "value": "太硬了，我的喙打不开。完全没价值。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A sister-fruit from the seas.",
+    "value": "一株来自海洋洋洋的植物？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. The kamaran pod can generate electricity.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Stupid alien stuff. Looks like a good replacement to a baseball.",
+    "value": "愚蠢的未知东西。看起来就像一个棒球的替换品。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The pride of our people.",
+    "value": "这是我们人民的骄傲。"
+  }
+]

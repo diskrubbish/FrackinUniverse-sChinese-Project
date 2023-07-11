@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shoji Tile",
+    "value": "木质瓦片"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shoji Tile",
+    "value": "木质瓦片"
+  }
+]

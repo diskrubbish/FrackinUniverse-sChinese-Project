@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This cooking pot expels the odour of a hundred hearty meals.",
+    "value": "这个锅能散发出一百顿丰盛饭菜的气味。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medieval Cooking Pot",
+    "value": "中世烹饪锅"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "  Medieval Cooking Pot",
+    "value": "中世烹饪锅"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Yum, yum",
+    "value": "  哎呀，真香"
+  }
+]

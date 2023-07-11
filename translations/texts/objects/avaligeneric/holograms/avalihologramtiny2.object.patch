@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tiny hologram flashes an alert prompt.",
+    "value": "这个全息图内一直闪烁着某些提示，应该属于警报系统。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hologram, Alert",
+    "value": "全息警报图"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Unless the Avali have herbivores with bright stripes on them, I'd wager this is a warning.",
+    "value": "除非羽族养有某种带有明亮条纹的食草动物，要不然我会打赌这肯定是一个警告。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Whatever this sign is, it seems to be designed to catch your attention.",
+    "value": "它似乎就是设计来吸引注意力的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Apex once captured Floran. Cage had same markings around it, pattern mean 'floran here'?",
+    "value": "猿人们曾经抓过叶族人。关我们的笼子上也有这一样的标标标记，是不是这意味着‘叶族人来过这里’？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analytical. Likely intended as a warning based on similar patterns.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A warning stripe is a warning stripe no matter where you go.",
+    "value": "无论在哪里，一眼就能看出这意味这警告。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These markings remind me of a sea squirt. They make funny pets, so this is good?",
+    "value": "让我想起了海鞘，它们真是有趣的宠物，所以这表示安全？"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "An alert prompt... probably just a missing comma in one of the configuration files.",
+    "value": "一个警报提示...可能只是系统中的一个配置文件缺少逗号引起的。"
+  }
+]

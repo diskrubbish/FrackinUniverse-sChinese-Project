@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This advanced centrifuge efficiently separates immiscible liquids. ^cyan;Requires ^orange;24W ^cyan;power.^reset;",
+    "value": "这是更先进的离心机，它能从于不相溶的液体中分离出物质。\n^cyan;需要^orange;24W^cyan;电力^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Lab Centrifuge^reset;",
+    "value": "^cyan;实验室离心机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Extract items from resources",
+    "value": "从资源中提取物质"
+  }
+]

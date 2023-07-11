@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chest made from cultivated crystals.",
+    "value": "由人工水晶制成的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Crystal Chest",
+    "value": "小型水晶箱子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A chest made entirely of crystal. The contents can't be nearly worth its value.",
+    "value": "一个纯粹由水晶打造的箱子，其中的内容物几乎抵不上它自身的价值。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An opulent chest. Seems fitting in a temple.",
+    "value": "一个奢华的箱子，适合安置在宫殿里。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sspecial sshiny chesst.",
+    "value": "特特别闪闪亮的箱子子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. How would you craft crystal into this shape?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Whoever made this talented.",
+    "value": "做出这个的人真是个天才。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I wonder if I could decipher those markings...",
+    "value": "我想知道我是否能破译那些标记..."
+  }
+]

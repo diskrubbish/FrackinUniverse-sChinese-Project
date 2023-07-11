@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A standard issue Protectorate dorm room couch. Modern!",
+    "value": "一个标准的大地守护团宿舍沙发。现代！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protectorate Couch",
+    "value": "大地守护团沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A stylish Protectorate made couch.",
+    "value": "一个时髦的大地守护团制造的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Just as comfy as I remember it.",
+    "value": "就像我记得的那样舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran used to love ssitting on cool couch...",
+    "value": "叶族人以前喜欢坐在酷酷的沙发上..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Nostalgic. A seat many a student would wile away the time on.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's remarkably clean, all things considered.",
+    "value": "从各方面来看，它非常干净。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A Protectorate couch I'm happy to see survived the destruction of Earth.",
+    "value": "我很高兴看到大地守护团的沙发在地球的毁灭中幸存下来。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The old dorm couch! That does take me back...",
+    "value": "旧宿舍沙发！这确实让我回想起..."
+  }
+]

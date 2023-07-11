@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Slimy gooey chair.",
+    "value": "粘糊糊的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Normal Slime Chair",
+    "value": "普通史莱姆椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These blobs kinda look like chair.",
+    "value": "这些斑点看起来有点像椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Wobbly, sticky chair.",
+    "value": "摇摇晃晃、粘糊糊的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wantsss to sssit here all day.",
+    "value": "叶族人想整天坐在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Error. Not sure if this is chair or something else.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This looks as comftable as a bean bag.",
+    "value": "这看起来像个豆袋一样舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Surface sea sponge shaped like chair.",
+    "value": "形状像椅子的海面海绵。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I dig this chair design.",
+    "value": "我喜欢这个椅子的设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "For comfty sitting.",
+    "value": "为了舒适的坐姿。"
+  }
+]

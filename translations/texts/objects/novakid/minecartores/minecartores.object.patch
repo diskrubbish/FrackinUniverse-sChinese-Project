@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A day's work worth of ores.",
+    "value": "一天的工作相当于矿石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Minecart of Ores",
+    "value": "矿车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A generous collection of ores. The mine these came from must be full to bursting with them.",
+    "value": "大量的矿石。这些东西来自的矿井一定装满了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Someone must've worked awfully hard to gather so much ore.",
+    "value": "一定是有人为了收集这么多矿石而拼命工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ores for ssmithing.",
+    "value": "用于采矿的矿石。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. I forget sometimes how much harder mining must be for someone without a Matter Manipulator.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Coal, copper, iron... this miner got a little of everything!",
+    "value": "煤、铜、铁...这个矿工什么都有！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Hard work often yields such returns. Good for them.",
+    "value": "努力工作往往会产生这样的回报。对他们有好处。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These ores can be used for a whole heap of things.",
+    "value": "这些矿石可以用来做一堆东西。"
+  }
+]

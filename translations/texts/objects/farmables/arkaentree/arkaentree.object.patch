@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sprouts odd, dangerous dimensional darts.",
+    "value": "可以收获奥肯刺，那是非常危险的投掷武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Arkaen Bush",
+    "value": "奥肯刺种子"
+  }
+]

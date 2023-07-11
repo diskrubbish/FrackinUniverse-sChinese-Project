@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "That's a big sofa, maybe too big...",
+    "value": "那是个大沙发，但就是太大了..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hi-tech Large Couch",
+    "value": "高科技大椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "That's at least 50% larger than it needs to be.",
+    "value": "这比我常用的将近大了50%。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A throne worthy of Kluex Himself.",
+    "value": "一个配得上克鲁西斯本人的王位。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big chair, for big prey.",
+    "value": "大椅子，大猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Puzzled. Who would even need a couch this big?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Never knew I needed this until now.",
+    "value": "我从来都不觉得我会需要到这么大一张椅子，直到我看到了它。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An unnecessarily large couch.",
+    "value": "一个大沙发，我觉得不需要做这么大。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Wew lad, that's a BIG couch!",
+    "value": "WOW，一张大椅子！"
+  }
+]

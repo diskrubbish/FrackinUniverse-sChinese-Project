@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You can hop in, but there's nowhere for it to go.",
+    "value": "你可以跳进去，但它却无处可去。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Minecart",
+    "value": "矿车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "You could hold quite a bit of ore in this cart.",
+    "value": "你可以在这车里装很多矿石。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A minecart. Despite its age, it seems useable enough.",
+    "value": "地雷车。尽管它年代久远，但它似乎足够有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sits and wait for prey in dark cart.",
+    "value": "叶族人坐在黑暗的马车里等待猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A cart used for ferrying mined ores.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Wish a had a track to ride this down.",
+    "value": "但愿a有一条路可以走下去。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A mining cart. Valuable cargo transportation but severely limited in mobility.",
+    "value": "采矿车。贵重货物运输，但流动性受到严重限制。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An empty cart, fresh and ready for the mines.",
+    "value": "一辆崭新的空马车，准备开矿。"
+  }
+]

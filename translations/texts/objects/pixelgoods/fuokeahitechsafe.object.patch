@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A miniature maximum security vault with the most advanced locking mechanism.",
+    "value": "具有最先进锁定机制的微型最高安全性保险库。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hi-tech 128-slot Safe",
+    "value": "高科技128格保险箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A hi-tech safe.",
+    "value": "高科技保险箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A hi-tech safe.",
+    "value": "高科技保险箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A hi-tech safe.",
+    "value": "高科技保险箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "A hi-tech safe.",
+    "value": "高科技保险箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A hi-tech safe.",
+    "value": "高科技保险箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A hi-tech safe.",
+    "value": "高科技保险箱。"
+  }
+]

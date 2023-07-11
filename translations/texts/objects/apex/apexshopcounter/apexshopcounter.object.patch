@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You think YOUR retail job is hell?",
+    "value": "你认为你的零售工作是地狱？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shop Counter, Apex Town",
+    "value": "猿人城镇售货柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Apex merchants are punished much more severely for shopthefts under their watch than the thieves themselves.",
+    "value": "在猿人们自己的监视下，猿人商店的商人因盗窃而受到的惩罚要比小偷本人严厉得多。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Apex cashiers seem almost... unnaturally cheery...",
+    "value": "猿人收银员看起来有点...强颜欢笑..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Monkey merchants' sssmile seems forced.",
+    "value": "猴子商人的笑笑笑容看起来很勉强。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned. I'd ask if the merchant here was alright, but I'm not sure they would give me a straight answer.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I've never seen an Apex behind one of these that didn't look like they had a gun pressed up against the back of their head.",
+    "value": "我从来没有见过像他们这种看起来像的被枪口压在他们脑勺后面的猿人。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Apex merchants' wares and smiles are both blatantly plastic.",
+    "value": "猿人商店的商品和微笑都是明显的假料。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I don't feel all that comfortable striking up a conversation at this register.",
+    "value": "我觉得在这处收银台聊天不太舒服。"
+  }
+]

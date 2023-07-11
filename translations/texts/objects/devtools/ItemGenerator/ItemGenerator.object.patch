@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Debug tool to generate an item from code. Doubles as an item copier.",
+    "value": "这个调试工具用于从物品代码生成对应物品。用于复制物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Item Generator",
+    "value": "物品生成器"
+  }
+]

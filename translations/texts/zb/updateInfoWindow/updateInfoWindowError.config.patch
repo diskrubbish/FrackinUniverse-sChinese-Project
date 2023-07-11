@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/close/caption",
+    "raw": "Dismiss",
+    "value": "关闭"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/textScrollBox/children/text/value",
+    "raw": "I AM ERROR",
+    "value": "*我是错误的*"
+  }
+]

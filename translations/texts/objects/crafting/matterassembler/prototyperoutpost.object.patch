@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;(Frackin' Universe main table)^reset; Craft all sorts of useful gear.",
+    "value": "^cyan;(Frackin'Universe主设备)^reset;用于制作各种设备与基础道具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Machining Table^reset;",
+    "value": "^orange;加工台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "raw": "Craft all sorts of complex gear.",
+    "value": "制造各种复杂的设备"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Machining Table^reset;",
+    "value": "^orange;加工台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "raw": "Create more complicated gear",
+    "value": "制造更复杂的设备"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Auto-Assembler^reset;",
+    "value": "^orange;自动组装器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "raw": "Create advanced technology.",
+    "value": "制造高科技。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Matter Assembler^reset;",
+    "value": "^orange;物质汇编机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^red;UNAUTHORIZED ACCESS DETECTED^reset;",
+    "value": " ^red;已检测到未授权访问^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Access to terminal disabled.",
+    "value": " ^#dddddd;访问权限未取得。"
+  }
+]

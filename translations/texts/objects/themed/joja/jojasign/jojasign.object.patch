@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Advertise the flagship product of the ^blue;Joja^reset; corporation in the comfort of your own home with this trendy sign!",
+    "value": "用这个时髦的标志，在舒适的家中为^blue;Joja^reset;公司的旗舰产品做广告！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^blue;Joja^reset; Sign",
+    "value": "^blue;Joja^reset;标志"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Why would I want to display an advertisement in my home like this?",
+    "value": "为什么我想在家里展示这样的广告？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The blue light from this sign is a little nauseating, actually.",
+    "value": "实际上，这个标志上的蓝光有点恶心。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssickly blue sign.",
+    "value": "病态的蓝色标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unimpressed. Is this supposed to be wall art? It's such an eyesore.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Isn't this cola a little new to be getting vintage decor signs?",
+    "value": "这瓶可乐是不是有点新，有古董装饰的标志？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Fitting that a tasteless beverage has an equally tasteless advertising.",
+    "value": "无味的饮料也有同样无味的广告。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I reckon I glow enough for my own place, thanks.",
+    "value": "我想我的容光焕发足够我住的地方了，谢谢。"
+  }
+]

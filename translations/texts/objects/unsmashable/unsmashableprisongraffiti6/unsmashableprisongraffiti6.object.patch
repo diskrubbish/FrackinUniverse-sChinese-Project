@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Graffiti reading \"turn back\". Chances of it being adhered to: zero. Unbreakable!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Graffiti",
+    "value": "涂鸦"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'll turn back when I reach a dead end.",
+    "value": "当我走到死胡同时，我会回头。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This graffiti is so pushy.",
+    "value": "这涂鸦真是咄咄逼人。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Don't tell Floran what to do!",
+    "value": "不要告诉叶族人该怎么做！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Defiant. No.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "How does this graffiti know which direction you've approached it from?",
+    "value": "这个涂鸦怎么知道你是从哪个方向接近它的？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Demanding.",
+    "value": "要求高的"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "There ain't no turnin' back now.",
+    "value": "现在没有回头路了。"
+  }
+]

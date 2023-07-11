@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A random fountain. The most unpredictable of fountains. Unbreakable!",
+    "value": "一座随机喷泉。最不可预测的喷泉。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Random Fountain",
+    "value": "随机喷泉"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fountain!",
+    "value": "一座喷泉！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A fountain.",
+    "value": "一座喷泉。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran drink from sssplashy thing.",
+    "value": "叶族人喝的是Ssplashy的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Hesitant. A fountain.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I wish I had some washing up liquid to pour in.",
+    "value": "我希望我能倒些洗涤液。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A delightful fountain.",
+    "value": "令人愉快的喷泉。"
+  }
+]

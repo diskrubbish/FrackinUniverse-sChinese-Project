@@ -1,0 +1,170 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small bowl meant for serving food.",
+    "value": "用来盛食物的小碗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Imperial Bowl",
+    "value": "大碗"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An alien bowl of elegant design.",
+    "value": "一个设计优雅的异形碗。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A bowl suitable for Kluex Himself.",
+    "value": "适合克鲁西斯自己的碗。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Eat food fresh from kill! no butchering!",
+    "value": "吃新鲜的食物！禁止屠宰！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Stumped. Only Glitch lords and ladies would think of eating from something like this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/bothanDescription",
+    "raw": "A bowl fashioned in a style popular amongst the ruling elite of some of the aliens here.",
+    "value": "这是一种在这里的一些外星人统治精英中流行的碗。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Even in simple objects like these there can be absolute harmony.",
+    "value": "即使是像这样简单的物体，也可以有绝对的和谐。"
+  },
+  {
+    "op": "replace",
+    "path": "/twilekDescription",
+    "raw": "A bowl of this sort would surely fetch many Credits on Coruscant.",
+    "value": "在科洛桑，这样的一碗酒肯定能赢得许多赞誉。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Bows are for suppin' from, not gawpin'.",
+    "value": "鞠躬是为了“从”而不是“张嘴”。"
+  },
+  {
+    "op": "replace",
+    "path": "/mawgDescription",
+    "raw": "Ain't nothin' more than a bowl. Why' m I even examinin' it for?",
+    "value": "只不过是一个碗而已。为什么我还要检查它？"
+  },
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Strange vessel. Not Fenerox. Very odd. Maybe Human?",
+    "value": "奇怪的船。不是菲诺克斯。很奇怪。也许是人类？"
+  },
+  {
+    "op": "replace",
+    "path": "/felinDescription",
+    "raw": "As pretty as this is, this bowl won't survive service at a dinner party.",
+    "value": "尽管这碗很漂亮，但在晚宴上，这碗饭是吃不下去的。"
+  },
+  {
+    "op": "replace",
+    "path": "/zabrakDescription",
+    "raw": "I could seek some other purpose for it, if I don't feel like eating from it.",
+    "value": "如果我不想吃的话，我可以为它寻找其他的用途。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fancy means of enjoying one's midnight pot noodle feast.",
+    "value": "享受午夜锅面盛宴的奇特方式。"
+  },
+  {
+    "op": "replace",
+    "path": "/ithorianDescription",
+    "raw": "To defile the soils of Ithor just to create a base item such as this would be sacrilege!",
+    "value": "玷污伊索的土壤，或者仅仅创造一个这样的基本物品，都是亵渎！"
+  },
+  {
+    "op": "replace",
+    "path": "/rodianDescription",
+    "raw": "Let some overbloated Hutt-spawn use this, I don't have to keep fancy bowls like this.",
+    "value": "让一些过度放贷的赫特人用这个，我不需要像这样保存精美的碗。"
+  },
+  {
+    "op": "replace",
+    "path": "/togrutaDescription",
+    "raw": "A ceramic bowl. I don't think I saw many of these across Shili.",
+    "value": "一个陶瓷碗。我想我在石里没有看到很多这样的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/wookieDescription",
+    "raw": "A large food bowl. It looks a bit plain.",
+    "value": "一个大的食物碗。看起来有点简单。"
+  },
+  {
+    "op": "replace",
+    "path": "/tuskanDescription",
+    "raw": "Excess baggage for Tuskens.",
+    "value": "塔斯肯人的超重行李。"
+  },
+  {
+    "op": "replace",
+    "path": "/sithDescription",
+    "raw": "Fit for grotthu, not so much for Sith.",
+    "value": "适合格罗图，不适合西斯。"
+  },
+  {
+    "op": "replace",
+    "path": "/diathimDescription",
+    "raw": "This bowl is just too large to eat from.",
+    "value": "这个碗太大了，吃不下。"
+  },
+  {
+    "op": "replace",
+    "path": "/xionianDescription",
+    "raw": "I'm sure there's a collector somewhere in the galaxy eager for this thing.",
+    "value": "我肯定银河系某个地方有个收藏家渴望得到这个东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/goats_cccccDescription",
+    "raw": "As adept as we are with the manufacturing arts, we Sealbhóir prefer wooden tableware, not stone or ceramic.",
+    "value": "尽管我们精通制造工艺，但我们更喜欢木制餐具，而不是石头或陶瓷餐具。"
+  },
+  {
+    "op": "replace",
+    "path": "/beldehorDescription",
+    "raw": "Clearly, there is more that meets the eye when it comes to this bowl.",
+    "value": "很明显，当谈到这个碗的时候，有更多的东西是显而易见的。"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "Why do the Mantizi have a preponderence for bowls like these?",
+    "value": "为什么甲虫族在这种碗上占优势？"
+  },
+  {
+    "op": "replace",
+    "path": "/radienDescription",
+    "raw": "I wonder if this is some sort of sacrificial offering or grave good.",
+    "value": "我不知道这是一种祭品还是一种祭品。"
+  },
+  {
+    "op": "replace",
+    "path": "/thelusianDescription",
+    "raw": "A perfect target for blaster practice!",
+    "value": "爆能枪练习的完美目标！"
+  }
+]

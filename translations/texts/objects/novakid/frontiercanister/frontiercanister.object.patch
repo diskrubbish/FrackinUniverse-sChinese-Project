@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pail for holding fresh milk.",
+    "value": "装新鲜椰奶的桶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Milk Canister",
+    "value": "椰奶罐"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A sturdy canister for transporting milk.",
+    "value": "运送椰奶的坚固的罐。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Milk? Like pidgeon milk...?",
+    "value": "椰奶？像皮吉椰奶...？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Milk! Bleh!",
+    "value": "椰奶！哎呀！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned. Hopefully this canister hasn't been out too long.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "How milk fresh from a mooshi even tastes?",
+    "value": "新鲜的牛奶味道如何？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Most Hylotl cannot actually stomach milk.",
+    "value": "大多数鲛人实际上不能喝椰奶。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "All it needs now is some pasteurizin'.",
+    "value": "现在只需要一些巴氏杀菌。"
+  }
+]

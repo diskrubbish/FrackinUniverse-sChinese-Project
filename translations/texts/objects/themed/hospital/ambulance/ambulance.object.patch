@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's an ambulance! Make way!",
+    "value": "是救护车！让开！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ambulance",
+    "value": "救护车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I could use some healing.",
+    "value": "我需要一些治疗。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I need healing.",
+    "value": "我需要治疗。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran needs healing!",
+    "value": "叶族人需要治疗！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Insistent. I require healing!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I need healing!",
+    "value": "我需要治疗！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I need healing!",
+    "value": "我需要治疗！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I need healin'!",
+    "value": "我需要医治！"
+  }
+]

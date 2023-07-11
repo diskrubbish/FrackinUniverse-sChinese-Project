@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table made from flesh and organs.",
+    "value": "由血肉和器官制成的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Atropus Table",
+    "value": "肉源桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some sort of vile table.",
+    "value": "某种看起来很恶心的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This makes me want to throw up.",
+    "value": "还是丢掉算了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Not table! Isss food!",
+    "value": "不是桌子！是是是好吃的！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This table makes my circuits shake.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This table makes me feel sick!",
+    "value": "这桌子看得我浑身难受！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An awful looking table. It smells vile.",
+    "value": "看起来就很恶心的桌子，闻着也是，"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't touchin' this.",
+    "value": "我绝不碰它一毫。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lantern commonly hung about mineshafts to guide miners back out.",
+    "value": "通常挂在矿井周围的灯笼，用来引导矿工返回矿井。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mining Lantern",
+    "value": "矿灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A copper lantern. It seems to be being used to light up mineshafts.",
+    "value": "一盏铜灯笼。它似乎被用来照亮矿井。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A lantern to guide back miners to safety.",
+    "value": "引导矿工返回安全地带的灯笼。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hopes copper pole isss sturdy...",
+    "value": "叶族人希望铜柱坚固..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. A worthwhile investment, considering the dangers miners face.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A cute little copper lantern on a pole.",
+    "value": "杆子上的可爱的小铜灯笼。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An invaluable light source down in caverns such as this.",
+    "value": "像这样的洞穴里的无价光源。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It'll be hard to get lost with these hung about.",
+    "value": "有了这些闲荡的东西，很难迷路。"
+  }
+]

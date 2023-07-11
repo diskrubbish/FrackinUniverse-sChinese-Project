@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy bed, made by the Skath.",
+    "value": "一张结实的床，由绘世者制作。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Bed",
+    "value": "绘世者床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This bed looks quite industrial. It doesn't look very comfortable.",
+    "value": "这张床看起来很工业化。看起来不太舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Despite the industry that made this bed, it's somehow less comfortable than hay.",
+    "value": "尽管这张床是由工业制造的，但不知何故它不如干草舒适。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Waterdragon bed looks hard and sssturdy. Makesss good hiding ssspot!",
+    "value": "水龙床看起来又硬又结实。这是个好地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informed. It appears that this bed has an inbuilt heating function.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like someone put a towel over a metal table and called it a bed.",
+    "value": "看起来有人把毛巾放在一张金属桌子上，把它叫做床。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Plain and ugly. I'd sooner sleep on the floor than in a bed like this.",
+    "value": "朴素而丑陋。我宁愿睡在地板上也不愿睡在这样的床上。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Looks better suited as a barricade than a bed.",
+    "value": "看起来更适合作为路障而不是床。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "This Skath-made bed has inbuilt hydrolium circuits that can adjust the temperature of the bed.",
+    "value": "这款绘世者床内置有可调节床温的水解回路。"
+  }
+]

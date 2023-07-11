@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tangy and refreshing. Try it on toast!",
+    "value": "清香爽口。试试烤面包！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kiwi Jam",
+    "value": "猕猴桃果酱"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran thought thisss would be BIRD kiwi jam...",
+    "value": "叶族人以为这是鸟猕猴桃酱..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surpised. What an unusual and refreshing taste!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Kiwis look weird and taste even weirder. But I can't say I hate it.",
+    "value": "猕猴桃看起来很奇怪，味道更奇怪。但我不能说我讨厌它。"
+  }
+]

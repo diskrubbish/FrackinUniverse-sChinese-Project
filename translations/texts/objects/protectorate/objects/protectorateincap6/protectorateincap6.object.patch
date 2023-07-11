@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Dead Glitch. Too mangled. Can't recover. Feeling mournful!",
+    "value": "死电子人。损坏太严重。无法恢复。感到悲伤！"
+  },
+  {
+    "op": "replace",
+    "path": "/thelusianDescription",
+    "raw": "Hive would not leave bodies like this.",
+    "value": "蜂巢不会留下这样的尸体。"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Glitch Protector, mangled beyond any hope of data recovery.",
+    "value": "一位电子人保护者，已经没有恢复数据的希望了"
+  }
+]

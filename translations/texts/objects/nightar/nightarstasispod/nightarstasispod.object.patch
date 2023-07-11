@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cryo-stasis hibernation pod.",
+    "value": "低温休眠舱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Stasis Pod",
+    "value": "夜族静止吊舱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Interesting. This is a cryo-sleep device.",
+    "value": "有趣的这是一个冷冻睡眠设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "For something compact, it actually looks pretty comfortable.",
+    "value": "对于一些紧凑的东西，它实际上看起来很舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pod keep Floran sssssafe during ssspace travel.",
+    "value": "吊舱在太空旅行期间保持叶族人的安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. I wonder what kinds of materials the Nightar used to create this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The Nightar sure know their technology.",
+    "value": "夜族人肯定知道他们的技术。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Compact, yet elegant. I'm sure anyone would be comfortable hibernating in this.",
+    "value": "小巧而优雅。我相信任何人都会很舒服地在这里冬眠。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That sure is one fancy-looking stasis pod.",
+    "value": "那的确是一个看起来很别致的停滞舱。"
+  }
+]

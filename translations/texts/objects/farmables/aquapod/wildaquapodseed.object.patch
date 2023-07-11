@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Its fruit enables rapid movement when suspended in liquid.",
+    "value": "可以收获水荚，食用后会提高游泳速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aquapod",
+    "value": "水荚种子"
+  }
+]

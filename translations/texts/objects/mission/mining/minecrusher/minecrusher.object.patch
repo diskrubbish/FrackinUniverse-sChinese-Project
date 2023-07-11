@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A machine used for breaking down rocks.",
+    "value": "一种用于压碎岩石的机器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mining Impact Crusher",
+    "value": "矿业冲击式破碎机"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An industrial machine, used for breaking down rocks.",
+    "value": "一台用于破碎岩石的工业机器。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wants to drop prey inssside machine!",
+    "value": "叶族人想把猎物扔进机器里里里！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. The machine exists to crush rocks.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An unsightly metal construction.",
+    "value": "一种难看的金属设施。"
+  }
+]

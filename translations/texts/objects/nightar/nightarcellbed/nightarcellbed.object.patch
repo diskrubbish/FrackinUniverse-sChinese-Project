@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Constructed of some sort of fine cell-like fabric.",
+    "value": "由某种精细的细胞状织物构成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Cell Bed",
+    "value": "夜族细胞床"
+  },
+  {
+    "op": "replace",
+    "path": "/nightarDescription",
+    "raw": "Perfect comfort, and with a nano-quilt blanket!",
+    "value": "完美舒适，配有纳米被子毯！"
+  }
+]

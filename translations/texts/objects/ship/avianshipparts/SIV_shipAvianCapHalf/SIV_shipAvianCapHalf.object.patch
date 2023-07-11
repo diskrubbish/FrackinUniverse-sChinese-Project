@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Avian Round Cap for a spaceship.",
+    "value": "翼族宇宙飞船的圆顶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avian Round Cap half",
+    "value": "翼族半圆顶"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Do Novakid watch westerns...?",
+    "value": "你喜欢看西部片吗...？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frontier TV",
+    "value": "边境电视台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "There may only be three channels, but none of them are Miniknog sponsored, so I'll take it.",
+    "value": "可能只有三个频道，但没有一个是科技发展部赞助的，所以我就选了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An old television, even by Avian standards.",
+    "value": "一台老式电视机，即使以翼族的标准来看也是如此。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "TV screen is a dusssty green. Is it dirty?",
+    "value": "电视屏幕呈淡绿色。它脏吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. The shows playing on here are delightfully low quality.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "And I thought Apex TVs were outdated...",
+    "value": "我觉得猿族电视已经过时了..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "All these nobs and antennae... How is one supposed to work this?",
+    "value": "所有这些大人物和触角...一个人怎么能做到这一点？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Three channels work just fine when all of 'em play decent shows.",
+    "value": "当三个频道都播放像样的节目时，它们的效果很好。"
+  }
+]

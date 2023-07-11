@@ -1,0 +1,110 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rustic Skath-made forge, used to smelt alloys and craft weaponry and armors.",
+    "value": "一个基础级的绘世者铸造台，用来冶炼金属，铸造武器和盔甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Rustic Skath Forge^reset;",
+    "value": "^orange;基础级绘世者铸造台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This furnace looks a bit old fashioned, but I suppose it will serve its purpose.",
+    "value": "这个炉子看起来有点过时，但我想它会起作用的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This furnace gives off a pleasant warmth.",
+    "value": "这个炉子散发出一种令人愉快的温暖。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Waterdragon forge makesss fiery noisess. Ssscary.",
+    "value": "水龙铸造台发出出出出可怕的噪音音音音。害害害害怕。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. Despite its rustic look, this forge is unusually powerful.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like a retro oven to me, but it probably works well enough.",
+    "value": "虽然在我看来它像是个复古烤箱，但是它可能工作得很顺畅。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This looks like a makeshift forge, built by the Skath.",
+    "value": "这看起来像是绘世者一族的人建造的临时锻造台。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Not my kinda rustic, but it'll do.",
+    "value": "不是我有点土，而是它这样就能用。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "It may look a bit rustic, but this forge is the first step to crafting quality alloys.",
+    "value": "它可能看起来有点质朴，但这个锻造台是制作优质合金的第一步。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "raw": "A rustic Skath-made forge, used to smelt alloys and craft weaponry and armors.",
+    "value": "一个基础级的绘世者铸造台，用来冶炼金属，铸造武器和盔甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Rustic Skath Forge^reset;",
+    "value": "^orange;基础级绘世者铸造台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Rustic Skath Forge",
+    "value": "基础级绘世者铸造台"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Furnace and Anvil.",
+    "value": " ^#b9b5b2;熔炉和铁砧"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "raw": "A Skath Plasma Forge, able to craft high quality weaponry, armour and alloys.",
+    "value": "一个等离子级绘世者铸造台，能够制造高质量的武器、盔甲和合金。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Skath Plasma Forge^reset;",
+    "value": "^orange;等离子级绘世者铸造台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Skath Plasma Forge",
+    "value": "等离子级绘世者铸造台"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Armour, weapons and alloys",
+    "value": " ^#b9b5b2;盔甲、武器和合金"
+  }
+]

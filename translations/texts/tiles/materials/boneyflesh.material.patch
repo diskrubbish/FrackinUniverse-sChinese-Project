@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Oh boy. This is pleasant.",
+    "value": "哦 男孩，这真的很愉快。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Boney Flesh",
+    "value": "多骨肉块"
+  }
+]

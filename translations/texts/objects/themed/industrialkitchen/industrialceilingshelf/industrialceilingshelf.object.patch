@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A restaurant-grade kitchen rack. All of your tools, all within arm's reach!",
+    "value": "餐厅级厨房货架。你所有的工具，都在伸手可及的范围内！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Industrial Kitchen Ceiling Shelf",
+    "value": "工业厨房天花板搁板"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I've the strangest urge to swing about on this shelf...",
+    "value": "我有一种奇怪的冲动想在这个架子上荡来荡去..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A clever way to store kitchen supplies.",
+    "value": "储存厨房用品的聪明方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran cures meats from similar rack.",
+    "value": "叶族人用类似的架子来治肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. My kitchen would be a lot less cluttered with a rack like this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ooh, a hanging shelf! I feel like a celebrity chef!",
+    "value": "哦，一个悬挂的架子！我觉得自己像个名人厨师！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A sleek, space efficient kitchen rack.",
+    "value": "一个光滑、节省空间的厨房架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fella could store all kinds of things on a shelf like this.",
+    "value": "一个可以把各种各样的东西放在这样的架子上的东西。"
+  }
+]

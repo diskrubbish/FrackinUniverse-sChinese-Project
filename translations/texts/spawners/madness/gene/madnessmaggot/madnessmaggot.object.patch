@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ew. Why?",
+    "value": "口区，为啥？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Maggot",
+    "value": "蛆"
+  }
+]

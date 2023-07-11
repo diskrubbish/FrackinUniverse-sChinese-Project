@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cart used for transporting fresh produce. Seems this one's empty...",
+    "value": "运输新鲜农产品的手推车。这个好像是空的..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Market Cart",
+    "value": "市场手推车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An empty cart.",
+    "value": "一辆空手推车。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This stall is empty. Perhaps a bad harvest is to blame?",
+    "value": "这个摊位是空的。也许是因为收成不好？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Empty cart.",
+    "value": "空手推车。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disappointed. This cart is empty.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Empty carts are always kind of sad.",
+    "value": "空车总是有点悲伤。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This cart needs stock.",
+    "value": "这车需要存货。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An empty cart. Nothin' to see here.",
+    "value": "一辆空手推车。这里没什么可看的。"
+  }
+]

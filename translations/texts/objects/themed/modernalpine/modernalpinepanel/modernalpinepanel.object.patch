@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decorative wall panel with a stylish pattern.",
+    "value": "带有时尚图案的装饰墙板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alpine Panel",
+    "value": "阿尔卑斯面板"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A calming, modern pattern.",
+    "value": "一种平静的现代模式。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wonder if I could weave this pattern into a tapestry...",
+    "value": "我想知道我能不能把这个图案织成挂毯..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Panel with a pretty pattern.",
+    "value": "有漂亮图案的面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. A simple wall mounted panel.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This panel looks like a modern art piece.",
+    "value": "这个嵌板看起来像一件现代艺术品。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Simple, yet delightful.",
+    "value": "简单却令人愉快。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "There's a fine pattern on this here panel.",
+    "value": "这个面板上有一个很好的图案。"
+  }
+]

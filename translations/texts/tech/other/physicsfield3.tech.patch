@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tear apart reality to save time.",
+    "value": "撕碎现实，节省时间。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Physics Field III",
+    "value": "物理力场 III"
+  }
+]

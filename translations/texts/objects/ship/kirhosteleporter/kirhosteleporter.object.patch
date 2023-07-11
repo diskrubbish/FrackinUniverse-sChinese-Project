@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Trusty teleporter, what would I do without you?",
+    "value": "可靠的传送器，离开了它我便寸步难行。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kirhosi Teleporter",
+    "value": "Kirhosi传送门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Teleporting feels like riding a rollercoaster at the speed of light.",
+    "value": "传送时的感觉就像坐在光速运行的过山车上。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Teleporting feels like flying.",
+    "value": "传送感觉像飞起来了一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran feel confusssed during teleport.",
+    "value": "叶族人在传送的过程中感到很混混混乱。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Educate. I set myself to sleep during the teleport process.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Teleporting is a huge rush.",
+    "value": "传送就是一飞冲天。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Teleporting feels like diving into the ocean from a mountain top.",
+    "value": "传送就像从海底深处顷刻间来到了群山之巅。"
+  },
+  {
+    "op": "replace",
+    "path": "/kirhosDescription",
+    "raw": "Teleporting is euphoric.  It's like jacking into CySol's private entertainment network.",
+    "value": "传送让人精神愉快，就像钻进了CySol的私人娱乐网络一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "Teleporting is euphoric.  It's like jacking into CySol's private entertainment network.",
+    "value": "传送让人精神愉快，就像钻进了CySol的私人娱乐网络一样。"
+  }
+]

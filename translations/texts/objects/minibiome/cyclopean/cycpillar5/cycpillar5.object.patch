@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Who could have built this?",
+    "value": "我在想是谁建造了这个？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Strange Monument",
+    "value": "奇异的纪念碑"
+  }
+]

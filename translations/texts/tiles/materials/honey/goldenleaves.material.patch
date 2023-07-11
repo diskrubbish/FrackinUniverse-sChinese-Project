@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block made of golden leaves.",
+    "value": "一块金黄的叶子"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Leaves",
+    "value": "金色叶子"
+  }
+]

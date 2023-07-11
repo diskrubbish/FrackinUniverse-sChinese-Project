@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Where to?",
+    "value": "去哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Luggage",
+    "value": "行李"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A set of luggage. Setting out for the unknown is rather daunting, true, but it is also quite exhilarating.",
+    "value": "一套行李。为未知而出发是相当令人畏惧的，是的，但也相当令人振奋。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A set of luggage. I wonder if someone is making a pilgrimage.",
+    "value": "一套行李。我想知道是否有人在朝圣。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Is there additional charge for transporting live meats?",
+    "value": "运送生肉要额外收费吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Adventurous. I get excited just packing bags like this for a trip!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hopefully the staff won't lose it on the way to my destination.",
+    "value": "希望工作人员不会在去我目的地的路上把它弄丢。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "With nothing but a bag in hand, one can set out to travel the galaxy. How romantic!",
+    "value": "手上只有一个袋子，你就可以出发环游银河系了。多浪漫啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I don't need nothin' but the clothes on my back, but light luggage ain't too bad either.",
+    "value": "我什么都不需要，只需要背上的衣服，但轻装行李也不坏。"
+  }
+]

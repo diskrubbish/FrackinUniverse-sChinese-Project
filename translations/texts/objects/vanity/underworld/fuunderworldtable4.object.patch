@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Composed of solid muscle, flesh...and shrimp?",
+    "value": "由肉和筋组成的？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tendon Table",
+    "value": "肌腱桌子"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Letter M.",
+    "value": "字母M。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Letter M",
+    "value": "字母M"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A disturbing painting of some kind of fabricated world.",
+    "value": "一个描绘了某个虚构世界的油画，令人不安。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fabricated World Painting",
+    "value": "虚构世界油画"
+  }
+]

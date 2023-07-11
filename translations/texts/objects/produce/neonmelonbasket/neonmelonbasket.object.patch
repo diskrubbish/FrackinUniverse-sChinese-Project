@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The vibrant flesh of a neonmelon tastes like bubblegum.",
+    "value": "霓虹瓜那生机勃勃的果肉尝起来像泡泡糖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neonmelon Basket",
+    "value": "霓虹瓜篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Juicy, tasty neonmelon. The more vibrant the colour, the better the taste.",
+    "value": "多汁、美味的尼昂梅隆。颜色越鲜艳，味道越好。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A juicy neonmelon, filled with delicious luminous seeds.",
+    "value": "多汁的霓虹瓜，充满美味的发光种子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssmash neonmelon to make sssquelch sounds. Also to eat.",
+    "value": "叶族人为了制造刺耳的声音而打碎了这个霓虹瓜。也可以吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. I've always thought neonmelon looked delicious.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "You could eat these, or decorate your room with them. I'm going for the first option.",
+    "value": "你既可以吃这些，也可以用它们装饰你的房间。我选择第一种。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Neonmelon is overly sweet to taste. The appearance is exquisite, though.",
+    "value": "霓虹瓜味道太甜了。不过外观很精致。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Neonmelon is tasty lookin' on the inside.",
+    "value": "霓虹瓜的内部看起来很美味。"
+  }
+]

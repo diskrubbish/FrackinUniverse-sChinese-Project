@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nonfunctional, but man - what a sight for sore eyes!",
+    "value": "无功能，但人-多么令人痛心的景象！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Human Car",
+    "value": "人类车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Seems this model's for display purposes only. A shame.",
+    "value": "看起来这个模型只是为了展示。真可惜。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Amazing! This human relic survived Earth!",
+    "value": "太神了这个人类遗物在地球上幸存了下来！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hasn't seen one of these sssince Koala days!",
+    "value": "自从考拉时代以来，叶族人就再也没有见过这样的动物了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Nostalgic. A model of a standard human car. It's been a while since I've seen one.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Punch buggy! ... No wait, that's for Volkswagens.",
+    "value": "冲床车...不，等等，那是给大众的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An archaic, primitive method of human transportation. This one appears to be purely for show.",
+    "value": "一种古老、原始的人类运输方式。这一次似乎纯粹是为了作秀。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Aw, shucks. Never got the chance to ride in one o' these...",
+    "value": "噢，糟了。从来没有机会坐在这些车里..."
+  }
+]

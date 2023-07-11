@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Place it on a surface to place a strip that reduces friction.",
+    "value": "将其放在地形表面，你在上面时会减少摩擦力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Low Friction Strip",
+    "value": "低摩擦带"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Useful, but injurious.",
+    "value": "有用，但也有害。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I could break my legs on this...",
+    "value": "我曾经在上面摔断过腿..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstupid ssslip ssstrip.",
+    "value": "愚蠢的滑滑滑条。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Annoyed. Why would anyone want this?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's a slip-n-slide!",
+    "value": "类似滑板?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It would take some delicate footwork to walk on this.",
+    "value": "我猜使用可能需要一些技巧。"
+  }
+]

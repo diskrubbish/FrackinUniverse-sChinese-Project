@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table glistening from the sheen of resin on chitin.",
+    "value": "几丁质上的树脂光泽使桌子闪闪发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Table",
+    "value": "蚁族桌"
+  }
+]

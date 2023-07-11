@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A thin, front trim piece for a spaceship.",
+    "value": "用于宇宙飞船的薄薄的前端装饰贴片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thin Trim Front",
+    "value": "薄的前端装饰"
+  }
+]

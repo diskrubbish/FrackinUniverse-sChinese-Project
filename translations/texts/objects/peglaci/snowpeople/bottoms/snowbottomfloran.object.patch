@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The bottom of a Snowfloran.",
+    "value": "叶族雪人的底部。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Floran Snowbottom",
+    "value": "叶族雪人底座"
+  }
+]

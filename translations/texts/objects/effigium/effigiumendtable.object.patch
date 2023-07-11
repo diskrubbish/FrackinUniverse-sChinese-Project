@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small end table that seems to fade in and out of existence.",
+    "value": "一个似乎在逐渐消失的茶几。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Effigium End Table",
+    "value": "幻影茶几"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fancy end table.",
+    "value": "一个别致的茶几。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A fancy looking end table.",
+    "value": "精致的茶几。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssimple table.",
+    "value": "简简简单的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This table likes to disappear.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Not much to say about this table, apart from it going invisible. Spooky.",
+    "value": "关于这张桌子没什么可说的，除了它变得看不见了。令人毛骨悚然的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A table, very simple in every way.",
+    "value": "一张桌子，从哪方面说都很简单。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just an end table, though it don't stay long.",
+    "value": "只是一个茶几，虽然不能放太久。"
+  }
+]

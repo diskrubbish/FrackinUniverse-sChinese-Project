@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Gleams under light.",
+    "value": "可以收获金色海苔，食用后会提高游泳速度，让你变得更轻和免疫中毒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Sea Sponge Seed ",
+    "value": "金色海苔种子"
+  }
+]

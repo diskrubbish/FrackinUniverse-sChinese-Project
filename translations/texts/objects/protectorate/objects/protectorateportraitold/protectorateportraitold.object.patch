@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A portrait of former Grand Protector Esther Bright.",
+    "value": "前大守护者艾斯特·布莱特的肖像。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Old Protectorate Portrait",
+    "value": "先代大守护者肖像"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I say... Is that Madame Bright?",
+    "value": "我说...那是布莱特夫人吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Ms. Esther Bright, in her youthful Grand Protector days.",
+    "value": "埃丝特·布莱特夫人，在年轻时的大守护者肖像。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ms. Bright looks sso young here... Painting musst be old.",
+    "value": "布莱特夫人在这上面看起来很很很年轻。这幅画肯肯肯定很老了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. It's Lady Bright! I've never seen this portrait of her back at the academy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Never seen this portrait of Ms. Bright before... Oh hey! That's the same tree from the academy!",
+    "value": "以前从没见过布莱特女士的这幅画像。哦，嘿！那是同一棵学院的树！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A graceful portrait of Madame Bright in her Grand Protector days. Why they chose not to display it is beyond me.",
+    "value": "布莱特夫人在她任职大守护者时优雅肖像。我不明白他们为什么选择不展示它。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Hey now - that's missus Bright! How 'bout that.",
+    "value": "嘿，那是布莱特夫人！这个怎么样。"
+  }
+]

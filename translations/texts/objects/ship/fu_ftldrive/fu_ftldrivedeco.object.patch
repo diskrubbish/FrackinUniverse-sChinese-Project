@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decorative FTL drive. Doesn't do anything.",
+    "value": "一装饰用的外接FTL引擎，有了它你的飞船..呃..它只是个空壳子，什么都做不了"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Decorative FTL Drive",
+    "value": "FTL引擎(装饰用)"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A decent sized model of FTL Drive, useful for faster space travel.",
+    "value": "一台合适大小的FTL引擎，有助于更快的星际旅行。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This larger FTL drive is able to provide more motion for my ship.",
+    "value": "这台更大的FTL引擎能够为我的飞船提供更良好的动力。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likesss large FTL drive, make ship go faster.",
+    "value": "叶族人喜欢欢欢大型FTL引擎，让飞船飞得更快。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Content. Larger FTL drive means much better space flight.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This large FTL drive as basically a universal requirement.",
+    "value": "这台大型FTL引擎基本上是一项刚需。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A larger FTL drive, providing a good boost during space flight.",
+    "value": "一台更大的FTL引擎，在太空飞行期间提供更良好的推进。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A larger faster'n 'light drive, boostin' my ship's preformance.",
+    "value": "更大更快的超光速引擎，改善了我的飞船性能。"
+  }
+]

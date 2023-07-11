@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mysterious glass orb that pulses with energy at the touch.",
+    "value": "一个神秘的玻璃球，触摸时会产生能量脉冲。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wizard's Crystal Ball",
+    "value": "巫师的水晶球"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I want to say this crystal ball was a fraud, but when I lay my hand on it...",
+    "value": "我想说这个水晶球是个骗局，但当我把手放在上面时..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'm unconvinced there's anything magic about this little bauble.",
+    "value": "我不相信这个小玩意儿有什么神奇之处。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Glasss orb filled with... magic?",
+    "value": "玻璃球装满了...魔术"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unimpressed. I've seen these for sale before. They're typically a toy for exceptionally gullible children.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What if I stared into the center of this thing? I'm almost too scared to find out.",
+    "value": "如果我盯着这件事的中心怎么办？我几乎不敢去发现。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A tacky glass purple orb. What a childish scam.",
+    "value": "一个俗气的玻璃紫色球体。多么幼稚的骗局。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now I don't believe in magic, but this orb is mighty pretty lookin'.",
+    "value": "现在我不相信魔法，但这个球体看起来非常漂亮。"
+  }
+]

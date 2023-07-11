@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A plate. It's made of crystal.",
+    "value": "盘子。它是水晶做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Plate",
+    "value": "水晶盘"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A plate made of some kind of crystal.",
+    "value": "用某种水晶做的盘子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A dish on which food is served.",
+    "value": "提供食物的盘子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Plate needss food. Floran hungry.",
+    "value": "盘子需要食物。叶族人饿了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amazed. A fancy crystal plate.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fancy crystal plate.",
+    "value": "一个漂亮的水晶盘子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A rounded crystal plate.",
+    "value": "圆形的水晶盘子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A crystal plate.",
+    "value": "一个水晶盘子。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A plate made out of crystal.",
+    "value": "水晶做的盘子。"
+  }
+]

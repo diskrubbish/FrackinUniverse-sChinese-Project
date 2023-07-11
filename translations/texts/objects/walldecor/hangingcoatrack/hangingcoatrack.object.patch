@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stop and rest a spell.",
+    "value": "停下来休息一会儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hanging Coat Rack",
+    "value": "挂衣架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A handy rack for customers to hang their baggy clothing.",
+    "value": "一个方便顾客悬挂宽松衣服的架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Do people often forget they leave things on here when the weather clears?",
+    "value": "天气转晴时，人们会忘记把东西留在这里吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssees gum in those pockets!",
+    "value": "叶族人看到口袋里有口香糖！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. Storms feel a world away when you head inside for shelter.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I hope someone doesn't put their wet coat right over mine. Ugh.",
+    "value": "我希望有人不要把他们的湿外套盖在我的上面。啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Hylotl clothing is more or less made for wet weather, so racks such as these are absolute.",
+    "value": "鲛人的衣服或多或少是为潮湿的天气制作的，所以像这样的衣架是绝对的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A sight for sore eyes when you're just comin' in from a storm.",
+    "value": "当你刚从暴风雨中回来的时候，眼睛会很痛。"
+  }
+]

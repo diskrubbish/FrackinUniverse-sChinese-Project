@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Handy for storing your farm goods.",
+    "value": "可以储存你的农场货物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Farm Crate",
+    "value": "农场板条箱"
+  }
+]

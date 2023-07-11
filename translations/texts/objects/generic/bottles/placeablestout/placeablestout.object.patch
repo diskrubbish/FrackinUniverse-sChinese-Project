@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Now your stout can be on a table!",
+    "value": "这瓶烈性黑啤酒正适合放在桌子上！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Placeable Coal Stout",
+    "value": "装饰用烈性黑啤酒"
+  }
+]

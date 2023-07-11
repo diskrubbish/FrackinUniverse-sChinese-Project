@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Explosive Redirection",
+    "value": "重定义爆炸"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "With a bit of tinkering I think I could adapt rapid-burn of fuel safely to create a ^orange;Zero Burst Tech^reset;! With it equipped, I should ^orange;tap up twice^reset; to boost.",
+    "value": "通过修改这项科技的方案，我想我可以使用我新研发的^orange;爆炸跳跃^reset;，我可以双击^orange;[W]^reset;使用它。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "With a bit of tinkering I think I could adapt rapid-burn of fuel safely to create a ^orange;Zero Burst Tech^reset;! With it equipped, I should ^orange;tap up twice^reset; to boost.",
+    "value": "通过修改这项科技的方案，我想我可以使用我新研发的^orange;爆炸跳跃^reset;，我可以双击^orange;[W]^reset;使用它。"
+  }
+]

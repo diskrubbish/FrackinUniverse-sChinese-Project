@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A basic power storage unit.^truncate; ^red;Scan for Info^reset;\nStorage Capacity: ^green;1000^reset;J",
+    "value": "基础的电力储存设备。\n^red;扫描以查看更多信息^reset;\n储存电能：^green;1000^reset;J"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Basic^reset; Battery",
+    "value": "^orange;基础^reset;电池"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Light seems to twist inside the crystals.",
+    "value": "光似乎在晶体内扭曲。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stellara Crystal",
+    "value": "星芒晶块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Admiration. A beautiful aegisalt crystal.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty cryssstal.",
+    "value": "漂亮的晶体。"
+  }
+]

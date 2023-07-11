@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Metallic stone as hard as steel.",
+    "value": "像钢一样坚硬的金属石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Steel Stone",
+    "value": "钢石"
+  }
+]

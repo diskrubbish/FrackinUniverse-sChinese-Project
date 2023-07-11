@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Basic iron doors.",
+    "value": "基本的铁门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Double Door Prop",
+    "value": "铁制双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These doors are relatively secure.",
+    "value": "这些门是相对安全的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Fairly sturdy for basic doors.",
+    "value": "对于基本门来说相当坚固。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hide behind doors. Jump out. Ssstab!",
+    "value": "叶族人躲在门后，跳出来，跳！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. Useful, basic doors.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Sturdy iron doors.",
+    "value": "坚固的铁门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Simple iron doors.",
+    "value": "简单的铁门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just simple doors, they do the job I guess.",
+    "value": "只是简单的门，他们做的工作，我想。"
+  }
+]

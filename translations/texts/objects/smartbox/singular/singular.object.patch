@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Storage with only one slot!\nItem-Network compatible.",
+    "value": "只有一个储存槽的智能箱！\n兼容物品传输网络。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Single-Slot Storage",
+    "value": "智能箱(单储存槽)"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Smartbox",
+    "value": "智能箱"
+  }
+]

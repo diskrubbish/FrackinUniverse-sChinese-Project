@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A /'NAND'/ gate. Requires at least 1 input to be /'off'/ to work.",
+    "value": "一个与非门。至少需要接入一个输入节点才能激活/OFF/。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NAND Gate (3 Inputs)",
+    "value": "与非门(三输入)"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A /'NAND'/ gate. Requiresss at leassst 1 input to be /'off'/ to work.",
+    "value": "一个与非非非门。至少需要接入一个输输输入节点才能激活/OFF/。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. A /'NAND'/ gate. Requires at least 1 input to be /'off'/ to work.",
+    "value": ""
+  }
+]

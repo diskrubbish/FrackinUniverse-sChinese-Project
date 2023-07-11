@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I didn't know clocks were capable of reproduction...",
+    "value": "光阴不可复制，但是过去的我并不知道这一点。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Grandfather Clock",
+    "value": "以太摆钟"
+  }
+]

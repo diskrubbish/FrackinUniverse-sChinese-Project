@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A minimalistic bookcase, stylistically limited in palette and rounded at the edges.",
+    "value": "一个极简主义的书架，调色板风格有限，边缘呈圆形。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rounded Bookcase",
+    "value": "圆形书架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A rather novel little bookcase.",
+    "value": "一个相当新颖的小书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A highly unusual bookcase.",
+    "value": "非常不寻常的书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Where iss other side?",
+    "value": "另一边在哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Befuddled. Is there any practical reason this bookcase is lacking a side?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A weird bookcase. Looks like someone forgot to put the other side on it.",
+    "value": "一个奇怪的书架。好像有人忘了把另一面放上去。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The bookcase does its job well as is, so the artist took the liberty of playing with the design. A laudable effort.",
+    "value": "书柜的工作做得很好，所以这位艺术家冒昧地玩弄了这个设计。值得称赞的努力。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty peculiar bookcase.",
+    "value": "一个非常奇特的书架。"
+  }
+]

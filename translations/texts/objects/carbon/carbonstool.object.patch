@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stool made from carbon.",
+    "value": "碳制的凳子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Stool",
+    "value": "碳制凳子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This stool is lighter than it looks.",
+    "value": "这个凳子比看起来轻。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A simple looking nightstand.",
+    "value": "一个看起来简单的床头柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssseesss it isss a ssstool.",
+    "value": "也族人觉觉觉得这是是是凳子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A stool.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's simple, but it looks nice and sleek.",
+    "value": "它很简单，但是看起来很漂亮，很时髦。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The design is simple, I wouldn't mind this in my room.",
+    "value": "设计很简单，我不介意把它放在我的房间里。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This is mighty simple, but it's pretty.",
+    "value": "非常简单，非常漂亮。"
+  }
+]

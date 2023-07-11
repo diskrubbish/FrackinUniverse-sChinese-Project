@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decorative FTL drive. Doesn't do anything.",
+    "value": "一装饰用的外接FTL引擎，有了它你的飞船..呃..它只是个空壳子，什么都做不了"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Decorative FTL Drive",
+    "value": "FTL引擎(装饰用)"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A rounded model of the FTL drive, featuring a powerful core that ignites during travel.",
+    "value": "一台曲线型的FTL引擎，具有一颗在旅行间燃烧的强大核心。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The core in the center glows brightly when powered on.",
+    "value": "当打开电源时，中央的核心会发出明亮的光芒。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bright lightsss sshine when Floran ussse ship.",
+    "value": "当叶族人使用用用飞船时，明亮的灯灯灯闪闪闪发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Intrigued. The FTL drive glows bright when in motion.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Bright core in the center of this FTL drive glows when the ship is moving.",
+    "value": "当飞船移动时，FTL引擎中心的明亮核心会发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This FTL drive glows quite bright when the ship is in motion.",
+    "value": "这台FTL引擎在飞船运动时会发出相当明亮的光。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "When in motion, this 'ere FTL drive glows bright. Almost as bright as me!",
+    "value": "当启动时，这台FTL引擎会发出明亮的光。几乎和我一样闪亮！"
+  }
+]

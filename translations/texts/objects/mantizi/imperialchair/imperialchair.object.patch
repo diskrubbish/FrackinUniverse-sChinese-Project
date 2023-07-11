@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A nice wooden stool with a soft cushion.",
+    "value": "带软垫的漂亮木凳。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Chair",
+    "value": "甲虫椅子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A wooden dining room chair.",
+    "value": "木制餐椅。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A comfortable wooden seat.",
+    "value": "舒适的木制座椅。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Comfy ssseat make poor weapon.",
+    "value": "舒适的座椅是一件糟糕的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observe. A common dining room chair. The cushion bears an ornate design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A Mantizi chair. It's comfortable.",
+    "value": "甲虫椅。很舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Mantizi seem to like simple furniture.",
+    "value": "甲虫族人似乎喜欢简单的家具。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Hard to keep your balance on one of these after a few rounds.",
+    "value": "几轮之后，你很难在其中一个上保持平衡。"
+  }
+]

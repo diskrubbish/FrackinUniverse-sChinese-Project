@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A regular painting split into three. Artsy!",
+    "value": "一幅普通的画分成三部分。艺术！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "\"Sunflower Hill\"",
+    "value": "“向日葵山”"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These paintings can function alone, but it's clear they're meant to be a set.",
+    "value": "这些画可以单独发挥作用，但很明显，它们注定是一套。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Sunflower seeds make for a nice treat.",
+    "value": "葵花籽是一种不错的享受。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssunny flowers.",
+    "value": "阳光灿烂的花朵。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Calm. A cheery painting of some sunflowers.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "If I split my drawings into three, would someone consider it art? Weird.",
+    "value": "如果我把我的画分成三幅，会有人认为它是艺术吗？奇怪的"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Splitting this image apart makes for a delightful aesthetic choice.",
+    "value": "把这张照片分开，是一个令人愉快的审美选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now who went and split a perfectly fine paintin' like that?",
+    "value": "是谁把一幅完美的画作劈开的？"
+  }
+]

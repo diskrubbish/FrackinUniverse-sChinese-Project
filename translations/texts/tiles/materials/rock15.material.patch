@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rough, unrefined chert.",
+    "value": "粗糙的，未经提炼的燧石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chert Block",
+    "value": "燧石块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Chert.",
+    "value": ""
+  }
+]

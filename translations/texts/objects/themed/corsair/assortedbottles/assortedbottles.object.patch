@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A collection of multicolored bottles. They smell of alcohol.",
+    "value": "五颜六色的瓶子。他们身上有酒味。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Assorted Bottles",
+    "value": "各色瓶子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I somehow doubt the drinks in these were made by a licensed brewery.",
+    "value": "不知怎的，我怀疑这些饮料是由有执照的酿酒厂生产的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Leaving these laying around is an accident waiting to happen.",
+    "value": "把这些东西扔在一边是一场即将发生的事故。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssparkly glass...",
+    "value": "闪闪发光的玻璃..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. I hope there isn't any broken glass about.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Someone might have a drinking problem.",
+    "value": "有人可能有酗酒的问题。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Perhaps I can find a way to recycle these.",
+    "value": "也许我能找到回收这些东西的方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Yeesh, there was definitely some strong stuff in these.",
+    "value": "是的，这里面肯定有一些强项。"
+  }
+]

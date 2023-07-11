@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strange, irradiated sand.",
+    "value": "带有辐射的奇怪沙子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glowing Sand",
+    "value": "光沙"
+  }
+]

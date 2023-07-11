@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block of white wax.",
+    "value": "一块白色的蜡。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "White Wax Block",
+    "value": "白色蜡块"
+  }
+]

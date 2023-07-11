@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/definition/text",
+    "raw": "^shadow;Energy Drain",
+    "value": "^shadow;能量消耗"
+  }
+]

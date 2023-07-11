@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A comfortable bench made by the Skath.",
+    "value": "一张由绘世者做的舒适的长凳。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Bench",
+    "value": "斯卡特长凳"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ah! Finally, a bench to relax and put my feet up!",
+    "value": "啊!！最后，一条长凳让我放松，双脚抬起！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The fabric on this bench is pretty comfy. I wonder what it's made of?",
+    "value": "这条长凳上的布料很舒服。我想知道它是什么做的？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssits on waterdragon bench. Becomes sssleepy.",
+    "value": "叶族人坐在水龙椅上。变得困倦。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. The kelp fabric used in this bench makes it very comfortable to sit on.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This bench is long and comfy enough to work as a bed! Maybe I could take a little nap...",
+    "value": "这条长凳又长又舒服，可以当床用！也许我可以小睡一会儿..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Real kelp fabric! How I miss home.",
+    "value": "真正的海带面料！我多么想念家。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This'd be a good place to rest my tired ol' legs, if I weren't in such a rush.",
+    "value": "如果我不那么匆忙的话，这将是一个休息我疲惫的双腿的好地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "Even the Skath want to rest sometimes, and enjoy an ocean view.",
+    "value": "即使是绘世者有时也想休息一下，欣赏海景。"
+  }
+]

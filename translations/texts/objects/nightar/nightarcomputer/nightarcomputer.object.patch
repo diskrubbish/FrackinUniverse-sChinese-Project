@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A complex computer made by the Nightar.",
+    "value": "夜族人制造的复杂计算机。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Computer",
+    "value": "夜族电脑"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "They call this shiny thing a computer..",
+    "value": "他们把这个闪亮的东西叫做电脑。。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Dont know what is this.",
+    "value": "我不知道这是什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likess shiny sstuff.",
+    "value": "叶族人喜欢闪亮的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Admiration. An advanced computer made with Nightar technologies.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hmm, a computer, but not like anythign i've seen on Earth.",
+    "value": "嗯，一台电脑，但不像我在地球上见过的任何东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An advanced computer",
+    "value": "一台高级电脑。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A neat lookin' shiny computer!",
+    "value": "一台外观整洁、闪闪发光的电脑！"
+  }
+]

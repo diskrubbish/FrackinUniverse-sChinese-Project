@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Able to generate a static shield to repel predators.",
+    "value": "可以收获沼泽海胆，食用后会提高移动速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mireurchin Seed",
+    "value": "沼泽海胆种子"
+  }
+]

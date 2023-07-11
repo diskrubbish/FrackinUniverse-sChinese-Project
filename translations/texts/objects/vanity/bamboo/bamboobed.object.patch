@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A comfortable bamboo bed. Looks pretty sleek.",
+    "value": "一个舒适的竹床。看起来很光滑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bamboo Bed",
+    "value": "竹床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A nice, comfy bed.",
+    "value": "一个漂亮，舒适的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This is very comfortable place to rest my feathers.",
+    "value": "这是非常舒适的地方，我可以在里面打理我的羽毛。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ressst in great bed.",
+    "value": "叶族人在这张很棒棒棒的床上休息。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Proud. My own awesome bed.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A great bed. Should easily be able to get some rest here.",
+    "value": "这张床太棒了。我可以在这里休息。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Decent build quality. It'll do.",
+    "value": "不错的质量。"
+  }
+]

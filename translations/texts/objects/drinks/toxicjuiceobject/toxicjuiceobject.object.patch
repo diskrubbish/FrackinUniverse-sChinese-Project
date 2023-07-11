@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What do you get if you blend a toxictop with an alien fruit? That's right, you guessed it.",
+    "value": "如果你把一个有毒的东西和一个外星水果混合在一起，你会得到什么？没错，你猜对了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toxic Juice",
+    "value": "毒汁"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Juice burns the back of Floran's throat. Doesn't taste that bad though!",
+    "value": "果汁能灼伤叶族人的喉咙，不过味道还不错！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confident. I'm more convinced battery acid would be safer to drink than this beverage.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Well don't that color just scream 'fun'?",
+    "value": "那个颜色不是很有趣吗？"
+  }
+]

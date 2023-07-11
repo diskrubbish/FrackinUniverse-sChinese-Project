@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tray of tiny coconut pastries, filled with jam. Colorful!",
+    "value": "一盘小椰子糕点，装满果酱。丰富多彩的"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Macaroon Tray",
+    "value": "杏仁饼盘"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Little cakesss tray?",
+    "value": "小蛋糕盘？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Enamored. These pastries are rather adorable. And so colorful, too!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These li'l sweets almost look like tiny hats.",
+    "value": "这些小糖果看起来几乎像小帽子。"
+  }
+]

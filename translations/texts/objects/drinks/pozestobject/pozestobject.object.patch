@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A popular Glitch energy drink. Or is it just a placebo?",
+    "value": "一种流行的电子人能量饮料，还是只是一种安慰剂？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pozest",
+    "value": "魔酒"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "So ssswirly...",
+    "value": "那么爽爽爽口..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Ashamed. These are meant to be used sparingly, but during last semester's finals at the protectorate...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This 'posed to be a drink or a potion?",
+    "value": "这是饮料还是药水？"
+  }
+]

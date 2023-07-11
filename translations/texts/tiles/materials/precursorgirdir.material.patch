@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strong looking ancient girder.",
+    "value": "非常坚固的古代横梁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Dark Girder",
+    "value": "先驱黑暗横梁"
+  }
+]

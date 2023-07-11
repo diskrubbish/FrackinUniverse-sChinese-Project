@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Clay tiles that form a hard roof.",
+    "value": "组成一个坚硬的屋顶的黏土瓷砖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Clay Tiles",
+    "value": "黏土瓷砖"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. These tiles are made from painted clay.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likesss dirt planks.",
+    "value": "叶族人喜喜喜欢脏兮兮的木板。"
+  }
+]

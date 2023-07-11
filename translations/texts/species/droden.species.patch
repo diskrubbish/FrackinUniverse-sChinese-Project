@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "raw": "The Droden were created by the Avikan as expendable soldiers to use in their war against the Theleans. After their failed uprising during the Droden War, a ban was placed on the creation of new AIs, and nowadays only few true AI remain. Effective, light combat droids. Fragile, but resistant to radiation and poison.\n\n  ^orange;Diet^reset;: Robotic\n\n^orange;Perks^reset;:\n  Energy x^green;1.15^reset;, Damage x^green;1.1^reset;, +^green;10^reset;% Speed\n  ^green;Resist^reset;: +^green;40^reset;% Poison & Radiation\n  Max Food x^green;2.5^reset;\n  ^cyan;Immune^reset;: Poison, Oxygen\n  ^green;Legion^reset;: x1.075 damage per Droden follower (max 2)\n\n^orange;Weapons^reset;:\n  Broadsword/Shortsword: +^green;2^reset;% Crit Chance\n  Assault Rifle: +^green;25^reset;% Crit Damage\n\n^red;Weaknesses^reset;:\n  ^red;Resist^reset;: -^red;25^reset;% Physical, -^red;40^reset;%Electric",
+    "value": ""
+  }
+]

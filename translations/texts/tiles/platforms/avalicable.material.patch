@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nanotube Cable",
+    "value": "纳米电缆管"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fine, yet incredibly strong cable formed from carbon nanotubes",
+    "value": "由碳纳米管制成的电缆，性能优异。"
+  }
+]

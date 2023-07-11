@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An /'XOR'/ gate. Requires exactly 1 input to be on, and the rest off.",
+    "value": "一个异或门。需要接入一个输入节点才能激活/ON/。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "XOR Gate (3 Inputs, 1-Hot)",
+    "value": "异或门(三输入，1)"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "An /'XOR'/ gate. Requiresss exxactly 1 input to be on, and the ressst off.",
+    "value": "一个异或门。需要接入一个输入节节节点才能激活/ON/。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. An /'XOR'/ gate. Requires exactly 1 input to be on, and the rest off.",
+    "value": ""
+  }
+]

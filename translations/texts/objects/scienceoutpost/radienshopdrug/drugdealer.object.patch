@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I'm not sure I understand. Am I expected to purchase dirt?",
+    "value": "我不确定我是否已经完全了解了这家商店，但我真的期望为泥土付款吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Munchies' Dirt^reset;",
+    "value": "^orange;饥饿泥土商店^reset;"
+  }
+]

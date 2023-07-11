@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lovely sunflower.",
+    "value": "一朵可爱的向日葵。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sunflower Pot",
+    "value": "向日葵花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A pretty yellow flower.",
+    "value": "一朵美丽的黄花。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This flower has a nice scent.",
+    "value": "这朵花很好闻。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Flower sssmells nice.",
+    "value": "花闻起来很香。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. Petals of bright yellow.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It looks like an overgrown sunflower.",
+    "value": "它看起来像一棵长得很茂盛的向日葵。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Yellow is the Hylotl colour of clarity.",
+    "value": "黄色在鲛人文化中象征这透彻。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A delicate sunflower.",
+    "value": "娇嫩的向日葵。"
+  }
+]

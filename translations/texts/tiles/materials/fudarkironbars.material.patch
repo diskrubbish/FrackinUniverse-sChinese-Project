@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Durable. Perfect for jails.",
+    "value": "耐用，适合监狱使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tempered Iron Bars",
+    "value": "钢化铁栅"
+  }
+]

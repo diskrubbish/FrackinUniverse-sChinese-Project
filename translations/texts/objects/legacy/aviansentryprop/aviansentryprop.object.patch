@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An inactive weapon from a bygone era.",
+    "value": "远古时代的一种非活动武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avian Sentry Prop",
+    "value": "翼族哨兵道具"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A very strange weapon. It appears to have been pilotable.",
+    "value": "非常奇怪的武器。它似乎是可以试点的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The avolite crystal connected to the back of these machines could fire off frighteningly powerful long-range beams.",
+    "value": "连接到这些机器背面的艾沃利特晶体可以发射出可怕的强大远程光束。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Birdman... Metal... Beast? Floran confused.",
+    "value": "鸟人...金属野兽叶族人感到困惑。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. The legs of this machine supposedly moved, but the hull seems to be made of solid gold.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's made of gold, walks, and fires out LASERS! What CAN'T this thing do?!",
+    "value": "它是金子做的，可以行走，还可以发射激光！这东西有什么是不能做的？！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The ingenuity of this machine's design is spoiled by its purpose.",
+    "value": "这台机器设计的独创性被它的用途破坏了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's strange lookin' tank if I ever saw one.",
+    "value": "那辆坦克看起来真奇怪，如果我见过的话。"
+  }
+]

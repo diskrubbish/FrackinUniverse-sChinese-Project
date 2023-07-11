@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Someone couldn't count to 25. Unbreakable!",
+    "value": "有人数到25了。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tally Marks",
+    "value": "理货标记"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Similar markings are often found on the walls of Miniknog cells.",
+    "value": "科技发展部细胞壁上经常发现类似的标记。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Someone was counting something, but what?",
+    "value": "有人在数东西，但什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran uses these markssss to count killsss.",
+    "value": "叶族人用这些标记来计数杀手。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. This signifies twenty five occurrences of... something. We shall never know what.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A series of tally marks, or some drawings of picket fences? Impossible to tell, really.",
+    "value": "一系列的理货标记，或者一些纠察栅栏的图纸？真的很难说。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A simple, yet effective method of counting.",
+    "value": "一种简单而有效的计数方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A guy I once knew used to count kills this way.",
+    "value": "我曾经认识的一个家伙曾经用这种方式计算死亡人数。"
+  }
+]

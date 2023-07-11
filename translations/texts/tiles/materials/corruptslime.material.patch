@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "All that remains after being touched by Dark Water.",
+    "value": "被黑暗之水接触后留下的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corruption",
+    "value": "腐化物质"
+  }
+]

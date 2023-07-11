@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This relic tantalizes you with its potential value. Take it!",
+    "value": "这种遗物用它那潜在的价值吸引着你，带上它吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Artefact",
+    "value": "古代人工制品"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Only slightly weirder than the original.",
+    "value": "只是比原作稍微怪异。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hylotlbucks",
+    "value": "鲛巴克"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fishman get fissshier by the day...",
+    "value": "渔夫一天比一天更忙..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. Are the Hylotl de-evolving into actual fish?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's quite the logo, alright.",
+    "value": "这就是商标，好吧。"
+  }
+]

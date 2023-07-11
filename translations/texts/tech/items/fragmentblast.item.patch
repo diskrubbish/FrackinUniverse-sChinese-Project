@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires shards of dangerous solid light.",
+    "value": "发射危险固体碎片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Shard Blast^reset;",
+    "value": "^#77acc3;碎片冲击^reset;"
+  }
+]

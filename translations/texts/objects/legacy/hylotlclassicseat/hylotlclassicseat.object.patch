@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An old Hylotl chair, worthy of a ship captain.",
+    "value": "一把老鲛人椅子，配得上一个船长。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Traditional Chair",
+    "value": "传统椅子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A weathered Hyltol-styled chair.",
+    "value": "一种风化的鲛人风格的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I may not care for the design, but this chair's been crafted with quality wood.",
+    "value": "我可能不喜欢这个设计，但这把椅子是用优质木材制作的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmells like fishman butt.",
+    "value": "闻起来像鲛人屁股。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unimpressed. An old, weirdly proportioned Hylotl chair.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This chair's cool and all, but it's a little on the short side, isn't it?",
+    "value": "这把椅子很酷，但有点短，不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A fine chair! Some wood treatment and cushion refurbishing and it'll be good as new!",
+    "value": "一把漂亮的椅子！一些木材处理和垫子翻新，它会像新的一样好！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An old Hylotl chair, made from mighty fancy wood.",
+    "value": "一把古老的鲛人椅子，由华丽的木材制成。"
+  }
+]

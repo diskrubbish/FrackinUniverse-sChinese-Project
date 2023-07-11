@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mushrooms",
+    "value": "蘑菇"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mushrooms",
+    "value": "蘑菇"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A poster urging patients to request their yearly vaccination against space parasites.",
+    "value": "一张海报敦促患者要求每年接种太空寄生虫疫苗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vaccination Notice",
+    "value": "接种通知"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Given my circumstances, I think it's understandable for me to be apprehensive about \"recommended\" vaccinations.",
+    "value": "考虑到我的情况，我认为我对“推荐”疫苗接种感到担忧是可以理解的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Perhaps its childish, but I always feel nervous at the sight of needles.",
+    "value": "也许这很幼稚，但我一看到针头就感到紧张。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Peh! Floran will fight off ssspace parasites themself!",
+    "value": "哈！叶族人会战胜太空寄生虫！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. Am I at risk for space parasites? How would they even get it into my system?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Aw, rats, we still use syringes? Why can't they make, like, a nasal vaccine?",
+    "value": "额，老鼠，我们还在用注射器吗？为什么他们不能制造鼻腔疫苗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This poster recommends space parasite vaccination as well address common misconceptions. Smart, that.",
+    "value": "这张海报建议为太空寄生虫接种疫苗，并解决常见的误解。聪明，那是真的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I don't care for needles, but I ain't lookin' to catch no freeloadin' fleas, either.",
+    "value": "我不喜欢针头，但我也不想抓免费的跳蚤。"
+  }
+]

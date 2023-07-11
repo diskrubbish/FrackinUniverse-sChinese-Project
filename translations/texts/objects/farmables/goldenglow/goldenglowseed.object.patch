@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It glows, but its real strength is in how it increases speed.",
+    "value": "可以收获重瓣金光菊，食用后会提高移动速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Goldenglow Seed",
+    "value": "重瓣金光菊种子"
+  }
+]

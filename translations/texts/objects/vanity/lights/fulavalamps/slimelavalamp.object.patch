@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp filled with slime. It's strangely pretty.",
+    "value": "一盏注满了黏液的熔岩灯。真奇怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Lava Lamp",
+    "value": "黏液熔岩灯"
+  }
+]

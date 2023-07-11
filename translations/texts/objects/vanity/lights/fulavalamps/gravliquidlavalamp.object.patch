@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp filled with orange grav liquid. It pulls things towards it.",
+    "value": "一盏注满了橙色重力液体的灯。它将周围的东西推向它。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Grav Liquid Lava Lamp",
+    "value": "重力液体熔岩灯"
+  }
+]

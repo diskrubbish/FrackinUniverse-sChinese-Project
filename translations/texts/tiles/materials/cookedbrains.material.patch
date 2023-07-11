@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mmm. Delicious.",
+    "value": "嗯，*咂嘴*，好吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cooked brains",
+    "value": "煮熟的脑子"
+  }
+]

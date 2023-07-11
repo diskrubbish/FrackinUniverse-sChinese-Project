@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The stench is quite overwhelming.",
+    "value": "这简直是臭气熏天。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Midnight Meat Wagon",
+    "value": "午夜肉车"
+  }
+]

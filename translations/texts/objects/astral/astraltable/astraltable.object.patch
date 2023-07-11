@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stellar table, perfect for table top gaming or sacrifices to the old ones.",
+    "value": "一个恒星桌，完美的桌面游戏平台和旧神祭坛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Table",
+    "value": "星辰桌"
+  }
+]

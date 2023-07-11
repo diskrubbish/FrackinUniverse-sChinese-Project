@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A turn-in item for a quest!",
+    "value": "任务的目标！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Turn in the quest!",
+    "value": "任务目标！"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Finally! My goal!",
+    "value": "终于找到了！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It seems like the end of the line is here.",
+    "value": "这次的旅程终于要结束了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstab time over already?",
+    "value": "刺刺刺的时间到了？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Saddened. It seems my adventure is over already.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "There's nowhere left to go. This is it, I guess.",
+    "value": "我猜我不用再找了，这，就是我的目标。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "All journeys must come to an end.",
+    "value": "所有的探索即将结束。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's over already?",
+    "value": "这说明一切都结束了？"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This ancient pot is in remarkable shape considering how old it is. Unbreakable!",
+    "value": "考虑到它有多古老，这只古老的壶的形状非同寻常。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ornamental Ancient Pot",
+    "value": "古代装饰壶"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Whatever is inside this ancient pot has been long forgotten.",
+    "value": "这个古老的罐子里的东西早已被遗忘。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I don't think this pot is ceremonial in nature. I wonder what could be inside.",
+    "value": "我不认为这个壶是仪式性的。我想知道里面可能有什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ancient potss need ssmashing.",
+    "value": "古代的土豆需要糖化。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amazed. This ancient pot has managed to survive the ravages of time.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This pot looks ancient! Maybe there's something still inside it.",
+    "value": "这个壶看起来很古老！也许里面还有什么东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I wonder what ancient treasures could be inside this old pot.",
+    "value": "我想知道这个旧罐子里可能藏着什么古代宝藏。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Almost a shame to bust up a pot so old...",
+    "value": "把这么旧的罐子打碎几乎是一种耻辱。。。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rare species, immortalized in art.",
+    "value": "一种罕见的物种，在艺术中永垂不朽。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A Xariwiek",
+    "value": "仙灵"
+  }
+]

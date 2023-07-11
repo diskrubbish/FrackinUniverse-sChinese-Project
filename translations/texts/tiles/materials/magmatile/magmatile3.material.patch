@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Yay. Ash.",
+    "value": "耶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Volcanic Ash",
+    "value": "火山灰"
+  }
+]

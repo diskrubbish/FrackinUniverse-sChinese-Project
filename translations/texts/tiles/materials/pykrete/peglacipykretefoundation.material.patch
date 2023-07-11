@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pykrete Foundation Block",
+    "value": "横纹派克瑞特块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pykrete panelling laid upon dense glacier ice.",
+    "value": "派克瑞特板就铺在厚厚的冰层上。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. This panelling is made from a mixture of ice and finely ground wood pulp.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran lick ice, tongue get sstuck.",
+    "value": "叶族人舔一舔冰块，舌头被黏黏黏黏住了。"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A ceramic vase, made to suit Mantizi tastes. Luxury!",
+    "value": "一个陶瓷花瓶，适合甲虫族的口味。奢侈"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Imperial Vase",
+    "value": "皇家花瓶"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A ceramic vase, made by infusing glass with clay.",
+    "value": "一种陶瓷花瓶，通过在玻璃中注入粘土制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Such an ornate vase!",
+    "value": "这么华丽的花瓶！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can't ssee own face!",
+    "value": "弗洛伦看不到自己的脸！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A vase of alien manufacture.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/bothanDescription",
+    "raw": "This intricately inlaid and glazed vase is often favoured by the Mantizi species.",
+    "value": "这种复杂的镶嵌和釉面花瓶经常受到甲虫族人的喜爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A beautiful shade that reminds me of Ocean planets.",
+    "value": "美丽的阴影让我想起了海洋行星。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A vase. What do we do with these, anyway?",
+    "value": "花瓶。我们该怎么处理这些呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Strange item. Very unusual!",
+    "value": "奇怪的东西。非常不寻常！"
+  },
+  {
+    "op": "replace",
+    "path": "/felinDescription",
+    "raw": "It's little more than an oversized clay jar.",
+    "value": "它只不过是一个超大的陶罐。"
+  },
+  {
+    "op": "replace",
+    "path": "/mawgDescription",
+    "raw": "A kinda ordinary vase. Could use some root pop in there!",
+    "value": "有点普通的花瓶。可以在里面放些根汽水！"
+  },
+  {
+    "op": "replace",
+    "path": "/twilekDescription",
+    "raw": "A finely crafted vase. What can I put in it?",
+    "value": "做工精细的花瓶。我可以在里面放什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/ithorianDescription",
+    "raw": "This vase's design does no justice to the earth it was wrought from.",
+    "value": "这个花瓶的设计与制作它的大地格格不入。"
+  },
+  {
+    "op": "replace",
+    "path": "/rodianDescription",
+    "raw": "Rodia doesn't see many of these, nor does it need this sort of vase.",
+    "value": "罗迪亚看不到这些，也不需要这种花瓶。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "An alien vase. But why does it feel and look so familiar?",
+    "value": "外星人的花瓶。但为什么它感觉和看起来如此熟悉？"
+  },
+  {
+    "op": "replace",
+    "path": "/togrutaDescription",
+    "raw": "This vase seems too fragile to be of use to us.",
+    "value": "这个花瓶似乎太易碎，我们用不了。"
+  },
+  {
+    "op": "replace",
+    "path": "/utapaunDescription",
+    "raw": "An intricately inlaid vase of alien design.",
+    "value": "一个复杂的镶嵌异国设计的花瓶。"
+  }
+]

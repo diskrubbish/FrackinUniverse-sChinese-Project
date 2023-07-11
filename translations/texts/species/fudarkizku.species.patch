@@ -1,0 +1,80 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/title",
+    "raw": "Myphis",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/subTitle",
+    "raw": "Ne",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "raw": "Often referred to as 'abominations', the Myphis have exceptionally robust immune systems and are fans of darkness.",
+    "value": "Myphis通常被认为是“可憎之物”。他们拥有异常强健的免疫系统，且是黑暗的追逐者。"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/0",
+    "raw": "BODY COLOR",
+    "value": "身体颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/1",
+    "raw": "FINS",
+    "value": "鳍"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/2",
+    "raw": "SHIRT",
+    "value": "衬衫"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/3",
+    "raw": "PANTS",
+    "value": "裤子"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/4",
+    "raw": "SHELL COLOR",
+    "value": "甲壳颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/5",
+    "raw": "FINS COLOR",
+    "value": "鳍的颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/6",
+    "raw": "SHIRT COLOR",
+    "value": "衬衫颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/7",
+    "raw": "PANTS COLOR",
+    "value": "裤子颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/8",
+    "raw": "DARK IZKU",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/9",
+    "raw": "PERSONALITY",
+    "value": "个性"
+  }
+]

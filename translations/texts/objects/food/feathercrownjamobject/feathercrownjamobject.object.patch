@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sweet and flavoursome preserve, precious among Avians.",
+    "value": "一种甜而美味的果酱，在翼族人人中很珍贵。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Feathercrown Jam",
+    "value": "羽冠果酱"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "...? Floran sssees a feather in there!",
+    "value": "...? 叶族人看见里面有一根羽毛！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. Supposedly feathercrown is something of a luxury crop among Avians.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Purty sweet, all things considerin'.",
+    "value": "甜甜的，万事俱备。"
+  }
+]

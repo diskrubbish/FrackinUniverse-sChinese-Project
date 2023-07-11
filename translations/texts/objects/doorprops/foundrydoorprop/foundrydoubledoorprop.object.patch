@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Heavy metal doors often used in foundries.",
+    "value": "铸造厂常用的重金属门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Heavy Double Door Prop",
+    "value": "重型双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Heavy looking doors.",
+    "value": "笨重的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I can barely push these doors open, they're so heavy.",
+    "value": "我几乎不能推开这些门，它们太重了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssslam doors to make big ssound.",
+    "value": "叶族人摔摔摔门制造声响。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Mischievous. I wonder if I could make a loud echo by slamming these heavy doors...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Doors with a porthole!",
+    "value": "有舷窗的门！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Doors similar to those found under the ocean, heavy enough to be watertight.",
+    "value": "类似于在海底发现的门，重到足以防水。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Heavy doors with a handy porthole.",
+    "value": "沉重的门，还有一个方便的舷窗。"
+  }
+]

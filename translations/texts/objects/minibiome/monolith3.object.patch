@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dark and strangely shaped monolith of indeterminate age.",
+    "value": "一块黑暗的、奇怪的塑形过的巨石，已经在此屹立了难以确定的岁月。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Strange Monument",
+    "value": "奇异的纪念碑"
+  }
+]

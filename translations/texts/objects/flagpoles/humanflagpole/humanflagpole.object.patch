@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The flag of the Protectorate. Use ^green;[E]^reset; to bookmark a teleportation location.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Human Flag",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A human flag. Looks like it represents their organisation.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I see this human symbol a lot.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran like meatman flag!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A human flag, depicting the alternate symbol of the Terrene Protectorate.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The other flag of the Protectorate!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This human flag represents intercolonial co-operation.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Can't say I'm as familiar with this Protectorate flag.",
+    "value": ""
+  }
+]

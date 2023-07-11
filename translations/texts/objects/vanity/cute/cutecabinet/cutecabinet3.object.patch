@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy cute end table.",
+    "value": "一个坚固的、可爱的茶几。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute End Table",
+    "value": "可爱的茶几"
+  }
+]

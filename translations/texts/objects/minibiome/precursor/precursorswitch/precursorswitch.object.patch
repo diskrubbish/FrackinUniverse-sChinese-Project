@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What secrets does this ancient switch reveal?",
+    "value": "这个古老的开关到底藏有什么秘密？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wall Interface",
+    "value": "墙壁接口"
+  }
+]

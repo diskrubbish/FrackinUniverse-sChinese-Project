@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The brain seems to have wrinkles on its wrinkles from soaking in brine too long.",
+    "value": "这个大脑的皮层结构已经产生了不该有的皱纹，似乎是因为在盐水中泡了太久的缘故。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Brain Specimen",
+    "value": "大脑标本"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some of our greatest scientists keep their brains in jars too.",
+    "value": "我们的一些最伟大的科学家的大脑就保存在类似这种罐子里。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wonder what it's thinking about?",
+    "value": "制作它的到底在想什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Mmm.... brainssss",
+    "value": "嗯嗯 ....大大大脑"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Nonchalant. It appears to be an organic central processing unit.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Nope. Nope. NOPE. NOPE! NOPE!!!",
+    "value": "不。不。不。不！ 不！！！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "As decoration goes, this is just bad taste.",
+    "value": "一种装饰，不过味道有些难闻。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "Hrm... a brain in a jar, I'm not sure I even want to know what that is doing in there.",
+    "value": "嗯？一个放在瓶子里的大脑，我真不知道这样做有什么用。"
+  }
+]

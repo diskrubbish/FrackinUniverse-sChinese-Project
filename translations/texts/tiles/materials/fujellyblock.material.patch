@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A thick jelly. It's tempting to eat it.",
+    "value": "厚厚的果冻，看起来很好吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gelatinous Block",
+    "value": "凝胶块"
+  }
+]

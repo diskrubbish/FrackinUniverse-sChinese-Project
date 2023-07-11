@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I wonder if there's a gateway to another hive in here.",
+    "value": "一个精心制作的木制橱柜，看起来很不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Cabinet",
+    "value": "金色柜子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A well-made wooden cabinet. Charming.",
+    "value": "一个精心制作的木柜。有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A tall wooden cabinet. Lots of storage.",
+    "value": "一个高大的木柜。可以大量的储存货物。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Tall wood box. Good for Floran to hide in.",
+    "value": "一个宽敞的木头箱子。叶族人可以很好的藏藏藏在里面。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. A wooden cabinet. Likely belongs to a commoner.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "An roomy cabinet. Not to be mistaken for an outhouse.",
+    "value": "一个宽敞的橱柜。不要误以为是房子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An attractive cabinet made of wood with an intricate grain.",
+    "value": "一个由复杂的木头制成非常具有吸引力的橱柜。"
+  }
+]

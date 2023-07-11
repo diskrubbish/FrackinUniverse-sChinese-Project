@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tough, solid obsidian tile.",
+    "value": "朴素的夜族黑曜石砖块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Obidian Brick",
+    "value": "夜族黑曜石砖"
+  }
+]

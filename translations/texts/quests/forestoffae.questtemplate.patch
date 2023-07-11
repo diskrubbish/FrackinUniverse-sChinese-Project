@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^green;Forest of Fae",
+    "value": "^green;仙灵之森"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "The cultists' map shows a certain beautiful forest planet which they're trying to corrupt. There's also a whole load of loot stored there, too. I could try and crash their party...",
+    "value": "这份来自邪教徒的地图上显示出一个美丽的森林星球即将遭受破坏，我应该阻止他们的行为..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Stop the cultists from corrupting the Forest of Fae.",
+    "value": "阻止邪教徒毁坏仙灵之森。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "With the cultists gone, hopefully the forest will recover in time. Either way, my job here is done.",
+    "value": "伴随着邪教徒的死亡，仙灵之森也恢复了平静。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The things you could do with these!",
+    "value": "你可以用这些做什么！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apple Barrel",
+    "value": "苹果桶"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'm half tempted to eat these as they are.",
+    "value": "我有点想吃这些东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A crisp apple is a delightful treat. They're a staple in grounded airship pirates' diets.",
+    "value": "脆苹果是一种令人愉快的享受。它们是搁浅的飞艇海盗的主食。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Red and sssweet.",
+    "value": "红的和甜的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Contemplative. What might be the most effective way to make use of these apples?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "If one keeps doctors away, does a whole bushel make you immortal?",
+    "value": "如果一个人远离医生，那么一整蒲式耳就能使你长生不老吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A Passable snack, I suppose. Though a tad too sweet.",
+    "value": "我想这是一份还过得去的点心吧。虽然有点太甜了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "There's a whole heap 'o things you could do with all these.",
+    "value": "用这些你可以做很多事情。"
+  }
+]

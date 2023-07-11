@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bookcase full of books. It's a miracle they're not burning.",
+    "value": "装满书的书柜。奇迹是它们没有燃烧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Bookcase",
+    "value": "永燃书架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An incredibly hot bookcase.",
+    "value": "非常热的书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A bookcase. I'm suprised the books aren't burned.",
+    "value": "书架。我很惊讶这些书没有被烧掉。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hot bookcase.",
+    "value": "热书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. The paper should be burning.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A bookcase. How are the books not burning?",
+    "value": "书架。但这些书怎么不烧着？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A spot to place books. At least if it weren't so hot, that is.",
+    "value": "放书的地方。至少如果天气不是那么热的话。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A large bookcase.",
+    "value": "一个大型的书柜。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An intergalactic convenience store. It seems an ideal place to stock up.",
+    "value": "一家星际便连锁利店。这似乎是一个理想的囤货地点。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Infinity Express",
+    "value": "无限便利"
+  }
+]

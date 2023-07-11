@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A plain narrow crate. Nothing remarkable.",
+    "value": "一个普通的窄板条箱。没什么了不起的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Narrow Crate",
+    "value": "窄板条箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small crate.",
+    "value": "一个小板条箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A crate. It seems to have been designed with easy transportation in mind.",
+    "value": "板条箱。它似乎是为了方便运输而设计的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Little crate, too sssmall to fit inside.",
+    "value": "小板条箱，太小，装不进去。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A small crate.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm pretty sure this could also function as a makeshift chair.",
+    "value": "我很确定这也可以作为一把临时椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Small, unimpressive storage.",
+    "value": "小的，不起眼的存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Perfect for loadin' up goods for the trail ahead.",
+    "value": "非常适合在前方的道路上装载货物。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute padded chair.",
+    "value": "一个带有坐垫的可爱的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Chair",
+    "value": "可爱的椅子"
+  }
+]

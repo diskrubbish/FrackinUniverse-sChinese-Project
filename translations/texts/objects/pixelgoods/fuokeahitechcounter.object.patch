@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Hi-Tech Kitchen Counter",
+    "value": "高科技厨房操作台"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Prepare and cook food^reset;",
+    "value": "^#b9b5b2;快来烹饪美食吧！^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An extraordinary cooking surface.",
+    "value": "非凡的烹饪表面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hi-tech Counter",
+    "value": "高科技柜台"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of ancient button, it ignores your touch but has a key icon.",
+    "value": "某种古老的按钮，它忽略你的触摸，但其上有一个钥匙图标。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tiny Keyed Button",
+    "value": "微型钥匙屏幕"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Indestructible and no particles!",
+    "value": "坚不可摧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Extra Bone Spike",
+    "value": "特大骨刺"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A sharp spike, made of bone.",
+    "value": "非常尖锐，由骨头所制。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The bone looks razor sharp.",
+    "value": "这骨头看起来很锋利。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sharp and pointy.",
+    "value": "锋利而而而尖锐。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. Sharp bone could penetrate Glitch shell.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'd better not touch these.",
+    "value": "我最好不要碰。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I will gracefully avoid these.",
+    "value": "我会优雅地避免碰到它。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Best to avoid that kinda thing.",
+    "value": "最好避免别被刺到。"
+  }
+]

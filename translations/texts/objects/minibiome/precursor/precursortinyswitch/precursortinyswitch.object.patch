@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of ancient touch sensitive switch.",
+    "value": "某种古代的触摸感应开关。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tiny Touch Screen",
+    "value": "微型触摸屏幕"
+  }
+]

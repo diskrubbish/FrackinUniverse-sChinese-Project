@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "When active, it rapidly alternates between /'on'/ and /'off'/ states.",
+    "value": "激活后它将会在/ON/和/OFF/之间快速切换。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "AC Transformer",
+    "value": "交流变压器"
+  }
+]

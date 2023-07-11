@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An Avali claw on display.",
+    "value": "这里面展示着羽族爪类武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Claw Display",
+    "value": "武器展示架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A tiny dagger is an odd choice for a weapon. How do they use them?",
+    "value": "匕首这种武器对于他们来说真是奇怪的选择。他们是如何使用的？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The more I see, the more familiar the Avali feel.",
+    "value": "我看得越多，对羽族的了解就越多。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "*Gasp* Yesyesyesyes BESSSSST DAGGER EVER!!!",
+    "value": "*兴奋* 对对对对对，这是最棒棒棒的！！！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pride. Our daggers display superior craftsmanship.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Seems a bit basic for such an advanced race.",
+    "value": "似乎有用这种武器进行的某种比赛。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A little utilitarian for my tastes.",
+    "value": "这种务实的制作符合我的品位。"
+  }
+]

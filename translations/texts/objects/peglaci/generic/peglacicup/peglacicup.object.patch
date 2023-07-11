@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small cup. It's made of crystal.",
+    "value": "一个小杯子。它是水晶做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Cup",
+    "value": "水晶杯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A little crystal cup.",
+    "value": "一个小水晶杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A cup on which drinks are served.",
+    "value": "盛饮料的杯子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cup needss water. Floran likes water.",
+    "value": "杯子不需要水。叶族人喜欢水。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amazed. A fancy crystal cup.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fancy crystal cup.",
+    "value": "一个漂亮的水晶杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A small crystal cup, perfect for the tea.",
+    "value": "一个小的水晶杯，非常适合喝茶。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A crystal cup. How anyone can drink from here?",
+    "value": "一个水晶杯。谁能在这里喝酒？"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A small cup made out of crystal.",
+    "value": "水晶做的小杯子。"
+  }
+]

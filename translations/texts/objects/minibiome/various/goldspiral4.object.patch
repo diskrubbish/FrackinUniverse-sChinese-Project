@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Goldribbon",
+    "value": "金色丝带"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Goldribbon",
+    "value": "金色丝带"
+  }
+]

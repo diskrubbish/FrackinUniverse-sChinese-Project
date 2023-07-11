@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The ultimate sprint.",
+    "value": "最高级的加速。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Phase Sprint III^reset;",
+    "value": "^#77acc3;相位加速 III^reset;"
+  }
+]

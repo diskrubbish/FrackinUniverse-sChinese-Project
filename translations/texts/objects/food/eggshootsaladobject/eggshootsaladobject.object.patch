@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A simple yet substantial salad of eggshoot and feathercrown.",
+    "value": "由射弹果和羽冠花做成的简单而丰盛的沙拉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Eggshoot Salad",
+    "value": "射弹果沙拉"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Not eggsss. But close enough.",
+    "value": "不是鸡蛋。但是足够近了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Knowledgeable. Eggshoot make for a fine substitute for actual eggs.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This salad even looks feathery!",
+    "value": "这沙拉甚至看起来像羽毛！"
+  }
+]

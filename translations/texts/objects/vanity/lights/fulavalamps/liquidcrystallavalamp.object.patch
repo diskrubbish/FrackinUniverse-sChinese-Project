@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp filled with liquid crystal. How does one liquefy crystal?",
+    "value": "一盏注满了液化水晶的熔岩灯。一片融化的水晶怎么样？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Liquid Crystal Lava Lamp",
+    "value": "液化水晶熔岩灯"
+  }
+]

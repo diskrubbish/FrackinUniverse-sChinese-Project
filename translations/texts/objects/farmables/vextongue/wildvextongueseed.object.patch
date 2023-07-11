@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Vextongue is a great natural healing alternative.",
+    "value": "可以收获凸舌蕊，食用后会提高生命恢复速度，免疫原毒。它是你需要治疗时的最佳选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vextongue Seed",
+    "value": "凸舌蕊种子"
+  }
+]

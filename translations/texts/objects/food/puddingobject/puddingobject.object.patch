@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bouncy, sweet pudding, topped with a chocolate glaze.",
+    "value": "有弹性的甜布丁，上面涂有巧克力釉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pudding",
+    "value": "布丁"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This kind of pudding is popular with children... As well as those with a sweet tooth.",
+    "value": "这种布丁很受孩子们的欢迎...还有那些喜欢吃甜食的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's awfully... bouncy.",
+    "value": "真是太...有弹性的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssweet thing jiggles! Floran is amused.",
+    "value": "这东西真可爱！叶族人被逗乐了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Fascinated. What could possibly be in here for this substance wiggle like this?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Pudding! Or is this flan?",
+    "value": "布丁还是这个馅饼？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This doesn't look to be too terribly sweet. I suppose I can give it a try.",
+    "value": "这看起来不太甜。我想我可以试一试。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Why's it gotta jiggle like that? Almost like it's alive.",
+    "value": "为什么它会像那样抖动？好像它还活着。"
+  }
+]

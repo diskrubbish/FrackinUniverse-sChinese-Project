@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An unstable radar dish for going to mysterious places. It's still emitting a signal.",
+    "value": "一个来源不明的雷达，它仍然在发送着信号。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Teleporter Radar",
+    "value": "电子信号雷达"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Do I really want to see where this will take me?",
+    "value": "这玩意儿到底会有什么用？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The signal emitted by this unstable dish is ruffling my feathers.",
+    "value": "这个雷达发出的信号让我的羽毛不自觉地发抖。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran not meant to touch any radar after last time.",
+    "value": "叶族人再也不想碰任任任何的雷达了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. The signal emitted by this dish is unidentified.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This thing looks like it could fall apart any second.",
+    "value": "这东西我猜很快就会坏了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It would be most unwise to rush headlong into danger.",
+    "value": "为什么这个雷达一直在发送信号？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This here dish looks like it's gonna fall apart any second.",
+    "value": "这个雷达我猜很快就会坏了。"
+  }
+]

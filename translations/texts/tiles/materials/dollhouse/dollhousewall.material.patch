@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A traditional looking wall.",
+    "value": "一面看上去很传统的墙。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dollhouse Wall",
+    "value": "玩具屋墙"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Perceptive. This wall is subtly decorated in a traditional method.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wall iss too pretty to sssmash.",
+    "value": "这面墙太太太漂亮了，叶族人不忍心将它打打打碎。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This is a real fancy lookin' wall.",
+    "value": "这面墙看上去很迷人。"
+  }
+]

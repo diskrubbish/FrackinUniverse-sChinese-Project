@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Boneboo, a good source of calcium.",
+    "value": "骨竹是钙的良好来源。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Boneboo Basket",
+    "value": "骨竹篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A particularly unusual plant. Crunchy stalk, fleshy fruit.",
+    "value": "一种特别不寻常的植物。脆柄，肉质果实。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Boneboos are not to Avian tastes.",
+    "value": "骨竹不适合翼族的口味。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Crunchy, chewy, fleshy foodsss.",
+    "value": "松脆、耐嚼、肉质的食物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disinterested. This plant apparently looks like organic internal anatomy. The Glitch have no such parts.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This plant might not be suitable for vegetarians.",
+    "value": "这种植物可能不适合素食者。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Many vegetarian Hylotl meals are made with the boneboo plant.",
+    "value": "许多素食的鲛人餐都是用骨竹做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fruit that tastes like meat. Confusing!",
+    "value": "尝起来像肉的水果。令人困惑！"
+  }
+]

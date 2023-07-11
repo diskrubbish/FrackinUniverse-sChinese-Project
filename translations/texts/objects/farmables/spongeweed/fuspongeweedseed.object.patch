@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This fragile plant is immune to poison.",
+    "value": "可以收获海绵草，食用后会免疫中毒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spongeweed Clump",
+    "value": "海绵草种子"
+  }
+]

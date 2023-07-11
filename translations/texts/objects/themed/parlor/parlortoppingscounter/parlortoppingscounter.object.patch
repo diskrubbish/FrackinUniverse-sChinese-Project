@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "All your favorite ice cream toppings - and then some!",
+    "value": "所有你最喜欢的冰淇淋配料——还有一些！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toppings Counter",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ah, a hot fudge drizzle is just what I need to top off my sundae.",
+    "value": "啊，一杯热乎乎的软糖毛毛雨正是我需要加满圣代的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Oh! They even have beakseed crumb toppings!",
+    "value": "哦！他们甚至有鸟嘴状的面包屑配料！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Nothing sssavory for Floran's ice cream? No barbecue sssauce?",
+    "value": "叶族人的冰淇淋没什么好吃的吗？没有烤肉酱？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. Should I eat my ice cream as is, or top it off with something else? Decisions, decisions...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'll load up on a little of everything! Gummy worms and peanut butter should be fine together, right?",
+    "value": "我会把所有东西都装上一点！粘虫和花生酱应该放在一起，对吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'll eat my ice cream as is, I think. It's rude to the chef to consider their dish incomplete, after all.",
+    "value": "我想我会按原样吃冰淇淋。毕竟，厨师认为他们的菜不完整是不礼貌的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I could do with some jimmies on my ice cream.",
+    "value": "我可以在冰淇淋上放些吉米。"
+  }
+]

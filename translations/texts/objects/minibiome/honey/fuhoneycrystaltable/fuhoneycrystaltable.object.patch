@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table made of honey crystals. Perfect for rich foods.",
+    "value": "由蜂蜜水晶制成的桌子。简直是完美的食物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Crystal Table",
+    "value": "蜂蜜水晶桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A table made of crystal. Wonderful.",
+    "value": "一张水晶桌。真美。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A beautiful crystal table.",
+    "value": "一个美丽的水晶桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssslice on crystal, not leave marksss.",
+    "value": "叶族人踩踩踩在上面，不会留下任何痕迹。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Desire. I could go for some dinner about now.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Sitting at this table would make me feel like magical royalty.",
+    "value": "坐在这张桌子上能让我领略到高贵的皇权。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The surface of this table shimmers like a calm lake.",
+    "value": "这张桌子的表面就像是闪烁着的湖泊。"
+  }
+]

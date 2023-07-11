@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A beautiful honeycomb chair.",
+    "value": "一个漂亮的蜂巢椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honeycomb Chair",
+    "value": "蜂巢椅"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This compact 3D printer works in the medium of snow to generate cunning replicas of a variety of races.",
+    "value": "这款小巧的3D打印机在雪中工作，可以生成各种种族的狡猾复制品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Snowprinter^reset;",
+    "value": "^orange;雪人打印机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A 3D printer that... creates snowmen?",
+    "value": "一台3D打印机...创造雪人？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A snowman machine? Odd use of advanced technology, but okay.",
+    "value": "雪人机器？奇怪的是使用了先进技术，但还行。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran make ssnowpeople with fancy machine!",
+    "value": "叶族人用花哨的机器制造了现代人！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. This machine can create snowmen.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A 3d printer for making snowmen? Now I feel like a kid again!",
+    "value": "用来堆雪人的3d打印机？现在我觉得自己又像个孩子了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "With this machine, I shall master the art of snowman crafting.",
+    "value": "有了这台机器，我将掌握制作雪人的艺术。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's something y'don't see every day. I reckon I can make a snowvakid with this!",
+    "value": "这是你每天都看不到的。我想我可以用这个做个雪人！"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "This prototype of our own pixel printers uses snow as a printing medium. Unfortunately, this one is only good for producing snowpeople.",
+    "value": "我们自己的像素打印机的原型使用雪作为打印介质。不幸的是，这只适合制造雪人。"
+  }
+]

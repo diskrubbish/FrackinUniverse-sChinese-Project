@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Now your Sphere ^green;[F]^reset; can drop bombs with ^red;[Fire]^reset;!",
+    "value": "按^green;[F]^reset;变形，在球状态下按^red;[鼠标左键]^reset;放置炸弹！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Distortion Sphere II",
+    "value": "变形球 II"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perfect for all your automated door needs! Keeps a loving eye on you and everyone you love.",
+    "value": "完美满足您所有的自动门需求！对你和你爱的每个人都有一双充满爱的眼睛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proximity Friendly Scanner",
+    "value": "近程友方扫描器"
+  }
+]

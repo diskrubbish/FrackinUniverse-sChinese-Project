@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An important warning.",
+    "value": "这是一个重要的警告。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Allergy Notice",
+    "value": "过敏通知"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Those who suffer from nut allergies are poor souls indeed. I cannot imagine life without peanut butter.",
+    "value": "那些对坚果过敏的人的确是可怜的灵魂。我无法想象没有花生酱的生活。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This appears to be a warning to those who cannot ingest peanuts.",
+    "value": "这似乎是对那些不能吃花生的人的警告。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "No nutsss... Sssad.",
+    "value": "没有疯子...悲哀。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This notice is in poor condition. How long has it been hanging here?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "We're capable of intergalactic space travel and instantaneous translation but we haven't found a cure for peanut allergies?",
+    "value": "我们有能力进行星际太空旅行和即时翻译，但我们还没有找到治疗花生过敏的方法？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A dire warning for those suffering from peanut allergies.",
+    "value": "这是对花生过敏患者的严重警告。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This poster here's barely hangin' on.",
+    "value": "这张海报几乎挂不住。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These buggers are almost invisible!",
+    "value": "这种蘑菇几乎没法凭肉眼看到。可以收获幽灵菇，食用后会隐形。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ghost Mushroom",
+    "value": "幽灵菇"
+  }
+]

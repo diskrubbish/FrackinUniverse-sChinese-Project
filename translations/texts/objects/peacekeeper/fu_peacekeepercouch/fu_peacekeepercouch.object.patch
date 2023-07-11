@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A standard Peacekeeper couch.",
+    "value": "标准的和平卫士长沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peacekeeper Couch",
+    "value": "和平卫士沙发"
+  }
+]

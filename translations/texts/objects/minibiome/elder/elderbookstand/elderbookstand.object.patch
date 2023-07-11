@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "Antediluvian Texts",
+    "value": "上古文本"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Compel entities beyond understanding to gift you with knowledge.",
+    "value": "强迫超越理解的实体给你知识。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Antediluvian Texts",
+    "value": "上古文本"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A red circular light.",
+    "value": "一个红色的圆形灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Red Spotight",
+    "value": "红点灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This light doesn't seem practical.",
+    "value": "这盏灯看起来不实用。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A soft light.",
+    "value": "一盏柔和的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Light is ssspooky, but sssoft on Floran eyesss.",
+    "value": "光如幽幽幽灵，但是在叶族人的眼眼眼睛里是柔软软软的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This lighting fixture generates more light than heat.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A soft, red light.",
+    "value": "一道柔和的红光。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A soft, red light. It creates a strangely haunting atmosphere.",
+    "value": "柔和的红光。它创造了一种奇怪而令人难以忘怀的气氛。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's mighty spooky.",
+    "value": "这恐怕是幽灵。"
+  }
+]

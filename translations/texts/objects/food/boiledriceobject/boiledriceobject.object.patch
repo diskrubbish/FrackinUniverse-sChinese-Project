@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Light and fluffy.",
+    "value": "轻盈蓬松。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Boiled Rice",
+    "value": "熟米饭"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Plain white rice.",
+    "value": "纯白米饭。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgruntled. I could do with some sort of addition to this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Can't get more plain than plain rice.",
+    "value": "再也吃不到比白米更纯的了。"
+  }
+]

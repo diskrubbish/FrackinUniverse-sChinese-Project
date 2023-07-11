@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Summons a helpless Punchy for you to beat up.",
+    "value": "生成一只为你打气的强力伙伴。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Punchy",
+    "value": "伙伴"
+  }
+]

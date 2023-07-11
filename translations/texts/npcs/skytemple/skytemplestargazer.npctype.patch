@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Attack!",
+    "value": "进攻！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/0",
+    "raw": "Fool! The might of Kluex will crush you for intruding upon our most sacred site!",
+    "value": "蠢货！竟然踏进这神圣之地，克鲁西斯将会毁灭你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/1",
+    "raw": "You are not worthy of ascending to the aether!",
+    "value": "你不配来到这神圣之地！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/2",
+    "raw": "Begone, fool!",
+    "value": "滚出去，蠢货！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/3",
+    "raw": "The light of Kluex shall sear you from existence!",
+    "value": "接收克鲁西斯之光吧，它将会净化你的灵魂！"
+  }
+]

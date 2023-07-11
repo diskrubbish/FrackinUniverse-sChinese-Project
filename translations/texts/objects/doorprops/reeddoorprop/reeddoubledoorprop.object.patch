@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Doors made of wood and reed.",
+    "value": "由木头和芦苇制成的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Reed Double Door Prop",
+    "value": "芦苇双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Doors made of wood and reeds.",
+    "value": "用木头和芦苇做的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Doors made of wood and reeds.",
+    "value": "用木头和芦苇做的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Reed doors.",
+    "value": "芦苇门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. Doors made of wood and reeds.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Doors made of wood and reeds.",
+    "value": "用木头和芦苇做的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Doors made of wood and reeds.",
+    "value": "用木头和芦苇做的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Doors made of wood and reeds.",
+    "value": "用木头和芦苇做的门。"
+  }
+]

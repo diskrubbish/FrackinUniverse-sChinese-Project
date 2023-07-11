@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A soft, decorative tapestry",
+    "value": "柔软的装饰性材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avali Tapestry",
+    "value": "羽族挂毯"
+  }
+]

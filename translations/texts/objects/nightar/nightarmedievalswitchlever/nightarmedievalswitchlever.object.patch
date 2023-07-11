@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mysterious lever. I wonder what this does?",
+    "value": "神秘的杠杆。我想知道这有什么用？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Switch Lever",
+    "value": "开关杆"
+  }
+]

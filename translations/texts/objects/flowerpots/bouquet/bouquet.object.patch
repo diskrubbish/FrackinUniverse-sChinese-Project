@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The go-to gift for a loved one. Who doesn't love flowers?",
+    "value": "送给爱人的礼物。谁不爱花？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bouquet",
+    "value": "花束"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A carefully wrapped flower bouquet.",
+    "value": "精心包装的花束。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A flower bouquet. I wonder who it's for?",
+    "value": "花束。不知道是给谁的？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wrapped flowerss.",
+    "value": "包好的花。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Fond. A rather touching gift.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Perfect for everything from dates to hospital visits!",
+    "value": "从约会到医院探视，一切都是完美的选择！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "How thoughtful! Hopefully the creator kept the language of flowers in mind making this.",
+    "value": "真周到！希望造物主在做这件事时能记住花的语言。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fancy bouquet of flowers. They smell real nice.",
+    "value": "一束别致的花。它们闻起来真香。"
+  }
+]

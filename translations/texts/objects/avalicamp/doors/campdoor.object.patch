@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A canvas curtain.",
+    "value": "帆布做的窗帘。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tent Door",
+    "value": "帐篷门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Despite appearances, I conjecture this door could stop a pyroclastic flow.",
+    "value": "尽管外观有点糟糕，但我想它可以抵挡火山碎石。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the banners grounded use.",
+    "value": "让我想起了某些奇怪的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Why issss there a towel draped acrossss the entrance?",
+    "value": "为什么有一条毛巾挂在在在入口？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. A robust canvas curtain.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Well, if nothing else it'll protect the modesty of those inside.",
+    "value": "好吧，如果没有这些，你将没有任何保护。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Decorative, but quite insufficient.",
+    "value": "装饰品，但是还不够好。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "It might look basic, but the nanocanvas weave can stop claws and fiery breath, perfect for keeping out wildlife.",
+    "value": "它看起来很普通，但是足够保护你了。"
+  }
+]

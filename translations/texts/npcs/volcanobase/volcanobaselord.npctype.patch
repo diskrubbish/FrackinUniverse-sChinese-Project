@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Attack!",
+    "value": "进攻！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/0",
+    "raw": "Furious. I'll slaughter you and use your loot to replace the guards you killed!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/1",
+    "raw": "Eager. And so the hero arrives! Brave and foolish, my favourite type. I will break you and relish every moment of it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/2",
+    "raw": "Haughty. A protector to slaughter, just for me! This will be a crowning achievement; today my legend grows ever larger!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/3",
+    "raw": "Smug. My, my! If a protector feels the need to challenge me, I must be doing something right. Step up and lend your head to one of my many pikes.",
+    "value": ""
+  }
+]

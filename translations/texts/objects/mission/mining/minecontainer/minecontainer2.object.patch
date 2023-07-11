@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large metal container full of rubble.",
+    "value": "一个装满碎石的大金属集装箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mine container",
+    "value": "矿业集装箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A big painted Container, full of rubble and dirt.",
+    "value": "一个很大的刷过漆的集装箱，充满了碎石和泥土。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An ugly metal container, full of rubble and painted yellow.",
+    "value": "一个丑陋的集装箱，里面装满了碎石和涂成黄色的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wants to sssleep in yellow box.",
+    "value": "叶族人想要在黄色箱子里睡一觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. The container appears to hold unwanted rubble.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A big Container, full of rubble and dirt.",
+    "value": "一个装满碎石和泥土的大型集装箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An ugly metal container, full of wasted material.",
+    "value": "一个丑陋的集装箱，充满了废料。"
+  }
+]

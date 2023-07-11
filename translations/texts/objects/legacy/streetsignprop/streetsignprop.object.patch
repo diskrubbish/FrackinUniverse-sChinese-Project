@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This should point you in the right direction!",
+    "value": "这将为您指明正确的方向！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Street Sign",
+    "value": "路标"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Well now, where to...?",
+    "value": "那么现在，去哪里...？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Seems there's a few different ways to proceed from here.",
+    "value": "似乎有几种不同的方法可以从这里开始。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran doesn't need directions from dumb sssign!",
+    "value": "叶族人不需要哑巴符号的指示！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analytical. I see... The best way to proceed from here would be to...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hey, a sign! ... Aw crackers, I can't make out the writing.",
+    "value": "嘿，一个标志...哎呀，胡说八道，我看不清字迹。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The print on these signs are very poorly maintained. How are citizens supposed to rely on them for direction?",
+    "value": "这些标志上的印刷品保存得很差。公民应该如何依靠他们来指引方向？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I just go wherever the wind takes me, personally.",
+    "value": "我只是随风而行。"
+  }
+]

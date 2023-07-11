@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Deep shadows stretch away from this menacing torch.",
+    "value": "火炬中发出明亮的光芒，悄悄地驱散了深沉的黑暗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cyclopean Torch Stand",
+    "value": "火炬支架"
+  }
+]

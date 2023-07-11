@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Armament",
+    "value": "军备"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I t'aint much fer fightin', lemme tell you. But in a pinch, I's been known ter swing a fist or two. But fists ain't gonna cut it. You'll be needin' somethin' more dangerous. Try making",
+    "value": "我和你讲，我并不想战斗。但是在紧要关头，我也知道要挥一两下拳头。但是，拳头并不会消灭它。你将需要更危险的东西。请尝试制作。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Gather or Grow ^orange;5 potatos^reset; and return to ^green;Welchie^reset;.",
+    "value": "收获或者长出^orange;5个土豆^reset;并带给^green;韦尔奇^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Thanks fer the tasty tots, friend. As a thanks, you can have this store of ^green;Iron Ore^reset; my grand-papa kept around when this place was still nice. T'aint worth a thing to me, but it'll sure be useful for you!",
+    "value": "朋友，谢谢你的美味小食。为了表示感谢，你可以在这个地方还不错的时候把这些我爷爷存的^green;铁矿石^reset;储藏留着。它对我来说一文不值，但对你肯定有用！"
+  }
+]

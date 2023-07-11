@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Blue - connect to Liquid Pump^reset;. Pressurizes released liquids.",
+    "value": "^cyan;蓝色端——连接至液体泵^reset;。对输出的液体加压。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pressurized Mover Pump",
+    "value": "增压输出泵"
+  }
+]

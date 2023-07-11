@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Round and Round we go...",
+    "value": "一圈又一圈"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "To extract the goodies from ^green;honeycombs^reset; produced by your bees, you are going to need a ^orange;Wooden Centrifuge^reset;.",
+    "value": "要从^orange;蜂巢^reset;提炼出蜂蜜，你首先需要建造一台^orange;木制离心机^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "As your bee-tech gets more advanced you'll get ^green;superior output^reset; from your bee farm.",
+    "value": "随着养蜂技术的提升，你的蜂园产量将会^orange;越来越多^reset;。"
+  }
+]

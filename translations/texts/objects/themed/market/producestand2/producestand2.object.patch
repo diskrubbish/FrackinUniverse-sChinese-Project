@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A market booth stocked full of a variety of different crops.",
+    "value": "市场摊位上堆满了各种各样的农作物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Market Stand",
+    "value": "市场摊位"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A wide selection of fresh produce.",
+    "value": "有多种新鲜农产品可供选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Such bounty is rarely tasted by Avians of the faith.",
+    "value": "信仰的翼族人人很少尝到这样的恩赐。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssuch fresh foods.",
+    "value": "这样的新鲜食物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Envious. If I were capable of producing saliva, I would be salivating.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm dying to taste some of this stuff.",
+    "value": "我很想尝尝这种东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Surface food is so rich and full of flavour.",
+    "value": "表面食物是如此丰富和充满味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Crops, wonder how'd they'd taste cooked up on a campfire.",
+    "value": "庄稼，想知道他们在篝火上煮的味道如何。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Dodge II",
+    "value": "闪避 II"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Your dodge is better. ^orange;[+ Distance, Inertia^reset;]",
+    "value": "你的闪避变得更好用了。^orange;[距离+，惯性+]reset"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Your dodge is better. ^orange;[+ Distance, Inertia^reset;]",
+    "value": "你的闪避变得更好用了。^orange;[距离+，惯性+]reset"
+  }
+]

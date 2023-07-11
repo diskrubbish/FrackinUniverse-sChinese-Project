@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of thing covered with millions of eyes and mouths.",
+    "value": "有些事物被成千上万的眼睛和嘴巴所覆盖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "The Expanding Death",
+    "value": "绽放之死亡"
+  }
+]

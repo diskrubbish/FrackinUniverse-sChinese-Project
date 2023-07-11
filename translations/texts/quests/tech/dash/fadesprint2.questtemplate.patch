@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Amazing Speed, Amazing Tech II",
+    "value": "惊异速度，惊异科技 II"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Y'know...I just realized a way I can improve on the Sprint tech!",
+    "value": "呃...我只是想到了一种可以改进我的移动速度的方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "With a bit more advanced tech splashed in, I can improve ^orange;Phase Sprint^reset; and make it damage anything in my path!",
+    "value": "我现在可以利用现有材料改善^orange;加速^reset;科技，它现在可以在激活时伤害到所触碰的敌人。"
+  }
+]

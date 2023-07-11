@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Platform",
+    "value": "可爱的平台"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute platform",
+    "value": "一个可爱的平台。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A simple wooden bowl. There are strange fruits in it.",
+    "value": "一个简单的木制碗。里面有奇怪的水果。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Fruit Bowl",
+    "value": "甲虫水果盘"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple, clean bowl, with... is that a purple banana?",
+    "value": "一个简单、干净的碗，带...那是紫色的香蕉吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It seems the Mantizi eat fruit.",
+    "value": "看起来甲虫族人吃水果。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran deeply offended.",
+    "value": "叶族人非常生气。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. This fruit is not edible.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hey, these are plastic!",
+    "value": "嘿，这些是塑料的！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "You'd figure this fruit would be in distilled form by now.",
+    "value": "你会认为这种水果现在已经是蒸馏的了。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "You'll be wine soon enough, just you wait.",
+    "value": "你很快就会醉的，等着吧。"
+  }
+]

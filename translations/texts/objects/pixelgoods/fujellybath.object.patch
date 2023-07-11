@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Soft, bouncy...but a little slippery.",
+    "value": "软又有弹性，但有点滑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Jelly Bathtub",
+    "value": "果冻浴缸"
+  }
+]

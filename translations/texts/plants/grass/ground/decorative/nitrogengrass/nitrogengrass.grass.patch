@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some frozen plantlife.",
+    "value": "一些冰冻的植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frozen Plantlife",
+    "value": "冰冻的植物"
+  }
+]

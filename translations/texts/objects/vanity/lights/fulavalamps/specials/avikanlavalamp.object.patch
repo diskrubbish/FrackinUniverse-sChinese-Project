@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp filled with a brightly glowing material.",
+    "value": "充满明亮发光材料的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avikan Lava Lamp",
+    "value": "阿维坎熔岩灯"
+  }
+]

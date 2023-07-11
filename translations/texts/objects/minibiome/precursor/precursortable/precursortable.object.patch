@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Surprisingly stark and simple for a super-race.",
+    "value": "对于一个超凡种族来说，未免有点太过刻板和简单了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Table",
+    "value": "先驱之桌"
+  }
+]

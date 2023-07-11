@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A very primitive battery.^truncate; ^red;Scan for Info^reset;\nStorage Capacity: ^green;350^reset;J",
+    "value": "一个非常原始的电池。\n^red;扫描以查看更多信息^reset;\n储存电能：^green;350J^reset;J"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Simple^reset; Battery",
+    "value": "^orange;简易^reset;电池"
+  }
+]

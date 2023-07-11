@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rock that rollie pollies love to hide under.",
+    "value": "罗莉·波利斯喜欢躲在下面的岩石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rollie Pollie Pet House",
+    "value": "罗莉波莉宠物屋"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Grabs items from the world.",
+    "value": "从世界中采集物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Grabber",
+    "value": "采集器"
+  }
+]

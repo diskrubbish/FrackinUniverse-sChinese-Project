@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An astro themed dresser.",
+    "value": "一个以天文为主题的梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Astro Dresser",
+    "value": "天文梳妆台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A modern styled dresser. Its drawers seem to close themselves for you.",
+    "value": "现代风格的梳妆台。它的抽屉好像为你关上了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This dresser has some lovely bright colors.",
+    "value": "这个梳妆台有一些可爱明亮的颜色。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Drawers close on their own! Floran doessn't even have to clean up after themssself!",
+    "value": "这个抽屉会自己关上！叶族人甚至不需要在他们死后打扫卫生！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This dresser seems to both close on its own, and fold the clothes inside up neatly.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Sweet! Less laundry time for me!",
+    "value": "好极了！我洗衣服的时间少了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An advanced dresser that caters to the owner of it.",
+    "value": "迎合主人的高级梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's a purtty smart lookin' dresser right there.",
+    "value": "那是一个整洁漂亮的梳妆台。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Of Dark Gods and Dark Falls",
+    "value": "关于暗裔及暗堕"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "'...and then the hero met the devout.'...or was it 'devoured'? Sorry, missed a snack. Go to bird temple.",
+    "value": "......然后英雄遇到了虔诚上贡之人。.....或是被虔诚“上贡”？对不起，错过了一道点心。去鸟人的庙子。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "No message, just breadcrumbs. Sadmew. Maybe this Kevin had clone-rot and went addle-brained.",
+    "value": "没有消息，只有面包屑。伤心喵。也许这个凯文得了克隆病，变得头脑不清了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/artifact",
+    "raw": "Find the ^orange;artifact^reset; in the ^orange;Dark Sovereign Temple^reset;",
+    "value": "在^orange;极暗帝王神庙^reset;中找到^orange;神器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "raw": "Return to ^orange;Kherae^reset; at ^orange;the Science Outpost^reset;",
+    "value": "回到^orange;科学前哨站^reset;去找^orange;溪^reset;"
+  }
+]

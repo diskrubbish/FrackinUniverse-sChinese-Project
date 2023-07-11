@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This door appears to be locked. What a shame.",
+    "value": "这扇门好像锁上了。真可惜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Background Door",
+    "value": "绘世者隐藏门"
+  }
+]

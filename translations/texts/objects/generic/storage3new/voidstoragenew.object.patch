@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nothing could possibly go wrong storing things in a pocket dimension!",
+    "value": "东西放在这里面完全不会担心丢失。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#e43774;Dimensional Storage^reset;",
+    "value": "^#e43774;空间储存器^reset;"
+  }
+]

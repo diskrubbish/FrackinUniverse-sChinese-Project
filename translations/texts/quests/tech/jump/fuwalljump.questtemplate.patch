@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "A Better Walljump",
+    "value": "更好的蹬墙跳"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I think I could ^green;replace the Wall Jump tech^reset; with a ^orange;useful upgrade tech^reset;",
+    "value": "我把蹬墙跳稍微改良了，现在它可以连跳三次。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "I think I could ^green;replace the Wall Jump tech^reset; with a ^orange;useful upgrade tech^reset;",
+    "value": "我把蹬墙跳稍微改良了，现在它可以连跳三次。"
+  }
+]

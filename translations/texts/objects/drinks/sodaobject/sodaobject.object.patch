@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A refreshing can of soda.",
+    "value": "一罐提神的苏打水。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Soda",
+    "value": "苏打"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cold, fizzy sssoda.",
+    "value": "冰汽苏打水。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. Do I have to be worried about drinking this if I don't possess teeth?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A nice fizzy can of soda-pop.",
+    "value": "一听漂亮的汽水罐头。"
+  }
+]

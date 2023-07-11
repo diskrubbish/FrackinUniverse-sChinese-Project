@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dark matter meets flora. Increases defenses.",
+    "value": "可以收获暗影根茎，食用后会提高防御。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Umbral Root Seed",
+    "value": "暗影根茎种子"
+  }
+]

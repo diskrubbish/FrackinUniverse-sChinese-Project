@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Wheat, a staple crop with many uses.",
+    "value": "小麦，一种用途广泛的主要作物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wheat Basket",
+    "value": "麦篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Wheat is unpleasant when unprocressed, but can be used to make all manner of dishes.",
+    "value": "小麦不加工时令人不快，但可以用来做各种菜肴。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Wheat is delicious on its own, or when used to make breadcrumbs.",
+    "value": "小麦本身就很美味，或者用来做面包屑。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wheat has earsss. Floran pull off earsss for fun.",
+    "value": "小麦有麦穗穗穗。叶族人为了好玩摘下麦穗穗穗。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. I wonder if all the possible uses for wheat have been found.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Wheat, perfect for baking some fresh bread.",
+    "value": "小麦，最适合烘烤新鲜面包。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "On land, wheat has many uses. Underwater, almost none.",
+    "value": "在陆地上，小麦有许多用途。在水下，几乎没有。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I get a hankerin' for fresh bread whenever I see wheat.",
+    "value": "每当我看到小麦，我就想吃新鲜的面包。"
+  }
+]

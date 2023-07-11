@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute ribbon",
+    "value": "一条可爱的丝带"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Ribbon",
+    "value": "漂亮的织带"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "That bow is quite large.",
+    "value": "那个蝴蝶结真够大的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "That's quite pink.",
+    "value": "粉红，粉红"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ribbon sssilk remind Floran of Ixoling webbing.",
+    "value": "这条丝绸缎缎锻带让叶族人想起了死亡主宰的网。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. These are quite pretty.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Perfect for parties!",
+    "value": "对于派对来说真是棒极了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Sailor Kelp uses similar ribbons on her armor.",
+    "value": "水手凯尔普在他的盔甲上使用相似的丝带。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just ribbons.",
+    "value": "一些丝带。"
+  }
+]

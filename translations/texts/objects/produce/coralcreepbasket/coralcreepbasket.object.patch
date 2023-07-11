@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The coralcreep fruit turns red when cooked, like a lobster.",
+    "value": "珊瑚果的果实煮熟后会变成红色，就像龙虾一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coralcreep Basket",
+    "value": "珊瑚果篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Coralcreep, actually a fruit despite appearances.",
+    "value": "珊瑚果，实际上是一种水果，尽管外表如此。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The taste of seafood in a fruit. Creepy indeed.",
+    "value": "水果中海鲜的味道。真令人毛骨悚然。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A plant in disssguise as a creature. Clever.",
+    "value": "一种植物，作为一种生物被伪装起来。聪明。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Sceptical. Looks like a sea dwelling creature, how can it be that this is a fruit?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fruit that looks and tastes like lobster.",
+    "value": "看起来和尝起来都像龙虾的水果。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Delicious coralcreep. A true delicacy. Everyone should try it.",
+    "value": "美味的珊瑚果。真正的美味。每个人都应该尝试一下。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The real fruit of the sea.",
+    "value": "真正的海洋果实。"
+  }
+]

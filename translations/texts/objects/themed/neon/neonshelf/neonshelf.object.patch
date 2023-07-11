@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A neon shelf used for displaying items.",
+    "value": "用来展示物品的霓虹灯架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neon Wall Shelf",
+    "value": "霓虹灯壁架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's a wall shelf.",
+    "value": "这是个墙架。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A simple wall shelf.",
+    "value": "一个简单的壁式架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Boring shelf.",
+    "value": "无聊架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Bored. A wall shelf.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's a wall shelf.",
+    "value": "这是个墙架。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A blue wall shelf for displaying curios.",
+    "value": "用来陈列古玩的蓝色壁橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A blue wall shelf.",
+    "value": "一个蓝色的壁橱。"
+  }
+]

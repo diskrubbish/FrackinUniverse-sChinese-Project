@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A crudely-drawn skull. It looks cheerful. Unbreakable!",
+    "value": "画得粗糙的头骨。看起来很愉快。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Graffiti",
+    "value": "涂鸦"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It looks like a human skull.",
+    "value": "它看起来像人的头骨。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A skull. Is it a warning?",
+    "value": "头骨。这是警告吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likesss this drawing. Great artisssst.",
+    "value": "叶族人喜欢这幅画。伟大的艺术家。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A crudely-drawn human skull.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Another striking piece of street art.",
+    "value": "另一件引人注目的街头艺术作品。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The artist was clearly inept.",
+    "value": "这位艺术家显然是无能的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A skull. Either it's a warning... or there be pirates here!",
+    "value": "头骨。要么是警告。。。否则这里会有海盗！"
+  }
+]

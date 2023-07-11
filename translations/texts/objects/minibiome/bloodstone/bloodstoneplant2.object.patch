@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bloodstone flower",
+    "value": "血石花"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bloodstone flower",
+    "value": "血石花"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cone bush.",
+    "value": "锥型灌木。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cone bush.",
+    "value": "锥型灌木。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssslimy weeds.",
+    "value": "黏黏黏糊糊的野草。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Sea bush.",
+    "value": ""
+  }
+]

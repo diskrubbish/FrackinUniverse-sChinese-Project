@@ -1,0 +1,80 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/title",
+    "raw": "Anodyne",
+    "value": "燃星人"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/subTitle",
+    "raw": "CH4",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "raw": "The Anodyne are a mysterious race of 'interstellar gas-bag people' much like the Novakid. They have no charted settlements and no documented history. They're volatile beings, untroubled by the past. No one knows what they're made of, much less where they came from.",
+    "value": "燃星人是一个形似“星际气囊”的神秘种族，很像星之子。他们既没有固定的定居点，也没有记录在案的历史。他们是一种不稳定的存在，不受过去的困扰。没有人知道他们由何构成，更没有人知道他们从何而来。"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/0",
+    "raw": "PLASMA COLOR",
+    "value": "等离子颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/1",
+    "raw": "CORONA",
+    "value": "日冕"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/2",
+    "raw": "SHIRT",
+    "value": "衬衫"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/3",
+    "raw": "PANTS",
+    "value": "裤子"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/4",
+    "raw": "DEPOSITS COLOR",
+    "value": "沉淀颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/5",
+    "raw": "BRAND",
+    "value": "烙印"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/6",
+    "raw": "SHIRT COLOR",
+    "value": "衬衫颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/7",
+    "raw": "PANTS COLOR",
+    "value": "裤子颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/8",
+    "raw": "NOVAKID",
+    "value": "星之子"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/9",
+    "raw": "PERSONALITY",
+    "value": "个性"
+  }
+]

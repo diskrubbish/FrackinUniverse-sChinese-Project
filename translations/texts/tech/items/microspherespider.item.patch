@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A creepy-crawly microsphere.",
+    "value": "这是爬墙球的微型版。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Spider Microsphere^reset;",
+    "value": "^#77acc3;微型爬墙球^reset;"
+  }
+]

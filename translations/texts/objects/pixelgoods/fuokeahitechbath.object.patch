@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A truly unforgettable bathing experience!",
+    "value": "一次真正难忘的沐浴体验！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hi-tech Bathtub",
+    "value": "高科技浴缸"
+  }
+]

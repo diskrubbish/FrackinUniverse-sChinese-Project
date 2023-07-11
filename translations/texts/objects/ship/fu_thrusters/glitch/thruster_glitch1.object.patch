@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A space craft thruster of Glitch design.",
+    "value": "一个电子人风格的宇宙飞船推进器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Thruster (Glitch)",
+    "value": "大型推进器(电子族)"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bookcase for storing folk tales and legends...",
+    "value": "存放民间故事和传说的书架..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medieval Bookcase",
+    "value": "中世纪书架"
+  }
+]

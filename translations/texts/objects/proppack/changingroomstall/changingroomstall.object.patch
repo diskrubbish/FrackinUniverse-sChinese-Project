@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A changing room stall. No peeking!",
+    "value": "更衣室的隔间。不许偷看！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Changing Room Stall",
+    "value": "更衣室隔间"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A changing room stall.",
+    "value": "更衣室的隔间。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A changing stall.",
+    "value": "变换隔间。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes hiding in ssstalls and watching people walk by through gap!",
+    "value": "叶族人喜欢躲在隔间里，看着人们从缝隙中走过！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A changing room stall.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Great for hiding in and playing mobile games.",
+    "value": "非常适合隐藏和玩手机游戏。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A crude changing room stall.",
+    "value": "简陋的更衣室隔间。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Great for tryin' on new duds.",
+    "value": "很适合试穿新衣服。"
+  }
+]

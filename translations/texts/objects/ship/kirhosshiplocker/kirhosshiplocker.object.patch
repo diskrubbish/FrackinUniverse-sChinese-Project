@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Store some stuff, why don't you?",
+    "value": "往里面存储一些物品吧，为什么不呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shiplocker",
+    "value": "飞船储物柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The ship's storage system.",
+    "value": "飞船的存储系统。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A device that holds many items. It appears to function differently from our own.",
+    "value": "一个可以存储许多物品的设备，它的运作方式看起来和我的不太一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssstorage.",
+    "value": "存存存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Stating the obvious. A Kirhosi storage system.",
+    "value": "显而易见的。一个Kirhosi存储系统。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A storage device, seems to function a lot like my own.",
+    "value": "一个存储系统。它的功能看起来像我的一样强大。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An elegant storage solution.",
+    "value": "一个优雅的存储解决方案。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A locker, for puttin' things in.",
+    "value": "一个储物柜，把东西放进去吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/kirhosDescription",
+    "raw": "A slick storage rig with an ICE-3 encrypted lock.  My gear's safe here!",
+    "value": "一个灵活的存储设备，带有一个ICE-3加密锁。非常安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "A slick storage rig with an ICE-3 encrypted lock.  My gear's safe here!",
+    "value": "一个灵活的存储设备，带有一个ICE-3加密锁。非常安全。"
+  }
+]

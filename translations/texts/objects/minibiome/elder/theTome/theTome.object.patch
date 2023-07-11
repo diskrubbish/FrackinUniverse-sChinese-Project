@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A horrifying book rests upon the altar.",
+    "value": "祭坛上放着一本恐怖的书。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mysterious Lectern",
+    "value": "神秘的讲台"
+  }
+]

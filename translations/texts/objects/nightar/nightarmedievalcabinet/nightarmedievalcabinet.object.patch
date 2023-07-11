@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A charming and well-made wooden cabinet.",
+    "value": "一个漂亮且制作精良的木柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cabinet",
+    "value": "柜子"
+  }
+]

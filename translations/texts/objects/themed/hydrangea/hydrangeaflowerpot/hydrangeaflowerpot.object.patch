@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tall pot of sweet smelling flowers. ^orange;Place down for a variety of different styles!^reset;",
+    "value": "一大盆芳香的花。^orange;放置在各种不同的风格！^复位；"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hydrangea Flowerpot",
+    "value": "绣球花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "There's a certain sweet, summery aroma about these flowers.",
+    "value": "这些花有一种夏天的芳香。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These flowers certainly do come in a vibrant array of colors.",
+    "value": "这些花当然有各种鲜艳的颜色。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Almost as many blooms as Floran'sss tribe!",
+    "value": "花的数量几乎和叶族的部落一样多！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. What a charming pot of flowers.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Woah, better be careful not to accidentally knock over this vase...",
+    "value": "哇，最好小心别不小心撞翻了这个花瓶..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Hydrangea are the Hylotl flower for all things sincere and heartfelt.",
+    "value": "绣球花是鲛人花对一切事物的真诚和真挚。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A sweet smellin' pot of flowers.",
+    "value": "一盆芳香的花。"
+  }
+]

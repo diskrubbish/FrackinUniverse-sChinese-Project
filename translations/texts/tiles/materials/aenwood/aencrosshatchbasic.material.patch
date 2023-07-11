@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A very pretty fence, sure to keep anything out.",
+    "value": "一个非常漂亮的栅栏，一定能把任何东西挡在外面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Window Lattice",
+    "value": "暗木窗框"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Entranced. A very pretty window material.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty window, lookss sstarry.",
+    "value": "美丽的窗户，看上去星光灿烂。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This crosshatch sure is pretty.",
+    "value": "这条交叉线确实很漂亮。"
+  }
+]

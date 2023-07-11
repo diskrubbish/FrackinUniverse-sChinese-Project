@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rack full of hunting spears made by the Skath.",
+    "value": "绘世者制作的装满猎枪的架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Spearrack",
+    "value": "绘世者矛架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These spears look extraordinarily sharp. Better not touch them.",
+    "value": "这些长矛看起来非常锋利。最好不要碰它们。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These spears remind me of the spears of my own kind, though more advanced.",
+    "value": "这些长矛让我想起了我自己的长矛，虽然更高级。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Waterdragon usesss spears for ssstabbing. Floran approvess!",
+    "value": "水龙用长矛刺人。叶族人同意了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. These spears seem to be made to penetrate tough beast hide and armour alike.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These spears don't look very shar- Ouch! Okay, they are!",
+    "value": "这些长矛看起来不太锋利！好吧，他们是！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Skath weaponry is truly terrifying.",
+    "value": "绘世者的武器真非常恐怖。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some sleek lookin' spears. Wouldn't want to get hit by one of those.",
+    "value": "一些漂亮的长矛。我不想被那些东西击中。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "Spears like these are used underwater for hunting. Spears have proven themselves to be more suitable for underwater combat than hammers or swords.",
+    "value": "像这样的矛在水下用来打猎。长矛已经证明比锤子或剑更适合水下作战。"
+  }
+]

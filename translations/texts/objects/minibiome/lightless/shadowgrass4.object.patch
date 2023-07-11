@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Purplish-black grass.",
+    "value": "紫黑色的草。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Grass",
+    "value": "暗影草"
+  }
+]

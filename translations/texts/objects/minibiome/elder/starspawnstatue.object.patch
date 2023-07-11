@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some strange creature out of a nightmare.",
+    "value": "一个如同出现在噩梦中的奇怪生物的雕像。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Horrid Statue",
+    "value": "可怕的雕像"
+  }
+]

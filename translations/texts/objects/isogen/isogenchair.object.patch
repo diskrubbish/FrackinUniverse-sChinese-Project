@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chair that seems far too cold to sit on.",
+    "value": "似乎太冷而不能坐的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Chair",
+    "value": "寒霜椅子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A very cold chair.",
+    "value": "非常冷的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A chair that seems too cold for me.",
+    "value": "对我来说似乎太冷的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pillow isss nice, but too cold for Floran.",
+    "value": "枕头不错，但对叶族人来说太冷了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This does not seem comfortable.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I couldn't sit here long, it's too cold.",
+    "value": "我不能在这里坐太久，太冷了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This chair looks unbearable to sit on.",
+    "value": "这把椅子坐起来难受极了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I wouldn't mind a rest. It's mighty cold, though.",
+    "value": "我不介意休息一下。不过天气非常冷。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A 'bookcase' made from Thelusian resins.",
+    "value": "一个用蚁族树脂制成的书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Chitinous Case",
+    "value": "蚁族几丁质书架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple bookcase. The construction method is impressive.",
+    "value": "一个简单的书架。这种做工令人印象深刻。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Just a bookcase.",
+    "value": "就是一个书柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran knowsss thisss isss a bookcassse.",
+    "value": "叶族人知道道道这这这是是是个书架架架。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This bookcase looks beautiful.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty bookcase. It's made of crystal.",
+    "value": "一个很漂亮的书架。它是水晶做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A good place to store books.",
+    "value": "一个存放书籍的好地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fancy bookcase.",
+    "value": "一个精致的书架。"
+  }
+]

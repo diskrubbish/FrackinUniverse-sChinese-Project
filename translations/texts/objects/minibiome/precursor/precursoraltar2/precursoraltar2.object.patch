@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of machine...or sculpture...or...I honestly don't know.",
+    "value": "某种机械...或是某种雕塑...或是...说实话，我真的不知道这是什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Icon",
+    "value": "先驱肖像"
+  }
+]

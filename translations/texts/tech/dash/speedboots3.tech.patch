@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Superior narcotics provide insane speeds.",
+    "value": "高级麻醉剂提供狂乱的速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Stimulant Rig IV",
+    "value": "狂经脉 IV"
+  }
+]

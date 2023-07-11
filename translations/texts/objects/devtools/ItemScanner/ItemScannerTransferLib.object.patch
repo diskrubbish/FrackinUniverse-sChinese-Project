@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Debug tool to print all that an item is to the log. Includes item network info.",
+    "value": "调试工具会将所有事项打印到日志中。包括物品网络信息。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Item Scanner TL",
+    "value": "物品扫描仪 TL"
+  }
+]

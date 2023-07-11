@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Racial Claw Attack. Damage determined by food and health values. [F]",
+    "value": "种族利爪攻击。伤害受饱食度和生命值影响。\n使用：[F]"
+  }
+]

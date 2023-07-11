@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dungeon cell doors, built to hold even the strongest prisoner.",
+    "value": "地牢牢门，用来关押最强壮的囚犯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medieval Cell D. Door Prop",
+    "value": "中世纪栏杆双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Incredibly strong cell doors.",
+    "value": "牢房门异常的坚固。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Doors of great strength.",
+    "value": "强权之门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sstrong metal doors.",
+    "value": "坚坚坚固的金属门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Distressed. The Glitch lock prisoners behind doors like these. Often they are other Glitch that have gained self awareness.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "No one is escaping a cell which has doors like these.",
+    "value": "没有人能逃出这样的牢房。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Hylotl treat their prisoners like honoured guests.",
+    "value": "鲛人们把他们的囚犯当作贵宾对待。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Good doors for keeping outlaws locked up.",
+    "value": "把歹徒锁起来的好门。"
+  }
+]

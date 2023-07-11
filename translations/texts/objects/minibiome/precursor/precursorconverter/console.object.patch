@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Converts erchius energy into a more potent fuel.",
+    "value": "可将厄尔吉斯晶体、厄尔吉斯晶态燃料、厄尔吉斯液态燃料转换成更强劲的燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Erchius Converter^reset;",
+    "value": "^cyan;厄尔吉斯燃料转换器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Resource converter",
+    "value": "资源转换"
+  }
+]

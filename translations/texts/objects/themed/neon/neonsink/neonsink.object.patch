@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A neon countertop with a sink installed.",
+    "value": "装有水槽的霓虹灯台面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neon Sink",
+    "value": "霓虹灯水槽"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A sink suitable for a kitchen or bathroom.",
+    "value": "适用于厨房或浴室的水槽。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A water basin.",
+    "value": "一个水池。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Turn handle, water comess out!",
+    "value": "转动把手，水流流流而出！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. Hot and cold water, at your convenience.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A homely sink.",
+    "value": "家常的水槽。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I wonder if the water is fresh.",
+    "value": "我不知道这水是否新鲜。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A kitchen sink.",
+    "value": "厨房水槽。"
+  }
+]

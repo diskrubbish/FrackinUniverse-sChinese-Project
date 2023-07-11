@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A reliable sidekick. Will keep you protected from a distance.",
+    "value": "非常可靠的伙伴，在激活后，它会在空中持续地跟随并保护你。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Servitor mkI",
+    "value": "立方体机器人 MK I"
+  }
+]

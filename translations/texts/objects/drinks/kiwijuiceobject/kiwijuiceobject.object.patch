@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sweet and tropical juice made of kiwis.",
+    "value": "猕猴桃汁一种用猕猴桃制成的甜的热带果汁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kiwi Juice",
+    "value": "猕猴桃汁"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Could Floran juice kiwi birdsss?",
+    "value": "翼族人榨季尾鹩可以吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. Just a sip of this can fool me into thinking I'm on vacation.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Strange fruit, strange juice. It ain't bad though.",
+    "value": "奇怪的水果，奇怪的果汁，不过还不错。"
+  }
+]

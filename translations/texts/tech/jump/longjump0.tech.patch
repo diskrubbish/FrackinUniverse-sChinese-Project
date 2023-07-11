@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Increased jumping capability.",
+    "value": "增加跳跃能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Boosted Jump",
+    "value": "跳跃能力提升"
+  }
+]

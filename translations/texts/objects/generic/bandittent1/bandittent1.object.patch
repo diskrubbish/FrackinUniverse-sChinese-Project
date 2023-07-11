@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A basic tent. Watch out for spacebears!",
+    "value": "一个基本的帐篷，需要防范各种蚊虫。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Basic Tent",
+    "value": "基础帐篷"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple tent. Good enough.",
+    "value": "一个简单的帐篷。不用再说明了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A temporary house.",
+    "value": "一个临时的家。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Little black houssse.",
+    "value": "小黑黑黑房子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Irritated. There isn't much room.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I enjoyed camping as a child.",
+    "value": "提起野餐，我就像个孩子一样兴奋..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I am not too proud to sleep in a tent.",
+    "value": "我从来不觉得在帐篷里睡觉是件值得夸耀的事。"
+  }
+]

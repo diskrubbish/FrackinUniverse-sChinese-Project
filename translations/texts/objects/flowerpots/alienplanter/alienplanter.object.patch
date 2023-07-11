@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just your average alien planter box.",
+    "value": "这只是你普通的外形种植箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alien Bush Planter",
+    "value": "外星灌木播种机"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These are... It's quite... They're, um... very colorful?",
+    "value": "这些是...这相当...他们，嗯...非常多彩？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "There's room to sit among this foliage... But I'm not sure that's a good idea.",
+    "value": "在这片树叶中间似乎有地方可以坐...但我不确定这是个好主意。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bright bushes can't hide leafy green Floran...",
+    "value": "明亮的灌木丛掩藏不住绿叶繁茂的花丛..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Apprehensive. Just what are these strange plants? Are they safe for me to be cultivating?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Well these are definitely the weirdest plants I've ever seen. And that's saying something.",
+    "value": "这些绝对是我见过的最奇怪的植物。因为他们正在说话。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Flora from some foreign planet. Evolution must've taken a different course there.",
+    "value": "这是来自某个外星球的植物群。它们肯定走了一条不寻常的进化道路。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can't make sense of these here plants.",
+    "value": "我搞不懂这里的植物。"
+  }
+]

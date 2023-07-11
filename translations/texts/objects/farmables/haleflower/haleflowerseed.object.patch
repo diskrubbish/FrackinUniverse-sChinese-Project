@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "For a plant, it stores an astounding amount of energy.",
+    "value": "相对于一株植物而言，这株植物体内的能量储量是非常惊人的。可以收获海尔花瓣，食用后会提高能量回复速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Haleflower Seed",
+    "value": "黑尔花种子"
+  }
+]

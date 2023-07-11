@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This station helps with upgrading gear and creating ideas.",
+    "value": "这个设备可以升级你的物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Tinkering Table^reset;",
+    "value": "^orange;改造台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "raw": "This station helps with upgrading gear and creating ideas.",
+    "value": "这个设备可以升级你的物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Tinkering Table^reset;",
+    "value": "^orange;改造台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "raw": "Upgrade and enhance, conceptualize and experiment.",
+    "value": "只为升级而存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Engineering Table^reset;",
+    "value": "^orange;工程桌^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "raw": "Create upgrades and hi-tech gear with nanites.",
+    "value": "利用最先进的设备大幅地提高你的能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Nanofabricator^reset;",
+    "value": "^orange;纳米加工器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^red;UNAUTHORIZED ACCESS DETECTED^reset;",
+    "value": " ^red;已检测到未授权访问^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Access to terminal disabled.",
+    "value": " ^#dddddd;访问权限未取得。"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "The Precursor Manipulator",
+    "value": "先驱物质枪"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Taking the tech to entirely unthought power, this ancient technology is astounding.",
+    "value": "难以想象的力量，这个古代科技真是太惊人了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Activate it.",
+    "value": "激活它"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "I doubt much in the universe can destroy matter faster than this. Challenge accepted?",
+    "value": "我怀疑宇宙中有很多东西破坏物质的速度都比它快。接受挑战吗？"
+  }
+]

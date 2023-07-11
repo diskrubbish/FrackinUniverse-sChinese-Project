@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Charming.",
+    "value": "迷人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloppy Sink",
+    "value": "邋遢的水槽"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Alright, this is just getting gross.",
+    "value": "好吧，这太恶心了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This sink is liable to attract gnats... among other things.",
+    "value": "这个水槽容易吸引蚊虫...除此之外。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "SSSink just adds flavor to dishes.",
+    "value": "这个水槽只是为菜肴增添了风味。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disturbed. I'm scared to see what kind of water would come out from such an unkept sink.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ah, reminds me of my old dorm-mate. That jerk never did the dishes on his week.",
+    "value": "啊，让我想起了我以前的室友。那个混蛋一周都没洗碗。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This is beyond unacceptable.",
+    "value": "这是无法接受的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Alright, even I gotta admit this sink's too far gone at this point.",
+    "value": "好吧，就连我也得承认，这个水槽在这一点上走得太远了。"
+  }
+]

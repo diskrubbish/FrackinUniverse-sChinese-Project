@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Wonderful. Should I turn back?",
+    "value": "有点意思，我该回去吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blood Spatter",
+    "value": "飞溅的血液"
+  }
+]

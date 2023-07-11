@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This material feels...wrong.",
+    "value": "这种材料总感觉有什么地方...错了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Soil",
+    "value": "远古土块"
+  }
+]

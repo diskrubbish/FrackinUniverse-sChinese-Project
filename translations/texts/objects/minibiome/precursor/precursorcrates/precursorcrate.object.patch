@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A crate containing cargo. What cargo? Who knows.",
+    "value": "一个装有货物的板条箱。什么货物? 谁知道。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Cargo Crate",
+    "value": "先驱货物箱"
+  }
+]

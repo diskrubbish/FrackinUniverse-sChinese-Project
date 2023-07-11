@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Unusually scented alien grass",
+    "value": "有奇妙香味的外星草地"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alien Grass",
+    "value": "外星草地"
+  }
+]

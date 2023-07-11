@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lightweight sliding door made with hardened aether materials.",
+    "value": "一个由坚硬的以太材料制成的轻而平滑的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Sliding Door",
+    "value": "以太推拉门"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A couch made from exonite.",
+    "value": "一个长石制成的沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exonite Couch",
+    "value": "长石沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The style reminds me a little of the hylotl.",
+    "value": "这风格稍稍让我想起了鲛人。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of Hylotl craftsmanship.",
+    "value": "这个让我想起鲛人的工艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fisssh people couch...?",
+    "value": "鱼鱼鱼人沙发...?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A well-made couch.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The crystal in this couch looks pretty.",
+    "value": "这张沙发上的水晶看着太漂亮了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This couch oddly reminds me of my people.",
+    "value": "这张沙发反常的让我想起我的同胞。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This couch is mighty pretty.",
+    "value": "这沙发真漂亮。"
+  }
+]

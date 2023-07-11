@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stellar bookcase, perfect for storing your mad ramblings about physics.",
+    "value": "一个恒星书架，完美的存储你疯狂的漫无边际的物理学。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Bookcase",
+    "value": "星辰书桌"
+  }
+]

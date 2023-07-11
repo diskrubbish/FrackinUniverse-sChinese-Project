@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Holy crap, that is a lot of jumpy goodness",
+    "value": "哇靠，真刺激"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Gravity Jump^reset;",
+    "value": "^#77acc3;重力之跃^reset;"
+  }
+]

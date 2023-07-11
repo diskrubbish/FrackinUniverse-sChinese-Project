@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Attracts moths. Moths produce more silk!",
+    "value": "可吸引蚕蛾。蚕蛾可以生产丝绸！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Moth Trap (Large)",
+    "value": "蚕房(大型)"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This can be used to collect silk fibre, if you leave it long enough.",
+    "value": "这个东西可用于收集丝绸纤维，如果你放置足够长的时间的话。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I can use this to collect silk fibre.",
+    "value": "我可以用它来收集丝绸纤维。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssilly moths, leaving behind preciousss sssilk fibre.",
+    "value": "愚愚愚蠢的蚕蛾，丢下了如此珍珍珍贵的丝绸纤维。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Proud. Glitch farm moths to make the finest silk.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Isn't it weird that such a fancy material starts with these little moths?",
+    "value": "如此昂贵的材料居然出自这些小蚕蛾之手，这难道不很怪异吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Using this I can collect silk fibre to weave into silk cloth, a most luxurious material.",
+    "value": "我可以用它来收集丝绸纤维，然后编成丝绸衣物。这可是天底下最奢华的材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Silk is a bit fancy for the likes of me, but I can sell it!",
+    "value": "丝绸按我的喜好来说有点太过花俏了，不过我可以卖掉它！"
+  }
+]

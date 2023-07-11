@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An Armor Section for an Apex spaceship.",
+    "value": "一个为猿族飞船设计的装甲模块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apex Armor Pad 1",
+    "value": "猿人装甲板 1"
+  }
+]

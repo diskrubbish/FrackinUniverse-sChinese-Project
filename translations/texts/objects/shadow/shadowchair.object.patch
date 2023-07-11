@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dark colored chair.",
+    "value": "一个深色的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowy Chair",
+    "value": "阴影椅子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A very simple chair.",
+    "value": "一个非常简单的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A simple dark chair. At least it has a pillow.",
+    "value": "一个简单的深色椅子。至少上面有一个枕头。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pillow isss nice.",
+    "value": "不错错的枕头。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. This seems comfortable.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I couldn't sit here long.",
+    "value": "我不能在这里坐太长时间。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This chair looks bearable to sit on.",
+    "value": "这个椅子坐在上面还算能忍受得住。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'm a fan of more simple furniture.",
+    "value": "我更喜欢简单的家具。"
+  }
+]

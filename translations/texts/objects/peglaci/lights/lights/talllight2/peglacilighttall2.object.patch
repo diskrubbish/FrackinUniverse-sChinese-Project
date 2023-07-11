@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tall alloy light, lit by a glowing crystal.",
+    "value": "一种高大的合金灯，由发光的水晶照亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Glowspire",
+    "value": "合金发光尖顶"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I don't see a lightbulb in there - it looks like the crystal itself is glowing.",
+    "value": "我没看到里面有灯泡-看起来水晶本身在发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Such a beautiful lantern. Though it looks rather familiar...",
+    "value": "这么漂亮的灯笼。虽然看起来很熟悉..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Looksss like rock candy.",
+    "value": "看起来像冰糖。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. This lantern is emitting a tight spectrum of radiation in the visible spectrum, as well as trace radio waves.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What a pretty crystal lantern. Hope it's not fragile.",
+    "value": "多漂亮的水晶灯笼啊。希望它不易碎。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "How ostentatious, when a simple bulb would have done.",
+    "value": "一个简单的灯泡就可以了，这真是太夸张了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "What a pretty crystal lantern. Hope it's not fragile.",
+    "value": "多漂亮的水晶灯笼啊。希望它不易碎。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A crystal lantern to light one's way on a dark winter's path,",
+    "value": "一盏水晶灯照亮了黑暗的冬日之路，"
+  }
+]

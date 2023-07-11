@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/particleEmitters/statustext/particles/0/particle/text",
+    "raw": "Corruption",
+    "value": "腐化物质"
+  }
+]

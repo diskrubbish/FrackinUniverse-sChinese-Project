@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "^orange;[E]^reset; Renergizer",
+    "value": "^orange;[E]^reset;情绪兴奋剂"
+  }
+]

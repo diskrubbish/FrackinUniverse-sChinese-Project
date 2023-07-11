@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Emits a screeching wail across a wide area.",
+    "value": "在大范围内发出尖锐的哀嚎。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Sonic Burst^reset;",
+    "value": "^#77acc3;声波爆发^reset;"
+  }
+]

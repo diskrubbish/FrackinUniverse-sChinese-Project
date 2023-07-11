@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A butterfly terrarium. Comes with bright flowers!",
+    "value": "蝴蝶玻璃器皿。鲜花盛开！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Butterfly Enclosure",
+    "value": "蝶形外壳"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A delightful way to study butterflies up close.",
+    "value": "近距离研究蝴蝶的一种令人愉快的方式。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Butterflies are awfully cute.",
+    "value": "蝴蝶非常可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Butterfly wingss make for nice meal garnish.",
+    "value": "蝴蝶翅膀是很好的膳食装饰。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. So tiny and fragile...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Aw, I used to have a butterfly home when I was a kid.",
+    "value": "哦，我小时候家里有一只蝴蝶。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'll have to make sure they're getting enough nectar to drink.",
+    "value": "我得确保他们有足够的花蜜喝。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some cute li'l butterflies flutterin' away in a glass case.",
+    "value": "一些可爱的蝴蝶在玻璃盒子里飞舞。"
+  }
+]

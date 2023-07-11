@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloped Glitch Hull Paneling",
+    "value": "倾斜机械族船体板"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hull paneling made for Glitch ships. Strong.",
+    "value": "为电子人飞船制造的船体面板。十分结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. Made to line the outside of our ships.",
+    "value": ""
+  }
+]

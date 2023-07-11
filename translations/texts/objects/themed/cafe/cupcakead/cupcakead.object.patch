@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Maybe they're on sale?",
+    "value": "也许它们在打折？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cupcake Poster",
+    "value": "纸杯蛋糕海报"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's certainly very colorful.",
+    "value": "它当然非常丰富多彩。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What strange colors... What exactly is in these?",
+    "value": "多么奇怪的颜色...这些到底是什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "This cupcake is more colorful than mossst Floran Floran knows...",
+    "value": "这个纸杯蛋糕比大多数叶族人所知道的还要鲜艳..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. What flavor is it, under all that icing?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ooh! I'll have a dozen! No! TWO!",
+    "value": "哦！我要一打！不！两个！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such excessive use of icing...",
+    "value": "如此过度地使用糖霜..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "What's so special about these cupcakes?",
+    "value": "这些纸杯蛋糕有什么特别之处？"
+  }
+]

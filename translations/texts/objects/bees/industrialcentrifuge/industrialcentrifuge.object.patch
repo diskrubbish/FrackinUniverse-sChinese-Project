@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An enormous centrifuge with expandable attachments. ^cyan;Requires ^orange;12W ^cyan;power.^reset;",
+    "value": "这个庞大的离心机可以加装蜂蜜灌装机。\n^cyan;需要^orange;12W^cyan;电力^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Industrial Centrifuge^reset;",
+    "value": "^cyan;工业用离心机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Powered Centrifuge",
+    "value": "需供电式离心机"
+  }
+]

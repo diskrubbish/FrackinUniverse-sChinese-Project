@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "raw": "  STARDEW ACRES",
+    "value": "  星露谷种植公司"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "raw": "  We'll grow on you!",
+    "value": "  万亩繁荣！"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "raw": "Buy",
+    "value": "购买"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltip/itemList/schema/listTemplate/itemName/value",
+    "raw": "Golden Moustache",
+    "value": "金胡子"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblSchematics/value",
+    "raw": "GOODS",
+    "value": "商品"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProducttitle/value",
+    "raw": "PRODUCT DETAILS",
+    "value": "产品详情"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/tbSpinCount/regex",
+    "raw": "x?\\d{0,3}",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProduct/value",
+    "raw": "CAN AFFORD",
+    "value": "可购买"
+  }
+]

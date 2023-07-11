@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "So much to choose from!",
+    "value": "有太多选择了！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Café Menu Sign",
+    "value": "咖啡馆菜单牌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "My, that's certainly quite the selection!",
+    "value": "天啊，那当然是不错的选择！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "'Feather Crown Jam on Beakseed Bread Toast' sounds simply divine.",
+    "value": "“鸟喙嘴面包吐司上的羽冠花果酱”听起来简直太棒了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Mm, sssauted boneboo slices.",
+    "value": "嗯，骨竹肉片。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Eager. I imagine I'd be salivating, if I had the glands for it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I think I'll have a little of everything!",
+    "value": "我想我什么都吃一点！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I do hope they carry vegan options.",
+    "value": "我真的希望他们有素食的选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I don't need nothin' but a nice coffee.",
+    "value": "我什么都不需要，只要一杯好咖啡。"
+  }
+]

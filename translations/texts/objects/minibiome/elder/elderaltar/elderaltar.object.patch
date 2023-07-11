@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An altar dedicated to some unspeakable horror. I wonder what function it serves?",
+    "value": "一个祭坛，应该用于一些难以形容的恐怖祭祀活动。它祭祀的到底是谁？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#86a84a;Elder Altar^reset;",
+    "value": "^#86a84a;远古祭坛^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "a dark, terrible relic.",
+    "value": "一个黑色的可怕遗迹。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Letter Q.",
+    "value": "字母Q。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Letter Q",
+    "value": "字母Q"
+  }
+]

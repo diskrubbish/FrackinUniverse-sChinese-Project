@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Its contents smell strongly of ammonia... maybe it's floor cleaner?",
+    "value": "它里面散发出强烈的氨气的味道...也许它里面是地板清洁剂？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avali Bottle",
+    "value": "羽族瓶子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It smells like ammonia, perhaps some kind of floor cleaner?",
+    "value": "它闻起来像氨，也许是某种地板清洁剂？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Ugh, it smells like an Avian defecated in this bottle.",
+    "value": "呃，闻起来就像是一只鸟类的排泄物。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran thinkssss this is miracle-gro.",
+    "value": "叶族人觉得这个个个真是棒极了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. Over 90% ammonia with trace impurities, including alcohols.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I wonder why the Avali keep their cleaning products in the food cabinet?",
+    "value": "我不明白为什么羽族会把他们的清洁用品放在食品柜里。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Avali design aesthetic is wonderful, but their wine smells like poison!",
+    "value": "羽族的审美与他们的设计品味真不错，不过他们的葡萄酒闻起来就像毒药。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "Mmm!, Chateau Avalon, 2 years old... that was a good year.",
+    "value": "嗯，(咂嘴)，Avalon葡萄园，2年份..."
+  }
+]

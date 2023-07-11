@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A vertical hatch doorway.",
+    "value": "一个垂直的舱口门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avali Tech Vertical Hatch",
+    "value": "羽族垂直科技舱口"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A vertical door.",
+    "value": "一个垂直的舱口门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An engineered hatch.",
+    "value": "一个工程舱口。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Door goesss up and down...",
+    "value": "叶族人可以上上上上下下。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This hatch is for vertical access.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A hatch for when going horizontal just isn't enough.",
+    "value": "这种舱门如果你不跳是够不到的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A hatchway, made with function in mind.",
+    "value": "一个舱门，我会在心中记下它的使用方式。"
+  }
+]

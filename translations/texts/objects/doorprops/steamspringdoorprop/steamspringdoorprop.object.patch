@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy wooden door, with a brass pipe frame.",
+    "value": "一扇坚固的木门，装有黄铜管框架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Steamspring Door Prop",
+    "value": "蒸汽弹簧门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I wonder if the brass pipes in this door help keep it sturdy?",
+    "value": "我想知道这扇门上的铜管是否有助于保持牢固？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The brass pipes on this door really help it stand out.",
+    "value": "这扇门上的铜管确实使它显得很突出。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wondersss if door has tactical usesss?",
+    "value": "叶族人想想想知道门是否有战术用用用途？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. A sturdy looking door.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Does this door actually need brass pipes on it?",
+    "value": "这扇门真的需要铜管吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An acceptable door, with some sort of brass pipe frame.",
+    "value": "一个可以接受的门，装有某种黄铜管框架。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The kind o' door I'd think to see at a Sheriff's house.",
+    "value": "我认为在郡长家能看到的那种门。"
+  }
+]

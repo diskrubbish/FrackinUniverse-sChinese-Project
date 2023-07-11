@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "^orange;[E]^reset; Electric Repel",
+    "value": "^orange;[E]^reset;电系排斥"
+  }
+]

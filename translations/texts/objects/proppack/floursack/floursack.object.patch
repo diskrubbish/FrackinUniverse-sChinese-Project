@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sack of flour. Be careful not to drop it!",
+    "value": "一袋面粉。小心别掉下来！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flour Sack",
+    "value": "面粉袋"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Think of all the banana cream pies one could make with these...!",
+    "value": "想想你能用这些做多少香蕉奶油派...！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Enough flour to keep a baker afloat for at least a day.",
+    "value": "足够面包师漂浮至少一天的面粉。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Flour sssack.",
+    "value": "面粉袋。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A sack of flour.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hoo boy, I've seen enough cartoons to know better than to mess around near these.",
+    "value": "好家伙，我已经看过很多动画片了，我不想在这些地方乱搞。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An ample supply of flour, packaged for future use.",
+    "value": "充足的面粉供应，包装好以备将来使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A sack 'o flour. I ought to be careful handlin' it.",
+    "value": "一袋面粉。我应该小心处理它。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A blood-hued landscape taken right out of a nightmare.",
+    "value": "一幅血色的风景画从噩梦之中勾勒而出。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "The Nightmare",
+    "value": "噩梦"
+  }
+]

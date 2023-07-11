@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "How is plants ded?",
+    "value": "植物是如何死去的？"
+  },
+  {
+    "op": "replace",
+    "path": "/thelusianDescription",
+    "raw": "Murderous creature is murdered.",
+    "value": "凶残的生物被谋杀了。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "This isn't happening...",
+    "value": "这不是真的..."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dead Floran Protector, mangled beyond any hope of revival.",
+    "value": "一位死去的叶族守护者，已经没有复活的希望了。"
+  }
+]

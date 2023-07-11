@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sweet juice made of grapes.",
+    "value": "用葡萄制成的甜汁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Grape Juice",
+    "value": "葡萄汁"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Little grapes burssst open with sssweet juice. Floran likes that very much.",
+    "value": "小葡萄和甜甜甜汁入喉甘甜。叶族人非常喜欢这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delighted. The taste of this juice is well worth the finicky conditions needed to grow it. ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Not a bad fruit to quench yer thirst with.",
+    "value": "不是解渴的坏水果。"
+  }
+]

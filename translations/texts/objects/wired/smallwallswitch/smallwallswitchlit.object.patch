@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Flippin' awesome! Can even be toggled when its input node is /'on'/.",
+    "value": "真是太棒了，切换为/ON/时就可以激活接入的节点。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Wall Switch (Light)",
+    "value": "小型墙壁开关 (轻便型)"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A switch. It activates something. It can even be toggled when its input node is /'on'/.",
+    "value": "一个用于激活节点的开关。切换为/ON/将会激活。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This switch must activate something. I can also see that it can be toggled when its input node is /'on'/.",
+    "value": "这个开关必须激活某些东西。我还可以看到，当它的输入节点是/ON/。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "How many times can I flip this switch on and off I wonder, either by hand, or when its input node is /'on'/?",
+    "value": "我想知道这个开关可以打开和关闭多少次，无论是用手，还是当它的输入节点显示为/ON/时，我应该做什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A basic switch that can be used to activate something. It can even be toggled when its input node is /'on'/.",
+    "value": "一个最普通的开关。当它切换到/ON/会激活接入的节点。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can flip this here switch, either by hand, or when its input node is /'on'/!",
+    "value": "我可以按一下那里，就可以把它切换到/ON/状态！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssswitch! Can even be toggled when itsss input node isss /'on'/.",
+    "value": "开开开关! 我可以把它切换到/ON/状态。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. This small switch doesn't look that powerful, but I can toggle it either by hand, or when its input node is /'on'/.",
+    "value": ""
+  }
+]

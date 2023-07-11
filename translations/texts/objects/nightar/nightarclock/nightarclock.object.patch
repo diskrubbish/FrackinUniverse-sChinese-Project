@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A clock to tell time. Useful underground when the sun can kill you.",
+    "value": "一个用来看时间的钟。当太阳能杀死你的时候，在地下很有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Clock",
+    "value": "夜族钟"
+  }
+]

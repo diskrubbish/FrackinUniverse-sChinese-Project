@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dark counter.",
+    "value": "一个深色的柜台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowy Counter",
+    "value": "阴影柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's a plain counter. At least it has a cloth on it.",
+    "value": "这是一个普通的柜台。至少上面有一块布。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "How could you see this in the dark?",
+    "value": "你怎样才能在黑暗中看到这个？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "It'sss a counter.",
+    "value": "这是是是一个柜台。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Bored. It's quite plain.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm glad there are no eyes staring out of this one.",
+    "value": "我很高兴没有人盯着这个玩意儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It's plain for a countertop. I enjoy the dark aesthetic.",
+    "value": "这是一个普通的台面。我喜欢黑暗的美学。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Not much to say. It's kinda plain for my likin'.",
+    "value": "没什么可说的。就我的喜好来说这有点太过朴素了。"
+  }
+]

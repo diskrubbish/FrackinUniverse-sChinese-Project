@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A variant of cocoa favored with mustelids. Provides speed boost.",
+    "value": "这种植物是可可的变种，鼬非常的喜欢。可以收获可可荚，食用后会提高移动速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Minkocoa Seed",
+    "value": "可可荚种子"
+  }
+]

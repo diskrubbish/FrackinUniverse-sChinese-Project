@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Corvex is an alien plant with strange chemical properties.",
+    "value": "一种具有奇怪化学性质的未知型植物。可以收获粘合剂。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corvex Sprout",
+    "value": "凸球萌芽种子"
+  }
+]

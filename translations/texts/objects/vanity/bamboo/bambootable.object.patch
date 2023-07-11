@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stylish bamboo table.",
+    "value": "一个时尚的竹桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bamboo Table",
+    "value": "竹桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This bamboo table is very sleek.",
+    "value": "这个竹桌很时尚。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An immensely sturdy bamboo table.",
+    "value": "一个非常坚固的竹桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Table good enough for Floran to ssslice meatsss.",
+    "value": "桌面大到能让叶族人在上面切切切肉了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. A very well-made bamboo table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A cool bamboo table.",
+    "value": "一个凉爽的竹制桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Not usually my kind of table, but this is rather impressive.",
+    "value": "我对于桌子很挑剔，但这张我很满意。"
+  }
+]

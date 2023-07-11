@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A collection of standard gardening tools.",
+    "value": "一套标准的园艺工具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gardening Tools",
+    "value": "园艺工具"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Nothing puts me at ease like tending a garden. It's one of the few comforts Apex civilians have left.",
+    "value": "没有什么比照料花园更让我安心的了。这是猿族平民为数不多的安慰之一。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It appears to be a collection of garden tools.",
+    "value": "这似乎是一套园艺工具。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran doesn't need ssstupid tools to grow things!",
+    "value": "叶族人不需要愚蠢的工具来种植东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confident. With these tools at hand, I'm certain I could make a magnificent garden.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A hoe, a shovel, a rake, a broom... oh hey! Even a hose!",
+    "value": "锄头，铲子，耙子，扫帚...哦，嘿！连一根水管都没有！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The tools of the trade for any green thumb.",
+    "value": "任何一个园艺专家都可以使用的工具。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These here tools could probably double for farm work.",
+    "value": "这些工具可能会加倍用于农活。"
+  }
+]

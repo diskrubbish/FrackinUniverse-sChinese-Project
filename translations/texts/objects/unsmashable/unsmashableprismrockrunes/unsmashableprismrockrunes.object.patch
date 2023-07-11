@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A highly refractive prism with runes engraved into it. Unbreakable!",
+    "value": "一个高度折射的棱镜，上面刻着符文。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prism Crystal",
+    "value": "棱镜水晶"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This prism appears to have runes carved into it.",
+    "value": "这棱镜上似乎刻着符文。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "There are runes on this prism.",
+    "value": "这个棱镜上有符文。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Someone has sscratched runes into this rock.",
+    "value": "有人把符文扔进了这块石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. This prism has runes carved into it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I wonder why there are runes on this crystal.",
+    "value": "我想知道为什么这个水晶上有符文。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This prism has rather mysterious ancient runes carved into it.",
+    "value": "这个棱镜上雕刻着神秘的古符文。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "What's with these runes?",
+    "value": "这些符文是怎么回事？"
+  }
+]

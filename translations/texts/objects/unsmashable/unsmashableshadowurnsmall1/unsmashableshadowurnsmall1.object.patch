@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small, dark vase. Unbreakable!",
+    "value": "一个黑色的小花瓶。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Shadow Urn",
+    "value": "小型影裔瓮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I think I hear something inside...",
+    "value": "我想我听到了什么东西在里面..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These urns look cursed...",
+    "value": "这些骨灰盒看起来被诅咒了。。。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssmash it and tear out its dark inssidess!",
+    "value": "砸砸砸碎它，撕开它黑暗的面纱纱纱！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Destructive. I believe there may be something dark inside.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm almost scared to smash this creepy urn.",
+    "value": "我几乎害怕打碎这个令人毛骨悚然的骨灰盒。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "If you break an urn it's said you get bad luck. I'd hate to think what you'd get from breaking this.",
+    "value": "如果你打碎了瓮，据说你会倒霉。我不想想象你打破这个会得到什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Urns like that are best left alone.",
+    "value": "像那样的骨灰盒最好别碰。"
+  }
+]

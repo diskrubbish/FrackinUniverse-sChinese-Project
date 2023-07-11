@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/scanButton/caption",
+    "raw": "Scan",
+    "value": "浏览"
+  }
+]

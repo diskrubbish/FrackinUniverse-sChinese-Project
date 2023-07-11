@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Debug tool to print clock stuffs to log.",
+    "value": "用于将时钟内容打印至日志的调试工具"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Clock test",
+    "value": "时钟测试"
+  }
+]

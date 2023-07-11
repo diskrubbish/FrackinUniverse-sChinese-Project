@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Avian Gem Top for a spaceship.",
+    "value": "翼族飞船的宝石顶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avian Gem top",
+    "value": "翼族宝石顶"
+  }
+]

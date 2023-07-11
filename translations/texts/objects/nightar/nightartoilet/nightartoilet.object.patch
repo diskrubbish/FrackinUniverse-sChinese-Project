@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Nightar toilet, gets rid of waste in matter of seconds!",
+    "value": "一个夜族厕所，在几秒钟内就可以清除垃圾！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Toilet",
+    "value": "夜族厕所"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A highly advanced comode. You definitely wouldn't see anything this intricate in an Apex residence.",
+    "value": "一种高度先进的复合材料。你绝对不会在猿族住宅中看到如此复杂的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Even their toilets are elegant.",
+    "value": "甚至他们的厕所都很优雅。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran will never stop being amused by flusssh!",
+    "value": "叶族人永远不会停止捧腹大笑！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This toilet functions 0.25428 seconds faster than most known models.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A toilet that gets rid of you know what I mean in matter of seconds.",
+    "value": "一个能在几秒钟内把你从马桶里弄走的马桶，你知道我的意思。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A toilet that gets rid of you know what i mean in matter of seconds.",
+    "value": "一个能在几秒钟内把你从马桶里弄走的马桶，你知道我的意思。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A very fancy toilet.",
+    "value": "非常漂亮的厕所。"
+  }
+]

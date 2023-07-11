@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Neuro Tentacle",
+    "value": "神经触手"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neuro Tentacle",
+    "value": "神经触手"
+  }
+]

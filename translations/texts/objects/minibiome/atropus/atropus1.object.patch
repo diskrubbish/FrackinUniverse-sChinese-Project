@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What the? This is just too strange.",
+    "value": "这是什么？这简直太奇怪了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Organic Oddity",
+    "value": "古怪的有机体"
+  }
+]

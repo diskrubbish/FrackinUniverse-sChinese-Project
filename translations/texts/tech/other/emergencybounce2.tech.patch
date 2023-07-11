@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Idiotically bouncy.",
+    "value": "弹弹的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Moronic Bounce",
+    "value": "低弹力"
+  }
+]

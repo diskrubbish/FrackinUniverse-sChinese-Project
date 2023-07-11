@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Uses sunlight to generate electricity. It can generate much more power than smaller units.",
+    "value": "利用太阳能发电的设备，功率比小型的更高。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Solar Array",
+    "value": "太阳能电池阵列"
+  }
+]

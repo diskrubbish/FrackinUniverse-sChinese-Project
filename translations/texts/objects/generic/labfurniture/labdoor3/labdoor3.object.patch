@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A nice, sturdy glass door.",
+    "value": "一扇既漂亮的又坚固的玻璃门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Laboratory Door",
+    "value": "实验室门"
+  }
+]

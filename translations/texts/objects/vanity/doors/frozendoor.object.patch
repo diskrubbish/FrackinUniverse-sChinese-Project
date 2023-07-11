@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy, and rather heavy.",
+    "value": "结实又沉重。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Heavy Tungsten Door",
+    "value": "沉重的钨门"
+  }
+]

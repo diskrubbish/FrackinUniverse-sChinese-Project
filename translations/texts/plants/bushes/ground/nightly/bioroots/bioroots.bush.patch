@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bunch of curling roots.",
+    "value": "一堆卷曲的根部。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Some curling roots.",
+    "value": "一些卷曲的根部。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Rootssss.",
+    "value": "根根根。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. These look like roots.",
+    "value": ""
+  }
+]

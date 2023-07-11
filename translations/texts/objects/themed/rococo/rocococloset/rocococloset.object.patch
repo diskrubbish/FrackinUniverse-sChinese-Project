@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fancy vintage closet.",
+    "value": "一个精致的老式壁橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rococo Closet",
+    "value": "洛可可式衣柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fine wood closet. It's probably quite pricey.",
+    "value": "一个精致的木制壁橱。可能很贵。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A tall, dark wood closet. The craftsmanship on it is commendable.",
+    "value": "一个又高又暗的木制壁橱。它的工艺值得称赞。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Dark fancy closset.",
+    "value": "黑色花式closset。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Envious. A closet this fine likely costs a fortune.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A designer closet, it looks like.",
+    "value": "一个设计师设计的壁橱，看起来像。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A closet of fine craftsmanship and detail.",
+    "value": "一个做工精细的壁橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's pretty an' all, but wouldn't a regular one work just as fine?",
+    "value": "这是一个很好的例子，但是一个普通的不是也一样好吗？"
+  }
+]

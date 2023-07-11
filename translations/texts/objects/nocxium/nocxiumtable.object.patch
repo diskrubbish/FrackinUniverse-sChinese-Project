@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table made from Nocxium.",
+    "value": "用诺克石做的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nocxium Table",
+    "value": "诺克石桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some sort of horrible table.",
+    "value": "某种可怕的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This makes me uncomfortable.",
+    "value": "这玩意搞得我不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Creepy table! Floran not ssscared, honessst...",
+    "value": "令人毛骨悚然的桌子！叶族人不害怕，老实说..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This table makes my circuits shake.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This table gives me the creeps!",
+    "value": "这张桌子让我毛骨悚然！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An odd looking table. It is... very unpleasant.",
+    "value": "一张奇怪的桌子。它是...非常不愉快。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This table ain't right.",
+    "value": "这张桌子不对。"
+  }
+]

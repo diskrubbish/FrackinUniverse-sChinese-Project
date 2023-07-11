@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Impossibly Acidic Atmosphere (Resist: ^#a10000;Physical^reset;)",
+    "value": "无解酸性大气 (抵抗: ^#a10000;物理^reset;)"
+  }
+]

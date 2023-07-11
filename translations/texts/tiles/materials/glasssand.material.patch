@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shiny, glassy sand.",
+    "value": "光亮透明的沙子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glass Sand",
+    "value": "玻璃沙"
+  }
+]

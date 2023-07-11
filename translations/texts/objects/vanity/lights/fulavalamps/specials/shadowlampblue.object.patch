@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A light blue lava lamp. It gives off a cold glow.",
+    "value": "浅蓝色熔岩灯。它发出冷光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowy Blue Lava Lamp",
+    "value": "暗蓝色熔岩灯"
+  }
+]

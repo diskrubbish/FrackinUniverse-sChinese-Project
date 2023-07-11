@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cuddly, honey guzzling friend!",
+    "value": "一个可爱的、爱吃蜂蜜的朋友！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Teddy Plush",
+    "value": "泰迪毛绒"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A stuffed toy bear. It looks a little grumpy.",
+    "value": "毛绒玩具熊。看起来有点暴躁。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A soft, plush teddy bear. It's awfully cute.",
+    "value": "柔软的毛绒玩具熊。太可爱了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Tiny bear. Floran has fought MUCH bigger.",
+    "value": "小熊。叶族人打得更厉害了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Giddy. What a charming little toy! I could cuddle it all day.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A teddy bear! That little scowl on its face somehow makes it even cuter.",
+    "value": "泰迪熊！它脸上那小小的愁容不知怎的让它更可爱了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "YES! I've been trying to hunt down this plush for weeks!",
+    "value": "对！几周来我一直在寻找这种毛绒！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A toy bear. I don't care for the way it's scowlin' at me.",
+    "value": "玩具熊。我不喜欢它对我怒目而视的样子。"
+  }
+]

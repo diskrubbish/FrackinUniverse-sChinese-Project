@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A telescope that's been rusted away by seafoam.",
+    "value": "被海泡石腐蚀掉的望远镜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corsair's Telescope",
+    "value": "海盗望远镜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This telescope is rusting badly in several places.",
+    "value": "这台望远镜在好几个地方严重生锈。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The glass of this telescope is too clouded to even see through anymore.",
+    "value": "这台望远镜的玻璃太浑浊了，看不透了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes the glass of rusty telescope.",
+    "value": "叶族人喜欢生锈的望远镜。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Frustrated. Clearly this telescope hasn't been maintained. I can't see a thing out of it!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "How'd these pirates get so far with a telescope this broken?",
+    "value": "这些海盗怎么能带着这台坏的望远镜走这么远？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Improper storage has destroyed this instrument, perhaps beyond repair.",
+    "value": "存储不当损坏了这台仪器，可能无法修复。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I don't think anybody'll be usin' this thing any time soon.",
+    "value": "我不认为很快会有人用这个东西。"
+  }
+]

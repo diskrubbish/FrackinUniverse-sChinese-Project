@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The real magic is how much storage space this thing has!",
+    "value": "真正的魔力在于它有多大的存储空间！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wizard's Dresser",
+    "value": "巫师的梳妆台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's kind of small for a dresser, isn't it?",
+    "value": "这对梳妆台来说有点小，不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's a well made dresser, but it doesn't look terribly spacious.",
+    "value": "这是一个做工很好的梳妆台，但看起来空间不大。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Dressser ssmells like fresh wood.",
+    "value": "这些梳妆台闻着像新鲜的木头。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. I'm not quite sure how, but these dresser drawers are actually incredibly spacious inside!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Whoa, I could fit my whole wardrobe in here!",
+    "value": "哇，我可以把我的整个衣橱都放在这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What ingenuity allows for so much space in such a small dresser?",
+    "value": "在这么小的梳妆台上，有什么独创性可以提供这么大的空间？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Well now, this li'l dresser's just full of surprises.",
+    "value": "好吧，现在，这个li'l梳妆台充满了惊喜。"
+  }
+]

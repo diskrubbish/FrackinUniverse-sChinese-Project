@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A miniature alien wood tree in a pot.",
+    "value": "一棵生长在花盆里的迷你外星树木。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Miniture Alien Wood Tree",
+    "value": "迷你外星树木"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This guy looks handsome.",
+    "value": "这家伙看起来很帅。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Decorative Troll Mask",
+    "value": "装饰性巨魔面具"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It looks like a... I don't know.",
+    "value": "看起来像是...我不知道。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This mask is a warning to trolls.",
+    "value": "这个面具是对巨魔的警告。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Birdmen make strange creature look happy.",
+    "value": "鸟人让这个奇怪的生物看起来很高兴。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Puzzled. This creature is unknown to the Glitch.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I have no idea who that is.",
+    "value": "我不知道那是谁。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This troll mask is very accurate.",
+    "value": "这个巨魔面具非常精确。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A strange lookin' face. But a happy lookin' one.",
+    "value": "一张奇怪的脸。但是看起来很幸福。"
+  }
+]

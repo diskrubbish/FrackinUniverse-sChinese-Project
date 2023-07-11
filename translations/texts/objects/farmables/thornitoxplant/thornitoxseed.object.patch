@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Poisonous and spiky. Thornitox could have use in weapons manufacture.",
+    "value": "这是有毒的多刺植物。可以收获棘刺，可用来制作武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thornitox Seed",
+    "value": "棘刺种子"
+  }
+]

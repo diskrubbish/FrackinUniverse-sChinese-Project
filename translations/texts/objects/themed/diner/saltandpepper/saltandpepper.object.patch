@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tabletop salt and pepper shakers.",
+    "value": "桌面盐和胡椒瓶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Salt & Pepper",
+    "value": "盐和胡椒"
+  }
+]

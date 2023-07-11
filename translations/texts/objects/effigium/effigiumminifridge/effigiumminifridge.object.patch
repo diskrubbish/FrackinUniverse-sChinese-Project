@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fridge that fades in and out of existence.",
+    "value": "一个逐渐消失的冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Effigium Mini Fridge",
+    "value": "幻影迷你冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fridge. There seems to be food inside.",
+    "value": "一个冰箱。里面好像有食物。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I can see clearly into this fridge",
+    "value": "我能看清这冰箱里的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cold!",
+    "value": "好冷！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This fridge keeps fading away.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fridge. I can see what's inside without opening the door.",
+    "value": "一个冰箱。我不用开门就能看到里面有什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A food-chilling device.",
+    "value": "食品冷却装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fridge! THere ain't no mystery about what's inside.",
+    "value": "一个冰箱！里面有什么并不神秘。"
+  }
+]

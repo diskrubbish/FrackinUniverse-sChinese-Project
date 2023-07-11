@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Platform",
+    "value": "以太平台"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cosmic platforms made from hardened aether stone..",
+    "value": "由坚硬的以太石制作而成的宇宙平台。"
+  }
+]

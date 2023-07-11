@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Generate a Regen Field ^green;[F]^reset;.",
+    "value": "按^green;[F]^reset;生成一个恢复力场。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Healing Zone",
+    "value": ""
+  }
+]

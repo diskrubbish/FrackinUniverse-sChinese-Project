@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fridge... How is this supposed to work?",
+    "value": "这居然是个冰箱...但它是如何运转的呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Fridge",
+    "value": "永燃冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fridge. How anything keeps cold is a mystery.",
+    "value": "一个冰箱。但这货是如何保持寒冷的，这是一个谜。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This shouldn't be possible.",
+    "value": "这是不可能的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cold! But... Floran feelsss it'sss hot?",
+    "value": "冷！但是...叶族人觉得很热？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. How is the food fresh?!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fridge. It's very hot on the outside, but the food is still cold.",
+    "value": "一个冰箱。外面很热，但食物还是冷的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A food-chilling device that seems to be too hot for its purpose.",
+    "value": "一种食物冷冻装置，似乎太热而不能使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fridge! It's mighty hot.",
+    "value": "冰箱！但似乎看上去很烫。"
+  }
+]

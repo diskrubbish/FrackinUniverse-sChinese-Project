@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mega strength Flutter Jump with low-grav.",
+    "value": "强力的浮空跳，带有低重力效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Gravity Jump",
+    "value": "重力之跃"
+  }
+]

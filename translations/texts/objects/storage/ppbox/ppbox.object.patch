@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The signature bright green and yellow cardboard box of Prop Packaging.",
+    "value": "道具包装的标志性亮绿色和黄色纸箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prop Packaging Box",
+    "value": "道具包装盒"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A delivery box. But of what?",
+    "value": "一个投递箱。但是里面是什么呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A bright package, left unopened.",
+    "value": "一个明亮的包裹，还没有打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "What iss in pretty yellow box?",
+    "value": "漂亮的黄色盒子里有什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. What is a package doing out here? Is it for me...?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I didn't even know they made cardboard in these colors.",
+    "value": "我甚至不知道他们用这种颜色做纸板。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Whoever shipped this package out certainly is dedicated to their brand.",
+    "value": "无论是谁把这个包裹运出，肯定都是为了他们的品牌。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Well don't mind if I do.",
+    "value": "好吧，如果我这么做的话，请不要介意。"
+  }
+]

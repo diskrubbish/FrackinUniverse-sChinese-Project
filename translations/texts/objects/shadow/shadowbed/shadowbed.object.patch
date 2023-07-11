@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dark bed that looks more like a coffin...",
+    "value": "一张黑暗的床，看起来更像是一个棺材..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowy Bed",
+    "value": "阴影床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'm not sure that I should like to sleep here.",
+    "value": "我不确定我应不应该喜欢睡在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This looks more like a tomb than a bed...",
+    "value": "比起床更应该称它为坟墓..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran doesssn't like thisss bed.",
+    "value": "叶族人不不不喜欢这张床。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. My power levels are low, but this bed is too ominous.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This bed creeps me out.",
+    "value": "这张床把我吓出来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It seems like you wouoldn't get much sleep in this...",
+    "value": "看起来你不会在这里睡太久的..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I wouldn't step one foot in there, no sir.",
+    "value": "我不会将我的脚迈进一步，不，先生。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Springvault intensifies leg-muscle effectiveness by a large amount.",
+    "value": "可以收获春季卷，食用后会提高弹跳力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Springvault Seed",
+    "value": "春季卷种子"
+  }
+]

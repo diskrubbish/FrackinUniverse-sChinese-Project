@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chest made of Proto Stone.",
+    "value": "由原体矿打造的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proto Chest",
+    "value": "原体箱子"
+  }
+]

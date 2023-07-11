@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rough, unrefined mudstone.",
+    "value": "粗糙的，未经提炼的泥岩。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mudstone Block",
+    "value": "泥岩块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Mudstone.",
+    "value": ""
+  }
+]

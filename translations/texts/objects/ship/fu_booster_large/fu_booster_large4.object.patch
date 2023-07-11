@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large sub-light thruster. Greatly increases interplanetary travel speed.\n^yellow;Ship Speed: +48\n^cyan;BYOS Only^reset;",
+    "value": "一座大型的亚光速推进器。大大提高际旅行的速度。\n^yellow;飞船速度+48\n^cyan;只限BYOS^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Ship Booster Mk4",
+    "value": "大型飞船推进器Mk4"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A booster. These have been known to malfunction and explode.",
+    "value": "一组加速器。它们因为容易出故障和爆炸而为人所熟知。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A booster, the wings of a ship.",
+    "value": "一组推进器，飞船的翅膀。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssscary fire.",
+    "value": "可可可怕的火焰"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analyse. Temperature too high to measure.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This thing eats through fuel.",
+    "value": "这家伙很会消耗燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Propulsion.",
+    "value": "推进装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This flame 'ere has a powerful kick.",
+    "value": "这火焰有很强的冲击力。"
+  }
+]

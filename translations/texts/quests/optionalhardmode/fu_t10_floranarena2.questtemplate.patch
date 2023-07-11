@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Dark 'Lord' Volo Mort",
+    "value": "黑暗“主宰”伏地魔"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Signature leads to another nasty place full of awful badness. But it's best we have. Go win, bring shiny, and...no die. Okay?",
+    "value": "签名指向另一个充满可怕的坏事的讨厌的地方。但这是我们拥有的最好的东西。去赢得胜利，带来闪亮，并且......不死。答应我？"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Another dead body, another signature with a message. \"No sandwiches.\" This Kevin worries mew. Something isn't right.",
+    "value": "另一具尸体，另一个带有信息的签名。“不是三明治。”这个凯文让喵很担心。有些事不对。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "raw": "Use the ^orange;Silver Arena Beacon^reset;",
+    "value": "使用^orange;白银竞技场信标^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "raw": "Win the arena battle",
+    "value": "赢下竞技场的战斗"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "raw": "Return to ^orange;Khe^reset; at the ^orange;Science Outpost^reset;",
+    "value": "回到^orange;科学前哨站^reset;去找^orange;溪^reset;"
+  }
+]

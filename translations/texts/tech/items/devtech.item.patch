@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I certainly hope you're a developer.",
+    "value": "那你一定不是开发者了罢。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Secret dev tech",
+    "value": "秘密开发中的科技"
+  }
+]

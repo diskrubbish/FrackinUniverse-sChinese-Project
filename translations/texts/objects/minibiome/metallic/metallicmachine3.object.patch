@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A massive, barely functional data storage of unknown design.",
+    "value": "利用未知科技制作的大型储存数据的设备。已经无法运作了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Data Storage",
+    "value": "数据储存器"
+  }
+]

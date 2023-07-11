@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Destroys all collision within a 3x3 area, intended for bugfixing. ^red;Deletes foreground tiles.^reset;",
+    "value": "破坏3x3区域内的所有碰撞，用于修复错误。^red;移除前景方块。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Collision Fixing Tool",
+    "value": "碰撞修复工具"
+  }
+]

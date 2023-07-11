@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An unknown, rusty piece of technology",
+    "value": "一个未知的，而且已经生锈了的技术设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rusted technology",
+    "value": "生锈的技术设备"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This object is advanced, but useless now.",
+    "value": "这个设备很先进，但现在用不了了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "There's no telling what this technology was for.",
+    "value": "到底这台设备是做什么的？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran unsure what thing is, but sure it broken.",
+    "value": "叶族人不确定这是什么，但能肯定的是它坏坏坏了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pondering. Who would make such technology only to abandon it?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Whoever made this was technologically advanced, but its purpose is lost.",
+    "value": "谁制作出来这种先进的设备的呢？不过他现在却把它丢在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This technology is impressive; what happened to its creators?",
+    "value": "这台存在的设备的制作工艺真令人震惊，它的制作者到底遇到了什么？"
+  }
+]

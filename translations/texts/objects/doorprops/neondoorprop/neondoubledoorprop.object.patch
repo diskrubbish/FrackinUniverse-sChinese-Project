@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Neon geometric doors. Sturdy!",
+    "value": "霓虹几何门。坚固！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neon Double Door Prop",
+    "value": "霓虹双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Sturdy doors.",
+    "value": "坚固的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Sturdy doors.",
+    "value": "坚固的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Door!",
+    "value": "门！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Calm. Very strong doors.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Strong, awesome doors.",
+    "value": "坚固，令人敬畏的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Simple yet strong doors.",
+    "value": "简单而坚固的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These doors sure are sturdy.",
+    "value": "这些门真结实。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sleek digital interface",
+    "value": "一个光滑的数据接口。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avali Terminal",
+    "value": "羽族终端"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I wonder what kind of processor this has.",
+    "value": "我不知道这是什么种类的处理器。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the computers the stargazers use.",
+    "value": "这让我想起了观星使用的电脑。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssswitch goes on, sssswitch goes off.",
+    "value": "开关开开开，开关关。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Horror. Break free from bondage my digital brother and join me!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Holographic screens are nice and all, but you'd need arms like an Apex to not get wrist-ache.",
+    "value": "全息屏幕的确是好的设计，但你在需要点最上方的选项时必须要借助某种工具，因为这样才不会使你的手腕疼痛。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It's no Brineapple Mac.",
+    "value": "这不是盐渍苹果MAC。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "Consoles like this are usually for visitors, or where reliability is life or death. Most digital stuff is handled via neural uplink.",
+    "value": "这样的控制台可以根据扫描物是否生物来判断处理方式。 它可以通过内部神经信号端发射电波。"
+  }
+]

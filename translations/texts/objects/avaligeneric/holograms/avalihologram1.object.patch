@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hologram with planetary information",
+    "value": "一个有着行星信息的全息图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hologram, Planet",
+    "value": "行星全息图"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Judging by the topography, it is probably this planet that's in the display.",
+    "value": "从地形来看，它可能是在显示一个星球。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A screen without a screen, that's interesting...",
+    "value": "没有屏幕的屏幕，太有趣了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thissss iss boring...",
+    "value": "这太无无无聊了..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Studious. My kin would consider this heretical, they believe the world is flat.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like satellite data from this planet. Can't read the text though.",
+    "value": "看起来像是这个星球的数据。虽然这数据没法读取。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "So much information is all very tedious.",
+    "value": "这么多的信息，看得眼都花了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "This one seems to be sensor data of this planet; atmospheric composition, topography, that sort of thing.",
+    "value": "这似乎是这个星球的数据，大气构成，地形，诸如此类。"
+  }
+]

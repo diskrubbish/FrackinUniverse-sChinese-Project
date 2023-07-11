@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pleasantly sweet juice made from an alien fruit.",
+    "value": "一杯外星水果制成的甜果汁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alien Fruit Juice",
+    "value": "外星果汁"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Isss juice grape flavored?",
+    "value": "是是是葡萄汁味的吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. My scanners aren't detecting anything suspect in this drink. It should be safe.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Can't be too off from grape, can it?",
+    "value": "葡萄味不能太淡，不是吗？"
+  }
+]

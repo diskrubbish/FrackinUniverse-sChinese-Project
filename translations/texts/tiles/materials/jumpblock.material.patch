@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Increases your jump height.",
+    "value": "增加你的跳跃高度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Jump Block",
+    "value": "跳跃方块"
+  }
+]

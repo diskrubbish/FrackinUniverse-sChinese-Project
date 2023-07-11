@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A haunch of... something and a boneboo garnish.",
+    "value": "一束...不知名物体和一个处骨竹装饰。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Plant Kitchen Counter^reset;",
+    "value": "^orange;叶绿厨房柜台^reset;"
+  }
+]

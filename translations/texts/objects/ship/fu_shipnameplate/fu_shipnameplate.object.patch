@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fancy plaque made to commemorate a ship. Displays its name, type and construction date. Break to reset ship name.",
+    "value": "纪念一艘飞船的精致牌匾。显示其名称、类型和建造日期。破坏以重置船名。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fancy Ship Plaque",
+    "value": "精致的船牌"
+  }
+]

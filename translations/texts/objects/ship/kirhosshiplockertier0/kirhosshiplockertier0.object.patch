@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Store some stuff, why don't you?",
+    "value": "往里面存储一些物品吧，为什么不呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shiplocker",
+    "value": "飞船储物柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The ship's storage system. It's not currently functional.",
+    "value": "这是一个飞船的存储系统。但它现在并不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A device that holds many items. It appears to function differently from our own. This one is not on.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssstorage. It'sss not on.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Stating the obvious. A Kirhosi storage system. It is not on.",
+    "value": "显而易见的。一个Kirhosi存储系统。它不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A storage device, seems to function a lot like my own. This one isn't on.",
+    "value": "一个存储系统。它的功能看起来像我的一样强大。这一个不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An elegant storage solution. It's not currently powered.",
+    "value": "一个优雅的存储方案。但它现在并不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/kirhosDescription",
+    "raw": "A slick storage rig with an ICE-3 encrypted lock.  No way I can hack this.  Maybe I can reset it?",
+    "value": "一个灵活的存储设备，带有一个ICE-3加密锁。我不可能破解掉它，或许我可以重置它？"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "A slick storage rig with an ICE-3 encrypted lock.  No way I can hack this.  Maybe I can reset it?",
+    "value": "一个灵活的存储设备，带有一个ICE-3加密锁。我不可能破解掉它，或许我可以重置它？"
+  }
+]

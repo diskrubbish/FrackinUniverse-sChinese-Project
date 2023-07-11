@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A place to store all your various valuable possessions.",
+    "value": "一个用来存放你的各种宝物的柜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hi-tech Cabinet",
+    "value": "高科技小柜子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Hi-tech Cabinet.",
+    "value": "高科技小柜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Hi-tech Cabinet.",
+    "value": "高科技小柜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hi-tech Cabinet.",
+    "value": "高科技小柜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Hi-tech Cabinet.",
+    "value": "高科技小柜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hi-tech Cabinet.",
+    "value": "高科技小柜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Hi-tech Cabinet.",
+    "value": "高科技小柜子。"
+  }
+]

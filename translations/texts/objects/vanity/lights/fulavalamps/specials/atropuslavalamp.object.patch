@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp filled with what looks to be pus. The outer flesh pulses.",
+    "value": "装满看起来像脓液的东西的灯。外部的肉在跳动。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flesh Lava Lamp",
+    "value": "血肉熔岩灯"
+  }
+]

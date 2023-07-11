@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rough and unrefined, this golden wood looks freshly chopped.",
+    "value": "这种金色的木材看上去就像刚刚劈出来的一样，非常粗糙。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Unrefined Golden Wood",
+    "value": "未处理的金色木材"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Novel. This unrefined wood has a golden hue.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Unssstabbed wood is pretty.",
+    "value": "未未未处理的金色木材看起来很棒。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This wood might be rough, but it sure is purty.",
+    "value": "这种木材看上去显得粗糙，但是颜色却很纯粹。"
+  }
+]

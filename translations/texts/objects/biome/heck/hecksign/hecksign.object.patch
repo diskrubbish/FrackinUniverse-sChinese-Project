@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A very welcoming sign.",
+    "value": "一个欢迎标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Heck Sign",
+    "value": "血界标志"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Welcome to Heck. Well that's nice.",
+    "value": "欢迎来到血界，说得真好。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What a surprisingly cheery sign.",
+    "value": "这个标志真是令人惊讶。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran think this sssay, all you can eat.",
+    "value": "叶族人认为这是是是说，这所有的肉都可以吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. Someone clearly wants me to feel at home.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Abandon hope all ye who enter?",
+    "value": "放弃生存希望的人才会来这里？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What a crudely-made sign.",
+    "value": "这真是一个粗制滥造的标志。"
+  }
+]

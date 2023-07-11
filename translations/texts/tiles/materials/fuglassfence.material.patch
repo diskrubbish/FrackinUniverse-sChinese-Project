@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A modern fencing made of steel and glass.",
+    "value": "用钢和玻璃制成的现代栅栏。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tempered Iron Fence",
+    "value": "钢化铁栅栏"
+  }
+]

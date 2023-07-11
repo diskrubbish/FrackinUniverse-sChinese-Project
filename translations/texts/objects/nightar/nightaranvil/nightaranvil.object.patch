@@ -1,0 +1,110 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An advanced bit of tech Nightarian people use to draft weapons and armor. Source unknown.",
+    "value": "一台夜族复制器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blessing of She",
+    "value": "夜族复制器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "raw": "An advanced bit of tech Nightarian people use to draft weapons and armor. Source unknown.",
+    "value": "一台夜族复制器。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "raw": "Blessing of She",
+    "value": "夜族复制器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Nightar Replicator",
+    "value": " 夜族复制器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Armor, weapons, and gear",
+    "value": " ^#b9b5b2;盔甲，武器和装置"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "raw": "An advanced bit of tech Nightarian people use to draft weapons and armor. Source unknown.",
+    "value": "一台夜族复制器。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "raw": "Blessing of She",
+    "value": "夜族复制器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Nightar Replicator",
+    "value": " 夜族复制器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Armor, weapons, and gear",
+    "value": " ^#b9b5b2;盔甲，武器和装置"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "raw": "An advanced bit of tech Nightarian people use to draft weapons and armor. Source unknown.",
+    "value": "一台夜族复制器。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "raw": "Blessing of She",
+    "value": "夜族复制器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Nightar Replicator",
+    "value": " 夜族复制器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Armor, weapons, and gear",
+    "value": " ^#b9b5b2;盔甲，武器和装置"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/3/itemSpawnParameters/description",
+    "raw": "An advanced bit of tech Nightarian people use to draft weapons and armor. Source unknown.",
+    "value": "一台夜族复制器。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/3/itemSpawnParameters/shortdescription",
+    "raw": "Blessing of She",
+    "value": "夜族复制器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/3/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Nightar Replicator",
+    "value": " 夜族复制器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/3/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Armor, weapons, and gear",
+    "value": " ^#b9b5b2;盔甲，武器和装置"
+  }
+]

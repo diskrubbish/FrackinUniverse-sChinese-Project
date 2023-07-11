@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "So long as you watch out for the thorns, these are delicious.",
+    "value": "只要你小心荆棘，这些都很好吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thorn Fruit Basket",
+    "value": "刺果篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These fruit don't look very appealing...",
+    "value": "这些水果看起来不太吸引人..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Strange thorny fruits.",
+    "value": "奇异多刺的果实。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssspiky fruitsss... good for throwing!",
+    "value": "尖利的水果...很适合投掷！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. These thorny fruits seem well protected against hungry wildlife.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Some strange, thorny fruits.",
+    "value": "一些奇怪的带刺的水果。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These fruits protect their precious water fiercely...",
+    "value": "这些水果有力地保护着它们珍贵的水..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Looks like some kinda other worldly cactus!",
+    "value": "看起来像是另一种仙人掌！"
+  }
+]

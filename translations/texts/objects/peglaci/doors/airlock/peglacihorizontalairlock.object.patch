@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An airlock - protects from water and closes automatically after a moment.",
+    "value": "一个气闸-保护免受水和关闭后一刻自动。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Airlock Door",
+    "value": "合金气闸门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This door looks watertight and heavy.",
+    "value": "这扇门看起来防水又重。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This looks like it could stop water from getting through.",
+    "value": "这看起来能阻止水通过。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Heavy, wet door.",
+    "value": "沉重潮湿的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A waterproof door with automated sealing procedures.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Nice door - heavy duty.",
+    "value": "漂亮的门【重型】。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "We use doors like this in our domiciles - ours are much finer, of course.",
+    "value": "我们在家里使用这样的门——当然，我们的门要精细得多。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This looks like it could stop water from getting through.",
+    "value": "这看起来能阻止水通过。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "We use these doors in our settlements to prevent water infiltration into our homes. Water's nice, but being dry has its perks!",
+    "value": "我们在定居点使用这些门来防止水渗入我们的家。水很好，但是干燥有它的好处！"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sparkling crystalline sand.",
+    "value": "闪闪发光的水晶沙。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystalline Sand",
+    "value": "结晶沙"
+  }
+]

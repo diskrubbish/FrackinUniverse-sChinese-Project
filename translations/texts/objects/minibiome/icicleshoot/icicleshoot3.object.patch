@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A type of ice plant that looks like a spear.",
+    "value": "一种看起来像矛的冰态植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Icicle Shoot",
+    "value": "冰柱芽"
+  }
+]

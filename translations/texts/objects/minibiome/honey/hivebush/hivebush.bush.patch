@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small hive.",
+    "value": "一个小蜂巢"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hive",
+    "value": "蜂巢"
+  }
+]

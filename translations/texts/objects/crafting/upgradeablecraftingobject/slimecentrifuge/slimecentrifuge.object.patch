@@ -1,0 +1,230 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The Biochemist table is used to change the bonds between slimes.",
+    "value": "生化工作台，是用来改变粘液之间的化学键。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Biochemist Table^reset;",
+    "value": "^orange;生化制作台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "raw": "The Biochemist table is used to change the bonds between slime.",
+    "value": "生化工作台能用来改变粘液中的化学键。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Biochemist Table^reset;",
+    "value": "^orange;生化制作台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "raw": "A Biochemist table. The Apex haven't used these like they're used here.",
+    "value": "生化工作台。猿人们并没有像史莱姆一样使用它们。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "raw": "I don't like glass bottles, these are almost invisible to us.",
+    "value": "我不喜欢玻璃瓶，我们几乎看不见它们。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "raw": "Very sssothing, goo sssalvation.",
+    "value": "非常好好好，很好的解解解决。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "raw": "Confused. The Glitch don't know the purpose of these Biochemist tables.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "raw": "A biochemist table, these were used alot when the earth was still whole.",
+    "value": "这是一张生化工作台，当地球还是完整的时候，人们经常使用它。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "raw": "Probably used to mix elements.",
+    "value": "这玩意可能是用来混合元素的。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "raw": "Ah, biochemistry, lovely aspect of science.",
+    "value": "啊，生物化学，科学的可爱面。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/slimepersonDescription",
+    "raw": "I can bond other slime here.",
+    "value": "我可以把其他粘液在这里粘连。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Biochemist Table",
+    "value": " 生化制作台"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Slimy stuff",
+    "value": " ^#b9b5b2;粘糊糊的东西"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "raw": "The Biochemist centrifuge is used to change the bonds between slime.",
+    "value": "生化离心器，用来改变粘液之间的化学键。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Biochemist Centrifuge^reset;",
+    "value": "^orange;生化离心机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "raw": "A forge. I can use titanium and other materials here.",
+    "value": "一台锻造机。我可以在这里使用钛和其他材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "raw": "A forge for creating equipment out of metal.",
+    "value": "非金属装备的锻造机。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "raw": "Floran make ssstrong weapon on sssstation.",
+    "value": "叶族人可以在这工工工作站制制制造强大的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "raw": "Eager. I can make titanium equipment and more here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "raw": "This forge let's me craft equipment out of metal!",
+    "value": "这台锻造机让我用非金属制造装备！"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "raw": "A crafting station dedicated to creatin' equipment out of metal.",
+    "value": "一处专门用金属以外的制造装备的工作站。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "raw": "This forge will come in handy for creatin' equipment out of metal.",
+    "value": "这台锻造机将会在用非金属装备制造方面派上用场。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/slimepersonDescription",
+    "raw": "I can bond other slime here.",
+    "value": "我可以把其他粘液在这里粘连。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Biochemist Centrifuge",
+    "value": " 生化离心机"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Slimy stuff",
+    "value": " ^#b9b5b2;粘糊糊的东西"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "raw": "The Biochemist Microseparator is used to change the bonds between slime.",
+    "value": "生化微分器能用来改变粘液中的化学键。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Biochemist Microseparator^reset;",
+    "value": "^orange;生化微分器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+    "raw": "A replicator. I can create high quality equipment with this.",
+    "value": "一台复制机。我可以用这个创造出高质量的设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
+    "raw": "I can turn ores into good quality equipment from here.",
+    "value": "我可以从这里把矿石变成高质量的装备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+    "raw": "Floran make ssstrong weapon here.",
+    "value": "叶族人可以在这里制制制造强大的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+    "raw": "Neutral. I can make equipment and more with this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
+    "raw": "I can create super strong equipment from this replicator.",
+    "value": "我可以用这台复制机制造出超级强大的装备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+    "raw": "This replicator enables me to create high quality equipment from good quality materials.",
+    "value": "这个复制机使我能够用高质量的材料制造高质量的装备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+    "raw": "I can make myself some great equipment using this replicator.",
+    "value": "我可以用这台复制器给自己做一些很棒的装备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/slimepersonDescription",
+    "raw": "I can bond other slime here.",
+    "value": "我可以把其他粘液在这里粘连。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Biochemist Microseparator",
+    "value": " 生化微分器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Slimy stuff",
+    "value": " ^#b9b5b2;粘糊糊的东西"
+  }
+]

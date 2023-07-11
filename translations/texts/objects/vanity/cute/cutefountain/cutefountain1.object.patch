@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute fountain. The water looks refreshing.",
+    "value": "一个可爱的喷泉。这里的水看起来很清澈。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Fountain",
+    "value": "可爱的喷泉"
+  }
+]

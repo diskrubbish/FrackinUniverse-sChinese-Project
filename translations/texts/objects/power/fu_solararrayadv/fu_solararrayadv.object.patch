@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The ultimate in solar generation technology. In ideal conditions this can generate over ^orange;24W^reset; of power.",
+    "value": "终极的太阳能发电技术。在最佳条件下可产生最高^orange;24W^reset;电力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Solar Tower^reset;",
+    "value": "^cyan;太阳能塔^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The Miniknog tends not to care about renewable energy. There are all manner of theories as to why.",
+    "value": "科技发展部倾向于不关心可再生能源。至于原因，我姑且蒙在鼓里。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Just one of the many uses of the sun.",
+    "value": "这只是太阳的许多用途之一。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Machine get power from sssun like plant. Floran like it.",
+    "value": "这个机器可以得到太阳的力力力量。叶族人喜欢它。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analytical. Atmospheric interference means this panel will generate less power at low altitudes.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I hope it doesn't rain. That'd block out the sun!",
+    "value": "真希望不会下雨。那会挡住太阳的！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Only structures close to the surface of the ocean can use these. A pity.",
+    "value": "只有在海洋之外的地方才能使用这种设备。可惜。"
+  }
+]

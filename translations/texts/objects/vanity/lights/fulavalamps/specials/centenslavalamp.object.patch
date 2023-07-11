@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp filled with an ancient Centensian liquid.",
+    "value": "装满古代百年液体的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Centensian Lava Lamp",
+    "value": "百年熔岩灯"
+  }
+]

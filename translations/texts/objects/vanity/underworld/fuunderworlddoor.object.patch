@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perhaps the creepiest door in the neighborhood",
+    "value": "这门有点意思。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flesh Door",
+    "value": "血肉门"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "  Nightar Furnace",
+    "value": "夜族熔炉"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Classic Nightarian blacksmith furnace.",
+    "value": "经典夜族铁匠炉。"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "a classic Nightarian blacksmith furnace.",
+    "value": "一个经典的夜族铁匠炉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightarian Furnace",
+    "value": "夜族熔炉"
+  }
+]

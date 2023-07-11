@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Heal 50%",
+    "value": "回复50%的生命值"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This jar has seen better days. Unbreakable!.",
+    "value": "这个罐子有更好的日子。牢不可破！。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fancy Temple Jar",
+    "value": "花式庙宇罐"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The carvings are worn here. The pot looks ready to smash.",
+    "value": "这里的雕刻是磨损的。这个罐子看起来要打碎了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This jar would have been decorated with images of Kluex. It may contain items made as an offering.",
+    "value": "这个罐子会装饰上克鲁克斯的肖像。它可能包含作为产品制作的物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Jar all worn out, ready to be sssmashed.",
+    "value": "罐子都磨损了，准备被砸碎。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. The material is brittle and easy to break.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This thing looks like it might fall apart at the slightest touch. I wonder if there's anything inside.",
+    "value": "这东西看起来一碰就碎了。我不知道里面有什么东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The markings on this jar are no longer discernible. It may contain something of use, however.",
+    "value": "这个罐子上的记号已经看不见了。然而，它可能包含一些有用的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This fragile jar looks perfect for shootin' at.",
+    "value": "这个易碎的罐子看起来非常适合射击。"
+  }
+]

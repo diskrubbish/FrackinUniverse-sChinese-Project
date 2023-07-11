@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An FTL drive for a space ship. Allows interstellar travel. ^orange;Ship Speed: +3, Ship Mass: +1^reset;. ^red;BYOS Only^reset;",
+    "value": "星际飞船的超光速引擎。允许你进行星际旅行。 ^orange;飞船速度+3，飞船质量+1^reset;。\n^red;只限BYOS^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Small FTL Drive^reset;",
+    "value": "^cyan;小型FTL引擎^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Smaller than most models, but it works. For now.",
+    "value": "虽然比大多数型号都小，但目前还算可行。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This small device gathers electricity and converts it into motion.",
+    "value": "这个小装置收集电能并将其转化为动能。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "FTL drive sssmall, but Floran make do.",
+    "value": "FTL引擎很小，不过叶族人只能凑合了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Content. This FTL drive works enough for space travel.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Small, but an FTL drive is a must have for any ship.",
+    "value": "虽然很小，但是超FTL引擎对于任何飞船来说都是必备的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A smaller model FTL drive for intergalactic travel.",
+    "value": "更小型号的FTL引擎，为星系际旅行打造。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This faster'n 'light machine is workin' fine, though it's quite small.",
+    "value": "这台FTL引擎工作得很好，虽然它很小。"
+  }
+]

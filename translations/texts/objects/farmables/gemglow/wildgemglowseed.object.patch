@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A salty plant that is resistant to gravity.",
+    "value": "一种耐水性极强的碱性植物。可以收获宝石果，食用后可免疫小型和大型重力雨。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gemglow Seed",
+    "value": "宝石果种子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This strange plant seems to be a natural means of desalinization.",
+    "value": "这种奇怪的植物很可能是一种自然的海水淡化方式。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The rind is unbearably salty, but the pulpy flesh inside tastes a bit like lightly salted corn.",
+    "value": "外皮有着无法忍受的咸味，但内部的茎块味道有点像放了些许盐的玉米。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssalty outssside. Inssside tassstes like corn.",
+    "value": "外面咸。里面味道道道像玉米。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Intrigue. The faceted surface appears to be a mineral rind deposited by fibrous tubules.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It looks like rock candy. It tastes like the inside of a full salt shaker.",
+    "value": "它看起来像透明硬糖。不过它里面的味道像盐。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "You may as well eat pure salt. It could be useful in dilute amounts as a seasoning.",
+    "value": "你可以吃纯盐。因为你可以另外食用它作为稀释盐的方式。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Boy, I could sure go fer some moonshine on the rocks.",
+    "value": "哥们，我可以肯定在这块石头上我会想出一些不切实际的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/kinepticDescription",
+    "raw": "Potability in a pot. The plant uses mineral-saturated water to form the rind of the fruit.",
+    "value": "Potability in a pot. The plant uses mineral-saturated water to form the rind of the fruit。"
+  }
+]

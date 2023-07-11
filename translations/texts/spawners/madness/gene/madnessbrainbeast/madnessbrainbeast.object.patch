@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A horrifying companion that hungers for the nerve stem of foreign brains.",
+    "value": "一个可怕的伙伴，渴望着外来者大脑的神经干。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ghast",
+    "value": "恶魂"
+  }
+]

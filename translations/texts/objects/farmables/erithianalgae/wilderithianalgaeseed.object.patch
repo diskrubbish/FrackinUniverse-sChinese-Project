@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mutant strain of algae loaded with energy.",
+    "value": "这种突变藻类的体内蕴含着巨大的能量。可以收获埃里西安藻豆荚，这是非常不错的燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Erithian Algae Seed",
+    "value": "埃里西安藻豆荚种子"
+  }
+]

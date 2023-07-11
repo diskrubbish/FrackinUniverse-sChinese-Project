@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A convenient wall-mounted medical kit. Safety first!",
+    "value": "方便的壁挂式医疗包。安全第一！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mounted First Aid Kit",
+    "value": "急救箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This kit should have all the necessary supplies for a medical emergency.",
+    "value": "这套装备应该具备医疗急救所需的所有用品。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Bandages, salves, disinfectant... This is a very well stocked kit.",
+    "value": "绷带，药膏，消毒剂...这是一个库存充足的工具包。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wrapss for healing injuriess.",
+    "value": "用于治疗创伤。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A first aid kit. I should keep note of where one is just in case.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This kit's large enough to hold a bunch lot of supplies.",
+    "value": "这个工具箱足够大，可以装很多东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Very well stocked. Someone clearly had safety at the foremost of their mind in making this kit.",
+    "value": "库存充足。很明显，有人在制作这套装备时把安全放在了首位。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Maybe it ain't a doctor, but it's the next best thing.",
+    "value": "也许不是医生，但这是下一个最好的选择。"
+  }
+]

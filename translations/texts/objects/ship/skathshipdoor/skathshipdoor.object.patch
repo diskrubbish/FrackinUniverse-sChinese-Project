@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A door suitable for a spaceship.",
+    "value": "一扇适用于飞船的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Ship Door",
+    "value": "绘世者船舱门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These doors are used on all our ships.",
+    "value": "我们所有的船都用这些门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A spaceship door.",
+    "value": "一扇飞船门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssspaceship door.",
+    "value": "飞飞飞船门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Proud. A ship door.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Cool door.",
+    "value": "很酷的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A basic spaceship door.",
+    "value": "基本的飞船门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A door.",
+    "value": "一扇门。"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stops transmitting signals for 2 seconds whenever it becomes active.",
+    "value": "当激活时会让脉冲信号中断2s。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Inv. 2-Sec. Pulse Transmitter",
+    "value": "反脉冲发射器(2s)"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Stopsss transssmitting sssignalsss for 2 sssecondsss whenever it becomesss active.",
+    "value": "当激活时会让脉冲信信信号中断2s。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. Stops transmitting signals for 2 seconds whenever it becomes active.",
+    "value": ""
+  }
+]

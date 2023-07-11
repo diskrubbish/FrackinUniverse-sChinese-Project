@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A planter box of toxic wildflowers.",
+    "value": "一盒有毒野花。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toxic Wildflowers.",
+    "value": "有毒的野花。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These are poisonous? I never would have guessed.",
+    "value": "这些有毒吗？我永远也猜不到。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I believe this flowers are only dangerous if ingested. Still, I ought to keep them out of my bunny's reach.",
+    "value": "我相信这些花只有被吞食才会有危险。不过，我还是应该把它们放在兔子够不着的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty and deadly! Like Floran. Hehe.",
+    "value": "美丽而致命！像叶族人那样。呵呵。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Horrified. Apparently these flowers can kill if ingested in even small amounts.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A little more deadly than your average dandelion.",
+    "value": "比一般蒲公英更致命。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Nature's most beautiful creations are often its most potently deadly, are they not?",
+    "value": "大自然最美丽的创造物往往是最具杀伤力的，不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'd best not scarf down a handful o' these.",
+    "value": "我最好不要用围巾把这些东西裹起来。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wall mounted lamp made from lunari.",
+    "value": "由月晶制成的壁灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Wall Lamp",
+    "value": "月晶壁灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An extremely bright wall lamp.",
+    "value": "非常明亮的壁灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the sun.",
+    "value": "这让我想起了太阳。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssunssshine lightsss!",
+    "value": "太阳，阳光，灯火！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uncomfortable. This lamp almost fries my optics.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This wall lamp is like a star!",
+    "value": "这盏壁灯像一颗星星！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This lamp almost reminds me of the sun.",
+    "value": "这盏灯几乎使我想起了太阳。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This wall lamp is brighter than me!",
+    "value": "这盏壁灯比我还耀眼！"
+  }
+]

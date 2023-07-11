@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chair made from sweet biscuits. It's sturdy, so long as you avoid milk.",
+    "value": "用甜饼干做成的椅子。它很结实，只要你不喝椰奶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sweets Chair",
+    "value": "糖果椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A chair made of biscuits... Would a little nibble hurt?",
+    "value": "饼干做的椅子...咬一口会疼吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A distractingly peckable chair.",
+    "value": "一把容易分心的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "If Floran eats chair, they won't have anywhere to ssit! But it ssmells so good...",
+    "value": "如果叶族人吃了椅子，他们就没有地方可以吃了！但它太棒了..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Baffled. How on earth is this chair able to stand, let alone support someone?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A chair made out of cookies. Not sure how that works, but it's cool either way!",
+    "value": "用饼干做成的椅子。不知道这是怎么回事，但不管怎样都很酷！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'll sit somewhere else, thanks.",
+    "value": "我会坐在别的地方，谢谢。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's sweet, alright. But can I actually sit on it?",
+    "value": "很甜蜜，好吧。但我能坐在上面吗？"
+  }
+]

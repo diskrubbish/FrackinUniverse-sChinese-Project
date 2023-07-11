@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Small Front Engine for a spaceship.",
+    "value": "宇宙飞船的小型前置引擎。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Novakid Small Front Engine",
+    "value": "星之子飞船小型前置引擎"
+  }
+]

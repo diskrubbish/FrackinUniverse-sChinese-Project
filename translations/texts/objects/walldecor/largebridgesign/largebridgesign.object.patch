@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sign designating a bridge.",
+    "value": "指示桥的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bridge Sign",
+    "value": "桥牌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It seems there's a bridge ahead.",
+    "value": "前面好像有座桥。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A bridge apparently is nearby.",
+    "value": "附近显然有座桥。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssign for bridge.",
+    "value": "桥的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. This sign signifies a nearby bridge.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like there's a bridge nearby.",
+    "value": "看起来附近有座桥。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This huge sign informs me that there is a bridge nearby.",
+    "value": "这个巨大的标志告诉我附近有一座桥。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A big sign for a bridge.",
+    "value": "一座桥的大标志。"
+  }
+]

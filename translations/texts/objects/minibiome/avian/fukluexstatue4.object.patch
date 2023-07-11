@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A battered and broken statue of Kluex.",
+    "value": "一个破旧的克鲁西斯雕像。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kluex Statue",
+    "value": "克鲁西斯雕像"
+  }
+]

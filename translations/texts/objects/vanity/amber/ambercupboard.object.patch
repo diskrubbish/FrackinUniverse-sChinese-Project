@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shiny. The amber really catches light!",
+    "value": "看起来很闪亮。琥珀很适合做这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Amber Cabinet",
+    "value": "琥珀柜子"
+  }
+]

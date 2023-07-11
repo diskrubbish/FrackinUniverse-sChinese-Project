@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sign designating a farmer's market.",
+    "value": "指向农贸市场的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Market Sign",
+    "value": "市场标志"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Fresh produce is such a luxury back home, I'd best take advantage of this while I'm here.",
+    "value": "新鲜农产品在国内是一种奢侈品，我在这里的时候最好利用它。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The sight of an open market makes me feel at home.",
+    "value": "看到一个开放的市场，我感到宾至如归。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Will marketplace have meatstuffs for ssale?",
+    "value": "市场上会有肉食吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delighted. A marketplace! Let's hope there's a variety of goods for sale.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ooh, a farmer's market? Wonder what kind of produce they have for sale off Earth...",
+    "value": "哦，农贸市场？想知道他们在地球上有什么样的产品出售..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'll have to try and sample as many different crops as I can.",
+    "value": "我得试着尽可能多地品尝不同的作物。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The sight of so many fancy crops in one place is a might dizzyin', I tell ya.",
+    "value": "我告诉你，在一个地方看到这么多花哨的庄稼，可能会让人头晕目眩。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Looks exactly like another famous painting, but crappier.",
+    "value": "看起来和另一幅名画一模一样，只不过更糟糕。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Starscape",
+    "value": "星空"
+  }
+]

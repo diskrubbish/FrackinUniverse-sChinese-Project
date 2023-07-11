@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A seashell! Unbreakable",
+    "value": "海贝！牢不可破"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Seashell",
+    "value": "贝壳"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Seashells sometimes collect treasures inside.",
+    "value": "贝壳有时会在里面收集宝藏。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Seashells are real treasures of nature.",
+    "value": "贝壳是大自然真正的珍宝。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Seashell sssmashable! What is inside?",
+    "value": "海贝太棒了！里面是什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Sentimental. It seems a shame to smash a seashell.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This seashell was once home to an alien creature. Now it has pixels inside!",
+    "value": "这个贝壳曾经是一个外星生物的家。现在里面有像素了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A seashell, the ocean's memento mori to us all.",
+    "value": "贝壳，海洋对我们所有人的纪念。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I don't mind smashing a few seashells as long as they fork over the pixels.",
+    "value": "我不介意砸碎几个贝壳，只要它们有像素。"
+  }
+]

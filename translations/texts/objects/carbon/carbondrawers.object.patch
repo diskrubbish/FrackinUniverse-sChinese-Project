@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A set of drawers made from carbon.",
+    "value": "碳制的一套抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Drawers",
+    "value": "碳抽屉"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These drawers are lighter than they look.",
+    "value": "这些抽屉比它们看起来要轻。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A simple looking set of drawers.",
+    "value": "一套看起来简单的抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssseesss it isss drawersss.",
+    "value": "叶族人觉觉觉得那是是是一套抽抽抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A set of drawers.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "They are simple, but they look nice and sleek.",
+    "value": "它们很简单，但是看起来很漂亮，很时髦。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The design is simple, I wouldn't mind these in my room.",
+    "value": "设计很简单，我不介意把它放在我的房间里。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This set of drawers is mighty simple, but it's pretty.",
+    "value": "这套抽屉非常简单，也很漂亮。"
+  }
+]

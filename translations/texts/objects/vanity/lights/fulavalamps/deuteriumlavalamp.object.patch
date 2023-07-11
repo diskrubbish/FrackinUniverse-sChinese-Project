@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp filled with liquid Deuterium. Its light is almost blinding.",
+    "value": "一盏注满了液态氘的灯。它的光亮几乎闪瞎了我的眼睛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Deuterium Lava Lamp",
+    "value": "液氘熔岩灯"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Only 5p/per gallon!",
+    "value": "每加仑仅5便士！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gas Pump",
+    "value": "气泵"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Have they raised the prices AGAIN? This is getting ridiculous...",
+    "value": "他们又涨价了吗？这太荒谬了..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "For every incident on some moon, Letheia just keeps spiking the price of fuel...",
+    "value": "在某个月球上发生的每一件事，莱西亚都在不断地提高燃料的价格..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hates the sssmell of gasoline.",
+    "value": "叶族人讨厌汽油味。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Frustrated. Letheia's monopoly on erchius is making intergalactic travel near impossible these days.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "If I didn't know any better, I'd say Letheia's making these 'ghost encounters' up for profit.",
+    "value": "如果我不知道的话，我会说莱西亚为了赚钱而编造这些【鬼魂遭遇】。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These prices are practically highway robbery!",
+    "value": "这些价格简直是公路抢劫！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "At these prices, I'm just about willin' to risk these \"ghosts\" myself for some free fuel.",
+    "value": "在这样的价格下，我很乐意冒着这些【鬼魂】的危险去买一些免费的燃料。"
+  }
+]

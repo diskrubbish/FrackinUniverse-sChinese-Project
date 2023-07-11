@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Letter H.",
+    "value": "字母H。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Letter H",
+    "value": "字母H"
+  }
+]

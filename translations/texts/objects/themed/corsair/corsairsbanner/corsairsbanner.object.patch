@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cheery wall banner embroidered with a skull and crossbones.",
+    "value": "绣有骷髅和十字骨的欢快的墙上旗帜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corsair's Banner",
+    "value": "海盗船旗"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Well that's not a good sign.",
+    "value": "这可不是什么好兆头。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I don't think anyone who flies banners like this mean me well.",
+    "value": "我认为任何悬挂这样横幅的人对我都不好。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstylish banner! Floran approves.",
+    "value": "时尚横幅！叶族人同意了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Sarcastic. Oh goody, there's pirates around.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "... I get the feeling these aren't the fun \"yar har har\" kinda pirates.",
+    "value": "... 我觉得这不是那种有趣的海盗。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The emblem of thieves and ruffians.",
+    "value": "小偷和流氓的象征。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't no good coming from people wavin' banners with skulls on 'em.",
+    "value": "人们挥舞着印有头骨的横幅是没有好处的。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rough, unrefined gritstone.",
+    "value": "粗糙，未经提炼的粗砂岩。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gritstone Block",
+    "value": "粗砂岩块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Gritstone.",
+    "value": ""
+  }
+]

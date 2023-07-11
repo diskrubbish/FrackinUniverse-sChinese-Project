@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A selection of alcohol and hamsters.",
+    "value": "酒精和仓鼠的选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bar Stock",
+    "value": "棒材"
+  }
+]

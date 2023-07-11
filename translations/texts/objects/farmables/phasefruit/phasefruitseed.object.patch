@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A plant that somehow phases between dimensions.",
+    "value": "一种在不同维度之间转换相位的植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Phasefruit Seeds",
+    "value": "相位果种子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A truly amazing plant! I need to do some research.",
+    "value": "一种真的很神奇的植物！我需要做一些研究。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Is it real? Very strange combination...",
+    "value": "这是真的吗？非常奇怪的组合..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thiss plant isss ssso sssstrange!",
+    "value": "这这这种植物真是是是太太太奇奇奇怪了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Interested. This looks delicious.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Eating this would probably be fatal. Let's give it a try!",
+    "value": "吃这个可能是致命的。让我们试一试吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Wonderful harmony of technology and nature!",
+    "value": "科技与自然的完美和谐！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A good old phasefruit!",
+    "value": "一个好的老相位果！"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cabinet made from cultivated crystal.",
+    "value": "由人工水晶制成的柜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Cabinet",
+    "value": "水晶橱柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A cabinet. Useful.",
+    "value": "一个柜子，可真有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A cabinet. The crystals look beautiful.",
+    "value": "一个橱柜，这水晶看着针不戳。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran knowsss thisss isss a cabinet.",
+    "value": "叶族人知道道道这这这是是是个橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. This cabinet is beautiful.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty fancy cabinet.",
+    "value": "一个蛮花哨的橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A good place to store items.",
+    "value": "一个存放物品的好地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty fancy cabinet.",
+    "value": "一个极其奢华的橱柜。"
+  }
+]

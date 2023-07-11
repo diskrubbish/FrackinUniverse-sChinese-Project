@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Glitch Tower section for a spaceship.",
+    "value": "太空船的电子人塔部分。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glitch Tower section",
+    "value": "电子人塔截面"
+  }
+]

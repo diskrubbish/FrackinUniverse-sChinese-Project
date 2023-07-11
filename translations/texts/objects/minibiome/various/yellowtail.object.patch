@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Yellowtail",
+    "value": "黄色的尾巴"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Yellowtail",
+    "value": "黄色的尾巴"
+  }
+]

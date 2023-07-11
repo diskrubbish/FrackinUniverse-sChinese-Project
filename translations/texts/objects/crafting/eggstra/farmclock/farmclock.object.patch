@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tick, tock, tick, tock.",
+    "value": "滴答，滴答，滴答。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wall Clock",
+    "value": "壁钟"
+  }
+]

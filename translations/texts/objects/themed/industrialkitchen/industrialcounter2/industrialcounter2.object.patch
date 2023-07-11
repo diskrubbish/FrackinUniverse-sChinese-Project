@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A restaurant-grade kitchen countertop. The surface is nonstick and easy to clean!",
+    "value": "餐厅级厨房台面。表面不粘，易于清洁！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Industrial Kitchen Counter",
+    "value": "工业厨房柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'm not entirely used to seeing this much stainless steel outside of Miniknog facilities.",
+    "value": "我不太习惯在科技发展部工厂外面看到这么多不锈钢。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A steel countertop that's been polished to a mirror-like sheen.",
+    "value": "一个钢制台面，被打磨成镜面般的光泽。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "There's no nickss in this counter.",
+    "value": "这个柜台没有刻痕。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A highly hygienic cooking surface.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This countertop should be easy to clean after even the messiest of meals.",
+    "value": "即使在最混乱的一餐之后，这个台面也应该很容易清洁。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The sort of quality countertop you'd expect in a fine dining establishment.",
+    "value": "这是你在一家高档餐厅所期望的那种高质量台面。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A cool flat space for preppin' food.",
+    "value": "准备食物的凉爽平坦空间。"
+  }
+]

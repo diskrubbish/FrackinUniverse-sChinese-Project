@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sign with a honeybee on it.",
+    "value": "说明这里有蜜蜂。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honeybee Sign",
+    "value": "蜜蜂告示牌"
+  }
+]

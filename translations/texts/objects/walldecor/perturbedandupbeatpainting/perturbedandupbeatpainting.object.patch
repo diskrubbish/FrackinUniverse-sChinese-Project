@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What an odd pair.",
+    "value": "多奇怪的一对啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "\"Perturbed & Upbeat\"",
+    "value": "“心烦意乱且乐观”"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Why is the little one so angry?",
+    "value": "小家伙为什么这么生气？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A Koala and Giraffe... I don't get it. What's the connection?",
+    "value": "考拉和长颈鹿。。。我不明白。有什么联系？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "It'ss a Two-for-One value meal!",
+    "value": "这是一顿二合一的正餐！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. The smaller creature is trying and failing to look intimidating.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Aw, look at the little guy piggybacking off his buddy.",
+    "value": "哦，看那个小家伙背着他的朋友。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Though this painting's message is unclear, the adorableness of its two subjects is not.",
+    "value": "虽然这幅画传达的信息不清楚，但它的两个主题的可爱程度却不清楚。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Lookin' at this takes me back, for some reason.",
+    "value": "看了这一幕，我又想起了过去，不知什么原因。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A robust, roman-style sofa.",
+    "value": "结实的罗马式沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Roman Sofa",
+    "value": "罗马沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I suppose the designers of this bench forwent back support in favor of style.",
+    "value": "我想这条长凳的设计师们支持时尚。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An awfully ornate looking couch. I suppose it belonged to someone very rich.",
+    "value": "一张非常华丽的沙发。我想它属于一个非常富有的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Curvy sssofa is covered in so much gold...",
+    "value": "曲线沙发上覆盖着那么多黄金..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Envious. Easily a bench fit for a king.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Any reason this couch's so... curvy?",
+    "value": "这沙发为什么这么...弯曲的？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such wasteful application of gold to ornament a bench is an embarrassment.",
+    "value": "这种浪费黄金来装饰长凳的做法令人尴尬。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It sure is fancy alright. But can actually it hold anyone up?",
+    "value": "真是太棒了。但它真的能阻止任何人吗？"
+  }
+]

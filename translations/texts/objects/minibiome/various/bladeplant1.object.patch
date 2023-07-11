@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Blade plant",
+    "value": "刀锋植物"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blade plant",
+    "value": "刀锋植物"
+  }
+]

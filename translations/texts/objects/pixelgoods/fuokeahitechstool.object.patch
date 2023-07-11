@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Get blasted at the space-bar!",
+    "value": "酒吧打斗就是用的这种武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hi-tech Stool",
+    "value": "高科技凳子"
+  }
+]

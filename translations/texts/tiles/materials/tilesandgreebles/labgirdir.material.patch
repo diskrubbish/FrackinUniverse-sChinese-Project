@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strong looking plasteel girder.",
+    "value": "一个非常结实的塑钢梁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasteel Girder",
+    "value": "塑钢梁"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An incredibly sturdy barrel wood table.",
+    "value": "一张非常结实的木桶桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corsair's Table",
+    "value": "海盗桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This table is terribly heavy. No doubt to keep it steady on a rocking ship.",
+    "value": "这张桌子太重了。毫无疑问，要在摇晃的船上保持稳定。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A spacious table, if a little salty.",
+    "value": "一张宽敞的桌子，如果有点咸的话。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Is there ssstorage inside big barrel?",
+    "value": "大木桶里有储藏室吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A table fashioned from a large barrel.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Where'd they get a barrel big enough to make this table anyway?",
+    "value": "他们从哪里弄来的桶大到可以做这张桌子？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A shoddy table made from a barrel.",
+    "value": "用桶做成的劣质桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This must've come from an awfully big barrel.",
+    "value": "这一定是来自一个非常大的桶。"
+  }
+]

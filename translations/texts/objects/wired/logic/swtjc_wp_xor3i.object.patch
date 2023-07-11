@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An /'XOR'/ gate. Requires an odd number of inputs to be on, and the rest off.",
+    "value": "一个异或门。需要接入奇数的输入节点才能激活/ON/。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "XOR Gate (3 Inputs)",
+    "value": "异或门(三输入)"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "An /'XOR'/ gate. Requiresss an odd number of inputsss to be on, and the ressst off.",
+    "value": "这是是是一个异或门。需要接入奇奇奇数的输入节点才能激活/ON/。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. An /'XOR'/ gate. Requires an odd number of inputs to be on, and the rest off.",
+    "value": ""
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An odd potted flower; chilly, with petals like rhombuses.",
+    "value": "一朵奇怪的盆栽花；寒冷且花瓣呈菱形。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Potted Geometric Flower",
+    "value": "盆栽几何花"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An odd blue flower.",
+    "value": "一朵奇特的蓝色花。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This flower has no scent at all.",
+    "value": "这朵花一点香味也没有。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty.",
+    "value": "很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. An attractive flower.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Uh... What the heck is this, actually?",
+    "value": "额，这TM到底是啥？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This plant has edges so perfectly straight that almost it looks fake. And yet...",
+    "value": "这种植物的边缘非常直，看起来几乎都是假的。然而..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Weirdest shaped plant I've ever seen, I'll tell ya.",
+    "value": "我会告诉你，这是我见过的形状最奇怪的植物。"
+  }
+]

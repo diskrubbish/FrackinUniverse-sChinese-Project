@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ornate Window Lattice",
+    "value": "华丽的窗格"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A simple lattice made of treated wood.",
+    "value": "一种用经过处理的木头制成的简易格子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Inspired. This lattice functions well as either a fence or window.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran like crisss crosssy wood.",
+    "value": "叶族人喜欢交交交错着的木头。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Thin wood strips all criss crossin' together.",
+    "value": "薄木板都交错在一起。"
+  }
+]

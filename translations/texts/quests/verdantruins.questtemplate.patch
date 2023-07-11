@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^green;The Verdant Ruins",
+    "value": "^green;翠绿遗址"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "The map shows me how to get to some ancient, overgrown ruins. It supposedly holds a wealth of Floran artifacts.",
+    "value": "这张地图指引我通往古老的翠绿遗址，听说其内有着大量的叶族文物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Explore the Verdant Ruins.",
+    "value": "探索翠绿遗址。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Well, looks like the ruins weren't as abandoned as I thought they would be. Did I manage to discover all of its secrets?",
+    "value": "好吧，看起来这废墟并没有被叶族遗弃，我是否把这里的秘密都找到了呢？"
+  }
+]

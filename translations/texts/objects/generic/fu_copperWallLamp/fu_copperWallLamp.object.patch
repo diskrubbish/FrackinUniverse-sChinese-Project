@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small wall-mounted lamp made from copper.",
+    "value": "一种小型壁灯，由铜制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Copper Wall Lamp",
+    "value": "小型铜壁灯"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stellar desk, for when you want to break reality for your Gaming PC.",
+    "value": "一个恒星办公桌，让你的游戏PC突破现实。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Desk",
+    "value": "星辰书桌"
+  }
+]

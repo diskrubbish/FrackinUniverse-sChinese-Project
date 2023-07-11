@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A 4-bit sequencer. Can directly change to one of its 16 inputs, as well as cycle between them.",
+    "value": "一个4-Bit定序器。可以通过改变十六个输入接口的其中一个，来使它们循环运转。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "4-Bit Sequencer (With Inputs)",
+    "value": "4-Bit定序器(可输入)"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "4-bit sssequencccer. Can directly change to one of itsss 16 inputsss, asss well asss cccycle between them.",
+    "value": "一个4-Bit定序器。可以通通通过改变十六个输入接口的其中一个，来使它们们们循环运转。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Fascinated. A 4-bit sequencer. Can directly change to one of its 16 inputs, as well as cycle between them.",
+    "value": ""
+  }
+]

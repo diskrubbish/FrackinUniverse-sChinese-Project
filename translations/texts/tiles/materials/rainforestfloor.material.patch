@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Soft, pliable rainforest floor",
+    "value": "柔软地铺在雨林的地面上。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rainforest Leaves",
+    "value": "雨林花瓣"
+  }
+]

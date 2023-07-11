@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chair made from penumbrite.",
+    "value": "用半影矿制成的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbrite Chair",
+    "value": "半影椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A chair similar to the style of the Hylotl.",
+    "value": "类似鲛人风格的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the Hylotl.",
+    "value": "这让我想起了鲛人。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fisssh perssson chair.",
+    "value": "鱼人椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A chair with a complicated design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This chair looks like something from a Hylotl village!",
+    "value": "这张椅子看起来像鲛人村的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This chair almost reminds me of our own craftsmanship.",
+    "value": "这把椅子几乎让我想起了我们自己的手艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This chair is mighty fancy like them Hylotl folk make.",
+    "value": "这把椅子很别致，就像鲛人做的一样。"
+  }
+]

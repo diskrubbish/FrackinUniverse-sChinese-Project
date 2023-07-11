@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wooden shelf with a stylish pattern embedded on the base.",
+    "value": "底座上嵌有时尚图案的木架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alpine Shelf",
+    "value": "阿尔卑斯木架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What an adorable little kitchen shelf.",
+    "value": "多么可爱的小厨房架子啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Looks like this shelf is stocked well with spices and other ingredients.",
+    "value": "看起来这个架子上堆满了香料和其他配料。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmall ssshelf.",
+    "value": "Sssmall ssshelf。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. The ingredients in this shelf are neatly organized.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A small, cutesy kitchen shelf.",
+    "value": "一个小巧可爱的厨房架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "From the wood down to the pattern, this shelf is simply delightful.",
+    "value": "从木材到图案，这个架子简直令人愉悦。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A tiny li'l shelf for a kitchen.",
+    "value": "厨房用的小架子。"
+  }
+]

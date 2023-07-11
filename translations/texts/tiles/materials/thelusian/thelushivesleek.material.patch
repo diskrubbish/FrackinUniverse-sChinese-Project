@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Slim, contoured and light.",
+    "value": "轻薄，骨干和发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Sleek Resin",
+    "value": "蚁族圆滑树脂"
+  }
+]

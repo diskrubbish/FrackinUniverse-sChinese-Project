@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stellar bed, now you can sleep on the stars rather than under them.",
+    "value": "一张恒星床，现在你可以睡在恒星上而不是在它们下面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Bed",
+    "value": "星辰床"
+  }
+]

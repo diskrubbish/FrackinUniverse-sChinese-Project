@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Old timber, decayed with age.",
+    "value": "陈旧的木材，随着岁月腐烂了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Old Timber",
+    "value": "陈旧的木材"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some crafted planks of wood that have seen better days.",
+    "value": "一些精心制作的木板，至少曾经是完好的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Wood that's been crafted into planks... and left to rot.",
+    "value": "被加工成木板的木头...任其腐烂。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Dissatisfied. These wood planks are rotten and old.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Rotten wood plankss.",
+    "value": "腐烂掉的木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Some old, decayed planks made from wood.",
+    "value": "一些由木头制成的的腐朽旧木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Decayed wood planks.",
+    "value": "腐烂的木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some rotten lookin' wood planks.",
+    "value": "一些腐烂的木板。"
+  }
+]

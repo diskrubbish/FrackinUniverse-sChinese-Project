@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Techy telebrium paneling. Don't lick it.",
+    "value": "高科技的月海隔热板。别舔。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Tech Panel",
+    "value": "月海科技板"
+  }
+]

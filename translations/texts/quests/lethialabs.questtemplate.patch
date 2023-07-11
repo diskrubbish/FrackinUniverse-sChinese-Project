@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^green;Letheia Labs",
+    "value": "^green;莱西亚实验室"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "The map is broadcasting a distress signal, along with coordinates to a remote lunar facility. Perhaps I should investigate.",
+    "value": "在这份地图的坐标地点一直发送着某个求救信号，或许我应该调查清楚到底发生何事。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Investigate the distress signal.",
+    "value": "调查求救信号来源。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Having survived this horrific place, I must follow S.A.I.L.'s instructions and destroy it. There's no time to waste!",
+    "value": "我必须遵循S.A.I.L的提示在这可怕的地方生存下来，并摧毁目标。快行动，没时间了！"
+  }
+]

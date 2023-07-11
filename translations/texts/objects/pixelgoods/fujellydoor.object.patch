@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's all soft and bouncy-like! Wee!",
+    "value": "它如同我想的一样，是那么软又有弹性！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Jelly Door",
+    "value": "果冻门"
+  }
+]

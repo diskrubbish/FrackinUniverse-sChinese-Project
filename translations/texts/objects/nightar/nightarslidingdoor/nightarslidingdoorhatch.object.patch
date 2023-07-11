@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pure obsidian hatch.",
+    "value": "一个纯黑曜石的舱口。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Obsidian Hatch",
+    "value": "黑曜石舱口"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A locker. Store some stuff, why don't you?",
+    "value": "飞船储物柜，能够储存很多物品。为什么不把多余的东西装进去呢？\n^#B8860B;可在飞船用家具定制台调整种族风格^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ship Locker",
+    "value": "飞船储物柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The ship's storage system. It's not currently functional.",
+    "value": "这是一个飞船的存储系统。但它现在并不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A device that holds many items for safe keeping. It's broken at the moment.",
+    "value": "一个可以安全地存储许多物品的设备。但它现在坏掉了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssstorage. It'sss not working.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Distressed. This ship's storage system is malfunctioning.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A storage locker. It doesn't seem to be working.",
+    "value": "一个储物柜。它似乎不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An elegant storage solution. It's not currently powered.",
+    "value": "一个优雅的存储方案。但它现在并不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A locker. Ain't much use 'til it's fixed.",
+    "value": "一个储物柜。在修好之前没有多大用。"
+  }
+]

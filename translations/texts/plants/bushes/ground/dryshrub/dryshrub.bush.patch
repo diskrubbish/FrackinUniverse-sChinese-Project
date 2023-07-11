@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dry shrub.",
+    "value": "一个干灌木丛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A dry shrub.",
+    "value": "一个干灌木丛。"
+  }
+]

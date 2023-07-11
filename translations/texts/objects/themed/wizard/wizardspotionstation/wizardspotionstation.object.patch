@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "We need... to brew!",
+    "value": "我们需要... 调制！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Potion Brewery",
+    "value": "魔药酿造台"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "  Potion Brewery",
+    "value": "  魔药酿造站"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Double, double; toil and trouble...",
+    "value": "  加倍；加倍；辛苦和麻烦..."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I really oughtn't mess with these tools until I know what they do...",
+    "value": "在弄清楚这些工具的用途之前，我真的不应该乱动它们.."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A brewing station? Perhaps I can try my hand at it.",
+    "value": "一个酿酒站？也许我可以试试。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Smells ssuspicious. And sstinky.",
+    "value": "闻起来很可可可可疑，而且很臭。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. There already seems to be quite the collection of ingredients around this brewing station.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hm... What makes a Magicka damaging poison, again?",
+    "value": "嗯... 又是什么造就了魔法的破坏性毒药？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This is either a very primitive display of medical practice... Or uncharted scientific territory.",
+    "value": "这要么是非常原始的医疗实践展示..要么是未知的科学领域。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "None of these ingredients smell too great. Does that mean they're workin'?",
+    "value": "这些成分闻起来都不太好，这是否意味着它们有效？"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lavish bird-shaped jar. Unbreakable!",
+    "value": "一个奢华的鸟形罐子。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Big Bird Jar",
+    "value": "大鸟罐"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A large bird-shaped jar. I wonder if there's anything inside...",
+    "value": "一个鸟形的大罐子。我想知道里面有没有什么。。。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These jars were built to transport Avian property into the afterlife.",
+    "value": "这些罐子是用来将翼族人的财产运到来世的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssilly bird jar ssmash easy.",
+    "value": "愚蠢的鸟罐，简单的捣碎。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. Is there treasure inside this jar?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A large smashable bird jar.",
+    "value": "一个可打碎的大鸟罐。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Can I truly avoid smashing this?",
+    "value": "我真的能避免打碎这个吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This big ol' bird jar looks perfect for target practice.",
+    "value": "这个大鸟罐看起来非常适合打靶练习。"
+  }
+]

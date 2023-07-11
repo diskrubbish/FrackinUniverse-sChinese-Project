@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stock up on all the essentials- brandy, whiskey, and gin!",
+    "value": "储备所有必需品——白兰地、威士忌和杜松子酒！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shop Counter, Novakid",
+    "value": "商店柜台，星之子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "All of these drinks are far past the legal alcohol content in Apex territory.",
+    "value": "所有这些饮料都远远超过了猿族地区的法定酒精含量。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Everything served here is so heavy. I can't say I care for it.",
+    "value": "这里供应的东西都很重。我不能说我喜欢它。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Do starman serve anything like drysssap?",
+    "value": "史达曼有像Dryssap这样的服务吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. The drinks here are disturbingly heavy, even for a liquor store.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "So an Apex, a Glitch, and a Novakid walk into a bar...",
+    "value": "一个猿族，一个小故障，一个星之子走进酒吧..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This counter reeks appallingly of alcohol.",
+    "value": "这个柜台散发出令人震惊的酒味。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These are fine an' all, but where's the dandelion root pop?",
+    "value": "这些都很好，但是蒲公英根在哪里？"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A literal stick in the mud.",
+    "value": "我经常用它搅泥浆。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tent Pole",
+    "value": "帐篷杆"
+  }
+]

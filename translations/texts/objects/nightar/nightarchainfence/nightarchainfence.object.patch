@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fence to keep the unwanted out of your yard.",
+    "value": "一道栅栏，将不受欢迎的人挡在院子外面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Chain Fence",
+    "value": "夜族链式栅栏"
+  }
+]

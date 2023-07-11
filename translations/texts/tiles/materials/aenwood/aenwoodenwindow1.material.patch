@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Window",
+    "value": "暗木窗户"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A window with wooden panes, made of Aetheric Glass.",
+    "value": "用以太玻璃制成的木质窗格。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delighted. This window helps brighten the room, as if the wood didn't.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty windowss, Floran can see outside.",
+    "value": "漂亮的窗户，叶族人可以看到外面。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now I can look at the stars through stars, as a star.",
+    "value": "现在我可以透过星星看星星，就像一颗星星。"
+  }
+]

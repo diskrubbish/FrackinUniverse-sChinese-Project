@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Knowledge thought lost, ancient beyond reckoning.",
+    "value": "知识思维丧失，古老超越清算。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Texts",
+    "value": "古代文本"
+  }
+]

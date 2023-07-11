@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A beautiful flower.",
+    "value": "美丽的花。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A beautiful flower.",
+    "value": "美丽的花。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty.",
+    "value": "很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. An attractive flower.",
+    "value": ""
+  }
+]

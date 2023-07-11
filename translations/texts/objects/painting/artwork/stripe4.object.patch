@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tasteful and elegant.",
+    "value": "高贵优雅。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stripe 4",
+    "value": "条纹 4"
+  }
+]

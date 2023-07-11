@@ -1,0 +1,134 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You may need a new cochlea if I ever play this!",
+    "value": "如果我玩这个，你可能需要一个新的耳蜗！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Perfect Organ",
+    "value": "完美风琴"
+  },
+  {
+    "op": "replace",
+    "path": "/felinDescription",
+    "raw": "Anyone who plays so grim and aberrant an instrument like this needs to be shot on sight.",
+    "value": "任何一个演奏如此冷酷和反常的乐器的东西都需要一枪毙命。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "For so much effort lavished upon its creation, the music it produces is far from beautiful.",
+    "value": "由于在创作上付出了如此多的努力，它所创作的音乐一点也不美。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Proof that a perfect machine can produce imperfect music.",
+    "value": "证明完美的机器可以产生不完美的音乐。"
+  },
+  {
+    "op": "replace",
+    "path": "/bothanDescription",
+    "raw": "A pipe organ with inbuilt lighting, for use in theatre productions.",
+    "value": "一种内置照明的管风琴，用于戏剧制作。"
+  },
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Perfect machine. Imperfect music. Auditory assault!",
+    "value": "完美的机器。不完美的音乐。听觉攻击！"
+  },
+  {
+    "op": "replace",
+    "path": "/rodianDescription",
+    "raw": "I'd rather listen to the worst cantina singing than a recital on this .... device.",
+    "value": "我宁愿听最差的酒馆唱歌，也不愿听关于这个的独奏会...。装置"
+  },
+  {
+    "op": "replace",
+    "path": "/zabrakDescription",
+    "raw": "I'm too afraid to even consider what tunes should be played on this device.",
+    "value": "我太害怕了，甚至不敢考虑在这个设备上应该播放什么曲子。"
+  },
+  {
+    "op": "replace",
+    "path": "/togrutaDescription",
+    "raw": "Is this a machine? or a musical instrument?",
+    "value": "这是机器吗？还是乐器？"
+  },
+  {
+    "op": "replace",
+    "path": "/tuskanDescription",
+    "raw": "Not many of my kind on my own planet have had the chance to practise working with these machines.",
+    "value": "在我的星球上，没有多少我这样的人有机会练习操作这些机器。"
+  },
+  {
+    "op": "replace",
+    "path": "/sithDescription",
+    "raw": "There must be a way to convert the discordant and jarring sounds of this instrument into a sonic-based weapon.",
+    "value": "肯定有一种方法来转换不和谐和震动的声音，然后让这个仪器成为一个声波为基础的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "There must be a way to convert the discordant and jarring sounds of this instrument into a sonic-based weapon.",
+    "value": "肯定有一种方法来转换不和谐和震动的声音，然后让这个仪器成为一个声波为基础的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/diathimDescription",
+    "raw": "I've never understood how these devices work.",
+    "value": "我一直不明白这些设备是怎么工作的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Never have I ever in my life ever heard such an awful cacophony.",
+    "value": "我这辈子从来没有听过这么刺耳的声音。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssso many different coloured butonssss. Floran afraid to presssss one!",
+    "value": "这这这么多不同颜色的按按按钮。叶族人不敢按按按！"
+  },
+  {
+    "op": "replace",
+    "path": "/mawgDescription",
+    "raw": "I'm gettin' a lotta bad vibes simply by listenin' to a single note from this monster.",
+    "value": "听到这个怪物的一个音符，我就感到很不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An electronic organ that nevertheless can evoke awe and wonder like any portative pipe organ.",
+    "value": "一种电子管风琴，尽管如此，它仍能像任何便携式管风琴一样唤起人们的敬畏和惊奇。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now there's some music fer the crazed souls o' the universe.",
+    "value": "现在这里有一些音乐适合漫游在宇宙中的疯狂灵魂。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Apprehensive. This keyboard instrument is electronically powered, not pneumatically.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/kirhosDescription",
+    "raw": "By Azakon Reticuli, this is such a rad instrument!",
+    "value": "由Azakon Reticuli设计，这是一个如此精密的仪器！"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "By Azakon Reticuli, this is such a rad instrument!",
+    "value": "由Azakon Reticuli设计，这是一个如此精密的仪器！"
+  }
+]

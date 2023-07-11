@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Gale Lily",
+    "value": "狂风百合"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gale Lily",
+    "value": "狂风百合"
+  }
+]

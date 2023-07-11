@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What an ugly jar. Unbreakable!",
+    "value": "多难看的罐子啊。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ugly Temple Jar",
+    "value": "丑陋的寺庙坛子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An unattractive jar. Little care has gone into this.",
+    "value": "一个不好看的罐子。这件事没有引起多少注意。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This jar would have been produced by initiates. It's quite ugly.",
+    "value": "这个罐子应该是由同修们制作的。很难看。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ugly jar. Floran will sssmash!",
+    "value": "丑陋的罐子。叶族人会成功的！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Intrigued. Smashing this jar may reveal what's inside.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Let's break this one open. It's very unattractive.",
+    "value": "让我们打开这个。这很不吸引人。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There is no value here. Let's break it open.",
+    "value": "这里没有价值。我们把它打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I could use this jar for some target practice.",
+    "value": "我可以用这个罐子练习打靶。"
+  }
+]

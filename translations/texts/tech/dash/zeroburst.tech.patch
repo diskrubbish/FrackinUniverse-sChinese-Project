@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;[Double-tap Up]^reset; to explode upward! Harms foes!",
+    "value": "^green;[双击上键]^reset;进行爆炸跳跃！痛击你的敌人！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Zero Burst I",
+    "value": "爆炸跳跃 I"
+  }
+]

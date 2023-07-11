@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ocean plants",
+    "value": "海洋植物"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ocean plants",
+    "value": "海洋植物"
+  }
+]

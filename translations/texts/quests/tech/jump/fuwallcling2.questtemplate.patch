@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Power Grip",
+    "value": "能量攀附"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I've managed to think of a cool upgrade to the Magnet Grip! I should be able to apply some advanced science to it and really grip with power!",
+    "value": "我想到一个好点子提升磁吸攀附！先进的科学使得磁吸攀附变得更为出色了。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Now, when I grip walls, I should get defensive bonuses and increased energy...sapped right from the material itself! Also, W and S allow me to travel up and down.",
+    "value": "每当我附着在墙上时，能够提高我的防御回复我的能量...另外我还能够使用^green;[W]^reset;或^green;[S]^reset;上下移动。"
+  }
+]

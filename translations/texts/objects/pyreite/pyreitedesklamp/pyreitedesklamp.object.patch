@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An orange desk lamp. It feels like it's on fire.",
+    "value": "橙色台灯。感觉像是着火了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Desk Lamp",
+    "value": "永燃台灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This light doesn't seem practical.",
+    "value": "这盏灯看起来不实用。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A harsh light.",
+    "value": "刺眼的光线。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Light is bright, too hot for Floran.",
+    "value": "光线明亮，对叶族人来说太热了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This lighting fixture generates an absurd amount of heat.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A hot, orange light.",
+    "value": "炽热的橙色灯光。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A hot, orange light. It creates a warm atmosphere. Literally.",
+    "value": "炽热的橙色灯光。它创造了一种温暖的气氛。真的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's mighty hot. I could cook some eggs.",
+    "value": "那太烫了。我可以煮一些鸡蛋。"
+  }
+]

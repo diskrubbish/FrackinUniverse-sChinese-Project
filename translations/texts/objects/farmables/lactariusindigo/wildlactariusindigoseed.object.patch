@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Resistant to Shadow effects.",
+    "value": "可以收获靛兰乳菇，食用后会提高暗影抗性，免疫暗影污染。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lactarius Indigo",
+    "value": "靛兰乳菇孢子"
+  }
+]

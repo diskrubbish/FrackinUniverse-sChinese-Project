@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A solid stone made of hardened aether.",
+    "value": "一块由硬化以太制成的坚固石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Stone",
+    "value": "以太石"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy neon dresser.",
+    "value": "结实的霓虹灯梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neon Dresser",
+    "value": "霓虹灯梳妆台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A medium amount of storage space.",
+    "value": "中等大小的存储空间。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A little more storage space would be nice.",
+    "value": "再多一点存储空间就好了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Medium ssize ssstorage.",
+    "value": "中等大小的存储空间。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A medium amount of storage.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A cabinet with a couple of drawers.",
+    "value": "有两个抽屉的橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Not a bad amount of storage.",
+    "value": "存储量不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Only two drawers? I could do with more.",
+    "value": "只有两个抽屉？我需要更多。"
+  }
+]

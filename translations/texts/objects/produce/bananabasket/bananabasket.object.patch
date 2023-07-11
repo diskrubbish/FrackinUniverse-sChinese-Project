@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Genetically enhanced bananas.",
+    "value": "转基因香蕉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Banana Basket",
+    "value": "香蕉篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "There's a stereotype that Apex love bananas, thanks to the Miniknog. They are delicious though.",
+    "value": "有一种成见认为猿族喜欢香蕉，多亏了科技发展部。不过它们很好吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These bananas taste unusual in a way I can't pin down.",
+    "value": "这些香蕉尝起来很不寻常，我说不清。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmells like a monkeyman.",
+    "value": "这闻起来有点猴子骚味。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cynical. The Apex love these, but The Glitch see nothing special.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's like a banana, but even more banana-y.",
+    "value": "它像香蕉，但更像香蕉。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A genetically modified banana, I can taste the artificial flavour.",
+    "value": "一个转基因香蕉，我能尝到人工香料。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Genetically enhanced bananas are the best bananas.",
+    "value": "转基因香蕉是最好的香蕉。"
+  }
+]

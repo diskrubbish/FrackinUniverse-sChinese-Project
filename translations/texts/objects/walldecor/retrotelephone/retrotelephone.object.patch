@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An incredibly dated communication device.",
+    "value": "一种非常过时的通讯设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Retro Telephone",
+    "value": "复古电话"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These are about as advanced as telephones get for the average Apex civilian.",
+    "value": "这些技术与普通猿族平民的电话技术一样先进。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A telephone, mounted to the wall. That sounds highly inconvenient.",
+    "value": "安装在墙上的电话。听起来很不方便。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wall phone with ssswirly cord.",
+    "value": "带螺旋线的壁式电话。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. Could this telephone still work? Who would I even call?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I prefer flip-phones when it comes to dated telephones. Snapping it shut after a call feels so powerful!",
+    "value": "说到过时的电话，我更喜欢翻盖手机。一通电话就把它关上感觉很有力量！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A dated telephone device. There's something charming about it, however.",
+    "value": "过时的电话设备。然而，它也有一些迷人之处。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I don't reckon there's anybody with another one these to call.",
+    "value": "我想不会有人再打给别人了。"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A very fancy table lamp!",
+    "value": "一盏非常奇特的台灯！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Amberina Lamp",
+    "value": "龙涎香灯"
+  },
+  {
+    "op": "replace",
+    "path": "/wookieDescription",
+    "raw": "If you wanted to underwhelm people on Life Day, this could do as a gift.",
+    "value": "如果你想在生命日给人们留下不好的印象，这可以作为一个礼物。"
+  },
+  {
+    "op": "replace",
+    "path": "/twilekDescription",
+    "raw": "A beautiful lamp that would be popular in any Muunilinst guildhouse or Coruscanti office.",
+    "value": "一盏漂亮的台灯，在任何缪尼林斯特市政厅或科鲁桑蒂办公室都会很受欢迎。"
+  },
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Table lamp. Glass shell. Much brighter. More intense. Feeling blinded!",
+    "value": "台灯。玻璃外壳。明亮多了。更加强烈。感觉眩目！"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A table lamp formed by combining a Copper Oil Lantern with a glass crystal shell.",
+    "value": "一盏由铜油灯和玻璃水晶外壳组合而成的台灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Looks like a crystal lamp. Does it use Avian technology too?",
+    "value": "看起来像个水晶灯。它也使用翼族技术吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big crysssstal lamp!",
+    "value": "大号水水水晶灯！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cheerful. The Glitch enjoy light.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "An old lamp with a beautiful amberina glass shell.",
+    "value": "一盏有着美丽琥珀玻璃外壳的旧灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The lamp emits a dull light.",
+    "value": "这盏灯发出暗淡的光。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Won't look outta place in any rad saloon, this.",
+    "value": "在任何辐射沙龙里都看不到这个。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chest made from Nocxium.",
+    "value": "用诺克石做的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nocxium Chest",
+    "value": "诺克石箱子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some sort of horrible chest.",
+    "value": "某种可怕的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This makes me uncomfortable.",
+    "value": "这玩意搞得我不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Creepy chest! Floran not ssscared, honessst...",
+    "value": "令人毛骨悚然的胸部！叶族人不害怕，老实说..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This chest makes my circuits shake.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This chest gives me the creeps!",
+    "value": "这个箱子让我毛骨悚然！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An odd looking chest. It is... very unpleasant.",
+    "value": "奇怪的箱子。它是...非常不愉快。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This chest ain't right.",
+    "value": "这个箱子不对。"
+  }
+]

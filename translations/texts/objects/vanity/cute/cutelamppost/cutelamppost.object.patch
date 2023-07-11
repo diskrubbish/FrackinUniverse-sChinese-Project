@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute lamp-post with a pink light.",
+    "value": "一盏可爱的街灯，散发着粉红色的光亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Lamp-Post",
+    "value": "可爱的街灯"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A valuable locker, for storing valuable things.",
+    "value": "一个贵重的储物柜，可用于存储贵重物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ship locker",
+    "value": "飞船储物柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I wonder if there are any secrets inside...",
+    "value": "我希望这里面能有什么秘密..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Could there be anything of value within?",
+    "value": "这里面有什么有价值的东西吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "SSsssearch.",
+    "value": "搜搜搜搜索。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excited. Any items of interest inside?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A ship's locker.",
+    "value": "一个飞船储物柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Perhaps something useful is inside.",
+    "value": "也许里面有一些有用的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "There may be valuables inside.",
+    "value": "这里面可能有什么有价值的东西。"
+  }
+]

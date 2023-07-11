@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A window made of reinforced glass and tethyde alloy.",
+    "value": "由强化玻璃和韧影合金合金制成的窗户。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloped Tethyde Window",
+    "value": "倾斜韧影合金合金窗"
+  }
+]

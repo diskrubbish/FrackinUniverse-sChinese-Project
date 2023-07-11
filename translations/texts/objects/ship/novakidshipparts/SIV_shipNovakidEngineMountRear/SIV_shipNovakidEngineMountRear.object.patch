@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Rear Mounted Engine for a spaceship.",
+    "value": "太空船的后置引擎。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Novakid Rear Mounted Engine",
+    "value": "新星小子后置引擎"
+  }
+]

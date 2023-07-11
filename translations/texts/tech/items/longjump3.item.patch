@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Adds more jump, slower fall and more jumps!",
+    "value": "跳得更高，更慢的掉落速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Flutter Jump II^reset;",
+    "value": "^#77acc3;浮空跳 II^reset;"
+  }
+]

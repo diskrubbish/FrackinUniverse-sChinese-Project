@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^green;Highway Havoc",
+    "value": "^green;毁灭之途"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "The penguins' map shows their next assault target: a city on a distant planet known as Techno City. I should put a wrench in their invasion plans!",
+    "value": "这份企鹅的入侵地图上显示了它们进攻的下一个目标：科技城。科技城坐落于遥远星系的一颗星球上。我应该阻止这些企鹅们。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Defeat the penguins attacking Techno City.",
+    "value": "击败进攻科技城的企鹅。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Wow, that was quite the horde of penguins! Something about this city gives me nostalgia, though...",
+    "value": "嗯，科技城使我想起了以前的事，希望那些企鹅们会给这趟旅途带来不一样的快乐！"
+  }
+]

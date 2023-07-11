@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The body of a Snowhylotl.",
+    "value": "鲛人雪人的躯体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hylotl Snowbody",
+    "value": "鲛人雪人"
+  }
+]

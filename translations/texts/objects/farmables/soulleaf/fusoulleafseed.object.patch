@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Slow to grow, but produces useful essence.",
+    "value": "生长极其缓慢，但是可以收获到非常有用的古代精华。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Soulleaf Seed",
+    "value": "魂叶种子"
+  }
+]

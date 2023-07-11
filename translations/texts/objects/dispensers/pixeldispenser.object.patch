@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pixel dispensing pod.",
+    "value": "一台像素获取机。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pixel Pod",
+    "value": "像素获取机"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This pod dispenses currency.",
+    "value": "这台机器可以吐出像素。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Free loot. Nice.",
+    "value": "免费的，太棒了！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Machine ssspit loot at Floran.",
+    "value": "这台机器会吐东西西西给叶族人。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wonder. A machine that gives treasures for free!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This is like a gashapon machine, but useful!",
+    "value": "这玩意儿好像是扭蛋机，不过比扭蛋机有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A pod that supplies basic materials.",
+    "value": "这台机器可以获取像素。"
+  }
+]

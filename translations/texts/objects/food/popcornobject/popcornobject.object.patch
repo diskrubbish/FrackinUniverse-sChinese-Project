@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pop it like it's hot!",
+    "value": "太烫了，爆开它！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Popcorn",
+    "value": "爆米花"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pop all the corn! Right into Floran's mouth!",
+    "value": "爆米花！就在叶族人嘴里！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. It's so strange how kernels react to heat by exploding their innards.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Salty and buttery. Can't beat the classics.",
+    "value": "咸的和黄油的都比不过原味的。"
+  }
+]

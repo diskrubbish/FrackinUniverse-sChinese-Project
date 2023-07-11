@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A comfortable chair made of a light, tough alloy.",
+    "value": "一种由轻而结实的合金制成的舒适的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Chair",
+    "value": "合金椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Quite a chair - built to last.",
+    "value": "真是一把椅子——耐用。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A chair is a chair, I suppose. This one is not to my taste.",
+    "value": "我想椅子就是椅子。这个不合我的口味。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Boring cold chair.",
+    "value": "无聊的冷椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. Quite an advanced alloy for a simple chair.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Not my cup of tea, but seems comfortable enough.",
+    "value": "不是我喜欢的茶，但似乎很舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A chair, obviously of Peglaci make. Tacky.",
+    "value": "椅子，显然是羊蹄族做的。俗。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Chair's a chair, I suppose. This one just ain't to my taste.",
+    "value": "我想这是把椅子吧。这件不符合我的口味。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A familiar looking chair. Very comfy!",
+    "value": "看起来很熟悉的椅子。很舒服！"
+  }
+]

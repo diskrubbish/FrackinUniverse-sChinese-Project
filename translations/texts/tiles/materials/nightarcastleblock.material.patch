@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Decorative obsidian blocks.",
+    "value": "神秘的城堡砖块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Decorative Obsidian",
+    "value": "装饰用黑曜石"
+  }
+]

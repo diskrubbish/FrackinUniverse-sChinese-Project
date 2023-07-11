@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pastel-colored menu for an ice cream parlor.",
+    "value": "冰淇淋店的彩色菜单。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Parlor Menu",
+    "value": "客厅菜单"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This adorable menu hosts an array of equally sweet flavors.",
+    "value": "这个可爱的菜单上有一系列同样甜美的口味。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "So many flavors! Wherever do they store them all?",
+    "value": "这么多口味！它们都存放在哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wants one of each!",
+    "value": "叶族人想要一个！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. How they ever keep track of this many flavors is beyond me.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Let's see, uh... Can I try a little scoop of everything?",
+    "value": "让我看看，呃...我能尝一点所有东西吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Is it truly that necessary to host so many flavors?",
+    "value": "真的有必要拥有这么多口味吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I didn't even know there were this many flavors to turn into ice cream...",
+    "value": "我甚至不知道有这么多种口味可以做成冰淇淋..."
+  }
+]

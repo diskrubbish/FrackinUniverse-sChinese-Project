@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "The Quantum Manipulator",
+    "value": "量子物质枪"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Rather than deconstruct matter, why not completely rewrite it however you please?",
+    "value": "与其解构物质，为什么不完全重写它呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Activate it.",
+    "value": "激活它"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Even more powerful than the Morphite manipulator, this sweet tool should be plenty powerful!",
+    "value": "甚至比异极合金物质枪还要强大，这个小甜心肯定很棒！！"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Prepared or not, you'll still look the part with this briefcase at your side!",
+    "value": "不管准备好与否，你仍然会看到这个公文包在你身边！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Briefcase",
+    "value": "公文包"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Is there anything of importance inside?",
+    "value": "里面有什么重要的东西吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A secure transportation device for documents. It's cool to the touch.",
+    "value": "文件的安全运输装置。摸起来很酷。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Not big enough to carry meats or ssspears.",
+    "value": "不够大，不能装肉或矛。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confident. The lock on this briefcase is sure to keep my most precious documents safe.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "OBJECTION! ... Heh, I sure sound the part of a lawyer, right?",
+    "value": "反对...嘿，我听起来像个律师，对吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Serviceable, if a bit utilitarian.",
+    "value": "如果有点实用的话，还是可以使用的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fancy container for all yer paperwork.",
+    "value": "一个装你所有文件的漂亮容器。"
+  }
+]

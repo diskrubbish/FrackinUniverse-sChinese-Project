@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Can't see anything in there...",
+    "value": "那里看不见任何东西..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Block",
+    "value": "暗影方块"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Did I just see something move in there?",
+    "value": "我刚才是不是看到有什么东西进去了？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uncomfortable. I feel it staring into me.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssshadowsss.",
+    "value": "阴阴阴影"
+  }
+]

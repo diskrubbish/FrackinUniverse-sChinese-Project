@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This advanced ancient technology can raise the effectiveness of some weapons.",
+    "value": "这种先进的古老科技可以让武器的性能进一步提升。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Super Weapon Upgrade Anvil",
+    "value": "超级武器升级铁砧"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "My scanner indicates that this anvil functions off crystal resonance. Is this Avian in origin?",
+    "value": "我的扫描仪发现它具有晶体共振现象。难道它来自翼族刚诞生之时？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This would appear to be Avian of make, and yet profoundly out of the reach of current Avian technology.",
+    "value": "这似乎是以前的翼族开发出的科技产品，远超了现在的科技。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran push buttons. Make thingsss happen!",
+    "value": "叶族人只需要按一下按键，等着它结束就就就好了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. This anvil appears to serve different purposes in different realities.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It reminds me of something out of an ancient video game. Bird-people, but not Avian. Hm.",
+    "value": "这让我想起了古代文献中记载的游戏中的一些鸟人，对，鸟人，它们不是翼族。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This looks familiar, and yet...",
+    "value": "它让我有种熟悉的感觉，但是我一时又想不起来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This here thing is confusin' the heck outta me. I need a time-out an' a stiff drink.",
+    "value": "这件东西让我很困惑。我得喝杯酒缓解一下。"
+  }
+]

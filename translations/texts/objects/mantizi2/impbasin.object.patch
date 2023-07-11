@@ -1,0 +1,110 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A ceramic basin produced in the Mantizi style.",
+    "value": "甲虫族风格的陶瓷盆。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Imperial Basin",
+    "value": "帝王盆地"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I doubt that most Apex could afford to buy something like this just to wash themselves.",
+    "value": "我怀疑大多数猿族能买得起这样的东西只是为了洗自己。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "By Kluex, this is one sumptuous basin.",
+    "value": "克鲁西斯说，这是一个豪华的盆地。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran no need to wash in bassssin!",
+    "value": "叶族人不需要在Basssin洗衣服！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disappointed. As beautiful as this basin is, Glitch won't need to wash in it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/bothanDescription",
+    "raw": "A very well-made washbasin. The decoration is simple, yet elegant to a fault.",
+    "value": "做得很好的脸盆。装饰很简单，但优雅到了极点。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This basin is clearly not Hylotl, for it is insufficiently subtle.",
+    "value": "这个盆地显然不是鲛人的，因为它不够微妙。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Nothin' to see here, just a plain ol' foot-tub.",
+    "value": "这里什么也看不见，只有一个普通的脚盆。"
+  },
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Strange vessel. Not Fenerox. Very unusual!",
+    "value": "奇怪的船。不是耳廓狐。非常不寻常！"
+  },
+  {
+    "op": "replace",
+    "path": "/felinDescription",
+    "raw": "I don't think this basin would survive in a small room with a very large littler of Felinlings.",
+    "value": "我不认为这个脸盆能在一个小房间里保存下来，这个小房间里有很多小猫咪。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm sure our forefathers produced something like this once ...",
+    "value": "我相信我们的祖先曾经创造过这样的东西..."
+  },
+  {
+    "op": "replace",
+    "path": "/mawgDescription",
+    "raw": "It's just some clay basin ... no need to get so excited about it.",
+    "value": "只是一个粘土盆...没必要这么激动。"
+  },
+  {
+    "op": "replace",
+    "path": "/twilekDescription",
+    "raw": "A very elegant basin. The upper crust of the Galactic Empire would kill for its secrets.",
+    "value": "非常优雅的脸盆。银河帝国的上层地壳会为它的秘密而杀人。"
+  },
+  {
+    "op": "replace",
+    "path": "/ithorianDescription",
+    "raw": "It is beautiful to look at, yet impossible for us Ithorians to make.",
+    "value": "它看起来很美，但我们伊索人却不可能做到。"
+  },
+  {
+    "op": "replace",
+    "path": "/rodianDescription",
+    "raw": "While soils on Rodia do bear clay, we have little need of vessels like these.",
+    "value": "虽然罗迪亚岛上的土壤确实含有粘土，但我们几乎不需要这样的容器。"
+  },
+  {
+    "op": "replace",
+    "path": "/togrutaDescription",
+    "raw": "Excess baggage. Togruta do not need such objects when streams and oases are aplenty.",
+    "value": "超重行李。当溪流和绿洲丰富时，托格鲁塔就不需要这些东西了。"
+  },
+  {
+    "op": "replace",
+    "path": "/wookieDescription",
+    "raw": "As pretty as this basin is, we Wookiees prefer something more ornate and eye-catching.",
+    "value": "虽然这个脸盆很漂亮，但我们伍基人更喜欢更华丽、更引人注目的东西。"
+  }
+]

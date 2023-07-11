@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A circuit that relays signals after a set delay.",
+    "value": "可设置延迟多少秒后继续中继信号。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Delay Gate (2 Second)",
+    "value": "延迟门(2s)"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A circuit that relays signalsss after a sset delay.",
+    "value": "可设置延迟多少秒后后后继续中继信号。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A circuit that relays signals after a set delay.",
+    "value": ""
+  }
+]

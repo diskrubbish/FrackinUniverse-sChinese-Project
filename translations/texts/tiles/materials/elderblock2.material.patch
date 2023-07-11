@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Yea, this looks friendly.",
+    "value": "是的，它看起来很友好。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Temple Wall",
+    "value": "远古殿墙"
+  }
+]

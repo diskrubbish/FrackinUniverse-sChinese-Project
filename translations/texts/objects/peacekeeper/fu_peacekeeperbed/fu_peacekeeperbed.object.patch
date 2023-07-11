@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bed. Peacekeeper officers sleep in it after a hard day of maintaining law in the galaxy.",
+    "value": "一张床。在银河系维持了一天的法律之后，和平卫士官员就睡在里面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peacekeeper Bed",
+    "value": "和平卫士床"
+  }
+]

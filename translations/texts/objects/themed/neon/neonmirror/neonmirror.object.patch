@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large neon wall mirror.",
+    "value": "一面巨大的霓虹墙镜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neon Wall Mirror",
+    "value": "霓虹墙镜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A mirror mounted on a wall.",
+    "value": "安装在墙上的镜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A hands free mirror.",
+    "value": "免提镜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssqueaky clean mirror.",
+    "value": "嘎吱作响的干净的镜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A well-kept bathroom mirror.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A bathroom mirror.",
+    "value": "浴室的镜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Standard furniture for any restroom.",
+    "value": "适用于任何卫生间的标准家具。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's just a mirror.",
+    "value": "它只是一面镜子。"
+  }
+]

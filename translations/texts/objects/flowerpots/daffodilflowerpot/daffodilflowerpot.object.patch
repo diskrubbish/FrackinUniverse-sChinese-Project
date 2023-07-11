@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A potted flower with a cone shaped center.",
+    "value": "有圆锥形中心的盆栽花。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Daffodil Flower Pot",
+    "value": "水仙花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A pretty daffodil.",
+    "value": "美丽的水仙花。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This flower has a nice scent.",
+    "value": "这朵花很好闻。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Flower sssmells nice.",
+    "value": "花闻起来很香。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. Petals like spring sunshine.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It looks a little overgrown, don't you think?.",
+    "value": "它看起来有点长得太长了，你不觉得吗？。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Daffodil are a symbol of rebirth in Hylotl culture.",
+    "value": "水仙花是鲛人文化中重生的象征。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A delicate yellow flower.",
+    "value": "一朵娇嫩的黄花。"
+  }
+]

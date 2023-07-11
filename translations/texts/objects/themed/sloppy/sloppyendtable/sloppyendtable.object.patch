@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "There's something lodged in the back of the drawer, but you're too lazy to fish it out.",
+    "value": "抽屉后面有东西，但你懒得把它捞出来。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloppy End Table",
+    "value": "邋遢的茶几"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This dresser is... highly inconvenient.",
+    "value": "这个梳妆台是...非常不方便。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I can't even close these drawers... when was the last time someone went through this?",
+    "value": "我连抽屉都关不上...上次有人这样做是什么时候？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran doesn't sssee what all the fuss is about. Clothes are right in Floran's reach!",
+    "value": "叶族人不知道这是怎么回事。衣服就在叶族人够得着的地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Frustrated. This drawer not closing will frustrate me for days.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "How backed up do you think this thing is for the drawers to be like this?",
+    "value": "你认为这件事对抽屉来说有多重要？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A dresser drawer so carelessly packed that its drawers no longer properly close.",
+    "value": "梳妆台上的抽屉包装得太不小心，以至于抽屉无法正常关闭。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An overflowin' dresser.",
+    "value": "满满的梳妆台。"
+  }
+]

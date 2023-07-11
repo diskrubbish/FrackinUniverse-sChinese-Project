@@ -1,0 +1,206 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rustic Skath-made workbench, used to craft furniture and farming supplies.",
+    "value": "一个基础级绘世者工作台，用来制作家具和农具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Rustic Skath Workbench^reset;",
+    "value": "^orange;基础级绘世者工作台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This table looks rather rustic, but is incredibly sturdy nonetheless.",
+    "value": "这张桌子看起来很古朴，但却非常坚固。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The surface of this table is quite streamlined.",
+    "value": "这张桌子的表面线条非常顺滑。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Waterdragon table. Floran cutsss meat on thisss.",
+    "value": "水龙桌。叶族人在在在这上面切切切切肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This table can be used to craft both farming supplies and furniture.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The sort of workbench used for carpetry. I'm pretty handy with these.",
+    "value": "用来铺地毯的那种工作台。我对它很在行。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A crude station, for crafting crude furniture.",
+    "value": "一个基础的工作台，用于制作简单的家具。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Not my kinda rustic, but it'll do.",
+    "value": "不是我有点土，而是它这样就能用。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "Although rustic, with this table I can craft furniture and farming supplies.",
+    "value": "虽然有点简陋，但是有了这张桌子，我就可以制作家具和农具啦。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "raw": "A rustic Skath-made workbench, used to craft furniture and farming supplies.",
+    "value": "一个基础级绘世者工作台，用来制作家具和农具。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Rustic Skath Workbench^reset;",
+    "value": "^orange;基础级绘世者工作台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/apexDescription",
+    "raw": "This table looks rather rustic, but is incredibly sturdy nonetheless.",
+    "value": "这张桌子看起来很古朴，但却非常坚固。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/avianDescription",
+    "raw": "The surface of this table is quite streamlined.",
+    "value": "这张桌子的表面线条非常顺滑。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/floranDescription",
+    "raw": "Waterdragon table. Floran cutsss meat on thisss.",
+    "value": "水龙桌。叶族人在在在这上面切切切切肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+    "raw": "Impressed. This table can be used to craft both farming supplies and furniture.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/humanDescription",
+    "raw": "The sort of workbench used for carpetry. I'm pretty handy with these.",
+    "value": "用来铺地毯的那种工作台。我对它很在行。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+    "raw": "A crude station, for crafting crude furniture.",
+    "value": "一个基础的工作台，用于制作简单的家具。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+    "raw": "Not my kinda rustic, but it'll do.",
+    "value": "不是我有点土，而是它这样就能用。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/skathDescription",
+    "raw": "Although rustic, with this table I can craft furniture and farming supplies.",
+    "value": "虽然有点简陋，但是有了这张桌子，我就可以制作家具和农具啦。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Rustic Skath Workbench",
+    "value": "基础级绘世者工作台"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Furniture and Farming.",
+    "value": " ^#b9b5b2;家具和农具。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "raw": "An improved Skath Workbench, for crafting high-quality furniture and farming supplies.",
+    "value": "一台升级版的绘世者工作台，能制作更高质量的家具和农具。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Skath Industrial Workbench^reset;",
+    "value": "^orange;工业级绘世者工作台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/apexDescription",
+    "raw": "An impressively high-tech workbench. I approve.",
+    "value": "一台令人印象深刻的高科技工作台。我也这么想。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/avianDescription",
+    "raw": "I've never had a table with its own arm before.",
+    "value": "我以前从来没有拥有一张自己有手臂的桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/floranDescription",
+    "raw": "Waterdragon workbench hasss ssstrange arm. Floran sstronger than metal arm!",
+    "value": "水龙工作台有有有一个奇奇奇奇怪的手臂。叶族人的手手手手臂比那个金金金金属货更强强强强壮！"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+    "raw": "Impressed. The arm mounted on this workbench seems to assist in crafting.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/humanDescription",
+    "raw": "Now that's a high quality carpenter's workbench!",
+    "value": "现在它是一台高质量的木匠工作台啦！"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+    "raw": "The Skath appear to have a different definition of 'handmade' to the Hylotl.",
+    "value": "绘世者一族对手工制作的定义似乎与鲛人族不一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+    "raw": "A mighty strange lookin' workbench.",
+    "value": "一个看起来非常奇怪的工作台。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/skathDescription",
+    "raw": "With this top-of-the-line workbench I can even craft Impervium-based blocks. The arm assists in many ways.",
+    "value": "有了这个顶级的工作台，我甚至可以用统制材料制作方块。那个手臂帮了大忙了。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Skath Industrial Workbench",
+    "value": " 工业级绘世者工作台"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Furniture and Farming.",
+    "value": " ^#b9b5b2;家具和农具。"
+  }
+]

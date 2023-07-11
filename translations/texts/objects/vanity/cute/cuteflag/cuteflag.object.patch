@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute flag. Use ^green;[E]^white; to bookmark a teleportation location.^reset;",
+    "value": "一面可爱的旗帜。按^green;[E]^white;来记录这面旗帜的传送坐标。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Flag",
+    "value": "可爱的旗帜"
+  }
+]

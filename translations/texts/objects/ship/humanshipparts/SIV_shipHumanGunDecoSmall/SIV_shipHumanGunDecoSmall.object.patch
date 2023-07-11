@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small Gun Decoration for an Human spaceship.",
+    "value": "人类宇宙飞船上的一种小型火炮装饰物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Human Small Gun Deco",
+    "value": "人类小型火炮装饰"
+  }
+]

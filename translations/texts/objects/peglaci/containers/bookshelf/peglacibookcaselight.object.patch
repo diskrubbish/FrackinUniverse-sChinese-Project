@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A crystalline light built into a bookcase.",
+    "value": "装在书架上的水晶灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Bookcase Light",
+    "value": "合金书架灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This embedded light gives off clear, pure light.",
+    "value": "这种嵌入式光源发出清晰、纯净的光。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "How lovely - I'm entranced.",
+    "value": "多可爱啊，我被迷住了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Like light through leavesss.",
+    "value": "就像树叶中透出的光。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. Emits light in a tight spectrum pleasant to the eyes of many humanoids.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Well, it saves space. Kinda ostentatious.",
+    "value": "嗯，这样可以节省空间。有点炫耀。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "They mock us with such extravagence in such mundane uses.",
+    "value": "他们在如此平凡的用途中以如此超乎寻常的方式嘲笑我们。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Check out the light on this baby!",
+    "value": "看看这孩子身上的灯！"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "If someone were to read the books, they would problably appreciate the light.",
+    "value": "如果有人读这些书，他们可能会欣赏光线。"
+  }
+]

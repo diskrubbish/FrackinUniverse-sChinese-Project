@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Drift off to sleep or to sea in this barrel wood pirate's bed!",
+    "value": "在这木桶海盗的床上漂流去睡觉或出海！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corsair's Bed",
+    "value": "海盗床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This looks like the kind of bed a child would be sleeping in.",
+    "value": "这张床看起来像是孩子睡觉的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Is this bed actually buoyant? That's rather impressive.",
+    "value": "这张床真的有浮力吗？这太令人印象深刻了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can ssstab and sssteal in their sleep in this bed! And also every other bed.",
+    "value": "叶族人可以在这张床上睡觉！还有每隔一张床。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unamused. Is this the bed of a seasoned thief or a child?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I always wanted a bed like this as a kid. Well, no time like the present!",
+    "value": "我小时候一直想要一张这样的床。好吧，没有比现在更好的时间了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What an incredibly childish bed for a supposedly hardened criminal.",
+    "value": "对于一个被认为是铁石心肠的罪犯来说，这是一张多么幼稚的床啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "D'aw. This li'l boat even comes with a tiny mast!",
+    "value": "噢。这艘小船居然还有一根小桅杆！"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A silicon board. It's been programmed to help identify currency for processing.",
+    "value": "一块硅板。被变成以帮助识别处理中的货币。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "ITD Currency Handler",
+    "value": "ITD货币处理程序"
+  }
+]

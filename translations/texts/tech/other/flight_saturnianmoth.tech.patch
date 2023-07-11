@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Moth flight. Best in darkness. ^green;[F]^reset;.",
+    "value": "飞蛾飞行。畅游黑暗。\n激活：^green;[F]^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Saturnian Flight",
+    "value": "Saturnian飞行"
+  }
+]

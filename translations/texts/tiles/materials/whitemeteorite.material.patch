@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shiny, almost opalescent meteorite stone",
+    "value": "有光泽的，接近乳白色的陨石块"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Meteorite Rock",
+    "value": "陨石块"
+  }
+]

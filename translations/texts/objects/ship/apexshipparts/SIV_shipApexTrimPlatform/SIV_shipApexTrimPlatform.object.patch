@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Trim Section for an Apex spaceship.",
+    "value": "一个为猿族飞船设计的装饰平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apex Trim Platform",
+    "value": "猿人装饰平台"
+  }
+]

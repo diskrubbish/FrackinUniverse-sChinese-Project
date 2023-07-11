@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A door made of rainbow wood.",
+    "value": "一扇由彩虹木制成的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rainbow Wood Door Prop",
+    "value": "彩虹木门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's a door made from rainbow wood.",
+    "value": "这是一扇由彩虹木制成的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A doorway with a rainbow printed on it. I doubt it leads to one.",
+    "value": "一扇印有彩虹的门。我怀疑它到底会通向哪儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Door hasss colourful picture on it.",
+    "value": "这扇门上面有着色色色彩斑斓的印记。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This is a brightly coloured door.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A rainbow door.",
+    "value": "一扇彩虹门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What a happy looking door.",
+    "value": "看起来多么快乐的一扇门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This door sure is welcoming.",
+    "value": "这扇门确实很受欢迎。"
+  }
+]

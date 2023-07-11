@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A workbench for creating furniture and decorations.",
+    "value": "用来制作家具和装饰品的工作台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Crystal Workbench^reset;",
+    "value": "^orange;水晶工作台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A table that's fit for basic carpentry.",
+    "value": "一张适合基本木工活的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A chance to showcase one's carpentry abilities.",
+    "value": "一次展示自己木工能力的机会。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ussse table to make nice housse.",
+    "value": "叶族人用用用这张工作台来做漂亮的家家家具。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Inspired. Crafting module activated.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I could make a well furnished home with this.",
+    "value": "我可以用这个弄一间家具齐全的家。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "All you need to make a house into a home.",
+    "value": "能做出把一间房子变成一个家所需要的一切。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I could make some mighty fine furniture with this table.",
+    "value": "我可以用这张桌子做一些非常漂亮的家具。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These tubes transport a nutrient aerosol for growing plants indoors.",
+    "value": "这种管道专门用来输送供植物生长的气态营养液。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aeroponics Tubing",
+    "value": "气培管"
+  }
+]

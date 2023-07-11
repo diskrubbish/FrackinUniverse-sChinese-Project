@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Harmless donuts filled with toxictop jam.",
+    "value": "充满有毒果酱的无害甜甜圈。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toxic Jam Donuts",
+    "value": "有毒果酱甜甜圈"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran livesss on the edge! Bring it on doughy thing!",
+    "value": "叶族人活在边缘！把它拿出来！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. Those bright colors aren't fooling me. That's not a pastry I ought to eat.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Yeah no, I'm pretty sure that's poisoned.",
+    "value": "是的，不，我很确定那是中毒的。"
+  }
+]

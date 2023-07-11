@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A comfortable chair built especially for tailed races.",
+    "value": "一种特别为有尾赛跑而建造的舒适的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Chair",
+    "value": "绘世者椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This chair looks like it was made for races with tails.",
+    "value": "这把椅子看起来像是为有尾巴的比赛做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It feels a little awkward to sit in these...",
+    "value": "坐在这里感觉有点尴尬..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssit in waterdragon chair. Thinks many thingsss.",
+    "value": "叶族人坐在水龙椅上。想很多事情。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Irritated. Why would someone design a chair like this?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like a neat chair for anyone who has a tail. Nothing for me, personally.",
+    "value": "对任何有尾巴的人来说都是一把整洁的椅子。对我个人来说，没有什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A chair for a tailed race. Ugly, but functional.",
+    "value": "有尾赛跑用的椅子。丑陋，但实用。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This chair makes me wanna put my feet up!",
+    "value": "这把椅子让我想把脚抬起来！"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "It's a relief to sit in a chair built with a tail in mind.",
+    "value": "坐在一张有尾巴的椅子上是一种解脱。"
+  }
+]

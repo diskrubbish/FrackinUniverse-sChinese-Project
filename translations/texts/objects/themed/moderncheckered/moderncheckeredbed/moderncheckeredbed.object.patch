@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cool black and white checkered bed.",
+    "value": "一张凉爽的黑白格子床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Modern Bed",
+    "value": "现代床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This bed is spacious as well as stylish.",
+    "value": "这张床既宽敞又时尚。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "There's a lot of room to stretch on this bed, actually.",
+    "value": "实际上，这张床上有很大的伸展空间。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big black and white bed.",
+    "value": "大大的黑白床。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A bed with checkered patterned sheets.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I could probably play chess on the sheets of this bed.",
+    "value": "我可能会在这张床上下棋。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The checkered sheets of this bed are surprisingly relaxing to the eye.",
+    "value": "这张床的格子床单令人惊讶地放松。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A bed with sheets like a chessboard.",
+    "value": "像棋盘一样有床单的床。"
+  }
+]

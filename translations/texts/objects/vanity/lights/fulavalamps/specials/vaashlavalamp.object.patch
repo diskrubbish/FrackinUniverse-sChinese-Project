@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp filled with Vaash acid.",
+    "value": "充满瓦什酸的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vaash Lava Lamp",
+    "value": "瓦什熔岩灯"
+  }
+]

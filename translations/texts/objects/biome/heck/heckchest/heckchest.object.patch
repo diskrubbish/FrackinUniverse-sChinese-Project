@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chest made of flesh.",
+    "value": "由各种肉体组织组成的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Heck Chest",
+    "value": "血界箱子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A pretty vile chest.",
+    "value": "一个非常恶心的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This chest sounds shivers down my spine.",
+    "value": "这个箱子跳动的声音使我感到害怕。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran want to eat chest.",
+    "value": "叶族人想想想吃肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgust. A fleshy, pulsating chest.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty gross chest made of flesh.",
+    "value": "一个用肉做的大箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What an abhorrent chest.",
+    "value": "这到底是什么恶心的箱子。"
+  }
+]

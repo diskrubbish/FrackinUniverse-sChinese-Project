@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Transforms an area of a planet into a meadow.",
+    "value": "(可放置于任何地方，安装后拆除将会毁坏，激活后请耐心等待)可将转换器一定范围内的星球特征转换为牧场。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Meadow Microformer",
+    "value": "牧场转换器(微型)"
+  }
+]

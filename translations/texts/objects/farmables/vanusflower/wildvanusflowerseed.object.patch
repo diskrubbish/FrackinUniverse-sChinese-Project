@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Protects the user from harm.",
+    "value": "可以收获金星花，食用后会提高防御。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vanus Flower Seed",
+    "value": "金星花种子"
+  }
+]

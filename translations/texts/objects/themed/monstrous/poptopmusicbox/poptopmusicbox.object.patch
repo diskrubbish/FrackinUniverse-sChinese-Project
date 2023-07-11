@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A music box modeled after a Poptop. A much less dangerous way to listen to its cheerful melody.",
+    "value": "模仿吐舌娃的音乐盒。听它欢快的旋律是一种不那么危险的方式。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Monstrous Music Box",
+    "value": "恐怖音乐盒"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Oh what a gentle little song...",
+    "value": "多么温柔的一首歌..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I quite like music boxes... especially ones like these.",
+    "value": "我很喜欢音乐盒...尤其是像这样的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Poptop sssong without the Poptop!",
+    "value": "吐舌娃没有吐舌娃的歌！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. This song is very pleasant when I don't have to worry about being gnawed on.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What a nice tune! It sounds a little familiar, actually...",
+    "value": "多好听的曲子啊！听起来有点熟悉，实际上..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It's a shame Poptop are so volatile... I'd imagine they'd make fine pets if domesticated.",
+    "value": "可惜吐舌娃如此反复无常...我想如果被驯养，它们会是很好的宠物。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I've heard of some strange folks farmin' Poptops for \"ambiance\". Guess I can see why now.",
+    "value": "我听说有一些奇怪的人为了“ambiance”而养Poptop。我想我现在明白为什么了。"
+  }
+]

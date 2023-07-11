@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Great for speeches, lectures and sermons.",
+    "value": "非常适合演讲、讲座和布道。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wooden Lectoral",
+    "value": "木制讲台"
+  }
+]

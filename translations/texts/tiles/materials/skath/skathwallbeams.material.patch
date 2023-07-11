@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Impervium walls made to support heavy weights.",
+    "value": "用于支撑重物的统制墙。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Impervium Wall Beams",
+    "value": "统制墙梁"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I shudder to think that this might be a portrait. I can only hope it isn't.",
+    "value": "一想到这可能是一幅肖像画，我就不寒而栗。我只能希望它不是。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shub-Niggurath",
+    "value": "莎布·尼古拉丝"
+  }
+]

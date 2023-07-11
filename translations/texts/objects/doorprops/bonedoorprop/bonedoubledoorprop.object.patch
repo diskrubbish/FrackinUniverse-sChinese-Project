@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Doors made of bone. Where do they lead? Hell? Or the bathroom?",
+    "value": "骨头做的门，通向哪里? 地狱? 还是浴室？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bone Double Door Prop",
+    "value": "骨制双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Foreboding doors made of bone. I'm scared to go through.",
+    "value": "骨头做的门，我不敢进去。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Surely, beyond doors like these must lie something worthy of respect.",
+    "value": "当然，像这样的门之外一定存在着值得尊敬的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran feel kinssship with doors. Kick open.",
+    "value": "叶族人感觉到门的存在，踢开门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Comical. I guess the death of this creature really... opened doors.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "They're cold to the touch. A chill creeps down my spine. Somewhere in the distance, a dog barks. Wait, that was just an Apex singing.",
+    "value": "它们摸起来很冷。 一股寒意从我的脊背上蔓延下来。 在远处的某个地方，一只狗在叫。 等等，那只是一个尖端唱法。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Vile doors of death. Such horror. Remarkably smooth hinges, though.",
+    "value": "邪恶的死亡之门，如此恐怖，但枢纽却相当平滑。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Death's doors.",
+    "value": "死亡之门。"
+  }
+]

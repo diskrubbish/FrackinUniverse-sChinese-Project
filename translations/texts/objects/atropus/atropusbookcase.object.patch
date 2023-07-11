@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bookcase made from flesh and organs. The shelves drip with... something.",
+    "value": "用血肉和器官做成的书架。架子上滴着...什么东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Atropus Bookcase",
+    "value": "肉源书架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This bookcase is vile.",
+    "value": "这书架好恶心。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This makes me want to vomit.",
+    "value": "这让我想吐。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Not bookcassse! Isss food!",
+    "value": "这不是书书书架！是好吃的！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This bookcase makes my circuits shake.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This bookcase makes me feel sick!",
+    "value": "这书架看得我难受！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This bookcase is positively vile.",
+    "value": "这书架看起来真恶心。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This bookcase ain't right at all.",
+    "value": "我是绝对不会用这台书架的。"
+  }
+]

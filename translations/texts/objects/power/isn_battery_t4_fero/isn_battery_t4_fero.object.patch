@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A huge, powerful battery perfect for massive energy storage.^truncate; ^red;Scan for Info^reset;\nStorage Capacity: ^green;18000^reset;J",
+    "value": "巨大而强力的电力储存设备，完美的巨量能量储存。\n^red;扫描以查看更多信息^reset;\n储存电能：^green;18000J^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#a94db3;Ultra^reset; Battery",
+    "value": "^#a94db3;究极^reset;电池"
+  }
+]

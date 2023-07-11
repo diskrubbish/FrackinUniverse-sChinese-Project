@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Protects itself with spike-like cilia. ",
+    "value": "它们那穗状的纤细绒毛，是自我保护的一种方式。可以收获费伊蘑菇，食用后会赋予反伤效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fayshroom Spore",
+    "value": "费伊蘑菇孢子"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tall, lush grass",
+    "value": "高大的，茂盛的草地"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Long grass",
+    "value": "长草"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "ENGAGE!",
+    "value": "开始部署！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kirhos Captain's Chair",
+    "value": "Kirhos船长椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ahh freedom...",
+    "value": "啊，自由..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Bless my beak, such a comfortable captain's chair.",
+    "value": "鸟喙保佑，多么舒适的船长椅。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "SSsmells of Apex butt.",
+    "value": "闻闻闻起来想猿人的屁股。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Anticipation. Where to next?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty cool chair.",
+    "value": "一个非常酷的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Elegant.",
+    "value": "优雅的。"
+  },
+  {
+    "op": "replace",
+    "path": "/kirhosDescription",
+    "raw": "Let's see what this babe can do.",
+    "value": "让我们看看这个宝贝能做什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "Let's see what this babe can do.",
+    "value": "让我们看看这个宝贝能做什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The Captain's chair. The guy who sits here decides where the ship goes! That's me!",
+    "value": "这是船长椅.只有有资格坐在这的老大能指挥这艘船往哪儿开！但老大就是我！"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A half-broken, crappy sprinkler.",
+    "value": "这个洒水器破破烂烂的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crappy Sprinkler (roof)",
+    "value": "破烂洒水器(挂式)"
+  }
+]

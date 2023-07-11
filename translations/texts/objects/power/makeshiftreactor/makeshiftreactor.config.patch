@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/count/value",
+    "raw": "FUEL SLOTS",
+    "value": "燃料槽"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/countwaste/value",
+    "raw": "WASTE      COOLANT",
+    "value": "废液       冷却剂"
+  }
+]

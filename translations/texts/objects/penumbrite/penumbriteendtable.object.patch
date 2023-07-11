@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An end table made from penumbrite.",
+    "value": "用半影矿制成的端桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbrite End Table",
+    "value": "半影结端桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A table similar to the style of the Hylotl.",
+    "value": "类似鲛人风格的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the Hylotl.",
+    "value": "这让我想起了鲛人。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fisssh perssson table.",
+    "value": "鱼人桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A table with a complicated design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This table looks like something from a Hylotl village!",
+    "value": "这张桌子看起来像鲛人村的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This table almost reminds me of our own craftsmanship.",
+    "value": "这张桌子几乎让我想起了我们自己的手艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This table is mighty fancy like them Hylotl folk make.",
+    "value": "这张桌子很奇特，就像鲛人做的一样。"
+  }
+]

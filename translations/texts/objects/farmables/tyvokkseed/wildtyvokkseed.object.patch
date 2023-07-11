@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This plant is a literal powerhouse of energy and vitality.",
+    "value": "可以收获糖果棒，食用后会提高生命恢复速度，生命值和能量值上限。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tyvokk seed",
+    "value": "糖果棒种子"
+  }
+]

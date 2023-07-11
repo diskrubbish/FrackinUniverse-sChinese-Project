@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Delicious carrots, brought all the way across the stars from Earth.",
+    "value": "美味的胡萝卜，从地球上一路带过星星。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carrot Basket",
+    "value": "胡萝卜篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Boil a carrot and it's a bit like a banana... but it doesn't taste as good.",
+    "value": "煮一个胡萝卜，它有点像香蕉...但味道没那么好。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A simple carrot. Good for soup.",
+    "value": "简单的胡萝卜。适合做汤。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sometimes carrot growss curly. This amuses Floran.",
+    "value": "有时胡萝卜会卷曲。这让叶族人很开心。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. Carrots are pleasantly crunchy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Carrots. Perfect for eating, or sticking on a snowman.",
+    "value": "胡萝卜。非常适合吃东西，或者粘雪人。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Carrots are a versatile, if bland, vegetable.",
+    "value": "胡萝卜是一种多才多艺的蔬菜。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The humble carrot.",
+    "value": "卑微的胡萝卜。"
+  }
+]

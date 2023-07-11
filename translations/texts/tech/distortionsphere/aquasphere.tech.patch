@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Turn into a sphere and move quickly across liquids! ^green;[F]^reset;",
+    "value": "按^green;[F]^reset;变成一个可以在液体中快速移动的潜水球！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Aqua Sphere",
+    "value": "深水球"
+  }
+]

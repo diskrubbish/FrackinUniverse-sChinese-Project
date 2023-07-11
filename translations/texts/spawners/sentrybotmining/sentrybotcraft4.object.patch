@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Will scan for all ores in a greater radius.",
+    "value": "可以高能雷达扫描岩层内所有矿石以及洞穴结构。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ore Drone III",
+    "value": "矿石机器人 III"
+  }
+]

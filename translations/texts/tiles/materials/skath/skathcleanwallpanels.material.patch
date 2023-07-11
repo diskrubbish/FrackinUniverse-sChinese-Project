@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Smooth tethyde panels, inset into the wall.",
+    "value": "光滑的韧影合金面板，能嵌入到墙上。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Inset Tethyde Panels",
+    "value": "韧影合金面板"
+  }
+]

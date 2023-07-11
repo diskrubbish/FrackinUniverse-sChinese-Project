@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I could watch this all day.",
+    "value": "我可以看一整天。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Teal Star Lamp",
+    "value": "青色星灯"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A functioning antenna.",
+    "value": "一个功能天线。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Antenna",
+    "value": "天线"
+  }
+]

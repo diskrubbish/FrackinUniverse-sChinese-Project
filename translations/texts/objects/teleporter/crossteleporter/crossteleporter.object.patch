@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A personal teleporter, connects to bookmarked locations. \n^red;Destroyed when broken.^reset;",
+    "value": "一个私人传送门，连接着标记过的传送点。\n^red;拆卸后将被永久破坏。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Angelic Teleporter",
+    "value": "天使传送门"
+  }
+]

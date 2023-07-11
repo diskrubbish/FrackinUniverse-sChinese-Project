@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A minimalistic end table, stylistically limited in palette and rounded at the edges.",
+    "value": "极简风格的茶几，调色板风格有限，边缘呈圆形。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rounded End Table",
+    "value": "圆形茶几"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small, colorful end table.",
+    "value": "一张五颜六色的小茶几。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A round end table with a singular drawer.",
+    "value": "有一个单独抽屉的茶几。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bright little table only hass one drawer.",
+    "value": "明亮的小桌子只有一个抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. An unusually shaped bedside table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "An end table with as little detail as possible. I don't get modern art.",
+    "value": "一张尽可能少细节的桌子。我不懂现代艺术。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This table adds interest to a room, being as minimalistic as it is.",
+    "value": "这张桌子尽可能简约，给房间增添了情趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A round li'l end table.",
+    "value": "一张圆形的茶几。"
+  }
+]

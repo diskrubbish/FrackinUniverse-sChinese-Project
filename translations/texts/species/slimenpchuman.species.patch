@@ -1,0 +1,80 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/title",
+    "raw": "Slime",
+    "value": "黏液"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/subTitle",
+    "raw": "????",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "raw": "Once human, mutated through work at a Nanotrasen outpost",
+    "value": "曾经是人类，在南特拉森基地的工作中产生了变异"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/0",
+    "raw": "SKIN COLOR",
+    "value": "肤色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/1",
+    "raw": "HAIR STYLE",
+    "value": "发型"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/2",
+    "raw": "SHIRT",
+    "value": "衬衫"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/3",
+    "raw": "PANTS",
+    "value": "裤子"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/4",
+    "raw": "UNDY COLOR",
+    "value": "内衣颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/5",
+    "raw": "HAIR COLOR",
+    "value": "发色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/6",
+    "raw": "SHIRT COLOR",
+    "value": "衬衫颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/7",
+    "raw": "PANTS COLOR",
+    "value": "裤子颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/8",
+    "raw": "HUMAN",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/9",
+    "raw": "PERSONALITY",
+    "value": "个性"
+  }
+]

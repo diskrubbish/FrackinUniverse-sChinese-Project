@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Transforms an area of a planet into crystalline plain.",
+    "value": "(可放置于任何地方，安装后拆除将会毁坏，激活后请耐心等待)可将转换器一定范围内的星球特征转换为结晶平原。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Plains Microformer",
+    "value": "结晶平原转换器(微型)"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This calls for a dress up montage!",
+    "value": "这需要一个化妆蒙太奇！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Clothing Rack",
+    "value": "衣架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These are all a bit too small for me...",
+    "value": "这些对我来说都有点太小了..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I've yet to find shoes anywhere that are easy on my talons...",
+    "value": "我还没有在任何地方找到我的爪子容易穿的鞋子..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran needs sssturdier clothes. These couldn't survive a hunt at all!",
+    "value": "叶族人需要更结实的衣服。这些根本无法在狩猎中生存！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Irritated. Must these tags always itch when I'm trying clothes on? I shouldn't even NEED to itch!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Makeover, makeover, makeover, makeover, makeover, makeover - MAKEOVER!",
+    "value": "改造，改造，改造，改造，改造，改造，改造-改造！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Hm... This shirt is lovely, but it's dry clean only...",
+    "value": "嗯...这件衬衫很漂亮，但它只能干洗..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's quite the price tag... I think I'll stick with my own duds, thanks.",
+    "value": "这正是价格标签...我想我还是用我自己的衣服吧，谢谢。"
+  }
+]

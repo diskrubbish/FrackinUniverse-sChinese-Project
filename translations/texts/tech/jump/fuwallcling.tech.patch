@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Allows you to grip onto walls and double jump.",
+    "value": "允许你抓住墙壁，并且拥有二段跳能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Magnet Grip I",
+    "value": "磁吸攀附 I"
+  }
+]

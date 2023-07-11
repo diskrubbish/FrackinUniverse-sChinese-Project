@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A golden-looking wooden log.",
+    "value": "金黄色的原木。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Wood",
+    "value": "金色木材"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unsettled. This wooden log is an unnatural golden shade.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likess pretty gold wood.",
+    "value": "叶族人喜喜喜欢漂亮的金色原木。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Gold wood? Ain't that a sight.",
+    "value": "金色原木，那不是一个景致么？"
+  }
+]

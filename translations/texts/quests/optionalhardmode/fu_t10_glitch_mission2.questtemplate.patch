@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "In Darkness Keep",
+    "value": "欺瞒之城"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Should be no surprise da next stop is da Baron's Keep. Off you go...",
+    "value": "不出意外的话，下一站就是拜隆的城堡了。快出发吧..."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Okay, this not good. Signature data has many journal entries. Kevin found remains of different version of mew. Her inner shell had ruptured due to lack of noms. All da bad energies? In one word: ^red;Fallout^reset;...or is dat two?",
+    "value": "好吧，这不是好事。签名数据有许多日记条目。凯文发现了不同版本的喵的遗体。她的内部由于缺乏天然有机物而破裂了。都是坏能量？一句话：^red;陨落^reset;...还是两个。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/artifact",
+    "raw": "Find the ^orange;artifact^reset; in the ^orange;Dark Glitch keep^reset;",
+    "value": "在^orange;极暗电子人城塞^reset;中找到^orange;神器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "raw": "Return to ^orange;Kherae^reset; at ^orange;the Science Outpost^reset;",
+    "value": "回到^orange;科学前哨站^reset;去找^orange;溪^reset;"
+  }
+]

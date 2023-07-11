@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fancy vintage couch.",
+    "value": "一张精致的老式沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rococo Chaise Lounge",
+    "value": "洛可可躺椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A luxurious couch. It's unimaginably soft.",
+    "value": "豪华沙发。它软得不可思议。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This couch is missing it's other half's back side... It seems to be a stylistic choice.",
+    "value": "这张沙发不见了另一半的背面...这似乎是一种风格选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Where iss other half of couch?",
+    "value": "沙发的另一半呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. Such a fine and comfortable seat...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I probably shouldn't jump on this couch.",
+    "value": "我可能不该跳到沙发上。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I fear I'd be too afraid to let anyone sit on such a fine couch!",
+    "value": "我怕我不敢让任何人坐在这么好的沙发上！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An awfully comfy couch. And fancy too. I oughta be careful sittin' on it.",
+    "value": "非常舒适的沙发。还有幻想。坐在上面我得小心点。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Great for the salesman in you.",
+    "value": "推销员正在朝你微笑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Merchant's Cart",
+    "value": "商人的货车"
+  }
+]

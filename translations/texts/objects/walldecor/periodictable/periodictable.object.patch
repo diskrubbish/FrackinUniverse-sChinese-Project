@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Not having to make all 118 elements is one of the perks of spriting. Yay, artistic license!",
+    "value": "不必制作所有118种元素是喷洒的优势之一。耶，艺术许可证！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Periodic Table",
+    "value": "元素周期表"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Quite similar to the tables we have back home - save for the fact this table doesn't claim all elements were created by Big Ape.",
+    "value": "与我们家里的表非常相似——除了这个表没有声明所有元素都是由大猿创建的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's humbling to know that all things are made up of such little ones.",
+    "value": "知道所有的东西都是由这样的小东西组成的，真让人感到谦卑。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Boring diagram.",
+    "value": "无聊的图表。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Eager. A table of all currently known elements. Who's to say there aren't more waiting to be discovered?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This is the most boring game of Tetris I've ever seen... Wait...",
+    "value": "这是我见过的最无聊的俄罗斯方块游戏。。。等待"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The building blocks of all that we know.",
+    "value": "我们所知道的一切的基石。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A list of a bunch of elements. I ain't got the time to memorize 'em all.",
+    "value": "一系列元素的列表。我没时间把它们都背下来。"
+  }
+]

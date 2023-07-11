@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block that connects to many cables.",
+    "value": "上面有电缆。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chilled Cable Connector",
+    "value": "冷却电缆连接器"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. A block that connects to many cables. Tightly packed.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "They look like vinesss.",
+    "value": "它们看起来像藤藤藤。"
+  }
+]

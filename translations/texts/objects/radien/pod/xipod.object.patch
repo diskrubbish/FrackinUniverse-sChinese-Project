@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sleeping pod made by a X'i.",
+    "value": "一个艾肯人制造的睡舱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Pod",
+    "value": "艾肯吊舱"
+  }
+]

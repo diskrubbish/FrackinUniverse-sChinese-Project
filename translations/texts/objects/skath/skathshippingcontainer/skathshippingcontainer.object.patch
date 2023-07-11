@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A very large container used to ship a lot of goods.",
+    "value": "用来装运大量货物的非常大的集装箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Shipping Container",
+    "value": "绘世者集装箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Wherever there's one of these containers, a Skath guard is usually nearby. Or worse.",
+    "value": "只要有这样的集装箱，附近通常都会有一名斯卡特警卫。或者更糟。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A robust Skath shipping container. Is it unguarded?",
+    "value": "坚固的绘世者运输集装箱。它没有防备吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hidesss in waterdragon container. Jumpsss out!",
+    "value": "叶族人躲在水龙容器里。跳出来！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. The Skath seem to use these to transport a huge variety of goods.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I remember workers used to live in containers like these. Only less high tech...",
+    "value": "我记得工人们过去住在这样的容器里。只有不那么高科技..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Hylotl use similar containers to transport our goods underwater.",
+    "value": "鲛人使用类似集装箱的运输器在水下运输我们的货物。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now that's an interesting lookin' container. What's in it?",
+    "value": "这是一个有趣的容器。里面有什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "These containers are usually found on heavy carriers, to transport food, weapons and materials from planet to planet.",
+    "value": "这些集装箱通常装在重型运输车上，用于将食物、武器和材料从一个星球运送到另一个星球。"
+  }
+]

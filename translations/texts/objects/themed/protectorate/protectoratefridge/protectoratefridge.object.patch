@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A standard issue Protectorate dorm room refrigerator.",
+    "value": "标准问题大地守护团宿舍冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protectorate Fridge",
+    "value": "大地守护团冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Smells clean... Nothing like the one we had in our dorm.",
+    "value": "闻起来很干净...没有比我们宿舍里的唯一者更好的了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The technology used to preserve foods in this fridge is very similar to the ones used in launched status pods.",
+    "value": "这种冰箱中用于保存食物的技术与已发布状态豆荚中使用的技术非常相似。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fridge ssmells clean... too clean...",
+    "value": "冰箱烤肉很干净...太干净了..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relieved. I suppose they salvaged a clean fridge from the wreckage.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A dorm fridge. When it's empty, its only slightly less filled than we had it back at the Academy.",
+    "value": "宿舍的冰箱。当它是空的时候，它的容量只比我们在学院时的容量稍微少一点。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A remarkably kept Protectorate refrigerator. I'll take care to keep it that way.",
+    "value": "保存完好的大地守护团冰箱。我会注意保持这种状态。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An ol' dorm fridge...",
+    "value": "旧宿舍冰箱..."
+  }
+]

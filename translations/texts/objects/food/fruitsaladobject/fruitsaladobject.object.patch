@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Various fruits all conveniently mixed together.",
+    "value": "各种水果都很方便地混合在一起。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fruit Salad",
+    "value": "水果沙拉"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran once wanted to make Meat Sssalad! But Floran's Greenfinger sssaid no...",
+    "value": "叶族人曾经想做肉沙拉！但是叶族人的绿手指说不..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. A healthy and colorful treat.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "YUMMY, YUMMY.",
+    "value": "好吃，好吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Someone went and washed and peeled all them tasty fruits.",
+    "value": "有人去洗了洗，剥了所有美味的水果。"
+  }
+]

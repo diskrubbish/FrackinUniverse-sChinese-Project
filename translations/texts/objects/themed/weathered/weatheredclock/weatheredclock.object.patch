@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An exceptionally fashionable wooden grandfather clock.",
+    "value": "一个非常时髦的木制落地钟。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Weathered Clock",
+    "value": "风化时钟"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "There's something deeply relaxing about this clock.",
+    "value": "这只钟有点让人放松。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Does that constant ticking not drive people mad? I can't wrap my head around it.",
+    "value": "这种持续的滴答声不会让人发疯吗？我不能把我的头绕在它周围。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Noisy old clock.",
+    "value": "嘈杂的旧钟。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. As old as this clock is, it's still accurate down to the second!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Real talk: are there grandMOTHER clocks?",
+    "value": "真人秀：有祖母钟吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The ticking of this clock is more melodic than it is irritating.",
+    "value": "这只钟的滴答声与其说是令人恼火，不如说是悦耳动听。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I don't have no need for a clock. But it's nice enough lookin', I guess.",
+    "value": "我不需要时钟。但我想这已经足够好看了。"
+  }
+]

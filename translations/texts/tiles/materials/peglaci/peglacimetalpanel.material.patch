@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A panel made of a secret Peglaci alloy.",
+    "value": "由企鹅合金制成的面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Panel",
+    "value": "合金面板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. A panel composed of a complex alloy similar to durasteel.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bumpy metal block. Cold.",
+    "value": "块状金属块。好好好冷。"
+  },
+  {
+    "op": "replace",
+    "path": "/peglaciDescription",
+    "raw": "A panel of one of our alloys - strong as steel, and well suited for cold temperatures.",
+    "value": "由我们的一种合金制成的面板——坚固如钢，且对低温环境有着良好的适应性。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A panel of one of our alloys - strong as steel, and well suited for cold temperatures.",
+    "value": "由我们的一种合金制成的面板——坚固如钢，且对低温环境有着良好的适应性。"
+  }
+]

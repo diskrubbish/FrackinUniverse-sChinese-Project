@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A unique painting of a X'ian model.",
+    "value": "一幅独特的绘画，上面画的是艾肯模特。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Model Portrait",
+    "value": "艾肯模特画像"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A beautiful painting by the X'i. It appears to be wonderfully original.",
+    "value": "艾肯绘制的一幅美丽的画。它看起来非常新颖。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's a dull but impactful painting of a X'ian model and their child. The feather detail...",
+    "value": "一个乏味但却有影响力的艾肯模型和他们的孩子画的...羽毛的细节。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Painting of fluffbutt with sssqueaky toy!",
+    "value": "画着有毛绒绒的屁股的吱吱吱吱作响的玩具。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This painting is beautifully made.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Aw man, I didn't know these guys were artists!",
+    "value": "噢，我不知道这些人是艺术家！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An intricate painting of a X'ian model and a strange blobby creature.",
+    "value": "一个复杂的艾肯模特肖像和一个奇怪的斑点生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's an old X'ian model. Don't think they're around no more.",
+    "value": "一个老练的艾肯模特。别以为他们再也不在了。"
+  },
+  {
+    "op": "replace",
+    "path": "/radienDescription",
+    "raw": "Fashion is huge in our race, no matter the religion or culture.",
+    "value": "无论在我们种族的宗教还是文化上，时尚的影响都是巨大的。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "For going to mysterious places. It's still emitting a signal.",
+    "value": "得自一个神秘的地方。哪怕现在它还可以发出信号。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Teleporter Radar",
+    "value": "电子信号雷达"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A standard radar dish.",
+    "value": "非常标准的无线电设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Nice dish.",
+    "value": "这个无线电装置简直棒极了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran not meant to touch any radar after last time.",
+    "value": "叶族人再也不想碰任任任何的雷达了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Interested. A radar dish.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A radar dish for... Radar things.",
+    "value": "这只是一个无线电。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A dish for receiving radio waves.",
+    "value": "这个无线电设备是用来接收无线电的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some kinda science dish.",
+    "value": "有点像科学用的无线电。"
+  }
+]

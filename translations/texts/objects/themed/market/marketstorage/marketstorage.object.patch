@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A variety of containers used for shipping produce.",
+    "value": "用于运输农产品的各种容器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Market Storage",
+    "value": "市场存储"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These crates and such are meant for produce, but I imagine anything else will fit just as well.",
+    "value": "这些板条箱之类的东西是用来生产的，但我想其他任何东西都适合。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Oh! This crate here still smells faintly of apples.",
+    "value": "哦！这箱子里还有淡淡的苹果味。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can hide in fruity-smelling boxes and wait for prey to passs.",
+    "value": "叶族人可以躲在有水果味的盒子里，等待猎物通过。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Contemplative. Surely I can find a use for these containers outside of storing produce.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "There's a lot of sturdy containers here. Maybe I can use them for something?",
+    "value": "这里有很多坚固的容器。也许我可以用它们做点什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such a haphazard collection. Surely the owner won't miss a container or two going missing...",
+    "value": "如此随意的收藏。货主肯定不会错过一两个丢失的集装箱..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Containers like these are useful for a whole heap o' things.",
+    "value": "像这样的容器对一堆东西都很有用。"
+  }
+]

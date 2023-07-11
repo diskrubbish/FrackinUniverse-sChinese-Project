@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bed made from exonite.",
+    "value": "一张由长石制作的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exonite Bed",
+    "value": "长石床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The style reminds me a little of the hylotl.",
+    "value": "这风格稍稍让我想起了鲛人。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of Hylotl craftsmanship.",
+    "value": "这个让我想起鲛人的工艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fisssh people bed...?",
+    "value": "鱼鱼鱼人床...?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A well-made bed.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The crystal in this bed looks pretty.",
+    "value": "这张床上的水晶看着太漂亮了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This bed oddly reminds me of my people.",
+    "value": "这张床反常的让我想起我的同胞。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This bed is mighty pretty.",
+    "value": "这张床真漂亮。"
+  }
+]

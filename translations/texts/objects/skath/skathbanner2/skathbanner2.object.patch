@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A banner with the emblem of the Seekers on it.",
+    "value": "带有探索者标志的旗帜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Seeker Banner",
+    "value": "绘世者探索者旗帜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The emblem of the Seekers, the Skath's science division.",
+    "value": "探索者的标志，绘世者的科学部门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The grounded make similar banners.",
+    "value": "他们制作类似的横幅。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hidesss behind waterdragon banner. Jumpsss out!",
+    "value": "叶族人隐藏藏藏藏在水龙的旗旗旗帜后面。跳跳跳跳出来！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informed. This banner represents the scientific research department of the Skath.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This banner reminds me of the ones we had in the Protectorate.",
+    "value": "这个横幅让我想起了我们在保护国的那些经历。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "While Skath technology is ugly, their craftmanship with banners is admirable.",
+    "value": "虽然绘世者的技术是丑陋的，但是他们的工艺与旗帜非常令人钦佩的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fancy lookin' banner, probably made by the Skath.",
+    "value": "一个看起来很漂亮的横幅，可能是由绘世者制作的。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "This banner bears the emblem of the Seekers, our military's scientific research division. A tiny branch compared to the Vanguard.",
+    "value": "这面旗帜上有我们军队的科研部门“探索者”的徽章。与先锋相比是一个小分支。"
+  }
+]

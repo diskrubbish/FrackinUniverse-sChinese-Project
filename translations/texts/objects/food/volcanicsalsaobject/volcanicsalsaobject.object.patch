@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fiery salsa made from fruit and veg that can really bring the heat!",
+    "value": "由水果和蔬菜制成的火辣沙拉，真的能带来热量！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Volcanic Salsa",
+    "value": "火山沙拉"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hissss! Keep fiery sssauce away from Floran!",
+    "value": "嘘！让火辣辣的沙司远离叶族人！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. Only the most daring Glitch attempt to ingest this salsa. Well, them and the attention seekers.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Whoo-ee! That there salsa packs a punch!",
+    "value": "呼！给这个沙拉一拳！"
+  }
+]

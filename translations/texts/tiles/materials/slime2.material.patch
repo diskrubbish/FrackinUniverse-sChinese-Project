@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A thick mucus. It's tempting to poke it.",
+    "value": "粘稠的黏液。真想戳戳它。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Translucent Slime Block",
+    "value": "半透明黏液方块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Hesitation. A vulgar, slimy block.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssslimy!",
+    "value": "黏黏黏糊糊的。"
+  }
+]

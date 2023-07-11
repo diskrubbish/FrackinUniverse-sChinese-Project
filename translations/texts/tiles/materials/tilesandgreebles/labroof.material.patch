@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Plasteel roofing.",
+    "value": "塑钢屋顶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasteel Roofing",
+    "value": "塑钢屋顶"
+  }
+]

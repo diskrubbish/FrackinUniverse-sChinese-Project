@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Don't stick your hand on the underside.",
+    "value": "不要把手放在下面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Burger Fool Table",
+    "value": "汉堡傻瓜桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I do hope someone washed this table down before I came in.",
+    "value": "我真希望在我进来之前有人把这张桌子洗干净。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "There are still crumbs and salt coating the table...",
+    "value": "桌子上还有面包屑和盐..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Table won't be big enough for Floran'sss order.",
+    "value": "这张桌子不够叶族人点的菜。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Understanding. This table is filthy, but seeing how the employees here are, I suppose they can't quite get around to cleaning it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This table's kinda cheap.",
+    "value": "这张桌子有点便宜。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Some hand sanitizer would be a worthy investment here.",
+    "value": "一些洗手液在这里是值得投资的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just brush the crumbs off with a napkin and sit on down.",
+    "value": "用餐巾把面包屑刷掉，然后坐下来。"
+  }
+]

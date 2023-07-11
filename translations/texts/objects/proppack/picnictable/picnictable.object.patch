@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pairs perfectly with Pic-a-nic baskets!",
+    "value": "与Pic-a-nic篮子完美搭配！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Picnic Table",
+    "value": "野餐桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An outdoor picnic sounds just lovely.",
+    "value": "户外野餐听起来很不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Sitting out here would be rather calming.",
+    "value": "坐在这里会比较平静。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran has fought with antss over picnics before.",
+    "value": "叶族人以前曾为野餐争吵过。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Charmed. A picnic table! I could certainly sit here for a while.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Gotta watch out for those red ants before sitting down - they're feisty little things!.",
+    "value": "坐下来之前要小心那些红蚂蚁——它们是活泼的小东西！。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Eating outside amongst nature? What a romantic idea!",
+    "value": "在大自然中吃东西？多么浪漫的想法！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A picnic bench. Maybe I could eat out here...?",
+    "value": "野餐长凳。也许我可以在这里吃...？"
+  }
+]

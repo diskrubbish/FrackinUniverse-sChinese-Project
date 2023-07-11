@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A matter block. A block that matters.",
+    "value": "一个物质块，一个很重要的物块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Matter Block",
+    "value": "物质快"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Fascinated. This appears to be a rare form of raw matter.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran musst gather colourful matter crystal.",
+    "value": "叶族人一一一定要得到多多彩的物质水晶。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some strange lookin' crystals.",
+    "value": "一些看起来很奇怪的水晶。"
+  }
+]

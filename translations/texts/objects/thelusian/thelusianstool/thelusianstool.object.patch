@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A resin and chitin stool, uncomfortable to most races.",
+    "value": "一个由树脂和几丁质制作的凳子，对大多数种族来说都不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Stool",
+    "value": "蚁族凳子"
+  }
+]

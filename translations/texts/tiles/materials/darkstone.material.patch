@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Darkstone",
+    "value": "黑暗石头"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stone of solid darkness.",
+    "value": "一块固体黑暗之石。"
+  }
+]

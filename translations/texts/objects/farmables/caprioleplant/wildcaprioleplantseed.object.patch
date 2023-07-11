@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Increases your limb strength for jumping. Contains a potent narcotic.",
+    "value": "通过增加你的肢体力量，让你跳得更高。其中含有一种强效麻醉剂。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Capriole Seed",
+    "value": "跳跃花种子"
+  }
+]

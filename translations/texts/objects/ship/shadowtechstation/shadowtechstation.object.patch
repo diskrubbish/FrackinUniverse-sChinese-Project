@@ -1,0 +1,188 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This tech station allows me to communicate with S.A.I.L and enable tech!",
+    "value": "这个科技站允许我与SAIL展开交流，且启用科技！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tech Station",
+    "value": "科技站"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A tech station. I can enable tech and talk to S.A.I.L through this.",
+    "value": "一个科技站。我可以启用科技，并且通过它与SAIL交谈。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran use thisss for magiccc and talk to sshhip S.A.I.L!",
+    "value": "魔魔魔法，为叶族人而用，为了与飞船SAIL的交交交谈！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informative. This tech station allows me to choose tech and talk to S.A.I.L.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A tech station. Allows me to communicate with S.A.I.L and enable tech!",
+    "value": "一个科技站，允许我与SAIL进行交流，且启用科技。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This tech station enables tech and allows me to communicate with S.A.I.L.",
+    "value": "这个科技站可以启用科技，并且允许我和SAIL进行沟通。"
+  },
+  {
+    "op": "replace",
+    "path": "/kirhosDescription",
+    "raw": "I can use this to load up on augs or chat with S.A.I.L, if I get lonely.",
+    "value": "如果我感到孤独的话，我可以使用这个设施加载增强科技，或者与SAIL聊聊天。"
+  },
+  {
+    "op": "replace",
+    "path": "/shadowDescription",
+    "raw": "This reminds me of the One.",
+    "value": "这让我想起了唯一者。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/0/0",
+    "raw": "...Initializing bootup sequence...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/0/1",
+    "raw": "/ai/portraits/shadowportrait.png:blink",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/1/0",
+    "raw": "I am S.A.I.L, your Ship-based Artificial Intelligence Lattice. I manage the maintainance of your ship.",
+    "value": "您好.操作者.我是S.A.I.L, 您的舰载人工智能模块.我负责管理您的飞船的维护事项。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/1/1",
+    "raw": "/ai/portraits/shadowportrait.png:talk.0",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/2/0",
+    "raw": "I am set to mimic species designation: Human. Reason: Unknown.",
+    "value": "我被设定为模仿指定的物种：人类。原因：不明。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/2/1",
+    "raw": "/ai/portraits/shadowportrait.png:talk.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/3/0",
+    "raw": "Error: Ship is damaged. Fragment must repair our means of transport.",
+    "value": "错误：飞船已损坏。碎片必须修复我们的传送方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/3/1",
+    "raw": "/ai/portraits/shadowportrait.png:talk.0",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/4/0",
+    "raw": "Our location is currently unknown. Fragment should explore orbited world for means of repair.",
+    "value": "我们当前所处的位置不明。碎片应当探索飞船环绕而行的世界，以找到修复的方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/4/1",
+    "raw": "/ai/portraits/shadowportrait.png:refuse.0",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/0/0",
+    "raw": "Fragment should interface with the system.",
+    "value": "碎片应当与系统对接。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/0/1",
+    "raw": "/ai/portraits/shadowportrait.png:unique.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/1/0",
+    "raw": "Fragment. Please reboot the system.",
+    "value": "碎片。请重启系统。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/1/1",
+    "raw": "/ai/portraits/shadowportrait.png:unique.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/2/0",
+    "raw": "To awaken, Fragment must interface.",
+    "value": "要唤醒系统，碎片必须对接。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/2/1",
+    "raw": "/ai/portraits/shadowportrait.png:unique.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/3/0",
+    "raw": "Fragment must interface.",
+    "value": "碎片必须对接。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/3/1",
+    "raw": "/ai/portraits/shadowportrait.png:unique.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/4/0",
+    "raw": "Proceeding requires interfacing with the Fragment.",
+    "value": "程序需要与碎片对接。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/4/1",
+    "raw": "/ai/portraits/shadowportrait.png:unique.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/5/0",
+    "raw": "Rebooting requires a conscious entity to interact with the S.A.I.L console.",
+    "value": "系统重启需要经由一名有意识的智慧实体与S.A.I.L控制台交汇互动才能进行。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/5/1",
+    "raw": "/ai/portraits/shadowportrait.png:unique.1",
+    "value": ""
+  }
+]

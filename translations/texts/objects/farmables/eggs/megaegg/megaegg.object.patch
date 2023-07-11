@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This egg is at least twice as big as most.",
+    "value": "这个蛋至少是大多数的蛋的两倍大。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Unknown Egg",
+    "value": "未知蛋"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A microwave. For when you're hungry enough to nuke your food.",
+    "value": "微波炉。当你饿到可以用核弹炸食物的时候。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Microwave",
+    "value": "绘世者微波炉"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "  Plasma Microwave",
+    "value": "  等离子微波炉"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Cooking convenience",
+    "value": "  便于烹饪"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Just a basic microwave, it seems.",
+    "value": "看起来只是一个基本的微波炉。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": " could cook some basic meals with this.",
+    "value": " 用这个玩意儿就能烹饪出一些简单的食物。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran putsss food in microwave. Watchesss food ssspin!",
+    "value": "叶族人把食物放进微波炉。看着食物旋转！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This microwave cooks food with the heat of plasma.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I could have a bite. Just need to find out how to open the microwave...",
+    "value": "我可以咬一口。只是想知道怎么打开微波炉..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Microwaving food is such a lazy way to make food.",
+    "value": "微波食品是一种很懒的制作食物的方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "This microwave uses plasma to heat and cook food. It's nice to have around for a snack.",
+    "value": "这种微波炉使用等离子加热和烹饪食物。有人在附近吃点心真好。"
+  }
+]

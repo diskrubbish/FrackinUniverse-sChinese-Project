@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Perfect Threads",
+    "value": "皇帝的新衣"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Mew. I like shiny. You like shiny too, right? How about we make the shiniest outfit ever? Need specific, very special ingredients. Fetch 3 each. Gold, diamond, crystal, core fragments, pure erchius. Quickly. Mew.",
+    "value": "喵 我喜欢闪亮。您也喜欢闪亮，对不对？我们做一套有史以来最闪亮的衣服怎么样？ 需要一些特定的，非常特殊的成分。去取每样3份。黄金，钻石，水晶，星核碎片，纯厄尔吉斯。搞快点。喵"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Bring ^cyan;Khe^reset; the ingredients.",
+    "value": "将成分带给^cyan;溪^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "A bit of weaving here, a bit of trimming there, *burp* mrr... and it's done. If you need a replacement set, I'll have some for sale.",
+    "value": "在这里进行一些编织，在此处进行一些修剪，*劈里啪啦劈里啪啦* emmmm...就完成了。 如果您需要替换套件，我会出售的。"
+  }
+]

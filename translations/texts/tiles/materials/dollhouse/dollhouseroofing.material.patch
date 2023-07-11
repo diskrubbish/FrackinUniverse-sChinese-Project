@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Traditional looking dollhouse roofing.",
+    "value": "这是传统的玩具屋屋顶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dollhouse Roofing",
+    "value": "玩具屋屋顶"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This dollhouse roofing is structurally sound.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Dollhouse roofing iss pretty.",
+    "value": "玩具屋屋顶很很很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't what I'm used to, but nice lookin' roofing all the same.",
+    "value": "尽管不是我习惯的见到的那种屋顶，但它仍然很好看。"
+  }
+]

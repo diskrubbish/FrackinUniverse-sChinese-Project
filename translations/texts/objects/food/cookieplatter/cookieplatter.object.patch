@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Freshly baked!",
+    "value": "新鲜出炉！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cookie Platter",
+    "value": "饼干盘"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "How yummy!",
+    "value": "多好吃啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I am feeling a bit peckish...",
+    "value": "我觉得有点饿..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Yum, yum!",
+    "value": "好吃，好吃！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excited. They smell divine.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Let's hope they're not raisin....",
+    "value": "希望他们不是葡萄干...。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I can feel my teeth rotting just looking at this sugary nightmare.",
+    "value": "看着这甜蜜的噩梦，我能感觉到我的牙齿在腐烂。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Don't mind if I do!",
+    "value": "别介意我这么做！"
+  }
+]

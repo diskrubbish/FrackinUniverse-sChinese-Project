@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stellar stool, now 99.99% empty space, just like the \"atoms\" it's made of.",
+    "value": "一个恒星凳，现在99.99% 的空间，就像它的“原子”组成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Stool",
+    "value": "星辰凳"
+  }
+]

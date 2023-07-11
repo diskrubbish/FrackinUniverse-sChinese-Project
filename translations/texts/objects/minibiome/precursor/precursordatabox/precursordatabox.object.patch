@@ -1,0 +1,80 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This seems to provide a way to access precursor data to analyze inserted items.\n^cyan;Research Rate^reset;: 5% (0.5%), 0.5s",
+    "value": "这似乎提供了一种访问先驱数据以分析放入物品的方法。\n^cyan;研究效率^reset;: 5% (0.5%), 0.5s"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Data Box",
+    "value": "先驱数据盒"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This appears to provide access to precursor data.",
+    "value": "这似乎提供了对先驱数据的访问权限。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Data access box. Symbols are unrecognizable, but worth investigating to find knowledge.",
+    "value": "数据存取盒。符号无法辨认，但为了获取知识，值得调查。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Paper booksss are bad enough!! What doess Floran want with digital booksss?",
+    "value": "纸质书已经够够够糟糕了！电子书又有什什什么用呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprise. I can plug right into this to learn ancient precursor secrets.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Wow. This thing is ancient. It may contain long-forgotten knowledge.",
+    "value": "哇。这东西非常古老，可能包含着被遗忘已久的知识。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "While I'm sure the precursor information is very interesting, these moving squiggles are giving me a headache.",
+    "value": "虽然先驱信息非常有趣，但这些移动的曲线让我头疼。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Whoo! This here should have some interesting ol' precursor secrets in it!",
+    "value": "哇哦！这里面应该有一些有趣的先驱秘密！"
+  },
+  {
+    "op": "replace",
+    "path": "/radienDescription",
+    "raw": "The information displayed here feels otherworldly from a glance. I'm getting a nostalgic feeling for some reason.",
+    "value": "这里所显示的信息一看就非同一般。不知什么原因，我有种怀旧的感觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/thelusianDescription",
+    "raw": "I should take the information here back to my hive to find out what it means.",
+    "value": "看不懂。我应该把这些信息带回蜂巢来找出它的含义。"
+  },
+  {
+    "op": "replace",
+    "path": "/kirhosDescription",
+    "raw": "Ooh goody! Ancient technology with precursor files!",
+    "value": "太棒了！带有前驱文件的古老技术！"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "Ooh goody! Ancient technology with precursor files!",
+    "value": "太棒了！带有前驱文件的古老技术！"
+  }
+]

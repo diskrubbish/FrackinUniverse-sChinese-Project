@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A creepy doom door.",
+    "value": "一扇令人毛骨悚然的末日门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Doom Door Prop",
+    "value": "末日门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This door is creepy enough to stop anyone trying to break in.",
+    "value": "这扇门恐怖得足以阻止任何人试图破门而入。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A very eerie door.",
+    "value": "一扇非常可怕的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hide behind door. Then door scare Floran.",
+    "value": "叶族人躲在门后。然后门吓着了叶族人。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Nervous. This door has an eye on it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fairly terrifying doom door.",
+    "value": "一扇相当恐怖的末日之门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A robust doom door. It also has an eye on it. Strange design.",
+    "value": "一扇坚固的末日之门。它上面也有只眼睛。奇怪的设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This here door is lookin' at me.",
+    "value": "这扇门正看着我。"
+  }
+]

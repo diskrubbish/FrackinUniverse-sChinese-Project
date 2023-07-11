@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute stool, suitable for a princess.",
+    "value": "一个可爱的凳子，坐在上面犹如一位公主。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Stool",
+    "value": "可爱的凳子"
+  }
+]

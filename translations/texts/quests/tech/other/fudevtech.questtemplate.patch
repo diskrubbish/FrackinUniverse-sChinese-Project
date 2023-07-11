@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Developers only",
+    "value": "仅限开发者"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "If you're not a developer, you shouldn't be seeing this.",
+    "value": "如果你不是开发者，你就不应该看到这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "I hope you're happy with yourself.",
+    "value": "你自己开心就好。"
+  }
+]

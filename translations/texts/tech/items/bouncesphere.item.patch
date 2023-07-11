@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bouncing distortion sphere. Quite useful.",
+    "value": "可以弹跳的变形球，真的很有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Bounce Sphere^reset;",
+    "value": "^#77acc3;弹跳球^reset;"
+  }
+]

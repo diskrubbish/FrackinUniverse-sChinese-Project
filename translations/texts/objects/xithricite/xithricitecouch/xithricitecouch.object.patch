@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A couch made from xithricite.",
+    "value": "赛德瑞瑟晶体制成的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Couch",
+    "value": "赛德瑞瑟晶体沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A couch seemingly made from star matter.",
+    "value": "一张似乎由星星物质制成的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I feel like I'm looking into the night sky.",
+    "value": "我感觉我在仰望夜空。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstarry couch!",
+    "value": "星星沙发！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. This couch seems to be made from the stars themselves.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This couch looks like it's made from stars!",
+    "value": "这张沙发看起来像是星星做的！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This couch makes me think fondly of the night sky.",
+    "value": "这张沙发让我怀念夜空。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This couch is mighty pretty.",
+    "value": "这沙发真漂亮。"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A /'NXOR'/ gate. Remains on unless exactly 1 input is on, and the rest off.",
+    "value": "一个同或门。需要接入一个输入节点才能激活/ON/。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NXOR Gate (3 Inputs, 1-Hot)",
+    "value": "同或门(三输入，1)"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A /'NXOR'/ gate. Remainsss on unlesss exxactly 1 input isss on, and the ressst off.",
+    "value": "一个同或门。需要接入一个输输输入节点才能激活/ON/。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. A /'NXOR'/ gate. Remains on unless exactly 1 input is on, and the rest off.",
+    "value": ""
+  }
+]

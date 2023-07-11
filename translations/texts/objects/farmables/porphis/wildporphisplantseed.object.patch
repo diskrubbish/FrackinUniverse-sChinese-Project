@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Can increase power and health.",
+    "value": "可以收获态射草，食用后会提高伤害和生命值上限。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Porphis Bulb",
+    "value": "态射草种子"
+  }
+]

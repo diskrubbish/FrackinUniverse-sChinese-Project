@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A painting of a tiny, unknown creature. Perhaps it's a rat?",
+    "value": "一幅画着一个不知名的小生物的画。也许是老鼠？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Valley Creature Painting",
+    "value": "山谷生物画"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What a strange creature! It's rather adorable, however.",
+    "value": "真奇怪！然而，它相当可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Is that a living creature? It looks like an apple from here.",
+    "value": "那是活物吗？从这里看起来像个苹果。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran feels sstrange kinship with weird creature.",
+    "value": "叶族人觉得自己和这个奇怪的生物有着血缘关系。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Puzzled. This creature is depicted with stars in its possession.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "D'aw. It looks like something out of a storybook!",
+    "value": "噢。看起来像是故事书里的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "How adorable! I can't say I've any idea what this creature is, however.",
+    "value": "真可爱！然而，我不能说我对这个生物一无所知。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I know it ain't an apple, but this paintin's got me feelin' mighty peckish...",
+    "value": "我知道这不是苹果，但这幅画让我感觉非常饿。。。"
+  }
+]

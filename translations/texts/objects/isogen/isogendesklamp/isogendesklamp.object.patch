@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A blue desk lamp. It feels like it's frozen.",
+    "value": "蓝色台灯。感觉像是被冻住了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Desk Lamp",
+    "value": "寒霜台灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This light conserves so much energy, it's freezing.",
+    "value": "这盏灯保存了这么多能量，简直是冰天雪地。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A harsh, cold light.",
+    "value": "刺眼、寒冷的光线。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Light is bright, too cold for Floran.",
+    "value": "光线明亮，对叶族人来说太冷了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. This light freezes the air around it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A cold, blue light.",
+    "value": "寒冷的蓝光。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A cold, blue light. It creates a freezing atmosphere. Literally.",
+    "value": "寒冷的蓝光。它制造了一种冰冻的气氛。字面上"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's mighty cold. I could keep my drinks cool.",
+    "value": "真冷。我可以让我的饮料保持凉爽。"
+  }
+]

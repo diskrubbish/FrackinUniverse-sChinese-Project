@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Impenetrable III",
+    "value": "刀枪不入 III"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Increase passive defense by 15",
+    "value": "增加15点被动防御"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Increase passive defense by 15",
+    "value": "增加15点被动防御"
+  }
+]

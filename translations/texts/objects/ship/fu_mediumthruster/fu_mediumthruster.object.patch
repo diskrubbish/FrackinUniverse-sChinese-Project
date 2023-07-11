@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Medium-sized, decorative booster to represent FTL travel. Can be placed anywhere.",
+    "value": "中型，代表超光速旅行的推进器。可以放在任何地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medium Decorative FTL Booster",
+    "value": "中型装饰性FTL推进器"
+  }
+]

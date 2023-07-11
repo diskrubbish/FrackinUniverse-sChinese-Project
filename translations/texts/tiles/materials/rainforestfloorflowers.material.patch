@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Flowery, lush soil.",
+    "value": "美丽、苍翠。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rainforest Flowers",
+    "value": "雨林花儿"
+  }
+]

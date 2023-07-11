@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "I can use this to load up on augs or chat with S.A.I.L, if I get lonely.",
+    "value": "如果我感到孤独的话，我可以用这个来加载 augs 或者与 S.A.I.L 聊天。"
+  },
+  {
+    "op": "replace",
+    "path": "/thelusianDescription",
+    "raw": "Some sort of glow screen thing.",
+    "value": "某种荧光屏的东西。"
+  }
+]

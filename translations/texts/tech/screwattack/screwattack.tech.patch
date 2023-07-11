@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Become invincible with this spinning jump technique!",
+    "value": "这种螺旋跳跃技术让你战无不胜！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Screw Attack",
+    "value": ""
+  }
+]

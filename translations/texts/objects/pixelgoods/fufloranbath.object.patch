@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A truly unforgettable bathing experience!",
+    "value": "一次真正难忘的沐浴体验！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Leafy Bathtub",
+    "value": "绿叶浴缸"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A cute leafy bath. Looks big enough for an Apex.",
+    "value": "一个可爱的绿叶浴缸。看起来够一只猿族洗澡了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A bath with a shower. Like water off an Avian's back.",
+    "value": "带淋浴的浴缸。就像翼族背上的水。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big ssswimming bucket.",
+    "value": "大的游泳桶。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Smug. Glitch do not need to take baths.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A nice hot bath. Just what the doctor ordered. Only things missing are some bubbles and candles.",
+    "value": "一个很好的浴缸，而这正是医生想要的，就是缺少一些泡泡和蜡烛。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A trough in which Floran wash. We Hylotl simply go for a swim.",
+    "value": "对叶族人来说只是洗浴的水槽。而对我们鲛人来说只是用来游泳的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I do enjoy a hot bath every once in a while.",
+    "value": "我确实喜欢偶尔洗个热水澡。"
+  }
+]

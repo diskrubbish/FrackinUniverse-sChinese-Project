@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This unknown glyphs seems to generate a strange force...",
+    "value": "这个未知的文字似乎有着某种奇怪的力量..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Sigil",
+    "value": "古老符印"
+  }
+]

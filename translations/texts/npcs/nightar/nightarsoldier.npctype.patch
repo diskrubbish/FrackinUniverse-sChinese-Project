@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Attack!",
+    "value": "进攻！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/nightar/default/0",
+    "raw": "You want a fight? Very well!",
+    "value": "你想挑架？很好！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/nightar/default/1",
+    "raw": "Our swordsmanship is unparalleled!",
+    "value": "我们的剑术是无可匹敌的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/nightar/default/2",
+    "raw": "This is our territory, and ours alone!",
+    "value": "这是我们的地盘，只属于我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/nightar/default/3",
+    "raw": "I've been trained by the best! You have no chance against me!",
+    "value": "我受过最好的训练！你根本没有机会与我作对！"
+  }
+]

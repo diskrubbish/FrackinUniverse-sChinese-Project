@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table modeled after an Iguarmor. Now minus spikes!",
+    "value": "仿造武装蜥蜴制成的桌子。已经去除了棱角！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Monstrous Table",
+    "value": "恐怖的桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Well this certainly... colorful.",
+    "value": "这当然...丰富多彩的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I keep expecting this table to get up and start crawling towards me...",
+    "value": "我一直期待着这张桌子站起来向我爬过来..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Where are Iguarmor's ssspikes? Floran use them to make throwing knives.",
+    "value": "武装蜥蜴的尖刺在哪里？叶族人用它们做飞刀。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unimpressed. An unusual and gaudy table. It looks highly impractical.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Aw, hey! The table stand works as a footrest!",
+    "value": "嘿！这个桌子架可以当脚凳用！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'll give the designers of this table an A for novelty for this table, but for everything else...",
+    "value": "我会给这张桌子的设计师们一个全新的设计，但是其他一切..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Aren't Iguarmor shells round anyhow?",
+    "value": "难道武装蜥蜴炮弹不在附近吗？"
+  }
+]

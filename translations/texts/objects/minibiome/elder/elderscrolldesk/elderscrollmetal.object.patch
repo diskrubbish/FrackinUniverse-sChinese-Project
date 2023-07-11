@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Translate texts, or use the Velbex to Snarsh Garflipps.",
+    "value": "翻译文本，或者用餐具去进食加布林。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Snarshing Table",
+    "value": "分宴之桌"
+  }
+]

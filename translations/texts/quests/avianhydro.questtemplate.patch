@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^green;The Hydro Center",
+    "value": "^green;镇水核心"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "The map shows me coordinates to an underwater hydro distribution center on a far-off obscure planet. It apparently holds a great treasure. ",
+    "value": "这份地图显示出在遥远星球的水底有着某种奇怪的建筑。它显然蕴藏有巨大的宝藏。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Search the Hydro Distribution Center for great treasure.",
+    "value": "在水下建筑内寻找珍贵的财富。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "I think there was more than meets the eye to this facility. Did I explore it sufficiently, sawblades notwithstanding?",
+    "value": "我认为，这个建筑还有某些地方我还没有探索到，我是否应该再次探索？"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rather low but large desk.",
+    "value": "一张相当廉价但很大的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avali Desk",
+    "value": "羽族书桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This is nothing like the standardised desks the Miniknog supply us with.",
+    "value": "这不是科技发展部为我们提供的标准办公桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Either it's a desk for kneeling, or a feast table for very small people.",
+    "value": "只能跪着的桌子，反正我是钻不进去。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thisss bed is sssstupid, it'sss hard as a table top.",
+    "value": "这这这张床很傻傻傻，它它它看起来像桌子一样硬。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Snark. Not even a servant would eat off such a lowly table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Everything the Avali make looks like an iPod.",
+    "value": "在羽族看来这就像是iPod。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "While not as elegant as a Hylotl table, it's the same height. Clearly the Avali understand civilised dining is done kneeling.",
+    "value": "我想羽族吃饭的时候是跪着的吧，我理解了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "It's a desk, not much to say about it really.",
+    "value": "一张桌子，不需要其他说明。"
+  }
+]

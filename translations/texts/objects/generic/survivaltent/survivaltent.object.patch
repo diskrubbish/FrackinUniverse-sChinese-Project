@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This superior tent protects from weather-related effects.",
+    "value": "这个高级帐篷将保护你免受各种气候的影响。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "TC-1 Survival Tent",
+    "value": "TC-1 生存帐篷"
+  }
+]

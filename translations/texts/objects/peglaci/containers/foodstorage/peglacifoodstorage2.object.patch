@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A food storage device, good for keeping food fresh.",
+    "value": "食物储存装置，用于保持食物新鲜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Fridge",
+    "value": "合金冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fridge. Let's hope there's food inside.",
+    "value": "一台冰箱。希望里面能有些食物。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What's in the fridge, I wonder?",
+    "value": "我期待一下，这冰箱里会有些什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cold!",
+    "value": "好冷！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This fridge smells unsanitary.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fridge. I wonder if there are eggs in here?",
+    "value": "一台冰箱。或许里面有些鸡蛋？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A food-chilling device.",
+    "value": "食品冷却装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fridge! I wonder if anyone left any treats?",
+    "value": "一台冰箱！不知道有没有人留下点心？"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A device to simply store food and keep it fresh longer.",
+    "value": "一种简单地储存食物并使其保鲜更长时间的装置。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tangy jam made from neonmelons.",
+    "value": "一种由霓虹瓜制成的浓烈果酱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neonmelon Jam",
+    "value": "霓虹瓜果酱"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Could Floran use ssshiny jam as a light instead fiery torch?",
+    "value": "叶族人能用闪亮的果酱来代替火把吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. I'm not sure I want to be eating something radiating light.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A jam almost as bright as me!",
+    "value": "几乎和我一样明亮的果酱！"
+  }
+]

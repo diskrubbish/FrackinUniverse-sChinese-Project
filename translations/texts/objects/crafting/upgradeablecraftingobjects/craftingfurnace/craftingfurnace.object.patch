@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "raw": "There is effectively nothing that this furnace cannot melt down.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Fission Furnace^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Fission Furnace",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Bars and ingredients",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Without the pain of the searing flame, the metal can never realize its potential.",
+    "value": "如果没有烈火焚身的痛苦，金属就永远无法实现它的潜力。"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Old weakened metal.",
+    "value": "老化的合金。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Brittle Metal",
+    "value": "易碎合金"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Alarm. This metal makes me uncomfortable.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ready to sssnap.",
+    "value": "准备抢抢抢购。"
+  }
+]

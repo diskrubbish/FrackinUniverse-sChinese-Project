@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Extends a wire connection between a field generator and field marker.",
+    "value": "延伸力场生成器和力场标记之间的接线。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Field Extender",
+    "value": "力场扩展器"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Graffiti. A harsh warning. Ignore it. Unbreakable!",
+    "value": "涂鸦。严厉的警告。别理它。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Graffiti",
+    "value": "涂鸦"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "\"Get out while you still can\". How do I know when that expires?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'm sure it's just a joke.",
+    "value": "我相信这只是个玩笑。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wonderss if the person writing this got out?",
+    "value": "叶族人想知道写这封信的人是不是出来了？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Alarmed. A severe warning.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh, those jokers.",
+    "value": "哦，那些小丑。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Perhaps I should follow the advice.",
+    "value": "也许我应该听从建议。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A warnin' from someone. I will keep it in mind.",
+    "value": "来自某人的警告。我会记住的。"
+  }
+]

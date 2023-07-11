@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hope you're hungry...",
+    "value": "如果你饿了的话..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dinosaur Carcass",
+    "value": "恐龙尸体"
+  }
+]

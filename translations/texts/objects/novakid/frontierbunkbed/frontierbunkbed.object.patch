@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy wooden bunk bed with mooshi hide sheets.",
+    "value": "一张结实的木制双层床，上面铺着木石皮床单。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frontier Bunk Bed",
+    "value": "边境双层床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'm sure these hide sheets keep you warm while you sleep.",
+    "value": "我相信这些皮被单能让你在睡觉时保持温暖。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Sleeping in leather sheets? I'd much prefer a bed of straw.",
+    "value": "睡皮革被单？我更喜欢一张稻草床。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A bed made from hunting trophiesss? Floran impresssed, good idea.",
+    "value": "用狩猎战利品做的床？叶族人印象深刻，好主意。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. Are these sheets actually made from animal hide?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I... Wonder if this is real animal hide?",
+    "value": "我...不知道这是不是真的动物皮？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I can tell that little thought was put into the making of this bed.",
+    "value": "我看得出来，这张床的制作工艺很水。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now this is a bed I can really get some shut-eye in.",
+    "value": "现在这张床我真的可以睡一觉了。"
+  }
+]

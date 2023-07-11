@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A baked tomato with a delicous savoury filling.",
+    "value": "一种带有美味可口馅料的烤西红柿。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stuffed Tomato",
+    "value": "酿西红柿"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Tomato is ssstuffed with many breads and cheesesss.",
+    "value": "西红柿里塞满了许多面包和奶酪。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Eager. This is the sort of meal I like to take my time cutting through.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A whole heap o' stuffs bein' sandwiched inside this tomato.",
+    "value": "这西红柿里夹了一大堆东西。"
+  }
+]

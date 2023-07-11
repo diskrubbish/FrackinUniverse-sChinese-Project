@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "No, not THAT kind.",
+    "value": "不，不是那种。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Loot Crates",
+    "value": "赃物箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "By god, these crates are filled to bursting with treasure!",
+    "value": "上帝啊，这些箱子装满了财宝！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Enough gold to shame Kluex himself...",
+    "value": "足够让克鲁西斯感到羞愧的金子..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Finderss keeperss!",
+    "value": "芬德斯·基珀斯！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amazed. An incredible hoard of treasures. Who could've collected all this?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Something tells me this loot wasn't acquired legally...",
+    "value": "有东西告诉我这些赃物不是合法获得的..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "So much gold in one place makes me suspicious. I'll have to report this to the authorities... After taking a small finder's fee, of course.",
+    "value": "一个地方有这么多金子让我怀疑。我必须向当局报告这件事...当然，在收取了一小笔中介费之后。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Whoo-ee! A fella could buy out a whole town with this much gold!",
+    "value": "哇！一个家伙可以用这么多黄金买下整个城镇！"
+  }
+]

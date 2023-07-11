@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Baby Bomba",
+    "value": "宝贝球球"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I can now adjust the microsphere tech and allow it to materialize bombs using the [FIRE] key!",
+    "value": "现在我可以调整我的微型球科技，让它可以生成炸弹！(按[FIRE]键)"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "I can now adjust the microsphere tech and allow it to materialize bombs using the [FIRE] key!",
+    "value": "现在我可以调整我的微型球科技，让它可以生成炸弹！(按[FIRE]键)"
+  }
+]

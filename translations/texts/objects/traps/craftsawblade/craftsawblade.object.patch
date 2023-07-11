@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Wow, this looks sharp!",
+    "value": "哇，它看起来很锋利，"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crafted Sawblade Trap",
+    "value": "精制锯刃陷阱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Not the best way to deal with intruders, but not the worst either.",
+    "value": "这不是对付入侵者的最好办法，但也不是最坏的办法。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Avian protect their tombs well.",
+    "value": "翼族的同胞们看起来很会利用他们来保护墓穴。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssharp. Perfect for hunt.",
+    "value": "尖尖尖尖尖的锯片,用来狩猎肯定很不错"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Worried. This appears to be spinning at several thousand RPM.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "If I knew I got to play with these, I wouldn't have skipped carpentry.",
+    "value": "如果我早知道我会遇到这个,那我估计就不会放弃学习木工手艺了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A well balanced spinning blade.",
+    "value": "一个稳定高速旋转的锯刃。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Don't like blade too much, but these are all right",
+    "value": "我不喜欢旋转的页片装置，但是这个看起来还不赖。"
+  }
+]

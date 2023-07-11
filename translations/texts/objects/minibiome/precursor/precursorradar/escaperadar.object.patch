@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of radar technology utilizing completely alien methods.",
+    "value": "某种利用了完全的外星方法的雷达技术。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Transwarp Transmitter",
+    "value": "曲率发射机"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Embrace your natural madness. Activate with ^green;[F]^reset;",
+    "value": "按^green;[F]^reset;激发你的疯狂天性。奥利安费！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Invoke Madness",
+    "value": "疯狂之唤"
+  }
+]

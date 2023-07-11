@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Mild Heat Wave (Resist: ^#ff6e00;Fire^reset;)",
+    "value": "温和热浪 (抵抗: ^#ff6e00;火炎^reset;)"
+  }
+]

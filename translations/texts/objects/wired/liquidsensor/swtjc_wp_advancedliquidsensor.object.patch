@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This can detect the presence of a specific liquid.",
+    "value": "可检测特定液体的存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Advanced Liquid Sensor",
+    "value": "高级液体传感器"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thiss detectss the pressence of a sspecific liquid.",
+    "value": "可检测特特特定液体的存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This can detect the presence of a specific liquid.",
+    "value": ""
+  }
+]

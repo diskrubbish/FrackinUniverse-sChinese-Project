@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Short-ranged double-tap dodge. Increases Shield Bash chance and Protection.",
+    "value": "短程双击闪避。增加盾牌反伤几率和防御。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Dodge^reset;",
+    "value": "^#77acc3;闪避^reset;"
+  }
+]

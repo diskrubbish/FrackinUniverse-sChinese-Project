@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wall jump improvement. Double Jump!",
+    "value": "现在蹬墙跳可以连跳三次！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Wall Jump II^reset;",
+    "value": "^#77acc3;蹬墙跳 II^reset;"
+  }
+]

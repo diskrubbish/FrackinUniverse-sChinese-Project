@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A noticeboard where bounties for notorious criminals are posted!",
+    "value": "一块布告牌，上面贴着臭名昭著的罪犯的赏金令！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bounty Board (Decorative)",
+    "value": "赏金板（装饰性）"
+  }
+]

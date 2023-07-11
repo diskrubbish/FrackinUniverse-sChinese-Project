@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A juice that can taste like anything!",
+    "value": "一种可以尝起来像任何东西的果汁！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avesmingo Juice",
+    "value": "百味果果汁"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran once had avesssmingo that tasted like mooshi butt. Would not recommend.",
+    "value": "叶族人曾经有一种百味果很像牛肉的感觉，我不推荐。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. One should expect anything when eating avesmingo products.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ah sure, why not? I'm feelin' adventurous today.",
+    "value": "当然，为什么不呢？ 我今天很有冒险精神。"
+  }
+]

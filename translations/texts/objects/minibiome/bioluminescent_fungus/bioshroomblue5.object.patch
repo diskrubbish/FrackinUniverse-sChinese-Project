@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This stuff glows. Nifty.",
+    "value": "这个东西会发光。真漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bioluminescent Shroom",
+    "value": "生物荧光蘑菇"
+  }
+]

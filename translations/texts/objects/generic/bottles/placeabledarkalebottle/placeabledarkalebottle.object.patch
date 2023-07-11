@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Brand New! Placeable Mild Ale!",
+    "value": "还没喝过的低度啤酒！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Placeable Mild Ale",
+    "value": "装饰用低度啤酒"
+  }
+]

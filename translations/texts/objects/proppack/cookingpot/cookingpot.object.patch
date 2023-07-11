@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Your everyday standard cooking pot.",
+    "value": "您的日常标准烹饪锅。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cooking Pot",
+    "value": "烹饪锅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Maybe a bit basic, but it's the base of many a meal",
+    "value": "也许有点基础，但这是很多一餐的基础"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A cooking pot. Grounded ones are typically made from clay.",
+    "value": "锅。接地的通常由粘土制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstandard cooking pot.",
+    "value": "标准烹饪锅。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. Your everyday cooking pot.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A decent looking cooking pot.",
+    "value": "一个好看的烹饪锅。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A basic cooking pot. Nothing special.",
+    "value": "基本的烹饪锅。没什么特别的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just yer everyday cooking pot.",
+    "value": "只是你的日常烹饪锅。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chitin-plated end table.",
+    "value": "一张用几丁质电镀的餐桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian End Table",
+    "value": "蚁族餐桌"
+  }
+]

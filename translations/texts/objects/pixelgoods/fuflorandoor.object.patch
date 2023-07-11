@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This door is hardly suitable for keeping the weather out.",
+    "value": "这门几乎没法抵挡严峻的天气。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Leafy Door",
+    "value": "多叶门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A thin wooden door. It swings in the breeze.",
+    "value": "一扇薄薄的木门。它在微风中摇摆。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A useless door.",
+    "value": "一扇没用的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran not lock door. Floran not ssssteal from other Floran.",
+    "value": "叶族人不会锁门。叶族人不是从其他叶族人的家里偷偷偷东西的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. This door need not exist, it is completely useless.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm not sure if this is a very effective door.",
+    "value": "我不确定这是否是一扇非常有效的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A door of ugly, untreated wood.",
+    "value": "一扇丑陋的、未经处理的木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Not a whole lotta' point to this door.",
+    "value": "这扇门没啥指向性。"
+  }
+]

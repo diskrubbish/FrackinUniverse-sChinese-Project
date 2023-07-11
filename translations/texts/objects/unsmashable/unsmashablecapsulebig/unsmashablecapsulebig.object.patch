@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large breakable capsule. Unbreakable!",
+    "value": "一个大的易碎胶囊。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Capsule",
+    "value": "大型胶囊"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A capsule. These often contain supplies.",
+    "value": "一个胶囊。这些通常包含供应品。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A capsule. Something is inside, I wonder what it is...",
+    "value": "一个胶囊。里面有东西，我想知道是什么。。。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmash it open! Get the goodiess insside!",
+    "value": "把它砸开！把好东西放在里面！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Destructive. It is difficult to resist the urge to break this capsule.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I think there's something in there. I can probably break it open.",
+    "value": "我觉得里面有东西。我也许能把它打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Sometimes force can yield rewards.",
+    "value": "有时武力可以产生回报。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This capsule'd be perfect for target practice.",
+    "value": "这个太空舱非常适合打靶练习。"
+  }
+]

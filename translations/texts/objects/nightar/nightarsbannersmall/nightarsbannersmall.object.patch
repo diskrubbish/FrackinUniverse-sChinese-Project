@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small Nightar wallbanner.",
+    "value": "一条小的夜族横幅。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Wall Banner",
+    "value": "夜族壁挂横幅"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A secure bookcase for all kinds of books.",
+    "value": "存放各种书籍的安全书柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Bookcase",
+    "value": "绘世者书架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A lot of Skath-related books. A few of them are readable, but most are written in the language of the Skath.",
+    "value": "很多与绘世者有关的书。其中一些是可读的，但大多数是用绘世者语写的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "There are a lot of books. It looks like the Skath don't devote much writing to their myths.",
+    "value": "有很多书。看来绘世者并没有为他们的神话写太多东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hasss no time for sssilly waterdragon booksss.",
+    "value": "叶族人没有时间去看愚蠢的水龙书店。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Questioning. It seems the Skath have never developed advanced robotics.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The Skath have comic books?! This 'Skathman' looks eerily similar to a superhero in human comics...",
+    "value": "绘世者有漫画书吗？！这个“绘世者侠”看起来很像人类漫画中的超级英雄..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Reading through the Skath's history, I can begin to understand their xenophobia.",
+    "value": "通过阅读绘世者的历史，我可以开始理解他们的仇外心理。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A big ol' metal bookcase. Nothing I'd want to read, though.",
+    "value": "一个大的金属书架。不过，我什么都不想读。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "Many Skath like to read in their free time, when they are not at work.",
+    "value": "很多人喜欢在空闲时间读书，而不是在工作的时候。"
+  }
+]

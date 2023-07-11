@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The Nightar flag. Use ^green;[E]^reset; to bookmark a teleportation location.",
+    "value": "夜族旗帜。按^green;[E]^white;来记录这面旗帜的传送坐标。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Flag",
+    "value": "夜族旗帜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A Nightar flag. I can use this as a waypoint for teleportation.",
+    "value": "一面夜族旗帜。我可以将之作为一个传送路标。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This Nightar flag can be bookmarked as a destination for my ship teleporter.",
+    "value": "这面夜族旗帜可以被我的飞船传送门标记为一个目标地点。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Nightar flag makess good point to teleport back to ussing teleporter!",
+    "value": "夜族旗帜是使使使用传送门传送回先前地点的好主主主意！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A small locator module attached to this Nightar flag allows it to be bookmarked for teleportation.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This Nightar flag can be saved as a location for my teleporter. Then I can return to it at any time.",
+    "value": "这面夜族旗帜可以为我的传送门保存一个坐标。之后我就可以随时返回那里。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This Nightar flag can act as a way point, enabling me to return to this point using a teleporter.",
+    "value": "这面夜族旗帜可以成为一个路标，我可以通过传送门回到这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can bookmark this Nightar flag for quick teleportin'.",
+    "value": "我可以标记这个夜族旗帜，以用于快速传送。"
+  }
+]

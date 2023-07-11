@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bed that seems far too cold to lie on.",
+    "value": "一张似乎太冷而不能躺在上面的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Bed",
+    "value": "寒霜床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple bed. It seems, however, to be more like a freezer.",
+    "value": "简单的床。然而，它看起来更像一个冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This bed is far too cold for me.",
+    "value": "这张床对我来说太冷了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes to sssleep, but bed isss too cold.",
+    "value": "叶族人喜欢睡觉，但床太冷了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. Why would anyone make a bed so cold?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A cold bed. I wouldn't like to freeze.",
+    "value": "冷床。我不想冻僵。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I wouldn't want to sleep on something that might freeze me to death.",
+    "value": "我不想睡在可能会冻死我的东西上。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Good a place as any to take a nap if it's hot outside.",
+    "value": "如果外面很热的话，这是一个很好的小睡的地方。"
+  }
+]

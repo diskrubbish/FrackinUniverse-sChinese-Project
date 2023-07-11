@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The pet renamer is used to rename captured creatures.",
+    "value": "这个宠物改名器用于给捕获到的生物们起一个新的名字。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Pet Renamer^reset;",
+    "value": "^orange;宠物改名器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "For sad pets",
+    "value": "给予那些伤心的宠物们"
+  }
+]

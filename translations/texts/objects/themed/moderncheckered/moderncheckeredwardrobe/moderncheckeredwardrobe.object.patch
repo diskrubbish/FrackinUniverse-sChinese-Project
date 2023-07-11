@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cool black and white checkered wardrobe.",
+    "value": "很酷的黑白格子衣橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Modern Wardrobe",
+    "value": "现代衣柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This wardrobe is divided down the middle between black and white.",
+    "value": "这个衣柜的中间是黑白相间的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A spacious checkered wardrobe.",
+    "value": "宽敞的格子衣橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Both sssides of wardrobe are different colors.",
+    "value": "衣柜的两面都是不同的颜色。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Content. This closet has ample space inside.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like this checkered pattern even extends to the wardrobe.",
+    "value": "看起来这种格子图案甚至延伸到了衣柜里。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A dresser that's split in a ying-yang fashion.",
+    "value": "一个以阴阳风格分开的梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The doors of this wardrobe are two different colors.",
+    "value": "这个衣柜的门有两种不同的颜色。"
+  }
+]

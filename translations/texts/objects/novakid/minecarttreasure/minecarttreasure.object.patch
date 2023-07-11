@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You hit the jackpot!!",
+    "value": "你中大奖了！！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Minecart of Treasure",
+    "value": "宝车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This is easily worth a small fortune!",
+    "value": "这很容易值一大笔钱！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A horde of gold! Someone is certainly lucky.",
+    "value": "一大群金子！有人的确很幸运。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran's! All Floran's! Hisss!",
+    "value": "叶族人的！全是叶族人的！嘘！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Envious. Someone seems to have found quite a haul.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Surely no one will notice if a handful goes missing, right?",
+    "value": "如果少了一把肯定没人会注意到吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Goodness, that's certainly a large hoard...",
+    "value": "天哪，那的确是一个很大的贮藏..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Someone went an' struck gold!",
+    "value": "有人去了一家“黄金店”！"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Much fresh, such wet, so dripping~ \n^blue;Input 1^white; : Water Spray. \n^blue;Input 2^white; : Particles.^reset;",
+    "value": "十分新鲜，十分潮湿，十分滴水 ~ \n^blue;输入1^white;喷水。\n^blue;输入2^white;：粒子。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "SCB Water Emitter",
+    "value": "SCB射水器"
+  }
+]

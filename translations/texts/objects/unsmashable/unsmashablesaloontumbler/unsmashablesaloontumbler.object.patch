@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dirty-looking glass tumbler. Unbreakable!",
+    "value": "脏兮兮的玻璃杯。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Saloon Tumbler",
+    "value": "酒馆酒杯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small glass for drinking from.",
+    "value": "一个小玻璃杯，用来喝水。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A small drinking glass.",
+    "value": "一个小酒杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wantsss to see glasss smash.",
+    "value": "叶族人想看到玻璃破碎。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A small glass.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A small glass. There's years of chips and scratches on its surface.",
+    "value": "一小杯。它的表面有多年的碎片和划痕。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A small, simple glass.",
+    "value": "一个简单的小玻璃杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This glass looks a little dirty, but I'd still use it.",
+    "value": "这个杯子看起来有点脏，但我还是用它。"
+  }
+]

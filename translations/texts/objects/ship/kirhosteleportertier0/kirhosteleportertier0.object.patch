@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Trusty teleporter, what would I do without you? Courtesy of Azriel Industries.",
+    "value": "可靠的传送器，离开了它我便寸步难行。来自阿兹瑞尔工业的小礼物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kirhosi Teleporter",
+    "value": "Kirhosi传送门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Teleporting feels like riding a rollercoaster at the speed of light. It's off.",
+    "value": "传送时的感觉就像坐在光速运行的过山车上。这个传送器被关掉了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Teleporting feels like flying. If only this one was powered up.",
+    "value": "传送感觉像飞起来了一样，如果这个传送器启动了的话。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran feel confusssed during teleport. This one dead.",
+    "value": "叶族人在传送的过程中感到很混混混乱。这个传送器坏了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Educate. I set myself to sleep during the teleport process. This one is not powered.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Teleporting is a huge rush. Too bad this one isn't powered up.",
+    "value": "传送就是一飞冲天。非常糟糕的是这个传送器未被供能。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Teleporting feels like diving into the ocean from a mountain top. This teleporter is off.",
+    "value": "传送时的感觉就像自山巅坠入深海。这个传送器被关掉了。"
+  },
+  {
+    "op": "replace",
+    "path": "/kirhosDescription",
+    "raw": "The teleporter's fried. No good to me right now.",
+    "value": "传送者被炸了。现在对我没有好处。"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "The teleporter's fried. No good to me right now.",
+    "value": "传送者被炸了。现在对我没有好处。"
+  }
+]

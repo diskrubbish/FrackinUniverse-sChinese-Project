@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A prim and proper vanity. Staying as neat and tidy as it will surely keep you looking presentable throughout your day.",
+    "value": "一本正经的虚荣心。尽可能保持整洁，这肯定会让你一整天都看起来很体面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pristine Vanity",
+    "value": "纯粹的虚荣心"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This vanity's mirror looks awfully heavy...",
+    "value": "这面梳妆台的镜子看起来太重了..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'm surprised this vanity can support a mirror that heavy.",
+    "value": "我很惊讶这种虚荣心能支撑这么重的镜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssspies with their little eye... Floran!",
+    "value": "叶族人用他们的小眼睛偷窥...叶族人！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Mortified. Have I been walking around with that on my outfit all day?!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This looks like the vanity for a dollhouse.",
+    "value": "这看起来像是玩具屋的虚荣。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I could see myself spending a good deal of time getting ready in front of this mirror.",
+    "value": "我可以看到自己花了很多时间在镜子前准备。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A dresser with a heavy lookin' mirror.",
+    "value": "一个有一面厚重镜子的梳妆台。"
+  }
+]

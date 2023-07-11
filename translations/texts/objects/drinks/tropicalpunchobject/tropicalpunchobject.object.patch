@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tropical mix that packs a punch.",
+    "value": "一杯热带混合物，爽爆。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tropical Punch",
+    "value": "热带暴击"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Better than Floran expected! Floran expected sssea drink would taste of sssand.",
+    "value": "比叶族人预期的要好! 叶族人预期的海海海洋饮料会有沙沙沙子的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. I taste the essence of the sea in this drink.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can practically hear the waves a-lappin'.",
+    "value": "我几乎可以听到海浪拍打的声音。"
+  }
+]

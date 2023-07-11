@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A machine used for breaking down rocks.",
+    "value": "一种用于压碎岩石的机器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mining Impact Crusher",
+    "value": "矿业冲击式破碎机"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An Intake Body for a spaceship.",
+    "value": "飞船的进气口躯干。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Human Intake Body",
+    "value": "人类飞船进气口躯干"
+  }
+]

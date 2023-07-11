@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A standard landscape painting. Good for filling up wall space.",
+    "value": "一幅标准的风景画。适合填充墙壁空间。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Landscape Painting",
+    "value": "山水画"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A painting of a lush green forest.",
+    "value": "一幅郁郁葱葱的森林的画。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's a painting of a forest. Simple, but pretty.",
+    "value": "这是一幅森林的画。简单，但很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "The greenss in this painting remind Floran of home.",
+    "value": "这幅画中的绿色让叶族人想起了家。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A landscape painting. Nothing terribly interesting.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ah, yep. Those sure are trees.",
+    "value": "啊，是的。那些肯定是树。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Not the most novel work, but the brush strokes are decent enough.",
+    "value": "这不是最新颖的作品，但笔触已经够得体了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A simple paintings, as far as paintings go.",
+    "value": "一幅简单的画，就画而言。"
+  }
+]

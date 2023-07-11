@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Platform",
+    "value": "蜂蜜平台"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Step sweetly on these honey platforms.",
+    "value": "一个金色的，粘粘的平台。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The flag of Eld'uukhar. Bookmarks a teleportation location.",
+    "value": "Eld'uukhar的旗帜。标记了一个传送坐标。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Eld'uukhar Flag",
+    "value": "Eld'uukhar旗帜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This flag bears the symbol of the Eld'uukhar. I wonder who put it here...",
+    "value": "一面承载有Eld'uukhar标记的旗帜，我想知道是谁把它放在了这里..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A flag bearing the mark of the Eld'uukhar, I wonder what it symbolizes.",
+    "value": "一面承载有Eld'uukhar标记的旗帜，我想知道它意味着什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likesss thisss flag.",
+    "value": "叶族人喜喜喜欢这面旗帜。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. this flag has an interesting design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The emblem on this flag inspires a sense of grace.",
+    "value": "这面旗帜上的徽章给人一种优雅的感觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An odd design choice if you ask me...",
+    "value": "如果你要问我的话...真是一种奇怪的设计风格。"
+  },
+  {
+    "op": "replace",
+    "path": "/elduukharDescription",
+    "raw": "A flag emblazoned with the symbol of my people, a sign of light in darkness.",
+    "value": "一面装饰有我们一族的标志的旗帜，象征着黑暗中的曙光。"
+  }
+]

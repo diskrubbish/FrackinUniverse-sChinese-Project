@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pot of sweet smelling lavender.",
+    "value": "一壶芳香的薰衣草。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lavender Flower Pot",
+    "value": "薰衣草花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A cute, handy little plant.",
+    "value": "一种可爱的、方便的小植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These flowers are frequent offerings at Avian tombs. I imagine it's to cover the smell of the dead...",
+    "value": "这些花是翼族陵墓中常见的祭品。我想这是为了掩盖死者的气味..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "These flowers get rid of yummy meat smell...",
+    "value": "这些花去除了美味的肉味..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. These flowers have a number of properties, but they're nice just to look at too.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Lavender - they make for pretty flowers and terrifying towns.",
+    "value": "薰衣草——它们是美丽的花朵却也让城镇惊恐。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Lavender are a symbol of grace and refinement in Hylotl culture.",
+    "value": "薰衣草是鲛人文化中优雅和精炼的象征。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Clusters of li'l purple flowers.",
+    "value": "一簇簇紫色的花。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chair made from xithricite.",
+    "value": "由赛德瑞瑟晶体制成的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Chair",
+    "value": "赛德瑞瑟晶体主席"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A chair seemingly made from star matter.",
+    "value": "一把似乎由星星物质制成的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I feel like I'm looking into the night sky.",
+    "value": "我感觉我在仰望夜空。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstarry chair!",
+    "value": "星星椅！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. This chair seems to be made from the stars themselves.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This chair looks like it's made from stars!",
+    "value": "这把椅子看起来像是星星做的！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This chair makes me think fondly of the night sky.",
+    "value": "这把椅子使我怀念夜空。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This chair is mighty pretty.",
+    "value": "这把椅子非常漂亮。"
+  }
+]

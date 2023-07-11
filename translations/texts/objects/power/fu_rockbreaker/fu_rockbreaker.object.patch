@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Slowly breaks up rocky materials into useful items. ^cyan;Requires ^orange;6W ^cyan;power.^reset;",
+    "value": "将岩石材料缓慢分解成有用的物品。\n^cyan;需要^orange;6W^cyan;电力^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Rock Breaker^reset;",
+    "value": "^cyan;破岩机^reset;"
+  }
+]

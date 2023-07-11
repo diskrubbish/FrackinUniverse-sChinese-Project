@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A huge fin for a Hylotl spaceship.",
+    "value": "鲛人飞船的大型飞船尾翼。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hylotl Huge Spaceship Fin",
+    "value": "鲛人飞船大型飞船尾翼"
+  }
+]

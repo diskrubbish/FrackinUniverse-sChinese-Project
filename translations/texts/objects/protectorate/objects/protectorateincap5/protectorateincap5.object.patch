@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Ded fishman. Not me. Glad.",
+    "value": "死去的鱼人，不是我，很高兴。"
+  },
+  {
+    "op": "replace",
+    "path": "/thelusianDescription",
+    "raw": "Tktktktk",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "I... I can't...",
+    "value": "我... 我不能..."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Hylotl Protector, mangled beyond any hope of revival.",
+    "value": "一位鲛人守护者，已经没有复活的希望了。"
+  }
+]

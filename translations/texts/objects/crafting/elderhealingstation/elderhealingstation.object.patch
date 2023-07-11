@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A station to heal pets, robots and...others.",
+    "value": "一个治疗宠物、机器人和...其他玩意的工作站。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Mutari Healing Station^reset;",
+    "value": "^orange;穆塔里治疗站^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "For dead pets, broken bots, and more.",
+    "value": "无论是死去宠物，还是坏掉的机器，甚至是其他玩意。"
+  }
+]

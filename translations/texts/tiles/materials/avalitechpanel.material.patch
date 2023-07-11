@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Polymer panels used to hide and protect electronics.",
+    "value": "这种聚合面板是用来隐藏和保护电子设备的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tech Panels",
+    "value": "科技面板"
+  }
+]

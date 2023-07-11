@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Teleport 30 tiles away. Best across gaps.",
+    "value": "一种传送科技，可直接传送30格的距离，是你跨越障碍的最佳选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Blink Dash II^reset;",
+    "value": "^#77acc3;瞬间移动 II^reset;"
+  }
+]

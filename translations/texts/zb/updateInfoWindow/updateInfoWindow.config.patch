@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/buttonInfo/caption",
+    "raw": "Info / FAQ",
+    "value": "信息/常问解答"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonChangelog/caption",
+    "raw": "Change Log",
+    "value": "更新日志"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonCredits/caption",
+    "raw": "Credits",
+    "value": "鸣谢"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/textScrollBox/children/text/value",
+    "raw": "I AM ERROR",
+    "value": "*我是错误的*"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/version/value",
+    "raw": "version",
+    "value": "版本"
+  }
+]

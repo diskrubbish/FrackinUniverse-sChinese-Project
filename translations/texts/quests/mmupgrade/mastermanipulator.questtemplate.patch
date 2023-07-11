@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "The Master Manipulator",
+    "value": "始源物质枪"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "The Master Manipulator is now mine. It seems that if I am to fully be able to use it, however, I'll first need to ^orange;repair it at a nanofabricator^reset;",
+    "value": "始源物质枪现在是我的了。但是，如果想要完全使用它，我首先需要^orange;在纳米加工器处把它修好^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Repair the master manipulator",
+    "value": "修理始源物质枪"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "I have obtained the ultimate in Manipulator tech and bound it to my genetic code. I can mine nearly anything with the greatest of ease.",
+    "value": "我已经获得了终极的物质枪技术，并将其与我的遗传密码绑定在一起。 我可以轻松地挖掘几乎任何东西。"
+  }
+]

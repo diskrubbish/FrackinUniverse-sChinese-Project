@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Blueleaf Bush",
+    "value": "绿叶灌木"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blueleaf Bush",
+    "value": "绿叶灌木"
+  }
+]

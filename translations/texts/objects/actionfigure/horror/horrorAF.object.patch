@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The label reads, \"A horrifying aberration that really wants your face skin in its mouth.\"",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Floating Horror Figurine",
+    "value": ""
+  }
+]

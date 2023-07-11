@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Kirhosi-made sensors in the shape of an eye.",
+    "value": "鼠人制造了眼睛形状的传感器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kirhosi Ship Sensors",
+    "value": "鼠人飞船传感器"
+  }
+]

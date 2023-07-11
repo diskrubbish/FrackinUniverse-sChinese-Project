@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A high-quality industrial steel wall.",
+    "value": "高质量的工业钢墙。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Steel Strip",
+    "value": "钢带"
+  }
+]

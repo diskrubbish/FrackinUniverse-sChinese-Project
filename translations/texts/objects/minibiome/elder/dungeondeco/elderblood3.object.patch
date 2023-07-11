@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Yea, definitely not ketchup. That's worrisome.",
+    "value": "对，这绝对不是番茄酱。看到这种情况，真是令人担忧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blood",
+    "value": "血液"
+  }
+]

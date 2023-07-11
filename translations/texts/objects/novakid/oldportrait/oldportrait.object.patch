@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Who is she?",
+    "value": "她是谁？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Old Portrait",
+    "value": "老肖像"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Supposedly, Novakid portraits like this are scarce.",
+    "value": "据推测，像这样的星之子肖像画很少见。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "So composed and relaxed. Not what I would've expected at all!",
+    "value": "如此平静和放松。我一点也没想到！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Starman looksss uncomfortable.",
+    "value": "斯塔曼看起来很不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. I just realized I haven't seen a Novakid portrait before now.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "All the pretty brush strokes in the world can't mask the fact this lady looks bored to tears.",
+    "value": "世界上所有漂亮的笔触都掩盖不了这位女士看起来无聊得流眼泪的事实。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Novakid seem to make for such delightfully colorful subjects.",
+    "value": "星之子似乎能写出如此多姿多彩的主题。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Gotta hand it to this lady - I couldn't hold still for that long at all!",
+    "value": "我得把它交给这位女士——因为我坚持不了多久了！"
+  }
+]

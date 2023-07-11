@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Too spooky.",
+    "value": "吓死宝宝了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spooky Donuts",
+    "value": "恐怖甜甜圈"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "No way! Floran is the ssspookiest one here for sure!",
+    "value": "不可能！叶族人肯定是这里最恐怖的生物存在！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Puzzled. What could be so terrifying about these donuts? Other than the sugar content, at least.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "#2spooky4me",
+    "value": "我是个穷逼"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't scared of a li'l fried dough.",
+    "value": "我一点也不怕油炸面条。"
+  }
+]

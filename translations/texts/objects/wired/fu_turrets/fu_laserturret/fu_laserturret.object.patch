@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Base Damage: 0.8\nFire Rate: 0.1\nEnergy per Shot: 3\nRange: Mid",
+    "value": "基础伤害: 0,8\n射速: 0.1\n每击能量消耗: 3\n范围: 中等"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Laser Turret",
+    "value": "激光炮塔"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Automatic Base Defense",
+    "value": "自动基本防御"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Always watchful.",
+    "value": "总是在保持警惕。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The monsters don't stand a chance, unless they can fly.",
+    "value": "除非怪物可以飞，要不然它跑不掉。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Effective againssst living thingsss.",
+    "value": "可以有效效效对抗生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. Must not disrupt my brother in his vigilance.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "An automated security system.",
+    "value": "这是自动化安全系统。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Looks like a turret of some sort.",
+    "value": "看上去像炮塔？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Looks like this thing sure could do some damage!",
+    "value": "这个东西应该是攻击类武器！"
+  }
+]

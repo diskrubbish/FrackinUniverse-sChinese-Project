@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A switch for activating... Something.",
+    "value": "一个用于激活什么东西的开关。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowy Red Switch",
+    "value": "红色阴影开关"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A machinery switch.",
+    "value": "一个机械开关。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's probably not a good idea to play with mysterious switches.",
+    "value": "玩弄神秘的开关可能不是个好主意。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssswitch for machines.",
+    "value": "用于机器的开开关。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A switch for machinery.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Just a switch for a machine of some sort.",
+    "value": "就是一个用于某种机器的开关而已。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This switch is greasy.",
+    "value": "这个开关很油腻。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A clunky lookin' machinery switch.",
+    "value": "一个看起来很笨重的机械开关。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sign advertising a place to grab a brew and enjoy yourself!",
+    "value": "这说明每个人都可以进来享受美酒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pub Sign",
+    "value": "酒吧告示牌"
+  }
+]

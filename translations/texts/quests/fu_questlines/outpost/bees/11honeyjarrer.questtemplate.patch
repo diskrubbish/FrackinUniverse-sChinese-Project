@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Jarring Honey",
+    "value": "金色蜂蜜"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "To make the most out of your bee farm, you'll want to harvest honey. Try to build a ^orange;Honey Jarrer^reset; to aid with this process. Toss in some ^orange;Empty Bottles^reset; and ^orange;honey combs^reset; while you're at it.",
+    "value": "为了充分利用你的蜂园，要需要经常收取蜂蜜。试着制造一个^orange;蜂蜜灌装机^reset;来帮助你。操作的时候你需要一些^orange;空瓶子^reset;和^orange;蜂巢^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "The ^orange;Honey Jarrer^reset; creates ^green;Honey Jars^reset; with different effects, depending on the combs you centrifuge. It's up to you to experiment!",
+    "value": "^orange;金色蜂蜜^reset;制作的各种^green;蜂蜜罐^reset;具有不同的效果，取决于你处理的蜂巢。这需要你来实验。"
+  }
+]

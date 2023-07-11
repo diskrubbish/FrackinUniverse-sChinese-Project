@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Skath terminal used for all kind of electronics.",
+    "value": "用于各种电子设备的绘世者终端。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Terminal",
+    "value": "绘世者终点站"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "According to my readings, this console is used to control some kind of mechanism.",
+    "value": "根据我的读数，这个控制台是用来控制某种机械装置的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The flickering of the screen makes me feel dizzy. I can't read what it says.",
+    "value": "屏幕的闪烁让我感到头晕目眩。 我看不懂它说什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran pressses buttons. Does waterdragon thingss!",
+    "value": "叶族人按下按钮。然后就能像水龙那样做事了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. My scans indicate that this is indeed a powerful console.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "That's an interesting design for a console. I wonder what it does?",
+    "value": "这是一个有趣的控制台设计。我想知道它是干什么用的？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Skath rely so much on their technology. It's a shame.",
+    "value": "绘世者一族非常依赖他们的技术。真可惜。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some sorta terminal. Don't know what it does, though.",
+    "value": "一些分类终端。但我不知道它能做什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "This console is made to control a variety of electronics.",
+    "value": "这个控制台是用来控制各种电子设备的。"
+  }
+]

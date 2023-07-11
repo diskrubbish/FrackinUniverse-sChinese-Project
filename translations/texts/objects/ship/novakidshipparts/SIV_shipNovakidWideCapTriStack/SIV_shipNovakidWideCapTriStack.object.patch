@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hull for a spaceship.",
+    "value": "宇宙飞船的外壳。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Novakid Tricap",
+    "value": "星之子三角帆"
+  }
+]

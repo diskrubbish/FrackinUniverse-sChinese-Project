@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wreath of colorful flowers for your walls.",
+    "value": "一个五颜六色的花环挂在你的墙上。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flower Wreath",
+    "value": "花环"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A warm and welcoming wreath.",
+    "value": "一个温暖而热情的花圈。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I think this wreath was made with real flowers.",
+    "value": "我想这个花环是用真花做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran makes sssimilar wreaths from bone.",
+    "value": "叶族人用骨头做了类似的花环。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. The flowers in this wreath appear to still be alive.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like a lot of bright flowers got woven into this wreath.",
+    "value": "看起来这个花环里织了很多鲜艳的花。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An amateur, yet sincere attempt at flower arranging.",
+    "value": "一次业余但真诚的插花尝试。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A pretty ol' wreath to brighten up yer walls.",
+    "value": "一个漂亮的花环可以照亮你的墙壁。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Removes you from danger when near death.",
+    "value": "可以收获绳钩草，食用后当你快死的时候可以保护你。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tetherhook Weed",
+    "value": "绳钩草种子"
+  }
+]

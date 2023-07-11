@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An array of alien weaponry.",
+    "value": "一组外星武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Weapon Rack",
+    "value": "先驱武器架"
+  }
+]

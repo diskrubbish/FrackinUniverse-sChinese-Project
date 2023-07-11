@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A gloomy wooden door.",
+    "value": "一扇哥特式木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gothic Door Prop",
+    "value": "哥德式门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This door looks old, or is at least made to look old.",
+    "value": "这扇门看起来很旧，或者至少做工看起来很旧。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I prefer furniture with a more natural hue.",
+    "value": "我喜欢颜色更自然的家具。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran not like ssspooky door.",
+    "value": "叶族人不喜欢鬼鬼鬼门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This door looks old and important.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This would look great in a crypt, not so much anywhere else.",
+    "value": "这个放在地窖里会很好看，在其他地方就不那么好看了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This door is almost poetic in its glumness.",
+    "value": "这扇门阴郁得有点诗意。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This door is givin' me the creeps.",
+    "value": "这扇门让我毛骨悚然。"
+  }
+]

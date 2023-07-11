@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Small window with a spinning double helix",
+    "value": "在这个全息图内显示的是正在旋转的双螺旋结构。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hologram, Double Helix",
+    "value": "双螺旋全息图"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The double helix often turns up in nature, not least in DNA.",
+    "value": "双螺旋通常存在于自然界中，特别是在DNA中。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The picture on this screen looks like a braid.",
+    "value": "这个屏幕上的图片看起来像一个辫子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Deoxyribonucleic acccccid.... wait, how Floran know that?",
+    "value": "脱氧核糖核酸酸酸....等等，叶族人是怎么知道的？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. Model is consistent with amino/polysaccharide chains seen in organic life.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like a model of DNA, why is it so many random computer screens show that?",
+    "value": "看起来像一个DNA模型，为什么这么多电脑上的屏幕都显示这个？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There's a modern art installation just like this at the local shopping mall!",
+    "value": "在当地的购物中心就有一个像这样的现代艺术装置！"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "Looks like software for programming custom bacteria, they're useful for a whole range of applications, like biofuels or cleaning.",
+    "value": "看起来像正在制作细菌的工程，它们对于一系列应用程序(如生物燃料或清洁)非常有用。"
+  }
+]

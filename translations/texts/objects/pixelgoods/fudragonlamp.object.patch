@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Boney, yet tasteful.",
+    "value": "别看着是骨头做成的，其实还蛮雅致的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bone Brazier",
+    "value": "骨制火盆"
+  }
+]

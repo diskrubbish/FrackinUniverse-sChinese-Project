@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A swampy plant.",
+    "value": "沼泽植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A swampy plant.",
+    "value": "沼泽植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sswampy.",
+    "value": "沼沼沼泽。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A swampy plant.",
+    "value": ""
+  }
+]

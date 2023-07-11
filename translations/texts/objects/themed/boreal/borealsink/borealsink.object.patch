@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lovingly carved pine wood sink. The pipes are insulated so the water doesn't freeze.",
+    "value": "一个雕刻精美的松木水槽。管道是绝缘的，这样水就不会结冰。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Boreal Sink",
+    "value": "北风水槽"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A well designed sink and counter.",
+    "value": "精心设计的水槽和柜台。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Thankfully, this sink is functional AND appealing.",
+    "value": "谢天谢地，这个水槽既实用又吸引人。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pine wood ssink.",
+    "value": "松木木材。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thankful. The water in this sink seems to flow normally even in chillier regions.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fancy wooden sink. It looks carved.",
+    "value": "一个漂亮的木制水槽。看起来像是雕刻的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What a delightful little countertop.",
+    "value": "多么可爱的小台面啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Looks like the water runs just fine during a heavy winter.",
+    "value": "看起来水在一个严冬里过得很好。"
+  }
+]

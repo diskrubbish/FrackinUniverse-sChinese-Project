@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A structural beam made of tethyde alloy.",
+    "value": "一根韧影合金制成的结构梁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Smooth Tethyde Beam",
+    "value": "光滑韧影合金合金支柱"
+  }
+]

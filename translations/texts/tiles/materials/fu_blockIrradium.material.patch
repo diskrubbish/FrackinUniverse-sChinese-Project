@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Slab of purified Irradium. I wouldn't touch this stuff - Radioactive.",
+    "value": "一块纯化的镭板。我不会碰它的——放射性太强了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Slab",
+    "value": "镭板"
+  }
+]

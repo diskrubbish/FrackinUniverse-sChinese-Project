@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A gold chandelier. A good way to light a large room.",
+    "value": "一盏金色枝形吊灯。照亮大房间的好方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gold Medieval Chandelier",
+    "value": "中世纪金色枝形吊灯"
+  }
+]

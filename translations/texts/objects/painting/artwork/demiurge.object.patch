@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A truly insane painting depicting the raw essence of misery, anguish and despair.",
+    "value": "画已病入膏肓，描绘了苦难、痛苦和绝望的本质。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Demiurge",
+    "value": "造物主"
+  }
+]

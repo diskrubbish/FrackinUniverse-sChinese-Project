@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "Vork the Penguin's Scrap Yard",
+    "value": "企格瓦拉的废料场"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "I buy -your- junk!",
+    "value": "简·拉基·茨得！"
+  }
+]

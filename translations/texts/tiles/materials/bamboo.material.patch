@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bamboo",
+    "value": "竹子"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bamboo",
+    "value": "竹子"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Bamboo.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssticks.",
+    "value": "一些棍棍棍子。"
+  }
+]

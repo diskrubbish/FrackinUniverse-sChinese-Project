@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Overpriced, crappy burgers, fries and expired milk with bees.",
+    "value": "价格过高，垃圾汉堡，薯条和过期的蜜蜂椰奶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Burger Fool^reset;",
+    "value": "^orange;傻子汉堡包^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/0",
+    "raw": "...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/1",
+    "raw": ".. ..... ....",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/2",
+    "raw": ".",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/3",
+    "raw": ".. ...... ... . . ..... ... .. . ......",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/4",
+    "raw": ".. .. . .... .. . .. .. ..... . .... ............ ..",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/5",
+    "raw": "... .",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/6",
+    "raw": ".. ... .... .. . . . ... .",
+    "value": ""
+  }
+]

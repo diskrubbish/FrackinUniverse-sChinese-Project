@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cool black and white checkered cabinet.",
+    "value": "一个很酷的黑白格子橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Modern Cabinet",
+    "value": "现代橱柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A very stylish black and white cabinet.",
+    "value": "一个非常时髦的黑白橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This cabinet is very sleek, but not terribly spacious.",
+    "value": "这个柜子很光滑，但空间不大。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cool checkered cabinet.",
+    "value": "很酷的格子橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disappointed. It's stylish, but doesn't actually have all that much storage.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty slick looking cabinet.",
+    "value": "一个看起来很光滑的橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "While it lacks storage space, it makes up for in sturdy, stylish design.",
+    "value": "虽然它缺乏存储空间，但它以坚固、时尚的设计弥补了这一缺陷。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A black 'n' white cabinet. Purty fancy.",
+    "value": "一个黑白橱柜。太花哨了。"
+  }
+]

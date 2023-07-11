@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bed that seems far too hot to lie on.",
+    "value": "一张似乎太热而不能躺在上面的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Bed",
+    "value": "永燃床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple bed. It does, however, emit a high amount of heat.",
+    "value": "简单的床。然而，它确实会释放出大量的热量。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This bed is far too hot for me.",
+    "value": "这张床对我来说太热了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes to sssleep, but bed isss to hot.",
+    "value": "叶族人喜欢睡觉，但床太烫了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. Why would anyone make a bed so hot?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A hot bed. I wouldn't like to be cooked.",
+    "value": "一张很烫的床。我可不想被炒熟。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I wouldn't want to sleep on something that might cook me alive.",
+    "value": "我不想睡在可能会把我活活烧死的东西上。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Good a place as any to take a nap even if it is a tad toasty.",
+    "value": "这是一个很好的小睡的地方，即使有点烤。"
+  }
+]

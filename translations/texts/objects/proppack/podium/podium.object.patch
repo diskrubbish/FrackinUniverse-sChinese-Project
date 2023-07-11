@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Time to make your voice heard!",
+    "value": "是时候让别人听到你的声音了！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Podium",
+    "value": "讲台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'd like to make a speech that might change the world for the better someday.",
+    "value": "我想做一个演讲，也许有一天会让世界变得更好。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The best and worst of people have all made their mark atop podiums like these.",
+    "value": "最好的和最差的人都在这样的讲台上留下了自己的印记。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hopes mike iss working...",
+    "value": "叶族人希望迈克能工作..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Nervous. Good speeches aren't so easy to make when you voice your doubt before every sentence to the audience.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'd like to preface by saying I have absolutely NO idea what it is I'm talking about, ever, at any time.",
+    "value": "我想在开场白中说，我完全不知道我在说什么，无论何时何地。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I must think carefully about the impact of my words here.",
+    "value": "我必须仔细考虑我在这里所说的话的影响。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Speeches ain't exactly my strong suit.",
+    "value": "演讲可不是我的强项。"
+  }
+]

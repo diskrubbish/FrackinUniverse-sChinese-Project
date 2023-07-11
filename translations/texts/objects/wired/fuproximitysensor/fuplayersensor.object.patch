@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perfect for all your automated door needs! Only has eyes for you.",
+    "value": "完美满足您所有的自动门需求！只有你的眼睛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proximity Player Scanner",
+    "value": "近程玩家扫描器"
+  }
+]

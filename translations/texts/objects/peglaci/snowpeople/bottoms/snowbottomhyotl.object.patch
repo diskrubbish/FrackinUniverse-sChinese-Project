@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The bottom of a Snowhylotl.",
+    "value": "鲛人雪人的底座。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hylotl Snowbottom",
+    "value": "鲛人雪人底座"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I like fuel.",
+    "value": "我喜欢燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "fuel",
+    "value": "燃料"
+  }
+]

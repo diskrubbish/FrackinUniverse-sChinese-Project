@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "I am Heptarch. I alone defeated one-thousand foes and was made glorious through victory. Kneel.",
+    "value": "吾是赫普塔奇。吾曾独对千敌而光荣凯旋。给吾跪下。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/reattack/default/default/0",
+    "raw": "There will be no honor in your death.",
+    "value": "汝之死毫无荣耀可言。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/reattack/default/default/1",
+    "raw": "May She guide my blade.",
+    "value": "愿她引导吾之剑刃。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/0",
+    "raw": "Crushed like the insect you are.",
+    "value": "汝将像昆虫一样被碾碎。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/lostTarget/default/default/0",
+    "raw": "It is pointless to hide!",
+    "value": "别东躲西藏了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/outOfSight/default/default/0",
+    "raw": "You really believe the darkness to be your ally, challenger...?",
+    "value": "汝真的相信黑暗是你的盟友吗，挑战者... ？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cheerOn/default/default/0",
+    "raw": "Onward!",
+    "value": "进击！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/cantReach/default/default/0",
+    "raw": "You will not escape, wretch.",
+    "value": "汝将无处可逃，可怜虫。"
+  }
+]

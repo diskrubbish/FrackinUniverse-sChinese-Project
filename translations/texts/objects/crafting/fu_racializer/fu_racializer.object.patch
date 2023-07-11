@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Used to change ship components into various racial styles.",
+    "value": "用于将飞船部件更改为各种种族的样式。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Ship Component Racializer^reset;",
+    "value": "^orange;种族飞船组件定义器^reset;"
+  }
+]

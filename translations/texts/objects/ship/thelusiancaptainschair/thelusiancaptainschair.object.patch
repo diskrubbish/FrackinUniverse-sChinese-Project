@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The Captain sits here to fly the ship.",
+    "value": "只有船长才有资格坐在这里指挥这艘飞船的航向\n^#B8860B;可在飞船用家具定制台调整种族风格^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Captain's Chair",
+    "value": "蚁族船长椅"
+  }
+]

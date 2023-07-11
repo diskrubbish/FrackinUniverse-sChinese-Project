@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large primitive chest.",
+    "value": "一个大型的原始箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fenerox Chest",
+    "value": "耳廓狐的箱子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This has not been made very well at all.",
+    "value": "这根本没有做得很好。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This chest looks a little rickety.",
+    "value": "这个箱子看起来有点摇摇欲坠。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Looksss like Floran ssstuff!",
+    "value": "看看看起来像叶族人的东东东西!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This looks like it may collapse.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's got holes in it.",
+    "value": "它上面有洞。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This chest could use some work.",
+    "value": "这个箱子可能可以处理一下。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It don't look all that sturdy.",
+    "value": "它看起来并不那么坚固。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Auto-Protect against falls.",
+    "value": "在掉落速度达到一定阈值会自行启动，它可以避免你摔死。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Emergency Bounce^reset;",
+    "value": "^#77acc3;防摔护盾^reset;"
+  }
+]

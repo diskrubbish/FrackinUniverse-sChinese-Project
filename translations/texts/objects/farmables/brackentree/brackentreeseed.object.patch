@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bracken provide essential Silk.",
+    "value": "蕨树可以提供必不可少的丝绸。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bracken Tree Seed",
+    "value": "蕨树种子"
+  }
+]

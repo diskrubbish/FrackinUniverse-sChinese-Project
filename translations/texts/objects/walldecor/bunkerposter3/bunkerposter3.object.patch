@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A vintage poster of a struggling kitten. Humans are weird.",
+    "value": "一只挣扎的小猫的复古海报。人类很奇怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kitten Poster",
+    "value": "小猫海报"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The photographer took this picture while their kitten was struggling?",
+    "value": "摄影师在小猫挣扎时拍下了这张照片？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Why isn't the photographer helping that poor animal?",
+    "value": "为什么摄影师不帮助那个可怜的动物？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Purry thing can fall right into Floran's waiting jaws.",
+    "value": "Purry的东西可能会落入叶族人等待的嘴里。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned. I do hope this animal wasn't in any real danger.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What exactly is the moral supposed to be here, again?",
+    "value": "再说一遍，这里的道德到底应该是什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'm pretty sure that constitutes as animal abuse.",
+    "value": "我很确定这构成了虐待动物。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Quit snappin' photos and help the darn thing!",
+    "value": "别再拍照片了，帮帮忙！"
+  }
+]

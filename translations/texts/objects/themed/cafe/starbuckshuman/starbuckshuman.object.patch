@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lawsuit incoming...",
+    "value": "诉讼即将到来..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "St?rbucks",
+    "value": "圣？巴克斯"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Humans have finsss now?",
+    "value": "人类现在找到了吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. This logo for a coffee shop depicts a mermaid.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Why's she... standin' like that?",
+    "value": "她为什么...像那样站着？"
+  }
+]

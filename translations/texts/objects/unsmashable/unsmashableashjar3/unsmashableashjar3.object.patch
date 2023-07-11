@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A familiar-shaped jar. It looks angry. Unbreakable!",
+    "value": "一个熟悉的形状的罐子。它看起来很生气。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Familiar Jar",
+    "value": "熟悉的罐子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This jar looks very familiar.",
+    "value": "这个罐子看起来很眼熟。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I've never seen a jar like this before, perhaps the remains of someone with a sense of humour.",
+    "value": "我以前从未见过这样的罐子，也许是有幽默感的人留下的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "I wonder how thisss creature tastess.",
+    "value": "我想知道这种生物味道如何。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Interested. I have never seen such a creature before.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hey that looks like a...",
+    "value": "嘿，看起来像。。。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Strange creature.",
+    "value": "奇怪的生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "What kinda critter is this supposed to look like?",
+    "value": "这应该是什么样的动物？"
+  }
+]

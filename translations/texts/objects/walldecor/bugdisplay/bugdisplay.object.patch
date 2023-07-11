@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A detailed, if morbid, insect display case. Doubles as a smorgasbord for your Frögg friends!",
+    "value": "一个详细的，如果是病态的，昆虫展示柜。为你的青蛙人朋友准备一份自助餐！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bug Display",
+    "value": "错误显示"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I've no doubt Miniknog scientists wouldn't hesitate to display their former \"patients\" like this.",
+    "value": "我毫不怀疑，科技发展部的科学家会毫不犹豫地展示他们以前的“病人”。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This is a tad macabre for the bugs, no?",
+    "value": "这对虫子来说有点可怕，不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Little bugs can't flutter away like this.",
+    "value": "小虫子不能这样飞走。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Interested. The structure of these insects wings are rather fascinating when observed up close.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Man, I hope they weren't alive when they were stuffed in there.",
+    "value": "伙计，我希望他们被塞进里面的时候不是活着的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There's a particular beauty in the structure of insect wings.",
+    "value": "昆虫翅膀的结构有一种特殊的美。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A case of preserved insects on display. Yuck.",
+    "value": "展出的一箱保存完好的昆虫。讨厌。"
+  }
+]

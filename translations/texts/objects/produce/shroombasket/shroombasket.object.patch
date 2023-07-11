@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mushrooms. The farmer who plants these is a fun guy.",
+    "value": "蘑菇。种植这些植物的农民是个有趣的家伙。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mushroom Basket",
+    "value": "蘑菇篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Mushroom.",
+    "value": "蘑菇。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Tiny toadstool.",
+    "value": "小毒蕈。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hatsss.",
+    "value": "叶族人的帽子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relieved. This fungus does not appear to be corrosive to Glitch.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Mushrooms. Perfect for an omelette or quiche.",
+    "value": "蘑菇。非常适合做煎蛋饼或乳蛋饼。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Small, edible mushrooms.",
+    "value": "可食用的小蘑菇。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Tiny mushrooms.",
+    "value": "小蘑菇。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "While it looks like tinsel, it's as sharp as razors and packed with tungsten.",
+    "value": "虽然它看起来像锡纸，但它像剃刀一样锋利，其中含有钨。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tinselbush",
+    "value": "金丝灌种子"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^green;The Letheia Facility",
+    "value": "^green;莱西亚基地"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Discovered in the Letheia Fleet is a map to a secluded Letheia Corporation facility. There's enough evidence here to warrant an investigation.",
+    "value": "我在莱西亚飞船上发现了一副通向莱菲亚某个隐秘基地的地图，我觉得这次调查势在必行。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Raid the Letheia bioweapons facility.",
+    "value": "进攻莱西亚基地。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Perhaps with the facility shut down, the Letheia Corporation will stop its deeds... haha, who are you kidding?",
+    "value": "随着基地的沦陷，希望莱西亚公司会停止这一切丑恶的行为。......哈哈，你在说笑呢？"
+  }
+]

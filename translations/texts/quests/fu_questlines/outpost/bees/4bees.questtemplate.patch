@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Queen and Drone",
+    "value": "蜂后和工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Now you need to ^green;catch a queen and a drone honey bee^reset; and let them loose inside your apiary. You'll need a ^orange;Bug Net^reset; for this. Bees can be found on most biomes, usually during the daylight hours.",
+    "value": "现在你需要抓到^orange;蜂后和工蜂^white;并放进蜂箱，你可能会用到^orange;捕虫网^reset;。蜜蜂在大多数星球都有，活动时间通常在白天。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Find ^green;other types of bees^reset;, and cross-breed them! How? Just place a different type of drone in there for your queen to check out. You may see some pretty swift results!",
+    "value": "找到^orange;其他品种的蜜蜂^white;，然后让它们杂交！你问我怎么做？只要放一只不同类型的工蜂在到蜂箱里让你的蜂后检阅。之后你就可能会看到一些相当迅速的结果！"
+  }
+]

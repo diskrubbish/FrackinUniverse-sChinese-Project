@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Megarachnid [BOSS]",
+    "value": "巨型蜘蛛 [BOSS]"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "If you thought large spiders were a threat, try taking out a ^orange;Megarachnid^reset;...they're the largest spiders in the galaxy. I dare you, in fact! Kill a ^orange;Megarachnid^reset; and you'll get my respect.",
+    "value": "如果你觉得大蜘蛛是个威胁，你可以试着干掉一头^orange;巨型蜘蛛^reset;...它们是银河系最大的蜘蛛。你敢不敢！ 杀死一头^orange;巨型蜘蛛^reset;，我会很佩服你的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Bring the ^green;Web Shooter^reset; to me at the ^orange;Science Outpost^reset;",
+    "value": "把^green;蛛丝射手^reset;带给我。(位于^orange;科学前哨站^reset;)"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Few can say they have hunted and killed one of these. I salute your skill.",
+    "value": "哇，真令人震惊，你居然猎杀了它们其中之一，我很少听见有人能完成这个目标。"
+  }
+]

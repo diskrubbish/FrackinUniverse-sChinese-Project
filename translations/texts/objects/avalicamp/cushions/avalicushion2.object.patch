@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I wonder if the avali use their own down to fill these?",
+    "value": "羽族会用自己的羽毛填满这些枕头吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pillow",
+    "value": "枕头"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Where's the rest of the bedding?",
+    "value": "其他床上用品在哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'll need more of these to make a nest.",
+    "value": "我需要更多这些东西来做一个巢。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hear humansssss fight with these. Which end is pointy end?",
+    "value": "我好像听到了一些什什什么，我想这是尽头了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uncertainty. Is this for sitting or sleeping on?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'll freeze to death without bed clothes.",
+    "value": "不穿衣服我会冻死。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I think there's been a terrible mistake, I only seem to have received half my bedding.",
+    "value": "我觉得我遇到了一个可怕的错误，我似乎只收到了一半的被褥。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "Avali living spaces are soft and warm, you can just sleep on the floor curled up with your pack.",
+    "value": "羽族的生活空间和温暖，你可以随意的抱着你的包睡在地板上。"
+  }
+]

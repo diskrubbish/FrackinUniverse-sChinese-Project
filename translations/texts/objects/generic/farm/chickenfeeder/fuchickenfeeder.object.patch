@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Keep them animals fed!",
+    "value": "请保持喂食动物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chicken Feeder",
+    "value": "饲鸡器"
+  }
+]

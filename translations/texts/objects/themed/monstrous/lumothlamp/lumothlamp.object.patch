@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp modeled after a Lumoth. All of the charm and efficiency with none of the fluttering!",
+    "value": "模仿灯蛾的灯。所有的魅力和效率，没有任何飘动！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Monstrous Lamp",
+    "value": "恐怖灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "How cute... Though I suppose actual Lumoth are as well.",
+    "value": "多可爱啊...不过我想真正的灯蛾也是。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Lumoth are interesting creatures. It's a shame they all seem to be so hostile.",
+    "value": "灯蛾是有趣的动物。很遗憾，他们似乎都很敌对。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Lumoth light issn't powered by fire. Floran could use them to light their entire village!",
+    "value": "灯蛾灯不是由火驱动的。叶族人可以用它们照亮整个村庄！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Smitten. An absolutely adorable lamp of an absolutely adorable creature. Just look at those little wings!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I guess the base of this lamp is to keep it from flying away?",
+    "value": "我猜这盏灯的底座是为了防止它飞走？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A rather clever idea for lighting... And adorable to boot.",
+    "value": "一个相当聪明的照明方法...而且很可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A Lumoth shaped lamp. Where do Lumoth come from anyhow?",
+    "value": "一盏灯蛾形状的灯。但这些灯蛾从哪里来？"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An elegantly modelled ceramic pitcher. Perfect for one with imperial inclinations.",
+    "value": "造型优雅的陶瓷水罐。非常适合有帝国主义倾向的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Imperial Pitcher",
+    "value": "帝国投手"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's a pitcher.",
+    "value": "是个投手。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Ideal for serving out an oculemonade on a hot day.",
+    "value": "非常适合在热天饮用柠檬水。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pitcher isssss empty.",
+    "value": "投手是空的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Miserable. There's no pozest in this pitcher!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/bothanDescription",
+    "raw": "A common household object found in backwater parts of the galaxy.",
+    "value": "银河系回水区常见的家用物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It strikes me that almost all sentient species have used for the same utensils.",
+    "value": "让我吃惊的是，几乎所有有知觉的物种都使用相同的器具。"
+  },
+  {
+    "op": "replace",
+    "path": "/twilekDescription",
+    "raw": "It's probably better to sell this pitcher, than to use it.",
+    "value": "卖掉这个水罐可能比使用它要好。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A common sight in any given taproom, I'll wager.",
+    "value": "我敢打赌，这在任何特定的餐厅里都是常见的景象。"
+  },
+  {
+    "op": "replace",
+    "path": "/mawgDescription",
+    "raw": "It's still useless without beer in it.",
+    "value": "没有啤酒还是没用的。"
+  },
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Strange vessel. Not Fenerox. Very odd.",
+    "value": "奇怪的船。不是耳廓狐。很奇怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/togrutaDescription",
+    "raw": "A strange vessel for the Togruta, for it's cumbersome for nomadic hunter-gatherers on the move.",
+    "value": "托格鲁塔号是一艘奇怪的船只，因为它对于游牧狩猎采集者来说很笨重。"
+  },
+  {
+    "op": "replace",
+    "path": "/felinDescription",
+    "raw": "Can this pitcher survive in a dishwasher?",
+    "value": "这个水罐能放在洗碗机里吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/wookieDescription",
+    "raw": "It's a pitcher. Too bad there's no garrmorl in this one.",
+    "value": "是个投手。可惜这里面没有加莫尔。"
+  },
+  {
+    "op": "replace",
+    "path": "/diathimDescription",
+    "raw": "Just the thing for serving spirits to guests.",
+    "value": "就是为客人提供烈酒的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/zabrakDescription",
+    "raw": "I am trying to comprehend just why this pitcher both allures me as it repels my curiosity.",
+    "value": "我试图理解为什么这个投手既吸引我，又排斥我的好奇心。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Is this how the 1% or Class A individuals engage in tipples?",
+    "value": "这就是1%或A级个人饮酒的方式吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/ithorianDescription",
+    "raw": "To defile the soils of Ithor just to create a base item such as this would be sacrilege!",
+    "value": "玷污伊索的土壤，或者仅仅创造一个这样的基本物品，都是亵渎！"
+  },
+  {
+    "op": "replace",
+    "path": "/rodianDescription",
+    "raw": "While soils on Rodia do bear clay, we have little need of vessels like these.",
+    "value": "虽然罗迪亚岛上的土壤确实含有粘土，但我们几乎不需要这样的容器。"
+  },
+  {
+    "op": "replace",
+    "path": "/tuskanDescription",
+    "raw": "Excess baggage for Tuskens.",
+    "value": "塔斯肯人的超重行李。"
+  },
+  {
+    "op": "replace",
+    "path": "/sithDescription",
+    "raw": "I have no wish to know what swill grot'thu will sample from this tawdry object.",
+    "value": "我不想知道格鲁特苏将从这件俗不可耐的物品中得到什么样的泔水。"
+  },
+  {
+    "op": "replace",
+    "path": "/xionianDescription",
+    "raw": "I'm sure there's a collector somewhere in the galaxy eager for this thing.",
+    "value": "我肯定银河系某个地方有个收藏家渴望得到这个东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/goats_cccccDescription",
+    "raw": "As adept as we are with the manufacturing arts, we Sealbhóir prefer wooden tableware, not stone or ceramic.",
+    "value": "尽管我们精通制造工艺，但我们更喜欢木制餐具，而不是石头或陶瓷餐具。"
+  },
+  {
+    "op": "replace",
+    "path": "/beldehorDescription",
+    "raw": "Only a good eye can tell you just how valuable this pitcher is.",
+    "value": "只有一双好眼睛才能告诉你这个投手有多值钱。"
+  },
+  {
+    "op": "replace",
+    "path": "/radienDescription",
+    "raw": "I wonder if this is some sort of sacrificial offering or grave good.",
+    "value": "我不知道这是一种祭品还是一种祭品。"
+  },
+  {
+    "op": "replace",
+    "path": "/thelusianDescription",
+    "raw": "A perfect target for blaster practice!",
+    "value": "爆能枪练习的完美目标！"
+  }
+]

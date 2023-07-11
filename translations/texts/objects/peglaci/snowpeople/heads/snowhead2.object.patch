@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The head of a Snowman.",
+    "value": "雪人的头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Simple Snowhead",
+    "value": "简易雪人头部"
+  }
+]

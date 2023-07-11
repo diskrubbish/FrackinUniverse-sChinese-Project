@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A big display screen made of a metallic alloy.",
+    "value": "由金属合金制成的大显示屏。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Screen",
+    "value": "合金屏幕"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "There's something odd with this display configuration.",
+    "value": "这种显示配置有些奇怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This display is mounted firmly on the wall.",
+    "value": "这个显示器牢固地安装在墙上。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Shinny blue wordss on televission.",
+    "value": "电视上闪亮的蓝字。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informative. This display shows some information.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Man, this monitor is huge!",
+    "value": "伙计，这个显示器太大了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This screen is able to display some information. Shame I can't read any of it.",
+    "value": "此屏幕能够显示一些信息。可惜我一本也看不懂。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This screen is just hangin' there.",
+    "value": "这个屏幕就挂在那里。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "Screens like this are very useful on our ships.",
+    "value": "这样的屏幕在我们的船上非常有用。"
+  }
+]

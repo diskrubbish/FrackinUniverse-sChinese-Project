@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wooden model ship assembled from within a large bottle.",
+    "value": "在一个大瓶子里组装的木制模型船。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ship in a Bottle",
+    "value": "装在瓶子里装运"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The patience and skill used to assemble this model is commendable.",
+    "value": "组装这种模型所用的耐心和技巧值得称赞。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Did someone truly put together that little ship from the inside?",
+    "value": "有人真的从内部组装了那艘小船吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran is resssisting the urge to ssshake.",
+    "value": "叶族人很想发抖。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. On closer inspection, this piece appears to be factory made.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "... Hey wait a second! There's a price tag here on the base!",
+    "value": "... 嘿等等！基地上有个价签！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A showcase of dexterity and patience on display.",
+    "value": "展示灵活和耐心的展示。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now how'd they get that in there?",
+    "value": "他们是怎么弄到的？"
+  }
+]

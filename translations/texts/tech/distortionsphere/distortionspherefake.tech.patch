@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Places a large donkey in your inbox ^green;[F]^reset;",
+    "value": "按^green;[F]^reset;在你的收件箱里放一只大驴子"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Durrstortin Circle",
+    "value": "圆环之理"
+  }
+]

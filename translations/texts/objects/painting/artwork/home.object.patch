@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sickening countenance looms behind this small-town painting.",
+    "value": "在这幅小镇油画的背后，隐约可见一张令人作呕的面容。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Home of the Strange",
+    "value": "怪奇小镇"
+  }
+]

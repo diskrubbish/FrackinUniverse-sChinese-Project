@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stealthily watch for anything nearby",
+    "value": "偷偷地观察附近的任何东西"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hidden Proximity Scanner",
+    "value": "隐藏式近距离扫描仪"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's a proximity device. It'll sense when I get close to it.",
+    "value": "一个近距离扫描器。当我接近它的时候就会被识别出来。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A hidden proximity device. It could trigger something if I'm near.",
+    "value": "隐藏的近程检测装置。如果我在附近，它可能会触发什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssecret eye on the wall. It can ssee!",
+    "value": "墙上有一只秘密的眼睛。它能看见！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Suspicious. This proximity scanner might be aware of me.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A proximity sensor. It can tell when I'm near.",
+    "value": "一个近距离扫描器。能识别出我的距离。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This scanning device can tell when I'm present.",
+    "value": "这个扫描设备可以判断我是否出现。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A proximity scanner. Is it watching me right now?",
+    "value": "一个近距离扫描器。它正在看着我吗？"
+  }
+]

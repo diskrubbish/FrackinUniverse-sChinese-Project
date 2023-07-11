@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A minimalistic table, stylistically rounded at the edges.",
+    "value": "简约的桌子，边缘呈圆形。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rounded Table",
+    "value": "圆形桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A table with a highly unusual method of supporting itself.",
+    "value": "一种具有非常独特的支撑方式的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What is the purpose of the curve underneath this table?",
+    "value": "这张桌子下面的曲线的用途是什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Table leg curvess like ssnake.",
+    "value": "桌腿弯曲得像蛇。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Baffled. Just what was going through the artist's head as they designed this?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hey, this table comes with a footrest!",
+    "value": "嘿，这张桌子有一个搁脚板！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A table supported by a large arch, like a boat resting upon a wave.",
+    "value": "一张由大拱门支撑的桌子，如波浪上的小船。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A weird lookin' table.",
+    "value": "一张奇怪的桌子。"
+  }
+]

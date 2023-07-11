@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Freshly brewed coffee.",
+    "value": "刚煮好的咖啡。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coffee",
+    "value": "咖啡"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fresssh coffee.",
+    "value": "新新新鲜的咖啡。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relieved. Freshly brewed coffee.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A cup of hot brew.",
+    "value": "一杯热咖啡。"
+  }
+]

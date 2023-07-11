@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It feels cold to the touch.",
+    "value": "摸起来很冷。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Glass",
+    "value": "水晶玻璃"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A perfect glass for fresh juice. It's a shame that such juices were banned in the prohibition.",
+    "value": "一杯完美的新鲜果汁。很遗憾，这种果汁在法令中被禁止。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A cup on which cold drinks are served.",
+    "value": "盛冷饮的杯子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Goatman cup feelsss cold.",
+    "value": "守门员杯感觉很冷。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Intrigued. The crystal of the glass it have low temperature.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fancy glass for fancy drinks.",
+    "value": "盛装高级饮料的高级玻璃杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Crystal requires deft fingers to shape thusly.",
+    "value": "水晶需要灵巧的手指才能塑造出完美的外形。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fancy lookin' glass for fancy drinks I'd guess.",
+    "value": "我猜这是一个用来盛装花式饮料的酒杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A glass made out of our special crystal.",
+    "value": "用我们特制的水晶做的玻璃杯。"
+  }
+]

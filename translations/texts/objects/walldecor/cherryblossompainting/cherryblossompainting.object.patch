@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large, sepia toned landscape painting of a blooming cherry blossom tree.",
+    "value": "一幅巨大的深褐色风景画，描绘一棵盛开的樱花树。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cherry Blossom Painting",
+    "value": "樱花画"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What stunning brushwork! It's marvelous!",
+    "value": "多么漂亮的笔触！太棒了！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This painting must've taken a great deal of focus and dedication to complete.",
+    "value": "这幅画一定是花了很大的精力才完成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "SSo pretty...",
+    "value": "太漂亮了。。。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amazed. The scale and realism of this painting is almost unreal.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh wow... What a painting.",
+    "value": "哇哦。。。多好的一幅画啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "One of the finer displays of Hyltol brushwork. The artist is said to have taken over two years to complete this piece.",
+    "value": "鲛人画笔的一个更精细的展示。据说这位艺术家花了两年多时间才完成这件作品。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Well I'll be... That's a mighty fine paintin'.",
+    "value": "我会。。。那是一幅很棒的画。"
+  }
+]

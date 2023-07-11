@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy door made of an unusual alloy.",
+    "value": "一种由不寻常的合金制成的坚固的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Hatch",
+    "value": "合金舱口"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Sturdy and cold to the touch.",
+    "value": "摸起来结实冰冷。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The faceted crystal in the centre is so lovely.",
+    "value": "中间镶嵌的水晶真可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Open, door!",
+    "value": "开门！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. A sturdy water-proof door.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "That sure is a lovely giant crystal right in the center there. Seems a little much for a door, but who am I to judge?",
+    "value": "在那里的中央有一个可爱的大水晶。对一扇门来说似乎有点贵，但我该评判谁呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Is that crystal in the center quite necessary?",
+    "value": "中间那个水晶很有必要吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A hatch. A really nice hatch.",
+    "value": "舱口。一个非常漂亮的舱口。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A sliding waterproof hatch with an incorporated crystalline biometric scanner.",
+    "value": "滑动防水舱口，内置水晶生物识别扫描仪。"
+  }
+]

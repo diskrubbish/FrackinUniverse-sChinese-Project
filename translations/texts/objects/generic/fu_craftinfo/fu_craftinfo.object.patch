@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This panel shows which materials produce results with your various lab stations. Must place near an Extractor or other processing station.",
+    "value": "它可以显示出材料与设备的相互关系。必须放在萃取或其他加工设备附近。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^yellow;Lab Directory^reset;",
+    "value": "^yellow;Frackin'Universe数据库^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/ponexDescription",
+    "raw": "Please, someone end my eternal torment. My pain is ceaseless.",
+    "value": "请结束我的痛苦，我不想一直痛苦下去。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Looks like the door to a witch's cabin.",
+    "value": "看起来就像是可以通往女巫的房间。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Witch Door",
+    "value": "女巫门"
+  }
+]

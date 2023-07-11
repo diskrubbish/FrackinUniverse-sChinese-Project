@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It keeps pumping out the good stuff.",
+    "value": "它不断地输出好东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^blue;Joja^reset; Vending Machine",
+    "value": "^blue;Joja^reset;自动售货机"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "... Does this vending machine seriously only sell one drink?",
+    "value": "... 这台自动售货机真的只卖一种饮料吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A very blue vending machine. Somehow I still don't feel all that thirsty.",
+    "value": "一台蓝色的自动售货机。不知怎么的，我还是不觉得那么渴。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssoda dispenser.",
+    "value": "苏打水分配器。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This vending machine is giving off a gentle hum.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Do they have to stamp their name on everything like this? Are they worried we'd forget their brand's name?",
+    "value": "他们需要在这样的东西上盖上自己的名字吗？他们担心我们会忘记他们的品牌吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I believe this machine only dispenses one brand of soda.",
+    "value": "我相信这台机器只配一种牌子的苏打水。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't wastin' 75 pixels on this.",
+    "value": "我可没在这上面浪费75像素。"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ^blue;Joja^reset; Vending Machine",
+    "value": "^blue;Joja^reset;自动售货机"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " Tasty Snacks",
+    "value": " 可口的零食"
+  }
+]

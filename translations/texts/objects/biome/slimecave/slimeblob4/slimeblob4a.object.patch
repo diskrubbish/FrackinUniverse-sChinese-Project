@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A vile bubble of slime. Yuk.",
+    "value": "真像一团恶心的黏液！真让人不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Blob",
+    "value": "粘液球"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A putrid mound of slime. How am I meant to store this?",
+    "value": "一堆腐烂的粘液。我该怎么储存这些东西？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A large blob of slime. Why does this exist?",
+    "value": "一大团果冻。为啥会有这种存在？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Like sssap.",
+    "value": "像团泥泥泥巴。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgusted. A vile mound of slime!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A huge glob of jelly. I kind of want to poke it.",
+    "value": "一大团果冻。我有点想戳戳它。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Slime blobs are not unpleasant to handle when you have amphibian skin.",
+    "value": "当你有两栖动物的皮肤时，粘液球并不难处理。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I reckon this'll come in handy for something.",
+    "value": "我想这东西迟早会派上用场。"
+  }
+]

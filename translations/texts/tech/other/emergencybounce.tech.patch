@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Enables a protective bubble at high speeds.",
+    "value": "当掉落速度达到阈值时就会自动启动，让使用者不受掉落伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Emergency Bounce",
+    "value": "防摔护盾"
+  }
+]

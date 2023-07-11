@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bush of primroses in a little wooden planter box.",
+    "value": "一丛在在小木箱里的报春花。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Primrose Planter",
+    "value": "报春花播种机"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A bush of cheery primroses.",
+    "value": "一丛欢快的报春花。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Primroses! They smell just lovely.",
+    "value": "报春花！它们闻起来真香。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty pink rosess.",
+    "value": "漂亮的粉红玫瑰。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A fine primrose bush.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I wonder what primroses are supposed to represent?",
+    "value": "我想知道报春花应该代表什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Primroses are a symbol of youth in Hylotl culture.",
+    "value": "报春花是鲛人文化中青春的象征。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some cute li'l primrose flowers.",
+    "value": "一些可爱的报春花。"
+  }
+]

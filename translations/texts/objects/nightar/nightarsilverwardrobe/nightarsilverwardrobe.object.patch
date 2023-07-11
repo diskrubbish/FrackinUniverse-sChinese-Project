@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Store your clothing in style, and be snobby about it.",
+    "value": "以时尚的方式存放您的衣服，并因此变得势利。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Silver Wardrobe",
+    "value": "夜族银色衣柜"
+  }
+]

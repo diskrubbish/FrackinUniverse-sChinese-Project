@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Place at the end of platforms and certain sloped pipe blocks to change their appearance. Paint pink for visibility.",
+    "value": "一个改变那些倾斜管道块的外形的控制块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Control Widget",
+    "value": "控制部件"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A traditionally crafted Nightarian shelf.",
+    "value": "传统工艺制作的夜族架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Shelf",
+    "value": "夜族架子"
+  }
+]

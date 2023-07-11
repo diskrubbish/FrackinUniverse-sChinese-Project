@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Filters most environment effects. Can broadcast augment effects to radius. ^cyan;Requires ^orange;100W^cyan; of power^reset;.",
+    "value": "过滤绝大部分环境效果。可以在作用半径内传播EPP插件的效果。\n^cyan;需要^orange;100W^cyan;电力^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Atmospheric Filter^reset;",
+    "value": "^cyan;大气过滤器^reset;"
+  }
+]

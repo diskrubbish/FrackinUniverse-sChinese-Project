@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The best customer service - guaranteed!",
+    "value": "最好的客户服务——我们保证！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shop Counter, Hylotl",
+    "value": "鲛人售货柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Not the best place for an impulse buyer.",
+    "value": "对于一时冲动的消费者来说，这可不是个好地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'm not certain I need anything here.",
+    "value": "我不确定我需要什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Annoyed. If I must shop here, I will, but I don't have to be happy about it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What're the orbs for? Hypnotizing people into buying more?",
+    "value": "这些球体是干什么用的？催眠人们去买更多的东西？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The three eyed emblem is a sign to all that quality products are assured.",
+    "value": "三眼标志是所有产品质量得到保证的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The cashiers here always try heckle an' heckle me into signin' up for memberships and such.",
+    "value": "这里的收银员总是试图诘问我，要让我注册成为会员之类的。"
+  }
+]

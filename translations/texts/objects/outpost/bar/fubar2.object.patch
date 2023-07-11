@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A friendly place to drink.",
+    "value": "这就是一个用来喝酒放松的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bar Table",
+    "value": "酒吧桌子"
+  }
+]

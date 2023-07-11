@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The prey of choice for playful kittens.",
+    "value": "顽皮小猫的首选猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Yarn Basket",
+    "value": "纱篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A basket of knitting yarn.",
+    "value": "一篮针织纱线。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Knitting is new to me. Grounded work fabric in a much different way.",
+    "value": "编织对我来说是新事物。以一种完全不同的方式固定工作结构。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fluffy string isn't tough, but sssoft. Floran approves.",
+    "value": "毛茸茸的绳子不结实，但柔软。叶族人同意了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Fond. I could spend hours by the fireplace, just knitting away.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Maybe I'll get this for my kitty to play with when I'm away.",
+    "value": "也许我不在的时候会把这个给我的小猫玩。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Knitting is certainly an under appreciated skill.",
+    "value": "编织当然是一项未被重视的技能。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't got the patience for knittin'.",
+    "value": "我对编织没有耐心。"
+  }
+]

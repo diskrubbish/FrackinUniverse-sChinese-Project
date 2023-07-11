@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "They'll give you free samples - but don't get to greedy now!",
+    "value": "他们会给你免费样品，但现在不要贪心！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Parlor Shop Counter",
+    "value": "会客厅柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ah, moments away from my frozen treat...!",
+    "value": "啊，离我的冷冻食物还有几分钟...！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I do wonder how they manage to make so many different flavors.",
+    "value": "我真想知道他们怎么能做出这么多不同的口味。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wants triple sscoops!",
+    "value": "叶族人想要三勺这个！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impatient. I don't mean to be childish but... I want my ice cream and I want it NOW.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Now how many free samples can I could sneak in before I get asked to leave?",
+    "value": "在我被要求离开之前，我可以偷偷带多少免费样品？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What a nice color scheme this counter has.",
+    "value": "这个柜台的配色方案真不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "My ice cream'll melt before I can pay for it at this rate!",
+    "value": "我的冰激凌还没来得及按这个速度付钱就要融化了！"
+  }
+]

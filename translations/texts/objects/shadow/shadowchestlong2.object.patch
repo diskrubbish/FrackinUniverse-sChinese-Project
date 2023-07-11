@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large chest. It watches you search inside it.",
+    "value": "一个大型的箱子。他在注释你的搜寻。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Long Shadowy Chest",
+    "value": "阴影长箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A chest. It has a morbid design.",
+    "value": "一个箱子。有着病态的设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Often these chests stored valuables, although this looks as if it stores a body...",
+    "value": "这些箱子通常存放贵重物品，尽管这看起来像是在存放尸体..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Chessst! Floran musst sssearch!",
+    "value": "箱箱箱子！叶族热门必须找找找看！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. I'm not sure I want to know what's inside...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A chest! It's staring at me.",
+    "value": "一个箱子！它正盯着我。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There is little as exciting as an unopened chest. I may give this one a miss...",
+    "value": "没有什么比未打开的箱子更令人兴奋的了。我可能会错过这个..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'm not quite sure I should be pokin' in there...",
+    "value": "我不太确定我是否应该插进去..."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Don't use your finger! This trusty sensor indicates the presence of liquids.",
+    "value": "不要用你的手指测试它！这个传感器检测液体的存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Liquid Sensor",
+    "value": "液体传感器"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Don't use your finger! This ssensor indicatesss the presence of liquidss.",
+    "value": "不要用你的手指测试它！这个传感器检测液体的存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This trusty sensor indicates the presence of liquids.",
+    "value": ""
+  }
+]

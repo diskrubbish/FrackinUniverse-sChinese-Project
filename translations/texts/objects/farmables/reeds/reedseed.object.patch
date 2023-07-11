@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Reeds grow avidly wherever they can in a bog or swamp.",
+    "value": "这些植物只在沼泽生长。可以收获芦苇。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Reeds",
+    "value": "芦苇种子"
+  }
+]

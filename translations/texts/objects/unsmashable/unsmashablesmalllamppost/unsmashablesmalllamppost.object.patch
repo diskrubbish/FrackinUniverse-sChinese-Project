@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tiny lamppost. Try not to kick it over. Unbreakable!",
+    "value": "一根小小的灯柱。尽量不要把它踢翻。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tiny Lamppost",
+    "value": "小灯柱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A tiny lamppost.",
+    "value": "一根小小的灯柱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What a tiny lamppost.",
+    "value": "多么小的灯柱啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmall light on ssstick.",
+    "value": "ssstick上有一盏小灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A tiny lamppost.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A little lamppost.",
+    "value": "一根小灯柱。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "So small and adorable.",
+    "value": "又小又可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A small lamppost. What's it good for?",
+    "value": "一根小灯柱。它有什么好处？"
+  }
+]

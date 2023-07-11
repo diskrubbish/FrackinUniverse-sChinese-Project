@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A slimy yet well-built table.",
+    "value": "一张粘糊糊但构造良好的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Table",
+    "value": "粘液桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "You'd think a table made of slime would be sticky, but it's not.",
+    "value": "你会认为用黏液做的桌子很粘，但它不是。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Rather solid for a table made of slime.",
+    "value": "史莱姆制做的桌子很结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's made of slime, but it's not sticky.  Huh.",
+    "value": "它是由史莱姆制做的，但不粘。呵呵。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssstrange ssslimy sssolid table.",
+    "value": "黏到他妈都不认得的固体桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused.  What sorcery is this?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "How's this even work?  It's made of slime.",
+    "value": "这是怎么回事？居然还是用史莱姆制做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Hm.  Surprisingly sturdy.",
+    "value": "嗯，非常结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Pretty smooth n' well-built for something made of slime.",
+    "value": "很光滑，很适合做黏液做的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimenpcDescription",
+    "raw": "Smooth table is smooth.",
+    "value": "光滑的桌子是光滑的。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimenpchumanDescription",
+    "raw": "A fine well-built table made of slime.",
+    "value": "一张用史莱姆制做的精致的桌子。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "B big eyeball attached to tendons.",
+    "value": "一个连着肌腱的巨大眼球。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flesh Monument",
+    "value": "血肉纪念碑"
+  }
+]

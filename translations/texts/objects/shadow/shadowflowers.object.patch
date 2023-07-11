@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decorative bush. The flowers softly glow.",
+    "value": "装饰性灌木。花儿轻轻地发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowy Bush",
+    "value": "阴影灌木丛"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What a pleasant decoration.",
+    "value": "多么令人愉快的装饰啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The flowers are oddly nice against such a dark plant.",
+    "value": "这些花在如此黑暗的植物衬托下显得格外美丽。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likesss glowy flowersss.",
+    "value": "叶族人喜喜喜欢会发光的花花花。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. The flowers are beautiful.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's a bit drab, but the flowers brighten it up.",
+    "value": "有点单调，但花使它更明亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The soft glow is somehow reassuring in this darkness.",
+    "value": "在这片黑暗中，柔和的光芒让人感到安心。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's mighty pretty.",
+    "value": "非常漂亮。"
+  }
+]

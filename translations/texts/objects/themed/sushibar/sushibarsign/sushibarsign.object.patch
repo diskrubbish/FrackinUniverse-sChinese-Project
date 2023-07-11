@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A restaurant logo featuring sushi and a bright red lobster.",
+    "value": "餐厅的标志，以寿司和鲜红色龙虾为特色。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sushi Bar Sign",
+    "value": "寿司店招牌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The sign for what appears to be a Hylotl sushi bar.",
+    "value": "这是一家鲛人寿司店的招牌。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Shellfish eating regular fish... That's kind of messed up.",
+    "value": "贝类吃普通鱼...这有点糟糕。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fishman's fisshy food. Yuck.",
+    "value": "鱼人的拳头食物。讨厌。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. I'd like to see this restaurant's license before I even think of eating its raw fish.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "We had a chain back on Earth with a lobster mascot! I think it was a pet or something?",
+    "value": "我们在地球上有一条带龙虾吉祥物的链子！我想是宠物什么的？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A seafood and sushi bar, it appears. Sounds like a nice enough lunch.",
+    "value": "似乎是一家海鲜和寿司店。听起来是一顿不错的午餐。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Should lobster be that big?",
+    "value": "龙虾应该那么大吗？"
+  }
+]

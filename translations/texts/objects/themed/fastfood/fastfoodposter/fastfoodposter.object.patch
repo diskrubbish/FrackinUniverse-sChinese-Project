@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It looks like an advertisement for a combo meal.",
+    "value": "这看起来像是一份套餐的广告。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Burger Fool Combo Poster",
+    "value": "汉堡傻瓜组合海报"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This poster definitely gets its point across.",
+    "value": "这张海报很明确地表达了它的观点。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Surely that food couldn't actually look this good... right?",
+    "value": "当然，食物看起来不可能这么好...正确的？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Juicy... ssshiny... meats....",
+    "value": "多汁的...闪亮的...肉...。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Voracious. For a picture, it looks mouthwateringly delicious. Or so I would imagine.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Supposedly they just photograph wax models of the food for these ads. I'm still tempted to eat it.",
+    "value": "据推测，他们只是为这些广告拍摄蜡像。我还是想吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The cheapness of this meal is offset by the appalling lack of nutritional value.",
+    "value": "这顿饭的便宜被营养价值的严重缺乏所抵消。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Looks mighty appetizin'.",
+    "value": "看起来很开胃。"
+  }
+]

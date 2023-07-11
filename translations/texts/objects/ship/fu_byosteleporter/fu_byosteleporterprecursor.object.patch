@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A ship teleporter crafted from an ancient Precursor schematic",
+    "value": "一个根据古老的先驱蓝图制作成的飞船传送门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Ship Teleporter",
+    "value": "先驱飞船传送门"
+  }
+]

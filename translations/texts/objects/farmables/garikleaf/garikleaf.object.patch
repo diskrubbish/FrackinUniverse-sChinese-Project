@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Grants a large boost to ground speed.",
+    "value": "可以收获加里克花，食用后会提高移动速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Garik Leaf",
+    "value": "加里克花种子"
+  }
+]

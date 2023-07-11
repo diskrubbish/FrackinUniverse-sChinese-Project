@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Ded huumin. Not me. Glad.",
+    "value": "死去的人类，不是我，很高兴。"
+  },
+  {
+    "op": "replace",
+    "path": "/thelusianDescription",
+    "raw": "Death comes to all.",
+    "value": "万物终有一死。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "N-No...",
+    "value": "不-不。"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dead Human Protector, mangled beyond any hope of revival.",
+    "value": "一位死去的人类守护者，已经没有复活的希望了。"
+  }
+]

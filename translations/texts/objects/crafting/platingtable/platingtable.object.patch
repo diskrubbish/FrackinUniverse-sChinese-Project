@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Make decorative objects out of home cooked meals!",
+    "value": "用家常菜制作装饰物品！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Plating Table^reset;",
+    "value": "^orange;摆盘桌^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Food in Apex territory is an artificially scarce resource. I'm not sure I'm comfortable just flippantly displaying it.",
+    "value": "在猿人星区，食物是一种人造稀缺资源。我不确定只是轻率地展示食物是否让能我感到舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The smell of plated food is so tempting, I fear I won't have it to decorate with for long.",
+    "value": "摆盘食物的气味是如此诱人，我担心我不会用它来装饰很长一段时间。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "SSShowing off food is wasteful. Food is for eating!",
+    "value": "展展展示食物真是浪费，好吃的就应该被吃掉！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. Why would one waste food by just displaying it? Won't it spoil?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A step up from wax fruit bowls for sure.",
+    "value": "真就是比蜡像水果进步很多。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Any Hylotl chef worth their salt knows presentation is half of any quality meal.",
+    "value": "任何称职的鲛人厨师都知道，烹饪技巧让高质量膳食事半功倍。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Food just for showing off? What a waste...",
+    "value": "食物用来展示？真是浪费..."
+  }
+]

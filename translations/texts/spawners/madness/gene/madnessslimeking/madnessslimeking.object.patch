@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A gargantuan slime creature.",
+    "value": "一种巨大的黏液生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Eye",
+    "value": "黏液眼"
+  }
+]

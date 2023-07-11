@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ancient support beam.",
+    "value": "这根支撑梁很早以前就已存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Support Beam",
+    "value": "先驱支撑梁"
+  }
+]

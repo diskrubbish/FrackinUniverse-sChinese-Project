@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The barbs on this tree are as sharp as knives and rich in titanium.",
+    "value": "这种树上的倒刺像刀子一样锋利，其中富含钛元素。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blade Tree",
+    "value": "刀片镖种子"
+  }
+]

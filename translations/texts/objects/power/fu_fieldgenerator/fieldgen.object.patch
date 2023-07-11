@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You didn't see anything.",
+    "value": "什么都没有！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Field Generator^reset;",
+    "value": "^orange;隐形力场发生器^reset;"
+  }
+]

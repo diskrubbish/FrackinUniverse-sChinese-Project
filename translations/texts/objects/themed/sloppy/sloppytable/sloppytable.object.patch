@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Someone's attempted to cover this table with a tablecloth. An A for effort?",
+    "value": "有人试图用桌布盖住这张桌子。努力的代价？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloppy Table",
+    "value": "邋遢的桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "At least the TABLE'S clean. That's more than I can say for anything else here...",
+    "value": "至少桌子是干净的。这比我能说的还要多..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This tablecloth... it's not even draped properly...",
+    "value": "这块桌布...它甚至没有正确地覆盖..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran thinks table lookss fine.",
+    "value": "叶族人认为桌子很好看。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Incredulous. I hope the person who owns this table doesn't regularly host guests.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This tablecloth isn't really gonna protect this table from anything.",
+    "value": "这块桌布并不能保护这张桌子免受任何伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Did the owner even try to cover this table?",
+    "value": "店主有没有试着盖住这张桌子？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Better than nothin'.",
+    "value": "总比什么都没有强。"
+  }
+]

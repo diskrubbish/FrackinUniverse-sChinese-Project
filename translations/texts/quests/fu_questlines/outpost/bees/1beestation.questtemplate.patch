@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Beekeeping 101",
+    "value": "初次养蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Care to try a simpler life, ^green;breeding bees^reset; and reaping the profits? Build an ^orange;Apiary Crafting Station^reset; and you can get started.",
+    "value": "想尝试更简单的生活方式，比如^green;养殖蜜蜂^reset;来获取利润？建造一个^orange;蜂场工作台^reset;来试试。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "With the ^orange;Apiary Crafting Station^reset;, you'll be able to craft a whole new array of goods you've likely not seen before!",
+    "value": "你可以在^orange;蜂场工作台^reset;制作一些你从未见过的新玩意。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ancient computers, their data long-since corrupted.",
+    "value": "这些电脑年代久远，里面的数据早已损坏。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Computer",
+    "value": "先驱电脑"
+  }
+]

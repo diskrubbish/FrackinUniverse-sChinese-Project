@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This mutant strain of guam can filter any radiation.",
+    "value": "可以收获拉德草，食用后会免疫辐射、致命辐射。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rad Grass Seed",
+    "value": "拉德草种子"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Avian Pyramid Body for a spaceship.",
+    "value": "为飞船而生的翼族金字塔船体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avian Pyramid Body",
+    "value": "翼族金字塔船体"
+  }
+]

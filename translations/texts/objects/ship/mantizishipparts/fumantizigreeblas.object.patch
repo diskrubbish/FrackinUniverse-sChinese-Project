@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A towering Mantizi statue, reminiscent of the ancient Atlas.",
+    "value": "一座高耸的甲虫族雕像，让人想起古代的阿特拉斯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Colossus",
+    "value": "甲虫族巨像"
+  }
+]

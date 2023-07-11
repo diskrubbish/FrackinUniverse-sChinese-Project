@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Need to creep people out but have a place to sit? Bam!",
+    "value": "你说如果有人坐着，你要把他赶出去才能坐下来？别骗我了！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bone Armchair",
+    "value": "骨椅"
+  }
+]

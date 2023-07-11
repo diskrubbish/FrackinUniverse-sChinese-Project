@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^green;Mount Gigant",
+    "value": "^green;巨人山"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "An ancient Hylotl mountain is said to be cursed. Dare you investigate?",
+    "value": "据说一座古老的鲛人山脉被诅咒了。你敢调查一下吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Investigate the peak of Mount Gigant.",
+    "value": "调查巨人山的顶峰。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "I've traversed the entirety of this mountain. Whatever was going on here, seems like the ancients were ultimately responsible for it.",
+    "value": "我走遍了这座山脉。不管发生了什么，古人似乎最终要为此负责。"
+  }
+]

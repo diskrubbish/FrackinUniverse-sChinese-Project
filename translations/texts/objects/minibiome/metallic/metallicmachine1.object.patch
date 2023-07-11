@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A device that aids in transmissions.",
+    "value": "好像是用来传输某些信号的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Signal Relay",
+    "value": "信号继电器"
+  }
+]

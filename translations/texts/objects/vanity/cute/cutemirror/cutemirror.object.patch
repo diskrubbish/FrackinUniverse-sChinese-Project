@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A vanity with a mirror, it's quite cute.",
+    "value": "一个梳妆镜，非常可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Mirror",
+    "value": "可爱的镜子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The reflection quality of this mirror is terrible.",
+    "value": "这面镜子的映像质量实在是太糟糕了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The reflection in this mirror is hazy, does it hold mysteries?",
+    "value": "这面镜子的映像非常模糊，难道它还存在着一些未解之谜吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstaring at mirror isss like ssstaring at water.",
+    "value": "注注注视着这面镜子，就像注注注视着水面一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unsatisfied. The quality of this reflection is as hazy as looking through water.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The reflection in this mirror is hazy, like looking through water. Or soup.",
+    "value": "这面镜子的映像非常模糊，仿佛透过水面，或者汤来看一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "While I enjoy the decorative quality, the mirror has clouded.",
+    "value": "当我正在享受它的装饰性时，这面镜子蒙上了阴影。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The reflection in this mirror is as hazy as a hot day in the desert.",
+    "value": "这面镜子的映像非常模糊，如同在炎热的沙漠里视物一样。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It looks fancy, but it's actually just a framed swimming certificate.",
+    "value": "看起来不错，但实际上只是带框的游泳证"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Certificate",
+    "value": "证书"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Usually these sorts of displays are for diplomas and the like.",
+    "value": "这通常是为了显露他们的证书"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Someone is awfully proud of such a basic achievement.",
+    "value": "有人为这项基本成就感到非常自豪"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big deal. Floran doessn't get award for braving fire.",
+    "value": "了不起的事叶族人没有因为顶火而获奖。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. Someone has displayed their childhood swimming certificate in an important looking frame.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I mean, if no one actually reads it, it probably looks pretty fancy, right?",
+    "value": "我是说，如果人没有真正理解它，它可能看起来有点花哨，对吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Hylotl tadpoles are capable of swimming before they even hatch.",
+    "value": "鲛人蝌蚪在孵化前就会游泳了"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This ain't even worth the time to frame and hang up.",
+    "value": "这根本不值得装框挂上去"
+  }
+]

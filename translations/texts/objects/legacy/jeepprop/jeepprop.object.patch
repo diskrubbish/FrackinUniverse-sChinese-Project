@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Beep-Beep!",
+    "value": "哔哔！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Human Jeep",
+    "value": "人类吉普车"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Giddy. Beep-Beep!",
+    "value": ""
+  }
+]

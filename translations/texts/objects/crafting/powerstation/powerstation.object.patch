@@ -1,0 +1,86 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Create powered gear.",
+    "value": "制造电力设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Electronics Center^reset;",
+    "value": "^orange;电子设备制造机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "raw": "Create powered gear.",
+    "value": "制造电力设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Electronics Center^reset;",
+    "value": "^orange;电子设备制造机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^#e158ff;Electronics Center^reset;",
+    "value": " ^#e158ff;电子设备制造机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Create powered gear.",
+    "value": " ^#dddddd;制造电力设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "raw": "High-tech powered devices.",
+    "value": "高科技的电力设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Power Station^reset;",
+    "value": "^orange;能源设备制造器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^#e158ff;Power Station^reset;",
+    "value": " ^#e158ff;能源设备制造器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Hi-Tech power and wiring solutions.",
+    "value": " ^#dddddd;高科技的电源和布线解决方案。"
+  }
+]

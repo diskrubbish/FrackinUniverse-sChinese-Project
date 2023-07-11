@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Jam made from pussplum. It's surprisingly chunky.",
+    "value": "用圣女果做成的果酱。它惊人地粗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pussplum Jam",
+    "value": "圣女果果酱"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran eats this ssstuff right out the jar! Sssavory.",
+    "value": "叶族人把这东西从罐子里拿出来吃！美味。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uncomfortable. Pussplums are already weird enough whole.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Pussplums make an awful large mess when you cut 'em. It's enough to put off a lotta folks, to say the least.",
+    "value": "圣女果会在你剪掉他们的时候搞得一团糟。至少可以说，这足以让很多人感到不快。"
+  }
+]

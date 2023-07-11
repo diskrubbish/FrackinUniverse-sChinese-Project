@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Even the ancient races needed shelves.",
+    "value": "就算是古代种族也需要架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Wall Shelf",
+    "value": "先驱墙架"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Tropical Humidity (Resist: ^#a10000;Physical^reset;)",
+    "value": "热带炎热 (抵抗: ^#ff6e00;火炎^reset;)"
+  }
+]

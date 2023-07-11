@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honeystone",
+    "value": "蜜蜡石"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Golden stones saturated with honey, smooth to the touch.",
+    "value": "充满了蜂蜜的金色石头，摸起来很光滑。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Watchful. These smooth stones seem to be imbued with honey.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Gold ssmooth sstoness ssmell like honey.",
+    "value": "闻起来像蜂蜜的金色光滑石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "What a buncha weird-smelling rocks.",
+    "value": "这些石头的味道真是有够奇怪的。"
+  }
+]

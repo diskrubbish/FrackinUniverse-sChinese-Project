@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Allows flow of water and air through underground warrens.",
+    "value": "让水和空气在地下管网中流动。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Obsidian Wall Pipe",
+    "value": "黑曜石壁管"
+  }
+]

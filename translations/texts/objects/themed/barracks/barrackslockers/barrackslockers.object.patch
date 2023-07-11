@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A set of sturdy barracks lockers, made to withstand the forces of nature and warfare alike.",
+    "value": "一套坚固的营房储物柜，可以抵御自然和战争的力量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Barracks Lockers",
+    "value": "营房储物柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A set of uniform lockers. They certainly look sturdy.",
+    "value": "一套制服储物柜。它们看起来确实很结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These lockers look like they could weather a great deal.",
+    "value": "这些储物柜看起来可以经受很多考验。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran doesn't think their sspear can pierce through these...",
+    "value": "叶族人不认为他们的耳朵能穿透这些..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Bored. An uninteresting set of lockers.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "They're much more compact than the ones back at the academy, huh?",
+    "value": "它们比学院里的要紧凑得多，是吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "They're not to my tastes, but I must admit these lockers seem relatively sturdy.",
+    "value": "它们不符合我的口味，但我必须承认这些储物柜似乎相对坚固。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some heavy duty lockers.",
+    "value": "一些重型储物柜。"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Skath Plasma Shotgun, decommissioned for display.",
+    "value": "一支绘世者等离子猎枪，退役后用于展示。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Shotgun Display",
+    "value": "绘世者猎枪展台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The rounds of these weapons are extraordinarily hot, and can even melt ship plating.",
+    "value": "这些武器的子弹非常热，甚至可以熔化船板。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This weapon seems to fire starmatter at a rapid speed.",
+    "value": "这种武器似乎能以极快的速度发射星际物质。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Waterdragon gun shootsss blue fire. Floran ssscared.",
+    "value": "水龙枪发射蓝色火焰。叶族人很害怕。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Fascinated. The bullets of these weapons are propelled by plasma expansion.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Assault Shotgun, eh? That's a weird mix.",
+    "value": "突击猎枪，嗯？这是一个奇怪的组合。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Skath weaponry is truly terrifying.",
+    "value": "绘世者的武器真非常恐怖。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty dangerous lookin' Skath Shotgun.",
+    "value": "一把看起来非常危险的绘世者猎枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "An Assault Shotgun is a rapid firing shotgun. The chances of penetrating walls or armour increases with each shot.",
+    "value": "突击猎枪是一种快速射击的猎枪。每次射击都会增加穿墙或穿甲的几率。"
+  }
+]

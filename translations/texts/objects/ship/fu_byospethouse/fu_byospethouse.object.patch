@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just big enough for a small animal to fit comfortably inside. Comes with a free pet.",
+    "value": "对于一只小动物来说大小正正好好可以住的很舒服.但你得给你的宠物重新再找个家，里面已经住着一只小动物了.\n^#B8860B;可在飞船用家具定制台调整种族风格^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pet House (Spawner)",
+    "value": "宠物屋(生成器)"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Home sweet home to a beloved pet.",
+    "value": "对于一只猿族人最喜爱的鼬鼠来说这是个好房子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Some kind of small house for a creature. I bet my bunny would love it!",
+    "value": "给兔子住的某种小房子，为什么长满羽毛的翼族人会喜欢哺乳动物。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssnake usually live in tall grasss. Pet housse unnatural.",
+    "value": "房子里住着叶族人最爱的蛇.不过蛇不是应该住在草窝里的么。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. This kennel would suit my prized piglet.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Just another thoughtful gift for my ungrateful feline companion to ignore.",
+    "value": "里面住着一只猫！人类的朋友和‘主人’。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This isn't a conventional house for a crasberry, but it will do.",
+    "value": "屋子里住着一只蛟族人的宠物蟹莓，生于大海，长于星空。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A pet house! A lil on the cramped side but who's complainin'?",
+    "value": "一只星之子最爱的云鼠挤在这件小房子里.它不会挥发掉吧。"
+  }
+]

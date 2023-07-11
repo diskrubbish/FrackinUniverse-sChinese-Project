@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp filled with metallic hydrogen. It could explode.",
+    "value": "一盏注满了金属氢的灯。易爆，小心。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metallic Lava Lamp",
+    "value": "金属熔岩灯"
+  }
+]

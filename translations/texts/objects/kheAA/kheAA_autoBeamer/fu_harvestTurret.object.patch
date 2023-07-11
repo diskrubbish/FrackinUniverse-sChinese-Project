@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Turret for harvesting plants automatically. Doesn't actually pick up plants.",
+    "value": "可自动收割作物的炮塔，但是无法在收割后拾取物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Harvester Turret v1",
+    "value": "收割者炮塔 I"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Automatic Harvesting",
+    "value": "可自动收割作物。"
+  }
+]

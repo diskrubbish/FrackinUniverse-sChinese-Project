@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/inputLabel/value",
+    "raw": "Input",
+    "value": "输入"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/clear/caption",
+    "raw": "Take all",
+    "value": "全部拾取"
+  }
+]

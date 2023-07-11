@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sneak attack, but with lower speed.",
+    "value": "进入潜匿攻击状态，不过移动速度变慢。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Phase Attack^reset;",
+    "value": "^#77acc3;潜匿攻击^reset;"
+  }
+]

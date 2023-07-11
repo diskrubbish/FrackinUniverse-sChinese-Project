@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A canister full of energy, perfect for resupplying mechs. Break it apart to get at what's inside!",
+    "value": "一个充满能量的罐子，适用于机甲。打开它以获得藏在里面的物品！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mech Energy Canister",
+    "value": "机甲能源罐"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Miniknog agents often carry these to refuel their mechs in the field.",
+    "value": "大猿的特工经常使用它来给他们的机甲充能。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A useful battery for quick mech recharging.",
+    "value": "一个用于快速恢复机甲能量的罐子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Iss to mechss what meatss iss to Floranss.",
+    "value": "这是给叶族人机机机甲的食物，我觉得是肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Enthused. A mech could utilise the energy in this canister.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These are handy for when you can't get your mech to a proper refuelling stop.",
+    "value": "这是当你的机甲没有遇到加油站时的最佳选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The aesthetics of this energy container are wanting, but one supposes it is functional enough.",
+    "value": "这个容器的外观有些难看，得好好地改动一下，不过或许制作它们的人眼中只存在功能性。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These lil' tykes are useful when you're on the long trail.",
+    "value": "当你在茫茫宇宙中探索时，这些个小玩意儿是必不可少的。"
+  }
+]

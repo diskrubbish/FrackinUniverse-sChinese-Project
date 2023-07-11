@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Industrial Edge",
+    "value": "工业优势"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Now it's time to maximize your output. Build an ^orange;Industrial Centrifuge^reset;. You'll need to find some ^orange;Sand^reset; to make the glass you need. Try a desert!",
+    "value": "现在，是时候大幅提升蜂蜜产量了。制造一台^orange;工业离心机^reset;^orange;。你要找到一些^orange;沙子^reset;来生产需要用到的玻璃，去沙漠试试。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "I should mention that this station requires power to run, which you can get from an Alternator or better power source.",
+    "value": "我应该说过这个设备需要电力才能运行，你需要交流发电机或更好的供电设备。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Automatoes! Be sure to spit out the screws.",
+    "value": "机器人！一定要把螺丝拧出来。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Automato Basket",
+    "value": "硬番茄篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Automatoes... pretty standard, if you don't break your teeth on the screws.",
+    "value": "自动装置...非常标准，如果你没有在螺丝上折断牙齿。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Automatoes. The seeds are pretty tasty by themselves.",
+    "value": "自动装置。这些种子本身很好吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fleshy and juicy, with crunchy bitsss. Like humansss.",
+    "value": "肉质多汁，咬起来松脆。就像人类一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disapproving. Others remove the screws. The Glitch feel they enhance the flavour.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A tomato filled with screws. Tasty yet hazardous.",
+    "value": "一个装满螺丝钉的西红柿。美味但危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A common Glitch peasant food. Not to my taste.",
+    "value": "一种很常见的电子人农夫食物。不符合我的口味。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Automatoes have a tangy, metalic flavour.",
+    "value": "硬番茄有强烈的金属味。"
+  }
+]

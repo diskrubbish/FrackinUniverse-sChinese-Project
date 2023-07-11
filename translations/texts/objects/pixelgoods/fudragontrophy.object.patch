@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just looking at it makes you shiver.",
+    "value": "看着的时候你是不是感觉你在发抖？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bone Trophy",
+    "value": "骨制奖杯"
+  }
+]

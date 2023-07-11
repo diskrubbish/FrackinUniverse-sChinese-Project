@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Place in an enclosed building with at least one door and light source and someone will move in!",
+    "value": "放置在一个至少有着一扇门和光源的封闭建筑中，然后看着人们搬进来吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^yellow;Eld'uukhar-Themed Colony Deed^reset;",
+    "value": "^yellow;厄休安龙人样式殖民地契约"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "If placed in a building with a door and a light it will encourage someone to move in.",
+    "value": "如果把它放在带有门和灯的房子里，人们就会有动力搬进来。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This device will invite someone to move into the building. Just make sure there's a door and a light.",
+    "value": "这个装置会邀请人们入住这座建筑，只要确保有一扇门和一盏灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssscreen for houssse wall. Makesss sssilly fire lizardsss come.",
+    "value": "把它挂挂挂在建筑物的墙壁上，让这里成为某某人的新家！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. If placed in a correctly structured building, this colony deed will encourage someone to move in.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These are great for expanding a colony. Place it in a building with a door and a light and someone will move in.",
+    "value": "这些东西对扩大殖民地很有帮助。把它放在带有门和灯的建筑里，人们就会搬进来。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "If hung in an enclosed building with a door and a light, someone will move in and make it their home.",
+    "value": "如果把它挂在一个带有门和灯的封闭建筑里，人们就会搬进去，把这里当做自己的家。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "With a colony deed an someone'll move into the building. Just make sure the building has a door an' a light source.",
+    "value": "放置在一个至少有着一扇门和光源的封闭建筑中，然后看着人们搬进来吧！"
+  }
+]

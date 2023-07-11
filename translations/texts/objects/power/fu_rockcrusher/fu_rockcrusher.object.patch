@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A device for pulverizing rocky material into useful items. ^cyan;Requires ^orange;30W ^cyan;power.^reset;",
+    "value": "一台将岩石材料粉碎成有用物品的装置。\n^cyan;需要^orange;30W^cyan;电力^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Rock Crusher^reset;",
+    "value": "^cyan;碎岩机^reset;"
+  }
+]

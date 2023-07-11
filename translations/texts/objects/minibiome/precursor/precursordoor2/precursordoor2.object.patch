@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A door made of dense, super-tough metal.",
+    "value": "一扇由致密合金，一种超级坚硬的金属制成的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Sliding Door",
+    "value": "先驱滑门"
+  }
+]

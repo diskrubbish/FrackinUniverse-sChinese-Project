@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Time to eat!",
+    "value": "该吃饭了！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dishes",
+    "value": "菜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Fine china.",
+    "value": "好瓷器。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These plates are so fine I could preen myself looking into them.",
+    "value": "这些盘子太好了，我看着它们都能把自己打扮得漂漂亮亮的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran resisting urge to sssmash...",
+    "value": "叶族人忍住要砸的冲动..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. Not a single speck of grime.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's almost a shame to eat on plates this clean. Almost.",
+    "value": "在这么干净的盘子里吃饭几乎是一种耻辱。几乎。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Fine enough dishware can be hung up as art. These plates fall just a little short of the honor.",
+    "value": "足够好的餐具可以作为艺术品挂起来。这些盘子离荣誉只有一点点距离。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Looks clean enough.",
+    "value": "看起来很干净。"
+  }
+]

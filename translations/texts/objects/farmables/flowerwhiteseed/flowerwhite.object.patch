@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These flowers have a sweet and pleasant scent",
+    "value": "这些花有着香甜宜人的气味。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "White Flower",
+    "value": "白色花种子"
+  }
+]

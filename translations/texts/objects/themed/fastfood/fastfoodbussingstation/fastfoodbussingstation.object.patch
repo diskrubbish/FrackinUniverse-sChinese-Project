@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tray storage and a garbage bin in one station!",
+    "value": "托盘存储和垃圾箱放在一个站点！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bussing Station",
+    "value": "公共汽车站"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I can leave my tray and throw my trash away here.",
+    "value": "我可以把盘子放在这里，把垃圾扔了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A good way to make use of limited space.",
+    "value": "利用有限空间的好方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can throw away their sscraps here.",
+    "value": "叶族人可以在这里扔掉他们的残片。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relieved. A convenient little bin to deposit my trash.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Phew! This trash might need to be taken out...",
+    "value": "呸！这些垃圾可能需要清理掉..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I do hope they're regularly taking those trays back to be washed...",
+    "value": "我真希望他们能定期把那些盘子拿回去洗..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can drop off my tray and trash here in one go.",
+    "value": "我可以一次性把托盘和垃圾扔到这里。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Brand New! Placeable Champagne!",
+    "value": "还没喝过的香槟！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Placeable Champagne",
+    "value": "香槟"
+  }
+]

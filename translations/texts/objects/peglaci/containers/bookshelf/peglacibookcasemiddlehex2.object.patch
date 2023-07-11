@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A heavy bookcase containing a variety of different books.",
+    "value": "装有各种不同书籍的沉重书柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Bookcase Hex Middle",
+    "value": "六角合金书柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "So many books - the Miniknog would have burned most of these.",
+    "value": "这么多的书-科技发展部会烧掉大部分。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wonder if they have an Avian fairy tales?",
+    "value": "我想知道他们有没有翼族童话？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Shelvesss and boxesss full of paper.",
+    "value": "装满纸的架子和箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. The classification system is highly advanced - each of these books also has a digital copy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Man, they have all kinds of stuff here - 'Ice prepared 12 ways'? 'The tale of the Whales'? 'The Wanderers: Why?'",
+    "value": "老兄，这里有各种各样的东西-‘12种方法制备的冰’？'鲸鱼的故事流浪者：为什么？”"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I think I spy a few Hyotl works amongst the detritus on these shelves. At least they have some taste.",
+    "value": "我想我在这些架子上的碎屑中发现了一些鲛人的作品。至少他们有一些品味。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A book case. There's a lot of self-help books here...",
+    "value": "书柜。这里有很多自助书籍..."
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "Paper books are a waste of space, but many of our visitors prefer such to digitized copies. Why not indulge them?",
+    "value": "纸质书是对空间的浪费，但我们的许多参观者更喜欢纸质书而不是数字化书。为什么不放纵他们呢？"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An explosive metal barrel. It looks dangerous. Unbreakable!",
+    "value": "爆炸性金属桶。看起来很危险。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": " Explosive Barrel",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An explosive barrel. I should keep my distance.",
+    "value": "炸药桶。我应该保持距离。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Explosive container. I can't get into it.",
+    "value": "炸药箱。我进不去。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Label lookss like fire. Floran keepsss away.",
+    "value": "标签看起来像火。叶族人走开了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Alerted. This barrel label warns of a highly explosive substance inside.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The explosive label on the front implies that I probably shouldn't try to open it.",
+    "value": "正面的爆炸性标签暗示我可能不应该试图打开它。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Looks like a metal container full of explosives. It's sealed shut for a reason.",
+    "value": "看起来像一个装满炸药的金属容器。它被封死是有原因的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Looks like new fangled dynamite, in barrel form.",
+    "value": "看起来像是新型的桶装炸药。"
+  }
+]

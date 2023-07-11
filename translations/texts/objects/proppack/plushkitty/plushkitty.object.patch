@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cuddly, fish eating friend!",
+    "value": "一个可爱的吃鱼的朋友！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kitty Plush",
+    "value": "凯蒂毛绒"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I can practically hear this little toy purring.",
+    "value": "我几乎能听到这个小玩具的咕噜声。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'm not too fond of cats, but this plush toy is still rather cute.",
+    "value": "我不太喜欢猫，但这个毛绒玩具仍然很可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sometimes fight with kitties when hunting fisssh.",
+    "value": "叶族人捕鱼时有时会和小猫打架。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Enamored. Goodness, it's adorable!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I wonder if I should get a plush to keep my kitty company when I'm away...",
+    "value": "我不知道我不在的时候是不是应该买一件毛绒绒的来陪我的小猫..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I've heard tales of a popular cat franchise on Earth. I wonder if it was anything like this plush...",
+    "value": "我听说过地球上有一个很受欢迎的猫专营权的故事。我不知道是不是像这样的毛绒..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A toy kitty-cat. It's cute I guess.",
+    "value": "一只玩具小猫。我想它很可爱。"
+  }
+]

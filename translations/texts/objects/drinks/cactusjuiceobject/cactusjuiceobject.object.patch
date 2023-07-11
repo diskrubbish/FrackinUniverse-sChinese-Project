@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cool as a cactus.",
+    "value": "像仙人掌一样凉爽。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cactus Juice",
+    "value": "仙人掌汁"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cactus without the ssspikes!",
+    "value": "仙人掌没有刺刺刺！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. Without the hassle of removing the spines, cactus juice tastes all the sweeter.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This juicy is mighty tasty. No wonder cacti guard it so zealously.",
+    "value": "这种汁液味道很好，怪不得仙人掌如此热情地守护着它。"
+  }
+]

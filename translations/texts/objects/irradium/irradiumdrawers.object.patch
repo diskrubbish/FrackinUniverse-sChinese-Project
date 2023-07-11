@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A set of drawers made from irradium.",
+    "value": "一套由镭矿制成的抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Drawers",
+    "value": "镭素抽屉"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These drawers seem dangerous to use.",
+    "value": "这些抽屉使用起来似乎很危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This can't be safe, can it?!",
+    "value": "这不安全，是吗？！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Odd drawersss. Makesss Floran feel sssick!",
+    "value": "古怪的抽屉。让叶族人感到恶心！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. I really don't think these are safe.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I don't think I can use this set of drawers.",
+    "value": "我想我不能用这套抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'm not entirely sure how this is safe.",
+    "value": "我不完全确定这是如何安全的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This set of drawers seems mighty unsafe.",
+    "value": "这套抽屉看起来非常不安全。"
+  }
+]

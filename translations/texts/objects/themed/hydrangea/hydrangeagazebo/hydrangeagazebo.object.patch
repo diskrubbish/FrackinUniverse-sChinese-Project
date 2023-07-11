@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A delightful little garden gazebo, surrounded by blooming hydrangea bushes.",
+    "value": "一个令人愉快的小花园露台，周围是盛开的绣球花丛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hydrangea Gazebo",
+    "value": "绣球凉亭"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What a immaculate little garden! Someone surely poured a great deal of love into it.",
+    "value": "多么完美的小花园啊！肯定有人倾注了大量的爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I could easily see myself lazing the day away on this bench. It's awfully tempting.",
+    "value": "我可以很容易地看到自己在这张板凳上消磨了一天。这太诱人了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran feels right at home.",
+    "value": "叶族人觉得很自在。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Awed. This gazebo gives quite the view.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The garden around this gazebo is really well kept.",
+    "value": "这个露台周围的花园保存得很好。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "To sit in here amongst the flowers, sheltered from the rain... I think I feel a poem coming on!",
+    "value": "坐在花丛中避雨...我想我感觉到一首诗要来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A place for a fella to rest a spell after tendin' to their garden.",
+    "value": "一个男人在照料花园后休息一段时间的地方。"
+  }
+]

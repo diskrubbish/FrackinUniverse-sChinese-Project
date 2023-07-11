@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Break out the bubbly!",
+    "value": "快开香槟庆祝吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Champagne Bucket",
+    "value": "香槟酒桶"
+  }
+]

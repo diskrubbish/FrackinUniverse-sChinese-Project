@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Both delicious and pretty. Allows walking on liquids when eaten.",
+    "value": "既漂亮又美味。可以收获蓝瓜，食用后会赋予水上行走能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blue Melon Seed",
+    "value": "蓝瓜种子"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rusted, solid metal.",
+    "value": "布满锈迹，但很坚固的金属。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Metal",
+    "value": "古代金属"
+  }
+]

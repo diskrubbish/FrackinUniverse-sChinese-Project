@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A very large decorative Glitch gear. Functionally, it's found on their ships.",
+    "value": "非常大的装饰性电子人齿轮。从功能上讲，它可以在他们的船上找到。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Copper Gear",
+    "value": "大铜齿轮"
+  }
+]

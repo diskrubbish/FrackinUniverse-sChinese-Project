@@ -1,0 +1,86 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/title",
+    "raw": "fuphotonpoptop",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/subTitle",
+    "raw": "awwwwwwwww",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "raw": "OMG CUTE FLUFFY",
+    "value": "我的天，这种毛绒绒的生物真是太可爱了！"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/0",
+    "raw": "SKIN COLOR",
+    "value": "肤色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/1",
+    "raw": "HAIR STYLE",
+    "value": "发型"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/2",
+    "raw": "SHIRT",
+    "value": "衬衫"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/3",
+    "raw": "PANTS",
+    "value": "裤子"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/4",
+    "raw": "UNDY COLOR",
+    "value": "内衣颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/5",
+    "raw": "HAIR COLOR",
+    "value": "发色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/7",
+    "raw": "Brand",
+    "value": "胡子"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/8",
+    "raw": "SHIRT COLOR",
+    "value": "衬衫颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/9",
+    "raw": "PANTS COLOR",
+    "value": "裤子颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/10",
+    "raw": "HUMAN",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/11",
+    "raw": "PERSONALITY",
+    "value": "个性"
+  }
+]

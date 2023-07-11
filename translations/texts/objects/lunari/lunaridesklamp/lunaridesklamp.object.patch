@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A desk lamp made from lunari.",
+    "value": "由月晶制成的台灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Desk Lamp",
+    "value": "月晶台灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An extremely bright desk lamp.",
+    "value": "非常明亮的台灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the sun.",
+    "value": "这让我想起了太阳。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssunssshine lightsss!",
+    "value": "太阳，阳光，灯火！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uncomfortable. This lamp almost fries my optics.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This desk lamp is like a star!",
+    "value": "这台灯像一颗星星！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This lamp almost reminds me of the sun.",
+    "value": "这盏灯几乎使我想起了太阳。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This desk lamp is brighter than me!",
+    "value": "这台灯比我还耀眼！"
+  }
+]

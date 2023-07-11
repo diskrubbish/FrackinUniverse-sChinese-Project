@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Minimalistic doors, stylistically limited in palette and rounded at the edges.",
+    "value": "极简主义的门，风格有限的色调和圆形的边缘。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rounded Double Door Prop",
+    "value": "圆形双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Rather bright and modern looking doors.",
+    "value": "相当明亮，看起来很现代的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These doors are rather tame, considering the rest of the furniture set it comes from.",
+    "value": "考虑到这些门搭配的的其他家具，这些门相当简陋。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Round doors have window down the middle. Not good for ssneak attacks at all!",
+    "value": "圆门中间有窗户，不利于潜潜潜行进击！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. Bright and modern doors.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Some doors with nicely rounded corners. Modern!",
+    "value": "这些门是圆角的，很时髦！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Simple, but very effective.",
+    "value": "简单，却非常实用。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Round lookin' doors.",
+    "value": "环顾四周的大门。"
+  }
+]

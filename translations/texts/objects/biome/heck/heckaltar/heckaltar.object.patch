@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An altar dedicated to some unspeakable horror.",
+    "value": "一个无法形容的恐怖祭坛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Heck Altar",
+    "value": "血界祭坛"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What manner of horrendous worshippers gather here?",
+    "value": "这些跟随者在这里聚集到底是在崇拜什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The god this altar pays tribute to does not bear thinking of.",
+    "value": "我真的想不出这个祭坛所拜祭的神灵到底是什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran only worship ssstabbing. Floran like table though.",
+    "value": "叶族人只崇拜刺，叶族人喜欢欢欢这个桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Anxious. This altar is stained with the blood of innocents, or maybe just birds.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What eldritch horrors are worshipped here? And when did I learn the word eldritch?",
+    "value": "这是什么恐怖的存在？在我的字典里可没有恐惧这个词。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This horrifying altar of the damned has such basic, crude construction. Shameful.",
+    "value": "这个可怕的祭坛，建筑风格与用料竟然是如此的粗糙。真是建筑业的耻辱。"
+  }
+]

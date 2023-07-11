@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bag of warm takeout.",
+    "value": "一袋热乎乎的外卖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Takeout Bag",
+    "value": "外卖袋"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It might be best to take this home to eat.",
+    "value": "最好把这个带回家吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The contents of this bag are leaking grease, but the delightful smell simply cannot be ignored.",
+    "value": "这个袋子里的东西在漏油脂，但令人愉悦的气味是不可忽视的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Why ssshould Floran wait to eat? Floran will eat when they want!",
+    "value": "为什么叶族人要等着吃饭？叶族人想吃什么就吃什么！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Troubled. I know I shouldn't want to eat such obviously unhealthy food, but...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The drive home with warm food on your lap is the only REAL test of self restraint.",
+    "value": "开车回家时，膝盖上放着热乎乎的食物，这是对自我克制的唯一真正考验。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The grease from this meal is leaking through the bag... Charming.",
+    "value": "这顿饭的油脂正从袋子里漏出来...迷人。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That smell's mighty temptin'. Maybe I'll just nab a fry or two...",
+    "value": "那味道很诱人。也许我只吃一两个..."
+  }
+]

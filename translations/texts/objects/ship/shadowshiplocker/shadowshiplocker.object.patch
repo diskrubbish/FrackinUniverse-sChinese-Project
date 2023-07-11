@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Store some stuff, why don't you?",
+    "value": "往里面存储一些物品吧，为什么不呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shiplocker",
+    "value": "飞船储物柜"
+  },
+  {
+    "op": "replace",
+    "path": "/shadowDescription",
+    "raw": "Holding of things, within.",
+    "value": "存放物品，通过这个。就是这样。"
+  }
+]

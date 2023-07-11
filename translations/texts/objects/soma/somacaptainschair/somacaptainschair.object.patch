@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "ENGAGE!",
+    "value": "开始部署！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Soma Captain's Chair",
+    "value": "索玛船长椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The embedded control systems seem... daunting.",
+    "value": "嵌入式控制系统似乎...令人畏惧。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's really more like a captains bench.",
+    "value": "更像是队长的板凳。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "How Floran sssupposed to lounge in this chair?",
+    "value": "叶族人怎么能坐在这把椅子上？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. This seat appears to also operate as a terminal for the ships computer.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I think I can play bejewelled on this chair.",
+    "value": "我想我可以在这把椅子上玩宝石游戏。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A chairs simple appeal marred by excess technology.",
+    "value": "一张因过度的技术所破坏的简易的椅子。"
+  }
+]

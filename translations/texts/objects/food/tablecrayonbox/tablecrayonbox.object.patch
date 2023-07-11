@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small crayon box for your table.",
+    "value": "为你的桌子准备一个小蜡笔盒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Crayon Box",
+    "value": "小蜡笔盒"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The flag of the Mantizi Empire. Use ^green;[E]^reset; to bookmark a teleportation location.",
+    "value": "甲虫族帝国的旗帜。使用^green;[E]^white;标记一个传送坐标。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Flag",
+    "value": "甲虫族旗帜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A Mantizi flag. There may be civilization nearby... or something like it.",
+    "value": "一面甲虫族旗帜。附近肯定存在文明...或者类似的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I don't this Mantizi symbol at all.",
+    "value": "我完全不懂这个甲虫族标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hate hard skin bugsss!",
+    "value": "叶族人讨厌硬皮肤的虫子子子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A Mantizi flag, depicting the symbol of the Mantizi Empire.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like the party's this way!",
+    "value": "看起来聚会在这边！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What they lack in culture, they make up for in propaganda.",
+    "value": "他们的文化中缺失什么，他们就在宣传中编造什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Really makes the place seem... classier, doesn't it?",
+    "value": "这让这个地方更加时髦了...不是吗？"
+  }
+]

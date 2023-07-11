@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just a ceremonial shield. It wouldn't do much good in a fight.",
+    "value": "只是一个仪式上的盾牌。这对打架没什么好处。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Shield Display",
+    "value": "甲虫护盾显示器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An attractive shield. Purely decorative, however.",
+    "value": "有吸引力的盾牌。不过，这纯粹是装饰性的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A brightly coloured shield.",
+    "value": "颜色鲜艳的盾牌。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Blood red sshield!",
+    "value": "血红色的盾牌！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Evaluate. A purely decorative shield. A single heavy blow would shatter it completely.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A attractive but weak-looking shield.",
+    "value": "一个有吸引力但看起来很弱的盾牌。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A nice piece of craftsmanship, but made entirely from decorative materials.",
+    "value": "这是一种很好的工艺，但完全由装饰材料制成。"
+  }
+]

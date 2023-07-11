@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Everything about this is ever-so-slightly off. Nauseating.",
+    "value": "关于这件事的一切都有点不对劲。令人作呕。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Palace of the Mind",
+    "value": "心灵殿堂"
+  }
+]

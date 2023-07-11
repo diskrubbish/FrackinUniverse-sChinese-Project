@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This door looks like it could be opened with a heavy explosive.",
+    "value": "这扇门...看起来我们需要制造一场大爆炸。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Missile Door",
+    "value": "导弹门"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "This door lookss like it could be opened with a heavy explossive.",
+    "value": "这扇门看起来只只能通过制造一场爆炸打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. This door looks like it could be opened with a heavy explosive.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This here door looks like it could be opened with a heavy explosive. My kind of thing!",
+    "value": "这里的门看起来只能炸开。我喜欢！"
+  }
+]

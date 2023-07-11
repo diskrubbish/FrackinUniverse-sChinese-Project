@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The hottest bistro in town!",
+    "value": "城里最热的小酒馆！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neon Café Sign",
+    "value": "霓虹咖啡馆标志"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Wouldn't it be more helpful to have the name of the establishment on the sign?",
+    "value": "在招牌上写上公司的名字不是更有帮助吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This sign is making a faint buzzing.",
+    "value": "这个标志发出微弱的嗡嗡声。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Coffee ssshop thiss way.",
+    "value": "咖啡馆这边。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A Neon coffee shop sign. The white tendrils look to resemble steam.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ooh, maybe it's a cybercafé?",
+    "value": "哦，也许是网吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What an adorable presentation for the shop.",
+    "value": "这家商店的展示真可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I could do with some coffee, myself.",
+    "value": "我想自己喝点咖啡。"
+  }
+]

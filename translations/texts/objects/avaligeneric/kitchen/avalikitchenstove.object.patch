@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's a combi gas-fan-microwave-oven-stove!",
+    "value": "一个结合了燃气炉、风扇、微波炉、烤箱、火炉的设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Avali Cooker^reset;",
+    "value": "^orange;羽族炊具^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Avali Kitchen",
+    "value": "羽族厨具"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " Yum, yum",
+    "value": "*咂嘴*，嗯~"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Interesting, the gas rings on this pump oxygen, not methane.",
+    "value": "有趣的是，它需要的不是甲烷，而是氧。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's got a way to properly cook almost anything here!",
+    "value": "它可以烹饪所有的食物。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran put wood in box, then heats 'till it bursssts into flame. Campfire for sssstupidss.",
+    "value": "叶族人把木头放到这个盒子里，然后加热，直到它爆炸。生火简直直直是愚蠢极了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Dubious. I doubt this device gets hot enough to properly melt microcheese until rust-brown.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I should probably read the instructions before trying to dry my cat in this thing.",
+    "value": "我或许应该看看说明书，然后再试试我的猫以前对炉子做的那种事。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'm beginning to suspect that for all their flaws, the Avali may have promise as culinarians.",
+    "value": "我怀疑这些羽族制造的烹饪设备存在有瑕疵。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "We breathe methane, our stoves have to pump oxygen which then burns with the methane in the air.",
+    "value": "我们呼吸着甲烷，所以我们的炉子必须泵送氧气，然后才能与空气中的甲烷燃烧。"
+  }
+]

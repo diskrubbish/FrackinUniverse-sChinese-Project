@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table. It's far too hot to lean on.",
+    "value": "一张桌子。天气太热，靠不住。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Table",
+    "value": "永燃餐桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A hot table.",
+    "value": "热桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A good looking table, too hot to touch, though.",
+    "value": "一张好看的桌子，但是太热了，摸不着。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssimple table. Too hot for Floran.",
+    "value": "简单的桌子。对叶族人来说太热了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This table is radiating heat.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Not much to say about this table, apart from how hot it is.",
+    "value": "关于这张桌子，除了它有多热，没什么好说的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A table, too warm for me.",
+    "value": "一张桌子，对我来说太暖和了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just a table, mighty toasty.",
+    "value": "只是一张桌子，非常烤。"
+  }
+]

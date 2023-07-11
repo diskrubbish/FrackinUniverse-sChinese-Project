@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A high-quality industrial alloy wall grate.",
+    "value": "高质量的工业合金光栅。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Grating",
+    "value": "合金光栅"
+  }
+]

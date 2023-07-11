@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A nightstand made from Nocxium.",
+    "value": "用诺克石做的床头柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nocxium Nightstand",
+    "value": "诺克石床头柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some sort of horrible nightstand.",
+    "value": "某种可怕的床头柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This make me uncomfortable.",
+    "value": "这让我很不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Creepy nightssstand! Floran not ssscared, honessst...",
+    "value": "令人毛骨悚然的床头柜！叶族人不害怕，老实说..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This nightstand makes my circuits shake.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This nightstand give me the creeps!",
+    "value": "这个床头柜让我毛骨悚然！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An odd looking nightstand. It is... very unpleasant.",
+    "value": "一个奇怪的床头柜。它是...非常不愉快。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This nightstand ain't right.",
+    "value": "这个床头柜不对。"
+  }
+]

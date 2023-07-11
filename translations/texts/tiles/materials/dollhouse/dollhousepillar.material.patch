@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pillar Block",
+    "value": "石柱方块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An old looking stone pillar.",
+    "value": "一根古老的石柱。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amazed. I believe this stone pillar is very old.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sstone pillar iss very old.",
+    "value": "石石石柱很古老。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This is one ol' lookin' stone pillar.",
+    "value": "这是一根古老的石柱。"
+  }
+]

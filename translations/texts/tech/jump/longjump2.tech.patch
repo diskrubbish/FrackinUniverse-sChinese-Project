@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stronger Power Jump with post-jump microbursts.",
+    "value": "更强力的跳跃，伴随着微小的改进。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Flutter Jump",
+    "value": "浮空跳"
+  }
+]

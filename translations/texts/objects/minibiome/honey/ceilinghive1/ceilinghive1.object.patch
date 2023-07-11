@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This honey is falling.",
+    "value": "这滴黏液正在滴落。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dripping Honey",
+    "value": "滴落的蜂蜜"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spawns in a pet petricub! \n^orange;To locate it after placing, toggle wire mode.^reset;",
+    "value": "生成一只宠物石油鬼！\n^orange;若要在放置后定位生成器位置，请切换为连线模式。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Petricub Spawner^reset;",
+    "value": "^orange;石油鬼生成器^reset;"
+  }
+]

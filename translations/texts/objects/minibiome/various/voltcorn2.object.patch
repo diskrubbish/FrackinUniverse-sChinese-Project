@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Volt Corn",
+    "value": "伏特玉米"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Volt Corn",
+    "value": "伏特玉米"
+  }
+]

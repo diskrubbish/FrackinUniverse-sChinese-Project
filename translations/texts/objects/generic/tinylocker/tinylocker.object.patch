@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A locker with a wide metal door.",
+    "value": "带有宽金属门的锁柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tiny Locker",
+    "value": "小巧的锁柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A storage locker.",
+    "value": "放东西的锁柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A metal box, probably built for storage.",
+    "value": "可以储存东西的金属盒子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstorage.",
+    "value": "存存存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A small amount of wall storage.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "There's no lock on this locker...",
+    "value": "没有锁的锁柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Useful storage.",
+    "value": "不安全的存储装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This locker doesn't actually lock.",
+    "value": "这个锁柜实际上没上锁。"
+  }
+]

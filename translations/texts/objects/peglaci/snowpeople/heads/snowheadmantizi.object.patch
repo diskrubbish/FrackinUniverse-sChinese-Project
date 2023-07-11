@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The head of a Snowmantizi.",
+    "value": "甲虫雪人的头部。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Snowhead",
+    "value": "甲虫雪人头部"
+  }
+]

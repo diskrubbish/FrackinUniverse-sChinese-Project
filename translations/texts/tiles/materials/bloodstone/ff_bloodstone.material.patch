@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Blood-red stone!",
+    "value": "血红色的石头！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blood Stone",
+    "value": "血石"
+  }
+]

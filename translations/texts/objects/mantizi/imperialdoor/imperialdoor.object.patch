@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy, simple wooden door.",
+    "value": "一种坚固、简单的木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Door",
+    "value": "甲虫门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Though wooden, this door is strong.",
+    "value": "这扇门虽然是木制的，但很结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This door is much stronger than it looks.",
+    "value": "这扇门比看上去坚固得多。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Door sso sstrong.",
+    "value": "好好好坚固的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Educate. The Mantizi reinforce their doors to secure their valuables.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A heavy, imposing door.",
+    "value": "一扇沉重、庄严的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A great door for a defensive structure.",
+    "value": "防御结构的大门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Tough to get past, like the bugs themselves.",
+    "value": "很难超越，就像虫子一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Not enough locks.",
+    "value": "锁不够。"
+  }
+]

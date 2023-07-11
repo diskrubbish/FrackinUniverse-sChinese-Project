@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I'd hate to have been in the path of this thing.",
+    "value": "我不想走这条路。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fallen Meteor",
+    "value": "陨星"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A positively massive meteor.",
+    "value": "巨大的流星。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An entire Avian village could likely nest inside the craters of this meteor...",
+    "value": "一个完整的翼族村庄可能会在这颗流星的陨石坑里筑巢..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Giant ssspace rock.",
+    "value": "巨大的太空岩石。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Awed. A meteor from outer space. The crater its made is gigantic...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "You don't think anything hitched a ride in this thing, do you?",
+    "value": "你不认为有什么东西能搭上这辆车，是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I imagine it's rare to find such a large meteor still intact after impact with the planet's surface.",
+    "value": "我想在撞击地球表面后，很难发现如此大的流星仍然完好无损。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty hefty space rock, that's for sure.",
+    "value": "一块巨大的太空岩石，这是肯定的。"
+  }
+]

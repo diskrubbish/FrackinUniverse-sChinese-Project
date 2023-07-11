@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An exceptionally fashionable weathered wooden table.",
+    "value": "一张非常时髦的风化木桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Weathered Table",
+    "value": "风化桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An old but sturdy table.",
+    "value": "一张旧而结实的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This table is especially sturdy for its age.",
+    "value": "这张桌子因年代久远而特别结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "No woodwormss? Aw...",
+    "value": "没有蛀虫？哦..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "The wood wouldn't be out of place in a village, but the design is shockingly regal.",
+    "value": "这种木材在村子里不会不合适，但它的设计非常华丽。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Kind of looks like a table I'd see at my Grandma's.",
+    "value": "看起来有点像我奶奶家的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "So much character in this wood! The carpenter truly knows their craft.",
+    "value": "这树林里有这么多人！木匠真的很懂他们的手艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A table's a table, fancy or not.",
+    "value": "桌子就是桌子，不管你喜不喜欢。"
+  }
+]

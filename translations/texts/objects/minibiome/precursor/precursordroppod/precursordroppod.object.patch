@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of ancient pod. It is likely that this was for troop transport.",
+    "value": "某种古代舱体。它似乎曾被用于群体传送。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Drop Pod",
+    "value": "先驱空降舱"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lava lamp... Filled with lava. A lava lava lamp.",
+    "value": "熔岩灯。。。充满了熔岩。熔岩灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lava Lava Lamp",
+    "value": "熔岩灯"
+  }
+]

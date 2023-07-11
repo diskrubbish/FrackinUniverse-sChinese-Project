@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fine, sturdy cabinet for storing wine.",
+    "value": "这是一种用于存放葡萄酒的精致、坚固的柜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wine Cabinet",
+    "value": "酒柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "You'd be in a tight spot if you were caught with this much alcohol under Miniknog rule.",
+    "value": "根据米洛克的法规要求，如果你被发现喝了这么多酒，你就会被拘捕。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Lots of space to store wine.",
+    "value": "有足够的空间储存葡萄酒。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran dislikesss old grape juice. Prefersss meat juice.",
+    "value": "叶族人不喜欢陈年葡萄汁。他们更喜欢肉汁。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Content. This cabinet can fit plenty of wine.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A wine cabinet! Is there any good wine inside?",
+    "value": "这里有一个酒柜！里面会有好酒吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Lots of alcohol can fit inside.",
+    "value": "里面可以装很多酒。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A big cabinet for storin' booze.",
+    "value": "一个用来放酒的大柜子。"
+  }
+]

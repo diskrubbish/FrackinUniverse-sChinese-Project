@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Assassin",
+    "value": "刺客"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I've devised a way to change my own body chemistry using technology. This should allow me to blend in to my surroundings and surprise foes with attacks.",
+    "value": "我设计出了可以调整自身颜色的科技。它可以让我融入周围环境。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "I can now press [f] when Phase Attack is active to vanish. My next attack will do x2 damage. Movement speed is slowed while sneaking.",
+    "value": "我现在可以按下^green;[F]^reset;进入隐匿状态，我的下一次攻击的伤害将会翻倍，但移动速度会降低。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Large Gun Mount for an Apex spaceship.",
+    "value": "一个为猿族飞船设计的大型炮座。(仅用作装饰)"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apex Large Gun Mount",
+    "value": "猿人飞船大型炮座(装饰)"
+  }
+]

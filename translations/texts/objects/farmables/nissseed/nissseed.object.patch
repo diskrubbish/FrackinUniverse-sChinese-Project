@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Terrible taste, but utterly immune to tar, mud and clay.",
+    "value": "这种植物会散发出难闻的气味。可以收获尼斯花，食用后会免疫焦油、泥、黏土。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Niss Seed",
+    "value": "尼斯花种子"
+  }
+]

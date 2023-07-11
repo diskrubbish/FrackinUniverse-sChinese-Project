@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A healthy mix of bananas and grapes.",
+    "value": "香蕉和葡萄的健康混合物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ape Grapes",
+    "value": "猿人葡萄"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Monkeyman fruit sssalad.",
+    "value": "猿人水果沙拉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. A colorful, healthy, and delicious.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some bananas and grapes peeled and washed.",
+    "value": "将一些香蕉和葡萄去皮洗净。"
+  }
+]

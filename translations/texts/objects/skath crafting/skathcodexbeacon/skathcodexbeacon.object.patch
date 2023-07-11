@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "Skath Codex Beacon",
+    "value": "绘世者法典信标"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "Download the newest Skath codex entries!",
+    "value": "下载最新的绘世者法典条目！"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Used to download Skath codex entries from Norkumsgath.",
+    "value": "用于从诺昆斯加特下载绘世者法典条目。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Skath Codex Beacon^reset;",
+    "value": "^orange;绘世者法典信标^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "With this terminal you can probably download Skath codex entries. The access seems restricted to anyone except the Skath, unfortunately.",
+    "value": "使用这个终端可以下载到最新的绘世者法典条目。遗憾的是这个终端只允许绘世者的族人登入。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wonder what this thing does?",
+    "value": "我想知道这东西是干什么的？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran seesss big antenna! Good for sspearss!",
+    "value": "叶族人看看看看见了大天线！太太太适合当做长长长长矛了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excited. I can access Skath records using this!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The Skath seem to restrict the access to their codex entries.",
+    "value": "绘世者似乎对他们法典条目的访问进行了限制。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It seems the Skath record their species' writings digitally. Such a pity.",
+    "value": "似乎绘世者使用数字化存档来记录他们种族的著作。太遗憾了。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "This terminal can be used to access vast amounts of Vanguard knowledge regarding our race. For security reasons, only the Skath can access these.",
+    "value": "这个终端可以用来获取大量关于我们种族的前沿知识。出于安全原因，只有绘世者族人可以登入这个终端。"
+  }
+]

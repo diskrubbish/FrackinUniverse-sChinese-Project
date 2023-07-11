@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A restaurant-grade refrigerator. Professional chefs should settle for nothing less!",
+    "value": "餐厅级冰箱。专业厨师应该满足于这一切！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Industrial Kitchen Fridge",
+    "value": "工业厨房冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "How long could a fridge this modern keep perishables for, I wonder?",
+    "value": "我想知道，这种现代冰箱能存放易腐物品多久？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This ice box is cold to the touch... Could that be how it keeps food cooled?",
+    "value": "这个冰盒摸上去很冷...这就是它保持食物冷却的方式吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssso chilly...",
+    "value": "太冷了..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. There's actually quite a few adjustable features on this refrigerator.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I don't know what it is about stainless steel that makes me feel fancy.",
+    "value": "我不知道不锈钢到底是哪一点让我觉得新奇。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There looks to be plenty of storage space inside this fridge.",
+    "value": "这台冰箱里似乎有足够的储藏空间。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A might fancier than your everyday ice box, that's for sure.",
+    "value": "当然，这可能比你日常使用的冰柜更新奇。"
+  }
+]

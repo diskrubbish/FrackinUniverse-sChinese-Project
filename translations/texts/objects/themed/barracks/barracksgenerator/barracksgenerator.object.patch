@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A generator for powering a military base. It's making a gentle humming sound.",
+    "value": "为军事基地供电的发电机。它发出柔和的嗡嗡声。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Barracks Generator",
+    "value": "营房发电机"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It appears to be a generator. What could it be powering?",
+    "value": "它似乎是一台发电机。它能给什么供电？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Mm. I suppose it functions similarly to a particularly large Avolite crystal?",
+    "value": "嗯。我想它的功能类似于一个特别大的埃沃利特水晶？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "What do buttons do? Floran sshould find out.",
+    "value": "按钮是做什么的？叶族人应该知道。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Irritated. The sound this generator's making is more than a little agitating.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A generator, I guess. Could be anything, really.",
+    "value": "我猜是发电机。可能是任何事，真的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Clearly a utilitarian type of generator.",
+    "value": "显然是一种实用型发电机。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's like a big ol' watermill! Sans the water, of course.",
+    "value": "就像一个大西瓜！当然没有水。"
+  }
+]

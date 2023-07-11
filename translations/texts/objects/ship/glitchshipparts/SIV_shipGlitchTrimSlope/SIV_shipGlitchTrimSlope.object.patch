@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Glitch Trim sloped section for a spaceship.",
+    "value": "太空船的一个电子人边倾斜的部分。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glitch Trim  slope",
+    "value": "电子人纵坡"
+  }
+]

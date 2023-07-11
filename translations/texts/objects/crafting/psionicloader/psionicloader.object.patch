@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Loads Psionic Focii.",
+    "value": "装载灵力光束的弹舱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Psionic Focus Loader",
+    "value": "灵力光束弹舱充能器"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Fill Empty Focii",
+    "value": "装填空的灵能弹舱"
+  }
+]

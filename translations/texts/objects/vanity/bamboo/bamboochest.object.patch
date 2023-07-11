@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chest with bright glowing markings throughout.",
+    "value": "一个有着发光标志的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bamboo Chest",
+    "value": "竹箱子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A chest for storing tech.",
+    "value": "储存科技的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A solid tech chest. It glows.",
+    "value": "一个坚实的科技箱。它正在发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Glowy box hold Floran thingsss.",
+    "value": "发光的箱子吸吸吸引住了叶族人。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Resolute. I endeavour to fill this chest.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A basic, dependable tech chest.",
+    "value": "一个最基本的，可靠的科技箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A chest in which I can store tech.",
+    "value": "我可以把科技储存在这个箱子里面。"
+  }
+]

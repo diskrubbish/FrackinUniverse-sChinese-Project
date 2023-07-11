@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An standard spaceship bed for your pet!",
+    "value": "一张为您的宠物打造的标准的飞船床！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Ship Pet Bed",
+    "value": "大型船用宠物床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple bed for a pet.",
+    "value": "宠物的简易床。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This pet bed looks rather basic.",
+    "value": "这张宠物床看起来很简陋。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can make better bed.",
+    "value": "叶族人可以做得更好。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. A comfortable place for pet to rest.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A good, standard pet bed.",
+    "value": "一张好的、标准的宠物床。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A crude bed for a pet.",
+    "value": "给宠物铺的粗糙的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Good a place as any for a pet to take a nap.",
+    "value": "是宠物小睡的好地方。"
+  }
+]

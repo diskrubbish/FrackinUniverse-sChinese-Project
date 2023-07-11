@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small silver replica of the Nightar's penumbral homeworld.",
+    "value": "一个小小的银色复制品，是夜族半影的家园。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Globe",
+    "value": "夜族球"
+  },
+  {
+    "op": "replace",
+    "path": "/nightarDescription",
+    "raw": "A hollow silver model of my homeworld. Such use of metal is exhorbitant, but it is vital to remember our past, and She who dwells within.",
+    "value": "我家乡的中空银色模型。这种对金属的使用是令人鼓舞的，但记住我们的过去和居住在其中的她是至关重要的。"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The Skath flag. Use ^green;[E]^reset; to bookmark a teleportation location.",
+    "value": "绘世者旗帜. 使用 ^green;[E]^reset; 为传送点添加标签。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Flag",
+    "value": "绘世者旗帜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A Skath flag. I can use this as a waypoint for teleportation.",
+    "value": "一个绘世者旗帜。我可以用它作为传送点。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This Skath flag can be bookmarked as a destination for my ship teleporter.",
+    "value": "这个绘世者旗帜可以作为我的飞船传送器的目的地加入书签。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Skath flag makess good point to teleport back to ussing teleporter!",
+    "value": "通过绘世者旗帜，使用传送器可以很好地传回！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A small locator module attached to this Skath flag allows it to be bookmarked for teleportation.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This Skath flag can be saved as a location for my teleporter. Then I can return to it at any time.",
+    "value": "这个绘世者旗帜可以保存我的传送点。 然后我可以随时返回。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This Skath flag can act as a way point, enabling me to return to this point using a teleporter.",
+    "value": "这个绘世者旗帜可以作为一个航点，让我能够使用传送器返回到这个点。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can bookmark this Skath flag for quick teleportin'.",
+    "value": "我可以为这个绘世者旗帜添加书签以便快速传送。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "The flag of our kind, the emblem of so much history and honour. I can use it as a teleportation waypoint.",
+    "value": "我们人类的旗帜，历史和荣誉的象征。 我可以将它用作传送航点。"
+  }
+]

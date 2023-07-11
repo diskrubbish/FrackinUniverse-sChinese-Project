@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lab Pillar",
+    "value": "实验室支柱"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A handy load-bearing pillar for labs.",
+    "value": "实验室所用的支撑架。"
+  }
+]

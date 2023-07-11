@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pretty storage chest.",
+    "value": "一个漂亮的存储用箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Aether Chest",
+    "value": "宇宙以太箱子"
+  }
+]

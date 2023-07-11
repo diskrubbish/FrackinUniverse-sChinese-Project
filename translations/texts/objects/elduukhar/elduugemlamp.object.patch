@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A light made from cultivated crystal and gold. It floats gently.",
+    "value": "一个用人工水晶和黄金制成的灯具，轻盈的漂浮着。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Floating Gemstone Lamp",
+    "value": "漂浮的宝石灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A functional wall light. It floats.",
+    "value": "一盏功能性墙灯。它浮在空中。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's a wall light.",
+    "value": "这是盏壁灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Shiny light!",
+    "value": "闪亮的灯！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This floating mounted light is effective.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty standard wall light. Or is it?",
+    "value": "一个极其标准的壁灯...是的吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A wall light. It beautiful.",
+    "value": "一盏壁灯，很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This light's okay, but it ain't as bright as me!",
+    "value": "这盏灯还可以，但是还没有我亮！"
+  }
+]

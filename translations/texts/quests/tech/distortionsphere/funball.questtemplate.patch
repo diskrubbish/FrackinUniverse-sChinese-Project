@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Oddball",
+    "value": "古怪球"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I think I bumped my head a bit too hard or something...I devised a new distortion sphere but have no idea where this could be useful...",
+    "value": "我想我的头刚才撞到某样坚硬的物体上了...我设计出了一种全新的变形球，但不知道是不是有用..."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "It should at least be fun to use, though I would caution against using it carelessly.",
+    "value": "现在变形球变得更有趣了，但请小心使用，因为它有些危险。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The label reads, \"Capable of spewing lethal toxic pollen.\"",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Snarker Trap Figurine",
+    "value": ""
+  }
+]

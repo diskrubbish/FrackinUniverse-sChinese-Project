@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Got milk?",
+    "value": "有牛奶吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mooshi Stable",
+    "value": "穆什马厩"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Someone's prized Mooshi. It seems to be very well cared for.",
+    "value": "有人珍视穆什。它似乎得到了很好的照顾。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What a peculiar creature. It seems docile enough but...",
+    "value": "多奇怪的生物啊。看起来很温顺，但是..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran would probably get in trouble for making Moossshi into holstein rug...",
+    "value": "叶族人可能会因为把穆什做成荷斯坦地毯而惹上麻烦..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. This Mooshi is obviously well taken care of.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The milk and appearance of a cow, the ears and charm of a bunny! Evolution is incredible.",
+    "value": "牛奶和奶牛的外表，兔子的耳朵和魅力！进化是不可思议的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "That vacant eyed stare is oddly endearing.",
+    "value": "那种茫然的眼神奇怪地可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Mooshi heifers are easy enough to raise. Real docile. It's the BULLS you gotta look out for.",
+    "value": "穆什小母牛很容易饲养。真的很温顺。你要注意的是公牛队。"
+  }
+]

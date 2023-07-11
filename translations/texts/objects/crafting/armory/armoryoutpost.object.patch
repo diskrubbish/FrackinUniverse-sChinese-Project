@@ -1,0 +1,98 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Create special weapons and armor.",
+    "value": "制造特殊武器和盔甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Armorworks^reset;",
+    "value": "^orange;军备作坊^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "raw": "Create special weapons and armor.",
+    "value": "制造特殊武器和盔甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Armorworks^reset;",
+    "value": "^orange;军备作坊^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "raw": "Even more advanced gear.",
+    "value": "可制造更先进的装备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Assembly Line^reset;",
+    "value": "^orange;军械车间^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^red;UNAUTHORIZED ACCESS DETECTED^reset;",
+    "value": " ^red;已检测到未授权访问^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Access to terminal disabled.",
+    "value": " ^#dddddd;访问权限未取得。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "raw": "The best weapons and armor. Period.",
+    "value": "可制造最先进的装备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Armory^reset;",
+    "value": "^orange;军械制作台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^red;UNAUTHORIZED ACCESS DETECTED^reset;",
+    "value": " ^red;已检测到未授权访问^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Access to terminal disabled.",
+    "value": " ^#dddddd;访问权限未取得。"
+  }
+]

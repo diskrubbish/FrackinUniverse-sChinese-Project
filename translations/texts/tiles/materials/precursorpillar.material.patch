@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy ancient pillar. Great for building.",
+    "value": "极为坚固的古代支柱。令人惊叹的建筑工艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Pillar",
+    "value": "先驱支柱"
+  }
+]

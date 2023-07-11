@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bronze lantern.",
+    "value": "青铜灯笼。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Wall Light",
+    "value": "甲虫壁灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small lantern.",
+    "value": "一盏小灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A simple bronze lantern.",
+    "value": "一个简单的青铜灯笼。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "No flame inssside.",
+    "value": "里面没有火焰。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Identify. An electric lantern made of bronze.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A small lantern that emits bright light.",
+    "value": "能发出亮光的小灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A bright lantern.",
+    "value": "明亮的灯笼。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Fight back the tide of shadows.",
+    "value": "击退阴影的浪潮。"
+  }
+]

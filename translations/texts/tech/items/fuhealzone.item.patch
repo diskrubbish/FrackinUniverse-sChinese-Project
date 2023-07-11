@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Heal within a radius.",
+    "value": "在半径范围内治愈"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Regen Field^reset;",
+    "value": "^#77acc3;生命恢复力场^reset;"
+  }
+]

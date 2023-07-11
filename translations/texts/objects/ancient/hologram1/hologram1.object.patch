@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An ancient holographic depiction of a deific protector.",
+    "value": "一幅古代全息图，描绘了一个显赫的守护者。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Some of the details here resemble motifs of creation and protection from various races and cultures... or could this be the origin of those motifs?",
+    "value": "这里的一些细节类似于来自不同种族和文化的创造和保护的图案...或者这就是这些图案的起源？"
+  }
+]

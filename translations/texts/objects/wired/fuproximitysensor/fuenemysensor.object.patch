@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perfect for all your automated door needs! Keeps a baleful eye out for your foes.",
+    "value": "完美满足您所有的自动门需求！警惕你的敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proximity Enemy Scanner",
+    "value": "近程敌情扫描器"
+  }
+]

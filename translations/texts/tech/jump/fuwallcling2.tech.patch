@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Greatly enhanced Magnet Grip, with increased Defense while gripping.",
+    "value": "大大增强的磁吸攀附，攀墙时增加防御。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Magnet Grip II",
+    "value": "磁吸攀附 II"
+  }
+]

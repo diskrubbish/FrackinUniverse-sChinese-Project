@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pancake. Butter. Pancake. Butter. Pancake. Syrup. Eat.",
+    "value": "薄饼黄油薄饼黄油薄饼糖水吃"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pancakes",
+    "value": "煎饼"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes to cook little flat cakes in funny ssshapes!",
+    "value": "叶族人喜欢做形状有趣的扁平小蛋糕！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Content. Just the smell of warm pancakes can make one ready to greet the day.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some mighty fine smellin' flapjacks.",
+    "value": "一些味道很好的煎饼。"
+  }
+]

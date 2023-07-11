@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This platformed hatch is made of some sort of bulletproof material.",
+    "value": "这种平台舱口是用某种防弹材料制成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Huge Lab Platform Hatch",
+    "value": "巨大实验室平台舱口"
+  }
+]

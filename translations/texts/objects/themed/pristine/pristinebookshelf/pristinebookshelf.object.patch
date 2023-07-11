@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A prim and proper bookshelf with additional storage underneath.",
+    "value": "一个整洁的书架，下面有额外的储物空间。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pristine Bookshelf",
+    "value": "朴素的书架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A shelf loving stocked with someone's trinkets.",
+    "value": "装满某人小饰品的架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A tall white bookshelf.",
+    "value": "一个高高的白色书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty shelf is wasted on sssilly books.",
+    "value": "漂亮的书架浪费在愚蠢的书上。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. This bookcase looks like something out of a manor.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Huh. What's the story behind the stuff on this shelf?",
+    "value": "呵呵。这个架子上的东西背后的故事是什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A perfectly lovely bookcase.",
+    "value": "一个非常可爱的书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some fancy bookcase.",
+    "value": "一些漂亮的书架。"
+  }
+]

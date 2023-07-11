@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An /'OR'/ gate with 3 inputs and a built-in Data Latch and Not Gate.",
+    "value": "一个或门。具有三个输入接口、非门、锁存器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Advanced OR Gate (3 Inputs)",
+    "value": "高级或门(三输入)"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'd wager that the input node to the right is the Data Latch.",
+    "value": "我想右边的输入节点应该接入锁存器。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'd wager that the input node to the right is the Data Latch.",
+    "value": "我想右边的输入节点应该接入锁存器。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran guesssesss that the right input node isss the Data Latch.",
+    "value": "叶族人认为右边应该接入锁存器。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analyzing. I'd wager that the input node to the right is the Data Latch.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'd wager that the input node to the right is the Data Latch.",
+    "value": "我想右边的输入节点应该接入锁存器。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'd wager that the input node to the right is the Data Latch.",
+    "value": "我想右边的输入节点应该接入锁存器。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'd wager that the input node to the right is the Data Latch.",
+    "value": "我想右边的输入节点应该接入锁存器。"
+  },
+  {
+    "op": "replace",
+    "path": "/penguinDescription",
+    "raw": "I'd wager that the input node to the right is the Data Latch.",
+    "value": "我想右边的输入节点应该接入锁存器。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "I'd wager that the input node to the right is the Data Latch.",
+    "value": "我想右边的输入节点应该接入锁存器。"
+  }
+]

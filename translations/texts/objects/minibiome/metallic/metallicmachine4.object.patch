@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It appears to be some sort of collider, particle or otherwise.",
+    "value": "它看起来像是某种对撞机，作用于粒子或是其他东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Collider",
+    "value": "先驱对撞机"
+  }
+]

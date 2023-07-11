@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A minimalistic armchair, stylistically limited in palette and rounded at the edges.",
+    "value": "极简风格的扶手椅，调色板风格有限，边缘呈圆形。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rounded Armchair",
+    "value": "圆形扶手椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This couch is rather nice... Provided you don't mind forgoing back support.",
+    "value": "这张沙发相当不错...只要你不介意放弃背部支撑。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A fairly comfy chair, even with such an unorthodox design.",
+    "value": "一把相当舒适的椅子，即使有这样一个非正统的设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Armhair looks sstiffer than it really is.",
+    "value": "腋毛看起来比实际要细。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Calm. A rather nice, modern armchair.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I mean, the seat is soft and all but I really wanna lean back...",
+    "value": "我的意思是，这个座位很柔软，但我真的想往后靠..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A stylish armchair that encourages proper sitting posture. Brilliant!",
+    "value": "一种时尚的扶手椅，极大帮助你矫正坐姿。太棒了！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's nice enough lookin', but not the kind of chair you can really sink into.",
+    "value": "看起来不错，但不是那种你能真正坐进去的椅子。"
+  }
+]

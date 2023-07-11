@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's a little garden of carefully woven crystals in a bowl.",
+    "value": "在花盆里面是一小丛精心照顾的水晶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bonzai Crystal Garden",
+    "value": "黄色水晶盆栽"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "How intriguing, it appears someone has carefully grown these crystals into shapes.",
+    "value": "真是有趣，似乎有人在精心照顾这些水晶。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Pretty, but not as useful as a resonance crystal.",
+    "value": "漂亮，但是不如共振晶体有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssssshiny.",
+    "value": "好闪闪闪。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Avarice. These crystals would look better on my own mantlepiece.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It doesn't matter what species you are, everyone finds crystals fascinating.",
+    "value": "不管是什么物种，都会觉得这种物质十分迷人。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I absolutely must bring back some of these for the tads.",
+    "value": "我必须要带点回去。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "We could just print a crystal garden like this, but there's a meditative quality to being patient and doing it by hand.",
+    "value": "我们也可以打印出这样的一个水晶盆栽，但如果沉下心来用手来种植更有一个‘静’的韵味。"
+  }
+]

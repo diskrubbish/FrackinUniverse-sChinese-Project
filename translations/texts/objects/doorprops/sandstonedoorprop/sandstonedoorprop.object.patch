@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rough sandstone door.",
+    "value": "粗糙的砂岩门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sandstone Door Prop",
+    "value": "砂岩门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A door made of sandstone.",
+    "value": "由砂岩制成的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A well-made sandstone door.",
+    "value": "一种做工精良的砂岩门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssandy door.",
+    "value": "沙沙沙门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A hardy sandstone door.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Nice door.",
+    "value": "门不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A rough, sandy door. Crude.",
+    "value": "粗糙的沙门。粗糙。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's a heavy door. Rough to the touch.",
+    "value": "这是一扇很重的门，摸起来很粗糙。"
+  }
+]

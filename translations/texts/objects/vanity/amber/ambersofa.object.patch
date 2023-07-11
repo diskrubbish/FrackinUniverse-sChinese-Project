@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rest your buttcheeks on smooth, solid amber.",
+    "value": "作为一个沙发，看起来还不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Amber Sofa",
+    "value": "琥珀沙发"
+  }
+]

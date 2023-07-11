@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A graffiti message. Unbreakable!",
+    "value": "涂鸦留言。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "'The Way is Blocked' Graffiti",
+    "value": "【路被堵住了】-涂鸦"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Blocked, eh? We'll see about that!",
+    "value": "封锁了，嗯？我们拭目以待！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Uh oh, maybe I shouldn't ignore this.",
+    "value": "也许我不该忽视这一点。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran payss sign no attention.",
+    "value": "叶族人支付的势没有引起注意。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned. Is the statment true or false?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "When did graffiti ever turn out to be true?",
+    "value": "涂鸦什么时候变成了真的？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The author of this message is unknown, rendering the reliability questionable.",
+    "value": "此消息的作者不详，因此其可靠性值得怀疑。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Whatever!",
+    "value": "无论什么"
+  }
+]

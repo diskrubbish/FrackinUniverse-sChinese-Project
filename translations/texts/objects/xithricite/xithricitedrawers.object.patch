@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A set of drawers made from xithricite.",
+    "value": "一套由赛德瑞瑟晶体制成的抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Drawers",
+    "value": "赛德瑞瑟晶体抽屉"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A set of drawers seemingly made from star matter.",
+    "value": "一套看起来像是由星星物质制成的抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I feel like I'm looking into the night sky.",
+    "value": "我感觉我在仰望夜空。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstarry drawersss!",
+    "value": "星星抽屉！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. These drawers seem to be made from the stars themselves.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This set of drawers looks like it's made from stars!",
+    "value": "这套抽屉看起来像是星星做的！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These drawers makes me think fondly of the night sky.",
+    "value": "这些抽屉让我想起夜空。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These drawers are mighty pretty.",
+    "value": "这些抽屉非常漂亮。"
+  }
+]

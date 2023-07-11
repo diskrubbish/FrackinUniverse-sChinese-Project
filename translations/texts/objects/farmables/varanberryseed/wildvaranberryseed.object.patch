@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Delicious and extremely nutritious",
+    "value": "可以收获瓦兰浆果，食用后会提高生命值。吃起来又美味又营养。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Varan Berry Bush",
+    "value": "瓦兰浆果种子"
+  }
+]

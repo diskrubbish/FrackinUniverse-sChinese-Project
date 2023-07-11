@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fold away table, or, possibly a shelf. The possibilities are moderate.",
+    "value": "一个折叠桌子，又或许是一个架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fold-up table",
+    "value": "折叠桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This is nothing like the standardised desks the Miniknog supply us with.",
+    "value": "这不是科技发展部为我们提供的标准办公桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Is it a shelf, is a table, who can judge?",
+    "value": "谁能看出一个架子还是一张桌子？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thisss bed is sssstupid, it'sss hard as a table top.",
+    "value": "这这这张床很傻傻傻，它它它看起来像桌子一样硬。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. This shelf is grossly over-engineered.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks more like a gurney than a table. Why is Avali stuff always so, functional?",
+    "value": "看起来更像一个轮椅。为什么羽族的东西总是没有实用功能？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I wouldn't keep a moth-eaten book on this unit.",
+    "value": "我可不会把书放到这里面，书蠹会把它们啃光的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "It's a shelf... or maybe a table. Honestly it's just something to place your shinies on.",
+    "value": "一个架子...或者是一个桌子。"
+  }
+]

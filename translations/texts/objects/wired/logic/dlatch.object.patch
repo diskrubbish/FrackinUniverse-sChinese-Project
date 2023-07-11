@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The top, or 'Enable', node controls whether or not the latch can change states based on its bottom, or 'Data', node.",
+    "value": "着迷。当上面控制锁存器的节点改变，那么下面的数据节点也会跟着改变。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "The top, or 'Enable', node controlsss whether or not the latch can change statesss based on itsss bottom, or 'Data', node.",
+    "value": "当上面控制锁存器器器的节点改变，那么下面的数据节点也会跟跟跟着改变。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Fascinated. The top, or 'Enable', node controls whether or not the latch can change states based on its bottom, or 'Data', node.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Data Latch",
+    "value": "锁存器"
+  }
+]

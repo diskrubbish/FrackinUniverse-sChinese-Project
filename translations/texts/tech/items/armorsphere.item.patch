@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A heavily armored distortion sphere.",
+    "value": "重度武装过的变形球。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Armor Sphere^reset;",
+    "value": "^#77acc3;装甲球^reset;"
+  }
+]

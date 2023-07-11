@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Augments",
+    "value": "能力增强"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "You're probably starting to have some issues surviving by now in different biomes. So let's get you building ^green;augments^reset;! Show me an ^orange;Acid Shield^reset; augment made by your own two hands!",
+    "value": "你现在可能苦恼于如何在不同环境的星球上生存。让我教你制造一些^green;EPP模块^reset;！把你自己制作的^orange;EPP模块（酸蚀护盾）^reset;给我看看！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Bring the ^orange;Acid Shield^reset; augment to the scientist at the ^orange;Science Outpost^reset;",
+    "value": "把^orange;EPP模块（酸蚀护盾）^reset;带给这名科学家。(位于^orange;科学前哨站^reset;)"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Perhaps one day I might call on your talents to help me with a little problem I am having...I'll need to consider.",
+    "value": "也许有一天，我还会麻烦你这样的天才来帮助我，但是...我现在需要一个人思考一会儿，抱歉。"
+  }
+]

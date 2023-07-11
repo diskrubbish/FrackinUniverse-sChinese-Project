@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An advert for a long since discontinued brand of whiskey.",
+    "value": "一个长期停产的威士忌品牌的广告。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dandelion Root Pop Ad",
+    "value": "蒲公英根流行广告"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This poster is incredibly old. I'm amazed hasn't been blown away by now.",
+    "value": "这张海报非常古老。我很惊讶现在还没有被风吹走。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A poster advertising some brand of alcohol, it seems.",
+    "value": "似乎是一张宣传某种酒类品牌的海报。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Weird booze made from dandelionss.",
+    "value": "用蒲公英制成的奇怪的酒。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Dismissive. The makers of this whiskey went out of business years ago.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I hear you can still find bottles of this stuff out there.",
+    "value": "我听说你还能在外面找到一瓶瓶这种东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A discontinued whiskey brand. Though I've heard rumors of Moonshiner's making an attempt to revive it.",
+    "value": "停产的威士忌品牌。虽然我听过有传言说月亮神正在试图恢复它。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "*sigh* I tell ya... They'll never make another brew as good as this again.",
+    "value": "*唉，我告诉你...他们再也做不出像这样好的啤酒了。"
+  }
+]

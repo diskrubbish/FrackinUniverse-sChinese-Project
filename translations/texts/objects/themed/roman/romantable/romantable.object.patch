@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A robust, roman-style table.",
+    "value": "一张结实的罗马风格的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Roman Table",
+    "value": "罗马桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "For an old-fashioned table, it's remarkably sturdy.",
+    "value": "对于一张老式的桌子来说，它非常坚固。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Such fine craftsmanship...",
+    "value": "这么好的手艺..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Table could sseat many of Floran's friends!",
+    "value": "叶族人的许多朋友都坐在桌子上！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. Carving wood this heavy into such an ornate design is no small feat.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "How many dishes could someone fit on this table, I wonder?",
+    "value": "我想知道这张桌子上能放多少盘子？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A fine showing of impeccable craftsmanship. And so sturdy!",
+    "value": "完美工艺的完美展示。而且很结实！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fancy table's still just a table, in my book.",
+    "value": "在我看来，一张漂亮的桌子仍然只是一张桌子。"
+  }
+]

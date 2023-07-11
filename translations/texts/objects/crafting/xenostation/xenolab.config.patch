@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "raw": " XENO RESEARCH LAB",
+    "value": "基因提取器"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "raw": " Xenobiology Research",
+    "value": "用于基因科研"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "raw": "Craft",
+    "value": "制作"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltip/itemList/schema/listTemplate/itemName/value",
+    "raw": "Golden Moustache",
+    "value": "金胡子"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblSchematics/value",
+    "raw": "SCHEMATICS",
+    "value": "图表"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProducttitle/value",
+    "raw": "PRODUCT",
+    "value": "产品"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/tbSpinCount/regex",
+    "raw": "x?\\d{0,3}",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProduct/value",
+    "raw": "MATERIALS AVAILABLE",
+    "value": "可用材料"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/scrollArea/children/itemList/schema/listTemplate/level/value",
+    "raw": "Lvl. 100",
+    "value": "Lv.100"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/filter/hint",
+    "raw": "Search",
+    "value": "搜索"
+  }
+]

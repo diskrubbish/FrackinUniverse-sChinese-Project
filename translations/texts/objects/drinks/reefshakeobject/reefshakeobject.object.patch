@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A reefpod milkshake! Kids love it.",
+    "value": "一杯礁荚奶昔！孩子们都喜欢。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Reef Shake",
+    "value": "礁荚奶昔"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Isss weird ssshake. But not bad, not bad.",
+    "value": "奶昔很很很奇怪，但是不错，不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Begrudging. I SUPPOSE the sweet and salty mix works well in this case.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's like... drinkin' a pretzel, I guess?",
+    "value": "就像...喝椒盐卷饼，我猜？"
+  }
+]

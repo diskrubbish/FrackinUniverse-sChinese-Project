@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Erchius Pillar",
+    "value": "厄尔吉斯晶体支柱"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pillar made of solid erchius. Probably explodey.",
+    "value": "一种由厄尔吉斯晶体制成的支柱。或许会爆炸也说不定。"
+  }
+]

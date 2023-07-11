@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It looks like this man died in extreme pain.",
+    "value": "看起来这个人死于极度的痛苦中。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient human corpse",
+    "value": "古老的人类尸骸"
+  }
+]

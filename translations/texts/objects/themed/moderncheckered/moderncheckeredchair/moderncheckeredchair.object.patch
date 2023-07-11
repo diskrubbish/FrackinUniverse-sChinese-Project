@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cool black and white checkered seat.",
+    "value": "一个很酷的黑白格子座椅。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Modern Chair",
+    "value": "现代椅子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An oddly patterned chair, but stylish.",
+    "value": "一把图案奇特但很时尚的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A chair with little black and white squares on the surface.",
+    "value": "表面有黑白方块的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssquares on silly ssseat.",
+    "value": "坐在愚蠢的座位上。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Nostalgic. This chair reminds me of the chessboards back home.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Modern furniture is really weird, huh?",
+    "value": "现代家具真的很奇怪，是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Theres a rather large backrest on this checkered chair.",
+    "value": "这把方格椅子的靠背很大。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "All these squares are makin' me a li'l dizzy.",
+    "value": "所有这些方块都让我头晕。"
+  }
+]

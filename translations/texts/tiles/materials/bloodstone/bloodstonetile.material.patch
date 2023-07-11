@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This stuff is literally legendary.",
+    "value": "这东西简直就是传奇。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blood Stone",
+    "value": "血石"
+  }
+]

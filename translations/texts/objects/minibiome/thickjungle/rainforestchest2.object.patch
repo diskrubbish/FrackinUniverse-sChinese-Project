@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A leafy locksmiths dream.",
+    "value": "一个多叶的，所有锁匠梦寐以求的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rainforest Chest",
+    "value": "雨林箱子"
+  }
+]

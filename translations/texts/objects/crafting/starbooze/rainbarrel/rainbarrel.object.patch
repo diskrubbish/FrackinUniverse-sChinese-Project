@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A barrel to collect rainwater!",
+    "value": "一个用于收集雨水的桶！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Rain Barrel^reset;",
+    "value": "^orange;雨水收集桶^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Rain Barrel.",
+    "value": "接雨水的桶。"
+  }
+]

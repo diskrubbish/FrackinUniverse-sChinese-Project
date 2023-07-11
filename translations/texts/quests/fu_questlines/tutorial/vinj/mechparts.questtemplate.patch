@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Your Mech and You",
+    "value": "你的机甲和你"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Mechs are quite useful, but basic models are barely space-worthy and generally clunky. You'll want to ^green;Research^reset; into ^cyan;Engineering^reset; and build some ^orange;Stock Mech Legs^reset; to replace the awful basic model.",
+    "value": "机甲很有用，但基本型号几乎不适合太空，且基本上都是乐色。你需要一张^orange;机械部件制造台^reset;，然后制造一双^orange;斯托克机械足^reset;来替换糟糕的出厂自带机械足。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "You can further improve on those legs, too, by upgrading them once more into ^orange;Improved Mech Legs^reset;. The same applies to your ^green;Boosters^reset;.",
+    "value": "你可以进一步改良这些部件，也可以一次性升级到^orange;改良机甲足^reset;。这种思路同样适用于^green;推进器^reset;。"
+  }
+]

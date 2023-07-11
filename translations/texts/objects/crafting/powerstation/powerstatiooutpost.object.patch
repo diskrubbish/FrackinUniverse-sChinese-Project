@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Create powered gear.",
+    "value": "制造电力设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Electronics Center^reset;",
+    "value": "^orange;电子设备制造机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "raw": "Create powered gear.",
+    "value": "制造电力设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Electronics Center^reset;",
+    "value": "^orange;电子设备制造机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "raw": "High-tech powered devices.",
+    "value": "高科技的电力设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Power Station^reset;",
+    "value": "^orange;能源设备制造器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^red;UNAUTHORIZED ACCESS DETECTED^reset;",
+    "value": " ^red;已检测到未授权访问^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Access to terminal disabled.",
+    "value": " ^#dddddd;访问权限未取得。"
+  }
+]

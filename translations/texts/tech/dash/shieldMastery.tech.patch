@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Greatly increase Shielding abilities.",
+    "value": "大大提高防护能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Shieldmaster",
+    "value": "盾牌大师"
+  }
+]

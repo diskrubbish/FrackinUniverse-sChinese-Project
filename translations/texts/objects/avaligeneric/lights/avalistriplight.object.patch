@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small inset directional light.",
+    "value": "一个小的嵌入式灯具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Inset Lighting",
+    "value": "嵌入式灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's a strip light, not much I can really add to that.",
+    "value": "一条灯带，不是很长，我想我可以带走?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I have the inexplicable urge to stash this in my bed-nest...",
+    "value": "我有一种无法解释的冲动，我想把这放到我的巢里..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Portable sunlight!",
+    "value": "便携式式式阳光！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Ambivalent. It is a fluorescent light source.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Wireless, I wonder how long the battery lasts?",
+    "value": "内置电源？我不知道电池可以持续多久。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The fuel cell on this lamp has a longer lifespan than its user.",
+    "value": "该灯上的燃料电池具有比其他电池有更长的寿命。"
+  }
+]

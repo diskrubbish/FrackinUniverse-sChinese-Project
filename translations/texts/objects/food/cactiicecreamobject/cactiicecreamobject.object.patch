@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tasty, prickly treat!",
+    "value": "一个美味的，多刺的款待！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cacti Ice Cream",
+    "value": "仙人掌冰淇淋"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran's food is still kicking! Just how Floran likes it!",
+    "value": "叶族的食物还在吃！叶族人真喜欢！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Smug. These thorns won't be troubling me.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now who would go and leave needles in their food?",
+    "value": "现在谁会去把针留在他们的食物里？"
+  }
+]

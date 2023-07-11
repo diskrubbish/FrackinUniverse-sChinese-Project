@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An exceptionally fashionable weathered wooden cabinet.",
+    "value": "一个特别时髦的风化木橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Weathered Chair",
+    "value": "风化椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A stylish yet sturdy chair.",
+    "value": "时尚而结实的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A nice looking chair.",
+    "value": "一把好看的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fancy chair iss comfortable.",
+    "value": "花哨的椅子很舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. This chair looks sturdy enough to support most Glitch.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A nicely designed chair.",
+    "value": "设计精美的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A chair, simple in design, but not unpleasant to look at.",
+    "value": "一把椅子，设计简单，但看起来并不难看。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I wonder if this sturdy lookin' chair is comfy at all?",
+    "value": "我想知道这把结实的椅子是否舒适？"
+  }
+]

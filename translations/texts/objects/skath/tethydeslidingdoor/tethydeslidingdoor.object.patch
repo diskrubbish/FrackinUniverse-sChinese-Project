@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sleek sliding door, made completely out of Tethyde.",
+    "value": "一扇光滑的滑动门，完全由特提德制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Sliding Door",
+    "value": "Skath推拉门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A sliding door. Boring, but functional.",
+    "value": "滑动门。很无聊，但很实用。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A sliding door, common among spacefaring races.",
+    "value": "一种滑动门，在航天比赛中很常见。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssneaky sssliding door.",
+    "value": "整洁的滑动门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. There is something fascinating about the movement of these doors.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I ran at a door like this once.",
+    "value": "我曾经在这样的门前跑过。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A sleek sliding door.",
+    "value": "一扇光滑的滑动门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I always liked these types of sliding doors.",
+    "value": "我一直喜欢这种类型的滑动门。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "A sliding door made by my kind. These are commonly found in civil sectors.",
+    "value": "我的同类做的推拉门。这在民间部门很常见。"
+  }
+]

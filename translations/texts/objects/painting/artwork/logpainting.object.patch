@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A constant reminder to idiots the world over.",
+    "value": "对全世界的白痴来说，这是个不断的提醒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Log",
+    "value": "神谕"
+  }
+]

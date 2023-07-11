@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cracked rock full of carbon.",
+    "value": "一块充满碳的破碎岩石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Rock",
+    "value": "碳质岩"
+  }
+]

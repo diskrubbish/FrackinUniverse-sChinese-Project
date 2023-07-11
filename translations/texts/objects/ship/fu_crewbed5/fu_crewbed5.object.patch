@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lovely wall-recessed sleepy spots. ^yellow;Crew +1^reset;. Counts as a deed. ^red;BYOS Only^reset;",
+    "value": "可爱的壁凹睡眠斑点舱。\n^yellow;船员上限+1^reset;。\n视为一份契约。\n^red;只限BYOS^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crew Bunk (Wall)",
+    "value": "船员用双层床(壁式)"
+  }
+]

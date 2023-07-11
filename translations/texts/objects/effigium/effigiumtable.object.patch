@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table that seems to fade in and out of existence.",
+    "value": "这张桌子似乎在消失。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Effigium Table",
+    "value": "幻影桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fancy table.",
+    "value": "一张别致的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A fancy looking table.",
+    "value": "一张漂亮的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssimple table.",
+    "value": "简简简单的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This table likes to disappear.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Not much to say about this table, apart from it going invisible. Spooky.",
+    "value": "关于这张桌子没什么可说的，除了它变得看不见了。令人毛骨悚然的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A table, very simple in every way.",
+    "value": "一张桌子，从哪方面说都很简单。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just an table, though it don't stay long.",
+    "value": "只是一张桌子，虽然不能停留太久。"
+  }
+]

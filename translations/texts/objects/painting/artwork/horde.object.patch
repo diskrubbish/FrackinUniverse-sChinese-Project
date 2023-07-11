@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Whatever this is, it is bloated and gross.",
+    "value": "不管这是什么，它臃肿而恶心。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Horde",
+    "value": "部落"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stack for a spaceship.",
+    "value": "太空船的堆叠区。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Novakid Stack Section",
+    "value": "星之子飞船堆叠区"
+  }
+]

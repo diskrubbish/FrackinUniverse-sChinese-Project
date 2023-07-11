@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^green;Away In A Longship^reset;",
+    "value": "^green;破釜沉舟"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Alpaca raiders are threatening an ancient Glitch monastery. The defenders look like they could use a little help.",
+    "value": "羊驼袭击者正在攻击一个古老的电子人修道院。防守一方正在寻求你的帮助。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Defeat the leader of the alpaca raiders.",
+    "value": "击败羊驼的头领。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "These ruins sure are expansive, and the alpaca well-hidden! Hopefully all this was worth it!",
+    "value": "这片土地无比广袤，羊驼在上面隐藏得很好，希望一切都能顺利。"
+  }
+]

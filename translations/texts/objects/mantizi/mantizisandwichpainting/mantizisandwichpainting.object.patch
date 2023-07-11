@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The pinnacle of handheld, organically-wrapped, carbohydrate-rich lunchfoods.",
+    "value": "手持、有机包装、富含碳水化合物的午餐食品的巅峰。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sandwich Painting",
+    "value": "夹心画"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The Mantizi's love for their food is rather odd.",
+    "value": "甲虫族人对食物的热爱是相当奇怪的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Food designed for the beak-less.",
+    "value": "专为无喙动物设计的食物。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Why bread around meat? Why not jusst meat?",
+    "value": "为什么要在肉周围放面包？为什么不吃肉呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. It appears to be a sandwich.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Man, I'm hungry.",
+    "value": "伙计，我饿了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such devotion to a pedestrian meal.",
+    "value": "如此热衷于一顿普通的饭。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some kinda pop art?",
+    "value": "某种流行艺术？"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Ah, the sandwich. The delicately layered pinnacle of all food, artisinally prepared by the finest chefs in the galaxy.",
+    "value": "啊，三明治。是银河系最优秀的厨师精心制作的所有食物的精致层次的巅峰。"
+  }
+]

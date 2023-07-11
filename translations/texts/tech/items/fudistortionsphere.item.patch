@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Transform into a ball! ^green;Press [F]^reset;",
+    "value": "^green;按[F]^reset;变成一个球！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Distortion Sphere^reset;",
+    "value": "^#77acc3;变形球^reset;"
+  }
+]

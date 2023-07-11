@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Passive Defense Boost (+15)",
+    "value": "被动防御提升(+15)"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Defense Matrix III",
+    "value": "防御矩阵 III"
+  }
+]

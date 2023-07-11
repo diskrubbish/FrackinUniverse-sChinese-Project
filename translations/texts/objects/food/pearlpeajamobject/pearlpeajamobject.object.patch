@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Commonly known as \"pearl jam\". Has a nice ring to it.",
+    "value": "俗称“珍珠酱”。有一个漂亮的戒指。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pearlpea Jam",
+    "value": "珍珠豆酱"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hard pearlpea in this jam once got ssstuck in Floran's throat...",
+    "value": "果酱里的硬珍珠豆曾经卡在Floran的喉咙里..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A fine purée of pearlpeas.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "You could slather this on a whole buncha stuff.",
+    "value": "你可以把它涂在一整包东西上。"
+  }
+]

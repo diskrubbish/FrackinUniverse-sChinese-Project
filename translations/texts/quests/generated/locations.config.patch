@@ -1,0 +1,836 @@
+[
+  {
+    "op": "replace",
+    "path": "/fuencounters/deathcamp1/name",
+    "raw": "execution wagon",
+    "value": "行刑车"
+  },
+  {
+    "op": "replace",
+    "path": "/fuencounters/deathcamp2/name",
+    "raw": "gallows",
+    "value": "绞刑架"
+  },
+  {
+    "op": "replace",
+    "path": "/fuencounters/deathcamp3/name",
+    "raw": "prisoner camp",
+    "value": "囚犯集中营"
+  },
+  {
+    "op": "replace",
+    "path": "/apexencounter/abandoned/name",
+    "raw": "abandoned Apex facility",
+    "value": "废弃的猿人设施"
+  },
+  {
+    "op": "replace",
+    "path": "/apexencounter/ruins/name",
+    "raw": "ruined Apex tunnels",
+    "value": "猿人隧道废墟"
+  },
+  {
+    "op": "replace",
+    "path": "/apexencounter/bridge/name",
+    "raw": "bright metal bridge",
+    "value": "光亮金属桥"
+  },
+  {
+    "op": "replace",
+    "path": "/apexencounter/infested/name",
+    "raw": "overgrown Apex facility",
+    "value": "生长过度的猿人设施"
+  },
+  {
+    "op": "replace",
+    "path": "/avianencounter/graveyard/name",
+    "raw": "Avian graveyard",
+    "value": "翼族墓地"
+  },
+  {
+    "op": "replace",
+    "path": "/avianencounter/house/name",
+    "raw": "Avian house",
+    "value": "翼族居所"
+  },
+  {
+    "op": "replace",
+    "path": "/avianencounter/hut/name",
+    "raw": "Avian hut",
+    "value": "翼族小屋"
+  },
+  {
+    "op": "replace",
+    "path": "/avianencounter/cave/name",
+    "raw": "cave with Avian market stalls",
+    "value": "有翼族街市摊档的洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/avianencounter/dock/name",
+    "raw": "dock",
+    "value": "码头"
+  },
+  {
+    "op": "replace",
+    "path": "/floranencounter/caged/name",
+    "raw": "Floran hunting stand",
+    "value": "叶族狩猎场"
+  },
+  {
+    "op": "replace",
+    "path": "/floranencounter/hut/name",
+    "raw": "Floran hut",
+    "value": "叶族小屋"
+  },
+  {
+    "op": "replace",
+    "path": "/floranencounter/nomad/name",
+    "raw": "wide clearing",
+    "value": "宽边清理"
+  },
+  {
+    "op": "replace",
+    "path": "/floranencounter/pincave/name",
+    "raw": "frog merchant's cave",
+    "value": "蛙族商人的洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/floranencounter/pinfriend/name",
+    "raw": "wide clearing",
+    "value": "宽边清理"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchencounter/house/name",
+    "raw": "secluded house",
+    "value": "隐蔽的房子"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchencounter/wizard/name",
+    "raw": "Glitch wizard's tower",
+    "value": "电子人巫师塔"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchencounter/lord/name",
+    "raw": "Glitch lord's tower",
+    "value": "电子人领主的塔"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchencounter/caged/name",
+    "raw": "large clearing with the cage next to it",
+    "value": "旁边有笼子的大空地"
+  },
+  {
+    "op": "replace",
+    "path": "/humanencounter/cave/name",
+    "raw": "cave with the abandoned campsite",
+    "value": "带有废弃营地的洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/humanencounter/camp/name",
+    "raw": "campsite next to the pond",
+    "value": "池塘边的营地"
+  },
+  {
+    "op": "replace",
+    "path": "/humanencounter/facility/name",
+    "raw": "abandoned U.S.C.M. facility",
+    "value": "废弃的U.S.C.M.设施"
+  },
+  {
+    "op": "replace",
+    "path": "/humanencounter/tower/name",
+    "raw": "old prison tower",
+    "value": "旧监狱塔"
+  },
+  {
+    "op": "replace",
+    "path": "/boneencounter/spires/name",
+    "raw": "bone spires",
+    "value": "骨尖"
+  },
+  {
+    "op": "replace",
+    "path": "/boneencounter/house/name",
+    "raw": "fortified house",
+    "value": "坚固的房子"
+  },
+  {
+    "op": "replace",
+    "path": "/boneencounter/ruins/name",
+    "raw": "old ruins",
+    "value": "古老的废墟"
+  },
+  {
+    "op": "replace",
+    "path": "/boneencounter/clearing1/name",
+    "raw": "clearing",
+    "value": "清算"
+  },
+  {
+    "op": "replace",
+    "path": "/boneencounter/clearing2/name",
+    "raw": "clearing",
+    "value": "清算"
+  },
+  {
+    "op": "replace",
+    "path": "/colourfulencounter/house/name",
+    "raw": "strange house",
+    "value": "奇怪的房子"
+  },
+  {
+    "op": "replace",
+    "path": "/colourfulencounter/clearing1/name",
+    "raw": "clearing",
+    "value": "清算"
+  },
+  {
+    "op": "replace",
+    "path": "/colourfulencounter/clearing2/name",
+    "raw": "clearing",
+    "value": "清算"
+  },
+  {
+    "op": "replace",
+    "path": "/colourfulencounter/hill/name",
+    "raw": "hill",
+    "value": "山"
+  },
+  {
+    "op": "replace",
+    "path": "/eyeencounter/ruinedtower/name",
+    "raw": "ruined tower",
+    "value": "废塔"
+  },
+  {
+    "op": "replace",
+    "path": "/eyeencounter/ruinwell/name",
+    "raw": "well next to the old ruins",
+    "value": "就在废墟旁边"
+  },
+  {
+    "op": "replace",
+    "path": "/eyeencounter/ruins/name",
+    "raw": "old ruins",
+    "value": "古老的废墟"
+  },
+  {
+    "op": "replace",
+    "path": "/eyeencounter/ruinedbridge/name",
+    "raw": "old broken bridge",
+    "value": "旧的断桥"
+  },
+  {
+    "op": "replace",
+    "path": "/eyeencounter/clearing/name",
+    "raw": "clearing",
+    "value": "清算"
+  },
+  {
+    "op": "replace",
+    "path": "/agaranencounter/giantpod/name",
+    "raw": "huge plant pod",
+    "value": "巨大的植物荚"
+  },
+  {
+    "op": "replace",
+    "path": "/agaranencounter/hut/name",
+    "raw": "Agaran hut",
+    "value": "蘑菇人小屋"
+  },
+  {
+    "op": "replace",
+    "path": "/agaranencounter/plantvolcano/name",
+    "raw": "plant-covered volcano",
+    "value": "植物覆盖的火山"
+  },
+  {
+    "op": "replace",
+    "path": "/agaranencounter/pond/name",
+    "raw": "pond",
+    "value": "池塘"
+  },
+  {
+    "op": "replace",
+    "path": "/agaranencounter/cave/name",
+    "raw": "mushroom cave",
+    "value": "蘑菇洞"
+  },
+  {
+    "op": "replace",
+    "path": "/agaranencounter/shroompatch/name",
+    "raw": "mushroom patch",
+    "value": "蘑菇地"
+  },
+  {
+    "op": "replace",
+    "path": "/agaranencounter/cauldron/name",
+    "raw": "plant-covered cauldron",
+    "value": "植物覆盖的大锅"
+  },
+  {
+    "op": "replace",
+    "path": "/agaranencounter/cauldronwater/name",
+    "raw": "plant-covered water-filled cauldron",
+    "value": "植物覆盖的充水大锅"
+  },
+  {
+    "op": "replace",
+    "path": "/agaranencounter/cauldronlava/name",
+    "raw": "plant-covered lava-filled cauldron",
+    "value": "植物覆盖的充满熔岩的大锅"
+  },
+  {
+    "op": "replace",
+    "path": "/agaranencounter/shroomhouse/name",
+    "raw": "mushroom house",
+    "value": "蘑菇房"
+  },
+  {
+    "op": "replace",
+    "path": "/agaranencounter/farm/name",
+    "raw": "crop field",
+    "value": "农田"
+  },
+  {
+    "op": "replace",
+    "path": "/randomencounter/blacksmith/name",
+    "raw": "Glitch blacksmith's house",
+    "value": "电子人铁匠的房子"
+  },
+  {
+    "op": "replace",
+    "path": "/randomencounter/cropfield/name",
+    "raw": "crop field",
+    "value": "农田"
+  },
+  {
+    "op": "replace",
+    "path": "/randomencounter/cultistaltar/name",
+    "raw": "cultist ruins",
+    "value": "邪教废墟"
+  },
+  {
+    "op": "replace",
+    "path": "/randomencounter/farm/name",
+    "raw": "farmstead",
+    "value": "农场"
+  },
+  {
+    "op": "replace",
+    "path": "/randomencounter/sewerdrain/name",
+    "raw": "old sewer drain",
+    "value": "旧下水道"
+  },
+  {
+    "op": "replace",
+    "path": "/randomencounter/facility/name",
+    "raw": "abandoned U.S.C.M. facility",
+    "value": "废弃的U.S.C.M.设施"
+  },
+  {
+    "op": "replace",
+    "path": "/randomencounter/house/name",
+    "raw": "wooden house",
+    "value": "木屋"
+  },
+  {
+    "op": "replace",
+    "path": "/randomencounter/tower/name",
+    "raw": "stone tower",
+    "value": "石塔"
+  },
+  {
+    "op": "replace",
+    "path": "/genericunderground/sheltersmall/name",
+    "raw": "small underground shelter",
+    "value": "小型地下掩体"
+  },
+  {
+    "op": "replace",
+    "path": "/genericunderground/shelterlarge/name",
+    "raw": "underground shelter",
+    "value": "地下防空洞"
+  },
+  {
+    "op": "replace",
+    "path": "/genericunderground/minesmall/name",
+    "raw": "small abandoned mine shaft",
+    "value": "废弃的小矿井"
+  },
+  {
+    "op": "replace",
+    "path": "/genericunderground/minelarge/name",
+    "raw": "abandoned mine shaft",
+    "value": "废弃矿井"
+  },
+  {
+    "op": "replace",
+    "path": "/genericunderground/mineflooded/name",
+    "raw": "flooded abandoned mine shaft",
+    "value": "淹没废弃矿井"
+  },
+  {
+    "op": "replace",
+    "path": "/apexunderground/facility/name",
+    "raw": "underground Apex facility",
+    "value": "猿人地下设施"
+  },
+  {
+    "op": "replace",
+    "path": "/apexunderground/treasure/name",
+    "raw": "underground vault",
+    "value": "地下室"
+  },
+  {
+    "op": "replace",
+    "path": "/avianunderground/tomb/name",
+    "raw": "underground Avian tomb",
+    "value": "翼族地下墓穴"
+  },
+  {
+    "op": "replace",
+    "path": "/avianunderground/room/name",
+    "raw": "underground store room",
+    "value": "地下储藏室"
+  },
+  {
+    "op": "replace",
+    "path": "/avianunderground/treasure/name",
+    "raw": "underground Avian ruins",
+    "value": "地下翼族遗址"
+  },
+  {
+    "op": "replace",
+    "path": "/floranunderground/chamber/name",
+    "raw": "underground plant-covered chamber",
+    "value": "植物覆盖的地下室"
+  },
+  {
+    "op": "replace",
+    "path": "/floranunderground/mossy/name",
+    "raw": "underground moss-covered room",
+    "value": "苔藓覆盖的地下室"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchunderground/room/name",
+    "raw": "underground stone room",
+    "value": "地下石室"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchunderground/dungeon/name",
+    "raw": "large underground room",
+    "value": "大型地下室"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchunderground/hideout/name",
+    "raw": "large underground room",
+    "value": "大型地下室"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchunderground/house/name",
+    "raw": "underground shelter",
+    "value": "地下防空洞"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchunderground/ruins/name",
+    "raw": "underground stone ruins",
+    "value": "地下石遗址"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchunderground/sewer/name",
+    "raw": "underground sewer",
+    "value": "地下排水管"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchunderground/traproom1/name",
+    "raw": "spike-laden underground room",
+    "value": "满是钉子的地下室"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchunderground/traproom2/name",
+    "raw": "poison-filled underground room",
+    "value": "充满毒药的地下室"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchunderground/traproom3/name",
+    "raw": "underground chess room",
+    "value": "地下棋室"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchunderground/treasure/name",
+    "raw": "underground treasure room",
+    "value": "地下藏宝室"
+  },
+  {
+    "op": "replace",
+    "path": "/humanunderground/arcade/name",
+    "raw": "underground arcade",
+    "value": "地下拱廊"
+  },
+  {
+    "op": "replace",
+    "path": "/humanunderground/bunker/name",
+    "raw": "underground U.S.C.M. bunker",
+    "value": "U.S.C.M.地下碉堡"
+  },
+  {
+    "op": "replace",
+    "path": "/humanunderground/prison/name",
+    "raw": "underground prison cell",
+    "value": "地下牢房"
+  },
+  {
+    "op": "replace",
+    "path": "/outpostunderground/bunker/name",
+    "raw": "underground outpost",
+    "value": "地下哨站"
+  },
+  {
+    "op": "replace",
+    "path": "/outpostunderground/greenhouse/name",
+    "raw": "underground greenhouse",
+    "value": "地下温室"
+  },
+  {
+    "op": "replace",
+    "path": "/outpostunderground/shelter/name",
+    "raw": "small underground outpost",
+    "value": "小型地下前哨站"
+  },
+  {
+    "op": "replace",
+    "path": "/apexresearchlab/entrance/name",
+    "raw": "entrance to the Miniknog Laboratory",
+    "value": "科技发展部实验室入口"
+  },
+  {
+    "op": "replace",
+    "path": "/apexresearchlab/roof/name",
+    "raw": "roof of the Miniknog Laboratory",
+    "value": "科技发展部实验室天台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexresearchlab/interior/name",
+    "raw": "Miniknog Laboratory",
+    "value": "科技发展部实验室"
+  },
+  {
+    "op": "replace",
+    "path": "/apextestchamber/entrance/name",
+    "raw": "entrance to the Miniknog Testing Chambers",
+    "value": "科技发展部测试室入口"
+  },
+  {
+    "op": "replace",
+    "path": "/apextestchamber/generator/name",
+    "raw": "generator room of the Miniknog Testing Chambers",
+    "value": "科技发展部测试室的发电机房"
+  },
+  {
+    "op": "replace",
+    "path": "/apextestchamber/westroom/name",
+    "raw": "western side of the Miniknog Testing Chambers",
+    "value": "科技发展部测试室的西面"
+  },
+  {
+    "op": "replace",
+    "path": "/apextestchamber/eastroom/name",
+    "raw": "eastern side of the Miniknog Testing Chambers",
+    "value": "科技发展部测试室的东面"
+  },
+  {
+    "op": "replace",
+    "path": "/aviantower/base/name",
+    "raw": "base of the Avian Tower",
+    "value": "翼族塔的底部"
+  },
+  {
+    "op": "replace",
+    "path": "/aviantower/top/name",
+    "raw": "top of the Avian Tower",
+    "value": "翼族塔的顶部"
+  },
+  {
+    "op": "replace",
+    "path": "/floranhell/entrance/name",
+    "raw": "entrance to the Floran Prison",
+    "value": "叶族监狱的入口"
+  },
+  {
+    "op": "replace",
+    "path": "/floranhell/cellblock/name",
+    "raw": "cell block of the Floran Prison",
+    "value": "叶族监狱的牢房区"
+  },
+  {
+    "op": "replace",
+    "path": "/floranhell/lavabonepile/name",
+    "raw": "bone pile within the Floran Prison",
+    "value": "叶族监狱里的骨头堆"
+  },
+  {
+    "op": "replace",
+    "path": "/floranhell/depths/name",
+    "raw": "depths of the Floran Prison",
+    "value": "叶族监狱的深处"
+  },
+  {
+    "op": "replace",
+    "path": "/humanbunker/entrance/name",
+    "raw": "entrance to the U.S.C.M. Bunker",
+    "value": "U.S.C.M.地堡的入口"
+  },
+  {
+    "op": "replace",
+    "path": "/humanbunker/17/name",
+    "raw": "U.S.C.M. Bunker",
+    "value": "U.S.C.M.地堡"
+  },
+  {
+    "op": "replace",
+    "path": "/humanbunker/11/name",
+    "raw": "U.S.C.M. Bunker",
+    "value": "U.S.C.M.地堡"
+  },
+  {
+    "op": "replace",
+    "path": "/humanbunker/5/name",
+    "raw": "U.S.C.M. Bunker",
+    "value": "U.S.C.M.地堡"
+  },
+  {
+    "op": "replace",
+    "path": "/humanbunker/14/name",
+    "raw": "U.S.C.M. Bunker",
+    "value": "U.S.C.M.地堡"
+  },
+  {
+    "op": "replace",
+    "path": "/humanbunker/deadend/name",
+    "raw": "U.S.C.M. Bunker",
+    "value": "U.S.C.M.地堡"
+  },
+  {
+    "op": "replace",
+    "path": "/scifidungeon/entrance/name",
+    "raw": "entrance to the mysterious high-tech dungeon",
+    "value": "神秘的高科技地牢的入口"
+  },
+  {
+    "op": "replace",
+    "path": "/scifidungeon/treasureroom/name",
+    "raw": "treasure room within the mysterious high-tech dungeon",
+    "value": "神秘的高科技地牢内的藏宝室"
+  },
+  {
+    "op": "replace",
+    "path": "/scifidungeon/deadend/name",
+    "raw": "dead-end room within the mysterious high-tech dungeon",
+    "value": "神秘的高科技地牢里的死胡同"
+  },
+  {
+    "op": "replace",
+    "path": "/scifidungeon/chamber/name",
+    "raw": "large chamber within the mysterious high-tech dungeon",
+    "value": "神秘的高科技地牢里的大房间"
+  },
+  {
+    "op": "replace",
+    "path": "/scifidungeon/verticalshaft/name",
+    "raw": "vertical shaft within the mysterious high-tech dungeon",
+    "value": "神秘的高科技地牢里的竖井"
+  },
+  {
+    "op": "replace",
+    "path": "/wreck/cockpit/name",
+    "raw": "cockpit of the wrecked spaceship",
+    "value": "失事飞船的驾驶舱"
+  },
+  {
+    "op": "replace",
+    "path": "/wreck/engineroom/name",
+    "raw": "engine room of the wrecked spaceship",
+    "value": "失事飞船的引擎室"
+  },
+  {
+    "op": "replace",
+    "path": "/wreck/interior/name",
+    "raw": "interior of the wrecked spaceship",
+    "value": "失事的宇宙飞船的内部"
+  },
+  {
+    "op": "replace",
+    "path": "/wreckunderwater/cockpit/name",
+    "raw": "cockpit of the sunken spaceship",
+    "value": "沉没太空船的驾驶舱"
+  },
+  {
+    "op": "replace",
+    "path": "/wreckunderwater/engineroom/name",
+    "raw": "engine room of the sunken spaceship",
+    "value": "沉没宇宙飞船的引擎室"
+  },
+  {
+    "op": "replace",
+    "path": "/wreckunderwater/interior/name",
+    "raw": "interior of the sunken spaceship",
+    "value": "沉没的宇宙飞船的内部"
+  },
+  {
+    "op": "replace",
+    "path": "/wreckunderpoison/cockpit/name",
+    "raw": "cockpit of the sunken spaceship",
+    "value": "沉没太空船的驾驶舱"
+  },
+  {
+    "op": "replace",
+    "path": "/wreckunderpoison/engineroom/name",
+    "raw": "engine room of the sunken spaceship",
+    "value": "沉没宇宙飞船的引擎室"
+  },
+  {
+    "op": "replace",
+    "path": "/wreckunderpoison/interior/name",
+    "raw": "interior of the sunken spaceship",
+    "value": "沉没的宇宙飞船的内部"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanic/towerinvinciblemap1/name",
+    "raw": "old abandoned well",
+    "value": "废弃的老井"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanic/towerinvinciblemap2/name",
+    "raw": "strange foundry",
+    "value": "奇怪的铸造厂"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanic/towerinvinciblemap3/name",
+    "raw": "thugs' outpost",
+    "value": "暴徒的前哨站"
+  },
+  {
+    "op": "replace",
+    "path": "/toxic/infiltrationmap1/name",
+    "raw": "Miniknog outpost",
+    "value": "科技发展部前哨站"
+  },
+  {
+    "op": "replace",
+    "path": "/toxic/infiltrationmap2/name",
+    "raw": "Miniknog outpost",
+    "value": "科技发展部前哨站"
+  },
+  {
+    "op": "replace",
+    "path": "/toxic/infiltrationmap3/name",
+    "raw": "Miniknog outpost",
+    "value": "科技发展部前哨站"
+  },
+  {
+    "op": "replace",
+    "path": "/alpine/magickaforestmap1/name",
+    "raw": "grassy barrow",
+    "value": "草地手推车"
+  },
+  {
+    "op": "replace",
+    "path": "/alpine/magickaforestmap2/name",
+    "raw": "mountain lake",
+    "value": "山地湖泊"
+  },
+  {
+    "op": "replace",
+    "path": "/alpine/magickaforestmap3/name",
+    "raw": "cliffside hut",
+    "value": "悬崖边小屋"
+  },
+  {
+    "op": "replace",
+    "path": "/ancientjungleruins/entrance/name",
+    "raw": "base of the ancient ruins",
+    "value": "古代遗迹的基地"
+  },
+  {
+    "op": "replace",
+    "path": "/apexunderwaterlabs/entrance/name",
+    "raw": "underwater Miniknog facility",
+    "value": "水下科技发展部设备"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidoutlawcamp/entrance/name",
+    "raw": "Novakid outlaw camp",
+    "value": "星之子非法营地"
+  },
+  {
+    "op": "replace",
+    "path": "/humanapartments/entrance/name",
+    "raw": "Human apartment colony",
+    "value": "人类公寓殖民地"
+  },
+  {
+    "op": "replace",
+    "path": "/tundra/buildingfupeglaci/name",
+    "raw": "Peglaci research station",
+    "value": "企鹅研究站"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglacipeacekeeper/west/name",
+    "raw": "west entrance of the Peglaci Peacekeeper outpost",
+    "value": "企鹅维和前哨站的西部出口"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglacipeacekeeper/east/name",
+    "raw": "east entrance of the Peglaci Peacekeeper outpost",
+    "value": "企鹅维和前哨站的东部出口"
+  },
+  {
+    "op": "replace",
+    "path": "/fuasteroidbelt/mechbay/name",
+    "raw": "mech maintainence station",
+    "value": "机甲维修站"
+  },
+  {
+    "op": "replace",
+    "path": "/fuasteroidbelt/fastfood/name",
+    "raw": "Burger Fool",
+    "value": "小憨堡"
+  },
+  {
+    "op": "replace",
+    "path": "/fuasteroidbelt/stabbedthings/name",
+    "raw": "'Stabbed Things Emporium'",
+    "value": "'被刺伤之物帝国'"
+  },
+  {
+    "op": "replace",
+    "path": "/fuasteroidbelt/apexmining/name",
+    "raw": "Miniknog black site",
+    "value": "科技发展部黑点"
+  }
+]

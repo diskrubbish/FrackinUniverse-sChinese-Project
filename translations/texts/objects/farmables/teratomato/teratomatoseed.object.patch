@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A freakish mutant plant with blood-filled tomatoes.",
+    "value": "这株内部充满鲜血的类似番茄的植物是经过突变而来的。可以收获畸胎果，食用后会提高物理抗性，免疫击退。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Teratomato Seed",
+    "value": "畸胎果种子"
+  }
+]

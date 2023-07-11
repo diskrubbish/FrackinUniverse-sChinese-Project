@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Place it on a surface to coat it in a gel that speeds you up.",
+    "value": "给地形的表面涂上这种物质，可以让你在上面加快移动速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Accelerator Gel",
+    "value": "加速凝胶"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Is.. is this safe? It doesn't seem safe.",
+    "value": "这..这安全吗？它好像不安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wonder how fast I could run on this...",
+    "value": "到底我能在上面跑多快？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fasssst sssslime!",
+    "value": "又快又黏黏黏！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. If it reduces friction, why don't I slip on it?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Now you're thinking with goo.",
+    "value": "我想快点上去试试。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "How does this work, exactly?",
+    "value": "这到底是什么原理？"
+  }
+]

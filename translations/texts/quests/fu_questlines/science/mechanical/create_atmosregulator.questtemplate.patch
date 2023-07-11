@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Protective Measures",
+    "value": "保护措施"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I need to ^green;borrow^reset; an ^orange;Atmospheric Regulator^reset; so I can colonize a hostile world. You'll find it at your ^orange;Power Station^reset;. I'll need to keep it for a while but I'll pay top dollar for it.",
+    "value": "我需要^green;借^reset;一个^green;抵抗立场发生器^reset;来在环境恶劣的星球殖民。你可以在^orange;能源设备制造器^reset;里找到它。我要使用一段时间，但会付你钱。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Bring the ^orange;Atmosphere Regulator^reset; to the scientist at the ^orange;Science Outpost^reset;",
+    "value": "把^orange;抵抗立场发生器^reset;带给这名科学家。(位于^orange;科学前哨站^reset;)"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Excellent, and the one I ordered is already on the way. There we go. As promised, ^green;a ton of money.^green;",
+    "value": "斯巴拉西，我订购的那台已经在顺丰了。按照承诺，我会给你^green;超多的钱^green;。"
+  }
+]

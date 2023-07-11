@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Gorgolith [BOSS]",
+    "value": "异形·古格力斯 [BOSS]"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Rare, and horrifically deadly, the ^orange;Gorgolith^reset; prowl ^orange;Protoworlds^reset; looking for delicious prey. Find one and kill it.",
+    "value": "罕见，可怕且致命，^orange;异形·古格力斯^reset;徘徊于^orange;原体世界^reset;，寻找美味的猎物。找出一头，然后杀了它。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Bring the ^green;Gorgolith Tail^reset; to me at the ^orange;Science Outpost^reset;",
+    "value": "把^green;紫节鞭^reset;带给我。(位于^orange;科学前哨站^reset;)"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Few can say they have hunted and killed one of these. I salute your skill.",
+    "value": "哇，真令人震惊，你居然猎杀了它们其中之一，我很少听见有人能完成这个目标。"
+  }
+]

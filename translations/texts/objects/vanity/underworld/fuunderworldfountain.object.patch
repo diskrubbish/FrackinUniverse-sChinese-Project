@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cheery and uplifting",
+    "value": "能感觉到它喷得很兴起。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flesh Fountain",
+    "value": "血肉喷泉"
+  }
+]

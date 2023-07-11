@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A depiction of the Skath homeworld Norkumsgath.",
+    "value": "对绘世者家乡诺昆斯加特的描述。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Norkumsgath Hologram",
+    "value": "诺库姆斯加特全息图"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "So this is the Skath homeworld? I've never heard of any non-Skath being permitted to visit.",
+    "value": "这就是绘世者的家园？我从来没有听说过任何非绘世者被允许访问。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The Skath homeworld looks beautiful, and yet nothing like Avos.",
+    "value": "绘世者家园看起来很美，但一点也不像阿沃斯。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran seesss waterdragon planet. Lookss like fishface planet.",
+    "value": "叶族人发现了水龙星球。看起来像鱼脸星球。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. The Skath homeworld seems to be only 20% land, and one great ocean.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I hear no one's ever visited the Skath homeworld. No wonder, with all their orbital weapons.",
+    "value": "我听说没有人去过绘世者的家乡。难怪，他们的轨道武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The cradle of the Skath race... I feel homesick.",
+    "value": "绘世者种族的摇篮...我想家。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A display showin' the Skath world.",
+    "value": "展示绘世者世界的展览。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "Ah, Norkumsgath, the birthplace of my kind. A true jewel among worlds. The council has their headquarters there.",
+    "value": "啊，诺库姆斯加特，我的出生地。世界上真正的宝石。该委员会的总部设在那里。"
+  }
+]

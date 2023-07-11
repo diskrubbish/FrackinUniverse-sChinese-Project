@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "One of the greatest healing agents known anywhere.",
+    "value": "可以收获小碎花，食用后回复生命值。这是非常有效的治疗手段。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Floralyt Seed",
+    "value": "小碎花种子"
+  }
+]

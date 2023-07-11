@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Burning death for dinner.",
+    "value": "最后一顿燃烧的死亡晚餐。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Magma Table",
+    "value": "岩浆桌子"
+  }
+]

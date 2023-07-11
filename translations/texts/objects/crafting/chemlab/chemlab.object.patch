@@ -1,0 +1,122 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Play with chemicals. Endless fun.",
+    "value": "合理地使用化学来享受实验的乐趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Alchemy Table^reset;",
+    "value": "^orange;炼金台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "raw": "Experiment with chemicals.",
+    "value": "以实验作舟，游化合海洋。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Alchemy Table^reset;",
+    "value": "^orange;炼金台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^orange;Alchemy Table^reset;",
+    "value": " ^orange;炼金台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Experiment with chemicals.",
+    "value": " ^#dddddd;以实验作舟，游化合海洋。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "raw": "More advanced experiments. More kaboom.",
+    "value": "更多的实验。更多的欢乐。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Chemistry Lab^reset;",
+    "value": "^orange;化学操作台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^orange;Chemistry Lab^reset;",
+    "value": " ^orange;化学操作台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;More advanced experiments. More kaboom.",
+    "value": " ^#dddddd;更多实验，瞬间爆炸！。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "raw": "Superior chemistry and biology experiments.",
+    "value": "最棒的化学与生物的实验设备"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Bio-Chem Lab^reset;",
+    "value": "^orange;生化实验台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^orange;Bio-Chem Lab^reset;",
+    "value": " ^orange;生化试验台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Superior chemistry and biology experiments.",
+    "value": " ^#dddddd;高级的化学，生物的实验。"
+  }
+]

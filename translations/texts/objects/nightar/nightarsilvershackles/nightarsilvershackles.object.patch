@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stronger than they look. Fun for a night in.",
+    "value": "比看起来要结实。在晚上的时候很有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Silver Shackles",
+    "value": "银色枷锁"
+  }
+]

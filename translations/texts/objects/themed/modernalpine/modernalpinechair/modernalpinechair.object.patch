@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wooden chair with a stylish pattern on the cushion.",
+    "value": "坐垫上有时髦图案的木椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alpine Padded Chair",
+    "value": "阿尔卑斯软垫椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This chair has a small, patterned cushion.",
+    "value": "这把椅子有一个带图案的小靠垫。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A light, padded wooden chair.",
+    "value": "一把轻便的软垫木椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssseat has a fancy cushion.",
+    "value": "这个座位有一个漂亮的靠垫。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. This small chair is rather fashionable.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A light and cozy little chair.",
+    "value": "一把轻便舒适的小椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What a delight it must be, to sit around a table and eat in such a chair.",
+    "value": "围着桌子坐在这样一张椅子上吃东西一定是一件多么愉快的事啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fancy li'l seat.",
+    "value": "一个漂亮的座位。"
+  }
+]

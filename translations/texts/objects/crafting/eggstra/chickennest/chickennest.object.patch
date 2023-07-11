@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chicken nest.",
+    "value": "一个鸡窝。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chicken Nest",
+    "value": "鸡窝"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A nest for eggs.",
+    "value": "一个鸡窝，用来给母鸡下蛋。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A baby birdy home.",
+    "value": "一个雏鸟的家。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A box of tassssty.",
+    "value": "里面全是好吃的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Identify. Egg Nest.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An egg nest.",
+    "value": "一个下蛋的地方。"
+  }
+]

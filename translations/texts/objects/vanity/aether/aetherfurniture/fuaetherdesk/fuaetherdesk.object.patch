@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pretty study desk with room for storing supplies.",
+    "value": "一个漂亮的书桌，提供了一个存储日常用品的空间。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Desk",
+    "value": "以太书桌"
+  }
+]

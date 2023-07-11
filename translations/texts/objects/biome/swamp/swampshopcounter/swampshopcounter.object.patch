@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This shop stinks.",
+    "value": "这家店臭气熏天。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shop Counter, Swamp",
+    "value": "沼泽售货柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Froggs have a rather... unsettling presence, to say the least.",
+    "value": "至少可以说，蛙人们有一种相当令人不安的气场。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "How do you haggle with one who does not speak?",
+    "value": "你怎么和一个不说话的人讨价还价呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran approves of leafy sssales table.",
+    "value": "叶族人喜欢这张叶制售售售货台。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uneasy. I can never seem to tell what Frogg merchants are thinking.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Frogg's must be great at poker. No one can ever seem to tell what they're thinking!",
+    "value": "蛙人们一定很擅长打扑克。似乎没有人能猜出他们在想什么！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can appreciate a silent shopkeep. There ain't always a need for conversation.",
+    "value": "我能理解一个无声的店主。这意味着店主并不总是需要交谈。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A holy statue of Kluex.",
+    "value": "克鲁西斯的神圣雕像。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kluex Statue",
+    "value": "克鲁西斯雕像"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Interesting. A floating light source? What powers it?",
+    "value": "有意思。浮动光源？它的动力是什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Light Orb",
+    "value": "先驱夜明珠"
+  }
+]

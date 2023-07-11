@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A layer of crushed oystershells.",
+    "value": "一些破碎的牡蛎壳。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Oystershells",
+    "value": "牡蛎壳"
+  }
+]

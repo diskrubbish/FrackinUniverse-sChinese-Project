@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bookcase for storing flesh-bound hellish tomes.",
+    "value": "一个地狱般的书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Bookcase",
+    "value": "远古书柜"
+  }
+]

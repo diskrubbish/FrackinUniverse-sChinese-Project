@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A space station themed bunk bed.",
+    "value": "一张以空间站为主题的双层床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Station Bunk",
+    "value": "空间站"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A compact yet comfortable bunk bed.",
+    "value": "紧凑而舒适的双层床。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A bed made for a space station. It's surprisingly comfortable.",
+    "value": "为空间站做的床。它非常舒适。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Beds can be sstacked on top of one another.",
+    "value": "床可以叠在一起。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. For something made for compact convenience, this bed is actually rather comfortable.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Aw, it's like sleeping in a little box.",
+    "value": "哦，就像睡在一个小盒子里。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It's not the prettiest looking bed, but the design is rather ingenious.",
+    "value": "这不是最漂亮的床，但设计相当巧妙。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A bed made for stacking'.",
+    "value": "用来叠东西的床。"
+  }
+]

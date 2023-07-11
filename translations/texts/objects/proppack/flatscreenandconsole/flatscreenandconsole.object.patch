@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Grab a friend, kick up a seat, and turn on your good ol' Funtendo Entrainment Station!",
+    "value": "抓住一个朋友，踢出一个座位，打开你的好ol'Funtento夹带站！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flat Screen TV & Console",
+    "value": "平板电视和控制台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A vintage gaming console! How novel! Pity my hands are too big for the controllers...",
+    "value": "老式游戏机！多么新奇！可惜我的手对控制器来说太大了..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I've yet to see Kluex come up with anything as brilliant as the FES!",
+    "value": "我还没见过克鲁西斯能想出任何像FES那样出色的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran abssstain from gaming after throwing last controller in screen.",
+    "value": "叶族人在把最后一个控制器扔到屏幕上后就退出了游戏。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delighted. Is this one loaded with a copy of 'The Epic of Zaida'?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I hope this one doesn't come with a 3rd party controller...",
+    "value": "我希望这一款没有配备第三方控制器..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Hmph. I much prefer playing on a PC.",
+    "value": "嗯。我更喜欢在电脑上玩。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Got any point-'n-shooty games? Love me some point-'n-shooty games.",
+    "value": "有没有得分-射击游戏？爱我一些得分游戏。"
+  }
+]

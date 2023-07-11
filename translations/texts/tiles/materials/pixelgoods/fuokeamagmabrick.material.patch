@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bricks made out of magmastone and hellfire.",
+    "value": "使用岩浆石打造的地狱火砖块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hellfire Bricks",
+    "value": "地狱火砖块"
+  }
+]

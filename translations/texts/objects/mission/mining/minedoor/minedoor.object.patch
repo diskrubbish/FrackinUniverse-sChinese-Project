@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An industrial-looking metal door.",
+    "value": "一个工业品既视感的金属门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Miner's Door",
+    "value": "矿工门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This door could withstand a lot of firepower.",
+    "value": "这扇门可以承受很强的火力。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A robust metal door.",
+    "value": "一扇坚固的金属门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big metal door looks imposssible to penetrate.",
+    "value": "大金属门看起来无无无法穿透。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. A door made with tough metal.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A sturdy door of human origin.",
+    "value": "一扇人类复古式的坚固铁门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An ugly door designed with function in mind.",
+    "value": "一扇随意设计的丑陋功能门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This door means business.",
+    "value": "这扇门意味着商机。"
+  }
+]

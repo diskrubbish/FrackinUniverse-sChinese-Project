@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Dark. The Master shall not be disturbed!",
+    "value": "邪恶。不要打扰主人！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "raw": "Confident. You cannot withstand our power!",
+    "value": "自信。你无法对抗我们的力量！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "raw": "Fanatical. The tower is invincible!",
+    "value": "自满。这是不可战胜的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/3",
+    "raw": "Enraged. Death to intruders!",
+    "value": "愤怒。入侵者，死来！"
+  }
+]

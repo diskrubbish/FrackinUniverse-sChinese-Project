@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A banner patterned with little fish.",
+    "value": "有小鱼图案的横幅。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sushi Bar Banner",
+    "value": "寿司吧横幅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A rather attractive looking banner. I imagine it means fish is served nearby.",
+    "value": "一个相当漂亮的横幅。我想这意味着附近有鱼供应。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A well woven banner flapping in the wind.",
+    "value": "织得很好的横幅在风中飘扬。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Flappy little banner.",
+    "value": "飘扬的小横幅。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disinterested. A woven banner that's patterned with fish.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Would you put this kind of banner near a seafood joint? Or near a fisherman's hut?",
+    "value": "你能把这种横幅放在海鲜店附近吗？还是在渔夫小屋附近？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The fish embroidered on this banner appear to be swimming in the breeze.",
+    "value": "绣在横幅上的鱼似乎在微风中游动。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A banner sporting' a bunch of l'il fishies.",
+    "value": "一条横幅上写着“一群伊尔鱼”。"
+  }
+]

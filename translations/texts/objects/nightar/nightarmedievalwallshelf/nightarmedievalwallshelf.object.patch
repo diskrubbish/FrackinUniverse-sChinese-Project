@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wooden wall shelf for displaying trinkets.",
+    "value": "陈列小装饰品的木制壁橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medieval Wall Shelf",
+    "value": "中世纪壁架"
+  }
+]

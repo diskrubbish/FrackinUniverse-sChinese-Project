@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "One of these books looks out of place... I wonder...",
+    "value": "其中一本书看起来不合适...我想知道..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medieval Bookcase Switch",
+    "value": "中世纪书架开关"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some of these books don't look quite right.",
+    "value": "这些书中有些看起来不太对劲。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A dusty old home for books. Some of them don't look real...",
+    "value": "一个尘土飞扬的老书屋。有些看起来不是真的..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Old and dusssty books. Those oness look sstrange.",
+    "value": "旧书和枯燥无味的书。那些女人看起来很古怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Suspicious. Some of the books appear to be placed strangely.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I wonder how old some of these books are. Those ones aren't the same as the others...",
+    "value": "我想知道这些书有多少年了。那些和其他的不一样..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There's definitely something strange about this bookcase.",
+    "value": "这个书架肯定有点奇怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I got a hunch there's somethin up with these books!",
+    "value": "我有预感这些书一定有问题！"
+  }
+]

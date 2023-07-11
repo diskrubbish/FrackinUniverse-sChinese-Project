@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some hideous creature rises from the sea, largely unseen. Its scale must be enormous.",
+    "value": "某种可怕的生物从海里升起，不可名状。遮天蔽日。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cthulhu Rising",
+    "value": "克苏鲁苏醒"
+  }
+]

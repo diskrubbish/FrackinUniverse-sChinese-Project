@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A basket of poinsettia flowers. Festive!",
+    "value": "一篮一品红花。节日快乐！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poinsettia Basket",
+    "value": "一品红篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What gorgeous red petals!",
+    "value": "多么美丽的红色花瓣！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Tempting though they may be, these flowers aren't meant to be consumed.",
+    "value": "尽管这些花可能很诱人，但它们不是用来消费的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Flowers are blood red. Like Floran's enemies. Hehe.",
+    "value": "花是血液红的。就像叶族人的敌人。呵呵。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Jolly. These flowers are putting me in a festive spirit.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "For winter flowers, they sure are vibrant!",
+    "value": "对于冬天的花朵来说，它们确实充满活力！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Poinsettias are the Hylotl flower of good cheer and success.",
+    "value": "一品红是快乐和成功的鲛人花。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These here flowers are fiery red and shaped like stars.",
+    "value": "这些花是火红的，形状像星星。"
+  }
+]

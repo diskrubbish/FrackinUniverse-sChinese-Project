@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A support made of tethyde alloy.",
+    "value": "以韧影合金支撑的支撑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tethyde Support",
+    "value": "韧影合金合金承重"
+  }
+]

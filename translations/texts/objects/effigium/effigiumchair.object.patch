@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chair that seems to fade in and out of existence.",
+    "value": "这把椅子似乎在逐渐消失。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Effigium Chair",
+    "value": "幻影椅子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A very simple chair.",
+    "value": "一个非常简单的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A fancy but slightly invisible chair. At least it has a pillow.",
+    "value": "一把别致但有点看不见的椅子。至少它有一个枕头。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pillow isss nice.",
+    "value": "不错错的枕头。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. This seems comfortable.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I couldn't sit here long, it disappears for no reason.",
+    "value": "我不能在这里坐太久，它无缘无故就消失了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This chair looks bearable to sit on, although it fades away easily.",
+    "value": "这把椅子看起来还可以，尽管它很容易消失。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'm a fan of more simple furniture.",
+    "value": "我更喜欢简单的家具。"
+  }
+]

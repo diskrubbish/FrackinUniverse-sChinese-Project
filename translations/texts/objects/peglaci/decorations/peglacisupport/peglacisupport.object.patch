@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wall support made of an advanced alloy.",
+    "value": "由高级合金制成的墙支架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Support",
+    "value": "合金支撑"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'm sure these supports are decorative - the walls don't look like they need shoring.",
+    "value": "我确信这些支架是装饰性的——墙壁看起来不需要支撑。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Some of these supports are so intricate - the Peglaci must love their architecture.",
+    "value": "其中一些支架非常复杂——羊蹄族一定很喜欢他们的建筑。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Looksss like plantsss. Floran like.",
+    "value": "看起来像植物。叶族人喜欢。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. Combines load bearing capacity with aesthetics.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Well, I doubt these walls need support, but they sure look pretty.",
+    "value": "嗯，我怀疑这些墙需要支撑，但它们看起来确实很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Why bother buttressing a wall that won't fall down?",
+    "value": "为什么要费心支撑一堵不会倒塌的墙呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A support like this is probably over-cautious, but better safe than sorry.",
+    "value": "像这样的支持可能过于谨慎，但安全总比遗憾好。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's some oranges.",
+    "value": "是一些桔子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Orange Basket",
+    "value": "橘子篮子"
+  }
+]

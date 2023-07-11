@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^green;The Sky Boulevard",
+    "value": "^green;天路"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "The map gives me directions to one of the greatest Avian sacred sites, the Sky Boulevard. I ought to be extremely well-prepared before attempting any tomb raiding.",
+    "value": "这张地图可以让我通往天路，那是翼族最伟大的圣地之一。在进入之前，我得好好准备准备。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Ascend to the heavens of the Sky Boulevard.",
+    "value": "进入天路。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "The view from up here is grandiose and inspiring! Did I manage to discover all the secrets this place holds?",
+    "value": "我无法相信我眼前的这一切！这里是多么的宏伟！我应该好好探索探索。"
+  }
+]

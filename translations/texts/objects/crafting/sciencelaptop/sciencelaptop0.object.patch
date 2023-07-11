@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bulky and simple computer which slowly researches items.\n^cyan;Research Rate^reset;: 5%, 10s",
+    "value": "笨重且简单的计算机，可以缓慢地分析物品。\n^cyan;研究效率^reset;: 5%, 10s。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Basic Computer",
+    "value": "基础计算机"
+  }
+]

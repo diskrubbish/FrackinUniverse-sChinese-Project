@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A teency, tiny little distortionsphere.",
+    "value": "这是变形球的微型版。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Microsphere^reset;",
+    "value": "^#77acc3;微型变形球^reset;"
+  }
+]

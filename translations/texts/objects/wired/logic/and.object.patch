@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An /'AND'/ gate. Requires all inputs to be /'on'/ to work.",
+    "value": "一个与门。需要接入所有输入节点才能激活/ON/。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "An /'AND'/ gate. Requiresss all inputsss to be /'on'/ to work.",
+    "value": "一个与门。需要接入所有输入入入节点才能激活/ON/。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. An /'AND'/ gate. Requires all inputs to be /'on'/ to work.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "AND Gate",
+    "value": "与门"
+  }
+]

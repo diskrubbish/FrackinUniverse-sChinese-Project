@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chitin nightstand.",
+    "value": "一个几丁质床头柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Nightstand",
+    "value": "蚁族床头柜"
+  }
+]

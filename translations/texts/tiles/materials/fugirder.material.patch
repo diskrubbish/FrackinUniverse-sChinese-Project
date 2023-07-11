@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy looking metal girder.",
+    "value": "一个看起来很坚固的金属横梁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloped Girder",
+    "value": "斜梁"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This reinforced metal girder is very strong.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cold metal girdersss.",
+    "value": "冰冷的金属梁。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A strong lookin' metal girder.",
+    "value": "一个看起来很强力的金属梁。"
+  }
+]

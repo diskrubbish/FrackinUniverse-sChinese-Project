@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/definition/text",
+    "raw": "^shadow;Stunned",
+    "value": "^shadow;无法动弹"
+  }
+]

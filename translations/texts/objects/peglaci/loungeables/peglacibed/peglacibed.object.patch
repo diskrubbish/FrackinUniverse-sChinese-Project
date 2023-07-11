@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bed recessed in a back wall to take up less space.",
+    "value": "一种凹进后墙以减少空间的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Wall Bed",
+    "value": "合金壁床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I don't like this bed - reminds me too much of the cots in the prison camps...",
+    "value": "我不喜欢这张床-让我想起了监狱里的床..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Makes me feel a little bit claustrophobic. Could stand to be a bit bigger.",
+    "value": "让我觉得有点幽闭恐怖。可以再大一点。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssleeping sssafe and tucked into a corner.",
+    "value": "安全地躺在角落里。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A recessed bed. Very space efficient.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I guess it saves space, but it's pretty tight in here.",
+    "value": "我想这样可以节省空间，但这里很紧。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Far too constrained - who would want to sleep in such a small space?",
+    "value": "太拘束了——谁会想在这么小的空间里睡觉？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A space saving bunk bed.",
+    "value": "节省空间的双层床。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "Peglaci tend to like sleeping in small spaces. Is it some sort of racial memory? Or just cultural appreciation for space efficiency?",
+    "value": "企鹅族喜欢睡在狭小的空间里。这是某种种族记忆吗？还是仅仅是对空间效率的文化欣赏？"
+  }
+]

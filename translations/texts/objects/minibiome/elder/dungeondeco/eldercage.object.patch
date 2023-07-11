@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An ancient cage used for unfathomable purpose.",
+    "value": "一个用途难以理解的古老笼子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Torture Cage^reset;",
+    "value": "^orange;拷问笼^reset;"
+  }
+]

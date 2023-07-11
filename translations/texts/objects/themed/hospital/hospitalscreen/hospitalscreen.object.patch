@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A plastic curtain, used for separating different beds in a hospital ward.",
+    "value": "一种塑料窗帘，用于分隔医院病房中的不同床位。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hospital Screen",
+    "value": "医院屏幕"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Even these plastic curtains provide more privacy than the Apex sort.",
+    "value": "甚至这些塑料窗帘也比猿族窗帘提供了更多的隐私。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A screen for separating patients' beds.",
+    "value": "分隔病人病床的屏幕。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can use screen to ssneak up on injured prey.",
+    "value": "叶族人可以用屏幕来清理受伤的猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Worried. These screens are to prevent the spreading of disease, but I don't think they can protect against airborne ones...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A hospital screen. For privacy!",
+    "value": "医院的屏幕。为了隐私！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A screen found in hospital wards.",
+    "value": "医院病房里发现的屏幕。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Screens for givin' patients some privacy.",
+    "value": "为病人提供一些隐私的屏幕。"
+  }
+]

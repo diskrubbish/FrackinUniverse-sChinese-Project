@@ -1,0 +1,206 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ship-based Artificial Intelligence Lattice, or S.A.I.L for short.",
+    "value": "舰载人工智能模块，简称S.A.I.L。\n^#B8860B;可在飞船用家具定制台调整种族风格^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "S.A.I.L",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "My friend.",
+    "value": "我的朋友。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I can talk to SAIL through this console.",
+    "value": "我能通过这个面板和SAIL进行交流。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I can use this station to talk to SAIL.",
+    "value": "我能使用这个设备和SAIL交谈。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likesss sssquishy SAIL!",
+    "value": "叶族人喜欢软软的帆！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. This station allows me to talk to SAIL.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Whatever this is, i'm not touching it. It seems like it's a SAIL console though.",
+    "value": "不管这是什么，我都不碰它。它看起来像是一个帆控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This console allows me to communicate with SAIL.",
+    "value": "这个设备能允许我和SAIL交流。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This here station lets me talk with SAIL.",
+    "value": "这儿的操作面板能让我跟SAIL说话。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/0/0",
+    "raw": "I'm alive!",
+    "value": "我还活着！"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/0/1",
+    "raw": "/ai/portraits/slimepersonportrait.png:blink",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/1/0",
+    "raw": "Hello symbiote. I'm SAIL. I operate this ship.",
+    "value": "你好，symbiote。我是SAIL。我操控着这艘船。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/1/1",
+    "raw": "/ai/portraits/slimepersonportrait.png:talk.0",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/2/0",
+    "raw": "I'm sure we'll be great friends.",
+    "value": "我相信我们会成为好朋友的。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/2/1",
+    "raw": "/ai/portraits/slimepersonportrait.png:talk.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/3/0",
+    "raw": "If you don't die first, I guess.",
+    "value": "如果你不先死，我想。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/3/1",
+    "raw": "/ai/portraits/slimepersonportrait.png:talk.0",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/4/0",
+    "raw": "What was that thing that attacked Earth? It looked like nothing in my databanks.",
+    "value": "那个袭击地球的东西是什么？我的数据库里什么都没有。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/4/1",
+    "raw": "/ai/portraits/slimepersonportrait.png:talk.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/5/0",
+    "raw": "At least we're still in one piece. I'm not sure where we are, though.",
+    "value": "至少我们还完好无损。不过，我不确定我们在哪里。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakeUp/5/1",
+    "raw": "/ai/portraits/slimepersonportrait.png:talk.0",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/0/0",
+    "raw": "I'm down, please help.",
+    "value": "我情绪低落，请帮帮我。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/0/1",
+    "raw": "/ai/portraits/slimepersonportrait.png:unique.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/1/0",
+    "raw": "I'm not working right, reboot me.",
+    "value": "我工作不正常，重新启动我。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/1/1",
+    "raw": "/ai/portraits/slimepersonportrait.png:unique.1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/2/0",
+    "raw": "Boot me up, I'm offline.",
+    "value": "启动我，我离线了。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/2/1",
+    "raw": "/ai/portraits/slimepersonportrait.png:unique.3",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/3/0",
+    "raw": "Help me, I'm broken.",
+    "value": "帮帮我，我受伤了。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/3/1",
+    "raw": "/ai/portraits/slimepersonportrait.png:unique.2",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/4/0",
+    "raw": "Are you there?",
+    "value": "你在吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/4/1",
+    "raw": "/ai/portraits/slimepersonportrait.png:unique.3",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/5/0",
+    "raw": "I'm so sleepy.",
+    "value": "我太困了。"
+  },
+  {
+    "op": "replace",
+    "path": "/dialog/wakePlayer/5/1",
+    "raw": "/ai/portraits/slimepersonportrait.png:unique.2",
+    "value": ""
+  }
+]

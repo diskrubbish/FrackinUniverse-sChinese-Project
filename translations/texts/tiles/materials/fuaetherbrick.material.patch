@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crafted bricks made from hardened aether stone.",
+    "value": "由硬化以太石精心制成的砖块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Bricks",
+    "value": "以太砖块"
+  }
+]

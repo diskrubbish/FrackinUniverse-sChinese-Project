@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute fluffy couch for two people.",
+    "value": "一个可爱的双人沙发，毛绒绒的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Couch",
+    "value": "可爱的长沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This looks super comfortable.",
+    "value": "看起来超级舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I could sit content here for all eternity.",
+    "value": "一个让人心满意足的地方。我可以永远地坐在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssoft.",
+    "value": "真真真柔软。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amazed. Such softness.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A couch I can stretch out on and sink into.",
+    "value": "一个长沙发，我可以把它当成自己的睡窝。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such comfort. I am able to achieve instant calm.",
+    "value": "如此的舒服。我现在可以立刻静下心来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "There's such a thing as too soft.",
+    "value": "这家伙也太柔软了吧。"
+  }
+]

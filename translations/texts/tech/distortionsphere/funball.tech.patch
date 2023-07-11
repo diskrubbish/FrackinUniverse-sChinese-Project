@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nearly useless Sphere ^green;[F]^reset;, but fun!",
+    "value": "基本上没啥卵用，但是很有趣！^green;[F]^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Oddball Sphere",
+    "value": "古怪球"
+  }
+]

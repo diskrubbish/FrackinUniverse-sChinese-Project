@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The bottom of a Snowmantizi.",
+    "value": "甲虫雪人的底部。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Snowbottom",
+    "value": "甲虫雪人底座"
+  }
+]

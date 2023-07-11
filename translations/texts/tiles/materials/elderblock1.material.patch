@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cozy, in that malign sort of way.",
+    "value": "舒适，但是看起来很邪恶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Temple Wall",
+    "value": "远古殿墙"
+  }
+]

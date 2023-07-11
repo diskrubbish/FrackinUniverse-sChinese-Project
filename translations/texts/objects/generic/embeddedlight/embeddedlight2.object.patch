@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A floating, nearly-invisible light.",
+    "value": "一种漂浮的、几乎看不见的光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hidden Light",
+    "value": "隐秘光"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A hidden light, floating in the air.",
+    "value": "一盏隐藏的灯，漂浮在空中。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I prefer the glow of avolite crystals, myself.",
+    "value": "我自己更喜欢阿沃斯水晶的光泽。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssecret light!",
+    "value": "秘密之光！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A hidden light which floats in the air.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Can't see anything here, but it sure is bright!",
+    "value": "这里什么也看不见，但它确实很明亮！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I appreciate the subtlety of this light source, though I do wish its light was a little more natural.",
+    "value": "我欣赏这种光源的微妙之处，尽管我真希望它的光线更自然一点。"
+  }
+]

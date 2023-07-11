@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The bright, proud logo of the Terrene Protectorate.",
+    "value": "明亮，骄傲的大地保护团标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protectorate Logo",
+    "value": "大地守护团标志"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Bold as ever...",
+    "value": "还是那么无畏..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The \"wings\" on the sides of the Protectorate logo are rather inspiring to me.",
+    "value": "大地守护团标志两侧的“翅膀”对我来说相当的鼓舞人心。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big Protectorate icon.",
+    "value": "大号的大地守护团团标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Proud. I'm honored to be a part of this organization, truly.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I promise... I won't let your legacy end here.",
+    "value": "我保证...我不会让你的遗志就此终结。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Protectorate stands strong today in spirits, if nothing else.",
+    "value": "大地守护团依然伫立在我心间，如果没发生这一切的话。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The mighty Terrane Protectorate... My hat's off to ya.",
+    "value": "伟大的的大地保护团...我向你致敬。"
+  }
+]

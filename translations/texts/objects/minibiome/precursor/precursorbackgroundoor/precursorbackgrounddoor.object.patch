@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Precursor teleporter door. Whatever lurks behind it is unknowable.\n^blue;Input 1^reset;: Lock\n^blue;Input 2^reset;/^red;Output^reset;: Door connections",
+    "value": "一扇先驱传送门。不管后面潜伏着什么，它永远都在视野之外。\n^blue;输入1^reset;: 锁\n^blue;输入2^reset;/^red;输出^reset;: 门的接点"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Background Door",
+    "value": "先驱背景门"
+  }
+]

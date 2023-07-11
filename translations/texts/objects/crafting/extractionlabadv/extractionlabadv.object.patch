@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Efficiently extracts useful materials from most blocks. ^cyan;Requires ^orange;30J^cyan; per extraction.^reset; Can be placed on floors -or- ceilings.",
+    "value": "可从绝大多数块中高效地提取出有用的材料。\n^cyan;每次萃取需要^orange;30J^reset;电力\n可以放置在地板或天花板上。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Extraction Lab MKII^reset;",
+    "value": "^cyan;物质萃取器 MKII^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Resource converter",
+    "value": "资源转换"
+  }
+]

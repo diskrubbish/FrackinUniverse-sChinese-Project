@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A vaguely sweet smelling cabinet filled with medicine.",
+    "value": "一个有着隐约甜味的装满药的柜子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medicine Cabinet",
+    "value": "药柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The doctor here is very well stocked on remedies.",
+    "value": "这里的医生备有很多药方。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An impressive collection of all sorts of balms and ointments.",
+    "value": "令人印象深刻的各种香膏和药膏的集合。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmells like doctor's office.",
+    "value": "闻起来像是医生的办公室。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. Many of the medicines in here appear to be homemade.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Slightly more well stocked than the average wall mounted bathroom cabinet.",
+    "value": "比一般的壁挂式浴室柜稍多一些。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This doctor here is certainly prepared for just about anything.",
+    "value": "这里的这位医生对任何事情都做好了准备。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "More than just bandages here, that's for sure.",
+    "value": "当然不仅仅是绷带。"
+  }
+]

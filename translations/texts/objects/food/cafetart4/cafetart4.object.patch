@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sweet tart, enough for one.",
+    "value": "一个甜馅饼，一个就够了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tart",
+    "value": "尖酸的"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Little sweet is so sssmall...",
+    "value": "小甜心太小了..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. An adorable little tart.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A flaky li'l pastry.",
+    "value": "一种薄薄的小糕点。"
+  }
+]

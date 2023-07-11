@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A turn-in item for a quest!",
+    "value": "任务的目标！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Turn in the quest!",
+    "value": "任务目标！"
+  }
+]

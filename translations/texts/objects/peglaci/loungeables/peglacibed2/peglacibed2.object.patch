@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A force-field generator that holds the user floating restfully in the air.",
+    "value": "一种力场发生器，可使使用者在空中静止漂浮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Force-field Bed",
+    "value": "合金力场床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "How unusual! The sensation is not uncomfortable, but it's sort of unnerving.",
+    "value": "真不寻常！这种感觉不是不舒服，但有点让人不安。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's like floating in the air...",
+    "value": "就像漂浮在空气中..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "How isss Floran in the air!? Like a cloud!",
+    "value": "叶族人在空中怎么样！？像一朵云！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. Curious to see such technology put to mundane use.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Now THIS is what I call luxury - it supports in all the right places!",
+    "value": "现在这就是我所说的奢侈品——它支持所有正确的地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Seems unnecessarily complicated for as simple a process as sleep.",
+    "value": "对于像睡眠这样简单的过程来说似乎不必要的复杂。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A force field for a bed? Kind of looks like a genetics modifier to me...",
+    "value": "床的力场？对我来说，这看起来像是一种遗传修饰..."
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A smart force-field generator that cradles the user as they sleep and monitors their body temperature and status.",
+    "value": "智能力场发生器，可在用户睡觉时摇篮，并监控其体温和状态。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A teency, tiny little distortionsphere. With a bomb in it.",
+    "value": "这是炸弹球的微型版。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Bomb Microsphere^reset;",
+    "value": "^#77acc3;微型炸弹球^reset;"
+  }
+]

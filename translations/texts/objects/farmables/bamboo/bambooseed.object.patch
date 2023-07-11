@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's bamboo. Makes for some nice furniture.",
+    "value": "可以收获竹子，那是非常不错的家具制作材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Micro-Bamboo",
+    "value": "竹笋"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Bamboo.",
+    "value": "竹子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Bamboo.",
+    "value": "竹子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssharp sssticksss for ssstabbing.",
+    "value": "可以制作锋利利利的刺。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Bamboo.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Fresh Bamboo.",
+    "value": "新鲜的竹子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Delicious Bamboo.",
+    "value": "可口的竹子。"
+  }
+]

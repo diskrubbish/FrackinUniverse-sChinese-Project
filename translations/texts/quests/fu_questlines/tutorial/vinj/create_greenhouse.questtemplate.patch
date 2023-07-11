@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Greenhouse",
+    "value": "温室"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "With a ^orange;Greenhouse^reset; in your home you can craft all sorts of plants that bestow ^green;fantastic buffs and abilities^reset; to make your life easier. Build a ^orange;Greenhouse^orange; now. You'll need to ^orange;Research^reset; into ^orange;Agriculture^reset;.",
+    "value": "有了居家^orange;温室^reset;，你就可以创造各种各样有着^green;梦幻般加成与能力^reset;的植物，来让你的生活更轻松。开始建造^orange;温室^orange;吧。请记得把^orange;研究^reset;推进到^orange;农业^reset;领域。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Bring the ^green;Armorworks^reset; to me at the ^orange;Science Outpost^reset;",
+    "value": "把^green;军备作坊^reset;带给我。(位于^orange;科学前哨站^reset;)"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Don't forget that certain plants are ^green;almost essential^reset; for a viable gene-research laboratory. At the very least, you'll want ^orange;Mutavisk Seeds^reset; and ^orange;Bracken Tree Seeds^reset; for the resources they produce.",
+    "value": "不要忘记，某些植物对于维持基因研究实验室是^green;必不可少的^reset;。至少，你会用到^orange;飞螳种子^reset;和^orange;蕨树种子^reset;，因为这些植物产生的资源很有用处。"
+  }
+]

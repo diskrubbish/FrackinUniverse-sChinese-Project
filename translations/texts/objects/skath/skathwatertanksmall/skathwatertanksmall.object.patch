@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A portable tank filled with water.",
+    "value": "装满水的便携式水箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Small Water Tank",
+    "value": "绘世者小水箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It seems to be a portable water tank.",
+    "value": "好像是个便携式的水水箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This tank looks small enough to be carried around.",
+    "value": "这个水箱看起来小得可以随身携带。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran thirsssty. Takesss little tank with Floran!",
+    "value": "叶族人饥渴极了。带上叶族人的小水箱！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Reflective. Water is the source of all life.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Amazing, a high-tech cup of water! Isn't technology great?.",
+    "value": "太棒了，一杯高科技的水！科技不是很棒吗？。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Skath rely just as much on water as we do.",
+    "value": "绘世者一族和我们一样依赖水。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A big, square water flask.",
+    "value": "一个大的方形水烧瓶。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "This tank is made very light to be carried around with water. Adventurers and soldiers alike rely greatly on them.",
+    "value": "这个水箱很轻，可以用水运来运去。冒险家和士兵都非常依赖他们。"
+  }
+]

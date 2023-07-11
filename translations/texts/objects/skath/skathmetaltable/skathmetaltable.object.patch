@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy and heavy table.",
+    "value": "结实而沉重的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Metal Table",
+    "value": "绘世者金属桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This table looks extremely sturdy, suitable for intensive work.",
+    "value": "这张桌子看起来非常坚固，适合密集工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the tables we use in our tombs.",
+    "value": "这让我想起了我们在坟墓里使用的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran triesss to lift table. Table too heavy. Floran disssappointed.",
+    "value": "叶族人试图举起桌子。桌子太重了。叶族人说。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A heavy, basic table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The sort of table you can't flip over. Good for a game of cards.",
+    "value": "那种你不能翻倒的桌子。很适合玩纸牌游戏。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There are deep scratches on this table. It appears to be used for working.",
+    "value": "这张桌子上有深深的划痕。它似乎是用来工作的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some sturdy lookin table.",
+    "value": "一些结实的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "These tables are made to be suitable workstations, when needed.",
+    "value": "必要时，将这些表格制作成合适的工作站。"
+  }
+]

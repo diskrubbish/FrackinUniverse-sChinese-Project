@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strange veins course through this stone.",
+    "value": "奇怪的血脉附着在这石头上。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bloodvein Block",
+    "value": "血管块"
+  }
+]

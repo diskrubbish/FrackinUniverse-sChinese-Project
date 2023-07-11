@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The utmost in comfort and efficiency of design for long journeys.",
+    "value": "以最大限度的舒适性和效率的设计长途旅行。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Captain's Chair",
+    "value": "船长椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Quite oddly designed, and not exactly comfortable. What are all these probes for?",
+    "value": "设计很奇怪，也不太舒服。这些探针都是干什么用的？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A Peglaci control chair. Looks very advanced, and somewhat comfortable.",
+    "value": "企鹅族控制椅。看起来很高级，有点舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Chair takesss hunger away with no foodsss!",
+    "value": "没有食物，椅子可以带走饥饿！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This chair provides nourishment and medical care for long journeys.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Funky chair! It looks like it has some sort of life-support built in.",
+    "value": "时髦的椅子！看起来它内置了某种生命支持系统。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A command chair with built-in life support systems. Quite elegant.",
+    "value": "带有内置生命支持系统的指挥椅。相当优雅。"
+  }
+]

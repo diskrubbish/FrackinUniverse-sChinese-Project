@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ribbon cables. I wonder where they go...",
+    "value": "带状电缆。不知道该放在哪里......"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ribbon Cables",
+    "value": "带状电缆"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disturbed. These resemble Glitch innards.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wiresss! Floran wondersss if they tassste like licorice.",
+    "value": "电线！叶族人好好好奇它们尝尝起来像不像甘草。"
+  }
+]

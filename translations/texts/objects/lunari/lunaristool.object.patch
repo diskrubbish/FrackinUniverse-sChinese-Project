@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stool made from lunari.",
+    "value": "月晶做的凳子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Stool",
+    "value": "月晶凳子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An extremely bright stool.",
+    "value": "非常明亮的凳子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the sun.",
+    "value": "这让我想起了太阳。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssunssshine ssstool!",
+    "value": "闪光凳子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uncomfortable. This stool almost fries my optics.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This stool is like a star!",
+    "value": "这个凳子像一颗星星！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This stool almost reminds me of the sun.",
+    "value": "这个凳子几乎让我想起了太阳。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This stool is brighter than me!",
+    "value": "这个凳子比我耀眼！"
+  }
+]

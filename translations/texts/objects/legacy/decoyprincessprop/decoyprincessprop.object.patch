@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ideal bait for a Bone Dragon. Good thing those don't exist.",
+    "value": "骨龙的理想诱饵。幸好那些不存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Decoy Princess",
+    "value": "假公主"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This fake princess will serve as bait.",
+    "value": "这个假公主将作为诱饵。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A cunning bait and switch.",
+    "value": "狡猾的诱饵和开关。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssstab any beast that take princess!",
+    "value": "叶族人：杀死任何带走公主的野兽！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Proud. A cunning plan, this decoy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This decoy will help me lure out a terrifying beast.",
+    "value": "这个诱饵会帮我诱出一头可怕的野兽。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Perhaps luring a creature to me is ill-advised, but here goes.",
+    "value": "也许引诱一个生物到我这里来是不明智的，但事情是这样的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "She ain't no damsel tied to train tracks, but I bet it'll attract a varmint all the same.",
+    "value": "她不是一个被束缚在火车轨道上的女孩，但我打赌它仍然会吸引一个女人。"
+  }
+]

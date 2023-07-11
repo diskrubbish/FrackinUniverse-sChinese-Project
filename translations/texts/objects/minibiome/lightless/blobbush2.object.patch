@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Well, that's repulsive looking.",
+    "value": "好吧，那看起来相当令人反感。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pustule Growth",
+    "value": "增长的脓疱"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A ceiling mounted lamp made from flesh and organs.",
+    "value": "用血肉和器官制成的吊灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Atropus Ceiling Lamp",
+    "value": "肉源吊灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some sort of vile looking lamp.",
+    "value": "某种看起来很恶心的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This makes me want to vomit.",
+    "value": "这让我想吐。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Not lamp! Isss food!",
+    "value": "这不是灯！是是是好吃的！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This lamp makes my circuits shake.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This lamp makes me feel sick! It's looking at me.",
+    "value": "这灯搞得我好糟心！它在看着我。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This is simply disgusting.",
+    "value": "这简直太恶心了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "There ain't no way I'm usin' this.",
+    "value": "我不会用这个的。"
+  }
+]

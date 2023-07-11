@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A slope for a Hylotl spaceship.",
+    "value": "鲛人飞船的斜坡。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hylotl Double slope section",
+    "value": "鲛人飞船双坡段"
+  }
+]

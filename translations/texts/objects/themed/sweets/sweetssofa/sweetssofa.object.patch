@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A surprisingly cushy biscuit. Comes with whipped cream and strawberry garnish!",
+    "value": "令人惊讶的轻松饼干。搭配鲜奶油和草莓装饰！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sweets Sofa",
+    "value": "糖果沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This seat is comfortable and the smell is divine, but won't it eventually go bad?",
+    "value": "这个座位很舒服，气味很好，但它最终会变坏吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'd rather have at the biscuit than the rest of this couch.",
+    "value": "我宁愿吃饼干也不愿吃沙发上的其他东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran's leaves will get sssticky if they sssit here!",
+    "value": "如果叶族人的叶子在这里会粘的！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. The last thing I need is to get frosting in my wiring.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This couch comes with its own toppings!",
+    "value": "这沙发有自己的配料！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An unconscionable amount of resources were wasted to make this tooth-rotting mess.",
+    "value": "浪费了不合理的资源，把这颗蛀牙弄得一团糟。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't this a bit much?",
+    "value": "这不是有点过分吗？"
+  }
+]

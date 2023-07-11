@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I postulate that whoever built this place had an advanced culture.",
+    "value": "或许建造这里的人有着非常高的文明？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Carvings",
+    "value": "古代雕刻"
+  }
+]

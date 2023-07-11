@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Grass of Life",
+    "value": "生命之草"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I am in need of 3 ^orange;Miracle Grass^reset; seeds to try a new regeneration experiment. You'll find them at your ^orange;Gene Design Lab^reset;. Can you fetch me some?",
+    "value": "我迫切需要3个^green;奇迹草种子^reset;来做一个全新的再生试验。你可以在^orange;基因设计实验室^reset;制作，能给我一些吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Bring the 3 ^orange;Miracle Grass Seeds^reset; to the scientist at the ^orange;Science Outpost^reset;",
+    "value": "把3份^orange;奇迹草种子^reset;带给这名科学家。(位于^orange;科学前哨站^reset;)"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Thanks, now I can complete this research project and wow the investors! ^green;I'll send replacement seeds^reset; later.",
+    "value": "谢谢，现在我可以继续进行我研究了，等着让投资人为我惊呼吧！之后^green;我会送给你备用种子^reset;。"
+  }
+]

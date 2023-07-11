@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Accepts fuel for the ship's FTL dive.",
+    "value": "接受飞船FTL行驶所需的燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "FTL Fuel Hatch",
+    "value": "FTL引擎燃料仓"
+  }
+]

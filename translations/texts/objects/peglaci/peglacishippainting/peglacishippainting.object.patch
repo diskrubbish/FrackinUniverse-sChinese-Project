@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A painting of a Peglaci Peacekeeper ship, sailing through the cosmos.",
+    "value": "一幅羊蹄族飞船穿越宇宙的图画。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peacekeeper Ship Painting",
+    "value": "和平卫士船彩绘"
+  }
+]

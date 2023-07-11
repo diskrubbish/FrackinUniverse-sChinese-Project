@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sleek and durable roof.",
+    "value": "光滑耐用的屋顶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metal Shingle",
+    "value": "金属瓦片"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty fancy roof tile.",
+    "value": "一种非凡的花式屋顶瓦片。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A prim and proper bedroom dresser. Its contents are likely as equally well kept.",
+    "value": "一本正经的卧室梳妆台。它的内容可能也同样保存完好。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pristine Dresser",
+    "value": "朴素的梳妆台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Charming and spacious.",
+    "value": "迷人而宽敞。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This dresser is surprisingly heavy. I suppose that speaks to it's quality.",
+    "value": "这个梳妆台特别重。我想这说明了它的质量不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Iss white dresser.",
+    "value": "白色梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Careful. I must be careful not to scuff up this dresser.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's a pretty nice dresser. Bet it's expensive too.",
+    "value": "这是一个相当不错的梳妆台。我打赌它也很贵。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A dresser this well made should be extensively maintained throughout the years.",
+    "value": "这种制作精良的梳妆台应该常年广泛保养。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A spiffy lookin' dresser, I guess.",
+    "value": "我猜是个漂亮的梳妆台。"
+  }
+]

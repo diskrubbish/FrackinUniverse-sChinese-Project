@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An incredibly odd potted sign plant.",
+    "value": "令人难以置信的诡异的标记植物盆栽。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sign Plant Pot",
+    "value": "标记植物盆栽"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The swirl on this plant... what could it possibly mean?",
+    "value": "植物上的漩涡...这可能意味着什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Is the swirl on this plant truly natural? How odd...",
+    "value": "这种植物上的漩涡真的是自然的吗？真奇怪..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran use this plant for sssigns.",
+    "value": "叶族人用这种植物做标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confusion. This plant appears to carry a message.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A weird looking plant. Kinda reminds me of a palm tree seed.",
+    "value": "一种奇怪的植物。有点让我想起了棕榈树的种子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The biology of this plant must be a question for the ages.",
+    "value": "这种植物的生物学特性肯定是一个长期存在的问题。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An big ol' confusin' plant.",
+    "value": "一个大的“confusin”植物。"
+  }
+]

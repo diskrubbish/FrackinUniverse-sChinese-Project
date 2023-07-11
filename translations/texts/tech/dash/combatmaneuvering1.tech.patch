@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A short ^green;[Double-tap]^reset; Dodge with Defense boost.",
+    "value": "^green;[双击]^reset;进行短程闪避，闪避时防御提升。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Dodge",
+    "value": "闪避"
+  }
+]

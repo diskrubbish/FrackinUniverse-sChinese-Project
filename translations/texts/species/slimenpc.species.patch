@@ -1,0 +1,80 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/title",
+    "raw": "Slime",
+    "value": "黏液"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/subTitle",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "raw": "Alien creatures whose origins are unknown",
+    "value": "来历不明的外星生物"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/0",
+    "raw": "Skin colour",
+    "value": "肤色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/1",
+    "raw": "Hair style",
+    "value": "发型"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/2",
+    "raw": "Shirt",
+    "value": "衬衫"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/3",
+    "raw": "Legwear",
+    "value": "腿部穿着"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/4",
+    "raw": "Eyes, Accessories",
+    "value": "眼睛和饰品"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/5",
+    "raw": "Hair colour",
+    "value": "发色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/6",
+    "raw": "Shirt colour",
+    "value": "衬衫颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/7",
+    "raw": "Legwear colour",
+    "value": "腿部穿着颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/8",
+    "raw": "SLIME",
+    "value": "史莱姆"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/9",
+    "raw": "Personality",
+    "value": "个性"
+  }
+]

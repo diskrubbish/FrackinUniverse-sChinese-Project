@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Don't get too close or you might get shafted!",
+    "value": "不要靠得太近，否则你可能会被骗！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ballista",
+    "value": "弩炮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An archaic weapon... It looks like this one is just a prop, however.",
+    "value": "一件古老的武器...不过，看起来这只不过是个道具。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Much slower than a bowman, but much more powerful, as well.",
+    "value": "比弓箭手慢得多，但威力也大得多。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Machine firess arrows harder than any Floran can.",
+    "value": "机器发射的箭比任何叶族人都难。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Knowledgeable. A ballista is a common sight in Glitch stronghold sieges.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's kinda like a catapult! But with a bow instead of a launcher.",
+    "value": "有点像弹射器！但是用弓代替发射器。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A primitive and inelegant upgrade to the bow.",
+    "value": "对船头的原始和不雅升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty sturdy lookin' ballista.",
+    "value": "一架看起来很结实的强力弩。"
+  }
+]

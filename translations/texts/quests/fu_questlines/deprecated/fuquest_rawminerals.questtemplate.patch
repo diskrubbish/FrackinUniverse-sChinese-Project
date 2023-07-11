@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Like a Mason",
+    "value": "如石匠一般"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Extracting from 50 ^orange;cobblestone^reset; will create ^orange;Raw Minerals^reset;. This resource will help create ^orange;Mineral Samples^reset;, essential in many experiments.",
+    "value": "萃取50份^orange;鹅卵石^reset;将会得到^orange;原始矿物^reset;。它们有助于创建^orange;矿物样本^reset;，在许多实验中都至关重要。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Now it's time to mess with life a bit.",
+    "value": "做得好！你已经准备好进行下一步了吗？"
+  }
+]

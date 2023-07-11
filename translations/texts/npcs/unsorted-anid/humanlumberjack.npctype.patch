@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "raw": "  Lumberjack",
+    "value": "  伐木工"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Wood and Wood Accessories.",
+    "value": "  木材和木材配件。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/human/default/0",
+    "raw": "Good wood! Get good wood here!",
+    "value": "上好的木材，来这里得到一些上好的木材吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/human/default/1",
+    "raw": "Professionally murdered trees!",
+    "value": "专业团队，在线伐木！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/human/default/2",
+    "raw": "Hey, buy my wood!",
+    "value": "嘿，来买我的木材！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/human/default/0",
+    "raw": "Thanks!",
+    "value": "谢了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/human/default/1",
+    "raw": "I hope my wood brings you pleasure.",
+    "value": "我希望我的木材能给你带来乐趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/follow/human/default/0",
+    "raw": "I've got plenty of wood for sale.",
+    "value": "我弄来了好多木材来售卖。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/follow/human/default/1",
+    "raw": "My lumber stockpile is thataway.",
+    "value": "我的木材储备就在那边。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/human/default/0",
+    "raw": "You wanna buy some wood?",
+    "value": "你想买些木头吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/human/default/1",
+    "raw": "Got baby trees and dead trees - take your pick.",
+    "value": "树苗和枯树 - 做出你自己的选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/human/default/2",
+    "raw": "Could it be that you're interested in my wood?",
+    "value": "你对我的木材感兴趣吗？"
+  }
+]

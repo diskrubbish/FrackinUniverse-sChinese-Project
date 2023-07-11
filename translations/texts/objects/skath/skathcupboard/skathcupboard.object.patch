@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A secure cupboard to store your belongings.",
+    "value": "一个安全的柜子来存放你的物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Cupboard",
+    "value": "绘世者柜子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This cupboard looks sturdy and safe. I can keep my belongings in here without worrying.",
+    "value": "这个柜子看起来坚固而安全。我可以把我的东西放在这里而不用担心。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This cupboard looks extraordinarily sturdy. Is this really necessary?",
+    "value": "这个柜子看起来特别结实。这真的有必要吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran staresss at cupboard. Cupboard doesn't open. Floran disappointed.",
+    "value": "叶族人盯着橱柜。柜子打不开。叶族人失望了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confident. I'm sure this cupboard will hold all of my belongings.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Pretty neat design, but I prefer my cupboards to not look like garage doors.",
+    "value": "设计相当整洁，但我更喜欢我的橱柜，不要看起来像车库门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "While it's not a design I'd have chosed, my belongings will surely be safe in there.",
+    "value": "虽然这不是我会选择的设计，但我的物品在里面肯定是安全的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "What a weird cupboard. Never seen any cupboards like this.",
+    "value": "多奇怪的柜子啊。从没见过这样的橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "This cupboard is built to be sturdy not only to store our personal belongings, but also heavy weaponry and armors.",
+    "value": "这个柜子不仅坚固耐用，可以存放我们的个人物品，还可以存放重型武器和盔甲。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Several naughty children's stockings worth of coal.",
+    "value": "几个淘气的孩子的长统袜值得这些煤去换购。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mine Cart of Coal",
+    "value": "煤车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Nothing but coal and rubble, it seems.",
+    "value": "似乎除了煤和碎石什么都没有。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I suppose someone might have use of it.",
+    "value": "我想可能有人用过它。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "No ssshinies.",
+    "value": "不是发光体。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disappointed. Nothing of interest.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Aw rats. Nothing special.",
+    "value": "啊，老鼠。没什么特别的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Not every excursion can yield results, I suppose.",
+    "value": "我想不是每一次远足都能产生结果。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Nothin' for it but to empty it out and try again.",
+    "value": "除了清空它然后再试一次，什么都没有。"
+  }
+]

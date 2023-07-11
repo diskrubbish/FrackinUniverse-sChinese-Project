@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Dark Stained Glass",
+    "value": "黑色玻璃"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Do you have a ^orange;Blast Furnace^reset; yet? If so, try to smelt ^orange;Obsidian^reset; and bring me the results. I will be most grateful for your assistance.",
+    "value": "你有^orange;冶炼炉^reset;吧？如果有的话，请试着熔炼^orange;黑曜石^reset;并把产物给我。我会很感激你协助。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Bring the ^orange;Black Glass^reset; to the scientist at the ^orange;Science Outpost^reset;",
+    "value": "把^orange;黑色玻璃^reset;带给这名科学家。(位于^orange;科学前哨站^reset;)"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Fantastic work! Truly amazing. Thank you for the help. As thanks, here's payment for your troubles.",
+    "value": "不得不说，你做得实在是太棒了！感谢你的帮助，这是你应得的报酬。"
+  }
+]

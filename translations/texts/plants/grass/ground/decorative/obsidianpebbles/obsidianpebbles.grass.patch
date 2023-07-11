@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Little obsidian pebbles.",
+    "value": "小黑曜石卵石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Obsidian pebbles.",
+    "value": "黑曜石卵石。"
+  }
+]

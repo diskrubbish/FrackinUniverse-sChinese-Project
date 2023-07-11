@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A set of drawers made from Nocxium.",
+    "value": "一套由诺克石制成的抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nocxium Drawers",
+    "value": "诺克石抽屉"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some sort of horrible set of drawers.",
+    "value": "某种可怕的抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These make me uncomfortable.",
+    "value": "这些让我很不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Creepy drawersss! Floran not ssscared, honessst...",
+    "value": "令人毛骨悚然的抽屉！叶族人不害怕，老实说..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. These drawers makes my circuits shake.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These drawers give me the creeps!",
+    "value": "这些抽屉让我毛骨悚然！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An odd looking set of drawers. They are... very unpleasant.",
+    "value": "一套奇怪的抽屉。他们是...非常不愉快。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These drawers ain't right.",
+    "value": "这些抽屉不对。"
+  }
+]

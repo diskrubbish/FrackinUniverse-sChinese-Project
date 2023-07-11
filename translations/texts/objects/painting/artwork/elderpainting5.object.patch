@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A gargantuan, bizarre elder creature whirls in the astral chaos it creates",
+    "value": "一只巨大而奇异的古老生物，在其创造的星体混沌中旋转"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Azatoth",
+    "value": "阿撒托斯"
+  }
+]

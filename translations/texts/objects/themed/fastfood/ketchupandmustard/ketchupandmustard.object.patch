@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Convenient bottles of Ketchup and Mustard.",
+    "value": "方便的番茄酱和芥末瓶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ketchup & Mustard",
+    "value": "番茄酱和芥末"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Mustard pairs much better with meats, in my opinion.",
+    "value": "在我看来，芥末与肉类搭配更好。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "If I had to choose, I'd say I prefer ketchup. Mustard is too sour for my tastes.",
+    "value": "如果我不得不选择，我会说我更喜欢番茄酱。芥末对我来说太酸了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Where isss mayonnaise?",
+    "value": "蛋黄酱在哪？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Annoyed. There's hardly any of either sauces left in the bottles.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I've hardly met anyone who liked both condiments equally.",
+    "value": "我几乎没见过谁对这两种调味品都一视同仁。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Chefs should strive to make their meals delicious without the aid of condiments.",
+    "value": "厨师应该在不使用调味品的情况下努力使饭菜美味可口。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I usually don't even bother with puttin' either of 'em on.",
+    "value": "我通常连穿上它们都不费事。"
+  }
+]

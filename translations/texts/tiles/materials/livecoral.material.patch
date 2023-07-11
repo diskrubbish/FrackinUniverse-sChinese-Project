@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Live, vital coral",
+    "value": "活生生的，有生命的珊瑚"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coral",
+    "value": "珊瑚"
+  }
+]

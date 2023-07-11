@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute wall-mounted sconce with a pink light.",
+    "value": "一个可爱的壁挂式烛台，散发着粉红色的光亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Sconce",
+    "value": "可爱的烛台"
+  }
+]

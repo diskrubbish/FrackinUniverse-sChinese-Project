@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Suitable for all types of hootenanny and hullabaloo.",
+    "value": "适用于所有类型的喧闹和喧闹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frontier Table",
+    "value": "边境桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A table large enough for a dinner party.",
+    "value": "足够开晚宴的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This sturdy old table looks like it was made for gathering around.",
+    "value": "这张结实的旧桌子看起来像是用来聚会的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran could gather lotsss of friends here.",
+    "value": "叶族人可以在这里召集很多朋友。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Merry. A table fit for a banquet.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A nice, long dining room table.",
+    "value": "一张漂亮的长餐桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Assuming I don't get any splinters from this table, I suppose it would be a lovely centerpiece.",
+    "value": "假设我没有从这张桌子上得到任何碎片，我想这将是一个可爱的中心。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This table's big enough for just about any get-together you can think of.",
+    "value": "这张桌子足够大，几乎可以容纳任何你能想到的聚会。"
+  }
+]

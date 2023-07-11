@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A merry little pine tree, surrounded by poinsettias. It makes for a picturesque holiday scene.",
+    "value": "一棵快乐的小松树，周围是一品红。这是一个风景如画的假日景象。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Snowy Pine Tree Planter",
+    "value": "雪松播种机"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A delightful alpine planter box. It looks even better in the snow!",
+    "value": "一个可爱的高山种植箱。在雪地里看起来更好！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The tree in this planter box appears to be ever green despite the snow... Marvelous.",
+    "value": "尽管下着雪，这个花盆盒子里的树似乎一直是绿色的...不可思议的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wisse old tree. Looks cold.",
+    "value": "智慧老树。看起来很冷。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Charmed. This planter looks like something out of a storybook. Or maybe a carol.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Is it holiday season already? Maybe I should leave some presents here...",
+    "value": "现在已经是假期了吗？也许我应该在这里留下一些礼物..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What a pleasant little scene. The snow just adds to the charm.",
+    "value": "多么令人愉快的一幕啊。雪更增添了魅力。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some mighty hardy plants in this here planter. The snow here ain't botherin' them none.",
+    "value": "这里的花盆里有一些顽强的植物。这里的雪一点也不困扰他们。"
+  }
+]

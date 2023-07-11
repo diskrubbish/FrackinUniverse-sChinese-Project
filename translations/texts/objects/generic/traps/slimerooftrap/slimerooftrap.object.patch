@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An automated slime spitting sprinkler.",
+    "value": "一种自动喷洒硫酸的装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Acid Trap",
+    "value": "硫酸陷阱"
+  }
+]

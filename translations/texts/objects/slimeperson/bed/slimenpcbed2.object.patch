@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sleep sweetly, suspended in slime.",
+    "value": "悬浮在史莱姆液体里面就会睡得香。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Wall Bed",
+    "value": "史莱姆壁床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A slime bed. Looks suspicious.",
+    "value": "一张史莱姆床。看起来可疑。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Will I get slime in my feathers?",
+    "value": "我的羽毛里会有史莱姆吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Iss squishy!.",
+    "value": "这TM看上去粘糊糊的！。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. Slime may cause rust.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's made of slime. I hope I can breath in there.",
+    "value": "是由史莱姆制做的。我希望我能在那里呼吸。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A bed of slime. Will it provide peaceful slumber?",
+    "value": "一床史莱姆。它能提供和平的睡眠吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Slime as a bed? Worth a try.",
+    "value": "用史莱姆当床？值得一试。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Most comfortable bed.",
+    "value": "最舒服的床。"
+  }
+]

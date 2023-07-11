@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Currentcorn, full of acid. Not good for fleshy creatures.",
+    "value": "液体玉米，富含酸。对肉质动物不好。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Currentcorn Basket",
+    "value": "液体玉米篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I've heard of people getting acid burns from currentcorn. I'd better handle with care.",
+    "value": "我听说有人因为吃玉米而被酸烧伤。我最好小心处理。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Acidic corn. Unpleasant and dangerous.",
+    "value": "酸性玉米。令人不快和危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Tasssty, acidic corn. Hurts fleshy beingss.",
+    "value": "酸辣玉米。伤害肉质的存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Proud. The Glitch know of a way to use these vegetables as batteries.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It looks like corn... but it really, really isn't.",
+    "value": "看起来像玉米...但事实并非如此。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A vile, acidic corn variant. Detrimental to any dish.",
+    "value": "一种可恶的酸性玉米变种。对任何菜都有害。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Currentcorn is closer to a battery cell than an edible foodstuff.",
+    "value": "液体玉米比食用食品更接近电池。"
+  }
+]

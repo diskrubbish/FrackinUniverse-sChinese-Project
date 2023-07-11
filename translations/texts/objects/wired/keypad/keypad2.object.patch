@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A numeric security keypad that requires a specific combination.",
+    "value": "需要特定组合的数字安全键盘。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Numeric Keypad",
+    "value": "数字键盘"
+  }
+]

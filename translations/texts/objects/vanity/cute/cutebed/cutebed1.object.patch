@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute bed. Has feather pillows",
+    "value": "一个可爱的床。带有羽毛枕头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Feather Bed",
+    "value": "羽毛床"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A locker. Store some stuff, why don't you?",
+    "value": "飞船储物柜，能够储存很多物品。为什么不把多余的东西装进去呢？\n^#B8860B;可在飞船用家具定制台调整种族风格^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shiplocker",
+    "value": "飞船储物柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The ship's storage system. It's not currently functional.",
+    "value": "这是一个飞船的存储系统。但它现在并不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A device that holds many items for safe keeping. It's broken at the moment.",
+    "value": "一个可以安全地存储许多物品的设备。但它现在坏掉了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstorage. It'sss not working.",
+    "value": "存存存储。它它它不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Distressed. This ship's storage system is malfunctioning.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A storage locker. It doesn't seem to be working.",
+    "value": "一个储物柜。它似乎不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An elegant storage solution. It's not currently powered.",
+    "value": "一个优雅的存储方案。但它现在并不工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A locker. Ain't much use 'til it's fixed.",
+    "value": "一个储物柜。在修好之前没有多大用。"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "A slick storage rig with an ICE-3 encrypted lock.  My gear's safe here!",
+    "value": "一个灵活的存储设备，带有一个ICE-3加密锁。非常安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "There may be valuables inside.",
+    "value": "这里面可能有什么有价值的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "Basic storage system operates on a variation of teleportation technology to store objects as virtual pixels until required.",
+    "value": "基本存储系统采用远程传输技术的一种变体，在需要之前将对象存储为虚拟像素。"
+  },
+  {
+    "op": "replace",
+    "path": "/shadowDescription",
+    "raw": "Holding of things, within.",
+    "value": "存放物品，通过这个。就是这样。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "A decent enough locker, I suppose.",
+    "value": "我想是一个足够体面的储物柜吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/aegiDescription",
+    "raw": "A ship locker. Useful for storing items.",
+    "value": "船舱。用于储存物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/avikanDescription",
+    "raw": "A ship locker. Useful for storing artifacts found on scout runs.",
+    "value": "船舱。用于存储在scout运行中发现的工件。"
+  },
+  {
+    "op": "replace",
+    "path": "/draunaarDescription",
+    "raw": "This ship locker can store a lot of items.",
+    "value": "这个储物柜可以存放很多物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/trinkDescription",
+    "raw": "A ship locker. It can't be locked, ironically.",
+    "value": "船舱。讽刺的是，它不能上锁。"
+  },
+  {
+    "op": "replace",
+    "path": "/hymidDescription",
+    "raw": "I am curious what this locker might contain.",
+    "value": "我很好奇这个柜子里可能装着什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/notixDescription",
+    "raw": "A sizeable ship locker.",
+    "value": "一个相当大的储物柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/jorgasianDescription",
+    "raw": "Great for storing items, but not too secure.",
+    "value": "非常适合储存物品，但不太安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/drodenDescription",
+    "raw": "Detected ship locker. Contents scan failed.",
+    "value": "检测到船舶储物柜。内容扫描失败。"
+  },
+  {
+    "op": "replace",
+    "path": "/akkimariDescription",
+    "raw": "Locker-ship, for storing things-many.",
+    "value": "储物柜船，用来存放很多东西。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Technically speaking, it's more of an icebox than anything.",
+    "value": "从技术上讲，它更像是一个冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frontier Fridge",
+    "value": "边境冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fridge. Hopefully it contains banana milkshake.",
+    "value": "一个冰箱。期望它装有香蕉奶昔。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A fridge. Ideally filled with drinks and snacks.",
+    "value": "一个冰箱。大概装满了饮料和小吃吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can sssmell meat inside.",
+    "value": "叶族人能闻到里面的肉的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. This fridge is operating at the optimal temperature.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm practically vibrating with excitement thinking about the possible contents.",
+    "value": "我已经情不自禁地去联想这里面可能有什么吃的了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Underwater, refrigeration is easier. These devices are a clever substitute.",
+    "value": "在水下，冷藏更加容易。这些设备是一种不错的替代品。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A plain ol' fridge.",
+    "value": "一个朴素的冰箱。"
+  }
+]

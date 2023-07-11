@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An old rusted sign with ominous symbols",
+    "value": "一个生锈的危险告示牌，看起来有点不对劲。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rusted Danger Sign",
+    "value": "生锈的危险告示牌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This sign doesn't bode well for the planet's occupants.",
+    "value": "这个告示牌对于每一个星球的居民来说都代表不好的意思。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What tragedy swallowed this place?",
+    "value": "到底是什么导致了这场悲剧？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran know ssskull shape.",
+    "value": "叶族人知道上面是什么，那是骨骨骨头。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This planet's history seems to be fraught with danger.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "You don't need to read their language to know that sign isn't good.",
+    "value": "你不需要懂他们的语言，就知道这代表了危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This sign is in disrepair, but its warning still reads clear.",
+    "value": "这个告示牌已经年久失修，但它警示的作用却仍然存在。"
+  }
+]

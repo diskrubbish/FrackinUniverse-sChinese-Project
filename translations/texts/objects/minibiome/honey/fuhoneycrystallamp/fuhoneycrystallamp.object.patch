@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A glowing honeycrystal which functions as a lamp.",
+    "value": "一个会发光的蜂蜜水晶，可以当灯具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Crystal Lamp",
+    "value": "蜂蜜水晶灯"
+  }
+]

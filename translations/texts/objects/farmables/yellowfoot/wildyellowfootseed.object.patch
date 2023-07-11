@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Boosts energy reserves.",
+    "value": "可以收获黄脚菇，食用后会提高能量值上限。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Yellowfoot Shroom",
+    "value": "黄脚菇孢子"
+  }
+]

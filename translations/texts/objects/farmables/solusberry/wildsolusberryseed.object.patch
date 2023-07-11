@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A solarium-rich berry. Likely unsafe to eat.",
+    "value": "一种富含日耀能量的浆果。可能吃起来不太安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Solusberry Seed",
+    "value": "日耀浆果种子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I think it is a result of ages of evolution...",
+    "value": "我认为这是进化纪元的结果..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This little glowing bush produces solarium! How wonderful!",
+    "value": "这个发光的小灌木产生日耀能量！太棒了！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "What if Floran wass sssimilar to thisss?",
+    "value": "如果叶族人和这这这个很像像像像呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amazed. Do this berries glow?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The crop seems to be made of solarium. It's a bit strange.",
+    "value": "这种作物似乎是用日耀矿做的。有点奇怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I must write an article about these all energy plants.",
+    "value": "我必须写一篇关于这些能源植物的文章。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A lovely solusberry bush, it makes me nostalgic.",
+    "value": "一树可爱的日耀浆果灌木，让我怀旧。"
+  }
+]

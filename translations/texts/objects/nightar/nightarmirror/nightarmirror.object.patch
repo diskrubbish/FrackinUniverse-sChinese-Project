@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Gaze at your visage in the Nightarian style.",
+    "value": "以夜族的风格凝视你的面容。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Obsidian Mirror",
+    "value": "黑曜石镜子"
+  }
+]

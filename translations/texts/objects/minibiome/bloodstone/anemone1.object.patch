@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "That's not very attractive.",
+    "value": "那可不怎么引人注目。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bloodstone Anemone",
+    "value": "血石海葵"
+  }
+]

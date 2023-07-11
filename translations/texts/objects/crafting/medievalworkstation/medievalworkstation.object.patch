@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large, somewhat primitive workstation. Crafts basic gear, but can't be upgraded.",
+    "value": "一个庞大的，模样有些原始的设备。可以制作各式基础设备，但无法升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wistful. This brings back memories of the village I was built in.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Large. Is solid. Make manyt sorts of basic things. Is good!",
+    "value": "大。坚实。做很多基本的事情。很好！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medieval Workstation",
+    "value": "中古工作站"
+  }
+]

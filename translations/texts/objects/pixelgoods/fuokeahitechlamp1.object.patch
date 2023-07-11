@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A light spectrum that is pleasing to the eyes of any race.",
+    "value": "这个灯具想必会吸引住所有人的目光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hi-tech Lamp",
+    "value": "高科技灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Hi-tech Lamp",
+    "value": "高科技灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Hi-tech Lamp",
+    "value": "高科技灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hi-tech Lamp",
+    "value": "高科技灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Hi-tech Lamp",
+    "value": "高科技灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hi-tech Lamp",
+    "value": "高科技灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Hi-tech Lamp",
+    "value": "高科技灯。"
+  }
+]

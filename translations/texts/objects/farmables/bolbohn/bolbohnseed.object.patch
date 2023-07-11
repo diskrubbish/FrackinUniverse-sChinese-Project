@@ -1,0 +1,98 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An oddly shaped plant with a similarly odd taste.",
+    "value": "这株奇怪的植物的根茎吃起来味道怪怪的。可以收获波庞薯，食用后会提高暴击几率。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bolbohn Seed",
+    "value": "波庞薯种子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A decidedly odd plant, and a funny smelling one at that.",
+    "value": "这个奇怪的植物有着特别的气味。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'm not sure I like the smell of this plant...",
+    "value": "我不是很喜欢这种植物发出的气味..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran find thiss plant sssmelly.",
+    "value": "叶族人觉觉觉得它臭臭的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. This plant seems oddly familiar, yet very alien at the same time.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm not even sure if I want to know what this tastes like...",
+    "value": "我实在无法想象到底是谁会把它当做食物..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This plant has an odd taste. I'm not a fan of it.",
+    "value": "这种植物有着奇怪的气味，我不喜欢它。"
+  },
+  {
+    "op": "replace",
+    "path": "/aegiDescription",
+    "raw": "Few find this plant tasty. I know I don't.",
+    "value": "少数人觉得这植物的根茎非常可口，至少我觉得挺难吃的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avikanDescription",
+    "raw": "A bolbohn! A tasty reminder of home!",
+    "value": "啊，这是波庞薯！多么亲切的家乡食物！"
+  },
+  {
+    "op": "replace",
+    "path": "/erixianDescription",
+    "raw": "The Avikan somehow find this plant delicious... I can hardly stomach it.",
+    "value": "为什么阿威坎人会觉得它是美味...我快要吐出来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/trinkDescription",
+    "raw": "Everyone I asked agreed that this plant tasted horrible. Everyone, except for the Avikan.",
+    "value": "除了阿威坎人外，每个人都没法接受这种植物味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/hymidDescription",
+    "raw": "I'm often a fan of alien food, but this just tastes horrible.",
+    "value": "虽然我经常吃各种怪异的食物，但是我还是觉得这种味道太难闻了。"
+  },
+  {
+    "op": "replace",
+    "path": "/notixDescription",
+    "raw": "This plant's taste is liked by few. I'm certainly not one of them.",
+    "value": "它的味道很少有人可以接受，至少我就难以下咽。"
+  },
+  {
+    "op": "replace",
+    "path": "/jorgasianDescription",
+    "raw": "This plants smells rather funny... I doubt it tastes any better.",
+    "value": "这种植物闻起来太棒了...不知道经过烹饪后是不是会更好。"
+  },
+  {
+    "op": "replace",
+    "path": "/drodenDescription",
+    "raw": "Detected native Kadavan flora. Bolbohn confirmed.",
+    "value": "检测到波庞薯，这是原生的卡达文植物。"
+  }
+]

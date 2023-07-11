@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Raincloud Platform",
+    "value": "雨云平台"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A platform made of wet squishy clouds. Dense enough to walk on.",
+    "value": "由湿软的云层组成的平台，密度足够行走在上面。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amazed. The density of this cloud could support my weight.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cloud iss sso fluffy!",
+    "value": "云朵真是是是是蓬松！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This here cloud is made from some heavy fluff stuff.",
+    "value": "这里的云是由一些重于绒毛的东西组成的。"
+  }
+]

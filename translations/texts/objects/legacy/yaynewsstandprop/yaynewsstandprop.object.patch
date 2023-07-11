@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Yay...?",
+    "value": "耶...？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "News Stand",
+    "value": "报摊"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Awfully cheerful to be reporting the news, aren't they? Must not be an Apex outlet.",
+    "value": "报道这个消息真是太高兴了，不是吗？绝不可能是猿族出口。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Newspaper makes for lovely nesting material.",
+    "value": "报纸是可爱的筑巢材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "What's so exciting about wordsss? Floran bored just looking at it.",
+    "value": "单词有什么让人兴奋的？叶族人一看就觉得无聊。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. Let's get up to date with the latest intergalactic news.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh wow, people still use news stands?",
+    "value": "哇，人们还在用报摊吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Tabloids, gossip columns... There's nothing of substance here at all!",
+    "value": "小报、八卦专栏...这里没有任何实质性的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "No news is good news as far as I'm concerned.",
+    "value": "就我而言，没有消息就是好消息。"
+  }
+]

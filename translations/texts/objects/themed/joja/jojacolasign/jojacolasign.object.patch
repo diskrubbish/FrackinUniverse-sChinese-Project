@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A billboard advertising the flagship product of the ^blue;Joja^reset; corporation.",
+    "value": "为^blue;Joja^reset;的旗舰产品做广告的广告牌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^blue;Joja^reset; Cola Billboard",
+    "value": "^blue;Joja^reset;可乐广告牌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Something about that logo... it's off-putting...",
+    "value": "关于那个标志...真让人讨厌..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "\"Fuel your life\"? I find it hard to believe a soda can do that.",
+    "value": "“给你的生活加油”？我觉得很难相信苏打水能做到这一点。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssuspicious blue drink.",
+    "value": "这是蓝色的饮料。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Snarky. Supposedly this drink is \"Asbestos-Free\". Very reassuring.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "... Well that isn't ominous at all.",
+    "value": "... 这一点都不不祥。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Is it anything like reef cola?",
+    "value": "有点像礁石可乐吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's a mighty blue sign.",
+    "value": "这是一个巨大的蓝色标志。"
+  }
+]

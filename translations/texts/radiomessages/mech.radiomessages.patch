@@ -1,0 +1,152 @@
+[
+  {
+    "op": "replace",
+    "path": "/futestdrive00/text",
+    "raw": "Welcome to your Mech Training Course. You can exit and enter your Mech with ^#FF1493;[E]^reset;.",
+    "value": "欢迎来到你的机械培训课程！你可以按^#FF1493;[E]^reset;进入或退出机甲。若进入机甲后无法操作，请退出任务并重新进入。"
+  },
+  {
+    "op": "replace",
+    "path": "/futestdrive01/text",
+    "raw": "The ^#orange;Tricorder^reset; can help you ^orange;equip^reset; and ^orange;refuel^reset; your mech. Fuel is important, so keep your mech topped up. Press the corresponding buttons on the tricorder after this mission to check it out. ^#Red;(If you see 'unauthorized user' restart the mission.)",
+    "value": "^orange;三度仪^reset;可以帮助你对你的机甲^orange;更换装备^reset;和^orange;加油^reset;。燃料很重要，所以保持机甲燃料充足。任务之后请在三度仪里面检查相应的按钮 ^red;(如果你看到“unauthorized user”，请重新开始任务。)。"
+  },
+  {
+    "op": "replace",
+    "path": "/futestdrive02/text",
+    "raw": "Your mech can ^#FF1493;duck by pressing ^#FF1493;[DOWN]^reset;, or ^#FF1493;sprint with a ^#FF1493;[double-tap]^reset; in the direction you are walking.",
+    "value": "你的机甲可以按^#FF1493;[DOWN]^reset;进行躲避，或者^#FF1493;[双击方向键]^reset;朝你走的方向冲刺。"
+  },
+  {
+    "op": "replace",
+    "path": "/futestdrive03/text",
+    "raw": "Your mech will auto-crouch to fit into areas that it can pass, should the need arise. Such as at the top of this passage.",
+    "value": "如果需要的话，你的机甲将自动蹲伏，以适应它可以通过的狭小空间。例如在这一段设施的顶部。"
+  },
+  {
+    "op": "replace",
+    "path": "/testdrive04/text",
+    "raw": "Remember, you can create a ^orange;Mech Repair tool^reset; at your ^orange;Tinkering Table^reset; and upgrade it to be more effective using your ^orange;Tricorder's upgrade menu^reset;.",
+    "value": "请记住，你可以在你的^orange;改造台^reset;制作^orange;机甲修理工具^reset;并使用你的^orange;三度仪的升级菜单^reset;对其进行升级，使之更加有效。"
+  },
+  {
+    "op": "replace",
+    "path": "/futestdrive03b/text",
+    "raw": "Your mech switches to a ground-movement configuration when in an environment with gravity, you can manually switch from ground-movement to flight-mode by ^#FF1493;double tapping the [UP] key^reset;, even on planets. Do so now to continue.",
+    "value": "在有重力的环境下，你的机甲会切换为地面移动模式。你可以手动^#FF1493;双击 [上] 方向键^reset;切换地面模式为飞行模式，甚至在星球上也可以这么做。立即执行以继续。"
+  },
+  {
+    "op": "replace",
+    "path": "/futestdrive03c/text",
+    "raw": "Please be aware of your mech's ^#bf2fe2;fuel^white; and ^#1d8e25;health^white; reserves, visualised respectively as the ^green;colored bars you can see above your vehicle^reset;. The ^#bf2fe2;fuel^white; will deplete over time and the ^#1d8e25;health^white; bar will deplete when the mech takes damage.",
+    "value": "请注意你的机甲的^#bf2fe2;燃料储备^white;和^#1d8e25;耐久^white;，^green;两者分别可视化为机甲上方的彩色条^white;。随着时间的推移，^#bf2fe2;燃料条^white;会耗尽，当机甲受到伤害时，^#1d8e25;耐久条^white;会被损耗。"
+  },
+  {
+    "op": "replace",
+    "path": "/futestdrive04/text",
+    "raw": "Zero gravity combat is a bit trickier than on flat ground. Accuracy is important, so you'll need to learn to lead your targets properly.",
+    "value": "零重力战斗要比平地上的更为棘手。精度是至关重要的，因此你需要学会正确引导你的目标。"
+  },
+  {
+    "op": "replace",
+    "path": "/testdrive05/text",
+    "raw": "Hostile entities also exist in zero-gravity environments. My cosmonautical records indicate that defeating them may result in obtaining an erchius battery, which your mech can absorb to replenish health and fuel.",
+    "value": "敌对实体也存在于零重力环境中。我的宇航员记录显示，击败它们可能会得到一个厄尔吉斯电池，你的机甲可以吸收这个电池来补充耐久和燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/futestdrive05/text",
+    "raw": "Now try throwing your mass around. Try to ^#FF1493;leap and ^#FF1493;stomp^reset; on the creatures ahead.",
+    "value": "现在试着把这些杂碎清理掉。试着^#FF1493;跳跃^reset;和^#FF1493;践踏^reset;前方的生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/biomeplaceholder_mech/text",
+    "raw": "WARNING: Your vehicle is not certified \nfor this ^#FF1493;weird^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "^red;危险警告：你的机体无法承受此处的^#FF1493;怪异^red;环境！^reset;\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+  },
+  {
+    "op": "replace",
+    "path": "/biomepressure_mech/text",
+    "raw": "WARNING: Your vehicle is not certified \nfor this ^#A0522D;high pressure^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "^red;危险警告：你的机体无法承受此处的^#A0522D;高压^red;环境！^reset;\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+  },
+  {
+    "op": "replace",
+    "path": "/biomeproto_mech/text",
+    "raw": "WARNING: Your vehicle is not certified \nfor this ^#9ACD32;proto^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "^red;危险警告：你的机体无法抵御此处的^#9ACD32;原毒^red;环境！^reset;\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+  },
+  {
+    "op": "replace",
+    "path": "/biomeelectric_mech/text",
+    "raw": "WARNING: Your vehicle is not certified \nfor this ^#6A5ACD;electrically-charged^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "^red;危险警告：你的机体无法承受此处的^#6A5ACD;带电^red;环境！\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+  },
+  {
+    "op": "replace",
+    "path": "/biomepoison_mech/text",
+    "raw": "WARNING: Your vehicle is not certified \nfor this ^#32CD32;poisonous^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "^red;危险警告：你的机体无法承受此处的^#32CD32;有毒^red;环境！^reset;\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+  },
+  {
+    "op": "replace",
+    "path": "/biomeradiation_mech/text",
+    "raw": "WARNING: Your vehicle is not certified \nfor this ^#00FF00;radioactive^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "^red;危险警告：你的机体无法承受此处的^#00FF00;辐射^red;环境！^reset;\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+  },
+  {
+    "op": "replace",
+    "path": "/biomecold_mech/text",
+    "raw": "WARNING: Your vehicle is not certified \nfor this ^#00BFFF;cold^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "^red;危险警告：你的机体无法承受此处的^#00BFFF;寒冷^red;环境！^reset;\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+  },
+  {
+    "op": "replace",
+    "path": "/biomeheat_mech/text",
+    "raw": "WARNING: Your vehicle is not certified \nfor this ^#FF4500;hot^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
+    "value": "^red;危险警告：你的机体无法承受此处的^#FF4500;炎热^red;环境！^reset;\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+  },
+  {
+    "op": "replace",
+    "path": "/aether_mech/text",
+    "raw": "DANGER! This fluid is rapidly shorting out every system on board the mech. We should leave this liquid soon or risk death.",
+    "value": "危险！这种液体可以使机甲系统短路。我们应该尽快离开这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/proto_mech/text",
+    "raw": "Curious. This liquid appears to be restoring your mechs energy, rather than causing negative effects.",
+    "value": "有意思。这种液体可以恢复机甲的能量，而不是引起负面效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/lava_mech/text",
+    "raw": "DANGER! Your mech's temperature control systems are failing! Evacuate immediately!",
+    "value": "危险！机甲温控系统正在逐渐失效！请立即撤退！"
+  },
+  {
+    "op": "replace",
+    "path": "/darkwater_mech/text",
+    "raw": "DANGER! This poisonous water seems to seep into your mechs components and cause serious issues. You should get out sooner than later.",
+    "value": "危险！毒水看起来已经渗入了机甲组件，造成了严重的损坏。你应该尽快离开这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/nitrogen_mech/text",
+    "raw": "DANGER! Your mechs servos and components are rapidly freezing within the liquid nitrogen. That isn't a good thing. Evacuate soon or you will know regret.",
+    "value": "危险！液氮正在迅速冻结机甲的伺服系统和组件！这并不是好事。请尽快撤退，否则你会后悔的。"
+  },
+  {
+    "op": "replace",
+    "path": "/acid_mech/text",
+    "raw": "DANGER! Sulphuric acid has compromised your mech plating. I suggest leaving the liquid immediately.",
+    "value": "危险！硫酸已经破坏了你的机甲镀层。我建议你立刻离开。"
+  },
+  {
+    "op": "replace",
+    "path": "/elder_mech/text",
+    "raw": "DANGER! Essentia Obscura is rapidly turning your mech into pudding! Get out swiftly!",
+    "value": "危险！黯灵之露正在迅速地把你的机器变成布丁！快点从这里出去！"
+  }
+]

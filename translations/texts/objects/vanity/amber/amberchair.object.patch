@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Somewhat hard and uncomfortable. Pretty, though.",
+    "value": "虽然很漂亮，但是坐上去因为太硬了，屁股很不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Amber Chair",
+    "value": "琥珀椅子"
+  }
+]

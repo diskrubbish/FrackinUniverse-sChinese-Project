@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Generates ^green;15-600w^reset; power from hydrogen isotopes. ^Red;Needs Liquid coolant.^reset; ^blue;Left Input^reset;: On/Off Switch",
+    "value": "利用氢同位素产生^green;15-600w^reset;的电力。\n^Red;需要液体冷却剂。^reset;\n^blue;左边输入^reset;: 电源开关"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Fusion Reactor^reset;",
+    "value": "^cyan;聚变反应堆^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It might explode and kill me, but cheap power is cheap power.",
+    "value": "它可能会爆炸并杀死我，但是便宜的能源就是便宜的能源。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Building this may have been a bad idea.",
+    "value": "建造这个可能是个坏主意。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "What iss 'coolant'?",
+    "value": "什么是是是冷却剂？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uneasy. I am not immune to radiation.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm sure nothing will go wrong.",
+    "value": "我相信不会出什么差错的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I feel like living dangerously.",
+    "value": "我喜欢冒险的生活。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now this is some good clean livin'!",
+    "value": "这才是干净的生活！"
+  }
+]

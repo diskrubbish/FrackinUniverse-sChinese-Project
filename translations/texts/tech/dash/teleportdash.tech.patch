@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The ultimate Blink Dash tech! Cooldown: 1.35s",
+    "value": "究极的闪现科技！ - 冷却时间：1.35秒"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Blink Dash II",
+    "value": "瞬间移动 II"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cracked rock full of gold. Unbreakable!",
+    "value": "一块充满黄金的破裂岩石。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Gold Rock",
+    "value": "小金石"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "There appears to be gold within this fragile rock.",
+    "value": "这块易碎的岩石里似乎有金子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "If I break this rock I should be able to gather the gold ore within it.",
+    "value": "如果我打碎这块岩石，我就能在其中收集金矿石。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Glittery rock. Sssmash it!",
+    "value": "闪闪发光的岩石。该死！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This rock contains gold, and is covered in cracks.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A rock full of gold! Maybe I can break it.",
+    "value": "一块装满金子的石头！也许我能打破它。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A swift blow to this rock would free the gold within.",
+    "value": "对这块岩石的一次快速打击会释放出里面的金子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A rock rich with gold. I should break it.",
+    "value": "富含黄金的岩石。我应该打破它。"
+  }
+]

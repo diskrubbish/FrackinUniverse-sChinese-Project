@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mechanical cash register. Ka-ching!",
+    "value": "机械收银机。啊-哈！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cash Register",
+    "value": "收银机"
+  }
+]

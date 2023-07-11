@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Flameleaf Flower",
+    "value": "火焰花"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flameleaf Flower",
+    "value": "火焰花"
+  }
+]

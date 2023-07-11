@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's like an automato flavoured lollipop! Which is kind of weird.",
+    "value": "它就像一个自动风味的棒棒糖！这有点奇怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Candy Automato",
+    "value": "糖果自动机"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Metal... sssweet? Floran is confused.",
+    "value": "金属甜味？叶族人感到困惑。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Dumbfounded. Automatos are decidedly savory crops... Why would anyone try to candy it?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's an odd choice for sweetenin'.",
+    "value": "这对甜味剂来说是个奇怪的选择。"
+  }
+]

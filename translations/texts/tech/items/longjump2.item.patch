@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A high-burst jump with a fluttery secondary jump. Useful!",
+    "value": "跳得更高，并且可以在空中往前跨那么一小步！简直是太棒了！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Flutter Jump^reset;",
+    "value": "^#77acc3;浮空跳^reset;"
+  }
+]

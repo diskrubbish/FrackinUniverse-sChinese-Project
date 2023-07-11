@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ballis Plant",
+    "value": "巴利斯植物"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Balliss Plant",
+    "value": "巴利斯植物"
+  }
+]

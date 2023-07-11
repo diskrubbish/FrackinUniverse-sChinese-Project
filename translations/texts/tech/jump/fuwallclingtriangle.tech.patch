@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Wall Slide, Double and Triangle-Jump",
+    "value": "提供墙壁附着(会慢慢下滑)、二级跳和蹬墙跳。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Triangle Jump",
+    "value": "蹬墙跳"
+  }
+]

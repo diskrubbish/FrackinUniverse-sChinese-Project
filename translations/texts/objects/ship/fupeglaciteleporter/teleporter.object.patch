@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Trusty teleporter, what would I do without you?",
+    "value": "可靠的传送器，离开了它我便寸步难行。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Teleporter",
+    "value": "飞船用传送门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This is definitely a teleporter, but I've never seen one so small or solid-state.",
+    "value": "这绝对是一个传送器，但我从未见过这么小或固态的传送器。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This looks like a teleporter, but it's so small...",
+    "value": "这看起来像一个传送器，但它太小了..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran push buttons to teleport!",
+    "value": "叶族人按下按钮传送！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. How was teleportation equipment miniturized to such a degree?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Wow, that's a tiny little teleporter.",
+    "value": "哇，那是一个小小的传送机。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This teleporter is too small. Probably dangerous.",
+    "value": "这个传送机太小了。可能很危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/peglaciDescription",
+    "raw": "Miniturized solid-state teleporter. In emergencies, it will automatically snatch the pilot an instant before death and return them to the ship for trauma care.",
+    "value": "小型化固态传送机。在紧急情况下，它会在飞行员死亡前的一瞬间自动抓住他们，并将他们送回船上接受创伤护理。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "Miniturized solid-state teleporter. In emergencies, it will automatically snatch the pilot an instant before death and return them to the ship for trauma care.",
+    "value": "小型化固态传送机。在紧急情况下，它会在飞行员死亡前的一瞬间自动抓住他们，并将他们送回船上接受创伤护理。"
+  }
+]

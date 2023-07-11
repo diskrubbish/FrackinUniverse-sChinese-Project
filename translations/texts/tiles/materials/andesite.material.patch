@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rough volcanic stone",
+    "value": "一种粗糙的火山岩。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Andesite",
+    "value": "安山岩"
+  }
+]

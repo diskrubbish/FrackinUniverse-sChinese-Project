@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Base Damage: 1\nFire Rate: 0.08\nEnergy per Shot: 1\nSpecial: ^orange;Burns Foes^reset;",
+    "value": "基础伤害: 1\n射速: 0.08\n每击能量消耗: 1\n特殊: ^orange;点燃敌人^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flame Turret",
+    "value": "火焰炮塔"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Automatic Base Defense",
+    "value": "自动基本防御"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Always watchful.",
+    "value": "总是在保持警惕。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The monsters don't stand a chance, unless they can fly.",
+    "value": "除非怪物可以飞，要不然它跑不掉。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Effective againssst living thingsss.",
+    "value": "可以有效效效对抗生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. Must not disrupt my brother in his vigilance.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "An automated security system.",
+    "value": "这是自动化安全系统。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Looks like a turret of some sort.",
+    "value": "看上去像炮塔？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Looks like this thing sure could do some damage!",
+    "value": "这个东西应该是攻击类武器！"
+  }
+]

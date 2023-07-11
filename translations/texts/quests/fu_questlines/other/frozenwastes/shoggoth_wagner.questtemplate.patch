@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "A Missing Friend",
+    "value": "失联的朋友"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I've no idea how to reach my friend. ^orange;All of the teleporters^reset; leading to Delta Freya II appear to be down, and I can't get word to them. If you find a way there, could you please search for my pal Wagner?",
+    "value": "我不知道怎么联系我的朋友。所有的传送器都重置了，通往德尔塔·弗雷亚II的通道似乎出现了故障，我无法联系上他们。如果你能找到去那里的方法，能麻烦你帮我找一下我的朋友瓦格纳吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Return ^orange;Wagner's ID^reset; to the ^orange;Science Outpost^reset;",
+    "value": "把^orange;瓦格纳的ID卡^reset;带回^orange;科学前哨站^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Oh no. Wagner is...dead? Thank you...^orange;sad news is better than no news at all^reset;. Please take this for your efforts, and leave me. Now go, please. ^green;I need to be alone^reset;  for a while.",
+    "value": "哦，不。 瓦格纳...死了？谢谢你...^orange;坏消息总比没消息好^reset;。请收下这个，谢谢你的努力，远离我吧。现在请你走吧。^green;我需要一个人^reset;静一静。"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Grab your popcorn, get comfortable, and turn off your phone!",
+    "value": "拿上你爆米花，坐好，并关掉你的手机！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Theater Seat",
+    "value": "影院座位"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I do hope this movie is good... And that the other viewers won't be obnoxious...",
+    "value": "我希望这场电影会好看......而且其他观众也不会感到厌恶......"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A comfortable seat from which to watch a film.",
+    "value": "一个可以舒服地观看电影的座位。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Movie time!",
+    "value": "电影时间！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excited. I've been looking forward to this film since the trailer came out!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I gotta pace myself with my popcorn. I don't want to have eaten it all before the trailers are even done!",
+    "value": "我得控制住我自己，我可不想在预告片结束前就把爆米花吃完了！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Hopefully this'll be a good one.",
+    "value": "希望这会是场好电影。"
+  }
+]

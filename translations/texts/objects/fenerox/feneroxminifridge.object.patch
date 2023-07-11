@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small, primitive fridge.",
+    "value": "一台小而原始的冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fenerox Mini Fridge",
+    "value": "耳廓狐的迷你冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "They... Actually think this will work.",
+    "value": "他们... 真的认为这是可行的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'm fairly sure this isn't how it works.",
+    "value": "我相当肯定这不是它的工作原理。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran not sssure that'sss right...",
+    "value": "叶族人不不确定这是否正正确的的..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This looks like it may collapse.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm not storing my food in that.",
+    "value": "我才不会把我的食物储存在那里。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "How quaint. It will not work, however.",
+    "value": "多么古雅。然而，这并不行。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This ain't how you do it at all.",
+    "value": "你根本就不是这样做的。"
+  }
+]

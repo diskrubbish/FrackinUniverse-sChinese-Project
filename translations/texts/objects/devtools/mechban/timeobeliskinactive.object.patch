@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Despawns all mechs in range.",
+    "value": "破坏范围内的所有机甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "FU Mech Ban Pillar",
+    "value": "FU 机甲禁止之柱"
+  }
+]

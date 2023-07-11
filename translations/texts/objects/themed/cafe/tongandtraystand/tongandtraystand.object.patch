@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stable of buffet-type restaurants.",
+    "value": "自助餐式餐馆的马厩。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tong & Tray Stand",
+    "value": "大钳和托盘架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A luxury unheard of in Miniknog operated territory.",
+    "value": "在科技发展部经营的地区闻所未闻的奢侈品。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It seems I can choose which side dishes I'd like with these tongs.",
+    "value": "看来我可以用这些钳子来选择我喜欢的配菜。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pinchy arm is used to grab Floran's next meal.",
+    "value": "夹胳膊是用来抓住叶族人的下一餐。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. With these tongs I can grab the exact dish I'd like without having to touch it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Whoo-ho! All you can eat!",
+    "value": "哇哦！你能吃的都有！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A way for customers to pick out their dish without contaminating the food. Smart.",
+    "value": "这是一种让顾客在不污染食物的情况下挑选菜肴的方法。聪明。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "One of these is a sure sign for lots of good grub ahead.",
+    "value": "其中一个是肯定的迹象，预示着未来会有很多好的食物。"
+  }
+]

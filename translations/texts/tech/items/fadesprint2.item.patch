@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Damage foes with your sprint.",
+    "value": "可以在激活时伤害你的敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Phase Sprint II^reset;",
+    "value": "^#77acc3;相位加速 II^reset;"
+  }
+]

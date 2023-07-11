@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pleasantly sweet and salty juice. Refreshing!",
+    "value": "一杯甜甜的、咸咸的果汁，清爽爽口！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Reef Juice",
+    "value": "礁荚汁"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran feelsss robbed of water drinking this.",
+    "value": "叶族人觉得得得喝这个没水喝了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Incredulous. Doesn't having a salty drink defeat the purpose of it being a drink?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Salty as the sea it came from.",
+    "value": "它来自咸咸的海洋。"
+  }
+]

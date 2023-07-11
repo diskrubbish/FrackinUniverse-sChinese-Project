@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spawns in a pet cleaning bot! \n^orange;To locate it after placing, toggle wire mode.^reset;",
+    "value": "生成一只宠物清洁机器人！\n^orange;若要在放置后定位生成器位置，请切换为连线模式。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Cleaning Bot Spawner^reset;",
+    "value": "^orange;宠物清洁机器人生成器^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Improved dodge. Allows jumping mid-dodge.",
+    "value": "改进的闪避。允许跳跃在半空时闪避。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Dodge III",
+    "value": "闪避 III"
+  }
+]

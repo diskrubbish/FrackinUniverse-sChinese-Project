@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A super-strong alloy support beam.",
+    "value": "超强的合金支撑梁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Riveted Support",
+    "value": "铆接支撑"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Made for holdin' spaceships together.",
+    "value": "为支撑宇宙飞船而制造。"
+  }
+]

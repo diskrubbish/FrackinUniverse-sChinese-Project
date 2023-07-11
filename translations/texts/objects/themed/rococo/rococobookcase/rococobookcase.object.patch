@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fancy vintage bookcase.",
+    "value": "一个精致的老式书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rococo Bookcase",
+    "value": "洛可可式书架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These books look about as old as the case that holds them.",
+    "value": "这些书看起来和装它们的箱子一样古老。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Some dusty tomes. The bookcase itself is beautiful, however.",
+    "value": "一些满是灰尘的大部头。然而，书架本身很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sshiny bookcase, dussty books. Weird.",
+    "value": "漂亮的书柜，漂亮的书。奇怪的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. How can this bookcase be so clean when its contents are covered in dust?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Doesn't look like these books have been read in a while.",
+    "value": "看起来这些书已经读了很久了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There's actually some classical literature underneath all that dust.",
+    "value": "实际上，在这些灰尘之下有一些古典文学。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A person who reads about as much as I do, looks like.",
+    "value": "一个和我读得一样多的人。"
+  }
+]

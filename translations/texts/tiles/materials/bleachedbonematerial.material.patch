@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A collection of sun-bleached bones tightly packed together.",
+    "value": "白皙的骨头紧紧地压缩在一起。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bleached Bones",
+    "value": "已漂白的骨头"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Horrified. Bones from a variety of sources packed together.",
+    "value": ""
+  }
+]

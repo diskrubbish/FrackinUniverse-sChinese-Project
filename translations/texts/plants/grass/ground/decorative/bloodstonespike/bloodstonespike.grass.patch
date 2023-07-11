@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Goresprout",
+    "value": "这是三角萌芽"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A gore-sprout",
+    "value": "三角萌芽"
+  }
+]

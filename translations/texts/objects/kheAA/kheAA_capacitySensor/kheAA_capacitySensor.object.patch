@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Outputs whether a container's slots are partially or fully filled. Place near object placement point. Scan for more info.",
+    "value": "输出一个容器的格子是否部分装满或完全装满。放在对象的放置点附近。扫描以获取更多信息。"
+  },
+  {
+    "op": "replace",
+    "path": "/scanDescription",
+    "raw": "^red;Output1:^reset; Partial Fill ^red;Output2:^reset; Complete Fill",
+    "value": "^red;输出1:^reset;部分装满 ^red;输出2:^reset; 完全装满"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Capacity Sensor",
+    "value": "容量传感器"
+  }
+]

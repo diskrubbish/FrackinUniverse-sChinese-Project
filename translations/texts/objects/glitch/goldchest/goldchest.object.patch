@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An old golden chest, still going strong.",
+    "value": "一个古老的金色箱子，依旧很结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gold Chest",
+    "value": "金箱"
+  }
+]

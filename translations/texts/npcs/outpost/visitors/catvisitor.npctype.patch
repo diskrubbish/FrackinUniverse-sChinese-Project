@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "raw": "Meow! The outpost is full of pawesome shops, huh?",
+    "value": "喵！前哨站到处都是典当店，是吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "raw": "Meow. ...I had you thinking I was a normal cat, didn't I?",
+    "value": "喵。我让你产生我是只普通的猫的错觉，不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "raw": "Mew... The outpost is a bit chilly, huh? Cats prefer warm places, for sure!",
+    "value": "喵...前哨站有点冷，是吧？当然，猫咪们更喜欢温暖的地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "raw": "Meow? What's that? Sorry, this thick crowd is messing with my telepathy.",
+    "value": "喵？那是什么？抱歉，这么多人会扰乱我的心灵感应。"
+  }
+]

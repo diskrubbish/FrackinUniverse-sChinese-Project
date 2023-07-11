@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A restaurant-grade kitchen cabinet. Great for keeping heavier items off the kitchen floor.",
+    "value": "餐厅级厨房橱柜。非常适合将较重的物品远离厨房地板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Industrial Kitchen Double Wall Cabinet",
+    "value": "工业厨房双壁柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Useful for adding additional storage to a room.",
+    "value": "往一间房里面添加额外的实用存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A wall cabinet, for storing items up high.",
+    "value": "一个壁橱，用来把物品放在高处。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Turn wallss into sstorage. Clever.",
+    "value": "变墙墙墙为柜柜柜。真聪明。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Optimistic. Suspended storage. Useful.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A couple of wall cabinets. Good for saving space.",
+    "value": "一组壁橱。有利于节省空间。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A good way to make use of empty space.",
+    "value": "一个利用空白空间的好方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A handy wall mounted cabinet.",
+    "value": "一个方便的壁挂式橱柜。"
+  }
+]

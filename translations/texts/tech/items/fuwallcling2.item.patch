@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Grip better, get buffs!",
+    "value": "攀附时间更长。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Magnet Grip II^reset;",
+    "value": "^#77acc3;磁吸攀附 II^reset;"
+  }
+]

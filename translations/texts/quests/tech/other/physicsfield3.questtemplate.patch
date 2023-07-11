@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Breaking Physics III",
+    "value": "打破物理规律 III"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I'm not sure how this even works. But it is absolutely ^orange;amaze-balls^reset;!",
+    "value": "我不清楚这到底是如何工作的。但是我敢肯定这绝对是^orange;最棒的^reset;！"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Use extreme caution with this tech. It is both a great bonus and a dangerous tool.",
+    "value": "使用这种科技时请保持警惕，因为一项收益与危险成正比的科技。"
+  }
+]

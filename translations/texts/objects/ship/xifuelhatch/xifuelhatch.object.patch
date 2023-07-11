@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Accepts Liquid Erchius as fuel for the ship's FTL dive.",
+    "value": "允许厄尔吉斯液态燃料作为飞船FTL引擎的燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "FTL Fuel Hatch",
+    "value": "FTL引擎燃料仓"
+  },
+  {
+    "op": "replace",
+    "path": "/xiDescription",
+    "raw": "The FTL drive fuel hatch. Converts fuel into freedom.",
+    "value": "FTL引擎的燃料仓，在这里灌满燃料，我就能在宇宙中自由航行了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The FTL fuel hatch. Let's load it up and take to the stars!",
+    "value": "飞船的燃料仓，让我们给它加满燃料，让飞船跃迁到未知的星系去吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fuel hatch for FTL drive. Let'ss fill it up!",
+    "value": "给FTL引擎供能的燃料仓，叶族人可以用燃料灌灌灌灌灌满它！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excited. This hatch fuels the FTL drive so that I may visit planets outside of this system.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The ship's fuel hatch. With fuel for the FTL drive I can explore outside this system.",
+    "value": "飞船的燃料仓，有了燃料我们就能跃迁到其他星系。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The humble FTL fuel hatch. Fuel is the lifeblood of exploration.",
+    "value": "FTL引擎的燃料仓，谨记燃料是探险活动的命脉。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "FTL fuel goes in here!",
+    "value": "FTL引擎的燃料仓在这儿！"
+  }
+]

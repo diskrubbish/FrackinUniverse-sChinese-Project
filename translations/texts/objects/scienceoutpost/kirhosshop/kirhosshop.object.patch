@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sells all manner of interesting wares.",
+    "value": "售卖各种有趣的商品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Lorewalker's Shop^reset;",
+    "value": "^orange;独行者的商店^reset;"
+  }
+]

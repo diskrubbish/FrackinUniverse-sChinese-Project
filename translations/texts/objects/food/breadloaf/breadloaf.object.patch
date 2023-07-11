@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A loaf of bread.",
+    "value": "一条面包。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bread Loaf",
+    "value": "面包条"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The base of many a fine sandwich.",
+    "value": "许多美味三明治的边。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Avians bake their loafs to be round, but this bread satisfies all the same.",
+    "value": "叶族人把面包烤成圆的，但这种面包同样令人满意。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssstuffs all kinds of meat in between slices.",
+    "value": "叶族人把各种肉夹在两片之间。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disappointed. A loaf of plain store bought bread just doesn't have the same charm of the homemade kind.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Simple, but highly versatile.",
+    "value": "简单，但用途广泛。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Bread is perhaps second only to rice in terms of sheer versatility.",
+    "value": "就功能而言，面包可能仅次于大米。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Can't go wrong with a fresh loaf of bread.",
+    "value": "一块新鲜的面包是不会出错的。"
+  }
+]

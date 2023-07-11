@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bunny-shaped jar full of ash. Unbreakable!",
+    "value": "一个装满灰的兔子形状的罐子。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bunny Jar",
+    "value": "兔子罐"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A lot of ash in this jar. It could be remains.",
+    "value": "这个罐子里有很多灰。可能是遗体。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The ash in this jar is the remains of an Avian that died in shame. The rabbit marks the Avian inside as one that will never obtain wings in the aether.",
+    "value": "这个罐子里的灰烬是一只羞愧而死的翼族人的遗骸。兔子将里面的翼族人标记为永远不会在以太中获得翅膀的鸟类。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Iss this asssh of Avian or other creature?",
+    "value": "这是翼族人还是其他生物？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. The ash inside is Avian in origin, so why is the jar this shape?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A bunny jar, full of ash remains.",
+    "value": "一个装满灰烬的兔子罐子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Why would the Avian store the ashes of their dead in a jar like this?",
+    "value": "为什么翼族人会把死者的骨灰储存在这样一个罐子里？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This jar looks perfect for shootin' practice.",
+    "value": "这个罐子看起来非常适合射击练习。"
+  }
+]

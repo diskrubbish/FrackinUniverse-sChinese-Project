@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A perfect ceiling lamp.",
+    "value": "一盏完美的吊灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Perfect Ceiling Lamp",
+    "value": "完美的吊灯"
+  }
+]

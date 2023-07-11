@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The main power source of the Eld'uukhar. Its liquid form has slight healing properties.",
+    "value": "厄休安龙人的主要动力来源。它的液体形式有轻微的愈合性能。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Oceanite Crystal Seed",
+    "value": "大洋石水晶种子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I wonder what purpose this gem has.",
+    "value": "我想知道这种宝石带有怎样的目的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This crystal isn't anything like the ones in our temples.",
+    "value": "这种水晶不像我们寺庙中的任何东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran thinksss thisss sssmellsss nice.",
+    "value": "叶族人觉觉得这东西闻闻闻起来不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. What an odd smell for a gemstone.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "They smell like the sea.",
+    "value": "大海的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These crystals remind me of my peoples' time in the ocean.",
+    "value": "这些水晶让我想起来我的人民在海洋中的时光。"
+  },
+  {
+    "op": "replace",
+    "path": "/elduukharDescription",
+    "raw": "These crystals power all of our tech.",
+    "value": "这些水晶为我们所有的技术提供动力。"
+  }
+]

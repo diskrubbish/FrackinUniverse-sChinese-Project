@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy and ancient tomb.",
+    "value": "一个古老而坚固的壁棺。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Catacombs Tomb",
+    "value": "墓穴储物柜"
+  }
+]

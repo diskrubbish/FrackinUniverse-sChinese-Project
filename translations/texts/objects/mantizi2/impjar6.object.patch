@@ -1,0 +1,188 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A jar made to suit Mantizi tastes.",
+    "value": "适合甲虫族口味的罐子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Imperial Jar",
+    "value": "御坛"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A mysterious-looking striped jar.",
+    "value": "一个神秘的带条纹的罐子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's a bit too small to place anything of worth inside, but it's still pretty.",
+    "value": "它太小了一点，放不下任何有价值的东西，但它仍然很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "For putting thingssss in.",
+    "value": "把东西放进去。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. These look a bit like jars for storing condiments.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/bothanDescription",
+    "raw": "A small jar, with a glazed surface.",
+    "value": "一个表面有玻璃的小罐子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A jar that would seem cultured and refined. But not to us.",
+    "value": "一个看起来很有教养的罐子。但对我们来说不是。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Nothin' to see here, just a plain ol' jar.",
+    "value": "这里没什么可看的，只是一个普通的罐子。"
+  },
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Strange vessel. Not Fenerox. Like rock. Very unusual!",
+    "value": "奇怪的船。不是耳廓狐。像石头一样。非常不寻常！"
+  },
+  {
+    "op": "replace",
+    "path": "/felinDescription",
+    "raw": "A pretty looking jar. But just how tough can it be?",
+    "value": "一个漂亮的罐子。但到底有多艰难呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/mawgDescription",
+    "raw": "It's just some clay jar ... no need to get so excited about it.",
+    "value": "只是一个陶罐...没必要这么激动。"
+  },
+  {
+    "op": "replace",
+    "path": "/twilekDescription",
+    "raw": "Wonder how much this jar would fetch if I could just fence it.",
+    "value": "不知道如果我能把这个罐子围起来，它能卖多少钱。"
+  },
+  {
+    "op": "replace",
+    "path": "/ithorianDescription",
+    "raw": "To defile the soils of Ithor just to create a base item such as this would be sacrilege!",
+    "value": "玷污伊索的土壤，或者仅仅创造一个这样的基本物品，都是亵渎！"
+  },
+  {
+    "op": "replace",
+    "path": "/rodianDescription",
+    "raw": "While soils on Rodia do bear clay, we have little need of vessels like these.",
+    "value": "虽然罗迪亚岛上的土壤确实含有粘土，但我们几乎不需要这样的容器。"
+  },
+  {
+    "op": "replace",
+    "path": "/togrutaDescription",
+    "raw": "Ideal for stashing away trinkets and all sorts of small items.",
+    "value": "非常适合存放小饰品和各种小物件。"
+  },
+  {
+    "op": "replace",
+    "path": "/wookieDescription",
+    "raw": "This jar is for stashing away condiments, trinkets and all sorts of small items.",
+    "value": "这个罐子是用来存放调味品、小饰品和各种小东西的。"
+  },
+  {
+    "op": "replace",
+    "path": "/zabrakDescription",
+    "raw": "I won't mind having this glazed clay jar on my kitchen shelf.",
+    "value": "我不介意把这个釉面陶罐放在厨房的架子上。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Just the gift for that celebrity chef wannabe friend that always pesters you about food.",
+    "value": "这是送给那位总是缠着你吃东西的名厨朋友的礼物。"
+  },
+  {
+    "op": "replace",
+    "path": "/tuskanDescription",
+    "raw": "Striped like a desert rock. And probably just as useful.",
+    "value": "像沙漠岩石一样有条纹。而且可能同样有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/sithDescription",
+    "raw": "Fit for grotthu, not so much for Sith.",
+    "value": "适合格罗图，不适合西斯。"
+  },
+  {
+    "op": "replace",
+    "path": "/diathimDescription",
+    "raw": "A wonderfully glazed clay jar. What does it contain?",
+    "value": "一个极好的上釉陶罐。里面有什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/xionianDescription",
+    "raw": "This jar was finished with different glazes - some ash, others iron-based.",
+    "value": "这个罐子是用不同的釉料制成的——一些是灰烬，另一些是铁质的。"
+  },
+  {
+    "op": "replace",
+    "path": "/tokenraceDescription",
+    "raw": "A clay jar.",
+    "value": "陶罐。"
+  },
+  {
+    "op": "replace",
+    "path": "/insectlidDescription",
+    "raw": "There's no drysap in here. Now I'm thirsty.",
+    "value": "这里没有树液。现在我渴了。"
+  },
+  {
+    "op": "replace",
+    "path": "/goats_cccccDescription",
+    "raw": "As adept as we are with the manufacturing arts, we Sealbhóir prefer wooden tableware, not stone or ceramic.",
+    "value": "尽管我们精通制造工艺，但我们更喜欢木制餐具，而不是石头或陶瓷餐具。"
+  },
+  {
+    "op": "replace",
+    "path": "/beldehorDescription",
+    "raw": "For so small an object, this jar is pretty eye-catching.",
+    "value": "对于这么小的一个物体，这个罐子非常引人注目。"
+  },
+  {
+    "op": "replace",
+    "path": "/andurianDescription",
+    "raw": "This jar looks like as if it was alive!",
+    "value": "这个罐子看起来像是活的！"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "Why do alien species think this to be some form of high art?",
+    "value": "为什么外星物种认为这是某种形式的高级艺术？"
+  },
+  {
+    "op": "replace",
+    "path": "/radienDescription",
+    "raw": "A clay jar. I wonder for what ritual purpose this was made.",
+    "value": "陶罐。我想知道这是出于什么仪式目的。"
+  },
+  {
+    "op": "replace",
+    "path": "/thelusianDescription",
+    "raw": "Are there any baddies around? I could smash them upside the head with this.",
+    "value": "附近有坏人吗？我可以用这个砸他们的头。"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^green;The Tower Invincible",
+    "value": "^green;永世塔塞"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "A dread Glitch warlord has been terrorising nearby planets from his tower on a far-off planet. I should do something about this.",
+    "value": "一位作恶多端的电子人领主正在遥远的行星上压迫附近的人民，我应该铲除这个坏蛋。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Defeat the dread warlord of the Tower Invincible.",
+    "value": "击败电子人领主。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Ha ha! A true test and proof of my stremf! Now time to help myself to all this sweet, sweet loot!",
+    "value": "哈哈！我终于知道自己到底有多强了，现在让我来看看到底有什么战利品！"
+  }
+]

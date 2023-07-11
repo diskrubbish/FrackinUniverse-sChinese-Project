@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A flag used to identify radical Kirhosi movements. Use ^green;[E]^reset; to bookmark a teleportation location.",
+    "value": "一面用来识别激进的鼠族运动的旗帜。使用^green;[E]^white;标记一个传送坐标。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kirhosi Flag",
+    "value": "鼠族旗帜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The Kirhosi flag.  Since it marks a rebel presence, it should have a module on it for waymarking teleportation.",
+    "value": "鼠族旗帜。它标志着一支反抗军的存在，因此里面应该装有一个用于路标传送的模块。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A Kirhosi flag. I wonder what the brackets in the corner mean? I should be able to use it as a teleportation waypoint.",
+    "value": "一面鼠族旗帜。我想知道角落里的括号意味着什么？我应该可以把它当做一个传送路标。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Kirhosss!  Floran can teleport to thiss!",
+    "value": "鼠族人啊！叶族人可以传送到这这这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A Kirhosi flag. I understand this identifies rebels and should have teleportation capabilities.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A Kirhosi flag. It's pretty abstract. I can use it as a teleportation waypoint.",
+    "value": "一面鼠族旗帜。非常抽象。我可以将之作为一个传送路标。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Kirhosi flag. Their cities are splendid, but the commonfolk are restless and entitled. Still, their flags are teleport-compatible.",
+    "value": "鼠族旗帜。他们建立了无比辉煌的城市，普通民众享有权利却不得满足。尽管如此，他们的旗帜仍可用于传送。。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "What a right pretty flag! I sure can use this for teleportin'.",
+    "value": "多么棒的旗帜！我很确定我可以利用它来进行传送！"
+  },
+  {
+    "op": "replace",
+    "path": "/kirhosDescription",
+    "raw": "Red for the blood spilled to satiate the rich.  Black for the shadows in which we operate.  A matrix for the power of cyberspace.  Down with the Zaibatsu!",
+    "value": "鲜红的鲜血溢满了富人。黑色表示我们操作的阴影。网络空间力量的矩阵。打倒财阀！"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "Red for the blood spilled to satiate the rich.  Black for the shadows in which we operate.  A matrix for the power of cyberspace.  Down with the Zaibatsu!",
+    "value": "鲜红的鲜血溢满了富人。黑色表示我们操作的阴影。网络空间力量的矩阵。打倒财阀！"
+  }
+]

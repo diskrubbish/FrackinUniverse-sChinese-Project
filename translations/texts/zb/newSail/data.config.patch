@@ -1,0 +1,176 @@
+[
+  {
+    "op": "replace",
+    "path": "/GUI/title",
+    "raw": "S.A.I.L",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/GUI/subtitle",
+    "raw": "Ship-based Artificial Intelligence Lattice",
+    "value": "舰载人工智能"
+  },
+  {
+    "op": "replace",
+    "path": "/Speech/noMissionsSpeech/text",
+    "raw": "No mission co-ordinates currently available.",
+    "value": "目前没有任何可行的任务坐标。"
+  },
+  {
+    "op": "replace",
+    "path": "/Speech/noCrewSpeech/text",
+    "raw": "You are the only registered crew member of this ship.\n\nRecruiting additional crew members may allow for increased operational efficiency.",
+    "value": "你是这艘飞船唯一的在籍船员。\n\n招募额外的船员可有助于提高运作效率。"
+  },
+  {
+    "op": "replace",
+    "path": "/Speech/noStoredCrewSpeech/text",
+    "raw": "There are currently no inactive crew members.\n\nCrew members become inactive if the the number of active crew exceeds the number of crew your ship can support.",
+    "value": "目前没有不活跃的船员。\n\n如果活跃船员的数量超过你可以容纳的船员数量，活跃船员就会变成不活跃的船员。"
+  },
+  {
+    "op": "replace",
+    "path": "/Speech/shipStatus/0/text",
+    "raw": "Zzz... Zzz... Zzz...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/Speech/shipStatus/1/text",
+    "raw": "> Ship thrusters are currently offline.\n> Ship teleportation system functioning correctly.\n> ^green;Currently only the planet below is accessible.",
+    "value": "> 飞船推进器当前处于离线状态。\n> 飞船传送系统正常运作。\n> ^green;目前只能抵达飞船下方的星球。"
+  },
+  {
+    "op": "replace",
+    "path": "/Speech/shipStatus/2/text",
+    "raw": "> Ship thrusters are online.\n> Ship teleportation system functioning correctly.\n> ^green;Planets within this star system are accessible.",
+    "value": "> 飞船推进器已上线。\n> FTL引擎已上线。\n> 飞船传送系统正常运作。\n> ^green;可以抵达这个恒星系中的所有星球。"
+  },
+  {
+    "op": "replace",
+    "path": "/Speech/shipStatus/3/text",
+    "raw": "> Ship thrusters are online.\n> FTL drive is online.\n> Ship teleportation system functioning correctly.\n> ^green;The entire universe is accessible.",
+    "value": "> 飞船推进器已上线。\n> FTL引擎已上线。\n> 飞船传送系统正常运作。\n> ^green;可以抵达整个宇宙。"
+  },
+  {
+    "op": "replace",
+    "path": "/Data/misc/0/1",
+    "raw": "^#e43774;[FR]^reset; Player Bonuses (%%status.statusProperty(\"fr_enabled\")%%)",
+    "value": "^#e43774;[FR]^reset; 玩家增益 (%%status.statusProperty(\"fr_enabled\")%%)"
+  },
+  {
+    "op": "replace",
+    "path": "/Data/misc/1/1",
+    "raw": "^cyan;[FU]^reset; BYOS Atmosphere (%%world.getProperty(\"fu_byos.newAtmosphereSystem\")%%)",
+    "value": "^cyan;[FU]^reset; BYOS大气 (%%world.getProperty(\"fu_byos.newAtmosphereSystem\")%%)"
+  },
+  {
+    "op": "replace",
+    "path": "/Data/misc/2/1",
+    "raw": "^cyan;[FU]^reset; Configure Ship Pet",
+    "value": "^cyan;[FU]^reset; 飞船宠物配置"
+  },
+  {
+    "op": "replace",
+    "path": "/Data/misc/3/1",
+    "raw": "^cyan;[FU]^reset; Character Status",
+    "value": "^cyan;[FU]^reset; 角色状态"
+  },
+  {
+    "op": "replace",
+    "path": "/Data/misc/4/1",
+    "raw": "^orange;[ZB]^reset; Update Window",
+    "value": "^orange;[ZB]^reset; 升级窗口"
+  },
+  {
+    "op": "replace",
+    "path": "/Data/misc/5/1",
+    "raw": "^orange;[ZB]^reset; Quest List",
+    "value": "^orange;[ZB]^reset; 人物列表"
+  },
+  {
+    "op": "replace",
+    "path": "/Data/misc/6/1",
+    "raw": "^orange;[ZB]^reset; Research Tree",
+    "value": "^orange;[ZB]^reset; 研究树"
+  },
+  {
+    "op": "replace",
+    "path": "/Data/misc/7/1",
+    "raw": "^orange;[ZB]^reset; Custom SAIL Info",
+    "value": "^orange;[ZB]^reset; 自定义SAIL信息"
+  },
+  {
+    "op": "replace",
+    "path": "/Data/misc/8/1",
+    "raw": "Vanilla SAIL",
+    "value": "原版SAIL"
+  },
+  {
+    "op": "replace",
+    "path": "/Data/miscAdmin/0/1",
+    "raw": "[Admin] Clear Statuses",
+    "value": "[管理员]清除状态"
+  },
+  {
+    "op": "replace",
+    "path": "/TextData/strings/error",
+    "raw": "An error has occured. Please report this on the Steam page or Discord server with a log attached. ^green;If the error message below is green, you should pay attention to it.^reset;\n\nMeanwhile, you can click any of the buttons to open the vanilla version of SAIL.",
+    "value": "发生了一个错误。请在Steam页面或Discord服务器上报告此事，并附上日志。^green;如果下面的错误信息是绿色的，你应该注意它。^reset;\n\n同时，你可以点击任何一个按钮来打开原版SAIL。"
+  },
+  {
+    "op": "replace",
+    "path": "/TextData/strings/buttonError",
+    "raw": "^red;ERROR:^reset;\nNo button was pressed, but the function for it was called.\nPlease report how you achieved this on the Steam page or Discord server, and try clicking the button again.",
+    "value": "^red;错误:^reset;\n没有按钮被按下，但它的功能被调用。\n请在Steam页面或Discord服务器上报告你是如何实现的，并尝试再次点击该按钮。"
+  },
+  {
+    "op": "replace",
+    "path": "/TextData/strings/promiseError",
+    "raw": "customDataPromise failed - Incompatible or faulty SAIL object definition. Please contact the modder who made your current race about a fault in their techStation object definition.",
+    "value": "customDataPromise失败 - 不兼容或有问题的SAIL对象定义。请与制作你当前种族的修改者联系，并向他们说明他们的techStation对象定义有问题。"
+  },
+  {
+    "op": "replace",
+    "path": "/TextData/strings/intro",
+    "raw": "Welcome to S.A.I.L.\n\nUsing this interface you can check the ship's status, view your currency ^green;[BALANCE]^reset;, begin ^green;[MISSIONS]^reset;, manage your ^green;[CREW]^reset;, and access other useful ^green;[MISC]^reset; features.",
+    "value": "欢迎使用S.A.I.L.\n\n使用这个界面，你可以检查飞船状态，查看^green;[余额]^reset;，开始^green;[任务]^reset;，管理^green;[船员]^reset;)，并访问其他一些有用的^green;[杂项]^reset;功能。"
+  },
+  {
+    "op": "replace",
+    "path": "/TextData/strings/noCustomAIMod",
+    "raw": "^red;ERROR:^reset;\nMissing the '^green;Scripted Artificial Intelligence Lattice^reset;' mod.\nPlease install it if you wish to use this feature.",
+    "value": "^red;错误:^reset;\n丢失“^green;脚本化人工智能窗口^reset;”mod。\n如果你想使用这个功能，请安装此mod。"
+  },
+  {
+    "op": "replace",
+    "path": "/TextData/strings/customAI",
+    "raw": "Insert A.I. chips in the slots below to customize the A.I.\nClick the '^green;CRAFT^reset;' button to open the A.I. chip crafting menu.",
+    "value": "在下面的插槽中插入人工智能芯片以定制A.I.。\n\n单击“^green;CRAFT^reset;”按钮来打开A.I.芯片的制作菜单."
+  },
+  {
+    "op": "replace",
+    "path": "/TextData/currencies/main",
+    "raw": "Main",
+    "value": "主要"
+  },
+  {
+    "op": "replace",
+    "path": "/TextData/currencies/fu_tradegoods",
+    "raw": "Trade Goods",
+    "value": "交易货物"
+  },
+  {
+    "op": "replace",
+    "path": "/TextData/currencies/fu_research",
+    "raw": "Research",
+    "value": "研究点数"
+  },
+  {
+    "op": "replace",
+    "path": "/TextData/currencies/unsorted",
+    "raw": "Unsorted",
+    "value": "未分类"
+  }
+]

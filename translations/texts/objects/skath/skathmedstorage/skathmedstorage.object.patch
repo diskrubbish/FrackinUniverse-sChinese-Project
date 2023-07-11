@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Skath medical storage unit.",
+    "value": "绘世者医疗存储装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Med-Store",
+    "value": "绘世者医学商店"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This container was obviously made to store medical supplies.",
+    "value": "这个容器显然是用来存放医疗用品的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This appears to be a medical storage of some sort.",
+    "value": "这似乎是某种医疗储藏。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Waterdragon storesss medicine in here.",
+    "value": "水龙在这里储存药品。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A medical storage unit.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A medical storage unit. Good for painkillers and hangover cures.",
+    "value": "医疗储存装置。对止痛药和宿醉治疗有好处。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I expect there's medical supplies stored within.",
+    "value": "我想里面有医疗用品。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A nice lookin' bandage box.",
+    "value": "一个好看的绷带盒。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "These Med-Store units are common on our ships, and contain medical supplies suited to Skath physiology.",
+    "value": "这些医疗存储单元在我们的船上很常见，包含适合绘世者生理学的医疗用品。"
+  }
+]

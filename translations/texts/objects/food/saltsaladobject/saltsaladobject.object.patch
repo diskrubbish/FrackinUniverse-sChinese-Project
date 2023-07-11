@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Coralcreep, reefpod and pearlpea make for a salty, crunchy salad.",
+    "value": "珊瑚礁、芦苇和珍珠豆是咸脆的沙拉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Salt Salad",
+    "value": "咸沙拉"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Too much sssalt makes Floran feel lightheaded...",
+    "value": "太多的盐让叶族人感到头晕..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Crabby. Would it kill whoever made this to serve it with some water?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Salty ain't even the half of it...",
+    "value": "咸的还不到一半..."
+  }
+]

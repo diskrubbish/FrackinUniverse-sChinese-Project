@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rack of shields, ready for war.",
+    "value": "一排盾牌，准备开战。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Display Shields",
+    "value": "甲虫显示器护盾"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A beautiful set of shields.",
+    "value": "一套漂亮的盾牌。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It appears to be Mantizi shields.",
+    "value": "看起来是甲虫护盾。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sturdy shields for sturdy man.",
+    "value": "为强壮的人准备坚固的盾牌。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Educate. These shields are built purely for decoration. Real battle shields are far more rugged.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "An attractive set of shields.",
+    "value": "一套漂亮的盾牌。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These shields look as if they've never been used.",
+    "value": "这些防护罩看起来好像从未使用过。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This is an interesting plant...",
+    "value": "一个有趣的植物..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Claw Fern",
+    "value": "羊角蕨"
+  }
+]

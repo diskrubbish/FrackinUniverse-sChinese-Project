@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This pod stores energy!",
+    "value": "这个舱体存储了能源！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Energy Storage Pod",
+    "value": "能源存储舱"
+  }
+]

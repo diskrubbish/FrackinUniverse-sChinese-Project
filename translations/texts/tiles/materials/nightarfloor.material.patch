@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Traditional Nightar flooring.",
+    "value": "传统的夜族地板."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Flooring",
+    "value": "夜族地板"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Reduces effects of gravity within 30 tiles.\n^blue;Input^reset;: On/Off Switch.",
+    "value": "减少30格内的重力影响。\n^blue;输入^reset;: 电源开关。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Anti-Grav Generator^reset;",
+    "value": "^orange;反重力发生器^reset;"
+  }
+]

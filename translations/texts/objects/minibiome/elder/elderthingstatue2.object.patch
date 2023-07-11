@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What hellish evolution could bring about such wretched countenance? What nameless, hate-fueled abyss could expunge such horror?",
+    "value": "到底在什么样的环境下才能生成如此丑恶的面容？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Statue",
+    "value": "远古雕像"
+  }
+]

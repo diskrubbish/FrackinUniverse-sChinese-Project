@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fridge made from flesh and organs. Who would use this?",
+    "value": "由血肉和器官制成的冰箱。谁会想用这个？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Atropus Fridge",
+    "value": "肉源冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An awful looking fridge. I wouldn't store food here.",
+    "value": "一台看起来很恶心的冰箱。我不会在这里面储存食物的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This makes me want to vomit.",
+    "value": "这让我想吐。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Not fridge! Isss food!",
+    "value": "不是冰冰冰箱！是是是好吃的！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This fridge makes my circuits shake.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This fridge makes me want to throw up!",
+    "value": "这台冰箱还是丢了算了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Food here would just become spoiled and rotten.",
+    "value": "在这里头的食物只会变质腐烂。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't using this.",
+    "value": "我绝不使用一次。"
+  }
+]

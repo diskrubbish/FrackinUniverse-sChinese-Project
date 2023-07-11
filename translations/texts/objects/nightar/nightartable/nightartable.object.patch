@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An electronic table.",
+    "value": "一个电子桌"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Table",
+    "value": "夜族桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This is similar to the tables at the Outpost.",
+    "value": "这与前哨站的表格类似。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A very clean table you can eat off of.",
+    "value": "一张非常干净的桌子，你可以用它吃饭。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likessss shiny table!",
+    "value": "叶族人喜欢有光泽的桌子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Proud. This table is very clean.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It has such a smooth surface, it's almost unreal.",
+    "value": "它的表面如此光滑，几乎不真实。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "One has to wonder just who came up with these interesting designs.",
+    "value": "人们不禁要问，究竟是谁想出了这些有趣的设计。"
+  }
+]

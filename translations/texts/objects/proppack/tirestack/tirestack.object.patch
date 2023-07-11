@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stack of tires. The tell-tale sign of an auto mechanic.",
+    "value": "一堆轮胎。汽车修理工的信号。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tire Stack",
+    "value": "轮胎组"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A pile of tires. I can't tell if they're old or new.",
+    "value": "一堆轮胎。我不知道它们是旧的还是新的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Tires are surprisingly heavy.",
+    "value": "轮胎特别重。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bouncy rubber wheelsss.",
+    "value": "弹性橡胶轮。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Ruminative. Perhaps there is an auto shop nearby?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Why are tires still around, anyhow? Don't people use hover vehicles and ships now? My head hurts...",
+    "value": "无论如何，为什么轮胎还在附近？人们现在不使用气垫车和飞船吗？我的头很痛..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A greasy stack of tires. They smell repugnant.",
+    "value": "一堆油腻的轮胎。它们闻起来很难闻。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Who could've left these here?",
+    "value": "谁会把这些留在这里？"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fancy vintage vanity.",
+    "value": "华丽的复古虚荣。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rococo Vanity",
+    "value": "洛可可式虚荣"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A vanity. Not necessary, but much appreciated nonetheless.",
+    "value": "虚荣。没必要，但还是很感激。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A fine place to preen oneself for the day.",
+    "value": "一个为一天梳妆打扮的好地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran looks extra sscary in this mirror!",
+    "value": "叶族人在这面镜子里显得格外狡猾！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Vain. Well hello there, you dashing robot you.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Lookin' good! Heh.",
+    "value": "看起来不错！嘿。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Now I'm not normally the vain sort, but while this mirror is here...",
+    "value": "现在我通常不是那种虚荣的人，但是当这面镜子在这里的时候..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Quite the handsome devil's a-starin' back at me from this mirror.",
+    "value": "这个英俊的魔鬼正从镜子里盯着我。"
+  }
+]

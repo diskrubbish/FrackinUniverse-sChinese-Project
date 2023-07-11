@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The best toys and beds in life weren't meant to be toys or beds.",
+    "value": "生活中最好的玩具和床并不是玩具或床"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cardboard Box Bed",
+    "value": "纸箱床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A box of cardboard. It's a bit worn.",
+    "value": "一个纸箱，有点破旧了"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This box has seen better days...",
+    "value": "这个盒子看起来更好。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A cardboard box.",
+    "value": "纸箱"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. Cats seem to love hiding in boxes.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like a cat took this box over.",
+    "value": "好像是猫接管了这个盒子"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There is cat fur in this box...",
+    "value": "这里喵喵的毛"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A roughed-up cardboard box.",
+    "value": "粗糙的纸箱"
+  },
+  {
+    "op": "replace",
+    "path": "/catDescription",
+    "raw": "Meow! A cardboard box! Just what a cat loves to sleep in!",
+    "value": "喵！一个纸箱！喵喵最喜欢睡在里面了"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just big enough for a small animal to fit comfortably inside.",
+    "value": "大小刚好够一只小动物舒适地住进去。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Robodog Pet House",
+    "value": "机器狗宠物屋"
+  }
+]

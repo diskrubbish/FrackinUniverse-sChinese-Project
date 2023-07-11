@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wooden closet with a stylish pattern embedded on the doors.",
+    "value": "门上嵌有时尚图案的木制壁橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alpine Closet",
+    "value": "阿尔卑斯壁橱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These doors have a pattern embedded in the center.",
+    "value": "这些门的中心嵌入了一个图案。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The wood this closet is cut from is very light.",
+    "value": "这个壁橱用的木头很轻。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Closet with ssstyle.",
+    "value": "壁橱有着独特的风格。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. The center of these closet doors have a pattern engraved.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fancy patterned closet.",
+    "value": "花式衣橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A fine place to store one's clothes.",
+    "value": "存放衣服的好地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty fancy closet.",
+    "value": "一个非常漂亮的壁橱。"
+  }
+]

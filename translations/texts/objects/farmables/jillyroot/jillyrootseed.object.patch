@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Able to help speed healing of wounds.",
+    "value": "可以收获吉利根茎，食用后会提高生命值。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Jilly Root Seed",
+    "value": "吉利根茎种子"
+  }
+]

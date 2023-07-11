@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A home for your cones.",
+    "value": "蛋筒之家。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice Cream Cone Holder",
+    "value": "冰淇淋筒架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This stand serves as temporary storage for these ice cream cones.",
+    "value": "这个架子是这些冰淇淋蛋筒的临时存放处。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The cones are often more tempting to eat then the actual ice cream!",
+    "value": "蛋卷往往比真正的冰淇淋更诱人！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Does Floran wait for ice cream...? Or eat coness now?",
+    "value": "叶族人在等冰淇淋吗...？还是现在就吃玉米饼？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. These ice cream cones are perfectly formed.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Gotta be wary with ice cream cones. Most are good, yeah, but some taste like straight up plastic.",
+    "value": "一定要小心冰淇淋筒。大多数都很好，是的，但有些尝起来像直起的塑料。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What an odd way to transport a sweet...",
+    "value": "运送甜食的方式真奇怪..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I hope I don't end up meltin' my ice cream into mush.",
+    "value": "我希望我的冰淇淋不会融化成糊状。"
+  }
+]

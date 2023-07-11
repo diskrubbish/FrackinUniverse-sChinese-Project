@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Who made this completely pointless sign...and why?",
+    "value": "谁做了这个没什么用的标志...他是怎么想的？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Attention!",
+    "value": "注意标志"
+  }
+]

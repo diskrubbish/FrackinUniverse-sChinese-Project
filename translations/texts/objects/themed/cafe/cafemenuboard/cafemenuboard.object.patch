@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perfect for giving your bistro some class!",
+    "value": "非常适合给你的小酒馆上课！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Café Menu Board",
+    "value": "咖啡馆菜单板"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "My, what a cute little sign!",
+    "value": "天啊，多可爱的小牌子啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It smells faintly of the restaurant it's advertising.",
+    "value": "它有一股淡淡的餐厅广告味。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "This sssign means tasssty meals ahead.",
+    "value": "这个标志意味着前面有很多食物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. A quaint sign advertising a delicious menu.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ooh, fancy! You know a place is quality when a chalkboard tells you so.",
+    "value": "哦，太棒了！当黑板告诉你的时候，你就知道一个地方是有质量的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'm sure the establishment is fine, but this handwriting is atrocious...",
+    "value": "我相信这家机构很好，但这字迹太糟糕了..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I could do with some grub.",
+    "value": "我可以吃点东西。"
+  }
+]

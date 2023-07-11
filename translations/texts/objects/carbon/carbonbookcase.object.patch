@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bookcase made from carbon.",
+    "value": "碳制的书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Bookcase",
+    "value": "碳制书架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This bookcase is lighter than it looks.",
+    "value": "这个书架比它看起来要轻。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A simple looking bookcase.",
+    "value": "一个看起来简单的书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssseesss it isss a bookcase.",
+    "value": "叶族人觉觉觉得这是是是一个书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A bookcase.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's simple, but it looks nice and sleek.",
+    "value": "它很简单，但是看起来很漂亮，很时髦。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The design is simple, I wouldn't mind this in my room.",
+    "value": "设计很简单，我不介意把它放在我的房间里。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This is mighty simple, but it's pretty.",
+    "value": "非常简单，非常漂亮。"
+  }
+]

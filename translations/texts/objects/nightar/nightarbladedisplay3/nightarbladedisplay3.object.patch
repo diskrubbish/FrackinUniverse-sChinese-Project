@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Display of one of the Nightar blades.",
+    "value": "显示其中一个夜族刀锋。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar blade Display",
+    "value": "夜族刀锋显示器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Sharp display blade. The Apex favour daggers generally.",
+    "value": "显示锋利的刀刃。猿族一般喜欢匕首。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Sharp decorative blade. The Avians favour spears.",
+    "value": "锋利的装饰刀刃。翼族喜欢长矛。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sharp blade. Floran like hammerss!",
+    "value": "锋利的刀刃。叶族人喜欢大锤子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Fascinated. A sharp blade display. The Glitch weapon of choice is the broadsword.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Sharp blade. Human warriors favour the axe.",
+    "value": "锋利的刀刃。人类战士喜欢斧头。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Sharp blade. The Hylotl favour the shortsword over other weapons.",
+    "value": "锋利的刀刃。鲛人人喜欢短剑胜过其他武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Sharp blade. Probably fakes. or maybe not..",
+    "value": "锋利的刀刃。可能是假的。或许不是。。"
+  }
+]

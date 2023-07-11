@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "You're suffering from a severe neurotoxin. Yay!",
+    "value": "你感染有严重的神经毒素。耶！"
+  }
+]

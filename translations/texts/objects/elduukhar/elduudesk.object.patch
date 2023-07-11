@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A desk made from cultivated crystal.",
+    "value": "一个用人工水晶做成的书桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Desk",
+    "value": "水晶书桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A solid desk.",
+    "value": "一个结实的书桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A table to work at. The gold is a nice touch.",
+    "value": "工作用的桌子，黄金的触感很棒。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran not sssit at desskss!",
+    "value": "叶族人不坐坐坐书桌！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Indifferent. A place to prcess data.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A nice desk. It sparkes in the sun.",
+    "value": "不错的桌子，它在阳光下闪闪发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A fancy desk at which you can undergo written tasks.",
+    "value": "一张花哨的书桌，你可以在上面进行书面工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't got time to sit around at a desk.",
+    "value": "我没有时间坐在办公桌前。"
+  }
+]

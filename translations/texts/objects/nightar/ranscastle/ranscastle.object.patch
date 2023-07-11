@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A storefront for the Nightar merchant, Ran, to sell his wares.",
+    "value": "一个店面，供夜族商人跑去卖他的商品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ran's Castle",
+    "value": "岚的城堡"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "Ran's Castle",
+    "value": "岚的城堡"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "^#b9b5b2;Sells Nightar-themed goods",
+    "value": "^#b9b5b2;销售夜族主题商品"
+  }
+]

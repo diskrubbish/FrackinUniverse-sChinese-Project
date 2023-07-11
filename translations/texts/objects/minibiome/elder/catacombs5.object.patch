@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I wonder what sort of things lived here?",
+    "value": "到底里面的人是如何死去的呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Catacombs Tomb",
+    "value": "墓穴储物柜"
+  }
+]

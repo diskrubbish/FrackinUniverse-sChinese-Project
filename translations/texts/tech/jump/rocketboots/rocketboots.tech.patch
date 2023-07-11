@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Press and hold jump while in the air to fly.",
+    "value": "按住跳跃键可在空中保持飞行。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Rocket Boots",
+    "value": "火箭靴 I"
+  }
+]

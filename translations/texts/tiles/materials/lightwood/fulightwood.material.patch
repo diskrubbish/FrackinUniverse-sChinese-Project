@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lightened wood that has been prepared for building and crafting.",
+    "value": "为建筑与打造物品所准备的轻质木材。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Light Timber",
+    "value": "轻质木材"
+  }
+]

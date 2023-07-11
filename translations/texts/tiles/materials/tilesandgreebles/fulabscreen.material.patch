@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A touch-screen interface.",
+    "value": "一块触摸屏。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lab Screen",
+    "value": "实验室用屏幕"
+  }
+]

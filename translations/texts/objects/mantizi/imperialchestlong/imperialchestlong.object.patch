@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fancy wooden chest.",
+    "value": "一个漂亮的木箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Chest",
+    "value": "甲虫箱子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A Mantizi chest. It looks strong.",
+    "value": "一个甲虫箱子。它看起来很结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A hard wooden lockbox. What could be inside?",
+    "value": "一个坚硬的木制锁箱。里面可能有什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssearch sstrong chesst.",
+    "value": "叶族人在搜索强大的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Worry. The Mantizi often store strange objects in these. Is there something in here?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The kind of chest you'd expect to find in a villa.",
+    "value": "你在别墅里能找到的那种箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A strong chest. Good for storing sharp items.",
+    "value": "强壮的胸部。适合储存锋利物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Got to make sure the lock is nice and secure.",
+    "value": "必须确保锁是好的和安全的。"
+  }
+]

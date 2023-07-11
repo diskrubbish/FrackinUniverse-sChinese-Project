@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A vibrant chromatic flower.",
+    "value": "一朵充满活力的彩色花朵。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A chromatic flower.",
+    "value": "一朵彩色的花。"
+  }
+]

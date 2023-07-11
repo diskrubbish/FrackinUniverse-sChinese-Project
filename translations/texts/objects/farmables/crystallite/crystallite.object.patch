@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Produces dangerous little shards perfect for throwing at things.",
+    "value": "可以收获晶体镖，最完美的投掷武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystallite",
+    "value": "晶体镖种子"
+  }
+]

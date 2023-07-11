@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The kind of chair you can really lean back into.",
+    "value": "那种你能真正靠回去的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frontier Dining Chair",
+    "value": "边境餐椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Old fashioned, but comfortable and stylish.",
+    "value": "老式，但舒适时尚。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A rather old looking chair.",
+    "value": "一把相当旧的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssimple chair.",
+    "value": "简单的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Content. This chair is rather comfortable.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The cushion is a nice touch!",
+    "value": "这个垫子摸起来很舒服！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An old, weathered, yet comfortable chair.",
+    "value": "一把古老的、饱经风霜但舒适的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A nice 'n comfy chair.",
+    "value": "一把舒适的椅子。"
+  }
+]

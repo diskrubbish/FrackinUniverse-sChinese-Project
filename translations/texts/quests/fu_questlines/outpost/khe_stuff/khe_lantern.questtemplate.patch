@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Cat Toys",
+    "value": "猫咪玩具"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Mew lantern broke. Sad, sad mew. Find mew another one? Also, mew wants an accordion.",
+    "value": "喵喵灯笼坏了。难过，难过喵。能为喵再弄一个喵？另外，喵想要一把手风琴。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Bring ^cyan;Khe^reset; the ingredients.",
+    "value": "将成分带给^cyan;溪^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Yay! Happy kitty! You can keep the old lantern. I got lots of those.",
+    "value": "好极了！猫猫快乐！你可以保留旧灯笼。我还有很多。"
+  }
+]

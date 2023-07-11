@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A couch made from Nocxium. Comfortable, but unsettling.",
+    "value": "用诺克石做的沙发。舒适，但令人不安。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nocxium Couch",
+    "value": "诺克石沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some sort of horrible couch.",
+    "value": "某种可怕的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This makes me uncomfortable.",
+    "value": "这玩意搞得我不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Creepy couch! Floran not ssscared, honessst...",
+    "value": "令人毛骨悚然的沙发！叶族人不害怕，老实说..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This couch makes my circuits shake.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This couch gives me the creeps!",
+    "value": "这张沙发让我毛骨悚然！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An odd looking couch. It is... very unpleasant.",
+    "value": "一张奇怪的沙发。它是...非常不愉快。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This couch ain't right.",
+    "value": "这沙发不对。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bright and sturdy neon bed.",
+    "value": "一张明亮而结实的霓虹灯床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neon Bed",
+    "value": "霓虹灯床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fresh, clean looking bed.",
+    "value": "一张干净整洁的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A plain looking bed. The sheets are fresh.",
+    "value": "一张朴素的床。床单是新的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Clean bed isss good for a resstful sleep.",
+    "value": "干净的床有助于睡眠。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Calm. A bed with an appealingly high level of sterility.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A clean looking bed, it seems comfy enough.",
+    "value": "一张干净的床，看起来很舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A simple bed, it will serve its purpose.",
+    "value": "一张简单的床，就可以达到它的目的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This bed looks a little too clean, if you ask me.",
+    "value": "如果你问我的话，这张床看起来有点太干净了。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wide wall-mounted lamp made from copper.",
+    "value": "由铜制成的宽壁灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wide Copper Wall Lamp",
+    "value": "宽铜壁灯"
+  }
+]

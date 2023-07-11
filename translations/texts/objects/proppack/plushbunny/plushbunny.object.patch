@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cuddly, carrot munching friend!",
+    "value": "一个讨人喜欢吃胡萝卜的朋友！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bunny Plush",
+    "value": "兔毛绒"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Adorable! And so soft!",
+    "value": "可爱极了！太柔软了！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Those of the Kluexian faith scorn rabbits. A pity - they don't know what they're missing out on.",
+    "value": "克鲁西斯信仰的人蔑视兔子。遗憾的是，他们不知道自己错过了什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bunny toy is filled with fluff, not meatss!",
+    "value": "兔子玩具是用绒毛填充的，不是肉！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Charmed. An adorable rabbit plush toy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "D'aw, lookit those big ol' ears!",
+    "value": "噢，看那些大耳朵！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I simply MUST find one for my collection. I won't rest until I do!",
+    "value": "我必须为我的收藏找到一个。我不休息就不休息！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A cutesy bunny-rabbit toy.",
+    "value": "可爱的兔子玩具。"
+  }
+]

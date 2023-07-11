@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Brains! That's pretty smart.",
+    "value": "大脑！这很聪明。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Brain Poster",
+    "value": "大脑海报"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Forgive me if I'm a tad uncomfortable at the sight of exposed brains.",
+    "value": "如果我看到暴露的大脑有点不舒服，请原谅。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Brains... do they have any definitive connection to the soul, as the Stargazers say?",
+    "value": "大脑。。。他们是否如观星者所说，与灵魂有明确的联系？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Lookss raw.",
+    "value": "看起来很原始。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Baffled. Just what exactly is the message of this poster?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This could just as easily be an ad for a Zombie drive through.",
+    "value": "这也很容易成为僵尸驾车穿越的广告。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The size of one's brain does not itself correlate to intelligence.",
+    "value": "大脑的大小本身与智力无关。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "So folks really have these squishy things up in their noggins? Weird...",
+    "value": "所以人们真的把这些黏糊糊的东西放在酒杯里？奇怪的"
+  }
+]

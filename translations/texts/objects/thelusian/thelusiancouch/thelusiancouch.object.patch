@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A couch made from Thelusian resin.",
+    "value": "用蚁族树脂做的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Couch",
+    "value": "蚁族沙发"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cluster of dark leaves and hydrangea flowers.",
+    "value": "一簇深色的叶子与绣球花。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hydrangea Bush",
+    "value": "绣球花灌木丛"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delighted. These leaves smell of earth and flowers.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran lovess flowery plantss.",
+    "value": "叶族人喜喜喜欢花朵繁茂的植植植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "There's some real nice flowers growin' here.",
+    "value": "这里生长着一些很漂亮的花。"
+  }
+]

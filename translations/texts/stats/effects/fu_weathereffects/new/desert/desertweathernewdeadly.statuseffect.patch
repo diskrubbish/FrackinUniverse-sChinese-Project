@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Extreme Desert Heat (Resist: ^#ff6e00;Fire^reset;)",
+    "value": "极端沙漠炎热 (抵抗: ^#ff6e00;火炎^reset;)"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Calling this thing forth is likely a terrible mistake. Enjoy!",
+    "value": "召唤这家伙可能是一次可怕的错误。好好享受吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fleshreaper",
+    "value": "血肉收割者"
+  }
+]

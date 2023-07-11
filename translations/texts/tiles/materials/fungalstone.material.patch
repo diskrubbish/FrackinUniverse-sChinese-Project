@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stone covered in fungal spores.",
+    "value": "覆盖着真菌孢子的石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fungal Stone",
+    "value": "真菌石块"
+  }
+]

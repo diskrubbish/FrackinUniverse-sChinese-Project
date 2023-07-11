@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute hanging chandelier with a pink light.",
+    "value": "一个可爱的吊灯，散发着粉红色的光亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Chandelier",
+    "value": "可爱的吊灯"
+  }
+]

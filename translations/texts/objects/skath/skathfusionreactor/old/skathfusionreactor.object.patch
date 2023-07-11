@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fusion reactor made by the skath. It provides a huge amount of energy.",
+    "value": "绘世者制造的聚变反应堆。它提供了大量的能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Fusion Reactor",
+    "value": "绘世者聚变反应堆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Inside this magnetic bottle, the power of stars is harnessed.",
+    "value": "在这个磁性的瓶子里，恒星的力量得到了利用。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "That beam of light looks really dangerous. I should keep my distance.",
+    "value": "那束光看起来很危险。我应该保持距离。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bright light hurtsss Floransss eyes!",
+    "value": "明亮的光线刺痛了叶族人的眼睛！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Intrigued. This fusion reactor generates a huge amount of power.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I heard on Earth people tried to harness fusion reactors, too. It didn't end well.",
+    "value": "我听说地球上也有人试图利用核聚变反应堆。结局并不好。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An impressive effort to the future of this world. If only all energy were so clean.",
+    "value": "为这个世界的未来做出了令人印象深刻的努力。要是所有的能量都这么干净就好了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Gettin' a mighty comfortable feeling around this thing. Feels familiar somehow.",
+    "value": "在这件事上有一种非常舒服的感觉。不知怎么的，我觉得很熟悉。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "A fusion reactor, for powering whole cities. Its power output is fantastic.",
+    "value": "一个聚变反应堆，为整个城市供电。它的功率输出非常好。"
+  }
+]

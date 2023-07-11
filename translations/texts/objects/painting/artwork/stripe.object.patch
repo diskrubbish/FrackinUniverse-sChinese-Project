@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Brilliant.",
+    "value": "棒极了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stripe",
+    "value": "条纹"
+  }
+]

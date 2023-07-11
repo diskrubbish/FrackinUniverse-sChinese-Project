@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A simple painting of wildflowers in muted colors.",
+    "value": "用柔和的颜色描绘野花的简单画作。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wildflower Painting",
+    "value": "野花画"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Wildflowers are usually so bright and cheery... Seeing this painting makes me a little sad.",
+    "value": "野花通常是那么的明亮和欢快。。。看到这幅画让我有点难过。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A simple, unassuming painting.",
+    "value": "一幅简单朴素的画。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Where are the colors...?",
+    "value": "颜色在哪里。。。？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. Does the choice in paint have any significance to the artist's message here?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It looks so washed out...",
+    "value": "它看起来太破旧了。。。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The dull colors give this painting a melancholy tone.",
+    "value": "暗淡的颜色使这幅画带有忧郁的色调。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Not the cheeriest painting I've seen, for sure.",
+    "value": "当然，这不是我见过的最欢快的画。"
+  }
+]

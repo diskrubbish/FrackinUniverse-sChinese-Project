@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A compost bin. Things rot faster in here.",
+    "value": "一个肥料箱。这里的东西腐烂得更快。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Compost Bin",
+    "value": "肥料箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A compost bin.  It smells terrible, but it seems things decompose faster here.",
+    "value": "一个肥料箱。闻起来很糟糕，但是这里的东西分解得很快。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "...I suddenly feel an urge to peck around this compost bin.",
+    "value": "...我突然觉得有种想在这个肥料箱周围啄的冲动。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssmellsss funky food, yesss.",
+    "value": "叶族人闻闻闻到了时髦的食物，对对对。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. Food items and various plants decompose quickly in this bin.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ah, a good ol' compost bin! Farmers used to use this a lot back on earth.",
+    "value": "啊，一个优质肥料箱！过去地球上的农民经常使用这玩意。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The inside of this storage looks about as rotten as some parts of the sea floor.",
+    "value": "这个仓库的内部看起来和海底的某些部分一样腐烂。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This bin smells somethin' awful!  Is it used for gardening?",
+    "value": "这个垃圾桶闻起来有点难闻！这玩意用于园艺吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Stuff goes bad faster.  Useful for me.",
+    "value": "东西变质得更快。对我有用。"
+  }
+]

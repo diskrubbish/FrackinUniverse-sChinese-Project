@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Almost as big as they come.",
+    "value": "几乎和它们来的时候一样大。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poptop Alpha",
+    "value": "吐舌娃阿尔法"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some long forgotten piece of technology.",
+    "value": "这是被遗忘的技术制作的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rusted Console",
+    "value": "生锈的控制台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This console is broken beyond repair.",
+    "value": "这个控制台已破损，无法修复。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A decrepit old machine, of no use to anyone one.",
+    "value": "一个破旧的旧机器，对任何人都没有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran push button, but no magic.",
+    "value": "叶族人按了按钮，但什么都没有发发发生。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Sad. What a sorry fate for a machine.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This old console hasn't been used in a long time.",
+    "value": "这个控制台很长时间都没有使用了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This technology is in an awful state.",
+    "value": "这台设备处于停止的状态。"
+  }
+]

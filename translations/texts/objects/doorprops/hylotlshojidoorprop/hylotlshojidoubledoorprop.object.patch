@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shoji screen doors.",
+    "value": "一对屏风拉门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Traditional Shoji Double Door Prop",
+    "value": "传统双拉门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Simple doors. Serve their purpose.",
+    "value": "简单的门。服务于他们的目的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Decent doors that lets plenty of light in.",
+    "value": "体面的门，能让足够的光线进来。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Once, Floran fall through doors like thisss.",
+    "value": "有一次，叶族人从这样的门摔了下来。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Critical. These doors are simply perfect if you abhor privacy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Flimsy doors. Not much good at keeping anything out.",
+    "value": "脆弱的门，什么东西都挡不住。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The contours and construction of these doors allow for a perfectly smooth opening motion.",
+    "value": "这些门的轮廓和结构允许一个完美平滑的开放运动。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These doors don't seem safe. I could poke a hole in 'em with my finger.",
+    "value": "这些门看起来不安全，我可以用手指在上面戳个洞。"
+  }
+]

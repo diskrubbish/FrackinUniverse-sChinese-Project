@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This bot repair station is used to repair compressed robots, and is automated and Item Network capable.",
+    "value": "这个机器人修复站可以用来修复被损坏的机器人。\n适用于自动化物品传输网络。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Automatic Bot Healer^reset;",
+    "value": "^orange;自动机器修复仪^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "For broken robots",
+    "value": "为了破损的机器人"
+  }
+]

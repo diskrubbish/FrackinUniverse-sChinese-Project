@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small FTL drive, built to travel the stars. This one's broken.",
+    "value": "星际飞船的超光速驱动器。允许你进行星际旅行。它坏了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Broken Small FTL Drive^reset;",
+    "value": "^cyan;(已损坏)小型FTL引擎^reset;"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dollhouse Window",
+    "value": "玩具屋窗户"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute window with wooden panes.",
+    "value": "一个由木制窗格组成的可爱窗户。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delighted. This window helps brighten the room.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Nice windowss, Floran can see outside.",
+    "value": "漂亮的窗窗窗户，叶族人可以看到外面。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Nice lookin' window with wooden panes.",
+    "value": "木制窗格组成的漂亮窗户。"
+  }
+]

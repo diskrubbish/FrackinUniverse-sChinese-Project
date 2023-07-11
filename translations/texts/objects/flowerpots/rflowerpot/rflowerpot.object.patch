@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pot of budding calla lilies.",
+    "value": "一盆正在发芽的马蹄莲。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Calla Lilies Pot",
+    "value": "马蹄莲花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A tiny, cute little plant.",
+    "value": "一株小巧可爱的小植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Flowers that strain their cup shaped heads toward the Aether.",
+    "value": "将杯状头伸向以太的花。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thesse flowers look like little cups.",
+    "value": "这些花看起来像小杯子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Charmed. Calla lilies. It looks as if they're only just started to bloom.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These little guys got a ways to go.",
+    "value": "这些小家伙还有很多路要走。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Calla lilies are a symbol of rebirth in Hylotl culture.",
+    "value": "马蹄莲是鲛人文化中重生的象征。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some li'l buddin' flowers.",
+    "value": "一小撮菩提花。"
+  }
+]

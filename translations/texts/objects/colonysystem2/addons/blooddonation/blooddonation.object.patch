@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Encourage your tenants to donate blood and other stuff. For science, of course.\n^red;-1 Happiness^reset;",
+    "value": "鼓励你的租客捐献血液和其他东西，当然，一切为了科学、\n^red;-1幸福^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blood Drive",
+    "value": "献血装置"
+  }
+]

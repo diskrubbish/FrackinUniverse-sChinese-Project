@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Oh look! Free chips!",
+    "value": "哦，看！免费薯片！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloppy Couch",
+    "value": "邋遢的沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This couch might be sloppy... But it's rather comfortable as well.",
+    "value": "这沙发可能太邋遢了...但它也相当舒适。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "There are worse things to sit on.",
+    "value": "还有更糟糕的事情要做。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Couch is so sssoft. And it has free sssnacks in the cushions!",
+    "value": "沙发太柔软了。坐垫里还有免费的零食！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Conflicted. This couch is a mess, yes, but it's almost sinfully comfortable as well.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ah, this? This is a good couch.",
+    "value": "啊，这个？这是一张很好的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I refuse to sit on such a couch until it's been properly fumigated.",
+    "value": "我拒绝坐在这样的沙发上，除非它经过适当的熏蒸。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This kinda couch is liable to eatin' a fella alive if ya lean back far enough.",
+    "value": "如果你向后靠得够远，这种沙发很容易把一个家伙活活吃掉。"
+  }
+]

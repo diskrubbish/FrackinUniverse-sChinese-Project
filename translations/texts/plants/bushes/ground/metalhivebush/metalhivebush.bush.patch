@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small metallic hive.",
+    "value": "一个小型的金属蜂巢。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metallic Hive",
+    "value": "金属蜂巢"
+  }
+]

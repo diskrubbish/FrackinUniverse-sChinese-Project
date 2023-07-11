@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wooden door, emblazoned with an iron emblem on both sides.",
+    "value": "一扇木门，两边饰有铁制标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frontier Door Prop",
+    "value": "边境门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This wood door has a large, strange symbol on it.",
+    "value": "这扇木门上有一个很大很奇怪的符号。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wonder if the emblem on this door has meaning.",
+    "value": "我不知道这扇门上的徽章是否有意义。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thiss frontier door is dry and old.",
+    "value": "这扇扇扇前线门又干又旧。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. The different materials come together in an aesthetically pleasing way.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This door has a very shiny handle. I like it!",
+    "value": "这扇门的把手很亮。我喜欢！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The symbol on this door is not familiar to me.",
+    "value": "这扇门上的符号我不熟悉。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't unusual to see doors like this in a frontier buildin'.",
+    "value": "这样的门在边境建筑里很常见。"
+  }
+]

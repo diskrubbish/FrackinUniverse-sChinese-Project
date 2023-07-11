@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cheaply made wooden doors.",
+    "value": "廉价的木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Village Double Door Prop",
+    "value": "乡村双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Humble wooden doors.",
+    "value": "简陋的木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Simple doors with iron handles.",
+    "value": "有铁把手的简易门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssimple tree doors.",
+    "value": "简简简单的树门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Explanation. Simple doors you would expect to see a hundred times in any village.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Basic wooden doors.",
+    "value": "基本的木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Humble village doors.",
+    "value": "简陋的乡村门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just simple lookin' wooden doors.",
+    "value": "只是看起来简单的木门。"
+  }
+]

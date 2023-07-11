@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fast Micro Spider Sphere ^green;[F]^reset;. ^red;[Fire]^reset; Repulsor Bursts.",
+    "value": "快速的微型爬墙球^green;[F]^reset;。按^red;[鼠标左键]^reset;释放反重力冲击。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Precursor Microsphere",
+    "value": "先驱微型球"
+  }
+]

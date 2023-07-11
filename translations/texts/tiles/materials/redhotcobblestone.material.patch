@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Red-Hot Cobblestone",
+    "value": "灼热的鹅卵石"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hard stones, smooth to the touch, heated to incandescent temperatures!",
+    "value": "一种又坚硬又光滑的石头，非常炽热！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. High temperature cobblestones.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hot cobblessstone.",
+    "value": "鹅卵卵卵石好烫。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Leaving this bed in the morning is an ultimate test of one's willpower",
+    "value": "在早上要离开这张床简直对意志力的终极考验。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bone Bed",
+    "value": "骨床"
+  }
+]

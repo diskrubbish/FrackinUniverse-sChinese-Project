@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bit gross, but useful.",
+    "value": "虽然有点恶心，但还是可以用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Atropus Chest",
+    "value": "肉源箱子"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Flame engulfed in slime, how does it get oxygen?.",
+    "value": "火焰被粘液吞没，那它又是如何得到氧气的？ ."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Fire",
+    "value": "史莱姆篝火"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fire, inside a blob of slime.",
+    "value": "一团粘液中的一把火。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This fire works like a stove, it's useful for very basic cooking.",
+    "value": "这种火的工作原理就像一个炉子，对于非常基本的烹饪很有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hate flamesss. Floran happy it's in slime.",
+    "value": "叶族人讨厌火火火。叶族人很高兴它在粘液里。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informed. Heating meat with fire is a basic form of cooking.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I thought flames stop burning when they have no oxygen.",
+    "value": "我以为火焰没有氧气就不会燃烧了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This flame is well protected. It could burn underwater!",
+    "value": "这火焰保护得很好。它可以在水下燃烧！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Seems like burning flames inside a slime forms different kind of plasma.",
+    "value": "似乎粘液中燃烧的火焰形成了不同种类的等离子体。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Stove, I can cook here.",
+    "value": "篝火，我可以在这里烹饪。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimenpcDescription",
+    "raw": "Food...cook here...",
+    "value": "食物...在这里做..."
+  },
+  {
+    "op": "replace",
+    "path": "/slimenpchumanDescription",
+    "raw": "Flame heats up the plate, great for cooking.",
+    "value": "火焰能加热盘子，非常适合烹饪。"
+  }
+]

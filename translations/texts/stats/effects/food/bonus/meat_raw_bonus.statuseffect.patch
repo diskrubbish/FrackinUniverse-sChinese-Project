@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Mmmmm, tasty raw meat!",
+    "value": "嗯，美味的生肉！"
+  }
+]

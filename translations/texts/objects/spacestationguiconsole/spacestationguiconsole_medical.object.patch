@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A terminal used to interact with intergalactic trade networks. ^red;Destroyed if removed.^reset;",
+    "value": "一种用于与星际贸易网络相互连接的终端。^red;移除后破坏^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Space Station Terminal (medical)",
+    "value": "空间站终端(医疗)"
+  }
+]

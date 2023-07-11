@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chest made by the Skath.",
+    "value": "一个由绘世者制作的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Chest",
+    "value": "绘世者箱子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I've seen more advanced chests than this?",
+    "value": "我见过比这更高级的箱子？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wonder what kind of crystal gives off this blue light.",
+    "value": "我想知道是什么样的水晶会发出蓝光。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Waterdragon chessst is cold. Floran dislikesss.",
+    "value": "水龙棋盘是冷的。叶族人不喜欢。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Eager. I wonder what the Skath hide inside this!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty nice looking chest. Is anyone looking...?",
+    "value": "漂亮的箱子。有人在看...？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Skath pay far too little attention to the appearance of their furniture.",
+    "value": "绘世者对家具的外观太不注意了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A lizard chest. Wonder what's inside?",
+    "value": "蜥蜴的箱子。猜猜里面是什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "A light, portable chest, designed to be carried around with our goods inside.",
+    "value": "一个轻便的箱子，可以随身携带我们的货物。"
+  }
+]

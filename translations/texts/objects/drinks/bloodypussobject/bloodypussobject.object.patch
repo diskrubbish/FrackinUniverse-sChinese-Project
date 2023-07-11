@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A thick, shake-like drink of meat and pussplum.",
+    "value": "一种浓稠的，像奶昔一样的肉类饮料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bloody Puss",
+    "value": "血腥少女"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thisss drink is Floran delicacy!",
+    "value": "这这这种饮料是叶族佳肴！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgusted. I think I can see tendons still moving in this drink.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't even got internal organs and I wanna retch.",
+    "value": "我连内脏都没有，但我想呕吐。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dash further in the air.",
+    "value": "可以在空中进一步地冲刺。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Air Dash II^reset;",
+    "value": "^#77acc3;空中冲刺 II^reset;"
+  }
+]

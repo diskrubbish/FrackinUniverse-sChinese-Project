@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pykrete Strip",
+    "value": "派克瑞特装饰条"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decorative strip made of pykrete.",
+    "value": "一个由派克瑞特制成的装饰带。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. This strip is made from a mixture of ice and finely ground wood pulp.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran lick ice, tongue get sstuck.",
+    "value": "叶族人舔一舔冰块，舌头被黏黏黏黏住了。"
+  }
+]

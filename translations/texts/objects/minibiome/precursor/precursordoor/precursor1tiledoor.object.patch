@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tiny door.",
+    "value": "一扇微型的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Tiny Door",
+    "value": "小型先驱"
+  }
+]

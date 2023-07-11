@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small woven basket. It's light and timeless.",
+    "value": "编织的小篮子。它是轻的，永恒的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Picnic Basket",
+    "value": "野餐篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This basket has just about enough room to store quite a few small items.",
+    "value": "这个篮子刚好有足够的空间来存放一些小东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A little basket. I don't think much could fit inside it.",
+    "value": "一个小篮子。我觉得里面装不下多少东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Are there goodies insside for Floran?",
+    "value": "里面有给叶族人的糖果吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Grateful. The Glitch are no stranger to products like this. They often come in handy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The primary food source of national park bears.",
+    "value": "这是国家公园熊的主要食物来源。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A charming woven basket. I hope it's sturdy enough to carry my belongings.",
+    "value": "一个迷人的编织篮子。我希望它足够结实，可以搬动我的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I hope this picnic basket comes with a snack.",
+    "value": "我希望这个野餐篮里有零食。"
+  }
+]

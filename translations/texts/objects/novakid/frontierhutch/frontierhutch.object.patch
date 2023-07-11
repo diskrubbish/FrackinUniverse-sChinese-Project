@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A kitchen hutch for storing silverware.",
+    "value": "一种用来存放银器的厨房厨灶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frontier Hutch",
+    "value": "边境小屋"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A storage solution for silverware.",
+    "value": "银器的存储解决方案。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This hutch is surprisingly well kept.",
+    "value": "这间小屋保存得出奇地好。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can see Floran's ssself in shiny plates!",
+    "value": "叶族人可以在闪闪发亮的盘子里看到叶族人的自我！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. A home for plates and utensils alike.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Didn't know people kept making china cabinets, really.",
+    "value": "真的，我不知道人们一直在做瓷器橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Cutlery itself can be displayed as art.",
+    "value": "餐具本身可以作为艺术品展示。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A cutesy cabinet for all your eatery needs.",
+    "value": "一个可爱的橱柜，可以满足你所有的餐饮需求。"
+  }
+]

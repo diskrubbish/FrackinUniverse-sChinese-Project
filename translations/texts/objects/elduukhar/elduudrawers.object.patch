@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Drawers made from cultivated crystal.",
+    "value": "一套用人工水晶做成的抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Drawers",
+    "value": "水晶抽屉"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A set of drawers. Useful.",
+    "value": "一套抽屉，真有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Some drawers. The crystals look beautiful.",
+    "value": "一套抽屉，这水晶看着针不戳。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran knowsss thisss isss sssome drawersss.",
+    "value": "叶族人知知知道这这是一些些些抽抽抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. These drawers is beautiful.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty fancy set of drawers.",
+    "value": "一套相当华丽的抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A good place to store items.",
+    "value": "一个存放物品的好地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty fancy set of drawers.",
+    "value": "一套非常漂亮的抽屉。"
+  }
+]

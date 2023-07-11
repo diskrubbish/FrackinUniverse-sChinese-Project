@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An advanced-looking storage container.",
+    "value": "外观先进的存储容器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Chest",
+    "value": "合金箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This must be what passes for a Peglaci chest.",
+    "value": "这一定是羊蹄族的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "How do you open this thing? Ah, there you go.",
+    "value": "你怎么打开这个东西？啊，给你。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hit box - it opensss.",
+    "value": "击打这个箱子就可以打开它。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. Contents are held in a sort of stasis to maintain quality. Interesting.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I feel like I shouldn't put my hand in there.",
+    "value": "我觉得我不应该把手伸进去。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Awfully complicated for what amounts to a box.",
+    "value": "对于一个盒子来说太复杂了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's always a thrill to find an unopened chest.",
+    "value": "找到一个未打开的箱子总是令人兴奋。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A stasis chest - keeps contents fresh and the same as when they were first inserted.",
+    "value": "停滞箱-保持内容物新鲜，与第一次插入时相同。"
+  }
+]

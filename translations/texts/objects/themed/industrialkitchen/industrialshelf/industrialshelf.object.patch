@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A restaurant-grade kitchen shelf. Perfect for tidying up a cooking area.",
+    "value": "餐厅级的厨房架子。非常适合清理烹饪区。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Industrial Kitchen Shelf",
+    "value": "工业厨房货架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A sleek and sturdy looking kitchen shelf.",
+    "value": "一个光滑结实的厨房架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A classic way to store kitchen supplies.",
+    "value": "储存厨房用品的经典方式。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran cures meats from similar shelf.",
+    "value": "叶族人从类似的架子上治疗肉类。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. My kitchen would be a lot less cluttered with a shelf like this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ooh, a modern looking shelf! I feel like a celebrity chef!",
+    "value": "哦，一个看起来很现代的架子！我觉得自己像个名人厨师！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A sleek, space efficient kitchen shelf.",
+    "value": "一个光滑、节省空间的厨房架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fella could store all kinds of things on a shelf like this.",
+    "value": "一个可以把各种各样的东西放在这样的架子上的东西。"
+  }
+]

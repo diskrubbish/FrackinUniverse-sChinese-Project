@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Exceptionally effective. Reduces fuel cost by ^green;40^reset;%.",
+    "value": "非常有效。降低^green;40^reset;%的燃料消耗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Precursor Fuel Purifier^reset;",
+    "value": "^cyan;先驱燃料净化器^reset;"
+  }
+]

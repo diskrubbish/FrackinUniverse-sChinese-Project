@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A clean ice cream parlor table. Slightly chilly!",
+    "value": "一张干净的冰淇淋桌。有点冷！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Parlor Table",
+    "value": "客厅桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Just the right size for one to enjoy their frozen treat.",
+    "value": "正好适合一个人享用冷冻食品。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Even the tables here are so chilly...",
+    "value": "甚至这里的桌子都很冷..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cold! But Floran will perssist!",
+    "value": "冷！但叶族人会很高兴的！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. This table is immaculate. The staff must be very dedicated to the upkeep of this place.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty cool table! Emphasis on \"cool\".",
+    "value": "一张很酷的桌子！强调“酷”。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Well at least it's CLEAN...",
+    "value": "至少它是干净的..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A good a place as any to park your keister and eat your grub.",
+    "value": "这是一个很好的地方，可以让你停下来吃你的食物。"
+  }
+]

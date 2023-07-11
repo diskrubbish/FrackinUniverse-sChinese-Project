@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dark stool.",
+    "value": "黑凳子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowy Stool",
+    "value": "阴影凳子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A nice little dark colored stool.",
+    "value": "一个漂亮的深色小凳子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A stool made of... Actually, I'm not sure.",
+    "value": "一个凳子，由...事实上，我不确定是由什么做成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssseat for shadowy people.",
+    "value": "给影裔坐坐坐的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unimpressed. A stool.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Good for putting your feet up.",
+    "value": "有助于你站起来。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Much Hylotl furniture is around this height.",
+    "value": "很多鲛人家具都在这个高度。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just a simple lookin' stool.",
+    "value": "就是一个造型简单的凳子。"
+  }
+]

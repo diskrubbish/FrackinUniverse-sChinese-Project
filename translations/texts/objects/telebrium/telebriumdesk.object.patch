@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A desk made from Telebrium.",
+    "value": "一张由特勒贝晶体碎片做的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Desk",
+    "value": "特勒贝晶体碎片办公桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An intricately designed piece of furniture.",
+    "value": "一件精心设计的家具。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This desk is oddly unsettling.",
+    "value": "这张桌子奇怪地令人不安。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "It'sss green like Floran.",
+    "value": "它和叶族人一样样样绿。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. An intricate desk.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This feels like it was made by an ancient race.",
+    "value": "这感觉像是一个古老的种族制造的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The design unsettles me somehow.",
+    "value": "这个设计使我有些不安。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's mighty fancy.",
+    "value": "真是太奇妙了。"
+  }
+]

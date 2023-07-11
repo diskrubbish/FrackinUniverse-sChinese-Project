@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Why did I come here, again?",
+    "value": "为什么我又到这里来了？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blood Spatter",
+    "value": "飞溅的血液"
+  }
+]

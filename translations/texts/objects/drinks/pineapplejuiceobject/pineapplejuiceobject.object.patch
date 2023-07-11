@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sweet, tasty pineapple juice.",
+    "value": "甜美，可口的菠萝汁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pineapple Juice",
+    "value": "菠萝汁"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "No sssilly spikes to save you from Floran now, sssweet juice!",
+    "value": "现在没有蠢蠢蠢的刺把你从叶族人的嘴巴里解救出来了，甜甜甜汁！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Knowledgeable. There's a fine line for ripened pineapples and their sweetness. This drink one seems to have hit that line just right.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "You really have to work for it to taste this juice.",
+    "value": "你真的需要努力才能尝到这种果汁。"
+  }
+]

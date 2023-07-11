@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^red;EMERGENCY USE ONLY!^reset;\nRemove all objects from ship, then place this and break it to reset ship stats.",
+    "value": "^red;仅限紧急使用！^reset;\n请先从船上移除所有物件，然后放置这个并且打破它来重置飞船的状态。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "FUBYOS Ship Stat Resetter",
+    "value": "FUBYOS飞船状态复原器"
+  }
+]

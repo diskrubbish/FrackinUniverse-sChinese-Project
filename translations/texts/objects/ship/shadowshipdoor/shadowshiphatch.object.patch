@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hatch. Possibly suitable for a spaceship.",
+    "value": "一扇舱口。可能适合于一艘宇宙飞船。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Ship Hatch",
+    "value": "影裔船舱口"
+  }
+]

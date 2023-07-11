@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Microsphere ^green;[F]^reset;! Fits in tiny holes!",
+    "value": "微型球^green;[F]^reset;！可以钻进细小的洞口！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Micro Sphere",
+    "value": "微型变形球"
+  }
+]

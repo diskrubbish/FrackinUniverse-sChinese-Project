@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A merry little pine tree, surrounded by poinsettias.",
+    "value": "一棵快乐的小松树，周围是一品红。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pine Tree Planter",
+    "value": "松树播种机"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A delightful alpine planter box.",
+    "value": "一个可爱的高山种植箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The tree in this planter box appears to be ever green... Marvelous.",
+    "value": "这个花盆里的树似乎永远是绿色的...不可思议的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wisse old tree.",
+    "value": "智慧老树。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Charmed. This planter looks like something out of a storybook.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Is it holiday season already?",
+    "value": "现在已经是假期了吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What a pleasant little scene.",
+    "value": "多么令人愉快的一幕啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some mighty hardy plants in this here planter.",
+    "value": "这里的花盆里有一些顽强的植物。"
+  }
+]

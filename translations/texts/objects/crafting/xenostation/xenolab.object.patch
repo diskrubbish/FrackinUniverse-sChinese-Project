@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This station is designed to pull genes from seeds for study and experimentation.",
+    "value": "这个装置可以从种子中提取出基因，以便于进行下一步操作。"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Seed Extractor",
+    "value": "种子萃取"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Xeno Research Lab^reset;",
+    "value": "^cyan;基因提取器^reset;"
+  }
+]

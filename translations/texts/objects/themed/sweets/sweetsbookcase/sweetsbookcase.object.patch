@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bookshelf made of sweet biscuits. Sturdier than you'd think!",
+    "value": "用甜饼干做成的书架。比你想象的更坚固！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sweets Bookcase",
+    "value": "糖果书架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Mm... These books smell of gingerbread.",
+    "value": "嗯...这些书有姜饼味。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Hopefully the books themselves aren't made of sweets.",
+    "value": "希望这些书本身不是糖果做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Books would be much better if Floran could eat them too.",
+    "value": "如果叶族人也能吃的话，书会更好。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Content. A bookcase that smells like a bakery. Reading around it must be quite pleasant.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Are the books edible too? No? Aw...",
+    "value": "这些书也可以吃吗？不？哦..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I would NOT want my books smelling like sugar and covered in crumbs.",
+    "value": "我不想让我的书闻起来像糖，上面覆盖着面包屑。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "'fraid I'm more likely to snack on this bookcase than read whatever's on it.",
+    "value": "“恐怕我更喜欢在这个书架上吃零食，而不是读上面的任何东西。”。"
+  }
+]

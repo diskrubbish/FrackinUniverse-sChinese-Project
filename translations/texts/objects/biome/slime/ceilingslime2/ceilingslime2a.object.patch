@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A glob of dripping slime.",
+    "value": "一团滴着的粘液。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dripping Slime",
+    "value": "滴落的黏液"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A slime deposit. It appears to be dripping.",
+    "value": "粘液沉积物。好像在滴水。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A disgusting slime ball.",
+    "value": "一团恶心的粘液球。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wants to avoid touching ssslime.",
+    "value": "叶族人不想碰这些粘粘粘液。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgusted. A viscous slime deposit.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Slime is so gross.",
+    "value": "粘液太恶心了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Slime isn't so bad when your skin is already slimy.",
+    "value": "当你的皮肤已经变得黏糊糊的时候，粘液就不会那么糟糕了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Oozing slime.",
+    "value": "渗出的粘液。"
+  }
+]

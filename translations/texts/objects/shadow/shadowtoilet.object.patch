@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A normal looking toilet! Thank the stars!",
+    "value": "外观正常的厕所！谢谢星星！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowy Toilet",
+    "value": "阴影厕所"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small toilet. It doesn't look entirely hygienic.",
+    "value": "一个小厕所。它看起来不完全卫生。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A place for droppings.",
+    "value": "拉屎的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Shiny place for sssmelly business.",
+    "value": "为臭气熏天的生意准备的闪亮场所。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disinterested. A toilet.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A toilet. Always a welcome sight.",
+    "value": "厕所。总是一个受欢迎的景象。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A crude toilet.",
+    "value": "一个粗糙的卫生间。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just a simple toilet. Not glamorous, but highly necessary.",
+    "value": "只是一个简单的厕所。不是很有魅力，但很有必要。"
+  }
+]

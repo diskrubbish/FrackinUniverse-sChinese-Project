@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fire a Shadow Burst! Use ^green;[F]^reset;.",
+    "value": "释放一次暗影冲击！\n使用：^green;[F]^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Shadowborne",
+    "value": "影裔"
+  }
+]

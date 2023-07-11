@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cutesy lamp, fashioned to look like a double scoop.",
+    "value": "一盏可爱的台灯，造型像双勺。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Parlor Lamp",
+    "value": "客厅灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What an innovative idea! And adorable to boot.",
+    "value": "多么有创意的想法！而且很可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A charming little light, shaped like ice cream.",
+    "value": "一盏迷人的小灯，形状像冰淇淋。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Light won't melt plasstic ice cream.",
+    "value": "光不会融化塑料冰淇淋。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Enamored. An adorable ice cream shaped light.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Aw, it's an ice cream lamp! That's pretty cute.",
+    "value": "哦，这是一盏冰激凌灯！真可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I admit, this lamp has a novel sort of charm.",
+    "value": "我承认，这盏灯有一种新奇的魅力。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ice cream that lights up and don't melt.",
+    "value": "冰激凌亮着不融化。"
+  }
+]

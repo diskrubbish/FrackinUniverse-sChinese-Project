@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy dark set of drawers.",
+    "value": "一套结实的深色抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowy Drawers",
+    "value": "阴影橱柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small storage unit.",
+    "value": "小型存储单元。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A small amount of storage.",
+    "value": "小容量的存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sstorage. Not much.",
+    "value": "存存存储。没啥大不了的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unimpressed. Not much storage here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I don't like those eyes peeking out.",
+    "value": "我不喜欢那双眼睛向外窥视。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Small but useful storage.",
+    "value": "小容量但很实用的存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Seems safe enough as far as unlocked storage goes.",
+    "value": "对于解锁的存储来说似乎足够安全。"
+  }
+]

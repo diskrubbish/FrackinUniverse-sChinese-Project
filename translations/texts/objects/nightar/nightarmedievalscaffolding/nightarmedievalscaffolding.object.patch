@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some shoddy wooden scaffolding.",
+    "value": "一些劣质的木脚手架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Scaffolding",
+    "value": "脚手架"
+  }
+]

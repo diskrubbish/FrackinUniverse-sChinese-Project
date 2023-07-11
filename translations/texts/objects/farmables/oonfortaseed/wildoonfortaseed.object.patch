@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The Oonforta grows glowing bulbs on tails that can be tossed for light.",
+    "value": "在主干上会长出发光的球形果实。可以收获奥弗塔球，投掷出去可以照明。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Oonforta Seed",
+    "value": "奥弗塔球种子"
+  }
+]

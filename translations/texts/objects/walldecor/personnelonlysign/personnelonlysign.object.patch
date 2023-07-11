@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I.E.: Not you.",
+    "value": "例如：不是你。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Personnel Only Sign",
+    "value": "仅限人员签字"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Just how unauthorized can I be? I'll take my chances.",
+    "value": "我有多未经授权？我会冒险的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "And just who defines \"authorized\" here, hm?",
+    "value": "谁来定义“授权”呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran authorized to ssstab whoever wrote sstupid sign.",
+    "value": "叶族人有权刺杀任何写愚蠢标志的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Indignant. I'm not obligated to abide by this sign.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm a Protectorate graduate... well sort of. Does that count? I'm just gonna assume it counts.",
+    "value": "我是大地守护团毕业生。。。嗯，算是吧。这算吗？我想这很重要。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These signs often don't imply anything good lies beyond them.",
+    "value": "这些迹象通常并不意味着除了它们之外还有什么好的谎言。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Authorized, schmauthorized. I'll go where I please, thank ye kindly.",
+    "value": "授权，授权。我想去哪儿就去哪儿，谢谢你。"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "You're a Hylotl",
+    "value": "你是一个鲛人"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Have an MM",
+    "value": "拥有一把物质枪"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Your Matter Manipulator is, simply put, superior to the crappy ones other races use.",
+    "value": "简单地说，你的物质枪比其他种族的蹩脚玩意要高级。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/graduate",
+    "raw": "Attend your graduation ceremony",
+    "value": "参加你的毕业典礼"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/matterManipulator",
+    "raw": "Take the matter manipulator",
+    "value": "拿起物质枪"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/escape",
+    "raw": "Escape the destruction",
+    "value": "逃出这场大灾难"
+  }
+]

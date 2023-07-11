@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lovingly carved pine bookshelf. For all its embellishments, it's incredibly sturdy.",
+    "value": "一个雕刻精美的松木书架。尽管有各种装饰，它还是非常坚固。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Boreal Bookcase",
+    "value": "北风书柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These books ought to be enjoyed by the light of a cozy fireplace.",
+    "value": "这些书应该在舒适的壁炉灯光下欣赏。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The carvings along the base of this bookshelf were carefully chiseled by hand.",
+    "value": "这个书架底部的雕刻是用手工精心雕刻的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty ssshelf is wasted holding ssstupid books.",
+    "value": "漂亮的书架被浪费在放愚蠢的书上。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. There's a great deal of detail in the carvings along this bookcase.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The bookshelf is more interesting than the books themselves, I'd say.",
+    "value": "我得说，书架比书本身更有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Oh look how thick these volumes are! I could spend all night here!",
+    "value": "看这些书多厚啊！我可以在这里呆一整晚！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A might fancy bookcase.",
+    "value": "一个很漂亮的书架。"
+  }
+]

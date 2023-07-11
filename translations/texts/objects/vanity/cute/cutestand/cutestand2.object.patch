@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wide stand for displaying trophies or other decorations.",
+    "value": "一个宽宽的架子，用于陈列奖杯以及其他装饰品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Display Stand",
+    "value": "可爱的陈列架"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An advert for a new sushi roll: \"Saber Fish Nigiri\".",
+    "value": "一个新寿司卷的广告：“剑鱼泥”。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sushi Ad",
+    "value": "寿司广告"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Saber fish have quite the nasty bite. I'm not sure how they catch enough to make it a regular menu item.",
+    "value": "剑鱼的咬伤很重。我不确定他们是怎么抓到足够多的食物，让它成为一个常规菜单项的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Saber fish have nice, fatty meat, but most Avian's aren't willing to brave the cold to catch some.",
+    "value": "剑鱼有肥美的肉，但大多数翼族人的不愿意冒着严寒去抓一些。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran eats sssaber fish with its fangs like chopsticks.",
+    "value": "叶族人用尖牙像筷子一样吃剑鱼。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. Saber fish are common, but not exactly easy to catch. I give the chefs here credit for that much, at least.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Never thought of eating saber fish, really - I'd always thought they'd make much cooler pets.",
+    "value": "从没想过吃剑鱼，真的——我一直认为它们会成为更酷的宠物。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Once you can deal with the saber fish's fangs, they're not that difficult to catch en masse.",
+    "value": "一旦你能对付剑鱼的尖牙，它们就不那么难被整体捕获了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Hylotl are brave enough to eat fanged fish, eh?",
+    "value": "鲛人有勇气吃尖牙鱼，是吗？"
+  }
+]

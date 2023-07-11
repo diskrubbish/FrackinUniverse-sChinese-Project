@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fresh ice cream is just a matter of steps away!",
+    "value": "新鲜冰淇淋只需几步之遥！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Parlor Sign",
+    "value": "客厅标志"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What a cute sign! It looks like it's directing me to an ice cream parlor.",
+    "value": "多可爱的标志啊！它好像在引导我去一家冰淇淋店。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The quality of this sign's ironwork actually is quite impressive.",
+    "value": "这个标志的铁制品质量确实令人印象深刻。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssees ice cream up ahead!",
+    "value": "叶族人看见前面有冰淇淋！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delighted. This establishment serves ice cream!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ooh, ice cream!",
+    "value": "哦，冰淇淋！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This sign is almost too fancy to simply use as advertisement.",
+    "value": "这个招牌太花哨了，不能简单地用作广告。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's some fancy ironwork, right there.",
+    "value": "这真是个漂亮的铁制品，就在那里。"
+  }
+]

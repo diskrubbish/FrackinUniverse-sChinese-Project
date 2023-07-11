@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Its produce is quite packed with energy.",
+    "value": "可以收获弗莱彻草茎，食用后会提高能量值上限。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fletchweed",
+    "value": "弗莱彻草茎种子"
+  }
+]

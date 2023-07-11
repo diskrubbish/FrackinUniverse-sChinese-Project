@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This door is beautifully crafted.",
+    "value": "这扇门做工精美。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Classic Bar Door Prop",
+    "value": "传统栏杆门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A heavy, barred door. The handle appears to be pure gold.",
+    "value": "一扇沉重的有栅栏的门。手柄看上去是纯金的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This door has been crafted with great love... or fear.",
+    "value": "这扇门是用伟大的爱...或恐惧精心打造的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstrong door. But nothing keepss Floran out.",
+    "value": "坚坚坚固的门。但没有什么能阻阻阻止叶族人。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. Expert craftsmanship is required to produce door of this calibre.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "That's a big, classy door.",
+    "value": "这是一扇大而传统的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Exquisite craftsmanship.",
+    "value": "精湛的工艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Big ol' barred door with a shiny handle.",
+    "value": "一扇有铁栅栏的大门，门把手闪闪发光。"
+  }
+]

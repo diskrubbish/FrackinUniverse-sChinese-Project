@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Melodistar can increase your health and energy.",
+    "value": "可以收获旋律星，食用后会提高生命值和能量值上限。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Melodistar Seed",
+    "value": "旋律星种子"
+  }
+]

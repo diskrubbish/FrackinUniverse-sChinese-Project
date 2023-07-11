@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Wood Blinds",
+    "value": "暗木百叶窗"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Starry wooden slats that don't let much light through.",
+    "value": "布满星星的木板条，不让太多光线通过。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This wood filters light and acts as a barrier, too good of a barrier.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can peak through large sslats of star wood.",
+    "value": "叶族人可以通过星形木头的大板条达到高峰。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can see right through the spaces in this wood, clear to the other side.",
+    "value": "我可以透过木头之间的缝隙看到对面。"
+  }
+]

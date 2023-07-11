@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Never have I seen such craftsmanship.",
+    "value": "我从未见过如此另类的工艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Carvings",
+    "value": "古代雕刻"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mysterious Nightar box.",
+    "value": "一个神秘的夜族盒子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Nightar Box",
+    "value": "小型夜族盒子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's small, but it's also very durable.",
+    "value": "它很小，但也很耐用。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What a cute little box!",
+    "value": "多可爱的小盒子啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can keep sssspoilss hidden here!",
+    "value": "叶族人把战利品藏在这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Inquisitive. I wonder what prompted the scrolling lights design?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This small box is highly secure.",
+    "value": "这个小盒子很安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's a regular ol' box.",
+    "value": "这是一个普通的盒子。"
+  }
+]

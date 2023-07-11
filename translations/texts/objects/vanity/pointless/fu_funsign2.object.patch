@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Obey...what?",
+    "value": "服从...啥？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Obey This Sign",
+    "value": "服从标志"
+  }
+]

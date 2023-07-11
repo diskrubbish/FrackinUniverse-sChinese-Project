@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ew. Slimy.",
+    "value": "额，黏糊糊的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Healing Slime",
+    "value": "愈合黏液"
+  }
+]

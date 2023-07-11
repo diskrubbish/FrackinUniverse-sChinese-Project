@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Boostier than its lesser cousin!",
+    "value": "比上一级更强！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Zero Burst II",
+    "value": "爆炸跳跃 II"
+  }
+]

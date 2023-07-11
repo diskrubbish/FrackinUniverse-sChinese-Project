@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Eld'uukhar grow Phosite in a much weaker form. Upilite naturally grows with it.",
+    "value": "厄休安龙人以一种弱很多的形式生产磷。优普利水会自然地与它一起生长。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Phosite Crystal Seed",
+    "value": "磷酸水晶种子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These crystals are incredibly brittle. It would be wise to handle them with care.",
+    "value": "这些水晶异常脆弱。请小心处理它们。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These crystals seem to only grow with each other.",
+    "value": "这些晶体似乎只是相互生长。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likesss the pretty gemsss.",
+    "value": "叶族人喜喜喜欢漂亮的宝宝石。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. These crystals are more fragile than they look.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These look pretty.",
+    "value": "它们看起来很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The way they catch the light is beautiful.",
+    "value": "它们捕捉光线的方式真是美丽。"
+  },
+  {
+    "op": "replace",
+    "path": "/elduukharDescription",
+    "raw": "Upilite only grows with Phosite, you can't have one without the other.",
+    "value": "优普利水晶只会与磷酸水晶一同生长，两者缺一不可。"
+  }
+]

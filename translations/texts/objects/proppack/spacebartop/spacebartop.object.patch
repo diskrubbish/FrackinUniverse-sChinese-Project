@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bar fit for a space station.",
+    "value": "适合空间站的酒吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Space Bar Top",
+    "value": "太空酒吧顶部"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Not too terribly stocked, is it? Maybe shipments are slower out here in space.",
+    "value": "库存不是太多，是吗？也许太空中的运输速度较慢。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Even the bar's business is slow...",
+    "value": "甚至酒吧的生意也很慢..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstupid penguin bar doesn't even have any drinks!",
+    "value": "愚蠢的企鹅酒吧连饮料都没有！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned. How bad does business have to be out here?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Heh. A Space Bar...",
+    "value": "呵呵。一个太空酒吧..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These prices?! For this swill?! It's no wonder they're lacking customers!",
+    "value": "这些价格？！为了这个泔水？！难怪他们缺少顾客！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Well I ain't picky, and it looks like they could use the patronage.",
+    "value": "嗯，我不挑剔，而且看起来他们可以利用这种赞助。"
+  }
+]

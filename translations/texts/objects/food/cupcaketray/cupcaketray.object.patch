@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sweet and colorful!",
+    "value": "甜美多彩！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cupcake Tray",
+    "value": "纸杯蛋糕盘"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "So tiny! It's actually kind of adorable.",
+    "value": "太小了！它实际上有点可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I could do without all the icing.",
+    "value": "我可以不用所有的糖霜。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssso pretty... Ssso sweet!",
+    "value": "太漂亮了...太好了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned. Won't the top cupcakes crush the icing of the bottom one's?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "All the flavor of a regular cake, but none of the commitment!",
+    "value": "所有的味道都是普通蛋糕，但不敢保证！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Who needs this much sugar, really...",
+    "value": "谁需要这么多糖，真的..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A bunch of pretty lookin' cupcakes.",
+    "value": "一堆漂亮的纸杯蛋糕。"
+  }
+]

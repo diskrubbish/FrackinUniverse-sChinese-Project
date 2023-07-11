@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Putrid Honey Material",
+    "value": "腐烂的蜂蜜块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The walls are dripping in gold!",
+    "value": "墙壁上有金色的水滴！"
+  }
+]

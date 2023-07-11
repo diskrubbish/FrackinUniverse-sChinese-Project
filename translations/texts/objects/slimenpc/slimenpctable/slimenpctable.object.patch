@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table made of slime.",
+    "value": "一张由史莱姆做的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Table",
+    "value": "粘液桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This table is made of something I don't want to touch.",
+    "value": "这张桌子是我不想碰的东西做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A fine table but the material is not for me.",
+    "value": "一张很好的桌子，但这张桌子的材料不适合我。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Excellent table, Floran lovesss ssslime.",
+    "value": "很好的桌子，叶族人很喜欢。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. How can a table made of goo stand firm like this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Probably a trampoline.",
+    "value": "可能是蹦床。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "We have a water mushroom like this on our home planet.",
+    "value": "我们的星球上有这样的水蘑菇。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ah, the slime table. Material equivalent to our gassy nature.",
+    "value": "啊，这是张史莱姆子桌。与我们的气体性质相当的物质。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Place food here.",
+    "value": "把食物放在这里。"
+  }
+]

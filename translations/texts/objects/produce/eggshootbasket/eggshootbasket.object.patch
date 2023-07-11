@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Eggshoot, full of runny goodness.",
+    "value": "射蛋，充满了流淌的美好。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Eggshoot Basket",
+    "value": "射蛋篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The eggshoot has been known to trigger existential dilemmas in birds.",
+    "value": "众所周知，射蛋果会引发鸟类的生存困境。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Eggshoot - for when Avians want omelettes.",
+    "value": "射蛋-当翼族人人想要蛋卷的时候。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Looksss like an egg, doesssn't hatch.",
+    "value": "看起来像鸡蛋，不会孵化。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. Avians happily eat these, despite their egg-like appearance.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A vegetarian egg.",
+    "value": "素食蛋。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An acceptable substitute for those of us who do not eat eggs.",
+    "value": "我们这些不吃鸡蛋的人可以接受的替代品。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An eggshoot looks like an egg and tastes like an egg, but is not an egg.",
+    "value": "射蛋果看起来像鸡蛋，尝起来像鸡蛋，但不是鸡蛋。"
+  }
+]

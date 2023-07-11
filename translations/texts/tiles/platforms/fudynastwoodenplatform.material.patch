@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dynast Wood Platform",
+    "value": "王朝木平台"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nicely finished wooden platforms.",
+    "value": "精致价格的木制平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delighted. These wooden platforms have been finely sanded and finished.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Platformss made from wood.",
+    "value": "木制平平平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some simple lookin' wooden platforms.",
+    "value": "看起来简洁的木制平台。"
+  }
+]

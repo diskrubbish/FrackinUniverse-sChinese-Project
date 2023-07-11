@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Used to store thermal energy for later use.",
+    "value": "用于储存热能以备日后使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Feya Crystal Seed",
+    "value": "菲亚水晶种子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This crystal barely sparkles.",
+    "value": "这些水晶几乎不发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These stones remind me of the night sky.",
+    "value": "这些水晶让我想起了夜晚的天空。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran doesssn't like. Sss'not ssshiny...",
+    "value": "叶族人不不不喜欢。它们不够闪闪闪亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uninterested. These don't appear to be very valuable.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "They're dull, but the colour is nice.",
+    "value": "它们黯淡无光，不过色泽还不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These crystals are like the night sky.",
+    "value": "这些水晶像那夜晚的天空。"
+  },
+  {
+    "op": "replace",
+    "path": "/elduukharDescription",
+    "raw": "We use these to keep thermal energy stored.",
+    "value": "我们用这些来储存热能。"
+  }
+]

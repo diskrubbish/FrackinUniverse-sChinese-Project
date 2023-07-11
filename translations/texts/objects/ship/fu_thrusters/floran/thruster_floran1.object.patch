@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A space craft thruster of Floran design.",
+    "value": "叶族人设计的宇宙飞船推进器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Thruster (Floran)",
+    "value": "大型推进器(叶族)"
+  }
+]

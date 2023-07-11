@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Alright, time to party!",
+    "value": "好了，该开派对了！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Saloon Bar Top",
+    "value": "酒吧顶"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A well stocked bar is a joyful sight indeed.",
+    "value": "一家货源充足的酒吧的确是一个令人愉快的景象。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Perhaps they'll have alcohol I can stomach.",
+    "value": "也许他们会有我能喝的酒。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "SSShiny bar.",
+    "value": "闪亮的酒吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. I could do with a drink.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hey-o! Let's celebrate!",
+    "value": "喂！让我们庆祝一下！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Quite the selection they have here.",
+    "value": "这是他们这里的选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Drinks are on me tonight!",
+    "value": "今晚我请客喝酒！"
+  }
+]

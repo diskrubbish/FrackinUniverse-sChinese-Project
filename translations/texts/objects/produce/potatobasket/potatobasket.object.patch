@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Potatoes! Boil em', mash em', stick em in a stew.",
+    "value": "土豆！把它们煮沸，捣碎，然后放进炖菜里。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Potato Basket",
+    "value": "土豆篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Potatoes are completely unremarkable.",
+    "value": "土豆完全不起眼。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Mashed potatoes make for a comforting dish.",
+    "value": "土豆泥是一道令人舒服的菜。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hard, crunchy potatoesss fresh from the dirt.",
+    "value": "刚从泥土中取出的又硬又脆的土豆。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Admiration. Humans create many dishes from such a simple thing.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ahhh, potatoes. Is there anything you can't do?",
+    "value": "啊，土豆。有什么你不能做的吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A common, tedious root vegetable.",
+    "value": "一种普通、乏味的根茎蔬菜。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Perfect for roasting in a campfire on a cold night.",
+    "value": "非常适合在寒冷的夜晚在篝火中烧烤。"
+  }
+]

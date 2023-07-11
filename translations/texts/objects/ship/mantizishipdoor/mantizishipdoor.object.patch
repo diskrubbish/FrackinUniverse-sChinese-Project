@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An airlock of Mantizi design.",
+    "value": "一扇Mantizi风格的气闸门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Ship Door",
+    "value": "Mantizi飞船门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "We use doors like these on our ships.",
+    "value": "我们在我们的飞船上使用像这样的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A door.",
+    "value": "一扇门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Door!",
+    "value": "门！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A door.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Cool door.",
+    "value": "很酷的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A basic door.",
+    "value": "一扇基础的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A door.",
+    "value": "一扇门。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "For keeping the plebs out.",
+    "value": "用于将平民隔绝在外。"
+  }
+]

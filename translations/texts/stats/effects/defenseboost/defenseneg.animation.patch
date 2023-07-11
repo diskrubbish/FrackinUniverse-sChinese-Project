@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/particleEmitters/statustext/particles/0/particle/text",
+    "raw": "- Armor ",
+    "value": "护甲-"
+  },
+  {
+    "op": "replace",
+    "path": "/particleEmitters/statustext2/particles/0/particle/text",
+    "raw": "+ Armor ",
+    "value": "护甲+"
+  }
+]

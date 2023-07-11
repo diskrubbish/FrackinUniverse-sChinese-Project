@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A blueprint encased in a vile bubble of slime. Unbreakable!",
+    "value": "一幅蓝图被包裹在黏液的邪恶泡沫中。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blueprint Blob",
+    "value": "蓝图斑点"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A blueprint encased in vile slime.",
+    "value": "包裹在肮脏的黏液中的蓝图。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Some kind of blueprint is encased within.",
+    "value": "某种蓝图被包裹在里面。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Is that a blueprint inssside?",
+    "value": "那里面有蓝图吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. It appears to contain a blueprint.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Some sort of blueprint is inside this thing!",
+    "value": "这里面有某种蓝图！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I see the Florans have found a worthy container for their designs.",
+    "value": "我看到叶族人为他们的设计找到了一个有价值的容器。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This thing sure don't seem practical.",
+    "value": "这件事看起来不太实际。"
+  }
+]

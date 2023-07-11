@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pail of pretty peonies!",
+    "value": "一桶美丽的牡丹！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peony Bucket",
+    "value": "牡丹桶"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Someone's planted their flowers in a wooden bucket. Cute!",
+    "value": "有人把花栽在木桶里了。有点意思！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Why are they in a bucket? To carry them around?",
+    "value": "为什么它们在桶里？难道是为了带着它们到处走？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Flowerss are growing out of wooden bucket.",
+    "value": "木桶里长满了花。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. Planting these flowers in a bucket gives it a sort of rustic charm.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Some pretty cute flowers in a bucket!",
+    "value": "桶里有一些漂亮可爱的花！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Peonies are a symbol of bashfulness in Hylotl culture, among other things.",
+    "value": "牡丹是鲛人文化中害羞的象征。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Did the folks who grew this run outta pots to plant it in? Or is it intentional?",
+    "value": "种植这棵树的人有没有用完盆来种植它？还是故意的？"
+  }
+]

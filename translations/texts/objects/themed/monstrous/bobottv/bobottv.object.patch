@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A television modeled after a Bobot. 99% guaranteed not to rear up and charge at you!",
+    "value": "模仿波波机器人的电视。99%保证不会向你冲锋！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Monstrous TV",
+    "value": "可怕的电视"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "As novel and cute as the idea behind this TV is, Bobots make me more than a little uncomfortable...",
+    "value": "尽管这台电视背后的想法既新奇又可爱，但波波机器人的造型让我有点不舒服..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's too small to have been an actual Bobot... Perhaps this is just a model?",
+    "value": "它太小了，不可能是真正的波波机器人...也许这只是一个模型？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran uses Bobot sshell when they don't have metal ready.",
+    "value": "叶族人在他们没有准备好金属的时候用波博特金属架。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. A charming little television in the shape of a Bobot.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's a little small, isn't it? I'd have preferred a flat screen.",
+    "value": "有点小，不是吗？我更喜欢平面屏幕。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A Bobot television? Perhaps it's from a line of children's furniture pieces...",
+    "value": "一台波波机器人电视？也许是从一系列儿童家具中..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I think the antenna are from actual Bobot...",
+    "value": "我认为天线是来自波波机器人的身体的..."
+  }
+]

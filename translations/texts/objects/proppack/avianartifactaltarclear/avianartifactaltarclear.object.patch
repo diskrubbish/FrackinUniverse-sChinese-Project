@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It looks like it was made to hold something important. Emphasis on \"was\".",
+    "value": "看起来它是用来装重要的东西的。强调【是】。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Empty Avian Artifact Altar",
+    "value": "空的翼族神器祭坛"
+  }
+]

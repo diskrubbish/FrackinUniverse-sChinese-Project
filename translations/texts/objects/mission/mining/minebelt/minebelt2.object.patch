@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A machine used to move large amounts of mined material.",
+    "value": "用来运送大量矿物的机器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mining Conveyer Belt",
+    "value": "矿业输送带"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A Conveyer Belt, for moving heavy loads a short distance.",
+    "value": "一条运输带，用于短距离运输重物。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A Conveyer Belt, currently its moving.",
+    "value": "一条传送带，目前正在运输。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran bored of fencesss.",
+    "value": "叶族人厌倦栅栅栅栏。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Indifferent. The conveyer belt is seemingly functional.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A short Conveyer Belt for moving heavy loads.",
+    "value": "一种用于搬运重物的短输送带。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An uninteresting human construct.",
+    "value": "一种无趣的人类构造。"
+  }
+]

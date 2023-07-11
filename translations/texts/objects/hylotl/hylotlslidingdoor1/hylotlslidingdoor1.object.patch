@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sliding door fit for any Hylotl base!",
+    "value": "一个适合任何鲛人底座的滑动门！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hylotl Sliding Door",
+    "value": "鲛人推拉门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A sliding door. Exciting.",
+    "value": "一扇推拉门。令人兴奋。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Some cultures believe that if you have no soul, these doors won't react to you.",
+    "value": "有些文化认为，如果你没有灵魂，这些门不会对你做出反应。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran's not one hundred percent sssure how these doors work.",
+    "value": "叶族人不能百分之百确确确定这些门是怎么工作的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Hypnotised. There is something fascinating about the movement of these doors.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Once, I ran at a door like this and it didn't open in time and... Yeah.",
+    "value": "有一次，我冲向这样一扇门，门没能及时打开...是的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A sleek sliding door. Colors are pretty!",
+    "value": "光滑的滑动门。颜色很漂亮！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I like these sleek slidin' doors.",
+    "value": "我喜欢这些光滑的滑动门。"
+  }
+]

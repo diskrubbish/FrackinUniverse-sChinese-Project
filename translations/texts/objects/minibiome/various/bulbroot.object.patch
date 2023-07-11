@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bulb Flower",
+    "value": "鳞茎花"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bulb Root",
+    "value": "鳞茎根"
+  }
+]

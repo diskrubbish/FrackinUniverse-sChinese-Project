@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A primitive end table.",
+    "value": "一张原始的茶几。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fenerox End Table",
+    "value": "耳廓狐的茶几"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This has not been made very well at all.",
+    "value": "这根本没有做得很好。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This end table looks a little rickety.",
+    "value": "这张茶几看起来有点摇摇欲坠。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Looksss like Floran ssstuff!",
+    "value": "看看看起来像叶族人的东东东西!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This looks like it may collapse.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's got holes in it.",
+    "value": "它上面有洞。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This end table could use some work.",
+    "value": "这张茶几可能可以处理一下。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It don't look all that sturdy.",
+    "value": "它看起来并不那么坚固。"
+  }
+]

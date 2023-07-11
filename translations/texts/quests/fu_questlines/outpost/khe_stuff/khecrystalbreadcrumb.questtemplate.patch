@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Shiny Crystal",
+    "value": "闪亮水晶"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "You hear a voice from the nearby extractor say 'Khe sees you. Come get special shiny!'",
+    "value": "你听到附近的萃取器里传来一个声音: “溪看到你了。来得到特别的闪亮！”"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "You hear a voice from the nearby extractor say 'Khe sees you. Have shiny recipe!'",
+    "value": "你听到附近的萃取器里传来一个声音: “溪看到你了。拿好特别的闪亮！”"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Handy for storing your cattle feed and produce.",
+    "value": "用来储存各种饲料和农产品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Food Storage",
+    "value": "饲料储存箱"
+  }
+]

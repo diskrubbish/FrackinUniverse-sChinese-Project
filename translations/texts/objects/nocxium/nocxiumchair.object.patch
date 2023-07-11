@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stool made from Nocxium. Not exactly comfortable.",
+    "value": "用诺克石做的凳子。不太舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nocxium Stool",
+    "value": "诺克石凳子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some sort of horrible chair.",
+    "value": "某种可怕的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This makes me uncomfortable.",
+    "value": "这玩意搞得我不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Creepy chair! Floran not ssscared, honessst...",
+    "value": "令人毛骨悚然的椅子！叶族人不害怕，老实说..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This chair makes my circuits shake.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This chair gives me the creeps!",
+    "value": "这把椅子让我毛骨悚然！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An odd looking chair. It is... very unpleasant.",
+    "value": "一把奇怪的椅子。它是...非常不愉快。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This chair ain't right.",
+    "value": "这把椅子不对。"
+  }
+]

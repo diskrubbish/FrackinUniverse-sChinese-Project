@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Slowly turns ^green;combs and bottles^reset; into ^orange;honey^reset;.",
+    "value": "缓慢地将^green;蜂巢和玻璃瓶^reset;转化成^orange;蜂蜜^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Extractor",
+    "value": "蜂蜜提取器"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Fill bottles with awesome honey.",
+    "value": "为瓶子注入棒极了的蜂蜜。"
+  }
+]

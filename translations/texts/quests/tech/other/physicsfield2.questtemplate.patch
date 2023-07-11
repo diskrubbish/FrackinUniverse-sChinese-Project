@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Breaking Physics II",
+    "value": "打破物理规律 II"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Thanks to advancements in my research I can upgrade my Physics Field.",
+    "value": "由于我科学研究取得了重大成果，我升级了我的物理力场。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Now I can truly ignore gravity and travel in style!",
+    "value": "现在我可以完全忽视重力了。"
+  }
+]

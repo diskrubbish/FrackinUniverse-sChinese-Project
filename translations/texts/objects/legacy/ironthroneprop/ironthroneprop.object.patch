@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A throne of 1000 swords.",
+    "value": "有1000把剑的宝座。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Throne",
+    "value": "铁王座"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This looks like a Miniknog torture device.",
+    "value": "这看起来像一个小型的拷问装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's as if an attempt was made to build a nest from swords.",
+    "value": "好像有人试图用剑筑巢。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssshould sit on a throne like thiss.",
+    "value": "叶族人应该像这样坐在王座上。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Review. Entirely impractical. Three out of ten.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Someone sitting on that could never get comfortable.",
+    "value": "坐在上面的人永远不会感到舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Throne or torture device?",
+    "value": "王座还是刑具？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now who in the heck thought this was a good idea?",
+    "value": "到底是谁认为这是个好主意？"
+  }
+]

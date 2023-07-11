@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^#00ccff;Gene Sequencer^reset;",
+    "value": " ^#00ccff;基因定序仪^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Create genes from scratch.",
+    "value": " ^#dddddd;从无到有创建基因。"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Create genes from scratch.",
+    "value": "从无到有创建基因。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Gene Sequencer^reset;",
+    "value": "^orange;基因定序仪^reset;"
+  }
+]

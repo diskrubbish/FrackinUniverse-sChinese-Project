@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A standard Protectorate ship bunk bed. ^yellow;Crew +1^reset;. Counts as a deed. ^red;BYOS Only^reset;. Extract to return Crew Bunk.",
+    "value": "标准的保护船双层床。^yellow;船员+1 ^reset;。算作契约。^red;只在建造船体模式下生效^reset;。提取返回船员床铺。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "P. Crew Bunk Bed",
+    "value": "船员双层床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A basic bunk bed.",
+    "value": "基本的双层床。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This bunk bed looks rather basic.",
+    "value": "这张双层床看起来很基本。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran would like to sssleep in bunk bed.",
+    "value": "叶族人想在睡睡睡双层床上。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Sentimental. A bunk bed, not dissimilar from those at the Protectorate academy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A bunk bed. Not terribly spacious, but surprisingly comfortable.",
+    "value": "一张双层床。不是很宽敞，但是舒适如家。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I have fond memories of sleeping in such a bed at the Protectorate academy.",
+    "value": "我很怀念在守护团学院的床上睡过的美好回忆。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A regular bunk bed.",
+    "value": "一张普通的双层床"
+  }
+]

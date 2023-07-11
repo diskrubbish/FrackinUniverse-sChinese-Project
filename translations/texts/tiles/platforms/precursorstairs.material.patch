@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Platform",
+    "value": "先驱平台"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ultra techy stairs",
+    "value": "使用终极科技制造的楼梯。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A simple, aesthetically pleasing sofa.",
+    "value": "一种简单、美观的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Couch",
+    "value": "甲虫长沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A couch built from wood and cloth.",
+    "value": "用木头和布做成的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Simple design, with room to lounge.",
+    "value": "设计简单，从房间到休息室。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Like Mantizi chair, but big.",
+    "value": "像甲虫椅子，但很大。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Inspect. Sturdy construction with artistic flourishes in the cloth",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The couch smells of wine.",
+    "value": "沙发上有酒味。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Looks comfortable.",
+    "value": "看起来很舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Room for two, or three if you really squeeze in, and a fourth if you're creative.",
+    "value": "如果你真的挤进去的话，可以放两到三个人，如果你有创意的话，可以放第四个人。"
+  }
+]

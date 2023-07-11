@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lit Wooden Window",
+    "value": "明亮的木窗"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A window with wooden panes. Somebody's home!",
+    "value": "有木制窗格的窗户。某个人的家！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delighted. This window helps brighten the room.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Nice windowss, Floran can see outside.",
+    "value": "漂亮的窗窗窗户，叶族人可以看到外面。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Nice lookin' window with wooden panes.",
+    "value": "木制窗格组成的漂亮窗户。"
+  }
+]

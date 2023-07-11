@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A brain in a jar, daydreaming.",
+    "value": "罐中脑，简直是白日梦。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Superior Brain Housing",
+    "value": "优质大脑储存罐"
+  }
+]

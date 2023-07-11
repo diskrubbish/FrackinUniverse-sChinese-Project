@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hatch suitable for a spaceship.",
+    "value": "一个适合于宇宙飞船的舱口。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Ship Hatch",
+    "value": "史莱姆船舱"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Neat, a horizontal door.",
+    "value": "整洁，一扇水平门。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These hatches are used on all our ships.",
+    "value": "我们所有的飞船上都有使用这些舱口。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A spaceship hatch.",
+    "value": "一扇飞船舱口。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssspaceship hatch.",
+    "value": "飞飞飞船舱口。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Proud. A ship hatch.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Cool hatch.",
+    "value": "好酷的舱口。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A basic ship hatch.",
+    "value": "一扇基础的飞船舱口"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A hatch.",
+    "value": "一个舱口。"
+  }
+]

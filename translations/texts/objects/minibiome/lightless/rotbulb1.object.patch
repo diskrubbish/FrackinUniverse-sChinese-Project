@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It smells like rotting flesh.",
+    "value": "它闻起来像是腐肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rot Bulb",
+    "value": "腐烂的鳞茎"
+  }
+]

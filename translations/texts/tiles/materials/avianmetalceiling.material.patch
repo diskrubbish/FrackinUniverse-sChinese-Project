@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Avian Metal Ceiling",
+    "value": "翼族金属天花板"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metal panel typically used for ceiling structure using Avian technology.",
+    "value": "通常用于使用翼族技术的天花板结构的金属面板。"
+  }
+]

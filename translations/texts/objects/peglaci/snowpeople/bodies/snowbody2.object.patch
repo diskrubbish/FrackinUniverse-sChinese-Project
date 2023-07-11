@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The body of a Snowman.",
+    "value": "雪人的身体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Simple Snowbody",
+    "value": "简单雪人"
+  }
+]

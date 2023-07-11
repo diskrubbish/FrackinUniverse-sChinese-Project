@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A console made out of sticky slime.  How does it work?",
+    "value": "用粘性史莱姆液体制成的控制台。它是如何工作的？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Console",
+    "value": "史莱姆控制台"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "It's strange how things like this work out, but at least they work.",
+    "value": "很奇怪这样的事情是怎么发生的，但至少它们起作用了。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Intriguing.  It's made of slime, yet it works just as well as any other console.",
+    "value": "很有趣。它是由史莱姆制做的，但它的工作原理和其他任何控制台一样好。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I hope my feathers don't get stuck on this.",
+    "value": "我希望我的羽毛不要粘在这上面。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssticky sslimy conssole.",
+    "value": "真TM黏呼呼的控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned.  Will my fingers corrode from using this console?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Ew.  How does this even work?",
+    "value": "电子战。这到底是怎么回事？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A console made out of slime.  Huh.  I guess just about anything can work if you know what you're doing.",
+    "value": "一个由史莱姆制做的控制台。呵呵。我想只要你知道自己在做什么，任何事情都能奏效。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A console made outta slime?  How's that work?",
+    "value": "用史莱姆制做的控制台？那工作怎么样？"
+  },
+  {
+    "op": "replace",
+    "path": "/slimenpcDescription",
+    "raw": "Beep boop!",
+    "value": "嘟嘟！"
+  },
+  {
+    "op": "replace",
+    "path": "/slimenpchumanDescription",
+    "raw": "What does this button do?",
+    "value": "这个按钮是做什么的？"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Well isn't that lovely. Blood.",
+    "value": "血液，看起来总是不会让人愉快。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blood",
+    "value": "血液"
+  }
+]

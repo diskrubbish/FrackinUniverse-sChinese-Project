@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A painting of a nebula, the Aether infused paint makes it glow.",
+    "value": "一幅以太星云的绘画，画中注入了以太，使其闪闪发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nebula Painting",
+    "value": "星云绘画"
+  }
+]

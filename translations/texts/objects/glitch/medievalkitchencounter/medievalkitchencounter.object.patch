@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's recommended when chopping currentcorn to wear insulated gloves.",
+    "value": "切碎玉米时，建议戴上绝缘手套。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Medieval Kitchen Counter^reset;",
+    "value": "^orange;中世纪厨房柜台^reset;"
+  }
+]

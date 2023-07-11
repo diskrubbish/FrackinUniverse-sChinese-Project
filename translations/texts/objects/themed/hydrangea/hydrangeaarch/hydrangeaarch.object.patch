@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A garden arch, overrun with hydrangea flowers.",
+    "value": "一座花园拱门，满是绣球花。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hydrangea Arch",
+    "value": "绣球拱门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This archway is overrun with flowers. It's incredibly serene.",
+    "value": "这座拱门满是鲜花。非常宁静。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What vibrant blossoms! I wonder if they'd make for good dye in an Avian tapestry...?",
+    "value": "多么鲜艳的花朵啊！我想知道它们是否能成为翼族挂毯上的好染料...？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Iss monkey bars for flowers!",
+    "value": "这些都是用于猴子酒吧的花束！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Intrigued. How did anyone get these flowers to root themselves to this trellis?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hah! This looks like something out of a fairytale courtyard!",
+    "value": "哈！这看起来像是童话般的院子里的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Great care was taken to get these flowers to grow along this lattice arch.",
+    "value": "为了让这些花沿着这个格子拱门生长，人们非常小心。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some mighty pretty flowers are twirled around this here archway.",
+    "value": "一些美丽的花朵围绕着这座拱门旋转。"
+  }
+]

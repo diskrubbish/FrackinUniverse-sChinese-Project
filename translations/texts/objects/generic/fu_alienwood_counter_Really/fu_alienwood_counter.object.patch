@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An alienwood counter.",
+    "value": "一个外星木柜台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alien Wood Counter",
+    "value": "外星木柜台"
+  }
+]

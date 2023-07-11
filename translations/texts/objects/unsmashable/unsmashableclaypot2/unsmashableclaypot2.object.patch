@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cracked clay pot. Unbreakable!",
+    "value": "破裂的陶罐。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Unusual Clay Pot",
+    "value": "不寻常的陶罐"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A cracked clay pot. Should I smash it?",
+    "value": "破裂的陶罐。我应该打碎它吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A cracked clay pot. It might have something useful in it!",
+    "value": "破裂的陶罐。它可能有一些有用的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thiss clay pot can be ssmasshed!",
+    "value": "这个陶罐可以压缩！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Interested. Breaking this cracked pot will reveal the contents inside.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I think there's something in there. I can probably break it open.",
+    "value": "我觉得里面有东西。我也许能把它打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This cracked pot was carefully crafted, but the contents cannot be explored without breaking it.",
+    "value": "这个破裂的罐子是精心制作的，但如果不打破它，就无法探索里面的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'd bet I could smash this 'ol pot with one shot.",
+    "value": "我敢打赌，我一枪就能把这个破罐子砸碎。"
+  }
+]

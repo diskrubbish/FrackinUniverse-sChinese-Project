@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It seems this poor person was vivisected.",
+    "value": "看起来这个可怜的家伙过了一段非常悲惨的时光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dead scientist",
+    "value": "死了的科学家"
+  }
+]

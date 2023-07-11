@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small chest made from xithricite.",
+    "value": "由赛德瑞瑟晶体制成的小箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Xithricite Chest",
+    "value": "小型赛德瑞瑟晶体箱子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A chest seemingly made from star matter.",
+    "value": "一个似乎由恒星物质制成的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I feel like I'm looking into the night sky.",
+    "value": "我感觉我在仰望夜空。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstarry chessst!",
+    "value": "星星棋子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. This chest seems to be made from the stars themselves.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This chest looks like it's made from stars!",
+    "value": "这个箱子看起来像是星星做的！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This chest makes me think fondly of the night sky.",
+    "value": "这个箱子让我怀念夜空。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This chest is mighty pretty.",
+    "value": "这箱子非常漂亮。"
+  }
+]

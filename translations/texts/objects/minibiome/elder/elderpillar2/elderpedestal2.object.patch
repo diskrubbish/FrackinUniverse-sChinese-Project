@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ancient and strange, its stone almost seems to sweat.",
+    "value": "古老而奇怪，它上面好像湿漉漉的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Pedestal",
+    "value": "古代底座"
+  }
+]

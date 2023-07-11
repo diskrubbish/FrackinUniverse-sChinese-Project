@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Base Damage: 4\nFire Rate: 0.4\nEnergy per Shot: 7\nRange: Mid",
+    "value": "基础伤害: 4\n射速: 0.4\n每击能量消耗: 7\n范围: 中等"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vashta Turret",
+    "value": "骨镖炮塔"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Automatic Base Defense",
+    "value": "自动基本防御"
+  }
+]

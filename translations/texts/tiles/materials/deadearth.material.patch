@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Not much can hope to grow here.",
+    "value": "没有任何东西可以于上面生长。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dead Soil",
+    "value": "死亡之土"
+  }
+]

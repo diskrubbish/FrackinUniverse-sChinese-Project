@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "House of Bees",
+    "value": "蜜蜂的家"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Before you take care of bees, you need a place to put them. Build an ^orange;Apiary^reset; for this.",
+    "value": "在你照顾蜜蜂之前，你需要找个地方安置它们。试着先造一个^orange;小型蜂箱^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "The ^orange;Apiary^reset; is essential for a beekeeper. You'll likely want more than one. You need them to breed your little buddies.",
+    "value": "^orange;小型蜂箱^reset;对养蜂人而言很重要。你可能需要很多个来培养这些小家伙。"
+  }
+]

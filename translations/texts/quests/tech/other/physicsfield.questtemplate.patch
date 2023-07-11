@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Breaking Physics",
+    "value": "打破物理规律 I"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I've devised a way to quite literally ignore physics to a mild degree!",
+    "value": "我研究出了一项科技，它可以完全忽视掉使用者受到的重力影响。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "With this tech I should be able to hold jump and reduce my inertia.",
+    "value": "这种科技可以让我在跳跃的同时浮空。"
+  }
+]

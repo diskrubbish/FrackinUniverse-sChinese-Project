@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Drops Items into the world.\n^blue;Input^white;1^blue;: ^white;On/Off Switch^reset;",
+    "value": "将物品丢弃到当前世界。\n^blue;输入^white;1^blue;: ^white;电源开关"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Item Dropper",
+    "value": "物品丢弃器"
+  }
+]

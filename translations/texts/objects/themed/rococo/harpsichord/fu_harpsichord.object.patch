@@ -1,0 +1,140 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "In space, nobody can hear the music of the spheres - until you play this!",
+    "value": "在太空中，没有人能听到球体的音乐——除非你播放这个！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rococo Harpsichord",
+    "value": "洛可可大键琴"
+  },
+  {
+    "op": "replace",
+    "path": "/phoxDescription",
+    "raw": "All of a sudden I am feeling the urge to dance...my paws too. Music anyone?",
+    "value": "突然间我有了跳舞的冲动……我的爪子也跳了起来。有人听音乐吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/kirhosDescription",
+    "raw": "Why in the Slip would anyone dream of playing music on this?",
+    "value": "为什么会有人梦想在这上面演奏音乐？"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "Why in the Slip would anyone dream of playing music on this?",
+    "value": "为什么会有人梦想在这上面演奏音乐？"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Isn't this musical instrument too anachronistic to be in a futuristic space setting?",
+    "value": "在未来的空间环境中，这种乐器不是太过时了吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/felinDescription",
+    "raw": "Anyone who plays so grim and aberrant an instrument like this needs to be shot on sight.",
+    "value": "任何一个演奏如此冷酷和反常的乐器的东西都需要一枪毙命。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This looks to be an Apex attempt to replicate antique Human musical sensibilities.",
+    "value": "这看起来是猿族试图复制古代人类的音乐情感。"
+  },
+  {
+    "op": "replace",
+    "path": "/bothanDescription",
+    "raw": "A keyboard instrument that plucks strings, instead of hitting wires.",
+    "value": "一种拨弦而不是敲击电线的键盘乐器。"
+  },
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Perfect machine. Imperfect music. Auditory assault!",
+    "value": "完美的机器。不完美的音乐。听觉攻击！"
+  },
+  {
+    "op": "replace",
+    "path": "/rodianDescription",
+    "raw": "The music that could be performed on this keyboard instrument fell out of date many aeons ago.",
+    "value": "可以用这种键盘乐器演奏的音乐在很久以前就过时了。"
+  },
+  {
+    "op": "replace",
+    "path": "/zabrakDescription",
+    "raw": "I can't bring myself to think of what tunes should be played on this device.",
+    "value": "我想不起在这个设备上应该播放什么曲子。"
+  },
+  {
+    "op": "replace",
+    "path": "/togrutaDescription",
+    "raw": "Looks like some sort of Human musical instrument",
+    "value": "看起来像某种人类乐器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A musical frivolity that best describes the excesses of life in the Miniknog's immediate circle.",
+    "value": "一种音乐上的轻浮，最好地描述了生活在科技发展部的直接圈子里的过度。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Sure looks like a piano, but it ain't one!",
+    "value": "看起来像架钢琴，但不是！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Whimsical. I suppose I could try to play this contraption.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Never have I ever in my life ever heard such an awful cacophony.",
+    "value": "我这辈子从来没有听过这么刺耳的声音。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big wooden box makessss lotssss of noissse!",
+    "value": "大木箱噪音大！"
+  },
+  {
+    "op": "replace",
+    "path": "/sithDescription",
+    "raw": "Music cannot soothe that breast made savage by the Dark Side.",
+    "value": "音乐无法抚慰被黑暗面摧残的乳房。"
+  },
+  {
+    "op": "replace",
+    "path": "/tuskanDescription",
+    "raw": "Not many of my kind on my own planet have had the chance to practise working with these machines.",
+    "value": "在我的星球上，没有多少我这样的人有机会练习操作这些机器。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "There must be a way to convert the discordant and jarring sounds of this instrument into a sonic-based weapon.",
+    "value": "肯定有一种方法来转换不和谐和震动的声音，然后让这个仪器成为一个声波为基础的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/diathimDescription",
+    "raw": "I've never understood how these devices work.",
+    "value": "我一直不明白这些设备是怎么工作的。"
+  },
+  {
+    "op": "replace",
+    "path": "/mawgDescription",
+    "raw": "I'm gettin' a lotta bad vibes simply by listenin' to a single note from this monster.",
+    "value": "听到这个怪物的一个音符，我就感到很不舒服。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Trash. Just trash. Or is it? Answer: Cute.",
+    "value": "垃圾，只是垃圾罢了。等等，还有可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Trash Bin",
+    "value": "垃圾桶"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Garbage day!",
+    "value": "垃圾日！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Trash.",
+    "value": "垃圾。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty rubbish.",
+    "value": "漂亮的垃圾。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unimpressed. Garbage.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Time to take out the trash!",
+    "value": "大扫除时光！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Vile garbage.",
+    "value": "可憎的垃圾。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't nothin' but trash.",
+    "value": "这里只有垃圾。"
+  }
+]

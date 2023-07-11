@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A broken signal emitter. Despite having an output node, it never outputs a signal, no matter what!",
+    "value": "这台信号发射器已经损坏，虽说它有一个输出节点，但它再也无法发射信号了！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Broken Signal Emitter",
+    "value": "信号发射器(已坏)"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "value": "到底这破玩意儿有什么用？或许我可以使门永远关闭？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "value": "到底这破玩意儿有什么用？或许我可以使门永远关闭？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "What'sss the point of usssing thisss broken emitter? Maybe Floran can ussse it to keep doorsss sealed?",
+    "value": "叶族人不明白到底这这这破玩意儿有什么用？或许叶族人可以使门永永永远关闭？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Skeptical. What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "value": "到底这破玩意儿有什么用？或许我可以使门永远关闭？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "value": "到底这破玩意儿有什么用？或许我可以使门永远关闭？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "value": "到底这破玩意儿有什么用？或许我可以使门永远关闭？"
+  },
+  {
+    "op": "replace",
+    "path": "/penguinDescription",
+    "raw": "What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "value": "到底这破玩意儿有什么用？或许我可以使门永远关闭？"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "What's the point of using this broken emitter? Maybe I can use it to keep doors sealed?",
+    "value": "到底这破玩意儿有什么用？或许我可以使门永远关闭？"
+  }
+]

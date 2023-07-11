@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A perfect wall switch.",
+    "value": "一个完美的墙壁开关。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Perfect Wall Switch",
+    "value": "完美的墙壁开关"
+  }
+]

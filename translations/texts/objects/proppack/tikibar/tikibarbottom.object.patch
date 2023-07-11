@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bar fit for a tropical resort!",
+    "value": "适合热带度假的酒吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tiki Bar",
+    "value": "夏威夷风情酒吧"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This bar is remarkably well polished.",
+    "value": "这条酒吧擦得非常好。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This bar looks like it sees a lot of customers.",
+    "value": "这家酒吧看起来顾客很多。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thisss bar is made from fancy wood.",
+    "value": "这个酒吧是用花式木材做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. This bar has a very nice feel to it. I could sit here a while.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Does the concept of tikis even translate to cultures off Earth?",
+    "value": "提基斯的概念甚至可以转化为地球以外的文化吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A colorful looking bar.",
+    "value": "一个五颜六色的酒吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Nice. I could do with a li'l rum.",
+    "value": "很好。我想要一小杯尔朗姆酒。"
+  }
+]

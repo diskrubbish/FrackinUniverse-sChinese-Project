@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An odd plush toy, rumored to be the favorite of Prop Packaging's cryptic CEO.",
+    "value": "一个奇怪的毛绒玩具，据传是道具包装公司神秘的首席执行官的最爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Substitute Plush",
+    "value": "替代毛绒"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A plush... dinosaur? Whatever it is, it's cute.",
+    "value": "毛绒...恐龙？不管是什么，都很可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'm not sure what this is supposed to be, but at least it's cute.",
+    "value": "我不知道这是什么，但至少它很可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran never sseen prey like this before...",
+    "value": "叶族人从没见过这样的猎物..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. The tag on this toy seems to imply this plush is made of the same materials as Punchy brand training dummies.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It looks less like a toy and more like a decoy.",
+    "value": "它看起来不像一个玩具，更像一个诱饵。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Something about this doll is vaguely familiar...",
+    "value": "关于这个洋娃娃的一些东西是似曾相识的..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A weird lookin' stuffed toy.",
+    "value": "一个奇怪的填充玩具。"
+  }
+]

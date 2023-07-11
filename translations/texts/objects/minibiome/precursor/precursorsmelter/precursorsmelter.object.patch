@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Built to process entire worlds into cyberspheres. Sifts and crushes blocks. ^cyan;Requires ^orange;120W ^cyan;power.^reset;",
+    "value": "旨在将整个世界处理到网络领域。筛分和粉碎物块。\n^cyan;需要^orange;120W^cyan;电力^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Precursor Forge^reset;",
+    "value": "^cyan;先驱熔炉^reset;"
+  }
+]

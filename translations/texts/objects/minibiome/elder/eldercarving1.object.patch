@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I can only guess at the potential meaning of these glyphs.",
+    "value": "我无法获知表面的文字装饰的真正含义。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Carvings",
+    "value": "古代雕刻"
+  }
+]

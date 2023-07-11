@@ -1,0 +1,86 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "raw": "  Nightar Blacksmith",
+    "value": "  夜族黑匠"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Lethally crafted penumbrite.",
+    "value": "  精心制作的致命半影。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/nightar/default/0",
+    "raw": "Buy a sword, save your life.",
+    "value": "买一把剑，拯救你的生命。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/nightar/default/1",
+    "raw": "The finest weapons here.",
+    "value": "这里最好的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/nightar/default/2",
+    "raw": "Blades, blessed by the Matriarch!",
+    "value": "刀刃，愿女族长祝福你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/nightar/default/3",
+    "raw": "My skill is supreme. Puruse my wares.",
+    "value": "我的技艺是至高无上的，请使用我的器皿。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/nightar/default/0",
+    "raw": "You will come again, yes?",
+    "value": "你会再来的，对吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/nightar/default/1",
+    "raw": "Slay something for me.",
+    "value": "为我杀死一些东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/nightar/default/2",
+    "raw": "Tarnish not my masterwork in your battles.",
+    "value": "不要在你的战斗中玷污我的杰作。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/follow/nightar/default/0",
+    "raw": "Follow if you wish to purchase.",
+    "value": "如果你想购买，请跟随。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/follow/nightar/default/1",
+    "raw": "My creations are in my shop.",
+    "value": "我的作品在我的商店里。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/nightar/default/0",
+    "raw": "What wares seeketh thee?",
+    "value": "你在这寻觅什么?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/nightar/default/1",
+    "raw": "My craftsmanship is sublime.",
+    "value": "我的手艺非常高超。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/nightar/default/2",
+    "raw": "Make your purchase.",
+    "value": "买东西。"
+  }
+]

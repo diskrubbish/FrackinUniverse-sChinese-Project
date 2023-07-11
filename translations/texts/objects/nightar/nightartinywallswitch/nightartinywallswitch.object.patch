@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A compact switch that can be flipped on or off.",
+    "value": "可以打开或关闭的小型开关。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Tiny Switch",
+    "value": "夜族微型开关"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A switch. It activates something.",
+    "value": "开关。它激活了一些东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This tiny switch must activate something.",
+    "value": "这个小小的开关一定激活了什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssswitch!",
+    "value": "开...开关！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. This small switch doesn't look that powerful.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "How many times can I flip this switch on and off I wonder.",
+    "value": "我想知道我能打开和关闭这个开关多少次。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A basic switch. It can be used to activate something.",
+    "value": "基本开关。它可以用来激活某些东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can flip this here switch!",
+    "value": "我可以在这里扳动开关！"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This door is made of hardened and compressed aether materials.",
+    "value": "这扇门由硬化且压缩过的以太材料制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Gem Door",
+    "value": "以太宝石门"
+  }
+]

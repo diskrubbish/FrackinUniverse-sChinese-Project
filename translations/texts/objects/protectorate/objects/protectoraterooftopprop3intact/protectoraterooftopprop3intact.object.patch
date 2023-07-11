@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A roof top vent from the Protectorate Academy.",
+    "value": "来自大地守护团的屋顶通风口。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protectorate Roof Top Vent",
+    "value": "守护团屋顶通风口"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some sort of ventilation.",
+    "value": "某种通风设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This is a vent.",
+    "value": "这是个通风口。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thisss thing is ventilation.",
+    "value": "这这这玩意是通风设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uninterested. A standard ventilation system.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I think it's a vent. But who cares?",
+    "value": "我觉得这是个通风口。但是谁在乎呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A vent.",
+    "value": "一道通风口。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Looks like a vent.",
+    "value": "看起来时通风口。"
+  }
+]

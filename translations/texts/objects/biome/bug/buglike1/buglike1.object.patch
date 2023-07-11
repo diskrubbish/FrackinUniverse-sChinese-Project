@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dense and sharp-edged chitin structure.",
+    "value": "一种致密而锋利的甲壳质结构。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chitin Structure",
+    "value": "几丁质结构"
+  }
+]

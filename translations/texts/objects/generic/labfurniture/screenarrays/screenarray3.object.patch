@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "LED Screen.",
+    "value": "一个LED屏幕。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "LED Screen",
+    "value": "LED屏幕"
+  }
+]

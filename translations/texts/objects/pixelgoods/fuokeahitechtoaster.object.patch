@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Turns bread into delicious toast, it's magical!",
+    "value": "把面包变成美味的吐司，真神奇！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hi-tech Toaster",
+    "value": "高科技烤吐司机"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Fresh Toasts!",
+    "value": "新鲜吐司！"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Hi-tech toaster.",
+    "value": "高科技烤吐司机。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Hi-tech toaster.",
+    "value": "高科技烤吐司机。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hi-tech toaster.",
+    "value": "高科技烤吐司机。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Hi-tech toaster.",
+    "value": "高科技烤吐司机。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hi-tech toaster.",
+    "value": "高科技烤吐司机。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Hi-tech toaster.",
+    "value": "高科技烤吐司机。"
+  }
+]

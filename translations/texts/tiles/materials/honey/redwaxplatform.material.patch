@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Red Wax Platform",
+    "value": "红蜡平台"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Beautiful red wax platforms.",
+    "value": "漂亮的红蜡平台。"
+  }
+]

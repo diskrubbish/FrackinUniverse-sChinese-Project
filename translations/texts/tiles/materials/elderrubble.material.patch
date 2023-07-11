@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stone rubble which appears to be debris from an old structure.",
+    "value": "一些石头瓦砾，似乎是某些旧建筑结构的碎片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Rubble",
+    "value": "远古瓦砾"
+  }
+]

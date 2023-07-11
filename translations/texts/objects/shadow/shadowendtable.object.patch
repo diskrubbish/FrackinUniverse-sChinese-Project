@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small end table. It watches you read.",
+    "value": "一个小型的茶几。他在注视你的阅读。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowy End Table",
+    "value": "阴影茶几"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple end table.",
+    "value": "一个简单的茶几。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The simplest of tables.",
+    "value": "最最简单的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssimple table.",
+    "value": "简简简单的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Bored. A very simple table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Not much to say about this table.",
+    "value": "这张桌子没什么好说的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A table, very simple in every way.",
+    "value": "一张桌子，从哪方面说都很简单。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just an end table.",
+    "value": "就是一个茶几而已。"
+  }
+]

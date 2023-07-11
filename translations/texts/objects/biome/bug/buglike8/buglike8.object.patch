@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Smoothe and unusual chitinous mass.",
+    "value": "平滑、不寻常的几丁质团。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chitin Structure",
+    "value": "几丁质结构"
+  }
+]

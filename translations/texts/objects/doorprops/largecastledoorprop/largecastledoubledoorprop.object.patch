@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Huge, intimidating doors.",
+    "value": "巨大的，令人生畏的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "L. Medieval D. Door Prop",
+    "value": "大型中世纪双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Huge doors. You'd need a battering ram to take them down.",
+    "value": "巨大的门。你需要一个攻城槌把他们打下来。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These are perhaps the biggest doors I've ever seen.",
+    "value": "这可能是我见过的最大的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Doors makess Floran feel sssmall.",
+    "value": "门让叶族人觉得自己很渺小。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Comforted. These doors can be barred from the inside by a huge plank of wood.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Huge fortified doors. It'd require more than a battering ram to get them open.",
+    "value": "巨大的防御门，需要的不仅仅是一个攻城锤。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such doors are built for those that fear intruders.",
+    "value": "这样的门是为那些害怕入侵的人而造的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Whoever built these doors sure don't want visitors.",
+    "value": "建造这些门的人肯定不想有访客。"
+  }
+]

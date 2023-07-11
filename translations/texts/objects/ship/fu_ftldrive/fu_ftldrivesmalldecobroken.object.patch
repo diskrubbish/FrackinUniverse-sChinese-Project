@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An FTL drive spewing smoke. The circuitry is fried on the inside.",
+    "value": "这台超光速引擎冒者烟，电路内部烧坏了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fried FTL Drive",
+    "value": "烧焦的FTL引擎"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The wiring inside this FTL Drive is shot. It is well beyond repair.",
+    "value": "超光速引擎里面的电线坏了，已经无法修理了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Smoke is pouring out of this FTL Drive. I don't think it works at all.",
+    "value": "超光速引擎冒出浓烟，我认为它根本不起作用。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Smoke coming out machine, and machine not starting.",
+    "value": "机器冒烟，机器没有启动。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disheartened. There is not a single way to make this FTL Drive work.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "As expected, the insides look horrid. This thing ain't working anytime soon.",
+    "value": "不出所料，里面看起来很恐怖，这玩意儿近期都不能用了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This FTL Drive is smoking violently, and smeels of burnt rubber.",
+    "value": "这个超光速引擎正在猛烈地冒烟，还有烧焦的橡胶的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This drive's shot. Ain't no way it'll work anytime soon.",
+    "value": "推进器坏了，短时间内不可能工作。"
+  }
+]

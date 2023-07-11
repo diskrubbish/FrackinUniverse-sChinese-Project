@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bubble of honey.",
+    "value": "蜂蜜泡泡。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Blob",
+    "value": "蜂蜜团"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Very sturdy serene doors.",
+    "value": "非常安静的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Serene Double Door Prop",
+    "value": "宁静双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The shape makes these doors very secure.",
+    "value": "这种形状使这些门非常安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Very sturdy doors.",
+    "value": "非常坚固的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hide behind doors. Jump out. Ssstab!",
+    "value": "叶族人躲在门后，跳出来，跳！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. These door's shape makes them very sturdy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Sturdy serene doors.",
+    "value": "坚固安详的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Robust serene doors.",
+    "value": "坚固而宁静的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These here doors look pretty secure.",
+    "value": "这些门看起来很安全。"
+  }
+]

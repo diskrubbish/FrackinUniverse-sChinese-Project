@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Repairs broken capture pod images.",
+    "value": "修复捕捉舱中的生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Capture Pod Re-Imager",
+    "value": "捕捉舱修复站"
+  }
+]

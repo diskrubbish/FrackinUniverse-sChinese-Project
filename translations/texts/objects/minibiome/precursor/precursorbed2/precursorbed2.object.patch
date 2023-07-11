@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some imposing glowy bedding. I am impressed.",
+    "value": "一些壮丽夺目的床具。使我印象深刻。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Captain's Bed",
+    "value": "先驱船长床"
+  }
+]

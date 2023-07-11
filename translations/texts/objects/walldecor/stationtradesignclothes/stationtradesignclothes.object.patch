@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sign with an image of a shirt, indicating an clothing station.",
+    "value": "带有衬衫图案的标志，表示服装站。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Clothing Station Sign",
+    "value": "服装站标志"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This sign is meant to indicate a clothing station.",
+    "value": "这个标志表示服装站。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This sign denotes a clothing station.",
+    "value": "这个标志表示服装站。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "This clothing sssign is bright.",
+    "value": "这个标志很亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informed. The image of this component is meant to indicate an clothing station.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A sign which marks a clothing station.",
+    "value": "标志服装站的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Signs like this usually mean there is a nearby clothing station.",
+    "value": "像这样的标志通常意味着附近有一个服装站。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Reckon this sign means there's meant to be a clothing station 'round here.",
+    "value": "我想这个标志意味着附近有一个服装站。"
+  }
+]

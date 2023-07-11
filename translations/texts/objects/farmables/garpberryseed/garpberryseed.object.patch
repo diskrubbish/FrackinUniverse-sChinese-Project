@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange, toxic radioactive stalk.",
+    "value": "一种奇怪的、有毒的放射性茎。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Garp Berry Plant",
+    "value": "彭泽浆果种子"
+  }
+]

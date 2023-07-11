@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Attracts insects! All sorts of creepy crawlies can live in here.",
+    "value": "吸引虫子！各种各样的爬虫都可以住在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bug House",
+    "value": "臭虫屋"
+  }
+]

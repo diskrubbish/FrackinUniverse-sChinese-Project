@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Periodically releases restorative nanites. ^cyan;Requires 20J^reset; per 3.5s if a mech is nearby.",
+    "value": "这个设备可制造出纳米机器人修复机甲。如果附近有机甲，每3.5s需要^cyan;20W^reset;电力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mech Repair Pod",
+    "value": "机甲修理仓"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's awfully soft...",
+    "value": "太软了..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shop Counter, Mushroom",
+    "value": "蘑菇售货柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'm not quite certain I want my hands on this counter.",
+    "value": "我不太确定我是否想把手放在这个柜台上。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "My translator certainly has it's work cut out for it...",
+    "value": "我的翻译器肯定有很多工作要做..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "... Floran does not want to shop here, actually.",
+    "value": "...其实叶族人不想在这里购物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Frustrated. Trying to haggle with Agarans is an absolute nightmare.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Usually this is where I'd joke and say that Agaran shopkeepers must be 'fun guys', but uh...",
+    "value": "通常这时我会开玩笑说蘑菇人的店主一定是个“大蠢蛋”，但是嗯..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Agarans are particularly stubborn shopkeepers. The language barrier doesn't help matters.",
+    "value": "蘑菇人都是特别顽固的店主。语言障碍对于他们来说无济于事。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Agarans sure are some funny fellas, that's fer sure.",
+    "value": "蘑菇人确实是一群有趣的家伙，这是肯定的。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stack of girders. There might construction nearby.",
+    "value": "一堆大梁。附近可能有建筑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Girder Pile",
+    "value": "梁桩"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A stack of hefty looking girders.",
+    "value": "一堆看起来很结实的大梁。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Construction girders. I wonder what they're for?",
+    "value": "建筑大梁。我想知道它们是干什么用的？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Girders. Floran could usse these for a weapon.",
+    "value": "大梁。叶族人可以用这些做武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. What are these girders being used for?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These definitely look like they'd hurt if they fell on a foot. Or anything else, really.",
+    "value": "如果他们踩到一只脚，看起来肯定会受伤。或者别的什么，真的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Sturdy construction girders. Ideal for structuring building foundations.",
+    "value": "坚固的建筑梁。非常适合构建建筑基础。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Girders for constructin'.",
+    "value": "施工用大梁。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This creature appears to care about nothing at all. Strange.",
+    "value": "这家伙似乎什么都不关心，真是奇怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Odd formation^reset;",
+    "value": "^orange;奇怪的生物^reset;"
+  }
+]

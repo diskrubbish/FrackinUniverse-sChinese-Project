@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Marks containers for use by an item network. Place near object placement point. Scan for more info.",
+    "value": "标记用于同一物品网络的所有容器。放置在对象的放置点附近。扫描以获取更多信息。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Storage Bridge",
+    "value": "储存桥接器"
+  }
+]

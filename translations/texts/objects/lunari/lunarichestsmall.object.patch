@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small chest made from lunari.",
+    "value": "由月晶制成的小箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Lunari Chest",
+    "value": "小型月晶箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small, but extremely bright chest.",
+    "value": "小而明亮的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the sun.",
+    "value": "这让我想起了太阳。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Tiny sssunssshine chessst!",
+    "value": "小型闪光的箱子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uncomfortable. This chest almost fries my optics.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This chest is like a star!",
+    "value": "这个箱子像一颗星星！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This chest almost reminds me of the sun.",
+    "value": "这个箱子几乎让我想起了太阳。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This chest is brighter than me!",
+    "value": "这个箱子比我还耀眼！"
+  }
+]

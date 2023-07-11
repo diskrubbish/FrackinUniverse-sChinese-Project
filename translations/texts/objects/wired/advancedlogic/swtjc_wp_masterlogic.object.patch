@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An AND, OR, XOR, NAND, NOR, and NXOR Gate, with a Data Latch, all in a single package!",
+    "value": "其内封装有与门、或门、异或门、与非门、或非门、同或门、锁存器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Master Logic Gate",
+    "value": "主逻辑门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "They really went overboard with programming this thing!",
+    "value": "他们竟然真的设计出了这个东西！太神奇了！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "They really went overboard with programming this thing!",
+    "value": "他们竟然真的设计出了这个东西！太神奇了！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "They really went overboard with programming thisss thing!",
+    "value": "他们竟然真的设计计计出了这个东西！叶族人觉得得得太神奇了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. They really went overboard with programming this thing!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "They really went overboard with programming this thing!",
+    "value": "他们竟然真的设计出了这个东西！太神奇了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "They really went overboard with programming this thing!",
+    "value": "他们竟然真的设计出了这个东西！太神奇了！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "They really went overboard with programming this thing!",
+    "value": "他们竟然真的设计出了这个东西！太神奇了！"
+  },
+  {
+    "op": "replace",
+    "path": "/penguinDescription",
+    "raw": "They really went overboard with programming this thing!",
+    "value": "他们竟然真的设计出了这个东西！太神奇了！"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "They really went overboard with programming this thing!",
+    "value": "他们竟然真的设计出了这个东西！太神奇了！"
+  }
+]

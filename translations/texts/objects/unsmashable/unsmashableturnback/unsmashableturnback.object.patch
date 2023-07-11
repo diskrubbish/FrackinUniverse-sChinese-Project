@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A graffiti sign. Unbreakable!",
+    "value": "涂鸦标志。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "'Turnback' Graffiti",
+    "value": "【回头】-涂鸦"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "There's something about this sign that makes me want to persevere.",
+    "value": "这个星座让我想坚持下去。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What if I should?",
+    "value": "如果我该怎么办？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssilly sign.",
+    "value": "愚蠢的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Trusting. I should do as the graffiti says. Graffiti cannot lie, it's impossible.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Turn back? Not likely.",
+    "value": "往回走不太可能。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Words of wisdom often come from unlikely sources.",
+    "value": "智慧的话语往往来自不太可能的来源。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "No going back now.",
+    "value": "现在不能回去了。"
+  }
+]

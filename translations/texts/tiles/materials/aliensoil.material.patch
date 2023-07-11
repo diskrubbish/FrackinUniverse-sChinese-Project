@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strange neon-like soil",
+    "value": "奇怪的霓虹色土壤"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alien Soil",
+    "value": "异星土块"
+  }
+]

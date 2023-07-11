@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Insectoid-like structure.",
+    "value": "昆虫状结构。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chitin Structure",
+    "value": "几丁质结构"
+  }
+]

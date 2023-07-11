@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Light Bridge Block",
+    "value": "轻质大方块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The wood is very old and creaks in the wind.",
+    "value": "这块木头很旧了，在风中吱吱作响。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Charmed. This aged wood creaks with age.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Old wood iss strong.",
+    "value": "老木头很很很结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'd bet this here wood is mighty old.",
+    "value": "我敢打赌这块木头一定很古老。"
+  }
+]

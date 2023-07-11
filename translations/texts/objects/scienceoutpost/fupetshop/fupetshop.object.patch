@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Clearly their primary goods are pet-related.",
+    "value": "他们的首要商品显然是与宠物相关的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;SuperPet^reset;",
+    "value": "^orange;超级宠物^reset;"
+  }
+]

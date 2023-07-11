@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wheelbarrow.",
+    "value": "一辆独轮手推车。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wheelbarrow",
+    "value": "独轮手推车"
+  }
+]

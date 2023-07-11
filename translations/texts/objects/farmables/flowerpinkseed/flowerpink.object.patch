@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Happy little flowers of pink hue",
+    "value": "一朵有着粉红色的幸福花朵。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pink Flower",
+    "value": "粉红色花种子"
+  }
+]

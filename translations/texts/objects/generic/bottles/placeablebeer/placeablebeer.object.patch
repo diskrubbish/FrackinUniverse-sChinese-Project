@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Now your beer can be on a table!",
+    "value": "这瓶啤酒正适合放在桌子上！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Placeable Wheat Beer",
+    "value": "装饰用啤酒"
+  }
+]

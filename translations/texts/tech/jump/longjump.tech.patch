@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Jump height boost, lower fall damage, wall jump, wall slide.",
+    "value": "提高跳跃高度，减少掉落伤害，同时提供蹬墙跳和墙面滑落。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Power Jump",
+    "value": "超级跳"
+  }
+]

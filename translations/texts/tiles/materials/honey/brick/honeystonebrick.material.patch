@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honeystone Brick",
+    "value": "蜜蜡石砖"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Small bricks made of honeystone.",
+    "value": "小型砖块制作的蜜蜡石砖。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Dazzled. Honeystone has been crafted into charming bricks.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssmall brickss made of honeysstone.",
+    "value": "由小小小砖块制成的蜂蜜石砖。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Dang, if those honeystone bricks aren't the purdiest little things.",
+    "value": "见鬼，这些蜂蜜石砖难道不算是最微小的东西吗？"
+  }
+]

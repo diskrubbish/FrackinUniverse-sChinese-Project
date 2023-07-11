@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Four jumps for four times the Awesome!",
+    "value": "可连续跳跃五次。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Quad Jump",
+    "value": "五段跳"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Will scan ores up to Tier 3.",
+    "value": "可扫描岩层内T3以下矿石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ore Drone I",
+    "value": "矿石机器人 I"
+  }
+]

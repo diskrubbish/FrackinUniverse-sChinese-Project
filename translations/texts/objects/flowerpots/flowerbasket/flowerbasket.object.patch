@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A basket of sweet smelling flowers.",
+    "value": "一篮芳香的花。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flower Basket",
+    "value": "花篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What a delightful little flower basket.",
+    "value": "多么可爱的小花篮啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A basket of bright blue flowers.",
+    "value": "一篮鲜蓝色的花。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Basket of pretty flowerss.",
+    "value": "一篮漂亮的花。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. A basket of lovely flowers.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This'd make for a nice gift, I'd wager.",
+    "value": "我敢打赌，这会是一份很好的礼物。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An adorable basket of little blue flowers.",
+    "value": "一篮可爱的蓝色小花。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some purty li'l flowers in a basket.",
+    "value": "篮子里放着一些漂亮的花。"
+  }
+]

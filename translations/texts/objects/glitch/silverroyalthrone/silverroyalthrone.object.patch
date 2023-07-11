@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A silver throne fit for royal buttocks.",
+    "value": "适合王室臀部的银色王座。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Silver Royal Throne",
+    "value": "银色王座"
+  }
+]

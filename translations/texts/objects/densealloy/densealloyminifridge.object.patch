@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small fridge made from dense alloy.",
+    "value": "由致密合金制成的小号冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dense Alloy Mini Fridge",
+    "value": "迷你致密合金冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An extremely heavy fridge.",
+    "value": "一台极其沉重的冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I don't think I could possibly lift this.",
+    "value": "我觉得我抬不动这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssstrong! Floran will lift heavy thing.",
+    "value": "叶族人很壮壮壮！叶族人能力扛九鼎。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Frustrated. Even I cannot lift this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This fridge is far too heavy for me to move.",
+    "value": "这个冰箱太重了，我搬不动。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This is far too heavy for my tastes.",
+    "value": "这对我来说太重了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This is mighty heavy. It'll be a doozy of a job to lift.",
+    "value": "这太沉重了。这玩意很难举起来。"
+  }
+]

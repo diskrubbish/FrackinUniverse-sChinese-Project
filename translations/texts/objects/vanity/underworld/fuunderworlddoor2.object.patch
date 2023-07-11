@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Squishy and putrid",
+    "value": "黏糊糊地腐烂着。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flesh Door",
+    "value": "血肉门"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "... that's what the box says, on closer examination.",
+    "value": "... 【仔细检查】，盒子上是这么说的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "\"Free to a Good Home!\"",
+    "value": "【免费去一个好家！】"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Even if their previous owner thought they'd be found soon, that's no excuse for leaving them here defenseless now.",
+    "value": "即使他们以前的主人认为他们很快就会被找到，但这并不是让他们现在手无寸铁的理由。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Goodness, I hope they haven't been here too long.",
+    "value": "天哪，我希望他们来的时间不要太长。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Horrible! Who leaves tender meats waiting outside to sspoil?",
+    "value": "好可怕！谁把嫩肉留在外面等着上菜？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Piteous. How long have they been sitting there, alone?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Who throws away a perfectly good kitty-cat?",
+    "value": "谁扔掉了一只完美的小猫？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What kind of heartless monster leaves kittens out on the streets to defend themselves?",
+    "value": "什么样的无情怪物把小猫留在街上自卫？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now that just ain't right. Poor little fellas...",
+    "value": "现在这是不对的。可怜的小家伙..."
+  }
+]

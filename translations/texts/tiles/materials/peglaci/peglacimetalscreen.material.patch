@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A metal screen decorated with Peglaci glyphs.",
+    "value": "装饰有企鹅符号的金属屏幕。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Screen",
+    "value": "合金屏幕"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. This cold-resistant display screen seems to be displaying some sort of code.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Colors and shapes on this ssscreen.",
+    "value": "颜色和形状都都都在这个屏幕里。"
+  },
+  {
+    "op": "replace",
+    "path": "/peglaciDescription",
+    "raw": "We find our language beautiful - we decorate with it often.",
+    "value": "我们发现我们的语言非常优美——所以我们经常用它修饰其他事物。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "We find our language beautiful - we decorate with it often.",
+    "value": "我们发现我们的语言非常优美——所以我们经常用它修饰其他事物。"
+  }
+]

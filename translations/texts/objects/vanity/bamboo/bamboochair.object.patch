@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A comfortable bamboo chair.",
+    "value": "一个舒适的竹椅。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bamboo Chair",
+    "value": "竹椅子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A pretty comfortable chair. I'm happy with it.",
+    "value": "一个相当舒适的椅子。我很高兴。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A highly decent place to sit.",
+    "value": "一个非常合适的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssit on chair and think about hunting.",
+    "value": "叶族人一坐在椅子上，就想去狩狩狩猎。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. This chair is exceptionally comfortable for the Glitch.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty soft chair. Reminds me of being at home.",
+    "value": "一个漂亮的软椅子。有家一般的感觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Almost the luxury Hylotl are used to. There's satisfaction to be gained here.",
+    "value": "哪怕是一个有着奢侈习惯的鲛人，他坐上去也会感到满意。"
+  }
+]

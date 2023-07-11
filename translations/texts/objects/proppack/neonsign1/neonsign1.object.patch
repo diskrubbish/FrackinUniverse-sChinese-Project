@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neon Sign",
+    "value": "霓虹灯"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Where could this be leading to?",
+    "value": "这会通向哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A vintage looking neon sign.",
+    "value": "一个复古的霓虹灯标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A neon sign. It flickers every now and then.",
+    "value": "霓虹灯。它时不时地闪烁。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Old buzzy ssign.",
+    "value": "古老的嗡嗡声。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This sign seems to be quite old.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The kind of sign you'd see in a rundown part of town.",
+    "value": "在城市的破败地区你会看到这样的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This retro neon sign. The nostalgia it brings is rather charming.",
+    "value": "这是一个复古的霓虹灯标志。它带来的怀旧之情相当迷人。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This sign is flickerin' a little. It ain't gonna last much longer.",
+    "value": "这个标志有点闪烁。不会持续太久的。"
+  }
+]

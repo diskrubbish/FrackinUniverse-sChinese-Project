@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perhaps a bit warm for most people, but better than a pile of rocks.",
+    "value": "也许对大多数人来说有些热，但总比睡在一堆石头上好。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Magma Bed",
+    "value": "岩浆床"
+  }
+]

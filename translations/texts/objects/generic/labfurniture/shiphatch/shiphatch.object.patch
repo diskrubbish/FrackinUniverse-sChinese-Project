@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This gargantuan ship hatch is made of some sort of bulletproof material.",
+    "value": "这个巨大的船舱口是用某种防弹材料制成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ship Hatch",
+    "value": "船舱口"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A torn Nightar wallbanner.",
+    "value": "撕破的夜族壁挂横幅。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Torn Nightar Wall Banner",
+    "value": "破损的夜族横幅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This banner is torn...",
+    "value": "这条横幅被撕开了..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A torn banner! Devastating!",
+    "value": "一个撕开的横幅！天哪！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Broken banner... Floran sssad to see thisss.",
+    "value": "破损的横幅...叶族人很伤伤伤心见到这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Devastated. A torn banner...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The banner isn't holding up too well.",
+    "value": "横幅竖得不太好。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This banner is torn. My heart is breaking.",
+    "value": "这条横幅被撕开了，而我的心也碎了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Not even these proud banners are holdin' up.",
+    "value": "连这些骄傲的旗帜都挂不住。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mobile Sphere ^green;[F]^reset; capable of great jumping!",
+    "value": "弹跳力惊人！按^green;[F]^reset;变成弹跳球。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Bounce Sphere",
+    "value": "弹跳球"
+  }
+]

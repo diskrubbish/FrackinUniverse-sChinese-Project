@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bamboo cabinet. Charming..",
+    "value": "一个竹柜。真迷人..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bamboo Cabinet",
+    "value": "竹柜子"
+  }
+]

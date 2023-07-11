@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dry, fertile soil.",
+    "value": "干燥肥沃的土壤。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Jungle Dirt",
+    "value": "丛林泥块"
+  }
+]

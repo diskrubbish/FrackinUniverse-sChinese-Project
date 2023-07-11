@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Test experimental drug fumes on your tenants. ^blue;Requires 25W power. \n^red;-10 Happiness^reset;",
+    "value": "在你的房客身上试验毒品烟雾。\n^blue;需要25W的电源。\n^red;-10幸福^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Drug Diffuser",
+    "value": "药物扩散器"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Drop bombs while in ball form with [down]",
+    "value": "变成球时按[下]键放置炸弹"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Distortion Sphere II^reset;",
+    "value": "^#77acc3;变形球 II^reset;"
+  }
+]

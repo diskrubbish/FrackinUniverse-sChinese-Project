@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/particleEmitters/statustext/particles/0/particle/text",
+    "raw": "Killpod Superfun Happy Time!",
+    "value": "欢乐自杀时光！"
+  }
+]

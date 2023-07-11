@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The body of a Snowfloran.",
+    "value": "叶族雪人的躯体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Floran Snowbody",
+    "value": "叶族人雪人"
+  }
+]

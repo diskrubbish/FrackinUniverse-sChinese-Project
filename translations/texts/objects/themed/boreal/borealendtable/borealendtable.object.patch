@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lovingly carved pine wood end table. Short and stout, but no less efficient.",
+    "value": "一张雕刻精美的松木茶几。又矮又结实，但效率不低。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Boreal End Table",
+    "value": "北风工作台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What would one display here, I wonder?",
+    "value": "我想知道这里会展示什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This table could easily double as a pedestal.",
+    "value": "这张桌子可以很容易地兼作底座。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssshort little table.",
+    "value": "这张小桌子很短。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A short-legged table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A carved coffee table, I guess.",
+    "value": "我猜是一张雕刻的咖啡桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A short, elegant little table.",
+    "value": "一张小巧优雅的小桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A pretty table, yeah, but who's it 'posed to sit? Gnomes?",
+    "value": "一张漂亮的桌子，是的，但它是谁摆的姿势？侏儒？"
+  }
+]

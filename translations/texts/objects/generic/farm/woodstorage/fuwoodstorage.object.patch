@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Handy for storing your timber and logs.",
+    "value": "用于储存你的木材和原木。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wood Storage",
+    "value": "木材储存箱"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What does an ice-bound race keep in a fridge?",
+    "value": "为什么这种被冰封的种族还需要冰箱？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Refrigeration Cabinet",
+    "value": "冷藏柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Looking at the controls, I suspect this doubles as storage too.",
+    "value": "看着这些操作按钮，我怀疑也可以用来储存。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I think it's warmer inside this thing than outside.",
+    "value": "我觉得外面比里面更暖和。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cold and dark box, Floran hatesss it.",
+    "value": "又黑又冷的盒盒盒子，叶族人讨厌它。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Reflective. Glitch food needs to be kept from rusting instead of rotting.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Well, this undermines the expression 'like selling ice to an Avali'.",
+    "value": "看来，‘把冰卖给羽族’这个说法已经被终结了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'm most disappointed this isn't a drinks cabinet.",
+    "value": "我最失望的，这竟然不是用来储藏饮料的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "These cabinets can have their humidity and temperature set for optimum preservation.",
+    "value": "这些设备可以控制湿度和温度以提供最佳保存环境。"
+  }
+]

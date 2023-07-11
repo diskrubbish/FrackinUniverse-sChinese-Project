@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A nightstand made from exonite.",
+    "value": "一台长石制成的床头柜"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exonite Nightstand",
+    "value": "长石床头柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The style reminds me a little of the hylotl.",
+    "value": "这风格稍稍让我想起了鲛人。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of Hylotl craftsmanship.",
+    "value": "这个让我想起鲛人的工艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fisssh people nightssstand...?",
+    "value": "鱼鱼鱼人床头柜...?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A well-made nightstand.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The crystal in this nightstand looks pretty.",
+    "value": "这台床头柜上的水晶看着太漂亮了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This nightstand oddly reminds me of my people.",
+    "value": "这台床头柜反常的让我想起我的同胞。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This nightstand is mighty pretty.",
+    "value": "这个床头柜非常漂亮。"
+  }
+]

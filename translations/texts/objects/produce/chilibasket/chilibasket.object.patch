@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hot, hot, hot fiesta!! Extra hot to anyone but the humans.",
+    "value": "热，热，热嘉年华！！除了人类以外，任何人都会觉得特别热。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chili Basket",
+    "value": "辣椒篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Painting chillies yellow is a popular prank amongst young Apex. If caught, many wouldn't survive to do it again.",
+    "value": "在年轻的猿族中，把辣椒涂成黄色是一个很流行的恶作剧。如果被抓到，很多人都活不下去了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A hot, spicy plant. Exotic.",
+    "value": "辛辣的植物。异国情调的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Burning, spicy fruitsss. This plant hurts flesh mouthsss.",
+    "value": "火辣辣的水果。这种植物会伤到肉的嘴。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Ponderous. Who would choose to eat a food that hurts them?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Chillies are spicy, but so addictive.",
+    "value": "辣椒很辣，但很容易上瘾。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Just the right balance of flavour to heat. Used in moderation, it's delicious.",
+    "value": "恰到好处的口味平衡。适量使用，味道鲜美。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Novakids are a big fan of chilli, the hotter the better!",
+    "value": "Novakids是辣椒的超级粉丝，越辣越好！"
+  }
+]

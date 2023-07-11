@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A digital silver hourglass. It's stuck in a constant state.",
+    "value": "数字银沙漏。它被困在一个恒定的状态。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Silver Hourglass",
+    "value": "银沙漏"
+  }
+]

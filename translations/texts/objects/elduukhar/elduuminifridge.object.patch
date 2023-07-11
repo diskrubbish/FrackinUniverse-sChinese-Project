@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fridge made from crystal.",
+    "value": "水晶做的冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Mini Fridge",
+    "value": "水晶迷你冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fridge.",
+    "value": "一台冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The crystals used for this fridge are beautiful.",
+    "value": "制成这个冰箱的水晶真是美极了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cold",
+    "value": "寒冷"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. How is the food fresh?!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fridge. It's very pretty.",
+    "value": "一个冰箱，它真漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A food-chilling device constructed of crystal.",
+    "value": "一个由水晶制成的食物冷藏装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fridge!",
+    "value": "一个冰箱！"
+  }
+]

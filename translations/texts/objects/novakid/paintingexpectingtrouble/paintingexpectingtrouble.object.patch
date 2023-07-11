@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A painting of a Novakid ready for a showdown.",
+    "value": "一幅准备摊牌的星之子的画。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "\"Expecting Trouble\"",
+    "value": "“期待麻烦”"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A serious looking Novakid... Or so I'd assume.",
+    "value": "一个严肃的星之子...或者我会这么想。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Is danger just around the bend? His gun is already cocked...",
+    "value": "危险就在拐角处吗？他的枪已经上膛了..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Starman looksss ready to fight!",
+    "value": "斯塔曼看起来准备好战斗了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Suspenseful. Who could this Novakid be about to face?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like this guy's ready for showdown at high noon.",
+    "value": "看来这家伙已经准备好中午摊牌了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such a suspenseful painting...",
+    "value": "如此悬疑的画..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This fella looks ready to strike.",
+    "value": "这家伙看起来准备攻击。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Glass reinforced with durasteel wire.",
+    "value": "硬钢丝强化后的玻璃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasteel Reinforced Glass",
+    "value": "塑钢强化玻璃"
+  }
+]

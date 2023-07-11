@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bizarre plant with no need for sunlight. What does it eat?",
+    "value": "一种不需要阳光的奇怪植物，但是它吃什么呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pulsating Plant",
+    "value": "脉动植物"
+  }
+]

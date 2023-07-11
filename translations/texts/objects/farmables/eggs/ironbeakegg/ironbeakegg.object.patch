@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hatches into a tiny chick and matures into a Ironbeak. The adult Ironbeak produces iron.",
+    "value": "可以孵化出铁喙鸟。成年铜喙鸟可以产出铁矿。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ironbeak Egg",
+    "value": "铁喙鸟蛋"
+  }
+]

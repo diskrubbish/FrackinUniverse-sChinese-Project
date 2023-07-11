@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tray of hot tea with a side of strawberry rice cakes.",
+    "value": "一盘热茶配草莓年糕。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Traditional Tea Tray",
+    "value": "传统茶盘"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ah, a hot cup of tea is just what I needed.",
+    "value": "啊，一杯热茶正是我需要的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I don't care for tea, but I'll have at those rice cakes for sure.",
+    "value": "我不喜欢喝茶，但我一定要吃那些年糕。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmelly fishman drink. Bleh.",
+    "value": "臭臭臭鱼人的饮料。呸。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. This tea tray is perfect for relaxing.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I better be careful not to spill this tea - it's piping hot!",
+    "value": "我最好小心别把这茶洒了 - 它太烫了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A Hylotl staple. There's nothing better for unwinding after a long day.",
+    "value": "鲛人的主食。漫长的一天之后，没有什么能比放松更好的了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I don't really do tea, but I reckon it wouldn't hurt...",
+    "value": "我不怎么喝茶，不过我想应该不会有什么坏处..."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stronger Air Dash, Cooldown: 0.9s",
+    "value": "更强的空中冲刺。 - 冷却时间：0.9秒"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Air Dash II",
+    "value": "空中冲刺 II"
+  }
+]

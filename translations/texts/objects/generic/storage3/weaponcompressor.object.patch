@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pushes weapons into otherspace pockets. Purely a cosmetic feature, but hilarious.",
+    "value": "将武器放入其他的空间口袋。纯粹是一个装饰性的功能，滑稽。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Weapon Compressor",
+    "value": "武器压缩机"
+  }
+]

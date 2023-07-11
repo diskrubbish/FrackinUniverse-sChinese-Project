@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Whatever made this structure is likely lost to history.",
+    "value": "不管是谁建造了它，似乎都已淹没在了历史的长河之中"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Monolith",
+    "value": "巨石"
+  }
+]

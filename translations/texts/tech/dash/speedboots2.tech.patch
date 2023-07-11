@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These are some strong stimulants. Really fast.",
+    "value": "一些强烈的兴奋剂。让你跑得相当快。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Stimulant Rig III",
+    "value": "狂经脉 III"
+  }
+]

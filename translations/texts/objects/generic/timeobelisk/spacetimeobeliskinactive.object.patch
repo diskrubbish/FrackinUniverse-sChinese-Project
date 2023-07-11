@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange artifact of unknown use.",
+    "value": "一个奇怪的用途不详的人工造物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mysterious Pillar",
+    "value": "神秘的支柱"
+  }
+]

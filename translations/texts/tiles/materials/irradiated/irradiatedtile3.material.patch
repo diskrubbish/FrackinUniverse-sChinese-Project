@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Yea, this definitely is NOT safe to touch.",
+    "value": "是的，触摸它肯定是不安全的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Radioactive Rock",
+    "value": "辐射石块"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Delicious donuts filled with banana and cream. It's almost healthy!",
+    "value": "美味的甜甜圈，里面装满了香蕉和奶油。这是种很健康的食物！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Banana Cream Donuts",
+    "value": "香蕉奶油甜甜圈"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Creamy monkeyman donuts.",
+    "value": "奶油猿人甜甜圈。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Doubtful. I have to question the nutritional value of these pastries.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Bananas and cream, eh? Yeah, that sounds about right for the Apex.",
+    "value": "香蕉和奶油，嗯？是的，这听起来很适合猿人。"
+  }
+]

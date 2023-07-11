@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A space craft thruster of Human design.",
+    "value": "一个人类风格的宇宙飞船推进器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Thruster (Human)",
+    "value": "大型推进器(人类)"
+  }
+]

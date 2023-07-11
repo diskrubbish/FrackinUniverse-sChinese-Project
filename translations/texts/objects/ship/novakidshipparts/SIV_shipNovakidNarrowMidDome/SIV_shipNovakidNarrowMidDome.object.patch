@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dome for a spaceship.",
+    "value": "太空船的圆顶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Novakid Dome Section",
+    "value": "星之子飞船圆顶"
+  }
+]

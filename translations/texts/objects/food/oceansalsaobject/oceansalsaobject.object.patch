@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A refreshing salsa made from tropical and ocean fruits.",
+    "value": "由热带水果和海洋水果制成的清爽莎莎酱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ocean Salsa",
+    "value": "海洋沙拉"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can almost taste the sssea breeze in this jam.",
+    "value": "叶族人几乎可以在这种果酱中尝到海风的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Convinced. This would make a fantastic addition to any luau.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This sure tastes like the sea, alright.",
+    "value": "这尝起来真像大海。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What's the latest?",
+    "value": "最新消息是什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Magazine Rack",
+    "value": "杂志架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These tabloids appear to only be here for patrons to thumb through as they eat.",
+    "value": "这些小报似乎只供顾客在吃饭时翻阅。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Having a cooking magazine in a café seems counterproductive, does it not?",
+    "value": "在咖啡馆里放一本烹饪杂志似乎适得其反，不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran came to eat, not read!",
+    "value": "叶族人是来吃饭的，不是来看书的！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uninterested. A few cheesy magazines. Some of them notably dated.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "You think they'd notice if I accidentally spilled something on this magazine while reading it? ... Hypothetically, of course.",
+    "value": "你觉得他们会注意到我在看杂志的时候不小心把东西洒到了杂志上吗...当然是假设。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Tabloids such as these are nothing but junk food for the mind.",
+    "value": "像这样的小报只不过是精神上的垃圾食品。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'd prefer to focus on eatin' while I'm dinin' out.",
+    "value": "我宁愿在外出时专注于吃饭。"
+  }
+]

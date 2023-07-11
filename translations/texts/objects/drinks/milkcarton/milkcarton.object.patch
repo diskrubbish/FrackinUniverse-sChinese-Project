@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You've got it!",
+    "value": "YATTAZE！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Milk Carton",
+    "value": "盒装牛奶"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Milk is decent enough on its own. But it's much better in a smoothie.",
+    "value": "牛奶本身已经足够好了，但是加在奶昔里就更好了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'm not all that comfortable drinking milk, truth be told",
+    "value": "说实话，我喝牛奶不是很舒服"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Weird cow milk.",
+    "value": "奇怪的牛奶。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A carton of milk and a glass.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Aw, no chocolate syrup?",
+    "value": "嗷，没有巧克力糖浆吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Milk is a very strange beverage. I don't think I care for it.",
+    "value": "牛奶是一种很奇怪的饮料，我想我不喜欢它。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Hope it ain't expired.",
+    "value": "希望没过期。"
+  }
+]

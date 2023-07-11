@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "How chic!",
+    "value": "多时髦啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloppy Chair",
+    "value": "邋遢的椅子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I suppose we've all been too tired to properly hang up jackets at some point.",
+    "value": "我想我们都太累了，某个时候都没法把夹克挂好。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Did someone forget they left their coat here? Or did they simply not care?",
+    "value": "有人忘了把外套落在这里了吗？还是他们根本不在乎？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can usse coat at dinner table now! Very sssmart.",
+    "value": "叶族人现在可以在餐桌上穿外套了！非常聪明。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgusted. No one's even bothered to clean up under this table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Eh, I can't really blame them.",
+    "value": "呃，我真的不能怪他们。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It takes less than ten seconds to put up a coat. This is ridiculous.",
+    "value": "穿上一件外套不到十秒钟。这太荒谬了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "At least it'll be in arm's reach after eatin' breakfast?",
+    "value": "至少吃过早餐后能伸手够着它？"
+  }
+]

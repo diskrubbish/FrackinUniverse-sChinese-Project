@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wonderfully detailed sculpture of Ancient design.",
+    "value": "这是一座精心雕刻的古代雕塑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Serpent",
+    "value": "古代蛇雕"
+  }
+]

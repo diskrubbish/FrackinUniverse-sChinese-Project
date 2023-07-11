@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This should be perfect for your lab food storage.",
+    "value": "这对你的实验室食品储藏来说应该是完美的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#e43774;Food Locker^reset;",
+    "value": "^#e43774;食物柜^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Man, I have slaughtered a lot of creatures.",
+    "value": "哟，我想我得杀很多生物才能填满。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wish my damned wings worked. But nooo...",
+    "value": "我真希望我那该死的翅膀可以飞起来。但是并不行。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Plantss. I iss plantss.",
+    "value": "植物。我我我是植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Why do I exist?",
+    "value": "为什么我会存在？"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Sometimes I wonder why people like mayo.",
+    "value": "为什么人们这么喜欢玛瑙？这让我很惊讶。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Water is nice.",
+    "value": "水是好的。"
+  },
+  {
+    "op": "replace",
+    "path": "/ponexDescription",
+    "raw": "Someone please kill me. I am an aberration.",
+    "value": "求你们杀了我。我是个变态。"
+  }
+]

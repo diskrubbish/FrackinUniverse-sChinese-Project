@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ready to lay waste to worlds.",
+    "value": "随时准备毁灭世界。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Magmatop Omega",
+    "value": "巨大吐舌娃 欧米伽"
+  }
+]

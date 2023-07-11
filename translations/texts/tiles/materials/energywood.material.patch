@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Freshly chopped energy wood. It could be used as fuel.",
+    "value": "刚被切好的能量木头。它可以作为燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Energy Wood",
+    "value": "能量木头"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Energy wood.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Energy wood.",
+    "value": "这是能量木头。"
+  }
+]

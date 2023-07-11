@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A metal sign that says 'HAZARD!'",
+    "value": "一块写着“危险!”的金属牌子"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mining Hazard Sign",
+    "value": "采矿危险标志"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A sign reading 'Hazard'.",
+    "value": "一个写着“危险”的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The sign is a warning for something.",
+    "value": "这个标志是对某种事物的警告。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Whatever this sssay, Floran ignore.",
+    "value": "管它写啥啥啥，叶族人莽就完事了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Reading. Hazard!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The sign shows concern for my safety. How thoughtful.",
+    "value": "这个牌子显示出对我安全的关心。想得真周到。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A sign to warn people of some avoidable nearby danger.",
+    "value": "一个警告人们附近有可避免的危险的标志。"
+  }
+]

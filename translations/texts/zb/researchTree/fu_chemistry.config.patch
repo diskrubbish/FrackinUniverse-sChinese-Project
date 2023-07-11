@@ -1,0 +1,428 @@
+[
+  {
+    "op": "replace",
+    "path": "/strings/trees/fu_chemistry",
+    "raw": "Chemistry",
+    "value": "化学"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/default/0",
+    "raw": "Instructions",
+    "value": "介绍"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/default/1",
+    "raw": "Select a research by clicking one of the icons on the grid.\nYou can navigate the grid by dragging with the left mouse button.\n\n- The left most button at the upper part of the screen opens a list of research trees to pick from.\n\n- The second button opens a list of non-hidden research options. Click a research on the displayed to center the view on it. Click again to hide the list.\n\n- The third button will center the view on the middle of the tree, or the currently selected research.\n\n- The last button toggles ^orange;low quality mode^reset;. This makes the GUI jump to a position instead of panning to it, or the center button. In addition, dragging/navigating on the the main screen will update only after you release the mouse button. It is best to use the search list with this mode enabled.",
+    "value": "通过点击网格上的一个图标来选择一项研究。\n您可以通过用鼠标左键拖动来导航网格。\n\n-屏幕上方最左边的按钮会打开一个可供选择的研究树列表。\n-第二个按钮会打开一个非隐藏的搜索选项列表。点击显示列表中的一项研究，可以将该项研究的图标置于中心位置。再次点击按钮来隐藏列表。\n-第三个按钮将把视图置于科技树的中央，或者是当前选择的研究项目。\n-最后一个按钮能够开关^orange;低质量模式^reset;，这将使GUI直接跳转到一个位置，而不是通过搜索列表或中心按钮播放平移动画。此外，在主屏幕上拖动和导航只有在释放鼠标按钮后才会更新。最好在启用此模式的情行下使用搜索列表。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/survival_1/0",
+    "raw": "Basic Training",
+    "value": "基础训练"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/survival_1/1",
+    "raw": "^orange;Tier 0^reset;\n\nYour training, thanks to four years in the Protectorate Academy, provides you with basic survival skills to keep you alive for extended periods in the event of a crash. This includes basic chemistry knowledge.",
+    "value": "^orange;0级^reset;\n\n你在大地守护团学院的四年训练，教会了你基本的生存技能，使你在碰撞事故中能够长时间存活。这包括基本的化学知识。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/chemistryn/0",
+    "raw": "Chemistry",
+    "value": "化学"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/chemistryn/1",
+    "raw": "^orange;Tier 1^reset;\n\nChemistry is a wonderful field with many practical applications such as the creation of plastics, bombs, medicine, fertilizer or biodiesel. With the ability to make an ^orange;Alchemy Table^reset; at your ^orange;Machining Table^reset;, you're now ready to start exploring its potential.",
+    "value": "^orange;1级^reset;\n\n化学是个美妙的领域，其中包括了许多实际应用，如塑料、炸弹、医药、化肥或生物柴油的制造。随着你可以在你的^orange;加工台^reset;处制造^orange;炼金台^reset;，你现在准备开始探索化学的潜力。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/optics1/0",
+    "raw": "Simple Optics",
+    "value": "简单光学"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/optics1/1",
+    "raw": "^orange;Tier 2^reset;\n\nMicroscopes are extremely useful, allowing you to scan Bees for their genetic capabilities as well as generate research from investigated artifacts and equipment.\n\nThis microscope is available in an ^orange;Auto-Assembler^reset;.",
+    "value": "^orange;2级^reset;\n\n显微镜非常有用。显微镜允许你扫描蜜蜂的基因性能，以及生产研究过的文物和造物的数据。\n\n这台显微镜可用^orange;自动组装器^reset;装配。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/optics2/0",
+    "raw": "Complex Optics",
+    "value": "复杂光学"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/optics2/1",
+    "raw": "^orange;Tier 3^reset;\n\nYou're able to create much better microscopes now, enhancing your production rates.\n\nThis microscope is available in a ^orange;Matter Assembler^reset;.",
+    "value": "^orange;3级^reset;\n\n现在你可以制造出更好的显微镜，提高生产效率。\n\n这台显微镜可以在^orange;物质汇编机^reset;处组装。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/optics3/0",
+    "raw": "Advanced Optics",
+    "value": "高级光学"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/optics3/1",
+    "raw": "^orange;Tier 4^reset;\n\nYour microscopes are getting quite good now, allowing extreme zoom and fantastic clarity.\n\nThis microscope is available in a ^orange;Matter Assembler^reset;.",
+    "value": "^orange;4级^reset;\n\n你的显微镜越来越好了，可以放大到极致，清晰度极高。\n\n这台显微镜可以在^orange;物质汇编机^reset;处组装。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/optics4/0",
+    "raw": "Master Optics",
+    "value": "大师光学"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/optics4/1",
+    "raw": "^orange;Tier 5^reset;\n\nYour microscopes are a thing of beauty, allowing you to see into microcosms previously unknown.\n\nThis microscope is available in a ^orange;Power Station^reset;.",
+    "value": "^orange;5级^reset;\n\n你的显微镜是一件美丽的神器，它可以让你看到前所未知的微观世界。\n\n这台显微镜可以在^orange;能源设备制造器^reset;处组装。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/plastic1/0",
+    "raw": "Simple Plastics",
+    "value": "简单塑料"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/plastic1/1",
+    "raw": "^orange;Tier 2^reset;\n\nYou've learned to create a simple, flexible plastic material that is especially helpful in the creation of electronics and wearables.",
+    "value": "^orange;2级^reset;\n\n你已经学会了创造一种简单灵活的塑料材料，这种材料对于电子产品和可穿戴设备的创造尤有帮助。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/plastic2/0",
+    "raw": "Complex Plastics",
+    "value": "复合塑料”"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/plastic2/1",
+    "raw": "^orange;Tier 3^reset;\n\nHaving learned a lot about plastic creation, you can now create a much more potent rigid plastic that is extremely durable and quite heat-proof. Advanced Plastic is a key ingredient in tons of things, and you can almost never have enough. Luckily, you've learned of several different ways to make this substance, though you'll probably be deriving it from petrol most of the time.",
+    "value": "^orange;3级^reset;\n\n学习了很多关于塑料制造的知识，你现在可以制造一种更加强大的刚性塑料非常耐用和耐热。高级塑料是许多东西的关键成分，但你几乎不可能一直都有足够的存货。幸运的是，你已经学会了几种不同的方法来制造这种物质，尽管你可能大部分时候都是从汽油中提取。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/graphene/0",
+    "raw": "Carbon Latticing",
+    "value": "碳格"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/graphene/1",
+    "raw": "^orange;Tier 3^reset;\n\nGraphene is one of the most wonderful substances ever created, and now you know how to make it yourself. A one-atom thick sheet of hexagonal graphite, graphene is ridiculously durable. In addition to being a key component in many powerful weapons and armor, graphene is also very useful in the creation of complex circuitry.",
+    "value": "^orange;3级^reset;\n\n石墨烯是有史以来最神奇的物质之一，现在你知道如何自己制造它了。一个单原子厚的六角形石墨片，石墨烯海枯石烂都保持着稳定。石墨烯不仅是许多强大武器和装甲的关键组成部分，在创造复杂电路方面也非常有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/morphite/0",
+    "raw": "Morphic Super-Compounds",
+    "value": "超拟态化合物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/morphite/1",
+    "raw": "^orange;Tier 4^reset;\n\nThrough intense experimentation, you've learned to create an amazing substance that exploits the strange properties of phase matter to be simultaneously incredibly durable and highly moldable. Besides its use in weapons and armor, it's also quite conductive and will allow amazing new electronic devices to be made.\n\nYour knowledge of phasic materials has also allowed you to create 'blocks' of raw matter in your lab that are useful for a couple different esoteric reactions.",
+    "value": "^orange;4级^reset;\n\n通过激进的实验，你已经学会了创造一种神奇的物质，它不仅有相位物质的奇特属性，同时具有难以置信的耐久和高度可塑性。除了用于武器和装甲，它还具有很好的导电性，可以制造出令人惊叹的新型电子设备。\n\n你对相位材料的了解也使你能够在实验室里创造出对一些不同的深奥反应有用的原料块。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/chemistrystuff1/0",
+    "raw": "Chemical Reactions",
+    "value": "化学反应"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/chemistrystuff1/1",
+    "raw": "^orange;Tier 1^reset;\n\nYou've learned to make chunks of pure carbon in your lab and a couple different compounds that will be useful in agriculture and medicine.",
+    "value": "^orange;1级^reset;\n\n你已经学会了在实验室里制造纯碳块和几种不同的化合物，这些化合物对农业和医学都很有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/chemistrystuff2/0",
+    "raw": "Elemental Synthesis",
+    "value": "元素合成"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/chemistrystuff2/1",
+    "raw": "^orange;Tier 2^reset;\n\nWith your newfound chemistry knowledge, you can now create various elemental compounds that would normally be obtained from slain foes. You can also create more advanced crystals. You'll have to upgrade to a ^orange;Chemistry Lab^reset; first, though.",
+    "value": "^orange;2级^reset;\n\n有了新发现的化学知识，你现在可以合成从被杀死的敌人那里获得的各种元素化合。你也可以创造更先进的晶体。不过，你得先把炼金台升级为^orange;化学操作台^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/aliencompound/0",
+    "raw": "Bio-Metallic Compounds",
+    "value": "生物金属化合物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/aliencompound/1",
+    "raw": "^orange;Tier 4^reset;\n\nYou've learned how to mix living material and metals in chemistry to do some bizarre things. You can produce useful Alien Compound and Quietus Ore in your lab.",
+    "value": "^orange;4级^reset;\n\n你已经学会了如何在化学中混合活性物质和金属来做一些奇怪的事情。你可以在你的实验室生产有用的外星化合物和寂灭矿。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/explosives1/0",
+    "raw": "Explosives",
+    "value": "炸药"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/explosives1/1",
+    "raw": "^orange;Tier 1^reset;\n\nPerhaps one of the most classic chemical reactions is something going boom. Now, you can make that happen on demand with some neat new explodables to help you mine.",
+    "value": "^orange;1级^reset;\n\n也许最经典的化学反应之一就是某种东西正在发生爆炸。现在，你可以根据需要通过一些简单的爆炸物来帮助你开采。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/explosives2/0",
+    "raw": "Advanced Explosives",
+    "value": "高级爆炸物"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/explosives2/1",
+    "raw": "^orange;Tier 3^reset;\n\nBy using plastic in the creation of explosives, you can not only more safely contain bigger and deadlier bombs, but also easily shape your charges to make them more effective when they blow.",
+    "value": "^orange;3级^reset;\n\n通过使用塑料制造炸药，你不仅可以更安全地携带更大更致命的炸弹，而且可以轻松地调整炸药的形状，使其在爆炸时更有效。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/fertilizer1/0",
+    "raw": "Fertilizer",
+    "value": "肥料"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/fertilizer1/1",
+    "raw": "^orange;Tier 1^reset;\n\nYou've begun to learn how to make useful crop-growing aids out of chemicals and can now craft basic fertilizer at your ^orange;Alchemy Table^reset;\n\nAmmonium Sulfate can be extracted from many sources. Try grinding up some Core Fragments or Poop in your Hand Mill.\n\nYou'll need a ^orange;Growing Tray^reset; to do anything with your fertilizer - if you're just growing plants out of the ground with a hoe and watering can, it won't be of any use to you.",
+    "value": "^orange;1级^reset;\n\n你已经开始学习如何用化学物质制造有用的农作物生长辅助剂，现在可以在你的^orange;炼金台^reset;处制造基础化肥，硫酸铵可以从许多来源提取。试着磨碎一些星核碎片或者在你的手磨里磨点屎。你需要一个^orange;生长托盘^reset;来使用你的化肥 - 如果你只是用锄头和浇水罐从地里种植植物，那化肥对你没有任何用处。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/fertilizer2/0",
+    "raw": "Improved Fertilizer",
+    "value": "改良肥料"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/fertilizer2/1",
+    "raw": "^orange;Tier 2^reset;\n\nYou can make even better fertilizer using more complex chemicals. Your plants will thank you with faster growth and more yields.",
+    "value": "^orange;2级^reset;\n\n你可以用更复杂的化学物质制造更好的花费。你的植物会以更快的生长速度和更高的产量来回报你。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/fertilizer3/0",
+    "raw": "Peerless Fertilizer",
+    "value": "无双肥料"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/fertilizer3/1",
+    "raw": "^orange;Tier 3^reset;\n\nYou've mastered not just plant fertilization, but also the making of pesticides. Just make sure to wash it before you eat it.",
+    "value": "^orange;3级^reset;\n\n你不仅掌握了植物化肥，还掌握了杀虫剂的制造。只是在吃之前一定要洗干净。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/biofuel1/0",
+    "raw": "Biofuel",
+    "value": "生物燃料"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/biofuel1/1",
+    "raw": "^orange;Tier 2^reset;\n\nYou've learned how to make fuel out of organic matter, which can be used to fuel various generators, ship engines and mechs.",
+    "value": "^orange;2级^reset;\n\n你已经学会了如何从有机物中制造燃料，可以用来为各种发电机、飞船引擎和机甲提供燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/biofuel2/0",
+    "raw": "Improved Biofuel",
+    "value": "改良生物燃料"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/biofuel2/1",
+    "raw": "^orange;Tier 3^reset;\n\nYou've learned how to make fuel out of organic matter, which can be used to fuel various generators, ship engines and mechs.",
+    "value": "^orange;3级^reset;\n\n你已经学会了如何从有机物中制造燃料，可以用来为各种发电机、飞船引擎和机甲提供燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/biofuel3/0",
+    "raw": "Amazing Biofuel",
+    "value": "神奇的生物燃料"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/biofuel3/1",
+    "raw": "^orange;Tier 4^reset;\n\nYou've learned how to make fuel out of organic matter, which can be used to fuel various generators, ship engines and mechs.",
+    "value": "^orange;4级^reset;\n\n你已经学会了如何从有机物中制造燃料，可以用来为各种发电机、飞船引擎和机甲提供燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/liquidcrafting1/0",
+    "raw": "Liquid Creation",
+    "value": "液体创造"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/liquidcrafting1/1",
+    "raw": "^orange;Tier 1^reset;\n\nYou've learned the basics of liquid creation and can now artifically create a few different liquid types at your lab.\n\nYou've also learned to create Cell Material, a useful resource when engineering novel plants.",
+    "value": "^orange;1级^reset;\n\n你已经学会了液体创造的基础知识，现在可以在你的实验室里人工创造几种不同的液体类型。\n\n你还学会了培育细胞材料，这是培育新型植物时的有用资源。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/liquidcrafting2/0",
+    "raw": "Advanced Liquids",
+    "value": "高级液体"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/liquidcrafting2/1",
+    "raw": "^orange;Tier 2^reset;\n\nYou now know how to make a few more types of liquid, including some really hot or really cold ones.\n\nWith the engineered Spliced Cell, you have access to even greater genetic engineering.",
+    "value": "^orange;2级^reset;\n\n你现在知道如何制造更多种类的液体，包括一些非常热或非常冷的液体。\n\n有了工程化的拼接细胞，你就可以进行更进一步的基因工程。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/liquidcrafting3/0",
+    "raw": "Peerless Liquid Creation",
+    "value": "无双液体创造"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/liquidcrafting3/1",
+    "raw": "^orange;Tier 4^reset;\n\nYou can make even more complicated liquids at your lab.",
+    "value": "^orange;4级^reset;\n\n你可以在你的实验室里制造更复杂的液体。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/mechfuel/0",
+    "raw": "Liquid Fuels",
+    "value": "液体燃料"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/mechfuel/1",
+    "raw": "^orange;Tier 2^reset;\n\nYour combined knowledge of fluid creation and biofuel has led to you designing an enhanced, efficient fuel for use in mechs and combustion generators.",
+    "value": "^orange;2级^reset;\n\n你对液体创造和生物燃料的综合知识使你设计出一种用于机甲和燃料发电机的高效增强燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/cells1/0",
+    "raw": "Cell Manipulation",
+    "value": "细胞操作"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/cells1/1",
+    "raw": "^orange;Tier 3^reset;\n\nYou are now able to engineer advanced cells and mutagenic samples in your lab that are especially useful in bioweapons and plant design as well as craft and utilize bizarre biological slimes.",
+    "value": "^orange;3级^reset;\n\n你现在可以在你的实验室里设计高级细胞和诱变样本，这些物质在生物武器和植物设计中特别有用。同时你也可是制作和利用奇异的生物软泥。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/cells2/0",
+    "raw": "Cell Mastery",
+    "value": "细胞精通"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/cells2/1",
+    "raw": "^orange;Tier 5^reset;\n\nYour knowledge of cells is vast. You can make even more strange cells and mutagenic samples.",
+    "value": "^orange;5级^reset;\n\n你对细胞的了解非常广泛，你现在可以制造更多奇怪的细胞和诱变样本。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/elduucrystals/0",
+    "raw": "Crystal Horticulture",
+    "value": "水晶园艺"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/elduucrystals/1",
+    "raw": "^orange;Tier 3^reset;\n\nYou've studied the Eld'uukhar art of growing crystals like plants and can now do so yourself.",
+    "value": "^orange;3级^reset;\n\n你已经研究过像植物一样培养水晶的厄休安艺术，现在你可以自己这样做了。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/glowinggels/0",
+    "raw": "Specialized Gels",
+    "value": "特殊凝胶"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/glowinggels/1",
+    "raw": "^orange;Tier 3^reset;\n\nYou've developed some weird gels that glow in the dark and can accelerate anything that touches them to a high speed.",
+    "value": "^orange;3级^reset;\n\n你已经开发出一些奇怪的凝胶，它们在黑暗中发光，可以使任何接触到它们的物体加速到高速。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/unstableparticles/0",
+    "raw": "Particle Destabilization",
+    "value": "颗粒失稳"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/unstableparticles/1",
+    "raw": "^orange;Tier 4^reset;\n\nTurns out all that explosives knowledge was good for something besides making things explode: making things _prone_ to exploding. Unstable Particles are crucial in developing nuclear technology.",
+    "value": "^orange;4级^reset;\n\n原来所有的爆炸知识除了让东西爆炸之外还有其他好处: 让什么东西都容易爆炸。不稳定粒子是发展核技术的关键。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/metallichydrogen/0",
+    "raw": "Metallic Hydrogen",
+    "value": "金属氢"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/metallichydrogen/1",
+    "raw": "^orange;Tier 5^reset;\n\nNormally, this stuff is only found in the depths of gas giants, but you found a way to make it in your lab by yourself. Metallic Hydrogen is a powerful superconductor, and an amazing fuel source. Also, you found the best way to weaponize Unstable Particles - by combining them with Metallic Hydrogen to build ridiculously destructive grenades.",
+    "value": "^orange;5级^reset;\n\n通常，这种东西只能在气态巨行星的深处找到，但是你找到了一种方法，可以在你的实验室里自己制造。金属氢是一种强大的超导体，也是一种神奇的燃料来源。此外，你还发现武器化不稳定粒子的最佳方法——把它和金属氢结合起来，制造具有荒谬破坏力的手榴弹。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/medicinen1/0",
+    "raw": "Basic Medicine",
+    "value": "基础医学"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/medicinen1/1",
+    "raw": "^orange;Tier 1^reset;\n\nYou've taught yourself some basic medical knowledge and can make simple healing items.\n\n^yellow;Did you know?^reset; Healing items in Frackin' Universe impose a moderately long cooldown upon use during which no other healing items can be used. Don't expect to spam bandages to victory!",
+    "value": "^orange;1级^reset;\n\n你已经自学了一些基本的医学知识，可以制作简单的治疗物品。\n\n^yellow;你知道吗？^reset;Frackin' Universe的治疗物品在使用后会有一段适度长的冷却时间，在此期间不能使用其他治疗物品。不要期望一遍打架一边用绷带包扎伤口！"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/medicinen2/0",
+    "raw": "Advanced Medicine",
+    "value": "高级医学"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/medicinen2/1",
+    "raw": "^orange;Tier 3^reset;\n\nYour medical knowledge has grown quite a bit. You're able to make superior healing items.",
+    "value": "^orange;3级^reset;\n\n你的医学知识增长了不少，你现在可以制造出更好的治疗物品了。"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/medicinen3/0",
+    "raw": "Peerless Medicine",
+    "value": "无双医学"
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/medicinen3/1",
+    "raw": "^orange;Tier 5^reset;\n\nIt's no exaggeration to say that you're one of the best medics in the galaxy. You can craft impossibly potent healing items which can cure any wound.",
+    "value": "^orange;5级^reset;\n\n毫不夸张地说，你是全宇宙最好的医生之一。你可以制造治愈万物的治疗物品，可以治愈任何伤口。"
+  }
+]

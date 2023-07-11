@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A crude explosive for mining. Detonation requires impact.",
+    "value": "采矿用的粗制炸药。注意安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Powder Keg",
+    "value": "火药桶"
+  }
+]

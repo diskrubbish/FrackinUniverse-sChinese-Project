@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Redcap Shroom",
+    "value": "红顶蘑菇"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Redcap Shroom",
+    "value": "红顶蘑菇"
+  }
+]

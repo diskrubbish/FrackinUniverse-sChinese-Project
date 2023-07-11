@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A beautifully carved door.",
+    "value": "雕刻精美的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carved Door Prop",
+    "value": "雕刻门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A bird above a round-faced creature.",
+    "value": "鸟儿在圆脸生物上方。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The images on this door extend friendship to those from other worlds. My home is your home.",
+    "value": "这扇门上的图案将友谊延伸到其他世界，我的家就是你们的家。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bird lay egg with face.",
+    "value": "鸟以脸蛋下蛋。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Educated. This door symbolises who may and may not enter.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "That's a spooky face on the bottom.",
+    "value": "下面是一张恐怖的脸。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What creature is this depicted here?",
+    "value": "这描绘的是什么生物？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A door with pictures on it. What's it tryin' to say?",
+    "value": "一扇上面有图片的门，它想说什么？"
+  }
+]

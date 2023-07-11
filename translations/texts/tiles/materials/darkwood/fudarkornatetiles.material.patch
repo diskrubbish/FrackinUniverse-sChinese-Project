@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Exquisite ornate roof tiles.",
+    "value": "精致华丽的屋顶瓦片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dark Ornate Tiles",
+    "value": "黑色华丽瓦片"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Familiar. Similar tiles can often be found in traditional roof design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran appreciatess nice ornate tiling.",
+    "value": "叶族人欣欣欣赏这些华丽的瓷砖。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This ornate tiling really classes the place up.",
+    "value": "这块华丽的瓷砖真的提升了这个地方的档次。"
+  }
+]

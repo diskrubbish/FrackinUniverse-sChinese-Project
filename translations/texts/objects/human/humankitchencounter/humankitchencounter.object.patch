@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stainless steel!",
+    "value": "不锈钢材质！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Human Kitchen Counter^reset;",
+    "value": "^orange;人类厨房柜台^reset;"
+  }
+]

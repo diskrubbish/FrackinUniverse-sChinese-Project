@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decorative crystal chalice.",
+    "value": "装饰性的水晶圣杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Chalice",
+    "value": "水晶圣杯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A chalice. It is made of some sort of crystal.",
+    "value": "圣杯。它是某种水晶做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A chalice. I wonder what is used for.",
+    "value": "圣杯。我想知道它是用来做什么的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thiss chalice lookss prety!",
+    "value": "这是圣杯，看起来很漂亮！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Interested. This chalice is made of crystal.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I think I can drink from there. Where is my soda?",
+    "value": "我想我可以在那里喝酒。我的苏打水在哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This chalice was carefully crafted with crystal.",
+    "value": "这座圣杯是用水晶精心制作的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'd bet I could drink all the contents of this 'ol chalice in one shot.",
+    "value": "我敢打赌我可以一次喝完这杯酒的所有内容。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A chalice made out of crystal. It is quite fragile.",
+    "value": "用水晶做的圣杯。它很脆弱。"
+  }
+]

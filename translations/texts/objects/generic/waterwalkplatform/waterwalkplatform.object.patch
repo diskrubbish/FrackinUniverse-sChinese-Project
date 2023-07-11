@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A beam of hard light creating a platform.",
+    "value": "这个平台仅仅是一根又轻又坚固的横梁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Light Platform",
+    "value": "古老轻型平台"
+  }
+]

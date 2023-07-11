@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Phase Sprint II, with a Damage boost! Havoc!",
+    "value": "撞击伤害提高！去毁灭吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Phase Sprint III",
+    "value": "相位加速 III"
+  }
+]

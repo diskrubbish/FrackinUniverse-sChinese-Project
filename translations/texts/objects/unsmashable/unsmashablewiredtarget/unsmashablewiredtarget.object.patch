@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This practice target outputs a wire signal. Unbreakable!",
+    "value": "该练习目标输出有线信号。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wired Target",
+    "value": "有线目标"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This practice target passes wire signal until broken.",
+    "value": "这个练习靶传递有线信号直到断开。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Practice targets like this can be connected to wired objects.",
+    "value": "这样的练习目标可以连接到有线对象。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Shiny target isss just begging to be broken.",
+    "value": "闪亮的目标只是乞求被打破。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Interested. This appears to be a practice target, which could be connected to something.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This practice target can pass a wired signal until it's broken.",
+    "value": "这个练习靶可以传递有线信号，直到它被打破。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This practice target is hypnotising, breaking it may trigger something.",
+    "value": "这个练习目标是催眠，打破它可能会触发一些事情。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just what I need for shootin' practice. Wonder if breaking this target does somethin'.",
+    "value": "这正是我练习射击所需要的。不知道打破这个目标是否有什么作用。"
+  }
+]

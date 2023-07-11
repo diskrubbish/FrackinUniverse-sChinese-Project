@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Madness Tracker",
+    "value": "疯狂追踪"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Tracks madness values.",
+    "value": "追踪疯狂的价值。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Tracking Insanity",
+    "value": "跟踪精神错乱"
+  }
+]

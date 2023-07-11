@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute valence of silk",
+    "value": "丝制的可爱帷幔。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Valence",
+    "value": "可爱的帷幔"
+  }
+]

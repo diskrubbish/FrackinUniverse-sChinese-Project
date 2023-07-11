@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small crate to transport goods.",
+    "value": "用来运输货物的小板条箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Crate",
+    "value": "绘世者板条箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This crate seems to be airtight. I hope the goods inside are alright.",
+    "value": "这个箱子似乎是密封的。我希望里面的货物没问题。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wonder how I should open this chest...?",
+    "value": "我想知道该怎么打开这个箱子...？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran kicksss crate. Crate doesn't open. Floran annoyed.",
+    "value": "叶族人踢着箱箱箱箱子。箱子打打打不开。叶族人生气了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. The Skath seem to lock their goods in airtight containers. I wonder why?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "How does one open that damn thing? Oh, right. The glowing button.",
+    "value": "怎么打开那该死的东西？哦，对了。发光的按钮。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Hylotl use similar containers to transport our goods underwater.",
+    "value": "鲛人使用类似集装箱的运输器在水下运输我们的货物。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now that's an interesting lookin' crate. How does it work?",
+    "value": "现在那有一个有趣的外观的箱子。它是如何工作的？"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "We have to make our crates waterproof to carry them beneath the ocean. A lot of electronics can be damaged if they come into contact with water.",
+    "value": "我们必须使我们的板条箱防水才能把它们运到海底。很多电子产品如果与水接触就会损坏。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hatches into a adorable floofy carnivore.",
+    "value": "可以孵化出一个可爱的毛绒绒的肉食动物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poptop Egg",
+    "value": "吐舌娃蛋"
+  }
+]

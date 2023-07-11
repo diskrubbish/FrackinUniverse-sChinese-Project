@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small clock with a pendulum. It ticks and tocks but the hands never move.",
+    "value": "带钟摆的小钟。它滴答作响，但钟摆却从不动。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medieval Wall Clock",
+    "value": "中世纪挂钟"
+  }
+]

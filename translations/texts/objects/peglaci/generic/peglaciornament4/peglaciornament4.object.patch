@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small display made out of crystal.",
+    "value": "用水晶做的小显示器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Display",
+    "value": "水晶显示器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small display to show off something.",
+    "value": "用来炫耀某物的小显示器。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Looks like a small pedestal. It's made of crystal.",
+    "value": "看起来像一个小底座。它是水晶做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thiss small thing is shiny.",
+    "value": "这个小东西很亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This little display may be shinier that the thing it's meant to display.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What a cool thing! It's pretty shiny.",
+    "value": "多酷的事啊！它很亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This thing is so tiny. I can't display anything on it!",
+    "value": "这东西太小了。我不能在上面显示任何东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "This small display is made of a special crystal.",
+    "value": "这个小显示器是由一块特殊的水晶制成的。"
+  }
+]

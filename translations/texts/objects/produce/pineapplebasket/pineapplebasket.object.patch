@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pineapple, make sure you cut it open first.",
+    "value": "菠萝，一定要先把它切开。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pineapple Basket",
+    "value": "菠萝篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Pineapples are sweet and juicy. A refreshing treat.",
+    "value": "菠萝又甜又多汁。令人耳目一新的款待。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The leaves look like feathers, but they're nowhere near as soft.",
+    "value": "叶子看起来像羽毛，但却没有那么柔软。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pineapples look like Floran headsss.",
+    "value": "菠萝看起来像叶族人头巾。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Smug. The Glitch have been known to use pineapples for target practice.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Pineapples. Perfect for desserts, or on pizza!",
+    "value": "菠萝。完美的甜点，或比萨饼！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Sickly sweet. One would never find pineapples under the sea.",
+    "value": "恶心的甜。人们永远不会在海底找到菠萝。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Who'da thought somethin' so prickly would be so sweet inside?",
+    "value": "谁会想到这么多刺的东西里面会这么甜？"
+  }
+]

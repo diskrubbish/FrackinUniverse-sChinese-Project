@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A handy place to stow your loot.",
+    "value": "存放你的战利品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hanging Storage",
+    "value": "悬挂式储存器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Looks like the Avali have space travel off-pat too, keeps supplies tied down.",
+    "value": "像羽族一样对太空旅行了如指掌，保持供应。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A nest for boxes?",
+    "value": "一个摊位？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Trap for boxes!",
+    "value": "盒子陷阱！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Sarcasm. These hunters caught themselves a herd of wild boxes.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I guess that's one alternative to shelves.",
+    "value": "我想一个替代的架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Argh, keep that net away from me!",
+    "value": "啊，让网络离我而去！"
+  }
+]

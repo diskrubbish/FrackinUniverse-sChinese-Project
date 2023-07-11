@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mysterious doorway leading into an unknown dimension. What could possibly go wrong?",
+    "value": "一扇通往未知空间的神秘的门，还能出什么岔子呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Challenge Door Prop",
+    "value": "挑战门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A strange door to find out here. To what dimension could it lead me?",
+    "value": "在这里发现一扇奇怪的门。它能把我带到什么维度？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An ominous door that could lead to any dimension.",
+    "value": "一扇不祥的门，可以通向任何方向。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Mysssterious door. Where could it lead?",
+    "value": "神神神秘的门，它能通向哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. Am I prepared to face whatever is on the other side of this gate?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A mysterious door leading into an unknown dimension. What could possibly go wrong?",
+    "value": "一扇通往未知空间的神秘之门，还能出什么岔子呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An enigmatic doorway to an unknown destination... or a concealed opportunity?",
+    "value": "一扇通往未知目的地的神秘大门... 还是一个隐藏的机会？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "What's a door like this doin' out here?",
+    "value": "这样的门露在外面干什么？"
+  }
+]

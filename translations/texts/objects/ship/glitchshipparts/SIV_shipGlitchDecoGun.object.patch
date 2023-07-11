@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Replica plasma cannon for Glitch ships. Used to fire balls of plasma that exploded on contact.",
+    "value": "电子人飞船用的等离子加农炮。用于发射接触时爆炸的等离子球。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glitch Plasma Cannon",
+    "value": "电子人等离子炮"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dense, red stone",
+    "value": "一块沉重的红色石板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Red Slate",
+    "value": "红色石板"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Beautifully gleaming flowers that cure insanity.",
+    "value": "可以收获夜光花，食用后会治疗精神错乱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Darklight Flower",
+    "value": "夜光花种子"
+  }
+]

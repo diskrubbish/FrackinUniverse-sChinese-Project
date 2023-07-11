@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A standard issue Protectorate dorm room television stand. This one comes with a console!",
+    "value": "一个标准的大地守护团宿舍电视台。这台有控制台！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protectorate TV Stand",
+    "value": "大地守护团电视台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Hah! I hardly ever had this television to myself back at the Academy...",
+    "value": "哈！我在学院里几乎没有一台电视..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "In retrospect, the furniture of the Protectorate was remarkably and stylishly made.",
+    "value": "回首往事，大地守护团的家具制作得非常引人注目，非常时髦。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "... Floran has no one to play console with now...",
+    "value": "... 叶族人现在没有人可以玩游戏机了..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Bittersweet. I suppose I finally have the TV to myself now...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh man... It's even loaded up with the same games we had... This is just...",
+    "value": "天哪...甚至还有我们玩过的游戏...这只是..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A beautifully made television stand, if there ever was one.",
+    "value": "一个制作精美的电视台，如果有的话。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This television was awfully great for hangin' out around.",
+    "value": "这台电视真是太棒了。"
+  }
+]

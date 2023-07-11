@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Platform",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A starry wooden platform, pretty.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. This is not a basic wood platform.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sstarry wood platformsss.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just a platform made outta star wood.",
+    "value": ""
+  }
+]

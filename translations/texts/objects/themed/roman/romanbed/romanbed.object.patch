@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A robust, roman-style bed.",
+    "value": "一张结实的罗马式床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Roman Bed",
+    "value": "罗马床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A bed styled to resemble an ancient civilization's.",
+    "value": "一种仿照古代文明的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What are the curves on this bed for? To keep one from falling out?",
+    "value": "这张床上的曲线是用来做什么的？为了防止一个人闹翻？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Iss bed? Floran thought it was a boat.",
+    "value": "床呢？叶族人以为那是条船。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Content. In spite of its unconventional design, this bed is suitably comfortable.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The grooves on this bed are pretty weird. Still comfy, though.",
+    "value": "这张床上的凹槽很奇怪。不过还是很舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "While I'm unconvinced by the design, the materials used to build this bed are very high quality.",
+    "value": "虽然我不相信这个设计，但建造这张床所用的材料质量非常高。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A bed for somethin' ancient, I'd wager.",
+    "value": "我敢打赌，这是一张古董床。"
+  }
+]

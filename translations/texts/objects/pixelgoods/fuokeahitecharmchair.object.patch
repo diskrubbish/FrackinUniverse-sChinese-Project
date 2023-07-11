@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Never before have your butt cheeks rested on something so comfortable!",
+    "value": "原来把屁股放上去是这么的舒服啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hi-tech Armchair",
+    "value": "高科技扶手椅"
+  }
+]

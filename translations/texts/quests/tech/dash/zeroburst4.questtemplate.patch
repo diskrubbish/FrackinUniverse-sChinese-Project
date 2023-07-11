@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Explosive Redirection IV",
+    "value": "重定义爆炸 IV"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "This upgrade is certainly not safe. But worth it.",
+    "value": "这次科技的提升好像有点不安全，但是值得一试。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Now I can leap a lot faster, letting me boost in the air super high!",
+    "value": "现在我跳得更高了，滞空时间足可以让我在空中飞行。"
+  }
+]

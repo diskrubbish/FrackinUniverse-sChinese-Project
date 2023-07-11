@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A salty and aromatic rice dish.",
+    "value": "一道咸而香的米饭。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ocean Risotto",
+    "value": "海鲜饭"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmells nice enough, but it's ssso ssalty...",
+    "value": "这闻起来很香，但却真TM咸..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. Knowing how Hylotl love their salt, I ought to have a glass of water on hand.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A salty sea dish. Nice if ya like that sort of thing.",
+    "value": "咸的海菜。如果你喜欢那种东西，那就太好了。"
+  }
+]

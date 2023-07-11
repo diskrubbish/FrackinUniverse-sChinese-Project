@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ever heard of a hanger?",
+    "value": "听说过衣架吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloppy Closet",
+    "value": "邋遢的衣橱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A closet filled to the brim with wrinkled clothing.",
+    "value": "满是褶皱衣服的衣橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I do hope most of these clothes are clean...",
+    "value": "我真的希望这些衣服大部分是干净的..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Closet lookss like Floran's old dorm room.",
+    "value": "壁橱看起来像叶族人的旧宿舍。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Bewildered. There was not even the slightest attempt to properly hang up these clothes. It's kind of incredible really.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm sure it's a nice enough closet... When it's organized.",
+    "value": "我相信这是一个足够好的壁橱...有组织的时候。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "How is someone to get themselves properly dressed in a timely manner with a closet like this?",
+    "value": "像这样的衣橱，一个人怎样才能及时地穿好衣服呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "There's clothes everywhere but inside this closet.",
+    "value": "除了这个衣橱里，到处都是衣服。"
+  }
+]

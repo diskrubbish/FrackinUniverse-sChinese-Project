@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "That's a huge turret...",
+    "value": "那是一个巨大的炮塔..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Colony Turret",
+    "value": "绘世者殖民地炮塔"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The weaponry of the Skath is extremely dangerous, and this turret is no exception.",
+    "value": "绘世者的武器极其危险，这座炮塔也不例外。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wouldn't want to get hit by that turret.",
+    "value": "我不想被炮塔击中。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wantss big gun. Floran should sssteal.",
+    "value": "叶族人想要大炮。叶族人应该偷东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Nervous. This turret is exceptionally dangerous.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "One shot from this could tear right through my ship. Good thing it's on the other side of the planet.",
+    "value": "一枪就可以穿透我的飞船。幸好它在地球的另一边。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An emplaced Skath weapon, for defending their cities.",
+    "value": "一种安放在阵地上的绘世者武器，用于保卫他们的城市。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A powerful lookin' Skath turret.",
+    "value": "一个看起来很强大的绘世者炮塔。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "These turrets were made for defending our colonies, and fire enourmous plasma rounds.",
+    "value": "这些炮塔是为保卫我们的殖民地而建造的，可以发射威力巨大的等离子弹。"
+  }
+]

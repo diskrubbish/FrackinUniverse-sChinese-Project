@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pulsating, fleshy light. A light made of flesh. A-",
+    "value": "一个由跳动着的肉组成的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Heck Light",
+    "value": "血界灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This repulsive light gives off a sickly glow.",
+    "value": "这盏灯令人厌恶，就连光线也是一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What a disgusting light.",
+    "value": "这是什么光？真让人生厌。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran think light look tasty.",
+    "value": "叶族人认为这样的灯光看看看起来很好。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Repulsion. A vile, fleshy light.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What a gross light.",
+    "value": "哇，这灯真肥。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This is unnatural in its naturalness.",
+    "value": "这如此不自然的灯在这种环境下实在是太正常不过了。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Comes with a fresh basket of feathercrown!",
+    "value": "带着一羽毛框的新鲜蔬果出发！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Carved Kitchen Counter^reset;",
+    "value": "^orange;雕刻厨房柜台^reset;"
+  }
+]

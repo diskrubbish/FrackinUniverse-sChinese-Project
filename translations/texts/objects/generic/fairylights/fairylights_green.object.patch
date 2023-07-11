@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A string of small, twinkling fairy lights.",
+    "value": "一串串闪烁的小彩灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Green Fairy Lights",
+    "value": "绿色小彩灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These little lights are quite pretty.",
+    "value": "这些小灯很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's hard not to love these pretty little lights.",
+    "value": "很难不爱这些漂亮的小彩灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Much sssparkle lightss.",
+    "value": "闪闪发光的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Contentment. These twinkling lights help build a relaxed atmosphere.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I've always been fond of fairy lights.",
+    "value": "我一直喜欢童话般的灯光。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such simple beauty.",
+    "value": "如此朴素的美。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Bunch'a sparklin' li'l lights all strung up.",
+    "value": "一些串起来的闪闪发光的小灯。"
+  }
+]

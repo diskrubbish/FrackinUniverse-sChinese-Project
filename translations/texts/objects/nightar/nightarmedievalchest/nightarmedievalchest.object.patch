@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An old wooden chest, still going strong.",
+    "value": "一个旧的木制箱子，却依旧很结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medieval Chest",
+    "value": "中世纪的箱子"
+  }
+]

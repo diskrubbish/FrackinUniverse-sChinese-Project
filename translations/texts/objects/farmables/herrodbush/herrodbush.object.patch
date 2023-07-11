@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides immunity against Shadow.",
+    "value": "可以收获赫罗德灌木果，食用后会免疫暗影气体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Herrod Bush",
+    "value": "赫罗德灌木种子"
+  }
+]

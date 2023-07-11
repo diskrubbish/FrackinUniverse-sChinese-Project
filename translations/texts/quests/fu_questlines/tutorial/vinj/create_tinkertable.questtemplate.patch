@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Tinkering",
+    "value": "改造"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Without a ^orange;Tinkering Table^reset; you'll be hard-pressed to create ^green;augments, upgrades and specialist tools^reset;. When you get a chance, ^orange;Research^reset; into ^orange;Engineering^reset; and build one for me.",
+    "value": "如果没有^orange;改造台^reset;，你将很难^green;扩充，升级和特化工具^reset;。如果有机会，记得^orange;研究^reset;^orange;工程^reset;科学并试着建造一个。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Bring the ^green;Armorworks^reset; to me at the ^orange;Science Outpost^reset;",
+    "value": "把^green;军备作坊^reset;带给我。(位于^orange;科学前哨站^reset;)"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Might I recommend starting with a ^orange;Mining Laser?^reset; They are truly effective tools to use for rapidly digging through dirt!",
+    "value": "为何我会建议从^orange;激光挖掘器^reset;着手？因为它确实是挖掘土块的高效工具！"
+  }
+]

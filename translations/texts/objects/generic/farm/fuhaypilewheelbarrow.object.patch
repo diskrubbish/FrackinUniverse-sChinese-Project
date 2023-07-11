@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wheelbarrow. With hay in it.",
+    "value": "一辆独轮手推车，上面有一些干草。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Haypile Wheelbarrow",
+    "value": "独轮手推车"
+  }
+]

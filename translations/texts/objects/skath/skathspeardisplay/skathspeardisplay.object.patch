@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Skath Plasma Spear, decommissioned for display.",
+    "value": "一支绘世者等离子枪，退役后用于展示。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Spear Display",
+    "value": "绘世者长矛展台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This spear looks extraordinarily sharp. I wouldn't want to get hit by one of those.",
+    "value": "这把矛看起来格外锋利。我不想被那些东西击中。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Skath spears look intimidating. Our spearsmiths could learn a lot from them.",
+    "value": "绘世者长矛看起来很吓人。我们的矛匠可以从他们身上学到很多东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Waterdragon ssspear good for ssstabbing.",
+    "value": "水龙矛适合刺人。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Intrigued. I can't tell if this spear is a fake or not.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What a pointy looking spear! Perfect for spear fishing!.",
+    "value": "多尖的矛啊！非常适合用矛捕鱼！。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Skath weaponry is truly terrifying.",
+    "value": "绘世者的武器真非常恐怖。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A sleek lookin' spear. Wouldn't want to get hit by one of those.",
+    "value": "圆滑的长矛。我不想被这些东西击中。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "Plasma spears are traditionaly used for underwater combat. Spears have proven themselves to be very effective underwater.",
+    "value": "等离子矛传统上用于水下作战。长矛已经证明在水下非常有效。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A robust, roman-style sconce.",
+    "value": "坚固的罗马风格的斯孔塞。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Roman Sconce",
+    "value": "罗曼·斯孔塞"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A light like this certainly creates an atmosphere.",
+    "value": "这样的光线肯定会营造出一种氛围。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Avian priests light their way through the crypts with such lights. Likely nothing this fancy, however.",
+    "value": "翼族人的神父用这样的灯照亮他们穿过地穴的路。不过，很可能没有这种幻想。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hanging open flame ssounds like an accident waiting to happen...",
+    "value": "悬挂明火就像一场等待发生的事故..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uneasy. These kinds of lights are often used to illuminate Glitch dungeons.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Impractical, but SO badass.",
+    "value": "不切实际，但很糟糕。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The open flame of this light is beautiful, but not terribly safe for most Hyltol dwellings.",
+    "value": "这种光的明火很美，但对大多数鲛人住宅来说并不十分安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fire in a sconce, flickerin' away.",
+    "value": "壁炉里的火，忽隐忽现。"
+  }
+]

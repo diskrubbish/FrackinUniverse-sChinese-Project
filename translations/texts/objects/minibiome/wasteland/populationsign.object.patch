@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I wonder what sort of people once lived here?",
+    "value": "我不知道有多少人曾住过这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ruined Population Sign",
+    "value": "被破坏的人口统计告示牌"
+  }
+]

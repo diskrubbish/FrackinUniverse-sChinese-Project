@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sign to signify a Hylotl hot spring. ",
+    "value": "表示鲛人温泉的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Onsen Sign",
+    "value": "昂森标志"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ah, I could do with a nice soak right about now.",
+    "value": "啊，我现在可以好好泡一泡了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A hot bird bath doesn't sound too bad.",
+    "value": "洗个热水澡听起来也不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Warm sssteamy water won't catch Floran on fire.",
+    "value": "温热的蒸汽水不会让叶族人着火。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned. Will I rust away in the steamy water?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Alright! Time for some bathing related hijinks!",
+    "value": "好吧是时候去洗澡了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Hot springs are one of the few luxuries that coaxed Hylotl populations back out of the sea to settle on land again.",
+    "value": "温泉是为数不多的奢侈品之一，它诱使鲛人人走出海洋，再次在陆地上定居。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Looks like there's a giant, natural hot tub nearby.",
+    "value": "看起来附近有一个巨大的天然热水浴缸。"
+  }
+]

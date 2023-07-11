@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Brand New! Placeable Lager Bottle!",
+    "value": "还未喝过的啤酒！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Placeable Lager Bottle",
+    "value": "装饰用啤酒"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spice of life! Cinnamon!",
+    "value": "可以收获肉桂！这可是梦寐以求的香料！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cinnamon Seed",
+    "value": "肉桂种子"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This vine gives off a useful miasma that cancels out radiation.",
+    "value": "可以收获帕斯卡果，食用后可消除辐射。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pasaka Vine",
+    "value": "帕斯卡果种子"
+  }
+]

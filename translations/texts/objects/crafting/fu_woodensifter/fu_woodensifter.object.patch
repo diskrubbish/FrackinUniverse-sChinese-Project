@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A basic sifter which slowly extracts resources from loose materials. ^cyan;Requires ^orange;2W ^cyan;power.^reset;",
+    "value": "基本的筛分机，可以从松散的物料中缓慢地提取资源。\n^cyan;需要^orange;2W^cyan;电力^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Sifter^reset;",
+    "value": "^cyan;木制筛粉机^reset;"
+  }
+]

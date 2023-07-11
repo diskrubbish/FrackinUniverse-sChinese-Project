@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Boltbulb! Surprisingly soft.",
+    "value": "螺钉球！出奇的柔软。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Boltbulb Basket",
+    "value": "螺钉球篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Soft like a banana, but with a horrible metallic taste.",
+    "value": "像香蕉一样柔软，但有一种可怕的金属味。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The grounded have become quite fond of this weird, metallic vegetable.",
+    "value": "地底人已经非常喜欢这种奇怪的金属蔬菜。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssquishy metal, not like Glitch flesh.",
+    "value": "柔软的金属，不像有瑕疵的肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Sentimental. This vegetable tastes like home.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Gross, eating this is like eating bits of a truck.",
+    "value": "恶心，吃这个就像吃卡车的碎片。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The boltbulb is one of the few genuinely tasty vegetables, for true connoisseurs.",
+    "value": "对于真正的鉴赏家来说，螺钉球是为数不多的真正美味的蔬菜之一。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A metallic vegetable? I'll try anythin' once.",
+    "value": "金属蔬菜？我什么都试一次。"
+  }
+]

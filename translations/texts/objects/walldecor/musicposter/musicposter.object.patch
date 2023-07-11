@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What could this be for? A music class? A concert? A karaoke bar?",
+    "value": "这是干什么用的？音乐课？音乐会？卡拉OK吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Music Poster",
+    "value": "音乐海报"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A lively poster, dotted with music notes.",
+    "value": "一张生动的海报，上面点缀着音符。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I feel like I could burst into song just looking at this cheery poster.",
+    "value": "看着这张欢快的海报，我觉得我可以突然唱起歌来。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can sing, sing, sssing!",
+    "value": "叶族人会唱歌，唱歌，唱歌！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Joyful. Music really is incredible, isn't it?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I wonder if these notes actually mean anything?",
+    "value": "我想知道这些笔记是否真的有意义？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Music brings people together in a way no other medium can. It's rather beautiful.",
+    "value": "音乐以其他媒介无法做到的方式将人们聚集在一起。它相当漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'm always game for a good ol' tune.",
+    "value": "我总是喜欢唱一首好歌。"
+  }
+]

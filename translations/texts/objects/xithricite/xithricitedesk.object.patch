@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A desk made from xithricite.",
+    "value": "由赛德瑞瑟晶体制成的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Desk",
+    "value": "赛德瑞瑟晶体办公桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A desk seemingly made from star matter.",
+    "value": "一张桌子似乎是用星星做成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I feel like I'm looking into the night sky.",
+    "value": "我感觉我在仰望夜空。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstarry desssk!",
+    "value": "星星桌子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. This desk seems to be made from the stars themselves.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This desk looks like it's made from stars!",
+    "value": "这张桌子看起来像是星星做的！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This desk makes me think fondly of the night sky.",
+    "value": "这张桌子使我想起夜空。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This desk is mighty pretty.",
+    "value": "这张书桌非常漂亮。"
+  }
+]

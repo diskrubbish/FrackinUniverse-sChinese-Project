@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crispy on the outside, hot as molten lava on the inside.",
+    "value": "外面酥脆，里面热得像岩浆。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Baked Potato",
+    "value": "焗土豆"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hot potato, hot potato!",
+    "value": "烫手山芋，烫手山芋！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Tentative. I should be careful to not to scald myself eating this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Nothin' fancy, but mighty tasty all the same.",
+    "value": "没什么特别的，但还是很好吃。"
+  }
+]

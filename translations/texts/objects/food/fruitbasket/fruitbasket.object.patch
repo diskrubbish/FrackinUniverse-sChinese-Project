@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perfect for garnishing tables.",
+    "value": "非常适合装饰桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fruit Basket",
+    "value": "果篮"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hopes these aren't wax...",
+    "value": "叶族人希望这些不是蜡..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. These look relatively fresh.",
+    "value": ""
+  }
+]

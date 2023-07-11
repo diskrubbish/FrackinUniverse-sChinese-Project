@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ideally hitched up to a horse for cozy transportation.",
+    "value": "理想情况下，可以系在马背上进行舒适的运输。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frontier Carriage",
+    "value": "边境运输"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A house on wheels! How precious",
+    "value": "有轮子的房子！多么珍贵啊"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What a romantic way to travel!",
+    "value": "多么浪漫的旅行方式啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Houssse that moves on horsepower.",
+    "value": "用马力移动的时间。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. Certainly more comfortable than your average wagon.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's equipped with all the essentials. Well, except for a tv.",
+    "value": "它配备了所有的必需品。嗯，除了电视。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It's terribly cramped looking, but I suppose there is a certain charm to this kind of travel.",
+    "value": "我想这是一种很有魅力的旅行。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some nights I'll sit up on the roof, gazin' up at the stars.",
+    "value": "有些夜晚，我会坐在屋顶上，凝望群星。"
+  }
+]

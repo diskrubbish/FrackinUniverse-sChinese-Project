@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rusted watering can turned into a quirky flowerpot.",
+    "value": "生锈的水壶变成了古怪的花盆。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Watering Can Flowerpot",
+    "value": "水罐花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What a lovely, homely piece.",
+    "value": "多么可爱、朴实的作品啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This watering can now serves as a home to the very flowers it once watered.",
+    "value": "这个浇水罐现在可以作为它曾经浇灌过的花的家。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Watering can for planting now, not watering.",
+    "value": "现在可以浇水种植但不能灌溉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. This watering can has been recycled to still serve in the garden, albeit under a different purpose.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The rust adds to the charm, oddly enough.",
+    "value": "奇怪的是，锈迹增加了魅力。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There's something poetic to be said about this.",
+    "value": "关于这件事，有一些诗意的话要说。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Fresh spring wildflowers are bloomin' outta this watering can.",
+    "value": "春天的野花从这个水罐里盛开。"
+  }
+]

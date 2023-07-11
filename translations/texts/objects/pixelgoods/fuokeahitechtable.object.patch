@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's perfectly round and flat!",
+    "value": "它又圆又平！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hi-tech Table",
+    "value": "高科技桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A hi-tech table.",
+    "value": "高科技桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A hi-tech table.",
+    "value": "高科技桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A hi-tech table.",
+    "value": "高科技桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "A hi-tech table.",
+    "value": "高科技桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A hi-tech table.",
+    "value": "高科技桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A hi-tech table.",
+    "value": "高科技桌子。"
+  }
+]

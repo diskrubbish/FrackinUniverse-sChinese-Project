@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table. It's far too cold to lean on.",
+    "value": "一张桌子。天太冷了，靠不住。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Table",
+    "value": "寒霜桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A cold table.",
+    "value": "冷冰冰的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A good looking table, too cold to touch, though.",
+    "value": "一张好看的桌子，但是太冷了，摸不着。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssimple table. Too cold for Floran.",
+    "value": "简单的桌子。对叶族人来说太冷了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This table is almost frozen.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Not much to say about this table, apart from how cold it is.",
+    "value": "除了有多冷，这张桌子没什么好说的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A table, too cold for me.",
+    "value": "一张桌子，对我来说太冷了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just a table, mighty cold.",
+    "value": "只是一张桌子，非常冷。"
+  }
+]

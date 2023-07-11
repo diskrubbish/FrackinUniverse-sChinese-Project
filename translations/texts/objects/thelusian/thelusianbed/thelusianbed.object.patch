@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Chitinous and hard.",
+    "value": "几丁质的柔软和甲壳般的坚硬。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Bed",
+    "value": "蚁族床"
+  }
+]

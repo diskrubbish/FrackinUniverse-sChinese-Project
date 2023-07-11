@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wooden kitchen cart with a stylish pattern embedded on the base.",
+    "value": "底座上嵌有时尚图案的木制厨房推车。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alpine Kitchen Cart",
+    "value": "阿尔卑斯厨房推车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A kitchen cart with silverware and pottery stored below.",
+    "value": "一辆厨房推车，下面存放着银器和陶器。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I could use a cooking pot like the one on top for my kitchen.",
+    "value": "我可以用一个像唯一者那样的锅来做我的厨房。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmall kitchen cart.",
+    "value": "小厨房推车。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. I wonder what's in the pot up top?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I guess you'd use this cart if you wanted to serve guests in style?",
+    "value": "我想如果你想为客人提供时尚的服务，你会用这辆车吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A small, compact kitchen cart. Efficent and beautiful.",
+    "value": "一种小巧的厨房推车。高效而美丽。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Looks like a servin' cart to me.",
+    "value": "在我看来就像一辆餐车。"
+  }
+]

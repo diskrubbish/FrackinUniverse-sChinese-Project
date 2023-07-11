@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chequered flag bearing an emblem.",
+    "value": "带有标志的格子旗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Battle Standard",
+    "value": "夜族战旗"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I wonder how many wars this standard has seen.",
+    "value": "我想知道这个标准已经经历了多少次战争。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A fancy flag.",
+    "value": "一面漂亮的旗帜。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likess black flag. It lookss fancy.",
+    "value": "叶族人喜欢这面黑旗。它看起来很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informed. A Nightar battle standard. These are placed on the field during a battle.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A battlefield flag. They are rarely used in modern times.",
+    "value": "战旗。不过它们在现代很少被使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A flag that looks like it can be carried and planted as a marker.",
+    "value": "一种看起来可以作为标记进行携带和插的旗帜。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This flag probably means somethin' to someone.",
+    "value": "这面旗帜可能对某人有意义。"
+  }
+]

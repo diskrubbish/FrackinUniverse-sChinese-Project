@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Brand New! Placeable Grape Lambic Bottle!",
+    "value": "还未喝过的兰比克葡萄酒！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Placeable Grape Lambic Bottle",
+    "value": "装饰用兰比克葡萄酒"
+  }
+]

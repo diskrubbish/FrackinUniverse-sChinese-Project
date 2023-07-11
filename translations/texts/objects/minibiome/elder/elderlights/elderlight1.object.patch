@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A floating orb. It's extremely unsettling to look at.",
+    "value": "一颗漂浮的宝珠。看起来非常令人不安。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Orb",
+    "value": "远古宝珠"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some sort of horrible light.",
+    "value": "发出某种可怕的光线。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This makes me uncomfortable.",
+    "value": "这玩意搞得我不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssshiny light! Floran not ssscared, honessst...",
+    "value": "闪闪闪亮的灯光！叶族人不害害害怕，我保保保证..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This light makes my circuits shake.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This light gives me the creeps!",
+    "value": "这光使我毛骨悚然！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A wall light. It is functional... but very unpleasant.",
+    "value": "墙上的灯。具有功能性的...但是非常不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This light ain't right.",
+    "value": "这光不太对劲。"
+  }
+]

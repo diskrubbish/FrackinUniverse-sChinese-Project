@@ -1,0 +1,2738 @@
+[
+  {
+    "op": "replace",
+    "path": "/glitchmission01/text",
+    "raw": "This keep belongs to a Glitch known as the Baron. He is a retired hero, and by all accounts a little... Eccentric...He spends his retirement seeking strange and unusual artifacts for his collection.",
+    "value": "这个要塞属于一个叫做拜隆男爵的电子人。 他是一个退休的英雄，而且据说有点...古怪... 他退休后一直在为充实他的收藏而寻找诡异而不凡的文物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchmission01a/text",
+    "raw": "He may have a few screws loose, dear, but he's not dangerous. He's' ^green;absolutely certain^reset; that this keep houses an ^red;ancient and terrible artifact^reset; and spends a fortune investigating.",
+    "value": "他可能有点神志不清，亲爱的，但他并不危险。 他^green;绝对肯定^reset;在这里藏了一件^red;古老而不可直视的造物^reset;，并且花了大笔钱来调查。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchmission01b/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchmission01b/text",
+    "raw": "There may be some truth to this, based on rumors I've heard over the last ninety years. Maybe there is something hidden in the ^green;foundation^reset;?",
+    "value": "基于我在过去90年里听到的传言，这种说法可能有些道理。也许^green;地基^reset;里隐藏着什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchmission02/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchmission02/text",
+    "raw": "Well I'll be damned. The Baron was right. This must be the switch for the rumored 'secret' of the Keep. Be sure to get some scans of whatever you find. I'm really curious what you'll discover here!",
+    "value": "我真傻。拜伦男爵是对的。这一定是传说中要塞“秘密”的开关。一定要扫描一下你发现的任何东西。我真的很好奇你会在这里发现什么！"
+  },
+  {
+    "op": "replace",
+    "path": "/lunarbase04/text",
+    "raw": "Erchius readings have reached 94 rad. You are in grave peril. My programming requires me to inform you that proceeding could prove dangerous. Use extreme caution.",
+    "value": "厄尔吉斯的辐射指数达到了94拉德。你的处境非常危险。我的程序要求我通知你，这样做可能会很危险。请保持极端谨慎。"
+  },
+  {
+    "op": "replace",
+    "path": "/lunarbase05/text",
+    "raw": "Prolonged contact with the Erchius crystals seems to have denatured their very being! Curious. The creatures have lost themselves completely.",
+    "value": "看看他们的样子，与厄尔吉斯晶体的长期接触已经彻底改变了他们的形态！我很好奇。这些可怜虫们已经完全迷失了自我。"
+  },
+  {
+    "op": "replace",
+    "path": "/lunarbase06/text",
+    "raw": "Erchius readings have reached 101 rad. I am also reading something massive below. ^red;WARNING: Continuing may to prove fatal. Are you sure you wish to proceed^reset;?",
+    "value": "能量的辐射指数达到了101拉德.我也在下方读到了一些重要的数据。 ^red;警告：继续下去可能会致命。你确定要继续吗^reset;？"
+  },
+  {
+    "op": "replace",
+    "path": "/lunarbase07/text",
+    "raw": "Conventional weapons will have nearly no effect on the Erchius crystal. You'll most likely need to devise another means of attack.",
+    "value": "常规武器绝无可能破坏厄尔吉斯晶体！你必须考虑其他的攻击方式。"
+  },
+  {
+    "op": "replace",
+    "path": "/lunarbase08a/text",
+    "raw": "There is enough Erchius here to power the Outpost for quite a long time. ^orange;Great work, Agent^reset;! This will greatly help the Protectorate to reform.",
+    "value": "这里有足够的厄尔吉斯晶体来为前哨站提供长时间的能量。^orange;干得好，探员^reset;！这将大大有助于守护团的改革。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranmission101/text",
+    "raw": "These ruins are ancient and appear to be sacred to the Floran for, I'd guess, religious reasons. Readings show they are also dark and ominous.",
+    "value": "我猜是由于宗教原因，叶族人似乎认为这些古老的遗迹是圣洁的象征，但我的扫描成像只显示出了它那黑暗而不祥的外观。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranmission102/text",
+    "raw": "Bio readings show many lifesigns in these tunnels. Unfortunately, approximately 97% are hostile. I commend your valour.",
+    "value": "生命体检测显示这些隧道里有许多生命信号.很不幸，其中的97%带有敌意。我真佩服你的勇气。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranmission103/text",
+    "raw": "What a feisty Floran! Reminds me of myself when I was younger, though I had fewer leaves. Hopefully we can trust this one",
+    "value": "真是一个争强好胜的叶族人，他让我回想起了我的小时候，虽然我并没有那么多叶子。我希望这个人值得我们信任。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranmission104/text",
+    "raw": "It is evident that these Floran are after something of grave cultural significance to them. They're worse than me on a bug hunt! Be careful, dear.",
+    "value": "显然叶族人似乎正在追寻着什么具有重大文化意义的东西。他们在捉虫子的时候比我还差劲！小心点，亲爱的。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexmission01/text",
+    "raw": "Our arrival appears to coincide with a rebel attack against the Miniknog. This is to both our advantage for the Protectorate to provide aid.",
+    "value": "我们的到来似乎反抗军攻击科学发展部的时间相吻合。对于我们双方来说守护团伸出援手是双双获利的。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexmission02a/text",
+    "raw": "I am detecting numerous additional hostiles ahead, armed with what appear to be rather dangerous armaments.",
+    "value": "我探测到前方还有许多敌人，他们装备着看起来相当危险的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexmission06a/text",
+    "raw": "Big Ape is a profoundly dangerous enemy, but is still vulnerable to weapons. Cut the head off the snake, and the Miniknog may crumble!",
+    "value": "大猿人真是一个极其危险的敌人，但头一掉啥人都没戏。擒贼先擒王，科技发展部这下子可能会走向崩溃！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlmission03a/text",
+    "raw": "Something about these cultists is setting off alarm bells. There is an eerie resemblance to something that I just can't place...",
+    "value": "关于这些信徒的某些东西正在敲响我们警钟。他们的行为有一种令人毛骨悚然的相似之处，我只是无法理解..."
+  },
+  {
+    "op": "replace",
+    "path": "/tentaclemission-bossroom/text",
+    "raw": "You've reached what appears to be the nerve center for this titanic monstrosity. This is it, now. Destroy the beast or we all perish!",
+    "value": "你已经到达了这个巨大怪物的神经中枢。就是这样。此刻，消灭这头野兽，否则你我都将灭亡！"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormissionspecial/text",
+    "raw": "There appears to be some sort of interesting technology suspended above that device. I recommend immediate investigation.",
+    "value": "这个设备上面似乎悬浮着某种有趣的科技。我建议你立即展开调查。"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormission1/text",
+    "raw": "I'm not sure where this teleporter has dropped us off. I am, however, detecting unknown signals up ahead somewhere. You should investigate, and find a way out.",
+    "value": "我不确定传送门把我们送到哪儿来了，然而，我在前方某处探测到了未知的信号。你应该调查一下，并且想办法离开这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormission2/text",
+    "raw": "This is of truly ancient design. The door appears sealed, but might open to sufficient explosive force.",
+    "value": "这种设计真的相当古老。这扇门看起来是密封的，但是足够的爆发力或许可以强行炸开它。"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormission3/text",
+    "raw": "It is highly likely that these ruins have not been accessed in thousands of years. I wonder what mysteries await?",
+    "value": "这些遗迹很有可能几千年来都没有被造访过。我想知道前方到底有怎样的秘密在等着我呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormission4/text",
+    "raw": "Ahead I detect several meters of weakened material. You could try digging through and see how that goes.",
+    "value": "我检测到前方有几米被削弱过的材料。你可以试着深入挖掘，看看会发生什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormission5/text",
+    "raw": "Another red door. Smash it!",
+    "value": "另一个红色的门。粉碎它！"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormission6/text",
+    "raw": "The door here appears to be triggered remotely by something. I can only faintly read connections to some sort of sensor.",
+    "value": "这里的门似乎受到某种东西的远程触发。我只能隐约地读取到某种传感器的连接。"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormission7/text",
+    "raw": "Something must trigger this small door. We should probably hunt around elsewhere and see what we can find.",
+    "value": "一定有什么东西可以触发这扇小门。我们或许该去其他地方找一找，看看能发现什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormission8/text",
+    "raw": "This room was painstakingly hidden from casual view. There must be something above worth investigating.",
+    "value": "这个房间被煞费苦心地藏了起来，不让其他人发现。这里面肯定有一些值得调查的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormission9/text",
+    "raw": "It seems we have more to explore! I am detecting numerous hostile IFF readings below your position, so do take precautions.",
+    "value": "看来我们还需继续探索！我在你目前的位置下面检测到众多敌对的IFF读数，请务必做好防范措施。"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormission10/text",
+    "raw": "Impossible. This ship is still functioning, albeit at vastly reduced capacity. It is unlikely that it could travel, but we could certainly learn something from its systems!",
+    "value": "不敢相信！这艘飞船仍在运转，尽管它的性能已经被大幅降低了。它不太可能继续用于旅行，但我们肯定能从它的系统中学习到一些东西!"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormission11/text",
+    "raw": "I believe this switch is linked to systems elsewhere in the facility. We should backtrack and see what has opened up once we've activated the console.",
+    "value": "我相信这个开关连接到了其他地方的系统。我们应该往回走，看看在激活控制台后有什么被打开了。"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormission12/text",
+    "raw": "Readings are scattered here. These machines are likely interfering with the signal. I cannot detect lifesigns or robotic signatures accurately. Extreme caution is advised.",
+    "value": "读数分散在这里。这些机器可能会干扰信号。我无法准确地探测到生命信号或机器人信号。我建议你保持极度谨慎。"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormission13/text",
+    "raw": "While its actual function is somewhat of a mystery, this unusual device appears capable of infusing weapons, armor and other gear with cosmic energies. I imagine with it, one could vastly improve gear quality.",
+    "value": "虽然它的实际功能有点神秘，但这个不同寻常的装置似乎能够将宇宙能量注入武器、盔甲和其他装备。我想，有了它，一定可以大大提高装备的质量。"
+  },
+  {
+    "op": "replace",
+    "path": "/precursormission14/text",
+    "raw": "We appear to be well and truly trapped. The way back has been blocked. I am also detecting an extremely powerful machine nearby, and it appears to be targetting your specific DNA.",
+    "value": "我们似乎真的被困住了。回去的路被堵住了。我还探测到附近有一台极其强大的机械，它似乎在瞄准你的特定DNA。"
+  },
+  {
+    "op": "replace",
+    "path": "/fuchallengeball1/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fuchallengeball1/text",
+    "raw": "To get through here, you're going to need a Distortion Sphere II or Armor Sphere. Otherwise, you'll have a tough time...",
+    "value": "要穿过这里，你需要变形球II或装甲球科技。否则，你将会四处碰壁..."
+  },
+  {
+    "op": "replace",
+    "path": "/fuchallengeball2/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fuchallengeball2/text",
+    "raw": "Press down to drop a bomb and blow this tile up!",
+    "value": "按下你的键盘，扔一个炸弹，然后把这块地皮给炸上天！"
+  },
+  {
+    "op": "replace",
+    "path": "/fuchallengeball3/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fuchallengeball3/text",
+    "raw": "Now you'll need some fancy timing. Use bombs to launch yourself upwards. Then do it again, and you're through.",
+    "value": "现在你需要做些骚操作。使用炸弹把自己炸上去。然后如此反复，你就通过这里了。"
+  },
+  {
+    "op": "replace",
+    "path": "/activateMasterManipulator/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/activateMasterManipulator/text",
+    "raw": "Excellent. You have activated the Master Manipulator using this Crucible as a power source! Now you can really obliterate matter like a champ! Go!",
+    "value": "优秀。 你已经用这块升级器作为动力源激活了始源物质枪！现在你真的可以像冠军一样消灭物质了！我们走！"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs401/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs401/text",
+    "raw": "Welcome to this testing facility. Please do note that in order to participate in the activities therein, you will need to possess a ranged weapon.",
+    "value": "欢迎来到这处测试设施。请注意，为了参加其中的测试，你可能需要一把远程武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs401a/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs401a/text",
+    "raw": "Please keep your limbs and personal effects on the platform at all times. The facility is not responsible for any death or loss resulting from your stupidity.",
+    "value": "请将您的四肢和个人物品随时留在站台上。对于因你的愚蠢而造成的死亡或损失，我们设施不负任何责任。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs301/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs301/text",
+    "raw": "It is imperative to note that due to the nature of the tests in this facility, you may very well end up stuck through very much fault of your own.",
+    "value": "必须注意的是，由于这处测试设施的自然条件，您可能最终会遇到由自己造成的很多错误。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs301a/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs301a/text",
+    "raw": "If this happens, please feel free to assume a fetal position, weep at your lack of forethought, and beam out of the facility.",
+    "value": "如果发生这种情况，请尽管保持胎儿的姿势，为自己没有事先考虑而哭泣，然后离开场地。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs302/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs302/text",
+    "raw": "Contained within the chest ahead is a Personal Spatial Transference Module, or in layman's terms, a Translocator. Please retrieve it. It will be required for testing.",
+    "value": "前面的箱子里装着一块个人空间转移模块，或者用外行人的话说，一个转移器。请取回它。它需要进行一些测试。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs303/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs303/text",
+    "raw": "Please note that from this point onwards, your performance will be evaluated. Use your translocator to navigate the tests in an expedient manner.",
+    "value": "请注意，从这处地方开始，你的表现将被评估。使用您的转换器以便利的方式完成测试。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs303a/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs303a/text",
+    "raw": "You will be graded on factors such as time, adroit use of the translocator, attitude, non-vapourisation, and other common test parameters.",
+    "value": "你将被根据诸如时间、转换器的熟练使用、态度、未蒸发程度和其他常见测试参数等因素来评分。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs304/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs304/text",
+    "raw": "Some like it hot.",
+    "value": "热情如火。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs305/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs305/text",
+    "raw": "Unlike other spatial transference devices, the relocator is pellet-based. Please make use of this advanced physics-compliant property to bounce away from this puzzle.",
+    "value": "与其他空间转移设备不同，这个重定位器是基于粒子的。请利用这个先进的物理兼容性质，弹破这处难题。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs306/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs306/text",
+    "raw": "Being spatially relocated can be disorienting, but I have full faith you will overcome this obstacle. That, or be vapourised.",
+    "value": "空间重新定位可能会让人迷失方向，但我完全相信你能克服这个障碍。不然就是被蒸发。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs307/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs307/text",
+    "raw": "Thank you for participating in this small test! On behalf of all members of the facility, allow me to congratulate you on a job well done!",
+    "value": "谢谢你参加这个小小的测试！请允许我代表我们设施的所有成员，祝贺你的出色表现！"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs307a/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs307a/text",
+    "raw": "You may be pleased to know that you are in the upper quartile who managed to complete this section of the facility without partial or complete vapourisation.",
+    "value": "您可能很高兴知道您处于上四分段，因为这个分段的人设法完成了这场测试而没有被部分或完全的蒸发。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs307b/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs307b/text",
+    "raw": "Please depart via the radar in a calm and orderly fashion. Do remember to take your belongings with you.",
+    "value": "请通过雷达并平静有序地离开。记得带上你的随身物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs201/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs201/text",
+    "raw": "Yellow detectors detect Companion Punchys. Blue detectors detect... well, you.",
+    "value": "黄色探测器检测到你的强力伙伴们。 蓝色探测器探测到...好吧，那是你。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs202/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs202/text",
+    "raw": "Keep up!",
+    "value": "跟上！"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs203/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs203/text",
+    "raw": "Relax a while in our fully-equipped pleasure chamber.",
+    "value": "在我们设备齐全的游乐室里放松一下。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs204/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs204/text",
+    "raw": "It takes two to tango.",
+    "value": "一个巴掌拍不响。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs205/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs205/text",
+    "raw": "Let's see how well you do under pressure.",
+    "value": "让我们看看你在压力下会表现如何。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs206/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs206/text",
+    "raw": "Partners often switch sides in a dance.",
+    "value": "舞伴在舞蹈中经常交换位置。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs101/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs101/text",
+    "raw": "Welcome, <insert subject name here>. You have chosen, or been chosen, to be the next benefactor of our highly advanced testing systems.",
+    "value": "欢迎，<输入你的大名>。您已选中或被选中，成为我们高科技测试系统的下一个受益者。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs101a/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs101a/text",
+    "raw": "My name is Generic Omnipresent Voice, or GOV for short. While you are in the facility, I will be your guiding authority.",
+    "value": "我的名字是通用而无所不在的之音，或简称GOV(Generic Omnipresent Voice)。当你在这处场地的时候，我将是你的指导者。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs101b/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs101b/text",
+    "raw": "Do note that gravity anomaly fields are in effect on board this facility; while you will still fall, it will not hurt you.",
+    "value": "请注意，重力异常场在这处设施上有效，虽然你仍然会掉下来，但你不会受伤。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs101c/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs101c/text",
+    "raw": "Have a very safe and educational day.",
+    "value": "祝你一路顺风，路遇良师。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs102/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs102/text",
+    "raw": "Contained within this chest is a Tool For Spatial Transference Of Living Matter, or in layman's terms, a Relocator. Please retrieve it. It will be required for testing.",
+    "value": "这个箱子里装着一个活物质空间转移的工具，或者用外行人的话说，一个定位器。请取回它。它需要进行一些测试。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs103/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs103/text",
+    "raw": "Please proceed to the button to meet a very special friend.",
+    "value": "请按下按钮去见一位非常特别的朋友。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs104/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs104/text",
+    "raw": "Friendship with Companion Punchy established and online. Friendship levels detected at 13.3 percent.",
+    "value": "在网络上与强力伴侣建立友谊。友谊水平为13.3%。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs104a/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs104a/text",
+    "raw": "Teamwork is mandatory in the testing facility. Non-compliance will not be tolerated and you will be penalised for failure to display a sufficient teamwork exponent.",
+    "value": "在测试设施中，团队合作是强制性的。不遵守这项规定是不能被容忍的，且你将会因没有表现出足够的团队合作指数而被惩罚。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs105/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs105/text",
+    "raw": "Success! Teamwork levels are now non-negligible. Please enjoy a moment in the Comfort Chamber with your Companion Punchy before proceeding.",
+    "value": "成功了！现在看来团队合作的力量不可忽视。在继续之前，请和你的强力伙伴们一起在舒适的房间里享受一会儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs106/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs106/text",
+    "raw": "Your Companion Punchy is more durable than appearances might otherwise suggest. It will bleed, burn, and die for you so that you don't have to.",
+    "value": "你的强力伙伴不是个样子货。它可以代替你流血，烧伤甚至死亡。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs106a/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs106a/text",
+    "raw": "Your Companion Punchy's loyalty exponent is currently 6. Should it drop to zero, sleep with one eye open.",
+    "value": "你的强力伙伴目前忠诚度指数为6。一旦降到0，你都不敢睡得太熟。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs107/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs107/text",
+    "raw": "These sensors are calibrated to detect only Companion Punchys, greed, faith, and hatred.",
+    "value": "这些传感器经过调整，只能检测到强力伙伴们，贪婪，信仰和仇恨。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs108/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs108/text",
+    "raw": "Contact with the Steele Tech(TM) energy lances will invariably result in vaporisation.",
+    "value": "与斯蒂尔技术(TM)能量矛的接触将导致被蒸发。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs108a/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs108a/text",
+    "raw": "Happily, Companion Punchys are made of sugar, spice, everything nice, and chemical X, rendering them impervious to vaporisation.",
+    "value": "令人高兴的是，强力伙伴是由糖，香料，和一切美好的事物，和化合物X组成的，这些东西使他们不受蒸发。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs109/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs109/text",
+    "raw": "Entertain me.",
+    "value": "逗我乐。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs110/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs110/text",
+    "raw": "Alas, this is the end of a beautiful friendship. Incinerate your Companion Punchy to continue. Only one of you may leave the facility alive.",
+    "value": "唉，这是一段美好友谊的终结。焚烧你的同伴然后强撑着继续。你们中只有一个人能活着离开。"
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs111/senderName",
+    "raw": "???",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/extrachallengelabs111/text",
+    "raw": "Yes...I think it's about time for a very palatable reward...for a traitor like you. Enjoy it while you can. GOV out.",
+    "value": "是的...我想这应该是个大买卖...对你这样的叛徒而言。去大赚一把吧。政府算个鸟。"
+  },
+  {
+    "op": "replace",
+    "path": "/japaneseruins01/text",
+    "raw": "Hmm. If you are stuck, examining objects may yield valuable information on how to proceed, even if said objects appear familiar.",
+    "value": "嗯。如果你被卡住了，即使卡住你对象看起来很熟悉，那就检查对象，你可能会得到有关如何继续的有价值信息。"
+  },
+  {
+    "op": "replace",
+    "path": "/letheiafacility01/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/letheiafacility01/text",
+    "raw": "The entire facility appears to be surrounded by a jamming signal. I won't be able to get to you once you get any closer, so you'll be on your own.",
+    "value": "整个设施似乎被干扰信号屏蔽。如果再靠近点，我就不能再定位你，所以你只能自求多福了。"
+  },
+  {
+    "op": "replace",
+    "path": "/letheiafacility01a/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/letheiafacility01a/text",
+    "raw": "Good luck, soldier. I get the feeling you'll need it. Letheia doesn't mess around when it comes to its security.",
+    "value": "祝你好运，士兵。我觉得你需要它。莱西亚的安全性毋庸置疑。"
+  },
+  {
+    "op": "replace",
+    "path": "/letheiafleet01/text",
+    "raw": "Scans indicate the corporate fleet consists of a battleship, a carrier, a tanker, and numerous other small vessels.",
+    "value": "扫描表明这批舰队包括一艘战列舰，一艘航母，一艘油轮和许多其他小型船只。"
+  },
+  {
+    "op": "replace",
+    "path": "/letheiafleet01a/text",
+    "raw": "In order to board the battleship's main segment, you will need to activate IFF signals on the bridges of the carrier and tanker.",
+    "value": "为了登上战列舰的核心部分，你需要先在航母和油轮的舰桥上激活IFF信号。"
+  },
+  {
+    "op": "replace",
+    "path": "/letheiafleet01b/text",
+    "raw": "Due to the size of the fleet, your mech's initial energy reserves may be insufficient, especially if you sustain damage from their defenses.",
+    "value": "考虑到舰队的规模，你的飞船初始能量储备可能不足，特别是当你遭到他们的防御系统反击之后。"
+  },
+  {
+    "op": "replace",
+    "path": "/letheiafleet01c/text",
+    "raw": "Boarding ships and raiding their energy stores may very well be crucial to your success. Good luck.",
+    "value": "登船，袭击他们的能源仓库可以大幅提高胜算。祝好运。"
+  },
+  {
+    "op": "replace",
+    "path": "/verdantruins01/text",
+    "raw": "My scans of the ruins suggest that you'll need the double jump or some iteration thereof to successfully traverse the ruins. Remember to have such equipped.",
+    "value": "我对废墟的扫描表明，你需要双跳或者另一种更高级的跳跃科技来成功穿越废墟。记住要装备这样的科技。"
+  },
+  {
+    "op": "replace",
+    "path": "/verdantruins02/text",
+    "raw": "It may also be prudent to acquire some means of surviving great falls. Perhaps you'll find one if you search nearby?",
+    "value": "获得一些在大瀑布中生存的手段是谨慎之为。如果你在附近搜索，也许你会找到方法？"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration01/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration01/text",
+    "raw": "Rebel intelligence indicates that you'll need the Micro Spider Sphere or better to effect entry into the facility. We've provided a console for you to swap it in, if you forgot.",
+    "value": "叛军的情报显示你需要尖刺球才能进入的任务的目标设施。如果你忘了的话，我们已经提供了一个控制台供你装备。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration01a/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration01a/text",
+    "raw": "Before you do anything else, though, check in with the forward team leader and get further details of the task at hand.",
+    "value": "但是，在你做出任何其他行动之前，你应该先与前锋小组组长联系，了解手头任务的进一步细节。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration02/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration02/text",
+    "raw": "There're the remains of earlier Miniknog facilities in the area. They ought to be mostly abandoned... mostly.",
+    "value": "这个地区有早期科学发展部设施的遗迹。他们应该已经被遗弃了...大部分"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration02a/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration02a/text",
+    "raw": "I suppose you could take this path if you wanted to avoid detection... although the old security systems are likely to have gone haywire.",
+    "value": "我想如果你不想被发现的话，你可以走这条路...尽管旧的安全系统可能已经失控了。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration03/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration03/text",
+    "raw": "You're not going to eat what you find in that ancient fridge, are you? Who knows how long that's been in there, and in so toxic an environment!",
+    "value": "你不会去吃那些放在古老冰箱里的东西吧？谁知道放了多久，而且是在一个如此有毒的环境中。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration03a/senderName",
+    "raw": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration03a/text",
+    "raw": "Ssayss the guy who drinkss Letheia Cola.",
+    "value": "这句话话话出自一个喝喝喝莱西亚可乐的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration03b/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration03b/text",
+    "raw": "That's different!",
+    "value": "这不一样！"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration04/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration04/text",
+    "raw": "Wow, will you look at that! Just what warrants all these danger signs?",
+    "value": "哇，你看看那个！正是那些危险信号。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration04a/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration04a/text",
+    "raw": "Who knows what kind of monsters the Miniknog produced on this toxic rock? I think you should leave it well alone.",
+    "value": "谁知道科学发展部用这种有毒的岩石生产了什么怪物？我觉得你不应该管它。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration04b/senderName",
+    "raw": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration04b/text",
+    "raw": "And I think you sshould pussh the button! Then hunt the horrible monsster which appearss!",
+    "value": "我认为你应应应该按按按下按钮！然后去狩猎那只出现现现在我面前的可怕怪怪怪物吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration05/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration05/text",
+    "raw": "Remember, avoid the goons in black with visors. You won't be able to hurt them, and their bullets will rip right through your armour. Anyone else is fair game, though.",
+    "value": "记住，要避开戴面罩的黑衣暴徒。你伤不到他们，而他们的子弹会直接穿透你的盔甲。不过，其他的人都是公平的竞争对手。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration06/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration06/text",
+    "raw": "Whoa whoa whoa WHOA, soldier. Get away from the front door - you're not going to be able to force your way into THIS facility.",
+    "value": "喂喂喂，士兵。远离前门-你不能强闯这个设施。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration06a/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration06a/text",
+    "raw": "Head down and rendezvous with Tavish DeGroot; he should be somewhere nearby.",
+    "value": "下去和塔维什·德格鲁特会合，他应该就在附近。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration07/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration07/text",
+    "raw": "Great job getting in! Now the hard part begins. While you were out, Three-Eyes here started working his magic - how're you doing with those access codes?",
+    "value": "不错的开头！现在开始是困难的部分。你不在的时候，三只眼开始施展他的魔法——你的密码弄得怎么样了？"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration07a/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration07a/text",
+    "raw": "I'll admit I was skeptical when every password was an anagram of 'banana', but they seem to have worked. Their firewall is pretty tough, though.",
+    "value": "我承认，当每个密码都是一个“香蕉”的变位词时，我曾经对此表示怀疑，但现在看来，它们似乎起到了作用。不过，他们的防火墙非常坚固。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration07b/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration07b/text",
+    "raw": "I can't remotely assume direct control of the facility's security systems, but I can give you permissions to operate them. Hope that helps.",
+    "value": "我不能远程控制这个设施的安全系统，但是我可以给你操作许可。希望能有所帮助。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration07c/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration07c/text",
+    "raw": "Remember, you can't fight the goons in black directly. You'll have to find alternative ways to dispose of them - be creative.",
+    "value": "记住，你不能直接与黑衣暴徒对抗。你必须找到其他方法来对付他们——发挥你的创造力。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration08/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration08/text",
+    "raw": "This must be the main fabrication plant. Hmm, I'm picking up signals from a couple of goons ahead; this could be problematic.",
+    "value": "这一定是主要的制造工厂。嗯，我从之前几个恶棍那里得到的消息：这里可能有问题。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration08a/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration08a/text",
+    "raw": "There ought to be some way to dispose of them. One of the drawbacks of the prototype armour is that they can't run very fast in it.",
+    "value": "应该有一些方法来处理它们。原型装甲的缺点之一是它们无法在这中间快速机动。"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration09/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration09/text",
+    "raw": "Well, here we are. This must be where the research team lives and works, designing tools of cruel oppression, no doubt knowing what they're doing...",
+    "value": "好，我们到了。这里肯定是研究团队生活和工作的地方，设计工具来残酷压迫人民，一眼就能知道他们在做什么..."
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration09a/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/infiltration09a/text",
+    "raw": "...Silence them all.",
+    "value": "...封住他们的嘴。"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple01/text",
+    "raw": "My database indicates this temple is suspended over a gas giant. Falling will result in your death. The triple jump, while not essential, will be exceedingly useful.",
+    "value": "我的数据库显示这座神庙悬浮在一个巨大的气体行星上。跌落会导致你当场去世。三段跳虽然不是必需的，但非常有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple01a/text",
+    "raw": "What will be required, though, is a grappling hook. Please head back and collect one if you do not have this item.",
+    "value": "不过，你需要一个抓钩。如果你没有，请返回并收集一个。"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple02/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple02/text",
+    "raw": "Oh? You have been given permission to tour the Sky Boulevard? I'm impressed! It's one of the most sacred sites off Avos!",
+    "value": "哦？你被允许参观空之林道了吗？我对此印象深刻！这是阿沃斯最神圣的地方之一！"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple02a/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple02a/text",
+    "raw": "Here, suspended with the power of avolite crystals, we can be the closest to the aether - and Kluex himself! Gosh, isn't he mighty?",
+    "value": "在这里，通过埃沃里特晶体的力量，我们可以成为最接近以太和克鲁希斯本人的人！天啊，他是不是很强大？"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple02b/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple02b/text",
+    "raw": "Old habits die hard, don't they? He still thinks you're a tourist...",
+    "value": "旧习难改，不是吗？他仍然认为你是个游客..."
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple02c/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple02c/text",
+    "raw": "Did you say something, Madame Bright?",
+    "value": "你说了啥，布莱特女士？"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple02d/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple02d/text",
+    "raw": "Uh, no, dear?",
+    "value": "额，不，亲爱的？"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple03/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple03/text",
+    "raw": "Blessed with powers from Kluex himself, Avos' greatest warriors are sent to the grand temples as guardians! I'm sure you'll find them strong and friendly!",
+    "value": "有幸被克鲁西斯的力量恩泽，阿沃斯最伟大的战士被送到宏伟的庙宇成为守护者！我相信你会发现他们强壮而友好！"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple03a/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple03a/text",
+    "raw": "But what's really exciting is that you're likely to meet not just one, but multiple stargazers! Oh, if only I could meet such important personages!",
+    "value": "但真正令人兴奋的是，你可能会遇到不只一个，而是多个观星者！哦，要是我能遇见这么重要的人物就好了！"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple04/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple04/text",
+    "raw": "Wow! A stargazer's ship! I'd heard of them, but never seen one! You're being invited on board? I'm so jealous!",
+    "value": "哇! 一艘观星者的飞船！我听说过他们，但从来没有见过！你被邀请上船了?我嫉妒死了！"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple05/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple05/text",
+    "raw": "Oh! This is the grand observatory! From here, the Stargazers peer into the heavens and study the aether with great diligence!",
+    "value": "哦！这就是大观星台！从这里，观星者们凝视着天空，孜孜不倦地研究以太！"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple05a/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple05a/text",
+    "raw": "We believe that by studying Kluex's great creations, we can learn more about the deity himself and the way he works!",
+    "value": "相信通过研究Kluex的伟大创作，我们可以更多地了解神性本身及其工作方式！"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple05b/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple05b/text",
+    "raw": "After all, does the pot not reflect upon the potter's intentions and spirit?",
+    "value": "毕竟，难道陶器不能反映出陶工的意图和精神吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple06/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple06/text",
+    "raw": "Oh! This is a kinetic orb cannon! They're great artifacts left to us by Kluex himself!",
+    "value": "哦！这是动能球加农炮！它们是克鲁西斯亲自留给我们的伟大杰作！"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple06a/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple06a/text",
+    "raw": "We're not exactly sure what they're intended for...so we rigged them up to transport people instead!",
+    "value": "我们还不完全确定它们的目的是什么...所以我们将它们装配起来代替运输人员！"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple06b/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple06b/text",
+    "raw": "Stand on the platform and make a small leap. A SMALL leap. It's like flying!",
+    "value": "站在平台上，轻轻一跃。一个小小的飞跃。就像飞一样！"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple07/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple07/text",
+    "raw": "Oh my. Look at that trap ahead, dear. It seems particularly deadly.",
+    "value": "天啊。看看前面的陷阱，亲爱的。它似乎特别致命。"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple07a/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple07a/text",
+    "raw": "Do you see that crystal battery over there? My hunch is that it powers the trap. Please smash it and see what happens.",
+    "value": "你看到那边的水晶电池了吗？我的直觉是，它为陷阱提供了动力。请把它砸碎，看看会发生什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple08/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple08/text",
+    "raw": "These here are bounce pads. They're hardly as strong as a kinetic orb cannon, but will keep you aloft...if bouncy.",
+    "value": "这些是弹跳垫。它们不像动能天体炮那样坚固，但它能让你跳得很高...如果受到作用力的话。"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple09/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple09/text",
+    "raw": "Please stop and listen! The inscriptions ahead are important! Let me translate:",
+    "value": "请停下来听我说！前面的说明很重要！让我翻译一下:"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple09a/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple09a/text",
+    "raw": "'A test of the mind for the faithful. If the wrong levers are thrown when the console is activated, you will surely be destroyed.'",
+    "value": "“这是对信徒心灵的考验。如果控制台被错误的操纵杆激活后，你肯定会灰飞烟灭”。"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple09b/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple09b/text",
+    "raw": "'In the next room, throw down two.'",
+    "value": "“在隔壁房间，放倒两个。”"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple10/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple10/text",
+    "raw": "'In this room, throw down three without three to make eight.'",
+    "value": "“在这个房间，放倒三个而不是三个就是八个。”"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple11/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple11/text",
+    "raw": "'In this room, throw down four without four to make twelve.'",
+    "value": "“在这间房间，放倒四个而不是四个就是十二个。”"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple12/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple12/text",
+    "raw": "It looks like the temple ends here, yet this doesn't feel right...",
+    "value": "看起来寺庙到这里就结束了，但感觉不太对..."
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple12a/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple12a/text",
+    "raw": "Of course not! This is the test of faith: step out into the aether, friend, and Kluex himself will bear you across the sky!",
+    "value": "当然不是！这是对信仰的考验: 走进者茫茫以太，我的朋友，克鲁西斯会亲自带你穿越天空！"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple12b/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple12b/text",
+    "raw": "What?",
+    "value": "啥？"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple12c/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple12c/text",
+    "raw": "Yes! Is it not written. 'Kluex himself will carry the faithful to the skies'? Step out over the edge without fear, friend!",
+    "value": "是的！上面不是写着，'克鲁西斯难道会带着这份忠诚上天吗'？勇敢冲出这边界，不要恐惧，我的朋友。"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple13/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple13/text",
+    "raw": "I...I don't believe this. There shouldn't be any forces holding you up. And yet...",
+    "value": "我...真不敢相信。这里不应该有任何阻碍你的力量。但是..."
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple13a/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple13a/text",
+    "raw": "It is the force of faith itself! Kluex empowers the unshakeable!",
+    "value": "这就是信仰本身的力量！克鲁西斯赐予无可否认的力量！"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple14/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple14/text",
+    "raw": "And so your pilgrimage ends. Here, in the heavens, one is the closest to Kluex as one can be.",
+    "value": "就这样你的朝圣之旅结束了。在这里，在天空中，人们是最接近克鲁西斯的。"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple14a/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple14a/text",
+    "raw": "From here, one may view the aether, from here, one may view boundless eternity and realise one's smallness in Kluex's vast glory.",
+    "value": "从这里，人们可以看到以太，从这里，人们可以看到无限的永恒，在克鲁西斯的巨大荣光中意识到自己的渺小。"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple14b/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/skytemple14b/text",
+    "raw": "Please, let's take a moment to meditate on what you went through to get here, and what you have learned.",
+    "value": "拜托，让我们花点时间来沉思一下你经历了些什么才走到如今这一步，以及在这过程中你学到了什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs01/text",
+    "raw": "Preliminary scans suggest that the sonic sphere will be essential here. If you have not already done so, please equip it at the nearby console.",
+    "value": "初步的扫描显示变形球科技在这里是必不可少的。如果您还没有装备，请前去附近的控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs02/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs02/text",
+    "raw": "I...remember reading about this. Before Earth's demise, a Protectorate division was dispatched here to investigate a distress signal. None of them returned.",
+    "value": "我...记得我读过这个。在地球灭亡之前，保护团派遣一个师到这里调查一个求救信号。但他们没有一个人归来。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs02a/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs02a/text",
+    "raw": "The facility appears to under lockdown. If we can find survivors, however unlikely, that would be a great relief.",
+    "value": "该设施似乎处于封锁状态。如果我们能找到幸存者，无论希望多么渺茫，也将是一个巨大的慰藉。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs03/senderName",
+    "raw": "The Baron",
+    "value": "拜伦男爵"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs03/text",
+    "raw": "Sarcastic. Well, isn't this a lovely sight.",
+    "value": "讽刺。好吧，这难道不算是美景么。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs03a/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs03a/text",
+    "raw": "...We mustn't give up hope.",
+    "value": "...我们不能放弃希望。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs04/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs04/text",
+    "raw": "Hey, it's Letheia Cola! Anyone have any pixels?",
+    "value": "嘿，是莱西亚可乐！有人有像素吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs04a/senderName",
+    "raw": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs04a/text",
+    "raw": "...Do you even know what that sstuff doess to your inssidess, Fisshface?",
+    "value": "...你知道这些东东东西对你的内内内在有什么影响吗，鱼鱼鱼脸？"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs05/text",
+    "raw": "This server appears to have important data marked out on it. If you find other servers marked out with lava lamps, I will be able to read their data.",
+    "value": "这个服务器似乎标记了有重要数据。如果你发现其他服务器标有岩浆灯，我能够读取其中的数据。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs05a/text",
+    "raw": "'The organic samples arrived today from Anomalous Materials. We're very excited to work with them; the administrator has moved up the testing schedule.'",
+    "value": "“今天‘异常材料’送来了有机样品。我们非常高兴能与他们一起工作; 管理员已经提前了测试时间表。”"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs05b/text",
+    "raw": "'These are nothing like we've ever seen before. Almost...no. If we succeed here, we're all getting promotions. This could be the discovery of the millennium.'",
+    "value": "“这些和我们以前看到的完全不同。几乎... 不。如果我们在这里成功了，我们都会得到晋升。这可能是千禧年级的发现。”"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs06/text",
+    "raw": "Restoring corrupted data...reading...",
+    "value": "恢复损坏的数据...读取..."
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs06a/text",
+    "raw": "'We've cleared all nonessential vats for the project. Doubling times are far lower than expected; the biomass reproduces at an astounding rate. We need to find a way to effectively control this thing.'",
+    "value": "“我们已经为这个项目清理了所有不必要的桶。生物数量翻倍的时间远远低于预期; 它们正以惊人的速度繁殖。我们需要找到一种方法来有效地控制它。”"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs06b/text",
+    "raw": "'Even more interesting is that despite being only one sample, it appears to code for several different creatures...we'll need to look into this. It's a bit worrying.'",
+    "value": "“更有趣的是，尽管这只是一个样本，但它似乎是几种不同的生物编码...我们需要对此进行研究。这有点令人担忧。”"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs07/text",
+    "raw": "You have discovered a Steele Tech Mk-5 Mounted Plasma Gatling. This powerful weapon is incredibly devastating to anything caught in its line of fire.",
+    "value": "你发现了史提尔技术Mk-5挂载式等离子体加特林。这种强大的武器对位于其射程内的东西具有很强的破坏性。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs07a/text",
+    "raw": "However, it is stationary, and requires a recharge of about five seconds before it can be activated again. The blue ready light atop the chassis indicates charge status.",
+    "value": "然而，它是静止的，需要大约五秒钟的充电后才能再次被激活。底盘上方的蓝色准备灯指示充电状态。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs07b/text",
+    "raw": "Please utilise this weapon judiciously, as I suspect you will need it soon. Several lifesigns are converging on your location.",
+    "value": "请明智地使用这把武器，因为我怀疑你很快将需要它。几个生命信号正在汇聚到你的位置。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs08/text",
+    "raw": "The path forks here. Both will place you in peril. I commend your bravery in the face of vicious alien life and wish you good luck.",
+    "value": "路径在这里分叉。两者都会让你处于危险之中。面对邪恶的外星生命，我欣赏你的勇敢，祝你好运。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs09/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs09/text",
+    "raw": "Stars above...how? Did they not realise what they were toying with here? This changes a lot.",
+    "value": "行星在上...怎么会？难道他们没有意识到他们在这里玩的是什么把戏吗？这简直就是天翻地覆。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs10/text",
+    "raw": "In order to enter the vent, you will need to use your sonic sphere tech. My calculations suggest the middle of the hazard fence should do it.",
+    "value": "为了进入通风口，你需要使用你的变形球科技。我的计算表明，你应该在防护栏的中间变成球体。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs11/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs11/text",
+    "raw": "There appears to be something about aliens and maintenance vents...",
+    "value": "外星人和维修通风口似乎有些关联..."
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs11a/senderName",
+    "raw": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs11a/text",
+    "raw": "I once ssaw a holo-movie; it had an alien that could go anywhere it wanted via crawling through ventss. It also sstabbed thingss with itss tail.",
+    "value": "我曾经看看看过一部全息电影，里面有一个外星人，他可以通过开开开孔爬行到任何他想去的地方。它还用用用尾巴刺刺刺穿东东东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs11b/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs11b/text",
+    "raw": "We should watch that together sometime.",
+    "value": "我们应该在某个时候一起研究它。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs12/text",
+    "raw": "This Apex appears to have perished from malnutrition. The remains are positively emaciated.",
+    "value": "这些猿族似乎是因为营养不良死亡的。这些遗体显得极端憔悴。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs12a/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs12a/text",
+    "raw": "Kluex protect this soul in the aether beyond. Starvation is a slow and terrible way to die.",
+    "value": "克鲁西斯在以太界保护着这个灵魂。饥饿是一种缓慢而绝望的死法。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs12b/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs12b/text",
+    "raw": "I don't know how much more of this I can take. If I were still Grand Protector...if we could make Letheia pay for this somehow...",
+    "value": "我不知道我还能承受多少。如果我还是大守护者... 如果我们能让莱西亚为此付出代价..."
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs13/senderName",
+    "raw": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs13/text",
+    "raw": "Look, Fisshface! It's your home!",
+    "value": "看，鱼鱼鱼脸！这是你的家！"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs13a/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs13a/text",
+    "raw": "Very funny.",
+    "value": "有点意思。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs14/text",
+    "raw": "Warning! Containment lasers ahead are EXTREMELY DEADLY! ^orange;MAXIMUM SPEED^reset; is required in order to evade them!",
+    "value": "警告！前方的遏制激光极其致命！需要使用^orange;最大速度^reset;躲避！"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15/text",
+    "raw": "Extracting data from server...reading...",
+    "value": "从服务器中提取数据...正在读取..."
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15a/text",
+    "raw": "According to the data, the chamber you are in appears to be an experimental setup dedicated to determining whether critters can indeed feel pain.",
+    "value": "根据数据，你所在的房间似乎是一个实验装置，专门用来确定小动物是否真的能够感觉到疼痛。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15b/text",
+    "raw": "After 6,703 runs, the results are stated as 'Inconclusive. More funding required. Please petition for research grants next sol cycle.'",
+    "value": "在6703次运行之后，结果被认为是“非决定性的”。需要更多资金。请在下个实验周期申请研究经费。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15c/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15c/text",
+    "raw": "...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15d/senderName",
+    "raw": "The Baron",
+    "value": "拜伦男爵"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15d/text",
+    "raw": "...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15e/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15e/text",
+    "raw": "Now, I'm not usually one to judge, but...",
+    "value": "我通常不会说三道四，但是..."
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15f/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15f/text",
+    "raw": "...This sounds exactly like the kind of inane 'experiment' the Miniknog would devise for their own amusement.",
+    "value": "...这听起来完全像是科技发展部为了自娱自乐而设计的那种疯狂的“实验”。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15g/senderName",
+    "raw": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15g/text",
+    "raw": "They desserved everything that hass happened.",
+    "value": "他们明白了所有发生过的事情。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15h/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs15h/text",
+    "raw": "Might I take this moment to introduce everyone to the concept of cosmic karma?",
+    "value": "我能否借此机会向大家介绍一下宇宙因果论的概念？"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs16/text",
+    "raw": "Restoring corrupted data...reading...",
+    "value": "恢复损坏的数据...读取..."
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs16a/text",
+    "raw": "'Vaughn, are you out of your mind? You talked to Alisa about your findings?! I told you clearly, no one outside Letheia is allowed to know what you're doing down there! You know what a gossip she is!'",
+    "value": "“沃恩，你疯了吗？你把你的发现告诉亚莉莎? ！我已经说得很清楚了，莱西亚公司以外的人是不允许知道你在这里做什么的！你知道她是个多么八卦的人！”"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs16b/text",
+    "raw": "'To make things worse, things are getting out of hand; it's spreading. How the hell did they get to the aquarium? And what's going on in the dorms?'",
+    "value": "“更糟糕的是，事态已经失去了控制，而且还在蔓延。他们到底是怎么到水族馆的？宿舍里发生了什么？”"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs17/text",
+    "raw": "Restoring corrupted data...reading...",
+    "value": "恢复损坏的数据...读取..."
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs17a/text",
+    "raw": "'Pete, the fish are looking pretty sickly. I think there's something in the water - filters probably got clogged again. I'll be down the maintenance hatch all day Tuesday, just FYI.'",
+    "value": "“皮特，鱼看起来很虚弱。我想滤水器里可能又堵塞了。我星期二一整天都会待在维修舱里，仅供参考。”"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs18/text",
+    "raw": "Restoring corrupted data...reading...",
+    "value": "恢复损坏的数据...读取..."
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs18a/text",
+    "raw": "'Hey, Backy - have you seen my cat? I know she likes to wander around, but I haven't seen her for a couple days now. Starting to get worried.'",
+    "value": "“嘿，贝基——你看见我的猫了吗？我知道她喜欢到处闲逛，但是我已经好几天没见到她了。我开始担心她了。”"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs19/text",
+    "raw": "Restoring corrupted data...reading...",
+    "value": "恢复损坏的数据...读取..."
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs19a/text",
+    "raw": "'We've run the numbers; there's no doubt about it. All models for growth, lifespan and metabolism only work when applied across the entire population, rather than to individuals.'",
+    "value": "“我们已经算过了，这毫无疑问。所有关于生长、寿命和新陈代谢的模型只有在应用于整个种群而不是个体时才有效。”"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs19b/text",
+    "raw": "'In some ways, they're like advanced hive insects, a single advanced superorganism. There seems to be something giving them purpose, but I can't determine what. Containment is vital.'",
+    "value": "“在某些方面，它们就像是高级的蜂巢昆虫，一个高级的超个体。似乎有什么东西给了他们目标，但我不能确定是什么。遏制它们是至关重要的。”"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs19c/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs19c/text",
+    "raw": "They couldn't have known, could they? No, they couldn't. But how could Letheia have acquired Ruin biomass before Earth's...incident?",
+    "value": "他们不可能知道，不是吗？不，他们不可能知道。但是，在地球发生事故之前，莱西亚公司是怎么获得地球已破坏的生物量的数据呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs20/senderName",
+    "raw": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs20/text",
+    "raw": "Thiss place iss WRONG. Jusst looking at it makess me feel ill.",
+    "value": "这地方有问题。它让我感到不适。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs21/senderName",
+    "raw": "Tonauac",
+    "value": "图南瓦克"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs21/text",
+    "raw": "...Kluex above. A complete slaughter.",
+    "value": "...克鲁西斯在上。这是一场彻底的屠杀。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs21a/senderName",
+    "raw": "The Baron",
+    "value": "拜伦男爵"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs21a/text",
+    "raw": "Concerned. Are you all right, Lady Bright? You appear to be shaking quite intensely.",
+    "value": "关注。你没事吧，布莱特女士？你看起来颤抖得很厉害。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs21b/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs21b/text",
+    "raw": "No, no...I'm...I'm fine. I've come to terms with it. There are no survivors. And I had dared to hope.",
+    "value": "不，不...我...我很好。我已经接受了。没有幸存者。至少我曾经心怀希望。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs21c/text",
+    "raw": "I must beg your attention. I have located the coolant system for this facility's fusion reactor nearby to the west. There is a manual override to shut down the coolant pumps.",
+    "value": "我必须博得你注意。我已经确定了西面附近核聚变反应堆的冷却系统的位置。那里有一个手动控制装置来关闭冷却泵。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs21d/text",
+    "raw": "If you allow the reactor to overheat, there is a 100% chance it will explode, burning this moon and all Ruin biomass.",
+    "value": "如果你让反应堆过热，它100%会爆炸，然后点燃这颗卫星并毁灭这上面所有的生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs21e/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs21e/text",
+    "raw": "That appears to be our best chance, dear. Since there're no survivors, this place MUST be destroyed.",
+    "value": "这是我们最好的机会，亲爱的。正因为没有生还者，这个地方必须被摧毁。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs21f/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs21f/text",
+    "raw": "Hmph. Burning the planet? I say we should nuke it from orbit. That's the only way to be sure.",
+    "value": "哼.燃尽星球？我说我们应该从轨道上用核武器攻击。只有这样才能确保。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs21g/text",
+    "raw": "Please proceed into the room ahead; I will instruct you further there.",
+    "value": "请先进入前面的房间，我会在那里进一步指示你。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs22/text",
+    "raw": "It would appear that the protectors tried to make a stand here. The door to the coolant systems is lacking power, but it can be restored through the console ahead.",
+    "value": "看起来守护者们试图在这里站稳脚跟。冷却系统的门缺乏电力，不过可以通过前面的控制台恢复。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs22a/text",
+    "raw": "I estimate it will take about 90 seconds for adequate power to be restored to the door. Additionally, I detect an immense number of lifesigns converging upon your position.",
+    "value": "我估计大约需要90秒才能恢复门上的电力。此外，我还探测到大量的生命信号聚集在你的位置上。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs22b/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs22b/text",
+    "raw": "It knows what you intend, dear, and will do everything in its power to stop you.",
+    "value": "它知道你的意图，亲爱的，它会竭尽全力阻止你。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs22c/text",
+    "raw": "Please prepare yourself before you activate the console. Judicious and effective use of the Steele Tech Plasma Gatlings will be essential to your survival.",
+    "value": "启动控制台前请做好准备。明智且有效地使用利用斯蒂尔技术的等离子加特林对你的生存至关重要。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs22d/text",
+    "raw": "Remember that this facility has no checkpoint; if your position is overrun, you will likely perish. I commend your bravery. Good luck.",
+    "value": "记住，这个设施没有检查点; 如果你的阵地被占领，你很可能会GG。我赞赏你的勇敢。祝你好运。"
+  },
+  {
+    "op": "replace",
+    "path": "/lethialabs23/text",
+    "raw": "This is button for the manual override; please depress it. I will delay the shutdown until you safely evacuate. There will be no timed escape sequence.",
+    "value": "这是手动覆写的按钮：请把它按下。我将推迟关机，直到你安全撤离。不会有定时的逃脱序列。"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase01/senderName",
+    "raw": "The Baron",
+    "value": "拜伦男爵"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase01/text",
+    "raw": "Nostalgic. This tower blights the land, a bastion of villainy where cruel warlords hoard stolen wealth and train their armies. I encountered many in my youth.",
+    "value": "怀旧。这座塔毁灭了这片土地，这是残忍的军阀囤积财富并训练军队的罪恶堡垒。我年轻的时候有遇到过很多。"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase01a/senderName",
+    "raw": "The Baron",
+    "value": "拜伦男爵"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase01a/text",
+    "raw": "Noble. Ascend the tower, O protector, and cast the vicious warlord from its top!",
+    "value": "高尚。登上这座塔吧，保护者，把邪恶的军阀从塔顶赶下来！"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase02/text",
+    "raw": "The warlord's minions appear to have taken prisoners; they may join you if you free them. You will need all the help you can get.",
+    "value": "军阀的仆从似乎已经被俘虏了；如果你放了他们，他们可能会加入你。您应该需要所有可以得到的帮助。"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase03/text",
+    "raw": "My scans suggest a 76% chance of this switch being important. You should disable it.",
+    "value": "我的扫描显示这个开关有76％的可能性很重要。你应该关了它。"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase04/text",
+    "raw": "This door is locked and cannot be opened by any means. Find a way around.",
+    "value": "这扇门已锁上，无法打开。找个其他方法吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase05/text",
+    "raw": "You have fallen into a trap. You are in peril. Attempting to determine your current peril level...",
+    "value": "你掉陷阱了。处境危险。正试图确定您面临的危险程度..."
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase05a/text",
+    "raw": "Readings indicate your peril level is 5 morts. You are in less peril than would immediately appear. Please check the room thoroughly.",
+    "value": "读数显示你的危险等级为5级。你所处的危险并不会立刻显现出来。请彻底检查这间房间。"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase06/senderName",
+    "raw": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase06/text",
+    "raw": "Oh look. More fire. Of course it hass to be fire! Why am I not ssurprissed?",
+    "value": "哦，看。更多的火。当然是着着着火啦！为什么我不感到惊惊惊讶？"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase06a/senderName",
+    "raw": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase06a/text",
+    "raw": "Allow me to expresss my infinite gratitude that it iss you and not me who iss down there.",
+    "value": "请允许我表达达达我无限的感激之情，因为是是是你而不是是是我下去。"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase07/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase07/text",
+    "raw": "I simply do not understand such architecture. Who would build deadly traps in their home? What sort of twisted mind would live in such a place?",
+    "value": "我就是不明白这样的建筑。谁会在自己家里设置致命的陷阱？到底思想有多扭曲才会住在这样的地方？"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase07a/senderName",
+    "raw": "The Baron",
+    "value": "拜伦男爵"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase07a/text",
+    "raw": "Amused. Don't judge, lad. Some people take great joy in turning a trip to the washroom into a matter of life and death!",
+    "value": "很好笑。不要妄加评论，小伙子。有些人喜欢把上厕所当成生死攸关的事情！"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase07b/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase07b/text",
+    "raw": "I fail to see the humour in your words.",
+    "value": "我听不出你话中的幽默。"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase08/senderName",
+    "raw": "The Baron",
+    "value": "拜伦男爵"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase08/text",
+    "raw": "Appalled. This warlord has been holding such lovely damsels hostage! If only I were younger, I would be down there with you!",
+    "value": "令人震惊。这个军阀一直挟持着这么可爱的少女做人质！要是我年轻一点，我就和你一起下去了！"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase09/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase09/text",
+    "raw": "For villains and thugs, these people are certainly well-read.",
+    "value": "对于恶党坏蛋来说，这些人无疑博览群书。"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase09a/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase09a/text",
+    "raw": "Even enemies may have something to teach us, dear.",
+    "value": "即使是敌人也能教会我们一些东西，亲爱的。"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase10/text",
+    "raw": "It is dark. You are likely to be eaten by a grue.",
+    "value": "这里很黑。你很可能会被一阵战栗所吞噬。"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase11/text",
+    "raw": "You have discovered an extremely well-hidden secret. Congratulations are in order.",
+    "value": "你发现了一个大宝贝。恭喜已就绪。"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase11a/text",
+    "raw": "The mod creator salutes your dedication to finding the secrets he has hidden in his creations. In finding and reaching this place, you've proven yourself worthy.",
+    "value": "MOD制作者向你致力于寻找他隐藏在MOD中的秘密致敬。在找到并到达这个地方时，你已经证明了你自己的努力是值得的。"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase11b/text",
+    "raw": "He also hopes you have as much fun playing Extra Dungeons as he did in making all these missions for you to enjoy! Please, stay awhile and rest before moving along!",
+    "value": "他也希望你在游玩这些由他制定的所有任务和额外的地下城的的时候的有更多的乐子！请停留片刻，稍作休息，然后再继续前进!"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase12/text",
+    "raw": "Warning! You should not attempt to evade this trap unless you have the sonic sphere equipped!",
+    "value": "警告！除非你装备了音速球，否则你不要试图逃离这个陷阱！"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanobase13/text",
+    "raw": "We're on a rail, on a rail, on a rail...",
+    "value": "我们在路上，路上，路上..."
+  },
+  {
+    "op": "replace",
+    "path": "/sunsetriders01/text",
+    "raw": "We've arrived! This looks like a proper rustic backwater, all right.",
+    "value": "我们到了！好吧，这看起来正像一潭农村的死水。"
+  },
+  {
+    "op": "replace",
+    "path": "/sunsetriders01a/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/sunsetriders01a/text",
+    "raw": "Keeping peace in the galaxy is what the Protectorate is about, dear. Apprehending this criminal would certainly show we're up and about, if nothing else.",
+    "value": "亲爱的，维护星际和平就是守护团的意义所在。抓住这个罪犯肯定能表明我们已经苏醒并崛起，如果没有别的事情的话。"
+  },
+  {
+    "op": "replace",
+    "path": "/sunsetriders02/text",
+    "raw": "You might want to talk to the locals and stock up on supplies before heading out. We won't be able to return once we leave the fort.",
+    "value": "在出发之前，你可能想和当地人谈谈，并储备一些物资。一旦离开堡垒，我们将无法返回。"
+  },
+  {
+    "op": "replace",
+    "path": "/sunsetriders03/text",
+    "raw": "The path forks here. The hillside is likely a straightforward path, but teeming with enemies. The mines are more treacherous, but you'll face less resistance.",
+    "value": "路径在这里分叉。山坡似乎是一条直通的路，但却充满了敌人。地雷更加危险，但你将面临更少的阻力。"
+  },
+  {
+    "op": "replace",
+    "path": "/sunsetriders04/text",
+    "raw": "What a treasure trove! We're rich! We're rich!",
+    "value": "这真是个宝物！我们发财了！我们发了！"
+  },
+  {
+    "op": "replace",
+    "path": "/sunsetriders05/text",
+    "raw": "Going up the hill was hard enough...now we have to go DOWN? Give me a break!",
+    "value": "上山已经够难了...现在我们还得下他娘的山？饶了我吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/sunsetriders06/text",
+    "raw": "Hank's men have dug into the hill with fortifications and traps. Hope you're confident enough in your combat abilities to bust their barricade!",
+    "value": "汉克的人在山上挖了防御工事和陷阱。希望你对自己的战斗能力有足够的信心，突破他们的路障！"
+  },
+  {
+    "op": "replace",
+    "path": "/sunsetriders07/text",
+    "raw": "Stop right there, criminal scum! Nobody breaks the law on my watch!",
+    "value": "站住，犯罪的渣滓！在我的眼皮底下，没有人可以犯法！"
+  },
+  {
+    "op": "replace",
+    "path": "/sunsetriders07a/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/sunsetriders07a/text",
+    "raw": "I'm really sorry about the AI. The programming team was having a rather...unique day when they were coding the humour module.",
+    "value": "AI的事我真的很抱歉。编程团队在编写幽默模块的时候过了一天相当特别的日子。"
+  },
+  {
+    "op": "replace",
+    "path": "/snowcrash01/text",
+    "raw": "This hatch looks interesting; there ought to be a way to open it nearby. Search the cavern thoroughly.",
+    "value": "这个舱口看起来有点意思；在附近应该有办法打开它。然后彻底搜索一下洞穴。"
+  },
+  {
+    "op": "replace",
+    "path": "/snowcrash02/text",
+    "raw": "Behind you! Run!",
+    "value": "在你后面！快跑！"
+  },
+  {
+    "op": "replace",
+    "path": "/snowcrash03/text",
+    "raw": "The door's locked, but I see an open window you could get in by.",
+    "value": "门被锁了，但我看到一扇敞开的窗户，你可以从那进去。"
+  },
+  {
+    "op": "replace",
+    "path": "/snowcrash04/text",
+    "raw": "I have a bad feeling about this...",
+    "value": "我有不好的预感..."
+  },
+  {
+    "op": "replace",
+    "path": "/snowcrash05/text",
+    "raw": "The gate switch's in the far guard tower - look, you can see it through the window. It's too small to climb in through, though...",
+    "value": "门的开关在远处的守卫塔里 - 看，你甚至可以透过窗户看到它。但窗户太小无法爬进去..."
+  },
+  {
+    "op": "replace",
+    "path": "/snowcrash06/text",
+    "raw": "Great job! Let's move on - the Commissar's home is bound to be crawling with guards.",
+    "value": "干得好！让我们继续前进——政委的家里肯定布满了守卫。"
+  },
+  {
+    "op": "replace",
+    "path": "/snowcrash06a/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/snowcrash06a/text",
+    "raw": "Commissar Vonel's officers are dangerous foes, as you've probably experienced by now. Be careful.",
+    "value": "沃内尔政委的军官是危险的对手，你现在可能已经感受过了。小心为上。"
+  },
+  {
+    "op": "replace",
+    "path": "/snowcrash07/text",
+    "raw": "Brr, it's cold! I hope you wrapped up well!",
+    "value": "天啊，好冷！我希望你把自己裹得严严实实！"
+  },
+  {
+    "op": "replace",
+    "path": "/snowcrash07a/senderName",
+    "raw": "Lana Blake",
+    "value": "拉娜·布莱克"
+  },
+  {
+    "op": "replace",
+    "path": "/snowcrash07a/text",
+    "raw": "Commissar Vonel is a high-value target; his mountain facility and dacha are bound to be well-guarded. Eliminating him will deal a serious blow to the Miniknog's logistics operations.",
+    "value": "沃内尔政委是一个高价值的目标，他的山区设施和别墅肯定戒备森严。除掉他能狠狠地打击科技发展部的后勤运作。"
+  },
+  {
+    "op": "replace",
+    "path": "/grandarena01/text",
+    "raw": "Remember what the hunter said - if you die, you'll have to start all over again! Give the florans 15 minutes or so to reset the arena, and then you can make another attempt.",
+    "value": "记住猎人说的话——如果你死了，你必须从头开始！给叶族人们15分钟左右来重置竞技场，然后你就可以再次尝试。"
+  },
+  {
+    "op": "replace",
+    "path": "/grandarena01a/text",
+    "raw": "There're also some monsters left over from the last battle - mop them up before you start, okay?",
+    "value": "最后一场战斗中还剩下一些怪物 - 在你开始之前把它们清理干净，好吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/ancienttemple01/text",
+    "raw": "The front of the temple looks to be heavily guarded. Perhaps another route inside is available? We could avoid direct confrontation.",
+    "value": "寺庙的前面看起来戒备森严。也许里面还有其他路线？ 我们可以避免直接对抗。"
+  },
+  {
+    "op": "replace",
+    "path": "/ancienttemple01fu/text",
+    "raw": "There must be something valuable here if it is actively patrolled. We should press on and see what secrets await.",
+    "value": "如果有人在这里巡逻的话，这里一定有什么有价值的东西。 我们应该坚持下去，看看还有什么秘密等着我们。"
+  },
+  {
+    "op": "replace",
+    "path": "/ancienttemple02/text",
+    "raw": "This gate is locked. I wonder if there's a way to open it somewhere...",
+    "value": "这扇门被锁上了。我想知道是否有办法在某个地方打开它..."
+  },
+  {
+    "op": "replace",
+    "path": "/ancienttemple02fu/text",
+    "raw": "Okay...mayhem and death it is, then. Enjoy.",
+    "value": "好吧... 那就是故意伤害和死亡了，好好享受吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/ancienttemple03/text",
+    "raw": "Such a beautiful place, flourishing under the desert! Such specialized ecosystems are always a joy to explore.",
+    "value": "如此美丽的地方，沙漠下的繁荣昌盛！ 这种特殊的生态系统总是一种乐趣去探索。"
+  },
+  {
+    "op": "replace",
+    "path": "/ancienttemple03fu/text",
+    "raw": "A wise choice! They won't see us coming now. Of course, it's also dark and creepy and likely full of nasty surprises. Use caution.",
+    "value": "明智的选择！ 他们不会发现我们来了。 当然，它仍然是那样黑暗且令人毛骨悚然，可能充满了令人讨厌的惊喜。谨慎行事。"
+  },
+  {
+    "op": "replace",
+    "path": "/ancienttemple04/text",
+    "raw": "Now what is this we have here? Keep an eye out for secrets such as these. I expect you'll find many such hidden gems across the galaxy.",
+    "value": "这是什么？ 请密切注意这样的秘密。我希望你能在星际间中找到许多这样的宝石。"
+  },
+  {
+    "op": "replace",
+    "path": "/ancienttemple04fu/text",
+    "raw": "I don't know...this gives me a bad feeling.",
+    "value": "我不知道... 这让我有种不好的感觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/ancienttemple05/text",
+    "raw": "Looks like you'll need someone helpful to hold down this button for you while you enter through the door.",
+    "value": "看起来你需要在你进入这扇门的同时能有个人帮你按住这个按钮。"
+  },
+  {
+    "op": "replace",
+    "path": "/ancienttemple05fu/text",
+    "raw": "More secret passages...this had better be worth it.",
+    "value": "更多的秘密通道... 这最好值得。"
+  },
+  {
+    "op": "replace",
+    "path": "/ancienttemple06fu/text",
+    "raw": "Oh, come on! Who builds something like this? I mean...really!?!",
+    "value": "哦，拜托! 谁会造这样的东西? 我是说...真的吗! ? ！"
+  },
+  {
+    "op": "replace",
+    "path": "/ancienttemple07fu/text",
+    "raw": "Let's just fill this hall with frikkin' ^red;LAVA^reset;. No big deal, guys. And then let's make the ground vanish at random! Team players, these.",
+    "value": "让我们把这个大厅填满滚烫的^red;岩浆^reset;。没什么大不了的伙计们。然后让大地随意地消失！你的好队友，就是这样。"
+  },
+  {
+    "op": "replace",
+    "path": "/ancienttemple08fu/text",
+    "raw": "Finally. I think we may be clear of evil, deadly traps. We may even walk out of here ^orange;RICH^reset;!",
+    "value": "终于。我认为我们摆脱邪恶而致命的陷阱了。我们甚至可以走出这里^orange;然后发一笔大财^reset;！"
+  },
+  {
+    "op": "replace",
+    "path": "/ancienttemple06/text",
+    "raw": "Ugh, look at all that slime. I don't envy you...",
+    "value": "嗯，看看这些笑脸。我一点也不嫉妒你..."
+  },
+  {
+    "op": "replace",
+    "path": "/forestoffae01/text",
+    "raw": "What a beautiful sight! By the by, did you remember to bring a grappling hook? There's still time to turn back and get one if you forgot.",
+    "value": "多么美的景色啊！顺便问一下，你记得带抓钩了吗？如果忘了，你还有时间回头拿一个。"
+  },
+  {
+    "op": "replace",
+    "path": "/forestoffae02/text",
+    "raw": "These must be the cultists we were warned about. I'm sure there're more of them in the forest.",
+    "value": "这些一定是我们被警告过的邪教徒。我相信他们在森林里有更多同伙。"
+  },
+  {
+    "op": "replace",
+    "path": "/forestoffae03/text",
+    "raw": "Did the cultists set this trap?",
+    "value": "是信徒们设下的这个陷阱吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/forestoffae04/text",
+    "raw": "The forest is sending forth its own guardians to fight the cultists. I don't think they recognise that you're trying to help them, though.",
+    "value": "森林正派出自己的监护人来对抗邪教徒。不过，我不认为他们会意识到到你正试着帮助他们。"
+  },
+  {
+    "op": "replace",
+    "path": "/forestoffae05/text",
+    "raw": "Keep on your toes. I'm detecting a massive energy signature ahead.",
+    "value": "保持警惕。我探测到前方有一股巨大的能量信号。"
+  },
+  {
+    "op": "replace",
+    "path": "/forestoffae06/text",
+    "raw": "They really have been busy corrupting the forest, haven't they?",
+    "value": "他们其实一直忙着腐蚀森林，不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/evernight01/text",
+    "raw": "The path forks here. I'm detecting lifesigns on both ends, so take your pick.",
+    "value": "路径在这里分叉。我正在检测两侧的生命信号，请选择路径。"
+  },
+  {
+    "op": "replace",
+    "path": "/evernight02/text",
+    "raw": "A frog village. How quaint. The locals don't look friendly.",
+    "value": "一处青蛙族村落。多么有趣啊。当地人看起来并不友好。"
+  },
+  {
+    "op": "replace",
+    "path": "/evernight03/text",
+    "raw": "This hatch seems to lead into some ruins. Maybe you should check around town to see if the locals have rigged some controls up.",
+    "value": "这个舱口似乎通向某些废墟。也许你应该去城里看看当地人是否已经操纵了其中的一些控件。"
+  },
+  {
+    "op": "replace",
+    "path": "/evernight04/text",
+    "raw": "The door's locked, and the switch is on the inside of the bell tower. Is there a way to trigger, or failing that, destroy it?",
+    "value": "门被锁上了，而开关在钟楼里。有没有办法触发或让它失效，或者摧毁它？"
+  },
+  {
+    "op": "replace",
+    "path": "/evernight05/text",
+    "raw": "Cultists! Just what are they doing here?",
+    "value": "信徒们！他们来这里干什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/evernight06/text",
+    "raw": "This frog looks pretty lonely, I think he'd like your company.",
+    "value": "这只戴黑框眼镜的蛙看起来很孤单，我想他会喜欢你的公司。"
+  },
+  {
+    "op": "replace",
+    "path": "/evernight07/text",
+    "raw": "Well, that was quite the sticky situation. Are you all right?",
+    "value": "嗯，这是非常棘手的情况。你没事儿吧？。"
+  },
+  {
+    "op": "replace",
+    "path": "/evernight08/text",
+    "raw": "This is an interesting one. Do you have a rocket launcher that can do guided rockets? I don't think you'll be able to reach the switch otherwise.",
+    "value": "这是个有趣的东西。你有可以制导的火箭发射器吗？否则我认为你没法够到开关。"
+  },
+  {
+    "op": "replace",
+    "path": "/evernight09/text",
+    "raw": "There's no way around it - the console holding the door shut is also connected to the hatch in front of you. I'm sorry, but to proceed you'll need to incinerate the dog.",
+    "value": "没有办法绕进去 - 控制门开闭的控制台也是连接到你面前的舱口的。对不起，要继续的话，你需要烧穿这玩意。"
+  },
+  {
+    "op": "replace",
+    "path": "/evernight10/text",
+    "raw": "Oh look, it's this again. To get at all those sweet, sweet pixels you'll need to consign this cat to a slow, painful, needless death.",
+    "value": "哦，看，又开始了。为了得到所有这些甜美的像素，你需要让这只猫慢慢地、痛苦地、非必要地死去。"
+  },
+  {
+    "op": "replace",
+    "path": "/evernight11/text",
+    "raw": "Do you smell an ambush? Because all that darkness sure does.",
+    "value": "你闻到埋伏的味道了吗？因为所有的黑暗肯定会这样做。"
+  },
+  {
+    "op": "replace",
+    "path": "/evernight12/text",
+    "raw": "Oh, I just figured out what else the cat console was linked to - the door you just came through. Good thing you weren't greedy and avoided being bitten in the ass by karma, eh?",
+    "value": "哦，我刚想出猫咪控制台还连着什么——你刚进来的那扇门。还好你不贪心，没被因果报应咬到屁股，是吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle01/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle01/text",
+    "raw": "Hmm. Do you see that door to your left, dear? There's no handle, but I think an explosion could blast it apart. Missiles are traditional, but any explosive should do.",
+    "value": "嗯。你看见你左边的那扇门了吗，亲爱的？没有把手，但我认为爆炸可以把它炸开。虽说一般传统是用导弹，但实际上任何爆炸物都可以。"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle02a/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle02a/text",
+    "raw": "A dead end? This isn't right...",
+    "value": "死胡同？不该这样..."
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle02b/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle02b/text",
+    "raw": "Wait. Do you see that patch of floral ground there? The yellow ones? Try digging it up with your matter manipulator.",
+    "value": "等等。你看到那片花地了吗？那个黄色的？尝试用物质操纵器挖掘它。"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle02c/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle02c/text",
+    "raw": "Excellent work, dear! I think the lack of shielding was creating that irregularity. I'm sure there're more to be found - keep an eye out for odd changes in the walls!",
+    "value": "干得好，亲爱的！我认为缺乏屏蔽是造成这种不规则性的原因。我敢肯定还有更多的发现——留意墙上奇怪的变化！"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle03/senderName",
+    "raw": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle03/text",
+    "raw": "Watch out, the Floran of thiss region are famouss for being very ssavage. Even other floranss fear them.",
+    "value": "请小心，这个地区的叶族人是出了名的凶残。甚至其他叶族人也害怕他们。"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle04a/senderName",
+    "raw": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle04a/text",
+    "raw": "Ixodoom husbandry iss a revered sskill amongsst the floran. Ixolingss raissed in thesse cavernss are brought to other planetss to grow.",
+    "value": "蜱虫虫虫畜牧是叶族人人所最最最崇敬的一项技技技能。在洞穴穴穴中长长长大的蜱虫虫虫会被带到其他星球球球上繁衍。"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle04b/senderName",
+    "raw": "Nuru",
+    "value": "努鲁"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle04b/text",
+    "raw": "Do you remember the Ixodoom we fought? It may even have come from here!",
+    "value": "还记得我们打过的那场恶战吗？这里可能就是这一切地万恶之源！"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle05a/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle05a/text",
+    "raw": "You have to wonder why ancient ruins are always filled with traps. Was it a major architectural movement amongst these people?",
+    "value": "为什么古代遗址总是充满陷阱，令人费解。这难道是在这些人中流行的建筑风气？"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle05b/senderName",
+    "raw": "The Baron",
+    "value": "拜伦男爵"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle05b/text",
+    "raw": "Reflective. I don't know about that, but it certainly makes for good exploring!",
+    "value": "反思。我不知道，但它绝对是一次很好的探险！"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle06/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle06/text",
+    "raw": "Now this looks ominous. It's as if the altar was set up to receive the sacrifice of some small, helpless critter...",
+    "value": "现在看起来不太妙。这就好像祭坛是为了接受一些无助的小动物的牺牲而设立的..."
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle07a/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle07a/text",
+    "raw": "What an impressive lithograph. No doubt this was carved by ancient hands, too... I wonder what those words mean?",
+    "value": "真是个令人印象深刻的石版画。毫无疑问，这也是古代人用双手雕刻的...我好奇的是，这些话是什么意思？"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle07b/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle07b/text",
+    "raw": "I might go and have a look myself once it's safe to do so.",
+    "value": "一旦安全了，我可能会亲自去看看。"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle07c/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle07c/text",
+    "raw": "I think I'll come along as well, and I'm not taking no for an answer.",
+    "value": "我想我也会一起去，我不接受别人的拒绝。"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle08a/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle08a/text",
+    "raw": "What...is this? A statue?",
+    "value": "那是...什么？一个雕像？"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle08b/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle08b/text",
+    "raw": "It looks much cruder than the other ones we've seen so far. And much larger, too.",
+    "value": "它看起来比我们目前看到的其他的要粗糙得多。而且还要大得多。"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle08c/senderName",
+    "raw": "The Baron",
+    "value": "拜伦男爵"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle08c/text",
+    "raw": "Confident. I scaled statues like this all the time in my youth. Surely you can do so as well!",
+    "value": "自信。在我年轻的时候，我经常像这样爬上雕像。你当然也可以做到！"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle08d/senderName",
+    "raw": "Esther Bright",
+    "value": "艾斯特·布莱特"
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungle08d/text",
+    "raw": "After all this work...I think there's some kind of final puzzle here. Have you discovered any clues while here, dear?",
+    "value": "做了这么多工作之后...我觉得还有最后一关。你在这里发现什么线索了吗，亲爱的？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianhydro01/text",
+    "raw": "It is likely that you will require the spike sphere or some variant thereof to navigate this complex. I suggest equipping such at the available console.",
+    "value": "你可能需要尖刺球或其它的一些变种科技来探索这个复杂的迷宫。我建议在现有的科技控制台上配备这些科技。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianhydro02/text",
+    "raw": "The average sawblade's primary prey is cube-shaped boys of meat, but it is equally deadly to you.",
+    "value": "复仇屠刃的主要猎物是立方形的身上有肉的家伙，但对你来说同样致命。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianhydro03/text",
+    "raw": "The artifact ahead appears to be connected to the main power distribution network, but there is no readily evident means of activating it. Please experiment.",
+    "value": "前方的人造物似乎已连接到主配电网络，但没有明显的激活方法。请试验一下看看。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianhydro04/text",
+    "raw": "This receptacle appears perfectly suited for holding a ball-shaped object.",
+    "value": "这个容器看起来非常适合装载球状物体。"
+  },
+  {
+    "op": "replace",
+    "path": "/cultistmissionfudino/senderName",
+    "raw": "The Baron",
+    "value": "拜伦男爵"
+  },
+  {
+    "op": "replace",
+    "path": "/cultistmissionfudino/text",
+    "raw": "Exasperated. Not another one of THESE things! Well, at least you have your mech this time.",
+    "value": "气死了。这些都不是另一件事！好吧，至少这次你还有机会。"
+  },
+  {
+    "op": "replace",
+    "path": "/cultistmissionfuwallhint/senderName",
+    "raw": "Koichi",
+    "value": "光一"
+  },
+  {
+    "op": "replace",
+    "path": "/cultistmissionfuwallhint/text",
+    "raw": "Is it just me, or does that wall look a bit ^orange;structurally unsound?^white;.",
+    "value": "是我，还是那堵墙看起来有点 ^orange;结构上不健全？^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/cultistmissionfuonejob/senderName",
+    "raw": "Asra Nox",
+    "value": "阿斯拉·诺克斯"
+  },
+  {
+    "op": "replace",
+    "path": "/cultistmissionfuonejob/text",
+    "raw": "Mega-Fauna, you had one job!",
+    "value": "大型动物，你只有一份工作！"
+  },
+  {
+    "op": "replace",
+    "path": "/cultistmissionfuonejob2/senderName",
+    "raw": "Asra Nox",
+    "value": "阿斯拉·诺克斯"
+  },
+  {
+    "op": "replace",
+    "path": "/cultistmissionfuonejob2/text",
+    "raw": "^red;ONE!! JOB!!^white;",
+    "value": "^red;一份！！工作！！^white;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hold [Down] to commune with your blade(7s). Activate with ^green;[F]^reset;",
+    "value": "按住^green;[下]^reset;键以沟通你的刀刃（7s）。\n激活：^green;[F]^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Nightar Conshak",
+    "value": "夜族交锋"
+  }
+]

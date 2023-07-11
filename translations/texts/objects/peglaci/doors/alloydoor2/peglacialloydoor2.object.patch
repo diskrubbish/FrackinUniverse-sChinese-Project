@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sleek sliding door, formed from a mix of ice and wood and augmented with advanced technology.",
+    "value": "一种光滑的滑动门，由冰和木材混合而成，并采用先进技术加以增强。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Sliding Door",
+    "value": "合金推拉门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What classified technologies do they hide behind this I wonder",
+    "value": "我怀疑这个门后面是不是隐藏有他们的机密技术。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I can't tell if this is a wall or a door; where's the buttons?",
+    "value": "我不知道这到底是墙还是门，开门按钮在哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A sturdy door isss no good, if the walls are made of canvas.",
+    "value": "如果墙壁由帆布组成，这么一个牢牢牢固的门完全没用。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Suspicion. I think this door is watching me...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Open sesame?",
+    "value": "芝麻开门？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Could they have made this any more of an abomination of portal technology?",
+    "value": "他们难道一定要用如此讨厌的技术吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An impressive doorway. These sure don't come cheap.",
+    "value": "令人印象深刻的门口。这些肯定不便宜。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "The locking mechanism is accessed via augmented reality, non-Peglaci can't normally open a door like this.",
+    "value": "锁止机构是通过增强现实来实现的，非佩格拉奇人通常无法打开这样的门。"
+  }
+]

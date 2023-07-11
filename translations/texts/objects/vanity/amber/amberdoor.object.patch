@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shiny and wonderful.",
+    "value": "闪亮而精彩。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Amber Door",
+    "value": "琥珀门"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides colored light.",
+    "value": "它会发出彩色的光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glowing Green Mushroom",
+    "value": "发光绿色蘑菇"
+  }
+]

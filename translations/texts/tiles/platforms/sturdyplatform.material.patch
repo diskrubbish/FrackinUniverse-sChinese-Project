@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sturdy Metal Platform",
+    "value": "坚固的金属平台"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy platform",
+    "value": "一个坚固的平台。"
+  }
+]

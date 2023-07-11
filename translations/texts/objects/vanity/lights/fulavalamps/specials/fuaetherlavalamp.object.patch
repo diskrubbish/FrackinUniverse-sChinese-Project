@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's entrancing. I can't look away.",
+    "value": "很迷人。我不能把目光移开。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Lava Lamp",
+    "value": "以太熔岩灯"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large and dominating presence clings to this statue like film.",
+    "value": "一个巨大恐怖存在的雕像。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Horrid Statue",
+    "value": "可怕的雕像"
+  }
+]

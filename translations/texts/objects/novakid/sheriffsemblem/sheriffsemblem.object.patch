@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Otherwise known as the one individual an average town is big enough to have room for.",
+    "value": "又称唯一者，一个普通的城镇有足够的空间容纳。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sheriff's Sign",
+    "value": "警长标志"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A law enforcement the people can trust? What a concept.",
+    "value": "人民可以信任的执法机构？多好的概念啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "That's quite the sign...",
+    "value": "这是一个很好的迹象..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran take on ssstarman sheriff anytime!",
+    "value": "叶族人随时都可以迎战史达曼警长！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. Best to tread carefully here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Am I glad that he's over there and that we're out here...",
+    "value": "我很高兴他在那边，我们在这里..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The local law enforcement, I presume?",
+    "value": "我想是当地的执法部门吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The local law of the land.",
+    "value": "当地的法律。"
+  }
+]

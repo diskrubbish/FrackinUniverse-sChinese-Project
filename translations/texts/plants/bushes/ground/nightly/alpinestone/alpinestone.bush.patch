@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pile of mossy stones.",
+    "value": "一堆长满青苔的石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A pile of mossy stones.",
+    "value": "一堆长满青苔的石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstones.",
+    "value": "石石石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A pile of mossy stones.",
+    "value": ""
+  }
+]

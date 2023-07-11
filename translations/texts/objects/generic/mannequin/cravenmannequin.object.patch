@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This poor soul's quite unable to equip back items.",
+    "value": "这个可怜的灵魂无法装备背部物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Craven Mannequin",
+    "value": "凯文的假人模型"
+  }
+]

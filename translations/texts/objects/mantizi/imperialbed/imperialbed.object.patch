@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A solid bed with silky sheets.",
+    "value": "有丝质床单的结实的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Bed",
+    "value": "甲虫床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The bed is hard but the sheets are silky.",
+    "value": "床是硬的，但床单是丝质的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The sheets are pleasant to the touch.",
+    "value": "这些床单摸起来很舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran enjoy the touch of sssilky bed.",
+    "value": "叶族人享受丝质床的触感。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Description. A commoner's bed. Mantizi sheets do not tend to stay clean for very long.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Silky sheets on a harsh bed.",
+    "value": "粗糙的床上的丝质床单。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Fine silky sheets. The Hylotl make good use of silks.",
+    "value": "精细的丝质床单。鲛人善于利用丝绸。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "More comfortable than the floor.",
+    "value": "比地板更舒适。"
+  }
+]

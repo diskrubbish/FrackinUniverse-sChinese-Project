@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Causes rage while increasing energy.",
+    "value": "可以收获粉色织机草，食用后会提高伤害和能量值上限。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pinkloom Seed",
+    "value": "粉色织机草种子"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Jump Harness",
+    "value": "跳跃安全带"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I've come up with a way to double a double-jump tech!",
+    "value": "我创造出了可以连跳五次的科技。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Using some fancy ancient tech I think I can produce a Quad-Jump tech!",
+    "value": "通过借鉴一种奇特的古老科技，我创造出了五段跳。"
+  }
+]

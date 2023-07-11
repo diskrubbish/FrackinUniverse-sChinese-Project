@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A machine used to squeeze juices from fruits.",
+    "value": "一台专门榨汁的机器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Fruit Press^reset;",
+    "value": "^orange;水果榨汁机^reset;"
+  }
+]

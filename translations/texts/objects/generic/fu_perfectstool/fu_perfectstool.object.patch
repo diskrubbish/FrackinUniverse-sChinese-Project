@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A perfect stool.",
+    "value": "一个完美的凳子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Perfect Stool",
+    "value": "完美的凳子"
+  }
+]

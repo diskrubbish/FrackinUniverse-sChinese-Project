@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^red;This item was deprecated. Place and break to get the items used to make this back.^reset;",
+    "value": "^red;此项目已弃用。放置并断开以获取用于恢复的项目。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^red;DEPRECATED^reset; FTL Drive (Upgraded)",
+    "value": "^red;已废弃^reset; FTL引擎(升级后)"
+  }
+]

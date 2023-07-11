@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Medieval Fireplace",
+    "value": "中世纪壁炉"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stone fireplace. A good way to warm a cold castle.",
+    "value": "石制壁炉。让一个寒冷城堡变暖的好方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medieval Fireplace",
+    "value": "中世纪壁炉"
+  }
+]

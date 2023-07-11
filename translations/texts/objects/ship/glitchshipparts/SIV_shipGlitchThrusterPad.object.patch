@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Engine housing made for Glitch ships.",
+    "value": "为电子人飞船制造的发动机外壳。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ship Thruster Pad (Glitch)",
+    "value": "船舶推进器面板（电子人）"
+  }
+]

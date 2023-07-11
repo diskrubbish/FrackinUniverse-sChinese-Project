@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Nightar castle light.",
+    "value": "一盏夜族的城堡灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar light",
+    "value": "夜族灯"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Provides luminosity.",
+    "value": "提供亮度。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran like light. Light make shadow, Floran creep in shadow.",
+    "value": "叶族人喜欢光。光制造阴影，叶族人在阴影中爬行。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Light.",
+    "value": "灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A handy light.",
+    "value": "一个便捷的光源。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Waterproof lights.",
+    "value": "防水灯。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sushi on a conveyer belt! I guess you could call it a Sushi-Go-Round!",
+    "value": "传送带上的寿司！我猜你可以称之为寿司围观！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sushi Belt",
+    "value": "寿司带"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The food is conveyed directly out to the customers? What a novel idea.",
+    "value": "食物是直接传送给顾客的吗？多么新奇的想法啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Well this is rather interesting way to wait for one's food to arrive.",
+    "value": "这是等待食物到达的一种相当有趣的方式。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can ssneak up and ssstab little fish dishes as they pass by.",
+    "value": "当小鱼经过时，叶族人可以整理一下，给小鱼上盘子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Content. At least it won't take too long for my favorite dishes to pass my way.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Do they keep track of every dish a customer eats? Or do you pay upfront like a buffet?",
+    "value": "他们会记录顾客吃的每道菜吗？还是像自助餐一样预付？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These conveyer belts make for a more interesting atmosphere than standard waiters.",
+    "value": "这些传送带比标准的服务员营造出更有趣的氛围。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "No need for waitin' - the food comes straight to me!",
+    "value": "不用等了——食物直接送到我这里！"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Yeowch! This is even hotter!",
+    "value": "可以收获高级伊格纳斯辣椒，投掷型武器。哇！太辣了！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Adv. Ignus Chili",
+    "value": "高级伊格纳斯辣椒种子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Two hundred and forty times as spicy as ordinary Chili.",
+    "value": "这比普通辣椒辣240倍。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Two hundred and forty times as spicy as ordinary Chili.",
+    "value": "这比普通辣椒辣240倍。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Two hundred and forty timesss asss hot as ordinary Chili.",
+    "value": "这比普通辣椒辣辣辣240倍。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Fearful. Two hundred and forty times as spicy as ordinary Chili.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Two hundred and forty times as spicy as ordinary Chili.",
+    "value": "这比普通辣椒辣240倍。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Two hundred and forty times as spicy as ordinary Chili.",
+    "value": "这比普通辣椒辣240倍。"
+  }
+]

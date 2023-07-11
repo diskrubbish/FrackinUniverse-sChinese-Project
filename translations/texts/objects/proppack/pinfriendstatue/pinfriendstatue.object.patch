@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "\"Not dead\", the inscription reads, \"Just wanted to show you how awesome my dog is\".",
+    "value": "“没有死”，铭文写道，“只是想让你看看我的狗有多棒。”。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dog Statue",
+    "value": "狗雕像"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A statue of someone's loyal canine companion.",
+    "value": "某人忠实的狗伴侣的雕像。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Could I commission a statue of my little bunny like this? Hm...",
+    "value": "我可以委托一个像这样的小兔子雕像吗？嗯..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Doggies are good hunting partners! But not better than Floran's sssnake.",
+    "value": "小狗是很好的狩猎伙伴！但比不上叶族人的蛇。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Charmed. I can practically see this beast panting through the stone.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Without a doubt, a good boy.",
+    "value": "毫无疑问，他是个好孩子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Small dogs are cute, but big ones like this tend to put me on edge...",
+    "value": "小狗很可爱，但像这样的大狗会让我很紧张..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't nothin' cuter than a li'l puppydog.",
+    "value": "没有比小狗更可爱的了。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Sprint that grants protection from harm",
+    "value": "使人免受伤害的冲刺"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Phase Sprint",
+    "value": "相位加速"
+  }
+]

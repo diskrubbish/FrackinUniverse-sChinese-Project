@@ -1,0 +1,98 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's an image of a seated Human female. Supposed to be, that is.",
+    "value": "这是一个坐着的人类女性的形象。应该是的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bizarre Painting",
+    "value": "古怪绘画"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Why is there a crudely drawn face on this painting?",
+    "value": "为什么这幅画上有一张粗糙的脸？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A strangely done portrait of a human figure - the face is stylised but the rest seems photorealistic.",
+    "value": "这是一张绘工奇特的人物肖像——脸部形状奇妙，但其余部分看起来很逼真。"
+  },
+  {
+    "op": "replace",
+    "path": "/bothanDescription",
+    "raw": "Something is not right with this painting.",
+    "value": "这幅画有点不对劲。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran unsssssure if meat in painting isssss Apex or Human.",
+    "value": "叶族人不不不不不不知道画中的肉是是是猿人的还是人类的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Critical. I have seen many Human paintings, and this clearly is not in their style. Or could I be wrong?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A very famous work. They say some punk ruined this painting, but I am sure that's fake news.",
+    "value": "一幅非常著名的画作。他们说是某个朋克毁了这幅画，但我敢肯定那是假新闻。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This painting vexes me, and I could not tell you why.",
+    "value": "这幅画使我烦恼，我不能告诉你为什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/utapaunDescription",
+    "raw": "There is something sinister about this painting.",
+    "value": "这幅画有些不祥之处。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Human? Apex? Nightar? I couldn't tell ya; I'm no xenobiologist. Wait! what's a xenobiologist?",
+    "value": "人类？猿人？夜族？我不能告诉你，我不是外星生物学家。等等！什么是外星生物学家？"
+  },
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Strange painting. Looks odd. Is Human? Not Human? very confused!",
+    "value": "奇怪的画，看起来很奇怪。是人类吗？不是人类？非常困惑！"
+  },
+  {
+    "op": "replace",
+    "path": "/felinDescription",
+    "raw": "By Talos, Humans have such abominable tastes.",
+    "value": "塔罗斯所绘，人类的口味如此恶劣。"
+  },
+  {
+    "op": "replace",
+    "path": "/radienDescription",
+    "raw": "This painting is an embodiment of evil. It should be exorcised.",
+    "value": "这幅画是邪恶的化身。应该进行驱魔。"
+  },
+  {
+    "op": "replace",
+    "path": "/rodianDescription",
+    "raw": "This painting could well be worth a lot, if I knew the right people to sell it to.",
+    "value": "如果我认识合适的买家，这幅画可能会很值钱。"
+  },
+  {
+    "op": "replace",
+    "path": "/thelusianDescription",
+    "raw": "Trippy! who made this?",
+    "value": "迷幻！这是谁画的？"
+  }
+]

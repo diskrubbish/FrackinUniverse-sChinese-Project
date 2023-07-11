@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sticky Note",
+    "value": "便笺簿"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A blank sticky note.",
+    "value": "一张空白的便笺簿。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Blank sssticky note.",
+    "value": "空白的便便便笺簿。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Blase. A blank sticky note.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A sticky note with nothin' on it.",
+    "value": "一张便笺簿，上面什么也没有。"
+  }
+]

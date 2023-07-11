@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spawns in a pet snake! \n^orange;To locate it after placing, toggle wire mode.^reset;",
+    "value": "生成一只宠物蛇！\n^orange;若要在放置后定位生成器位置，请切换为连线模式。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Snake Spawner^reset;",
+    "value": "^orange;宠物蛇生成器^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This implant allows you to ignore the laws of physics in motion.",
+    "value": "这次升级可以完全忽视跳跃中的所有物理定律。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Physics Field II^reset;",
+    "value": "^#77acc3;物理力场 II^reset;"
+  }
+]

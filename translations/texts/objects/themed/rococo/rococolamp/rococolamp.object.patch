@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fancy vintage light.",
+    "value": "一盏精致的复古灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rococo Lamp",
+    "value": "洛可可灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A pretty little lamp.",
+    "value": "一盏漂亮的小灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The lampshade on this lamp looks like an overturned flower.",
+    "value": "这盏灯上的灯罩看起来像一朵翻倒的花。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Lamp is not fire powered. Floran likess this one.",
+    "value": "这盏灯不是火供电的。叶族人喜欢这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. A very charming lamp.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fancy little lamp. Old, but definitely fancy.",
+    "value": "一盏漂亮的小灯。很老，但绝对很花哨。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What an interesting shape on this lampshade.",
+    "value": "这个灯罩的形状真有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fancier than usual table lamp.",
+    "value": "一盏比平常更华丽的台灯。"
+  }
+]

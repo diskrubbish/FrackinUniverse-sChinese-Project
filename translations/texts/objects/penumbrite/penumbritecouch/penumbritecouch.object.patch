@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A couch made from penumbrite.",
+    "value": "用半影矿制成的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbrite Couch",
+    "value": "半影沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A couch similar to the style of the Hylotl.",
+    "value": "类似鲛人风格的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the Hylotl.",
+    "value": "这让我想起了鲛人。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fisssh perssson couch.",
+    "value": "鱼人沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A couch with a complicated design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This couch looks like something from a Hylotl village!",
+    "value": "这个沙发看起来像是鲛人村的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This couch almost reminds me of our own craftsmanship.",
+    "value": "这张沙发几乎让我想起了我们自己的手艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This couch is mighty fancy like them Hylotl folk make.",
+    "value": "这张沙发很奇特，就像鲛人做的一样。"
+  }
+]

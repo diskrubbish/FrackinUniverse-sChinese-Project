@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Not recommended for drinking.",
+    "value": "不建议饮用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Test Tubes",
+    "value": "试管"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Who knows what's being measured here...",
+    "value": "谁知道这里测量的是什么..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Three tiny vials, propped up on a stand.",
+    "value": "三个小瓶子，支撑在一个架子上。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Maybe red one iss raspberry flavored?",
+    "value": "也许红的是覆盆子味的？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. One must take caution handling unknown chemicals.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Would just a little sip hurt? ... Yeah probably.",
+    "value": "喝一小口会痛吗...可能吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Unknown substances appear to be measured in these test tubes.",
+    "value": "这些试管中似乎测量到了未知物质。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I think I'll keep my distance from these.",
+    "value": "我想我会远离这些。"
+  }
+]

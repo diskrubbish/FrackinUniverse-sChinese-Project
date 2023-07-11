@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dirturchins are squidgy and kind of tasteless.",
+    "value": "泥海胆的乌贼味十足，有点无味。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dirturchin Basket",
+    "value": "泥海胆篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "More of a cheap, common weed than a vegetable.",
+    "value": "与其说是蔬菜，不如说是便宜的普通杂草。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "When there's nothing better to eat, dirturchins will do.",
+    "value": "当没有更好的东西吃的时候，就可以考虑泥海胆了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Dirturchin looks like a tiny, round cactusss.",
+    "value": "泥海胆看起来像一只小小的圆形仙人掌。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disinterested. A boring, common plant.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's been statistically proven that ninety three percent of humans have a phobia of dirturchins.",
+    "value": "统计数据表明，93%的人都有恐惧症。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Why anyone would eat this is beyond my comprehension.",
+    "value": "我无法理解为什么有人会吃这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Dirturchins are as dull as the dirt they grow outta.",
+    "value": "泥海胆跟长出来的脏东西一样钝。"
+  }
+]

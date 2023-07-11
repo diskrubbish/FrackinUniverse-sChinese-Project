@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^green;The Grand Arena",
+    "value": "^green;大竞技场"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "The map shows me the way to a grand jungle arena where Floran hunters go test their strength. There's a prize advertised for those who manage to survive...",
+    "value": "这张地图指出了通往叶族猎人为了测试实力而修建的竞技场的路。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Survive all waves in the Grand Arena without dying.",
+    "value": "在大竞技场生存下来。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Now that was one hell of a brawl! Time to claim my hard-earned loot!",
+    "value": "经历了一场场如同炼狱般的战斗，现在是时候获得我的奖赏了！"
+  }
+]

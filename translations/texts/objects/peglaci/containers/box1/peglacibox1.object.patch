@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A plain alloy crate.",
+    "value": "普通合金板条箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Crate",
+    "value": "合金板条箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A heavy metal crate - some sort of code appears to be flashing around the perimetre.",
+    "value": "一个重金属板条箱——某种代码似乎在周长周围闪烁。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A big metal box - it's somehow cold to the touch.",
+    "value": "一个大的金属盒子——摸起来有点冷。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Flashing lightsss on the ssside say what's inssside.",
+    "value": "侧面闪烁的灯显示出里面是什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. Screen on the perimetre displays the contents in Peglaci Klikode.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A box. Same as most boxes you see.",
+    "value": "一个盒子。和你看到的大多数盒子一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Heavy, cold, and unappealing. Much like its creators.",
+    "value": "沉重，寒冷，没有吸引力。很像它的创造者。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's always a thrill to find an unopened box.",
+    "value": "找到一个未打开的盒子总是令人兴奋。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A screen on the perimetre of this box displays the contents and quantity thereof.",
+    "value": "此框周长上的屏幕显示其内容和数量。"
+  }
+]

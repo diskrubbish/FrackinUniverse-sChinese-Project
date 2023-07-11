@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dark bed that looks more like a coffin...",
+    "value": "一张黑暗的床，看起来更像是一个棺材..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Effigium Bed",
+    "value": "幻影床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple bed. It does, however, seem to be partially invisible.",
+    "value": "一张简单的床。然而，它的部分似乎是隐形的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This bed is almost invisible.",
+    "value": "这张床几乎看不见。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes to sssleep, but where isss bed...?",
+    "value": "叶族人喜喜喜换睡睡觉，但是床在在在哪...？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. A comfortable place for a nap. Confused. Where did it go?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A creepy bed. I don't like lying on nothing.",
+    "value": "令人毛骨悚然的床。我不想凭空躺着。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I wouldn't want to sleep on something that seems so fragile.",
+    "value": "我不想睡在看起来如此脆弱的东西上。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Good a place as any to take a nap if it don't disappear while I'm in it.",
+    "value": "如果我在里面时，它不会消失的话，那这会是个小睡的好地方。"
+  }
+]

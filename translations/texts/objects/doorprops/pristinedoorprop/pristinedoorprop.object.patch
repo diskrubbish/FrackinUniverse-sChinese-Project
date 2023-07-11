@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A prim and proper screen door. Light, airy, and welcoming!",
+    "value": "一扇整洁而合适的纱门。光线充足，通风良好，热情好客！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pristine Door",
+    "value": "质朴门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A tall white door.",
+    "value": "一扇高大的白色门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This door is certainly well crafted.",
+    "value": "这扇门绝对是精心设计的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes nice little door.",
+    "value": "叶族人喜欢漂亮的小门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Concerned. It's nice, but this door isn't terribly sturdy, is it?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I feel like I'm stepping into my grandma's house.",
+    "value": "我感觉像是走进了我奶奶的房子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This is certainly a well-kept door.",
+    "value": "这扇门肯定保养得很好。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A door. A little too clean for my tastes.",
+    "value": "一扇门。对我来说有点太朴素了。"
+  }
+]

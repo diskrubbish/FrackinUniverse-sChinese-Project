@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Toggle on with ^green;[F]^reset;, then hold ^green;[Down]^reset; to produce a Rad Bulb.",
+    "value": "按^green;[F]^reset;开启，按住^green;[Down]^reset;键以产生一个辐射球茎。\n激活：^green;[F]^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "X'ian Radbulb",
+    "value": "艾肯辐射球茎"
+  }
+]

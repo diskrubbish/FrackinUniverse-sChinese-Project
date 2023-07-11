@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Despite how it may sound, wizard homework isn't much better than the muggle sort.",
+    "value": "不管听起来如何，巫师的家庭作业并不比麻瓜的好多少。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wizard's Desk",
+    "value": "巫师桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Scrolls and Tomes? Quill pens? Clearly the owner isn't entirely up to date with technology...",
+    "value": "卷轴和大部头？羽毛笔？显然，店主并不完全掌握最新技术..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What could the owner possibly be scribing?",
+    "value": "主人可能在画什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes ssshiny purple feather pen.",
+    "value": "叶族人喜欢闪亮的紫色羽毛笔。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. Looks like someone's pulling an all-nighter.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Whoa, what a set up! ... Aw, it's just homework, isn't it?",
+    "value": "哇，真是个骗局...这只是家庭作业，不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There are several scrolls worth of writing. The owner is certainly a very thorough student.",
+    "value": "有几卷书值得一写。老板当然是一个非常彻底的学生。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Homework's homework, magical or not.",
+    "value": "家庭作业的家庭作业，魔法与否。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A grave.",
+    "value": "一个坟墓。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Grave",
+    "value": "坟墓"
+  }
+]

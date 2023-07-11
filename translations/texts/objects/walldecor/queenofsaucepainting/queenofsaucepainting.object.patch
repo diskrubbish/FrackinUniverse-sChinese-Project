@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An incredibly odd painting. Looking at it gives you the urge to cook.",
+    "value": "一幅非常奇怪的画。这会促使你看着厨师。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Saucy Painting",
+    "value": "俏皮画"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Who is this mysterious woman? ...And why is this painting making me so hungry?",
+    "value": "这个神秘的女人是谁。。。为什么这幅画让我如此饥饿？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This painting is awfully familiar for some reason...",
+    "value": "由于某种原因，这幅画非常熟悉。。。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Does sssauce lady know any meat recipes?",
+    "value": "这位女士知道什么肉类食谱吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Mesmerized. Yes... Pumpkin pie sounds lovely... for the Feast of the Winter Star...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This'd be an interesting show to watch.",
+    "value": "这将是一个有趣的节目。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What a surreal painting.",
+    "value": "真是一幅超现实主义的画。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I don't get it. Why's this chef lady floatin'?",
+    "value": "我不明白。为什么这位厨师小姐会飘浮？"
+  }
+]

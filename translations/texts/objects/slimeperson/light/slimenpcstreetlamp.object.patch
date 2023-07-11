@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tall lamp made of slime.",
+    "value": "史莱姆做的高台灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tall Slime Lamp",
+    "value": "史莱姆高台灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A slime lamp.",
+    "value": "史莱姆灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Does anyone like sticky lamps?",
+    "value": "有人喜欢粘灯吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssuch a great ssslimy lamp!",
+    "value": "这么大的油灯！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. How does it glow?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A sticky lamp.",
+    "value": "粘糊糊的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The lifeform emits a dull light.",
+    "value": "生命体发出暗淡的光。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A slimy lamp. Great design.",
+    "value": "粘糊糊的灯。伟大的设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Tall lamp.",
+    "value": "高灯。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Representing spirit and freedom, this painting is gorgeous.",
+    "value": "这幅画表现了精神和自由，非常华丽。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stripe 3",
+    "value": "条纹 3"
+  }
+]

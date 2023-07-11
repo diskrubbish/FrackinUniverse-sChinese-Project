@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Completely immune to acid.",
+    "value": "可以收获白棘壳，食用后会免疫酸。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Whitespine",
+    "value": "白棘壳种子"
+  }
+]

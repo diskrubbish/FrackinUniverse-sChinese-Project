@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Solid, unyielding stone.",
+    "value": "一块坚固的的石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cooled Volcanic Stone",
+    "value": "冷却的火山石"
+  }
+]

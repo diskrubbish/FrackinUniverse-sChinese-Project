@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strong titanium door.",
+    "value": "坚固的钛制门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Titanium Door Prop",
+    "value": "钛制门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This door is rather secure.",
+    "value": "这扇门相当安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Very sturdy for a basic door.",
+    "value": "非常坚固的一扇基本的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hide behind door. Jump out. Ssstab!",
+    "value": "叶族人躲在门后，跳出来，跳！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. A useful door.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A sturdy titanium door.",
+    "value": "坚固的钛制门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A robust titanium door.",
+    "value": "坚固的钛制门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now this is a sturdy lookin' door!",
+    "value": "这是一扇坚固的门！"
+  }
+]

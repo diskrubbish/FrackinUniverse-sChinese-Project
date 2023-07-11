@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lashes out at enemies.",
+    "value": "可以收获扭藤，食用后会赋予反伤效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Writhing Vine",
+    "value": "扭藤种子"
+  }
+]

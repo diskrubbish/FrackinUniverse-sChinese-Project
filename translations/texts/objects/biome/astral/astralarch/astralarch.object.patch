@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An ancient archway, Aether is built into its design.",
+    "value": "一个古老的拱门，以太融入进了其设计中。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Archway",
+    "value": "以太拱门"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A nightstand made from cultivated crystals.",
+    "value": "一个人工水晶制成的床头柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Nightstand",
+    "value": "水晶床头柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A medium amount of storage.",
+    "value": "中等容量的存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wouldn't like to sleep next to this.",
+    "value": "我可不想睡在这个旁边。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big ssize ssstorage.",
+    "value": "大号号号的存存存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Indifferent. A medium amount of storage.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It looks nice for a fancy bedroom.",
+    "value": "这看起来很适合高档卧室。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A medium storage space.",
+    "value": "一个中型的储物空间。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's mighty fancy.",
+    "value": "真是太奇妙了。"
+  }
+]

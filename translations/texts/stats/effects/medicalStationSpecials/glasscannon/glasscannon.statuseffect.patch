@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "^orange;[E]^reset; Glass Cannon",
+    "value": "^orange;[E]^reset;玻璃大炮"
+  }
+]

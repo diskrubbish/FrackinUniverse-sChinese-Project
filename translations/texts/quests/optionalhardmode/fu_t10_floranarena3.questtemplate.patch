@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Dark Flames",
+    "value": "暗焰"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Another super bad place, you know da drill by now.",
+    "value": "另一个超级糟糕的地方，你现在已经知道了。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "New signature, another message. Mew disapproves. Picture of Mantizi in codpiece armor. Not Kevin. Face upside down smiling. Kevin clue?",
+    "value": "新的签名，另一条信息。喵很失望。穿着鳕鱼盔甲的甲虫人的照片。不是凯文。脸部颠倒的微笑。凯文的线索？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "raw": "Use the ^orange;Gold Arena Beacon^reset;",
+    "value": "使用^orange;金色竞技场信标^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "raw": "Win the arena battle",
+    "value": "赢下竞技场的战斗"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "raw": "Return to ^orange;Khe^reset; at the ^orange;Science Outpost^reset;",
+    "value": "回到^orange;科学前哨站^reset;去找^orange;溪^reset;"
+  }
+]

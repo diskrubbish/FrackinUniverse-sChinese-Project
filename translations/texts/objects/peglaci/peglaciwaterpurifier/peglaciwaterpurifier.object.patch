@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This water purification cleans and maintains a standard water level.",
+    "value": "这种水净化清洁和保持一个标准的水水位。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Water Purifier",
+    "value": "水净化器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This pump is letting out pure, clean water.",
+    "value": "这个泵排出纯净的水。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I can't imagine every wanting this much water where I live.",
+    "value": "我无法想象我住的地方每个人都需要这么多的水。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wet and cold! Splasssh splasssh!",
+    "value": "又湿又冷！嘘，嘘，嘘！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. The water this pump is emitting is almost completely pure.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Wow, this water is cold! Tastes good, though.",
+    "value": "哇，这水真冷！不过味道不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I will say this about the Peglaci - their water purification systems are second to none.",
+    "value": "我要说的是企鹅族-他们的水净化系统是首屈一指的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's a water purifier. Seems to be in order...no need to touch it.",
+    "value": "这是一个水净化器。看起来很正常…不用碰它。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "These purification pumps clean the water and keep the water at a constant level.",
+    "value": "这些净化泵清洁水，并保持水在一个恒定的水平。"
+  }
+]

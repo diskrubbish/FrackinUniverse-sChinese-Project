@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy airlock made out of Tethyde.",
+    "value": "用韧影合金制成的坚固的气闸。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pressurised Tethyde Door",
+    "value": "加压韧影合金门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A great big airlock door. Sturdy.",
+    "value": "一扇巨大的气闸门。非常坚固。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An intimidatingly large metal door.",
+    "value": "一扇大得吓人的金属门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Waterdragon build big, ssturdy doors! Sstrong enough to keep out Floran!",
+    "value": "水龙建造了巨大而坚坚坚固的们！强强大到能阻阻阻阻挡叶族人！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. Where is the doorknob?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The Hylotl use similar airlocks, I think.",
+    "value": "我想鲛人也用类似的气闸。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A Skath airlock. I'm reminded of home.",
+    "value": "一个绘世者气闸。我想起了家。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A tough lookin' door.",
+    "value": "一扇难看的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "This door was built to keep out water from our ocean cities.",
+    "value": "建造这扇门是为了防止海水进入我们的海洋城市。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dodge a further distance. Keeps momentum.",
+    "value": "闪避距离提升。保持推进力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Dodge II",
+    "value": "闪避 II"
+  }
+]

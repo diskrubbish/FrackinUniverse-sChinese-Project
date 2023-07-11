@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A silverish glow.",
+    "value": "银光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Silver Royal Candles",
+    "value": "银色皇家蜡烛"
+  }
+]

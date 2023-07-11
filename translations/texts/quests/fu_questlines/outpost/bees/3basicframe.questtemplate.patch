@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Basic Frame",
+    "value": "基础巢框"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "A ^orange;Basic Frame^reset; is placed within an ^green;apiary^reset; to act as housing for the bees. Create one now.",
+    "value": "^orange;基础巢框^reset;在^green;蜂箱^reset;中作为蜜蜂的房子来使用。立马做一个看看。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "There are ^green;many types of frames^reset;, and different bees will prefer certain types. You'll need to be creative.",
+    "value": "^orange;巢框有许多种类^reset;，不同的蜜蜂喜好不同。这需要你来摸索。"
+  }
+]

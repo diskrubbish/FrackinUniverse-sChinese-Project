@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A nightstand. It's too hot to touch.",
+    "value": "床头柜。天太热了，摸不着。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Nightstand",
+    "value": "永燃床头柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A medium amount of storage.",
+    "value": "中等容量的存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wouldn't like to sleep next to this.",
+    "value": "我可不想睡在这个旁边。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big ssize ssstorage.",
+    "value": "大号号号的存存存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. A medium amount of storage, but it's too hot to store things.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I don't think I'll put this in my bedroom.",
+    "value": "我不想把这玩意放在我的卧室里。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A medium storage space. I dislike how hot it feels.",
+    "value": "中等的存储空间。我不喜欢它有多热。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's mighty toasty.",
+    "value": "这是非常烤的。"
+  }
+]

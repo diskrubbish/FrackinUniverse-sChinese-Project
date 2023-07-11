@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hatches into a vulnerable shoat lamb.",
+    "value": "孵化出一只脆弱的小黏羊崽。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shoat Egg",
+    "value": "小黏羊蛋"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The egg of a shoat. A mature one oozes out slime.",
+    "value": "一个小黏羊蛋。成年小黏羊可以产出黏液。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's a shoat egg. They can be very disgusting.",
+    "value": "一个小黏羊蛋。它们也许会很恶心。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Shoat egg! Floran lovesss to play with ssshoats!",
+    "value": "小黏羊的蛋！叶族人喜喜喜欢和小小黏羊一起玩耍！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. I wonder if I can stick my hand in it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A big slimy egg! It'll hatch a shoat lamb soon!",
+    "value": "一个有点大的黏黏滑滑的蛋！可爱的小黏羊崽很快就要被孵化出来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A slimy egg that will create a shoat.",
+    "value": "一个黏黏的蛋，会孵化出一只小黏羊。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A shoat egg. Wonder if slimes are similar to us?",
+    "value": "一个小黏羊蛋。我很想知道史莱姆是不是和我们很相像？"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "A shoat will hatch!",
+    "value": "小黏羊就要孵化了！"
+  }
+]

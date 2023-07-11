@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dense panel packed with processing power.",
+    "value": "具有高速处理能力，内部似乎安装了许多处理器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Giantek Panel",
+    "value": "企鹅面板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. An incomprehensibly dense panel - it's emitting a radio signal.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hard block - make Floran feel funny.",
+    "value": "很硬，叶族人觉得很搞搞搞笑。"
+  },
+  {
+    "op": "replace",
+    "path": "/peglaciDescription",
+    "raw": "Giantek. An emulation of the building materials of our creators. Functionally indestructible, and packed down to the molecular level with processing power.",
+    "value": "Giantek。这是我们的创造者发明的材料。无法破坏，并且用分子技术进行包装。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "Giantek. An emulation of the building materials of our creators. Functionally indestructible, and packed down to the molecular level with processing power.",
+    "value": "Giantek。这是我们的创造者发明的材料。无法破坏，并且用分子技术进行包装。"
+  }
+]

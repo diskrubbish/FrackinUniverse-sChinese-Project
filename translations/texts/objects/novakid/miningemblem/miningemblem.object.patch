@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Two crossing pickaxes, mounted to the wall.",
+    "value": "两个十字镐，安装在墙上。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Miner's Emblem",
+    "value": "矿工徽章"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I take it this display is to signal miners are nearby?",
+    "value": "我想这个显示器是用来显示附近有矿工吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Crisscrossing pickaxes. I think it's meant to be a sign.",
+    "value": "十字交叉的镐。我想这是一个信号。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Minerss are nearby.",
+    "value": "矿工们就在附近。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Keen. Where there's pickaxes, there's miners.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Either there's adorable dwarfs nearby or miners. Maybe both!",
+    "value": "不是附近有可爱的小矮人就是矿工。也许两者都有！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An inelegant display to symbolize miners.",
+    "value": "象征矿工的不雅的展示。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't no mistakin' this emblem - miners are about, no doubt about it.",
+    "value": "毫无疑问，矿工们是关于这个标志的。"
+  }
+]

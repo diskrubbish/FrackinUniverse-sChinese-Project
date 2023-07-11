@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Glow in the dark.",
+    "value": "可以收获金色蘑菇，食用后会赋予照明。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gold Shroom Spore",
+    "value": "金色蘑菇孢子"
+  }
+]

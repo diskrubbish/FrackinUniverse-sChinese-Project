@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What a stylish place to hide!",
+    "value": "多么时尚的藏身之地啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neon Curtain",
+    "value": "霓虹窗帘"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Luxurious curtains. Privacy is not something we Apex are used to.",
+    "value": "豪华窗帘。隐私不是我们猿人所习惯的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Flowing curtains. Like feathers in the breeze.",
+    "value": "流动的窗帘。就像微风中的羽毛。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Curtains are sssilky sssoft, but Floran prefersss leather.",
+    "value": "窗帘犹如丝绸般柔软，但叶族人更喜欢皮革。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Nostalgic. These curtains are as soft as Glitch bedsheets.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Curtains. These are quite nice.",
+    "value": "窗帘。这些很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Well-crafted curtains. They have a luxurious feel.",
+    "value": "精心制作的窗帘。它们有一种奢华的感觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A soft curtain.",
+    "value": "柔软的窗帘。"
+  }
+]

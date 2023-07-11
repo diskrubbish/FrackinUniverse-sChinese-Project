@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "White Potato",
+    "value": "白色土豆"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "White Potato",
+    "value": "白色土豆"
+  }
+]

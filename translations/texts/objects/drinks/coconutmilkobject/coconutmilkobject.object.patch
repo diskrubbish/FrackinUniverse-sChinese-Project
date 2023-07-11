@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The best reason to crack open a coconut. The taste is amazing.",
+    "value": "打开椰子的最好理由。味道惊人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coconut Milk",
+    "value": "椰奶"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hard coconut makes sssweet juice. Coconut's sssecret is safe with Floran.",
+    "value": "坚硬的椰子可以制造出甜甜甜美的果汁。椰子的秘秘秘密在叶族那里是安全的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. Who would've thought something so pleasant would come from coconuts, of all things?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now that's a mighty fine prize for the trouble of cuttin' a coconut in the first place.",
+    "value": "现在，这是一个非常好的奖赏，但首先这是为了解决开椰子的麻烦。"
+  }
+]

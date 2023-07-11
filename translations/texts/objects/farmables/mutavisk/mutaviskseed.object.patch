@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange and wonderful plant that produces an unrivaled silk-like material.",
+    "value": "这真是一种奇妙的植物，它能够长出无比坚韧的丝状纤维。可以收获飞螳丝。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mutavisk",
+    "value": "飞螳种子"
+  }
+]

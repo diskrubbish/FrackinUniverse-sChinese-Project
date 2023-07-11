@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Will scan for all ores and caves.",
+    "value": "可扫描岩层内所有矿石以及洞穴结构。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mining Drone",
+    "value": "采矿无人机"
+  }
+]

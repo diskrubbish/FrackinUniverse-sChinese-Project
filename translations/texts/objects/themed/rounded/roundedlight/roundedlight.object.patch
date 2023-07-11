@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A minimalistic light fixture, stylistically left hanging bare.",
+    "value": "一个极简主义的灯具，风格上是光秃秃的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rounded Light Fixture",
+    "value": "圆形灯具"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An unshielded light bulb. Hopefully no one's eyes here are too sensitive.",
+    "value": "无屏蔽灯泡。希望这里没有人的眼睛太敏感。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A light that shines with twice the power of Avolite crystals.",
+    "value": "一种发光能力是埃沃利特晶体两倍的光。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Round light iss too bright!",
+    "value": "圆灯太亮了！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Irritated. If I had physical eyes, I'm sure I'd be squinting.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "So... Just a lightbulb? Is this the kind of furniture people are shelling out hundreds of dollars for?",
+    "value": "所以...就一个灯泡？这就是人们花费数百美元购买的那种家具吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A light that illuminates the room like a gentle sun.",
+    "value": "像柔和的太阳一样照亮房间的光线。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "You can't outshine me, li'l buddy!",
+    "value": "你比不上我，李尔巴迪！"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A painting of cool, futuristic skyscrapers.",
+    "value": "一幅酷炫的未来主义摩天大楼的画作。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neo Cityscape",
+    "value": "新城市景观"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This sort of view was commonplace back on... back at the academy.",
+    "value": "这种观点在过去很常见。。。回到学院。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The Stargazers could only dream of making such daunting structures.",
+    "value": "天文学家们只能梦想建造这样令人望而生畏的建筑。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssees a sea of green and blue.",
+    "value": "叶族人看到了一片绿色和蓝色的海洋。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. The artist has perfectly captured the atmosphere of a bustling Earth-like civilization.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This isn't too off from the view back home...",
+    "value": "这离家乡的风景不太远。。。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "\"Skyscrapers\"... what an apt, poetic name.",
+    "value": "“摩天大楼”。。。多么贴切、诗意的名字啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty impressive lookin' city.",
+    "value": "一座令人印象深刻的城市。"
+  }
+]

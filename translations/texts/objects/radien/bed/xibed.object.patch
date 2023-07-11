@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small pod for sleeping, made for a X'i.",
+    "value": "用来睡觉的吊舱，为艾肯人做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Bed",
+    "value": "艾肯床"
+  }
+]

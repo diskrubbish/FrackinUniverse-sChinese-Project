@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Increases grip, leap and capability of Wall Jump.",
+    "value": "更进一步增加蹬墙跳的抓地力和连跳能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Wall Jump III^reset;",
+    "value": "^#77acc3;蹬墙跳 III^reset;"
+  }
+]

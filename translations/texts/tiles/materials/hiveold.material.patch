@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Living Stone",
+    "value": "活物石块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The walls are strange, like a melding of flesh and stone.",
+    "value": "这些墙壁很奇怪，就像是肉和石头的结合。"
+  }
+]

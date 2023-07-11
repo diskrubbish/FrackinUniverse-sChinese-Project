@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Well that's certainly... something.",
+    "value": "那当然是...有些事。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apebucks",
+    "value": "猿巴克"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Monkey... Man... Fisssh?",
+    "value": "猴子...老兄...菲松？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disturbed. A horrifying cross between an Apex and what appears to be a mermaid.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Well, that's... er...",
+    "value": "那是...呃..."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sign designating am infirmary.",
+    "value": "指示我的医务室的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medical Sign",
+    "value": "医学标志"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It seems there's a infirmary ahead.",
+    "value": "前面好像有个医务室。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A infirmary apparently is nearby.",
+    "value": "附近显然有个医务室。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssign for infirmary.",
+    "value": "医务室的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. This sign signifies a nearby infirmary.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like there's a infirmary nearby.",
+    "value": "看起来附近有个医务室。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This huge sign informs me that there is a infirmary nearby.",
+    "value": "这个巨大的标志告诉我附近有一个医务室。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A big sign for a infirmary.",
+    "value": "医务室的大招牌。"
+  }
+]

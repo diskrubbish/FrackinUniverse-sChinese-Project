@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The flag of the Peglaci. Use ^green;[E]^reset; to bookmark a teleportation location.",
+    "value": "羊蹄族的旗帜。使用^green;[E]^reset;将远程传送位置设置为书签。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peglaci Flag",
+    "value": "羊蹄族旗帜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ah, the Peacekeeper's flag - Peglaci must be nearby.",
+    "value": "啊，和平卫士的旗帜-羊蹄族一定就在附近。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This symbol of the Peglaci seems almost religious - how curious.",
+    "value": "这个羊蹄族的象征似乎几乎是宗教的-多么奇怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Flag of the Peglaccci!",
+    "value": "佩格拉奇的旗帜！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Mild Interest. The flag of the Peglaci.",
+    "value": "中等兴趣。羊蹄族的旗帜。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The Peglaci flag. I like the blinky lights.",
+    "value": "羊蹄族旗。我喜欢闪烁的灯光。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Peglaci are nearby. How... lovely.",
+    "value": "羊蹄族就在附近。怎样...可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can bookmark this Peglaci flag for quick teleportin'.",
+    "value": "我可以把这面羊蹄族旗加上书签，以便快速传送。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "The flag of our race. Perhaps a bit ostentatious!",
+    "value": "我们种族的旗帜。也许有点炫耀吧！"
+  }
+]

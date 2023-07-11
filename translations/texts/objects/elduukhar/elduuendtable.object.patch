@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table made from cultivated crystal.",
+    "value": "一张人工水晶制成的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal End Table",
+    "value": "水晶茶几"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A crystal table.",
+    "value": "一个水晶桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A good looking table.",
+    "value": "一张好看的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty table.",
+    "value": "漂亮的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. This table is beautiful.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty fancy table.",
+    "value": "一张极其精致的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A table.",
+    "value": "一张桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just a table.",
+    "value": "就是一张桌子而已。"
+  }
+]

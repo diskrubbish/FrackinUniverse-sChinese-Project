@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/particleEmitters/statustext/particles/0/particle/text",
+    "raw": "No Energy",
+    "value": "无能量"
+  }
+]

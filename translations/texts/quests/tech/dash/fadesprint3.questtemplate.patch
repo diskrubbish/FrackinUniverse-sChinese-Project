@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Amazing Speed, Amazing Tech III",
+    "value": "惊异速度，惊异科技 III"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Y'know...I just realized a way I can improve on the Sprint tech!",
+    "value": "呃...我只是想到了一种可以改进我的移动速度的方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "With precursor technology, I think I can improve my ^orange;Phase Sprint^reset; to increase my damage potential while in motion!",
+    "value": "利用先驱产物，我现在可以改善我的^orange;加速^reset;科技，现如今它能提高我的攻击力。"
+  }
+]

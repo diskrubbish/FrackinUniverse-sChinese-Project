@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute bookcase with draped silk.",
+    "value": "一个挂有丝绸的可爱的书柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Accented Bookcase",
+    "value": "非常可爱的书柜"
+  }
+]

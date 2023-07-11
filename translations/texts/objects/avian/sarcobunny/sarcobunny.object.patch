@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Is it wrong to take your bunny to the afterlife with you?",
+    "value": "把你的兔子带到来世是种罪吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bunny Sarcophagus",
+    "value": "翼族兔型石棺"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Why is this sarcophagus rabbit-shaped?",
+    "value": "为什么这个石棺是兔子形状的？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A sarcophagus for criminals and heretics. The Avian inside will lose their wings in the afterlife.",
+    "value": "罪犯和异教徒的石棺。里面的翼族人将在来世失去它们的翅膀。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Long earsss, long dead.",
+    "value": "两者耳朵朵朵竖起来，一动不动真可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. Despite the design of the sarcophagus, there is an Avian inside.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A bunny sarcophagus! Cute!",
+    "value": "一个可爱的兔型石棺！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The crystals in this sarcophagus appear to hold it closed. Was the inhabitant still alive when they were shut in?",
+    "value": "这个石棺里的水晶似乎把它封闭了起来。当这些人被关在里面的时候，他们还活着吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An Avian sarcophagus. But why is it shaped like a rabbit?",
+    "value": "一个翼族石棺。但是为什么形状像只兔子？"
+  }
+]

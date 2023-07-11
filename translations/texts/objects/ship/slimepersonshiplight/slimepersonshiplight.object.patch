@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A type of ship light that seems to have a thin layer of slime.",
+    "value": "一种船用灯，似乎有一层薄薄的黏液。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Ship Light",
+    "value": "史莱姆船灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These types of lights are commonly used on ships.",
+    "value": "这些类型的灯通常用于船舶上。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A vibrant light.",
+    "value": "一盏明亮的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ship light is harsh on Floran eyesss.",
+    "value": "船灯很刺叶族人的眼眼眼睛。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This lighting fixture generates more light than heat.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A bright, white light.",
+    "value": "一盏明亮的白色灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A bright, white light. It creates a neutral atmosphere.",
+    "value": "一盏明亮的白灯。它创造了一个中庸的氛围。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's one bright lightbulb.",
+    "value": "那是个明亮的灯泡。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Shiny!",
+    "value": "闪亮的！"
+  }
+]

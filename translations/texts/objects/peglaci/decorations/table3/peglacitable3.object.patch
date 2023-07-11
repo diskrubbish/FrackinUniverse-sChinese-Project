@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy table made of an advanced alloy.",
+    "value": "高级合金做的结实的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Table",
+    "value": "合金工作台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This table looks plenty tough.",
+    "value": "这张桌子看起来很结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The surface of the table is glassy smooth, but plates seem to adhere until moved.",
+    "value": "桌子的表面是玻璃般光滑的，但盘子在移动之前似乎是粘在一起的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "The top of thisss table sssticks to my hands.",
+    "value": "这张桌子的顶部粘在我的手上。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. The surface of the table is covered with a smart material that wicks off moisture and self-sterilizes.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Heavy duty table. The surface looks rippled, somehow.",
+    "value": "重型工作台。不知怎么的，表面看起来有些波纹。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "How blocky and utilitarian...",
+    "value": "多么粗俗和功利..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just a table. A heavy duty table that is.",
+    "value": "就一张桌子。那是一张很重的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "The surface of the table is covered with a smart material that wicks off moisture and self-sterilizes.",
+    "value": "桌子的表面覆盖着一种智能材料，它能吸走湿气并自我消毒。"
+  }
+]

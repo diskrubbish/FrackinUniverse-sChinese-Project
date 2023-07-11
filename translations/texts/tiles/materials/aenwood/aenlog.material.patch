@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Wood Log",
+    "value": "暗木木材"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A starry log that totally won't send the cabin I build into the 4th dimension.",
+    "value": "繁星点点的圆木，而且完全不会把我建造的小屋送进第四维空间。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. These logs are pretty yet something's... off.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likess the glow of thiss log.",
+    "value": "叶族人喜喜喜欢这根木头发出的光芒。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't this a pretty lookin log, gettin a weird feelin from it though.",
+    "value": "这是根漂亮的木头，但有一种奇怪的感觉。"
+  }
+]

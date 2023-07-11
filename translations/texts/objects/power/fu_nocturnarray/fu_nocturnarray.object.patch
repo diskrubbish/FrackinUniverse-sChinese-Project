@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Generates energy out of darkness. Can potentially generate ^orange;10W^reset;.",
+    "value": "从黑暗中获取能量，最大能输出^orange;10W^reset;电力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Nocturn Array^reset;",
+    "value": "^cyan;夜祷阵列^reset;"
+  }
+]

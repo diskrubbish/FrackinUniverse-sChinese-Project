@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pile of lumber, waiting to be cut and shaped!",
+    "value": "一堆木材，等待切割成型！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Log Pile",
+    "value": "木桩"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It  must take a lot of strength to haul these logs around.",
+    "value": "把这些圆木拖来拖去一定要花很多力气。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Fresh lumber is the canvas upon which grounded artisans work.",
+    "value": "新鲜木材是扎根的工匠工作的画布。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Smells fresssh.",
+    "value": "闻起来很恶心。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This is quite the haul.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I feel like a real lumberjack, standing around all these.",
+    "value": "我感觉自己就像一个真正的伐木工人，站在这些地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Unrefined, coarse wood.",
+    "value": "烂木头"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I like to whittle away at the l'il' ones. Make some mighty fine crafts.",
+    "value": "我喜欢削掉不好的。制作一些精美的工艺品。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The ultimate in block extraction technology. ^cyan;Requires ^orange;60J^cyan; per extraction.^reset; Can be placed on floors -or- ceilings.",
+    "value": "萃取工艺的终极设备。\n^cyan;每次萃取需要^orange;60J^cyan;能量^reset;。\n可以放置在地板或天花板上。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Quantum Extractor^reset;",
+    "value": "^cyan;量子萃取器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Resource converter",
+    "value": "资源转换"
+  }
+]

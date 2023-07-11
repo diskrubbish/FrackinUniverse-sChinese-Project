@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bloodstone Sprout",
+    "value": "血石萌芽"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A bloodstone sprout",
+    "value": "血石芽"
+  }
+]

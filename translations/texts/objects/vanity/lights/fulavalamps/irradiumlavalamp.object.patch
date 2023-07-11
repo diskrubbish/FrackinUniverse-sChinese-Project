@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp filled with liquid Irradium. Is this even safe?",
+    "value": "一盏注满了液态镭的灯。它还安全吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Lava Lamp",
+    "value": "液镭熔岩灯"
+  }
+]

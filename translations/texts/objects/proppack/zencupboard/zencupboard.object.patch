@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A classic style cupboard.",
+    "value": "古典风格的橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Classic Cupboard",
+    "value": "经典橱柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A low cupboard. I'm assuming it's designed with Hylotl in mind.",
+    "value": "矮橱。我想它是和鲛人一起设计的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This cupboard is awfully short, isn't it?",
+    "value": "这个柜子太短了，不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fissshman cupboard.",
+    "value": "鱼人橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Irritated. I'm more likely to stub my foot on this cupboard than anything else.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This is one of those cupboards you gotta kneel down to use, right?",
+    "value": "这是你必须跪下来使用的橱柜之一，对吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A delightful cupboard. A perfect addition to any traditional home.",
+    "value": "令人愉快的碗橱。是任何传统家庭的完美补充。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I think someone forgot to give this li'l table some legs...",
+    "value": "我想有人忘了给这张桌子一些腿..."
+  }
+]

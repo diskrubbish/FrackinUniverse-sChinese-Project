@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Block",
+    "value": "月海块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Solid telebrium now in block form!",
+    "value": "固体月海石现在成块了！"
+  }
+]

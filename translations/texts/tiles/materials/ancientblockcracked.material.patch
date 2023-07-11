@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These bricks have been weathered by time.",
+    "value": "这些砖块已经饱经风霜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Cracked Block",
+    "value": "古代破碎砖块"
+  }
+]

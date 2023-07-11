@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A huge, ultra-quality screen unmarred by eons.",
+    "value": "一块巨大的超高品质屏幕，不受时间的影响。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Huge Monitor",
+    "value": "巨型显示器"
+  }
+]

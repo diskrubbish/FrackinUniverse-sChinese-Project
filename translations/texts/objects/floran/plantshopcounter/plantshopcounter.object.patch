@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Drop on in, they won't bite! Probably.",
+    "value": "进来吧，他们不会咬人的！也许吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shop Counter, Floran",
+    "value": "叶族售货柜台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The Floran are surprisingly well stocked in tourist souvenirs.",
+    "value": "叶族人的旅游纪念品库存惊人的丰富。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Knickknacks are being sold here alongside very real hunting trophies...",
+    "value": "这里出售的小玩意还真是狩猎战利品..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Florans expanding tourism indussstry. Good for funding infrassstructure.",
+    "value": "叶族人发展旅游业业业。有利于资助下层建建建筑。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. The quality of these products is remarkable considering the whole of them are made up of either plants or bone.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "So, uh, those bones are fake right? ... Probably not.",
+    "value": "那么，那些骨头是假的，对吗？...大概不是。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I could think of several other endeavors I would rather invest my pixels in, thank you.",
+    "value": "我可以想到其他几个我更愿意投资像素的项目，谢谢。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Well lookit that - a flask made from genuine Poptop hide.",
+    "value": "看看这个———一只由真正的吐舌娃皮制成的烧瓶。"
+  }
+]

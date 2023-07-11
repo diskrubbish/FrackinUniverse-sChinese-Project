@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decorative plant.",
+    "value": "装饰性的盆栽植物"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Plant Pot",
+    "value": "绘世者花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I've seen a lot of plants like this already. Standard issue plants, perhaps?",
+    "value": "我已经见过很多这样的植物了。也许是标准生产的盆栽？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I've seen a lot of plants like this already. The Skath seem to like to decorate their interiors with these.",
+    "value": "我已经见过很多这样的植物了。绘世者人似乎喜欢用这些来装饰他们的室内环境。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Waterdragon plantss.",
+    "value": "水龙盆栽。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A common Skath potted plant.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I've seen a lot of plants like this already. The Skath seem to like to decorate their interiors with these.",
+    "value": "我已经见过很多这样的植物了。绘世者人似乎喜欢用这些来装饰他们的室内环境。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I've seen a lot of plants like this already. The Skath seem to like to decorate their interiors with these.",
+    "value": "我已经见过很多这样的植物了。绘世者人似乎喜欢用这些来装饰他们的室内环境。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I've seen a lotta plants like this already. The Skath seem to like decoratin' their houses with these.",
+    "value": "我已经见过很多这样的植物了。绘世者人似乎喜欢用这些装饰他们的房子。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "While tethyde plating is functional, without plants our interiors tend to look rather dull.",
+    "value": "尽管韧影合金电镀是功能性的，没有植物使我们的室内环境看起来相当沉闷。"
+  }
+]

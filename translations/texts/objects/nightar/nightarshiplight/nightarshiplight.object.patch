@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small green light.",
+    "value": "一个小绿灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Green Ship Light",
+    "value": "绿色飞船灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These lights are commonly used on ships.",
+    "value": "这些灯通常用在飞船上。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A vibrant light.",
+    "value": "一盏明亮的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ship light is harsh on Floran eyesss.",
+    "value": "船灯很刺叶族人的眼眼眼睛。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This lighting fixture generates more light than heat.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A bright, white light.",
+    "value": "一盏明亮的白色灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A bright, white light. It creates a neutral atmosphere.",
+    "value": "一盏明亮的白灯。它创造了一个中庸的氛围。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's one bright lightbulb.",
+    "value": "那是个明亮的灯泡。"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small stall. It seems to be offering various items in exchange for ancient essence.",
+    "value": "一个小型的商店。可以用古代精华兑换各种物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Svetlana's Stall!",
+    "value": "斯韦特兰娜商店"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "Svetlana's Stall",
+    "value": "斯韦特兰娜商店"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "Repurchase Past Rewards!",
+    "value": "购回物品"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "No Apex would dare leave their store unattended like this.",
+    "value": "我们猿族的商店才不会如同这样的无人看管。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Buying and selling on the honour system is something the grounded take pride in.",
+    "value": "在这里可以选择购买或贩卖是多么有意思的事。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran would not ssteal from sstall. No meatss.",
+    "value": "叶族人才不会偷这里面面面的东西，都没有肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Interested. The goods displayed on this stall are remarkably rare.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The stuff here looks like it ought to be in the hands of a statue...",
+    "value": "这些玩意儿...我都不知怎么说才好。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Shops operating on the honour system denote a high level of societal trust.",
+    "value": "这种无人商店表示这个社会的信任度非常高。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These here wares certainly are catching my interest.",
+    "value": "里面的商品肯定很有意思。"
+  }
+]

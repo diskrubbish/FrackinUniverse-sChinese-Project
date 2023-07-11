@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute sink, for a bathroom.",
+    "value": "一个可爱的洗浴盆，用于浴室。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Bath Sink",
+    "value": "可爱的洗浴盆"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A railing to hold on to.",
+    "value": "要抓住的栏杆。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Ship Railing.",
+    "value": "船舷栏杆。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A ship railing.",
+    "value": "船的栏杆。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A ship railing.",
+    "value": "船的栏杆。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sship railing.",
+    "value": "船栏杆。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A ship railing.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A ship railing.",
+    "value": "船的栏杆。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A ship railing.",
+    "value": "船的栏杆。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A ship railing.",
+    "value": "船的栏杆。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "A basic ship railing. Nothing more.",
+    "value": "基本的船栏杆。没别的了。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A set of drawers made from exonite.",
+    "value": "一套长石制成的抽屉"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exonite Drawers",
+    "value": "长石抽屉"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The style reminds me a little of the hylotl.",
+    "value": "这风格稍稍让我想起了鲛人。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These remind me of Hylotl craftsmanship.",
+    "value": "这些让我想起鲛人的工艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fisssh people drawersss...?",
+    "value": "鱼鱼鱼人抽屉...?"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A well-made set of drawers.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The crystal in this set of drawers looks pretty.",
+    "value": "这套抽屉上的水晶看着太漂亮了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These drawers oddly remind me of my people.",
+    "value": "这套抽屉反常的让我想起我的同胞。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These drawers are mighty pretty.",
+    "value": "这些抽屉非常漂亮。"
+  }
+]

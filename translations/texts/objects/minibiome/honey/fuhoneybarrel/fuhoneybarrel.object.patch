@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A barrel just waiting to be filled with honey.",
+    "value": "这个桶正等着被蜂蜜填满。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Barrel",
+    "value": "蜂蜜桶"
+  }
+]

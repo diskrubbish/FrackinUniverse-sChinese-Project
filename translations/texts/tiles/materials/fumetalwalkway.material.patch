@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A high-quality industrial alloy walkway.",
+    "value": "高品质的工业合金人行道。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Walkway",
+    "value": "合金人行道"
+  }
+]

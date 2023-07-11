@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A marked map is pinned to the back of this barrel wood desk.",
+    "value": "这张木桶书桌的背面别着一张有标记的地图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corsair's Desk",
+    "value": "海盗船的书桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The map on this desk has several points of interest circled...",
+    "value": "这张书桌上的地图上圈出了几个有趣的地方..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This map has several areas crossed out. Were those treasure... or targets?",
+    "value": "这张地图划掉了几个区域。那些宝藏...还是目标？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran will beat pirates to treasure and ssstab them first!",
+    "value": "叶族人会先把海盗打到宝藏然后再杀了他们！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Worried. I do hope there weren't any civilians in these marked areas.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "X marks the spot, right? Or did they already strike there?",
+    "value": "X标记了点，对吗？还是他们已经袭击了那里？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Perhaps I can intercept at their next hit.",
+    "value": "也许我能在他们下一次击中时拦截。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A desk with some pixels and valuable information.",
+    "value": "有一些像素和有价值的信息的书桌。"
+  }
+]

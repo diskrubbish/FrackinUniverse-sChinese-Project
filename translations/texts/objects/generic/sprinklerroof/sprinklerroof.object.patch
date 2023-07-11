@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An automated soil watering solution.",
+    "value": "自动化浇水工具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sprinkler (roof)",
+    "value": "洒水器(挂式)"
+  }
+]

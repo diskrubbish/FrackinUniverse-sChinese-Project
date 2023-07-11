@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Coffee beans can be brewed to make a tasty beverage.",
+    "value": "咖啡豆可以煮成可口的饮料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coffee Basket",
+    "value": "咖啡篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Coffee is sought after for its pep-giving properties.",
+    "value": "咖啡因其具有提神的特性而广受欢迎。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Coffee beans look a tempting treat, but are extremely bitter.",
+    "value": "咖啡豆看起来很诱人，但却非常苦。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Coffee keepsss Floran awake.",
+    "value": "咖啡使叶族人醒了过来。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Ponderous. Glitch see no good use for these bitter beans.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Coffee, the perkiest plant known to man.",
+    "value": "咖啡，人类已知的最活泼的植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "See beyond its bitter taste and coffee is a useful resource.",
+    "value": "除了苦味，咖啡还是一种有用的资源。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Coffee smells good, but I've never noticed any beneficial side-effects to drinkin' the stuff.",
+    "value": "咖啡闻起来很香，但我从未注意到喝咖啡有任何有益的副作用。"
+  }
+]

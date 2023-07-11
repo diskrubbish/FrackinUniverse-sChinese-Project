@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A manufactured paneled door.",
+    "value": "人工制造的面板门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Paneled Door Prop",
+    "value": "面板门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This wooden door was not made by hand.",
+    "value": "这扇木门不是手工制作的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This door was produced by a machine.",
+    "value": "这扇门是用机器制造的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran not like door made in factory.",
+    "value": "叶族人与工厂生产的门不同。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This door appears to have been manufactured on a production line.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A cheaply manufactured door.",
+    "value": "一扇廉价制造的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This door lacks a personal touch.",
+    "value": "这扇门缺乏个人风格。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A cheap wooden door.",
+    "value": "一扇廉价的木门。"
+  }
+]

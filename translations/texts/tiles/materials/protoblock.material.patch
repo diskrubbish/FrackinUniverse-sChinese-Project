@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A solid block of protocite.",
+    "value": "一块固态原体方块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protocite block",
+    "value": "原体块"
+  }
+]

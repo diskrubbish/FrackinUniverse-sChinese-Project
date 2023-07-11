@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This ancient piece of sculpture makes you uneasy.",
+    "value": "这件古老的雕刻品让你感到不安。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Pedestal",
+    "value": "古代底座"
+  }
+]

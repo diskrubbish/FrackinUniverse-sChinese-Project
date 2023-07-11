@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The iris is the best part. Helps eyesight in the dark.",
+    "value": "果实结构像是眼球一样。可以收获眼球柠檬，食用后会免疫中毒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gazelemon Seed",
+    "value": "目力柠檬种子"
+  }
+]

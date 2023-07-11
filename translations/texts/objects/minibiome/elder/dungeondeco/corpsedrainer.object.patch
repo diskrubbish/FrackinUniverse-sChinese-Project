@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I don't even want to contemplate what this did to him.",
+    "value": "到底是谁对他做了如此可怕的事。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Horrifying Device",
+    "value": "拷问设备"
+  }
+]

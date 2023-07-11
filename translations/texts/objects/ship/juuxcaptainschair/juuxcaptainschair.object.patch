@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The Captain sits here to fly the ship.",
+    "value": "只有船长才有资格坐在这里指挥这艘飞船的航向\n^#B8860B;可在飞船用家具定制台调整种族风格^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pharitu Captain's Chair",
+    "value": "法瑞图船长椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ahh... Sweet freedom. I can use the ship's navigator from this chair.",
+    "value": "哦...现在想想真是跟做梦一样. 我能坐在使用飞船的导航控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The Captain's chair. That's me! I can use the ship's navigator from this chair.",
+    "value": "这是船长椅.它是我的！我能坐在这打开飞船的导航控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Best chair on ship. Floran can sit here to ussse navigator and fly ship!",
+    "value": "这艘船上最好的椅子.叶族人能坐在这打打打打开导航控制台让这艘船跑起来！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excited. Sitting on the Captain's chair allows me to fly this ship. Where to next?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The Captain's chair. The person sitting here decides where the ship goes!",
+    "value": "这是船长椅.有资格坐在这张椅子上的人有权力决定这艘飞船的航向。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Sitting on the Captain's chair allows me to fly this ship.",
+    "value": "坐在这张船长椅上能允许我指挥这艘飞船的航向"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The Captain's chair. The guy who sits here decides where the ship goes! That's me!",
+    "value": "这是船长椅.只有有资格坐在这的老大能指挥这艘船往哪儿开！但老大就是我！"
+  }
+]

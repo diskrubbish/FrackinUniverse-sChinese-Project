@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's an exceptionally cool chair.",
+    "value": "一把特别酷的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lab Chair",
+    "value": "实验室椅子"
+  }
+]

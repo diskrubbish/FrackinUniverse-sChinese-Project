@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A shield generator. Protective!",
+    "value": "一个护盾发生器。提供保护。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shield Generator",
+    "value": "护盾发生器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A shield generator.",
+    "value": "一个护盾发生器。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This generates a shield.",
+    "value": "这是护盾发生器。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Shieldsss!",
+    "value": "护盾盾盾！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Comforted. A shield generator.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This'll keep me safe!",
+    "value": "这将保证安全！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A crude protection device.",
+    "value": "一个简陋的保护装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Who needs a shield anyhow?",
+    "value": "谁需要一个盾牌？"
+  }
+]

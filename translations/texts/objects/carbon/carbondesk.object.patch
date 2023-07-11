@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A desk made from carbon.",
+    "value": "碳制的书桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Desk",
+    "value": "碳制书桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This desk is lighter than it looks.",
+    "value": "这张桌子比它看起来要轻。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A simple looking desk.",
+    "value": "一张看起来简单的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssseesss it isss a desk.",
+    "value": "叶族人觉觉觉得那是是是一张桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A desk.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's simple, but it looks nice and sleek.",
+    "value": "它很简单，但是看起来很漂亮，很时髦。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The design is simple, I wouldn't mind this in my room.",
+    "value": "设计很简单，我不介意把它放在我的房间里。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This is mighty simple, but it's pretty.",
+    "value": "非常简单，非常漂亮。"
+  }
+]

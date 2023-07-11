@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Made from only the finest ingredients. A perfect food for Vegans!",
+    "value": "由最好的原料制成。素食主义者的完美食物！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Orphan Paste",
+    "value": "孤儿膏"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This repulsive 'food' could have come straight from the Miniknog's top scientists.",
+    "value": "这种令人厌恶的“食物”可能直接来自米诺克的顶级科学家。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'd rather not.",
+    "value": "我宁愿不要。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likesss meat paste!",
+    "value": "叶族人喜欢肉酱！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Annoyed. My sensors indicate that the contents of this jar are meat based.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Uh, ew.",
+    "value": "嗯，嗯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The use of orphans in such a manner can only be described as an unspeakable atrocity.",
+    "value": "以这种方式利用孤儿只能说是一种无法形容的暴行。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't keen on eatin' somethin' called 'Orphan Paste'.",
+    "value": "我不喜欢吃“孤儿膏”。"
+  }
+]

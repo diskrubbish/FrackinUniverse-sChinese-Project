@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Combat Stances. Hold ^green;[F]^reset; to swap (See Status). Hold 3s to reset.",
+    "value": "切换战斗形态。按^green;[F]^reset;切换 (查看状态栏)。按3s后重置。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Thelusian Warrior",
+    "value": "蚁族战姿"
+  }
+]

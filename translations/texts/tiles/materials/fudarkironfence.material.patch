@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Durable metal makes for sturdy fences.",
+    "value": "耐用的金属制成坚固的栅栏。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tempered Iron Fence",
+    "value": "钢化铁栅栏"
+  }
+]

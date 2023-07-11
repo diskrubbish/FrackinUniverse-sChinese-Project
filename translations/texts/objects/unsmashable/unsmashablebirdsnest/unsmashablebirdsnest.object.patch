@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bird's nest with an egg in it. Unbreakable!",
+    "value": "有蛋的鸟巢。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bird's Nest",
+    "value": "鸟巢"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A bird's nest with an egg in it. I wonder if the egg is viable.",
+    "value": "有蛋的鸟巢。我想知道这个蛋是否能存活。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A sweet little bird's nest. How adorable!",
+    "value": "一个可爱的小鸟巢。真可爱！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Eggsss almost meat... Yum, yum!",
+    "value": "蛋蛋蛋几乎就是肉...吧唧，吧唧！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informed. Nests like these are how birds populate offspring.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's a bird's nest. I wonder if there are little baby birds in there.",
+    "value": "这是鸟巢。我不知道里面有没有小鸟。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A bird's nest. Nature.",
+    "value": "鸟巢。自然界"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Must be some tiny birds to live'n a nest that small.",
+    "value": "一定是一些小鸟住在这么小的巢里。"
+  }
+]

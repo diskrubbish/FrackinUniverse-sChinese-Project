@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You're just going to get back in it later - what's the point of making it up?",
+    "value": "你以后会回来的——编出来有什么意义？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloppy Bed",
+    "value": "邋遢的床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An unkept bed.",
+    "value": "一张未铺好的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "No one made an effort to try and make up this bed.",
+    "value": "没有人试着整理这张床。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Who hasss time for cleaning, anyway?",
+    "value": "不管怎么说，谁有时间打扫？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disapproving. Come now, is it that hard to make up one's bed?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'll make it up... later... for sure...",
+    "value": "我会弥补的...后来...当然..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What a slobbish way to live.",
+    "value": "多慢的生活方式啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "There ain't no time for sittin' around makin' beds!",
+    "value": "没时间坐在床上了！"
+  }
+]

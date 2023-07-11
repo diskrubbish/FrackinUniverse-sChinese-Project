@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A model of an unknown planet.",
+    "value": "一个未知行星的模型。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Medieval Globe",
+    "value": "中世纪金球奖"
+  }
+]

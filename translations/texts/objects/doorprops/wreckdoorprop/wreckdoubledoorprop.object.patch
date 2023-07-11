@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These doors are almost rusted shut.",
+    "value": "这些门几乎锈死了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wrecked Double Door Prop",
+    "value": "失落双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Rusted doors, just about open.",
+    "value": "生锈的门，快要打开了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These doors are heavy and rusted.",
+    "value": "这些门很重，而且生锈了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Heavy doors are hard to open.",
+    "value": "沉重的门很难打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. Rust makes these doors creek.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Rusty old doors. Very heavy.",
+    "value": "生锈的旧门，很重。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These doors were once very secure.",
+    "value": "这些门曾经非常安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These might have been secure once, before their hinges rusted.",
+    "value": "在它们的铰链生锈之前，它们可能曾经是安全的。"
+  }
+]

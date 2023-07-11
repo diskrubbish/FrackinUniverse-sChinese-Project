@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The oldschool way to haul freight.",
+    "value": "运输货物的老式选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Storage Cart",
+    "value": "大篷车"
+  }
+]

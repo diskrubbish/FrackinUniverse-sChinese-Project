@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fabricates clothing and complex fabric-based armors. Use the Armory for Weapons and Ore-based armors.",
+    "value": "可使用复杂的面料制造出多种装甲，建议与你的军备作坊互补。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Clothing Fabricator^reset;",
+    "value": "^orange;装备合成器^reset;"
+  }
+]

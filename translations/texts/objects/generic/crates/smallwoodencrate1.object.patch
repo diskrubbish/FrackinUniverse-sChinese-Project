@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wooden alcohol crate.",
+    "value": "一个木制的储酒板条箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crate o' Bottles",
+    "value": "储酒板条箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A wooden crate.",
+    "value": "一个木箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A wooden storage box.",
+    "value": "一个木制储物盒。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fine wooden box.",
+    "value": "精细的木木木箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. A wooden crate.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's just a crate.",
+    "value": "它只是一个箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A crate made of wood.",
+    "value": "一个木头做的箱子。"
+  }
+]

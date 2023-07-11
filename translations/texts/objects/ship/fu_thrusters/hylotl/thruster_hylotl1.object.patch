@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A space craft thruster of Hylotl design.",
+    "value": "一个鲛人风格的宇宙飞船推进器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Thruster (Hylotl)",
+    "value": "大型推进器（鲛人）"
+  }
+]

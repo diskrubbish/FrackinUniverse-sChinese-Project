@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A beer...keg. Mmm, beer.",
+    "value": "嗯，啤酒。*嗝*"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beer Keg",
+    "value": "啤酒酒桶"
+  }
+]

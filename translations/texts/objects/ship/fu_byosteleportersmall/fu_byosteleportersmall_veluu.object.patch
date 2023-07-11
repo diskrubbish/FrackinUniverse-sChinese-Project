@@ -1,0 +1,134 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Trusty teleporter, what would we do without you? Sets your ship spawn. Extract to return the ship teleporter.",
+    "value": "可靠的传送器，没有你我们怎么办？设置你的船体降落点然后返回飞船传送器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Teleporter (Veluu'ish)",
+    "value": "小型传送器（灵猫族）"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The ship's teleporter. Teleporting feels like riding a rollercoaster at the speed of light.",
+    "value": "飞船的传送器！传送时的感觉就像坐在光速运行的过山车上。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The teleporter! Teleporting feels like flying.",
+    "value": "传送器！飞一样的感觉！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ship teleporter. Floran feel confusssed during teleport.",
+    "value": "飞船传送器！传送时叶族人会很困困困困困惑。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Smug. A teleporter. I am able to enter a sleep mode during the teleport process.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The teleporter! Teleporting is such a rush.",
+    "value": "传送器！传送如此迅速！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A teleporter. Teleporting feels like diving into the ocean from a mountain top.",
+    "value": "一个传送器！传送时的感觉就像自山巅坠入深海。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ship's teleporter. Let's take her for a spin!",
+    "value": "飞船的传送门！让我们来试试她吧"
+  },
+  {
+    "op": "replace",
+    "path": "/fukirhosDescription",
+    "raw": "Teleporting is euphoric.  It's like jacking into CySol's private entertainment network.",
+    "value": "传送让人精神愉快，就像钻进了CySol的私人娱乐网络一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "You won't believe how much you save on fuel with this thing.",
+    "value": "你不会相信这东西能帮你省下那么多燃料的。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "Miniturized solid-state teleporter. In emergencies, it will automatically snatch the pilot an instant before death and return them to the ship for trauma care.",
+    "value": "小型化固态传送机。在紧急情况下，它会在飞行员死亡前的一瞬间自动抓住他们，并将他们送回船上接受创伤护理。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Warm ball, reassembles me.",
+    "value": "温暖的球，重新组合我。"
+  },
+  {
+    "op": "replace",
+    "path": "/thelusianDescription",
+    "raw": "Links minds and places, one and the same.",
+    "value": "连接思想和地点，一模一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/aegiDescription",
+    "raw": "The ship's teleporter. I always feel like I'm riding an Aventor Racing Spaceship when I teleport!",
+    "value": "飞船的传送机。当我进行远程传送时，我总觉得自己像是在乘坐复仇者号的赛车飞船！"
+  },
+  {
+    "op": "replace",
+    "path": "/avikanDescription",
+    "raw": "The ship's teleporter. Using it feels like riding atop a giant sandcrawler at top speed.",
+    "value": "飞船的传送机。使用它感觉就像以最高速度骑在巨大的沙履带上。"
+  },
+  {
+    "op": "replace",
+    "path": "/trinkDescription",
+    "raw": "Some species feel sensation when they teleport, but I feel nothing of the sort.",
+    "value": "有些物种在传送时会有感觉，但我没有这种感觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/hymidDescription",
+    "raw": "Teleporting feels amazing. I don't think I know anything that feels quite like it.",
+    "value": "传送感觉很奇妙。我想我不知道有什么感觉像这样。"
+  },
+  {
+    "op": "replace",
+    "path": "/notixDescription",
+    "raw": "The ship's teleporter. The sounds I hear when teleporting are absolutely fascinating.",
+    "value": "飞船的传送装置。我在传送时听到的声音非常迷人。"
+  },
+  {
+    "op": "replace",
+    "path": "/jorgasianDescription",
+    "raw": "This teleporter allows for near-instant travel between the ship and the planet below me.",
+    "value": "这个传送机可以在飞船和我下面的星球之间进行瞬移旅行。"
+  },
+  {
+    "op": "replace",
+    "path": "/drodenDescription",
+    "raw": "Teleportation technology detected. Recommend entering standby mode during teleportation process to minimize potential data loss.",
+    "value": "检测到传送技术。建议在传送过程中进入待机模式，以尽量减少潜在的数据丢失。"
+  },
+  {
+    "op": "replace",
+    "path": "/akkimariDescription",
+    "raw": "Akki feel strange when teleporting.",
+    "value": "Akki在传送时感觉很奇怪。"
+  }
+]

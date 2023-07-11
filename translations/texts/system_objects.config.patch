@@ -1,0 +1,134 @@
+[
+  {
+    "op": "replace",
+    "path": "/flyingpyramid/parameters/description",
+    "raw": "An Avian spacefaring structure full of murderous zealots. Pyramids are a traditional favourite.",
+    "value": "一座充满着狂热嗜杀者的翼族航天建筑物，金字塔是翼族人最喜欢的传统样式。"
+  },
+  {
+    "op": "replace",
+    "path": "/ninjapagoda/parameters/description",
+    "raw": "You hear stories of Hylotl isolated in space who still believe they're fighting the Floran-Hylotl war. Guess they never got the message, huh?",
+    "value": "你肯定听说过关于一些与世隔绝的鲛人的传说，他们仍认为鲛人-叶族战争正在持续。猜猜它们从未收到过消息，嗯？"
+  },
+  {
+    "op": "replace",
+    "path": "/ixolinggrounds/parameters/description",
+    "raw": "Ixoling husbandry is a long-standing and respected profession amongst Floran - and oddly enough, best carried out in space.",
+    "value": "蜱虫养殖业是叶族之中长期以来备受遵从的行业，奇怪的是——这项事业最适合在太空中进行。"
+  },
+  {
+    "op": "replace",
+    "path": "/letheiafleet/parameters/description",
+    "raw": "A fleet of starships belonging to the Letheia Corporation. Extremely dangerous and more than willing to kill to preserve corporate secrets.",
+    "value": "莱西亚公司旗下的一支星际舰队。极其危险，为了保守公司机密不惜杀戮。"
+  },
+  {
+    "op": "replace",
+    "path": "/outlawmine/parameters/description",
+    "raw": "This cluster of mineral-rich asteroids has attracted some Novakid outlaws into staking an illegal claim to them.",
+    "value": "这个富含矿物质的小行星群吸引了一些星之子亡命徒对它们进行非法开采。"
+  },
+  {
+    "op": "replace",
+    "path": "/wizardabode/parameters/description",
+    "raw": "One of the Hogwash School of Technowizardry's many campuses. Here, hopeful Glitch study the arts of wrangling machine spirits.",
+    "value": "这是霍格沃兹技术巫师学校的诸多校区之一。在这里，充满希望的电子人们研究关于机器精神争论的艺术。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexweaponsplatform/parameters/description",
+    "raw": "The flagships of the Skath fleet, deployed at the head of an armada or on solitary missions. This one appears to be on the hunt.",
+    "value": "绘世者舰队的旗舰，被部署在舰队之首或执行单独的任务。这艘似乎是在捕猎。"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_food/parameters/description",
+    "raw": "A space station dedicated to trading items and goods, as well as accepting investments for benefits.",
+    "value": "一间空间站，专门用于交易货物和接受利润投资。"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_medical/parameters/description",
+    "raw": "A space station offering medical supplies, as well as long lasting body enhancers.",
+    "value": "这间空间站提供医疗用品，以及持久的身体增强剂。"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_weapons/parameters/description",
+    "raw": "A battle station deployed by military agencies. Serves as a (legal) place to purchase weaponry, and hire crew.",
+    "value": "军事机构部署的一个战斗用空间站。作为一个（合法的）购买武器和雇用船员的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/fastfoodspace/parameters/description",
+    "raw": "The largest fast-food franchise in the galaxy. More than 83 Quadrillion Served.",
+    "value": "星际间规模最大的快餐连锁店，连锁店超过83千万亿家。"
+  },
+  {
+    "op": "replace",
+    "path": "/flyingpyramid/parameters/displayName",
+    "raw": "Avian Pyramid",
+    "value": "翼族金字塔"
+  },
+  {
+    "op": "replace",
+    "path": "/ninjapagoda/parameters/displayName",
+    "raw": "Mysterious Pagoda",
+    "value": "秘传佛塔"
+  },
+  {
+    "op": "replace",
+    "path": "/ixolinggrounds/parameters/displayName",
+    "raw": "Floran Ixoling Grounds",
+    "value": "叶族蜱虫养殖场"
+  },
+  {
+    "op": "replace",
+    "path": "/letheiafleet/parameters/displayName",
+    "raw": "The Letheia Fleet",
+    "value": "莱西亚舰队"
+  },
+  {
+    "op": "replace",
+    "path": "/outlawmine/parameters/displayName",
+    "raw": "Outlaw Mine",
+    "value": "非法矿井"
+  },
+  {
+    "op": "replace",
+    "path": "/wizardabode/parameters/displayName",
+    "raw": "Glitch Technowizard Tower",
+    "value": "机械族技术巫师塔"
+  },
+  {
+    "op": "replace",
+    "path": "/apexweaponsplatform/parameters/displayName",
+    "raw": "Skath Dreadnought",
+    "value": "绘世者无畏舰"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_food/parameters/displayName",
+    "raw": "Galactic Trade Station",
+    "value": "星际贸易站"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_medical/parameters/displayName",
+    "raw": "Galactic Medical Care Station",
+    "value": "星际医疗站"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_weapons/parameters/displayName",
+    "raw": "Military Battlestation",
+    "value": "军事演习场"
+  },
+  {
+    "op": "replace",
+    "path": "/fastfoodspace/parameters/displayName",
+    "raw": "Burger Fool",
+    "value": "小憨堡"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The body of a Snowpeglaci.",
+    "value": "佩格拉雪人的躯体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peglaci Snowbody",
+    "value": "佩格拉雪人"
+  }
+]

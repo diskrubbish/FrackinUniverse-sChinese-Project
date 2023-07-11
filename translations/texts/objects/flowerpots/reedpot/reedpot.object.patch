@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A singular, elegant potted reed.",
+    "value": "一种奇特、优雅的盆栽芦苇。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Reed Pot",
+    "value": "芦苇罐"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A reed plant. It makes for surprisingly refined decor.",
+    "value": "芦苇植物。它的装饰非常精致。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Reed plants such as this one bring to mind the sounds of the river.",
+    "value": "像这样的芦苇植物会让人想起河流的声音。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Reeds are great hiding spots for Floran's sssneak attacks!",
+    "value": "芦苇是叶族人偷袭的理想藏身之处！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. When it's neat and contained like this, reeds are rather pretty.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I never would've thought to pot reeds, but it's surprisingly chic!",
+    "value": "我从来没有想到过大麻芦苇，但它出人意料的别致！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Reed plants are a symbol of utter confidence in a higher power in Hylotl culture.",
+    "value": "芦苇植物象征着对鲛人l文化中更高权力的完全信任。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A tall potted reed plant.",
+    "value": "一种高大的盆栽芦苇植物。"
+  }
+]

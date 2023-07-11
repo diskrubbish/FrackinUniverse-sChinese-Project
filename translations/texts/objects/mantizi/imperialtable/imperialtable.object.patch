@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A solid dining room table.",
+    "value": "一张结实的餐桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Table",
+    "value": "甲虫桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A nice, if basic table. Smooth and elegant wood.",
+    "value": "一个不错的基础桌子。采用光滑优雅的木材制作。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A table of high quality.",
+    "value": "高质量的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Table not have woodworm, bad.",
+    "value": "桌子上没有蛀虫，坏了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Inspect. A very sturdy table, likely built by an expert.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This table is in good condition.",
+    "value": "这张桌子状况良好。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This table looks like it could support a lot of weight.",
+    "value": "这张桌子看起来可以承受很大的重量。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Essential for the dining experience.",
+    "value": "对用餐体验至关重要。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Created out of necessity in beakseed season to make use of all the jam.",
+    "value": "为了利用所有的果酱，需要在种子季节种出它们。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beakseed Tarts",
+    "value": "鸟喙果馅饼"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Birdman tart isn't all that sssweet...",
+    "value": "鸟人馅饼并不那么甜..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Some delightfully crunchy beakseed tarts.",
+    "value": "一些脆脆可口的鸟喙果馅饼。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This li'l tart ain't too sweet. I could get used to this!",
+    "value": "这个蛋挞不太甜。我会习惯的！"
+  }
+]

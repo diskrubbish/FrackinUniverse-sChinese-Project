@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cultist tent.",
+    "value": "邪教徒的帐篷。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Occassus Tent",
+    "value": "咬骨帐篷"
+  },
+  {
+    "op": "replace",
+    "path": "/cultistDescription",
+    "raw": "A tent often used by those camping away from home.",
+    "value": "一顶远离家乡露营的人经常使用的帐篷。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A tent often used by those away from home.",
+    "value": "帐篷离家出走的人经常使用的帐篷。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Tent iss good shelter in wildernesss.",
+    "value": "帐篷是野地里的良好避难所。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Irritated. There isn't much room.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This tent wouldn't be out of place in a military camp.",
+    "value": "这个帐篷放在军营里应该合适。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A militaristic looking tent.",
+    "value": "军国主义风格的帐篷。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some kinda military tent.",
+    "value": "某种军用帐篷。"
+  }
+]

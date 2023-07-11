@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Avali Ship Railgun",
+    "value": "羽族舰载轨道炮"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avali Ship Railgun",
+    "value": "羽族舰载轨道炮"
+  }
+]

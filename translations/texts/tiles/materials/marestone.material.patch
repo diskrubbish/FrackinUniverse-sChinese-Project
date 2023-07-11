@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rough, unrefined marestone.",
+    "value": "粗糙、未精制的星海石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Marestone",
+    "value": "星海石"
+  }
+]

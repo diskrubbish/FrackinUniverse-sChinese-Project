@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An ancient construct of unknown origin",
+    "value": "一个古老且来历不明的建筑材料"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Lit Floor",
+    "value": "先驱发光地板"
+  }
+]

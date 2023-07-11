@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decorative wooden trim for housing.",
+    "value": "用于房屋的装饰木制饰板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wooden Trim",
+    "value": "木质饰板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Satisfied. These are well crafted wood planks.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssplintery wood plankss.",
+    "value": "这是粗粗粗糙的木木木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just some basic lookin' wood planks.",
+    "value": "这只是一些看上去很基本的木板。"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nice pretty wood, enough of it can make your house bigger on the inside.",
+    "value": "漂亮的木头，足够让你的房子里面显得更大。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Timber",
+    "value": "暗木木材"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Suspicious. Should I build stuff with a substance like Aether?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstarry wood plankss.",
+    "value": "星星星木浮板。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Yeah, like I totally trust this to keep my house from imploding, it'll make it implode harder.",
+    "value": "是的，就像我完全相信这个可以防止我的房子内爆一样，它会使内爆更加困难。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some fancy lookin' planks I gotta say.",
+    "value": "不得不说，这些木板看起来很漂亮。"
+  }
+]

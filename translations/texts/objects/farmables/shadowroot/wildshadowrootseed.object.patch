@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shadowroot temporarily increases your crit bonus damage.",
+    "value": "可以收获暗影草，食用后会提高暴击伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowroot Seed",
+    "value": "暗影草种子"
+  }
+]

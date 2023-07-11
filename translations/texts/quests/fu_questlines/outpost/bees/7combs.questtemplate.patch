@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Honeycombs",
+    "value": "蜂巢"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Once your bees have been busy a while ^green;collect the combs from your apiary^reset;.",
+    "value": "当你的蜜蜂工作一段时间，你就可以^orange;从蜂箱收获蜂巢^reset;了。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Now you'll need another station to process this resource. Shall we continue?",
+    "value": "现在你得需要另一台机器来处理这些资源，如果你准备好了，我们开始进行下一步？"
+  }
+]

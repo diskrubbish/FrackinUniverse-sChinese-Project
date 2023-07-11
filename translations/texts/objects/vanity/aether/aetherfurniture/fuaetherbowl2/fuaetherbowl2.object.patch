@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A simple pretty bowl containing a pile of aether dust.",
+    "value": "一个装了一堆以太尘的碗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Bowl",
+    "value": "以太碗"
+  }
+]

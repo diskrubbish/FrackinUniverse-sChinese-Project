@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wall decal of the signature Burger Fool Hat.",
+    "value": "标志性汉堡傻瓜帽的墙贴。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Burger Fool Wall Decal",
+    "value": "汉堡傻瓜墙贴"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "So is the Trictus their mascot or is it the hat?",
+    "value": "那么诡行仙是他们的吉祥物还是帽子呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A Jester's cap. I suppose that explains the employee's attire.",
+    "value": "小丑帽。我想这就是员工着装的原因。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thisss hat has little bells on the end.",
+    "value": "这顶帽子的末端有小铃铛。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Abashed. So this is why the employees are dressed like they are?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's one of those silly fool's h- Ohhhh!",
+    "value": "这是一个愚蠢的傻瓜的h-哦！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What a deplorable way to treat your valuabled employees.",
+    "value": "对待有价值的员工，这是一种多么可悲的方式。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's a mighty silly lookin' hat. S'ppose that's the point.",
+    "value": "那顶帽子真傻。这就是重点。"
+  }
+]

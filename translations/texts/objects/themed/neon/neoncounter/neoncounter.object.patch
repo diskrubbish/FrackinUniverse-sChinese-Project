@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy neon countertop.",
+    "value": "坚固的霓虹灯台面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neon Cabinet",
+    "value": "霓虹灯柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small wooden storage unit.",
+    "value": "一个小的木制存储单元。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A small amount of storage.",
+    "value": "小容量的存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sstorage. Not much.",
+    "value": "存存存储。没啥大不了的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unimpressed. Not much storage here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A cute couple of cabinets.",
+    "value": "一对可爱的橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Small but useful storage.",
+    "value": "小容量但很实用的存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Seems safe enough as far as unlocked storage goes.",
+    "value": "对于解锁的存储来说似乎足够安全。"
+  }
+]

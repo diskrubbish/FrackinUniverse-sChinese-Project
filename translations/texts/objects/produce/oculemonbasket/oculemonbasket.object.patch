@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The iris is the best part of this strange fruit.",
+    "value": "鸢尾花是这种奇怪水果最好的部分。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Oculemon Basket",
+    "value": "眼球柠檬篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The oculemon reminds me of Big Ape. That ever-watchful eye.",
+    "value": "眼球柠檬让我想起了大猩猩。那永远警惕的眼睛。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A sour fruit with a piercing gaze.",
+    "value": "目光锐利的酸水果。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Next best thing to eyeballsss. Floran likes them, others are disssturbed.",
+    "value": "其次是眼球。叶族人喜欢他们，其他人则失望。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Introspective. Is this fruit perhaps a window into its own soul?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Of all the fruit in all the universe, the oculemon may just be the creepiest.",
+    "value": "在宇宙所有的水果中，眼球柠檬可能是最令人毛骨悚然的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Parts of the oculemon are deadly, unless carefully prepared.",
+    "value": "除非精心准备，否则柠檬的某些部分是致命的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Should fruit look back at you? I dunno...",
+    "value": "果仁应该回头看看你吗？我不知道..."
+  }
+]

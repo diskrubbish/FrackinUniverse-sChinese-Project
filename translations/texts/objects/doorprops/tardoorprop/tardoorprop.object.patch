@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tar door.",
+    "value": "柏油门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tar Door Prop",
+    "value": "柏油门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Just a door, only made from tar.",
+    "value": "只有一扇门，只有柏油做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A normal looking door, but quite a feat of tar engineering.",
+    "value": "一扇看起来普通的门，但却是柏油工程的杰作。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssticky and ssslow to open. No good.",
+    "value": "黏黏黏糊糊的，慢慢慢的打开，不好。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disapproving. A door made of tar could become stuck at any moment.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Fairly sturdy for a tar door.",
+    "value": "相当坚固的柏油门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A cascade of tar has been formed into a door.",
+    "value": "焦油的瀑布已经形成了一扇门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It seems to be a door made from dried tar. But it's still pretty sticky.",
+    "value": "看起来像是用干焦油做的门，但还是很粘。"
+  }
+]

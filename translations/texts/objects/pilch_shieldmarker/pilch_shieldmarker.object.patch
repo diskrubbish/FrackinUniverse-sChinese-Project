@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Marks the edge of the generated field.",
+    "value": "标记生成立场的边界。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Field Marker",
+    "value": "力场标记器"
+  }
+]

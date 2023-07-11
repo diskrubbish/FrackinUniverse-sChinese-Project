@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Precursor Booster",
+    "value": "先驱科技的最佳体现。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Precursor Rig^reset;",
+    "value": "^#77acc3;狂经脉 V^reset;"
+  }
+]

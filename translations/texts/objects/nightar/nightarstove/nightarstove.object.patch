@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An advanced cooking device, with controllable heat for perfect cooking.",
+    "value": "先进的烹饪设备，可控制热量，完美烹饪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Cooker",
+    "value": "夜族炉灶"
+  }
+]

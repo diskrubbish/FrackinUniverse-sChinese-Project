@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A vaguely man-shaped aberration that has a terrifyingly powerful presence. It feels as if touching the painting...would touch him as well.",
+    "value": "一位隐秘的人形畸变，具有可怕力量的存在。感觉只要触摸到了那幅画...也就触摸到了他。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lord Nyarlathotep",
+    "value": "神君奈亚拉托提普"
+  }
+]

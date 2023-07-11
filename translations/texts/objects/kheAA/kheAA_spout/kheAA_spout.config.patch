@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/dragDrop/value",
+    "raw": "Drag&Pour",
+    "value": "拖入 & 取出"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/count/value",
+    "raw": "1 SLOT",
+    "value": "1格"
+  }
+]

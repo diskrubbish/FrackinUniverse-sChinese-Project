@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "+20% damage in exchange for -20% health",
+    "value": "伤害+20%，作为代价，生命值上限-20%。"
+  }
+]

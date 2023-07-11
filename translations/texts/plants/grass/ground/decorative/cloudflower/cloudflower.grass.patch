@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cloudy spiral flower.",
+    "value": "一株螺旋花。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A cloudy spiral flower.",
+    "value": "一株螺旋花。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty flower.",
+    "value": "美丽的花。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A cloudy spiral flower.",
+    "value": ""
+  }
+]

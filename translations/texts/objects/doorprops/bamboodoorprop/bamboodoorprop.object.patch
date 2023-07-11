@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This door is strong and sustainably sourced.",
+    "value": "这扇门是坚固的，由可持续资源制作。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bamboo Door Prop",
+    "value": "竹制门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Bamboo woven into a door. It's tougher than it looks.",
+    "value": "竹编成的门。这比看起来要粗糙。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The plant used to make this door feels as solid as stone.",
+    "value": "用来做这扇门的植物摸起来像石头一样结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran bamboo is ssstrong as metal.",
+    "value": "叶族人的竹子强强强硬如铁。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. This door is built from organic material, but stands as strong as steel.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This door has small gaps in it where the sticks of bamboo meet. I can see right through!",
+    "value": "这扇门上有一个小缝隙，正好是竹枝相交的地方。我一眼就看穿了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Floran appear to be able to bend nature to their will. No small feat.",
+    "value": "叶族人似乎能够让大自然屈从于他们的意志，这可不是一件小事。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Good ol' bamboo, nature's steel.",
+    "value": "优质的竹子，天然的钢铁。"
+  }
+]

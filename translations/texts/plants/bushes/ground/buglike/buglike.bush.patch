@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An unusual bug-like structure.",
+    "value": "我不喜欢这种结构。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "An unusual bug-like structure.",
+    "value": "我不喜欢这种结构。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Creepy crawly thingsss.",
+    "value": "令人毛骨悚然的事情情情。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curiosity. An unusual bug-like structure.",
+    "value": ""
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Mech Fuel Tracker",
+    "value": "机甲染料追踪"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Tracks mech data. Do not cancel.",
+    "value": "跟踪机甲数据。不要取消。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Should never be completed, nor fail!",
+    "value": "不成功，便成仁！"
+  }
+]

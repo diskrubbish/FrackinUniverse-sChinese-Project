@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A comfy dark colored couch.",
+    "value": "一张舒适的深色沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowy Couch",
+    "value": "阴影长沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple dark colored couch. The pillows are striped.",
+    "value": "一张简单的深色沙发。这些枕头有条纹。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The pillows make this couch comfortable.",
+    "value": "这些枕头使这张沙发很舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstripy couch. Ssoft pillows.",
+    "value": "条条条纹沙发。柔软的枕头。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Inspired. Perhaps I should decorate myself with stripes.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A dark bench with nice stripy pillows.",
+    "value": "一张深色的长椅，上面有漂亮的条纹坐垫。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Not too soft, not too firm. A good spot for meditation.",
+    "value": "不需要太软，也不要太结实。这是冥想的好地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A good place to sit and watch a sun go down.",
+    "value": "一个坐下来看太阳落山的好地方。"
+  }
+]

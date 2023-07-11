@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A huge statue, most likely some sort of Deity of whoever built it.",
+    "value": "这个巨大的雕像可能是某种我们不知道的存在建造的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Enormous Warrior Statue",
+    "value": "巨大的战士雕像"
+  }
+]

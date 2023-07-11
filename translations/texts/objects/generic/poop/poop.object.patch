@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A revolting pile of poop. The stench is foul!\n^green;+^white;1 ^green;produce.^reset;",
+    "value": "不管是腥还是臭，到我地就有用！\n^green;产量+^white;1^reset;"
+  }
+]

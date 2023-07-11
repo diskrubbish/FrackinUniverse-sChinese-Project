@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cool lamp with a black and white checkered lampshade.",
+    "value": "带有黑白格子灯罩的酷灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Modern Lamp",
+    "value": "现代灯具"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Compared to the lamps back home, this pattern is a breath of fresh air.",
+    "value": "与家里的灯相比，这种图案是一种新鲜空气。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Thankfully the light this lamp gives off isn't checkered itself.",
+    "value": "谢天谢地，这盏灯发出的光本身并不是方格图案。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Lamp with little sssquares.",
+    "value": "有小正方形的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A lamp with a black and white lampshade.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A lamp with a checkered pattern.",
+    "value": "有格子图案的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What an interesting showcase of light and dark in this pattern.",
+    "value": "这是一个多么有趣的鲜明对比。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A funky lamp. Looks a li'l like a chessboard.",
+    "value": "一盏时髦的灯。看起来像棋盘。"
+  }
+]

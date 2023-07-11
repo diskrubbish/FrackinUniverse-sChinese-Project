@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pretty, but watch out!",
+    "value": "漂亮，但是要小心！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cactus Flower Bed",
+    "value": "仙人掌花坛"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Cactus sure do guard their blooms zealously...",
+    "value": "仙人掌确实热情地守护着它们的花朵..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Young Avian often make a game of leaping over such planters and snatching the flower without getting nicked. It rarely goes over well.",
+    "value": "年轻的翼族人经常做一个游戏，跳过这样的花盆，抢走花朵而不被抓伤。但往往都不会有好下场。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wishes they grew sspikes...",
+    "value": "叶族人希望他们能种上长矛..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. Although these spines can't technically hurt me, I ought to be cautious not to get tangled in these cacti.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Wow, I do NOT wanna mess with that.",
+    "value": "哇，我不想搞砸了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such a delicate bloom on such a bristly plant...",
+    "value": "在这样一株刚毛茂盛的植物上绽放出如此娇嫩的花朵..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "When all you got flowerin' in the desert is cacti, you learn to make do.",
+    "value": "当你在沙漠里只能获得仙人掌，你就学会了如何生活。"
+  }
+]

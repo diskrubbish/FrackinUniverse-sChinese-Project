@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crunchy beakseed. The nostril is the best part.",
+    "value": "松脆的喙状种子。鼻孔是最好的部分。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beakseed Basket",
+    "value": "鸟喙果篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The beakseed is unusually crunchy, and not entirely pleasant.",
+    "value": "鸟喙果异常脆，并不完全令人愉快。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "There's an old folk tale about Avians eating beakseeds at a banquet... I like that one.",
+    "value": "有一个古老的民间传说是关于翼族人在宴会上吃鸟喙果...我喜欢那个。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Beaksseed crunchy, not sssquishy like other mouthsss.",
+    "value": "鸟喙果，不像其他的嘴那样黏糊糊的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Philosophical. Does the beakseed look like a beak, or do beaks look like beakseeds?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The crop looks like an Avian face. It's a bit disconcerting.",
+    "value": "庄稼看起来像翼族的脸。这有点令人不安。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Beakseeds are surprisingly tasty. One can only assume beaks are nowhere near as palatable.",
+    "value": "鸟喙果出人意料地美味。人们只能假设喙远没有那么可口。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I wouldn't want to eat a real beak by mistake.",
+    "value": "我可不想误食一只真正的喙。"
+  }
+]

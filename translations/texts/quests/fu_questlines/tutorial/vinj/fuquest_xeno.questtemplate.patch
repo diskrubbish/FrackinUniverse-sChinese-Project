@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Using the Sprouting Table",
+    "value": "使用植物分析台"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "So you've built a ^orange;Sprouting Table^reset;? Why are you looking so clueless? It's simple: Toss in a ^orange;Potato Seed^reset; and wait about 60 seconds. You'll get a useful ^green;Gene^reset; for your botany research, or other goods",
+    "value": "所以你已经建好了^orange;植物分析台^reset;？但你为什么看起来毫无头绪？很简单：扔一个^orange;土豆种子^reset;进去，大约60秒后你会得到^green;基因^reset;，对你的植物学研究或其他产品很有用处。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Constructing a ^orange;Xeno Lab^reset; upon upgrading your ^orange;Machining Table^reset; is a good idea, as they are ^green;much faster^reset;! Effectively every plant seed can be placed within seed labs, and each one will produce ^green;Genes^reset;.",
+    "value": "在升级^orange;加工台^reset;后制造^orange;基因提取器^reset;是一个好主意，因为它工作起来比植物分析台^green;快得多^reset;！ 实际上，每一种植物种子都可以放在种子实验室中，每一种都会产生^green;基因^reset;。"
+  }
+]

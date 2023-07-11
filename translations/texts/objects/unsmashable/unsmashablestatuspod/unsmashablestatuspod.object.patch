@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A status pod. Unbreakable!",
+    "value": "一个状态舱。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Status Pod",
+    "value": "状态舱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A status pod. Will I be lucky?",
+    "value": "一个状态舱。我会幸运吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A status pod. I hope I get lucky.",
+    "value": "一个状态舱。我希望我能走运。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran trigger little pod with recklessss abandon.",
+    "value": "叶族人鲁莽放纵地触发了小吊舱。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. This status pod's effects are unable to be analysed.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's a status pod! Should I tempt fate by triggering it?",
+    "value": "这是状态舱！我应该通过触发它来试探命运吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I bet something bad happens.",
+    "value": "我敢打赌一定有坏事发生。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A status pod! I sure hope today's my lucky day!",
+    "value": "一个状态舱！我真的希望今天是我的幸运日！"
+  }
+]

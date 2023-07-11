@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cosmic glass made from superheated aether dust.",
+    "value": "由热化以太尘制成的宇宙玻璃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Glass",
+    "value": "以太玻璃"
+  }
+]

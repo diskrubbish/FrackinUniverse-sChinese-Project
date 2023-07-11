@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Trusty teleporter, what would we do without you?",
+    "value": "可靠的传送器，离开了它我便寸步难行。\n^green;拆卸后可重新部署^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Teleporter",
+    "value": "飞船用传送门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The ship's teleporter. Teleporting feels like riding a rollercoaster at the speed of light.",
+    "value": "飞船的传送器！传送时的感觉就像坐在光速运行的过山车上。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The teleporter! Teleporting feels like flying.",
+    "value": "传送器！飞一样的感觉！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ship teleporter. Floran feel confusssed during teleport.",
+    "value": "飞船传送器！传送时叶族人会很困困困困困惑。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Smug. A teleporter. I am able to enter a sleep mode during the teleport process.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "The teleporter! Teleporting is such a rush.",
+    "value": "传送器！传送如此迅速！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A teleporter. Teleporting feels like diving into the ocean from a mountain top.",
+    "value": "一个传送器！传送时的感觉就像自山巅坠入深海。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ship's teleporter. Let's take her for a spin!",
+    "value": "飞船的传送门！让我们来试试她吧"
+  }
+]

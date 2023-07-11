@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A beautiful rose bush.",
+    "value": "一处美丽的蔷薇灌木丛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rose Bush Large",
+    "value": "大型蔷薇灌木丛"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stylish bamboo sofa.",
+    "value": "一个时尚的竹沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bamboo Sofa",
+    "value": "竹沙发"
+  }
+]

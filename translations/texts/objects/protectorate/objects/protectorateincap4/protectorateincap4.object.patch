@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/feneroxDescription",
+    "raw": "Ded burd. Yay!",
+    "value": "死鸟，耶！"
+  },
+  {
+    "op": "replace",
+    "path": "/thelusianDescription",
+    "raw": "Ixix negat.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "I'm sorry, I can't afford to slow down...",
+    "value": "对不起，我不能慢下来..."
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dead Avian Protector, mangled beyond any hope of revival.",
+    "value": "一位死去的翼族守护者，已经没有复活的希望了"
+  }
+]

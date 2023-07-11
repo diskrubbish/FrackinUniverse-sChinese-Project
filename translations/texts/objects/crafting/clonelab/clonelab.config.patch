@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/dragDrop/value",
+    "raw": "Leaves on Right!",
+    "value": "源放右边！"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/count/value",
+    "raw": "Insert Saplings",
+    "value": "放入树苗"
+  }
+]

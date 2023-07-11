@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute heart engraved door.",
+    "value": "一个可爱的门，刻有爱心图案。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Heart Door",
+    "value": "可爱的爱心门"
+  }
+]

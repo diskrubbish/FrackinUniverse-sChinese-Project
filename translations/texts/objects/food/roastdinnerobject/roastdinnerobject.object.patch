@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just a regular roast dinner. Nothing fancy, but satisfying all the same.",
+    "value": "只是一顿普通的烤晚餐。没有什么新奇的，但仍然令人满意。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Roast Dinner",
+    "value": "烤晚餐"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran jussst eats the meaty bits and leaves the rest for sssnake pet.",
+    "value": "叶族人刚刚吃了这块肉，剩下的留给蛇宠物吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. A fine meal for any occasion.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A tad bland, but it fills my gut, so I ain't complain'.",
+    "value": "有点平淡，但它充满了我的内心，所以我没有抱怨。"
+  }
+]

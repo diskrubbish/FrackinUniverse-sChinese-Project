@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Shiny Coin",
+    "value": "闪亮硬币"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "You hear a voice from inside the Arc Smelter say 'Ooh, shiny noms! My turn. Come visit. Get recipe!'",
+    "value": "你听到电弧冶炼炉里传来一个声音: “哦，闪亮的有机物！轮到我了。来看看吧。得到配方！”"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "You hear a voice from inside the Arc Smelter say 'Ooh, shiny noms! My turn. Here, have recipe!'",
+    "value": "你听到电弧冶炼炉里传来一个声音: “哦，闪亮的有机物！轮到我了。这里。拿着配方！”"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Well, good night Irene!",
+    "value": "晚安，艾琳！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "raw": "Shoot 'em full of holes!",
+    "value": "把他们射成马蜂窝！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "raw": "Seems like another varmint's on the loose!",
+    "value": "看起来又有一个流氓在逃！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/3",
+    "raw": "I feel like I might need to shoot you now!",
+    "value": "我觉得我现在可能需要开枪了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/4",
+    "raw": "Blam! Blam! Blam! That's what I'm gonna do!",
+    "value": "砰！砰！砰！我踏马射爆！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/5",
+    "raw": "Seems ter be an intruder 'round these parts.",
+    "value": "这附近好像有人闯进来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/6",
+    "raw": "We don't take kindly to your kind 'round 'ere!",
+    "value": "我们对你们这种人可不客气！"
+  }
+]

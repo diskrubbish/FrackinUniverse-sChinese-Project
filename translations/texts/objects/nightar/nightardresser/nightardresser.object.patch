@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This looks like an advanced Nightar dresser.",
+    "value": "这看起来是一个高档的夜族梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Dresser",
+    "value": "夜族梳妆台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple dresser, probably full of simple clothes.",
+    "value": "一个简单的梳妆台，可能也只有简单的衣物。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A storage unit and table in one.",
+    "value": "一个存储单元和一张桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssniff furniture. Floran get nosse full of dusst.",
+    "value": "叶族人陈旧的家具。叶族人闻到了大量的灰尘味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Satisfied. A dresser.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "An advanced dresser.",
+    "value": "一个先进的梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Astorage unit, possibly for clothes.",
+    "value": "一个存储单元，可能用于衣服。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A chest of drawers, probably for clothes.",
+    "value": "一个抽屉柜，可能是用来放衣服的。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange and ancient artifact of unknown origin.",
+    "value": "一个不知其来源的古老建筑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Obelisk",
+    "value": "宇宙方尖碑"
+  }
+]

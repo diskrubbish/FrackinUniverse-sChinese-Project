@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wall pelt of Mooshi fur.",
+    "value": "穆什毛皮的墙皮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mooshi Hide",
+    "value": "穆什皮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Surprisingly soft - one forgets how much hair a Mooshi grows.",
+    "value": "令人惊讶的柔软——一个人忘记了一个穆什人长了多少头发。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's soft and warm but...",
+    "value": "它柔软温暖，但是..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Peh! Little Mossshi are low hanging fruit to hunt!",
+    "value": "佩赫！小摩丝正在低垂的果实中寻找！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This is some expert leatherwork.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I believe back on Earth they called this pattern 'holstein'.",
+    "value": "我相信在地球上，人们把这种模式称为“荷斯坦”。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "On top of being needlessly barbaric, this pelt is a complete and utter waste of a Mooshi.",
+    "value": "除了不必要的野蛮外，这张毛皮完全是对穆什人的浪费。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "None of a hunted Mooshi bull goes to waste. The fur's here but I reckon they made a fine meal of the meat.",
+    "value": "任何一头被猎杀的穆什公牛都不会被浪费。毛皮在这里，但我想他们用肉做了一顿美餐。"
+  }
+]

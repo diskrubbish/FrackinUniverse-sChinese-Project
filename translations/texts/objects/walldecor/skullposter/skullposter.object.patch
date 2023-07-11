@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Release your inner scene kid with this excessively edgy band poster.",
+    "value": "用这张过于前卫的乐队海报释放你内心的场景孩子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skull Poster",
+    "value": "骷髅海报"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This poster is rather... intense.",
+    "value": "这张海报相当。。。强烈的"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Is that raven just perched on the guitar or is it meant to be playing it?",
+    "value": "那只乌鸦是刚停在吉他上，还是打算弹它？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Red sscreaming skull.",
+    "value": "红色的头骨。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unimpressed. Posters like these seem to be a pixel a dozen.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Yowch. Nearly cut myself on the edge here.",
+    "value": "哎哟。差点把我自己弄伤了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What a crude poster. Is this seriously meant to be advertising a serious band?",
+    "value": "多么粗糙的海报啊。这真的是在为一个严肃的乐队做广告吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Well now... that's... different.",
+    "value": "现在。。。那是。。。不同的"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A durable container for safely storing ammunition.",
+    "value": "用于安全储存弹药的耐用容器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Barracks Ammo Box",
+    "value": "兵营弹药箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ah, an ammo box. It looks to be well stocked.",
+    "value": "啊，一个弹药箱。看起来库存充足。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A box of ammunition. Arrows, perhaps?",
+    "value": "一盒弹药。也许是一盒箭吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Box of bullets and ssuch.",
+    "value": "一盒子弹和子弹。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A container for storing ammunition. It's a tad too small for Glitch cannonballs, however...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This container has a little gun painted on the side... I guess it's for bullets?",
+    "value": "这个容器的侧面画着一把小枪...我猜是为了子弹？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I do hope the lock on this ammunition chest isn't faulty.",
+    "value": "我真希望这个弹药箱的锁没有问题。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A box for haulin' yer musket balls and bullets.",
+    "value": "一个用来运送火枪球和子弹的盒子。"
+  }
+]

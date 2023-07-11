@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Advanced, ancient Stimulant Rig.",
+    "value": "先进的，古老的狂经脉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Precursor Rig",
+    "value": "狂经脉 V"
+  }
+]

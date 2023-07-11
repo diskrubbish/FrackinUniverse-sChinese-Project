@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A table made to look like a serving of pudding. Slightly sticky.",
+    "value": "一张看起来像布丁的桌子。有点粘。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sweets Mini Table",
+    "value": "糖果迷你桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A charming little mini table... Wait. Is this actual pudding...?!",
+    "value": "一张迷人的小桌子...等待。这是真的布丁吗...？！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It's a little... bouncy.",
+    "value": "有点...有弹性的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes jiggly little table.",
+    "value": "叶族人喜欢摇晃的小桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgusted. Ugh, I put my hand on this table and now it's all sticky...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Stickiness aside, isn't this thing too jiggly to function as a table?",
+    "value": "撇开粘性不谈，这东西是不是太摇晃了，不能用作桌子？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The only thing this table is good for is attracting bugs.",
+    "value": "这张桌子唯一的好处就是吸引虫子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't too sure about this table. Smells nice, though.",
+    "value": "我对这张桌子不太确定。不过闻起来不错。"
+  }
+]

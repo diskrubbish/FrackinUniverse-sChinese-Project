@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A basic dark table. It has a cloth on it.",
+    "value": "基本的深色桌子。上面有一块布。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowy Table",
+    "value": "阴影桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A very simple table.",
+    "value": "一个非常简单的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The simplest of tables.",
+    "value": "最最简单的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssimple table.",
+    "value": "简简简单的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Bored. A very simple table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Not much to say about this table.",
+    "value": "这张桌子没什么好说的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A table, very simple in every way.",
+    "value": "一张桌子，从哪方面说都很简单。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just a table.",
+    "value": "就是一张桌子而已。"
+  }
+]

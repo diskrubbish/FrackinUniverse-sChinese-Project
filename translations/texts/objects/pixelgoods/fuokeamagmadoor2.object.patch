@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Living Stone Door.",
+    "value": "这个石门是活的！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Living Stone Door",
+    "value": "活的石门"
+  }
+]

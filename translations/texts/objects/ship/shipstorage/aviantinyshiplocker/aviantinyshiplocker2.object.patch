@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A locker with a tall metal door.",
+    "value": "这个储物柜有一扇高门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tiny Avian Ship Locker",
+    "value": "小型翼族船舱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A locker made from metal.",
+    "value": "一个由金属制成的储物柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A place to keep your things.",
+    "value": "一个用来存储你的东西的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can ssstuff things into locker.",
+    "value": "叶族人可以把东西塞塞塞到储物柜里面去。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A metallic storage locker.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's an industrial looking storage locker.",
+    "value": "这是一个工业外观的存储柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Somewhere to store personal belongings.",
+    "value": "用来存储个人物品的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A locker in the wall.",
+    "value": "一个挂在墙上的储物柜。"
+  }
+]

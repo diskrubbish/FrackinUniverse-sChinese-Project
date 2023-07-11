@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You could sleep on it. If you're brave enough.",
+    "value": "如果你足够勇敢，你可以睡在上面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Bed",
+    "value": "远古床"
+  }
+]

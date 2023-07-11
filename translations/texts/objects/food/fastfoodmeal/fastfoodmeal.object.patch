@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Greasy and delicious!",
+    "value": "油腻可口！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fast Food Meal",
+    "value": "快餐"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Sadly, these are larger portions than most rations Apex receive. And better quality too.",
+    "value": "可悲的是，这比大多数人得到的口粮都要多。而且质量也更好。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Maybe I'll just eat the fries...",
+    "value": "也许我会吃薯条..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Doesn't sssmell like real meat...",
+    "value": "闻起来不像真的肉..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Indecisive. My sensors indicate this meal isn't healthy in the slightest, but my stomach...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Make no mistake, if someone makes a move for my fries there may be bloodshed.",
+    "value": "小心点，如果有人动我的薯条，那他就会见血了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This meal is as greasy as the establishment that made it.",
+    "value": "这顿饭和做它的餐馆一样油腻。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Food's food as far as I'm concerned.",
+    "value": "就我而言，食物就是食物。"
+  }
+]

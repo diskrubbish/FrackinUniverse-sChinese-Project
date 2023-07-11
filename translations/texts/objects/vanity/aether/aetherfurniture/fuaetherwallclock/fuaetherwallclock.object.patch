@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Wall Clock",
+    "value": "以太壁钟"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pretty decorative clock for hanging on the wall.",
+    "value": "一个装饰用的漂亮的壁钟，可以挂在墙上。"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "The Master Manipulator",
+    "value": "始源物质枪"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "This powerful morphite manipulator is pretty great. A more powerful way to mine? Gimme.",
+    "value": "这个强大的异极合金物质枪非常棒。一个更强大的挖掘方式？快把它给我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Activate it.",
+    "value": "激活它"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "With this powerful tool I should be able to make short work of most blocks.",
+    "value": "有了这个强大的工具，我应该能够更快地挖掘大部分方块。"
+  }
+]

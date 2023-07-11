@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sweet and crunchy. If only there was a seedless variety.",
+    "value": "又甜又脆。要是有一个无籽品种就好了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beakseed Jam",
+    "value": "鸟喙果酱"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Crunchy...",
+    "value": "松脆的..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Opinionated. I actually rather enjoy the crunchy beekseeds inside.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's like a trail mix... for jams.",
+    "value": "这就像是一种混合材料...果酱。"
+  }
+]

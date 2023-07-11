@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The head of a Snowglitch.",
+    "value": "电子雪人的头部。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glitch Snowhead",
+    "value": "电子雪人头部"
+  }
+]

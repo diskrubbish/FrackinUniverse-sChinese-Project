@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A honey crystal bed. When you want to dream of being rich.",
+    "value": "一张蜂蜜水晶床，你可以在上面做着发财的梦。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Crystal Bed",
+    "value": "蜂蜜水晶床"
+  }
+]

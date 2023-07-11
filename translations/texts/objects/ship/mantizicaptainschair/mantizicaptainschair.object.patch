@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Soft cushions, for hard bottoms.",
+    "value": "坚硬的底部上面，配有柔软的垫子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Captain's Chair",
+    "value": "Mantizi船长椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ahh freedom...",
+    "value": "啊，自由..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Bless my beak, such a comfortable captain's chair.",
+    "value": "鸟喙保佑，多么舒适的船长椅。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmells of bug butt.",
+    "value": "闻起来像臭虫屁。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Anticipation. Where to next?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A pretty cool chair.",
+    "value": "一个非常酷的椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Elegant.",
+    "value": "优雅的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "For the cap'n.",
+    "value": "船长的所有物。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "It's not solid gold, but it will do.",
+    "value": "不是黄金，胜似黄金。"
+  }
+]

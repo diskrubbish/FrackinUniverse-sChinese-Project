@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small table lantern lit by a glowing crystal.",
+    "value": "发光的水晶点亮的小台灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Lantern",
+    "value": "合金灯笼"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small, glowing crystal lantern.",
+    "value": "一个小的，发光的水晶灯笼。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The light it gives off is so cold...",
+    "value": "它发出的光很冷..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Why isss light not hot? Light isss fire, yes?",
+    "value": "为什么光不热？光是火，是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A simple crystal lantern.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Like a camping lantern, but made of crystal.",
+    "value": "像野营用的灯笼，但是水晶做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Waterproof, and efficient if bland construction.",
+    "value": "防水，高效，但结构平淡。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The light it gives off is so cold...",
+    "value": "它发出的光很冷..."
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "Waterproof, and efficient if bland construction.",
+    "value": "防水，高效，但结构平淡。"
+  }
+]

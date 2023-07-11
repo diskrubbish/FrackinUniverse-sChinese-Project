@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lovingly carved pine wood chair. The seat is remarkably plush.",
+    "value": "一把雕刻精美的松木椅子。这个座位非常豪华。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Boreal Chair",
+    "value": "北风椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fine dining chair.",
+    "value": "一把精致的餐椅。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This seat's cushion is as soft as hatchling down.",
+    "value": "这个座位的坐垫软得像刚孵出的幼崽一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "So sssoft...",
+    "value": "所以sssoft..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. A rather comfortable chair.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This dining room chair is pretty comfy!",
+    "value": "这把餐椅很舒服！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'll have to take care not to spill anything onto the seat.",
+    "value": "我得小心别把东西溅到座位上。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fancy parlor chair.",
+    "value": "一把漂亮的客厅椅。"
+  }
+]

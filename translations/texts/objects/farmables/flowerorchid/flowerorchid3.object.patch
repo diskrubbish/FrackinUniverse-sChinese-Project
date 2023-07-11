@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A gorgeous royal blue flower.",
+    "value": "一朵蓝色的华丽又优美的花儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blue Orchid",
+    "value": "蓝色兰花种子"
+  }
+]

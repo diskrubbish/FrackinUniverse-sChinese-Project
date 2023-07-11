@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hybrid designed to hate everything.",
+    "value": "一种被设计成憎恨一切的混合体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rat-Thing",
+    "value": "劣鼠"
+  }
+]

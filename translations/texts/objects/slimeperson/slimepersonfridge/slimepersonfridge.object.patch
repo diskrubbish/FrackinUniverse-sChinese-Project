@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fridge, good for keeping food cold.",
+    "value": "这个冰箱是用来冷藏食物良好选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Fridge",
+    "value": "史莱姆冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "So this is where slime keep their food.",
+    "value": "所以这就是史莱姆保存食物的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A slimy food storage device.",
+    "value": "粘糊糊的食物储存装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran lovesss cold food ssstore and ssslimy goo. Keep meat fresh and moissst, yesss.",
+    "value": "叶族人喜欢冷食店和粘乎乎的粘液。保持肉的新鲜和湿润，是的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Determined. I must raid this food storage device!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fridge! Just what you need to keep food cool. But this one is kinda slimy.",
+    "value": "一个冰箱！这正是保持食物凉爽所需要的。但是这个有点粘。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "We have no need for such devices under the ocean.",
+    "value": "我们不需要在海底安装这样的装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's chilly on the inside to keep food fresh for longer.",
+    "value": "为了让食物保持更长时间的新鲜，里面很冷。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "Food stays fresh and tasty for longer.",
+    "value": "食物保持新鲜和美味的时间更长。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimenpcDescription",
+    "raw": "Cold... food...",
+    "value": "冷...食物..."
+  },
+  {
+    "op": "replace",
+    "path": "/slimenpchumanDescription",
+    "raw": "A slimy fridge that works just as well as any other.",
+    "value": "一个黏糊糊的冰箱，它和其他冰箱一样好用。"
+  }
+]

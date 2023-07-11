@@ -1,0 +1,794 @@
+[
+  {
+    "op": "replace",
+    "path": "/names/1/1/1",
+    "raw": "Alang",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/2",
+    "raw": "Viyalan",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/3",
+    "raw": "Tōtōn",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/4",
+    "raw": "Tavun",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/5",
+    "raw": "Luk",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/6",
+    "raw": "Tast",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/7",
+    "raw": "Hūmaim",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/8",
+    "raw": "Heptan",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/9",
+    "raw": "Hīliyam",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/10",
+    "raw": "Hapiyam",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/11",
+    "raw": "Amil",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/12",
+    "raw": "Ak",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/13",
+    "raw": "Arkōn",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/14",
+    "raw": "Aksas",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/15",
+    "raw": "Acen",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/16",
+    "raw": "Acūr",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/17",
+    "raw": "Muyal",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/18",
+    "raw": "Foom",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/19",
+    "raw": "Ninēn",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/20",
+    "raw": "Nīlam",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/21",
+    "raw": "Taiys",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/22",
+    "raw": "Eriks",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/23",
+    "raw": "Ittēn",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/24",
+    "raw": "Etaik",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/25",
+    "raw": "Ettiyal",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/26",
+    "raw": "Kurōm",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/27",
+    "raw": "Tīcal",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/28",
+    "raw": "Ticais",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/29",
+    "raw": "Tiks",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/30",
+    "raw": "Ticail",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/31",
+    "raw": "Tītil",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/32",
+    "raw": "Pul",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/33",
+    "raw": "Raitar",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/34",
+    "raw": "Rēvan",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/35",
+    "raw": "Rēcar",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/36",
+    "raw": "Rēnar",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/37",
+    "raw": "Rēcar",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/38",
+    "raw": "Skait",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/39",
+    "raw": "Cēt",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/40",
+    "raw": "Nilal",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/41",
+    "raw": "Cilvar",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/42",
+    "raw": "Terts",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/43",
+    "raw": "Vāran",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/44",
+    "raw": "Mañcal",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/45",
+    "raw": "Tirākan",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/46",
+    "raw": "Katal",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/47",
+    "raw": "Mēkam",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/48",
+    "raw": "Nāl",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/49",
+    "raw": "Yurenas",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/50",
+    "raw": "Neptiyūn",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/51",
+    "raw": "Naag",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/52",
+    "raw": "Cenān",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/53",
+    "raw": "Tuttanākam",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/54",
+    "raw": "Cōlan",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/55",
+    "raw": "Mettan",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/56",
+    "raw": "Plas",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/57",
+    "raw": "Hekrōn",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/58",
+    "raw": "Letar",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/59",
+    "raw": "Leks",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/60",
+    "raw": "Svaik",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/61",
+    "raw": "Slān",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/62",
+    "raw": "Tarkat",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/63",
+    "raw": "Tīl",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/64",
+    "raw": "Fwam",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/65",
+    "raw": "Pak",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/66",
+    "raw": "Pullat",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/67",
+    "raw": "Kraim",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/68",
+    "raw": "Krimcan",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/69",
+    "raw": "Klānt",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/70",
+    "raw": "Klām",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/71",
+    "raw": "Kōpālt",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/72",
+    "raw": "Kit",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/73",
+    "raw": "Ayan",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/74",
+    "raw": "Cantiran",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/75",
+    "raw": "Paittiyam",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/76",
+    "raw": "Hawj",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/77",
+    "raw": "Kaus",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/78",
+    "raw": "Koob",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/79",
+    "raw": "Lis",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/80",
+    "raw": "Muas",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/81",
+    "raw": "Nhia",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/82",
+    "raw": "Nruag",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/83",
+    "raw": "Pob",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/84",
+    "raw": "Rwg",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/85",
+    "raw": "Tooj",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/86",
+    "raw": "Wang",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/87",
+    "raw": "Yeej",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/88",
+    "raw": "Zoov",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/89",
+    "raw": "Ēs",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/1/90",
+    "raw": "Akrēl",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/2",
+    "raw": "-ak",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/3",
+    "raw": "-cēt",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/4",
+    "raw": "-es",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/5",
+    "raw": "-foom",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/6",
+    "raw": "-fwam",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/7",
+    "raw": "-gwam",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/8",
+    "raw": "-hawj",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/9",
+    "raw": "-hmoov",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/10",
+    "raw": "-kaus",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/11",
+    "raw": "-kit",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/12",
+    "raw": "-klām",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/13",
+    "raw": "-klānt",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/14",
+    "raw": "-kraim",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/15",
+    "raw": "-leks",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/16",
+    "raw": "-lis",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/17",
+    "raw": "-luk",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/18",
+    "raw": "-meej",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/19",
+    "raw": "-meng",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/20",
+    "raw": "-muas",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/21",
+    "raw": "-naag",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/22",
+    "raw": "-nāl",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/23",
+    "raw": "-nhia",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/24",
+    "raw": "-nruag",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/25",
+    "raw": "-pak",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/26",
+    "raw": "-plast",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/27",
+    "raw": "-pob",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/28",
+    "raw": "-pul",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/29",
+    "raw": "-rwg",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/30",
+    "raw": "-skait",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/31",
+    "raw": "-svaik",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/32",
+    "raw": "-slān",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/33",
+    "raw": "-taiys",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/34",
+    "raw": "-terts",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/35",
+    "raw": "-tiks",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/36",
+    "raw": "-tīl",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/37",
+    "raw": "-tooj",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/38",
+    "raw": "-tsuas",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/39",
+    "raw": "-uk",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/40",
+    "raw": "-vis",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/41",
+    "raw": "-wang",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/42",
+    "raw": "-yeej",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/names/1/2/43",
+    "raw": "-zoov",
+    "value": ""
+  }
+]

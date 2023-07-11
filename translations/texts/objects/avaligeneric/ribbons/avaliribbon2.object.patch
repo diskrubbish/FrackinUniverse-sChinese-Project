@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A long strip of ultra-light material that drifts in the breeze",
+    "value": "微风中飘着的一条长长的超轻型材料制成的丝带。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avali Ribbon, Tapestry Style",
+    "value": "羽族丝带(壁挂)"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I wish we could fly banners like this; the Miniknog is quick to stamp out any such displays.",
+    "value": "这种在空中飞舞的横条，科技发展部就可以运用冲压技术大量做出这种玩意儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The grounded are fond of their banners too.",
+    "value": "他们也喜欢把类似的布条放在地上。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Urge to chase rising!",
+    "value": "快点赶它，让它快快快点飞起来。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Melancholy. Reminds me of the flowing banners of my home.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Brings a real carnival spirit to the place.",
+    "value": "这代表了狂欢节真的来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I wonder if these would work underwater?",
+    "value": "我不知道这能不能在水下工作？"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "Banners like this are used to mark pack property or territory, the markings are unique to each pack.",
+    "value": "这样的横幅用于包装产品或标记区域，你可以通过上面的花纹来分辨它们的用途，因为花纹都是唯一的。"
+  }
+]

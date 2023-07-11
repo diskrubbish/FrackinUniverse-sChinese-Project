@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An airtight blastdoor made of extremely sturdy materials.",
+    "value": "由非常坚固的材料制成的气密的风门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Blastdoor",
+    "value": "绘世者风门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This looks pretty sturdy. I don't think that any ordinary weapon can even damage it.",
+    "value": "这看起来很结实。我认为任何普通的武器都无法摧毁它。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What a strange door.",
+    "value": "多奇怪的门啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Door survivesss Florans attacks. Floran impressed.",
+    "value": "门在叶族人的袭击中幸存了下来。叶族人印象深刻。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Nervous. I should move through that door fast, lest it crush me.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It looks like a reliable door to keep things out. Or in.",
+    "value": "它看起来像是一个可靠的门把东西挡在外面。或者在。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "As ugly as I'd expect of a Skath blast door.",
+    "value": "就像我想象中的绘世者防爆门一样难看。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty sturdy door.",
+    "value": "一扇非常坚固的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "This door is built to serve as a bunker blast door, made from sturdy materials not easily pierced by conventional weaponry.",
+    "value": "这扇门是用来做掩体防爆门的，由坚固的材料制成，不易被常规武器刺穿。"
+  }
+]

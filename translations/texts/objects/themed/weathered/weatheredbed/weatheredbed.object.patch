@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An exceptionally fashionable weathered wooden bed.",
+    "value": "非常时髦的风化木床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Weathered Bed",
+    "value": "风化床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The age of this bed's wood is a selling point rather than a deterrent.",
+    "value": "这张床的木材年代是一个卖点，而不是一种威慑。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The wood of this bed has been repurposed to give it a vintage look.",
+    "value": "这张床的木头经过了重新设计，使它看起来很复古。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Old bed is still sssoft.",
+    "value": "旧床仍然柔软。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. It looks like something out of a Glitch village, but it's priced like something out of a castle...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This bed looks like it's made of barn wood. And yet...",
+    "value": "这张床看起来像是用谷仓木做的。然而..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There's a rustic charm about this bed.",
+    "value": "这张床有一种乡村的魅力。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now here's a bed I could settle right into.",
+    "value": "这张床我可以安顿下来。"
+  }
+]

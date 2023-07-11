@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An old rusted sign with instructions of some kind.",
+    "value": "一个生锈的信息告示牌，上面像是某种指示。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rusted Information Sign",
+    "value": "生锈的信息告示牌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Hey, that looks like my ship...",
+    "value": "嘿，看起来像我的船..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Is this an evacuation warning?",
+    "value": "这是疏散警告吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran see space ship. Can't read text.",
+    "value": "叶族人只看到太空船。但没法法法理解意思。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Puzzled. Is that symbol a ship?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Something tells me this isn't an ad for tourism.",
+    "value": "或许这不是旅游广告。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This sign may be an evacuation decree, yet it is so ancient...",
+    "value": "这个标志可能代表了撤离命令，但它是如此的古老..."
+  }
+]

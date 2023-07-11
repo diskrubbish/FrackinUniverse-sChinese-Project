@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bar table.",
+    "value": "一个酒吧桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bar Table",
+    "value": "酒吧桌子"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This dresser has a musty smell. It doesn't look very clean.",
+    "value": "这个梳妆台有霉味。看起来不太干净。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medieval Dresser",
+    "value": "中世纪梳妆台"
+  }
+]

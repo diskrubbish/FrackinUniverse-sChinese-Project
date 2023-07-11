@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pull the augments right out. Removes your pet's collar, too.",
+    "value": "用于把模块提取出来。(模块包括EPP模块、宠物项圈、鱼饵、渔线轮)"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Augment Extractor^reset;",
+    "value": "^orange;模块提取器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "For augments",
+    "value": "作用于模块。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Machines like these are used to extract augments and collars.",
+    "value": "这个机器是用来提取模块或项圈的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "How useful, I can extract any augment or collar I want with this.",
+    "value": "太有用了，现在我可以不需要的模块或项圈取出来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can exsstract augmentss and collarss with this.",
+    "value": "叶族人可以用它抽抽抽出物品里的模块和项圈。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This device can extract any augment or collar.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I can use this to extract any augment or collar. Neat!",
+    "value": "我可以使用它提取出任何一个模块或项圈，真棒！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such things are useful for extracting augments and collars.",
+    "value": "这台有用的设备可以把模块和项圈提取出来。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can use this here gadget to get back my augments and collars.",
+    "value": "我可以使用这个设备把模块或项圈提取出来。"
+  }
+]

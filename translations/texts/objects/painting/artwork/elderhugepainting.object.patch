@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A massive and disturbing painting of some sort of entity.",
+    "value": "一幅巨大而令人不安的画作，画中有某种实体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "He",
+    "value": "祂"
+  }
+]

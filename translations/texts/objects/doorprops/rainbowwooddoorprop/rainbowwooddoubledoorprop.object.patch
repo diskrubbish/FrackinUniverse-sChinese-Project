@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Doors made of rainbow wood.",
+    "value": "彩虹木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rainbow Wd D. Door Prop",
+    "value": "彩虹木双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These're doors made from rainbow wood.",
+    "value": "这些门是用彩虹木做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A doorway with a rainbow printed on it. I doubt it leads to one.",
+    "value": "一扇印有彩虹的门。我怀疑它到底会通向哪儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Doors have colourful picture on them.",
+    "value": "门上有五颜六色的图案。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. These are brightly coloured doors.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Rainbow doors.",
+    "value": "彩虹门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What happy looking doors.",
+    "value": "多么快乐的门啊。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These doors sure are welcoming.",
+    "value": "这些门的确很受欢迎。"
+  }
+]

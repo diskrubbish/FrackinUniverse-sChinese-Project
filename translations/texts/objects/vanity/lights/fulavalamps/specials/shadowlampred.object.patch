@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A deep red lava lamp. It gives off an ominous glow.",
+    "value": "一盏深红色的熔岩灯。它发出不祥的光芒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowy Red Lava Lamp",
+    "value": "暗红色熔岩灯"
+  }
+]

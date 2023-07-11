@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This might come in handy.",
+    "value": "这可能会派上用场。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Silenes' Minerals^reset;",
+    "value": "^orange;硅烯矿物商店^reset;"
+  }
+]

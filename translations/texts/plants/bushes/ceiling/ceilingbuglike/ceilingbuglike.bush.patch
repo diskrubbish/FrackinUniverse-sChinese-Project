@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A weird protrusion.",
+    "value": "一个奇怪的凸起。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A weird protrusion.",
+    "value": "一个奇怪的凸起。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Creepy ssshape.",
+    "value": "令人毛骨悚悚悚然的形状。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. An unusual protrusion.",
+    "value": ""
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A ceiling mounted lamp made from densinium.",
+    "value": "由超致密锭制成的吸顶灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Densinium Ceiling Lamp",
+    "value": "超致密吸顶灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This lamp would cerainly hurt were it to fall.",
+    "value": "这灯掉下来肯定能砸伤一个人。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This lamp is extremely heavy!",
+    "value": "这灯超重的！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Heavy lamp! Ssshiny metal!",
+    "value": "超重的灯！闪闪闪亮的金属！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. I hope that doesn't fall.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's a very pretty coloured lamp.",
+    "value": "这是一盏非常漂亮的彩灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A very sturdy pod-like lamp.",
+    "value": "一盏非常坚固的豆荚状灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's mighty heavy, but sturdy. I hope it don't fall on me.",
+    "value": "这玩意很重，但很结实。我希望这玩意别砸在我脸上。"
+  }
+]

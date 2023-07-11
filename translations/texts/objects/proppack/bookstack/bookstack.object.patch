@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Time to study... ^orange;Place down for a variety of different styles!^reset;",
+    "value": "是时候学习了...^orange;放置在各种不同的风格！^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Books",
+    "value": "书"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some light reading.",
+    "value": "一些阅读。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Course literature. I've read these!",
+    "value": "文学课程。我读过这些！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Books with words and words and wordsss.",
+    "value": "有文字的书，有文字的书。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. Some books about the history of the Protectorate.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I read these last term!",
+    "value": "我上学期读过这些！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I enjoy a good book and a hot drink.",
+    "value": "我喜欢一本好书和一杯热饮。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't a big reader, but I read these course books.",
+    "value": "我的读者不多，但我读过这些课程书。"
+  }
+]

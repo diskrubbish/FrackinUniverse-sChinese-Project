@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Psionic blasts. (Read ^yellow;Core Guide^reset;: ^blue;Special Techs^reset;)",
+    "value": "发射毒素。(详请参阅^yellow;核心指南^reset;: ^blue;特殊科技^reset;);"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Psychic Blast",
+    "value": "毒性冲击"
+  }
+]

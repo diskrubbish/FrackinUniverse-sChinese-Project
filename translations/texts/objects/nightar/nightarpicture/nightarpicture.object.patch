@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A picture of a Nightar's secret armor.",
+    "value": "夜族秘密盔甲的照片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Knight's Armor Picture",
+    "value": "夜族骑士盔甲图片"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Interesting, lines of light course through the background.",
+    "value": "有趣的是，背景中有一道道光线。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The picture is almost foreboding.",
+    "value": "这幅画几乎是不祥的预兆。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Armor head picture makesss me want to sssstab.",
+    "value": "盔甲头像让我想拍下它。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "It's a picture of a helmet.",
+    "value": "这是一张头盔的照片。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A picture worth a thousand words.",
+    "value": "一幅画胜过千言万语。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "They sure take pride in their work.",
+    "value": "他们确实为自己的工作感到自豪。"
+  }
+]

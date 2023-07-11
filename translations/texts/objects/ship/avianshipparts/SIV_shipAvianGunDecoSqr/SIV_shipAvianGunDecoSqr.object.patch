@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Avian Gun Decoration Square for a spaceship.",
+    "value": "翼族宇宙飞船战斗炮台装饰。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avian Gun Deco Sqr",
+    "value": "翼族战斗炮台装饰"
+  }
+]

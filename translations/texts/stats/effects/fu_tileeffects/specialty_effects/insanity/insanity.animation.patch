@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/particleEmitters/statustext/particles/0/particle/text",
+    "raw": "Insanity!",
+    "value": "精神错乱！"
+  },
+  {
+    "op": "replace",
+    "path": "/particleEmitters/statustext2/particles/0/particle/text",
+    "raw": "^red;- Armor -^reset;",
+    "value": "^red;-护甲-^reset;"
+  }
+]

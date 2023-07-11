@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This should be perfect for your lab storage.",
+    "value": "这应该是最完美的实验室存储装置了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#e43774;Wall Storage^reset;",
+    "value": "^#e43774;壁挂储存器^reset;"
+  }
+]

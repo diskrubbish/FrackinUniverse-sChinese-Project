@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Brightly colored plastic lights.",
+    "value": "色彩鲜艳的塑料灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Burger Fool Lamp",
+    "value": "傻瓜式汉堡灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A set of lights.",
+    "value": "一组灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Some colorful restaurant lights.",
+    "value": "一些五颜六色的餐厅灯光。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Lights aren't as bright as Floran thinksss they should be.",
+    "value": "灯光没有叶族人想象的那么亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disinterested. Some cheap plastic lighting.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Some nice colorful lights! The bulbs could use replacing, though.",
+    "value": "一些漂亮的彩灯！不过，灯泡可能需要更换。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These colors are almost garishly bright.",
+    "value": "这些颜色几乎花哨明亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The colors are bright an' all, but the I can't say the same for the lights.",
+    "value": "颜色是明亮的，但我不能对灯光说同样的颜色。"
+  }
+]

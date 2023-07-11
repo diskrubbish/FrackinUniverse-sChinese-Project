@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": "Pilchenstein's Field Generator",
+    "value": "皮尔兴·斯坦的场发生器"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": "Generator Control Console",
+    "value": "生成器控制台"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/applyProtectedLabel/value",
+    "raw": "Apply Protection",
+    "value": "应用保护"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/applyBreathableLabel/value",
+    "raw": "Apply Oxygen",
+    "value": "应用氧气"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/applyGravityLabel/value",
+    "raw": "Apply Gravity",
+    "value": "应用重力"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/gravityLevelLabel/value",
+    "raw": "Gravity Level:",
+    "value": "重力等级："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/hideLabel/value",
+    "raw": "Appearance",
+    "value": "外表"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/overrideLabel/value",
+    "raw": "Admin Override",
+    "value": "管理覆盖"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/debugLabel/value",
+    "raw": "Debug Logging",
+    "value": "调试日志记录"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/gravityLevelTextBox/regex",
+    "raw": "-{0,1}[0-9]{0,4}",
+    "value": ""
+  }
+]

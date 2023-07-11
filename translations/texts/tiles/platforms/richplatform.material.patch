@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rich Wooden Platform",
+    "value": "优良木制平台"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nicely carved wooden platforms.",
+    "value": "精心雕刻过的木制平台。"
+  }
+]

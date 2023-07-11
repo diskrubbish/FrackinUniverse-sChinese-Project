@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Aberrant Sentry [BOSS]",
+    "value": "克鲁西斯异常者 [BOSS]"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Find and kill an ^orange;Aberrant Sentry^reset; in an ancient ruin.",
+    "value": "在一个古代遗迹中找到并杀死^orange;克鲁西斯异常者^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Find the ^orange;Relic Shield^reset; carried by an ^orange;Aberrant Sentry^reset;.",
+    "value": "找到^orange;克鲁西斯异常者^reset;携带的^orange;圣物之盾^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Exceptional work. That was no simple feat!",
+    "value": "十分出色。那不是简简单单就能做到的!"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Allows basic manipulation of physics when holding Jump.",
+    "value": "一种强大的跳跃增益科技，允许跳跃时浮空。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Physics Field I^reset;",
+    "value": "^#77acc3;物理力场 I^reset;"
+  }
+]

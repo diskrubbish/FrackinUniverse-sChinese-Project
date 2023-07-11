@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An /'XOR'/ gate with 2 inputs and a built-in Not Gate, but no built-in Data Latch.",
+    "value": "一个异或门。具有两个输入接口、非门，但无锁存器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Advanced XOR Gate (2 Inputs, No Latch)",
+    "value": "高级异或门(二输入，无锁存器)"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "value": "与普通异或门并不相同，相比而言，内置非门会更方便。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "value": "与普通异或门并不相同，相比而言，内置非门会更方便。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Not all that different from a normal XOR Gate, but the built-in Not Gate isss convenient.",
+    "value": "与普通异或门并不相同，相比而言，内置置置非门会更方便。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Content. Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "value": "与普通异或门并不相同，相比而言，内置非门会更方便。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "value": "与普通异或门并不相同，相比而言，内置非门会更方便。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "value": "与普通异或门并不相同，相比而言，内置非门会更方便。"
+  },
+  {
+    "op": "replace",
+    "path": "/penguinDescription",
+    "raw": "Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "value": "与普通异或门并不相同，相比而言，内置非门会更方便。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "Not all that different from a normal XOR Gate, but the built-in Not Gate is convenient.",
+    "value": "与普通异或门并不相同，相比而言，内置非门会更方便。"
+  }
+]

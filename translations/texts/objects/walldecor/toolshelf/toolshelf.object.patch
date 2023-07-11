@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's wall mounted!",
+    "value": "它是壁挂式的！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tool Shelf",
+    "value": "工具架"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "  Tool Shelf",
+    "value": "工具架"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "Furniture and blocks!",
+    "value": "家具和积木！"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A tool shelf for carpentry.",
+    "value": "木工工具架。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This tool shelf enables me to create a wide range of equipment.",
+    "value": "这个工具架使我能够制作各种各样的设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wooden shelf for making thingsss.",
+    "value": "用来做东西的木制架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Interested. It's a wooden shelf. It's better than a crafting table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm not scared of some DIY. Let's do this.",
+    "value": "我不怕DIY。我们开始吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A wooden tool shelf can be used to craft some good furniture with.",
+    "value": "木制工具架可以用来制作一些好的家具。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A good ol' wooden tool shelf It's better than a regular crafting table.",
+    "value": "一个好的木制工具架比一张普通的手工桌子要好。"
+  }
+]

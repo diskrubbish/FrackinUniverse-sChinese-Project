@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Metal, darkly.",
+    "value": "金属、黑色。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dark Metal Support",
+    "value": "黑暗金属支架"
+  }
+]

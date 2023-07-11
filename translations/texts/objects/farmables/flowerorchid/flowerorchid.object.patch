@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "C-c-c-commmmbo breaker!",
+    "value": "赞赞赞爆了！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Black Orchid",
+    "value": "黑色兰花种子"
+  }
+]

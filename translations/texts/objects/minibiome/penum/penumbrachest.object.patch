@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chest made of Umbral Stone.",
+    "value": "由半影矿打造的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbra Chest",
+    "value": "半影箱子"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ice Stalk",
+    "value": "冰之根茎"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice Stalk",
+    "value": "冰之根茎"
+  }
+]

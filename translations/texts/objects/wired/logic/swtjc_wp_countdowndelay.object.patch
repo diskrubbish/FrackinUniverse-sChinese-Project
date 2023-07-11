@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Only activates when its input node remains live for a set amount of time.",
+    "value": "一个能在设定好的时间过了就会激活的计时器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Countdown Delay Timer",
+    "value": "倒数激活器"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Only activatesss when itsss input node remainsss live for a ssset amount of time.",
+    "value": "只有到了设设设置的时间，其输入节节节点才会激活。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informative. Only activates when its input node remains live for a set amount of time.",
+    "value": ""
+  }
+]

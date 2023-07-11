@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Accepts a bunch of different kinds of fuel.",
+    "value": "接受各种各样的燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fuel Hatch",
+    "value": "燃料仓"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An integrated fuel hatch - I can load it up right from the command chair!",
+    "value": "一个集成的燃料舱-我可以直接从指挥椅上装载！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "How convenient, I can reach the fuel hatch from the chair.",
+    "value": "真方便，我可以从椅子上够到燃料舱。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Better not ssstick my hand in there.",
+    "value": "最好不要把手伸进去。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excited. Accepts a variety of fuels from the comfort of the seat.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Aw, sweet - don't even have to get off the chair.",
+    "value": "哦，亲爱的，不用从椅子上下来。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "No need to even get off the seat to fuel the ship. Seems quite lazy.",
+    "value": "甚至不需要离开座位给船加油。看起来很懒。"
+  },
+  {
+    "op": "replace",
+    "path": "/peglaciDescription",
+    "raw": "A simple arc-furnace separates bio-matter and denser fuels into component atoms for use in fueling the ship.",
+    "value": "一个简单的电弧炉将生物物质和密度更高的燃料分离成组成原子，用于为船舶提供燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A simple arc-furnace separates bio-matter and denser fuels into component atoms for use in fueling the ship.",
+    "value": "一个简单的电弧炉将生物物质和密度更高的燃料分离成组成原子，用于为船舶提供燃料。"
+  }
+]

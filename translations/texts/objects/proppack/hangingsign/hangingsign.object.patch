@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Useful for giving directions over large crowds.",
+    "value": "用于在大量人群中指示方向。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hanging Sign",
+    "value": "悬挂标志"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A directory. It seems people get lost around here quite a bit.",
+    "value": "目录。这里的人似乎经常迷路。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Much simpler than asking around for directions.",
+    "value": "比四处问路要简单得多。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssign doesn't say anything interessting.",
+    "value": "这个标志并没有展示任何有趣的话。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Frustrated. This directory is only serving to make my route more confusing.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Y'know, for something supposed to help me find my way around, this sign sure is hard to understand.",
+    "value": "你知道，对于一些本该帮助我找到方向的东西来说，这个标志确实很难理解。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This sign has multiple different routes. I'm not sure where I should head to find what I need.",
+    "value": "此标志有多条不同的路线。我不确定我应该去哪里找到我需要的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can find my own way, thanks.",
+    "value": "我能找到我自己的路，谢谢。"
+  }
+]

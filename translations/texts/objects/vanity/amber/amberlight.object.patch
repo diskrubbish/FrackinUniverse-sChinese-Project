@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tall lamp, with each light capped in amber casing.",
+    "value": "一盏高高的由琥珀色外壳覆盖着的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Amber Lamp",
+    "value": "琥珀灯"
+  }
+]

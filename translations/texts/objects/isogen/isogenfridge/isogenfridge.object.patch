@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A very cold fridge. It's almost a freezer.",
+    "value": "非常冷的冰箱。它几乎是一个冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Fridge",
+    "value": "寒霜冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fridge. All the food is frozen.",
+    "value": "一个冰箱。所有的食物都冷冻了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The food is kept a little too cold.",
+    "value": "食物保存得有点太冷了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cold!",
+    "value": "好冷！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. This might be too cold for food.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fridge.",
+    "value": "一台冰箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A food-chilling device that seems to be too cold for its purpose.",
+    "value": "一种食物冷冻装置，它似乎太冷了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fridge! It's mighty cold.",
+    "value": "一个冰箱！天气非常冷。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dense, heavy bread packed full of seeds.",
+    "value": "装满种子的稠密、厚重的面包。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beakseed Bread Loaf",
+    "value": "鸟喙果面包"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Birdman filled this bread full of crunchy ssseeds.",
+    "value": "翼族用松脆的种子填满了面包。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. The little seeds in this loaf are actually quite pleasant.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A loaf of bread with a whole bunch of tiny seeds baked in.",
+    "value": "烤着一块里面夹杂着很多小种子的面包。"
+  }
+]

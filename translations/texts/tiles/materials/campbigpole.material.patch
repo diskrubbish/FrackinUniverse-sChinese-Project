@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A really immovable stick in the mud.",
+    "value": "真够坚持的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Big Tent Pole",
+    "value": "大帐篷杆"
+  }
+]

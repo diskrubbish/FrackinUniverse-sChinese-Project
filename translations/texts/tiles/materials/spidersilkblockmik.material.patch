@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Webs packed tightly, but not too tight to pass through.",
+    "value": "这里布满了蜘蛛网，但要通过这里还不算特别困难。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spider Silk (Platform)",
+    "value": "蜘蛛丝(平台)"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssspidersss make great websss!",
+    "value": "蜘蜘蜘蛛造就了伟大的网！"
+  }
+]

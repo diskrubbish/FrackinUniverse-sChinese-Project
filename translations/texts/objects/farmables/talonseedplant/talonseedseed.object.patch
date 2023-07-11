@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Genetically improved! Resistant to cold.",
+    "value": "这是基因改良的产物！可以收获鹰爪芽，食用后会提高寒气抗性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Talon Seed",
+    "value": "鹰爪芽种子"
+  }
+]

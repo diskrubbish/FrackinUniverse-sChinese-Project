@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Used to create a large colony.",
+    "value": "用来形成一个大殖民地。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Colony Station^reset;",
+    "value": "^orange;殖民工作站^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Colony Station",
+    "value": " 殖民工作站"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " Colony components, cores, and deeds.",
+    "value": " 殖民地组件、核心和合同。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It will be nice to be in charge of something for a change.",
+    "value": "换位思考，掌管一些事情是很好的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I've always wanted to be a mayor.",
+    "value": "我一直想当市长。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can gather fleshlingss with workbench.",
+    "value": "也族人可以用工作站收集肉肉肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Ambitious. I can become a feudal lord with this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Humans never really settled other planets. I should fix that.",
+    "value": "人类从来没有真正解决过其他星球的问题，现在轮到我来解决这个问题。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I can create a sizable settlement with this table.",
+    "value": "我可以用这张桌子创造一个可观的聚落。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Perfect for makin' a frontier town.",
+    "value": "建一个边境小镇再合适不过了。"
+  }
+]

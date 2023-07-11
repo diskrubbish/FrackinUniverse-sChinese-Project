@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Control with ^green;[Jump]^reset;. ^orange;[Move]^reset;. Negate Falls with ^green;[F]^reset;.",
+    "value": "用^green;[跳跃键]^reset;和^orange;[移动键]^reset;来控制。 按^green;[F]^reset;免疫掉落伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Physics Field",
+    "value": "物理力场"
+  }
+]

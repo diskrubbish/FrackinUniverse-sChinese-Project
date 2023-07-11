@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Smooth doors made from a refractive glass.",
+    "value": "折射玻璃制成的光滑门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prism Double Door Prop",
+    "value": "棱镜双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Smooth, glass doors which seems to shine with a spectrum of colours.",
+    "value": "光滑的玻璃门，似乎闪耀着光谱的颜色。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Finely made glass doors.",
+    "value": "精制的玻璃门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can sssee through doors... Can't ussse it for ambushesss!",
+    "value": "叶族人可以透过门看到外面的世界... 不能用它来做无耻的事情！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. Glass this smooth rarely occurs naturally.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These doors really catch the light. How lovely.",
+    "value": "这些门真的很透光，真可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These are doors I can really appreciate.",
+    "value": "我真的很欣赏这些门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These doors are shinin' like a still pond after a storm.",
+    "value": "这些门闪闪发光，就像暴风雨过后的池塘。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ideal for storing food and keeping it fresh.",
+    "value": "适合于存储食物，并让它们保持新鲜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frontier Mini Fridge",
+    "value": "边境迷你冰箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A mini fridge. Hopefully it contains a banana milkshake.",
+    "value": "一个迷你冰箱。希望里面有香蕉奶昔。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A mini fridge. Ideally filled with drinks and snacks.",
+    "value": "一台迷你冰箱。希望里面能装满饮料和小吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can sssmell meat. Maybe meat inssside?",
+    "value": "叶族人可以闻闻闻到肉味。也许肉在里里里？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. This mini fridge is operating at the optimal temperature.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I'm salivating with excitement thinking about the possible contents.",
+    "value": "想到里面可能有的东西，我就兴奋得直流口水。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Underwater, refrigeration is easier. These devices are a clever substitute.",
+    "value": "在水下，冷藏更加容易。这些设备是一种不错的替代品。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A small fridge.",
+    "value": "一个小型的冰箱。"
+  }
+]

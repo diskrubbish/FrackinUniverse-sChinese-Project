@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Warty, but not very weedy.",
+    "value": "有疣，但不是很杂草。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wartweed Basket",
+    "value": "瓦特果篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Wartweed is an easily-sustainable crop.",
+    "value": "瓦特果是一种容易种植的作物。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Wartweeds are hard to peck through.",
+    "value": "瓦特果很难啄穿。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Warweedss are perfect for Floran to eat or kick.",
+    "value": "瓦特果是叶族人吃东西或踢东西的最佳选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. The skin of a wartweed is almost as tough as mine",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looking at a warweed makes me feel a bit weird.",
+    "value": "看着一只瓦特果让我觉得有点奇怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Wartweed are tough, dull crops favoured for their ability to thrive in poor conditions.",
+    "value": "瓦特果是一种坚硬、无光泽的作物，因其在恶劣条件下能够茁壮成长而备受青睐。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can't see a use for a crop so tough as a wartweed.",
+    "value": "我看不出像瓦特果这样坚硬的作物有什么用处。"
+  }
+]

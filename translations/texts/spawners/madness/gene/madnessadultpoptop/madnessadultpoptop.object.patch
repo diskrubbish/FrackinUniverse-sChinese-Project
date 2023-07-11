@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An adult, voracious Poptop.",
+    "value": "一只成年，贪婪的吐舌娃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poptop Adult",
+    "value": "成年吐舌娃"
+  }
+]

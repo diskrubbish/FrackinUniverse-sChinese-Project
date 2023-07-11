@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "The Broken Master Manipulator",
+    "value": "损坏的始源物质枪"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I should recover the Master Manipulator...or what's left of it, anyways. Khe probably has it at the Science Outpost, I saw her even though she tried to be sneaky.",
+    "value": "我应该修复始源物质枪....或者说是它的残骸。溪大概在科学前哨站，我看到她了，尽管她偷偷摸摸的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Recover the master manipulator",
+    "value": "修复始源物质枪"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "The Master Manipulator is now mine. It seems that if I am to fully be able to use it, however, I'll first need to ^orange;repair it at a nanofabricator^reset;",
+    "value": "始源物质枪现在是我的了。但是，如果想要完全使用它，我首先需要^orange;在纳米加工器处把它修好^reset;。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An impressive stack of presents. Someone's been good this year!",
+    "value": "一堆令人印象深刻的礼物。今年有人表现不错！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Present Pile",
+    "value": "礼品堆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Could these presents... be for me?",
+    "value": "这些礼物...是给我的吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "My goodness - look how many presents!",
+    "value": "天哪，看看有多少礼物！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Gifts for Floran! All for Floran!",
+    "value": "给叶族人的礼物！都是为了叶族人！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Daunted. Surely these can't ALL be for one person...?!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh man! Do I start with the small ones and work my way up?",
+    "value": "天哪！我是从小的开始，一路往上爬吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'd rather give most of these presents away than keep them to myself.",
+    "value": "我宁愿把这些礼物大部分送给别人，也不愿把它们留给自己。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "These all for one person? They're certainly spoiled.",
+    "value": "这些都是一个人的吗？他们当然被宠坏了。"
+  }
+]

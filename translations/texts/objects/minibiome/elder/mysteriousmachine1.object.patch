@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The purpose of this machine is unclear. I am most certain, however, that it would result in no good were I to strap myself to it.",
+    "value": "这台机器的用途不明。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mysterious Machine",
+    "value": "神秘机器"
+  }
+]

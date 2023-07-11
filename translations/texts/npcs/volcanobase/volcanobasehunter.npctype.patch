@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Attack!",
+    "value": "进攻！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/0",
+    "raw": "Cryptic. I owe you nothing but an arrow through the eye.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/1",
+    "raw": "Menacing. Stay back, or I'll put one through your knee!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/2",
+    "raw": "Grim. One shot, intruder. That's all I'll need.",
+    "value": ""
+  }
+]

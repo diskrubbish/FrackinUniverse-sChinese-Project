@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wicker basket. Maybe it's got cool stuff inside! Unbreakable!",
+    "value": "柳条篮子。也许里面有很酷的东西！牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Handled Wicker Basket",
+    "value": "把手柳条篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A wicker basket. Easily broken.",
+    "value": "柳条篮子。容易破碎。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A woven basket. Perhaps there are goodies inside.",
+    "value": "编织的篮子。也许里面有好吃的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmash basket!",
+    "value": "杂碎这个篮子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Enticed. A wicker basket. What's inside I wonder?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A very bashable wicker basket.",
+    "value": "非常容易击打的柳条篮。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There could be something inside this basket.",
+    "value": "篮子里可能有东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This looks kinda smashable!",
+    "value": "这看起来有点吓人！"
+  }
+]

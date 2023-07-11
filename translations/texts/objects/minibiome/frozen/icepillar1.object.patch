@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pretty pillar of ice.",
+    "value": "漂亮的冰柱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice Pillar",
+    "value": "冰柱"
+  }
+]

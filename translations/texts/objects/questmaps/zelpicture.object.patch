@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A full-body portrait of someone named Zeldia.",
+    "value": "一个名为泽尔迪亚的人的全身肖像。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zeldia Picture",
+    "value": "泽尔迪亚的照片"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Whoever this is, she looks like someone the Miniknog would have attempted to create.",
+    "value": "不管她是谁，她看起来就像科技发展部试图创造的那种人一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Hey, why does a human get to have wings when I don't?",
+    "value": "喂，为什么一个人类居然长有翅膀，而我却没有？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Meatman hass wingss. Unssure if would tasste good.",
+    "value": "屠杀者才才才会有翅膀。不知知道他的味道好不好。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unsure. The woman depicted here looks like what you'd get if you mashed a human and an Avian together.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Reminds me of a very old arcade game I once played when Earth was still around.",
+    "value": "让我回想起了一款非常古老的街机游戏——当地球还存在的时候。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This reminds me of risque art my classmates would draw of humans when really bored.",
+    "value": "这让我想起了我的同学们在无聊时会画的人类艺术，那可真下流。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That there's one mighty fine looking lady!",
+    "value": "看，这里有一位非常漂亮的女士！"
+  }
+]

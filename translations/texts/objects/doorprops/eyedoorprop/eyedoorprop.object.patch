@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A door covered in eyes. Don't blink.",
+    "value": "一扇用眼睛装饰的门。别眨眼。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Eye Door Prop",
+    "value": "眼睛门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The door's piercing gaze is just daring me to enter.",
+    "value": "门那锐利的目光正在呼唤我，让我敢于进去。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This eye emanate malevolence. What horrors lie beyond?",
+    "value": "这只眼睛发出恶毒的光芒。除此之外还有什么可怕的事情在我前面？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran think door look at Floran funny. Floran feel territorial.",
+    "value": "叶族认为门看叶族人很滑稽。叶族人有领土意识。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Contemplative. With just one eye, this door must see the world as a one dimensional space.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This door doesn't look very welcoming. I think that was sort of a pun.",
+    "value": "这扇门看起来不怎么受欢迎。我觉得这是个双关语。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An overly dramatic door decorated with a large eye. Hylotl prefer stark beauty to convey importance.",
+    "value": "装饰有大眼睛的过于夸张的门。鲛人喜欢赤裸裸的美来传达重点。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This door's keepin' an eye on me.",
+    "value": "这扇门一直盯着我。"
+  }
+]

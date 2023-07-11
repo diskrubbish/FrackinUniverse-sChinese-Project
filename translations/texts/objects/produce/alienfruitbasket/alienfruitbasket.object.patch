@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Alien fruit, very juicy.",
+    "value": "外星的水果，非常多汁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alien Fruit Basket",
+    "value": "外星果篮"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A locker. Store some stuff, why don't you?",
+    "value": "飞船储物柜，能够储存很多物品。为什么不把多余的东西装进去呢？\n^#B8860B;可在飞船用家具定制台调整种族风格^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shiplocker",
+    "value": "飞船储物柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The ship's storage system.",
+    "value": "飞船的存储系统。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A device that holds many items for safe keeping.",
+    "value": "一个能够安全存放很多物品的设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstorage.",
+    "value": "存存存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. This ship's storage system is indeed useful.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A storage locker. That's handy!",
+    "value": "一个飞船储物柜。真是太方便了！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An elegant storage solution.",
+    "value": "一个优雅的存储解决方案。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A locker, for puttin' things in.",
+    "value": "一个储物柜，把东西放进去吧。"
+  }
+]

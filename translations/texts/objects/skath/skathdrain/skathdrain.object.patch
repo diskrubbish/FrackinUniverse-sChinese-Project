@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Gurgle gurgle!",
+    "value": "咕噜咕噜！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Drain",
+    "value": "绘世者排水管"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This is designed to drain water away.",
+    "value": "这是用来排水的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This will drain away water, good for keeping my feathers dry!",
+    "value": "这会把水排干，有利于保持我的羽毛干燥！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Drainsss take away water.",
+    "value": "排水系统会抽走水。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This drains away water with ease.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This'll drain that water away fast!",
+    "value": "这会很快把水排干的！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A useful device for draining water away, for those who like that.",
+    "value": "一个有用的排水装置，适合喜欢的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This'll get rid of that pesky water!",
+    "value": "这样我就可以把讨厌的水弄走！"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "It's a shame to waste water like this...",
+    "value": "像这样浪费水太可惜了..."
+  }
+]

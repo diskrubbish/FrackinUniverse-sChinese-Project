@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This soil appears to have been heavily altered by an unknown agent.",
+    "value": "这些土壤的性质似乎被一种未知的药剂大幅度地改变了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proto Shale",
+    "value": "原体岩"
+  }
+]

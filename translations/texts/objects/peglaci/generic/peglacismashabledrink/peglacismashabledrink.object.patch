@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An empty bottle of Snowberry liquor.",
+    "value": "一瓶空的雪果酒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Empty Crystal Bottle",
+    "value": "空水晶瓶"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The bottle is empty, so what's left to do but smash it?",
+    "value": "这瓶子是空的，除了被砸碎它还能做什么呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The bottle is empty, so what's left to do but smash it?",
+    "value": "这瓶子是空的，除了被砸碎它还能做什么呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmash!",
+    "value": "粉粉粉碎！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Mischievous. There's nothing left in the bottle, so it's tempting to smash it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The bottle is empty, so what's left to do but smash it?",
+    "value": "这瓶子是空的，除了被砸碎它还能做什么呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A small part of me would very much like to smash this bottle...",
+    "value": "我的小九九非常想打碎这个瓶子..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Yeehaw! Target practice!",
+    "value": "呀哈！打靶练习！"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "An empty bottle of an awful drink. It is quite fragile.",
+    "value": "一瓶糟糕的空饮料。它很脆弱。"
+  }
+]

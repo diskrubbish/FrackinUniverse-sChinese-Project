@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "raw": "You shouldn't be seeing this.",
+    "value": "你不该看这玩意儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "raw": "If you've cleared the dacha, I should be able to handle myself. Don't worry about me and head down to the basement.",
+    "value": "如果你已经清除了前方障碍，我应该可以在到达地下室之前照顾好自己。请不要担心我。"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Generates a field that heals any lifeform within its area of effect. ^cyan;Requires ^orange;120W^cyan; of power^reset;.",
+    "value": "这个装置可以生成治疗周围单位的力场。\n^cyan;需要^orange;120W^cyan;电力^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Regeneration Matrix^reset;",
+    "value": "^cyan;治疗力场发生器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ahhh. Refreshing.",
+    "value": "啊，空气真清新！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I feel better.",
+    "value": "我感觉好多了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Healy box make Floran happy.",
+    "value": "治疗的盒子让叶族人感感感到很开心。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Reassured. I won't die while standing near this machine.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I won't have to worry about the peril of death near this thing!",
+    "value": "在这里不会担心死亡。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This will provide excellent healing at a constant rate.",
+    "value": "这将提供以恒定速率的极好的愈合。"
+  }
+]

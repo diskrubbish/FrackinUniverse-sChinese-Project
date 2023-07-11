@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A minimalistic wall clock, stylistically limited in palette and rounded at the edges.",
+    "value": "一款极简主义的挂钟，调色板风格有限，边缘呈圆形。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rounded Wall Clock",
+    "value": "圆形挂钟"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A modern wall clock. It has some rather pretty colors.",
+    "value": "现代挂钟。它有一些相当漂亮的颜色。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A mounted sundial - what a novel idea!",
+    "value": "安装日晷-多么新奇的想法！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Nice clock. No ssilly numbers.",
+    "value": "好钟。没有数字。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Grateful. I'm always relieved to see clocks that actually change time.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A clock without numbers... And most of the dials. Not incredibly reliable for the anal retentive.",
+    "value": "一个没有数字的时钟...还有大部分的刻度盘。对于有强迫症的人来说，这并不可靠。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Clock faces are so familiar, one can even omit the numbers and most of its dials entirely!",
+    "value": "钟面如此熟悉，人们甚至可以完全忽略数字和大部分表盘！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now this is the kinda clock I could get used to.",
+    "value": "这是我能习惯的时钟。"
+  }
+]

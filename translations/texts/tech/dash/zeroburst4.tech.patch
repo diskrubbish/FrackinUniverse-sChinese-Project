@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lift off like a rocket! Watch those landings.",
+    "value": "就像火箭一样升空，然后给敌人们个痛快！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Zero Burst IV",
+    "value": "爆炸跳跃 IV"
+  }
+]

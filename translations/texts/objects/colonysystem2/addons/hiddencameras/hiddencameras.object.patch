@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Generate research by spying on your tenants. Makes your tenants paranoid. \n^red;-5 Happiness^reset;",
+    "value": "通过监视你的房客来进行调查，这会让你的房客疑神疑鬼。\n^red;-5幸福^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hidden Camera Network",
+    "value": "隐藏摄像头网络"
+  }
+]

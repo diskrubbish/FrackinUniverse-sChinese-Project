@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Plank",
+    "value": "金色木板"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Golden wood planks ready for building and crafting.",
+    "value": "准备用于建造房屋和手工制作的金色的木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Satisfied. These golden wood planks are well crafted.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty wood plankss.",
+    "value": "漂亮的木木木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Those sure are some golden lookin' wood planks.",
+    "value": "这些确实是金色的木板。"
+  }
+]

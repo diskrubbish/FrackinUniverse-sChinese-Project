@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dense chain forged of shining silver.",
+    "value": "一条由闪亮的银铸成的高密度链条。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Silver Chain",
+    "value": "银链子"
+  }
+]

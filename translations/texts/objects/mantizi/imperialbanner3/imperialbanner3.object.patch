@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Mantizi banner made of gorgeous silk, depicting a golden worm.",
+    "value": "用华丽的丝绸制成的甲虫族旗帜，上面画着一条金色的蠕虫。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Worm Banner",
+    "value": "甲虫族螺纹横幅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A patterned Mantizi banner. With a worm or a snake in the center.",
+    "value": "有图案的甲虫族旗帜。中间有一条虫子或蛇。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "It makes sense that the worm has different meanings between our cultures.",
+    "value": "蠕虫在我们的文化中有着不同的含义，这是有道理的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran like squigglesss.",
+    "value": "叶族人滑溜溜的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. The Mantizi venerate worms.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Such bright colours. These look fun to make.",
+    "value": "这么鲜艳的颜色。这些看起来很有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A worm? How curious.",
+    "value": "虫子？真奇怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That a graboid?",
+    "value": "那是格拉波德？"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "The worm is the symbol of renewal and determination in our culture.",
+    "value": "蠕虫是我们文化中更新和决心的象征。"
+  }
+]

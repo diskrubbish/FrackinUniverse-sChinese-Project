@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pretty great, really. You're so smart!",
+    "value": "真的特别棒，你可真是个小机灵！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Robot Guard",
+    "value": "机器守卫"
+  }
+]

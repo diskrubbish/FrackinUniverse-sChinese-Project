@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An overly-complicated gate! Who knows what inputs are needed...",
+    "value": "这个逻辑门太复杂了！到底要怎么接入..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Black Box Logic Gate",
+    "value": "黑盒逻辑门"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A smashed computer console.",
+    "value": "一个损坏的电脑控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Broken Console",
+    "value": "损坏的控制台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This console is of no use now.",
+    "value": "这个控制台没法再用了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This console is both damaged and rusted over.",
+    "value": "这个损坏的控制台布满了锈迹。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can see metal innardsss!",
+    "value": "叶族人可以看到金金金属的内脏！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uneasy. This is no way for a machine to wind up.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This console is junk at this point.",
+    "value": "这个控制台已经变成垃圾了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This technology is useless, and possibly a health hazard.",
+    "value": "可以因为损坏的缘故，这台设备无法运转了。"
+  }
+]

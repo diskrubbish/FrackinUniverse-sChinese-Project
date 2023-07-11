@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bookcase made from penumbrite.",
+    "value": "用半影矿制成的书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbrite Bookcase",
+    "value": "半影书架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A bookcase similar to the style of the Hylotl.",
+    "value": "类似鲛人风格的书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the Hylotl.",
+    "value": "这让我想起了鲛人。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fisssh perssson booksss.",
+    "value": "鱼人书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A bookcase with a complicated design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This bookcase looks like something from a Hylotl village!",
+    "value": "这个书架看起来像鲛人村的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This bookcase almost reminds me of our own craftsmanship.",
+    "value": "这个书架几乎让我想起了我们自己的手艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This bookcase is mighty fancy like them Hylotl folk make.",
+    "value": "这个书柜很奇特，就像鲛人制作的一样。"
+  }
+]

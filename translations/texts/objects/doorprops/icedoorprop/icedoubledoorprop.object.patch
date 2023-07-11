@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Icy doors. Don't grip the handles for too long.",
+    "value": "结冰的门。不要握把手太久。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice Double Door Prop",
+    "value": "冰双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Doors made of ice. I can see my reflection in them.",
+    "value": "冰做的门，我可以在里面看到自己的影子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Standing by these doors for too long makes me shiver.",
+    "value": "站在这些门前太久让我浑身发抖。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran not sssee doors, run ssstraight at them.",
+    "value": "叶族人看不到门，直接冲过去。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. The ice is layered, making it hard to break these doors down.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Frozen doors. Cold to the touch.",
+    "value": "冰冻的门，触手可及的寒冷。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These icy doors are very well crafted.",
+    "value": "这些冰冷的门制作精良。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Whose idea was it to make 'meltable furniture', anyways?  I bet it's real pricy, too.",
+    "value": "不管怎么说，是谁出主意做出了“可以融化的家具”？我打赌肯定很贵。"
+  }
+]

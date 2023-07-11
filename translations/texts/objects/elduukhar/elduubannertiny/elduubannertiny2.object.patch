@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A remnant of more peaceful times.",
+    "value": "和平时代的残余物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Torn Sahkris Banner",
+    "value": "撕裂的小型萨克里斯旗帜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A woven banner. It seems to have been damaged.",
+    "value": "一面编制的旗帜，看起来遭受过破坏。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A decorative banner, perhaps? It's torn now.",
+    "value": "一面用作装饰的旗帜，也许？它现在是撕裂的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Green sssilky banner.",
+    "value": "绿色丝丝丝滑旗帜。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Sad. This banner reminds me of my own, only it's damaged.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What a fine banner, although it is sad it's so ruined.",
+    "value": "多好的一面旗帜，尽管它被摧残的如此令人难过。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This banner does not give me a pleasant feeling.",
+    "value": "这面旗帜让我感到不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty fine banner, shame about the damage.",
+    "value": "一面宏伟的旗帜，对它的破损感到可惜。"
+  }
+]

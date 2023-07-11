@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rather morbid looking Hylotl lantern. Maybe don't touch it.",
+    "value": "有点病态的鲛人灯笼。也许别碰它。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pufferfish Lantern",
+    "value": "河豚灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Was that... made from an actual pufferfish?",
+    "value": "是不是...用真正的河豚鱼做的？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Even after the fish has perished, those spikes remain sharp as ever.",
+    "value": "即使在鱼死后，这些刺仍然像以前一样锋利。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Little fisssh looks fierce even in death.",
+    "value": "小鱼即使死了也显得凶猛。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disturbed. I'd have thought the Hyltol of all people were above \"novelty items\" like this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "My old driving teacher had a fish like this. She didn't like to talk about it.",
+    "value": "我以前的驾驶老师有一条这样的鱼。她不喜欢谈论这件事。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A novelty lamp. I must hope the poor creature didn't suffer much before being made into... this.",
+    "value": "新奇的灯。我希望这个可怜的家伙在被变成...这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "No hangin' off from this lampshade.",
+    "value": "不要在这个灯罩上闲逛。"
+  }
+]

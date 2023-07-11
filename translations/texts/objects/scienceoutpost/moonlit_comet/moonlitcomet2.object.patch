@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Famous scientist of the rare Xarwiek race",
+    "value": "罕见的Xarwiek族的著名科学家"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vinalisj",
+    "value": "维纳利斯"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/0",
+    "raw": "Excuse me, but I'm rather busy now.",
+    "value": "抱歉，别来打扰我，我现在很忙。"
+  },
+  {
+    "op": "replace",
+    "path": "/chatOptions/1",
+    "raw": "We're at the forefront of tech development.",
+    "value": "我们处于科技发展的最前沿。"
+  }
+]

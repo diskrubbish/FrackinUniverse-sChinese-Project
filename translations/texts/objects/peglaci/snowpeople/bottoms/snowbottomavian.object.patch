@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The bottom of a Snowavian.",
+    "value": "翼族雪人的底部。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avian Snowbottom",
+    "value": "翼族雪人底座"
+  }
+]

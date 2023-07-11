@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cabinet made from penumbrite.",
+    "value": "用半影矿制成的橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbrite Cabinet",
+    "value": "半影柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A cabinet similar to the style of the Hylotl.",
+    "value": "类似鲛人风格的橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This reminds me of the Hylotl.",
+    "value": "这让我想起了鲛人。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fisssh perssson cabinet.",
+    "value": "鱼人橱柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A cabinet with a complicated design.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This cabinet looks like something from a Hylotl village!",
+    "value": "这个柜子看起来像鲛人村的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This cabinet almost reminds me of our own craftsmanship.",
+    "value": "这个橱柜几乎让我想起了我们自己的手艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This cabinet is mighty fancy like them Hylotl folk make.",
+    "value": "这个柜子很奇特，就像鲛人做的一样。"
+  }
+]

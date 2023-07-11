@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lamp made from gold and crystal.",
+    "value": "由黄金和水晶制成的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Lava Lamp",
+    "value": "水晶熔岩灯"
+  }
+]

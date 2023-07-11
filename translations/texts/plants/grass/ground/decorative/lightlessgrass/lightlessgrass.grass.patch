@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lightless plants",
+    "value": "无光植物"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lightless plants",
+    "value": "无光植物"
+  }
+]

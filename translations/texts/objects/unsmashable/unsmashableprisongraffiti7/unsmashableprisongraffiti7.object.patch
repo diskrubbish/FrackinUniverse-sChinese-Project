@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The words \"get out\" have been written in blood. You can tell the writer was serious. Unbreakable!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Graffiti",
+    "value": "涂鸦"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This graffiti seems to be written in blood.",
+    "value": "这涂鸦似乎是用血液写的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Clearly the artist had a flair for the dramatic.",
+    "value": "这位艺术家显然有戏剧天赋。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Paint sssmells tasty.",
+    "value": "油漆闻起来很香。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uncomfortable. The blood used here came from a Hylotl.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "No, you get out!",
+    "value": "不，你出去！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This graffiti artist needs to take a time out.",
+    "value": "这位涂鸦艺术家需要休息一下。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Written in blood. Was it their own?",
+    "value": "用血液写的。是他们自己的吗？"
+  }
+]

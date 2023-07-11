@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pot of bright cheery flowers. It seems to be a gift for someone...",
+    "value": "一盆鲜艳欢快的花。这似乎是给某人的礼物..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Potted Bouquet",
+    "value": "盆栽花束"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A carefully arranged flower bouquet.",
+    "value": "精心布置的花束。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A flower bouquet. I wonder who it's for?",
+    "value": "花束。不知道是给谁的？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Potted flowerss.",
+    "value": "盆栽花卉。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Fond. A rather touching gift.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Perfect for everything from dates to hospital visits!",
+    "value": "从约会到医院探视，一切都是完美的选择！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "How thoughtful! Hopefully the creator kept the language of flowers in mind making this.",
+    "value": "真周到！希望造物主在做这件事时能记住花的语言。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fancy vase of flowers. They smell real nice.",
+    "value": "一个漂亮的花瓶。它们闻起来真香。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dispenser for a variety of soft drinks.",
+    "value": "各种软饮料的分配器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Soda Fountain",
+    "value": "汽水喷泉"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This variety of drinks can't be found under Miniknog rule.",
+    "value": "这种饮料在科技发展部规则下是找不到的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These drinks are a bit too sweet...",
+    "value": "这些饮料有点太甜了..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Machine gives Floran drinksss.",
+    "value": "机器让叶族人喝酒。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A soda fountain.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's free refills if you own it, right? Right.",
+    "value": "如果你拥有它，它是免费的，对吗？正确的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A dispenser for sugary soft drinks.",
+    "value": "含糖软饮料的分配器。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Cola, punch... but still no Dandelion Root Pop...",
+    "value": "可乐，潘趣酒...但仍然没有蒲公英根流行..."
+  }
+]

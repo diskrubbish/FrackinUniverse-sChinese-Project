@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Instantly destroys any item placed within. Good for mass disposal.",
+    "value": "立即销毁放置其中的任何物质。适合大规模销毁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Incinerator",
+    "value": "焚烧炉"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Anything going in here is gone forever.",
+    "value": "里面的任何东西都不会回来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I should be careful not to put anything I don't want to lose in here.",
+    "value": "我应该小心使用，我可不想丢掉什么有价值的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hate ssstupid can of fire.",
+    "value": "叶族人恨恨恨这个愚蠢可以发出火的罐子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Content. This should allow me to dispose of anything cleanly.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What goes in does not come out.",
+    "value": "什么进去了都不会出来。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A clean method of disposal. Excellent.",
+    "value": "一种彻底的处置方法。优秀。"
+  }
+]

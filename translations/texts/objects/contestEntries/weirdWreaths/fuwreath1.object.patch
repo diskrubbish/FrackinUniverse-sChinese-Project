@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rather unusual sort of wreath or decorative circle.",
+    "value": "一种相当不寻常的花环或装饰性的圆圈。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shard Wreath",
+    "value": "碎裂花环"
+  }
+]

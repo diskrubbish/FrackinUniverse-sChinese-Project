@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sand covered in ice.",
+    "value": "沙子和冰的混合物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frozen Sand",
+    "value": "冰沙"
+  }
+]

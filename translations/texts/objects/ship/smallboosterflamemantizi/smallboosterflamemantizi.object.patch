@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Good old trusty contained explosions.",
+    "value": "陈旧不过值得信奈，伴随着爆炸。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Booster Flame",
+    "value": "推进器火焰"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A booster. These have been known to malfunction and explode.",
+    "value": "一组加速器。它们因为容易出故障和爆炸而为人所熟知。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A booster, the wings of a ship.",
+    "value": "一组推进器，飞船的翅膀。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssscary fire.",
+    "value": "可可可怕的火焰"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analyse. Temperature too high to measure.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This thing eats through fuel.",
+    "value": "这家伙很会消耗燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Propulsion.",
+    "value": "推进装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Glad it's out there, and not in here.",
+    "value": "幸好它是在外面，而不是在里面。"
+  }
+]

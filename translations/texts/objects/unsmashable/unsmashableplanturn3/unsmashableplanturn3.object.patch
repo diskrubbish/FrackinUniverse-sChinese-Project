@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fragile small urn made from clay. Unbreakable!",
+    "value": "用粘土制成的易碎的小瓮。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Urn",
+    "value": "小瓮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small urn, I'll doubt it holds much inside.",
+    "value": "一个小瓮，我怀疑里面装不下多少东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Some sort of urn. It's not as elegant as those found inside Avian tombs.",
+    "value": "某种瓮。它不像在翼族人坟墓里发现的那样优雅。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmash all the urnss.",
+    "value": "把所有的罐子都打碎。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Philosophical. Is the urn half full, or half empty?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "There's a quick way to find out what's inside this urn. Smash it.",
+    "value": "有一种快速的方法可以找到这个骨灰缸里的东西。砸了它。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A well crafted urn, it's almost a shame to break it.",
+    "value": "制作精良的骨灰盒，打破它几乎是一种耻辱。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This urn is beggin' to be smashed.",
+    "value": "这个瓮快被打碎了。"
+  }
+]

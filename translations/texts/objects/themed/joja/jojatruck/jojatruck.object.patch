@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A delivery truck from a mysterious company... What could it possibly hold?",
+    "value": "一个神秘公司的送货卡车...它能装什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^blue;Joja^reset; Truck",
+    "value": "^blue;Joja^reset;卡车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'm staying on guard. I've learned not to trust groups that use smilies like this.",
+    "value": "我要保持警惕。我学会了不要相信那些用这种微笑的团体。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A very blue truck. It appears to hold cargo.",
+    "value": "一辆蓝色的卡车。它似乎装着货物。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran would break truck door, but isss already open.",
+    "value": "叶族人会打破车门，但车门已经打开了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. What on earth is a truck doing all the way out here?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh hey! The boxes in here are still unopened! Is this a delivery truck?",
+    "value": "嘿！这里的箱子还没打开！这是送货车吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A truck adorned with a company logo that is making me a bit uneasy, for some reason.",
+    "value": "一辆装饰着公司标志的卡车不知为什么让我有点不安。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A blue cargo truck. What's it carryin'?",
+    "value": "一辆蓝色的货车。它带着什么？"
+  }
+]

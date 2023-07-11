@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Wall Jump, with three more jumps.",
+    "value": "提供三次额外跳跃的蹬墙跳。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Wall Jump IV",
+    "value": "蹬墙跳 IV"
+  }
+]

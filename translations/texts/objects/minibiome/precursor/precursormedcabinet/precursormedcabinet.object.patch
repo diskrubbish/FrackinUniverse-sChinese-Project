@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Unmistakable for medical storage.",
+    "value": "医疗存储，错不了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Medi-Vac",
+    "value": "先驱医疗箱"
+  }
+]

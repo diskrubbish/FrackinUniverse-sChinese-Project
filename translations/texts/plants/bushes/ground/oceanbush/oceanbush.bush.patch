@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sea anemone",
+    "value": "一个海葵"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "An anemone.",
+    "value": "这是海葵。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Trusty teleporter, what would we do without you?",
+    "value": "可靠的传送器，离开了它我便寸步难行。\n^green;拆卸后可重新部署^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Teleporter",
+    "value": "飞船用传送门"
+  }
+]

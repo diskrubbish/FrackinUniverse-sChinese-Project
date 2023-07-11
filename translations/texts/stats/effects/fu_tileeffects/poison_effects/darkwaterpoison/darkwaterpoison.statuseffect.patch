@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Darkwater Poison: ^red;-25%^reset; Shadow, Fire, Ice Resistance. ^red;20%^reset; move penalty. Resist with Poison Resistance",
+    "value": "腐化之水毒素：^red;-25^reset;%暗影&火炎&寒气抗性。移动速度^red;-20^reset;%。被毒素抗性所抵抗。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A high-payload Explosive. Be sure to stand clear. Detonation requires impact.",
+    "value": "高效爆炸物！注意安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "C4 Plastic Explosive",
+    "value": "C4塑胶炸药"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Organize your farm gear.",
+    "value": "用于存放你的农具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Farm Storage",
+    "value": "农场储存箱"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A highly contrasting painting of what appear to be arrows.",
+    "value": "一幅看起来像箭的对比鲜明的画。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shapely Painting",
+    "value": "匀称的绘画"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple painting colored in gold and silver.",
+    "value": "一幅用金和银着色的简单画。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Hm, the colors in this painting shine like precious metals.",
+    "value": "嗯，这幅画的颜色像贵重金属一样闪闪发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssshiny arrows.",
+    "value": "闪亮的箭。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. Is there any reason why the arrows in this artwork are pointing downwards?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Modern art's pretty weird, but this painting looks nice enough, I guess.",
+    "value": "现代艺术很奇怪，但我想这幅画看起来很不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What lovely contrast!",
+    "value": "多么可爱！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some arrows in gold and silver pointin' down.",
+    "value": "一些金色和银色的箭头指向下方。"
+  }
+]

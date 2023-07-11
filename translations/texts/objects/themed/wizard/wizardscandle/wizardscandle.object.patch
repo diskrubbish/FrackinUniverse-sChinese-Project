@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Its constant bobbing light makes it useless for everything but creating an atmosphere.",
+    "value": "不断的摆动使一切都变得无用，但创造出一种光的氛围。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wizard's Candle",
+    "value": "巫师的蜡烛"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A candle suspended by an unseen force. Fascinating...",
+    "value": "被看不见的力量悬挂的蜡烛。极有吸引力的"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A floating candle? What kind of sorcery is this?",
+    "value": "漂浮的蜡烛？这是什么魔法？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "F-Flame will ssstay away from Floran if it knows whats good for it!",
+    "value": "如果火焰知道什么对它有好处，它将远离叶族人！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. A floating candle sconce.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Woah! This thing's pulsing with magic!",
+    "value": "哇！这东西神奇地跳动着！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An eerie purple glow occasionally surrounds this candle.",
+    "value": "蜡烛周围偶尔会有一种诡异的紫色光芒。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "How's this candle floatin' like that?",
+    "value": "这蜡烛怎么会这样飘浮？"
+  }
+]

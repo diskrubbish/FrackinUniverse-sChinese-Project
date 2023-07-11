@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wall mounted music player, for playing music.",
+    "value": "一个安装在墙壁上的音乐播放器，用于播放音乐。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Music Player (Wall)",
+    "value": "音乐播放器(壁式)"
+  }
+]

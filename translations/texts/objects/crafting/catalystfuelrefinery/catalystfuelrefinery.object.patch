@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Refines mech fuel into a superior grade.",
+    "value": "将机甲燃料提炼得更加优质。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Fuel Refinery^reset;",
+    "value": "^orange;燃料精炼器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Refine oil into fuel",
+    "value": "将油提炼为燃料"
+  }
+]

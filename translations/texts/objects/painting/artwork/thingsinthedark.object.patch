@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of bizarre forms seem to shimmer before you.",
+    "value": "一些奇怪的样式似乎在你面前闪闪发光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "The Dark Ones",
+    "value": "阴暗之物"
+  }
+]

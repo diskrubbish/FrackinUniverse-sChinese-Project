@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Blink in the air!",
+    "value": "在空中闪现！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Air Blink^reset;",
+    "value": "^#77acc3;空中闪现^reset;"
+  }
+]

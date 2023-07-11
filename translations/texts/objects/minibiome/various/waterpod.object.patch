@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Waterpod",
+    "value": "水荚"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Waterpod",
+    "value": "水荚"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rather sleek and dark door.",
+    "value": "一扇相当光滑而黑暗的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tenebrhae Door",
+    "value": "Tenebrhae门"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hideous, cooked block made of some kind of flesh.",
+    "value": "用某种肉做成熟肉块，非常恶心。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cooked Flesh Block",
+    "value": "煮熟的肉块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgust. A block made of flesh.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssquishy pre-cooked meat block.",
+    "value": "黏糊糊的早早早被烹饪过的肉。"
+  }
+]

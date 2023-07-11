@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wall-mounted locker designed to withstand extreme internal pressure.",
+    "value": "设计用于承受极端内部压力的壁挂式储物柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Compact Protectorate Locker",
+    "value": "小型保护区储物柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A strong locker. The pressure it's under is distressing.",
+    "value": "结实的储物柜。它所承受的压力令人痛苦。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An unobtrusive place to keep your things.",
+    "value": "放东西的不显眼的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can ssstuff so many things into locker!",
+    "value": "叶族人可以把这么多东西塞进柜子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. A highly-pressurized storage locker.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's a surprisingly spacious wall-mounted locker.",
+    "value": "这是一个非常宽敞的壁挂式储物柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This locker really helps cut down on clutter.",
+    "value": "这个储物柜确实有助于减少杂物。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A small locker in the wall.",
+    "value": "墙上的一个小储物柜。"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Strange Visions",
+    "value": "奇异灵视"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Lifting up this book has triggered ^red;strange visions^reset; of a place covered in snow and ice, and coordinates to that place. I should enter the coordinates for ^orange;Delta Freya II^reset; into my SAIL. It calls to me. I am compelled to obey.",
+    "value": "在为这本书着墨之后，这本书引发了关于一处冰雪覆盖的地方的^red;奇怪幻象^reset;，幻象还显示了那个地方的坐标，我应该把^orange;德尔塔·弗雷亚II^reset;的坐标输进我的SAIL中。它在召唤我。我不得不服从。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Explore Delta Freya II",
+    "value": "探索德尔塔·弗雷亚 II"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "There are no words to express the madness and strangeness that tugs now at the very roots of my soul. A piece of myself has been forever lost to that hellish place.",
+    "value": "无法用语言来表达疯狂和怪异根植在我的灵魂深处。我的一部分永远地消失在了那个地狱里。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This iron block has a distinct gear-like imprint.",
+    "value": "这铁块上有一个很明显的齿轮痕迹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Gear Block",
+    "value": "铁齿轮块"
+  }
+]

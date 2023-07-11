@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This wooden support is very pretty to look at.",
+    "value": "这个木支架看起来很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Ornate Wood",
+    "value": "华丽暗木"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. Why would anyone need a wood support this pretty.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty wood, Floran likess.",
+    "value": "美丽的木头，弗罗兰喜欢。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This support sure is pretty.",
+    "value": "这种支持确实很不错。"
+  }
+]

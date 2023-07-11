@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What were these used for? Energy transfer?",
+    "value": "它们有着怎样的用途呢？传输能量？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tech Pipes",
+    "value": "科技管道"
+  }
+]

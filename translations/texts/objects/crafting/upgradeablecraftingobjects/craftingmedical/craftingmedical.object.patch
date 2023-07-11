@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "raw": "A top-of-the-line medical station.",
+    "value": "一流的医疗站。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Health Center^reset;",
+    "value": "^orange;健康中心^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+    "raw": "A table with a bunch of medical tools.",
+    "value": "一张摆满医疗器械的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
+    "raw": "A chance to display one's medical ability.",
+    "value": "一个展示自己医学能力的机会。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+    "raw": "Floran ussse table. Patch ssself up.",
+    "value": "叶族人用用用桌子，来修好自己己己。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+    "raw": "Inspired. Medical module activated.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
+    "raw": "I can use materials I've found here to create new healing items.",
+    "value": "我可以使用我在这里找到的材料来制造新的治疗用物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+    "raw": "This gives me the ability to heal and rejuvenate after incurring damage.",
+    "value": "这给了受伤后我治愈和恢复的能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+    "raw": "This table looks good for treatin' wounds.",
+    "value": "这张桌子看起来很适合治疗伤口。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Health Center",
+    "value": " 健康中心"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Health and well-being",
+    "value": " ^#b9b5b1;保健与治疗。"
+  }
+]

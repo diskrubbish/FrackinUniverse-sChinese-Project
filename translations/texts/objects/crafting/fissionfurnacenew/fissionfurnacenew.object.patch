@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This reliable unit is capable of making even the toughest alloys into usable metal.",
+    "value": "这台可靠的机器能够加工最坚韧的金属。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Fission Furnace^reset;",
+    "value": "^orange;裂变反应炉^reset;"
+  }
+]

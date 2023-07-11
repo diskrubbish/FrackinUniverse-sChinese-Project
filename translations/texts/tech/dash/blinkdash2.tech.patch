@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Blink Dash in the air! Cooldown: 2.0s",
+    "value": "在空中闪现！ - 冷却时间：2.0秒"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Air Blink",
+    "value": "空中闪现"
+  }
+]

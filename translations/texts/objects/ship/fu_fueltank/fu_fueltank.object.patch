@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tank for storing ship fuel. Holds 1000 Fuel. ^red;BYOS Only^reset;",
+    "value": "用来储存船上燃料的油箱。可装1000单位的燃料。\n^red;只限BYOS^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fuel Tank",
+    "value": "燃料罐"
+  }
+]

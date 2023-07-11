@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This powered upgrade of the wooden centrifuge more efficiently performs extraction involving liquids. ^cyan;Requires ^orange;4W ^cyan;power.^reset;",
+    "value": "比木制离心机效率更高。\n^cyan;需要^orange;4W^cyan;电力^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Iron Centrifuge^reset;",
+    "value": "^cyan;铁制离心机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Powered Centrifuge",
+    "value": "需供电式离心机"
+  }
+]

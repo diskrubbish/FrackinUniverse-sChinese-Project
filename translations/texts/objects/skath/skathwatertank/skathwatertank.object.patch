@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stationary tank containing a huge amount of water.",
+    "value": "装有大量水的固定的水箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Water Tank",
+    "value": "绘世者水箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This tank contains a huge quantity of water.",
+    "value": "这个水箱里有大量的水。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The Skath seem to need a lot of water, most likely a result of their amphibious skin.",
+    "value": "绘世者似乎需要大量的水，很可能是因为他们的两栖皮肤。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran ssstares at tank. Getsss thirsty!",
+    "value": "叶族人盯着水箱。口渴！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Reflective. Water is the source of all life.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I hope this is a water dispenser. I am really thirsty.",
+    "value": "我希望这是个饮水机。我真的很渴。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Skath rely just as much on water as we do.",
+    "value": "绘世者一族和我们一样依赖水。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A tank with a lot o' water.",
+    "value": "有很多水的水箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "Water is essential to our kind, to humidify ourselves. Every colony contains numerous tanks such as this.",
+    "value": "水对我们这类人来说是必不可少的，它可以使我们自己变湿。每个殖民地都有许多这样的水箱。"
+  }
+]

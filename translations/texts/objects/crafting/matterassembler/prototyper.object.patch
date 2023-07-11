@@ -1,0 +1,122 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;(Frackin' Universe main table)^reset; Craft all sorts of useful gear.",
+    "value": "^cyan;(Frackin'Universe主设备)^reset;用于制作各种设备与基础道具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Machining Table^reset;",
+    "value": "^orange;加工台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/description",
+    "raw": "Craft all sorts of complex gear.",
+    "value": "制造各种复杂的设备"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Machining Table^reset;",
+    "value": "^orange;加工台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^#00ff85;Machining Table^reset;",
+    "value": " ^#00ff85;加工台^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Create tech and components.",
+    "value": " ^#dddddd;制造科技与组件。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/description",
+    "raw": "Create more complicated gear",
+    "value": "制造更复杂的设备"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Auto-Assembler^reset;",
+    "value": "^orange;自动组装器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^#00ff85;Auto-assembler^reset;",
+    "value": " ^#00ff85;自动组装器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Create more complex gear.",
+    "value": " ^#dddddd;制造更复杂的零件。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "raw": "Create advanced technology.",
+    "value": "制造高科技。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "raw": "^orange;Matter Assembler^reset;",
+    "value": "^orange;物质汇编机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^#00ff85;Matter Assembler^reset;",
+    "value": " ^#00ff85;物质汇编机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Create advanced technology.",
+    "value": " ^#dddddd;制造高级科技。"
+  }
+]

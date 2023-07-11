@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Trim Block for an Apex spaceship.",
+    "value": "一个为猿族飞船设计的装饰方块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apex Trim Block",
+    "value": "猿人装饰方块"
+  }
+]

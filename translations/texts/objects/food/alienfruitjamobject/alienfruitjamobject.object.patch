@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Alien fruit jam. Sticky.",
+    "value": "外星果酱。黏乎乎的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alien Fruit Jam",
+    "value": "外星果酱"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssticky...",
+    "value": "黏乎乎的..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Puzzled. This fruit jam is rather sticky",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some sticky alien fruit jam.",
+    "value": "一些粘乎乎的外星果酱。"
+  }
+]

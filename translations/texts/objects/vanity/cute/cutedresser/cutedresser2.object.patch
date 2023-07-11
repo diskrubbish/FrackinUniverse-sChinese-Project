@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute dresser with glass panelling",
+    "value": "一个可爱的梳妆台。它的台面是由玻璃制成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Accented Dresser",
+    "value": "非常可爱的梳妆台"
+  }
+]

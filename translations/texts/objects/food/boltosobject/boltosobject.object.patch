@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bolt O's, for when you wake up so hungry you don't care what you're putting in your mouth!",
+    "value": "机械螺栓，因为当你饿得醒来的时候，你根本不在乎你嘴里放的是什么！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bolt O's",
+    "value": "机械螺栓"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran isn't looking to get tetanusss...",
+    "value": "叶族人不想得手足搐搦症..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Defensive. Why are so many other races critical of Bolt O's? They're a fine cereal brand!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "... Now who went and dumped their nuts and bolts into a perfectly good cereal bowl?",
+    "value": "... 现在谁去把坚果和螺栓倒进一个完美的麦片碗里了？"
+  }
+]

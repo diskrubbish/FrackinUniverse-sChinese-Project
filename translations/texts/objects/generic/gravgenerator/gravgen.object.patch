@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Regulates effects of gravity within 30 tiles.\n^blue;Input^reset;: On/Off Switch.",
+    "value": "调整30格内的重力影响。\n^blue;输入^reset;: 电源开关。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Gravity Normalizer^reset;",
+    "value": "^orange;重力常化器^reset;"
+  }
+]

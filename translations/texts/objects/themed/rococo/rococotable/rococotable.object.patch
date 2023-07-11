@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fancy vintage table.",
+    "value": "一张精致的古董桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rococo Table",
+    "value": "洛可可桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A fancy table that is unusually sturdy.",
+    "value": "一张特别结实的花哨桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The best woodwork is both sturdy and tasteful. Clearly the carpenter here understood that.",
+    "value": "最好的木制品既坚固又雅致。显然，这里的木匠明白这一点。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sstrong table.",
+    "value": "结实的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. I wouldn't expect a table this dainty looking to be so sturdy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I wonder how hard someone would have to launch themselves onto this thing to break it...",
+    "value": "我想知道一个人要想打破它，得付出多大的努力..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Fancy AND practical!",
+    "value": "别致又实用！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "For such a purty table, it sure can take a beating...",
+    "value": "对于这样一张矮胖的桌子，它肯定要挨打..."
+  }
+]

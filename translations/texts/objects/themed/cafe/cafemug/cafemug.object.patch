@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A simple coffee mug.",
+    "value": "一个简单的咖啡杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coffee Mug",
+    "value": "咖啡杯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A basic mug.",
+    "value": "基本的杯子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This mug faintly smells of dark roast...",
+    "value": "这个杯子有淡淡的烤黑味..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "It'sss a smelly coffee glassss.",
+    "value": "这是一个有臭味的咖啡杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A coffee mug.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I wonder if the novelty coffee mug industry's still around.",
+    "value": "我想知道新奇的咖啡杯行业是否还在。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Mugs are so much less elegant than the teacups I'm used to.",
+    "value": "杯子远不如我习惯的茶杯优雅。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't nothin' special, but highly necessary all the same.",
+    "value": "没有什么特别的，但仍然非常必要。"
+  }
+]

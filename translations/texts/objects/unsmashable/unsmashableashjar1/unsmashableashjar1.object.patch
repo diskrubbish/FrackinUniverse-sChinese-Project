@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bird-shaped jar full of ash. Unbreakable!",
+    "value": "一个装满灰的鸟形罐子。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bird Jar",
+    "value": "鸟笼"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An Avian jar. Looks to be full of powder.",
+    "value": "一个翼族人罐子。看起来满是粉末。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An ash jar. Many Avians are cremated, their remains stored in jars such as these.",
+    "value": "一个烟灰缸。许多翼族人被火化，他们的遗体存放在这样的罐子里。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmash birdman jar.",
+    "value": "Sssmash鸟人罐。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Reflective. The ash in this jar is Avian in origin. The Glitch can not be disposed of this way.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Is this... an Avian's ashes?",
+    "value": "这是。。。翼族人的骨灰？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Avians honour the ashes of the dead.",
+    "value": "阿维安人纪念死者的骨灰。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I'll bet this jar would break if I shot it.",
+    "value": "我敢打赌，如果我开枪的话，这个罐子会碎的。"
+  }
+]

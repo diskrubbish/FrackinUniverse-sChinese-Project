@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A standard cloth Mantizi banner.",
+    "value": "一个标准的布制甲虫族旗帜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Small Banner",
+    "value": "甲虫族小型横幅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Small banners with simple patterns.",
+    "value": "图案简单的小横幅。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These banners are made by beginner Mantizi craftsmen.",
+    "value": "这些横幅是由初学的甲虫族工匠制作的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran make bannerss from sskinss and furss.",
+    "value": "叶族人用皮毛制作横幅。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delighted. This banner appears to be a first attempt at clothwork.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These banners are cute... they look as if they were made by kids.",
+    "value": "这些横幅很可爱...它们看起来像是孩子们做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Are these banners the work of novices? I approve.",
+    "value": "这些横幅是新手的作品吗？我赞成。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Seems t'me like this banner was made by a beginner.",
+    "value": "我觉得这个横幅是初学者做的。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Some real amateur work, here.",
+    "value": "这里有一些真正的业余工作。"
+  }
+]

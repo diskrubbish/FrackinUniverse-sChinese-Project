@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hot omelette made with rice and topped with ketchup.",
+    "value": "一种用米饭做成的热煎蛋，上面涂有番茄酱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Omurice",
+    "value": "蛋包饭"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "This rice is cooked with sssavory meats!",
+    "value": "这饭是用美味的肉做的！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delighted. This rice is so savory by itself, that the omelette feels almost secondary.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A simple, hearty omelette. Can't be beat.",
+    "value": "一份简单、丰盛的煎蛋。无坚不摧。"
+  }
+]

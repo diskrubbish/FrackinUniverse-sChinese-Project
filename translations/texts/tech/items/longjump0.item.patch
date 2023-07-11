@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Increased jump ability.",
+    "value": "增加跳跃能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Boosted Jump^reset;",
+    "value": "^#77acc3;跳跃能力提升^reset;"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A standard café wall mounted lamp.",
+    "value": "标准的咖啡厅壁灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Café Wall Lamp",
+    "value": "咖啡馆壁灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small wooden lamp.",
+    "value": "一盏小木灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A tiny wooden light powered by electricity.",
+    "value": "由电力驱动的小木灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssweet lamp glowss warmly.",
+    "value": "这盏灯发出温暖的光。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. A simple wall lamp.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A nice little lamp.",
+    "value": "一盏漂亮的小灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A charming lamp.",
+    "value": "一盏迷人的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This lamp is cute.",
+    "value": "这盏灯很可爱。"
+  }
+]

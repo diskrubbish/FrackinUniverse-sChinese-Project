@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^green;Brine Star",
+    "value": "^green;盐湖之星"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "The ancient map gives me directions to a deep underground jungle on a far-off, remote planet. What will I find there?",
+    "value": "这份古老的地图上标记着在遥远彼岸的星球地层深处有着一片神秘丛林，到底会有什么在哪里等着我呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Explore the entirety of the Brine Star ruins.",
+    "value": "探索盐湖之星遗址"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "That was truly harrowing! Did I manage to find all the secret rooms?",
+    "value": "这一切让我难受至极！我真的找到了所有的密室了吗？"
+  }
+]

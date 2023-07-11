@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Devote worship to the things that lurk beyond our reality.\n^red;-20 Happiness^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Statue of the Old One",
+    "value": ""
+  }
+]

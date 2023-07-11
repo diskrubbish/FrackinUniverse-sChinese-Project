@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Jam made from toxictop fruit. But is it actually toxic to eat? Only one way to find out!",
+    "value": "由有毒水果制成的果酱。但是吃它真的有毒吗？只有一种方法可以找到答案！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toxictop Jam",
+    "value": "有毒果酱"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran's Greenfinger always told Floran to ssstay away from weird purple goo.",
+    "value": "叶族人的绿手指总是告诉Floran远离古怪的紫色粘液。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wry. Glitch kitchens are often stocked with these preserves. For use as rat poison.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Not sure I should be eatin' anything made with toxictop.",
+    "value": "我不确定我应该吃任何有毒的东西。"
+  }
+]

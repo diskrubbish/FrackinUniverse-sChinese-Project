@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lovely, insanity-causing table.",
+    "value": "一张有刺，令人毛骨悚然的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Table",
+    "value": "远古桌子"
+  }
+]

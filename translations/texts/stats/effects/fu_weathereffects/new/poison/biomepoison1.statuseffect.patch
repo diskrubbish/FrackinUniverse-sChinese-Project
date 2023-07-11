@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Mild Poison (Resist: ^green;Poison^reset;)",
+    "value": "温和毒素 (抵抗: ^green;毒素^reset;)"
+  }
+]

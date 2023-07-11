@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A couch made from cultivated crystal.",
+    "value": "一张由人工水晶制成的沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Couch",
+    "value": "水晶沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A couch.",
+    "value": "一张沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This looks very nice to sit on.",
+    "value": "这看着坐上去好极了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Nice and comfy for Floran.",
+    "value": "对叶族人来说很棒很舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Happy. This seems comfortable.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I could sit here forever.",
+    "value": "我能在上面坐到永远。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This couch looks comfortable to sit on.",
+    "value": "这沙发看上去坐起来很舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I wouldn't mind a small rest.",
+    "value": "我不介意稍微休息一会儿"
+  }
+]

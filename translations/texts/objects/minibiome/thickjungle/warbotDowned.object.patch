@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This probably did something useful, a long time ago. Now it's little more than trash.",
+    "value": "在很久很久以前，这家伙可能还有什么用途。现在它只是比垃圾好一点而已。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Robot",
+    "value": "古代机械"
+  }
+]

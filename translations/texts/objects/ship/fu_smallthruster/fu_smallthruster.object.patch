@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Small, decorative booster to represent interplanetary travel. Can be placed anywhere.",
+    "value": "小型，代表超光速旅行的推进器。可以放在任何地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Decorative Ship Booster",
+    "value": "小型装饰性飞船加速器"
+  }
+]

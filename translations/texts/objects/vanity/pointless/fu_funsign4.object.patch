@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This sign is unmistakably mistaken.",
+    "value": "这个标志肯定有问题。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "One Way?",
+    "value": "单向标志"
+  }
+]

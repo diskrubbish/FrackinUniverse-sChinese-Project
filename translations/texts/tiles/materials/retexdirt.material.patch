@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dirty looking dirt.",
+    "value": "脏兮兮的泥土。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dirt Block",
+    "value": "泥土块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Dirt. Clarification. Just dirt.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Filthy dirt!",
+    "value": "肮脏的泥土！"
+  }
+]

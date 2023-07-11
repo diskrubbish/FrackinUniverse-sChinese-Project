@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hellishly hot chest.",
+    "value": "一个非常热的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hellfire Chest",
+    "value": "地狱火胸甲"
+  }
+]

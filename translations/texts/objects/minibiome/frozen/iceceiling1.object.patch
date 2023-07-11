@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sharp, and imposing icicles.",
+    "value": "锋利而巨大的冰柱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice",
+    "value": "冰"
+  }
+]

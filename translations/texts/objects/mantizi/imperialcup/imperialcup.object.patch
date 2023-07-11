@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A round, wooden cup.",
+    "value": "一个圆形的木制杯子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Cup",
+    "value": "甲虫茶杯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A little wooden cup.",
+    "value": "一个小木杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A wooden cup, round and sturdy.",
+    "value": "一个木制的杯子，又圆又结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran drink blood from sssuch cupss.",
+    "value": "叶族人喝着这样的杯子里的血。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Identify. A common wooden goblet.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A goblet made of wood.",
+    "value": "木制的高脚杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A stained wooden goblet.",
+    "value": "沾满污迹的木制高脚杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "For drinking. Lots of drinking!",
+    "value": "为了喝酒。喝多了！"
+  }
+]

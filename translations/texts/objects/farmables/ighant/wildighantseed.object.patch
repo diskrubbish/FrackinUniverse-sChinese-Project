@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The ighant is a curious, fast-growing plant. Provides bounce.",
+    "value": "这是速生植物。可以收获艾恩茎，食用后会提高弹跳力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ighant Seed",
+    "value": "艾恩茎种子"
+  }
+]

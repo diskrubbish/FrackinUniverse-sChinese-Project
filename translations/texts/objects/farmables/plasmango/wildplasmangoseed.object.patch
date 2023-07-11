@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Plasmango, the galaxy's most dangerous fruit.",
+    "value": "等离子芒果，星际中最危险的水果。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasmango Seed",
+    "value": "等离子芒果种子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Once, my old friend tried to power a laboratory with a plasmango plantation. He has burned it down.",
+    "value": "我的一个老朋友试图用一处等离子芒果种植园为一间实验室提供能源。结果他把实验室烧掉了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This fruit looks like it's obsessed.",
+    "value": "这种水果看起来很迷人。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "It can ssset me on fire, Floran don't find plasssmango acceptable.",
+    "value": "这水果可以让让让我着火，叶族人一点也不适合等离子芒果。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Phylosophic. Does plasmango look like mango or does mango look like plasmango?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh man, it's a bad idea to grow this.",
+    "value": "天啊，种这个可不是个好主意。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A shining plasma fruit. Good for adding 'a little' flavour.",
+    "value": "一个闪亮的等离子体水果。有助于增加“一点”风味。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Well, nice to see this again.",
+    "value": "好吧，很高兴再看见这个。"
+  }
+]

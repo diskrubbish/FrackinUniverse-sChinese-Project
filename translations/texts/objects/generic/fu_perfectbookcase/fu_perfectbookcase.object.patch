@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A perfect bookcase full of books.",
+    "value": "一个摆满了书籍的完美的书柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Perfect Bookcase",
+    "value": "完美的书柜"
+  }
+]

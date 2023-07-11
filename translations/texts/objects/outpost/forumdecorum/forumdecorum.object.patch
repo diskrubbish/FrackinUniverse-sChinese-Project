@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fine Mantizi goods, mostly legal!",
+    "value": "优良的Mantizi商品，绝大多数合法！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Forum Decorum",
+    "value": "论坛礼仪"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "  Forum Decorum",
+    "value": "  论坛礼仪"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Fine Mantizian Goods",
+    "value": "  Mantizian精品店"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I hope Big Ape doesn't see me shopping here.",
+    "value": "我希望老大猿没有看到我在这里购物。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What lovely wares!",
+    "value": "多么可爱的商品！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran need nothing from ssshop.",
+    "value": "叶族人不需要商商商店中的任何东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A wholesale shop.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Are they allowed to operate out here like this?",
+    "value": "他们得到这里的经营许可了吗？就像这样？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I am surprised they let this one in here.",
+    "value": "我很惊讶他们在这里还留下了一个。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Fancy stuff in there.",
+    "value": "这里有一些梦幻般的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Masterworks, all. Can't go wrong.",
+    "value": "杰作。不会错的。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Burning-hot magma walls. You should probably not touch this.",
+    "value": "滚烫的岩浆墙，我想你不会想去碰它的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Burning Volcanic Rock",
+    "value": "灼热的火山喷出物"
+  }
+]

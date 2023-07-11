@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Writing of some sort, etched in blood.",
+    "value": "在血液中好像刻上了某种文字。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blood",
+    "value": "血液"
+  }
+]

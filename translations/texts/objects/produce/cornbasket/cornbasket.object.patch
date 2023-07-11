@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Behold: Corn!",
+    "value": "看，玉米！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corn Basket",
+    "value": "玉米篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Corn. Yet another food that looks like a banana, but isn't.",
+    "value": "这是玉米。尽管还有一种食物看起来像香蕉，但这个不是。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Pecking at a cob of corn makes for a great snack.",
+    "value": "啄玉米棒是一种很好的零食。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Hard yellow corn, cook and it goesss pop.",
+    "value": "硬的黄玉米，煮一下就会爆开。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Sceptical. It is claimed that if the Glitch eat corn, it will pop inside us.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hey! This is pretty nice. I am kinda hungry.",
+    "value": "嘿！这很好。我有点饿了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A common, flavourless snack of little merit.",
+    "value": "一种普通的无味小吃，没有什么价值。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Corn can be enjoyed in many forms.",
+    "value": "玉米可以以多种形式食用。"
+  }
+]

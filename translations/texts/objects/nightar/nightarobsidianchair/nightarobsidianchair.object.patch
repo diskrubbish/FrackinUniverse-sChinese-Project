@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Nightar chair made of obsidian. Anti-comfort.",
+    "value": "一把用黑曜石制作的夜族椅子。反舒适设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Obsidian Chair",
+    "value": "夜族黑曜石椅子"
+  }
+]

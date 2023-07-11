@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Refines Oil into unrefined mech fuel.",
+    "value": "将油提炼成未精炼的机甲燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Oil Distiller^reset;",
+    "value": "^orange;蒸油器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Convert Oil into Fuel",
+    "value": "将油转化为燃料"
+  }
+]

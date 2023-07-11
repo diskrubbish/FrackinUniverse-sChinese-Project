@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This book is full of strange illustrations.",
+    "value": "这本书画满了奇怪的插图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Codex",
+    "value": "典籍"
+  }
+]

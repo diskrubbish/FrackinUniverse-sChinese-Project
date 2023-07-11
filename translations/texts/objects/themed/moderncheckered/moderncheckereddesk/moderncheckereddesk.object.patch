@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cool black and white checkered desk.",
+    "value": "一张很酷的黑白格子桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Modern Desk",
+    "value": "现代书桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This sleek looking desk comes with drawers in the legs.",
+    "value": "这张看起来很时髦的桌子腿上有抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A desk with a pleasing black and white color scheme.",
+    "value": "一张黑白相间的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Checkered ssstorage.",
+    "value": "棋盘格存储。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. The monochrome pattern of this desk makes it easy to concentrate on whatever I'm working on.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A desk with cute black and white drawers.",
+    "value": "有可爱的黑白抽屉的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A desk of muted colors to quiet and focus the mind.",
+    "value": "用柔和的颜色来安静和集中注意力的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An odd black 'n' white desk.",
+    "value": "一张奇怪的黑白桌子。"
+  }
+]

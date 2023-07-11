@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "More effective stims means faster speeds!",
+    "value": "更加有效的刺激提供更快的速度！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Stimulant Rig II",
+    "value": "狂经脉 II"
+  }
+]

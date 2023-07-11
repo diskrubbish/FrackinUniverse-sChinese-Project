@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's a delicious cake!",
+    "value": "这是一块美味的蛋糕！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cake",
+    "value": "糕饼"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "It'sss a yummy cake!",
+    "value": "这是一块美味的蛋糕！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Joyful. It's a delicious cake!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's a mighty tasty lookin' cake!",
+    "value": "那是一个非常美味的蛋糕！"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spawns npcs in a variety of configurable ways.",
+    "value": "可根据配置来生成NPC。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Npc Spawner",
+    "value": "NPC生成器"
+  }
+]

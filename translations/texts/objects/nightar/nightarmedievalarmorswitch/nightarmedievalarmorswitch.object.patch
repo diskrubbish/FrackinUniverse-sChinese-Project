@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shiny armour stands resolute. Hmm... The shield looks loose.",
+    "value": "闪亮的盔甲坚不可摧。额...防护罩看起来松了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Suspicious Display Armour",
+    "value": "可疑展示装甲"
+  }
+]

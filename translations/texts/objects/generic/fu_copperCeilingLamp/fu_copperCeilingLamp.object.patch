@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wide ceiling lamp made from copper.",
+    "value": "由铜制成的宽顶灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Copper Ceiling Lamp",
+    "value": "铜吸顶灯"
+  }
+]

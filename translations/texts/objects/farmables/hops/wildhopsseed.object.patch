@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hops, used in the making of beer.",
+    "value": "可以收获啤酒花，那是酿造啤酒的材料之一。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hops Seed",
+    "value": "啤酒花种子"
+  }
+]

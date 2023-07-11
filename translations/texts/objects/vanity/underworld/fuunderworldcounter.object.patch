@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A solid chunk of flesh and meat fashioned into a counter.",
+    "value": "这个坚固的台子是由血肉塑造成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flesh Counter",
+    "value": "血肉台子"
+  }
+]

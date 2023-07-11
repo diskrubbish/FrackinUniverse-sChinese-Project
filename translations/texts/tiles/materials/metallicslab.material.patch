@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Metallic Slab",
+    "value": "金属板"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Etched metal to look like slabs.",
+    "value": "看起来像石板的蚀刻金属。"
+  }
+]

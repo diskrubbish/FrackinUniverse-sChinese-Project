@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nightar obsidian bed. Not built for comfort.",
+    "value": "夜族黑曜石床。不是为了舒适而建造的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Obsidian Bed",
+    "value": "黑曜石床"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An adorable poptop companion.",
+    "value": "一只可爱的吐舌娃伙伴。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poptop",
+    "value": "吐舌娃"
+  }
+]

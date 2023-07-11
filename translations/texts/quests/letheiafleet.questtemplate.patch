@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^green;Letheia Fleet Complete!",
+    "value": "^green;莱西亚舰队已经覆灭!"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I did it! I took on the entire fleet and survived!",
+    "value": "哈，哈，呼，我做到了！我活下来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Poke the strange crystal again to get your reward.",
+    "value": "再次使用水晶以获取奖励。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "It seems like a miracle that I survived this onslaught. Perhaps the battleship has leads on Letheia Corp's dastardly deeds.",
+    "value": "我在这次袭击中幸存下来，真是奇迹。也许这艘战舰的卑劣在莱西亚公司里也是排得上号的。"
+  }
+]

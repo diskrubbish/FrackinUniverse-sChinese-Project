@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Brewing III",
+    "value": "酿造 III"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Use some ^orange;Grapes^reset; and a ^orange;Bottle^reset; in the ^orange;Fruit Press^reset; to make ^orange;Grape Mash^reset;. You'll want two units of it for the wine you'll be making.",
+    "value": "准备^orange;葡萄^reset;和一个^orange;空桶^reset;，使用^orange;水果压榨机^reset;来制作^green;葡萄醪^reset;。你应该需要两份葡萄来酿酒。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Nice. Now we have everything we need to make a delicious wartwine.",
+    "value": "干得好，现在有了我们需要的一切材料，我们就可以来酿一瓶酒香四溢的瓦特酒了。"
+  }
+]

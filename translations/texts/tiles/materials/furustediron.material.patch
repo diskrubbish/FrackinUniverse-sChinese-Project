@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's so rusty, you may require a Tetanus shot.",
+    "value": "锈得太厉害了, 你可能需要一针破伤风疫苗."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rusty Corrugated Iron",
+    "value": "生锈波状钢"
+  }
+]

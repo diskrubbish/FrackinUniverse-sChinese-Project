@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Blastball",
+    "value": "爆炸球"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "With a few simple tweaks to the quantum-displacement regulator used to make the Distortion Sphere work I could probably provide added deadliness...",
+    "value": "通过对变形球内部的量子位移调节器做几个简单的调整，我或许可以让它更危险..."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "When you are in ball form, you can now drop bombs by pressing ^orange;[FIRE]^reset;!",
+    "value": "当你变成球时，你可以通过按^orange;[FIRE]^reset;丢下炸弹。"
+  }
+]

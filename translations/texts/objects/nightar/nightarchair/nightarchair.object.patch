@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Nightar chair. You'll never want to stand again.",
+    "value": "一张夜族椅子。你再也不想站起来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Chair",
+    "value": "夜族椅子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Sitting in this chair makes all my worries melt away.",
+    "value": "坐在椅子上让我所有的烦恼消散。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This chair is enough to make me forget being grounded.",
+    "value": "这把椅子足以让我忘记被禁足。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssitting.",
+    "value": "坐着。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relaxed. Everyone should have a chair like this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The ultimate in comfort.",
+    "value": "极致的舒适感。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A masterfully crafted chair. So comfortable.",
+    "value": "精心制作的椅子。很舒服。"
+  }
+]

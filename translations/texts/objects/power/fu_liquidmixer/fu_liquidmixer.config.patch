@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/clear/caption",
+    "raw": "Take All",
+    "value": "拿取全部"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/dragDrop/value",
+    "raw": "Mix Two\nLiquids",
+    "value": "混合II\n液体"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/label1/value",
+    "raw": "1",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/label2/value",
+    "raw": "2",
+    "value": ""
+  }
+]

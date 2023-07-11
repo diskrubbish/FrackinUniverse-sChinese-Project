@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An astute visual demonstrating mans inhumanity to man.",
+    "value": "一幅隐喻的幻觉展示了人对人的不人道。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stripe 2",
+    "value": "条纹 2"
+  }
+]

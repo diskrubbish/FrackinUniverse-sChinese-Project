@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tomatoes are a rich, juicy fruit. Or vegetable. One of the two.",
+    "value": "西红柿是一种丰富多汁的水果。或者蔬菜。两个中的一个。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tomato Basket",
+    "value": "番茄篮"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'm fond of a ripe, succulent tomato.",
+    "value": "我喜欢成熟多汁的西红柿。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Tomato seeds can improve many a dish.",
+    "value": "西红柿种子可以改善许多菜肴。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Tomatoes are blood red and bursssty.",
+    "value": "西红柿有着突发状态血液般的红色。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Mischievous. Rotten tomatoes make for good projectiles.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Tomatoes are perfect for a healthy salad... Or better yet, a pizza.",
+    "value": "西红柿是健康沙拉的完美选择...或者更好的是，一个比萨饼。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Tomatoes are acceptable, if unremarkable.",
+    "value": "西红柿是可以接受的，如果不显著的话。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Tomatoes make a tasty snack, also great for flingin' at miscreants.",
+    "value": "西红柿是一种美味的小吃，也是对付恶棍的好方法。"
+  }
+]

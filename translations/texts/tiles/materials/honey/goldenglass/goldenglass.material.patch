@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I can see my reflection... it's hideous!",
+    "value": "我可以看到我的倒影...真有意思！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Glass Block",
+    "value": "金色玻璃块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Glass.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran look pretty in glasssss.",
+    "value": "看起来很恨很漂亮。"
+  }
+]

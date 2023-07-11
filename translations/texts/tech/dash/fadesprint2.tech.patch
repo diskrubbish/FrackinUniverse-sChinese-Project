@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Phase Sprint that can damage enemies.",
+    "value": "可以伤害敌人的相位冲刺。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Phase Sprint II",
+    "value": "相位加速 II"
+  }
+]

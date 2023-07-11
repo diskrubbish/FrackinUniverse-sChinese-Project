@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fancy feasting table.",
+    "value": "精美的宴席。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Royal Dining Table",
+    "value": "皇家餐桌"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Techy silver floor panels.",
+    "value": "科技银地板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Silver Floor Panel",
+    "value": "银地板"
+  }
+]

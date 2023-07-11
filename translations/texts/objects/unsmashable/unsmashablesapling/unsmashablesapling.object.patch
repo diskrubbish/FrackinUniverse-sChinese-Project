@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sapling. From simple roots a tree will grow. Unbreakable!",
+    "value": "一颗树苗。树从简单的根开始生长。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sapling",
+    "value": "树苗"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I can plant this to grow a tree.",
+    "value": "我可以种下这棵树。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I can grow a tree by planting this sapling.",
+    "value": "我可以种这种树苗来种树。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran plant cute sssapling, grow big bad evil tree!",
+    "value": "叶族人种下可爱的树苗，长出大恶树！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wonder. Planting this sapling allows me to grow life.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This sapling will grow into a tree.",
+    "value": "这棵小树将长成一棵树。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such wondrous life, springing forth from the tiniest shoot. Sigh.",
+    "value": "如此奇妙的生命，从最微小的嫩芽中迸发出来。叹气"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It'll grow into a big tree if I plant it.",
+    "value": "如果我种植它，它会长成一棵大树。"
+  }
+]

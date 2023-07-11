@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A broken fuel hatch. Can't have that!",
+    "value": "一个破损的燃料仓。不会吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Broken Fuel Hatch",
+    "value": "破损的燃料仓"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Converts fuel into freedom.",
+    "value": "放入燃料，得到自由。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Let's load it up and take to the stars!",
+    "value": "装载完毕，然后向群星进发！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Let'ss get going!",
+    "value": "让我我们出发吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excited. Once filled, we may visit another planet.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fuel panel. We can fill this up and explore.",
+    "value": "一个燃料面板。让我们填满它，然后开始探索吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Fuel is the lifeblood of exploration.",
+    "value": "谨记燃料是探险活动的命脉。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Fuel goes in, explosions come out.",
+    "value": "进去的是燃料，出来的是爆炸。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Amazing Grip!",
+    "value": "惊异的攀附！"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "This new technology has made me realize I could ^green;replace the Wall Jump tech^reset; with a ^orange;useful upgrade tech^reset;",
+    "value": "我可以利用这项^orange;有用的新科技^reset;来^green;加强蹬墙跳科技^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "This new technology has made me realize I could ^green;replace the Wall Jump tech^reset; with a ^orange;useful upgrade tech^reset;",
+    "value": "我可以利用这项^orange;有用的新科技^reset;来^green;加强蹬墙跳科技^reset;。"
+  }
+]

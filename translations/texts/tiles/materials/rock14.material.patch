@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rough, unrefined gabbro.",
+    "value": "粗糙的，未经提炼的辉长岩。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gabbro Block",
+    "value": "辉长岩块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Gabbro.",
+    "value": ""
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A greenhouse to let the sun through.",
+    "value": "一种可以让阳光透过的温室玻璃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Greenhouse",
+    "value": "温室"
+  }
+]

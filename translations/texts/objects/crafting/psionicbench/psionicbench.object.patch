@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/lblTitle/value",
+    "raw": " ^#ffea00;Psionics Table",
+    "value": " ^#ffea00;灵能工作台"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/lblSubTitle/value",
+    "raw": " ^#dddddd;Create psionic weapons and gear.",
+    "value": " ^#dddddd;制造灵能武器和装备。"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Create psionic weapons and gear.",
+    "value": "制造灵能武器和装备。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Psionics Table^reset;",
+    "value": "^orange;灵能工作台^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Faster and more expensive Physics Field",
+    "value": "更快、消耗更大的物理力场"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Physics Field II",
+    "value": "物理力场 II"
+  }
+]

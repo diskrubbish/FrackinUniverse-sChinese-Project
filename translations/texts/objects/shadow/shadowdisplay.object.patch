@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A creepy skull on a stand.",
+    "value": "放在架子上的令人毛骨悚然的头骨。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowy Skull Display",
+    "value": "阴影头骨陈列品"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A skull crafted from a type of mineral.",
+    "value": "由一种矿物制成的头骨。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I wouldn't like to sleep next to this.",
+    "value": "我可不想睡在这个旁边。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Creepy ssskull. Floran likesss.",
+    "value": "令人毛骨悚然的头骨。叶族人喜欢。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. I feel like it is watching me.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I don't think I'll put this in my bedroom.",
+    "value": "我不想把这玩意放在我的卧室里。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There is something beautiful in how this is carved.",
+    "value": "这是如何雕刻的，有一些美丽的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That is mighty spooky, the way it's lookin' at me.",
+    "value": "它看着我的样子太可怕了。"
+  }
+]

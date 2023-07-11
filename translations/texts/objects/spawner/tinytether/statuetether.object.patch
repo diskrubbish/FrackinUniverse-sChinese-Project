@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A statue multi-tether.",
+    "value": "一个更大的多格宠物束缚器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Statue Multi-Tether",
+    "value": "大型多格宠物束缚器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Several captured creatures can be tethered to this statue.",
+    "value": "可以放多只宠物进去。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A pretty statue that pets can be tethered to.",
+    "value": "这个漂亮的玩意儿可以让你的宠物别乱跑。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Creaturess attached to ugly ssstatue ssstay here.",
+    "value": "宠物物物们会一直待在这附近，哪里都去不了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Satisfied. Captured creatures placed in this statue will stay nearby.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A statue for captured creatures.",
+    "value": "一个更大的多格宠物束缚器。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Once placed in this statue, captured creatures will not wander far.",
+    "value": "宠物一旦放进去了，就不会到处跑来跑去了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A handy statue for keepin' captured creatures from wanderin'.",
+    "value": "这个方便的设备可以让宠物们别再乱跑。"
+  }
+]

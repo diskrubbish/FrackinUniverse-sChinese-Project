@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This cozy bar seating can sit at least four.",
+    "value": "这个舒适的酒吧座位至少可以坐四个人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bar Sectional",
+    "value": "钢筋截面"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I could do with a drink right now.",
+    "value": "我现在想喝一杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'll pass on the drinks, but these seats are awfully comfortable.",
+    "value": "我把饮料递过去，但这些座位太舒服了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran could gather friends here for a great big feassst.",
+    "value": "叶族人可以在这里召集朋友参加一个盛大的宴会。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Affable. Sitting here and drinking with friends sounds like a wonderful time.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "\"Sometimes you wanna go where everybody knows your naaaame...\"",
+    "value": "“有时候你想去每个人都知道你的名字的地方…”"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I might not care the alcohol here, but I wouldn't mind sitting around this table and chatting.",
+    "value": "我可能不在乎这里的酒，但我不介意坐在这张桌子旁聊天。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "You could have a real nice long card game at a table like this.",
+    "value": "你可以在这样一张桌子上玩一场真正漂亮的长纸牌游戏。"
+  }
+]

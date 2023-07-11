@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange alien pod.",
+    "value": "一种奇怪的外星荚。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A strange alien pod.",
+    "value": "一种奇怪的外星荚。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Funny sssquishy pod.",
+    "value": "这真是一个有趣的外外外星荚。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. This pod appears to be organic.",
+    "value": ""
+  }
+]

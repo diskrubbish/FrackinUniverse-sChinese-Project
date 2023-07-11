@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wardrobe modeled after a Trictus. Highly unlikely to pop out and attack you.",
+    "value": "模仿诡行仙的衣橱。不太可能突然冒出来攻击你。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Monstrous Wardrobe",
+    "value": "奇装异服"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Colorful! It's a step up from mass-produced Apex cabinets for sure.",
+    "value": "丰富多彩的！这无疑是从量产猿族橱柜的一个进步。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Real Trictus are often a nuisance on Avian farmland. Thankfully, this one is just a cabinet.",
+    "value": "在翼族人的农田里，真正的诡行仙经常是一种讨厌的动物。谢天谢地，这只是一个内阁。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Trictus ssstay underground to keep cool. Sssmart.",
+    "value": "诡行仙在地下保持凉爽。机智。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Nervous. This wardrobe doesn't have spines, does it? ... Or claws?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This cabinet's a little gaudy, even for me.",
+    "value": "这个柜子有点花哨，即使对我来说也是如此。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I know Trictus are pretty colorful, but this is a bit much, don't you think?",
+    "value": "我知道诡行仙的颜色很鲜艳，但这有点太多了，你不觉得吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just like a real Trictus, minus the spikes. And, uh, the attackin'.",
+    "value": "就像真正的诡行仙，没有尖刺。还有那次袭击。"
+  }
+]

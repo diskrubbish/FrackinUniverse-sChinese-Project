@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I wouldn't want to find myself locked behind these thick iron bars.",
+    "value": "我不想发现自己被关在这些粗铁栏杆后面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bar Door Prop",
+    "value": "栏杆门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An iron cell door.",
+    "value": "一扇铁制的牢门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The Avians used doors much like these to guard their tombs.",
+    "value": "翼族人用类似这样的门来保护他们的坟墓。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Heavy iron door protect goodiess.",
+    "value": "重型铁门保护着东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. This looks similar to the cell doors in Glitch dungeons.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like the kind of door you'd find on a cell.",
+    "value": "看起来像是你在牢房里能找到的那种门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An oppressive door.",
+    "value": "一扇沉闷的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I betcha' some varmint has found themselves behind doors like these.",
+    "value": "我敢打赌有些坏蛋会发现自己躲在这样的门后面。"
+  }
+]

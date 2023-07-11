@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perform a super-awesome screw attack jump!",
+    "value": "跳起来，然后开始惊人的螺旋攻击！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Screw Attack^reset;",
+    "value": "^#77acc3;螺旋攻击^reset;"
+  }
+]

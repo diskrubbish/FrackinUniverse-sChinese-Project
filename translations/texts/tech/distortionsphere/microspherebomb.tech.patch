@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Microsphere ^green;[F]^reset;! ^red;[Fire]^reset; drops bombs.",
+    "value": "微型球^green;[F]^reset;！按^red;[鼠标左键]^reset;来放置炸弹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Micro Bomb Sphere",
+    "value": "微型炸弹球"
+  }
+]

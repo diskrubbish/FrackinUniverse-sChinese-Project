@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wall support used in ship construction.",
+    "value": "船体结构中使用的墙体支撑物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ship Support",
+    "value": "飞船支撑"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informed. Supports like this are often used in ship construction.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssship sstructural ssupport.",
+    "value": "船船船体结构支支支撑。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Made for holdin' spaceships together.",
+    "value": "为支撑宇宙飞船而制造。"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "  Medieval Furnace",
+    "value": "中世纪熔炉"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Ye olde fashioned smelting.",
+    "value": "陈旧的时髦锤炼"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A old fashioned furnace for tempering tools.",
+    "value": "用于回火工具的老式熔炉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medieval Furnace",
+    "value": "中世纪熔炉"
+  }
+]

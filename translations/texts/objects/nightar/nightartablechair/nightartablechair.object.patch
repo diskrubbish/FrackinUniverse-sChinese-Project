@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A simple Nightar chair used for tables.",
+    "value": "一种用来摆桌子的简单的睡椅。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar table chair",
+    "value": "夜族桌椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple chair of Nightar design.",
+    "value": "夜族人设计的简单椅子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The grounded do not have anything this elegant.",
+    "value": "我们家没有这么优雅的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Shiny chair makesss Floran happy to ssssit!",
+    "value": "闪亮的椅子让叶族人很高兴看到它！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This is a simple dining chair crafted by the Nightar.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "It's smooth finish could almost make you fall asleep.",
+    "value": "光滑的表面几乎可以让你睡着。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Fancy dinner chair.",
+    "value": "漂亮的餐椅。"
+  }
+]

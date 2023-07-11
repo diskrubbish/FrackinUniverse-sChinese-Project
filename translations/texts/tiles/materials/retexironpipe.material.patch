@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large metal pipe.",
+    "value": "大根的金属管。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metal Pipe",
+    "value": "金属管"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Large pipe.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Metal pipes like Glitch organs.",
+    "value": "像电子人器官一样的金属管道。"
+  }
+]

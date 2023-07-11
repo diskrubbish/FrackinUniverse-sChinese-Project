@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A door suitable for a spaceship.",
+    "value": "一扇适用于飞船的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Ship Door",
+    "value": "蚁族飞船门"
+  }
+]

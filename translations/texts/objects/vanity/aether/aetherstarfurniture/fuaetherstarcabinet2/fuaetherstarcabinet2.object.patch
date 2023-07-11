@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A low end table for storing various things.",
+    "value": "一个可以存储很多东西的低茶几。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Aether End Table",
+    "value": "宇宙以太茶几"
+  }
+]

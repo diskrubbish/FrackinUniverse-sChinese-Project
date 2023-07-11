@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A robust, roman-style pillar. It's a little beaten up...",
+    "value": "坚固的罗马式支柱。有点受挫了..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Roman Pillar",
+    "value": "罗马柱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A broken pillar.",
+    "value": "一根损坏的柱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A broken pillar.",
+    "value": "一根损坏的柱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Broken ssstone.",
+    "value": "碎石。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. This pillar has been damaged.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This pillar sure is interesting.",
+    "value": "这根柱子很有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The remains of a tall stone pillar.",
+    "value": "一根高大的石柱的残骸。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A broken pillar.",
+    "value": "一根损坏的柱子。"
+  }
+]

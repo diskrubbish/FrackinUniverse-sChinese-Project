@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tiny house. Who lives here? Unbreakable!",
+    "value": "一座小房子。谁住在这里？牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tiny House",
+    "value": "小房子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This is the smallest house I've ever seen.",
+    "value": "这是我见过的最小的房子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A tiny little house.",
+    "value": "一座小房子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Knock knock. Floran come in.",
+    "value": "砰砰砰。叶族人进来。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. I do not believe a Glitch could live here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I can't remember, is this eat me or drink me?",
+    "value": "我不记得了，这是吃我还是喝我？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I wonder where the tiny inhabitants are?",
+    "value": "我想知道这些小居民在哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This must be a house for ants.",
+    "value": "这一定是蚂蚁的房子。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bronze, electric chandelier.",
+    "value": "一个青铜色的电动枝形吊灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Hanging Light",
+    "value": "甲虫吊灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A hanging lantern.",
+    "value": "吊灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Light!",
+    "value": "光"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Bright!",
+    "value": "光线充足的"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Kindness. I wish to donate a lampshade.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A nice light.",
+    "value": "一盏漂亮的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Lightly decorated.",
+    "value": "装饰得很轻。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "Like a teensy, tiny sun.",
+    "value": "就像一个小小的太阳。"
+  }
+]

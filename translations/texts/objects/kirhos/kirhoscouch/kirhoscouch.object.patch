@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Designed for maximum comfort and trade value.",
+    "value": "设计标准是最大的舒适度以及最高的交易价值。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kirhosi Bench",
+    "value": ""
+  }
+]

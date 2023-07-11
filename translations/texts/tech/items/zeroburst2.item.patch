@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An improved blast and jump.",
+    "value": "提高爆炸能力和跳跃力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Zero Burst II^reset;",
+    "value": "^#77acc3;爆炸跳跃 II^reset;"
+  }
+]

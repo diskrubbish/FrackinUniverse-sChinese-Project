@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tiny little sand dune.",
+    "value": "一个小小的沙丘。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small dune",
+    "value": "小沙丘"
+  }
+]

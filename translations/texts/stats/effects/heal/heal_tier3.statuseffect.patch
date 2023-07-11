@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "Heals 40 hp over 2 seconds",
+    "value": "在2秒回复40点生命值。"
+  }
+]

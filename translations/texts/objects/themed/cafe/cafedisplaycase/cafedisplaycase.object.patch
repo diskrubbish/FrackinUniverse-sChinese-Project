@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Look at all these sweets!",
+    "value": "看看这些糖果！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Café Display Case",
+    "value": "咖啡馆陈列柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "That's quite the selection of sweets...",
+    "value": "这是很好的糖果选择..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "That tart with the crumb topping looks awfully tempting...",
+    "value": "面包屑馅饼看起来非常诱人..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssweets!",
+    "value": "好甜！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Eager. There's so much I wish to sample.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Has someone gotten diabetes just looking at something? Because if not, we're about to get our first case.",
+    "value": "有人因为看了什么东西就得了糖尿病吗？因为如果不是的话，我们就要拿到第一个病例了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There is enough sugar in these pastries to give a dentist job security.",
+    "value": "这些糕点中有足够的糖来保证牙医的工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I could do with some sweets.",
+    "value": "我想吃点糖果。"
+  }
+]

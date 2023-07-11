@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Store some stuff, why don't you?",
+    "value": "往里面存储一些物品吧，为什么不呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ship Locker",
+    "value": "飞船储物柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Accesses the ship's storage system. Seems quite sophisticated.",
+    "value": "访问船舶的存储系统。看起来很老练。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A storage system built seamlessly into the hull of the ship. The Peglaci must value efficiency of form.",
+    "value": "无缝嵌入船体的存储系统。企鹅人一定重视形式上的效率。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssstorage!",
+    "value": "ssssstorage！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Admiring. An efficient storage system built into the console.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like I can call up stuff in storage here right from the console.",
+    "value": "看起来我可以直接从控制台调出存储中的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The Peglaci seem to enjoy cramming everything in as tightly as they can - their storage system is incredibly dense.",
+    "value": "羊蹄人似乎喜欢把所有东西都塞得尽可能的紧——他们的存储系统非常密集。"
+  },
+  {
+    "op": "replace",
+    "path": "/peglaciDescription",
+    "raw": "Basic storage system operates on a variation of teleportation technology to store objects as virtual pixels until required.",
+    "value": "基本存储系统采用远程传输技术的一种变体，在需要之前将对象存储为虚拟像素。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "Basic storage system operates on a variation of teleportation technology to store objects as virtual pixels until required.",
+    "value": "基本存储系统采用远程传输技术的一种变体，在需要之前将对象存储为虚拟像素。"
+  }
+]

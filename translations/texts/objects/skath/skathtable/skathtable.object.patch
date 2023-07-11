@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy table of Skath design.",
+    "value": "一张结实的绘世者设计的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Table",
+    "value": "绘世者桌子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A carefully crafted table.",
+    "value": "精心制作的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This table is so clean, I can see my reflection!",
+    "value": "这张桌子太干净了，我能看到我的倒影！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssits on table. Thinksss about eating.",
+    "value": "叶族人坐在桌子上。想想吃饭。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Reflective. This table is as shiny as my chassis.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Well thats a neat looking table.",
+    "value": "那张桌子看起来很整洁。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A metallic Skath table. It's not wood, but it'll serve.",
+    "value": "金属烤肉桌。这不是木头，但可以用。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A sturdy lookin' table.",
+    "value": "一张结实的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "A decorative table, unsuited for heavy working.",
+    "value": "装饰性的桌子，不适合做繁重的工作。"
+  }
+]

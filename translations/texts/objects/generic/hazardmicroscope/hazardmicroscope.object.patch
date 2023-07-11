@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Hazard^reset; Microscope",
+    "value": "^orange;危险源^reset;显微镜"
+  }
+]

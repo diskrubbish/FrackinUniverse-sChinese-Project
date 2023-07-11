@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I...what? No it isn't.",
+    "value": "额...这不是蓝色的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "This Is a Blue Sign",
+    "value": "蓝色标志"
+  }
+]

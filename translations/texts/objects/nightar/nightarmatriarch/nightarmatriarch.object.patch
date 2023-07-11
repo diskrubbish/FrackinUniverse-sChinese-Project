@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A likeness of the Nightarian 'goddess', the mysterious Matriarch.",
+    "value": "夜族 “女神 ”的形象，神秘的女族长"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Statue of Matriarch",
+    "value": "女族长雕像"
+  }
+]

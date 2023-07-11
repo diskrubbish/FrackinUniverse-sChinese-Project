@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Attack!",
+    "value": "进攻！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/0",
+    "raw": "One of the princess' lapdogs! Time to test my blade on you!",
+    "value": "看来在得先在你身上试试我刀子是否锋利了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/1",
+    "raw": "It is said, 'know your enemy and know yourself, and you will emerge the victor of a thousand battles'. You cannot hope to win.",
+    "value": "正所谓：知己知彼，百战不殆。你没有胜算。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/2",
+    "raw": "The princess is mine! Mine! Mine!",
+    "value": "公主是我的！是！我！的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/3",
+    "raw": "So, you invade my village and castle? Audacious indeed!",
+    "value": "所以你就打算闯入我的城堡？多么动听的谎言！"
+  }
+]

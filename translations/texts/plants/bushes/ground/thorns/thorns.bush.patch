@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A thorn bush.",
+    "value": "带刺的植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A thorn bush.",
+    "value": "带刺的植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssspiky bush.",
+    "value": "带刺刺刺的植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A thorn bush.",
+    "value": ""
+  }
+]

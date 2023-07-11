@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Eureka! The only possible way to improve on perfection is to multiply it.",
+    "value": "我找到了！提高完美的唯一可能的方法就是让它倍增。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bon Bon Bon Bons",
+    "value": "邦邦邦邦邦邦邦邦邦邦邦"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "SSSWEETS!",
+    "value": "亲爱的！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disturbed. There is such a thing as too much sugar, you know.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now this is just excessive.",
+    "value": "这太过分了。"
+  }
+]

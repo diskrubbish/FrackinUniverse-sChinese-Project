@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An exceptionally fashionable weathered wooden shelf.",
+    "value": "非常时髦的风化木架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Weathered Shelf",
+    "value": "风化架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The Apex living in settlements don't really have the luxury of such baubles and trinkets.",
+    "value": "居住在定居点的猿族人真的没有这样的奢侈品和小饰物。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This shelf is stocked with all sorts of homely possessions.",
+    "value": "这个架子上堆满了各种家当。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Nothing of interest on this sshelf.",
+    "value": "这件事没什么大不了的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Thoughtful. The items on this shelf likely tell a story of the home it resides in.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A shelf chock full of stuff! Would these be 'conversation pieces'?",
+    "value": "装满东西的架子！这些是“对话片段”吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A charming and space efficient shelf.",
+    "value": "一个迷人且节省空间的架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A shelf of knickknacks. Nothin' of interest here.",
+    "value": "一架子小摆设。这里没什么有趣的。"
+  }
+]

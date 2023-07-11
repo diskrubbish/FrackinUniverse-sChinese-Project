@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Take a guess at what's inside.",
+    "value": "猜猜里面是什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "TNT Crate",
+    "value": "TNT板条箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An Apex rebel is no stranger to explosives.",
+    "value": "猿族叛军对炸药并不陌生。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Well at least the packager makes it very clear what's inside.",
+    "value": "至少包装商很清楚里面装的是什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Crate goesss boom boom!",
+    "value": "板条箱砰的一声！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cautious. I'm detecting explosives within this crate.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Not writing ACME on this crate was a great show of restraint on behalf of the packager.",
+    "value": "不在这个板条箱上写ACME是包装商克制的一大表现。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Best to not drop this.",
+    "value": "最好不要放弃这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Decidedly not to be trifled with.",
+    "value": "绝对不可玩弄。"
+  }
+]

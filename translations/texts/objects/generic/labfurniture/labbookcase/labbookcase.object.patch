@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It should be stocked full of science journals and lab reports.",
+    "value": "里面应该放满了各种实验杂志和书籍。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lab Bookcase",
+    "value": "实验室书柜"
+  }
+]

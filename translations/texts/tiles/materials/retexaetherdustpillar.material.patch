@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dreamy beige pillar",
+    "value": "一个梦幻般的支柱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Dust Pillar",
+    "value": "以太尘支柱"
+  }
+]

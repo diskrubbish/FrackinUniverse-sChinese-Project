@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This pet healing station is used to heal pets, and is automated and Item Network capable.",
+    "value": "这个宠物治疗站可以用来修复被损坏的机器人。\n适用于自动化物品传输网络。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Automatic Pet Healer^reset;",
+    "value": "^orange;自动宠物治疗仪^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "For broken robots",
+    "value": "为了破损的机器人"
+  }
+]

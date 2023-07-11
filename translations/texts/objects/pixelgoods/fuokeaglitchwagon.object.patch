@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Wagon to transport prisoners to execution.",
+    "value": "用来运送囚犯去行刑的运输工具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glitch Prison Wagon",
+    "value": "电子人监狱运输车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Glitch Prison Wagon.",
+    "value": "故障的监狱押送车。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Glitch Prison Wagon.",
+    "value": "故障的监狱押送车。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Glitch Prison Wagon.",
+    "value": "故障的监狱押送车。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Glitch Prison Wagon.",
+    "value": "故障的监狱押送车。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Glitch Prison Wagon.",
+    "value": "故障的监狱押送车。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Glitch Prison Wagon.",
+    "value": "故障的监狱押送车。"
+  }
+]

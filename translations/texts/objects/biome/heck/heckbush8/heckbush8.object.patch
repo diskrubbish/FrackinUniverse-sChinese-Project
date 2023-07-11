@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A disgusting blob of seeping flesh.",
+    "value": "令人厌恶的、肮脏的肉状植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Heck Bush",
+    "value": "血界灌木"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I'm going to be sick.",
+    "value": "我好像快生病了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What vile foliage is this?",
+    "value": "这是什么肮脏东西的叶子？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran think plant look tasty.",
+    "value": "叶族人认为这个植植植物真好看。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Revulsion. What kind of flesh sprouts from the ground?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Whoa, this is like a science exhibit.",
+    "value": "哇，这就像一个科学展览。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This offends everything I stand for. Disgusting.",
+    "value": "这里的一切都惹怒了我。恶心。"
+  }
+]

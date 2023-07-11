@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/buttonMain/caption",
+    "raw": "BALANCE",
+    "value": "余额"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonMissions/caption",
+    "raw": "MISSIONS",
+    "value": "任务"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonCrew/caption",
+    "raw": "CREW",
+    "value": "船员"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonMisc/caption",
+    "raw": "MISC.",
+    "value": "杂项"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/root/children/missionList/schema/listTemplate/replayLabel/value",
+    "raw": "REPLAYS",
+    "value": "重新挑战"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/switchMissionMain/caption",
+    "raw": "^white;PRIMARY^reset;",
+    "value": "^white;主线^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/switchMissionSecondary/caption",
+    "raw": "^white;SECONDARY^reset;",
+    "value": "^white;支线^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonScreenRight/caption",
+    "raw": " GO! >",
+    "value": " 出发！ >"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonScreenLeft/caption",
+    "raw": "< BACK",
+    "value": "< 返回"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/path/value",
+    "raw": "root/sail/ui/intro",
+    "value": ""
+  }
+]

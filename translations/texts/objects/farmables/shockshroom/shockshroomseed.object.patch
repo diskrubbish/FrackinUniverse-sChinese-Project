@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shock shrooms make useful weapons when processed.",
+    "value": "可以收获冲击蘑菇，那是一种投掷型武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shock-Shroom",
+    "value": "冲击蘑菇孢子"
+  }
+]

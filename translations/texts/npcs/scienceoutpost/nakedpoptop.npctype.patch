@@ -1,0 +1,176 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/flee/helpme/default/0",
+    "raw": "Reeep Reeep!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/flee/helpme/default/1",
+    "raw": "Glbglb! Piff!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/flee/safe/default/0",
+    "raw": "Reeep Reeep!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/flee/safe/default/1",
+    "raw": "Glbglb! Piff!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/breakObject/default/0",
+    "raw": "Reeep Reeep!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/breakObject/default/1",
+    "raw": "Glbglb! Piff!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/default/0",
+    "raw": "*purrs softly*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/default/1",
+    "raw": "*purrs loudly*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/accuse/default/0",
+    "raw": "*angry stare*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/alert/default/0",
+    "raw": "*unholy screeching*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "raw": "Reeep Reeep!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "raw": "Glbglb! Piff!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "raw": "Steve!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "raw": "*purring*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/4",
+    "raw": "*stares blankly, incapable of comprehending you*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/5",
+    "raw": "*excitedly twitches*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/6",
+    "raw": "*sighs*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/7",
+    "raw": "*raises its paw as if in solidarity with your cause*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/8",
+    "raw": "*demands a treat*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/0",
+    "raw": "Reeep Reeep!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/1",
+    "raw": "Glbglb! Piff!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/2",
+    "raw": "Steve!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/3",
+    "raw": "*purring*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/4",
+    "raw": "*stares blankly, incapable of comprehending you*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/5",
+    "raw": "*excitedly twitches*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/6",
+    "raw": "*sighs*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/7",
+    "raw": "*raises its paw as if in solidarity with your cause*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/8",
+    "raw": "*demands a treat*",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/npcname",
+    "raw": "Scott",
+    "value": ""
+  }
+]

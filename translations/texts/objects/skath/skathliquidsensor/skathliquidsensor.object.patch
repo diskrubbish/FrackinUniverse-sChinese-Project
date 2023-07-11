@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Don't use your finger! This trusty sensor indicates the presence of liquids.",
+    "value": "不要用你的手指测试它！这个传感器检测液体的存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Liquid Sensor",
+    "value": "绘世者液体传感器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A useful object, it can be used for the detection of liquids.",
+    "value": "一个有用的物体，它可以用来检测液体。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I have heard of these, they somehow detect liquids.",
+    "value": "我听说过这些，它们不知怎么能探测到液体。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssensor detects liquidsss. Can trip wiresss.",
+    "value": "这个传感器用于检测液体。我能把电线绊倒。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This device can detect liquid for use in wiring set-ups.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I've heard of these, these were made to detect liquid for fancy wiring set-ups.",
+    "value": "我听说过这些，这些是用来检测液体的，用于奇特的接线装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "One of my favourite devices, this automatically detects the presence of liquids.",
+    "value": "这是我最喜欢的设备之一，它能自动检测液体的存在。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This is one of those fancy liquid detectors.",
+    "value": "这是一种奇特的液体探测器。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "This sensor is used to detect liquids. They're often found in our ocean cities.",
+    "value": "该传感器用于检测液体。它们经常出现在我们的海洋城市。"
+  }
+]

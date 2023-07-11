@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A striated, eroded desert rock.",
+    "value": "被风沙侵蚀出斑驳痕迹的岩石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Desert rock",
+    "value": "沙漠岩石"
+  }
+]

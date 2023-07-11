@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A prim and proper bed. The sheets are silky smooth.",
+    "value": "一本正经的床。床单如丝般光滑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pristine Bed",
+    "value": "原始床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A lovely looking bed with striped sheets.",
+    "value": "有条纹床单的漂亮床。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The paint job on this bed is superb.",
+    "value": "这张床上的油漆做得很好。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "SSSleepy...",
+    "value": "昏昏欲睡的..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. Someone spends a good deal of time on the upkeep of this bed.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These sheets look like they'd be a nightmare to get stains out of...",
+    "value": "这些床单看起来要把污渍洗掉简直是噩梦..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A well made and comfortable bed.",
+    "value": "一张做工精致舒适的床。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A bit too fancy for my tastes, but a bed's a bed.",
+    "value": "对我来说有点太花哨了，但床就是床。"
+  }
+]

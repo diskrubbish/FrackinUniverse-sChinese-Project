@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "EN.... gage... ?",
+    "value": "嗯...。盖奇？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Soma Captain's Chair",
+    "value": "索玛船长椅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "The displays on this chair are dark.",
+    "value": "这把椅子上的显示器是黑色的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I'm pretty sure it's offline right now.",
+    "value": "我很确定它现在离线了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Where blinky lightsss?",
+    "value": "闪烁的灯光在哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Assessing. The terminal appears functional, but is in standby mode.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Awww, it's broken.",
+    "value": "啊，坏了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Even if offline it can still be used as a seat!",
+    "value": "即使离线，它仍然可以用作座椅！"
+  }
+]

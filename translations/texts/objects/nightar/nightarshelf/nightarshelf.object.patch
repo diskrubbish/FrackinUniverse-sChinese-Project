@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A shelf, uses solid(?) laser instead of wood, pretty cool huh?",
+    "value": "架子，使用实心（？）激光而不是木头，很酷吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Shelf",
+    "value": "夜族架子"
+  }
+]

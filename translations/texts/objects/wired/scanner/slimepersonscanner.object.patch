@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This eye watches for friendly nearby targets.",
+    "value": "这只眼睛注视着友善的附近目标。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Proximity Scanner",
+    "value": "粘液近距离扫描器"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's a proximity device. It'll sense when I get close to it.",
+    "value": "一个近距离扫描器。当我接近它的时候就会被识别出来。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A proximity device. It could trigger something if I'm near.",
+    "value": "一个近距离扫描器。如果靠近，它可能会触发什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssscanning eye on the wall. It's looking at me!",
+    "value": "装在墙上上上的扫描器。它在看着我呢！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Suspicious. This proximity scanner might be aware of me.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A proximity sensor. It can tell when I'm near.",
+    "value": "一个近距离扫描器。能识别出我的距离。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This scanning device can tell when I'm present.",
+    "value": "这个扫描设备可以判断我是否出现。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A proximity scanner. Is it watching me right now?",
+    "value": "一个近距离扫描器。它正在看着我吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "This sees when something is moving.",
+    "value": "当有东西移动的时候，它就能看到。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimenpcDescription",
+    "raw": "Eye watches moving stuff.",
+    "value": "这只眼睛看着移动的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/slimenpchumanDescription",
+    "raw": "This scanner watches for nearby movement.",
+    "value": "这个扫描仪可以监视附近的运动。"
+  }
+]

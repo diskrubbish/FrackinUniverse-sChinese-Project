@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Chickens: A stable source of eggs, legs, and, if you're foolish enough - unmatched revenge squads.",
+    "value": "鸡：蛋、腿的稳定来源，如果你够傻的话，还有无与伦比的复仇小队。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chicken Coop",
+    "value": "鸡舍"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A little coop of chickens.",
+    "value": "一个小鸡笼。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "... I don't know how I should feel about keeping some of those.",
+    "value": "... 我不知道我该怎么想保留一些。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Chickens much easier to hunt than birdman. But sssometimes Floran just pets instead.",
+    "value": "鸡比鸟人更容易捕猎。但有时叶族人只是宠物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Nostalgic. Chickens can be surprisingly good companions, if raised tenderly.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Glad to see the chicken has continued to find uses beyond the stars.",
+    "value": "很高兴看到小鸡继续在星星之外寻找用途。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Hylotl rarely keep these as livestock. Instead, breeders raise their chickens too show of colorful plumage on the showfloor.",
+    "value": "鲛人很少将这些作为牲畜饲养。取而代之的是，饲养者在展台上饲养的鸡也会展现出五颜六色的羽毛。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Chickens are compliant enough if you ain't a jerk around 'em. Make 'em angry though...",
+    "value": "如果你不是一个混蛋的话，小鸡们是很顺从的。但是让他们生气..."
+  }
+]

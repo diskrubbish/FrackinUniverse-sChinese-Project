@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Avian Full Gem for a spaceship.",
+    "value": "翼族太空船的全能宝珠。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avian Full Gem",
+    "value": "翼族全能宝珠"
+  }
+]

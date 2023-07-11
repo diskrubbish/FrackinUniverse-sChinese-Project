@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A playground swingset.",
+    "value": "操场上的秋千。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Swingset",
+    "value": "荡秋千！"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Oh to be young again...",
+    "value": "哦，再次年轻..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "If I swing high enough, it's almost like flying...",
+    "value": "如果我荡得足够高，就像在飞..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can ssswing all day!",
+    "value": "叶族人一整天都在荡秋千！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Fond. It's a child's swingset.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh man, a swingset! It couldn't hurt to sit down for a minute...",
+    "value": "哦，伙计，秋千！坐下来一分钟也没什么害处..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A swings sets the mind at ease for meditation... And is admittedly quite fun as well.",
+    "value": "一个秋千可以让心灵放松冥想...当然，这也很有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A swingset swingin' and swayin'.",
+    "value": "一个秋千来回荡漾。"
+  }
+]

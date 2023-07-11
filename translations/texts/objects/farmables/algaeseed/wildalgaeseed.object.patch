@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An interesting algae type. Excellent biofuel.",
+    "value": "可以收获藻豆荚，提炼后可以作为燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Algae Pod",
+    "value": "藻豆荚种子"
+  }
+]

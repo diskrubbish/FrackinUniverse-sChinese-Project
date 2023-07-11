@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A broken pillar.",
+    "value": "一根损坏的柱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Heck Pillar",
+    "value": "见鬼的支柱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A regular pillar.",
+    "value": "这真是一根合适周围气氛的柱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A pillar.",
+    "value": "一根柱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstone.",
+    "value": "石石石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A pillar.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Nice pillar.",
+    "value": "不错的柱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A poorly-carved pillar.",
+    "value": "这根柱子的雕工不是很好。"
+  }
+]

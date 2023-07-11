@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sprout",
+    "value": "一株苗芽"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sprout",
+    "value": "苗芽"
+  }
+]

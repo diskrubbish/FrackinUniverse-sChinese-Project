@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I'm feeling sick to my stomach...",
+    "value": "我感到胃不舒服..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Very dead scientist",
+    "value": "死透了的科学家"
+  }
+]

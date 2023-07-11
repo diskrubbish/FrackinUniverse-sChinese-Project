@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The secret ingredient in this Apex favourite is pineapple!",
+    "value": "这种猿人最受欢迎的食物的秘密成分是菠萝！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Banana Split",
+    "value": "香蕉片"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Two ssscoops!",
+    "value": "两勺！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Deliberative. I highly doubt this is very healthy, BUT...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Lots of fruit to spare, it looks like.",
+    "value": "看起来有很多水果要备用。"
+  }
+]

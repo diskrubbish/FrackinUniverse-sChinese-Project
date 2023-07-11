@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "  Peglaci Tester Box",
+    "value": "企鹅测试员箱子"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Test dem Thing!",
+    "value": "去测试这个操蛋的玩意儿！"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A box to test out Peglaci tiles and objects.",
+    "value": "一个测试企鹅族瓷砖和物体的盒子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peglaci Box",
+    "value": "企鹅族盒子"
+  }
+]

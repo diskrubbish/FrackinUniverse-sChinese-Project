@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A primitive bookcase.",
+    "value": "一个原始的书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fenerox Bookcase",
+    "value": "耳廓狐的书架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This bookcase might as wellbe useless.",
+    "value": "这个书架可能是没有用的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "There's barely any books on here...",
+    "value": "这里几乎没有任何书籍..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Looksss like Floran ssstuff!",
+    "value": "看看看起来像叶族人的东东东西!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. This is not its intended purpose.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What's a bookcase without any books?",
+    "value": "没有任何书籍的书柜算什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Strange that this should be called a bookcase.",
+    "value": "很奇怪，这应该被称为书架。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It don't look all that sturdy to me.",
+    "value": "在我看来，它并不那么坚固。"
+  }
+]

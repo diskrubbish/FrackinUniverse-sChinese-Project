@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Near lethal levels of drugs, superior speed and dash. Passive.",
+    "value": "注射的药物极其致命，但会带来更快的移动速度和冲刺距离。被动能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Stimulant Rig III^reset;",
+    "value": "^#77acc3;狂经脉 III^reset;"
+  }
+]

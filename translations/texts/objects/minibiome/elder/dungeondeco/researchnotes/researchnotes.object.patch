@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pile of lab notes and some sort of...strange experiment gone wrong.",
+    "value": "一堆实验笔记以及一些...古怪的实验出了差错。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "MacReady's Desk",
+    "value": "麦克雷迪的办公桌"
+  }
+]

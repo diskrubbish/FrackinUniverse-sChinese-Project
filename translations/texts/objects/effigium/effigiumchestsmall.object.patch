@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small chest that seems to fade in and out of existence.",
+    "value": "一个小箱子，似乎在逐渐消失。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Effigium Chest",
+    "value": "幻影小箱子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A chest. It has a morbid design.",
+    "value": "一个箱子。有着病态的设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Often these chests stored valuables, although I wouldn't like anyone to know what I stored.",
+    "value": "这些箱子经常存放贵重物品，虽然我不想让任何人知道我储存的是什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Chessst! Floran musst sssearch!",
+    "value": "箱箱箱子！叶族热门必须找找找看！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. I wouldn't like people to know what I kept in here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A chest! I already know what's inside.",
+    "value": "一个箱子！我已经知道里面有什么了。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "There is little as exciting as an unopened chest, but all the suprise is gone with this one.",
+    "value": "没有什么比一个未打开的箱子更令人兴奋的了，但是所有的惊喜都和这个一起消失了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can see if it's worth takin' a gander inside or not.",
+    "value": "我能看出里面是否值得一试。"
+  }
+]

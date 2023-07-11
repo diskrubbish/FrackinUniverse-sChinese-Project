@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Collects rent from colony deeds within 32 units.\n^red;Disclaimer: This device does not actually pick up anything.^reset;",
+    "value": "从32格范围内的殖民地契约中收集租金。\n^red;免责声明：这个设备实际上不会捡起任何东西。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Colony Deed Rent Collector",
+    "value": "租金收集器"
+  }
+]

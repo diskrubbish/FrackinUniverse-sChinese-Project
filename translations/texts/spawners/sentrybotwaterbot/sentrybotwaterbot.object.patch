@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A reliable sidekick for watering your garden.",
+    "value": "非常棒的自动浇水机器人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Water Bot",
+    "value": "浇水机器人"
+  }
+]

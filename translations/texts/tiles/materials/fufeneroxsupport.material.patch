@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A primitive support beam made of wood.",
+    "value": "用木头制成的原始的支撑梁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fenerox Support",
+    "value": "耳廓狐支撑"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Made for holdin' spaceships together.",
+    "value": "为支撑宇宙飞船而制造。"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's been so long since I had a home cooked meal... or a home.",
+    "value": "我很久没吃家常菜了...或者一个家。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protectorate Oven",
+    "value": "大地守护团烤箱"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "  Protectorate Oven",
+    "value": "大地守护团烤箱"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Yum, yum",
+    "value": "  哎呀，真香"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An oven. Just thinking about cooking makes my stomach rumble.",
+    "value": "一个烤箱。一想到做饭，我的胃就咕噜咕噜地响。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "An oven, for making tasty dishes.",
+    "value": "烤箱，用来做美味的菜。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cooked meat tassstes even better than raw meat!",
+    "value": "熟肉比生肉还要好吃！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Relieved. A conventional oven. Time to whip up a banquet.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This oven faintly smells of roast chicken. At least, I think it's chicken. Could be anything, really.",
+    "value": "这个烤箱有点烤鸡的味道。至少，我觉得是鸡肉。可能是任何事，真的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An oven. Perfect if you want hot food.",
+    "value": "一个烤箱。如果你想吃辣的食物，那就完美了。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "An oven.",
+    "value": "一个烤箱。"
+  }
+]

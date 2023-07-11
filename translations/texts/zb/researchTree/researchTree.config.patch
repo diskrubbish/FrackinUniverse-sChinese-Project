@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/title/value",
+    "raw": "I AM ERROR",
+    "value": "*我是错误的*"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/researchButton/caption",
+    "raw": "Research",
+    "value": "研究"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/infoList/children/unlocksLabel/value",
+    "raw": "^green;Unlocks:\n\n\n",
+    "value": "^green;解锁：\n\n\n"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/consumptionText/value",
+    "raw": "Will not consume currency\nWill not consume items",
+    "value": "不会消耗货币\n不会消耗物品"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/cheatBox/hint",
+    "raw": ":)",
+    "value": ""
+  }
+]

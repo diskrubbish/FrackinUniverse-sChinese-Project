@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pretty lilies.",
+    "value": "美丽的百合花。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lily Flower Pot",
+    "value": "百合花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A pot of charming lilies.",
+    "value": "一盆迷人的百合花。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Lilies! They smell just lovely.",
+    "value": "百合花！它们闻起来真香。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty liliesss.",
+    "value": "美丽的百合花。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. An attractive lily.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I wonder what lilies are supposed to represent?",
+    "value": "我想知道百合花应该代表什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Lilies are a symbol of devotion in Hylotl culture.",
+    "value": "百合花是鲛人文化中虔诚的象征。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some tall potted lilies.",
+    "value": "一些高大的盆栽百合。"
+  }
+]

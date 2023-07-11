@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chilled cable housing.",
+    "value": "这是冷却了的电缆外壳。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chilled Cabling",
+    "value": "冷却电缆"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. These cables are kept at a constant temperature.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssshiny vines.",
+    "value": "闪亮的藤藤藤。"
+  }
+]

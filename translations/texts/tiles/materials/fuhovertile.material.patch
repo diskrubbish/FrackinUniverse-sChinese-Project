@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A platform with built-in anti-grav technology.",
+    "value": "内置反重力技术的平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hover Tile",
+    "value": "悬浮砖块"
+  }
+]

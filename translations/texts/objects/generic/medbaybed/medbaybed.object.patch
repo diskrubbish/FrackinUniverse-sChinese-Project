@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Few things stitch up wounds faster than this sweet baby.",
+    "value": "有着非常高效的医疗效果，没有比它更好的医疗设备了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Medical Bay^reset;",
+    "value": "^orange;医疗舱^reset;"
+  }
+]

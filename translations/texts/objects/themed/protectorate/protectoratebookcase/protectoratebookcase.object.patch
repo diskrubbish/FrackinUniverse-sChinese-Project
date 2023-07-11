@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A standard issue Protectorate dorm room bookcase.",
+    "value": "一个标准的大地守护团宿舍书柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protectorate Bookcase",
+    "value": "大地守护团书架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Fingering through these textbooks sure does take me back...",
+    "value": "翻阅这些教科书肯定会让我想起..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "There's a lot of familiar titles on this bookshelf.",
+    "value": "这个书架上有许多熟悉的书名。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran had mosst of these books! Not read, but definitely had.",
+    "value": "叶族人有很多这样的书！没有读过，但肯定读过。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Nostalgic. Ah, these books bring back many memories.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A lot of textbooks from Protectorate courses... I've had most of these at one point.",
+    "value": "很多大地守护团课程的教科书...我曾经有过这样的经历。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Precious textbooks salvaged from Earth. I must be sure to get them preserved as soon as possible.",
+    "value": "从地球上打捞到的珍贵教科书。我一定要尽快把它们保存起来。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Never thought I'd be so happy to see these textbooks again.",
+    "value": "没想到我会这么高兴再次看到这些教科书。"
+  }
+]

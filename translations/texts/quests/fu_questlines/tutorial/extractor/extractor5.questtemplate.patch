@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "The Extractor V",
+    "value": "萃取物质 V"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "^green;Meat^reset; is both delicious and useful. Extract some ^green;meat^reset; and bring me 5 of the results.",
+    "value": "^green;肉类^reset;既好吃又实用。把一些^green;肉^reset;拿去萃取，然后交5份萃取物给我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Bring the ^orange;Genetic Material^reset; to me at the ^orange;Science Outpost^reset;",
+    "value": "把 ^orange;遗传物质^reset;带给我。(位于^orange;科学前哨站^reset;)"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Genetic material comes from many things, not just meat. Remember that if it is alive and full of cells, it just might give you some.",
+    "value": "不仅是肉类，遗传物质来自许多物质。只需要记住，只要是生存着的细胞结构的生物，那么它里面很可能就会存在一些遗传物质。"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A shelf used for displaying items.",
+    "value": "用来展示物品的架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Wall Shelf",
+    "value": "绘世者墙架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It's a wall shelf.",
+    "value": "这是个墙架。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A simple wall shelf for displaying things.",
+    "value": "用于展示物品的简单壁式架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Boring shelf.",
+    "value": "无聊架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A simple metal wall shelf.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's a wall shelf.",
+    "value": "这是个墙架。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Just an ugly looking wall shelf.",
+    "value": "只是一个难看的壁橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Just an odd lookin' wall shelf.",
+    "value": "只是一个看起来很奇怪的壁橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "A decorative wallshelf, for display purposes.",
+    "value": "用于展示的装饰性壁架。"
+  }
+]

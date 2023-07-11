@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pretty material to build a bridge, doesn't even need supports.",
+    "value": "建造一座桥的良好材料，甚至不需要支撑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Bridge Block",
+    "value": "暗木桥方块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Joking. I never expected to be on a cosmic bridge.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty bridge, sseems ssturdy.",
+    "value": "漂亮的桥，看起来很结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't never seen a bridge made o' stars.",
+    "value": "我从没见过星星搭成的桥。"
+  }
+]

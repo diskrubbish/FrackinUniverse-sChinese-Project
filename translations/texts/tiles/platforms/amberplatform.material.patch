@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Amber Platform",
+    "value": "琥珀平台"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rich amber platform",
+    "value": "一个看上去很华丽的琥珀平台。"
+  }
+]

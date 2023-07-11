@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An ornate totem pole.",
+    "value": "华丽的图腾柱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Totem Pole",
+    "value": "图腾柱"
+  }
+]

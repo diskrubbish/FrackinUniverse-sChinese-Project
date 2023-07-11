@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Metal, darkly.",
+    "value": "金属、黑色。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dark Metal Panels",
+    "value": "黑暗金属面板"
+  }
+]

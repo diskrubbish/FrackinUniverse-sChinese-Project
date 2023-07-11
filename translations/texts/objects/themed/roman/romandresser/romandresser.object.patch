@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A robust, roman-style dresser.",
+    "value": "结实的罗马式梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Roman Dresser",
+    "value": "罗马梳妆台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I rather like the little brass handles on this dresser.",
+    "value": "我很喜欢这个梳妆台上的小黄铜把手。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A fine little dresser. It smells heavily of the wood used to carve it.",
+    "value": "一个漂亮的小梳妆台。它闻起来有很重的雕刻木头的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "This dresser sssmells like Floran's forest home...",
+    "value": "这个梳妆台闻起来像叶族人的森林之家..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This dresser may be small, but it's been skillfully carved.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "What a dresser! I'm sure it costs a fortune...",
+    "value": "多漂亮的梳妆台啊！我相信这会花很多钱..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A small, but no less ornate, dresser.",
+    "value": "一个小但同样华丽的梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fancy li'l dresser, for sure.",
+    "value": "当然是一个漂亮的梳妆台。"
+  }
+]

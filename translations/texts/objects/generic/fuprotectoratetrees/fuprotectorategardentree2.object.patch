@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cherry blossom tree with bushes that is almost identical to the one found in the Protectorate.",
+    "value": "一棵带有灌木丛的樱花树，和在守护团发现的那一棵几乎一模一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protectorate Tree & Bush",
+    "value": "守护团之树 & 灌木"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A big tree seemingly identical to the old Protectorate garden's tree.",
+    "value": "一棵高大的树，和守护团花园的那棵古树非常相像。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Seems to be identical to the tree back at the Protectorate.",
+    "value": "看起来和守护团的那棵树几乎完全一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Big tree isss old and wissse. Floran wishesss to grow as old and wissse asss tree.",
+    "value": "大树又古老又充满智慧慧慧。叶族人想想要成长得古老而又充满智慧慧慧，就像树树树一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Nostalgic. It feels like forever since I saw a tree like this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This is very familiar...",
+    "value": "这对我来说再熟悉不过了......"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "If I had my notebook, I'd have an amazing haiku to write about this.",
+    "value": "如果我有带自己的笔记本的话，我愿意为它写下一段令人惊异的俳句。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "The big ol' tree almost feels familiar. Almost.",
+    "value": "这棵高大的古树让人感觉很熟悉，几乎如此。"
+  }
+]

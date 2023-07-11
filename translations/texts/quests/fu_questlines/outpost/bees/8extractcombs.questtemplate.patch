@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Wax and Wane",
+    "value": "蜂蜡"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Place the combs within a ^orange;Wooden Centrifuge^reset;, which you can build at the Machining Table, and collect the ^green;wax chunks^reset; from within.",
+    "value": "在加工台制作一台^orange;木制离心机^reset;，把蜂巢放进去来提取^green;蜂蜡^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Different combs contain very different resources. Experimentation is part of the challenge!",
+    "value": "不同的蜂巢可以提炼出不同的材料，这些就需要你亲自实验了。"
+  }
+]

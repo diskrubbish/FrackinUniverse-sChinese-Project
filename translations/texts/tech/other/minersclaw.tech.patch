@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dig with claws. (Read ^yellow;Core Guide^reset;: ^blue;Special Techs^reset;)",
+    "value": "使用经过特殊适应的爪子进行挖掘。(详请参阅^yellow;核心指南^reset;: ^blue;特殊科技^reset;)"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Mining Claws",
+    "value": "挖掘爪"
+  }
+]

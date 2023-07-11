@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sun-powered Gurn Onion. Quite useful, actually.",
+    "value": "可以收获胶洋葱，食用后会赋予日光疗愈。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gurn Onion Seed",
+    "value": "胶洋葱种子"
+  }
+]

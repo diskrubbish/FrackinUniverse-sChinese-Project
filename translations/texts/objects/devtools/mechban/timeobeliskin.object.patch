@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "DESTROYS all Vehicles in range.",
+    "value": "破坏范围内的所有载具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "FU Vehicle Ban Pillar",
+    "value": "FU 载具禁止之柱"
+  }
+]

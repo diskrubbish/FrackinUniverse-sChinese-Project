@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "Writing Desk",
+    "value": "著书桌"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Secrets can be gleaned from lost knowledge.",
+    "value": "秘密可以从失去的知识之中探求。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Writing Desk",
+    "value": "著书桌"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A banner with the emblem of the Skath's ruling council imprinted on it.",
+    "value": "印有绘世者执政委员会会徽的旗帜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Council Banner",
+    "value": "绘世者议会旗帜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This banner bears the emblem of the Skath.",
+    "value": "这面旗帜上有绘世者的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The grounded make similar banners.",
+    "value": "他们制作类似的横幅。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran hidesss behind waterdragon banner. Jumpsss out!",
+    "value": "叶族人隐藏藏藏藏在水龙的旗旗旗帜后面。跳跳跳跳出来！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Informed. This banner represents the Skath as a whole, as well as their government.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This banner reminds me of the ones we had in the Protectorate.",
+    "value": "这个横幅让我想起了我们在保护国的那些经历。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "While Skath technology is ugly, their craftmanship with banners is admirable.",
+    "value": "虽然绘世者的技术是丑陋的，但是他们的工艺与旗帜非常令人钦佩的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A fancy lookin' banner, probably made by the Skath.",
+    "value": "一个看起来很漂亮的横幅，可能是由绘世者制作的。"
+  },
+  {
+    "op": "replace",
+    "path": "/skathDescription",
+    "raw": "This banner bears the emblem of our kind, along with the four ruling councillors.",
+    "value": "这面旗帜上有我们这一类的标志，还有四位执政议员。"
+  }
+]

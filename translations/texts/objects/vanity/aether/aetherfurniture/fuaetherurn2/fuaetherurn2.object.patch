@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An aether urn full of aetheric dust and cosmic essence.",
+    "value": "一个完全由以太尘和宇宙精华制作成的以太茶水壶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Urn",
+    "value": "以太茶水壶"
+  }
+]

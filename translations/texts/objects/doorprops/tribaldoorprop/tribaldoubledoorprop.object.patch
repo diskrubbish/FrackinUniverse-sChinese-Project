@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Beautifully carved doors.",
+    "value": "雕刻精美的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carved Double Door Prop",
+    "value": "雕刻双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Two birds above two round-faced creatures.",
+    "value": "两只鸟在两个圆脸怪物上面。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The images on these doors extend friendship to those from other worlds. My home is your home.",
+    "value": "这些门上的图案将友谊延伸到其他世界的，我的家就是你们的家。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Birds lay eggs with face.",
+    "value": "鸟以脸蛋下蛋。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Educated. These doors symbolise who may and may not enter.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Those are some spooky faces on the bottom.",
+    "value": "下面是一些令人毛骨悚然的面孔。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What creatures are these depicted here?",
+    "value": "这里描绘的是什么生物？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Doors with pictures on 'em. What're they tryin' to say?",
+    "value": "门上有团，他们想说什么？"
+  }
+]

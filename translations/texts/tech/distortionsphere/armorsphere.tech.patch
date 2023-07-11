@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An armored Sphere ^green;[F]^reset;! Drop power-bombs with ^red;[Fire]^reset;.",
+    "value": "按^green;[F]^reset;变成一个装甲球！按^red;[鼠标左键]^reset;放置威力巨大的炸弹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Armor Sphere",
+    "value": "装甲球"
+  }
+]

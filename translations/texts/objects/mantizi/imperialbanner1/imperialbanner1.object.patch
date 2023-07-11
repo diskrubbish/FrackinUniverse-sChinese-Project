@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An Mantizi banner embroidered with a golden link.",
+    "value": "一面甲虫族的横幅，绣上了金黄色的连接。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Link Banner",
+    "value": "甲虫族连接横幅"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A wonderfully rich banner.",
+    "value": "一面精彩而昂贵的横幅。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Such a rich color.",
+    "value": "多么丰富的色彩。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran dissslike this symbol.",
+    "value": "叶族人不不不喜欢这个标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Inquisitive. Is it symbol of authority?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks kind of menacing.",
+    "value": "看上去带有一点威胁性。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Such vibrancy can only exist above the ocean.",
+    "value": "如此之活力只能存在于海洋之上。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "There's somethin' about this banner. I don't like it.",
+    "value": "这面横幅有点东西。我不喜欢它。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "It's supposed to be a chain, with some... artistic liberties.",
+    "value": "它应该是一个锁链的，仅仅只是带有一些...艺术上的自由。"
+  }
+]

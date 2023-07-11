@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A desk that is far too hot for the paper you want to write on.",
+    "value": "一张对你要写的纸来说太热的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Desk",
+    "value": "永燃桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A solid desk. For the most part, anyway.",
+    "value": "一张结实的办公桌。至少在大多数情况下是这样的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A table to work at. It could burn the paper...",
+    "value": "工作桌。它可能会烧掉纸..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran not sssit at desskss!",
+    "value": "叶族人不坐坐坐书桌！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. A place to process data, or burn to a crisp.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A nice desk. I think the paperwork would burn, though...",
+    "value": "一张漂亮的桌子。我想文书工作会烧掉的，不过..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A desk at which you can undergo written tasks.",
+    "value": "一张可以在上面完成书面任务的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't got time to sit around at a desk.",
+    "value": "我没有时间坐在办公桌前。"
+  }
+]

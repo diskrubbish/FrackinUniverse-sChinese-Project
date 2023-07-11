@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "You're a thing",
+    "value": "此身亦为物质"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Have some thing",
+    "value": "有些东西"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "You got the thing",
+    "value": "你得到了一些东西"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/graduate",
+    "raw": "Attend the emergency meeting",
+    "value": "参加紧急会议"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/matterManipulator",
+    "raw": "Take the matter manipulator",
+    "value": "拿起物质枪"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/escape",
+    "raw": "Escape the destruction",
+    "value": "逃出这场大灾难"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/printButton/caption",
+    "raw": "Print",
+    "value": "输出"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/scanButton/caption",
+    "raw": "Scan",
+    "value": "浏览"
+  }
+]

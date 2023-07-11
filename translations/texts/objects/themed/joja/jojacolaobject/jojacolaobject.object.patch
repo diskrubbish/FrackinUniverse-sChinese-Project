@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The flagship product of the ^blue;Joja^reset; corporation.",
+    "value": "^blue;Joja^reset;公司的旗舰产品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^blue;Joja^reset; Cola",
+    "value": "^blue;Joja^reset;可乐"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "... I'll be frank: This is an incredibly off-putting looking drink.",
+    "value": "... 坦率地说，这是一种令人难以置信的令人讨厌的饮料。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Is it me, or does this can smell like it was fished out of a river?",
+    "value": "是我，还是闻起来像是从河里捞出来的？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssso blue... TOO blue...",
+    "value": "蓝色...太蓝了..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disturbed. \"Does not cause a significant erosion of the stomach lining\"?!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Supposedly there were recalls of this stuff due to the dye they were using.",
+    "value": "据推测，由于他们使用的染料，这些东西会被召回。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I think I'll pass, thank you.",
+    "value": "我想我会通过的，谢谢。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Apparently this stuff never goes flat. I don't wanna know what they put in there to get it to do that.",
+    "value": "很明显，这玩意儿永远不会变平。我不想知道他们在里面放了什么让它这么做。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy, armoured equipment case.",
+    "value": "带有坚固外壳的置物箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avali Footlocker",
+    "value": "羽族置物箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This looks rather over-engineered.",
+    "value": "这上面的设计有些多余。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "I bet I could drop this off an ascension tower without damaging the contents.",
+    "value": "我打赌，我可以把盖子升起来，而不损坏里面的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Carry thingsss, crusssh thingsss; handy container.",
+    "value": "可以存放、粉粉粉碎东西。叶族人觉得很方便。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. It is a container.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's all scuffed and dinked, looks like this container's been on a few adventures of its own.",
+    "value": "这种磨损程度，看起来这个容器似乎经历了太多事情。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "No... this really won't do at all. I'd never store my valuables in such a container.",
+    "value": "没门...我绝对不会把我的贵重物品放在这样的容器里的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "raw": "An equipment lockup, hunters usually take a locker like this into the field to store their gear.",
+    "value": "一个可以上锁的储物箱，猎人通常使用这类的储物箱储存他们的装备。"
+  }
+]

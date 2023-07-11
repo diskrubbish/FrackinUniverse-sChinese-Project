@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spawns in a pet fluffalo calf! \n^orange;To locate it after placing, toggle wire mode.^reset;",
+    "value": "生成一只宠物蓬蓬牛！\n^orange;若要在放置后定位生成器位置，请切换为连线模式。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Fluffalo Calf Spawner^reset;",
+    "value": "^orange;蓬蓬牛生成器^reset;"
+  }
+]

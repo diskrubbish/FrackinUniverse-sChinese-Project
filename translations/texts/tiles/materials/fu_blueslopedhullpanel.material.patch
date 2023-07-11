@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cheap, resilient panelling widely used for Hylotyl ship construction.",
+    "value": "廉价、有弹性的面板广泛用于鲛人族飞船建造。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blue Hull Panel",
+    "value": "蓝色船体板"
+  }
+]

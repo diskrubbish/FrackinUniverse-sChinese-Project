@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A light shaped to fit between pipes.",
+    "value": "一种适合于管子之间的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "SCB Pipe Lamp",
+    "value": "SCB管灯"
+  }
+]

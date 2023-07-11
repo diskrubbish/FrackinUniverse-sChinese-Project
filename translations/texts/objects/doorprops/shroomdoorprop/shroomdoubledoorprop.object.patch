@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Doors made of mushrooms. They even have cute mushroom handles.",
+    "value": "蘑菇做的门，门把手也很可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shroom Double Door Prop",
+    "value": "蘑菇双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Squishy mushroom doors.",
+    "value": "黏糊糊的蘑菇门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These doors don't seem too secure.",
+    "value": "这些门看起来不太安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran sssqueeze doors.",
+    "value": "叶族人挤挤挤门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Fascinated. Mushroom doors.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Cute little mushroom doors.",
+    "value": "可爱的小蘑菇门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Doors made of mushrooms. Bizarre.",
+    "value": "蘑菇做的门。奇怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Squishy mushroom doors. It's cute!.",
+    "value": "黏糊糊的蘑菇门，真可爱。"
+  }
+]

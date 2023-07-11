@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Can't go wrong with a strawberry milkshake!",
+    "value": "草莓奶昔天下第一！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Strawberry Shake",
+    "value": "草莓奶昔"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "SSSweet and red - Just like Floran's favorite juice.",
+    "value": "又甜甜甜又红 - 就是叶族人最喜欢的果汁。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Blissful. What a delightfully sweet beverage.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "It's almost too sweet to stomach. Almost.",
+    "value": "太甜了，几乎让人难以忍受。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chitin storage that keeps food fresh.",
+    "value": "保持食物新鲜的几丁质储藏室。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Food Locker",
+    "value": "蚁族食品柜"
+  }
+]

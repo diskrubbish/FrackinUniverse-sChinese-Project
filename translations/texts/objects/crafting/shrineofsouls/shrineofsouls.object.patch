@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An altar dedicated to the souls of the lost.",
+    "value": "一座为迷失的灵魂而设的祭坛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shrine of Lost Souls",
+    "value": "迷失灵魂的圣殿"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": "Shrine of Lost Souls",
+    "value": "迷失灵魂的圣殿"
+  }
+]

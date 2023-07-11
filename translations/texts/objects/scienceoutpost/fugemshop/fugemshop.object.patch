@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An Eld'uukhar shop featuring various crystals.",
+    "value": "一家Eld'uukhar商店，特色是多种多样的水晶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Gems of Soul^reset;",
+    "value": "^orange;灵魂宝石^reset;"
+  }
+]

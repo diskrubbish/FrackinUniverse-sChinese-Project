@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An adaptable slime variant of the Spike Sphere. ^green;[F]^reset;",
+    "value": "尖刺球的一种可适应的史莱姆变种。按^green;[F]^reset;变形。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "raw": "Adaptable Slime Sphere",
+    "value": "适性史莱姆球"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You just got a letter! Wonder who it's from?",
+    "value": "你刚收到一封信！不知道是谁寄来的？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mailbox",
+    "value": "信箱"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I don't much care for mailboxes. They're too easily bugged and monitored.",
+    "value": "我不太喜欢邮箱。他们太容易被窃听和监视。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Avians with particularly large beaks are especially good mail carriers.",
+    "value": "喙特别大的鸟类是特别好的邮递员。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran can't ssend weapons in the mail anymore without getting yelled at...",
+    "value": "叶族人再也不能在邮件中寄出武器而不被大喊大叫..."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Irritated. Glitch couriers take forever to deliver messages.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I bet it's all just junk mail anyhow...",
+    "value": "我打赌反正都是垃圾邮件..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Physical mail is slowly becoming obsolete in the digital age, is it not?",
+    "value": "在数字时代，物理邮件正在慢慢过时，不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A might quicker than a pony express, I'd say.",
+    "value": "我想一辆可能比一辆小马快车快。"
+  }
+]

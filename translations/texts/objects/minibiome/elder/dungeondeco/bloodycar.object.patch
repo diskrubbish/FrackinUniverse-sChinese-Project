@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Someone tried to escape. They almost made it, too.",
+    "value": "看来有人尝试着逃跑，他们差点儿就成功了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bloodied Transport",
+    "value": "血污的运输车"
+  }
+]

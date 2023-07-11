@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "While its purpose remains largely unknown, it appears to be some form of massive storage.",
+    "value": "它看起来像是某种形式的大规模存储，尽管它的用途仍有许多不明之处。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Sub-Space Storage",
+    "value": "先驱亚空间存储器"
+  }
+]

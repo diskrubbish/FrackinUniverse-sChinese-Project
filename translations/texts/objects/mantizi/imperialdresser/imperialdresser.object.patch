@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "For storing silks and other expensive fabrics.",
+    "value": "用于储存丝绸和其他昂贵的织物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Dresser",
+    "value": "甲虫族梳妆台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A sturdy wooden dresser.",
+    "value": "结实的木制梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A simple chest of drawers.",
+    "value": "一个简单的五斗橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Does it contain weapons?",
+    "value": "里面有武器吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observation. The Mantizi seem to wear clothing purely for aesthetics.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "There doesn't seem to be an underwear drawer.",
+    "value": "好像没有内衣抽屉。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An attractive dresser made of wood.",
+    "value": "木制的漂亮梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/fumantiziDescription",
+    "raw": "I shouldn't rummage through other people's drawers. But I will.",
+    "value": "我不应该翻别人的抽屉。但我会的。"
+  }
+]

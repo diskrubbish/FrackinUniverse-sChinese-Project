@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A nightstand made from flesh and organs.",
+    "value": "用血肉和器官做成的床头柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Atropus Nightstand",
+    "value": "肉源床头柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A vile smelling nightstand.",
+    "value": "一台恶臭难闻的床头柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This make me want to throw up.",
+    "value": "还是把它丢了好了。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Not nightssstand! Isss food!",
+    "value": "不是床床床头柜！是是是好吃的！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Wary. This nightstand makes my circuits shake.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This nightstand makes me feel sick!",
+    "value": "这台床头柜看得我浑身难受！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An extremely unpleasant nightstand.",
+    "value": "一台极不和谐的床头柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't sleepin' next to this.",
+    "value": "我可不敢和它相伴入眠。"
+  }
+]

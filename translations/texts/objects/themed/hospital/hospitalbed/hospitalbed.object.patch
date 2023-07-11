@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just your standard hospital bed.",
+    "value": "就你的标准病床。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hospital Bed",
+    "value": "病床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A hospital bed. Unlike the Miniknog variety, this one doesn't feature straps to hold patients down...",
+    "value": "病床。不像科技发展部的品种，这一个没有功能带，以举行病人下来..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "As if the stiff mattress weren't bad enough, the heart monitor is just so loud...",
+    "value": "好像僵硬的床垫还不够糟糕，心脏监护仪的声音太大了..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Little machine ssstops beeping when Floran's meal is ready!",
+    "value": "当叶族人的饭准备好了，小机器停止鸣叫！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. The handles near the top look like they're used to angle the head of the bed up.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Maybe if they make the bed stiff enough, the patient gets better quicker so they can get out of it?",
+    "value": "也许如果他们把床弄得足够僵硬，病人会更快地好转，这样他们就能从床上爬起来？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "For something you're supposed to stay in until you feel better, hospital beds are notably uncomfortable.",
+    "value": "对于一些你应该待在家里直到感觉好些的事情，医院的病床特别不舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty uncomfy bed, but I suppose a patient ain't got much of a choice.",
+    "value": "一张非常舒适的床，但我想病人没有太多选择。"
+  }
+]

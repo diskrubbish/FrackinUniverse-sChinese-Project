@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sign designating a hangar.",
+    "value": "指示机库的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hangar Sign",
+    "value": "机库标志"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "It seems there's a hangar ahead.",
+    "value": "前面好像有个机库。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A hangar apparently is nearby.",
+    "value": "这里大概是有个机库"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssign for hangar.",
+    "value": "飞机库的标志。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. This sign signifies a nearby hangar.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like there's a hangar nearby.",
+    "value": "看起来附近有个机库。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This huge sign informs me that there is a hangar nearby.",
+    "value": "这个巨大的标志告诉我附近有一个机库。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A big sign for a hangar.",
+    "value": "机库的大标志"
+  }
+]

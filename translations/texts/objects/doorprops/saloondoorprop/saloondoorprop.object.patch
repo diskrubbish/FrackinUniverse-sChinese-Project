@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Swinging saloon doors to keep those pesky tumbleweeds outside.",
+    "value": "摇摆的沙龙门，把那些讨厌的风滚草挡在外面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Saloon Door Prop",
+    "value": "沙龙门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An ape walks into a bar...",
+    "value": "一只猩猩走进一家酒吧..。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "For all its flapping, these poor doors will never fly.",
+    "value": "尽管这些可怜的门扇动着，但它们永远飞不起来。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstupid ssswinging thing in Floran'sss way.",
+    "value": "用叶族人的的的方式做一些愚愚愚蠢的事情。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. These 'doors' seem to function only as a dramatic signal that someone has entered.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These would very nearly make better windows than doors.",
+    "value": "这些窗户几乎比门更好。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "One must be prepared for a duel before crossing a doorway such as this.",
+    "value": "在穿过这样的门口之前，你必须准备好决斗。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Steppin' through one o' these, you'd best be ready for anything.",
+    "value": "穿过这到门之前，你最好做好一切准备。"
+  }
+]

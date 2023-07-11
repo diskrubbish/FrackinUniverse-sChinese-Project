@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This tree is actually the gnome equivalent of an oak.",
+    "value": "这棵树实际上相当于一棵橡树。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gnome Tree Pot",
+    "value": "侏儒树罐"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An... exceedingly tiny tree.",
+    "value": "额...一棵非常小的树。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "What would I need to chop this down? A steak knife?",
+    "value": "我需要什么来把它砍下来？牛排刀？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Baby tree?",
+    "value": "小树？"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A little tree.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Does it have little gnome birdies living in it?",
+    "value": "里面住着侏儒鸟吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A bonsai? ... Oh! It's actually a gnome-sized tree.",
+    "value": "盆景...哦它实际上是一棵侏儒大小的树。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's a real tiny tree.",
+    "value": "那是一棵真正的小树。"
+  }
+]

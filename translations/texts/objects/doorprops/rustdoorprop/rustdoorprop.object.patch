@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rusty door. Looks like it should lead to a creepy basement.",
+    "value": "一扇生锈的门，看起来应该通向一个令人毛骨悚然的地下室。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rusty Door Prop",
+    "value": "生锈门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A sinister, rusty door.",
+    "value": "一扇阴森、生锈的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A door like this could never lead to somewhere remarkable.",
+    "value": "像这样的门永远不可能通向不寻常的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "For once, Floran have nothing sssmart to sssay.",
+    "value": "这一次，叶族人没什么可说说说的了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgusted. A rusted door.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A rusty door.",
+    "value": "一扇生锈的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This door has not been well maintained.",
+    "value": "这扇门保养得不好。"
+  }
+]

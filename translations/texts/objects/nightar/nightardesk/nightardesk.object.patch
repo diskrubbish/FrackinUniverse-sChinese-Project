@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A nicely made Nightarian desk.",
+    "value": "一张做得很好的夜族人桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Desk",
+    "value": "夜族桌"
+  }
+]

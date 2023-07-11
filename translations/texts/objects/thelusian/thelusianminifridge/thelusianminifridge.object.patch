@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small chitin storage that keeps food fresh.",
+    "value": "保持食物新鲜的小几丁质储藏室。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Small Fridge",
+    "value": "蚁族小冰箱"
+  }
+]

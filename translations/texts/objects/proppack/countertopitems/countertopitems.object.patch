@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bag of flour and a bowl of sugar.",
+    "value": "一袋面粉和一碗糖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Countertop Items",
+    "value": "台顶物品"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Some household ingredients.",
+    "value": "一些家庭配料。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An modest amount of sugar and flour.",
+    "value": "适量的糖和面粉。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Flour and sssugar.",
+    "value": "面粉和糖。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A bag of flour and a bowl of sugar.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These look like they came straight out of my grandma's house.",
+    "value": "这些看起来像是直接从我奶奶家出来的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Countertop staples for all but us Hylotl.",
+    "value": "除了我们鲛人，其他人都用的台顶钉。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Flour and a bowl o' sugar.",
+    "value": "面粉和一碗糖。"
+  }
+]

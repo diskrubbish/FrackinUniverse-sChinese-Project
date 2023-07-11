@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hold jump to blast off. Performs poorly in high gravity.",
+    "value": "保持跳跃的向上冲击力。在高重力情况下表现不佳。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Rocket Boots^reset;",
+    "value": "^#77acc3;火箭靴^reset;"
+  }
+]

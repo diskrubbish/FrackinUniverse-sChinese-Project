@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/label",
+    "raw": "-25 Health",
+    "value": "生命值上限-25"
+  }
+]

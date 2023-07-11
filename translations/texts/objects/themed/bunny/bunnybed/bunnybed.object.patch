@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hop on off to dreamland in this adorable bunny themed bed!",
+    "value": "在这张可爱的兔子主题床上跳到梦乡吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bunny Bed",
+    "value": "兔子床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Gaudy as it may be, this bed is still pretty adorable.",
+    "value": "这张床虽然花哨，但仍然很可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The headboard of this bed has bunny ears!",
+    "value": "这张床的床头板有兔子耳朵！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran will dream about hunting little bunnies!",
+    "value": "叶族人会梦想着猎杀小兔子！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Flustered. It's cute and all but... sleeping in a bed like this...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like the kind of bed you'd see in a kid's room.",
+    "value": "看起来就像你在孩子房间里看到的那种床。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What an adorable little bed!",
+    "value": "多可爱的小床啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I ain't too keen to be sleepin' in a bed like this.",
+    "value": "我可不想睡在这样的床上。"
+  }
+]

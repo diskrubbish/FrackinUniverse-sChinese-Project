@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute support beam.",
+    "value": "一个可爱的支架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Support",
+    "value": "可爱的支架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Too cute for Apex.",
+    "value": "对于猿人来说，有点可爱过头了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A support with a bow.",
+    "value": "一个饰有蝴蝶结的支架。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cute sssupport.",
+    "value": "可爱的支支支架。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disturbed. Cute bow is cute...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A support with a bow. Awe..",
+    "value": "一个饰有蝴蝶结的支架。酷极了.."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This support is quite adorable",
+    "value": "这个支架真可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A cute wooden beam with a bow.",
+    "value": "一个可爱的木制支架，饰有蝴蝶结。"
+  }
+]

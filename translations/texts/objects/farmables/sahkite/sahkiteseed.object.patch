@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A teal gem harvested in odd looped shapes.",
+    "value": "一种水鸭青色的宝石，有奇怪的环状结构。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sahkite Crystal Seed",
+    "value": "萨克特水晶种子"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These crystals are incredibly brittle. It would be wise to handle them with care.",
+    "value": "这些水晶异常脆弱。请小心处理它们。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These crystals remind me of the ones in our temples.",
+    "value": "这些水晶让我想起了我们寺庙里的水晶。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likesss the pretty gemsss.",
+    "value": "叶族人喜喜喜欢漂亮的宝宝石。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. These crystals are more fragile than they look.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "These look pretty.",
+    "value": "它们看起来很漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The way they catch the light is beautiful.",
+    "value": "它们捕捉光线的方式真是美丽。"
+  },
+  {
+    "op": "replace",
+    "path": "/elduukharDescription",
+    "raw": "This gemstone is extremely difficult to work with.",
+    "value": "这种宝石极难处理。"
+  }
+]

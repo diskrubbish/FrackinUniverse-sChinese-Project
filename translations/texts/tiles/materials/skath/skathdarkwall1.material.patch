@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tethyde layered with impervium for an exceptionally strong material.",
+    "value": "韧影合金面板与统制化合物的结合无疑是一种异常强大的材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Impervium Plating",
+    "value": "统制面板"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wooden dresser with a stylish pattern embedded on the drawers.",
+    "value": "抽屉上嵌有时尚图案的木制梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alpine Dresser",
+    "value": "阿尔卑斯梳妆台"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "These drawers have a pattern embedded in the center.",
+    "value": "这些抽屉的中央嵌有图案。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The wood this dresser is cut from is very light.",
+    "value": "这个梳妆台用的木头很轻。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Dressers with ssstyle.",
+    "value": "时尚的梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. The center of these drawers have a pattern engraved.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A fancy patterned dresser.",
+    "value": "花式梳妆台。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A fine place to store one's clothes.",
+    "value": "存放衣服的好地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty fancy set of drawers.",
+    "value": "一套非常漂亮的抽屉。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides access to the contents of connected storage containers.\n^blue;Input: ^white;item network^reset; ^red;UNRELIABLE AT RANGE!^reset;",
+    "value": "提供对已连接的存储容器内容的访问权限。\n^blue;输入：物品网络^reset;\n^red;远距离运行不可靠！^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Item Network Terminal",
+    "value": "物品网络终端"
+  }
+]

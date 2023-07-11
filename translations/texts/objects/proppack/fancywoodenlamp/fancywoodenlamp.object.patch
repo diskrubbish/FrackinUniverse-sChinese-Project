@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Like the standard sort, but fancy!",
+    "value": "喜欢标准的那种，但是很花哨！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fancy Wooden Lamp",
+    "value": "花式木灯"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This is a very cozy looking lamp.",
+    "value": "这是一盏看起来很舒服的灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "The wood on this lamp has been polished to a mirror-like sheen.",
+    "value": "这盏灯上的木头已被打磨成镜面般的光泽。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fancy wood... Floran  probably ssshouldn't bite into this.",
+    "value": "花式木材...叶族人可能不该插嘴。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. There's some excellent craftsmanship on display with this lamp.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It's got that new lamp smell! ... Is that a thing?",
+    "value": "它有那种新台灯的味道...这是一件事吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An elegant wooden lamp.",
+    "value": "优雅的木制灯。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Purty fancy for a lamp.",
+    "value": "我喜欢一盏灯。"
+  }
+]

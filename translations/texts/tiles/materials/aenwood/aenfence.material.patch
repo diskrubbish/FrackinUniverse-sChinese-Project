@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A starry fence, wonder what the use for the veil is.",
+    "value": "满天星斗的篱笆，不知道这么炫有有什么用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Nebula Fence",
+    "value": "暗木星云栅栏"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Intrigued. What is the starry veil used for?.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty fence.",
+    "value": "漂亮的栅栏。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This fence sure is pretty.",
+    "value": "这栅栏真漂亮。"
+  }
+]

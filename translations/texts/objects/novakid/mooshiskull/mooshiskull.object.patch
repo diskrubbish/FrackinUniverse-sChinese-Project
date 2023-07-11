@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Well that's not a good sign.",
+    "value": "这可不是什么好兆头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mooshi Skull",
+    "value": "穆什头骨"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I fear there's trouble up ahead.",
+    "value": "我担心前面会有麻烦。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Just a lone bleached skull. It can't talk.",
+    "value": "只是一个单独的漂白头骨。它不能说话。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Looksss like a recent kill.",
+    "value": "看起来像是最近的一次谋杀。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uneasy. A mooshi seems to have perished in the desert heat... or other means.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Why do we always see cow skulls in the desert? And why do you only see the skull? Did the body die somewhere else? It makes no sense.",
+    "value": "为什么我们总是在沙漠中看到牛的头骨？为什么你只看到头骨？尸体死在别的地方了吗？这毫无意义。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Oh the poor creature...",
+    "value": "哦，可怜的家伙..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This skull ain't out here by itself by coincidence. It's an outlaw's threat.",
+    "value": "这头骨不是巧合。这是歹徒的威胁。"
+  }
+]

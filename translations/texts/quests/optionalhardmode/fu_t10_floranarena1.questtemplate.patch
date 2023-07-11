@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "A Darker Contest",
+    "value": "黑暗竞赛"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Kevin went to an arena. Maybe to fight? Go there, kill things, and come back with energy signature. Be careful, this one feels...wrong. Really wrong.",
+    "value": "凯文去了一个竞技场。也许是为了战斗？去那里，杀东西，然后带着能量标记回来。要小心，这个感觉......不对。真的不对。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "No Kevin, but energy signature there. Fresher. Kinda. Mew...keep going. Beacons here.",
+    "value": "没有凯文，但那里有能量标记。比较新鲜。有点像。喵..继续前进。这里有信标。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/enterInstance",
+    "raw": "Use the ^orange;Bronze Arena Beacon^reset;.",
+    "value": "使用^orange;青铜竞技场信标^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/findGoal",
+    "raw": "Win the arena battle",
+    "value": "赢下竞技场的战斗"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/turnIn",
+    "raw": "Return to ^orange;Khe^reset; at the ^orange;Science Outpost^reset;",
+    "value": "回到^orange;科学前哨站^reset;去找^orange;溪^reset;"
+  }
+]

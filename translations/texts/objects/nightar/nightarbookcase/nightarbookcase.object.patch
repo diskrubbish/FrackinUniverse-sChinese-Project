@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bookcase... let's find out what the Nightar read.",
+    "value": "书架...让我们看看夜猫子读了什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Bookcase",
+    "value": "夜族书柜"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A Nightar bookcase.",
+    "value": "一个夜族书柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A Nightar bookcase.",
+    "value": "一个夜族书柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "A Nightar bookcasse with lots of bookss, Floran hatess to read.",
+    "value": "一个存放有许多书籍的夜族书柜。叶族人讨讨厌读书。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. A bookcase filled with Nightar books.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A Nightar bookcase. Perhaps knights are avid readers.",
+    "value": "一个夜族书柜。骑士们可能都是狂热的读者吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A Nightar bookcase.",
+    "value": "一个夜族书柜。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Surely knights ain't got much time for readin'?",
+    "value": "真正的骑士挤不出多少阅读的时间？"
+  }
+]

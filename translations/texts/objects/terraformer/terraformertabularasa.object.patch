@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Transforms a planet's climate into an bleak Tabula Rasa biome.",
+    "value": "(请放置于地表，可移动式，激活后请耐心等待)可将星球的特征转换为贫瘠荒原。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tabula Rasa Terraformer",
+    "value": "贫瘠荒原转换器"
+  }
+]

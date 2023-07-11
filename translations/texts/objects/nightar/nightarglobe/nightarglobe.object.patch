@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large silver statue of the Nightar's penumbral homeworld.",
+    "value": "一尊巨大的银质雕像，描绘了夜族人的半影家园。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Globe Statue",
+    "value": "夜族球形雕像"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Must be a model of the Nightar's home planet.",
+    "value": "一定是夜族的母星模型。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A model of the Nightar's home planet, perhaps?",
+    "value": "也许是夜族的母星模型？"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssstrange darkman planet.",
+    "value": "奇怪的黑暗星球。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. Is it the Nightar's home planet?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Looks like a big statue of the Nightar's home planet.",
+    "value": "看起来像是夜族的母星的巨大雕像。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A curious alien world.",
+    "value": "一个奇怪的外星世界。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A planet I don't recognise.",
+    "value": "一个我不认识的星球。"
+  },
+  {
+    "op": "replace",
+    "path": "/nightarDescription",
+    "raw": "A hollow silver model of my homeworld. Such use of metal is exhorbitant, but it is vital to remember our past, and She who dwells within.",
+    "value": "我家乡的中空银色模型。这种对金属的使用是令人鼓舞的，但记住我们的过去和居住在其中的她是至关重要的。"
+  }
+]

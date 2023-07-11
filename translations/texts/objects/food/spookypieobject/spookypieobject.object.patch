@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just spooky enough.",
+    "value": "够吓人的了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spooky Pie",
+    "value": "幽灵馅饼"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran doesn't see what's so ssscary about sssilly pastry.",
+    "value": "叶族人看不出愚蠢的糕点有什么可怕的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amused. And just what is so scary about this garish looking pie?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't too spooky for my gullet. Down the hatch!",
+    "value": "对我的喉咙来说不太可怕。从舱口下去！"
+  }
+]

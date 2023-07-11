@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A grassy bed. Somewhat itchy.",
+    "value": "由草做成的床，睡上去有些痒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Grassy Bed",
+    "value": "青草床"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A primitive bed, made of grass.",
+    "value": "这张原始的床是由草铺成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A basic grass bed. Quite comfy.",
+    "value": "一张非常简单的床，非常舒适。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran feelss sstrange ssleeping in thiss.",
+    "value": "叶族人睡睡睡上去后感觉怪怪的。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. Why would someone mamke a bed out of grass?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A cute bed made of grass.",
+    "value": "这张可爱的床是由青草组成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "I'd rather not sleep in this.",
+    "value": "我可不愿意睡着如此简陋的床上。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This bed's kinda itchy.",
+    "value": "我觉得这床睡上去会有些痒。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Blex Cactus is known to be energizing.",
+    "value": "可以收获球状仙人掌汁，食用后会提高能量回复速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blex Cactus Bulb",
+    "value": "球状仙人掌种子"
+  }
+]

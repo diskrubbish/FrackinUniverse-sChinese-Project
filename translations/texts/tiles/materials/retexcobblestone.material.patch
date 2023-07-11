@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cobblestone",
+    "value": "鹅卵石块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hard stones, smooth to the touch.",
+    "value": "坚硬的石头，摸起来很光滑。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Cobblestones.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cobblessstone.",
+    "value": "鹅卵卵卵石。"
+  }
+]

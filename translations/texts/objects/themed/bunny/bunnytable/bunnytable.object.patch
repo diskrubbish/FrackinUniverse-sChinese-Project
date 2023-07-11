@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sweet pink bunny table.",
+    "value": "一张可爱的粉红色兔子桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bunny Table",
+    "value": "兔子桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small, cutesy pink table.",
+    "value": "一张小巧可爱的粉红色桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This table is almost excessively pink.",
+    "value": "这张桌子几乎是粉红色的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Table has a little bunny face on top!",
+    "value": "桌子上面有一张小兔子脸！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Baffled. What on Earth would someone want with such a gaudy table?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh! I'll host a bunny themed tea party!",
+    "value": "哦！我要举办一个以兔子为主题的茶会！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This table isn't terribly sturdy, but it sacrifices its utility in favor of being adorable.",
+    "value": "这张桌子并不十分坚固，但它为了讨人喜欢而牺牲了它的实用性。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "That's a... er, pink table alright.",
+    "value": "那是...嗯，粉红色的桌子。"
+  }
+]

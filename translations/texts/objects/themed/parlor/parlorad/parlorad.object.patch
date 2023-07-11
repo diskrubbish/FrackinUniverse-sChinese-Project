@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "They really will make an ice cream flavor for anything, won't they?",
+    "value": "他们真的能做出任何口味的冰淇淋，不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flavor Ad",
+    "value": "风味广告"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Whatever happened to simple flavors, like peanut butter or banana...?",
+    "value": "简单的口味，比如花生酱或香蕉，到底发生了什么...？"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Oh! The eggshoot flavor looks like it's topped with custard!",
+    "value": "哦！射蛋果的味道看起来像加了奶油冻！"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Boneboo! Meatss-flavored icy cream!",
+    "value": "骨竹！肉味冰淇淋！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Puzzled. These flavors are highly unusual for ice cream.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hey, I'll try just about anything once.",
+    "value": "嘿，我什么都试一次。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Reefpod flavor! My online petition worked after all!",
+    "value": "礁荚的味道！我的网上请愿书终于成功了！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "You can't just freeze any ol' thing that comes outta the ground and slap some sugar onto it...",
+    "value": "你不能把从地里出来的东西冻起来，然后往上面撒些糖..."
+  }
+]

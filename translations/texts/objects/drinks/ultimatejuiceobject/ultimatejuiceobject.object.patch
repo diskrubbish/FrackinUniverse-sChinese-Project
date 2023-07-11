@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "All the fruit, in a juice.",
+    "value": "所有的水果都放在果汁里。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ultimate Juice",
+    "value": "终极果汁"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ultimate drink, meet ultimate Floran!",
+    "value": "终极饮料，遇见终极叶族人！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amazed. My scanners are picking up several hundreds strains of different fruits in this drink.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "How can ya appreciate the flavor when there's so many of 'em?",
+    "value": "有这么多香料，你怎么欣赏它们的味道？"
+  }
+]

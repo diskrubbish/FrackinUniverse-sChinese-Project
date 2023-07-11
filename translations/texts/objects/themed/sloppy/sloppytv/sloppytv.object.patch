@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A TV, or an impromptu table?",
+    "value": "一台电视，还是一张临时桌？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloppy TV",
+    "value": "邋遢的电视"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "I can't see this television's screen at all...",
+    "value": "我根本看不到这台电视的屏幕..."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "There a TV under this? I'd just assumed it was a shelf.",
+    "value": "这下面有电视吗？我以为那是个架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Television makes great makeshift ssshelf!",
+    "value": "电视是很好的权宜之计！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Annoyed. How is anyone supposed to watch this television from under all this clutter?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "I don't even think this TV's plugged in.",
+    "value": "我甚至觉得这台电视都没插上电源。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "How charming. Someone's converted their television stand into a closet.",
+    "value": "多迷人啊。有人把电视台改成了壁橱。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I guess I ain't watchin' TV like this...",
+    "value": "我想我不会再这样看电视了..."
+  }
+]

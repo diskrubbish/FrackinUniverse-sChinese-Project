@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Splits a stack into 50% of its previous value.",
+    "value": "可将物品数量以半数拆分。\n兼容物品传输网络。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stack Halver",
+    "value": "物品半数拆分器"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Smartbox",
+    "value": "智能箱"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An airlock - protects from water and closes automatically after a moment.",
+    "value": "一个气闸-保护免受水和关闭后一刻自动。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Airlock Hatch",
+    "value": "合金气闸舱口"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This hatch looks watertight and heavy.",
+    "value": "这个舱口看起来水密而沉重。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This looks like it could stop water from getting through.",
+    "value": "这看起来能阻止水通过。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Heavy, wet hatch.",
+    "value": "沉重潮湿的舱口。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A waterproof hatch with automated sealing procedures.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Nice hatch - heavy duty.",
+    "value": "好舱口【重型】。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "We use hatches like this in our domiciles - ours are much finer, of course.",
+    "value": "我们在家里使用这样的舱口——当然，我们的舱口要精细得多。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This looks like it could stop water from getting through.",
+    "value": "这看起来能阻止水通过。"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "We use these hatches in our settlements to prevent water infiltration into our homes. Water's nice, but being dry has its perks!",
+    "value": "我们在定居点使用这些舱口来防止水渗入我们的家园。水很好，但是干燥有它的好处！"
+  }
+]

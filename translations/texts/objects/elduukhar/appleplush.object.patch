@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A plush of an earth fruit. Why is this here?",
+    "value": "一个地球水果的毛绒玩具，它为什么在这儿？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apple Plush",
+    "value": "苹果毛绒玩具。"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A small plush.",
+    "value": "一个小毛绒玩具。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A plush of some sort of fruit.",
+    "value": "某种水果的毛绒玩具。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssoft plush.",
+    "value": "柔柔柔软毛绒玩具。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. It's an apple.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A small apple plushie. Why would they know about this?",
+    "value": "一个苹果的小毛绒玩具，他们为什么会知道这些？"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A small fruit plush.",
+    "value": "一个小水果毛绒玩具。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A mighty odd lookin' plush.",
+    "value": "一个看着极其怪异的毛绒玩具。"
+  }
+]

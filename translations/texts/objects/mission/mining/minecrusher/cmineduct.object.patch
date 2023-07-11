@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A box used to connect ducts.",
+    "value": "用来连接管道的箱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "C Rock duct",
+    "value": "C形岩石输送管"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An industrial machine, used for transporting across rocks.",
+    "value": "一种工业用机器，用于传送岩石。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A duct used for down rocks.",
+    "value": "用于下降岩石的管道。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wants to drop prey inssside!",
+    "value": "叶族人想要把猎物塞塞塞进去！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. The duct exists to send rocks to the crusher.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A machine used for transport across rocks.",
+    "value": "一种用于传送岩石的机器。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An unsightly metal construction.",
+    "value": "一种难看的金属设施。"
+  }
+]

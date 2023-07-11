@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wooden table with a stylishly patterned tablecloth.",
+    "value": "一张有时髦图案桌布的木桌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alpine Table",
+    "value": "阿尔卑斯桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "What an inspired design!",
+    "value": "多么有灵感的设计啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This tablecloth looks brand new.",
+    "value": "这桌布看起来是全新的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssilky smooth tablecloth.",
+    "value": "柔软光滑的桌布。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Approving. The owner of this table has kept the cloth in mint condition.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A table with a tablecloth! But, like, modern looking.",
+    "value": "有桌布的桌子！但是，看起来很现代。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A tablecloth with form and function.",
+    "value": "有形状和功能的桌布。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This table's covered with a purty li'l tablecloth.",
+    "value": "这张桌子上盖着一块紫色的桌布。"
+  }
+]

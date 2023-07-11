@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A retractable gate, made from strong metal.",
+    "value": "一种可伸缩的门，由坚固的金属制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lab Gate",
+    "value": "实验室大门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This retractable gate is very strong.",
+    "value": "这个可伸缩的门非常坚固。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Thanks to the fact that it is made of metal, this is quite a sturdy gate.",
+    "value": "由于它是由金属制成的，这是一个相当坚固的门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Metal ssstrongest ssstuff because it growsss in dirtsss.",
+    "value": "金属是最坚硬的东西，因为它在泥土中生长。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Intrigued. This metal gate is remarkably sturdy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "This large metal gate is retractable.",
+    "value": "这个大金属门是可伸缩的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "This gate design uses function over form.",
+    "value": "此门设计使用功能而不是形式。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This gate is made from metal, so I reckon it ain't easy to break.",
+    "value": "这扇门是金属做的，所以我想不容易打破。"
+  }
+]

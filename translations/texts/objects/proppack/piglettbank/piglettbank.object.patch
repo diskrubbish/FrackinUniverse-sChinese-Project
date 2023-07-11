@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's just too cute to smash! ... Or is it?",
+    "value": "它太可爱了，不能打碎...还是这样？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Piglett Bank",
+    "value": "小猪银行"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An adorable little piggy bank.",
+    "value": "一个可爱的小猪存钱罐。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A tiny vault in the shape of a swine. Weird.",
+    "value": "猪形的小拱顶。奇怪的。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Little piggy has pixels instead of meatsss!",
+    "value": "小猪有像素而不是肉！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Scandalized. I refuse to harm this precious creature, the state of my coffers be damned.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Oh hey! It has a little cork on the bottom so I don't have to break it open.",
+    "value": "哦，嘿！它的底部有一个小软木塞，所以我不必把它打开。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Charming ceramics ought to be displayed, not destroyed.",
+    "value": "迷人的陶瓷应该展出，而不是销毁。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A cutesy piggy bank.",
+    "value": "可爱的小猪存钱罐。"
+  }
+]

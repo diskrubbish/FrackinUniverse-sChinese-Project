@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Can be used to access your tricorder's upgrade interface. Largely cosmetic.",
+    "value": "可用于访问三度仪的升级界面。已经是装饰的形状了（悲）。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Upgrade Table^reset;",
+    "value": "^cyan;升级工作站^reset;"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This glowing crystal can provide illumination under the water as well.",
+    "value": "这种发光的水晶也能在水下提供照明。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glowstar",
+    "value": "发光星"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "This glowing mechanism sticks to all kinds of surfaces. ",
+    "value": "这种发光机制附着在各种表面上。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These look oddly similar to our crystal technology...",
+    "value": "这些看起来与我们的水晶技术非常相似..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cold light from thisss cryssstal.",
+    "value": "从这个晶体发出的冷光。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Versatile waterproof lighting.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Hey, these are cool! They're all glowy!",
+    "value": "嘿，这些很酷！它们都是发光的！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Hmm. Seems like the Hylotl could do better.",
+    "value": "嗯。看来鲛人号能做得更好。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Hey, these are cool! They're all glowy!",
+    "value": "嘿，这些很酷！它们都是发光的！"
+  },
+  {
+    "op": "replace",
+    "path": "/fupeglaciDescription",
+    "raw": "A simple fluorescing crystal. Lights the way, even underwater. ",
+    "value": "一种简单的荧光晶体。照亮了道路，甚至在水下。"
+  }
+]

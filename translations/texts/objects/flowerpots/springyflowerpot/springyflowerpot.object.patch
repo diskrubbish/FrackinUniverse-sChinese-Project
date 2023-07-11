@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A spirally potted flower.",
+    "value": "螺旋形的盆花。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Springy Flower Pot",
+    "value": "弹性花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "An odd plant that swirls its way into the sky.",
+    "value": "一种奇怪的植物盘旋着飞向天空。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This flower makes an elegant coil into the air.",
+    "value": "这朵花在空中盘绕得很优雅。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Flower ssmells especially nice.",
+    "value": "花特别好闻。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Surprised. My scanners are telling me this flower is omnivorous.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "A weird looking plant. Kinda reminds me of a slinky.",
+    "value": "一种奇怪的植物。有点让我想起了斯林奇。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "These flowers are actually relatives of the pitcher plant. They funnel insects down their coil to its digestive glands.",
+    "value": "这些花实际上是猪笼草的近亲。它们用漏斗将昆虫从盘绕物中送入消化腺。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A swirly flower. Watchin' it grow must be quite the experience.",
+    "value": "一朵漩涡状的花。看着它成长一定是一种体验。"
+  }
+]

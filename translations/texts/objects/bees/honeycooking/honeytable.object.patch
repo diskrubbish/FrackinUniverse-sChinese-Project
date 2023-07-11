@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Honey Cooking Table",
+    "value": "蜂蜜烹饪台"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Prepare and cook honey!",
+    "value": "^#b9b5b2;准备开始煮蜂蜜！"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cook honey based food on this!",
+    "value": "在这里做些蜂蜜料理吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Cooking Table",
+    "value": "蜂蜜烹饪台"
+  }
+]

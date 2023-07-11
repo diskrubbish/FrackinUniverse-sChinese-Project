@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rolling cart for transporting supplies around the office.",
+    "value": "在办公室里运送用品的滚动车。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rolling Cart",
+    "value": "手推车"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "There's a fair bit of supplies within on this cart.",
+    "value": "这辆车上有相当多的补给。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Just about everything an office needs is on this trolley.",
+    "value": "办公室所需的一切都在这辆手推车上。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wagon iss much more interesting than stupid boxess.",
+    "value": "马车比愚蠢的拳击手有趣得多。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A cart full of office supplies.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Have they got any coloring books in there? No? Aw...",
+    "value": "里面有彩色书吗？不？哦..."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A cart messily loaded with office supplies.",
+    "value": "一辆装满办公用品的大车。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A cart of office supplies.",
+    "value": "一车办公用品。"
+  }
+]

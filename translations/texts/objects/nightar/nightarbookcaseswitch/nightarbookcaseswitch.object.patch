@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "One of these books looks out of place... I wonder...",
+    "value": "其中一本书看起来不合适...我想知道..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Switch Bookcase",
+    "value": "夜影开关书架"
+  }
+]

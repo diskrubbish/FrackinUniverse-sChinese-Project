@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Suitable for moderate amounts of tomfoolery.",
+    "value": "适合适量的胡闹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frontier Table",
+    "value": "边境桌"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A simple little table.",
+    "value": "一张简单的小桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "A basic, yet sturdy table. A decent display of craftsmanship.",
+    "value": "一张基本但结实的桌子。精湛的技艺。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran wants to carve at little table.",
+    "value": "叶族人想在小桌子上雕刻。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Neutral. A standard table.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The kind of table that gets refurbished and sold for 10x the original price.",
+    "value": "这种桌子经过翻新，售价是原价的10倍。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An unremarkable table.",
+    "value": "不起眼的桌子。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "No better place to sit down at an' chew the fat.",
+    "value": "没有更好的地方坐在一个“嚼脂肪”。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An engaging painting of a busy city at night.",
+    "value": "这是一幅描绘夜晚繁忙城市的迷人画作。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cityscape",
+    "value": "城市景观"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Ah, if only Apex cities could feel as peaceful as this one looks.",
+    "value": "啊，要是猿族的城市能像这座看起来那样平静就好了。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Even after all this time, the site of a bustling city still awes me.",
+    "value": "即使过了这么久，这座繁华城市的所在地仍然令我敬畏。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likes picture of city night life.",
+    "value": "叶族人喜欢城市夜生活的画面。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Humbled. My homely little village could fit into just this picture a thousand times over.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Cities... Earth was chock full of 'em, once...",
+    "value": "城市。。。有一次，地球上到处都是。。。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "A rather impressive painting. The blue undertones add a melancholy feel.",
+    "value": "一幅相当令人印象深刻的画。蓝色的底色增添了一种忧郁的感觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't ever been much of a city slicker. This is one nice paintin' though.",
+    "value": "从来都不是一个精明的城市人。不过这是一幅不错的画。"
+  }
+]

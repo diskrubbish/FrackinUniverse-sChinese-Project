@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Methanol - Nature's Booze",
+    "value": "甲醇-自然之酿"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "^orange;Methanol^reset; will be useful in the production of a number of goods and eventually get you on track to a masterful laboratory. ^green;You'll find it via wood extraction^reset;.",
+    "value": "^orange;甲醇^reset;将在各类物品产出以及实验室的壮大中扮演重要的角色。^green;你可以通过萃取原木得到它。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "Great work. I think it's time to move on.",
+    "value": "干得漂亮。我想是时候进行下一步了。"
+  }
+]

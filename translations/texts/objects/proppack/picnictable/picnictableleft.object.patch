@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pairs perfectly with Pic-a-nic baskets!",
+    "value": "与Pic-a-nic篮子完美搭配！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Picnic Table",
+    "value": "野餐桌"
+  }
+]

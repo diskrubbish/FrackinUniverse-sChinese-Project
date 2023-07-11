@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The body of a Snowmantizi.",
+    "value": "甲虫雪人的躯体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mantizi Snowbody",
+    "value": "甲虫族雪人"
+  }
+]

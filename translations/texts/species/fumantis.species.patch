@@ -1,0 +1,80 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/title",
+    "raw": "Mantis",
+    "value": "甲虫人"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/subTitle",
+    "raw": "Insectoid xenophobes",
+    "value": "类昆虫排外者"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "raw": "Productive and tough, the Mantis are incredibly unwise and unlikeable.",
+    "value": "繁殖快速，生命力顽强，甲虫人既不聪明，也不讨人喜欢。"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/0",
+    "raw": "CAMOUFLAGE",
+    "value": "迷彩"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/1",
+    "raw": "ANTENNAE",
+    "value": "触角"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/2",
+    "raw": "SHIRT",
+    "value": "衬衫"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/3",
+    "raw": "PANTS",
+    "value": "裤子"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/4",
+    "raw": "EYE COLOR",
+    "value": "眼镜颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/5",
+    "raw": "MANDIBLES",
+    "value": "颚"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/6",
+    "raw": "SHIRT COLOR",
+    "value": "衬衫颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/7",
+    "raw": "PANTS COLOR",
+    "value": "裤子颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/8",
+    "raw": "MANTIS",
+    "value": "甲虫人"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/9",
+    "raw": "PERSONALITY",
+    "value": "个性"
+  }
+]

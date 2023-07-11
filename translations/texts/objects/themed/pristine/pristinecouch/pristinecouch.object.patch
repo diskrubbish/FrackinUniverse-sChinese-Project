@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A prim and proper couch. It's almost too nice to sit on.",
+    "value": "一本正经的沙发。坐在上面太舒服了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pristine Couch",
+    "value": "原始沙发"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A dainty living room couch.",
+    "value": "精致的客厅沙发。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This loveseat is awfully comfortable to sit on.",
+    "value": "这个可爱的座位坐起来非常舒服。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "SSeat is soft enough for Floran to ssleep on.",
+    "value": "座位够软了，叶族人可以继续睡了。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Nervous. I hope I don't make a mess of this couch by sitting down.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Woah, fancy. This couch looks like it belongs in an old-timey parlor.",
+    "value": "哇，真想不到。这张沙发看起来应该放在老式客厅里。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "What a delightful pattern on this couch's cushions!",
+    "value": "这沙发靠垫上的图案真好看！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Is a couch like this even meant for sittin' on?",
+    "value": "像这样的沙发是用来坐的吗？"
+  }
+]

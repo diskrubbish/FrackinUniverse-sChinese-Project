@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A vine-covered stone.",
+    "value": "一块布满藤蔓的石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Viney Stone",
+    "value": "藤石"
+  }
+]

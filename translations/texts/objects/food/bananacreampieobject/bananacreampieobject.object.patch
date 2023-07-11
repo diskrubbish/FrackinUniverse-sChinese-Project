@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Better for eating, or for throwing in people's faces?",
+    "value": "吃东西更好，还是扔到别人脸上更好？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Banana Cream Pie",
+    "value": "香蕉奶油派"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Creamy and sweet, monkeyman treat!",
+    "value": "奶香甜味，来自猿人的款待！"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Daunted. That's... quite a generous helping of whipped cream.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Bit too sweet for my taste, if we're bein' honest.",
+    "value": "老实说，对我来说太甜了点。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some lovely white flowers.",
+    "value": "一些可爱的白花。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "White Flower Pot",
+    "value": "白花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Some pretty pale flowers.",
+    "value": "一些美丽的淡色花朵。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These flowers have a nice scent.",
+    "value": "这些花有很好的香味。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Flowers sssmell nice.",
+    "value": "花闻起来很香。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. Petals of pure white.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It looks like some overgrown daisies.",
+    "value": "它看起来像一些长满杂草的雏菊。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "White is the Hylotl colour of peace.",
+    "value": "白色是和平的颜色。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some delicate daisies.",
+    "value": "一些精致的雏菊。"
+  }
+]

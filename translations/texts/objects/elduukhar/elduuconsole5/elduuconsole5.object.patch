@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A touch-screen console with all sorts of fun buttons.",
+    "value": "一台有各种有趣按钮的触屏控制台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tiny Crystal Console",
+    "value": "微型水晶控制台"
+  }
+]

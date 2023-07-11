@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The basis of a large colony. Collects rent from MK2 deeds passively.",
+    "value": "一个大殖民地的基础。从MK2合同中被动收取租金。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Colony Core",
+    "value": "殖民地核心"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crude wooden doors. Not very secure.",
+    "value": "粗糙的木门，不太牢固。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wooden Double Door Prop",
+    "value": "木制双门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "Basic wooden doors.",
+    "value": "基本的木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Handmade wooden doors.",
+    "value": "手工制作的木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran alsso make similar wooden doors.",
+    "value": "叶族人也也也制造类似的木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Cheerful. It appears to be handmade doors.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "The kind of doors you'd expect to see on a cottage.",
+    "value": "这种门在别墅里是很常见的。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Humble wooden doors.",
+    "value": "简陋的木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Kinda rustic lookin' but they'll do.",
+    "value": "看起来有点土气，不过也行。"
+  }
+]

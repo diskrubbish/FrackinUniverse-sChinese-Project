@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A horrifying sea creature.",
+    "value": "一种可怖的海中生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Deep Seer",
+    "value": "深渊预言者"
+  }
+]

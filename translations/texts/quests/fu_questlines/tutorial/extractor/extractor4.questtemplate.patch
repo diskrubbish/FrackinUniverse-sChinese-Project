@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "The Extractor IV",
+    "value": "萃取物质 IV"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "^orange;Plant Fibre^reset; is plentiful enough that extracting some for a little ^green;tissue culture^reset; won't hurt. Bring me 5.",
+    "value": "^orange;植物纤维^reset;足够萃取一小部分^green;组培器官^reset;了，不会有什么损失。带5份来给我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/turnInDescription",
+    "raw": "Bring the ^green;Tissue Culture^reset; to me at the ^orange;Science Outpost^reset;",
+    "value": "把^green;组培器官^reset;带给我。(位于^orange;科学前哨站^reset;)"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "You're doing great. As a thanks, take this. It's rare, but it might come in handy some day.",
+    "value": "做得很好。作为感谢把这个拿去吧。这是非常少见的，你应该会用到的。"
+  }
+]

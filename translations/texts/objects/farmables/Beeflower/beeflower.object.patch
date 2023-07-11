@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The seed of a bright yellow beeflower",
+    "value": "这是明亮的黄色蜜蜂花的种子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beeflower Seed",
+    "value": "蜜蜂花种子"
+  }
+]

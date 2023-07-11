@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A straight wing for a human spaceship.",
+    "value": "人类宇宙飞船的直翼。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Human Straight Wing",
+    "value": "人类宇宙飞船直翼"
+  }
+]

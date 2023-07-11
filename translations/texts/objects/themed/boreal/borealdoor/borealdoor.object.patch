@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lovingly carved pine wood door. It easily keeps the cold winds at bay.",
+    "value": "一扇雕刻精美的松木门。能轻易挡住寒风。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Boreal Door",
+    "value": "北风门"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A sturdy wooden door.",
+    "value": "一扇坚固的木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "This pine door is expertly detailed.",
+    "value": "这扇松木门做工精细。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fancy wood door.",
+    "value": "奇特的木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. The carvings along this door are incredibly intricate.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Sturdy, yet elegant!",
+    "value": "结实，且优雅！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "An expertly treated and carved wooden door.",
+    "value": "一扇精心雕刻的木门。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Now that there's a pretty fancy door.",
+    "value": "现在这里有一扇很漂亮的门。"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some lovely fancy flowers.",
+    "value": "一些漂亮的花儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fancy Flower Pot",
+    "value": "花盆"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "A pretty red flowers.",
+    "value": "一朵美丽的红花。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "These flowers have a nice scent.",
+    "value": "这些花有很好的香味。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Flowers sssmell nice.",
+    "value": "花闻起来很香。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Appreciative. Petals of deep red.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "It looks like some overgrown roses.",
+    "value": "它看起来像一些杂草丛生的玫瑰。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "Red is the Hylotl colour of passion.",
+    "value": "鲛人的激情表达的颜色是红色。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some delicate roses.",
+    "value": "一些精致的玫瑰。"
+  }
+]

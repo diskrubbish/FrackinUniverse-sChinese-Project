@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sure seems that way, Anonymous Graffiti Artist. Unbreakable!",
+    "value": "看起来的确如此，匿名涂鸦艺术家。牢不可破！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "\"No Escape\" Graffiti",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "raw": "No escape, apparently. A warning the Apex know too well.",
+    "value": "显然，没有办法逃脱。猿族非常清楚这一警告。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "raw": "Someone clearly had a bleak outlook.",
+    "value": "显然有人的前景很黯淡。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty writing, but Floran doesssn't agree with the messsage.",
+    "value": "写得不错，但叶族人不同意这一说法。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Dubious. Despite the graffiti's message, my scans indicate at least four methods of escape.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "raw": "Challenge accepted.",
+    "value": "接受挑战。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "raw": "The graffiti drips hopelessness as much as it drips paint.",
+    "value": "涂鸦滴下的绝望就像滴下的颜料一样多。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Someone wrote this one a bad day.",
+    "value": "有人写了一篇糟糕的文章。"
+  }
+]
