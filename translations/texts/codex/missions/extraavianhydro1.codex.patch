@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "(Hydro Center) Maintenance Log",
+    "value": "维护日志(水下神庙)"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These pages are crumbling away from age.",
+    "value": "书页正随着时间流逝而破碎。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "It is strange to build a temple so far into the water away from the sky, but it must be done. Filtering the seawater of this planet is the only expedient way to acquire the necessary resources for the project.",
+    "value": "在水中建立神庙？这个想法真的是太奇怪了，因为首先得把海水排空了才能进行初步的建造。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "raw": "The necessity might be there, but the damp and salt make maintenance a chore. There's always something to replace or repair. That's not to mention the seawater weakening the mortar of the walls.",
+    "value": "并且在建成后，维护成了一件烦心事儿，因为总有一些东西因为被盐分所侵蚀而损坏。更别谈海水把外墙涂抹的砂浆都冲去了。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/2",
+    "raw": "It would be a shame to let this place fall into disrepair when we're done here, but the upkeep is simply too much for it to be justified.",
+    "value": "虽说建筑需要维护是正常事儿，但是天天这样搞，实在是太难受了。"
+  }
+]

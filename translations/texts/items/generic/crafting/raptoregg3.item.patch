@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Jammed full of genetic materials.",
+    "value": "这里面充满了遗传物质。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dinosaur Egg",
+    "value": "恐龙蛋"
+  }
+]

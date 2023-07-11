@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pierces through any elemental defenses.",
+    "value": "穿透任何元素的防御。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Silver Rapier",
+    "value": "银制刺剑"
+  }
+]

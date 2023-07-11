@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Master brain-healer-guy. Reduces madness effects up to 65%. Reduces fuel costs by 2%.",
+    "value": "脑疗大师。减少65%狂乱影响。降低2％的飞船燃料消耗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ship Psychiatrist Contract",
+    "value": "合同：随船精神病医生"
+  }
+]

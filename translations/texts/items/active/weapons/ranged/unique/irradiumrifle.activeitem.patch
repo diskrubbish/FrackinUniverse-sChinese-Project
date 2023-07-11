@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Even if you graze 'em, the radiation burn is deadly.\n^yellow;Inflicts radiation burn^reset;",
+    "value": "让你的敌人常常辐射的厉害吧！\n^cyan;附加辐射烧伤效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Energy Rifle",
+    "value": "镭制步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Barrier Sphere",
+    "value": "障碍球"
+  }
+]

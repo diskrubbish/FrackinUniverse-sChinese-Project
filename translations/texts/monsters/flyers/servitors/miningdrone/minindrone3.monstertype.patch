@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mining Drone",
+    "value": "采矿无人机"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides information on nearby caves and ores.",
+    "value": "提供附近的洞穴和矿物的信息。"
+  }
+]

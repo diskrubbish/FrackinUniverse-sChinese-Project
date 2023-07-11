@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Keep an... eye... on your enemy.\n^cyan;Inflicts bleeding^reset;",
+    "value": "凝视你的敌人。\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bloodweave Scythe",
+    "value": ""
+  }
+]

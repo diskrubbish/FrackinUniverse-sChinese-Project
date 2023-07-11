@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Be a ninja. Life will improve.",
+    "value": "做个忍者。延年益寿。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Assassin Mask",
+    "value": "刺客面罩"
+  }
+]

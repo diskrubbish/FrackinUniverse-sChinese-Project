@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perfect wear for some moonlight ramblin'.",
+    "value": "让你看上去如在月光下漫步般浪漫。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elite Jacket",
+    "value": "精英夹克"
+  }
+]

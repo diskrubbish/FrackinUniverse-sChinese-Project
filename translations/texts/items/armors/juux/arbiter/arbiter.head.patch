@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The mask of station for a Pharitu Arbiter.",
+    "value": "为法瑞图仲裁员准备的制式面具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Arbiter Helmet",
+    "value": "仲裁者头盔"
+  }
+]

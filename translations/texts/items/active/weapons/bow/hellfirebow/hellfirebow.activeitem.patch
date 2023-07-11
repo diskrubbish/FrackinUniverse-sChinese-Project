@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Burn your targets to cinders. Counterproductive, but fun.",
+    "value": "将你的目标燃烧成灰烬，虽然连渣都不剩，但是很有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hellfire Bow",
+    "value": "地狱火之弓"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Burning Death",
+    "value": "燃烧殒命"
+  }
+]

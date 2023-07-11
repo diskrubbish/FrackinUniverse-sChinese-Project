@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This honeycomb has high titanium contents. Increases electric resistance",
+    "value": "这种蜂巢富含钛。食用后可提高电系抗性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Titanium Honeycomb",
+    "value": "含钛蜂巢"
+  }
+]

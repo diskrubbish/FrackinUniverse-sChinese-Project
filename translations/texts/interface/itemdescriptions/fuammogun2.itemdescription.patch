@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speedTitleLabel/value",
+    "raw": "Rate of Fire:",
+    "value": "射速："
+  },
+  {
+    "op": "replace",
+    "path": "/damagePerShotTitleLabel/value",
+    "raw": "Damage Per Shot:",
+    "value": "每击伤害："
+  },
+  {
+    "op": "replace",
+    "path": "/energyPerShotTitleLabel/value",
+    "raw": "Energy Per Shot:",
+    "value": "每击耗能："
+  }
+]

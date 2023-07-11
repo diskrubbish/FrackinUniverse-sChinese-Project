@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A droid behavior module.",
+    "value": "一个机器人行为模块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Behavior Module",
+    "value": "机器人行为模块"
+  }
+]

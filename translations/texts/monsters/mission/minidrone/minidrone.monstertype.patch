@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Micro Defence Drone",
+    "value": "微型防御无人机"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Originally made by the Apex, now widespread as a convenient robotic guard dog.",
+    "value": "最初是由猿人制造的，现在作为一种方便的机器看门狗被广泛应用。"
+  }
+]

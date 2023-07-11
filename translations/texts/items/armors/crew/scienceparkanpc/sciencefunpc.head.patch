@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fully featured gas filtration mask with built-in re-breather unit.",
+    "value": "配备有完全的空气过滤面罩，以及内置的再呼吸装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Arctic Hood",
+    "value": "北极头盔"
+  }
+]

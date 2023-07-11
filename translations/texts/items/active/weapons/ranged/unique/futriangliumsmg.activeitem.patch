@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ratta-tat-tat your foes with poisoned trianglium rounds.\n^cyan;Inflicts poison ^reset;",
+    "value": "把带有毒性的三棱子弹阿达哒哒哒的向你的敌人倾泻吧。\n^cyan;附加毒素效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vagabond",
+    "value": "流浪者"
+  }
+]

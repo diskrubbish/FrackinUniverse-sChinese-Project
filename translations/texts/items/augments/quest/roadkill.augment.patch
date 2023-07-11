@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dead animal. What's wrong with you?\n+^green;10^reset;% Poison Resist\n^cyan;Haunting Meow^reset;",
+    "value": "这就是一具动物尸体。你还好吗？\n^cyan;毒素抗性+10^reset;%\n^cyan;阴魂不散的猫叫^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A Dead Animal",
+    "value": "动物尸体"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "A Dead Animal",
+    "value": "动物尸体"
+  }
+]

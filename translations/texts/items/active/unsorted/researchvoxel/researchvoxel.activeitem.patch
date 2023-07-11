@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cache of 1000 stored Research.",
+    "value": "可以储存1000研究点数。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Research Holodisc",
+    "value": "研究磁盘"
+  }
+]

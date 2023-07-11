@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/default/default/0",
+    "raw": "Halt! This is a high security research facility. Lab personnel only!",
+    "value": "闲人止步！一个高度警戒的研究中心，仅限科研人员进入。"
+  }
+]

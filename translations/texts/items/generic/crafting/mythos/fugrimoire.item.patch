@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Whispers from the cosmos compel you to write this text.",
+    "value": "来自宇宙的低语迫使你写下这段文字。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Tattered Grimoire^reset;",
+    "value": "^#ffe50e;残破秘典^reset;"
+  }
+]

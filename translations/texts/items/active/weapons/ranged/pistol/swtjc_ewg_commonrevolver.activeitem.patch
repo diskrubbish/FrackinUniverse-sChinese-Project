@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small handgun with a powerful punch.",
+    "value": "射速慢的手枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Common High-Caliber Pistol",
+    "value": "普通的左轮手枪"
+  }
+]

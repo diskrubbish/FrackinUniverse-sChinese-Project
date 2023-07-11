@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The metal interior is a little cold, but it's a cool mask, so it's definitely worth it!",
+    "value": "虽然金属内饰有点冷，但它是一个很酷的面具，所以绝对值得！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glitch Spider Mask",
+    "value": "机械蜘蛛面具"
+  }
+]

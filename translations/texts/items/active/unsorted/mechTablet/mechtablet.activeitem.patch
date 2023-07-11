@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mech Tablet",
+    "value": "机甲控制板"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Primary^reset;: Mech Assembly\n^yellow;Secondary^reset;: Mech Fuel",
+    "value": "^cyan;左键^reset;: 机甲装配\n^yellow;右键^reset;: 机甲燃料"
+  }
+]

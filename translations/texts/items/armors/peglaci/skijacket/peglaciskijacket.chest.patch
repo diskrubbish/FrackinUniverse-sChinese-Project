@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Warm leather jacket preferred by Peglaci everywhere.",
+    "value": "各地的羊蹄族都喜欢温暖的皮夹克。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tundra Jacket",
+    "value": "苔原夹克"
+  }
+]

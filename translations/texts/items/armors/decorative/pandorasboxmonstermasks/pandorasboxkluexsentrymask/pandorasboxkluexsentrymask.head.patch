@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These were salvaged from damaged Kluex Sentries! Careful. We don't know if we disarmed their energy beams right...",
+    "value": "这些是从受损的克鲁西斯哨兵中打捞的！小心，我们不知道我们是否正确解除了他们的能量束..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kluex Sentry Mask",
+    "value": "克鲁西斯哨兵面具"
+  }
+]

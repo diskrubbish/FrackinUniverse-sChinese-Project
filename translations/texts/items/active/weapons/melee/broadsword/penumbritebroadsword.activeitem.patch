@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A keen edge for slashing things to pieces.\n^cyan;Universal Damage^reset;",
+    "value": "把东西砍成碎片的锋利刀刃。\n^cyan;通用伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbral Broadsword",
+    "value": "半影阔剑"
+  }
+]

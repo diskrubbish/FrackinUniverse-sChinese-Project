@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Jamed full of nutritious rust and iron. ^yellow;Type: Robot Food^reset;",
+    "value": "有营养的铁锈和铁。\n^yellow;类型：机械食物^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rusty Chowder",
+    "value": "生锈美食"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rough, unrefined arkose.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "一些未处理的长石砂岩。\n^green;可萃取^reset;，^orange;可破碎reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Unrefined Arkose",
+    "value": "未处理的长石砂岩"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Arkose.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssstonne.",
+    "value": "石石石头。"
+  }
+]

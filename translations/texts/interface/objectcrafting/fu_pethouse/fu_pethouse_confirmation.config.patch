@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Reset Added Pets",
+    "value": "重置所添加宠物"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Reset pets added from objects",
+    "value": "重置从目标中添加的宠物"
+  },
+  {
+    "op": "replace",
+    "path": "/message",
+    "raw": "This will erase all pets that you added from objects. Are you sure you want to do this?",
+    "value": "这将删除您从目标中添加的所有宠物。你确定要这么做吗?"
+  },
+  {
+    "op": "replace",
+    "path": "/okCaption",
+    "raw": "Okay",
+    "value": "是"
+  },
+  {
+    "op": "replace",
+    "path": "/cancelCaption",
+    "raw": "Cancel",
+    "value": "取消"
+  }
+]

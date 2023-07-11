@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/bookmarkName",
+    "raw": "Peacekeeper Station",
+    "value": "和平卫士空间站"
+  },
+  {
+    "op": "replace",
+    "path": "/destinations/0/name",
+    "raw": "Beam to Ship",
+    "value": "传送至飞船"
+  }
+]

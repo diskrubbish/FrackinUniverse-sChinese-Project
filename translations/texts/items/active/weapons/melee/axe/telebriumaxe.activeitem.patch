@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Honed from pure telebrium.",
+    "value": "将月海晶体磨利制成的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Hatchet",
+    "value": "月海短柄斧"
+  }
+]

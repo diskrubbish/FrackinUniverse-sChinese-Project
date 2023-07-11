@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "More toppings! ^orange;Type: Cooked Meat + Fruits + Dairy^reset;",
+    "value": "更多的配料！\n^orange;类型：熟肉食 + 水果 + 蛋奶^reset;"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A damaged shield bearing the Protectorate symbol. ^green;-10% Fall Damage^reset;, ^cyan;Immune: Shock^reset;",
+    "value": "一个带有守护者标志的受损的盾牌。\n^green;-10%坠落伤害^reset;，^cyan;免疫：感电^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rusty Protectorate Shield",
+    "value": "受损的守护团盾牌"
+  },
+  {
+    "op": "replace",
+    "path": "/improveParameters/shortdescription",
+    "raw": "^cyan;Protectorate Shield^reset; ^white;^reset;",
+    "value": "^cyan;守护团盾牌^reset; ^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/improveParameters/description",
+    "raw": "Much stronger than before.",
+    "value": "相比之前的更加强大。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Protectorate Shield^reset; ^yellow;^reset;",
+    "value": "^cyan;守护团盾牌^reset; ^yellow;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Vastly improved defense.",
+    "value": "大幅提升过的防御。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "^cyan;Protectorate Shield^reset; ^green;^reset;",
+    "value": "^cyan;守护团盾牌^reset; ^green;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "A shield for a true hero.",
+    "value": "一个属于真正的英雄的盾牌。"
+  }
+]

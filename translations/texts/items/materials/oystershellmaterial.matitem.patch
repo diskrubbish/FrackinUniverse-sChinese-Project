@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pile of crushed oyster shells.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "一堆碎掉的牡蛎壳。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Oystershell",
+    "value": "牡蛎壳"
+  }
+]

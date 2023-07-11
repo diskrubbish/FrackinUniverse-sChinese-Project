@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stab them with cosmic power!",
+    "value": "使用宇宙的力量刺向你的敌人！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Knife",
+    "value": "赛德瑞瑟小刀"
+  }
+]

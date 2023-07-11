@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stellar Drone",
+    "value": "恒星工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stellar Drone",
+    "value": "恒星工蜂"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/fenerox/0",
+    "raw": "New person. Smells strange. Quite exciting!",
+    "value": "新的人，闻起来怪怪的，真令人兴奋！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/fenerox/1",
+    "raw": "Odd person. Hopefully nice. Feeling cautious!",
+    "value": "奇怪的人。希望是好人。谨慎的感觉！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/fenerox/2",
+    "raw": "Weird person. Being polite! Fellow Fenerox!",
+    "value": "奇怪的人。要有礼貌！耳廓狐同胞！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/fenerox/3",
+    "raw": "Meeting stranger. Being friendly. New experience!",
+    "value": "遇见陌生人。变得友好。新的体验！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/fenerox/4",
+    "raw": "Odd person. Saying hello. Is Fenerox!",
+    "value": "奇怪的人。打招呼。是耳廓狐！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/fenerox/5",
+    "raw": "Friendly stranger. Feeling awkward. Cautiously optimistic!",
+    "value": "友好的陌生人。感到尴尬。谨慎乐观！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/fenerox/6",
+    "raw": "New stranger. Not confident. Saying hello!",
+    "value": "陌生人。不自信。打招呼！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/fenerox/7",
+    "raw": "Unknown person. Furry. Look normal.",
+    "value": "陌生人，毛茸茸的，看起来很正常。"
+  }
+]

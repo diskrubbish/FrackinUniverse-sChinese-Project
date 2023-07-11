@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strong metallic support.",
+    "value": "异常坚固的金属支撑架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Reinforced Girder",
+    "value": "强化梁"
+  }
+]

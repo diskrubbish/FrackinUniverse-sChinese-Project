@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune^reset;: Proto-Poison, ^cyan;+7 Defense^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;免疫^reset;: 原毒, ^cyan;+7防御^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nakati Bark",
+    "value": "纳克蒂茎"
+  }
+]

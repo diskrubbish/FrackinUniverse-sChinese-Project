@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A set of boosters manufactured by SinCo.",
+    "value": "一种由新科公司（SinCo）制造的推进器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Control Boosters",
+    "value": "控制推进器"
+  }
+]

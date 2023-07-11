@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Peeled bark from large trees growing on penumbra planets.\n^green;Extractable^reset;.",
+    "value": "从生长在半影星上的大树上剥下的树皮。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbral Bark",
+    "value": "半影树皮"
+  }
+]

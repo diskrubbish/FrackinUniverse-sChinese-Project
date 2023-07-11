@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Made of enriched uranium.",
+    "value": "由浓缩铀锻造而成的斧头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Uranium Axe",
+    "value": "铀制斧"
+  }
+]

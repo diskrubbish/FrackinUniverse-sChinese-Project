@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A complete set of ^green;Boreal^white; themed furniture. ^green;A savings of 25%!^reset;",
+    "value": "一整套^green;北方^white;主题家具。^green;节省25%!^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Boreal Set Bundle",
+    "value": "北方家具捆绑包"
+  }
+]

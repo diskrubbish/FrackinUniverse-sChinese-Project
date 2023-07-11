@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy, fine, freezing metal.",
+    "value": "坚固，精细，质地冰冷。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Rapier",
+    "value": "高熔点刺剑"
+  }
+]

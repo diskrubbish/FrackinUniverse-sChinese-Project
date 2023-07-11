@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A step up from its lesser cousin.",
+    "value": "相比上代有微小的改进。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Laser II Mech Arm",
+    "value": "激光机甲臂 II"
+  }
+]

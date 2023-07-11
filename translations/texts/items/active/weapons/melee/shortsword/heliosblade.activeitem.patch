@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Morphite honed to dangerous perfection.",
+    "value": "幻影锭被锻造成了完美的致命武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Helios",
+    "value": "赫利俄斯"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A genetically enhanced banana. \n^cyan;+^white;10% ^cyan;Crit Chance ^gray;(^white;1m^gray;)^reset; ^green;Type: Fruit^reset;",
+    "value": "一个转基因香蕉。。\n^cyan;+^white;10% ^cyan;暴击几率^gray;(^white;1m^gray;)^reset;\n^green;类型：水果^reset;"
+  }
+]

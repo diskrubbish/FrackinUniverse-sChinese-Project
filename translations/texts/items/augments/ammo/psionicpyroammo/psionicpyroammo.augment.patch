@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Create flame from thought, and roast enemies.",
+    "value": "以想象制造火舌，炙烤敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyrokinesis Ammo",
+    "value": "燃烧弹药"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A battleaxe modeled after a legendary Glitch knight's axe. Said to cut densinium with ease.",
+    "value": "这柄战斧是根据传说中的电子人骑士的斧子改装而成的。据说可以轻松的切断超致密合金。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Master's Battleaxe",
+    "value": "宗师战斧"
+  }
+]

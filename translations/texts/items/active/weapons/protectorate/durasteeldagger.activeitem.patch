@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A finely-crafted dagger made of durasteel.",
+    "value": "一把做工精细的耐钢匕首。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Durasteel Dagger",
+    "value": "耐钢匕首"
+  }
+]

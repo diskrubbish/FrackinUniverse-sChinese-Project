@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Impossibly good fuel.\n^blue;+^white;3000 ^blue;Fuel^reset;",
+    "value": "不可思议的优质燃料。\n^blue;燃料+^white;3000^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Purrpetual Energy",
+    "value": "永恒能量"
+  }
+]

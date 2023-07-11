@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Superior weapon for superior murder. Design by Gezbo.",
+    "value": "用于精彩谋杀的超级武器。由Gezbo设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Densinium Mace",
+    "value": "超致密钉头锤"
+  }
+]

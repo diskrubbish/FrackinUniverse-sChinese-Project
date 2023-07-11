@@ -1,0 +1,110 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Analyzes the composition of nearby minerals. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "分析附近的矿物成分。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Multi-ore Detector",
+    "value": "复合矿物探测器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Analyzes the composition of nearby minerals. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "分析附近的矿物成分。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Multi-ore Detector MKII ^cyan;^reset;",
+    "value": "复合矿物探测器 MKII ^cyan;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "Analyzes the composition of nearby minerals. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "分析附近的矿物成分。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "Multi-ore Detector MKIII ^yellow;^reset;",
+    "value": "复合矿物探测器 MKIII ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/description",
+    "raw": "Analyzes the composition of nearby minerals. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "分析附近的矿物成分。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/shortdescription",
+    "raw": "Multi-ore Detector MKIV ^yellow;^reset;",
+    "value": "复合矿物探测器 MKIV ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters4/description",
+    "raw": "Analyzes the composition of nearby minerals. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "分析附近的矿物成分。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters4/shortdescription",
+    "raw": "Multi-ore Detector MKV ^cyan;^reset;",
+    "value": "复合矿物探测器 MKV ^cyan;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters5/description",
+    "raw": "Analyzes the composition of nearby minerals. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "分析附近的矿物成分。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters5/shortdescription",
+    "raw": "Multi-ore Detector MKVI ^red;^reset;",
+    "value": "复合矿物探测器 MKVI ^red;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters6/description",
+    "raw": "Analyzes the composition of nearby minerals. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "分析附近的矿物成分。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters6/shortdescription",
+    "raw": "Multi-ore Detector MKVII ^red;^reset;",
+    "value": "复合矿物探测器 MKVII ^red;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters7/description",
+    "raw": "Analyzes the composition of nearby minerals. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "分析附近的矿物成分。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters7/shortdescription",
+    "raw": "Multi-ore Detector MKVIII ^#e43774;^reset;",
+    "value": "复合矿物探测器 MKVIII ^#e43774;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters8/description",
+    "raw": "Analyzes the composition of nearby minerals. ^green;Fully Upgraded^reset;.",
+    "value": "分析附近的矿物成分。\n^green;已完全升级^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters8/shortdescription",
+    "raw": "Multi-ore Detector MKIX ^#e43774;^reset;",
+    "value": "复合矿物探测器 MKIX ^#e43774;^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ore Mason Young Queen",
+    "value": "幼年的矿匠蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Ore Mason Queen",
+    "value": "幼年矿匠蜂后"
+  }
+]

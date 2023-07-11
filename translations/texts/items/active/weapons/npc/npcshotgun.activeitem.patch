@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires a spread that's lethal at close and mid range.",
+    "value": "这把武器在近距离时的使用效果最好。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NPC Shotgun",
+    "value": "NPC的霰弹枪"
+  }
+]

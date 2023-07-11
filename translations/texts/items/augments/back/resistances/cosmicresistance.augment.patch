@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that resists the Cosmic element, ^green;+30% Cosmic Resist^reset; and ^cyan; Aether Immunity^reset;.",
+    "value": "一个能够抵抗射线元素的EPP模块。\n^cyan;+30%射线抗性^reset;%且^cyan;免疫以太^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Barrier",
+    "value": "EPP模块（射线屏障）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Cosmic Barrier",
+    "value": "EPP模块（射线屏障）"
+  }
+]

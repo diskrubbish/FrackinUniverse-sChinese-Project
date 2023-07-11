@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of warding symbol.",
+    "value": "某种具有守护能力的徽记。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Elder Sign^reset;",
+    "value": "^#ffe50e;远古徽记^reset;"
+  }
+]

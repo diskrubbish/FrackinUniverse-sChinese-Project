@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Craft into bombs, or extract for iron.\n^yellow;^reset;^red;Poisons^reset;: 5s",
+    "value": "可制成炸弹，或提取铁。\n^yellow;^reset;^red;中毒^reset;: 5s"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nailery",
+    "value": "射钉草"
+  }
+]

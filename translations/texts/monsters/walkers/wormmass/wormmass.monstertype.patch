@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Putrid Worm",
+    "value": "腐臭蠕虫"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A repulsive, gore-spewing worm.",
+    "value": "一种令人厌恶而布满淤血的蠕虫。"
+  }
+]

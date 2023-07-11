@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An ancient Avian weapon that fires chargeable blasts of energy.",
+    "value": "一种古老的翼族武器，能发射可蓄力的能量冲击波。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Charge Beam",
+    "value": "充能光束"
+  }
+]

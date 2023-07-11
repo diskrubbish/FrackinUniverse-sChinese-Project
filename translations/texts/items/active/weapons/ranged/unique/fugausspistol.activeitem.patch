@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Brutally effective magnet-based weaponry.\n^yellow;Area damage^reset;\n^yellow;Hunting weapon^reset;",
+    "value": "极其有效的磁性武器\n^yellow;范围伤害^reset;\n^yellow;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gauss Pistol",
+    "value": "高斯手枪"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Overclocked capacitors take Gaussian mechanics to the extreme.\n^yellow;Area damage^reset;\n^yellow;Hunting weapon^reset;",
+    "value": "采用了极端高斯力学的超频电容器。n^yellow;范围伤害^reset;\n^yellow;狩猎武器^reset;"
+  }
+]

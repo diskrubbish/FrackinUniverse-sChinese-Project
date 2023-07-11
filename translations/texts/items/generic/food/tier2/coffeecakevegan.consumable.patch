@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A moist vegan cake enriched with coffee. Like the original, but for ^green;herbivores^reset;. ^green;Type: Vegetable Dessert^reset;",
+    "value": "湿润的含咖啡素食蛋糕。让^green;素食^reset;生物也能品尝蛋糕的美味。\n^green;类型: 蔬菜甜食^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vegan Coffee Cake",
+    "value": "素食咖啡蛋糕"
+  }
+]

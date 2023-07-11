@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Perfect Balance",
+    "value": "完美平衡"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Seems to be a hint of some sort.",
+    "value": "这似乎是某种暗示。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "Some moons will fall,\n  answering the Call.\nBalance their mass;\n  by twos shalt thou pass.",
+    "value": "群月坠落，\n  回应召唤。\n平衡质量；\n  触发其二，方可通过。"
+  }
+]

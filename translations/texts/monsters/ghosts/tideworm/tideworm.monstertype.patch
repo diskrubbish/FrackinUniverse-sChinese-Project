@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tidal Worm",
+    "value": "潮汐蠕虫"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Riding waves of pure energy, it can make quick work out of any unsuspecting adventurer.",
+    "value": "乘着纯能量的浪潮，它可以让任何毫无戒心的冒险者加快步伐。"
+  }
+]

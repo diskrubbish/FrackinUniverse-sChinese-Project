@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "raw": "ARMORY",
+    "value": "军械制作台"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "raw": "Create deadly weapons & armor.",
+    "value": "制作强力武器 & 护甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "raw": "Assemble",
+    "value": "制作"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnStopCraft/caption",
+    "raw": "Stop",
+    "value": "停止"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/tbSpinCount/regex",
+    "raw": "x?\\d{0,4}",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProduct/value",
+    "raw": "MATERIALS AVAILABLE",
+    "value": "可用材料"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/filter/hint",
+    "raw": "Search",
+    "value": "搜索"
+  }
+]

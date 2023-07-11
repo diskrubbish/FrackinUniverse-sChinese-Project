@@ -1,0 +1,98 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I'll give you a boost whenever we're on the ship!",
+    "value": "当我在船上时，我可以帮到你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "raw": "Floran will give you boostsss when we are on ship!",
+    "value": "当我在船上时，叶族人会给你相应应应的能力提升。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "raw": "Friendly. I'll give you a boost whenever we're on the ship!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "Let me give you a boost real quick!",
+    "value": "让我来给你感受一下，什么才是真正的快！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "raw": "Let me help you out!",
+    "value": "让我来帮你吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+    "raw": "Looks like you could use my assistance!",
+    "value": "看上去你需要我的帮忙！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+    "raw": "I can help!",
+    "value": "我会帮上忙的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
+    "raw": "Floran hasss things to help you out!",
+    "value": "叶族人绝对能帮帮帮得上忙！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1",
+    "raw": "Floran can help out!",
+    "value": "叶族人可以帮你渡渡渡过难关！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
+    "raw": "Floran hasss things to help!",
+    "value": "叶族人有些东西西西能帮到你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+    "raw": "Eager. I can help you out!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
+    "raw": "Excited. Perhaps you could do with a power-up!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
+    "raw": "Intrigued. I wonder if this will help you?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
+    "raw": "Helpful. Take this, it will help!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Scientist",
+    "value": "毒品学家 "
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Biochemistry",
+    "value": "生物学家"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proto Gravel",
+    "value": "原体砾石"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strangely-colored gravel.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "颜色奇怪的砾石。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  }
+]

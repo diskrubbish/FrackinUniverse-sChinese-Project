@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Bee",
+    "value": "长寿蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Despite what the name suggests, Elder Bees don't live very long.",
+    "value": "在蜜蜂中活得够久，但寿命跟其他动物比起来并不算长。"
+  }
+]

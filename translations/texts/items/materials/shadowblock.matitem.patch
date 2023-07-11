@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rock as pitch black as shadow.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "如暗影笼罩般的石头。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  }
+]

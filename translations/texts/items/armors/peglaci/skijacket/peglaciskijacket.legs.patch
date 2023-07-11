@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tight, cozy trousers favored by Peglaci laborers.",
+    "value": "羊蹄族工人们喜欢的紧身舒适的裤子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tundra Pants",
+    "value": "苔原裤子"
+  }
+]

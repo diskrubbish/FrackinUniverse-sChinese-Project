@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This keen edge is laced with shadow power.\n^cyan;Universal Damage^reset;",
+    "value": "这锐利的锋芒与影子的力量交织在一起。\n^cyan;通用伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbral Shortsword",
+    "value": "半影短剑"
+  }
+]

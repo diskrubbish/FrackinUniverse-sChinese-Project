@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Various fruits all conveniently mixed together. ^green;Type: Fruits^reset;",
+    "value": "各种水果随意地混合在一起。\n^green;类型：水果^reset;"
+  }
+]

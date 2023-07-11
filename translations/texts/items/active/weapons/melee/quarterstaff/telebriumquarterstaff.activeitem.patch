@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Light as a penny, dangerous as...dangerous things.",
+    "value": "轻如便士，险如...危险的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Quarterstaff",
+    "value": "月海长棍"
+  }
+]

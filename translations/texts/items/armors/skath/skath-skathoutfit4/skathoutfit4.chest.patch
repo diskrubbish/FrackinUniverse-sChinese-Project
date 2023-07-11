@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A light breathable top suitable for working out. No pain, no gain, right?",
+    "value": "轻便透气的上衣，适合锻炼。没有付出就没有收获，对吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sleeveless Top",
+    "value": "绘世者无袖上衣"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Supremely devastating.",
+    "value": "极具毁灭性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pulsar Grenade Arm",
+    "value": "脉冲星榴弹臂"
+  }
+]

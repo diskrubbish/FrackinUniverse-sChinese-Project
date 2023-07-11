@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "High energy concentrations can be found in these cells.",
+    "value": "在这些基因上发现了高能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Energy Stores",
+    "value": "能量储存基因"
+  }
+]

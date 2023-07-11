@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cosmic energy flows through it.",
+    "value": "它的内部流动着宇宙的能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Boomerang",
+    "value": "赛德瑞瑟回旋镖"
+  }
+]

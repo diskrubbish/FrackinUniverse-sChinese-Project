@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dangerously purrfect pistol.\n^yellow;Counts as 'electric' for set bonuses^reset;",
+    "value": "一种危险的完美手枪。\n^yellow;电系武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vel'uuish Recoiler",
+    "value": "灵猫卷取机"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "A dangerously purrfect pistol.",
+    "value": "一种危险的完美手枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Veluuish Recoiler II^reset; ^yellow;^reset;",
+    "value": "^cyan;灵猫卷取机 II^reset; ^yellow;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "A dangerously purrfect pistol.",
+    "value": "一种危险的完美手枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "^cyan;Veluuish Recoiler III^reset; ^yellow;^reset;",
+    "value": "^cyan;灵猫卷取机 III^reset; ^yellow;"
+  }
+]

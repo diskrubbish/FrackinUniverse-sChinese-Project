@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A comb that is said to be infused with mystical healing energy.",
+    "value": "一种据说具有神秘疗效能量的蜂巢。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stellar Honeycomb",
+    "value": "恒星蜂巢"
+  }
+]

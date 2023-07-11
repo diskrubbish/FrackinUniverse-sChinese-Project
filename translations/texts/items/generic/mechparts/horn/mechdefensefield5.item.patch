@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Increases Mech Armor.",
+    "value": "增强机甲装甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Defense Field V",
+    "value": "防御领域 V"
+  }
+]

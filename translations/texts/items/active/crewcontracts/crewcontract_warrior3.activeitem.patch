@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a hardened general to fight at your side.",
+    "value": "雇用一名坚毅的战士长，与你并肩作战。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "General Contract",
+    "value": "合同：战士 III"
+  }
+]

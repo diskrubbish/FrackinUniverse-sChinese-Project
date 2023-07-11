@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A complete set of ^green;Modern^white; themed furniture. ^green;A savings of 25%!^reset;",
+    "value": "一套完整的^green;现代^white;主题家具。^green;原价打75折！^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Modern Set Bundle",
+    "value": "现代合集"
+  }
+]

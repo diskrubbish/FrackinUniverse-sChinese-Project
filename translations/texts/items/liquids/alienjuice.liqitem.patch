@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasmic Fluid",
+    "value": "血原液"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A measure of an unusual plasmic fluid.\n^yellow;Centrifugable^reset;.",
+    "value": "一定量的不寻常的血原液。\n^yellow;可离心^reset;。"
+  }
+]

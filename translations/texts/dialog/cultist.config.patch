@@ -1,0 +1,1682 @@
+[
+  {
+    "op": "replace",
+    "path": "/attack/human/cat/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/cat/1",
+    "raw": "We are the Occasus! You can't stop us, cat!",
+    "value": "我们是使者！你阻止不了我们，凯特！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/cat/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/cat/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/cat/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/cat/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/cat/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/cat/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/cat/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/cat/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/cat/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/cat/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/cat/12",
+    "raw": "I'll turn you into a fur coat!",
+    "value": "我要把你变成一件皮大衣！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/cat/13",
+    "raw": "Your psychic powers are an abomination to the universe!",
+    "value": "你的精神力量是宇宙所憎恶的！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/elduukhar/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/elduukhar/1",
+    "raw": "We are the Occasus! You can't stop us, dragon!",
+    "value": "我们是使者！你阻止不了我们，巨龙！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/elduukhar/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/elduukhar/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/elduukhar/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/elduukhar/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/elduukhar/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/elduukhar/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/elduukhar/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/elduukhar/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/elduukhar/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/elduukhar/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/elduukhar/12",
+    "raw": "We shall slay your kind!",
+    "value": "我们要杀死你们这种人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/elduukhar/13",
+    "raw": "We'd be better off without dragons around!",
+    "value": "没有龙我们会过得更好！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fenerox/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fenerox/1",
+    "raw": "We are the Occasus! You can't stop us, fox!",
+    "value": "我们是使者！你阻止不了我们的，狐狸！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fenerox/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fenerox/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fenerox/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fenerox/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fenerox/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fenerox/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fenerox/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fenerox/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fenerox/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fenerox/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fenerox/12",
+    "raw": "Go back to the savannahs you came from, savage!",
+    "value": "滚回你的老家去吧，野蛮人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fenerox/13",
+    "raw": "We don't need you primitives in our universe!",
+    "value": "我们的宇宙不需要你们这些原始人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuanodyne/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuanodyne/1",
+    "raw": "We are the Occasus! Whatever you are, you will not stop us!",
+    "value": "我们是使者！不管你是什么，你都不能阻止我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuanodyne/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuanodyne/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuanodyne/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuanodyne/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuanodyne/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuanodyne/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuanodyne/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuanodyne/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuanodyne/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuanodyne/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuanodyne/12",
+    "raw": "Go back to whatever nebula you floated out of!",
+    "value": "滚回你飘出的星云去吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuanodyne/13",
+    "raw": "The universe doesn't need gas bags!",
+    "value": "宇宙不需要气囊！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fudarkizku/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fudarkizku/1",
+    "raw": "We are the Occasus! You shall not stop us, abomination!",
+    "value": "我们是使者！你不能阻止我们，可恶的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fudarkizku/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fudarkizku/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fudarkizku/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fudarkizku/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fudarkizku/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fudarkizku/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fudarkizku/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fudarkizku/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fudarkizku/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fudarkizku/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fudarkizku/12",
+    "raw": "Begone, abomination!",
+    "value": "滚开，可恶的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fudarkizku/13",
+    "raw": "We shall purge the universe of your abominable kind!",
+    "value": "我们要把你们这些可恶的家伙从宇宙中清除！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuizku/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuizku/1",
+    "raw": "We are the Occasus! You shall not stop us!",
+    "value": "我们是使者！你不能阻止我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuizku/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuizku/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuizku/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuizku/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuizku/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuizku/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuizku/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuizku/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuizku/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuizku/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuizku/12",
+    "raw": "Your luck has run out!",
+    "value": "你的运气用完了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuizku/13",
+    "raw": "You should have quit while you were ahead!",
+    "value": "你应该在领先的时候就放弃！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fukirhos/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fukirhos/1",
+    "raw": "We are the Occasus! You can't stop us, rat!",
+    "value": "我们是使者！你阻止不了我们，老鼠！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fukirhos/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fukirhos/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fukirhos/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fukirhos/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fukirhos/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fukirhos/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fukirhos/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fukirhos/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fukirhos/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fukirhos/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fukirhos/12",
+    "raw": "We shall purge your money-grubbing ways from the universe!",
+    "value": "我们将把你们这些贪财的家伙从宇宙中清除！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fukirhos/13",
+    "raw": "Crawl back to your pile of garbage!",
+    "value": "滚回你的垃圾堆去！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantis/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantis/1",
+    "raw": "We are the Occasus! You can't stop us, bug!",
+    "value": "我们是使者！你阻止不了我们，臭虫！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantis/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantis/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantis/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantis/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantis/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantis/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantis/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantis/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantis/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantis/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantis/12",
+    "raw": "We shall squash you like the insects you are!",
+    "value": "我们要把你们像昆虫一样碾碎！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantis/13",
+    "raw": "The universe would be better off without you bugs!",
+    "value": "没有你们这些虫子，宇宙会变得更好！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantizi/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantizi/1",
+    "raw": "We are the Occasus! You can't stop us, bug!",
+    "value": "我们是使者！你阻止不了我们，臭虫！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantizi/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantizi/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantizi/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantizi/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantizi/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantizi/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantizi/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantizi/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantizi/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantizi/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantizi/12",
+    "raw": "We shall squash you like the insects you are!",
+    "value": "我们要把你们像昆虫一样碾碎！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fumantizi/13",
+    "raw": "The universe would be better off without you bugs!",
+    "value": "没有你们这些虫子，宇宙会变得更好！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fupeglaci/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fupeglaci/1",
+    "raw": "We are the Occasus! You can't stop us, goat!",
+    "value": "我们是使者！你阻止不了我们，山羊！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fupeglaci/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fupeglaci/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fupeglaci/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fupeglaci/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fupeglaci/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fupeglaci/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fupeglaci/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fupeglaci/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fupeglaci/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fupeglaci/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fupeglaci/12",
+    "raw": "Go back to the tundra you came from!",
+    "value": "回到你来的苔原上去！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fupeglaci/13",
+    "raw": "Soon, we shall rid the universe of Peglaci!",
+    "value": "很快，我们就能把宇宙中的企鹅消灭掉！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuslimeperson/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuslimeperson/1",
+    "raw": "We are the Occasus! You can't stop us, slime!",
+    "value": "我们是使者！你阻止不了我们，史莱姆！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuslimeperson/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuslimeperson/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuslimeperson/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuslimeperson/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuslimeperson/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuslimeperson/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuslimeperson/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuslimeperson/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuslimeperson/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuslimeperson/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuslimeperson/12",
+    "raw": "Your mockery of the human form will be your undoing!",
+    "value": "你们对人类形体的嘲弄将成为你们的毁灭！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/fuslimeperson/13",
+    "raw": "Your disgusting bodies will no longer foul the universe!",
+    "value": "你们恶心的身体将不再污染宇宙！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/nightar/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/nightar/1",
+    "raw": "We are the Occasus! You can't stop us, demon!",
+    "value": "我们是使者！你阻止不了我们，恶魔！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/nightar/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/nightar/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/nightar/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/nightar/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/nightar/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/nightar/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/nightar/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/nightar/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/nightar/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/nightar/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/nightar/12",
+    "raw": "Crawl back to the shadows you spawned from, foul beast!",
+    "value": "爬回你出生的阴影里去，肮脏的野兽！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/nightar/13",
+    "raw": "We are the light and we will banish your kind back to the shadows!",
+    "value": "我们是光明，我们将把你们驱逐回阴影之中！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/precursor/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/precursor/1",
+    "raw": "We are the Occasus! You can't stop us, abomination!",
+    "value": "我们是使者！你阻止不了我们，可恶！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/precursor/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/precursor/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/precursor/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/precursor/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/precursor/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/precursor/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/precursor/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/precursor/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/precursor/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/precursor/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/precursor/12",
+    "raw": "The age of the Precursors is over!",
+    "value": "先驱者的时代已经结束了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/precursor/13",
+    "raw": "Die like the rest of your kind!",
+    "value": "像你们其他同类一样去死吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/radien/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/radien/1",
+    "raw": "We are the Occasus! You can't stop us, plant!",
+    "value": "我们是使者！你阻止不了我们，植物！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/radien/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/radien/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/radien/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/radien/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/radien/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/radien/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/radien/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/radien/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/radien/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/radien/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/radien/12",
+    "raw": "We shall bury you like the radioactive waste you are!",
+    "value": "我们要像埋葬放射性废物一样埋葬你们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/radien/13",
+    "raw": "I'll kill you and then use your carcass to fuel my ship!",
+    "value": "我要杀了你，然后用你的尸体给我的船加油！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/shadow/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/shadow/1",
+    "raw": "We are the Occasus! You can't stop us, abomination!",
+    "value": "我们是使者！你阻止不了我们，可恶！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/shadow/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/shadow/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/shadow/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/shadow/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/shadow/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/shadow/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/shadow/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/shadow/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/shadow/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/shadow/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/shadow/12",
+    "raw": "Crawl back to the shadows you spawned from, foul beast!",
+    "value": "爬回你出生的阴影里去，肮脏的野兽！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/shadow/13",
+    "raw": "We are the light and we will banish your kind back to the shadows!",
+    "value": "我们是光明，我们将把你们驱逐回阴影之中！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimenpc/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimenpc/1",
+    "raw": "We are the Occasus! You can't stop us, slime!",
+    "value": "我们是使者！你阻止不了我们，史莱姆！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimenpc/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimenpc/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimenpc/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimenpc/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimenpc/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimenpc/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimenpc/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimenpc/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimenpc/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimenpc/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimenpc/12",
+    "raw": "Your mockery of the human form will be your undoing!",
+    "value": "你们对人类形体的嘲弄将成为你们的毁灭！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimenpc/13",
+    "raw": "Your disgusting bodies will no longer foul the universe!",
+    "value": "你们恶心的身体将不再污染宇宙！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimeperson/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimeperson/1",
+    "raw": "We are the Occasus! You can't stop us, slime!",
+    "value": "我们是使者！你阻止不了我们，史莱姆！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimeperson/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimeperson/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimeperson/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimeperson/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimeperson/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimeperson/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimeperson/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimeperson/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimeperson/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimeperson/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimeperson/12",
+    "raw": "Your mockery of the human form will be your undoing!",
+    "value": "你们对人类形体的嘲弄将成为你们的毁灭！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/slimeperson/13",
+    "raw": "Your disgusting bodies will no longer foul the universe!",
+    "value": "你们恶心的身体将不再污染宇宙！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/spiderdroid/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/spiderdroid/1",
+    "raw": "We are the Occasus! You can't stop us, robot!",
+    "value": "我们是使者！你阻止不了我们，机器人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/spiderdroid/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/spiderdroid/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/spiderdroid/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/spiderdroid/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/spiderdroid/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/spiderdroid/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/spiderdroid/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/spiderdroid/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/spiderdroid/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/spiderdroid/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/spiderdroid/12",
+    "raw": "You're not even alive, robot!",
+    "value": "你根本就不是活人，机器人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/spiderdroid/13",
+    "raw": "I'll send you to the scrap heap, robot!",
+    "value": "我要把你扔进垃圾堆，机器人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/thelusian/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/thelusian/1",
+    "raw": "We are the Occasus! You can't stop us, bug!",
+    "value": "我们是使者！你阻止不了我们，臭虫！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/thelusian/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/thelusian/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/thelusian/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/thelusian/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/thelusian/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/thelusian/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/thelusian/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/thelusian/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/thelusian/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/thelusian/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/thelusian/12",
+    "raw": "We shall squash you like the insects you are!",
+    "value": "我们要把你们像昆虫一样碾碎！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/thelusian/13",
+    "raw": "The universe would be better off without you bugs!",
+    "value": "没有你们这些虫子，宇宙会变得更好！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/veluu/0",
+    "raw": "This just isn't your day!",
+    "value": "今天不是属于你的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/veluu/1",
+    "raw": "We are the Occasus! You can't stop us, cat!",
+    "value": "我们是使者！你阻止不了我们，凯特！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/veluu/2",
+    "raw": "Don't think you can get away, nonbeliever!",
+    "value": "不要以为你能逃脱，没有信仰的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/veluu/3",
+    "raw": "If you aren't with us, then you're against us!",
+    "value": "如果你不支持我们，那你就是在反对我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/veluu/4",
+    "raw": "Are you here to stop us? It doesn't matter anyway!",
+    "value": "你是来阻止我们的吗？反正也没关系！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/veluu/5",
+    "raw": "You can't stop us! Don't even try!",
+    "value": "你阻止不了我们! 想都别想！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/veluu/6",
+    "raw": "You shouldn't have come here!",
+    "value": "你不该来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/veluu/7",
+    "raw": "You picked a bad time to come here!",
+    "value": "你来得真不是时候！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/veluu/8",
+    "raw": "A nonbeliever approaches!",
+    "value": "一个无信仰之人来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/veluu/9",
+    "raw": "If I kill you, Nox might promote me!",
+    "value": "如果我杀了你，诺克斯可能会提升我！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/veluu/10",
+    "raw": "You shall not stop our plans!",
+    "value": "你不能阻止我们的计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/veluu/11",
+    "raw": "You won't leave this place!",
+    "value": "你不能离开这个地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/veluu/12",
+    "raw": "We are not fooled by your guiles, cat. And you shall die for attempting to fool us!",
+    "value": "我们不会被你的罪过所愚弄，猫咪。你要是想愚弄我们，你就死定了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/human/veluu/13",
+    "raw": "The universe doesn't need weird cats around!",
+    "value": "宇宙不需要奇怪的猫！"
+  }
+]

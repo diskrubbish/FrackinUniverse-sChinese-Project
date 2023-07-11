@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "For when you need to lob grenades the extra distance using just one hand.",
+    "value": "单手使用的榴弹发射器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NPC Handheld Grenade Launcher",
+    "value": "NPC的榴弹发射器"
+  }
+]

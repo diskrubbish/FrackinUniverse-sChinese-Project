@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Legendary death-dealer.\n^cyan;Eradicating Alt-Fire^reset;",
+    "value": "传奇的致死武器。\n^yellow;湮灭性的次要攻击^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Scythe",
+    "value": "阳清镰刀"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Venomous be thy tongue.",
+    "value": "汝舌甚毒。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Aetherium Starslasher",
+    "value": "阳清裂星者"
+  }
+]

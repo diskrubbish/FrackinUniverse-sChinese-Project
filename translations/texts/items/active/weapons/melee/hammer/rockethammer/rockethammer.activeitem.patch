@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Massive, ancient hammer.\n^cyan;Huge impact damage^reset;\n^yellow;Rocket-propelled!^reset;",
+    "value": "这把巨大的武器源于古代！\n^yellow;巨大的冲击伤害^reset;\n^yellow;由火箭推动^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Omega Hammer",
+    "value": "终结之锤"
+  }
+]

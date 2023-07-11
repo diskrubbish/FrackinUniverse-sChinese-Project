@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neutron Bomb",
+    "value": "中子弹"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "20 second fuse. Planet-busting power. Run. ^red;DO NOT THROW IN BASE, EVER^reset;.",
+    "value": "20S的导火线。足以毁灭星球的力量。快跑！\n^red;不要把它投放到基地里，永远都不^reset;"
+  }
+]

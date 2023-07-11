@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
+    "raw": "You saved me! I thought I was done for when that thing captured me. Are you looking for any crew? I don't think my job with Letheia exists anymore...",
+    "value": "你救了我！ 我以为那东西抓住我的时候，我就已经翘脚了。你在寻找工人吗？ 我认为我在莱西亚工资的工作已经泡汤了..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "Let me know when you want to head out, Captain! I'm not much of a fighter, but there aren't many better than me at mining!",
+    "value": "让我知道您什么时候想出发，队长！ 虽然我不是战士，但是在采矿方面没有比我更厉害的了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "Safety first, Captain!",
+    "value": "安全第一，队长！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+    "raw": "What just happened?",
+    "value": "刚才发生了什么事？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/attack/default/default/0",
+    "raw": "Let's teach these things a lesson!",
+    "value": "给他们上一课！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/returnFromCombat/default/default/0",
+    "raw": "Phew, good work sir.",
+    "value": "呼，先生，辛苦了"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
+    "raw": "Yes, sir!",
+    "value": "收到，队长！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+    "raw": "Got it, Captain. I'll wait here till you come back.",
+    "value": "知道了，队长。我会在这里等你回来。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+    "raw": "Hey, I can't reach you! It's dangerous to split up!",
+    "value": "嘿，我追不上你！分开很危险！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Lunar Miner",
+    "value": "月晶矿工"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Mining",
+    "value": "采掘"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Damage x1.15^reset;, ^cyan;Health x1.25^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;伤害x1.15^reset;, ^cyan;最大HPx1.25^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Porphis Blossom",
+    "value": "态射草"
+  }
+]

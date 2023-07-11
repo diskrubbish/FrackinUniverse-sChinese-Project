@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A material used as a catalyst to refine mech fuel.",
+    "value": "一种用作精炼机械燃料的催化剂的材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fuel Catalyst",
+    "value": "燃料催化剂"
+  }
+]

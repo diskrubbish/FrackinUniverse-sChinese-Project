@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides an extra layer of protection via kinetic dampener, and has an advanced targeting HUD.\n\n+^green;5^reset;% Crit Chance\n+^cyan;15^reset;% Defense Tech protection",
+    "value": "通过动力阻尼器提供额外的保护层。此外，内置的瞄准HUD将增加暴击几率。\n^cyan;暴击几率+5^reset;%\n+^cyan;15^reset;%防御科技效率"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Enforcer Battle Helm",
+    "value": "执法者战盔"
+  }
+]

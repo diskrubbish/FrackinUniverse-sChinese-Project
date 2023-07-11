@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "raw": "You shouldn't be seeing this.",
+    "value": "你不该看这玩意儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "raw": "We're acting as the support team for Tavish.",
+    "value": "我们是塔维什的后勤部队。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/1",
+    "raw": "We'd have gone out with Tavish, but too big a group would that close to the facility would attract the Miniknog's attention.",
+    "value": "我们会和塔维什一起出去，不过人太多或许会被科技发展部发现。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/2",
+    "raw": "This place stinks. I want to be off this rock as soon as possible.",
+    "value": "这地方真臭，我想快点离开这儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/3",
+    "raw": "Why would the Miniknog have a facility here anyway? If I were them, I'd pick a nice planet to set up shop, not this!",
+    "value": "为什么米诺克尼格的猴儿在这里造了这样的建筑？如果我是他们，我就会在这美丽的星球上好好地开个店子，而不是造这些毫无美感的玩意儿！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/4",
+    "raw": "I hate poison.",
+    "value": "我讨厌毒素。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/5",
+    "raw": "Tavish 'the mad bomber' DeGroot... he'll find a way to blow it up.",
+    "value": "这是‘疯狂轰炸机’，它可以帮你找出进入的方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/6",
+    "raw": "Careful out there. There are some nasty bugs in the woods.",
+    "value": "小心点，林子里有一些讨厌的虫子。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/7",
+    "raw": "Don't forget to load up before you go. We don't have much, but feel free to take anything you might need.",
+    "value": "别忘了在你离开之前收集一些必需品，虽说我们没有太多可以提供给你的装备，但只要你需要，我们就会给你。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/8",
+    "raw": "The Miniknog has outposts in the woods. Watch out for them!",
+    "value": "科技发展部在树林里安排了暗哨，小心点！"
+  }
+]

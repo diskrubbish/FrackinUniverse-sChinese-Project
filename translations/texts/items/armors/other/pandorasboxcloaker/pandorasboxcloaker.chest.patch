@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chestpiece that hides chestwear.",
+    "value": "一件隐藏了胸部装备的胸甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chestpiece Cloaker",
+    "value": "隐形胸甲"
+  }
+]

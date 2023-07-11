@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A red, sticky platform.",
+    "value": "一个红色的，黏黏的平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Red Honey Platform",
+    "value": "红色蜂蜜平台"
+  }
+]

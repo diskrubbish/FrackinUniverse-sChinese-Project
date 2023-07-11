@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ultra techy stairs\n^green;Extractable^reset;.",
+    "value": "使用终极科技制造的楼梯。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Platform",
+    "value": "先驱平台"
+  }
+]

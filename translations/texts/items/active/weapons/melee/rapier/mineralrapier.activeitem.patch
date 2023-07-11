@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Harnessing science helps kill things! yay!\n^cyan;counts as Energy for set bonuses^reset;",
+    "value": "科学助你消灭敌人！呀啊啊！\n^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Particle Rapier",
+    "value": "粒子刺剑"
+  }
+]

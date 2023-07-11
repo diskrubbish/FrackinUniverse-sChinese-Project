@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A simple blade crafted with crystal and metal.",
+    "value": "一把由水晶和金属制成的简单的刀刃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Feya Shortsword",
+    "value": "菲亚短剑"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "If there is beauty in destruction, why not also in its delivery?\n  ^yellow;Wow.^reset;",
+    "value": "如果毁灭中存在着美，那么它的传播也会是美的吧。\n^yellow;哇哦^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffbe32;Gjallarhorn^reset;",
+    "value": "^#ffbe32;加拉尔号角^reset;"
+  }
+]

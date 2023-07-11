@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that slowly regenerates living cells, providing ^green;1.11^reset;% HP/s.",
+    "value": "一个能够缓慢地再生体内细胞的EPP模块，提供^green;1.11^reset;% HP/s的再生效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Regeneration III",
+    "value": "EPP模块（再生 III）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Regeneration III",
+    "value": "EPP模块（再生 III）"
+  }
+]

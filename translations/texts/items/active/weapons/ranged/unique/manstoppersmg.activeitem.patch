@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Styled after the classics but updated with smart ammo.\n^cyan;Homing bullets^reset;",
+    "value": "这把枪虽然外形经典，但使用的却是最新型的弹药。\n^yellow;追踪弹^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "BK12 Manstopper",
+    "value": "BK12 左轮手枪"
+  }
+]

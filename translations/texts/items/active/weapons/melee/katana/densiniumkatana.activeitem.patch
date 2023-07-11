@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Plasma-laced goodness.\n^yellow;8 hit combo^reset;",
+    "value": "掺加了等离子体的神兵利器。\n^yellow;8连斩^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Densinium Katana",
+    "value": "超致密武士刀"
+  }
+]

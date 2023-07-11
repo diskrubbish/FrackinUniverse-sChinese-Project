@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hover Tile",
+    "value": "悬浮砖块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Equipped with basic anti-grav tech.",
+    "value": "配备有基础的反重力的科技。"
+  }
+]

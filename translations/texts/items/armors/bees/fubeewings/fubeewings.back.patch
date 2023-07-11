@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pair of giant bee wings. Increases air agility, reduces fall speed.",
+    "value": "一对巨大的蜜蜂翅膀。增加空中敏捷性，降低掉落速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bee Wings",
+    "value": "蜜蜂翅膀"
+  }
+]

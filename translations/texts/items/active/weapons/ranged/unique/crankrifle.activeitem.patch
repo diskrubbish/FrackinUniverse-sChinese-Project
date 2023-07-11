@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Penetrating rounds cause devastating wounds.\n^yellow;Inflicts bleeding^reset;",
+    "value": "穿透性子弹，将撕开毁灭性的创伤。\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Puncturer",
+    "value": "穿孔器"
+  }
+]

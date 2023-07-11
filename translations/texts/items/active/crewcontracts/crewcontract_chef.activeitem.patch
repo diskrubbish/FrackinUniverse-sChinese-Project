@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires an apprentice chef to keep you slightly fed and reduce fuel costs by 2%.",
+    "value": "雇用一名厨师，他能让你保持饱腹状态，并且降低2％的飞船燃料消耗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chef Contract",
+    "value": "合同：厨师"
+  }
+]

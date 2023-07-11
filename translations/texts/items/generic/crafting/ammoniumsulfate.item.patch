@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sulfur-rich inorganic salt.",
+    "value": "一种富含硫的无机盐。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ammonium Sulfate",
+    "value": "硫酸铵"
+  }
+]

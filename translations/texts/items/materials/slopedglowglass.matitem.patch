@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I can see my reflection... it's hideous!",
+    "value": "我可以看到我的倒影...真有意思！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloped Glow-Glass Block",
+    "value": "倾斜的发光玻璃块"
+  }
+]

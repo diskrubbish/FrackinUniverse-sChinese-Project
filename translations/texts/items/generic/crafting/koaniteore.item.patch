@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An ore that can be used to produce phosphorus via extraction.",
+    "value": "一种经过萃取后能够生产磷的矿石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Koanite",
+    "value": "心印石"
+  }
+]

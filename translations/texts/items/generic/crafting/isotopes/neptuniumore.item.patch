@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Commonly used in weapons development\n^blue;+^white;4 ^blue;Fuel^reset;",
+    "value": "通常用在武器开发上。\n^blue;燃料+^white;4^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neptunium Ore",
+    "value": "镎矿"
+  }
+]

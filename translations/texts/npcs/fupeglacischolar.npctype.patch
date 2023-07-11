@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/default/default/0",
+    "raw": "Do keep your voice down, would you? I'm trying to read.",
+    "value": "小声点，好吗？我在努力阅读。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/default/default/1",
+    "raw": "I hope you're planning to return those books.",
+    "value": "我希望你打算把那些书还回去。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/default/default/2",
+    "raw": "Welcome to the library. Stay and read a while, if you'd like.",
+    "value": "欢迎来到图书馆。如果你愿意的话，可以留下来看一会儿书。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/default/default/3",
+    "raw": "Such a wealth of knowledge to be found in books, whether physical or digital. Don't you agree?",
+    "value": "如此丰富的知识，无论是实体书还是数字书，都能在书中找到。你不同意吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/hylotl/default/0",
+    "raw": "I'm here reading up on these Wanderers the Peglaci's history speaks of. Could they be real?",
+    "value": "我在这里读到了羊蹄族历史上所说的这些漫游者的资料。他们是真的吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/hylotl/default/1",
+    "raw": "The Wanderers... How could an entire race just...vanish? I find it hard to believe, if I'm being honest.",
+    "value": "漫游者... 整个种族怎么可能就这样... 消失了？我觉得很难相信,诚然。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "raw": "Do keep your voice down, would you? I'm trying to read.",
+    "value": "小声点，好吗？我在努力阅读。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "raw": "I hope you're planning to return those books.",
+    "value": "我希望你打算把那些书还回去。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "raw": "Welcome to the library. Stay and read a while, if you'd like.",
+    "value": "欢迎来到图书馆。如果你愿意的话，可以留下来看一会儿书。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "raw": "Such a wealth of knowledge to be found in books, whether physical or digital. Don't you agree?",
+    "value": "如此丰富的知识，无论是实体书还是数字书，都能在书中找到。你不同意吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/0",
+    "raw": "I'm here reading up on these Wanderers the Peglaci's history speaks of. Could they be real?",
+    "value": "我在这里读到了羊蹄族历史上所说的这些漫游者的资料。他们是真的吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/hylotl/default/1",
+    "raw": "The Wanderers... How could an entire race just...vanish? I find it hard to believe, if I'm being honest.",
+    "value": "漫游者... 整个种族怎么可能就这样... 消失了？我觉得很难相信,诚然。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I'll keep your engines in good shape. Thrust velocity is up by 25% and fuel costs are down by 20%.",
+    "value": "我会让你的引擎保持良好状态。现在推进速度将提高25% ，燃油消耗将降低20% 。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "Coffee time, extra strong!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0",
+    "raw": "Coffee time, extra strong!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Chief Engineer",
+    "value": "工程师"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Engineering",
+    "value": "工程学"
+  }
+]

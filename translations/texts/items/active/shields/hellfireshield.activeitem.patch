@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hellfire Shield",
+    "value": "地狱火盾"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;+9% Energy Regen, Immune: Lava, Burning^reset;",
+    "value": "^green;能量回复速度+9%；免疫岩浆、燃烧^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crackling with destructive energy.",
+    "value": "带有大量毁灭性的能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proto Chakram",
+    "value": "原始环刃"
+  }
+]

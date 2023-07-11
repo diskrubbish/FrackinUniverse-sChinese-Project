@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Damage x1.2^reset;, ^cyan;Energy x1.2^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;伤害x1.2^reset;, ^cyan;能量x1.2^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pinkloom Herb",
+    "value": "粉色织机草"
+  }
+]

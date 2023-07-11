@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fairly interesting technological weapon.",
+    "value": "一种相当有趣的高科技武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cane of Eyes",
+    "value": "眼球法杖"
+  }
+]

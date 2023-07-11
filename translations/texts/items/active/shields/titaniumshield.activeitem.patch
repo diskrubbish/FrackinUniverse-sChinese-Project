@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Acid Protection, +5 Shieldbash Push^reset;",
+    "value": "^green;盾牌反伤+5；免疫酸蚀^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Titanium Shield",
+    "value": "钛制盾"
+  }
+]

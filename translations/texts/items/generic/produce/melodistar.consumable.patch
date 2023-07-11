@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+17 HP^reset;, ^cyan;+40 EP^reset;: 2m",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Melodistar",
+    "value": "旋律星"
+  }
+]

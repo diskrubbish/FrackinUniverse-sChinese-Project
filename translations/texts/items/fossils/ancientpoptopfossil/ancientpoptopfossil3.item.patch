@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poptopalon Torso",
+    "value": "吐舌龙躯干"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fossilised Poptopalon torso.",
+    "value": "吐舌龙的躯干化石。"
+  }
+]

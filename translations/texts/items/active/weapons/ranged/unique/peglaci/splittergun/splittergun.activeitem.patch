@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The Peglaci honed them, but you perfected them. A devastating weapon.",
+    "value": "企鹅人发明了它，而你则制作了它！这绝对是大杀器！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fissure Splitrifle",
+    "value": "分裂步枪"
+  }
+]

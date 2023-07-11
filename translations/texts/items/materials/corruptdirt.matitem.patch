@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A disgusting block of corrupted dirt.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "一块令人恶心的腐泥。\n^green;可萃取^reset;，^orange;可筛分2^reset;。"
+  }
+]

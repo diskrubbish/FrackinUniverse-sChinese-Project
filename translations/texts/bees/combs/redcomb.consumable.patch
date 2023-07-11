@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A delicious red honeycomb. Smells like meat.",
+    "value": "一个美味的红色蜂巢，闻起来像肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Red Honeycomb",
+    "value": "红色蜂巢"
+  }
+]

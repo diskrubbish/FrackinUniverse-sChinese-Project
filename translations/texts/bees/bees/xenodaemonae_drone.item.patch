@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Xenodaemonae Drone",
+    "value": "异种工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xenodaemonae Drone",
+    "value": "异种工蜂"
+  }
+]

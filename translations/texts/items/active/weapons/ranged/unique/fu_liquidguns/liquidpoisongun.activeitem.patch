@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This gun shoots poison!",
+    "value": "这把枪发射毒素，真有趣！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poison Gun",
+    "value": "毒素之枪"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It may destroy worlds, but at least it makes for cool headwear right?...",
+    "value": "它也许会毁灭世界，但至少它是个很酷的头部饰品不是吗?..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ruin Mask",
+    "value": "毁减面具"
+  }
+]

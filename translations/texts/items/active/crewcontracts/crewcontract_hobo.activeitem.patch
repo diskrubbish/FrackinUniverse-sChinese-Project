@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires... a homeless guy that pukes on things. Increases max fuel by 250, but constantly makes you drunk.",
+    "value": "雇用...一个无家可归的酒鬼。他能为你的飞船提供燃料，提高250刻度的最大飞船燃料，但是会经常让你喝醉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hobo Contract",
+    "value": "合同：酒鬼"
+  }
+]

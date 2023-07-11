@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "The board of directors will hear of this!",
+    "value": "我觉得现在就是动手的最佳时机！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "raw": "Guess I'll have to deal with you personally!",
+    "value": "你打算攻击我？哈，想得美！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "raw": "How unfortunate.",
+    "value": "噢，你真是不走运。"
+  }
+]

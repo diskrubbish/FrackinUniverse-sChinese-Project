@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Letheia Corp Spider",
+    "value": "莱西亚机械蜘蛛"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's like a spider, but with a machinegun and exploding fuel tanks.",
+    "value": "它就像蜘蛛，但是带有机关枪和爆炸的油箱。"
+  }
+]

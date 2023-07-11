@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An alien fruit, very juicy. ^green;Type: Fruit^reset;",
+    "value": "一个外星水果，非常多汁。\n^green;类型：素食^reset;"
+  }
+]

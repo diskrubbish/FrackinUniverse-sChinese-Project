@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Reap the weak.\n^yellow;Counts as 'energy' for set bonuses^reset;",
+    "value": "收割弱者的生命。\n^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prismatic Scythe",
+    "value": "棱镜镰刀"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Kawaii Blast",
+    "value": "可爱的冲击"
+  }
+]

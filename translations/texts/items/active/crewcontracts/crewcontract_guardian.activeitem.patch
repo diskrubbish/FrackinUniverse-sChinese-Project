@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Impressive defensive crewmate. Provides a massive ^green;Defense Boost^reset; and 5% increased fuel efficiency.",
+    "value": "雇用一名令人敬佩的防御用船员，他能提供高额的^green;防御加成^reset;和5%的燃料利用率提高。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Guardian Contract",
+    "value": "合同：守卫"
+  }
+]

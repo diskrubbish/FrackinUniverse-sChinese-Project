@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Heavy-edged and freezing cold.\n^cyan;Counts as Hunting weapon^reset;",
+    "value": "刀身厚重，且非常寒冷。\n^yellow;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Longsword",
+    "value": "高熔点长剑"
+  }
+]

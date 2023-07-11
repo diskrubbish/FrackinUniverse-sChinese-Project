@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "For when you absolutely need to die immediately. 100% Guaranteed or your money back. Also available in Strawberry.",
+    "value": "一秒去世，无痛舒适。100％有效，否则全额退款。另有草莓口味提供。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kill Pod by Kevin-Tek",
+    "value": "自杀豆 - 来自凯文科技"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Expensive and painful!",
+    "value": "这把武器敲在敌人的脑壳上肯定会很痛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Titanium Mace",
+    "value": "钛制钉头锤"
+  }
+]

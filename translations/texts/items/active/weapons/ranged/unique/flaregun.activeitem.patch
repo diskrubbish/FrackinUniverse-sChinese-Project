@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires non-threatening light sources.",
+    "value": "用来发射信号弹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flare Gun",
+    "value": "信号枪"
+  }
+]

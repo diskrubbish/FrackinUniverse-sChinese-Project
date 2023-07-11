@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Wort! Used for making beer!",
+    "value": "麦芽汁！用于酿造啤酒！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wort",
+    "value": "麦芽汁"
+  }
+]

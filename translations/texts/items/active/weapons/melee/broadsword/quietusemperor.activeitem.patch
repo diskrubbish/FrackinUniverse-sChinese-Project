@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Heavy-duty quietus weapon. Slow as molasses, but brutally deadly.",
+    "value": "重型的寂灭武器。如同糖蜜一般缓慢，但却残暴而致命。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Emperor Blade",
+    "value": "君主宽剑"
+  }
+]

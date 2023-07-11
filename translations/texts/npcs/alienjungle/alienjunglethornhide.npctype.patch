@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Attack!",
+    "value": "进攻！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/0",
+    "raw": "Who daress intrude upon ssacred landss?",
+    "value": "谁胆敢闯进叶族人神圣圣圣的领地内？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/1",
+    "raw": "Sshiny thingss belongss to tribe! Not you!",
+    "value": "发光的东西是属于叶族族族人部落的！这不属于你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/2",
+    "raw": "Tribe hass lived here for aeonss!",
+    "value": "这是叶族人部族的地地地盘！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/3",
+    "raw": "Devour meatss! Devour sshiniess! Floran becomess powerful!",
+    "value": "叶族人要吃肉！要吃下所有有有发光的东西，这样叶族人才会变得更强壮！"
+  }
+]

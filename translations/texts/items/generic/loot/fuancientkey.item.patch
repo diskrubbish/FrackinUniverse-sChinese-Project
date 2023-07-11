@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange device made by the Ancients.",
+    "value": "古人制造的一种奇怪的装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Device",
+    "value": "古老的设备"
+  }
+]

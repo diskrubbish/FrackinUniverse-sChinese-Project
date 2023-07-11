@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sweat Young Queen",
+    "value": "幼年的勤劳蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Sweat Queen",
+    "value": "幼年勤劳蜂后"
+  }
+]

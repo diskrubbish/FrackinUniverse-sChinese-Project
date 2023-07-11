@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hey, it's like two masks in one!",
+    "value": "嘿，就像两个面具合而为一！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Eyevalve Mask",
+    "value": "眼蛤面具"
+  }
+]

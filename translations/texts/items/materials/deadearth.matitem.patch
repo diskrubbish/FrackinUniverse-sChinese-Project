@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dead Soil",
+    "value": "死亡之土"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Not much can hope to grow here.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "没有任何东西可以于上面生长。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  }
+]

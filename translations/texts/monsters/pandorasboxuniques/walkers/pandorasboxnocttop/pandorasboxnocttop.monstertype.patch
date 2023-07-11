@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nocttop",
+    "value": "夜舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Its ghostly white eyes pierce through the darkness.",
+    "value": "它们幽灵般的白眼睛刺穿了黑暗。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;Bounces off walls^reset;\n^yellow;Counts as 'energy' for set bonuses^reset;",
+    "value": "^yellow;撞到墙壁时反弹^reset;\n^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Chakram",
+    "value": "月海环刃"
+  }
+]

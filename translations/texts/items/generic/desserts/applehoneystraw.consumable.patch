@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An apple honey straw! More nutritious and delicious!\n^green;Heal ^white;160 ^gray;(^white;2m^gray;)^reset; \n^green;Type: Fruit Dessert^reset;",
+    "value": "一种苹果蜂蜜杆！营养又美味！\n^green;治疗^white;160点生命值^gray;(^white;2m内^gray;)^reset; \n^green;类型：水果甜食^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apple Honey Straw",
+    "value": "苹果蜂蜜杆"
+  }
+]

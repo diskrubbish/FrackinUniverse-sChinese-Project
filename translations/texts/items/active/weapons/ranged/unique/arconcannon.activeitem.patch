@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Attaches to the forearm. Fires plasma bursts.\n^yellow;Counts as 'plasma' for set bonuses^reset;",
+    "value": "附着在前臂上。发射爆裂等离子体。\n^yellow;等离子武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "ArCon Blaster",
+    "value": "阿克恩冲击者"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "ArCon Blaster MkII",
+    "value": "阿克恩冲击者 MkII"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Attaches to the forearm. Fires plasma bursts.\n^yellow;Counts as 'plasma' for set bonuses^reset;",
+    "value": "附着在前臂上。发射爆裂等离子体。\n^yellow;等离子武器^reset;"
+  }
+]

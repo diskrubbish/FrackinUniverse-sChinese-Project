@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A useful tile for making hidden walls and backgrounds.",
+    "value": "一个非常有用的管道，用来制造隐藏的墙壁和背景。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Invisible Tile",
+    "value": "不可见管道"
+  }
+]

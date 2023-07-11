@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A honed irradium edge makes this rather...reactive.",
+    "value": "把镭的边缘磨快了之后会相当的...锋利。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Longsword",
+    "value": "镭制长剑"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sufficiently Advanced Technology.",
+    "value": "尤为先进的科技。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corrupt Wand",
+    "value": "腐化魔杖"
+  }
+]

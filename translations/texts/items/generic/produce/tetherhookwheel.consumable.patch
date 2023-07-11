@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;When near death, teleport^reset;: 5s",
+    "value": "^yellow;^reset;^cyan;当你濒死时，传送^reset;: 5s"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tetherhook Wheel",
+    "value": "绳钩草"
+  }
+]

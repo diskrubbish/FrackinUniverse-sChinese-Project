@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a tailor to keep your crew looking great.",
+    "value": "雇用一名裁缝，他能使你的船员与你穿同样的衣服，看起来不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tailor Contract",
+    "value": "合同：裁缝"
+  }
+]

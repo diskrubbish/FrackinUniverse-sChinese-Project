@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block of stone colored blood red.\n^green;Extractable^reset;.",
+    "value": "这块石头涂满了鲜血。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blood Stone",
+    "value": "血石"
+  }
+]

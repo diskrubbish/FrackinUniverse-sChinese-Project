@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This hat will surely warm your noggin!",
+    "value": "这顶帽子一定能温暖你的小脑袋！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fennix Hat",
+    "value": "菲狐帽"
+  }
+]

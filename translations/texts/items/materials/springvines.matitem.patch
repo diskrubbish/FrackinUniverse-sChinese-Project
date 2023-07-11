@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Flowery vines. Pretty.\n^green;Extractable^reset;.",
+    "value": "漂亮的藤花。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spring Vine Block",
+    "value": "春藤块"
+  }
+]

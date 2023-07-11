@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lattice of Aen Wood made for use in windows, has a nebulaic membrane.",
+    "value": "用于窗户的暗木窗框，有一层星云的膜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Nebula Lattice",
+    "value": "暗木星云窗框"
+  },
+  {
+    "op": "replace",
+    "path": "/apexdescription",
+    "raw": "Some crafted planks of wood.",
+    "value": "一些精心制作的木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/aviandescription",
+    "raw": "Wood that's been crafted into planks.",
+    "value": "这是被制成木板的木头。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "raw": "Satisfied. These are well crafted wood planks.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "raw": "Sssplintery wood plankss.",
+    "value": "这是粗粗粗糙的木木木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/humandescription",
+    "raw": "Some simple planks made from wood.",
+    "value": "一些由木头制成的简单板子。"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotldescription",
+    "raw": "Basic wood planks.",
+    "value": "这是基本的木板。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "raw": "Just some basic lookin' wood planks.",
+    "value": "这只是一些看上去很基本的木板。"
+  }
+]

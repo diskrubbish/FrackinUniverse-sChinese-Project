@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Custom-tweaked for a badass.\n^yellow;High damage homing rounds.^reset;",
+    "value": "为坏蛋定制。\n^yellow;高伤害自动瞄准弹。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "The Velvet Revolver",
+    "value": "左轮·天鹅绒"
+  }
+]

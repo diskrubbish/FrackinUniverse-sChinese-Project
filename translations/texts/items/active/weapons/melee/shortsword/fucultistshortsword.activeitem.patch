@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Finely made from... flesh and other gross crap.\n^cyan;Inflicts bleeding^reset;",
+    "value": "用血肉和...其他恶心的垃圾精制而成。\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cultist Shortsword",
+    "value": "异教短剑"
+  }
+]

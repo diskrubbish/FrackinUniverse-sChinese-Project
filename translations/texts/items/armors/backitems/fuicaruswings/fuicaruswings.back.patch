@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Beware the sun. Increases Energy and Health by +50",
+    "value": "谨记太阳。\n^cyan;能量值上限和生命值上限+50^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Icarus Wings",
+    "value": "伊卡洛斯之翼"
+  }
+]

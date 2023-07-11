@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires searing waves of Lunari energy.",
+    "value": "能够发射出灼热的月晶能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Mech Arm",
+    "value": "月晶机甲臂"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Hydroponic Tubing^reset;",
+    "value": "^cyan;水培管^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just till these and you'll have auto-watered soil! Quite useful.",
+    "value": "到现在为止，你的土壤现在会自动浇水了！这相当有用。"
+  }
+]

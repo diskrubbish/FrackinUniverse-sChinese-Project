@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An ancient and terribly deadly sidearm.\n^yellow;Inflicts radiation burn^reset;",
+    "value": "一把古老而可怕的致命武器。\n^cyan;附加辐射烧伤效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Reaver",
+    "value": "先驱掠夺者"
+  }
+]

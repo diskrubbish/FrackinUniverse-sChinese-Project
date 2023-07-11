@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You can mend your flesh and bones with your mind.",
+    "value": "用意念疗筋愈骨。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Healing Ammo",
+    "value": "治愈弹药"
+  }
+]

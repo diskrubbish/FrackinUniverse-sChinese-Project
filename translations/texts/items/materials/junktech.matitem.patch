@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Useless scrap metal, mostly remnants of outmoded technology.\n^green;Extractable^reset;.",
+    "value": "没用的金属碎片，大多数是过时的科技残留物。\n^green;可萃取^reset;。"
+  }
+]

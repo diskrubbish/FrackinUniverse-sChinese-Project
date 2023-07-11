@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "For when you need to quickly lob multiple grenades the extra distance.",
+    "value": "当你需要远距离使某种东西爆炸时的最佳选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Uncommon Multi-Grenade Launcher",
+    "value": "优秀的榴弹发射器"
+  }
+]

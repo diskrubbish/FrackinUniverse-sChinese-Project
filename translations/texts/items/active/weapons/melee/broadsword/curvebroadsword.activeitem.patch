@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Plasma-edged melee cleaver.\n^cyan;Counts as plasma weapon for set bonuses^reset;\n^yellow;Inflicts Burning^reset;",
+    "value": "等离子刀口的近战宽剑。\n^cyan;附加燃烧效果^reset;\n^yellow;等离子武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Breach Plasma Cleaver",
+    "value": "劫掠等离子劈刀"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Sparkthrower",
+    "value": "喷射火花"
+  }
+]

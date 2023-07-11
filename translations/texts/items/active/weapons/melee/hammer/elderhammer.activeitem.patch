@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^#a5ff00;The yawning maw of infinity, forged into hateful wrath.^reset;",
+    "value": "^#a5ff00;无限的饥渴之胃，铸成可恨的愤怒。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#a5ff00;Elder Hammer^reset;",
+    "value": "^#a5ff00;远古锤^reset;"
+  }
+]

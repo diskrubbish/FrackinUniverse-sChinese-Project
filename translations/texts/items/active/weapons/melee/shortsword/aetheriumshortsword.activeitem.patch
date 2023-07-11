@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A perfect weapon.",
+    "value": "一把完美的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Scimitar",
+    "value": "阳清弯刀"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Aetherium Beheader",
+    "value": "阳清斩杀者"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Justice be thy blade.",
+    "value": "义为汝刃。"
+  }
+]

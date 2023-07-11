@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nectar of the Gods. ^orange;Type: Dairy^reset;",
+    "value": "诸神的美饮。\n^orange;类型：蛋奶^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Latte",
+    "value": "拿铁"
+  }
+]

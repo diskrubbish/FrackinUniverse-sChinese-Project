@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "With pulp. \n^cyan;+^reset;20%^green; HP ^gray;(^white;180s^gray;)^reset; \n^orange;Type: Cooked Meat^reset;",
+    "value": "流髓。\n^cyan;+^reset;20%^green;HP^gray;(^white;180s^gray;)^reset; \n^orange;类型：熟肉食^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chicken Juice",
+    "value": "鸡汁"
+  }
+]

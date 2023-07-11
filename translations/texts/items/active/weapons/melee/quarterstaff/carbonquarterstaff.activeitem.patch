@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fantastic quality. Dangerous.",
+    "value": "精巧的工艺，危险的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Quarterstaff",
+    "value": "碳制长棍"
+  }
+]

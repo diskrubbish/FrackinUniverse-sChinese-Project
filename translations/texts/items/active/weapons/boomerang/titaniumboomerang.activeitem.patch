@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Great for beer parties and death-causing.",
+    "value": "非常适合啤酒派对和干掉别人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Titanium Boomerang",
+    "value": "钛制回旋镖"
+  }
+]

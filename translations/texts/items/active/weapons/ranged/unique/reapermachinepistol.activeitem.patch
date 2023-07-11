@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A devastating dark matter sidearm.\n^yellow;Extremely fast rounds^reset;",
+    "value": "一把毁灭性的暗物质手枪。\n^yellow;极其快速的子弹^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tk-4 Keter",
+    "value": "Tk-4 荣冕轮"
+  }
+]

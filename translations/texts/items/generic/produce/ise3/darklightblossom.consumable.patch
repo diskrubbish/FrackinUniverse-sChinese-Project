@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Darklight Blossom",
+    "value": "夜光花"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune^reset;: Insanity, Darkness: 1.5m",
+    "value": "^yellow;^reset;^cyan;免疫^reset;: 精神错乱, 黑暗: 1.5m"
+  }
+]

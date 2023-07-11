@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crunchy and sweet combined for greatness. ^orange;Type: Grain + Dairy + Eggs + Sugar^reset;",
+    "value": "松脆与香甜的伟大结合。\n^orange;类型：谷物+蛋奶+甜食^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tearnut Butter Cookie",
+    "value": "珍珠坚果黄油曲奇"
+  }
+]

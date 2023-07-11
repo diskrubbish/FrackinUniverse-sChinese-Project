@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toxic Fly",
+    "value": "毒蝇"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Enjoys stealing lunches from innocent children.",
+    "value": "享受着从天真的孩子身边偷走午餐的乐趣。"
+  }
+]

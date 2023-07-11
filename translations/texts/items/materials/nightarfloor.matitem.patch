@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Traditional Nightar floor.",
+    "value": "传统的夜族地板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Floor",
+    "value": "夜族地板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Charmed. A beautiful black floor.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran iss confussed...",
+    "value": "叶族人很困惑..."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some fancy lookin' black floorin'.",
+    "value": "某种开起来很漂亮的黑色地板。"
+  }
+]

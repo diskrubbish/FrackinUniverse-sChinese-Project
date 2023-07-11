@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that protects against the horrific taint of Shadow.\n^cyan;Immune: Shadow Taint, Caliginous Gas^reset;",
+    "value": "一个能够抵御可怕的暗影污染的EPP模块。\n^cyan;免疫：暗影污染，暗影气体^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Shield",
+    "value": "EPP模块（暗影污染护盾）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Shadow Shield",
+    "value": "暗影盾"
+  }
+]

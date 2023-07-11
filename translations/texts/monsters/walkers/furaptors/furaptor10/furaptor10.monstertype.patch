@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Baby Dilophiraptor",
+    "value": "狄罗芬宝贝迅猛龙"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's a freakin' dinosaur!",
+    "value": "一只怪异的恐龙！"
+  }
+]

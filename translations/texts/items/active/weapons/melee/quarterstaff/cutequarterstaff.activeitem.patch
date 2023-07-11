@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Beat em down.\n^yellow;Counts as 'energy' for set bonuses^reset;",
+    "value": "把他们揍趴下。\n^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prismatic Quarterstaff",
+    "value": "棱镜长棍"
+  }
+]

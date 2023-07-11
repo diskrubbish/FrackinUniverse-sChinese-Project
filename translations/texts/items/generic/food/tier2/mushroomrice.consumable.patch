@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Delicious eggy fried rice with mushrooms. ^orange;Type: Grain + Eggs^reset;",
+    "value": "加了蘑菇的美味蛋炒饭。\n^orange;类型：谷物 + 蛋奶^reset;"
+  }
+]

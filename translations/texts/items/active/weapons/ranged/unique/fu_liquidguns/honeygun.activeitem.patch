@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This gun shoots sticky honey!",
+    "value": "这把枪会射出蜂蜜！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Gun",
+    "value": "蜜蜂枪"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rapid fire ice rocket launcher.\n^cyan;Slows enemies^reset;",
+    "value": "冻结火箭发射器。\n^cyan;减慢敌人的速度^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Rocketlauncher",
+    "value": "高熔点火箭发射器"
+  }
+]

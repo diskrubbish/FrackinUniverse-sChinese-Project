@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fillet of raw fish...slimy. ^orange;Type: Seafood^reset;",
+    "value": "一片生鱼片…黏糊糊的。\n^orange;类型：熟海鲜^reset;"
+  }
+]

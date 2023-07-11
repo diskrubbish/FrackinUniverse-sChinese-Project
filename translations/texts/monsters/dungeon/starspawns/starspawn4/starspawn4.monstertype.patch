@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Star Spawn of Cthulhu",
+    "value": "克苏鲁的星之眷族"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ancient, and emanating malice.",
+    "value": "充满憎恨的古老之物。"
+  }
+]

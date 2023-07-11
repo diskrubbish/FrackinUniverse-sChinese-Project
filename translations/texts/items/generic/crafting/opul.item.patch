@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An incredibly strong gem that is primarily used for creating glass in Eld'uukhar temples.",
+    "value": "这是一种非常坚固的宝石，主要用于制造厄休安寺庙中的玻璃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Opul Crystal",
+    "value": "欧普尔水晶"
+  }
+]

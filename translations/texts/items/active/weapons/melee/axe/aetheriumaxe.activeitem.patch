@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Devastatingly sharp.",
+    "value": "锋利至极。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Axe",
+    "value": "阳清斧"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Great be thy blows.",
+    "value": "汝击甚妙。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Aetherium Worldchopper",
+    "value": "阳清破界者"
+  }
+]

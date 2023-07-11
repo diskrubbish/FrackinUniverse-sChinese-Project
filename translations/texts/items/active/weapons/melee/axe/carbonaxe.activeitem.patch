@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy, and ideal for survivalists.\n^cyan;Inflicts bleeding^reset;",
+    "value": "结实，理想的生存装备。\n^cyan;造成出血^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Hatchet",
+    "value": "碳制短柄斧"
+  }
+]

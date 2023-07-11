@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hardy crop, found growing in arid locations.",
+    "value": "一种异常干枯的作物，被发现于干旱的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dunestalk",
+    "value": "沙语草"
+  }
+]

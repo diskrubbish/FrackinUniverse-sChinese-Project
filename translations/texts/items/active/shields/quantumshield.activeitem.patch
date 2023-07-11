@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quantum Shield",
+    "value": "量子盾"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;+12%^reset; Energy Regen, ^green;-40%^reset; Fall Damage, ^green;Immune:^reset;: Cold,Rad,Heat,Proto",
+    "value": "^green;能量回复速度+12%，掉落伤害-40^reset;%，^green;免疫^reset;：寒冷，辐射，炎热，原毒"
+  }
+]

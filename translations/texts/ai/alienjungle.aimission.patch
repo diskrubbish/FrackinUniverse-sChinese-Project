@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "An underground jungle on a far-off planet...what could go wrong? Definitely worth exploring!",
+    "value": "地图指向一个遥远星球的地下丛林...它里面到底有什么秘密？绝对值得探索！"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Brine Star (6+)",
+    "value": "盐湖之星(6+)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Brine Star (6+) (R)",
+    "value": "重新挑战盐湖之星(6+)"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Designed with absolute destruction in mind.",
+    "value": "以绝对毁灭的思路设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Annihilator Cannon",
+    "value": "歼灭炮"
+  }
+]

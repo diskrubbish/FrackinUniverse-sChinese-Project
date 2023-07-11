@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "When you wear these cool bottoms, you feel as though anything is possible.",
+    "value": "当你穿上这些凉爽的裤子，你会觉得一切皆有可能。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skathian Pants",
+    "value": "绘世者长裤"
+  }
+]

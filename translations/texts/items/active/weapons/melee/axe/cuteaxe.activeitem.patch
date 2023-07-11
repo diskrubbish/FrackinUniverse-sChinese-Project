@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Chops up enemies with prismatic power.\n^yellow;Counts as 'energy' for set bonuses^reset;",
+    "value": "用棱镜能量劈砍敌人。\n^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prismatic Axe",
+    "value": "棱镜斧"
+  }
+]

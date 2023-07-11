@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Light has issues refracting off of this shadowy surface, rendering this metal nearly invisible.",
+    "value": "光线的折射会在这种虚无金属的表面出现问题，导致它几乎无法被看见。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Effigium Bar",
+    "value": "幻影锭"
+  }
+]

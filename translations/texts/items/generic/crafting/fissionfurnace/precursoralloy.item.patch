@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You've no idea what metals this is made from.",
+    "value": "你不知道这是用什么由金属合成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Alloy",
+    "value": "先驱合金"
+  }
+]

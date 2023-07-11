@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Deep Seer",
+    "value": "深渊预言者"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It lurks in the depths, and sees all.",
+    "value": "它潜伏在深处，洞察一切。"
+  }
+]

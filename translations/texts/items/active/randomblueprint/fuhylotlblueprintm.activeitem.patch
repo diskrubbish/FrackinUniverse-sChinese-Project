@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The blueprints for potent Hylotl armour.",
+    "value": "鲛族强力盔甲的蓝图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hylotl Schematics (Power)",
+    "value": "鲛族盔甲架构图(力量)"
+  }
+]

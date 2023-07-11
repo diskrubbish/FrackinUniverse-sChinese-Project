@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "BZZ BZZZ! BEE ENGINES PROVIDE 2 SHIP SPEED! ^yellow;BEES DON'T STING^reset;",
+    "value": "嗡~嗡~嗡~嗡！勇作引擎提供2倍的飞船速度(激寒)！^yellow;他的蜜蜂不叮人^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beeguy Contract",
+    "value": "合同：蜜蜂小子"
+  }
+]

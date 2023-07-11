@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bludgeon with style.",
+    "value": "有着独特风格的棍棒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Mace",
+    "value": "月晶钉头锤"
+  }
+]

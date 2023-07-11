@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fine glittering glass sand. Watch your step!\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "一种精致闪耀的细小玻璃。请别被扎到！\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glass Sand",
+    "value": "玻璃沙"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cache of 5000 stored Research.",
+    "value": "可以储存5000研究点数。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Research Megadisc",
+    "value": "巨型研究磁盘"
+  }
+]

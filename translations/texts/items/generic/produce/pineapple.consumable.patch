@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tropical treat! ^green;Type: Fruit^reset;",
+    "value": "热带的盛宴！\n^green;类型：素食^reset;"
+  }
+]

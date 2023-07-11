@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gariraptor",
+    "value": "加利迅猛龙"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's a freakin' dinosaur!",
+    "value": "一只怪异的恐龙！"
+  }
+]

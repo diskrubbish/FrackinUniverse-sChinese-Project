@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hybrid gel capable of multiple states simultaneously.",
+    "value": "一种能够同时处于多种状态的混合凝胶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "State-Phase Gel",
+    "value": "相位态凝胶"
+  }
+]

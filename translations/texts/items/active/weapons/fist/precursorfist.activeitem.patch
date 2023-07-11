@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Potent, ancient design.",
+    "value": "一把古代人设计的强有力的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honed Lunari Cestus",
+    "value": "精炼月晶拳套"
+  }
+]

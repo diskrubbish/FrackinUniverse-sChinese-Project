@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "(Brine Star) Ancient Text",
+    "value": "古文(盐湖之星)"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mysterious script found in ancient jungle ruins. Needs translation.",
+    "value": "从古老遗迹中发现的神秘文本。需翻译才能解读其中内容。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "        \n\n       \n\n    \n\n    ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "raw": "         \n\n   \n\n    ",
+    "value": ""
+  }
+]

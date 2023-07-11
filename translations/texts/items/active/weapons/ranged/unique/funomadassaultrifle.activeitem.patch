@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The weapon of choice for desert wanderers.\n^yellow;Counts as Hunting weapon^reset;\n^green;Causes Radiation Burn^reset;",
+    "value": "沙漠流浪者的首选武器。\n^yellow;狩猎武器^reset;\n^green;造成辐射烧伤^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nomad Combat Rifle",
+    "value": "游猎战斗步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Expar Rifle^reset; ^yellow;^reset;",
+    "value": "^cyan;外来者步枪^reset; ^yellow;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "The weapon of choice for desert wanderers.\n^yellow;Counts as Hunting weapon^reset;\n^green;Causes Radiation Burn^reset;",
+    "value": "沙漠流浪者的首选武器。\n^yellow;狩猎武器^reset;\n^green;造成辐射烧伤^reset;"
+  }
+]

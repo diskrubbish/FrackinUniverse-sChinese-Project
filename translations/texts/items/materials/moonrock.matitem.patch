@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tough, gritty moon rock.\n^green;Extractable^reset;, ^orange;Crushable^reset;, ^red;Smeltable^reset;.",
+    "value": "结实，含砂的月岩。\n^green;可萃取^reset;，^orange;可粉碎^reset;，^red;可冶炼^reset;。"
+  }
+]

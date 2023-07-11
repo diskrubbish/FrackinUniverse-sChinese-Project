@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;+20%^reset; Physical Resistance\n^green;+3%^reset; Crit Chance\n^red;-50%^reset; Poison Resistance",
+    "value": "^green;+20^reset;%物理抗性\n^green;+3^reset;%暴击几率\n^red;-50^reset;%毒素抗性"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^green;Lucky Severed Toe^reset;",
+    "value": "^green;幸运断趾^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "^green;Lucky Severed Toe^reset;",
+    "value": "^green;幸运断趾^reset;"
+  }
+]

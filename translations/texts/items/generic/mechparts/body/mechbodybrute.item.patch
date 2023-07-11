@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Immune^reset;: Proto, Mild Heat/Cold/Radiation/Poison",
+    "value": "^cyan;免疫^reset;：原毒, 轻度炎热/寒冷/辐射/毒素"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Brute Mech Body",
+    "value": "残暴机甲躯体 I"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Primitive Support",
+    "value": "原始支撑"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A basic wooden beam.",
+    "value": "基础的木梁。"
+  }
+]

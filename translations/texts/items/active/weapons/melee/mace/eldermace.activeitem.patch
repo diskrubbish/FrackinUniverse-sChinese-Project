@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^#a5ff00;In your hand, it has no weight. Your rage grows with each moment.^reset;",
+    "value": "^#a5ff00;轻若无物。你的愤怒与日俱增。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#a5ff00;Elder Soulhammer^reset;",
+    "value": "^#a5ff00;远古灵锤^reset;"
+  }
+]

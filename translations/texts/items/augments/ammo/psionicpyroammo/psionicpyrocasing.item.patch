@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An empty casing. How sad.",
+    "value": "一颗空弹壳。真可惜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Simple Casing",
+    "value": "简易弹壳"
+  }
+]

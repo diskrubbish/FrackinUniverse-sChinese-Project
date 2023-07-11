@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's like wearing a mask over a mask.",
+    "value": "就像面具上戴了个面具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Snorktop Mask",
+    "value": "潜水娃面具"
+  }
+]

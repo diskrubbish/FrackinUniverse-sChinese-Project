@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A backpack that allows you to have an additional pet.",
+    "value": "可以让你多养一只宠物的背包。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Capturenaut Pack",
+    "value": "捕捉大师背包"
+  }
+]

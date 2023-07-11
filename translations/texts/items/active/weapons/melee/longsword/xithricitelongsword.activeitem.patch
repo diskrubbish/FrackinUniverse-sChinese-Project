@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Powered by cosmic dust.\n^cyan;Inflicts Minor Vulnerability^reset;",
+    "value": "由宇宙尘埃提供能源。\n^cyan;附加错调瑕疵效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Longsword",
+    "value": "赛德瑞瑟长剑"
+  }
+]

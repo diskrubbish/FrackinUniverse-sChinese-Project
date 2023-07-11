@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy, yet malleable glass\n^green;Extractable^reset;.",
+    "value": "坚固且具有高韧性的玻璃。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Glass",
+    "value": "先驱玻璃"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A poisonous lash made from telebrium. Not for recreational use.",
+    "value": "用月海石制成的有毒的鞭子。请勿用于娱乐用途。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Whip",
+    "value": "月海鞭"
+  }
+]

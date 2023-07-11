@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The golden tone of this wood panelling from shabby to chic.",
+    "value": "这种木质面板的金色色调用别致盖过了它的破旧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Wood Panelling",
+    "value": "金色木材面板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Baffled. Why would someone use golden colored wood for decoration?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty wood panelss for decoration.",
+    "value": "用来做装饰品的漂亮金色木材镶镶面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Golden wood panels?! This place sure is fancy.",
+    "value": "金色木材面板？！这确实很花哨。"
+  }
+]

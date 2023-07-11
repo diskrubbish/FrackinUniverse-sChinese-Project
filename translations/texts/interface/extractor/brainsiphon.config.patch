@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/clear/caption",
+    "raw": "Take all",
+    "value": "全部拾取"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/dragDrop/value",
+    "raw": "Drag & Drop",
+    "value": "拖入 & 取出"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/count/value",
+    "raw": "Brains",
+    "value": "大脑"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/countoutput/value",
+    "raw": "Psionic Output",
+    "value": "灵能输出"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Speed Quiver",
+    "value": "速度箭袋"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "+^green;30^reset;% Draw Speed (Bows)",
+    "value": "上弦速度（弓箭）+^green;30^reset;%"
+  }
+]

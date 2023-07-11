@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rapid reload and high performance.",
+    "value": "快速换弹，性能强悍。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Auto-Crossbow",
+    "value": "自动弩"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Assail^reset; ^yellow;^reset;",
+    "value": "^cyan;猛击^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "So fast it blows minds.",
+    "value": "如此之快,让人震惊。"
+  }
+]

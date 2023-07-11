@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A honeycomb made of solid durasteel.",
+    "value": "这种蜂巢是由耐钢矿构成的"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Durasteel Honeycomb",
+    "value": "耐钢蜂巢"
+  }
+]

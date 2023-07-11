@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Can contain enough energy for up to 100 uses.",
+    "value": "可容纳多达100次使用的能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mental Blast Focus",
+    "value": "精神爆裂弹舱"
+  }
+]

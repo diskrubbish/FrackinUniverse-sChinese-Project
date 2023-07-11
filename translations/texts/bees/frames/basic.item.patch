@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Basic frame for an apiary. Does nothing special.\n<beeData>",
+    "value": "基本的蜂房框巢。没什么特别之处。\n<beeData>"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Basic Frame",
+    "value": "基础巢框"
+  }
+]

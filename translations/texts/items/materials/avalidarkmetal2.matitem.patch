@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dark metal panel.\n^green;Extractable^reset;.",
+    "value": "一个黑色的金属面板。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dark Metal Panels",
+    "value": "黑暗金属面板"
+  }
+]

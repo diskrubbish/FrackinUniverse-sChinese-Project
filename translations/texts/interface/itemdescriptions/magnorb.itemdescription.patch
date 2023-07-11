@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/levelTitleLabel/value",
+    "raw": "^yellow;Tier ^reset;",
+    "value": "^yellow;品级^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/maxDamageTitleLabel/value",
+    "raw": "Base Damage:",
+    "value": "基础伤害："
+  },
+  {
+    "op": "replace",
+    "path": "/forceTitleLabel/value",
+    "raw": "Knockback:",
+    "value": "击退："
+  },
+  {
+    "op": "replace",
+    "path": "/shieldHealthTitleLabel/value",
+    "raw": "Shield Health:",
+    "value": "盾牌耐久："
+  },
+  {
+    "op": "replace",
+    "path": "/shieldPowerTitleLabel/value",
+    "raw": "Special:",
+    "value": "特殊："
+  },
+  {
+    "op": "replace",
+    "path": "/critChanceTitleLabel/value",
+    "raw": "^#ee1414;Crit %^reset;",
+    "value": "^#ee1414;暴击率^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/critBonusTitleLabel/value",
+    "raw": "^yellow;Dmg +^reset;",
+    "value": "^yellow;暴击伤害^reset;"
+  }
+]

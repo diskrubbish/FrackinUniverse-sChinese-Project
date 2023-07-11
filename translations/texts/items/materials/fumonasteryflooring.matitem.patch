@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Flooring of Shoji design.",
+    "value": "拉门结构的地板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shoji Flooring",
+    "value": "木质地板"
+  }
+]

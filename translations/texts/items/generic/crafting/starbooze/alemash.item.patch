@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ale mash, the product of soaked wheat, yellow petals and water.",
+    "value": "麦芽汁，浸泡的小麦，黄色的花瓣和水混合后的产品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ale Mash",
+    "value": "酒醪"
+  }
+]

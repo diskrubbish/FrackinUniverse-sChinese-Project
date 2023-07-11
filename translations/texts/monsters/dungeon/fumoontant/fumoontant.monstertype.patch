@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Muta-Moontant",
+    "value": "突变型月面体"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Disturbingly, this Erchius creature might have been a person once...",
+    "value": "真让人恶心，这些厄尔吉斯生物可能曾经还是个人..."
+  }
+]

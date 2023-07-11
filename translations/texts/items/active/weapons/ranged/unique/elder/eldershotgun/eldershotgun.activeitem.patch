@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^#a5ff00;Fires acidic explosives that offer a promise of terror and agony.^reset;",
+    "value": "^#a5ff00;发射出的酸性爆炸物会带来恐惧和痛苦。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#a5ff00;Elder Flesheater^reset;",
+    "value": "^#a5ff00;远古噬肉者^reset;"
+  }
+]

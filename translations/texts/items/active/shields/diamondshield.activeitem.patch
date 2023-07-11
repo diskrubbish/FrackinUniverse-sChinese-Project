@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Immune: Shock^reset;",
+    "value": "^green;免疫感电^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gishinanki Shield",
+    "value": "钻石盾"
+  }
+]

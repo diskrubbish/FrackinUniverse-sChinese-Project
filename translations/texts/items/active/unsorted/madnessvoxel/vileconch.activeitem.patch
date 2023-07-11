@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Listening to this shell reveals abhorrent secrets in vile whispers.",
+    "value": "这贝壳的卑鄙低语中透露出可憎的秘密。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vile Conch",
+    "value": "卑鄙海螺"
+  }
+]

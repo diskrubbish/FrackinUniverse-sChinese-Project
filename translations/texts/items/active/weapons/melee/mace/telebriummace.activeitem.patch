@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Heavy as air.",
+    "value": "和空气一样沉重。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Mace",
+    "value": "月海钉头锤"
+  }
+]

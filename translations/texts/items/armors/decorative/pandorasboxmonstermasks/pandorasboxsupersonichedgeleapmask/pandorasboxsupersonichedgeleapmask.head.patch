@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "And it didn't even cost you seven gemstones to obtain!",
+    "value": "而且它甚至不需要花费你七颗宝石来获得！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Super Sonic Hedg. Mask",
+    "value": "超级索尼克飞鼠面具"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This sword is as much art as it is a weapon. It was fashioned to look like a serpent.",
+    "value": "这把剑与其说是一把武器，不如说是一件艺术品。它看起来如同一条蛇。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fused Emera Shortsword",
+    "value": "熔炼的艾米拉短剑"
+  }
+]

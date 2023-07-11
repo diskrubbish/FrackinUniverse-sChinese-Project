@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This honeycomb has high iron contents. Increases armor when eaten.",
+    "value": "这种蜂巢富含铁。具有护甲增益的效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Honeycomb",
+    "value": "含铁蜂巢"
+  }
+]

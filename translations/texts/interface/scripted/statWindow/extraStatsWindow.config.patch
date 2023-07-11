@@ -1,0 +1,272 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/title/value",
+    "raw": "Advanced stats",
+    "value": "高级状态"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/tooltip/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/maxHealth/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/healthRegen/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/protection/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/maxEnergy/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/energyRegenPercentageRate/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/energyRegenBlockTime/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/powerMultiplier/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/critDamage/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/critChance/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/breathMaxTime/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/breathRegenTime/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/foodDelta/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/grit/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/knockbackThreshold/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/fallDamageMultiplier/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/shieldBash/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/shieldBashPush/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/shipMass/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/healingBonus/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/fuCharisma/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/mentalProtection/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/0/tooltip",
+    "raw": "Maximum Health",
+    "value": "生命值上限"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/1/tooltip",
+    "raw": "Maximum Energy",
+    "value": "能量值上限"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/2/tooltip",
+    "raw": "Power Multiplier",
+    "value": "攻击倍率"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/3/tooltip",
+    "raw": "Breath Duration",
+    "value": "呼吸持续时间"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/4/tooltip",
+    "raw": "Knockback Resist",
+    "value": "击退抗性"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/5/tooltip",
+    "raw": "Shield Bash Chance",
+    "value": "盾牌反伤几率"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/6/tooltip",
+    "raw": "Healing Bonus",
+    "value": "治疗加成"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/7/tooltip",
+    "raw": "Health Regen",
+    "value": "生命回复速度"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/8/tooltip",
+    "raw": "Energy Regen",
+    "value": "能量回复速度"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/9/tooltip",
+    "raw": "Crit Multiplier",
+    "value": "暴击倍率"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/10/tooltip",
+    "raw": "Breath Regen Time",
+    "value": "呼吸再生时间"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/11/tooltip",
+    "raw": "Knockback Threshold",
+    "value": "击退门槛"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/12/tooltip",
+    "raw": "Shield Bash Push",
+    "value": "盾牌击退"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/13/tooltip",
+    "raw": "Charisma",
+    "value": "魅力"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/14/tooltip",
+    "raw": "Protection",
+    "value": "防御"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/15/tooltip",
+    "raw": "Energy Block Duration",
+    "value": "能量枯竭时间"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/16/tooltip",
+    "raw": "Crit Chance",
+    "value": "暴击几率"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/17/tooltip",
+    "raw": "Starvation (Minutes from Full)",
+    "value": "饥饿速率（离空腹需经过多少分钟）"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/18/tooltip",
+    "raw": "Fall Damage Mult",
+    "value": "坠落伤害抗性"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/19/tooltip",
+    "raw": "Ship Mass",
+    "value": "船体质量"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipBoxes/20/tooltip",
+    "raw": "Madness Resistance",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/defaultTooltip",
+    "raw": "Hover over a stat for its description",
+    "value": "将鼠标悬停在一个属性上以获取其描述"
+  }
+]

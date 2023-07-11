@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Ship Quest Tracker",
+    "value": "飞船任务跟踪器"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "Adding certain machines to your ship will upgrade its abilities. An FTL drive is required to navigate the stars.",
+    "value": "安装特定的机器到你的飞船上，机器将会提升飞船的性能。星际导航要求一台FTL引擎。"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "You shouldn't complete this quest.",
+    "value": "你不应该完成这个任务。"
+  }
+]

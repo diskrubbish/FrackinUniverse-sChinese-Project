@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Raw aquatic horror. ^orange;Type: Seafood^reset;",
+    "value": "美味而吓人的生水产。\n^orange;类型: 海鲜^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lobster",
+    "value": "龙虾"
+  }
+]

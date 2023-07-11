@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shines with crystalline hatred.",
+    "value": "映射出水晶般的憎恨。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasmic Crystal Longsword",
+    "value": "棱镜水晶长剑"
+  }
+]

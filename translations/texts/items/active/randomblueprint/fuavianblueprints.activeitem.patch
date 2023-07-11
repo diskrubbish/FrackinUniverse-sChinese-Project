@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The blueprints for sturdy Avian armour.",
+    "value": "翼族坚固盔甲的蓝图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avian Schematics (Health)",
+    "value": "翼族盔甲架构图(生命)"
+  }
+]

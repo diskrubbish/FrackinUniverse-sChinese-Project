@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice Troll",
+    "value": "冰霜巨魔"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stalks the icy wastes in search of food, and things to punch.",
+    "value": "冰霜巨魔在结冰的荒原上搜寻食物，还有要揍的东西。"
+  }
+]

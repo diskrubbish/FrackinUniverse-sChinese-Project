@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The flagship product of the Joja corporation.\n^blue;Blue ^gray;(^white;30s^gray;)^reset;",
+    "value": "Joja公司的旗舰产品。\n^blue;变蓝^gray;(^white;持续30s^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^blue;Joja^reset; Cola",
+    "value": "^blue;Joja^reset;可乐"
+  }
+]

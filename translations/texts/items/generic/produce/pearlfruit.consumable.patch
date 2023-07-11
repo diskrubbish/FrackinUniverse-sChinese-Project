@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Water Walking^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;水上行走^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pearlfruit",
+    "value": "珍珠果"
+  }
+]

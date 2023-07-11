@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A finely crafted durasteel greataxe.",
+    "value": "使用耐钢矿精制而成巨大斧头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Durasteel Greataxe",
+    "value": "耐钢巨斧"
+  }
+]

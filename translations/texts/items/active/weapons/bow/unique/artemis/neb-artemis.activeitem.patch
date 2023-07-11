@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An unusual yet fearsome bow, the hefty arrows it slings always return.",
+    "value": "这是一把不同寻常却又令人生畏的弓，它所射出的巨大箭头总是会射回来。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Artemis",
+    "value": "阿尔忒弥斯"
+  }
+]

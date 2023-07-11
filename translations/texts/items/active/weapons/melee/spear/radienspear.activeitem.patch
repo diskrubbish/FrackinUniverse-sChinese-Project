@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Made from your own parts. Sturdy and dangerous.\n^cyan;Hunting weapon^reset;",
+    "value": "以己之身铸成，可靠而又危险。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Spear",
+    "value": "艾肯长矛"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^white;Bio-Spear^reset; ^cyan;^reset;",
+    "value": "^white;生物态长矛^reset; ^cyan;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "^white;Muta-Spear^reset; ^#d472ff;^reset;",
+    "value": "^white;无它长矛^reset; ^#d472ff;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Rad Blast",
+    "value": "辐射冲击"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fine wooden planks, that look valuable.",
+    "value": "优良的木板，看起来很有价值。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rich Wood Planks",
+    "value": "昂贵的木板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Wood. Fine wood.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmooth wood.",
+    "value": "光光光滑的木板。"
+  }
+]

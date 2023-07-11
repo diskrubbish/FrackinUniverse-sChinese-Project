@@ -1,0 +1,314 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "raw": "  Chef",
+    "value": "  厨师"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Sells delicious food!",
+    "value": "  贩卖美味的食物！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "raw": "Hungry? I've got plenty of fresh produce right here!",
+    "value": "饿了？我这里有很多新鲜的食物！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/apex/default/0",
+    "raw": "Fancy a meal? I'm the best in the business.",
+    "value": "想吃饭？我是最棒的厨师。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/apex/default/1",
+    "raw": "My supplies come from secure sources.",
+    "value": "我的原料来源绝对安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/apex/default/2",
+    "raw": "Let me help you cook up a feast.",
+    "value": "让我来帮你做饭。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/apex/default/3",
+    "raw": "I hope you like bananas!",
+    "value": "我希望你喜欢香蕉！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/apex/default/4",
+    "raw": "You'd better have a big appetite!",
+    "value": "我做的饭菜绝对会让你惊叹不已！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/0",
+    "raw": "My cuisine will be much to your liking.",
+    "value": "我做的菜是你最喜欢吃的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/1",
+    "raw": "Let me ensure you feast like royalty.",
+    "value": "让我来开始介绍这些丰盛的美食吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/2",
+    "raw": "Tonight you shall eat better than Kluex himself.",
+    "value": "希望你吃的比克鲁西斯还要好。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/3",
+    "raw": "Even the Stargazers are in awe of my produce.",
+    "value": "即使是最挑剔的人也对我的食物倍加称赞。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/avian/default/4",
+    "raw": "You'll never forget the taste of my produce.",
+    "value": "只要吃了我做的食物，你就无法忘记那迷人的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
+    "raw": "Floran sssell food to ssspaceperson!",
+    "value": "叶族人曾经经经把食物卖给外星人！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/1",
+    "raw": "Floran throw food in bowl, ssset on fire, cook!",
+    "value": "叶族人把食物放到碗里，然后后后丢到火上开始烹饪！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/2",
+    "raw": "Floran liability in kitchen. Greenfinger sssay it! Liability mean best chef.",
+    "value": "就连绿手指都说说说这是最棒的美食！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/3",
+    "raw": "Floran ssstab cut ssslash bash make dinner!",
+    "value": "叶族人喜欢做饭，可以刺刺刺和捅！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/floran/default/4",
+    "raw": "Floran at your ssservice.",
+    "value": "叶族人为你你你服务。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/glitch/default/0",
+    "raw": "Statement. All your cooking needs, right here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/glitch/default/1",
+    "raw": "Proud. My produce is top class.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/glitch/default/2",
+    "raw": "Friendly. If you're hungry, you came to the right place.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/glitch/default/3",
+    "raw": "Welcoming. Allow me to share my produce with you, friend.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/glitch/default/4",
+    "raw": "Bragging. Glitch grow the best produce.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/human/default/0",
+    "raw": "Get yer veggies right yere!",
+    "value": "都是新鲜的蔬菜噢！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/human/default/1",
+    "raw": "Alright guv'nor? Want some 'a me automatoes?",
+    "value": "什么意思？想要我更快一些？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/human/default/2",
+    "raw": "You looking for someone to cook for you? Look no further!",
+    "value": "你在找人为你做饭？我就是最佳人选！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/human/default/3",
+    "raw": "My recipes are family secrets!",
+    "value": "这是我的祖传配方！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/human/default/4",
+    "raw": "My meals will leave you with that warm inner glow.",
+    "value": "我的饭菜将会让你充满温暖。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/hylotl/default/0",
+    "raw": "My produce is to die for. Not in a bad way!",
+    "value": "我的食物吃了可不会死！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/hylotl/default/1",
+    "raw": "Once you try my produce, nothing will ever seem as good.",
+    "value": "一旦你吃过我的食物，其他食物对你来说就是垃圾了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/hylotl/default/2",
+    "raw": "Can you stomach the beauty of Hylotl cuisine?",
+    "value": "你想享受到美食吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/hylotl/default/3",
+    "raw": "Everything I sell has been grown with love, and compost.",
+    "value": "我卖的一切食物都是我用爱浇灌出来的。噢，对了，还有肥料。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/hylotl/default/4",
+    "raw": "My produce will make your mouth water, and your wallet cry.",
+    "value": "我的食物会让你口水直流，连钱也会流光。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "raw": "Come back anytime!",
+    "value": "随时欢迎你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/apex/default/0",
+    "raw": "Come back whenever you're hungry!",
+    "value": "当你饿了，就来吃吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/apex/default/1",
+    "raw": "Don't be a stranger!",
+    "value": "不要见外！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/apex/default/2",
+    "raw": "Fresh produce every day!",
+    "value": "每一天都有新食物！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/avian/default/0",
+    "raw": "See you soon!",
+    "value": "再见！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/avian/default/1",
+    "raw": "Great taste waits for no-one.",
+    "value": "没有人可以做出如此美妙的食物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/avian/default/2",
+    "raw": "May Kluex make you really hungry again soon!",
+    "value": "或许克鲁西斯会让你的肚子很快就饿的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/0",
+    "raw": "Come back sssoon for foodsss!",
+    "value": "食物不久久久就来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/1",
+    "raw": "Floran have more foodsss next time!",
+    "value": "叶族人下次会准备更更更多食物的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/floran/default/2",
+    "raw": "Floran wait to sssell more foodsss!",
+    "value": "叶族人期待可以卖卖卖更多的食物！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/glitch/default/0",
+    "raw": "Statement. Come back any time.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/glitch/default/1",
+    "raw": "Encouraging. Go forth and become hungry.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/glitch/default/2",
+    "raw": "Proud. You will enjoy my produce.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/human/default/0",
+    "raw": "Hope you're leaving satisfied!",
+    "value": "希望你在吃完后感到满意！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/human/default/1",
+    "raw": "Come back whenever you're hungry!",
+    "value": "当你饿了，就来吃吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/human/default/2",
+    "raw": "Pleasure to be of service!",
+    "value": "很愿意为你效劳！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/hylotl/default/0",
+    "raw": "You will be back, I'm sure of it.",
+    "value": "吃了我的饭，我相信你绝对会再回来找我的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/hylotl/default/1",
+    "raw": "I shall see you soon, connoisseur.",
+    "value": "你真是位美食家，很期待你的下次光临。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/hylotl/default/2",
+    "raw": "Peace be with you, culinary expert.",
+    "value": "把用餐的恬静生活带给你，我是烹饪专家。"
+  }
+]

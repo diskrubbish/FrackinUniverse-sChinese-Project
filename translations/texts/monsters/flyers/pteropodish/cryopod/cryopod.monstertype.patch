@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cryopod",
+    "value": "低温豆荚"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It compresses moisture in its pod to form a powerful cold blast. Flies erratically.",
+    "value": "压缩豆荚里的水分，能形成强大的冷风。会无规律地飞行。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A skathmade sword made out of titanium and durasteel.",
+    "value": "一把由钛和耐钢制成的绘世者工艺宽剑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Reinforced Skath Blade",
+    "value": "绘世者战刃·中级"
+  }
+]

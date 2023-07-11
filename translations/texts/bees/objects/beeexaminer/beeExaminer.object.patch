@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A basic microscope designed to inspect queen bees. User must be present.",
+    "value": "用于检查蜂后的基本显微镜。使用者必须在场。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Basic^reset; Microscope",
+    "value": "^orange;基础^reset;显微镜"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Inspect Bees & Items",
+    "value": "观察蜜蜂&物品"
+  }
+]

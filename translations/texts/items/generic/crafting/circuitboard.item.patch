@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's a typical circuit board, used in many electronics.",
+    "value": "一块普通的电路板，在许多电子产品都会用到它。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Circuit Board",
+    "value": "电路板"
+  }
+]

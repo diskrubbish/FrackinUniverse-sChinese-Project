@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blast Bot",
+    "value": "爆炸机器人"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It watches you through its big lens.",
+    "value": "它通过它的大镜头观察你。"
+  }
+]

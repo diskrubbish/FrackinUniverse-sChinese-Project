@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stegovapti Hinds",
+    "value": "蒸汽剑龙腿骨"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fossilised Stegovapti hinds.",
+    "value": "蒸汽剑龙腿骨的化石。"
+  }
+]

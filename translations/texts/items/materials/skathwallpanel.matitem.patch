@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Panels made of durable impervium.",
+    "value": "由耐用的统制材料制成的面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Impervium Wall Panels",
+    "value": "统制墙板"
+  }
+]

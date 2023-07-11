@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shockjelli",
+    "value": "电击海蜇"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shockingly shocking. Do not touch.",
+    "value": "会电人，最好别碰。"
+  }
+]

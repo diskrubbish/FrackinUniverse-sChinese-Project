@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Condensed cosmic power. Thrown for fun. Or murder.",
+    "value": "凝聚着宇宙力量。丢着图个快乐。或者是谋杀。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Chakram",
+    "value": "赛德瑞瑟环刃"
+  }
+]

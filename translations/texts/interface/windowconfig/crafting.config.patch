@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "raw": " Basic Crafting",
+    "value": " 基础制作"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "raw": " ^#b9b5b2;Just you, your ingredients and your hands ^green;[C]",
+    "value": " ^#b9b5b2;你，你的身体，你的双手，仅此而已^green;[C]"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "raw": "Craft",
+    "value": "制作"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnStopCraft/caption",
+    "raw": "Stop",
+    "value": "停止"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblSchematics/value",
+    "raw": "^#b9b5b2;BLUEPRINTS",
+    "value": "^#b9b5b2;蓝图"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProducttitle/value",
+    "raw": "^#b9b5b2;PRODUCT",
+    "value": "^#b9b5b2;产品"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/tbSpinCount/regex",
+    "raw": "x?\\d{0,4}",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProduct/value",
+    "raw": "MATERIALS AVAILABLE",
+    "value": "可用材料"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/filter/hint",
+    "raw": "Search",
+    "value": "搜索"
+  }
+]

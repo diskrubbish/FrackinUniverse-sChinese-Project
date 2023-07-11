@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Meaty and delicious. ^orange;Type: Cooked Meat + Vegetables^reset;",
+    "value": "香酥而美味。\n^orange;类型：熟肉食+蔬菜^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Burger",
+    "value": "汉堡"
+  }
+]

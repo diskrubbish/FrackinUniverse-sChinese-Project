@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sulphuric Stone",
+    "value": "硫酸石头"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Loaded with useful minerals.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "蕴含了有用的矿物质。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  }
+]

@@ -1,0 +1,800 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": "Material Mod Config",
+    "value": "材料放置枪设置"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": "Configures the staff of material mods.",
+    "value": "配置材料放置枪要放置的物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/0/description",
+    "raw": "Protect your build from encroaching weather effects.",
+    "value": "使你的建筑免受天气效果的侵害。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/1/description",
+    "raw": "Speckled blue and white alien grass.",
+    "value": "有斑点的蓝白色外星草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/2/description",
+    "raw": "Colourful green alien grass.",
+    "value": "绚烂的绿色外星植被。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/3/description",
+    "raw": "Thick red alien grass.",
+    "value": "厚厚的红色外星植被。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/4/description",
+    "raw": "Frosty alpine grass.",
+    "value": "寒冷的高山草地。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/5/description",
+    "raw": "Dry, crunchy grass.",
+    "value": "干燥，松脆的草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/6/description",
+    "raw": "A thick layer of ash.",
+    "value": "一层厚厚的灰。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/7/description",
+    "raw": "Fallen autumn leaves.",
+    "value": "秋天的落叶。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/8/description",
+    "raw": "A thick layer of black ash.",
+    "value": "一层厚厚的黑灰。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/9/description",
+    "raw": "Black slime.",
+    "value": "黑色黏液。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/10/description",
+    "raw": "Bloodstone grass.",
+    "value": "血石草"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/11/description",
+    "raw": "Verdant grasses ripe with life.",
+    "value": "充满生命力的绿色草地。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/12/description",
+    "raw": "Yuck, crushed bones!",
+    "value": "呸，一些被压碎的骨头！"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/13/description",
+    "raw": "Moss hanging from the ceiling.",
+    "value": "悬挂在天花板上的苔藓。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/14/description",
+    "raw": "Small roots poking through the ceiling.",
+    "value": "从天花板上钻出来的细小根茎。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/15/description",
+    "raw": "Snow so cold it's stuck to the ceiling.",
+    "value": "冰冷的雪冻在了天花板上。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/16/description",
+    "raw": "Charred grass clings to life amongst the ashes.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/17/description",
+    "raw": "A light layer of clay.",
+    "value": "一些粘土。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/18/description",
+    "raw": "Clay.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/19/description",
+    "raw": "Somewhat solid clouds! You can even walk on them!",
+    "value": "一种固体云方块。它非常轻，轻到你甚至可以在上面行走。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/20/description",
+    "raw": "Lush, thick, and colourful grass is growing here.",
+    "value": "葱绿、浓密而多彩的草在这里生长着。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/21/description",
+    "raw": "Small crystals appear to be poking through the ground.",
+    "value": "似乎就要戳进地面的小水晶。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/22/description",
+    "raw": "Strange solid-darkness grass...",
+    "value": "凝固了黑暗的诡异的草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/23/description",
+    "raw": "Dead leaves.",
+    "value": "枯萎叶子。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/24/description",
+    "raw": "Gross, fleshy grass.",
+    "value": "恶心的血肉草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/25/description",
+    "raw": "Rotten, fleshy grass.",
+    "value": "蠕动而腐臭的植被。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/26/description",
+    "raw": "Lush, flowery grass.",
+    "value": "葱绿的，散发着香味的草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/27/description",
+    "raw": "Glowing sand.",
+    "value": "发光的沙子。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/28/description",
+    "raw": "Lush, thick grass is growing here.",
+    "value": "这里长了一些厚厚的草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/29/description",
+    "raw": "Green slime.",
+    "value": "绿色黏液。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/30/description",
+    "raw": "Gross, hecky grass.",
+    "value": "恶心的见鬼草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/31/description",
+    "raw": "Gross, hivey ceiling grass.",
+    "value": "恶心的倒吊蜂巢草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/32/description",
+    "raw": "Gross, hivey grass.",
+    "value": "恶心的蜂巢草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/33/description",
+    "raw": "Hivey ceiling grass.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/34/description",
+    "raw": "Hivey grass.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/35/description",
+    "raw": "Sticky honey hanging from the ceiling.",
+    "value": "粘稠的蜂蜜悬挂在天花板上。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/36/description",
+    "raw": "Sticky honey.",
+    "value": "粘稠的蜂蜜。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/37/description",
+    "raw": "Thin, jagged ice.",
+    "value": "厚厚的，锯齿状的冰。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/38/description",
+    "raw": "Thick, jagged ice.",
+    "value": "厚厚的锯齿状的冰。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/39/description",
+    "raw": "Dense jungle grass.",
+    "value": "密林草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/40/description",
+    "raw": "Scattered metal junk.",
+    "value": "散落的金属垃圾。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/41/description",
+    "raw": "Verdant grasses ripe with life.",
+    "value": "充满生命力的绿色草地。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/42/description",
+    "raw": "A thick layer of metal dust.",
+    "value": "一层厚厚的金属锈蚀。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/43/description",
+    "raw": "Metal debris.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/44/description",
+    "raw": "Meteorite that has crumbled to dust.",
+    "value": "已经化为尘埃的陨石。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/45/description",
+    "raw": "Scattered lunar dust.",
+    "value": "散落的月尘。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/46/description",
+    "raw": "A thick layer of moss.",
+    "value": "一层厚厚的苔藓。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/47/description",
+    "raw": "Grass poking through a layer of moss.",
+    "value": "青草从苔原之下探出头来。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/48/description",
+    "raw": "Some sort of nasty people-goop.",
+    "value": "令人厌恶的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/49/description",
+    "raw": "Umbral grass.",
+    "value": "半影草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/50/description",
+    "raw": "Thick purple grass.",
+    "value": "厚厚的紫色草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/51/description",
+    "raw": "Purple crystals.",
+    "value": "紫色的水晶。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/52/description",
+    "raw": "Lush, thick grass is growing here.",
+    "value": "这里长了一些厚厚的草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/53/description",
+    "raw": "Scattered sand.",
+    "value": "散沙"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/54/description",
+    "raw": "Scattered sand.",
+    "value": "散沙"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/55/description",
+    "raw": "Crunchy thick grass.",
+    "value": "松脆的厚草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/56/description",
+    "raw": "Sticky slime hanging from the ceiling.",
+    "value": "悬挂在天花板上的黏液。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/57/description",
+    "raw": "Sticky grass.",
+    "value": "黏黏的草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/58/description",
+    "raw": "Soft, freshly fallen snow.",
+    "value": "掉落下来的新鲜的、柔软的雪。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/59/description",
+    "raw": "Grass poking through freshly fallen snow.",
+    "value": "青草从刚下过的雪中探出头来。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/60/description",
+    "raw": "Sulphuric stone.",
+    "value": "硫酸石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/61/description",
+    "raw": "Thick tar covers the ground here.",
+    "value": "厚重的焦油盖住了这里的地面。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/62/description",
+    "raw": "Thick tar covers the ceiling here.",
+    "value": "厚重的焦油盖住了这里的天花板。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/63/description",
+    "raw": "Pulsating tentacles.",
+    "value": "蠕动的触手。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/64/description",
+    "raw": "Jungle grasses.",
+    "value": "丛林草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/65/description",
+    "raw": "Thick, lush grass.",
+    "value": "浓密的草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/66/description",
+    "raw": "Thick, toxic grass.",
+    "value": "厚厚的有毒植被。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/67/description",
+    "raw": "Hardy grass growing from the ceiling.",
+    "value": "从天花板上长出来的硬草。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/68/description",
+    "raw": "Vein Growth.",
+    "value": "静脉增长。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/69/description",
+    "raw": "Aegisalt. Requires aegisalt ore to place.",
+    "value": "霓磷盐。需要霓磷盐矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/70/description",
+    "raw": "Cinnabar. Requires cinnabar to place.",
+    "value": "朱砂。需要朱砂以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/71/description",
+    "raw": "Coal ore. Requires coal to place.",
+    "value": "煤矿。需要煤以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/72/description",
+    "raw": "Copper ore. Requires copper ore to place.",
+    "value": "铜矿。需要铜矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/73/description",
+    "raw": "Core Fragment. Requires core fragments to place.",
+    "value": "星核碎片。需要星核碎片以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/74/description",
+    "raw": "Corruption. Requires corruption to place.",
+    "value": "腐化生物质。需要腐化生物质以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/75/description",
+    "raw": "Crystal. Requires crystals to place.",
+    "value": "水晶。需要水晶以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/76/description",
+    "raw": "Ultra-dense dimensional ore. Requires densinium ore to place.",
+    "value": "密度极高的矿。需要超致密矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/77/description",
+    "raw": "Diamond. Requires diamonds to place.",
+    "value": "钻石。需要钻石以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/78/description",
+    "raw": "Durasteel ore. Requires durasteel ore to place.",
+    "value": "耐钢矿。需要耐钢矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/79/description",
+    "raw": "Effigium. Requires effigium ore to place.",
+    "value": "幻影矿。需要幻影矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/80/description",
+    "raw": "Erchius Crystal. Requires crystal erchius fuel to place.",
+    "value": "厄尔吉斯晶体。需要厄尔吉斯晶态燃料以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/81/description",
+    "raw": "Ferozium. Requires ferozium ore to place.",
+    "value": "菲洛合金。需要菲洛合金矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/82/description",
+    "raw": "Gold. Requires gold ore to place.",
+    "value": "金矿。需要金矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/83/description",
+    "raw": "Iron. Requires iron ore to place.",
+    "value": "铁矿。需要铁矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/84/description",
+    "raw": "Irradium. Requires irradium ore to place.",
+    "value": "镭，需要镭以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/85/description",
+    "raw": "Isogen. Requires isogen ore to place.",
+    "value": "寒霜矿。需要寒霜矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/86/description",
+    "raw": "Lead. Requires lead to place.",
+    "value": "铅。需要铅以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/87/description",
+    "raw": "Lunari crystal. Requires lunari crystals to place.",
+    "value": "月晶。需要月晶以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/88/description",
+    "raw": "Magnesium. Requires magnesium to place.",
+    "value": "镁。需要镁以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/89/description",
+    "raw": "Neptunium. Requires neptunium ore to place.",
+    "value": "镎。需要镎以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/90/description",
+    "raw": "Raw nocxium. Requires nocxium ore to place.",
+    "value": "诺克原石。需要诺克石矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/91/description",
+    "raw": "Penumbrite. Requires penumbrite ore to place.",
+    "value": "半影矿。需要半影矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/92/description",
+    "raw": "Plasmic Crystals. Requires plasmic crystals to place.",
+    "value": "等离子水晶。需要等离子水晶以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/93/description",
+    "raw": "Plutonium. Requires plutonium ore to place.",
+    "value": "钚。需要钚以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/94/description",
+    "raw": "Prisilite. Requires prisilite ore to place.",
+    "value": "棱镜之星。需要棱镜之星以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/95/description",
+    "raw": "Protocite. Requires protocite ore to place.",
+    "value": "原体矿。需要原体矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/96/description",
+    "raw": "Pyreite. Requires pyreite ore to place.",
+    "value": "永燃矿。需要永燃矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/97/description",
+    "raw": "Quietus. Requires quietus ore to place.",
+    "value": "寂灭矿。需要寂灭矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/98/description",
+    "raw": "Silver. Requires silver ore to place.",
+    "value": "银矿。需要银矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/99/description",
+    "raw": "Solarium. Requires solarium ore to place.",
+    "value": "日曜石。需要日曜石以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/100/description",
+    "raw": "Sulphur. Requires sulphur to place.",
+    "value": "硫磺。需要硫磺以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/101/description",
+    "raw": "Telebrium. Requires telebrium crystals to place.",
+    "value": "月海晶体。需要月海晶体以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/102/description",
+    "raw": "Thorium. Requires thorium ore to place.",
+    "value": "钍。需要钍以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/103/description",
+    "raw": "Titanium. Requires titanium ore to place.",
+    "value": "钛矿。需要钛矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/104/description",
+    "raw": "Trianglium. Requires trianglium ore to place.",
+    "value": "三棱矿。需要三棱矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/105/description",
+    "raw": "Tungsten. Requires tungsten ore to place.",
+    "value": "钨矿。需要钨矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/106/description",
+    "raw": "Uranium. Requires uranium ore to place.",
+    "value": "铀。需要铀以放置"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/107/description",
+    "raw": "Violium. Requires violium ore to place.",
+    "value": "维奥合金。需要维奥矿石以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/108/description",
+    "raw": "Xithricite. Requires xithricite ore to place.",
+    "value": "赛德瑞瑟晶体。需要赛德瑞瑟晶体以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/109/description",
+    "raw": "Zerchesium. Requires zerchesium ore to place.",
+    "value": "高熔点矿。需要高熔点矿以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/110/description",
+    "raw": "This junk might contain some useful parts. Requires spare parts to place.",
+    "value": "这些垃圾可能包含了有用的东西。需要备用零件以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/111/description",
+    "raw": "Koanite. Requires koanite to place.",
+    "value": "心印石。需要心印石以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/112/description",
+    "raw": "Mascagnite. Requires mascagnite to place.",
+    "value": "铵矾。需要铵矾以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/113/description",
+    "raw": "Sivite. Requires sivite to place.",
+    "value": "闪银石。需要闪银石以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/114/description",
+    "raw": "A gore-covered mass of bone.",
+    "value": "一些血迹斑斑的骨头。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/115/description",
+    "raw": "A fossilised bone. Requires bones to place.",
+    "value": "骨化石。需要骨头以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/116/description",
+    "raw": "Algae. Requires algae to place.",
+    "value": "藻豆荚。需要藻豆荚以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/117/description",
+    "raw": "Rainforest flowers. Requires biosamples to place.",
+    "value": "雨林花。需要生物样品以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/118/description",
+    "raw": "Neon Tubing. Requires neon tubing to place.",
+    "value": "霓虹灯管。需要霓虹灯管以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/119/description",
+    "raw": "A softly glowing paste. Requires glowing gel to place.",
+    "value": "会发光的凝胶。需要发光凝胶以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/120/description",
+    "raw": "A softly glowing paste. Requires blue glowing gel to place.",
+    "value": "会发光的凝胶。需要蓝色发光凝胶以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/121/description",
+    "raw": "A softly glowing paste. Requires green glowing gel to place.",
+    "value": "会发光的凝胶。需要绿色发光凝胶以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/122/description",
+    "raw": "A softly glowing paste. Requires purple glowing gel to place.",
+    "value": "会发光的凝胶。需要紫色发光凝胶以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/123/description",
+    "raw": "A softly glowing paste. Requires red glowing gel to place.",
+    "value": "会发光的凝胶。需要红色发光凝胶以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/124/description",
+    "raw": "A softly glowing paste. Requires yellow glowing gel to place.",
+    "value": "会发光的凝胶。需要黄色发光凝胶以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/125/description",
+    "raw": "A fast paste. Requires accelerator gel to place.",
+    "value": "快速糊剂。需要加速凝胶以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/126/description",
+    "raw": "A bouncy paste. Requires bounce gel to place.",
+    "value": "弹性糊剂。需要弹力凝胶以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/127/description",
+    "raw": "A strip made of incredibly slippery material. Requires low friction strips to place.",
+    "value": "由令人难以置信的光滑材料制成的长带。需要低摩擦带以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/128/description",
+    "raw": "A strip that flings whoever steps on it. Requires propulsion strip Ls to place.",
+    "value": "无论是谁踩上去都会被带动的长带。需要传送带(左)以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/matMods/129/description",
+    "raw": "A strip that flings whoever steps on it. Requires propulsion strip Rs to place.",
+    "value": "无论是谁踩上去都会被带动的长带。需要传送带(右)以放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/filter/hint",
+    "raw": "Search",
+    "value": "搜索"
+  }
+]

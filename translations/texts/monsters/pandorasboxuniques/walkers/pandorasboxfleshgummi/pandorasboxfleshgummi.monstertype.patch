@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flesh Gummi",
+    "value": "血肉咕米"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This species of Gummi is grotesque, but still manages to look adorable.",
+    "value": "这种咕米看起来很怪异，但仍然很可爱。"
+  }
+]

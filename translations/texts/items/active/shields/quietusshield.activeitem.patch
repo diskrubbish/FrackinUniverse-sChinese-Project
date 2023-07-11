@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Provides immunity to bee stings, most rads and insanity.^reset;",
+    "value": "^green;提供对蜂蜇，绝大多数辐射和疯癫的免疫。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quietus Shield",
+    "value": "寂灭盾"
+  }
+]

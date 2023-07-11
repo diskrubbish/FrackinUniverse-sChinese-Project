@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Water survival is impossible without it.",
+    "value": "没有它，你不可能在水下生存。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aquatic Homeostasis",
+    "value": "水压基因"
+  }
+]

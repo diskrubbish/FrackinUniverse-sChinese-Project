@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ripe with adorable energy.\n^yellow;Counts as 'energy' for set bonuses^reset;",
+    "value": "满满的可爱之力。\n^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prismatic Cestus",
+    "value": "棱镜拳套"
+  }
+]

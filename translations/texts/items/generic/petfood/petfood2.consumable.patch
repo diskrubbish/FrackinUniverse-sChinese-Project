@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "For the ship pet in your life. ^red;Do Not Consume.\n^red;-^white;5% ^red;HP^gray;, ^red;Poisoned ^gray;(^white;1m^gray;)^reset;",
+    "value": "用来喂食你船舱内的宠物。^red;请勿食用。^reset;\n^red;-^white;5% ^red;HP^gray;, ^red;中毒^gray;(^white;持续5s^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wartweed Kibble",
+    "value": "瘤块粗粮"
+  }
+]

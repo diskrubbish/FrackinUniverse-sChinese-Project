@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Can produce magnesium and phosphorus via extraction.",
+    "value": "经过萃取后能够生产镁和磷。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sivite",
+    "value": "闪银石"
+  }
+]

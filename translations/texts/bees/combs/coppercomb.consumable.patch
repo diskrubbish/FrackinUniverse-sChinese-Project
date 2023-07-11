@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This honeycomb has high copper content.",
+    "value": "这种蜂巢含有极多的铜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Copper Honeycomb",
+    "value": "含铜蜂巢"
+  }
+]

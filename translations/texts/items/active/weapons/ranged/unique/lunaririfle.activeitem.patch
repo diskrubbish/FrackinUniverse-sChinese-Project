@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crystalline blasts charged with lunari energy.\n^yellow;Lights areas^reset;\n^green;Long-lived projectiles^reset;",
+    "value": "可以射出爆炸性月晶能量弹药。\n^yellow;照明^reset;\n^yellow;持久弹"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Rifle",
+    "value": "月晶步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Lunari MkII^reset; ^yellow;^reset;",
+    "value": "^cyan;太阴 MkII^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Crystalline blasts charged with lunari energy\n^yellow;Lights areas^reset;\n^green;Long-lived projectiles",
+    "value": "可以射出爆炸性月晶能量弹药。\n^yellow;照明^reset;\n^yellow;持久弹"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Starshock",
+    "value": "星辰冲击"
+  }
+]

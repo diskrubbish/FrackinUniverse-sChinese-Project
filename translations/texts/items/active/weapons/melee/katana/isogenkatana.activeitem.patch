@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cold as ice.\n^yellow;8 hit combo^reset;",
+    "value": "如雪一般寒冷。\n^yellow;8连斩^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Katana",
+    "value": "寒霜武士刀"
+  }
+]

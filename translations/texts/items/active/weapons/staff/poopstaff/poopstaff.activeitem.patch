@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Its composition is truly repulsive.",
+    "value": "人类乡村的械斗神器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Excremental Staff",
+    "value": "屎小棒"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "The Poopmaster^yellow;^reset;",
+    "value": "屎大棒^yellow;^reset;"
+  }
+]

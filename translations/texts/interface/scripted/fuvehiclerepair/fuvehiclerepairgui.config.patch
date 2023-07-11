@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": " Roger Repairo",
+    "value": " 修车杰哥"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": " Repair your vehicles here!",
+    "value": " 此地修车，童叟无欺！"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/repairButton/caption",
+    "raw": "Repair",
+    "value": "修复"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/cancel/caption",
+    "raw": "Cancel",
+    "value": "取消"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/emptyLabel/value",
+    "raw": "You don't have any vehicles to repair!",
+    "value": "你没有任何载具可修！"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/chipCostDescription/value",
+    "raw": "REQUIRED PIXELS",
+    "value": "需要像素"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/chipCost/value",
+    "raw": "0 / --",
+    "value": ""
+  }
+]

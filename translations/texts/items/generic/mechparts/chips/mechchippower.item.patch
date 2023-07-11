@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Increases mech arms power raising fuel usage.",
+    "value": "增强机械臂动力，但提高燃料使用量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Overclocker Module",
+    "value": "超频模块"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Likely incredibly inedible for non-mechanicals. ^yellow;Type: Robot Food^reset;",
+    "value": "对非机械来说没法吃。\n^yellow;类型：机械食物^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Oil Stew",
+    "value": "机油汤"
+  }
+]

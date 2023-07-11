@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shhhh. Be vewy vewy quiet.",
+    "value": "嘘，安静一点。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stealth",
+    "value": "隐形基因"
+  }
+]

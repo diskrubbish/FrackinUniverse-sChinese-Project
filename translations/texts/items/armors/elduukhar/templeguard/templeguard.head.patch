@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A helmet worn by Eld'uukhar guards.",
+    "value": "厄修安龙人守卫所戴的头盔"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Temple Helmet",
+    "value": "寺院头盔"
+  }
+]

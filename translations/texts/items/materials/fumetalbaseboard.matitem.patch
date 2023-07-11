@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decorative metal strip",
+    "value": "装饰性的金属条。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metal Baseboard",
+    "value": "金属基板"
+  }
+]

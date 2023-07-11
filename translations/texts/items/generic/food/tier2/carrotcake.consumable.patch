@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's a delicious carrot cake! Tastes better than it sounds. ^orange;Type: Vegetables + Dairy + Eggs + Sugar^reset;",
+    "value": "这是一个美味的胡萝卜蛋糕！比想象中的更赞。\n^orange;类型：蔬菜 + 蛋奶 + 糖类^reset;"
+  }
+]

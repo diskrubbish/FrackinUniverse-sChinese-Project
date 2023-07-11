@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sandy honeycomb.",
+    "value": "沙质的蜂巢。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Arid Honeycomb",
+    "value": "沙漠蜂巢"
+  }
+]

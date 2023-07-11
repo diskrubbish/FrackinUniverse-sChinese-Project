@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The ultimate lashing device. Just don't get it caught on the crossguard.",
+    "value": "终极捆绑设备。只是不要让它陷入交叉防护中。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Whip",
+    "value": "阳清鞭"
+  }
+]

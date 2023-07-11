@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Eye",
+    "value": "黏液眼"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The eye of a slime behemoth.",
+    "value": "粘液巨兽的眼睛。"
+  }
+]

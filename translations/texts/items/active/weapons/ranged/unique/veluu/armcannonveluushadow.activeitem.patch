@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Attaches to the forearm. Fires shadow blasts.\n^cyan;Lowers foes resistances.^reset;",
+    "value": "附在前臂上。发射暗影冲击。\n^cyan;降低敌人抗性^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vel'uuish Umbrum",
+    "value": "灵猫影魔"
+  }
+]

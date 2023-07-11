@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Reinforces mech defense, increasing total mass as a result.",
+    "value": "增强机甲防御，但代价是增加其总质量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bastion Module",
+    "value": "壁垒模块"
+  }
+]

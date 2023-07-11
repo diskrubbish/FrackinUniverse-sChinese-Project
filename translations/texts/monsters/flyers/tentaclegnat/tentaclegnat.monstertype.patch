@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tentacle Gnat",
+    "value": "触手小虫"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A disgusting fleshy parasite.",
+    "value": "一种恶心的肉质寄生虫。"
+  }
+]

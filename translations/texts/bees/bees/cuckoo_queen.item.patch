@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cuckoo Queen",
+    "value": "布谷蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cuckoo Queen",
+    "value": "布谷蜂后"
+  }
+]

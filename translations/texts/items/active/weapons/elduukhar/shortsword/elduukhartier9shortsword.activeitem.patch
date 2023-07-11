@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This blade is useful, but it seems to have been made more for vanity.",
+    "value": "这把刀刃非常有用，但是看起来只是出于虚荣心而造。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Opul Shortsword",
+    "value": "欧普尔短剑"
+  }
+]

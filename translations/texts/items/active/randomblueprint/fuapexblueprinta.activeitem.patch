@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The blueprints for energetic Apex armour.",
+    "value": "猿族能量盔甲的蓝图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apex Schematics (Energy)",
+    "value": "猿族盔甲架构图(能量)"
+  }
+]

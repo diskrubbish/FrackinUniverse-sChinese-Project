@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mark of the Edgelord.\n^cyan;Immune^reset;: ^red;Common Sense^reset;, ^red;Charisma^reset;",
+    "value": "中二病的标志。\n^cyan;拒绝^reset;: ^red;常识^reset;, ^red;魅力^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Douche Hat",
+    "value": "冲洗帽"
+  }
+]

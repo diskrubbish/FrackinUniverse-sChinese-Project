@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A jagged and chitinous curved reaper of flesh.\n^cyan;Counts as Hunting weapon^reset;",
+    "value": "一把锯齿状弯曲的割肉器。\n^yellow;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Scythe",
+    "value": "蚁族镰刀"
+  }
+]

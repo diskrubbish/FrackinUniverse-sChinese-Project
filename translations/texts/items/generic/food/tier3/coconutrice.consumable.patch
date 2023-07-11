@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You can't see the coconut, but it's there! The taste is amazing. ^green;Type: Grain^reset;",
+    "value": "你看不到椰子，但它就在那！\n^green;类型：素食^reset;"
+  }
+]

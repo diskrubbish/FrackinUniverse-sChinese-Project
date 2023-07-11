@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The blueprints for sturdy Novakid armour.",
+    "value": "星之子坚固盔甲的蓝图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Novakid Schematics (Health)",
+    "value": "星之子盔甲架构图(生命)"
+  }
+]

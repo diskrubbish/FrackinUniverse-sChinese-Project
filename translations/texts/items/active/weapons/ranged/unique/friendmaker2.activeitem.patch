@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Enormous knockback potential.",
+    "value": "击退力极大。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Jessica",
+    "value": "杰西卡"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Blocker Blast",
+    "value": "拦截阵"
+  }
+]

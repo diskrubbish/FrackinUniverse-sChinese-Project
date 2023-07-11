@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hemogolem",
+    "value": "鲜血魔像"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This shouldn't even be possible, but there you have it. I dare you to lick one.",
+    "value": "这本来是不可能的，但是这又千真万确。我看你敢不敢舔一下。"
+  }
+]

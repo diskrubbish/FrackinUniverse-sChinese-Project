@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sweet-smelling rock candy!\n^green;Extractable^reset;.",
+    "value": "闻起来香喷喷的冰糖！\n^green;可萃取^reset;。"
+  }
+]

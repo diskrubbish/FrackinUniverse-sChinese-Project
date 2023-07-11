@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cosmic antimatter energy infuses this comb. Grants Shadow Taint immunity.",
+    "value": "啊 ~ 反物质的能量 ~ 会 - 于此蜂巢 ~ 食用后赋予得暗影免疫。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shrouded Honeycomb",
+    "value": "护罩蜂巢"
+  }
+]

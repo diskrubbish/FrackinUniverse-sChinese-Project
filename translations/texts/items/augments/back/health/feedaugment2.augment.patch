@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "EPP Module: -^green;35^reset;% Hunger Drain",
+    "value": "EPP模块: -^green;35^reset;% 饥饿速率"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Feeding II",
+    "value": "EPP模块（饱腹 II）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Feeding II",
+    "value": "EPP模块（饱腹 II）"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This light, volatile alcohol is produced from destructive extraction from wood.",
+    "value": "这种轻而易挥发的酒精是从木材中破坏性提取而得的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Methanol",
+    "value": "甲醇"
+  }
+]

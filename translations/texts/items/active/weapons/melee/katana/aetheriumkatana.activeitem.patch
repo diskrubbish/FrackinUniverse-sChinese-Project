@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "There isn't any katana that can top this.\n^cyan;Massive 10-hit combo!^reset;",
+    "value": "没有任何一把武士刀能比得上它。\n^cyan;魁伟的10连斩！^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Katana",
+    "value": "阳清武士刀"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "A real hard sword for a real hard dude.",
+    "value": "对于真正的猛男来说是把真正的硬剑。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Aetherium Soulslasher",
+    "value": "阳清斩魂者"
+  }
+]

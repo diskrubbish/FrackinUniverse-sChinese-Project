@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbral 'Troid",
+    "value": "半影兽"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A nasty, nasty beast.",
+    "value": "一种令人厌恶的野兽"
+  }
+]

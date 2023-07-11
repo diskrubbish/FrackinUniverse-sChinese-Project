@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A face-whacker!",
+    "value": "呼你一脸！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rare Mace",
+    "value": "精良钉头锤"
+  }
+]

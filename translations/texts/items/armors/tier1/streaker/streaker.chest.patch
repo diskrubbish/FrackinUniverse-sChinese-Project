@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Must be perfect for the beach. Or showing off.",
+    "value": "海滩或炫耀的完美之选。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Muscle 'Shirt'",
+    "value": "肌肉衬衫"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Glimmering 'Shirt'",
+    "value": "闪耀衬衫"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "So sparkly...",
+    "value": "如此闪亮动人..."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "Streaker's Shirt",
+    "value": "裸奔者衬衫"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "Show off that bod!",
+    "value": "展示你的身材！"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/shortdescription",
+    "raw": "Emperor's Robe",
+    "value": "皇帝长袍"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/description",
+    "raw": "You are the regal Emperor, sovereign of all.",
+    "value": "你是帝王，统治一切。"
+  }
+]

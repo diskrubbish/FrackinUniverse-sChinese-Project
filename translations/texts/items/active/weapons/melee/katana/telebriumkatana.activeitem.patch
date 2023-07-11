@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Super light and agile.\n^yellow;4 hit combo^reset;",
+    "value": "极其轻便而灵巧。\n^yellow;4连斩^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Katana",
+    "value": "月海武士刀"
+  }
+]

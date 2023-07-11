@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Designed for combat in super-hot environments.",
+    "value": "专为在超级环境中战斗而设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Inferno Pants",
+    "value": "炼狱腿甲"
+  }
+]

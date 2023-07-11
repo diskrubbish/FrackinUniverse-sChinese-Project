@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Box o' Wolves",
+    "value": "装有狼的盒子"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I...but....how?",
+    "value": "我……但……这是怎么做到的？"
+  }
+]

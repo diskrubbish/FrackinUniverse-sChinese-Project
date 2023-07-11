@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pure amber hammer fit for the queen.\n^cyan;Floran^reset;",
+    "value": "姐就是女王，玛瑙放光芒。\n^cyan;叶族^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Queen Hammer",
+    "value": "蜂后之锤"
+  }
+]

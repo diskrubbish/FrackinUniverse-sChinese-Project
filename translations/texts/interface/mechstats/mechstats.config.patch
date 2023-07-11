@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": "  Mech Loadouts Screen",
+    "value": "  机械装载显示屏"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": "Change your mech items with one click!",
+    "value": "只需点一下就可更改你的机械部件！"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblLoadoutSelect/value",
+    "raw": "Select your current loadout:",
+    "value": "选择您当前的装载："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblLoadout1/value",
+    "raw": "Loadout 1",
+    "value": "装载1"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblLoadout2/value",
+    "raw": "Loadout 2",
+    "value": "装载2"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblLoadout3/value",
+    "raw": "Loadout 3",
+    "value": "装载3"
+  }
+]

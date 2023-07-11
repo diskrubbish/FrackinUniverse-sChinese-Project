@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A shining amber block of made of crystals.",
+    "value": "一块闪亮的琥珀色水晶块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Crystal Block",
+    "value": "蜂蜜结晶方块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. This block is made of hardened honey.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ssshiny block.",
+    "value": "结结结方块"
+  }
+]

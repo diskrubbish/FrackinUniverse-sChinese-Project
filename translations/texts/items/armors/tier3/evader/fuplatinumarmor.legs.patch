@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; +^green;25^reset;% Shield Regen, Stamina, Block\n^yellow;^reset; Shield and Sword: +^green;8^reset;% Phys. Resist",
+    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; +^green;25^reset;% 盾牌耐久回复, 耐久, 格挡\n^yellow;^reset; 盾+剑: +^green;8^reset;% 物理抗性"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Evader Greaves",
+    "value": "碳制腿甲"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Its petals are made with soft silk!",
+    "value": "它的花瓣是用柔软的丝绸制成的！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Springbop Mask",
+    "value": "春波普面具"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Compressed, purified irradium. Generally found on Irradiated worlds.",
+    "value": "一块压缩过的纯化镭。一般被发现于强放射性的世界。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Bar",
+    "value": "镭锭"
+  }
+]

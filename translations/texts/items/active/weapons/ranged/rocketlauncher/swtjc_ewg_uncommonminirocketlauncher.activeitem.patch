@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Launches smaller anti-personnel rockets in fairly quick succession.",
+    "value": "相当快地连续发射较小的杀伤性火箭。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Uncommon Mini-Rocket Launcher",
+    "value": "优秀的微型火箭发射器"
+  }
+]

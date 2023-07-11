@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A complete set of ^green;Monster^white; themed furniture. ^green;A savings of 25%!^reset;",
+    "value": "一整套^green;怪物^white;主题家具。^green;节省25%!^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Monster Set Bundle",
+    "value": "怪物家具捆绑包"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Leafcutter Young Queen",
+    "value": "幼年的切叶蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Leafcutter Queen",
+    "value": "幼年切叶蜂后"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Absolute Zero.",
+    "value": "达到了绝对零度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Staff",
+    "value": "寒霜法杖"
+  }
+]

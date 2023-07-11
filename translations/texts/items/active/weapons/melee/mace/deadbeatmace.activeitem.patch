@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dense, deadly and heavy.\n^cyan;Causes bleeding^reset;",
+    "value": "致密，致命，沉重。\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Junk Mace",
+    "value": "废料钉头锤"
+  }
+]

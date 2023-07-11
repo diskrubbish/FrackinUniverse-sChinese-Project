@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Before you ask, no, it isn't edible.",
+    "value": "以防你问，不，它不能吃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chocolate Caketop Mask",
+    "value": "巧克力蛋糕娃面具"
+  }
+]

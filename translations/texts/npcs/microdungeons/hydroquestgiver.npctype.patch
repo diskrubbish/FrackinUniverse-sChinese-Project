@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "raw": "I grew weary of watching Jersey Shore like all the other idiots out there. I turned to murder, instead.",
+    "value": "我看到它们就和一群蠢货一样，于是我选择了杀戮。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "raw": "I've never seen a unicorn that farts fire before. Have you?",
+    "value": "我从来没有见过独角兽会喷火，你呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/apex/0",
+    "raw": "I don't think anyone should eat thumbtacks.",
+    "value": "我认为所有人都不应该吃图钉。"
+  }
+]

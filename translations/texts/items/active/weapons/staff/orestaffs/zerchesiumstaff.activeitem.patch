@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Frosty death in a convenient size.",
+    "value": "恰到好处的冰冻杀戮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Staff",
+    "value": "高熔点法杖"
+  }
+]

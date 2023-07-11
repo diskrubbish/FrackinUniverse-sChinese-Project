@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Magmarock. This is hot stuff.\n^green;Extractable^reset;, ^orange;Crushable^reset;, ^red;Smeltable^reset;.",
+    "value": "岩浆岩。这可真烫。\n^green;可萃取^reset;，^orange;可粉碎^reset;，^red;可冶炼^reset;。"
+  }
+]

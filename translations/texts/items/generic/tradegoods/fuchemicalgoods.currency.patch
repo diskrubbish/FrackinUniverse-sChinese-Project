@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sealed crate of chemical compounds, valuable for interstellar trade.",
+    "value": "一些密封的化学物质，对星际贸易很有价值。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chemical Compounds",
+    "value": "化学物质"
+  }
+]

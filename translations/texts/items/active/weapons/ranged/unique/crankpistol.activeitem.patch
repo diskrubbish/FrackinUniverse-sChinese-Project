@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rusty nail pistol! Super fun!\n^yellow;Inflicts bleeding^reset;",
+    "value": "生锈的钉子手枪！ 超级好玩！\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crank Pistol",
+    "value": "曲柄手枪"
+  }
+]

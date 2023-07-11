@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dense, thickly rooted X'ian bulbs and roots.",
+    "value": "致密，厚实的艾肯球茎和根。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Greataxe",
+    "value": "艾肯巨斧"
+  }
+]

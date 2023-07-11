@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; ^cyan;Immune^reset;: Extreme Heat/Cold/Radiation, Acid",
+    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; ^cyan;免疫^reset;: 极端炎热/寒冷/辐射, 酸蚀"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Morphite Chestpiece MK2",
+    "value": "异极胸甲 MK2"
+  }
+]

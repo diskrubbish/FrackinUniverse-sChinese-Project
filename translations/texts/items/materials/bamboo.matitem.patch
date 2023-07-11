@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Freshly cut stalks of bamboo.\n^green;Extractable^reset;.",
+    "value": "新鲜的竹竿切块。\n^green;可萃取^reset;。"
+  }
+]

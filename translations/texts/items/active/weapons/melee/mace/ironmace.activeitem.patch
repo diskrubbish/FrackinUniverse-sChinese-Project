@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Well crafted, but heavy.",
+    "value": "除了有些沉重之外，还算是把不错的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Mace",
+    "value": "铁制钉头锤"
+  }
+]

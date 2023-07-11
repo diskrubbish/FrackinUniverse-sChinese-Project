@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lobster",
+    "value": "龙虾"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An underwater arachnid. Delicious meat.",
+    "value": "水下蜘蛛纲动物。肉很美味。"
+  }
+]

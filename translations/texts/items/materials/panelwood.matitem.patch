@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This wood panelling was fashionable in a distant era.",
+    "value": "这种木面板在很久以前就很流行了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Timber Panels",
+    "value": "木板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. It appears these panels of wood are decorative.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sstrange wood panelss for decoration.",
+    "value": "装饰用的奇奇奇异木板板板。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Wood panels, that's how y'know this place is fancy.",
+    "value": "木板，这就为什么这个地方很漂亮的原因。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Unsettlingly red.\n^yellow;6 hit combo^reset;",
+    "value": "令人不安的鲜红色。\n^yellow;6连斩^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quietus Katana",
+    "value": "寂灭武士刀"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Delicious and nutritious. ^red;Type: Raw Meat^reset;",
+    "value": "美味又营养。\n^red;类型：生肉食^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A Squishy Human Eye",
+    "value": "黏糊糊的人眼"
+  }
+]

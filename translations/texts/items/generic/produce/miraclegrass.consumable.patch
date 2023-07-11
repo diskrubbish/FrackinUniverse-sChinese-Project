@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Heal 244.7% HP^reset;: 220s",
+    "value": "^yellow;^reset;^cyan;治疗 244.7% HP^reset;: 220s"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Miracle Grass Root",
+    "value": "奇迹草根"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A coarse, seedy jam that leaves behind a dry taste in your mouth. ^green;Type: Vegetable Desert^reset;",
+    "value": "一瓶粗糙的、多籽的果酱，尝起来会有一种干燥的口感。\n^green;类型：蔬菜甜食^reset;"
+  }
+]

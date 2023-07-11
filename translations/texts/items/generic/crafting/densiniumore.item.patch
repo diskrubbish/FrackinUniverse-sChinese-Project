@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A morphic-state form of Osmium, the densest metal",
+    "value": "密度最大的金属——锇的一种形变态。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Densinium Ore",
+    "value": "超致密矿"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides +10% Shadow Resist",
+    "value": "^cyan;暗影抗性+10^reset;%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Resist I",
+    "value": "EPP模块（暗影抵抗 I）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Shadow Resist I",
+    "value": "EPP模块（暗影抵抗 I）"
+  }
+]

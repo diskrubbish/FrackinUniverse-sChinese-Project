@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wedge of cheese. ^orange;Type: Dairy^reset;",
+    "value": "一块楔形奶酪。\n^orange;类型：蛋奶^reset;"
+  }
+]

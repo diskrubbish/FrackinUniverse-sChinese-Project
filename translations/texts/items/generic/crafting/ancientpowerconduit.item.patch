@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of previously undiscovered Ancient technology.",
+    "value": "某种之前未被发现的古人科技。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#e43774;Unknown Device^reset;",
+    "value": "^#e43774;未知设备^reset;"
+  }
+]

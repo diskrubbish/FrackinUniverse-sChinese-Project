@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^#a5ff00;Edged with glowing forms, etched in runes. It whispers into your mind.^reset;",
+    "value": "^#a5ff00;边缘嵌有发光的符文。它在你心中低语。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#a5ff00;Elder Cleaver^reset;",
+    "value": "^#a5ff00;远古劈刀^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Shadow Trail",
+    "value": "暗影之痕"
+  }
+]

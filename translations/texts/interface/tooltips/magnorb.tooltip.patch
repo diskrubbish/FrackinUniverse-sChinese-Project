@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/maxDamageTitleLabel/value",
+    "raw": "Damage Per Shot:",
+    "value": "每击伤害："
+  },
+  {
+    "op": "replace",
+    "path": "/forceTitleLabel/value",
+    "raw": "Force:",
+    "value": "势能："
+  },
+  {
+    "op": "replace",
+    "path": "/shieldHealthTitleLabel/value",
+    "raw": "Shield Health:",
+    "value": "盾牌耐久："
+  },
+  {
+    "op": "replace",
+    "path": "/shieldPowerTitleLabel/value",
+    "raw": "Special:",
+    "value": "特殊："
+  },
+  {
+    "op": "replace",
+    "path": "/critChanceTitleLabel/value",
+    "raw": "^#ee1414;Crit %^reset;",
+    "value": "^#ee1414;暴击率^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/critBonusTitleLabel/value",
+    "raw": "^yellow;Dmg +^reset;",
+    "value": "^yellow;暴击伤害^reset;"
+  }
+]

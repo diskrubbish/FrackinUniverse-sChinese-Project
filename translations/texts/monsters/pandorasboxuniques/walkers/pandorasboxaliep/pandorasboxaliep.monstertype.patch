@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aliep",
+    "value": "眼力普"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It patiently waits for an opportunity to strike, watching its prey with its many eyes.",
+    "value": "它耐心地等待着突击的机会，用很多眼睛看着它的猎物。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+20% Ice Res^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;+20%寒气抗性^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Talon Sprout",
+    "value": "鹰爪芽"
+  }
+]

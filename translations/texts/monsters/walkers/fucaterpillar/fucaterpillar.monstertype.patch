@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ravalok",
+    "value": "拉瓦卢克蠕虫"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This magnificently huge caterpillar must molt into something...",
+    "value": "这只巨大的毛虫一定会蜕变成某种东西..."
+  }
+]

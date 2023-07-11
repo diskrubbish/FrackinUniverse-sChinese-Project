@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wheat seed that has sprouted!",
+    "value": "一份已经发芽的小麦。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sprouted Wheat Seed",
+    "value": "发芽的小麦"
+  }
+]

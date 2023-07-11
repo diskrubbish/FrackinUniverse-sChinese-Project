@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cybernetic Drone",
+    "value": "赛博工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cybernetic Drone",
+    "value": "赛博工蜂"
+  }
+]

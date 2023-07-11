@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zapin",
+    "value": "无重液"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sentient mass of fluids which can influence gravity.",
+    "value": "一种能够影响重力的有感知的流体。"
+  }
+]

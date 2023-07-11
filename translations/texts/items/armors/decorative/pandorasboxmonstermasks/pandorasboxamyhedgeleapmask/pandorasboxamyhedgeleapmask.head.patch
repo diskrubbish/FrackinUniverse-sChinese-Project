@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just as clingy as the real thing!",
+    "value": "像实物一样牢固！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Amy Hedgeleap Mask",
+    "value": "艾米飞鼠面具"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Vine-covered stones.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "布满藤蔓的石头。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Jungle Stone",
+    "value": "丛林石块"
+  }
+]

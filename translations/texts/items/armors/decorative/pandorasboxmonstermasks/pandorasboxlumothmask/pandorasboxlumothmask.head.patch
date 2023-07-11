@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Makes cute headwear, and actually and actually provides some light if worn in the regular headgear slot.",
+    "value": "非常可爱的面具，也会发出一些光亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lumoth Mask",
+    "value": "路莫斯面具"
+  }
+]

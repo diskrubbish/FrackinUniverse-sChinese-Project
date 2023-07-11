@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that removes the slowing effects of mud, clay, and jungle tiles.",
+    "value": "^cyan;免疫来自泥、黏土、丛林泥块的减速效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mobility I",
+    "value": "EPP模块（移动性 I）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Mobility I",
+    "value": "EPP模块（移动性 I）"
+  }
+]

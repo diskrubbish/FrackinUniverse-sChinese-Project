@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that lets you walk on top of water.",
+    "value": "一个让你能够水上行走的EPP模块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Water Walk",
+    "value": "EPP模块（水上行走）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Water Walk",
+    "value": "水上行走"
+  }
+]

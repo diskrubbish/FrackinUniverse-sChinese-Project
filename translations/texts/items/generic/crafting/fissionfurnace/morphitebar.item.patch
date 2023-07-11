@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lab-created and highly malleable metal that can serve many uses.",
+    "value": "在实验室中制造的可塑性极强的合金，具有多种用途。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Morphite Bar",
+    "value": "异极合金锭"
+  }
+]

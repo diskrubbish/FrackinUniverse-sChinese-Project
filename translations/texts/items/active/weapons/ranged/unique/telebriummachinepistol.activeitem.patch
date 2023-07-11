@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium SMG",
+    "value": "月海自动手枪"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rapid fire poison-tipped rounds.",
+    "value": "发射高速的有毒子弹。"
+  }
+]

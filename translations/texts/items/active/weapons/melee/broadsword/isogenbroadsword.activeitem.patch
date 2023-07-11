@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The chilling touch of frosty death.\n^cyan;Inflicts Freezing^reset;",
+    "value": "死亡霜冻的寒冷之触。\n^cyan;附加冻结效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Ruinblade",
+    "value": "寒霜破灭宽剑"
+  }
+]

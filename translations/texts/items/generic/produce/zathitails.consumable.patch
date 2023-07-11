@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+30% Cosmic Res^reset;: 3m",
+    "value": "^yellow;^reset;^cyan;+30%射线抗性^reset;: 3m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zathi Node",
+    "value": "扎蒂结节"
+  }
+]

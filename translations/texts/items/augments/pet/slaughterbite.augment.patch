@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A collar that makes your pet do radius damage when harmed.",
+    "value": "一个宠物项圈，它可以让你的宠物拥有范围伤害的能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slaughterbite",
+    "value": "杀戮项圈"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "raw": "Slaughterbite",
+    "value": "杀戮项圈"
+  }
+]

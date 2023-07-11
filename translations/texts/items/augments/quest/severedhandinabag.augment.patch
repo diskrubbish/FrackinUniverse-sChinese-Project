@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Can walk on water. For some reason.^reset;\n^cyan;You are also quite enraged.^reset;",
+    "value": "^green;因为某些原因，可以在水上行走。^reset;\n^cyan;同时你也颇为激怒。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Severed Hand in a Bag^reset;",
+    "value": "^cyan;断手囊袋^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Severed Hand in a Bag",
+    "value": "断手囊袋"
+  }
+]

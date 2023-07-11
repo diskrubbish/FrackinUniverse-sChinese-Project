@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Deer",
+    "value": "鹿"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A medium-sized hoofed forest creature that grows its antlers back each year.",
+    "value": "一种中等体型、有蹄的森林动物，每年都会长出鹿角。"
+  }
+]

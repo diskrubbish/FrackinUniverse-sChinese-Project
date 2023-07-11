@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;200% Ice Thorns^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;200%冰霜反伤^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pekkit",
+    "value": "霜草"
+  }
+]

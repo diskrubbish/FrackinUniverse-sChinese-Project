@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An aromatic honeycomb. Low grade healing.",
+    "value": "香气四溢的蜂巢。具有低效愈合效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Floral Honeycomb",
+    "value": "花香蜂巢"
+  }
+]

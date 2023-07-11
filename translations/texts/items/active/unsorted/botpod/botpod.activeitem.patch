@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Activate to deploy the stored bot.",
+    "value": "使用后将会激活储存在里面的机器人"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bot Pod",
+    "value": "机器人捕捉舱"
+  }
+]

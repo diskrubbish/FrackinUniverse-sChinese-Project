@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^red;Do Not Consume.^reset; Side effects include obsessive behavior and bad body odor.\n^red;-^white;5% ^red;HP^gray;, ^red;Poisoned ^gray;(^white;1m^gray;)^reset;",
+    "value": "^red;请勿食用。^reset;副作用包括强迫性行为和体臭。\n^red;-^white;5% ^red;HP^gray;, ^red;中毒^gray;(^white;持续1m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mr. Chow's Troll Food",
+    "value": "周先生的巨魔食物"
+  }
+]

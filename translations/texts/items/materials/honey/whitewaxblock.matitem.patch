@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "White Wax",
+    "value": "白色蜡"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block of white wax.\n^green;Extractable^reset;.",
+    "value": "一块白色的蜡。\n^green;可萃取^reset;。"
+  }
+]

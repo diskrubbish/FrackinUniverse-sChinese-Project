@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/upgrades/size1/description",
+    "raw": "Increase area of effect by +1",
+    "value": "作用区域边长边缘+1格"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/size2/description",
+    "raw": "Increase area of effect by +1",
+    "value": "作用区域边长边缘+1格"
+  },
+  {
+    "op": "replace",
+    "path": "/upgrades/size3/description",
+    "raw": "Increase area of effect by +1",
+    "value": "作用区域边长边缘+1格"
+  }
+]

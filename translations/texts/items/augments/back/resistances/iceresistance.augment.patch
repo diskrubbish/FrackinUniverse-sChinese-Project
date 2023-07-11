@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that resists the Ice element.\n^green;+25% Ice Resist.\n^cyan;Immune: Freeze, Slush, Ice Slip, Snow Slow^reset;.",
+    "value": "一个能够抵抗寒气元素的EPP模块。\n^cyan;寒气抗性+25%\n^cyan;免疫：冻结，来自冰、雪和雪泥的减速和滑行效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice Barrier",
+    "value": "EPP模块（寒气屏障）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Ice Barrier",
+    "value": "EPP模块（寒气屏障）"
+  }
+]

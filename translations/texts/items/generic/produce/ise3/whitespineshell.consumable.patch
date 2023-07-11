@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune^reset;: Sulphuric Acid: 2m",
+    "value": "^yellow;^reset;^cyan;免疫^reset;: 硫酸: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Whitespine Shell",
+    "value": "白棘壳"
+  }
+]

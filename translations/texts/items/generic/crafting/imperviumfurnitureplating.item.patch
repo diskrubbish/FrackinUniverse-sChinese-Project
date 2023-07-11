@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Impervium, carefully prepared for crafting furniture with.",
+    "value": "为家具精心准备的统制化合物面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Impervium Plating",
+    "value": "统制面板"
+  }
+]

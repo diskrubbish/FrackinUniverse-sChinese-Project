@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Narfin",
+    "value": "棱光海狮"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It uses its horns to attract a partner. The light shows during mating season are spectacular.",
+    "value": "它用它的角来吸引伴侣，在交配季节的灯光秀很是壮观。"
+  }
+]

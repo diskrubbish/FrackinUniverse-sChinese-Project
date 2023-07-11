@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A powerful and bizarre biological weapon.\n^yellow;Inflicts pus effect, morphs tiles^reset;\n^green;Multi-explosion, weird physics^reset;",
+    "value": "强大又怪异的生物武器。\n^cyan;附加脓液效果，改变物块^reset;\n^yellow;多重爆炸，奇怪的物理性质^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ocu Cannon",
+    "value": "眼球炮"
+  }
+]

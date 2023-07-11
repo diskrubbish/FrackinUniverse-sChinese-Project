@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ore Drone III",
+    "value": "矿石机器人 III"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides information on nearby ores.",
+    "value": "提供附近矿石的资料。"
+  }
+]

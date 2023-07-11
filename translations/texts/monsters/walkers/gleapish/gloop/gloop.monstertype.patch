@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gloop",
+    "value": "葛鲁普"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "When in danger it will dispense toxic spores.",
+    "value": "当面对危险时，它会释放出有毒的孢子。"
+  }
+]

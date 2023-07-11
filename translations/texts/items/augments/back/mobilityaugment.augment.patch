@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that grants ^cyan;Run Boost^reset; and ^cyan;Jump Boost^reset; augment effects.",
+    "value": "一个赋予^cyan;跑动加速^reset;和^cyan;跳跃加成^reset;的EPP模块。"
+  }
+]

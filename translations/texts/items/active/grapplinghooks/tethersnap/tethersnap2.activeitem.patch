@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An amazing grappler that ^orange;regenerates your energy^reset; when extended.",
+    "value": "一个惊人的抓钩。当它伸出的时候可以^orange;回复你的能量^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Energy Tether",
+    "value": "能量系链"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A traditional screen panel.",
+    "value": "一扇传统的屏风面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shoji Decorated Panel",
+    "value": "拉门装饰板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "raw": "Charmed. These panels are simple and traditional.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "raw": "Sstrange screen panelss.",
+    "value": "奇奇奇怪的屏风面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "raw": "A fancy lookin' screen panel.",
+    "value": "一扇看起来很奇特的屏风面板。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Insulated on the inside to keep your face warm!",
+    "value": "内部隔热，让你的脸保持温暖！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Winterbop Mask",
+    "value": "冬波普面具"
+  }
+]

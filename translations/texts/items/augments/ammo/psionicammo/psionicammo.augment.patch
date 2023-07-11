@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Powerful multi-element attack.",
+    "value": "强大的混合元素攻击。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Overload Ammo",
+    "value": "超载弹药"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sniper rifle that fires streams of energy at distant targets with pinpoint accuracy, it's only as accurate as the one wielding it.",
+    "value": "它可以准确地从远处击中目标。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NPC Beam Rifle",
+    "value": "NPC的光束步枪"
+  }
+]

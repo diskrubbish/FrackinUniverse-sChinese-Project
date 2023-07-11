@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Great and terrible nuclear power. Handle with care.",
+    "value": "伟大而又可怕的核子力量，请小心使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;Nuclear Core^reset;",
+    "value": "^#88e25b;核能核心^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Purified, extracted bloodstone.",
+    "value": "经过纯化的血石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasmic Crystal",
+    "value": "血晶"
+  }
+]

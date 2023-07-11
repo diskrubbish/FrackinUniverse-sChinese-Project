@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cause of death thus far: undetermined. Autopsy for details.",
+    "value": "死因：至今尚未确定。解剖以获知详细。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cadaver",
+    "value": "尸体"
+  }
+]

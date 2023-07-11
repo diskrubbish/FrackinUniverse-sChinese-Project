@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cache of stored Research.",
+    "value": "已存储研究的缓存。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Unknown Matrix",
+    "value": "未知矩阵"
+  }
+]

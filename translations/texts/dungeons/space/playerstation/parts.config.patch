@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/parts/resshaft/description",
+    "raw": "A 6 room residential shaft.",
+    "value": "一个6格宽的住宅竖井。"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/reslarge/description",
+    "raw": "A large residential room.",
+    "value": "一间大的住宅房间。"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/solarhall1/description",
+    "raw": "A hallway with solar panels on top.",
+    "value": "顶部有太阳能电池板的走廊。"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/solarhall2/description",
+    "raw": "A hallway with solar arrays on top.",
+    "value": "顶部有太阳能电池阵列的走廊。"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/greenhouse/description",
+    "raw": "A greenhouse.",
+    "value": "一间温室。"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/greenhouselarge/description",
+    "raw": "A large greenhouse.",
+    "value": "一间大型温室。"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/resshaft/displayName",
+    "raw": "Residential Shaft",
+    "value": "住宅竖井"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/reslarge/displayName",
+    "raw": "Large Residential Room",
+    "value": "大型住宅房间"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/solarhall1/displayName",
+    "raw": "Solar Hall Tier 1",
+    "value": "一级太阳能厅"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/solarhall2/displayName",
+    "raw": "Solar Hall Tier 2",
+    "value": "二级太阳能厅"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/greenhouse/displayName",
+    "raw": "Greenhouse",
+    "value": "温室"
+  },
+  {
+    "op": "replace",
+    "path": "/parts/greenhouselarge/displayName",
+    "raw": "Large Greenhouse",
+    "value": "大型温室"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Regenerative plating and some mystery. Fun!",
+    "value": "让你看上去充满神秘感。真有趣！\n^cyan;提高盾牌耐久回复速度^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hooded Survival Mask",
+    "value": "蒙面生存面具"
+  }
+]

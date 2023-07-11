@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Call in a deadly air-to-surface missile barrage.",
+    "value": "从你的飞船上呼叫一轮致命的空对地导弹，对目标进行地毯式的打击。\n^red;只适合在室外环境使用^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Missile Salvo",
+    "value": "导弹齐射导引器"
+  }
+]

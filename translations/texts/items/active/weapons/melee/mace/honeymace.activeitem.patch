@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Probably not too effective. It's delicious, and that's what counts! Design by freetorule",
+    "value": "效率不成问题，美味才是所要。由freetorule设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honeyed Mace",
+    "value": "蜂蜜钉头锤"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Short-ranged drones ideal for mining defense.",
+    "value": "短程无人机是矿山防御的理想选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Breach Defense",
+    "value": "突破护卫"
+  }
+]

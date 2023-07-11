@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Thick, meaty weapon made from X'ian bulbs.",
+    "value": "用艾肯球茎做成的又厚又多肉的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Axe",
+    "value": "艾肯斧"
+  }
+]

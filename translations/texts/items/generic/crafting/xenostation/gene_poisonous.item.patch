@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Makes things sick or dead.",
+    "value": "生病或死亡。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poisonous",
+    "value": "毒性基因"
+  }
+]

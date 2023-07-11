@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires repulsive glowy goo-globs.\n^yellow;Hunting weapon^reset;\n^cyan;Poisonous Alt Attack^reset;",
+    "value": "令人厌恶的闪闪发光的黏糊糊的球。\n^yellow;狩猎武器^reset;\n^cyan;附加毒素攻击^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Bulb Gun",
+    "value": "艾肯球茎枪"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Thorn Spike",
+    "value": "尖刺球"
+  }
+]

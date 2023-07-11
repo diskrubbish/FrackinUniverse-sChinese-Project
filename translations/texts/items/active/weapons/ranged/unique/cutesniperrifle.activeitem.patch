@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lancing, dangerous projectiles.\n^yellow;Counts as 'energy' for set bonuses^reset;",
+    "value": "发射穿透性极强的危险子弹。\n^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prismatic Rifle",
+    "value": "棱镜狙击枪"
+  }
+]

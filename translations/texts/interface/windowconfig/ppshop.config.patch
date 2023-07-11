@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "raw": "                                       PROP PACK",
+    "value": "                                       满是家具"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "raw": "^white;           Your one-stop-shop for furnishings and more!^white;",
+    "value": "^white;           您的一站式家具商店以及更多其他玩意!^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "raw": "Buy",
+    "value": "购买"
+  },
+  {
+    "op": "replace",
+    "path": "/tooltip/itemList/schema/listTemplate/itemName/value",
+    "raw": "Golden Moustache",
+    "value": "金胡子"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblSchematics/value",
+    "raw": "PRODUCT",
+    "value": "产品"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProducttitle/value",
+    "raw": "PRODUCT DESCRIPTION",
+    "value": "产品介绍"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/tbSpinCount/regex",
+    "raw": "x?\\d{0,3}",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProduct/value",
+    "raw": "CAN AFFORD",
+    "value": "可购买"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/filter/hint",
+    "raw": "Search",
+    "value": "搜索"
+  }
+]

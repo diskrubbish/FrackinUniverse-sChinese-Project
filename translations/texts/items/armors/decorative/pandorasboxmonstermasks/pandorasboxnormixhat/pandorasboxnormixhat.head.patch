@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A completely average Normix hat.",
+    "value": "一个完全普普通通的泛狐帽"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Normix Hat",
+    "value": "泛狐帽"
+  }
+]

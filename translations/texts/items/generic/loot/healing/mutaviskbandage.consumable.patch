@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Heal ^white;85 ^gray;over ^white;1s^reset;",
+    "value": "^gray;在^white;1s内^green;治疗^white;85点生命值"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Mutavisk Bandage^reset;",
+    "value": "^#77acc3;飞螳绷带^reset;"
+  }
+]

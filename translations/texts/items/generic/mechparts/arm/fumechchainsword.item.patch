@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Absolutely filets the opposition.",
+    "value": "绝对能将反对者切成鱼片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "CROC Arm",
+    "value": "CROC机甲臂"
+  }
+]

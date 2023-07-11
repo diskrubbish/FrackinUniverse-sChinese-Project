@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lethally-edged weapon. Two-handed.\n^yellow;12 hit combo^reset;",
+    "value": "一把致命的刃。用双手使用。\n^yellow;12连斩^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Katana",
+    "value": "赛德瑞瑟武士刀"
+  }
+]

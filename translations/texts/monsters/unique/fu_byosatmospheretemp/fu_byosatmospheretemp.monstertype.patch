@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "BYOS Atmosphere Temp",
+    "value": "BYOS大气温度"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Checks if the room is enclosed.",
+    "value": "检查房间是否密闭。"
+  }
+]

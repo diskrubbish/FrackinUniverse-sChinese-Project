@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Somewhat solid clouds! You can even walk on them! They're pretty wet, though.\n^green;Extractable^reset;.",
+    "value": "有些湿润的云，你甚至可以在上面走！\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Raincloud Block",
+    "value": "雨云方块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. A block of clouds. Wet.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Mushy wet clouds.",
+    "value": "黏黏的湿湿湿湿的云。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A blue gem cut into sharp edges. It feels ice cold.",
+    "value": "一颗蓝色宝石，被切出锐利边缘。触感冰凉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apalite Crystal",
+    "value": "磷灰石水晶"
+  }
+]

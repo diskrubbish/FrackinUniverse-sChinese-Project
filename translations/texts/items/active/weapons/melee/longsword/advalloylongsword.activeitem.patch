@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Forged from carbon. Bolstered by rage.\n^cyan;Inflicts bleeding^reset;",
+    "value": "由碳锻造，由狂暴加固。\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Master's Longsword",
+    "value": "宗师长剑"
+  }
+]

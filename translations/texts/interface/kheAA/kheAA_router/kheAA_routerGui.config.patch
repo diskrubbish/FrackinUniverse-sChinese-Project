@@ -1,0 +1,260 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/helpLabel/value",
+    "raw": "^yellow;Help Mode^reset;:",
+    "value": "^yellow;帮助模式^reset;:"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/inputSlotLabel/value",
+    "raw": "Input Slots:",
+    "value": "输入第几格："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/outputSlotLabel/value",
+    "raw": "Output Slots:",
+    "value": "输出第几格："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/invInputSlot/caption",
+    "raw": "I",
+    "value": "忽"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/invOutputSlot/caption",
+    "raw": "I",
+    "value": "忽"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/filterSlotLabel/value",
+    "raw": "Filtered Items:",
+    "value": "被过滤的物品："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item1ButtonInvert/caption",
+    "raw": "Inv. Logic",
+    "value": "反选"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item1Label/value",
+    "raw": "Item 1",
+    "value": "物品 1"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item1LabelExact/value",
+    "raw": "Exact",
+    "value": "完全匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item1LabelType/value",
+    "raw": "Type",
+    "value": "类别匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item1LabelCategory/value",
+    "raw": "Category",
+    "value": "分类匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item2ButtonInvert/caption",
+    "raw": "Inv. Logic",
+    "value": "反选"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item2Label/value",
+    "raw": "Item 2",
+    "value": "物品 2"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item2LabelExact/value",
+    "raw": "Exact",
+    "value": "完全匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item2LabelType/value",
+    "raw": "Type",
+    "value": "类别匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item2LabelCategory/value",
+    "raw": "Category",
+    "value": "分类匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item3ButtonInvert/caption",
+    "raw": "Inv. Logic",
+    "value": "反选"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item3Label/value",
+    "raw": "Item 3",
+    "value": "物品 3"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item3LabelExact/value",
+    "raw": "Exact",
+    "value": "完全匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item3LabelType/value",
+    "raw": "Type",
+    "value": "类别匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item3LabelCategory/value",
+    "raw": "Category",
+    "value": "分类匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item4ButtonInvert/caption",
+    "raw": "Inv. Logic",
+    "value": "反选"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item4Label/value",
+    "raw": "Item 4",
+    "value": "物品 4"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item4LabelExact/value",
+    "raw": "Exact",
+    "value": "完全匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item4LabelType/value",
+    "raw": "Type",
+    "value": "类别匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item4LabelCategory/value",
+    "raw": "Category",
+    "value": "分类匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item5ButtonInvert/caption",
+    "raw": "Inv. Logic",
+    "value": "反选"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item5Label/value",
+    "raw": "Item 5",
+    "value": "物品 5"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item5LabelExact/value",
+    "raw": "Exact",
+    "value": "完全匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item5LabelType/value",
+    "raw": "Type",
+    "value": "类别匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/item5LabelCategory/value",
+    "raw": "Category",
+    "value": "分类匹配"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/filterFunctionsLabel/value",
+    "raw": "^red;Script Error^reset;",
+    "value": "^red;脚本错误^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/roundRobinMode/caption",
+    "raw": "Even Split",
+    "value": "平均拆分"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/roundRobinSlotMode/caption",
+    "raw": "Slot Split",
+    "value": "单格拆分"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/leaveOneItemMode/caption",
+    "raw": "Leave One",
+    "value": "仅留一个"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/onlyStackMode/caption",
+    "raw": "Stack Only",
+    "value": "仅堆叠"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/inputSlotCount/regex",
+    "raw": "^$|(^[1-9][0-9]{0,2}$)",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/inputSlotCount/hint",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/outputSlotCount/regex",
+    "raw": "^$|(^[1-9][0-9]{0,2}$)",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/outputSlotCount/hint",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/inputSlotScrollArea/children/inputSlotList/schema/listTemplate/slotNr/value",
+    "raw": "0-999",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/outputSlotScrollArea/children/outputSlotList/schema/listTemplate/slotNr/value",
+    "raw": "0-999",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/filterFunctionsLabel2/value",
+    "raw": "^red;Meow.^reset;",
+    "value": "^red;喵。^reset;"
+  }
+]

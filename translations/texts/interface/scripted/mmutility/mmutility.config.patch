@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/title/value",
+    "raw": "Configure MM",
+    "value": "物质枪设置"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/sizeLabel/value",
+    "raw": "Radius:",
+    "value": "挖掘格数："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/altSizeLabel/value",
+    "raw": "Alt Radius:",
+    "value": "次要挖掘格数："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/paintSizeLabel/value",
+    "raw": "Paint R:",
+    "value": "染色格数："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/altPaintSizeLabel/value",
+    "raw": "Alt Paint R:",
+    "value": "次要染色格数："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/collectLiquidsLabel/value",
+    "raw": "Collect Liquids:",
+    "value": "是否收集液体："
+  }
+]

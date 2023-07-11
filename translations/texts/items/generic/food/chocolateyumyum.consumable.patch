@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cream-filled moon cake. ^orange;Type: Grain + Dairy + Eggs + Sugar^reset;",
+    "value": "一个奶油月饼。\n ^orange;类型：谷物 + 蛋奶 + 甜食^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chocolate Yum Yum",
+    "value": "妙妙巧克力"
+  }
+]

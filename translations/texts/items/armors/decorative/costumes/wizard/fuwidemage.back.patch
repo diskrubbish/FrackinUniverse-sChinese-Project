@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Wands/Staves: +^green;5^reset; Projectiles, +^red;100^reset;% Cast/Charge Time, +^green;100^reset;% Range",
+    "value": "魔杖/法杖: +^green;5^reset; 投射物, +^red;100^reset;% 颂唱/充能时间, +^green;100^reset;% 距离"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Scroll of Devastation",
+    "value": "毁灭之卷"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crystalline sharpness and cuddles.",
+    "value": "月晶的锋利和这武器的造型简直是最完美的搭配。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Scythe",
+    "value": "月晶镰刀"
+  }
+]

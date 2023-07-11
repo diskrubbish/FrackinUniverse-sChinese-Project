@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I don't even remember when we started stocking this, but it looks cool, so we kept it!",
+    "value": "我都不记得我们什么时候开始储备它了，但它看起来真酷，所以我们留下了它！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glitchtop Mask",
+    "value": "异常吐舌娃面具"
+  }
+]

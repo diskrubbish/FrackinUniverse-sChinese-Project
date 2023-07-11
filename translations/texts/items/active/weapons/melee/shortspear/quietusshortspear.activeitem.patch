@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sharp, shiny blade ready to poison foes.\n^cyan;Inflicts Poison^reset;\n^cyan;Hunting weapon^reset;",
+    "value": "锋利闪亮的墙头，已准备好毒杀敌人。\n^cyan;造成中毒^reset;\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quietus Shortspear",
+    "value": "寂灭短矛"
+  }
+]

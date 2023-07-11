@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Red-Banded Drone",
+    "value": "红缎工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Red-Banded Drone",
+    "value": "红缎工蜂"
+  }
+]

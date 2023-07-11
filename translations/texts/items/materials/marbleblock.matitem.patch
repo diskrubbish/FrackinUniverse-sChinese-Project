@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bricks made from smooth marble.",
+    "value": "由光滑的大理石制成的砖块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Marble Bricks",
+    "value": "大理石砖块。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Fine marble bricks.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Marble bricksss.",
+    "value": "大理石砖砖砖块"
+  }
+]

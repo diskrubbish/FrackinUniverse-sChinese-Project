@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "35% Jump increase. +80% Run Speed.",
+    "value": "^cyan;跳跃力+35%，移动速度+80^reset;%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Weeeeeeeee!",
+    "value": "芜湖起飞!"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "raw": "Weee!",
+    "value": "芜湖!"
+  }
+]

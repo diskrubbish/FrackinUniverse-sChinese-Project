@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Devoratrix Young Queen",
+    "value": "幼年的吞食蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Devoratrix Queen",
+    "value": "幼年吞食蜂后"
+  }
+]

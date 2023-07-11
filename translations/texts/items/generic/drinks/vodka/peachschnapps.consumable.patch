@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bottle of peach flavored schnapps!\n^white;35% ^red;Slow ^gray;, ^red;Drunk ^gray;(^white;1m^gray;)^reset;",
+    "value": "一瓶葡桃味的甜酒！\n^white;35%^red;减速^gray;，^red;醉酒^gray;(^white;持续1m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peach Schnapps",
+    "value": "桃味甜酒"
+  }
+]

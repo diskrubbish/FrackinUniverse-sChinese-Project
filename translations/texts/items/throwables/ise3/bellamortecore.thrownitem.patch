@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bella Morte Bomb",
+    "value": "贝拉莫提炸弹"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This weapon spews out a cheery neurotoxin.",
+    "value": "这种武器在投掷后会释放出神经毒液。"
+  }
+]

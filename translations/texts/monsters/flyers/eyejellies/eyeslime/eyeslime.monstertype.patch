@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Eye",
+    "value": "黏液眼"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An eye immersed in a viscous fluid.",
+    "value": "浸泡在紫罗兰色粘液中的眼睛。"
+  }
+]

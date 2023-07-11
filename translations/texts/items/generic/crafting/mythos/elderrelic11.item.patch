@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of power core, or perhaps a battery.",
+    "value": "看起来像是某种能量核心，又或者是电池。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Elder Core^reset;",
+    "value": "^#ffe50e;远古核心^reset;"
+  }
+]

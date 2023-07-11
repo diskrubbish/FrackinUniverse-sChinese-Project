@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Immune^reset;: Moderate Cold, Mild Poison, Desert/Jungle Heat",
+    "value": "^cyan;免疫^reset;: 中度寒冷，轻度毒素, 丛林/沙漠炎热"
+  }
+]

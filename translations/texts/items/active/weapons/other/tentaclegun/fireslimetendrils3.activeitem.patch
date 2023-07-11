@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Reach out and hit somebody.",
+    "value": "伸手打人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fire Slime Tendrils III",
+    "value": "火焰粘液触须 III"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Fire Slime Tendrils ^yellow;^reset;",
+    "value": "火焰粘液触须 ^yellow;^reset;"
+  }
+]

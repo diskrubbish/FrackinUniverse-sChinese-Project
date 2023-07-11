@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange arrangement of very ancient, unknown stone.",
+    "value": "一种以奇怪方式排列的未知物质的石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Bricks",
+    "value": "远古砖"
+  }
+]

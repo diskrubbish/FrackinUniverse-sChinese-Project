@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy stairs",
+    "value": "合金台阶"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy looking metal stair.",
+    "value": "看起来坚固的金属台阶。"
+  }
+]

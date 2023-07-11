@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Beakseed. Mmm crunchy. ^green;Type: Vegetable^reset;",
+    "value": "鸟喙果。嗯，脆脆的。\n^green;类型：蔬菜^reset;"
+  }
+]

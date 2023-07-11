@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Makes more space for fuel but decreases mech maximum health.",
+    "value": "让机甲能装下更多燃料，但会减少机甲的最大耐久。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tank Module",
+    "value": "坦克模块"
+  }
+]

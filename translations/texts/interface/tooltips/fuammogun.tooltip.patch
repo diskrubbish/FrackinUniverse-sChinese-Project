@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/critChanceTitleLabel/value",
+    "raw": "^orange;Crit %^reset;",
+    "value": "^orange;暴击几率+^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/critBonusTitleLabel/value",
+    "raw": "^yellow;Dmg +^reset;",
+    "value": "^yellow;暴击伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/damagePerShotTitleLabel/value",
+    "raw": "Damage Per Shot:",
+    "value": "每击伤害："
+  },
+  {
+    "op": "replace",
+    "path": "/speedTitleLabel/value",
+    "raw": "Rate of Fire:",
+    "value": "射速："
+  },
+  {
+    "op": "replace",
+    "path": "/energyPerShotTitleLabel/value",
+    "raw": "Energy Per Shot:",
+    "value": "每击耗能："
+  },
+  {
+    "op": "replace",
+    "path": "/ammoAmountTitleLabel/value",
+    "raw": "Ammo:",
+    "value": "弹药："
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sand Decorated Pillar",
+    "value": "砂饰柱"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decorated pillar. Made from sand. Fairly self-explanatory, I'd say.",
+    "value": "一根装饰过的柱子，用沙子做的，我得说这很明显。"
+  }
+]

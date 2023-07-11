@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Caketop",
+    "value": "蛋糕娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Somehow, someway, Poptops have been combined with delicious cake.",
+    "value": "不知何故，吐舌哇已与美味的蛋糕结合在一起。"
+  }
+]

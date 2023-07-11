@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metallic Copper Platform",
+    "value": "铜制金属平台"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A platform made from copper with metal brick sides.",
+    "value": "用铜制成的有金属砖边的平台。"
+  }
+]

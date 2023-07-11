@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spicy cinnamon sticks!",
+    "value": "香辣的肉桂棒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cinnamon",
+    "value": "肉桂"
+  }
+]

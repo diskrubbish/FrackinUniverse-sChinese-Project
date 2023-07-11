@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "'A basic shotgun made by the skath.'",
+    "value": "一把由绘世者工艺制造的基础型霰弹枪"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rustic Skath Shotgun",
+    "value": "绘世者霰弹枪·低级"
+  }
+]

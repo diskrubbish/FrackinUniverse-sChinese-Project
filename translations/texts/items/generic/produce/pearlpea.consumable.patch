@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pearlpeas! I'll need to bite down hard. ^green;Type: Legumes^reset;",
+    "value": "珍珠豆！我需要使劲地咬。\n^green;类型：豆类^reset;"
+  }
+]

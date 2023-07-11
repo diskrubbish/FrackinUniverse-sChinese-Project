@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": "  Frackin' Universe Lab Crafting Directory",
+    "value": "  Frackin'Universe数据库"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": "  For the less crafty, the lost and the... curious",
+    "value": "  好奇心推动迷失者之创造力"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/btnFindInput/caption",
+    "raw": "As input",
+    "value": "作为输入"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/btnFindOutput/caption",
+    "raw": "As output",
+    "value": "作为输出"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/materialList/children/materials/schema/listTemplate/text/value",
+    "raw": "A bug! Report it!",
+    "value": "你发现了一个BUG！请将它报告给我！"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/recipeList/children/empty/value",
+    "raw": "^cyan;Select a material^reset; then ^cyan;choose whether it's input or output.^reset;\n\nAvailable conversions will be listed here.",
+    "value": "^cyan;选择^reset;你需要查看的物品，接着点击^cyan;可生成^reset;或^cyan;想获得^reset;。\n\n然后数据库将会列出你所需的资料。"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/recipeList/children/nostations/value",
+    "raw": "^orange;There are no suitable lab stations nearby.^reset;\n\nPlace one or more withn range or move this display panel.",
+    "value": "^orange;附近没有合适的实验设备。^reset;\n\n请将这个面板放置于萃取设备附近。"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/recipeList/children/recipes/schema/listTemplate/text/value",
+    "raw": "Oops. Buggy recipe for this item in this crafting station...",
+    "value": "真棒，这里显示了各种物质的配方。"
+  }
+]

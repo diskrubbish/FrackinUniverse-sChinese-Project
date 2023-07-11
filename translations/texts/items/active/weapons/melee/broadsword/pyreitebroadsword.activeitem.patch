@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hot and melty blade.\n^cyan;Inflicts Napalm^reset;",
+    "value": "极其炎热的熔化剑刃。\n^cyan;附加凝固效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Broadsword",
+    "value": "永燃宽剑"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Burning Portal",
+    "value": "燃烧之门"
+  }
+]

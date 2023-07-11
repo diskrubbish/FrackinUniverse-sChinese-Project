@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/baseProduction/value",
+    "raw": "Base Production:",
+    "value": "基础产能："
+  },
+  {
+    "op": "replace",
+    "path": "/droneToughness/value",
+    "raw": "Drone Toughness:",
+    "value": "工蜂耐性："
+  },
+  {
+    "op": "replace",
+    "path": "/droneBreedRate/value",
+    "raw": "Drone Breed Rate:",
+    "value": "工蜂繁殖率："
+  },
+  {
+    "op": "replace",
+    "path": "/queenBreedRate/value",
+    "raw": "Queen Breed Rate:",
+    "value": "蜂后繁殖率："
+  },
+  {
+    "op": "replace",
+    "path": "/queenLifespan/value",
+    "raw": "Queen Lifespan:",
+    "value": "蜂后寿命："
+  },
+  {
+    "op": "replace",
+    "path": "/mutationChance/value",
+    "raw": "Mutation Chance: (%)",
+    "value": "突变几率：(%)"
+  },
+  {
+    "op": "replace",
+    "path": "/miteResistance/value",
+    "raw": "Mite Resistance:",
+    "value": "螨虫抗性："
+  },
+  {
+    "op": "replace",
+    "path": "/workTime/value",
+    "raw": "Work Time:",
+    "value": "工作时间："
+  }
+]

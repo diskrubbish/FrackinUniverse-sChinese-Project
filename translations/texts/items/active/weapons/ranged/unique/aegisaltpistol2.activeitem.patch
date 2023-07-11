@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A basic, but nearly broken Protectorate sidearm. It'll do for now.",
+    "value": "一把标准的，但是受损严重的守护团成员配枪。至少现在勉强能用\n^#B8860B;可升级武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Damaged Pistol",
+    "value": "受损的守护团手枪"
+  }
+]

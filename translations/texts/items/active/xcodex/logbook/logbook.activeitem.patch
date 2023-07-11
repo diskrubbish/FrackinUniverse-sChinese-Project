@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Codex Logbook",
+    "value": "典籍日志"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Use this to open your logbook.",
+    "value": "用这个打开你的日志。"
+  }
+]

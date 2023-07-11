@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Precursor device that inverts gravity.",
+    "value": "反重力的先驱装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Anti-Grav",
+    "value": "先驱反引力"
+  }
+]

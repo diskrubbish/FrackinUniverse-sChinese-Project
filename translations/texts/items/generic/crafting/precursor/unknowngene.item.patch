@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bizarre quadruple-helix gene.",
+    "value": "一种奇怪的四螺旋基因。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Unknown Gene",
+    "value": "未知基因"
+  }
+]

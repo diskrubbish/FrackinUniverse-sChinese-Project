@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Are you sure this is worth drinking?\n^green;Heal ^white;10 ^gray;(^white;2s^gray;)^reset;, 35% ^red;Slow^reset;, ^red;Drunk^gray; (^white;30s^gray;)^reset;",
+    "value": "你确定你要喝这个吗？\n^green;治疗^white;10点生命值^gray;(^white;2s内^gray;)^reset;\n35%^red;减速^reset;、^red;醉酒^gray; (^white;30s^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Meat Wine",
+    "value": "肉酒"
+  }
+]

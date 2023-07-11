@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Helicultist",
+    "value": "直升机邪教徒"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The mechanism behind their flying contraption is a great mystery.",
+    "value": "他们的飞行装置背后的原理是一个巨大的谜。"
+  }
+]

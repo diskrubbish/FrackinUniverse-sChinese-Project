@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This tungsten spear is quite heavy.\n^cyan;Hunting weapon^reset;",
+    "value": "这把矛非常重。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tungsten Spear",
+    "value": "钨制矛"
+  }
+]

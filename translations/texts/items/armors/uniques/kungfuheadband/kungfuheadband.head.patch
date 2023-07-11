@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Focus power, Daniel-san!",
+    "value": "集中力量，丹尼尔桑！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Headband of Warriors",
+    "value": "武士头巾"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The blueprints for potent Novakid armour.",
+    "value": "星之子强力盔甲的蓝图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Novakid Schematics (Power)",
+    "value": "星之子盔甲架构图(力量)"
+  }
+]

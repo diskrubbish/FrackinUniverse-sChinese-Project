@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a lethal bounty hunter that talks loudly and carries a big gun.",
+    "value": "雇用一名赏金猎人，他有大嗓门，而且有一把大枪！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bounty Contract",
+    "value": "合同：赏金猎人"
+  }
+]

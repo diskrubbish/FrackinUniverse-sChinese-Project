@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A marvelously stabby device.\n^cyan;Hunting weapon^reset;",
+    "value": "惊人的穿刺武器。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tritanium Shortspear",
+    "value": "三相短矛"
+  }
+]

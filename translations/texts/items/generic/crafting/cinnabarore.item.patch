@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stone that can be used to produce mercury via extraction.",
+    "value": "可以提取出汞。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cinnabar",
+    "value": "朱砂"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small semi-automatic handgun with a decent rate-of-fire and accuracy.",
+    "value": "一支小型半自动手枪，射速适中，精确度高。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rare Semi-Automatic Pistol",
+    "value": "稀有半自动手枪"
+  }
+]

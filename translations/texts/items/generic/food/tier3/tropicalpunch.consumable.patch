@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tropical mix that packs a punch. ^green;Type: Fruits^reset;",
+    "value": "热带鸡尾酒，喝完就像被揍了一拳一样晕晕的。^green;类型：水果^reset;"
+  }
+]

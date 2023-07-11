@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Temporarily alters your gravity. Don't ask how.\n^cyan;-^white;30% ^cyan;Gravity ^gray;(^white;2m^gray;)^reset;",
+    "value": "可以暂时改变你的重力。不要问是怎么做到的。\n^cyan;-^white;30%^cyan;重力^gray;(^white;持续2m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Grav-Stim",
+    "value": "减重药剂"
+  }
+]

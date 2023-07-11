@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Your mother is a hooker. ^cyan;I have proof.^reset;",
+    "value": "你妈是个妓女，^cyan;我有证据。^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Scrotal Obliterator",
+    "value": "阴囊终结者"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Scrotal Obliterator",
+    "value": "阴囊终结者"
+  }
+]

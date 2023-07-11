@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It makes you a little top heavy.. but hey, at least it looks nice right?",
+    "value": "它让您的头有些沉重...但嘿，至少这样看起来很棒不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peblit Mask",
+    "value": "小岩石面具"
+  }
+]

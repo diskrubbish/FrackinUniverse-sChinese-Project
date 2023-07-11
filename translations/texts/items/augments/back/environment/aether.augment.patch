@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides immunity to Aether effects and +15% Cosmic Resistance.",
+    "value": "^cyan;射线抗性+15%；免疫以太^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Immunity",
+    "value": "EPP模块（以太护盾）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Aether Immunity",
+    "value": "EPP模块（以太护盾）"
+  }
+]

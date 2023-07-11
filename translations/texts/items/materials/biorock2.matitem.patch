@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This blue rock is faintly glowing with bioluminescence.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "这块石头用散发着生物光。\n^green;可萃取^reset;，^orange;可粉碎^reset;。"
+  }
+]

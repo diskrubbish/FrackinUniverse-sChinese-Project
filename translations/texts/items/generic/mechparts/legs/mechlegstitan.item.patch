@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Light and swift exploration legs.",
+    "value": "又轻又迅速的探索用机械腿。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Titan Mech Legs",
+    "value": "泰坦机械腿"
+  }
+]

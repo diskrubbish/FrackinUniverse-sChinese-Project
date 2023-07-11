@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Energy x1.35^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;能量x1.35^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Silverleaf Herb",
+    "value": "银叶草"
+  }
+]

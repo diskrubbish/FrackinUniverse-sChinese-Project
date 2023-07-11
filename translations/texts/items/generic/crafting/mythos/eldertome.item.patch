@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A book containing ancient and malign texts.",
+    "value": "一本写满古老而邪恶的文字的书籍。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Elder Tome^reset;",
+    "value": "^#ffe50e;远古书卷^reset;"
+  }
+]

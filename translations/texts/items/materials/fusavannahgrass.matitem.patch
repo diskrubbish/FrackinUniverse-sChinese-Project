@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dry, rough grasses\n^green;Extractable^reset;.",
+    "value": "干燥且粗的草。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dry Grasses",
+    "value": "干草"
+  }
+]

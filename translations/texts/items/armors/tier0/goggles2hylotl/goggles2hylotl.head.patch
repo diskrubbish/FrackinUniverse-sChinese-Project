@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Raised goggles look friendlier, even if you have three eyes. +^green;5^reset;% Knockback Resist.",
+    "value": "即使你有三只眼，凸起的护目镜看起来也更友好。\n+^green;5^reset;%击退抗性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dr.Horrible Hylotl Goggles",
+    "value": "恐怖博士的鲛人护目镜"
+  }
+]

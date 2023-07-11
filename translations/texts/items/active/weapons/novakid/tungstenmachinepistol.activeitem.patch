@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large handgun that packs a kick.",
+    "value": "一把不错的手枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tungsten Machine Pistol",
+    "value": "钨制自动手枪"
+  }
+]

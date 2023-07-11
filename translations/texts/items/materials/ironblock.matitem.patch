@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A solid iron block.\n^green;Extractable^reset;.",
+    "value": "一个坚硬的铁块。\n^green;可萃取^reset;。"
+  }
+]

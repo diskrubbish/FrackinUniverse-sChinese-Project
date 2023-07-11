@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cloud-laying ice weapon.\n^yellow;Blasts cause targets to slip^reset;\n^cyan;Alt-fire freezes enemies^reset;",
+    "value": "属于雾状冰冻武器。\n^yellow;爆炸对目标附加滑行效果^reset;\n^yellow;次要攻击会冻结敌人^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coldsnap",
+    "value": "骤霜"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Freeze Ball Blast",
+    "value": "冻结爆炸"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Plasteel reinforced glass.",
+    "value": "塑钢强化玻璃"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Reinforced Glass Block",
+    "value": "强化玻璃块"
+  }
+]

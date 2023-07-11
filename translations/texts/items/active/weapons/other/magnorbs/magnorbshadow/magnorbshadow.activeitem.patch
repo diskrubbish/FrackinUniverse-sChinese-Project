@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires solidified shadow at foes.",
+    "value": "向敌人射出凝固的暗影液体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Orbs",
+    "value": "暗影之珠"
+  }
+]

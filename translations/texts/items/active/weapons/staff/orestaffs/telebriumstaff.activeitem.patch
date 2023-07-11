@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Powerful toxins emit from this weapon.",
+    "value": "这把武器释放出强大的毒素。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Staff",
+    "value": "月海法杖"
+  }
+]

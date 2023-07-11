@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Assassin Drone",
+    "value": "刺客工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Assassin Drone",
+    "value": "刺客工蜂"
+  }
+]

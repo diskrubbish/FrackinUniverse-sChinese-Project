@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Small gems made of slime which provide limited protection.",
+    "value": "一些用粘胶制成的小宝石，能提供有限的保护。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Knee Protection Gems",
+    "value": "史莱姆护膝宝石组"
+  }
+]

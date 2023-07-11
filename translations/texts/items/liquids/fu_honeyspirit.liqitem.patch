@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exspiravit Honey",
+    "value": "幻灵蜂蜜"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A measure of semi-transparent, white-hued honey. Known to be a potent hallucinogen.\n^yellow;Centrifugable^reset;.",
+    "value": "一定量的半透明的白色蜂蜜。是一种强效迷幻剂。\n^yellow;可离心^reset;。"
+  }
+]

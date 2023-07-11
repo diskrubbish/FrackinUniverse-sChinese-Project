@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Snapper",
+    "value": "鲷鱼"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "80% bite, 20% bark.",
+    "value": "80%咬，20%吠。"
+  }
+]

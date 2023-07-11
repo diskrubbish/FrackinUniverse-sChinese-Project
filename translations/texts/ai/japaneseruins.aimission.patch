@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "An ancient mountain populated by Hylotl is said to be cursed. Should we go investigate what's going on?",
+    "value": "据说这座居住着鲛人的古老山脉被诅咒了。也许我们应该去调查一下，看看那里到底发生了什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Mount Gigant (8)",
+    "value": "巨人山(8)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Mount Gigant (8) (R)",
+    "value": "重新挑战巨人山(8)"
+  }
+]

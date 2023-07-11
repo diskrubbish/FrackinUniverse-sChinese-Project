@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Exceptionally heavy.",
+    "value": "它特别重。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Falcon III Legs",
+    "value": "隼鹰机甲足 III"
+  }
+]

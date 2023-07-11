@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Weapon Testing Site (4)",
+    "value": "武器试验场(4)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Revisit the Weapon Testing Site (4)",
+    "value": "重新挑战武器试验场(4)"
+  }
+]

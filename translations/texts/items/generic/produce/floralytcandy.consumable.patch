@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Heal 70^reset;: 2s",
+    "value": "^yellow;^reset;^cyan;治疗70点HP^reset;: 2s"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Floralyt Candy",
+    "value": "小碎花"
+  }
+]

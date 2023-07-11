@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A formerly valuable crystal trophy. Now it's just gnawed and broken.",
+    "value": "一盏价值颇高的水晶奖杯。现在它只是被啃破了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Broken Crystalline Trophy",
+    "value": "碎掉的结晶奖杯"
+  }
+]

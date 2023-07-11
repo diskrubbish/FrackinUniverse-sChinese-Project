@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These are of Avian royal descent.",
+    "value": "这些尸体属于翼族的王室后裔。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Royal cadaver",
+    "value": "王族尸体"
+  }
+]

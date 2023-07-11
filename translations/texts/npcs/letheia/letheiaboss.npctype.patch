@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Attack!",
+    "value": "进攻！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/0",
+    "raw": "Oh my! More guests!",
+    "value": "噢，天呐，更多的客人！"
+  }
+]

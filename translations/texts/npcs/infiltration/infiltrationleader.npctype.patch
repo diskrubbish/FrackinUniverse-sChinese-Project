@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "raw": "You shouldn't be seeing this.",
+    "value": "你不该看这玩意儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "raw": "So, you're the special agent Lana was going to send us?",
+    "value": "这么说，你是拉娜派过来的人？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/1",
+    "raw": "Personally speaking, I don't trust the looks of you, but if Lana is vouching for you I'll defer to her judgement.",
+    "value": "就我而言，我看不出你有任何特殊之处，不过既然拉娜让你来，那么我会尊重她的选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/2",
+    "raw": "The Miniknog facility is up ahead through the swamp. A bit of a hellhole, but them's the breaks.",
+    "value": "目标建筑需要先通过这片沼泽，虽然有些难受，但这是必经之路。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/3",
+    "raw": "Our demolitions expert, Tavish, went and set up a forward base ahead. Rendezvous with him, and he'll get you into the facility.",
+    "value": "我们的爆破专家，塔维什，在前方等着你，与他会合，他会让你进入目标建筑内。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/4",
+    "raw": "From there, it's all up to you. Take what you need from my camp - within reason, of course. Good luck, I suppose, but I don't believe in luck.",
+    "value": "现在你可以从营地中合理地获取你所需要的一切物品，那么，出发吧，祝你好运！虽说我从不相信运气这回事儿。"
+  }
+]

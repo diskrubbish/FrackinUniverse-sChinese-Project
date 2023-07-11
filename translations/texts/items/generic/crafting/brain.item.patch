@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This brain looks to be perfect for experimentation.",
+    "value": "这个大脑看起来非常适合实验。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Superior Brain",
+    "value": "优质大脑"
+  }
+]

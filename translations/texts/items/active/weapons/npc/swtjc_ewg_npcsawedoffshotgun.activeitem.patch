@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A compact shotgun that sacrifices accuracy for the ability to be easily-concealable and held in one hand.",
+    "value": "牺牲准确度，攻击范围广的单手霰弹枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NPC Short-Barreled Shotgun",
+    "value": "NPC的短桶霰弹枪"
+  }
+]

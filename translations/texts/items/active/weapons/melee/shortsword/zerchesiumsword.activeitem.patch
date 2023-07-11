@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Finely honed zerchesium steel.",
+    "value": "使用经过精细加工的高熔点矿石打造而成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Shortsword",
+    "value": "高熔点短剑"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Avada Kedavra!",
+    "value": "阿瓦达索命！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Witch's Wand",
+    "value": "巫师魔杖"
+  }
+]

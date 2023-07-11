@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Isn't as protective as it looks. That would cost you extra!",
+    "value": "保护性没有看起来那么好，那是要额外收费的！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Snaggler Hat",
+    "value": "窃甲蜗帽"
+  }
+]

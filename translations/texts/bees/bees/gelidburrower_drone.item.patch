@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Gelid Burrower Drone",
+    "value": "冰掘工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gelid Burrower Drone",
+    "value": "冰掘工蜂"
+  }
+]

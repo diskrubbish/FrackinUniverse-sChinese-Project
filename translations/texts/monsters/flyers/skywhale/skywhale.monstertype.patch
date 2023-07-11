@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sky Whale",
+    "value": "飞空鲸"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Passive gas-guzzling behemoths.",
+    "value": "顺从的巨兽，体内吞满了气体。"
+  }
+]

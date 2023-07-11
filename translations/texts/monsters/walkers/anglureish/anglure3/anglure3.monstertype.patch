@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tar Anglure",
+    "value": "焦油昂格鲁尔"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spewing forth toxic bubbles is fun for this pest.",
+    "value": "对于这种害虫来说喷出有毒气泡的行为很有趣。"
+  }
+]

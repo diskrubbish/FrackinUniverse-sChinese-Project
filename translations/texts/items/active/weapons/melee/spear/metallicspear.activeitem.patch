@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Made from all sorts of junk.\n^cyan;Hunting weapon^reset;",
+    "value": "由各种各样的垃圾制成。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Junk Spear",
+    "value": "废料长矛"
+  }
+]

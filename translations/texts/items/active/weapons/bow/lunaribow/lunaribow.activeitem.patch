@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crystalline bow for hunting extra dangerous game.",
+    "value": "一把水晶制成的狩猎弓。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Bow",
+    "value": "月晶弓"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Enhanced Shot",
+    "value": "增强射击"
+  }
+]

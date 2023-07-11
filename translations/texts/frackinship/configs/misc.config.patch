@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shipResetSelectionInterfaceData/states/initial/text",
+    "raw": "Ship has sustained major damage and is in need of repair. Perform repairs now?",
+    "value": "飞船遭受重大损坏，需要修理。现在进行修理吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shipUnlockMessages/success",
+    "raw": "Successfully uploaded ship data to S.A.I.L.",
+    "value": "成功将飞船数据上传至 S.A.I.L。"
+  },
+  {
+    "op": "replace",
+    "path": "/shipUnlockMessages/alreadySet",
+    "raw": "Ship data already uploaded to S.A.I.L.",
+    "value": "飞船数据已经上传至 S.A.I.L。"
+  },
+  {
+    "op": "replace",
+    "path": "/shipUnlockMessages/disabled",
+    "raw": "Unlockable ships have been disabled.",
+    "value": "可解锁飞船已被禁用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shipUnlockMessages/notOnShip",
+    "raw": "You need to be on a ship to be able to connect to the S.A.I.L database for the upload.",
+    "value": "你需要在飞船上才能连接到S.A.I.L数据库进行上传。"
+  }
+]

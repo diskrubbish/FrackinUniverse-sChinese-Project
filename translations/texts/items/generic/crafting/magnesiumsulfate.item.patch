@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This salt is very useful in agriculture by increasing magnesium and sulfur content in soil.",
+    "value": "这种盐可以增加土壤中的镁和硫含量，因此在农业上非常有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Magnesium Sulfate",
+    "value": "硫酸镁"
+  }
+]

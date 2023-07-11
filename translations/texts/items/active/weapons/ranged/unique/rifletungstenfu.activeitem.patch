@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Reliable and accurate, and cheap to produce.",
+    "value": "精准可靠，生产成本低廉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tungsten Rifle",
+    "value": "钨制步枪"
+  }
+]

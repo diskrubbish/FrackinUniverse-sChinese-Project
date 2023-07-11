@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A frozen honeycomb! Eat it!",
+    "value": "冰冻的蜂巢。嘎吱脆！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Arctic Honeycomb",
+    "value": "极地蜂巢"
+  }
+]

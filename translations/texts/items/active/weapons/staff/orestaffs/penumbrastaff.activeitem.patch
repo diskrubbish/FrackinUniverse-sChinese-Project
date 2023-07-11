@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Penumbral Power.",
+    "value": "蕴藏着暗影之力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbra Staff",
+    "value": "半影法杖"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Shadow Rain",
+    "value": "暗影之雨"
+  }
+]

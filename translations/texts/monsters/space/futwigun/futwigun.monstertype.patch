@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Cannon",
+    "value": "古代加农炮"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ready and able to kill you.",
+    "value": "准备且有能力杀死你。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/clear/caption",
+    "raw": "Take all",
+    "value": "全部拾取"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/openCodex/caption",
+    "raw": "Read all",
+    "value": "全部阅读"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/count/value",
+    "raw": "9 SLOTS",
+    "value": "9格"
+  }
+]

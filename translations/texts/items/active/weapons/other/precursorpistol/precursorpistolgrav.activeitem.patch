@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Allows the user to slow their relation to gravity.\n^yellow;Gravitic force can occasionally cause injury.^reset;",
+    "value": "减弱使用者与重力的联系。\n^yellow;重力偶尔也会造成伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Gravity Shunt",
+    "value": "先驱重力分流器"
+  }
+]

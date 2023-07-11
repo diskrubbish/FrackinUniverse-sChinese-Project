@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Eject super-cold fun at enemies.\n^yellow;Charge increases damage^reset;",
+    "value": "可发射出超冷的子弹攻击敌人。\n^yellow;充能将会增加伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glacial Pistol",
+    "value": "冰川手枪"
+  }
+]

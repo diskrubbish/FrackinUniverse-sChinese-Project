@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Able to hold the energy of the cosmos.",
+    "value": "能够容纳宇宙的能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Attuned Papyrus",
+    "value": "调和纸草"
+  }
+]

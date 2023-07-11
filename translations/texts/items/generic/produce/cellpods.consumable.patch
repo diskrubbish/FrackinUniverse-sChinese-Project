@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Heal 40% HP^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;治疗40% HP^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cell Pods",
+    "value": "细胞豆荚"
+  }
+]

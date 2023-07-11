@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Icthydaemonae Blade",
+    "value": "类鱼海豚叶片"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fossilised Icthydaemonae tail blade.",
+    "value": "类鱼海豚尾部叶片的化石。"
+  }
+]

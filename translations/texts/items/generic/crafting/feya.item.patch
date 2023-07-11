@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Used to store thermal energy for later use.",
+    "value": "用于储存热能以备日后使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Feya Crystal",
+    "value": "菲亚水晶"
+  }
+]

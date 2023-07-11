@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ignus Chili Pepper",
+    "value": "伊格纳斯辣椒"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Toss this pepper and burn your foes.",
+    "value": "扔出这个辣椒，烧死你的敌人。"
+  }
+]

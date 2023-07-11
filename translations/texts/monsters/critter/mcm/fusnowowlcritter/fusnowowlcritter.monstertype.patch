@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Snowy Owl",
+    "value": "雪枭"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small white bird that hunts in the coldest reaches of the world.",
+    "value": "一种在世界上最冷的地方捕食的小型白色鸟。"
+  }
+]

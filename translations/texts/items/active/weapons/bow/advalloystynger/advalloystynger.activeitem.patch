@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Incredibly lightweight considering the extra mass.",
+    "value": "考虑到额外的重量，重量极轻。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Stynger",
+    "value": "合金发射器"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Roughly-hewn. Causes slight bleeding.\n^cyan;Floran^reset;",
+    "value": "崎岖不平的刀刃，附加微小的出血效果。\n^cyan;叶族^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bone Sword",
+    "value": "骨制短剑"
+  }
+]

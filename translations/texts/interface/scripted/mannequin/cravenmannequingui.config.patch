@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/swapGender/caption",
+    "raw": "Swap Gender",
+    "value": "切换性别"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/equipFunctional/caption",
+    "raw": "Equip (Functional)",
+    "value": "装备（功能）"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/equipCosmetic/caption",
+    "raw": "Equip (Cosmetic)",
+    "value": "装备（装饰）"
+  }
+]

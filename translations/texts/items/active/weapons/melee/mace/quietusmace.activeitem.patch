@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hefty and dangerous, with a high crit Stun chance.",
+    "value": "由寂灭矿打造，拥有极高的眩晕几率。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quietus Mace",
+    "value": "寂灭钉头锤"
+  }
+]

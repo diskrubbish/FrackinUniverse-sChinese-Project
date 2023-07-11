@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strong spices from Kadavan.",
+    "value": "来自卡达文的烈性香料"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kadavan Spices",
+    "value": "卡达文香料"
+  }
+]

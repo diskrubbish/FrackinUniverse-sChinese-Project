@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A greatsword made with unusual love and care. I somehow feel safe wielding this.",
+    "value": "一把由不寻常的爱心和关怀制成的大剑。不知为什么，挥舞着这把剑使我充满安全感。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metal Broadsword",
+    "value": "金属宽剑"
+  }
+]

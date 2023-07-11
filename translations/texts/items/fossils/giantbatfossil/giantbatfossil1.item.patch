@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vampiradon Wing",
+    "value": "吸血龙翅骨"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fossilised Vampiradon wing.",
+    "value": "吸血龙翅骨的化石。"
+  }
+]

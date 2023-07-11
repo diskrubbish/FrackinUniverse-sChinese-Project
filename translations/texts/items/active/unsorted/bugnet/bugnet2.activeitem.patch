@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A net for catching bugs! Faster than the wooden one, with less delay!",
+    "value": "一只优质虫网，用来捕捉虫子。捕捉效率比木制的更高。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Superior Bug Net",
+    "value": "优质虫网"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The stuff of stars.\n^cyan;Inflicts Minor Vulnerability^reset;",
+    "value": "这把武器诞生于宇宙之中。\n^cyan;附加错调瑕疵效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Axe",
+    "value": "赛德瑞瑟之斧"
+  }
+]

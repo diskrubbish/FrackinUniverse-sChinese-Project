@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shoggoth Spawn",
+    "value": "修格斯卵"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You should probably murder this immediately.",
+    "value": "或许你应该在第一时间干掉它。"
+  }
+]

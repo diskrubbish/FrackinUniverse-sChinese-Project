@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Thankfully not nearly as poisonous as the real thing!",
+    "value": "值得庆幸的是，它不像实物那么有毒！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crutter Mask",
+    "value": "克鲁特面具"
+  }
+]

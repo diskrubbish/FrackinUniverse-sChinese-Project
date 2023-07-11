@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune^reset;: Caliginous Gas, ^cyan;+6 Defense^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;免疫^reset;: 暗影气体, ^cyan;+6 防御^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Umbral Stalk",
+    "value": "阴影根茎"
+  }
+]

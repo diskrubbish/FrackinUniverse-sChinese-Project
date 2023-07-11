@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Liquid Nitrogen",
+    "value": "液氮"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A measure of nitrogen at temperatures at or below 77K. Proceed with care.\n^green;Extractable^reset;, ^yellow;Centrifugable^reset;.",
+    "value": "一定量的温度在77K或低于77K的温度的氮。谨慎使用。\n^yellow;可离心^reset;。"
+  }
+]

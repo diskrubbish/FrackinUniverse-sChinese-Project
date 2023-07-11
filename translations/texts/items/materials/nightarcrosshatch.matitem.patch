@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Window Lattice",
+    "value": "夜族窗格子"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A simple lattice made of Nightarian materials",
+    "value": "由夜族材料制作成的简单格子"
+  }
+]

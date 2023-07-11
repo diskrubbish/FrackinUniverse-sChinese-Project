@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A robust and advanced circuit board.",
+    "value": "一块功能强大的高级电路板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Advanced Circuit^reset;",
+    "value": "^#77acc3;高级电路板^reset;"
+  }
+]

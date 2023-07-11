@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A useful, if unorthodox, pistol.\n^yellow;Bouncing projectiles^reset;",
+    "value": "非正统的高效武器。\n^yellow;弹跳弹^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proto Pistol",
+    "value": "原体手枪"
+  }
+]

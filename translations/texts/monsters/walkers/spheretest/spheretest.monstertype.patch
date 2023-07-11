@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "spheretest",
+    "value": "测试球"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Testing rotating monster",
+    "value": "测试用旋转怪物"
+  }
+]

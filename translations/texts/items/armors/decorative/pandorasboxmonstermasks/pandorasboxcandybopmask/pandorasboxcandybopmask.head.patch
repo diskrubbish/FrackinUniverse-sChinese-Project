@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just like the candy, it's somewhat of an underdog in the collection!",
+    "value": "就像糖果一样，它在这个系列中有点逊色！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Candybop Mask",
+    "value": "糖波普"
+  }
+]

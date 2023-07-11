@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Matter Chunk",
+    "value": "物质区块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A matter chunk. A chunk that matters.",
+    "value": "物质区块，区块物质。"
+  }
+]

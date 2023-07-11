@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Exspiravit Drone",
+    "value": "幻灵工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exspiravit Drone",
+    "value": "幻灵工蜂"
+  }
+]

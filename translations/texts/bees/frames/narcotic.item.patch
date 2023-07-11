@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Drugged up Drones.\n<beeData>",
+    "value": "将工蜂麻醉。\n<beeData>"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Narcotic Frame",
+    "value": "麻醉框巢"
+  }
+]

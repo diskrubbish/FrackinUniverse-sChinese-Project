@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bunch of fallen leaves.\n^green;Extractable^reset;.",
+    "value": "一堆落叶。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fallen Leaves",
+    "value": "落叶"
+  }
+]

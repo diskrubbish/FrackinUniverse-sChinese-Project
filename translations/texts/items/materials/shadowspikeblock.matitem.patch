@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A spiked block formed from shadowy material.\n^green;Extractable^reset;.",
+    "value": "由暗影材料制成的尖刺。\n^green;可萃取^reset;。"
+  }
+]

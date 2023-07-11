@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/lb_currentOre/text",
+    "raw": "<^yellow;Loading...^reset;>",
+    "value": "<^yellow;加载中...^reset;>"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/currentOreLabel/text",
+    "raw": "^yellow;Current Ore:",
+    "value": "^yellow;当前矿石:"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lb_Info/value",
+    "raw": "^yellow;Awaiting Input...",
+    "value": "^yellow;等待输入..."
+  }
+]

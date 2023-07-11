@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A thick coil of vines. They look strong.\n^green;Extractable^reset;.",
+    "value": "粗粗的一卷藤蔓。它们看起来很强壮。\n^green;可萃取^reset;。"
+  }
+]

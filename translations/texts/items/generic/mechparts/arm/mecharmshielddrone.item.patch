@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Launches 4 drones which project a defensive energy shield.",
+    "value": "发射四台能投射防御能量盾的无人机。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "War Ward Mech Arm",
+    "value": "战地机甲手臂"
+  }
+]

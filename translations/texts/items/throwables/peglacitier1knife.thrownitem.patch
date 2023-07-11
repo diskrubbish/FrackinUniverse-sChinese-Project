@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Farclaw",
+    "value": "远击爪"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The traditional Peglaci throwing knife for sports and hunting.",
+    "value": "传统的羊蹄族飞刀，用于运动和狩猎。"
+  }
+]

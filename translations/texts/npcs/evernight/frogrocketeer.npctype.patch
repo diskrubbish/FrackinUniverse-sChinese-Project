@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "!!!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "raw": ">=(",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "raw": "-_-",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/3",
+    "raw": "0_o",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/4",
+    "raw": ":3",
+    "value": ""
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Send out bolts like a lightning storm.",
+    "value": "射出像闪电风暴般的箭矢。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lightning Stynger",
+    "value": "闪电发射器"
+  }
+]

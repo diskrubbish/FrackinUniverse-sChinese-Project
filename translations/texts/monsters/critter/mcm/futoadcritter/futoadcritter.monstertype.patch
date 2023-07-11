@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toad",
+    "value": "蛤蟆"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A squat amphibian with leathery skin, found in relatively dry areas.",
+    "value": "一种两栖动物，它的皮肤与腰带的材质类似，发现于相对干燥的地区。"
+  }
+]

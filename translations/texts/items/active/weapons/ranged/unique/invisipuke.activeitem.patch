@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "PUKEY!\n^yellow;vomit!^reset;",
+    "value": "呃噢！\n^yellow;里面全是脓液！^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Invisipuke!",
+    "value": "脓液枪"
+  }
+]

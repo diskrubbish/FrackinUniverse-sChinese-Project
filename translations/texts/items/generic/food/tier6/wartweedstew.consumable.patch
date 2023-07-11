@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hearty, thick stew of wartweed and vegetables. ^green;Type: Vegetables^reset;",
+    "value": "一顿丰盛的、浓郁的瓦特果炖蔬菜。\n^green;类型：蔬菜^reset;"
+  }
+]

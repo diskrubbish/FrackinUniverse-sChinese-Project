@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Muscle control, strength or enhancement come from this gene.",
+    "value": "肌肉控制，力量或增强都来自这个基因。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Musculature",
+    "value": "肌肉基因"
+  }
+]

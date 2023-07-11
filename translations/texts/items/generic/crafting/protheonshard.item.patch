@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Artifact from an ancient race.\n^green;Research in a microscope.^reset;",
+    "value": "远古眷族的造物。\n^green;在显微镜下研究。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protheon Shard",
+    "value": "先贤碎片"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Elusive, and potentially impossible.",
+    "value": "难以捉摸，难以置信，难有可能。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exotic Matter",
+    "value": "异界物质"
+  }
+]

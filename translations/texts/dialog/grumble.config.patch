@@ -1,0 +1,134 @@
+[
+  {
+    "op": "replace",
+    "path": "/tagCriteria/skath/default/0",
+    "raw": "Sir, could you please return my home to its former state?",
+    "value": "先生，你能把我的家还回去吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/skath/default/1",
+    "raw": "My home isn't the same as before. You mind fixing that?",
+    "value": "我的家和以前不一样了。介意修一下吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/skath/default/2",
+    "raw": "My room is all messed up...",
+    "value": "我的房间乱七八糟..."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/skath/default/3",
+    "raw": "I don't mind changes but something is off here...",
+    "value": "我不介意改变，但这里有些不对劲..."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/skath/default/4",
+    "raw": "I should file a complaint. Someone messed up my room.",
+    "value": "我应该提出投诉，有人把我的房间弄乱了。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/skath/default/0",
+    "raw": "I don't feel safe in a damaged house. Can you please fix that?",
+    "value": "我在一个被损坏的房子里感到不安全。你能修好它吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/skath/default/1",
+    "raw": "If I wanted some fresh air, I would rather go outside.",
+    "value": "如果我想呼吸新鲜空气，我宁愿到外面去。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/skath/default/2",
+    "raw": "My home could need some repairs. Can you take care of this?",
+    "value": "我的房子可能需要修理一下，你能处理一下吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/skath/default/3",
+    "raw": "My home is damaged. I lack the necessary skills to fix it. Please fix this.",
+    "value": "我的家被损坏了，我缺乏必要的技能来修理它。请修理这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/skath/default/0",
+    "raw": "Sir, I don't think it was part of our contract to let another one move in.",
+    "value": "先生，我认为我们的合同里没有让另一个人搬进来。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/skath/default/1",
+    "raw": "Sir, we agreed that this place would be for me alone.",
+    "value": "先生，我们说好了这地方只属于我一个人。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/skath/default/2",
+    "raw": "I don't mind sharing my home but this wasn't a part of our contract.",
+    "value": "我不介意和别人分享我的房子，但这不是我们合同的一部分。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/skath/default/3",
+    "raw": "I think you made a mistake by placing another deed in my home. Care to remove it?",
+    "value": "我想你在我家里再放一张契约是个错误，可以把它拿掉吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/skath/default/0",
+    "raw": "Maybe I would be better off in the ocean...",
+    "value": "也许我最好还是去海边..."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/skath/default/1",
+    "raw": "I miss Norkumsgath. I think I will return there..",
+    "value": "我想念Norkumsgath，我想我会回到那里。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/skath/default/2",
+    "raw": "I'm sorry Sir but these conditions aren't bearable for me.",
+    "value": "对不起，先生，这种情况我实在受不了。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/skath/default/3",
+    "raw": "Maybe I should move out. I don't like this place anymore.",
+    "value": "也许我该搬出去，我再也不喜欢这个地方了。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/skath/default/0",
+    "raw": "I'm ending my contract. I will leave.",
+    "value": "我要结束我的合同，我要离开。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/skath/default/1",
+    "raw": "I think I will return to a proper colony.",
+    "value": "我想我会回到一个合适的殖民地。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/skath/default/2",
+    "raw": "This isn't bearable for me anymore. I will move out.",
+    "value": "我再也受不了了，我要搬出去。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/skath/default/3",
+    "raw": "I'm contacting the Vanguard. Maybe they can provide me with a proper home.",
+    "value": "我正在联系、先锋，也许他们能给我提供一个合适的家。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/skath/default/4",
+    "raw": "I should have stayed on the other colony. Moving in here was a mistake.",
+    "value": "我应该待在另一个殖民地的，搬到这里来是个错误。"
+  }
+]

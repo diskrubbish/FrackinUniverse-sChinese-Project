@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Zip through the air like a boss, and slice foes too! Weighted.",
+    "value": "像Boss一样在空中荡来荡去，同时将敌人切成碎片！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lasher Hook",
+    "value": "鞭笞抓钩"
+  }
+]

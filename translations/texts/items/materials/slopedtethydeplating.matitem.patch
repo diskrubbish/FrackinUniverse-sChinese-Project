@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tethyde Plating",
+    "value": "韧影合金面板"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy tethyde plating, suitable for spaceships and buildings.",
+    "value": "坚固的韧影平台，适用于宇宙飞船和建筑物。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Observant. This is panelling widely used for ship and station construction.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Shiny sssmooth space metal.",
+    "value": "闪亮光光光滑的太空金属。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some thick metal plating, looks mighty solid.",
+    "value": "一些厚厚的金属面板，看起来很坚固。"
+  }
+]

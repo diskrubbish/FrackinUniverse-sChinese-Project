@@ -1,0 +1,350 @@
+[
+  {
+    "op": "replace",
+    "path": "/systemTypes/binary1/variationParameters/0/description",
+    "raw": "Small Binary Star",
+    "value": "小型双星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/binary1/variationParameters/1/description",
+    "raw": "Medium Binary Star",
+    "value": "中型双星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/binary1/variationParameters/2/description",
+    "raw": "Large Binary Star",
+    "value": "大型双星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/binary1/variationParameters/3/description",
+    "raw": "Huge Binary Star",
+    "value": "巨大双星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/redsun1/variationParameters/0/description",
+    "raw": "Small Red Star",
+    "value": "小型红星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/redsun1/variationParameters/1/description",
+    "raw": "Medium Red Star",
+    "value": "中型红星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/redsun1/variationParameters/2/description",
+    "raw": "Large Red Star",
+    "value": "大型红星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/redsun1/variationParameters/3/description",
+    "raw": "Huge Red Star",
+    "value": "巨大红星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/bluesun1/variationParameters/0/description",
+    "raw": "Small Blue Star",
+    "value": "小型蓝星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/bluesun1/variationParameters/1/description",
+    "raw": "Medium Blue Star",
+    "value": "中型蓝星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/bluesun1/variationParameters/2/description",
+    "raw": "Large Blue Star",
+    "value": "大型蓝星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/bluesun1/variationParameters/3/description",
+    "raw": "Huge Blue Star",
+    "value": "巨大蓝星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/bluesun2/variationParameters/0/description",
+    "raw": "Small Blue Star",
+    "value": "小型蓝星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/bluesun2/variationParameters/1/description",
+    "raw": "Medium Blue Star",
+    "value": "中型蓝星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/bluesun2/variationParameters/2/description",
+    "raw": "Large Blue Star",
+    "value": "大型蓝星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/bluesun2/variationParameters/3/description",
+    "raw": "Huge Blue Star",
+    "value": "巨大蓝星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/blacksun1/variationParameters/0/description",
+    "raw": "Small Black Star",
+    "value": "小型黑星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/blacksun1/variationParameters/1/description",
+    "raw": "Medium Black Star",
+    "value": "中型黑星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/blacksun1/variationParameters/2/description",
+    "raw": "Large Black Star",
+    "value": "大型黑星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/dying1/variationParameters/0/description",
+    "raw": "Small Green Star",
+    "value": "小型绿星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/dying1/variationParameters/1/description",
+    "raw": "Medium Green Star",
+    "value": "中型绿星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/dying1/variationParameters/2/description",
+    "raw": "Large Green Star",
+    "value": "大型绿星"
+  },
+  {
+    "op": "replace",
+    "path": "/systemTypes/dying1/variationParameters/3/description",
+    "raw": "Huge Green Star",
+    "value": "巨大绿星"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/fugasplanet/baseParameters/description",
+    "raw": "Gassy Planet",
+    "value": "气态行星"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/scorchedMoons/baseParameters/description",
+    "raw": "Scorched Moons",
+    "value": "焦热卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/hotMoons/baseParameters/description",
+    "raw": "Hot Moon",
+    "value": "炙热卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/warmMoons/baseParameters/description",
+    "raw": "Warm Moon",
+    "value": "温暖卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/habitableMoons/baseParameters/description",
+    "raw": "Habitable Moon",
+    "value": "宜居卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/coolMoons/baseParameters/description",
+    "raw": "Cool Moon",
+    "value": "凉爽卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/coldMoons/baseParameters/description",
+    "raw": "Cold Moon",
+    "value": "冰冷卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/frozenMoons/baseParameters/description",
+    "raw": "Frozen Moon",
+    "value": "冰封卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/mutatedMoons/baseParameters/description",
+    "raw": "Mutated Moons",
+    "value": "变异卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/satelliteTypes/lightlessMoons/baseParameters/description",
+    "raw": "Lightless Moon",
+    "value": "无光卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/redSunScorching/baseParameters/description",
+    "raw": "Scorching Planet",
+    "value": "焦热星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/redSunHot/baseParameters/description",
+    "raw": "Hot Planet",
+    "value": "炙热星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/redSunHabitable/baseParameters/description",
+    "raw": "Habitable Planet",
+    "value": "宜居星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/redSunCool/baseParameters/description",
+    "raw": "Cool Planet",
+    "value": "凉爽行星"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/redSunFrozen/baseParameters/description",
+    "raw": "Frozen Planet",
+    "value": "冰封星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/binarySunScorching/baseParameters/description",
+    "raw": "Scorching Planet",
+    "value": "焦热星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/binarySunHot/baseParameters/description",
+    "raw": "Hot Planet",
+    "value": "炙热星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/binarySunHabitable/baseParameters/description",
+    "raw": "Habitable Planet",
+    "value": "宜居星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/binarySunCool/baseParameters/description",
+    "raw": "Cool Planet",
+    "value": "凉爽行星"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/binarySunFrozen/baseParameters/description",
+    "raw": "Frozen Planet",
+    "value": "冰封星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/blueSunScorching/baseParameters/description",
+    "raw": "Scorching Planet",
+    "value": "焦热星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/blueSunHot/baseParameters/description",
+    "raw": "Hot Planet",
+    "value": "炙热星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/blueSunHabitable/baseParameters/description",
+    "raw": "Habitable Planet",
+    "value": "宜居星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/blueSunCold/baseParameters/description",
+    "raw": "Cool Planet",
+    "value": "凉爽行星"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/blueSunFrozen/baseParameters/description",
+    "raw": "Frozen Planet",
+    "value": "冰封星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/dyingSunScorching/baseParameters/description",
+    "raw": "Scorching Planet",
+    "value": "焦热星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/dyingSunHot/baseParameters/description",
+    "raw": "Hot Planet",
+    "value": "炙热星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/dyingSunHabitable/baseParameters/description",
+    "raw": "Habitable Planet",
+    "value": "宜居星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/dyingSunCool/baseParameters/description",
+    "raw": "Cool Planet",
+    "value": "凉爽行星"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/dyingSunFrozen/baseParameters/description",
+    "raw": "Frozen Planet",
+    "value": "冰封星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/blackSunScorching/baseParameters/description",
+    "raw": "Scorching Planet",
+    "value": "焦热星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/blackSunHot/baseParameters/description",
+    "raw": "Hot Planet",
+    "value": "炙热星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/blackSunHabitable/baseParameters/description",
+    "raw": "Habitable Planet",
+    "value": "宜居星球"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/blackSunCool/baseParameters/description",
+    "raw": "Cool Planet",
+    "value": "凉爽行星"
+  },
+  {
+    "op": "replace",
+    "path": "/planetaryTypes/blackSunFrozen/baseParameters/description",
+    "raw": "Frozen Planet",
+    "value": "冰封星球"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A gem that generates thermal energy. Can be used to keep warm on colder planets.",
+    "value": "能产生热能的宝石。可以用来在较冷的行星上保持温暖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thanatite Crystal",
+    "value": "心叶石"
+  }
+]

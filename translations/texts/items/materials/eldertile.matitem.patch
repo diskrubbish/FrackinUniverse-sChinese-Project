@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Unknown stone that joins perfectly.",
+    "value": "未知的石料完美的结合在一起。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Tile",
+    "value": "远古瓦"
+  }
+]

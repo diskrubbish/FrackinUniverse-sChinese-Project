@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ghostly as a spirit.\n^cyan;Inflicts Caliginous Gas^reset;",
+    "value": "影伴鬼魅。\n^cyan;传播暗影气体^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Phantasm Blade",
+    "value": "幻影锋刃"
+  }
+]

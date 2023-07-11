@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Metallic stone as hard as steel.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "像钢一样坚硬的金属石头。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Steel Stone",
+    "value": "钢石"
+  }
+]

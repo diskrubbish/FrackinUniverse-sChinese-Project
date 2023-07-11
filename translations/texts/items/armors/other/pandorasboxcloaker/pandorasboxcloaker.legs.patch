@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pair of Trousers that hides legwear.",
+    "value": "一件隐藏了腿部装备的长裤。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Trouser Cloaker",
+    "value": "隐形长裤"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Grand Pagoda Library (4)",
+    "value": "大塔图书馆(4)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Revisit the Grand Pagoda Library (4)",
+    "value": "重新挑战大塔图书馆(4)"
+  }
+]

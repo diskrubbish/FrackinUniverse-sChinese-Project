@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The outfit even comes with a sporty cape?",
+    "value": "这件衣服甚至带有运动斗篷？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "'Cape'",
+    "value": "“披风”"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Glimmering 'Cape'",
+    "value": "闪耀披风"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Why is the air sparkly? Must be because of your awesomeness.",
+    "value": "为什么空气闪闪发光？一定是因为你的超赞。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "Streaker's Cloak",
+    "value": "裸奔者斗篷"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "You're leaving glowing footprints!",
+    "value": "您的脚下璀璨发光！"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/shortdescription",
+    "raw": "Emperor's Cloak",
+    "value": "王道斗篷"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/description",
+    "raw": "Only the worthy may follow you.",
+    "value": "只有有价值的人可以跟随您。"
+  }
+]

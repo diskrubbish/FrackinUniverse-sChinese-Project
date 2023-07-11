@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Decorative Nightarian flooring.",
+    "value": "装饰用夜族地板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Deco Floor",
+    "value": "夜族装饰地板"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/levelTitleLabel/value",
+    "raw": "^yellow;Tier ^reset;",
+    "value": "^yellow;品级^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/critChanceTitleLabel/value",
+    "raw": "^#ee1414;Crit %^reset;",
+    "value": "^#ee1414;暴击率^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/critBonusTitleLabel/value",
+    "raw": "^yellow;Dmg +^reset;",
+    "value": "^yellow;暴击伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/airborneBonusTitleLabel/value",
+    "raw": "Airborne Dmg Multiplier:",
+    "value": "空射伤害倍率："
+  },
+  {
+    "op": "replace",
+    "path": "/holdEnergyTitleLabel/value",
+    "raw": "Energy to Hold/s:",
+    "value": "蓄力能量每秒消耗："
+  },
+  {
+    "op": "replace",
+    "path": "/drawEnergyTitleLabel/value",
+    "raw": "Energy to Draw:",
+    "value": "上弦能量消耗："
+  },
+  {
+    "op": "replace",
+    "path": "/perfectDrawTimeTitleLabel/value",
+    "raw": "Perfect Shot Time:",
+    "value": "完美射击时间："
+  },
+  {
+    "op": "replace",
+    "path": "/perfectDamageTitleLabel/value",
+    "raw": "Dmg (Perfect Shot):",
+    "value": "伤害（完美射击）："
+  },
+  {
+    "op": "replace",
+    "path": "/drawTimeTitleLabel/value",
+    "raw": "Time to Draw:",
+    "value": "上弦时间："
+  },
+  {
+    "op": "replace",
+    "path": "/damageTitleLabel/value",
+    "raw": "Dmg per Shot:",
+    "value": "每击伤害："
+  }
+]

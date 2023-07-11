@@ -1,0 +1,284 @@
+[
+  {
+    "op": "replace",
+    "path": "/helpme/skath/default/0",
+    "raw": "I'm being attacked! Alarm the Vanguard!",
+    "value": "我被袭击了! 快起提醒前锋！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/skath/default/1",
+    "raw": "Hostiles are around! I require immediate help!",
+    "value": "附近有敌人! 我需要立即支援！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/skath/default/2",
+    "raw": "I'm unarmed! Someone help me!",
+    "value": "我没有武器，谁来救救我！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/skath/default/3",
+    "raw": "Stop it! Someone help me!",
+    "value": "住手! 谁来救救我！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/skath/default/4",
+    "raw": "We're being invaded!",
+    "value": "我们被入侵了！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/skath/default/5",
+    "raw": "You won't get me!!",
+    "value": "你抓不到我的! ！"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/skath/default/0",
+    "raw": "The area should be secured by now...",
+    "value": "这个地区现在应该安全了..."
+  },
+  {
+    "op": "replace",
+    "path": "/safe/skath/default/1",
+    "raw": "I should remember to carry weapons on me next time...",
+    "value": "下次我应该记得随身带武器..."
+  },
+  {
+    "op": "replace",
+    "path": "/safe/skath/default/2",
+    "raw": "This was quite thrilling. I should bring my weapons next time.",
+    "value": "这真是太刺激了。下次我应该带上我的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/skath/default/3",
+    "raw": "I won't be unprepared next time.",
+    "value": "下次我不会再毫无准备了。"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/fenerox/default/0",
+    "raw": "No weapons. Quite defenseless. Under attack!",
+    "value": "没有武器，毫无防备，遭到攻击！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/fenerox/default/1",
+    "raw": "Not armed. Being attacked. Need help!",
+    "value": "没有武器。被攻击。需要帮助！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/fenerox/default/2",
+    "raw": "Quite vulnerable. Under threat. Must flee!",
+    "value": "相当脆弱。受到威胁。必须逃跑！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/fenerox/default/3",
+    "raw": "In danger. Being hurt. Must run!",
+    "value": "有危险，受伤了，快跑！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/nightar/default/0",
+    "raw": "Zounders!",
+    "value": "Zounders！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/nightar/default/1",
+    "raw": "Fire, fear, foes! Awake!",
+    "value": "火，恐惧，敌人! 醒来！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/nightar/default/2",
+    "raw": "This is too much!",
+    "value": "这太过分了！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/nightar/default/3",
+    "raw": "By the Source, we're being assailed!",
+    "value": "本源在上，我们正在遭受攻击！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/nightar/default/4",
+    "raw": "Sound the alarm, we are under attack!",
+    "value": "拉响警报，我们受到攻击了！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/nightar/default/5",
+    "raw": "Matriarch preserve us, the foe is assailing us!",
+    "value": "女族长保佑，敌人正在攻击我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/nightar/default/6",
+    "raw": "Damn my Tenshae, I am unarmed!",
+    "value": "该死的腾雪，我没有武器！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/nightar/default/7",
+    "raw": "Our homes are in peril!",
+    "value": "我们的家园岌岌可危！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/nightar/default/8",
+    "raw": "The Source take me from here!",
+    "value": "本源带我离开这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/nightar/default/9",
+    "raw": "Save me lest I be slain!",
+    "value": "救救我，否则我会被杀死！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/nightar/default/10",
+    "raw": "I am without blade; I must fly!",
+    "value": "我没有刀刃，我必须逃跑！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/mantizi/default/0",
+    "raw": "Oh!",
+    "value": "哦！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/mantizi/default/1",
+    "raw": "By the gods!",
+    "value": "上帝啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/mantizi/default/2",
+    "raw": "Guards! Guards!",
+    "value": "卫兵! 卫兵！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/mantizi/default/3",
+    "raw": "I am being accosted!",
+    "value": "我被袭击了！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/mantizi/default/4",
+    "raw": "Can youse not?",
+    "value": "你不能吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/fumantizi/default/0",
+    "raw": "Oh!",
+    "value": "哦！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/fumantizi/default/1",
+    "raw": "By the gods!",
+    "value": "上帝啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/fumantizi/default/2",
+    "raw": "Guards! Guards!",
+    "value": "卫兵! 卫兵！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/fumantizi/default/3",
+    "raw": "I am being accosted!",
+    "value": "我被袭击了！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/fumantizi/default/4",
+    "raw": "Can youse not?",
+    "value": "你不能吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/fenerox/default/0",
+    "raw": "Danger gone. Feeling exhausted. Scary experience!",
+    "value": "危险消失了，感觉筋疲力尽，可怕的经历！"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/fenerox/default/1",
+    "raw": "Peril over. Survived encounter. Still shaken!",
+    "value": "危险结束。幸存遭遇。仍然震惊！"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/fenerox/default/2",
+    "raw": "Danger passed. Not dead. Good outcome!",
+    "value": "危险过去了。没有死。好结果！"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/fenerox/default/3",
+    "raw": "Not dead. Danger over. Need rest!",
+    "value": "没死，危险过去了，需要休息！"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/mantizi/default/0",
+    "raw": "Is it over?",
+    "value": "结束了吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/mantizi/default/1",
+    "raw": "Well, that was exciting.",
+    "value": "好吧，真是令人兴奋。"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/mantizi/default/2",
+    "raw": "I'm just glad I'm safe.",
+    "value": "我很高兴我安全了。"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/mantizi/default/3",
+    "raw": "They didn't steal anything, did they?",
+    "value": "他们没偷东西吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/fumantizi/default/0",
+    "raw": "Is it over?",
+    "value": "结束了吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/fumantizi/default/1",
+    "raw": "Well, that was exciting.",
+    "value": "好吧，真是令人兴奋。"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/fumantizi/default/2",
+    "raw": "I'm just glad I'm safe.",
+    "value": "我很高兴我安全了。"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/fumantizi/default/3",
+    "raw": "They didn't steal anything, did they?",
+    "value": "他们没偷东西吧？"
+  }
+]

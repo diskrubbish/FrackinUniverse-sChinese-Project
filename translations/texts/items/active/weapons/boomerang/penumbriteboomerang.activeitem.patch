@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Honed to a sharp, crackling edge.",
+    "value": "边刃被磨得尖锐而致命。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbrite Boomerang",
+    "value": "半影回旋镖"
+  }
+]

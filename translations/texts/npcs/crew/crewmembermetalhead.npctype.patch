@@ -1,0 +1,248 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
+    "raw": "I'm practicing. What do you want?",
+    "value": "我在练习。你想干什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
+    "raw": "Wanna form a band, man?",
+    "value": "想组建个乐队吗，伙计？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
+    "raw": "Check out these riffs, mother#$@$#@$@!",
+    "value": "听听这些即兴演奏，他娘的#$@$#@$@！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
+    "raw": "I have some pretty sick ideas when it comes to badass licks, man.",
+    "value": "我有一些很变态的想法，当它涉及到...，*少儿不宜*。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/0",
+    "raw": "Floran's practicing. What do you want?",
+    "value": "叶族人在练习。你想要什么？。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/1",
+    "raw": "Wanna form a band, man?",
+    "value": "想组建个乐队吗，伙计？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/2",
+    "raw": "Check out these riffss, mother#$@$#@$@!",
+    "value": "听听这些即兴演奏奏奏，他娘的#$@$#@$@！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/3",
+    "raw": "I have some pretty sick ideas when it comes to badass lickss, man.",
+    "value": "我有一些很变态的想法，当它涉及到...，*少儿不宜*。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
+    "raw": "Annoyed. I'm practicing. What do you want?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
+    "raw": "Cool. Wanna form a band, man?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
+    "raw": "Passionate. Check out these riffs, mother#$@$#@$@!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/3",
+    "raw": "Proud. I have some pretty sick ideas when it comes to badass licks, man.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "*guitar sounds*",
+    "value": "*弹奏吉他*"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "raw": "*gives the horns*",
+    "value": "*吹响号角*"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+    "raw": "I bring the metal.",
+    "value": "我带来了金属。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "raw": "*guitar sounds*",
+    "value": "*弹奏吉他*"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+    "raw": "*gives the horns*",
+    "value": "*吹响号角*"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2",
+    "raw": "Floran bringss the metal!",
+    "value": "叶族人带带来重金属！。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "raw": "*guitar sounds*",
+    "value": "*弹奏吉他*"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
+    "raw": "*gives the horns*",
+    "value": "*吹响号角*"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
+    "raw": "Passionate. I bring the metal.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+    "raw": "Man, Satan kinda sucked. Back to riffing.",
+    "value": "伙计，调子有点烂。回到即兴演奏。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "Dude.",
+    "value": "老兄。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "raw": "WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!",
+    "value": "哇！！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+    "raw": "I play guitar. What the #@$@$#@ do you think I do?",
+    "value": "我弹吉他。你以为#@$@$#@我在做什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+    "raw": "Honestly, dude. Look at what's in my hand. Clearly I am a chef.",
+    "value": "老实说，伙计。看看我手里的东西。显然我是个行家。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/4",
+    "raw": "Let's rock!",
+    "value": "嗨起来！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/5",
+    "raw": "The crowd will be insane tonight!",
+    "value": "今晚观众会疯狂的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+    "raw": "This place sucks.",
+    "value": "这个地方糟透了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
+    "raw": "Without music? You suck.",
+    "value": "没有音乐听？真是糟透了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/2",
+    "raw": "Dude.",
+    "value": "老兄。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
+    "raw": "While you were out I wrote 12 new riffs!",
+    "value": "你出去的时候我写了12首新的乐曲！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/1",
+    "raw": "You ready to record , finally? I've been waiting forever.",
+    "value": "你准备好录音了吗？我一直在等着。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/2",
+    "raw": "I've had like, 15 beers while you were gone. What took so long?.",
+    "value": "你不在的时候我喝了15瓶啤酒。怎么这么久？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+    "raw": "Guy, I'm carrying a guitar here. Slow the hell down.",
+    "value": "伙计，我带着一把吉他。他娘的慢点。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
+    "raw": "This gear may be awesome, but it isn't *light*, douchebag! Slow down.",
+    "value": "这个装备可能很棒，但它并不轻，混蛋！慢慢来。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
+    "raw": "Do I look like a superhuman? I can't run that fast.",
+    "value": "我看起来像超人吗？我可跑不了那么快。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
+    "raw": "I hate running.",
+    "value": "我讨厌跑步。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
+    "raw": "Hello? I'm trying to tune my guitar. *mutters*",
+    "value": "喂？我正在给吉他调音。*喃喃自语*"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Axe-Wielder",
+    "value": "斧力士"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Riffs and Fills",
+    "value": "创作型歌手"
+  }
+]

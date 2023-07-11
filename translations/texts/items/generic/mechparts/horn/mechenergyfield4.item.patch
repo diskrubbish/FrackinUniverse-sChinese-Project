@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Increases Mech Fuel.",
+    "value": "增加机甲燃料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fuel Tank IV",
+    "value": "燃料罐 IV"
+  }
+]

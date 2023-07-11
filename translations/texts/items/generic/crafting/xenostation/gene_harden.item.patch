@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tough cells built to withstand stress.",
+    "value": "坚韧的细胞基因，可承受更多压力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hardened Shell",
+    "value": "硬壳基因"
+  }
+]

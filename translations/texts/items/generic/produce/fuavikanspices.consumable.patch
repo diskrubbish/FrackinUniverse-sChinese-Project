@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Refined spices from Kadavan.\n^yellow;^reset;^cyan;Energy x1.25^reset;: 1m",
+    "value": "来自卡达文的精制香料。\n^yellow;^reset;^cyan;能量x1.25^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Refined Kadavan Spices",
+    "value": "精制卡达文香料"
+  }
+]

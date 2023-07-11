@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Generally a short cape. Arguably a long cape for penguins. +^green;15^reset;% Shadow Resist.",
+    "value": "通常来说是短披肩。但是对于企鹅是一面长披肩。\n暗影抗性+^green;15^reset;%"
+  }
+]

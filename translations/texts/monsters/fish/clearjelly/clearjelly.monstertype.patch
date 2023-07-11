@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Jellyfish",
+    "value": "水母"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Likely unsafe to touch, despite its surreal beauty.",
+    "value": "触摸它可不安全，尽管它的美超脱凡世。"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mildly spicy curry made with the coralcreep fruit. ^green;Type: Vegetables^reset;",
+    "value": "一份用珊瑚果制作的微辣咖喱。\n^green;类型：蔬菜^reset;"
+  }
+]

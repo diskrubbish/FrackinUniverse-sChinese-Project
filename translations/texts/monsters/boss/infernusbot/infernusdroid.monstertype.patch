@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyrobot",
+    "value": "爬虫机器人"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An ancient guardian with corrupted programming.",
+    "value": "一位程序错误的古代守护者。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Freezing cold impact hammer.\n^cyan;Breaks blocks^reset;",
+    "value": "冷冻冲击锤。\n^cyan;能够破坏方块^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Striker",
+    "value": "高熔点打击者"
+  }
+]

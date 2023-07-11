@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "The Dweller In Darkness",
+    "value": "黑暗住民"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A creepy religious text",
+    "value": "令人毛骨悚然的宗教书籍。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "...for the True Believer will need no eyes,\n  Remove them for He whom Sees,\nPassage is barred for those with sight;\n  In Darkness you must dwell.",
+    "value": "...神迹不会降临在有视力的信徒身上，\n作为真正的信徒眼睛则是多余的，\n挖掉它们吧，\n你必须永远处于黑暗之中。"
+  }
+]

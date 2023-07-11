@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "The defenders of a Glitch monastery are asking for help against an imminent Alpaca raid. Perhaps you could do something to help?",
+    "value": "一所古老的电子人修道院正在求助，以防止羊驼袭击者的攻击，也许你可以帮下他们？"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Away In A Longship (3)",
+    "value": "长舟之旅(3)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Away In A Longship (3) (R)",
+    "value": "重新挑战长舟之旅(3)"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Rad Bulb",
+    "value": "艾肯辐射球茎"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "When thrown, can be quite dangerous.",
+    "value": "当这玩意被扔出去的时候十分危险。"
+  }
+]

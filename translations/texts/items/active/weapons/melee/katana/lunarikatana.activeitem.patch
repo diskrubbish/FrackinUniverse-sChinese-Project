@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sharpened lunari crystal. Pretty.\n^yellow;4 hit combo^reset;",
+    "value": "由磨利的月晶制成，很漂亮。\n^yellow;4连斩^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Katana",
+    "value": "月晶武士刀"
+  }
+]

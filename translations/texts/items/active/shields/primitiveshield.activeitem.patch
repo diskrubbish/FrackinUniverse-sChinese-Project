@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A makeshift shield of planks and plant fibers.",
+    "value": "这只是一块由木料和植物纤维东拼西凑而成的盾牌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Primitive Shield",
+    "value": "原始盾"
+  }
+]

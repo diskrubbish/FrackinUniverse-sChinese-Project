@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fortified Nightarian construction.",
+    "value": "加固过的夜族建材。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloped Nightar Ship Block",
+    "value": "倾斜夜族船体方块"
+  }
+]

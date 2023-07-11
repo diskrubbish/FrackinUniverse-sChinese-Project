@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Somehow, it staves off madness.\n^green;+80%^reset; Mental Protection",
+    "value": "不知何故，这玩意能避免疯狂。\n^green;+80^reset;%精神抗性"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flea Market Special",
+    "value": "跳蚤市场古玩"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Flea Market Special",
+    "value": "跳蚤市场古玩"
+  }
+]

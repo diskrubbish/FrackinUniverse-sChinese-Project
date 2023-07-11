@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fishbone, sea-steel and tears.",
+    "value": "鱼骨，金属，还有泪水。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fishbone Basher",
+    "value": "鱼骨痛击者"
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
+    "raw": "Hello adventurer, mind if I join you and hurl bees at things?",
+    "value": "你好，冒险者，你是不是需要我的蜜蜂来帮你对抗你的敌人？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
+    "raw": "I'm <selfname>, and I really want to throw bees at people. Do you want to employ me?",
+    "value": "我是<selfname>，我可以让我的蜜蜂帮你，你打算雇用我吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
+    "raw": "You are JUST the kind of person I should throw bees for! Fancy employing me?",
+    "value": "我可以用我的蜜蜂帮助你，要不要雇用我？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
+    "raw": "I'm looking for a ship's crew to cover in bees. Are you interested?",
+    "value": "我正在找一艘可以养蜜蜂的飞船，你愿意雇用我吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/4",
+    "raw": "I'm looking for a place among a crew. Can I join yours and dump bees everywhere?",
+    "value": "我正在找一个可以准许我养蜜蜂的飞船，请问我可以加入你的队伍吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/0",
+    "raw": "Hello adventurer, mind if Floran join you and hurl beeeessss at thingss?",
+    "value": "你好，冒险者，请问能不能雇雇雇用叶族人加你的冒险团队？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/1",
+    "raw": "Floran called <selfname> and really want to throw beeeessss at people. Do you want to hire Floran?",
+    "value": "叶族人叫<selfname>，叶族人这儿有蜜蜂蜂蜂，你打算雇用我吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/2",
+    "raw": "You are JUSSST the kind of persson Floran should throw beeeessss for! Hire Floran maybe?",
+    "value": "你会雇雇雇用叶族人吗？叶族人可以用蜜蜂来帮你。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/3",
+    "raw": "Floran looking for ship to cover in beeeessss. Are you wanting?",
+    "value": "叶族人打算寻找找找飞船来冒险，你打算雇用叶族人吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/4",
+    "raw": "Floran looking for crew. Can Floran join yourss and dump beeeessss everywhere?",
+    "value": "叶族人正在寻找冒险。叶族人可可可以加入你们吗？叶族人手上有蜜蜂噢。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
+    "raw": "Friendly. Hello adventurer, mind if I join you and hurl bees at things?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
+    "raw": "Hopeful. I'm <selfname>, and I really want to throw bees at people. Do you want to employ me?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
+    "raw": "Cheerful. You are JUST the kind of person I should throw bees for! Fancy employing me?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/3",
+    "raw": "Excited. I'm looking for a ship's crew to cover in bees. Are you interested?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/4",
+    "raw": "Ambitious. I'm looking for a place among a crew. Can I join yours and dump bees everywhere?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I'll be here for you if you need someone to throw bees at things!",
+    "value": "如果你需要蜜蜂的帮忙，就来找我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "raw": "If you need bees, you know where to find me!",
+    "value": "如果你需要蜜蜂的帮忙，别犹豫，来找我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+    "raw": "If you need bees, I'll be here!",
+    "value": "如果你需要蜜蜂的帮忙，就喊我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "raw": "Floran be here for you if you need someone to throw beeeessss at things!",
+    "value": "如果你需要蜜蜜蜜蜂的帮忙，别犹豫，来找叶族人！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+    "raw": "If you need beeeessss, you know where to find Floran!",
+    "value": "如果你需要蜜蜜蜜蜜蜂的帮忙，别犹豫，快来找叶族人！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2",
+    "raw": "If you need beeeessss, Floran be here!",
+    "value": "如果你需要蜜蜂蜂蜂的帮忙，就来找叶族人！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "raw": "Brave. I'll be here for you if you need someone to throw bees at things!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
+    "raw": "Gallant. If you need bees, you know where to find me!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
+    "raw": "Stalwart. If you need bees, I'll be here!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "Let me make you immune to BEES!",
+    "value": "我可以让你免疫蜂蜇！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "raw": "Bee stings suck! Now you don't need to worry!",
+    "value": "以前被蜜蜂蜇过？现在你再也不用担心了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+    "raw": "Have some bee-proofing!",
+    "value": "我有些蜂蜜，要不要来点？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+    "raw": "I can help you avoid the wrath of beeeeeees!!",
+    "value": "我可以帮你避免被愤怒的蜜蜂们蛰到！！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
+    "raw": "Let Floran make you immune to BEEEESSSS!",
+    "value": "来，叶族人可以帮你免疫疫疫蜂蜇！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1",
+    "raw": "Beeee ssstings ssuck! Now you no worry!",
+    "value": "被蜇很不好受受受吧？有了叶族人，你在不用担心了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
+    "raw": "Have ssome beeee-no-ssstabby!",
+    "value": "只有蜂，没有蜇蜇蜇！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/3",
+    "raw": "Floran help you avoid the wrath of beeeeeeessss!!",
+    "value": "叶族人可以帮你免免免受蜂蜇！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+    "raw": "Eager. Let me make you immune to BEES!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
+    "raw": "Excited. Bee stings suck! Now you don't need to worry!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
+    "raw": "Helpful. Have some bee-proofing!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
+    "raw": "Helpful. I can help you avoid the wrath of beeeeeees!!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+    "raw": "Heh... Dying tickles.",
+    "value": "哎哟...死了真不好。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1",
+    "raw": "I hate bee-ing killed. Haha. Shut up. Idiot.",
+    "value": "我讨厌蜜蜂死掉。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/2",
+    "raw": "I'm back! And alive! AND I HAVE BEES!",
+    "value": "我活过来啦！就连蜜蜂也没有死掉！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/3",
+    "raw": "I'm back and in one piece! Also? BEES!",
+    "value": "我活过来了，蜜蜂也活过来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/4",
+    "raw": "I'm alive again! That's good. Let's bee friends!",
+    "value": "我还活着！啊哈哈！很好。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/5",
+    "raw": "I don't think I respawned properly...I need more bees!",
+    "value": "我觉得我有一次活过来了？看来我得准备多点蜜蜂。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/6",
+    "raw": "My head hurts. Probably from bees.",
+    "value": "我的头有些疼，或许我被蜜蜂蛰了？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/7",
+    "raw": "What was I doing just before I died? Oh yea. Bees.",
+    "value": "我死之前在想啥来着？噢，对，蜜蜂！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/0",
+    "raw": "Floran feelsss funny.",
+    "value": "叶族人感到很很很有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/1",
+    "raw": "Floran not a fan of dying.",
+    "value": "叶族人不喜欢欢欢死亡。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/2",
+    "raw": "Ressspawning tickles.",
+    "value": "复复复活的痒痒的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/3",
+    "raw": "Floran will fight better next time...",
+    "value": "叶族人下一次会战战战斗的更好..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/0",
+    "raw": "Dazed. Was I dead?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/1",
+    "raw": "Relieved. I'm back!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/2",
+    "raw": "Concerned. I hope I respawned properly. Do I look alright?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/3",
+    "raw": "Confused. Was I dead for a little while?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/4",
+    "raw": "Tired. Respawning is exhausting.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/0",
+    "raw": "I saw a bright light... No, wait, that was just me.",
+    "value": "我看到了光？噢，等等，原来那是我自己。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/1",
+    "raw": "Was I dead? Well I guess I ain't now!",
+    "value": "我死了？我想我没死！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/2",
+    "raw": "Respawnin' sure does take the hurry from my heels.",
+    "value": "等等我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/3",
+    "raw": "Comin' back to bein' gives me the shakes...",
+    "value": "我可跑不快，哥们，等等我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+    "raw": "I'll just wait here and touch my bees.",
+    "value": "我会等在这儿照顾我的蜜蜂们。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
+    "raw": "I'll stay here. Come back when you need bees, captain!",
+    "value": "船长，我会留在这儿，当你需要我时，你可以来找我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/2",
+    "raw": "I'll stay here for now, captain.",
+    "value": "我会一直待在这里的，船长。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/3",
+    "raw": "Do you need me to stay here? Why? Do I stink? Is it the bees?",
+    "value": "你要我留在这儿？我应该洗澡了啊，没臭味了才对，是因为你不喜欢蜜蜂？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/4",
+    "raw": "It's all these damned bees, isn't it?",
+    "value": "蜜蜂，难道你不喜欢蜜蜂？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/5",
+    "raw": "I'll stay here. You suck.",
+    "value": "好吧，好吧，我会一直呆在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/0",
+    "raw": "Floran should sstay here?",
+    "value": "叶族人应该待待待在这里？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/1",
+    "raw": "Floran will sstay here.",
+    "value": "叶族人会待待待在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/2",
+    "raw": "Floran will sstay, then...",
+    "value": "叶族人会待在这里，然后..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
+    "raw": "Obliging. I will remain here for now, then.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1",
+    "raw": "Patient. I can wait here, captain.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2",
+    "raw": "Amicable.  I will remain here if you want me to, captain.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3",
+    "raw": "Agreeable. I can stay here if you prefer, captain.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/0",
+    "raw": "Alright, partner, I'll jus' be right here.",
+    "value": "伙计，我会好好呆在这儿的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/1",
+    "raw": "I can hold up here, if you'd like.",
+    "value": "是行动的时候了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/2",
+    "raw": "I'll jus' stay here for a moment.",
+    "value": "我会一直在这里等你的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
+    "raw": "BEEEEEEEEEEEEES!",
+    "value": "蜜蜂，嗡嗡嗡嗡嗡！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/1",
+    "raw": "Did you know that I like bees?!?!!",
+    "value": "你知道我为什么这么喜欢蜜蜂吗？快问我，快问我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/2",
+    "raw": "Let's get going and hurl bees!",
+    "value": "让我们一起去捅蜂窝吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/3",
+    "raw": "Let's go, captain! Someone out there is in need of bees!",
+    "value": "快来，船长，有人需要蜜蜂的帮助！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/4",
+    "raw": "Are we going somewhere without bees?",
+    "value": "你真的不打算带蜜蜂去冒险吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/0",
+    "raw": "Yesss, Captain!",
+    "value": "好好好的，船长！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/1",
+    "raw": "Let'ss go!",
+    "value": "出发发发咯！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/2",
+    "raw": "Captain wantss Floran to follow?",
+    "value": "船长想想想要叶族人跟随？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/3",
+    "raw": "Floran ready to go again!",
+    "value": "叶族人准备好再次出出出发了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/4",
+    "raw": "Are we going ssomewhere?",
+    "value": "我们要去去去哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/0",
+    "raw": "Humble. I shall follow, captain.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/1",
+    "raw": "Alert. Shall we go, captain?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/2",
+    "raw": "Solemn. Is it time to move, captain?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/3",
+    "raw": "Inquisitive. Are we going somewhere?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+    "raw": "I can't reach you! How can I share my bees now?!!?",
+    "value": "我没法过去，你现在需要蜜蜂的帮忙吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
+    "raw": "You're too far to appreciate my bees!",
+    "value": "你这次真的要感谢我的蜜蜂了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
+    "raw": "Hey, wait up! BEES!",
+    "value": "嘿，等会儿，嗡嗡嗡嗡！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
+    "raw": "Don't go too far! You won't have my bees!",
+    "value": "在蜜蜂不在你身边的时候不要走太远！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
+    "raw": "Let me catch up or you'll run out of bees!",
+    "value": "慢点，你离我这么远，我的蜜蜂没法帮你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/0",
+    "raw": "Floran too far away!",
+    "value": "叶族人被拉拉拉在后面了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/1",
+    "raw": "Floran iss left behind!",
+    "value": "叶族人离离离你太远了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/2",
+    "raw": "Floran not close enough to you!",
+    "value": "叶族人离你你你不够近！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0",
+    "raw": "Frustrated. I can't reach you!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1",
+    "raw": "Concerned. Wait for me!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Bee Guy",
+    "value": "蜜蜂男"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Bee-Ology",
+    "value": "蜜蜂学"
+  }
+]

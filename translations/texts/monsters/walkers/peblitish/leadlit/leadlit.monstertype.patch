@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Leadlit",
+    "value": "重铅石矿精"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Because of the size of its head in proportion to its body, it can't run long distances.",
+    "value": "因为它的头身比例不协调，所以它不能跑很长的距离。"
+  }
+]

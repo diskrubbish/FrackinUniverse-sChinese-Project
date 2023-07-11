@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Comfortable, fur-lined leather pants.",
+    "value": "舒适的毛皮内衬皮裤。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fur Pants",
+    "value": "皮裤"
+  }
+]

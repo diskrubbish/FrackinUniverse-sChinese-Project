@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Blast foes happily with this energy shotgun.\n^yellow;Bouncing projectiles^reset;",
+    "value": "能量猎枪，一枪做掉！\n^yellow;弹跳弹^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proto Gun",
+    "value": "原体霰弹枪"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Blaster Ball",
+    "value": "爆破球"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Red Honey Material",
+    "value": "红色蜂蜜材质"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Waxy!\n^green;Extractable^reset;.",
+    "value": "蜂蜡！\n^green;可萃取^reset;。"
+  }
+]

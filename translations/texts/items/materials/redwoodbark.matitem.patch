@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Redwood bark. Peeled from the logs of large trees.\n^green;Extractable^reset;.",
+    "value": "红木树皮。从大树的原木上剥取来的。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Redwood Bark",
+    "value": "红杉树皮"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Unimpressed. This bark covering is not sturdy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likess rough bark covering. Feelss like home.",
+    "value": "叶族人喜喜喜欢粗糙的树皮。感感觉像家一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Nice lookin' bark straight off a tree.",
+    "value": "漂亮的树皮。"
+  }
+]

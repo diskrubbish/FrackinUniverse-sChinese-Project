@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A broken collar from a glitchtop. What can you do with this?",
+    "value": "战损机械娃大概不能发梦到电子人吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glitchtop Collar (Broken)",
+    "value": "故障娃项圈（战损）"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "raw": "Glitch Aura (Broken)",
+    "value": "故障光环（战损）"
+  }
+]

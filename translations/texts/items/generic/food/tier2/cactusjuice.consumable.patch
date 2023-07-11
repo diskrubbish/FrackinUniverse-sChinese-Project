@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cool as a cactus. ^green;Type: Vegetable^reset;",
+    "value": "口感像仙人掌一样爽。\n^green;类型：蔬菜^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Knock enemies silly.",
+    "value": "杀敌如智障。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Impact Slime Tendrils",
+    "value": "弹力粘液触须"
+  }
+]

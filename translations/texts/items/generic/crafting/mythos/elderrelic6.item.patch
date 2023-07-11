@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fractal patterns swirl within a red crystalline sphere.",
+    "value": "某个怪异的图案在其内的红色水晶球中不停地旋转着。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Valtan Casing^reset;",
+    "value": "^#ffe50e;沃尔坦核心^reset;"
+  }
+]

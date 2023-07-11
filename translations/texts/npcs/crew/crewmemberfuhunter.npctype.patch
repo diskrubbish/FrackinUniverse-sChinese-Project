@@ -1,0 +1,848 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
+    "raw": "Hello adventurer, mind if I join you?",
+    "value": "你好冒险家，介意我加入你们吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
+    "raw": "I'm <selfname>, and I really want to join a ship. Do you want to employ me?",
+    "value": "我是<selfname>，我打算找一艘飞船去探险，你打算雇用我吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
+    "raw": "You are JUST the kind of person I should work with! Fancy employing me?",
+    "value": "你就是我想要一起共事的人，不考虑雇用我吗?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
+    "raw": "I'm looking for a ship's crew to join. Are you interested?",
+    "value": "我想找一份飞船上的活儿，你的飞船缺人吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/4",
+    "raw": "I'm looking for a place among a crew. Can I join yours?",
+    "value": "你在招募船员？我可以加入你的队伍吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/0",
+    "raw": "If I join your crew, can you protect me from Big Ape?",
+    "value": "如果我成为你的船员，你是不是能保护我不受大猿人的奴役？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/1",
+    "raw": "I have skills that may help you on your ventures. Would you like to hire me?",
+    "value": "我可以帮到你，你打算雇我吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/2",
+    "raw": "Perhaps the life aboard a ship is the one for me. Can I join you?",
+    "value": "我非常向往飞船上的生活，我可以加入你的队伍吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/apex/default/3",
+    "raw": "I'm looking to escape to a new life. Are you hiring?",
+    "value": "我想找份新的工作，请问你还需要新船员吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/0",
+    "raw": "To sail among the stars... Perhaps you are looking for some crew members?",
+    "value": "在星海中遨游...可能你正在寻找一些得力的船员?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/1",
+    "raw": "You have a ship? Perhaps you're looking for people to join a crew?",
+    "value": "你有一艘飞船？可能你会想要找一些船员加入你的飞船？我怎么样？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/avian/default/2",
+    "raw": "Tell me, are you looking for crew members? Because to sail among the stars would be wonderful...",
+    "value": "听说你在找一些船员加入你的队伍？不得不说在星海中遨游是多么美妙的一件事情..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/0",
+    "raw": "Perhaps the life of a traveller is the one for me? May I enquire about joining your crew?",
+    "value": "我十分喜爱星际间的旅行，请问我可以成为你的船员吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/1",
+    "raw": "Nothing sounds as inspiring as travelling through the stars. May I join your ship?",
+    "value": "没有什么听起来比在星海中遨游更加振奋人心了，我可以加入你的飞船吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/hylotl/default/2",
+    "raw": "I believe I could aid you in your travels. Perhaps I could become a crew member on your ship?",
+    "value": "我相信我可以在旅行中帮到你。我可以成为你的船员吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/0",
+    "raw": "Floran wantss to join ship crew!",
+    "value": "叶族人想想想要要成为你的船员！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/1",
+    "raw": "Floran interesssted in long term employment. Can you give Floran a job?",
+    "value": "叶族人对长期雇用很感兴兴兴趣。你可以给我一份飞船上的工作吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/2",
+    "raw": "You look ssstrong. Floran wants to join you!",
+    "value": "你看起来非常强强强壮。叶族人想要加入你的队伍！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
+    "raw": "Excited. Can I join you in the stars? I have skills that could help you!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
+    "raw": "Desperate. A life among the stars is the one for me. Please, can I join your crew?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
+    "raw": "Eager. I'm a very useful person! Can I join you?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/0",
+    "raw": "Lawless, godless, flightless - that's me!",
+    "value": "无法无天，不信神的，不会飞的，这就是我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/1",
+    "raw": "I've got an itchy trigger flipper.",
+    "value": "我觉得我的脚蹼痒痒的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/2",
+    "raw": "I climbed an Apex once. Nice view.",
+    "value": "我曾经爬上一个猿人的背，那景色真是棒极了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/3",
+    "raw": "Us penguins are unflappable.",
+    "value": "我们企鹅无论发生什么事都能保持镇定。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/4",
+    "raw": "Anyone else feel like there's been some cosmic turbulence lately?",
+    "value": "有没有人感觉到宇宙最近好像一直在摇摇晃晃的？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/5",
+    "raw": "Not all penguins are troublemakers! Who am I kidding, yes we are.",
+    "value": "不是所有企鹅都是捣蛋鬼！前面只是句玩笑话，对，我们就是喜欢捣乱！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/6",
+    "raw": "My feathers are all gummed up with gun oil.",
+    "value": "我的羽毛上全粘上了枪支保养油。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/7",
+    "raw": "Yesterday I laughed so hard I almost choked on my mackerel.",
+    "value": "昨天我笑到差点让鲭鱼把我的喉咙卡住了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/8",
+    "raw": "Hey, I'm <selfname>, nice to meet ya!",
+    "value": "嘿，我是<selfname>，很高兴见到你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/penguin/default/9",
+    "raw": "People think penguins are cute. People are wrong.",
+    "value": "人人都觉得企鹅很可爱，他们想错了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/0",
+    "raw": "I may forget where I came from, but I know where I wanna go - with you, partner!",
+    "value": "伙计。我或许忘记了我来自哪儿，但是我想问我们将要去哪儿？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/1",
+    "raw": "Hey partner, you lookin' for an ol' starry wanderer to ride with you?",
+    "value": "嘿，伙计，你需要一个称职的船员吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/2",
+    "raw": "Y'know, you an' I could get along mighty fine. Fancy hirin' me for your crew?",
+    "value": "嘿，我对你印象很好，要不要雇用我？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/novakid/default/3",
+    "raw": "If yer someone to join your mighty fine star crew, then I'm your huckleberry!",
+    "value": "如果你需要厉害的船员，那么，你找对人了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "My tough-as-nails training will protect you from jungles.",
+    "value": "我所受过的丛林训练可以让你不受丛林环境的干扰。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "raw": "Let's find the enemy! This terrain is not even a bother to us!",
+    "value": "让我们找出对我们不利的家伙吧，这里我们将如履平地！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+    "raw": "I'll help us to prowl the jungle unhindered!",
+    "value": "我能够帮助你更便捷地探索丛林！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+    "raw": "Mud? Clay? Hah. Walk on through.",
+    "value": "泥？黏土？哈哈，直接走过去。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
+    "raw": "Floransss sstabbing sskills protect you from jungless.",
+    "value": "叶族人可以帮你更好地生存存存于丛林中。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1",
+    "raw": "Floran will find enemy to ssstab! This terrain is not even a bother to Floran!",
+    "value": "叶族人会发现并刺刺刺敌人！不过我对这里的地形有点不适应。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
+    "raw": "Floran help you hunt in jungle!",
+    "value": "叶族人会帮你在丛林中中中更有效的狩猎！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/3",
+    "raw": "Mud? Clay? Hah. Floran ssstill hunt.",
+    "value": "泥？黏土？哈哈，叶族人说没事事事就没事，快走过去吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+    "raw": "Statement. My tough-as-nails training will protect you from jungles.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
+    "raw": "Eager. Let's find the enemy! This terrain is not even a bother to us!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
+    "raw": "Boastful. I'll help us to prowl the jungle unhindered!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
+    "raw": "Proud. Mud? Clay? Hah. Walk on through.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I'll be here for you if you need someone to help you fight bad guys!",
+    "value": "如果你需要我帮你战斗，请来找我，我会一直待在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "raw": "If you need protection, you know where to find me!",
+    "value": "如果你需要保护，你知道在哪里能找到我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+    "raw": "If you need me in battle, I'll be here!",
+    "value": "如果你需要与敌人战斗，我会一直待在这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0",
+    "raw": "I will stay posted here until you need backup.",
+    "value": "我会待在这里，直到你需要我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1",
+    "raw": "I will remain on guard here until you need me, captain.",
+    "value": "我会留守在这里，直到你需要我，船长。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/2",
+    "raw": "If you need military support, I will be here.",
+    "value": "如果你需要打架，请来找我，我会一直在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/apex/default/3",
+    "raw": "If you need me in battle, you know where I am.",
+    "value": "如果你需要与敌人战斗，你知道在哪里可以找到我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/0",
+    "raw": "I'll be here for you if you need someone to help you in battle.",
+    "value": "我会一直待在这里。直到你需要我帮你打败那些坏人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/1",
+    "raw": "If you need a hand in battle, you know where to find me!",
+    "value": "如果你需要我帮助你战斗，你知道在哪里找到我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/avian/default/2",
+    "raw": "I'll stay here so you know where I'll be if you need protection!",
+    "value": "我就待在这里，如果你需要保护，就来找我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/0",
+    "raw": "If you need support in the art of battle, you can find me here.",
+    "value": "如果你需要关于战斗方面的帮助，请来找我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1",
+    "raw": "Combat is an art, and I am an artist! I'll be here if you need me.",
+    "value": "如果你需要战斗技艺的帮助，你会在这儿找到我的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/2",
+    "raw": "I'll be here if you need help to defend yourself",
+    "value": "如果你需要保镖，请来找我，我会在这里一直等你。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "raw": "Floran will stay here until you need Floran to ssstab or shoot something.",
+    "value": "叶族人会待在这里直到你需要叶族人去刺刺刺或是射点什么东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+    "raw": "Floran is bessst hunter! Ask Floran if you need help some time.",
+    "value": "如果你需需需要我帮你，尽管开口，叶族人是最棒的猎猎猎人！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2",
+    "raw": "Floran here to help you fight if you need it!",
+    "value": "如果你需要战斗，叶族人会帮帮帮你的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "raw": "Gallant. I'll be here if you need a warrior to defend you!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
+    "raw": "Brave. If you need assistance on your travels, I will be here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
+    "raw": "Stalwart. I can always lend you my sword and skill in battle, should you need it.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3",
+    "raw": "Eager. If you need someone to help you fight, I shall be here waiting!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0",
+    "raw": "I'll hold up here for now. Come say howdy when you need me again, partner.",
+    "value": "我会呆在这儿，如果你打算要我帮忙，记得喊我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1",
+    "raw": "I'll coop up here until when ya next need my services.",
+    "value": "如果你需要我帮你，就来找我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/2",
+    "raw": "Don't worry about me, I'll hold up here until you have need of me again, partner.",
+    "value": "不要担心，我会一直在这儿等到你需要我为止。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+    "raw": "Heh... Dying tickles.",
+    "value": "哎哟...死了真不好。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1",
+    "raw": "What just happened?",
+    "value": "刚才发生了什么事？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/2",
+    "raw": "I'm back! And alive!",
+    "value": "我活过来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/3",
+    "raw": "I'm back and in one piece!",
+    "value": "我完好无缺的复活了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/4",
+    "raw": "I'm alive again! That's good.",
+    "value": "呼，我还活着！还好。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/5",
+    "raw": "I don't think I respawned properly...",
+    "value": "我不认为我复活的姿势很到位..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/6",
+    "raw": "My head hurts.",
+    "value": "我的头有些疼。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/7",
+    "raw": "What was I doing just before I died?",
+    "value": "到底我是怎么死的？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/0",
+    "raw": "Floran feelsss funny.",
+    "value": "叶族人感到很很很有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/1",
+    "raw": "Floran not a fan of dying.",
+    "value": "叶族人不喜欢欢欢死亡。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/2",
+    "raw": "Ressspawning tickles.",
+    "value": "复复复活的痒痒的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/3",
+    "raw": "Floran will fight better next time...",
+    "value": "叶族人下一次会战战战斗的更好..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/0",
+    "raw": "Dazed. Was I dead?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/1",
+    "raw": "Relieved. I'm back!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/2",
+    "raw": "Concerned. I hope I respawned properly. Do I look alright?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/3",
+    "raw": "Confused. Was I dead for a little while?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/4",
+    "raw": "Tired. Respawning is exhausting.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/0",
+    "raw": "Can't believe I died when I was right in the middle of something.",
+    "value": "不敢相信我站在那玩意正中央的时候死了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/1",
+    "raw": "No self-respecting penguin would stay dead for long.",
+    "value": "没有自尊的企鹅和死了有什么分别。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/2",
+    "raw": "Heh... Dying tickles.",
+    "value": "哎哟...死了真不好。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/penguin/default/3",
+    "raw": "Respawning makes my head feel fuzzy. I like it.",
+    "value": "重生让我的脑袋感到晕晕乎乎，不过我喜欢这种感觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/0",
+    "raw": "I saw a bright light... No, wait, that was just me.",
+    "value": "我看到了光？噢，等等，原来那是我自己。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/1",
+    "raw": "Was I dead? Well I guess I ain't now!",
+    "value": "我死了？我想我没死！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/2",
+    "raw": "Respawnin' sure does take the hurry from my heels.",
+    "value": "等等我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/novakid/default/3",
+    "raw": "Comin' back to bein' gives me the shakes...",
+    "value": "我可跑不快，哥们，等等我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+    "raw": "I'll just wait here.",
+    "value": "我就在这里等着。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
+    "raw": "I'll stay here. Come back when you need me, captain!",
+    "value": "船长，我会在这里待着，直到你需要我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/2",
+    "raw": "I'll stay here for now, captain.",
+    "value": "我会一直待在这里的，船长。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/3",
+    "raw": "Do you need me to stay here?",
+    "value": "你需要我待在这里吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/4",
+    "raw": "I'll stay here for now, then.",
+    "value": "我会一直待在这里的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/5",
+    "raw": "I'll stay here.",
+    "value": "我会一直留守的这里的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/0",
+    "raw": "Floran should sstay here?",
+    "value": "叶族人应该待待待在这里？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/1",
+    "raw": "Floran will sstay here.",
+    "value": "叶族人会待待待在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/2",
+    "raw": "Floran will sstay, then...",
+    "value": "叶族人会待在这里，然后..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
+    "raw": "Obliging. I will remain here for now, then.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1",
+    "raw": "Patient. I can wait here, captain.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2",
+    "raw": "Amicable.  I will remain here if you want me to, captain.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3",
+    "raw": "Agreeable. I can stay here if you prefer, captain.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/0",
+    "raw": "Alright, partner, I'll jus' be right here.",
+    "value": "伙计，我会好好呆在这儿的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/1",
+    "raw": "I can hold up here, if you'd like.",
+    "value": "是行动的时候了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/novakid/default/2",
+    "raw": "I'll jus' stay here for a moment.",
+    "value": "我会一直在这里等你的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
+    "raw": "Yes, captain!",
+    "value": "好的，船长！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/1",
+    "raw": "Captain!",
+    "value": "是是是的，船长！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/2",
+    "raw": "Let's get going!",
+    "value": "让我们出发吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/3",
+    "raw": "Let's go, captain!",
+    "value": "船长，出发吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/4",
+    "raw": "Are we going somewhere?",
+    "value": "我们要去哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/0",
+    "raw": "Yesss, Captain!",
+    "value": "好好好的，船长！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/1",
+    "raw": "Let'ss go!",
+    "value": "出发发发咯！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/2",
+    "raw": "Captain wantss Floran to follow?",
+    "value": "船长想想想要叶族人跟随？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/3",
+    "raw": "Floran ready to go again!",
+    "value": "叶族人准备好再次出出出发了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/4",
+    "raw": "Are we going ssomewhere?",
+    "value": "我们要去去去哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/0",
+    "raw": "Humble. I shall follow, captain.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/1",
+    "raw": "Alert. Shall we go, captain?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/2",
+    "raw": "Solemn. Is it time to move, captain?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/3",
+    "raw": "Inquisitive. Are we going somewhere?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/0",
+    "raw": "No time to dally - let's ride!",
+    "value": "没有时间啦！GO~GO~GO！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/1",
+    "raw": "Time to up stakes and go!",
+    "value": "没时间了！快行动。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/2",
+    "raw": "Time to ride, partner?",
+    "value": "伙计，抓紧时间。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/novakid/default/3",
+    "raw": "Yee-haw, let's go!",
+    "value": "啊哈，上咯！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+    "raw": "I can't reach you!",
+    "value": "我没法跟上你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
+    "raw": "You're too far!",
+    "value": "你跑得太快了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
+    "raw": "Hey, wait up!",
+    "value": "嘿，等等！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
+    "raw": "Don't go too far!",
+    "value": "你离得太远了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
+    "raw": "Let me catch up!",
+    "value": "等等我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/0",
+    "raw": "Floran too far away!",
+    "value": "叶族人被拉拉拉在后面了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/1",
+    "raw": "Floran iss left behind!",
+    "value": "叶族人离离离你太远了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/2",
+    "raw": "Floran not close enough to you!",
+    "value": "叶族人离你你你不够近！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0",
+    "raw": "Frustrated. I can't reach you!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1",
+    "raw": "Concerned. Wait for me!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Beast Hunter",
+    "value": "野兽猎人"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Hunter/Gatherer",
+    "value": "猎人/狩猎者"
+  }
+]

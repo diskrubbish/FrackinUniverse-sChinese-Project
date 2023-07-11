@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lower-class garment, though still quite nice. Gives ^green;0.3^reset; Health Regen.",
+    "value": "一件低级衣服，虽说还是很漂亮。赋予 ^green;0.3^reset;% HP恢复."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plebeian Top",
+    "value": "平民上衣"
+  }
+]

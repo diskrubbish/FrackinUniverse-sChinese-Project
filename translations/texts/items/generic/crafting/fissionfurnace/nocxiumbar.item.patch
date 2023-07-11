@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An abhorrent metal created of raw chaos.",
+    "value": "一种令人憎恶的金属，创造了原始的混沌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;Nocxium Bar^reset;",
+    "value": "^#88e25b;诺克石锭^reset;"
+  }
+]

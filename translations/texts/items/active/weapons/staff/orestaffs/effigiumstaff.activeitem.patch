@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Conjures a cloud of shadowgas.",
+    "value": "能召唤出一股暗影能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Effigium Staff",
+    "value": "幻影法杖"
+  }
+]

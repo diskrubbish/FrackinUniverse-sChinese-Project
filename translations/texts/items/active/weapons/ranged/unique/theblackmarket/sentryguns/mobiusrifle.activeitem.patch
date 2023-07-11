@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mainstay of advanced forces. Rivaled by few.\n^yellow;Inflicts frozen-fire^reset;\n^cyan;Summons Shield Drones^reset;",
+    "value": "先进装备中的中流砥柱，鲜有装备可以超越。\n^cyan;附加霜灼效果^reset;\n^yellow;召唤2只两足机器人协助战斗^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sentry Rifle",
+    "value": "哨兵步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Shatterstar^reset; ^yellow;^reset;",
+    "value": "^cyan;破灭之星^reset; ^yellow;^reset;"
+  }
+]

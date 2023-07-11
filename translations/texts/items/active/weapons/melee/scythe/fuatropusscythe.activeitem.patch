@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Repulsive, yet deadly.\n^cyan;Plague-Bearing^reset;",
+    "value": "恶心，但同样致命。\n^yellow;携带瘟疫^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fleshweave Scythe",
+    "value": "血肉镰刀"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Plague Wave",
+    "value": "瘟疫波"
+  }
+]

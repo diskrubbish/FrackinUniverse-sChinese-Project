@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that protects against ghosts. ^cyan;Immune: Erchius Ghost^reset;",
+    "value": "一个能够抵御能源幽灵的EPP模块。\n^cyan;免疫能源幽灵^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ghost Shield",
+    "value": "EPP模块（能源幽灵护盾）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Ghost Shield",
+    "value": "EPP模块（能源幽灵护盾）"
+  }
+]

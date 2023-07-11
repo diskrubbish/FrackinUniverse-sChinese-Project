@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Won't lead you astray.",
+    "value": "不会让你误入歧途。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wisper Mask",
+    "value": "低语精灵面具"
+  }
+]

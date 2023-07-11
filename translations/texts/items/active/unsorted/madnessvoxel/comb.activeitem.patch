@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This comb exudes unimaginable menace.",
+    "value": "这把梳子散发出难以想象的威胁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A Comb",
+    "value": "一把梳子"
+  }
+]

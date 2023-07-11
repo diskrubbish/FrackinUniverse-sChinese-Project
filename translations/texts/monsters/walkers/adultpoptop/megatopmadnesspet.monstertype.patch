@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mega Poptop",
+    "value": "巨型吐舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A massive, fully grown Poptop. Fearsome.",
+    "value": "一只巨大而完全成熟的吐舌娃。令人胆寒。"
+  }
+]

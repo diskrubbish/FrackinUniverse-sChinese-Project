@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wickin",
+    "value": "灯芯"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Adorable, tiny little guys made of freezing fire.",
+    "value": "非常可爱，非常微小的家伙，由霜炎制成。"
+  }
+]

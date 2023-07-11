@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Careful not to poke someone's eye out!",
+    "value": "小心不要戳到别人的眼睛！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Narfin Helmet",
+    "value": "棱光海狮头盔"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+101% Physical Thorns^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;+101% 物理反伤^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stranglevine Root",
+    "value": "带刺藤蔓"
+  }
+]

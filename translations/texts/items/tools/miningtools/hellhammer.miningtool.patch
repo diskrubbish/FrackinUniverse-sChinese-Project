@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An amazing mining tool. Burn your way to riches.",
+    "value": "一个非常棒的挖掘工具，我想它可以带领你走向致富之路。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hellhammer",
+    "value": "地狱之锤"
+  }
+]

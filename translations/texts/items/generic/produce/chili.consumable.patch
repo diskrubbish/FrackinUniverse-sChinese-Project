@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Super hot to humans, super, super hot to everyone else. ^green;Type: Vegetable^reset;",
+    "value": "对人类来说很辣，对其他人来说超级超级辣。\n^green;类型：蔬菜reset;"
+  }
+]

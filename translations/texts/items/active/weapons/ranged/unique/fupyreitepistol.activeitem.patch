@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Absolutely brutal, but slow firing.\n^cyan;High-incendiary rounds^reset;",
+    "value": "射速缓慢但火力凶残。\n^yellow;高效燃烧弹^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vengeance",
+    "value": "复仇之魂"
+  }
+]

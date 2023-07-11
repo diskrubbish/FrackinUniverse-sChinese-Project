@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This mask may help keep your head clean! (Spoilers: It doesn't.)",
+    "value": "这个面具可以让你保持头部清洁！（并不）"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cleanerbot Hat",
+    "value": "清洁机器人帽"
+  }
+]

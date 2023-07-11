@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rough, unrefined stone.\n^green;Extractable^reset;.",
+    "value": "未经加工的粗糙的石头。\n^green;可萃取^reset;。"
+  }
+]

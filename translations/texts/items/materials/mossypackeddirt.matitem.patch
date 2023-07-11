@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Packed dirt, covered in moss.\n^green;Extractable^reset;.",
+    "value": "压制的土块，被苔藓覆盖。\n^green;可萃取^reset;。"
+  }
+]

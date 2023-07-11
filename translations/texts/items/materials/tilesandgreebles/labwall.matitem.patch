@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy plasteel. Great for building.",
+    "value": "坚固的塑钢。真是伟大的建筑材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasteel Hor. Wall",
+    "value": "塑钢水平墙体"
+  }
+]

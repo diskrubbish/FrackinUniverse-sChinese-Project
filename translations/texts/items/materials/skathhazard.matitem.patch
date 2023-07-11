@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Indicates nearby danger.",
+    "value": "指示附近的危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Hazard Block",
+    "value": "绘世者危险方块"
+  }
+]

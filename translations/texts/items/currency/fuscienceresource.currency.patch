@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Compiled research, notes and knowledge.",
+    "value": "汇编研究、笔记和知识。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Research",
+    "value": "研究点数"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;Counts as 'energy' for set bonuses^reset;",
+    "value": "^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Longbow",
+    "value": "可爱长弓"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Threesome",
+    "value": "三小只"
+  }
+]

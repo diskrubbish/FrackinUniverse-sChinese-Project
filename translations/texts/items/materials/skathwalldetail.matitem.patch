@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Walls with embedded plasma tubes for mild lighting.",
+    "value": "内置等离子管的墙壁，用于温和的照明。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Plasma Wall Detail",
+    "value": "绘世者等离子墙壁装饰"
+  }
+]

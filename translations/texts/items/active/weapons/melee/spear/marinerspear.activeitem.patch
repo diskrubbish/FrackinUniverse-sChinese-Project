@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perfect for murdering sea life. Well, any life, really.\n^cyan;Hunting weapon^reset;",
+    "value": "屠戮海洋生命的绝佳武器，行吧，任何生命，真的。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mariner's Spear",
+    "value": "水手长矛"
+  }
+]

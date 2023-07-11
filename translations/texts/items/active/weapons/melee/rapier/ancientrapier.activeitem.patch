@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A testament to the unusual craftsmanship of the Ancients.",
+    "value": "古人的非凡技艺的证明。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Rapier",
+    "value": "古代刺剑"
+  }
+]

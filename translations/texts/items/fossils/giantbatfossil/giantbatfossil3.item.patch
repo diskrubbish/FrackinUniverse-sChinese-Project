@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vampiradon Torso",
+    "value": "吸血龙躯干"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fossilised Vampiradon torso.",
+    "value": "吸血龙的躯干化石。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Freezing slugs mince foes.\n^cyan;Slows enemies^reset;",
+    "value": "用冻结弹切碎敌人。\n^cyan;减慢敌人的速度^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Shotgun",
+    "value": "高熔点霰弹枪"
+  }
+]

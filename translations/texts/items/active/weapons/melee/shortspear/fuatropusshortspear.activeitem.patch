@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A revolting bio-weapon.\n^cyan;Plague Bearing^reset;\n^cyan;Hunting weapon^reset;",
+    "value": "令人作呕的生物武器。\n^cyan;瘟疫附着^reset;\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fleshweave Shortspear",
+    "value": "血肉短矛"
+  }
+]

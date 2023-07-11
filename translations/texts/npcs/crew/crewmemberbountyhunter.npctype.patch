@@ -1,0 +1,470 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
+    "raw": "Hello adventurer, mind if I join you and KICK SOME ASS?!?!?",
+    "value": "你好，冒险者，或许我可以加入你的探索队伍？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
+    "raw": "Look at that gear! Let me travel with you, and we can DECIMATE THE OPPOSITION!",
+    "value": "看看我身上穿的这套漂亮的装备！让我和你一起探险吧，我们会把敌人统统都搞掂的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
+    "raw": "I'M ALL ANGRY, ALL THE TIME! YOU WANT TO HIRE ME, DON'T YOU, YOU WEAK SISSY?!?!?!",
+    "value": "我会遵照你说的做！你打算雇用我吗？如果你不雇用我，你就不怕我杀了你？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
+    "raw": "Hire me. That is not a request.",
+    "value": "雇我，我这可不是请求的语气。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/0",
+    "raw": "Hello adventurer, maybe Floran join you and SSSTAB SOME ASS?!?!?",
+    "value": "你好，请问叶族人可以与你一起冒冒冒险吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/1",
+    "raw": "Look at that gear! Let Floran go with you and SSSTAB THE PREY!",
+    "value": "看到那个了吗？快让叶族人和你一一一起去狩猎吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/2",
+    "raw": "FLORAN ALL ANGRY, ALL THE TIME! YOU WANT TO HIRE FLORAN MAYBE YOU WEAK NO-SSSTABBY?!?!?!",
+    "value": "叶族人很生生生气，非常非常生气！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/floran/default/3",
+    "raw": "Hire Floran. That isss not request.",
+    "value": "雇用叶族人，叶族人这可可可不是在和你商量。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
+    "raw": "Eager. Hello adventurer, mind if I join you and KICK SOME ASS?!?!?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
+    "raw": "Impressed. Look at that gear! Let me travel with you, and we can DECIMATE THE OPPOSITION!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
+    "raw": "Statement. I'M ALL ANGRY, ALL THE TIME! YOU WANT TO HIRE ME, DON'T YOU, YOU WEAK SISSY?!?!?!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/3",
+    "raw": "Statement. Hire me. That is not a request.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I'M READY TO STAB, SHOOT AND KILL WHATEVER YOU ASK ME TO!",
+    "value": "如果你问我准备好了吗？我会回答：我随时都可以杀光你的敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "raw": "Do you happen to have a burrito? I've grown rather peckish.",
+    "value": "你身上有没有玉米煎饼？我有些饿了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+    "raw": "Ever wonder what sawing someone in half with BULLETS would be like? LET'S TRY!",
+    "value": "你试过用子弹把目标打成两半吗？要不我们来试试？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "raw": "FLORAN READY TO SSTAB, SHOOT AND KILL ALL THE PREY!",
+    "value": "叶族人已经准备好了，叶族人要杀杀杀光所有的猎物！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+    "raw": "Do you have burrito? Floran hungry.",
+    "value": "你有玉米煎饼吗？叶族人饿饿饿了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2",
+    "raw": "Floran wonder what sssawing ssomeone in half with BULLETSS would be like? MAYBE FLORAN TRY!",
+    "value": "叶族人想知道用子弹将人轰成半截截截的样子，叶族人想试试。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "raw": "Statement. I'M READY TO STAB, SHOOT AND KILL WHATEVER YOU ASK ME TO!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
+    "raw": "Request. Do you happen to have a burrito? I've grown rather peckish.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
+    "raw": "Murderous. Ever wonder what sawing someone in half with BULLETS would be like? LET'S TRY!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+    "raw": "I'M GOING TO FIND THAT THING AND MURDER IT IN VENGEANCE!",
+    "value": "我就是想要杀光那些敌人！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1",
+    "raw": "CRAP! ANOTHER GLORIOUS DEATH? THAT'S 42 THIS WEEK!",
+    "value": "靠！又死了一次？这已经是本周第四十二次了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/2",
+    "raw": "I'm already missing murder! Get me back out there, Sir!",
+    "value": "我找不到可以攻击的目标了，Sir！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/3",
+    "raw": "I need to cave in the skull of whatever just killed me.",
+    "value": "我需要杀死它并把它的头骨当作帽子。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/0",
+    "raw": "FLORAN GOING TO FIND THAT THING AND STAB IT IN VENGEANCE!",
+    "value": "叶族人要报报报仇！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/1",
+    "raw": "CRAP! ANOTHER GLORIOUSSSS DEATH? THAT'SSS 42 THISS WEEK!",
+    "value": "扯淡，怎么又死了？这已经是本周第四十二次死亡了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/2",
+    "raw": "Floran already missssing murder! Get Floran back out there, Sssir!",
+    "value": "叶族人又逃过了一次死死死亡，Sir！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/3",
+    "raw": "Floran need to cave in the ssskull of whatever jusst killed Floran.",
+    "value": "叶族人需要一颗叶族人刚杀死的猎猎猎物的头骨，叶族人打算戴上它。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/0",
+    "raw": "Murderous. I'M GOING TO FIND THAT THING AND MURDER IT IN VENGEANCE!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/1",
+    "raw": "Incorrigible. CRAP! ANOTHER GLORIOUS DEATH? THAT'S 42 THIS WEEK!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/2",
+    "raw": "Eager. I'm already missing murder! Get me back out there, Sir!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/3",
+    "raw": "Vengeful. I need to cave in the skull of whatever just killed me.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+    "raw": "WHAT? TOO MANY AWESOME BULLETS FOR YOU, SISSY?",
+    "value": "什么？这么多子弹，你是怎么躲开的，SIR？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
+    "raw": "SIR, YES SIR!",
+    "value": "SIR，YES SIR！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/2",
+    "raw": "But...how can I murder things without tagging along?",
+    "value": "不过...我应该躲过了才对啊？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/3",
+    "raw": "Sir, are you sure that is wise? I can't kill things from here.",
+    "value": "Sir，你确定你要这么做？这样一来我就没法帮到你了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/4",
+    "raw": "Fine. I'll stay. Just...sit here and be bored. Whatever.",
+    "value": "好吧，我会留下来，坐在这儿等你，反正有些无聊。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/5",
+    "raw": "I'll stay here.",
+    "value": "我会一直留守的这里的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/0",
+    "raw": "WHAT? TOO MANY AWESOME BULLETS FOR YOU, SSSISSSSY?",
+    "value": "哇，你躲开了这么多的的的子弹？SSSISSSSY！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/1",
+    "raw": "SSIR, YESSSS SIR!",
+    "value": "SSIR, YESSSS SIR！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/2",
+    "raw": "But...how can Floran ssstab thingss when Floran here?",
+    "value": "咦？叶族人怎么会在在在这里？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/3",
+    "raw": "Sssir, Floran no kill thingsss from here.",
+    "value": "Sssir，叶族人想刺刺刺。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/4",
+    "raw": "Fine. Floran sstay. Jusst...sssit here and no stab. Whatever.",
+    "value": "好吧。叶族人会留在这儿。只不过没有刺刺刺点什么东西，有些无聊。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/5",
+    "raw": "Floran stay here.",
+    "value": "叶族人会留在这儿儿儿的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
+    "raw": "Critical. WHAT? TOO MANY AWESOME BULLETS FOR YOU, SISSY?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1",
+    "raw": "Obedient. SIR, YES SIR!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2",
+    "raw": "Perplexed. But...how can I murder things without tagging along?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3",
+    "raw": "Curious. Sir, are you sure that is wise? I can't kill things from here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/4",
+    "raw": "Irritated. I'll stay. Just...sit here and be bored. Whatever.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/5",
+    "raw": "Statement. I'll stay here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
+    "raw": "FOR THE GLORY OF BATTLE, WE RIDE!",
+    "value": "为了荣耀而战！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/1",
+    "raw": "SIR, YES SIR!",
+    "value": "SIR，YES SIR！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/2",
+    "raw": "DEATH TIME!",
+    "value": "死亡时刻！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/3",
+    "raw": "Your foes will be vanquished, and ale shall be drank.",
+    "value": "你的敌人将会跪在你的脚下，而啤酒将会被我们干掉！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/4",
+    "raw": "Let's get a move on, then!",
+    "value": "快出发吧！我已经等不及了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/0",
+    "raw": "FOR THE HUNT!",
+    "value": "为了狩猎！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/1",
+    "raw": "SSIR, YES SSSSIR!",
+    "value": "SSIR, YES SSSSIR！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/2",
+    "raw": "DEATH TIME!",
+    "value": "死亡时刻！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/3",
+    "raw": "Floran good at hunting prey.",
+    "value": "叶族人擅长狩猎猎猎！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/floran/default/4",
+    "raw": "Floran want sssstab!",
+    "value": "叶族人会安静地呆呆呆在这儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/0",
+    "raw": "Eager. FOR THE GLORY OF BATTLE, WE RIDE!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/1",
+    "raw": "Obedient. SIR, YES SIR!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/2",
+    "raw": "Murderous. DEATH TIME!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/3",
+    "raw": "Enthusiastic. Your foes will be vanquished, and ale shall be drank.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/4",
+    "raw": "Impatient. Let's get a move on, then!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+    "raw": "I can't kills things for you from here!",
+    "value": "好了，都杀光了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
+    "raw": "You're too far! Come back sir!",
+    "value": "你跑得太快了，慢点，sir！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
+    "raw": "Hey, wait up! The hell is your problem?",
+    "value": "嘿，等等，这分明是你的问题！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
+    "raw": "Don't go too far! Again! Do I smell bad?",
+    "value": "嘿，别跑得这么快，我都跟不上你。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
+    "raw": "Let me catch up! Sheesh.",
+    "value": "哈，我得喘口气，哈，等等我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/0",
+    "raw": "Floran too far away!",
+    "value": "叶族人被拉拉拉在后面了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/1",
+    "raw": "Floran iss left behind!",
+    "value": "叶族人离离离你太远了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/2",
+    "raw": "Floran not close enough to you!",
+    "value": "叶族人离你你你不够近！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0",
+    "raw": "Frustrated. I can't reach you!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1",
+    "raw": "Concerned. Wait for me!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Demolitionist",
+    "value": "赏金猎人"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Explosives",
+    "value": "炸药"
+  }
+]

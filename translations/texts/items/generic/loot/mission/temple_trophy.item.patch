@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A valuable crystal trophy.\n^green;Research in a microscope.^reset;",
+    "value": "一盏价值颇高的水晶奖杯。\n^green;在显微镜下研究。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystalline Trophy",
+    "value": "结晶奖杯"
+  }
+]

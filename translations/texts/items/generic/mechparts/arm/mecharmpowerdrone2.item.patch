@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "3 long-ranged sniper drones.",
+    "value": "最多制造出3个能够远距离攻击的狙击蜂飞行器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sniper Drone II",
+    "value": "狙击蜂 II"
+  }
+]

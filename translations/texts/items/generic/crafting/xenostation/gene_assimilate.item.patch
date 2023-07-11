@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Can convert certain cells into itself.",
+    "value": "可以将其它细胞转换成自己的某些细胞。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Assimilation",
+    "value": "同化基因"
+  }
+]

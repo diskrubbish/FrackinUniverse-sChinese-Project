@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Heavy, yet swift and high jumping legs.",
+    "value": "很重，但是很快并且跳得很高"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Observer Mech Legs",
+    "value": "观察者机甲足"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Gelid Burrower Queen",
+    "value": "冰掘蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gelid Burrower Queen",
+    "value": "冰掘蜂后"
+  }
+]

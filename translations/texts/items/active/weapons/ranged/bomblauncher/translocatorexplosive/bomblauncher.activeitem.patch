@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires explosive discs.\n^yellow;40^reset; damage\nUpgrade using your ^orange;Tricorder^reset;.",
+    "value": "发射爆炸飞盘。\n^yellow;40^reset;伤害\n可在^orange;三度仪^reset;进行升级。。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blastcap Launcher",
+    "value": "风帽发射器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Blastcap Launcher Mk2^reset;",
+    "value": "^cyan;风帽发射器 Mk2^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Fires explosive discs.\n^yellow;60^reset; damage\nUpgrade using your ^orange;Tricorder^reset;.",
+    "value": "发射爆炸飞盘。\n^yellow;60^reset;伤害\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "^yellow;Blastcap Launcher Mk3^reset;",
+    "value": "^yellow;风帽发射器 Mk3^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "Fires explosive discs.\n^yellow;80^reset; damage\nUpgrade using your ^orange;Tricorder^reset;.",
+    "value": "发射爆炸飞盘。\n^yellow;80^reset;伤害\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/shortdescription",
+    "raw": "^green;Blastcap Launcher Mk4^reset;",
+    "value": "^green;风帽发射器 Mk4^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/description",
+    "raw": "Fires explosive discs.\n^yellow;100^reset; damage\nUpgrade using your ^orange;Tricorder^reset;.",
+    "value": "发射爆炸飞盘。\n^yellow;100^reset;伤害\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters4/shortdescription",
+    "raw": "^orange;Blastcap Launcher Mk5^reset;",
+    "value": "^orange;风帽发射器 Mk5^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters4/description",
+    "raw": "Fires explosive discs.\n^yellow;120^reset; damage\n^green;Fully Upgraded^reset;.",
+    "value": "发射爆炸飞盘。\n^yellow;120^reset;伤害\n^green;已完全升级^reset;。"
+  }
+]

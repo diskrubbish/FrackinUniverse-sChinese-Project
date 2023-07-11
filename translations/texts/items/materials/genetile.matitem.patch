@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A gigantic cell.\n^green;Extractable^reset;.",
+    "value": "一个巨大的细胞。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cell",
+    "value": "细胞块"
+  }
+]

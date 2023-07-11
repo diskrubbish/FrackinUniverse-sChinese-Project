@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/buttonMain/caption",
+    "raw": "BALANCE",
+    "value": "余额"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonMissions/caption",
+    "raw": "MISSIONS",
+    "value": "任务"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonCrew/caption",
+    "raw": "CREW",
+    "value": "船员"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonMisc/caption",
+    "raw": "MISC.",
+    "value": "杂项"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowTitle/value",
+    "raw": "S.A.I.L",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowSubtitle/value",
+    "raw": "Ship-based Artificial Intelligence Lattice",
+    "value": "舰载人工智能"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/path/value",
+    "raw": "root/sail/ui/intro",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shipStatus",
+    "raw": "Could not connect to S.A.I.L. Please move the S.A.I.L. Interface to your ship to connect to S.A.I.L.",
+    "value": "无法连接至S.A.I.L。请将S.A.I.L移至飞船。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Phantoms don't care. They'll still kill ya. Design by Gezbo.",
+    "value": "握在手中基本看不出，适用于暗杀。由Gezbo设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Phantasm Mace",
+    "value": "幻影钉头锤"
+  }
+]

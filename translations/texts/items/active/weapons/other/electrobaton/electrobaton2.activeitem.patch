@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Originally developed for Miniknog riot police. It's shockingly effective.",
+    "value": "最初是为科技发展部的防暴警察开发的。非常有效。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zipzap The Astounder",
+    "value": "电棍破坏神"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "2 Zip 2 Furious ^yellow;^reset;",
+    "value": "两棒灭魂^yellow;^reset;"
+  }
+]

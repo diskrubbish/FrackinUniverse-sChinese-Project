@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An ore that burns eternally.",
+    "value": "一种永恒燃烧的矿石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Ore",
+    "value": "永燃矿"
+  }
+]

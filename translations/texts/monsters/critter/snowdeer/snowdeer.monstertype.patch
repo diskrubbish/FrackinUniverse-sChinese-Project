@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frostrunner",
+    "value": "寒霜走兽"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A majestic deer-like creature native to cold places.",
+    "value": "一种原产于寒冷地区的雄伟类鹿生物。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+145 EP^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;+145能量^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fletchweed Stem",
+    "value": "弗莱彻草茎"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The blade of a bee queen.",
+    "value": "刃出蜂后。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Queen Blade",
+    "value": "蜂后长剑"
+  }
+]

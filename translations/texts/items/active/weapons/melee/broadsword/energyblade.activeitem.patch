@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A weapon from the kingdom of Fife.",
+    "value": "来自某个神秘的国家。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Energy Blade",
+    "value": "能源宽剑"
+  }
+]

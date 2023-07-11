@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rock Troll",
+    "value": "岩石巨魔"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Punching his way to happiness is this guy's idea of a good time.",
+    "value": "向他出拳是让这家伙感到快乐的最好的主意。"
+  }
+]

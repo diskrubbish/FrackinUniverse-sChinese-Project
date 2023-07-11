@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Old metal encrusted with rust.\n^green;Extractable^reset;.",
+    "value": "这老旧的金属表面布满了锈迹。\n^green;可萃取^reset;。"
+  }
+]

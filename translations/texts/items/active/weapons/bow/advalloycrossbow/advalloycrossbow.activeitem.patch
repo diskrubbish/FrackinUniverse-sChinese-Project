@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bulky crossbow. But it's not actually that heavy.",
+    "value": "这把弩实际上并没有看上去那么笨重。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Crossbow",
+    "value": "合金弩"
+  }
+]

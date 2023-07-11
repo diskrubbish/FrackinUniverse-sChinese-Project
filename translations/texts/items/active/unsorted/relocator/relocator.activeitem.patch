@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Holds 3 creatures in stasis in order to relocate them. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "将3只生物停滞，之后可以转移它们。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Relocator II ^cyan;^reset;",
+    "value": "转移枪 II ^cyan;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Holds 4 creatures in stasis in order to relocate them. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "将4只生物停滞，之后可以转移它们。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "Relocator III ^red;^reset;",
+    "value": "转移枪 III ^red;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "Holds 5 creatures in stasis in order to relocate them. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "将5只生物停滞，之后可以转移它们。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/shortdescription",
+    "raw": "Relocator IV ^#e43774;^reset;",
+    "value": "转移枪 IV ^#e43774;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/description",
+    "raw": "Holds 6 creatures in stasis in order to relocate them. ^green;Fully Upgraded^reset;",
+    "value": "将6只生物停滞，之后可以转移它们。\n^green;已完全升级^reset;。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These mech legs enable maximum mobility, awesome!",
+    "value": "这种机甲足达到了最大的机动性，太酷了！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stabilized Legs",
+    "value": "平稳机甲足"
+  }
+]

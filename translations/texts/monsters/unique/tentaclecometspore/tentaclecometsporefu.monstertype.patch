@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tentacool",
+    "value": "三足章鱼怪"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Its tentacles contain a poison that stops targets in their tracks.",
+    "value": "它的触手有毒。"
+  }
+]

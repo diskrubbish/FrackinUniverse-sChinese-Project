@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Security Bot",
+    "value": "防卫机器人"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Even though it's very loyal, it's never forgiving when it comes to misplaced id cards.",
+    "value": "尽管它很忠诚，但它永远也不会放过ID卡发生错误与无法识别的可疑人物。"
+  }
+]

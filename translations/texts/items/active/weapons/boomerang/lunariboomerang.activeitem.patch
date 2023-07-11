@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A shaped crystalline weapon that returns after striking.",
+    "value": "一种结晶形状的武器，攻击后会返回。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Boomerang",
+    "value": "月晶回旋镖"
+  }
+]

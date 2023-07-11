@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A very neat jacket.",
+    "value": "一件非常整洁的夹克衫。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Suit jacket",
+    "value": "西装夹克衫"
+  }
+]

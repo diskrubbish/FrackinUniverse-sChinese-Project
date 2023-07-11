@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toy Horse",
+    "value": "玩具马"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Filled with toy knights.",
+    "value": "装满了玩具骑士。"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": " Ship Commemoration Plaque",
+    "value": " 飞船纪念碑"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": " Configuration",
+    "value": " 配置"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/btnAccept/caption",
+    "raw": "Accept",
+    "value": "接受"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblName/value",
+    "raw": "Ship Name:",
+    "value": "飞船名："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/label2/value",
+    "raw": "Ship Type:",
+    "value": "飞船类型："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/tboxName/hint",
+    "raw": "Name",
+    "value": "命名"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblType/value",
+    "raw": "Cruiser",
+    "value": "巡洋舰"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblDate/value",
+    "raw": "%stardate%",
+    "value": ""
+  }
+]

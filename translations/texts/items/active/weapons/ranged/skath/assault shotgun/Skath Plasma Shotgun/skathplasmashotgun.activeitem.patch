@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "'A high tech shotgun that fires plasma rounds.'",
+    "value": "发射等离子弹的高科技霰弹枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Plasma Shotgun",
+    "value": "绘世者霰弹枪·等离子"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": " Plasma Grenade",
+    "value": " 等离子手榴弹"
+  }
+]

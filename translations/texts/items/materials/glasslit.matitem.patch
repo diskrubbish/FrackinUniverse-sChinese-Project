@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I can see my reflection. Somebody's home!",
+    "value": "我可以看到我的倒影。这是某个人的家！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lit Glass Block",
+    "value": "发光的玻璃块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Attentive. I can see clearly though this transparent glass.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran lookss pretty in glasssss.",
+    "value": "叶族人透过玻璃看起来很很不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "I can see clear through t'the other side of this glass.",
+    "value": "我可以清楚得看到玻璃的另一边。"
+  }
+]

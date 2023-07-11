@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An empty 10 round mag.",
+    "value": "一个空的10发弹匣。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Simple Magazine",
+    "value": "简易弹匣"
+  }
+]

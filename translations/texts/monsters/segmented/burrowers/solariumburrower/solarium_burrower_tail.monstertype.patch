@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Burrower Tail",
+    "value": "拟态蠕虫尾"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A segment of a camoflauged burrowing worm",
+    "value": "一段拟态穴居蠕虫"
+  }
+]

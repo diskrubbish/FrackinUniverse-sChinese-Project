@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Made from a Lasher plant.",
+    "value": "由各种植物材料制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lasher Whip",
+    "value": "鞭笞者"
+  }
+]

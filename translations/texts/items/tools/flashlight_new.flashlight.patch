@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A crappy flashlight.",
+    "value": "亮度没普通的亮，凑合着用吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Faulty Flashlight",
+    "value": "故障的手电筒"
+  }
+]

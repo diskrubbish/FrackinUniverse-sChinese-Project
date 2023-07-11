@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mega-Fauna Egg",
+    "value": "两足巨兽蛋"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The tiny egg of a massive primeval creature. It looks about ready to hatch!",
+    "value": "巨大原始生物小小蛋。看起来似乎即将孵化！"
+  }
+]

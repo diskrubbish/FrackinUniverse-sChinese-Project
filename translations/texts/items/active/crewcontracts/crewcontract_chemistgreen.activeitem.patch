@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a chemist that increases your speed.",
+    "value": "雇用一名化学家，他能提高你的移动速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chemist-B Contract",
+    "value": "合同：化学家B"
+  }
+]

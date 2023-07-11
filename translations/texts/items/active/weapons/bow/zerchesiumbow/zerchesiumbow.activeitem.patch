@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Full of frosty menace.\n^cyan;Slows enemies^reset;",
+    "value": "充满了冰霜的威胁。\n^cyan;减速敌人^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Bow",
+    "value": "高熔点弓"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Ice Beam",
+    "value": "冷冻激光"
+  }
+]

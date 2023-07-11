@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Average speed. Fantastic control.",
+    "value": "速度均衡，容易控制。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Observer Mech Boosters",
+    "value": "探索者机甲推进器"
+  }
+]

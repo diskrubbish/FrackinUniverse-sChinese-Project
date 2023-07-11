@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tiny version of its larger cousins. Always handy.\n^yellow;Destroys tiles^reset;",
+    "value": "这是便携版，另外还有个具有更强威力的兄弟。\n^yellow;可破坏物块^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Particle Pistol",
+    "value": "粒子手枪"
+  }
+]

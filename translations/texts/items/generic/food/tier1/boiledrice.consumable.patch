@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Light and fluffy. ^green;Type: Grain^reset;",
+    "value": "^green;类型：谷物^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A shirt worn by attractive spacefarers.",
+    "value": "有魅力的太空旅行者穿的衬衫。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Starfarer's Shirt",
+    "value": "星间远征者衬衫"
+  }
+]

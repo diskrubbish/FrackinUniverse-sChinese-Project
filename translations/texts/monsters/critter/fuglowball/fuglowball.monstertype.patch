@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glower",
+    "value": "灯泡怪"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Is he a glower, or a shower?",
+    "value": "圆滚滚的。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Super-useful death dealer.",
+    "value": "非常有效的致死工具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tungsten Mace",
+    "value": "钨制钉头锤"
+  }
+]

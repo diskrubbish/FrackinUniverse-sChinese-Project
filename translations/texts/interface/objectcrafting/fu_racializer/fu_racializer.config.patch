@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/races1Label/value",
+    "raw": "Supported Races  |  Input: --",
+    "value": "支持的种族 | 输入：--"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/scr_raceList/children/raceList/schema/listTemplate/title/value",
+    "raw": "New Member",
+    "value": "新成员"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/btnConvert/caption",
+    "raw": "Convert",
+    "value": "转化"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/cbUseAll/caption",
+    "raw": "Use All",
+    "value": "使用全部"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/preview_lbl2/value",
+    "raw": "Output: --",
+    "value": "输出：--"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblCost/value",
+    "raw": "Cost:   x0",
+    "value": "花费：  x0"
+  }
+]

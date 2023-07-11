@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "An Ancient Avian Prayer",
+    "value": "古老祷文"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A holy scripture for the Avian faith.",
+    "value": "关于翼族信仰的神圣之书。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "Almighty Sunborn\nWe spread our wings and fly\nGuide us as we soar\nDeliver us from turbulence\nAnd save us from the ground.",
+    "value": "全能的太阳之子啊\n我们将展开双翅\n请指引我们如何翱翔于天际\n引领我们摆脱无边的气流\n拯救我们让我们离开地面吧"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "raw": "May your wisdom guide us\nMay your augurs watch us\nMay your glory enlighten us\nAlmighty Sunborn\nCarry us on golden wings.",
+    "value": "愿您的智慧带领着我们\n愿您的目光注视着我们\n愿您的荣光照耀着我们\n全能的太阳之子啊\n我们将沐浴在您那金色翅膀的光辉中"
+  }
+]

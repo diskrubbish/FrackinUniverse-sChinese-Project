@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Interdimensional Hunting.",
+    "value": "跨越维度的狩猎。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Bow",
+    "value": "赛德瑞瑟之弓"
+  }
+]

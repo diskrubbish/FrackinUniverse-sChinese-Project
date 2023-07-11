@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A compound that could prove useful in fertilizers and other chemical compounds.",
+    "value": "为肥料和其他化合物奠基的另一种化合物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Calcium Nitrate",
+    "value": "硝酸钙"
+  }
+]

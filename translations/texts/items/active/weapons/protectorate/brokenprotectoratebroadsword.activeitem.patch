@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Guardian Blade^reset; ^yellow;^reset;",
+    "value": "^cyan;卫士锋刃^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Fixed and improved.",
+    "value": "修复且改进。"
+  }
+]

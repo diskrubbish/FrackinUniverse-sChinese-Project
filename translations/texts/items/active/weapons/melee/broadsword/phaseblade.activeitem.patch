@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shiny and perfect.\n^cyan;Inflicts Bleeding^reset;",
+    "value": "这真是一把闪耀着迷人光芒的完美武器。\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Phase Blade",
+    "value": "相位宽剑"
+  }
+]

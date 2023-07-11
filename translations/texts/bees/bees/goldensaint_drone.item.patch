@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Golden Saint Drone",
+    "value": "圣金工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Saint Drone",
+    "value": "圣金工蜂"
+  }
+]

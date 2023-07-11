@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Energy x^green;1.3^reset;",
+    "value": "能量x^green;1.3^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Witch Hat",
+    "value": "巫师帽"
+  }
+]

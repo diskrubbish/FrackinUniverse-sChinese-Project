@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Searing, deadly pyreite to kiss your enemies hides.\n^cyan;Inflicts Napalm^reset;\n^cyan;Hunting weapon^reset;",
+    "value": "灼热，致命的永燃尖刺将亲吻你敌人的肌肤。\n^cyan;附加凝固效果^reset;\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Lance",
+    "value": "永燃长矛"
+  }
+]

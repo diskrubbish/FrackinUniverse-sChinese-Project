@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What purpose could this thing serve?",
+    "value": "这东西有什么用途？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Unknown Technology^reset;",
+    "value": "^#ffe50e;未知技术核心^reset;"
+  }
+]

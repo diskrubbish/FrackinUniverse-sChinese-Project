@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nothing to see here.",
+    "value": "啥都看不见。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Invisible Mask",
+    "value": "隐形面具"
+  }
+]

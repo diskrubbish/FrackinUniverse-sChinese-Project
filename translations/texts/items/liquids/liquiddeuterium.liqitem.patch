@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Liquid Deuterium",
+    "value": "液态氘"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A powerful cold-source and thus has many nuclear applications.\n^blue;+^white;5 ^blue;Fuel^reset;",
+    "value": "一种强大的冷源，因此有许多核应用。\n^blue;燃料+^white;5^reset;"
+  }
+]

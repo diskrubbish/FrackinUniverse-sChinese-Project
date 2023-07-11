@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": " GPS",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": " Information about the terrain",
+    "value": " 有关地形的信息"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/materialList/children/materials/schema/listTemplate/text/value",
+    "raw": "Something is broken....",
+    "value": "东西坏了..."
+  }
+]

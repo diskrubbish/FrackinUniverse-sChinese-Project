@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A whip fashioned from finely woven carbon fibers.\n^cyan;Inflicts bleeding^reset;",
+    "value": "用细编织的碳纤维制成的鞭子。\n^cyan;造成出血^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Whip",
+    "value": "碳制鞭"
+  }
+]

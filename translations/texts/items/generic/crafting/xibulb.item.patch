@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A highly radioactive plant-like bulb.",
+    "value": "高放射性的类似植物的球茎。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Bulb",
+    "value": "艾肯球茎"
+  }
+]

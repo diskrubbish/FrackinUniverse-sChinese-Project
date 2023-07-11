@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decorative panel made of pykrete.\n^green;Extractable^reset;.",
+    "value": "一个由派克瑞特制成的装饰板。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pykrete Decor Panel",
+    "value": "派克瑞特装饰板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. This panelling is made from a mixture of ice and finely ground wood pulp.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran lick ice, tongue get sstuck.",
+    "value": "叶族人舔一舔冰块，舌头被黏黏黏黏住了。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Let's make some friends!\n^cyan;Inflicts Napalm^reset;",
+    "value": "让我们交一些朋友吧！\n^cyan;附加凝固效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Dirk",
+    "value": "永燃短匕"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Horkulbeast",
+    "value": "赫库尔兽"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "One of the most valuable creatures in the known universe.",
+    "value": "是宇宙中已知最有价值的生物之一。"
+  }
+]

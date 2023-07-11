@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A juicy hamburger, topped with cheese. ^orange;Type: Cooked Meat + Vegetables + Dairy^reset;",
+    "value": "一个夹着芝士的多汁的汉堡。\n^orange;类型：熟肉食 + 蔬菜 +蛋奶^reset;"
+  }
+]

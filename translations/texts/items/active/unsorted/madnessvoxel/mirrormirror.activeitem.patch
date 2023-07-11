@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Reflects only things you hate.",
+    "value": "只会映出你厌恶的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mirror of Vision",
+    "value": "真视之镜"
+  }
+]

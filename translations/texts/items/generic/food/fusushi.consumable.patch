@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Raw fish. Rice. Seaweed. Clearly meant to work together.\n^cyan;Powerful Swim ^gray;(^white;220s^gray;)^reset; ^orange;Type: Seafood + Grain^reset;",
+    "value": "生鱼、大米、海藻。显然意味着合作。\n^cyan;强力游泳^gray;(持续220s)^reset;\n^orange;类型：熟海鲜 + 谷物^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sushi Platter",
+    "value": "寿司盘"
+  }
+]

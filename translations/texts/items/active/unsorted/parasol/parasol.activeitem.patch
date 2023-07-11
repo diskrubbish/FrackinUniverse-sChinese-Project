@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Open to gently float while falling. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "打开后在下落时轻轻地浮落。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Ultra Parasol ^#red;^reset;",
+    "value": "超级太阳伞^red;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "Open to gently float while falling. ^green;Fully Upgraded^reset;.",
+    "value": "打开后在下落时轻轻地浮落。\n^green;已完全升级^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "Omega Parasol ^#red;^reset;",
+    "value": "究极太阳伞^red;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Open to gently float while falling. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "打开后在下落时轻轻地浮落。\n可在^orange;三度仪^reset;进行升级。"
+  }
+]

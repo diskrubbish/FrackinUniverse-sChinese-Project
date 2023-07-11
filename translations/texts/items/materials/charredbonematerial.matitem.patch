@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A collection of charred bones tightly packed together. Something awful happened to these people.\n^green;Extractable^reset;.",
+    "value": "所有的骨头都烧焦并堆叠在一起。看起来这些人经历了很可怕的事情。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Charred Packed Bones",
+    "value": "烧焦的骨头"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Horrified. Charred bones from a variety of sources packed together.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Charred bonesss!",
+    "value": "烧焦的骨骨骨头！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Bunch of charred bones. Who needs 'em!",
+    "value": "一堆烧焦的骨头。谁需要他们！"
+  }
+]

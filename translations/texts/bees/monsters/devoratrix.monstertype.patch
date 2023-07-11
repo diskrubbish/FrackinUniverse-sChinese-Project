@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Devoratrix Bee",
+    "value": "吞食蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A devoratrix bee.",
+    "value": "一只吞食蜜蜂。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Girder Platform",
+    "value": "纵梁平台"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy metal platform.",
+    "value": "一种坚固的金属平台。"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I'll pray to my dark lord, and fuel your ship with his rage!",
+    "value": "我会对黑暗之王祷告，它的怒火将会让你的飞船燃料燃烧得更加猛烈。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "raw": "Floran pray to dark lord and fuel ship with its rage!",
+    "value": "叶族人会向黑暗暗暗之王祈祷，它的怒火将会让你的飞船燃料燃烧得更加猛烈。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "raw": "Manic. I'll pray to my dark lord, and fuel your ship with his rage!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "I've made you immune to poisons and insanity.",
+    "value": "我可以让你免疫中毒和精神错乱。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "raw": "Need an antidote?",
+    "value": "需要解毒剂？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+    "raw": "Looks like you could use my assistance!",
+    "value": "看上去你需要我的帮忙！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+    "raw": "I can help cure poison!",
+    "value": "我可以帮你解毒！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
+    "raw": "Floran use idolss to help you out!",
+    "value": "叶族人用偶偶偶像来帮忙！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1",
+    "raw": "Floran can help out!",
+    "value": "叶族人可以帮你渡渡渡过难关！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
+    "raw": "Floran hasss potionss to help!",
+    "value": "叶族人有有药水来帮忙！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+    "raw": "Eager. I can help you out!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
+    "raw": "Excited. Perhaps you could do with a ritual empowerement!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
+    "raw": "Intrigued. I wonder if this will help more than it dooms you?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
+    "raw": "Helpful. Take this, it will help, for a time!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Cultist",
+    "value": "邪教徒"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Evil Worship",
+    "value": "邪恶祭祀"
+  }
+]

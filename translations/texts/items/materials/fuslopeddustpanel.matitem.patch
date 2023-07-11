@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy hull panels made from compressed aether material.",
+    "value": "由压缩的以太材料制成的坚固的船体面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Compressed Dust Panel",
+    "value": "压缩粉尘板"
+  }
+]

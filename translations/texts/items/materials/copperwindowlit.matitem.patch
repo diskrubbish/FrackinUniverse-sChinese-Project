@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A window with a frame made from solid copper. Somebody's home!",
+    "value": "由实心铜制成的窗框。某个人的家！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lit Copper Window",
+    "value": "明亮的铜窗"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Facinated. Copper has been used to construct the frame for this window.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Windowsss made from copper.",
+    "value": "铜制成的窗户户户。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This is a nice lookin' copper window frame.",
+    "value": "这是一个漂亮的铜窗框。"
+  }
+]

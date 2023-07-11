@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Rumors",
+    "value": "传言"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Datacube",
+    "value": "数据魔方"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "There are rumors that Atropus worlds are not individual entities, but rather, parts of a singular one scattered throughout the cosmos. If this were true, how unimaginably vast would such a being be? What would its purpose be?",
+    "value": "有传言称，肉源世界不是单独的实体，而是散布在整个宇宙中的单一实体的一部分。如果这是真的，那么这样一个存在会有多大？它的目的是什么？"
+  }
+]

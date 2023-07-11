@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rustick",
+    "value": "星尘蜱"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "If they don't make a connection with another Rustick, they can get quite lonely.",
+    "value": "如果他们不与其它星尘蜱建立联系，他们就会感到非常孤独。"
+  }
+]

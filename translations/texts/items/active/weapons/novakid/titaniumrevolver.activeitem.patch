@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large handgun that packs a punch.",
+    "value": "一把非常棒的手枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Titanium Revolver",
+    "value": "钛制左轮手枪"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "Law enforcement at a certain Fort Nova is offering a bounty for a notorious local criminal. I could try my hand at cashing this one in.",
+    "value": "新星堡的执法部门正在悬赏一名臭名昭著的罪犯，只要抓住这个罪犯，不论死活，都可以获得一笔相当不错的赏金。或许我可以尝试赚点零花钱。"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Sunset Riders (3)",
+    "value": "日落骑士(3)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Sunset Riders (3) (R)",
+    "value": "重新挑战日落骑士(3)"
+  }
+]

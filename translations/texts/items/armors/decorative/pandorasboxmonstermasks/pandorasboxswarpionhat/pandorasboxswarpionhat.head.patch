@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Non-venomous, and safe to wear.",
+    "value": "无毒，可安全佩戴。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Swarpion Hat",
+    "value": "暗蝎帽"
+  }
+]

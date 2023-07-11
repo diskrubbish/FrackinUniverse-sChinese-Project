@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a ruthless outlaw companion.",
+    "value": "雇用一名无情的暴徒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Outlaw Contract",
+    "value": "合同：暴徒"
+  }
+]

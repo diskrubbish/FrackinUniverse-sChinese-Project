@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A powerful bow.",
+    "value": "一把强力的弓。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Common Bow",
+    "value": "普通弓"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pure diatomic ^gray;N2^reset; nitrogen gas.",
+    "value": "纯双原子的^gray;N2^reset;氮气。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nitrogen",
+    "value": "氮"
+  }
+]

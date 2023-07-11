@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Useless. Maybe with some upgrades...",
+    "value": "好像没什么用。也许需要一些升级..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wax Sword",
+    "value": "蜡制短剑"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Wax Slasher^reset; ^yellow;^reset;",
+    "value": "^cyan;蜡制切碎者^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Actually capable of cutting.^reset;",
+    "value": "真的非常锋利。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "^cyan;God Cleaver^reset; ^yellow;^reset;",
+    "value": "^cyan;神之劈刀^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "Unsurpassed in lethality.\n^cyan;Gods fear it. Women crave it.^reset;",
+    "value": "无与伦比的杀伤力。\n^yellow;神明畏惧它。女性渴求它。^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Keldraflora",
+    "value": "焦油曼陀罗"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A variation of the standard genus with tar-laden cells",
+    "value": "一种标准类型的变种，具有焦油负载细胞"
+  }
+]

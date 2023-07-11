@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Built to cut through hulls. Energy weapon.\n^cyan;Short range. Slows target.^reset;\n^green;Alt-Fire causes bleed, electrified^reset;",
+    "value": "这把枪设计出来是被用来切割船体的。\n^cyan;短射程；可破坏方块；减速目标^reset;\n^yellow;次要攻击会附加出血、感电效果^reset;\n^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Breach Cutter",
+    "value": "劫掠切割机"
+  }
+]

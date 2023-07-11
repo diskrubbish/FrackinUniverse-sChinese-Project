@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Primitive murder in the palm of your hand.\n^cyan;Floran^reset;",
+    "value": "散发着原始的杀戮气息。\n^cyan;叶族^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bone Cudgel",
+    "value": "骨棒"
+  }
+]

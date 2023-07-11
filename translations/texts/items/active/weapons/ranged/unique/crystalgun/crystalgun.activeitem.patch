@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Blast foes with super-sharp flechettes of crystal. They'll thank you later. Maybe.",
+    "value": "用超级锋利的水晶碎片轰击敌人。敌人事后会感谢你的。或许吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystalline Cannon",
+    "value": "水晶炮"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Blast foes with super-sharp flechettes of crystal. They'll thank you later. Maybe.",
+    "value": "用超级锋利的水晶碎片轰击敌人。敌人事后会感谢你的。或许吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Crystalline Cannon",
+    "value": "水晶炮"
+  }
+]

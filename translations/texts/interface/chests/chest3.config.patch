@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/clear/caption",
+    "raw": "Take all",
+    "value": "全部拾取"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/count/value",
+    "raw": "3 SLOTS",
+    "value": "3格"
+  }
+]

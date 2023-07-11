@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Light seems to twist inside these crystals.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "光线似乎在这个晶体中发生了扭曲。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stellara Crystal",
+    "value": "星芒晶块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Admiration. A beautiful cluster of stellara crystals.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty cryssstals.",
+    "value": "漂亮的水水水晶。"
+  }
+]

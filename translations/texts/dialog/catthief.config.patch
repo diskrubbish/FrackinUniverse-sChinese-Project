@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/accuse/cat/default/0",
+    "raw": "Hey, that doesn't belong to mew!",
+    "value": "嘿，那不是我的！"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/cat/default/1",
+    "raw": "I can sense your intentions, mew know!",
+    "value": "我能感觉到你的意图，我知道！"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/cat/default/2",
+    "raw": "Put that back!",
+    "value": "放回去！"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/cat/default/3",
+    "raw": "Don't be a cat burgular!",
+    "value": "不要成为一个讨厌的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/cat/default/0",
+    "raw": "Guards! There is a cat burgular here!",
+    "value": "卫兵！这里有只猫偷东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/cat/default/1",
+    "raw": "Now mew've done it. GUARDS!",
+    "value": "现在我们抓到了，卫兵！"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Impale and stab with razor-sharp zerchesium steel.",
+    "value": "由高熔点矿石打造的锋利武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Knife",
+    "value": "高熔点小刀"
+  }
+]

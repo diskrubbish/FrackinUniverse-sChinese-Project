@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Repair ^white;140% ^green;Shield HP^reset;, and gain +^cyan;42^reset;% Defense Tech Efficiency (^white;30s^reset;)",
+    "value": "^green;回复^white;140%^green;盾牌耐久^gray;，+^cyan;42^reset;%防御科技效率(^white;30s内^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shield Patch",
+    "value": "盾牌补丁"
+  }
+]

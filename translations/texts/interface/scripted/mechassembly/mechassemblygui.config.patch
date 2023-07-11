@@ -1,0 +1,80 @@
+[
+  {
+    "op": "replace",
+    "path": "/massFormat",
+    "raw": "^green;Mass^reset;: %.02ft",
+    "value": "^green;重量^reset;：%.02ft"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblModuleBonuses/value",
+    "raw": "Module Bonuses:",
+    "value": "模块加成："
+  },
+  {
+    "op": "replace",
+    "path": "/mobilityFormat",
+    "raw": "^orange;Mobility +^reset;: %d",
+    "value": "^orange;机动性+^reset;：%d"
+  },
+  {
+    "op": "replace",
+    "path": "/mobilityControlFormat",
+    "raw": "^orange;Agility^reset; : %d",
+    "value": "^orange;敏捷^reset;：%d"
+  },
+  {
+    "op": "replace",
+    "path": "/mobilityJumpFormat",
+    "raw": "^orange;Jump^reset; : %d",
+    "value": "^orange;跳跃^reset;：%d"
+  },
+  {
+    "op": "replace",
+    "path": "/mobilityBoostFormat",
+    "raw": "^orange;Speed^reset; : %d",
+    "value": "^orange;速度^reset;：%d"
+  },
+  {
+    "op": "replace",
+    "path": "/energyBoostFormat",
+    "raw": "^green;Energy^reset; : %d",
+    "value": "^green;能量^reset;：%d"
+  },
+  {
+    "op": "replace",
+    "path": "/defenseBoostFormat",
+    "raw": "^red;Defense^reset; : %d",
+    "value": "^red;防御^reset;：%d"
+  },
+  {
+    "op": "replace",
+    "path": "/fuelBonusFormat",
+    "raw": "^#e43774;Fuel Eff^reset; : %.02f",
+    "value": "^#e43774;燃料效率^reset;：%.02f"
+  },
+  {
+    "op": "replace",
+    "path": "/healthFormat",
+    "raw": "Health: %d",
+    "value": "耐久：%d"
+  },
+  {
+    "op": "replace",
+    "path": "/energyFormat",
+    "raw": "Energy: %d",
+    "value": "能量：%d"
+  },
+  {
+    "op": "replace",
+    "path": "/drainFormat",
+    "raw": "Fuel Use: %.02f/s",
+    "value": "燃料消耗：%.02f/s"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblPrimaryColor/value",
+    "raw": "Colours",
+    "value": "颜色"
+  }
+]

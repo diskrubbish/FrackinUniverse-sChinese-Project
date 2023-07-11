@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This honeycomb has high silver contents. Great poison resistance.",
+    "value": "这种蜂巢富含银。具有高效毒药抗性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Silver Honeycomb",
+    "value": "含银蜂巢"
+  }
+]

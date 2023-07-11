@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Contains no bees.\n^cyan;+^white;4 ^cyan;Defense ^gray;(^white;30s^gray;)^reset; \n^orange;Type: Fruits + Dairy^reset;",
+    "value": "不添加任何蜜蜂。\n+^white;4^cyan;防御^gray;(^white;持续30s^gray;)^reset;\n^orange;类型：水果 + 蛋奶^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Banana Milk",
+    "value": "香蕉牛奶"
+  }
+]

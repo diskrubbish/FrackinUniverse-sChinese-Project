@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "All that remains after being contaminated by dark water.\n^green;Extractable^reset;.",
+    "value": "这种物质存在于被腐化之水污染过的废墟中。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corruption",
+    "value": "腐化物质"
+  }
+]

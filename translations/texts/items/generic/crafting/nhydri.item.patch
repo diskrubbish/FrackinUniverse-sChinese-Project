@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A blue gem that grows in a teardrop shape. It feels cold to touch.",
+    "value": "一种以泪珠状生长的蓝色宝石。触感冰冷。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nhydri Crystal",
+    "value": "Nhydri水晶"
+  }
+]

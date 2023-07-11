@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Through intense concentration, you're able to produce a sharp blade of slime.",
+    "value": "通过高度浓缩，你得以制成一把黏液利刃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lesser Slime Morph Sword",
+    "value": "小型变形黏液剑"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fox",
+    "value": "狐狸"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small carnivorous animal found in temperate climates. It has orange fur and is known for its cleverness.",
+    "value": "生活在温带地区的一种小型食肉动物。长着橙色的皮毛，以其狡猾而闻名。"
+  }
+]

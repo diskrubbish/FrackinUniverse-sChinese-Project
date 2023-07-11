@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An informational brochure about a science facility.",
+    "value": "一张关于科学前哨站位置的卡片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Come Visit Us!",
+    "value": "欢迎来访!"
+  }
+]

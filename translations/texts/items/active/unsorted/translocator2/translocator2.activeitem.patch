@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires teleport-node discs. Quite useful.",
+    "value": "发射传送节点。十分实用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Translocator II",
+    "value": "传送枪 II"
+  }
+]

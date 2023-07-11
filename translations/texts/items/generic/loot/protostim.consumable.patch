@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A long-lasting energy enhancer.\n^cyan;+^white;25% ^cyan;EP ^gray;(^white;2m^gray;)^reset;",
+    "value": "一种持久的能量增强剂。\n^cyan;+^white;25%^cyan;EP^gray;(^white;持续2m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Organic Energy Stim",
+    "value": "有机能量药剂"
+  }
+]

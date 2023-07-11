@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Immune: Poison^reset;\n^green;8%^reset; Shield Bash Push\n^green;2%^reset; Shield Bash Chance",
+    "value": "^green;免疫中毒^reset;\n^green;8^reset;%盾牌击退\n^green;2^reset;%盾牌反伤几率"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Shield",
+    "value": "艾肯盾"
+  }
+]

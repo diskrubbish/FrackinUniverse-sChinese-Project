@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Infinite Beer + Flashlight. What could be better?",
+    "value": "无限的啤酒搭配手电筒，你还有什么不满意的？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tacti-Cool Mug",
+    "value": "啤电马克杯"
+  }
+]

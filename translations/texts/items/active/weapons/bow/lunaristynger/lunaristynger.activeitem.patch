@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You heard of crystal storms? This makes them.",
+    "value": "你听说过水晶风暴吗？那就亲自尝试一下。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Stynger",
+    "value": "月晶发射器"
+  }
+]

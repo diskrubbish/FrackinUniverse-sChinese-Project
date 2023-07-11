@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toxin Thirds",
+    "value": "三分毒"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sentient mass of fluids resulting from the division of a toxin.",
+    "value": "由毒素分解而产生的有知觉的液体。"
+  }
+]

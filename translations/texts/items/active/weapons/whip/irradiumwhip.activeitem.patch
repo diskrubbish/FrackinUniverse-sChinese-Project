@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A whip coated in irradium. Rad.\n^cyan;Inflicts Radiation Burn^reset;",
+    "value": "涂有镭的鞭子。战争从未改变。\n^cyan;造成辐射烧伤^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Whip",
+    "value": "镭制鞭"
+  }
+]

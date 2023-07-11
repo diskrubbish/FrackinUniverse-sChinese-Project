@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Poison-tipped arrows promise pain.",
+    "value": "带毒箭头的箭，承诺着痛苦。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Bow",
+    "value": "月海弓"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Toxin Burst",
+    "value": "毒素爆裂"
+  }
+]

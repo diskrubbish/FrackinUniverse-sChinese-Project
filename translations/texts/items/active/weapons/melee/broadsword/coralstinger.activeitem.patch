@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Jagged and not-too-friendly.\n^cyan;Inflicts Poison^reset;",
+    "value": "表面带刺，看起来不太友好。\n^cyan;附加中毒效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coral Stingblade",
+    "value": "珊瑚刺针宽剑"
+  }
+]

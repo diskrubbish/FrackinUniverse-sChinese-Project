@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Are... Are you really going to eat this?",
+    "value": "你...你确定要吃这玩意？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Small Crayon Box",
+    "value": "小蜡笔盒"
+  }
+]

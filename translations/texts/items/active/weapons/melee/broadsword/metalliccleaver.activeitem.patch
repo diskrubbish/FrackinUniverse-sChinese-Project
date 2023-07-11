@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Junk forged into deadly weaponry.",
+    "value": "用料粗糙，不足以致命。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Junk Cleaver",
+    "value": "废料劈刀"
+  }
+]

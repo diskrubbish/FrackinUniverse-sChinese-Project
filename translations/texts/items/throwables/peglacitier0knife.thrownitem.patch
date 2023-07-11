@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice Knife",
+    "value": "冰刀"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cold and fragile, but very sharp!",
+    "value": "冰冷而脆弱，但是非常锋利！"
+  }
+]

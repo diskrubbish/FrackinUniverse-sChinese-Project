@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block made of a secret Peglaci alloy.\n^green;Extractable^reset;.",
+    "value": "由神秘的羊蹄合金制成的方块。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Metal Block",
+    "value": "合金块"
+  }
+]

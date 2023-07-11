@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Hale's Creation",
+    "value": "黑尔造物"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Schematics for some abhorrent weapon",
+    "value": "邪恶之兵图"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "Should you wish to vanquish the enemies of the true faith by spear, you need pay homage at His altar. Place a Tome, a Rune Wand and three Blade Shards upon it and pray for his wrath.",
+    "value": "如果你希望铸造一把征服敌人的矛，你需要把壹本远古之书、壹根密文魔杖和叁块刀剑碎片放于祭坛之上，然后耐心祈祷。"
+  }
+]

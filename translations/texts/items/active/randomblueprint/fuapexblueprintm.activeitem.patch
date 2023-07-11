@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The blueprints for potent Apex armour.",
+    "value": "猿族强力盔甲的蓝图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apex Schematics (Power)",
+    "value": "猿族盔甲架构图(力量)"
+  }
+]

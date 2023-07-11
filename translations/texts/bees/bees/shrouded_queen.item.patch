@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shrouded Queen",
+    "value": "隐蔽蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shrouded Queen",
+    "value": "隐蔽蜂后"
+  }
+]

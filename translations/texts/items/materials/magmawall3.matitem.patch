@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Volcanic Ash",
+    "value": "火山灰"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Probably not tasty.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "可能不好吃。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  }
+]

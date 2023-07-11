@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A revolting bio-weapon.\n^cyan;Inflicts Poison^reset;",
+    "value": "一个或许会引起你恶心的生物武器。\n^cyan;附加中毒效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fleshweave Greataxe",
+    "value": "血肉巨斧"
+  }
+]

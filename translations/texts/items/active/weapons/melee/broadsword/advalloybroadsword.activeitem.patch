@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A broadsword modeled after the sword of a martyred Apex rebel. It doubles as a shield to protect the innocent.\n^cyan;Inflicts bleeding^reset;",
+    "value": "模仿自一位反抗大猿人的殉难者的宽剑。它同时也是保护无辜者的盾牌。\n^cyan;造成流血^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Master's Broadsword",
+    "value": "宗师阔剑"
+  }
+]

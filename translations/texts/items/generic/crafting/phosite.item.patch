@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The main power source of the Pharitu. Eld'uukhar grow it in a much weaker form.",
+    "value": "法瑞图的主要动力来源。厄休安种植其中一种更弱的品种。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Phosite Crystal",
+    "value": "磷酸水晶"
+  }
+]

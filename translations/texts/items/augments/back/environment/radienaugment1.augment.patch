@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Grows onto worn gear and increases resistances.\n^cyan;+10% All Resistances^reset;",
+    "value": "成长为身体的一部分，增强了所有的抗性。\n^cyan;+10%所有抗性^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'i Chitin",
+    "value": "艾肯壳质"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "X'i Chitin",
+    "value": "艾肯壳质"
+  }
+]

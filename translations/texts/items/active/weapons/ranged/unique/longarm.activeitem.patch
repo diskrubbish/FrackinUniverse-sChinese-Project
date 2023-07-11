@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A shotgun custom-tailored to spread like crazy and look great doing it.",
+    "value": "这把定制的霰弹枪射起来肯定很棒！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Longarm Shotgun",
+    "value": "长臂霰弹枪"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Not recommended for carbon-based lifeforms.\n^cyan;+^white;10% ^cyan;HP ^gray;(^white;45s^gray;)^reset;",
+    "value": "不推荐碳基生物食用。\n^cyan;+^white;10%^cyan;HP^gray;(^white;持续45s^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Roll",
+    "value": "镭射卷"
+  }
+]

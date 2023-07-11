@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A classy and deadly-looking weapon.",
+    "value": "一把优雅而致命的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gold Sea Scion",
+    "value": "金海嫩芽"
+  }
+]

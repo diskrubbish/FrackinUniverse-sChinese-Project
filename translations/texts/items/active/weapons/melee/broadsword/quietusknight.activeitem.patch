@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Heavy-duty quietus weapon.",
+    "value": "重型的寂灭武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Knight Blade",
+    "value": "骑士宽剑"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Poison Spout",
+    "value": "毒液喷射"
+  }
+]

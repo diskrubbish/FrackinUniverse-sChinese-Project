@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mmm, milk. ^orange;Type: Dairy^reset;",
+    "value": "嗯，牛奶。\n^orange;类型：蛋奶^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "There exist more chemical compounds involving Carbon than don't.",
+    "value": "涉及碳的化合物比不涉及碳的化合物多。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon",
+    "value": "碳"
+  }
+]

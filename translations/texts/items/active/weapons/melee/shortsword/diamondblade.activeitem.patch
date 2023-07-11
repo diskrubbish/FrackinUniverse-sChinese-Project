@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shines gloriously, and is wonderfully valuable.",
+    "value": "闪耀着迷人的光芒，看起来价值不菲。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Diamond Blade",
+    "value": "钻石短剑"
+  }
+]

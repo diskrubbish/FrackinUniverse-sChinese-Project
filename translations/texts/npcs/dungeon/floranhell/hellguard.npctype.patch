@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Intruder!",
+    "value": "闯入者！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/0",
+    "raw": "Prisssoner mussst be dealt with!",
+    "value": "囚犯必须要处理理理掉！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/1",
+    "raw": "I senssse an essscape!",
+    "value": "我感觉到到到你要逃了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/2",
+    "raw": "Prisssoner will be ssstabbed to death!",
+    "value": "囚犯快要被刺刺刺死！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/3",
+    "raw": "Floran know nothing but ssstab and ssssslice...",
+    "value": "叶族人只知知知道刺和捅..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/4",
+    "raw": "Prisssoner's death is no sssacrifice...",
+    "value": "囚犯的死并不是是是牺牲..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/5",
+    "raw": "There isss no escape!",
+    "value": "没有人可以以以逃走！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/floran/default/6",
+    "raw": "It isss either Floran or ssstarvation which will kill you...",
+    "value": "要么叶族人吃了你，要么你自己饿饿饿死，反正都是死，你选其中一种吧..."
+  }
+]

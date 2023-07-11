@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Green Snake",
+    "value": "竹叶青"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A predatory reptile that hunts in forests. It uses the leaves on its head as camouflage.",
+    "value": "一种在森林中捕食的食肉爬行动物。利用头上的树叶作伪装。"
+  }
+]

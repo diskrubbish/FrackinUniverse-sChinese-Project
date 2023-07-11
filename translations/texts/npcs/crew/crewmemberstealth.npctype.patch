@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I'll toss some contraband fuel into the fuel tank.",
+    "value": "嘘，别担心，我把一些违禁的燃料塞到了飞船的燃料箱里，这样能让飞船飞得更快。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "raw": "Floran putsss fuel into fuel tank.",
+    "value": "叶族人这里有一些更棒棒棒的燃料！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "raw": "Statement. I'll put some contraband fuel into the fuel tank.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "I've made you immune to poisons!",
+    "value": "我能让你免疫中毒！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "raw": "Need an antidote?",
+    "value": "需要解毒剂？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+    "raw": "Looks like you could use my assistance!",
+    "value": "看上去你需要我的帮忙！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+    "raw": "I can help cure poison!",
+    "value": "我可以帮你解毒！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Assassin",
+    "value": "刺客"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Murderology",
+    "value": "谋杀"
+  }
+]

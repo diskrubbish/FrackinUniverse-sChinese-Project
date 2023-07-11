@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Okay, ew.\n^green;Extractable^reset;.",
+    "value": "好吧，很恶心。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rotting Flesh",
+    "value": "腐肉"
+  }
+]

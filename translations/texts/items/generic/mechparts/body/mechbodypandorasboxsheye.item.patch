@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Immune^reset;: Pressure, Extreme Heat/Cold, Mild Radiation/Poison",
+    "value": "^cyan;免疫^reset;：压强，极端炎热/寒冷，轻度辐射/毒素"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pandora-mk2 Mech Body",
+    "value": "潘多拉-mk2机甲躯体"
+  }
+]

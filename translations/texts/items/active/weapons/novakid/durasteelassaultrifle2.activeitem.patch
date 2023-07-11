@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A burst-fire automatic military grade rifle.",
+    "value": "一把在连发时爆出火焰的军用级的突击步枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Durasteel Burst Rifle",
+    "value": "耐刚爆裂步枪"
+  }
+]

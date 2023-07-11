@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This mysterious skull leads you to the site of your most recent demise. ^green;[ Hold Button ]^reset; to teleport. Will consume skull.",
+    "value": "这个神秘的头骨会把你带到你最近死亡的地方。 ^green;[长按]^reset;以传送。传送将消耗头骨。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystalline Skull",
+    "value": "水晶颅骨"
+  }
+]

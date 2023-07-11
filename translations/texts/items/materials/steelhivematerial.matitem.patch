@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A metallic hive construct.\n^green;Extractable^reset;.",
+    "value": "这种蜂巢里面含有金属成分。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Steel Hive",
+    "value": "钢制蜂巢"
+  }
+]

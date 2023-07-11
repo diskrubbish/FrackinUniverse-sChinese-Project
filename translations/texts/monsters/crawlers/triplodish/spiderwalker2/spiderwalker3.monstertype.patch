@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Bomb Droid",
+    "value": "先驱机械炸弹"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Loves to serve its primary function: kaboom.",
+    "value": "热衷于执行它的首要功能：大爆炸。"
+  }
+]

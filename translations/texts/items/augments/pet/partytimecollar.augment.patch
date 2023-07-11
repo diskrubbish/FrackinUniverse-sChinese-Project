@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "....wtf?",
+    "value": "....整啥子？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "PLUR Collar",
+    "value": "派对项圈"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "raw": "PLUR Collar",
+    "value": "派对项圈"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Psilamander",
+    "value": "祈灵者"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Psionic amphibians. Relatively friendly, and make great pets.",
+    "value": "拥有灵能的两栖动物。相对友好，能够成为很棒的宠物。"
+  }
+]

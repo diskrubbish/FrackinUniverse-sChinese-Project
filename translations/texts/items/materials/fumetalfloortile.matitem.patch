@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "High-quality super material for construction.",
+    "value": "高质量的超级建筑材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shaped Plasteel Floor",
+    "value": "塑性塑钢地板"
+  }
+]

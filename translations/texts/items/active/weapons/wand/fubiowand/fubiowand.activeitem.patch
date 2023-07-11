@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Organic meets Magic.",
+    "value": "有机与魔法的碰撞。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bio Wand",
+    "value": "生物魔杖"
+  }
+]

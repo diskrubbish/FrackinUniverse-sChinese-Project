@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides +10% Fire Resist",
+    "value": "火炎抗性+10%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fire Resist I",
+    "value": "火炎抗性 I"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Fire Resist I",
+    "value": "火炎抗性 I"
+  }
+]

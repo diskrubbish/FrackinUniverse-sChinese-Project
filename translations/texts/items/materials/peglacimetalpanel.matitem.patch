@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A panel made of a secret Peglaci alloy.\n^green;Extractable^reset;.",
+    "value": "由羊蹄合金制成的面板。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Panel",
+    "value": "合金面板"
+  }
+]

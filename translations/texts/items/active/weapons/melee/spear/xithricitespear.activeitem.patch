@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Oh my god. It's made of stars...\n^cyan;Inflicts Minor Vulnerability^reset;\n^cyan;Hunting weapon^reset;",
+    "value": "我的天，由众星铸成...\n^cyan;附加错调瑕疵效果^reset;\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Spear",
+    "value": "赛德瑞瑟长矛"
+  }
+]

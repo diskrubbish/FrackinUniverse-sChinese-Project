@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Launch dangerous (but fun) shards of crystal at enemies.\n^cyan;Counts as Hunting weapon^reset;",
+    "value": "向敌人发射危险（但是有趣）的水晶碎片。\n^yellow;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Crystalline Needler^reset;",
+    "value": "^cyan;水晶风暴^reset;"
+  }
+]

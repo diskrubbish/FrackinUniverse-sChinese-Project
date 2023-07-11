@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apex Brain Mutant",
+    "value": "猿人脑突变体"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The product of horrific experimentation.",
+    "value": "恐怖实验的产物。"
+  }
+]

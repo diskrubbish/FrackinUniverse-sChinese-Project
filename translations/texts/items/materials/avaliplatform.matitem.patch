@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A platform of Avali design.",
+    "value": "羽族设计的平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avali Platform",
+    "value": "羽族平台"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. An Avali platform.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floorrr.",
+    "value": "地地地板。"
+  }
+]

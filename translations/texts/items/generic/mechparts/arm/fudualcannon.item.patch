@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A brutally dangerous chaingun.",
+    "value": "一把野蛮又危险的枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Devastator Mech Arm",
+    "value": "破坏者机甲臂"
+  }
+]

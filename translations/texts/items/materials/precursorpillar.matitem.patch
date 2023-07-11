@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Super-sturdy ancient metal\n^green;Extractable^reset;.",
+    "value": "极为坚固的古代金属。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Pillar",
+    "value": "先驱支柱"
+  }
+]

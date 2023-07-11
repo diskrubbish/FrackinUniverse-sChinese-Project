@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vorp",
+    "value": "瓦普"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange creature composed of pulsing sacks of shadowy material.",
+    "value": "由脉动的暗物质构成的奇怪生物。"
+  }
+]

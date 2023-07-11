@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dangerous and volatile substance, syphoned from moons and used as FTL fuel.\n^yellow;Centrifugable^reset;.",
+    "value": "一种危险的、不稳定的物质，可从卫星上开采获得，并可作为FTL引擎的燃料。"
+  }
+]

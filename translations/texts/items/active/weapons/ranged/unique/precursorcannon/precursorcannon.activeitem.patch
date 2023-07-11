@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The compressed rage of the Precursors.\n^cyan;Charges Up^reset;",
+    "value": "饱含着先驱们的怒火。\n^yellow;可充能^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Annihilator",
+    "value": "先驱歼灭者"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Photon Spread",
+    "value": "散射光子"
+  }
+]

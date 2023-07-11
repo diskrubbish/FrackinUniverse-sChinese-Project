@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hell Beetle",
+    "value": "地狱甲虫"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A parasite that drinks blood off of the terrain and unsuspecting travelers.",
+    "value": "一种寄生虫，可以从不知情的旅行者身上喝血。"
+  }
+]

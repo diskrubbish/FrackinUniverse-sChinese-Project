@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A corpse, bound in an elaborate gold-plated casket.",
+    "value": "一具尸体，被装在精心制作的镀金棺材里。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wrapped Avian Corpse",
+    "value": "被包裹的翼族人尸体"
+  }
+]

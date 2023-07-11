@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This powerful staff summons a deadly shadow snake.",
+    "value": "这把强大的法杖可召唤出影之蛇。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Staff",
+    "value": "暗影法杖"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Shadowreap^yellow;^reset;",
+    "value": "阴影收割者^yellow;^reset;"
+  }
+]

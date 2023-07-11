@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "+10s Breath Time",
+    "value": "^cyan;呼吸时限+10s^reset;"
+  }
+]

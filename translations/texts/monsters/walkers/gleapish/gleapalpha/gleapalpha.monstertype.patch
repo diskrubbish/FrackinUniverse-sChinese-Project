@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alpha Gleap",
+    "value": "阿尔法葛利普"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A gleap mutation a step above the rest.",
+    "value": "比其他葛利普更进一步的突变种。"
+  }
+]

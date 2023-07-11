@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bricks made from smoothed sandstone.\n^green;Extractable^reset;.",
+    "value": "用光滑的沙石做的砖块。\n^green;可萃取^reset;。"
+  }
+]

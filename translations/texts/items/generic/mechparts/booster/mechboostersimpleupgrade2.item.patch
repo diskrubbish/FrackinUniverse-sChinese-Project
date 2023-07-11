@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mass-produced mech boosters, with external fuel tank attachments.",
+    "value": "批量生产的机甲推进器，附带有外置的燃料箱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Improved Mech Boosters",
+    "value": "改良机甲推进器"
+  }
+]

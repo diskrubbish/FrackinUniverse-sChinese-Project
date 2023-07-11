@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metal Bee",
+    "value": "金属蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of advanced robotic bee.",
+    "value": "先进科技制作的机器蜂。"
+  }
+]

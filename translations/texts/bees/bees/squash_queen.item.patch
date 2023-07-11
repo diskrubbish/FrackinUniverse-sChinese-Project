@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Squash Queen",
+    "value": "果汁蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Squash Queen",
+    "value": "果汁蜂后"
+  }
+]

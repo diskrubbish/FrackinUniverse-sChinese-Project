@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Oculob",
+    "value": "眼垂体"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's unpleasant to look at. It's also unpleasant when it looks at you.",
+    "value": "你看它很不舒服。当它看你你也很不舒服。"
+  }
+]

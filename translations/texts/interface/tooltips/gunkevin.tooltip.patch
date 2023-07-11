@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/levelLabelTitle/value",
+    "raw": "^yellow;Yorp^reset;",
+    "value": "^yellow;约普^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/damagePerShotTitleLabel/value",
+    "raw": "Bumpy Warts:",
+    "value": "凹凸不平的疣："
+  },
+  {
+    "op": "replace",
+    "path": "/speedTitleLabel/value",
+    "raw": "Screams:",
+    "value": "惊吓："
+  },
+  {
+    "op": "replace",
+    "path": "/energyPerShotTitleLabel/value",
+    "raw": "Ostriches:",
+    "value": "鸵鸟："
+  }
+]

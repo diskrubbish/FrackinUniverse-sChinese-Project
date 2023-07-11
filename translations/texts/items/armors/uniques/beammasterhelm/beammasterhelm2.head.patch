@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "High health reserve.\n^cyan;Immune^reset;: Insanity.",
+    "value": "高效的生命储存设备。\n\n^green;免疫^reset;：精神错乱"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tek-Knight Helm",
+    "value": "钢铁骑士头盔"
+  }
+]

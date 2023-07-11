@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ancient panelling of unknown origin\n^green;Extractable^reset;.",
+    "value": "来历不明的古代面板。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Rune Panel",
+    "value": "先驱符文面板"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A draped top made of fine cloth.",
+    "value": "由精致布料制成的盖头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toga Top",
+    "value": "议员长袍"
+  }
+]

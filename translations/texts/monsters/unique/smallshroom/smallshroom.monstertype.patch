@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shroomling",
+    "value": "蘑菇蘑菇"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These creatures are often spotted among Agaran settlements. However, their relation to the Agaran is currently unknown.",
+    "value": "这些生物经常被发现在蘑菇族人附近。 然而，它们与蘑菇族人的关系是未知的。"
+  }
+]

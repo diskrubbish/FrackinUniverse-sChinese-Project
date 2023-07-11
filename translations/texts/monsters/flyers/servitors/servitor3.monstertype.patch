@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Servitor mkII",
+    "value": "立方体机器人 MK II"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Protects an assigned ecosystem with brutal force.",
+    "value": "用冷酷力量保护指定的生态系统。"
+  }
+]

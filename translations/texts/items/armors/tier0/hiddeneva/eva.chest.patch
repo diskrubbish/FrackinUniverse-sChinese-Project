@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This E.V.A suit is charred and no longer operational.",
+    "value": "这件恶劣环境保护服已经烧焦了，看起来没什么用了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Charred E.V.A Suit",
+    "value": "烧焦的E.V.A保护服"
+  }
+]

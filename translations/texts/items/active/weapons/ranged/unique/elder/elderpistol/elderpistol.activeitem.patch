@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^#a5ff00;Pulsing with energy, this weapon promises to punish your enemies.^reset;",
+    "value": "^#a5ff00;充满能量脉冲，这把手枪保证能够惩罚你的敌人。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#a5ff00;Disruptor Pistol^reset;",
+    "value": "干扰手枪"
+  }
+]

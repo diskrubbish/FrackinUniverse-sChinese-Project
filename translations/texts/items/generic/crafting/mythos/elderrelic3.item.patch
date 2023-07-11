@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small shard from a larger blade. Ancient.",
+    "value": "一块来自大型刀剑的细小碎片，年代久远。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Blade Shard^reset;",
+    "value": "^#ffe50e;刀剑碎片^reset;"
+  }
+]

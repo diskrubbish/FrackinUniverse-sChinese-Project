@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Housing Request",
+    "value": "建造申请"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A torn page from a cultist's journal.",
+    "value": "信徒日记上撕下来的一页。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "Buildingbuildingbuildingbuildingbuildingbuildingbuildingbuildingbuildingbuildingbuildingbuilding. The voices tell me to build, so I build. If I had ^red;my own workshop with access to an Elder Altar^reset; I could build even greater temples.",
+    "value": "建造建造建造建造建造建造建造建造建造建造建造建造建造建造建造建造建造建造建造建造建造建造建造建造建造建造建造。因为声音呼唤，所以我去建造。如果我有^red;我自己的远古祭坛工作室^reset;的话我可以建造更大的寺庙。"
+  }
+]

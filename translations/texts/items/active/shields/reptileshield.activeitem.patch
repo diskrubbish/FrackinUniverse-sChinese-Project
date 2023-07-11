@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Reptilian Shield",
+    "value": "爬虫盾"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;+0.04% Health Regen, Immune: Acid^reset;",
+    "value": "^green;生命恢复速度+0.04%；免疫酸蚀^reset;"
+  }
+]

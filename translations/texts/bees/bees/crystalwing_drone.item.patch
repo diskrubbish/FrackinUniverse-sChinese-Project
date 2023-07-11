@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crystalwing Drone",
+    "value": "晶翅工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystalwing Drone",
+    "value": "晶翅工蜂"
+  }
+]

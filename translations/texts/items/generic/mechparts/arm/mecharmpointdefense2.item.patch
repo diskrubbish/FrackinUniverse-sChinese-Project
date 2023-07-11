@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Electric bolts shock foes within 12 feet.",
+    "value": "电动螺栓打击在12英尺之内的敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Point Defense II",
+    "value": "对点防御 II"
+  }
+]

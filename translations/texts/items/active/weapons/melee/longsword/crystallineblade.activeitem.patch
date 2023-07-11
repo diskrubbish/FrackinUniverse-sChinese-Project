@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Beautiful, shiny, and deadly.",
+    "value": "漂亮、闪亮、致命。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Blade",
+    "value": "水晶长剑"
+  }
+]

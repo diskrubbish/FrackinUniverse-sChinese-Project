@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Wearing this faux-leather jacket fills you with confidence.",
+    "value": "穿上这件人造皮夹克会让你充满自信。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skathian Jacket",
+    "value": "绘世者夹克"
+  }
+]

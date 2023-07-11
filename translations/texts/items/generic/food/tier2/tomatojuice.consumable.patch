@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hearty tomato juice. ^green;Type: Vegetable^reset;",
+    "value": "一杯浓郁的番茄汁。\n^green;类型：蔬菜^reset;"
+  }
+]

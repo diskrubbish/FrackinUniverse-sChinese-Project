@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chimkin",
+    "value": "鸡太美"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Part chicken. Part stilt. 100% useless.",
+    "value": "一半鸡肉。一半高跷。100%没用。"
+  }
+]

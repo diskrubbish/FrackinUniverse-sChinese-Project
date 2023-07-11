@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fine quietus weapon.",
+    "value": "一把优良的寂灭武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rogue's Blade",
+    "value": "盗贼匕首"
+  }
+]

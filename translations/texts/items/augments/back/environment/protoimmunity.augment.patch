@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that protects against Proto-poison. ^cyan;Immune: Proto-Poison^reset;",
+    "value": "一个能够抵御原毒的EPP模块。\n^cyan;免疫原毒^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protocite Shield",
+    "value": "EPP模块（原毒护盾）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Protocite Shield",
+    "value": "EPP模块（原毒护盾）"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Glimmering natural geode crystals.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "微微闪烁的天然晶洞水晶。\n^green;可萃取^reset;，^orange;可粉碎^reset;。"
+  }
+]

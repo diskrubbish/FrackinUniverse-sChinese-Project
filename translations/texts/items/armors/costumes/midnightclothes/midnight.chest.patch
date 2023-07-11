@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dark as night.",
+    "value": "漆黑如夜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Midnight Shirt",
+    "value": "午夜衬衫"
+  }
+]

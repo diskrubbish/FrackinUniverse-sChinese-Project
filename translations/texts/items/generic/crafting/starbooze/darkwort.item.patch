@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Wort! Used for making lager!",
+    "value": "黑麦芽汁！用于制作啤酒！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dark Wort",
+    "value": "黑麦芽汁"
+  }
+]

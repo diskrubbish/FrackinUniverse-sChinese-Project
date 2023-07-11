@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some form of broadcasting device, 'acquired' by Khe and modified.",
+    "value": "某种广播设备,由溪“获得”并改良。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Modified Broadcast Node",
+    "value": "改良的广播节点"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Impossibly precise.",
+    "value": "超乎你的想象。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Microparticle Brush",
+    "value": "微观化石刷"
+  }
+]

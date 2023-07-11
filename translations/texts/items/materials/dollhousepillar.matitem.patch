@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cute dollhouse pillar",
+    "value": "一种可爱的玩具屋支柱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dollhouse Pillar Block",
+    "value": "玩具屋支柱方块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Charmed. A cute pillar for a dollhouse.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cute pillar iss very cute.",
+    "value": "可爱的支柱就就就是可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This is one cute lookin' cute pillar.",
+    "value": "一个看起来很可爱的支柱。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "How are you even supposed to see out of this thing?",
+    "value": "你甚至不知道怎么透过这玩意儿看到外面？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Orbide Mask",
+    "value": "球头侍面具"
+  }
+]

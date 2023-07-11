@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Not practical, but certainly enjoyable.\n^yellow;Spawns slime^reset;",
+    "value": "不是很实用，但真的很有意思。\n^yellow;生成黏液^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Launcher",
+    "value": "黏液发射器"
+  }
+]

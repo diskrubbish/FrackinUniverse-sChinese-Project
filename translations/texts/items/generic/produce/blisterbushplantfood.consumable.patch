@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^#7f2282;Glow^reset;: 5m",
+    "value": "^yellow;^reset;^#7f2282;发光^reset;: 5m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blister Sack",
+    "value": "泡荚"
+  }
+]

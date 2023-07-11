@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's having your head squeezed by a plush parasite!",
+    "value": "哎，我的头，好多毛绒绒的寄生虫！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mallowbop Mask",
+    "value": "棉花糖波普面具"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "As red as your insides.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "像你的内脏一样红。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blood Sand",
+    "value": "血沙"
+  }
+]

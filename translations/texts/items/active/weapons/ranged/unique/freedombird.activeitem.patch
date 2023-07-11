@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fire condensed freedom at enemies of capitalism.",
+    "value": "向资本主义的敌人发射浓缩的自由之火。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^red;FR^white;EED^blue;OM^reset;",
+    "value": "^red;自由^white;之^blue;鹰^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "F$%@* YEA!",
+    "value": ""
+  }
+]

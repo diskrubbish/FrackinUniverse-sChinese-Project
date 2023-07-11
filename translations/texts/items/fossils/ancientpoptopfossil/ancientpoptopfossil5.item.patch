@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poptopalon Tail",
+    "value": "吐舌龙尾巴"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fossilised Poptopalon tail.",
+    "value": "吐舌龙的尾巴化石"
+  }
+]

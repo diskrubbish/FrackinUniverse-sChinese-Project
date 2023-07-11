@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Nightar cape. On",
+    "value": "一件夜族披风。噢！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Cape",
+    "value": "夜族披风"
+  }
+]

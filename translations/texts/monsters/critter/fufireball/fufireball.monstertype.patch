@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fireballer",
+    "value": "火宝宝"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hates Iceballers. It's mutual.",
+    "value": "讨厌冰。"
+  }
+]

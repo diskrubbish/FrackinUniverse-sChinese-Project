@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avian Metal Floor",
+    "value": "翼族金属地板"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Metal floor using Avian technology.",
+    "value": "使用翼族科技的金属地板。"
+  }
+]

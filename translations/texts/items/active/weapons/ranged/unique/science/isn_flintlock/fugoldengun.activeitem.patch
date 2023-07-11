@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You feel bonded to this weapon\n^yellow;+600% Sexual Charisma^reset;",
+    "value": "一旦使用就无法逃离这件武器。\n^yellow;性魅力+600^reset;%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffdb31;Scaramanga^reset;",
+    "value": "^#ffdb31;斯卡拉孟加^reset;"
+  }
+]

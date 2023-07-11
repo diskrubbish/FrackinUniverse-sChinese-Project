@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Finely made. Causes targets to bleed.",
+    "value": "外观制作精美，带有割伤出血效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Master's Shortsword",
+    "value": "宗师短剑"
+  }
+]

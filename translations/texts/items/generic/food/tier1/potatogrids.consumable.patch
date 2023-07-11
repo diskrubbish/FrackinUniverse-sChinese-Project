@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A crispy golden exterior protects the soft and fluffy potato within. ^green;Type: Vegetable^reset;",
+    "value": "一片外皮金黄酥脆，内部蓬松土豆。\n^green;类型：蔬菜^reset;"
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "With this protocite-infused tool you can scan at much greater ranges.",
+    "value": "使用这种注入了原体物质的工具，你可以进行更大范围的扫描。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protocite Scanning Tool",
+    "value": "原体扫描工具"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/default/0",
+    "raw": "That's outside my scanner's detection area.",
+    "value": "那是因为在我的扫描仪的检测区域之外。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/default/1",
+    "raw": "Can't seem to get a reading; I should get closer.",
+    "value": "似乎无法得到读数; 我应该靠近。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/default/2",
+    "raw": "The signal's too faint to make out - might be out of range.",
+    "value": "信号太弱了，无法读数 - 大概是超出了范围。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/default/3",
+    "raw": "It must be out of range, I can't get a reading.",
+    "value": "它肯定超出了范围，我无法获得读数。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/novakid/0",
+    "raw": "The scanner ain't reachin' - probably oughta get closer.",
+    "value": "扫描仪无法检测' - 可能是需要靠近。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/novakid/1",
+    "raw": "Guess I'm outta range, the scanner ain't scanning that far.",
+    "value": "我猜我在范围之外，扫描仪不扫描到那么远。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/novakid/2",
+    "raw": "Signal's too faint, better get closer.",
+    "value": "信号太弱了，最好靠近点。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/novakid/3",
+    "raw": "Can't scan that, it ain't in range.",
+    "value": "无法扫描，不在范围内。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/floran/0",
+    "raw": "Scanner not ssstrong enough! Floran must move in.",
+    "value": "扫描仪不够的强强强叶族人必须靠近。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/floran/1",
+    "raw": "That's outsssside scanner's range.",
+    "value": "这超超超出了扫描仪的范围。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/floran/2",
+    "raw": "Ssignal's too faint to make out, Floran not close enough.",
+    "value": "信信信号太弱了读不出东西，叶族人不够接近。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/floran/3",
+    "raw": "Mussst be out of range, Floran can't get a reading.",
+    "value": "肯肯肯定超出了范围，叶族人无法获得读数。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/glitch/0",
+    "raw": "Disappointed. This hardware's sensors are insufficient to analyze that position from here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/glitch/1",
+    "raw": "Puzzled. I cannot seem to get a reading; perhaps I should get closer.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/glitch/2",
+    "raw": "Frustrated. The signal is too faint to make out, I believe I'm out of range.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/glitch/3",
+    "raw": "Irked. It must be out of range, I cannot get a reading.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/shadow/0",
+    "raw": "...?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/shadow/1",
+    "raw": ".....",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/shadow/2",
+    "raw": "...? ...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/fenerox/0",
+    "raw": "Thing not seen?",
+    "value": "嘛样没有？"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/fenerox/1",
+    "raw": "See nothing. Move closer?",
+    "value": "什么也看不见。我应该靠近点？"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/fenerox/2",
+    "raw": "Scanner weak. Should move.",
+    "value": "扫描仪弱。 应该靠近。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/fenerox/3",
+    "raw": "Can't see. Scanner broken?",
+    "value": "看不到。是扫描仪坏了？"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/default/0",
+    "raw": "Nothing of interest here.",
+    "value": "没啥兴趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/default/1",
+    "raw": "Nothing to see here.",
+    "value": "啥都看不见。"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/default/2",
+    "raw": "This isn't really anything.",
+    "value": "这不是真的。"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/default/3",
+    "raw": "Nothing much to speak of.",
+    "value": "没有什么可以说的。"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/novakid/0",
+    "raw": "Scanner's drawin' a blank.",
+    "value": "扫描仪绘图一片空白。"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/novakid/1",
+    "raw": "Not a darn thing there.",
+    "value": "那儿没有东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/novakid/2",
+    "raw": "Scanner says ain't nothin' there.",
+    "value": "扫描仪说那里没东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/novakid/3",
+    "raw": "That's just a whole lotta nothin'.",
+    "value": "这代表什么都没有。"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/floran/0",
+    "raw": "Nothing of interessst.",
+    "value": "什么都没没没没有。"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/floran/1",
+    "raw": "Nothing to sscan.",
+    "value": "没有什么可扫扫描的。"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/floran/2",
+    "raw": "This isssn't anything.",
+    "value": "这什什什么都没有。"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/floran/3",
+    "raw": "Nothing much to sspeak of.",
+    "value": "没有什么可以说说说的。"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/glitch/0",
+    "raw": "Unimpressed. Nothing of interest here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/glitch/1",
+    "raw": "Neutral. There is nothing there.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/glitch/2",
+    "raw": "Disappointed. Nothing there to scan.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/glitch/3",
+    "raw": "Disinterested. This isn't really anything.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/shadow/0",
+    "raw": "...?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/shadow/1",
+    "raw": ".....",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/shadow/2",
+    "raw": "...? ...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/fenerox/0",
+    "raw": "Thing not there?",
+    "value": "不在那里？"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/fenerox/1",
+    "raw": "See nothing. Why look?",
+    "value": "什么也看不见。为嘛要看？"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/fenerox/2",
+    "raw": "Nothing there?",
+    "value": "空空如也？"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/fenerox/3",
+    "raw": "Watch nothing? See nothing.",
+    "value": "看不见？ 看不见。"
+  }
+]

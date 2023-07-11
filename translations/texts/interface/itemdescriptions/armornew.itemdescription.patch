@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/levelLabelTitle/value",
+    "raw": "Tier",
+    "value": "等级"
+  },
+  {
+    "op": "replace",
+    "path": "/armorLabelTitle/value",
+    "raw": "Armour",
+    "value": "盔甲"
+  }
+]

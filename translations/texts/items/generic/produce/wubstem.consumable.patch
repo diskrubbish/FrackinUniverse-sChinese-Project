@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune: Electrified, Electric Storm & +10% Electric Res^reset; : 2m",
+    "value": "^yellow;^reset;^cyan;免疫: 感电, 雷电风暴 & +10% 电系抗性^reset; : 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wubstem",
+    "value": "常茎"
+  }
+]

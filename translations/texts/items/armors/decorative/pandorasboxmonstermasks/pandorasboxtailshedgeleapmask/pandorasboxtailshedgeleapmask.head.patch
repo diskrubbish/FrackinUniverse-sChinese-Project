@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Not capable of flying high.",
+    "value": "没有能力飞的很高。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tails Hedgeleap Mask",
+    "value": "长尾飞鼠面具"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slimetop",
+    "value": "黏液吐舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Loves to vomit up slime. Great at dinner parties.",
+    "value": "喜好吐出黏液。对晚餐聚会来说棒极了。"
+  }
+]

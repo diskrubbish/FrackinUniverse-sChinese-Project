@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The angles of this carving are all wrong, making you violently hallucinate.",
+    "value": "这个雕刻的角度全然不对，让你产生了强烈的幻觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Strange Statue",
+    "value": "奇怪的雕像"
+  }
+]

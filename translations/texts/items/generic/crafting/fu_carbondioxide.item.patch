@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A common trace gas with many applications.",
+    "value": "一种常见的微量气体，用途广泛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Dioxide",
+    "value": "二氧化碳"
+  }
+]

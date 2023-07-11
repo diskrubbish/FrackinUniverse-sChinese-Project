@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The mask's tongue is textured just like the real thing!",
+    "value": "口罩的舌头就像真实的东西一样有纹理！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Batong Mask",
+    "value": "巨舌蝠面具"
+  }
+]

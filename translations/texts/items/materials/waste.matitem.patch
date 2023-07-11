@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Disgusting, faintly glowing toxic waste.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "真恶心，这些有毒废料在微微发光。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  }
+]

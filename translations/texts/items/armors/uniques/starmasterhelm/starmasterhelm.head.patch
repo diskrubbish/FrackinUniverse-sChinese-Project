@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Vengeance is sweet when you look this good.",
+    "value": "当你看到它的时候，你会觉得复仇的感觉真好。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Star Master Helm",
+    "value": "恒星大师头盔"
+  }
+]

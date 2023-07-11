@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Doesn't chuckle.",
+    "value": "不再笑出声。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Knuckles Hedgeleap Mask",
+    "value": "指节飞鼠面具"
+  }
+]

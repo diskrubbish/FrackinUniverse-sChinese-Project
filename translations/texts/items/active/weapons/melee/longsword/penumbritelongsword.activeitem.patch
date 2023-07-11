@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cuts with shadowy purpose.\n^cyan;Universal Damage^reset;",
+    "value": "目标模糊的斩击。\n^cyan;通用伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbral Longsword",
+    "value": "半影长剑"
+  }
+]

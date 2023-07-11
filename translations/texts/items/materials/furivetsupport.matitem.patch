@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rivetted Support",
+    "value": "铆钉支撑"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Solid, with rivets for added rivety-ness.",
+    "value": "坚固，有铆钉，增加了强度。"
+  }
+]

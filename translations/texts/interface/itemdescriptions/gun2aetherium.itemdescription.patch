@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/levelLabelTitle/value",
+    "raw": "^yellow;Tier ^reset;",
+    "value": "^yellow;品级^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/magazineSizeTitleLabel/value",
+    "raw": "^#61be3f;Ammo^reset;",
+    "value": "^#61be3f;子弹数^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/reloadTimeTitleLabel/value",
+    "raw": "^#3e911f;Reload^reset;",
+    "value": "^#3e911f;重新装弹^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/critChanceTitleLabel/value",
+    "raw": "^#ee1414;Crit %^reset;",
+    "value": "^#ee1414;暴击率^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/critBonusTitleLabel/value",
+    "raw": "^yellow;Dmg +^reset;",
+    "value": "^yellow;暴击伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/damagePerShotTitleLabel/value",
+    "raw": "Damage Per Shot:",
+    "value": "每击伤害："
+  },
+  {
+    "op": "replace",
+    "path": "/speedTitleLabel/value",
+    "raw": "Rate of Fire:",
+    "value": "射速："
+  },
+  {
+    "op": "replace",
+    "path": "/energyPerShotTitleLabel/value",
+    "raw": "^green;Shots per Charge^reset;:",
+    "value": "^green;弹匣容量^reset;："
+  }
+]

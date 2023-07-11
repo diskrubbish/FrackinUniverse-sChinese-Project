@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Brutal violium-derived blasts shred opponents.\n^yellow;Inflicts electrified status^reset;\n^cyan;Inflicts Slow status^reset;",
+    "value": "残酷暴力地毁灭敌人。\n^cyan;附加感电效果^reset;\n^cyan;附加减速效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thresher",
+    "value": "长尾鲨"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Static Shocks",
+    "value": "静电"
+  }
+]

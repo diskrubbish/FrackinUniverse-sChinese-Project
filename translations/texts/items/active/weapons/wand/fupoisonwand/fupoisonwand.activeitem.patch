@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Poison your enemies.",
+    "value": "毒杀你的敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toxic Wand",
+    "value": "毒制魔杖"
+  }
+]

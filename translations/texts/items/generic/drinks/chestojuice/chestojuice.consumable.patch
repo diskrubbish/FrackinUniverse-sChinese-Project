@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cold drink that provides a energy boost. ^green;Type: Fruit^reset;",
+    "value": "一杯提供能量加成的冷饮。\n^green;类型：水果^reset;"
+  }
+]

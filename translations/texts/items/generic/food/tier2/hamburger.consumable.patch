@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A juicy hamburger. ^orange;Type: Cooked Meat + Vegetables^reset;",
+    "value": "一个多汁的汉堡包。\n^orange;类型：熟肉食 + 蔬菜^reset;"
+  }
+]

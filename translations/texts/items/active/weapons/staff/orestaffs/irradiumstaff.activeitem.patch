@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Conjures a noxious cloud of poisonous gas.",
+    "value": "可释放出毒气团。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Staff",
+    "value": "镭制法杖"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Radioactive Portal",
+    "value": "放射性通道"
+  }
+]

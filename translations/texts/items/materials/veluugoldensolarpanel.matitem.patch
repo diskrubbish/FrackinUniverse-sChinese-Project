@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Solar panels made out of pure gold. Perfection.",
+    "value": "纯金太阳能电池板，完美。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vel'uuish Golden Solar Panels",
+    "value": "金色太阳能电池板"
+  }
+]

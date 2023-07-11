@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pure carbon graphite.",
+    "value": "纯碳石墨。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pure Carbon",
+    "value": "纯碳"
+  }
+]

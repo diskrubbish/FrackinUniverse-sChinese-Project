@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Your chest is warm, but what of your arms?",
+    "value": "你的胸是温暖的，但是你的手臂呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skathian Vest",
+    "value": "绘世者背心"
+  }
+]

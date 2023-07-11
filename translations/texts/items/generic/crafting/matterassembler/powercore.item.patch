@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A power core used to energize tech.",
+    "value": "一个用来驱动能量科技的能量核心。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;Power Core^reset;",
+    "value": "^#88e25b;能量核心^reset;"
+  }
+]

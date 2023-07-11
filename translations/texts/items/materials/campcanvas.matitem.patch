@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ultra light, yet ultra strong. Avali tents can stop bullets!",
+    "value": "超轻，但是同时超坚韧。 Avali帐篷甚至可以防弹！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nanocanvas",
+    "value": "纳米篷布"
+  }
+]

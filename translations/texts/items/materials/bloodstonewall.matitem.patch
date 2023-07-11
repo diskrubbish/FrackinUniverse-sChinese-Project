@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blood Crystal",
+    "value": "血晶体"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Contains valuable quietus essence.\n^green;Extractable^reset;.",
+    "value": "蕴含珍贵的寂灭精华。\n^green;可萃取^reset;。"
+  }
+]

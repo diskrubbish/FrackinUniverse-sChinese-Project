@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Amazon Parrot",
+    "value": "亚马逊鹦鹉"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "One of the most intelligent of birds. It can be found in a rainforest.",
+    "value": "鸟类中最为聪明的一种。可以在雨林中被发现。"
+  }
+]

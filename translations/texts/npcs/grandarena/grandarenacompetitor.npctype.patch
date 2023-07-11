@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "raw": "I have nothing to sssay to you",
+    "value": "叶族人没有话想和你说说说。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/0",
+    "raw": "Remember to eatsss up well before going in!",
+    "value": "记得吃饱了才进进进去！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/1",
+    "raw": "During the flying monstersss phassse, the ground becomesss treacherousss!",
+    "value": "在飞行类怪怪怪物出现的阶段，地面将会变得危险起来！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/2",
+    "raw": "The number of torchesss tellsss you how many wavesss remain.",
+    "value": "火炬数量将会告诉你还还还有多少波攻击。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/3",
+    "raw": "Monstersss are teleported into arena with magicsss!",
+    "value": "怪物将会被魔魔魔法传送到竞技场内！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/4",
+    "raw": "Thisss isss a tessst of onessself, we will not ssstab you...today.",
+    "value": "这是对于你的考验，叶族人不会真的捅捅捅你，至少今天不会。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/5",
+    "raw": "Even if you sssurvive the lassst wave, you mussst ssstab all enemiesss to win.",
+    "value": "如果你想在生存下来，你必须击败每一波的敌敌敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/6",
+    "raw": "Floran ran out of energy lassst time, but remembered to bring ssspear to ssstab!",
+    "value": "叶族人上次在里面耗尽了体力，别忘了再进去前带好刺刺刺。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/7",
+    "raw": "Floran wasss ssslow in ssstabbing monstersss lassst time. Got ssswamped.",
+    "value": "叶族人上次花了很久时间才刺到那那那只怪物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/floran/default/8",
+    "raw": "Floran likesss rocket launchersss for arena! Hurtsss many enemiesss at once! But also sometimes hurtsss self...",
+    "value": "叶族人非常喜欢竞技场里面的火箭箭箭发射器！它可以一次性攻击很多敌人！不过有时候也会伤到叶族人..."
+  }
+]

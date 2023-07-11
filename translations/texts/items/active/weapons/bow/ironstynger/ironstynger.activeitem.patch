@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pump action for turning enemies into pin cushions.",
+    "value": "泵送箭矢，将敌人变成针垫。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Stynger",
+    "value": "铁制发射器"
+  }
+]

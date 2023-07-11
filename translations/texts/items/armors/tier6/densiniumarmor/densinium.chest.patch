@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Densinium Weapons: +^green;2^reset;% Crit Chance, Damage x^green;1.25^reset;\n^yellow;^reset; ^cyan;Immune^reset;: Poison, Oxygen, Gas, Pressure",
+    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; 超致密武器: +^green;2^reset;%暴击几率, 伤害x^green;1.25^reset;\n^yellow;^reset; ^cyan;免疫^reset;: 毒素, 窒息, 气体, 压强"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Densinium Armor",
+    "value": "超致密胸甲"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Leafcutter Bee",
+    "value": "切叶蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A leafcutter bee.",
+    "value": "一只切叶蜜蜂。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Corrosive toxin, or similar mechanisms, come from this gene.",
+    "value": "腐蚀性毒素或类似的有毒元素都是来自这个基因。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corrosive",
+    "value": "腐蚀基因"
+  }
+]

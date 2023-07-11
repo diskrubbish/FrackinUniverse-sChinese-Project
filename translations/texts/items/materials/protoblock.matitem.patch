@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protocite Block",
+    "value": "原体石料"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Seems awfully wasteful. This is fuel.",
+    "value": "只当做建筑材料用太浪费了。这可以作为燃料。"
+  }
+]

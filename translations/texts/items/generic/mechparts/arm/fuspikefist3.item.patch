@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shoots gravitic phasing blasts.",
+    "value": "发射一个重力相位球。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Phase-Grav Arm",
+    "value": "相位重力机械臂"
+  }
+]

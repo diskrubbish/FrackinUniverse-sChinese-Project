@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Simple, but effective. Design by Sacre.\n^cyan;Floran^reset;",
+    "value": "简单且有效。由Sacre设计。\n^cyan;叶族^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bone Mace",
+    "value": "骨制钉头锤"
+  }
+]

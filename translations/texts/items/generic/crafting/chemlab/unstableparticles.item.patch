@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Unstable but contained particles for use in weapons, energy projection and more.",
+    "value": "极不稳定，但其所包含的粒子，具有武器制造、能量放射等多种用途。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;Unstable Particles^reset;",
+    "value": "^#88e25b;不稳定粒子^reset;"
+  }
+]

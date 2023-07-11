@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Swim Boost (Pod)^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;游泳加速（水荚）^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aquapod Bulb",
+    "value": "水荚"
+  }
+]

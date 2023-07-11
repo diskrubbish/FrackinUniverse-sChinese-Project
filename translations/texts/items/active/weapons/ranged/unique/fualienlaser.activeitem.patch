@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An alien laser blaster, very colourful.",
+    "value": "一把怪异构造的外星武器，它的外形非常漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alien Laser",
+    "value": "外星激光枪"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An unrivaled chipset capable of impossibly complex processes.",
+    "value": "一块无与伦比的芯片组，能够进行不可思议的复杂运算。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;A.I. Chip^reset;",
+    "value": "^#88e25b;智能芯片^reset;"
+  }
+]

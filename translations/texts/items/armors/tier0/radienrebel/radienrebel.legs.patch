@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A skirt belonging to X'i war rebels. ^reset;+5%^reset; to Mental Protection.",
+    "value": "一种艾肯反叛军所穿的下装。\n精神抗性^green;+5^reset;%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'i Tailored Skirt",
+    "value": "艾肯特制下装"
+  }
+]

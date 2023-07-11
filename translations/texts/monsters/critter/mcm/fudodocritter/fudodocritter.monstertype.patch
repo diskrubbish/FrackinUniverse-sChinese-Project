@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dodo",
+    "value": "渡渡鸟"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A flightless bird that eats fruit.",
+    "value": "一种不会飞的鸟,以水果为食。"
+  }
+]

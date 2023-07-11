@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Swim fast. Sharks are dangerous.",
+    "value": "强化游泳速度，远离鲨鱼。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aquatic Celerity",
+    "value": "水速基因"
+  }
+]

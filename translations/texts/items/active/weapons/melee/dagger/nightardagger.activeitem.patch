@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dull and nearly lifeless, but still dangerous. Upgrade for lethality.",
+    "value": "死气沉沉且毫无生气，但却相当危险。升级以变得更加致命。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightarian Knife",
+    "value": "夜之小刀"
+  },
+  {
+    "op": "replace",
+    "path": "/improvedParameters/shortdescription",
+    "raw": "Honed Nightar Knife",
+    "value": "打磨过的夜之小刀"
+  },
+  {
+    "op": "replace",
+    "path": "/improvedParameters/description",
+    "raw": "Sharpened and improved.",
+    "value": "打磨，改进。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Peerless Nightar Blade",
+    "value": "卓越的夜之刃"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Gleams with a bright darkness.",
+    "value": "刃在黑暗，击向光明。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "Legendary Nightar Blade",
+    "value": "传说的夜之刃"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "The finest edge possible.",
+    "value": "力劈华山，所向披靡。"
+  }
+]

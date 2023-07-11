@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Solarium Bee",
+    "value": "日耀蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A solarium bee. Just one sting could give you superpowers.. or kill you!",
+    "value": "一只日耀蜜蜂，只要刺一下就能给你超能力或干掉你。"
+  }
+]

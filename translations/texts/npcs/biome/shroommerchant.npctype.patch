@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "raw": "  Agaran Merchant",
+    "value": "蘑菇人行商"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Shroomy salesman selling stuff",
+    "value": "蘑菇人有东西卖"
+  }
+]

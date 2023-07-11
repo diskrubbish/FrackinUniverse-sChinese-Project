@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Huge gouts of dangerous napalm. Keep away from children.\n^yellow;Inflicts burning^reset;",
+    "value": "使用巨大的凝固汽油弹作为攻击手段，请远离未成年人。\n^cyan;附加燃烧效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Scorchburst",
+    "value": "爆裂焦痕"
+  }
+]

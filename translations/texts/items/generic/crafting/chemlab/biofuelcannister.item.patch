@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decent biofuel.\n^blue;+^white;8 ^blue;Fuel^reset;",
+    "value": "一种不错的生物燃料。\n^blue;燃料+^white;8^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Biofuel Canister",
+    "value": "生物燃料罐"
+  }
+]

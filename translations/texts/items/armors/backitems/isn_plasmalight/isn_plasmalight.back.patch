@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A very bright portable plasma powered device. Cool yet practical.\n^cyan;Immune^reset;: Pressure, Oxygen",
+    "value": "由等离子驱动的便携式照明装置，又酷又实用。\n^cyan;免疫^reset;：窒息, 压强"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasma Light Pack",
+    "value": "等离子光照背包"
+  }
+]

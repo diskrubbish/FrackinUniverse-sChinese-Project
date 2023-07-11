@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Shield",
+    "value": "远古盾"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;+8% Energy Regen, +2 Defense, Immune: Bio-Ooze^reset;",
+    "value": "^green;能量回复速度+8%，防御+2；免疫生物软泥^reset;"
+  }
+]

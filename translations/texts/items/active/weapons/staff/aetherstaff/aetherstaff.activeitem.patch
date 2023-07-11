@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Two words: Wow.",
+    "value": "两个字：哇。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Staff",
+    "value": "阳清法杖"
+  }
+]

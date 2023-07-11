@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Golem",
+    "value": "暗影魔像"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Somehow, the very essence of darkness has taken shape into a living being.",
+    "value": "不知何故，黑暗的本质形成了活生生的生命体。"
+  }
+]

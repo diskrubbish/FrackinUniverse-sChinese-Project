@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "raw": "FRUIT PRESS",
+    "value": "水果榨汁机"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "raw": "For making mash.",
+    "value": "用来制作麦芽。"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "raw": "Mash",
+    "value": "麦芽"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnStopCraft/caption",
+    "raw": "Stop",
+    "value": "停止"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/tbSpinCount/regex",
+    "raw": "x?\\d{0,4}",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProduct/value",
+    "raw": "MATERIALS AVAILABLE",
+    "value": "可用材料"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/filter/hint",
+    "raw": "Search",
+    "value": "搜索"
+  }
+]

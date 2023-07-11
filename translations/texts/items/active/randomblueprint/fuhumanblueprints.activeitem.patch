@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The blueprints for sturdy Human armour.",
+    "value": "人族坚固盔甲的蓝图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Human Schematics (Health)",
+    "value": "人族盔甲架构图(生命)"
+  }
+]

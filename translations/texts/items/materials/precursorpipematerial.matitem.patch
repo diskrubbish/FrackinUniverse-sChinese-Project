@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Thick, super-dense pipes made of an unknown alloy.\n^green;Extractable^reset;.",
+    "value": "由未知合金制成的厚实且密度超高的管道。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Pipe",
+    "value": "先驱管道"
+  }
+]

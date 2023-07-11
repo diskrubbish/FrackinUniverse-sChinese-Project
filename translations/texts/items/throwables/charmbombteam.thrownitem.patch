@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Charm Bomb",
+    "value": "摄魂爆弹"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Scramble the brains of nearby sapient beings, making them your friends!",
+    "value": "扰乱附近生命形式的大脑，让他们成为你的朋友！"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Micro Drone",
+    "value": "小型拍摄无人机"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Absolutely harmless, unless you don't want that video on the Ansible...",
+    "value": "无害，如果你不想从网络上看到关于你的视频的话..."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Scoria Young Queen",
+    "value": "幼年的矿渣蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Scoria Queen",
+    "value": "幼年矿渣蜂后"
+  }
+]

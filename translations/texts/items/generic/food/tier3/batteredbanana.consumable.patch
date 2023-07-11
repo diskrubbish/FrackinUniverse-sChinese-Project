@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Your standard banana, battered and fried in a rich dough. ^green;Type: Fruit^reset;",
+    "value": "标准的香蕉，被裹在面团中炸了一遍。\n^green;类型：水果^reset;"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tough sandstone.\n^green;Extractable^reset;.",
+    "value": "很坚固的砂岩。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sandstone Block",
+    "value": "砂岩块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Sandstone.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssandstone.",
+    "value": "这是砂砂砂岩。"
+  }
+]

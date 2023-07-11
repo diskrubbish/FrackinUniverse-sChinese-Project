@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Creepy crawly properties infuse this cell.",
+    "value": "令人毛骨悚然的细胞基因。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Insectoid",
+    "value": "昆虫基因"
+  }
+]

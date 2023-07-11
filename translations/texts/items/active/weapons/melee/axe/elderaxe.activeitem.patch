@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^#a5ff00;A sinister looking edge, and glowing with unknowable intent.^reset;",
+    "value": "^#a5ff00;斧刃闪烁着险恶的莫名光辉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#a5ff00;Elder Axe^reset;",
+    "value": "^#a5ff00;远古斧^reset;"
+  }
+]

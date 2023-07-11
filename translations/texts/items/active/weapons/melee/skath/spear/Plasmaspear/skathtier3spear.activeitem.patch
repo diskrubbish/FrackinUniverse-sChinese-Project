@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A powerful Plasmablade forged by the Skath.",
+    "value": "一把由绘世者工艺锻造的强大等离子剑刃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Plasmaspear",
+    "value": "绘世者战矛·等离子"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Empowerment",
+    "value": "权柄"
+  }
+]

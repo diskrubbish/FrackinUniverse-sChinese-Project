@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ale mash, the product of malt, yellow petals and water.",
+    "value": "麦芽汁，麦芽，黄色花瓣和水混合后的产品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dark Ale Mash",
+    "value": "深色啤酒醪"
+  }
+]

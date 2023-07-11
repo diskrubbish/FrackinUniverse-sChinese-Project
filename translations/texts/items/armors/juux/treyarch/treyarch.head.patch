@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Never trust a Pharitu Treyarch.",
+    "value": "永远不要相信一位法瑞图流放者。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Treyarch Mask",
+    "value": "流放者面具"
+  }
+]

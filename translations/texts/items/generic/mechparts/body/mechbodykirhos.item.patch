@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Immune^reset;: Pressure, Extreme Heat/Cold, Mild Radiation/Poison, Proto\n^cyan;+25%^reset; Fuel Boost",
+    "value": "^cyan;免疫^reset;：压强，极端寒冷/炎热，轻度辐射/毒素，原毒\n^cyan;+25%^reset;燃料"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Starlancer Body",
+    "value": "星际枪骑兵躯体"
+  }
+]

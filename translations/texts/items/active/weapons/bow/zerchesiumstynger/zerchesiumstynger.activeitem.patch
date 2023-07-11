@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Makes blizzards out of frozen bolts.",
+    "value": "用冰冻的弹头制造暴风雪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Stynger",
+    "value": "高熔点发射器"
+  }
+]

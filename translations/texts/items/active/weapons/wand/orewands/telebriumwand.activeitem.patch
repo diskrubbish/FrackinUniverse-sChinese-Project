@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Toxifies the air, poisoning enemies.",
+    "value": "毒害空气，毒害敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Wand",
+    "value": "月海魔杖"
+  }
+]

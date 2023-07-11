@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A trusty beam weapon.",
+    "value": "一把可靠的发光武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Phaser",
+    "value": "相位器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Phaser MkII^reset; ^green;^reset;",
+    "value": "^cyan;相位器 MkII^reset; ^green;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "^cyan;Phaser MkIII^reset; ^cyan;^reset;",
+    "value": "^cyan;相位器 MkIII^reset; ^cyan;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/shortdescription",
+    "raw": "^cyan;Phaser MkIV^reset; ^yellow;^reset;",
+    "value": "^cyan;相位器 MkIV^reset; ^yellow;^reset;"
+  }
+]

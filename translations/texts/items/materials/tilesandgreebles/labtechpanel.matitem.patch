@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A techy lab panel.",
+    "value": "一块实验室科技型面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasteel Tech Panel",
+    "value": "塑钢科技面板"
+  }
+]

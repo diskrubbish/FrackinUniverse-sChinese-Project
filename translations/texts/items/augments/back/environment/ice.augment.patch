@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides +10% Ice Resist",
+    "value": "^cyan;寒气抗性+10^reset;%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice Resist I",
+    "value": "EPP模块（寒气抵抗 I）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Ice Resist I",
+    "value": "EPP模块（寒气抵抗 I）"
+  }
+]

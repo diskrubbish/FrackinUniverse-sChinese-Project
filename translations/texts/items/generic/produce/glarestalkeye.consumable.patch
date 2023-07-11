@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Damage x1.3^reset;: 1m\n^yellow;^reset;^cyan;Immune^reset;: Insanity: 3m",
+    "value": "^yellow;^reset;^cyan;伤害x1.3^reset;: 1m\n^yellow;^reset;^cyan;免疫^reset;: 精神错乱: 3m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glarestalk Eye",
+    "value": "眩光茎"
+  }
+]

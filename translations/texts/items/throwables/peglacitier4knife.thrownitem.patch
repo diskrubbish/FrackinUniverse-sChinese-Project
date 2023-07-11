@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spiker",
+    "value": "主攻手"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A javelin that explodes to emit freezing clouds.",
+    "value": "一柄能喷射出冰冷的云的标枪。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fashioned from bones and petrified wood.\n^cyan;Floran^reset;",
+    "value": "用骨头和化石木制成。\n^cyan;叶族^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nature's Wrath",
+    "value": "自然之怒"
+  }
+]

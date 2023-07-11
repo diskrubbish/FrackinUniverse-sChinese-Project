@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/settings/children/labelLabel/value",
+    "raw": "Toggle current track label above object",
+    "value": "切换至当前跟踪标签上方的对象"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/settings/children/rangeLabel/value",
+    "raw": "Select music player range (Default is 30)",
+    "value": "选择音乐播放器范围(默认为30)"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/settings/children/rangeSublabel/value",
+    "raw": "^red;This setting only applies to this specific music player, and not to every other one its wired to.",
+    "value": "^red;该设置只适用于此特定的音乐播放器，而不适用于它连接到的其他播放器。"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/titleText/value",
+    "raw": "Select an album",
+    "value": "选择一张专辑"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/titleSubtext/value",
+    "raw": "Frackin' Music Player",
+    "value": "Frackin'音乐播放器"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/search/hint",
+    "raw": "Search",
+    "value": "搜索"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/settings/children/offsetter/value",
+    "raw": " ",
+    "value": ""
+  }
+]

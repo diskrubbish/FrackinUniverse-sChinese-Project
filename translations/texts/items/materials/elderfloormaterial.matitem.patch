@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ancient, unknown glyphs cover this strange carved stone.",
+    "value": "古老的未知文字雕刻在这块奇怪的石头上。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Floor",
+    "value": "远古地板"
+  }
+]

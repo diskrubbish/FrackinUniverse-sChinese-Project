@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stores a sacred vehicle of Avian design",
+    "value": "其内储存有翼族设计的神圣之车。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avian Hoverbike",
+    "value": "翼族悬浮车"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "A dread warlord is terrorising the populace of a planet. I should stop his nefarious deeds!",
+    "value": "一位作恶多端的战争领主正在遥远的行星上压迫附近的人民，我应该去阻止他的暴行！"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "The Tower Invincible (6)",
+    "value": "永世塔塞(6)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "The Tower Invincible (6) (R)",
+    "value": "重新挑战永世塔塞(6)"
+  }
+]

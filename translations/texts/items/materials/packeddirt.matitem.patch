@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some dirt packed into small bricks.\n^green;Extractable^reset;.",
+    "value": "一些压制成砖块的土。\n^green;可萃取^reset;。"
+  }
+]

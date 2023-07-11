@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ancient technology capable of enhancing weapons, armor and equipment.",
+    "value": "这种来自古代的铁砧可以强化护甲及武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Crucible",
+    "value": "宇宙铁砧"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cold as ice.",
+    "value": "冷，极冷。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frost Lobber",
+    "value": "寒冰之珠"
+  }
+]

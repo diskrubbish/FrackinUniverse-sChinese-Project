@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An alcoholic drink made of eggs and Gregs. It's god-damned delicious!\n^green;Heal ^white;50% ^green;HP ^gray;(^white;30s^gray;)^reset;, 35% ^red;Slow^reset;, ^red;Drunk^gray; (^white;30s^gray;)^reset;",
+    "value": "由鸡蛋和格雷格制成的酒精饮料。亲甜滴般的美味，，，\n^green;治疗^white;50%^green;HP^gray;(^white;30s内^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Greggnog",
+    "value": "格雷格酒"
+  }
+]

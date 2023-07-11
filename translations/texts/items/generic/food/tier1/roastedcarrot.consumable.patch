@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Roasted to perfection. ^green;Type: Vegetable^reset;",
+    "value": "烤得恰到好处。\n^green;类型：蔬菜^reset;"
+  }
+]

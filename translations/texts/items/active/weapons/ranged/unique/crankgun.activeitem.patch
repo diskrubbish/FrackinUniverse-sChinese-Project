@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires bursts of nasty sharpened flechettes.\n^yellow;Inflicts bleeding^reset;",
+    "value": "发射出肮脏的锋利箭形弹。\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crank Cannon",
+    "value": "曲柄加农炮"
+  }
+]

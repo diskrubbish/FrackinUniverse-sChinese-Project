@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A luxurious soft fabric for wall hangings or carpets.",
+    "value": "一种豪华的布料，用于展示于墙上或者做地毯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Soft Tapestry",
+    "value": "软挂毯"
+  }
+]

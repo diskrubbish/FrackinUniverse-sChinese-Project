@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Unpleasant",
+    "value": "被砍到可不是好玩的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corrupted Blade",
+    "value": "腐化短剑"
+  }
+]

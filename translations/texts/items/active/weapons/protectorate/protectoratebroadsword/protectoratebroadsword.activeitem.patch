@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Master Sword^reset; ^yellow;^reset;",
+    "value": "^cyan;大师之剑^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "An exquisite sword.",
+    "value": "一把精致的剑。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "^cyan;Power Sword^reset; ^yellow;^reset;",
+    "value": "^cyan;力量之剑^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "An exquisite sword.",
+    "value": "一把精致的剑。"
+  }
+]

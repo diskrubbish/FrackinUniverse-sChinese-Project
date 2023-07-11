@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fanblade",
+    "value": "扇刃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Throws a swift dart that chills foes.",
+    "value": "扔出冻结敌人的致命锋利飞镖。"
+  }
+]

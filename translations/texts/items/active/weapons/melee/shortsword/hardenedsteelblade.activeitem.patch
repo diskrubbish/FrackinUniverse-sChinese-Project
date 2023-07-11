@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mainstay of Fenerox warfare",
+    "value": "Fenorox战争的中流砥柱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Steel Warblade",
+    "value": "钢制战刃"
+  }
+]

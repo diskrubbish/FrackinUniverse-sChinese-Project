@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^#a5ff00;A sharpened edge that could cut a god.^reset;\n^cyan;Hunting weapon^reset;",
+    "value": "^#a5ff00;足以弑神的利刃。^reset;\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#a5ff00;Elder Spear^reset;",
+    "value": "^#a5ff00;远古长矛^reset;"
+  }
+]

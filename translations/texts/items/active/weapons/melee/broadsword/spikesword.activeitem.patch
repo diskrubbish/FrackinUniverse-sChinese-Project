@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Covered in sharp poisoned barbs. Cute.",
+    "value": "这把剑带有锋利的倒钩，并且涂满了毒药。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thornitox Sword",
+    "value": "荆棘剑"
+  }
+]

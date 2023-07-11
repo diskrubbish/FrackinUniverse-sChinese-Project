@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block of sod roofing with growing grass.\n^green;Extractable^reset;.",
+    "value": "一块顶部长着草皮的方块。\n^green;可萃取^reset;。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Amazing energy production! Also lowers your rate of descent during falls.",
+    "value": "可产生惊人的能量！也会减缓你的下坠速度。\n^cyan;降低掉落速度^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wizard's Cap",
+    "value": "巫师帽"
+  }
+]

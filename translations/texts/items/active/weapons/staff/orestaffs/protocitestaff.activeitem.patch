@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Raw energy imbued within.",
+    "value": "蕴藏着可怕的原体能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protocite Staff",
+    "value": "原体法杖"
+  }
+]

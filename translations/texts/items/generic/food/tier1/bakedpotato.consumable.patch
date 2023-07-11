@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crispy on the outside, hot as molten lava on the inside. ^green;Type: Vegetable^reset;",
+    "value": "外皮酥脆，里面和熔岩一样烫。\n^green;类型：蔬菜^reset;"
+  }
+]

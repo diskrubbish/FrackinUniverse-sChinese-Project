@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A basic Protectorate sidearm. Reliable and compact.",
+    "value": "一把标准、可靠、坚实耐用的守护团成员配枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protectorate Pistol",
+    "value": "守护团手枪"
+  },
+  {
+    "op": "replace",
+    "path": "/improvedParameters/shortdescription",
+    "raw": "^cyan;Protectorate Incapacitator^reset; ^yellow;^reset;",
+    "value": "^cyan;守护团压制者^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/improvedParameters/description",
+    "raw": "Fires two-round bursts.\n^cyan;+1 projectiles^reset;",
+    "value": "一次射击,两轮火力\n^cyan;发射物+1^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Protectorate Incapacitator^reset; ^yellow;^reset;",
+    "value": "^cyan;守护团压制者^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Fires two-round bursts.\n^cyan;+1 projectiles^reset;",
+    "value": "一次射击,两轮火力\n^cyan;发射物+1^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "^cyan;Protectorate Decimator^reset; ^yellow;^reset;",
+    "value": "^cyan;守护团屠戮者^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "A finely-tuned pistol with dangerous burst-fire!\n^cyan;+3 projectiles^reset;",
+    "value": "一把经过无数次精密的改造后拥有了可怕火力的手枪\n^cyan;发射物+3^reset;"
+  }
+]

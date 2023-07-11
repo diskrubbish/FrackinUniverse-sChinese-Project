@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowtop",
+    "value": "暗影吐舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A terrible mutation of the poptop. Aggressive and dangerous.",
+    "value": "吐舌娃的一种可怕的变种。极具侵略性，极其危险。"
+  }
+]

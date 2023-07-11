@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Improved jump and speed.",
+    "value": "改良了跳跃力和速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Falcon II Legs",
+    "value": "隼鹰机甲足 II"
+  }
+]

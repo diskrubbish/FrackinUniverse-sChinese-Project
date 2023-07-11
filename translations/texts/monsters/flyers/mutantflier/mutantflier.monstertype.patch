@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Jheshrikaal",
+    "value": "爵士莱考"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The galaxies snuggliest widdle guy.",
+    "value": "星际间里最暖心的家伙。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You can look like you're wrapped up for the holidays with this!",
+    "value": "看起来你正全心全意专注于这个假期！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gift Monster Mask",
+    "value": "礼物妖怪面具"
+  }
+]

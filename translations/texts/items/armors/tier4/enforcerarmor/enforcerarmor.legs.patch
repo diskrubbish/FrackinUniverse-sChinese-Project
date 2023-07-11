@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Assault Rifle/Shotgun: Damage x^green;1.2^reset;\n^yellow;^reset; ^cyan;Immune^reset;: Liq.Nitrogen, Darkness",
+    "value": "^orange;套装奖励^reset;：\n^yellow;^reset; 突击步枪/ 霰弹枪: 伤害x^green;1.2^reset;\n^yellow;^reset; ^cyan;免疫^reset;: 液氮, 黑暗"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Enforcer Greaves",
+    "value": "野蛮腿甲"
+  }
+]

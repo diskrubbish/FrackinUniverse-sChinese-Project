@@ -1,0 +1,188 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/buttonBack/caption",
+    "raw": "Back",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonByos/caption",
+    "raw": "^white;Buildable^reset;",
+    "value": "^white;可建造^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonUpgradable/caption",
+    "raw": "^white;Upgradable^reset;",
+    "value": "^white;可升级^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/states/initial/text",
+    "raw": "Ship has sustained major damage when escaping Earth. Please select which ship type you want:\n\nFrackin' Ship:\nBuild your ship block by block, choosing from a variety of presets. Requires installation of a new FTL Drive. See your tricorder quests for guidance.\n\nVanilla Ship:\nThe default Starbound ship for your race. Does not have access to some FU ship features.",
+    "value": "逃离地球时，飞船遭受了重创。请选择您想要的飞船类型：\n\nFrackin船只：\n自己块叠块建造的飞船，从各种预设中选择。需要安装新的FTL驱动器，请参阅获取的三度仪中的任务。\n\n普通飞船：\n您种族的默认Starbound原版飞船。无法使用某些FU的飞船功能。"
+  },
+  {
+    "op": "replace",
+    "path": "/states/frackinShipChoice/text",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/states/frackinShipPreview/text",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/states/frackinShipSelected/text",
+    "raw": "The Frackin' Ship. Upgraded differently, get more space by building it yourself and improve its performance with better engines and boosters.\n\nCurrently Selected Ship: <shipName>\nCurrently Selected Ship Mode: <shipMode>",
+    "value": "Frackin飞船。升级方式有所不同。通过自己建造获得更多的空间，并通过更好的发动机和推进器提高其性能。\n\n当前选择的飞船: <shipName>\n当前选择的飞船模式: <shipMode>"
+  },
+  {
+    "op": "replace",
+    "path": "/states/frackinShipChosen/text",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/states/vanillaShipSelected/text",
+    "raw": "The regular vanilla ship. Upgraded normally by earning or buying the ship licenses. This ship type won't have access to some of the features the Frackin' Ship will have access to, like boosters.",
+    "value": "普通的常规飞船。通过赚取或购买飞船执照进行升级。此船类型无法使用Frackin飞船使用的某些功能，例如推进器。"
+  },
+  {
+    "op": "replace",
+    "path": "/states/vanillaShipChosen/text",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/states/shipChosen/text",
+    "raw": "Constructing ship, please wait.",
+    "value": "正在建造飞船，请等待。"
+  },
+  {
+    "op": "replace",
+    "path": "/states/skipRepairs/text",
+    "raw": "Only skip repairs if the ship isn't currently damaged.",
+    "value": "仅当飞船当前未损坏时才跳过维修。"
+  },
+  {
+    "op": "replace",
+    "path": "/states/repairsSkipped/text",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shipResetConfirmationDialogs/repairShip/title",
+    "raw": "Repair Ship",
+    "value": "修理飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/shipResetConfirmationDialogs/repairShip/subtitle",
+    "raw": "Repair your ship",
+    "value": "修理你的飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/shipResetConfirmationDialogs/repairShip/message",
+    "raw": "This will re-create your ship. Only do this if your ship was been reset. Are you sure you want to do this?",
+    "value": "这将重建你的飞船。只有在你的飞船被重置的情况下才能这么做。你确定要这么做吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shipResetConfirmationDialogs/skipRepairs/title",
+    "raw": "Skip Repairs",
+    "value": "跳过修理"
+  },
+  {
+    "op": "replace",
+    "path": "/shipResetConfirmationDialogs/skipRepairs/subtitle",
+    "raw": "Skip repairing your ship",
+    "value": "跳过修理你的飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/shipResetConfirmationDialogs/skipRepairs/message",
+    "raw": "This will set your ship as repaired. Only do this if your ship hasn't been reset. Are you sure you want to do this?",
+    "value": "这将修好你的飞船。只有在你的飞船没有被重置的情况下才能这么做。你确定要这么做吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/backgroundPresentConfirmation/title",
+    "raw": "Repair Ship",
+    "value": "修理飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/backgroundPresentConfirmation/subtitle",
+    "raw": "Repair your ship",
+    "value": "修理你的飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/backgroundPresentConfirmation/message",
+    "raw": "The normal background image has been detected. This background image will be rendered permanently on your Frackin' Ship. If you do not have the Frackin' Ship modded race support patch, you should grab it from: https://steamcommunity.com/sharedfiles/filedetails/?id=1194878261 and create a new character.",
+    "value": "已检测到正常背景图像。 该背景图像将永久显示在您的Frackin飞船上。 如果您没有Frackin Ship Modded种族支持MOD，则应从以下网址获取它： https://steamcommunity.com/sharedfiles/filedetails/?id=1194878261，然后再重新创建角色。"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowTitle/value",
+    "raw": "S.A.I.L",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowSubtitle/value",
+    "raw": "Ship-based Artificial Intelligence Lattice",
+    "value": "舰载人工智能"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/path/value",
+    "raw": "root/sail/ui/replaceship",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shipResetConfirmationDialogs/repairShip/okCaption",
+    "raw": "Okay",
+    "value": "是"
+  },
+  {
+    "op": "replace",
+    "path": "/shipResetConfirmationDialogs/repairShip/cancelCaption",
+    "raw": "Cancel",
+    "value": "取消"
+  },
+  {
+    "op": "replace",
+    "path": "/shipResetConfirmationDialogs/skipRepairs/okCaption",
+    "raw": "Okay",
+    "value": "是"
+  },
+  {
+    "op": "replace",
+    "path": "/shipResetConfirmationDialogs/skipRepairs/cancelCaption",
+    "raw": "Cancel",
+    "value": "取消"
+  },
+  {
+    "op": "replace",
+    "path": "/backgroundPresentConfirmation/okCaption",
+    "raw": "Okay",
+    "value": "是"
+  },
+  {
+    "op": "replace",
+    "path": "/backgroundPresentConfirmation/cancelCaption",
+    "raw": "Cancel",
+    "value": "取消"
+  }
+]

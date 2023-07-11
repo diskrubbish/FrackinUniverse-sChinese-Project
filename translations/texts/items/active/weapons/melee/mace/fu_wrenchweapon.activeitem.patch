@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Delivers a hefty whack, perfect for beating disobedient machinery into order.",
+    "value": "提供一记重击，完美地让不工作的机器重归秩序。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wrench",
+    "value": "扳手"
+  }
+]

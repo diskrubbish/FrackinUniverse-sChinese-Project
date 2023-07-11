@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Poison explosions, endless fun.",
+    "value": "毒药爆炸，无尽乐趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Rocket",
+    "value": "月海火箭"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Telebrium Spikes",
+    "value": "月海尖刺"
+  }
+]

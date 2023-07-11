@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "High-effect plasma cannon.",
+    "value": "高效能的等离子炮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exitus Mech Arm",
+    "value": "死疫机甲臂"
+  }
+]

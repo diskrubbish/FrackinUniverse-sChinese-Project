@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Looks toxically delicious.\n^pink;Proto-Poison ^cyan;Immunity ^gray;(^white;5m^gray;)^reset;",
+    "value": "看起来简直是剧毒级美味。\n赋予^pink;原毒^cyan;免疫^gray;(^white;持续5m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proto Pancakes",
+    "value": "原型煎饼"
+  }
+]

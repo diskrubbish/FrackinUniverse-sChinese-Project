@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A legendary Nightarian blade. It's said it can cleave time and space.",
+    "value": "传说中的夜族之刃。据说可以斩开时空。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "The Bleak Blade",
+    "value": "荒芜之刃"
+  }
+]

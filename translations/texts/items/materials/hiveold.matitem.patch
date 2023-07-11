@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange organic material.",
+    "value": "一种奇怪的有机材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Living Stone",
+    "value": "活物石块"
+  }
+]

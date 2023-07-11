@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a Sous Chef to keep you stuffed and reduce fuel costs by 6%.",
+    "value": "雇用一名顶级厨师，他能让你保持饱腹状态，并且降低6％的飞船燃料消耗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sous Chef Contract",
+    "value": "合同：顶级厨师"
+  }
+]

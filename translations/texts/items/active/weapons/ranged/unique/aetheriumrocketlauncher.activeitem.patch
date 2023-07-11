@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shatteringly powerful homing missile swarm.",
+    "value": "威力惊人的自导导弹群。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Rocketlauncher",
+    "value": "阳清火箭发射器"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Blocker Blast",
+    "value": "拦截阵"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pierce them with prismatic power!\n^yellow;Counts as 'energy' for set bonuses^reset;\n^cyan;Hunting weapon^reset;",
+    "value": "用棱镜能量刺穿他们！\n^yellow;能量武器^reset;\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prismatic Spear",
+    "value": "棱镜长矛"
+  }
+]

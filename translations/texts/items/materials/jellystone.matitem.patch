@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Unsure how this is possible, but okay.\n^green;Extractable^reset;.",
+    "value": "我不确定这可以用来做什么。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gelatinous Stone",
+    "value": "凝胶石块"
+  }
+]

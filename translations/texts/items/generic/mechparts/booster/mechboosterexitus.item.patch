@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "All-around great boosters.",
+    "value": "全能的机甲推进器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exitus Mech Boosters",
+    "value": "死疫机甲推进器"
+  }
+]

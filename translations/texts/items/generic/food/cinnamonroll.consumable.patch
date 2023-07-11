@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A confectionary made of cinnamon, sugar, and dough. ^green;Type: Grain Dessert^reset;",
+    "value": "一种由肉桂、糖、面团制成的蜜饯。\n类型:^green; 谷物甜食"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cinnamon Roll",
+    "value": "肉桂卷"
+  }
+]

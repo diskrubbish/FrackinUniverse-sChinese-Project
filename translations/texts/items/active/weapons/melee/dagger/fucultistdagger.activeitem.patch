@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy, and keeps a keen edge.",
+    "value": "尖锐，表面非常锋利。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Masters Knife",
+    "value": "宗师小刀"
+  }
+]

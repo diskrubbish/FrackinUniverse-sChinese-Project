@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Helps all of your strikes really count.",
+    "value": "能帮助你定位敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Targeting Goggles",
+    "value": "定位护目镜"
+  }
+]

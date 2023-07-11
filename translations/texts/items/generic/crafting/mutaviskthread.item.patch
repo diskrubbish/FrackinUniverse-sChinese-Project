@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A versatile, resistant thread made from Mutavisk plants.",
+    "value": "一种由生物材料编制而成的多用途纤维。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bio Thread",
+    "value": "生物纤维"
+  }
+]

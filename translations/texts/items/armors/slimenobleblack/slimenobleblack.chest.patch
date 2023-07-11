@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Black Sheer Blouse",
+    "value": "黑色丝织上装"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A loose blouse made from sheer fabric. It fits slimes rather well.",
+    "value": "宽松的丝织物造上衣 。它很适合史莱姆。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A revolting bio-weapon.\n^cyan;Plague Bearing^reset;",
+    "value": "一个或许会引起你恶心的生物武器。\n^cyan;瘟疫附着^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fleshweave Broadsword",
+    "value": "血肉宽剑"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Plague Wave",
+    "value": "瘟疫波"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The sturdiest material there is. Too stiff and expensive to be used for armor though.",
+    "value": "绘世者工艺所能制造的最坚固的材料。虽说用于盔甲来说非常硬，但也非常贵。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Impervium Compound",
+    "value": "统制化合物"
+  }
+]

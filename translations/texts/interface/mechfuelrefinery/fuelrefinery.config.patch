@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": "  Oil Distiller",
+    "value": "  蒸油器"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": "  ^#b9b5b2;Converts Oil",
+    "value": "  ^#b9b5b2;转换油"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/toggleCrafting/caption",
+    "raw": "Distill",
+    "value": "蒸馏"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblText/value",
+    "raw": "^#b9b5b2;Place oil in the left slot to refine into mech fuel.",
+    "value": "^#b9b5b2;将油放入左侧槽位来提炼成机甲燃料。"
+  }
+]

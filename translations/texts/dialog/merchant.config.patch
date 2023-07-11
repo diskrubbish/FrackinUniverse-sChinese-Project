@@ -1,0 +1,2066 @@
+[
+  {
+    "op": "replace",
+    "path": "/merchantStart/skath/default/0",
+    "raw": "Welcome to my shop, traveler.",
+    "value": "欢迎光临我的店，旅行者。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/skath/default/1",
+    "raw": "Can I interest you in any of my wares?",
+    "value": "你对我的商品感兴趣吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/skath/default/2",
+    "raw": "Would you like to take a loot at my goods?",
+    "value": "你想拿走我的东西吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/skath/default/0",
+    "raw": "Thank you for your interest, traveler.",
+    "value": "谢谢你的关注，旅行者。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/skath/default/1",
+    "raw": "Come again whenever you need something",
+    "value": "无论何时你需要什么，请再来"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/skath/default/2",
+    "raw": "Take care of yourself, traveler",
+    "value": "保重，旅行者"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/skath/default/0",
+    "raw": "Allow me to take you to my shop, traveler.",
+    "value": "旅行者，请允许我带你去我的商店。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/skath/default/0",
+    "raw": "This is my humble shop. Welcome!",
+    "value": "这是我的小店，欢迎光临！"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/skath/default/1",
+    "raw": "I think this place should suffice for any transactons.",
+    "value": "我想这个地方对任何变形人来说都足够了。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/skath/default/0",
+    "raw": "The best wares for the best prices!",
+    "value": "最好的商品，最好的价格！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/skath/default/1",
+    "raw": "Looking to trade? The best wares are right here!",
+    "value": "想做生意吗？最好的商品就在这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/skath/default/2",
+    "raw": "Items from Norkumsgath, for sale right here!",
+    "value": "来自 Norkumsgath 的商品，在这里出售！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/skath/default/3",
+    "raw": "Nothing but the best hand-crafted items here!",
+    "value": "这里只有最好的手工艺品！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/skath/default/0",
+    "raw": "Sir, could you please return my home to its former state?",
+    "value": "先生，你能把我的家还回去吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/skath/default/1",
+    "raw": "My home isn't the same as before. You mind fixing that?",
+    "value": "我的家和以前不一样了。介意修一下吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/skath/default/2",
+    "raw": "My room is all messed up...",
+    "value": "我的房间乱七八糟..."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/skath/default/3",
+    "raw": "I don't mind changes but something is off here...",
+    "value": "我不介意改变，但这里有些不对劲..."
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/skath/default/4",
+    "raw": "I should file a complaint. Someone messed up my room.",
+    "value": "我应该提出投诉，有人把我的房间弄乱了。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/skath/default/0",
+    "raw": "I don't feel safe in a damaged house. Can you please fix that?",
+    "value": "我在一个被损坏的房子里感到不安全。你能修好它吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/skath/default/1",
+    "raw": "If I wanted some fresh air, I would rather go outside.",
+    "value": "如果我想呼吸新鲜空气，我宁愿到外面去。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/skath/default/2",
+    "raw": "My home could need some repairs. Can you take care of this?",
+    "value": "我的房子可能需要修理一下，你能处理一下吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/skath/default/3",
+    "raw": "My home is damaged. I lack the necessary skills to fix it. Please fix this.",
+    "value": "我的家被损坏了，我缺乏必要的技能来修理它。请修理这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/skath/default/0",
+    "raw": "Sir, I don't think it was part of our contract to let another one move in.",
+    "value": "先生，我认为我们的合同里没有让另一个人搬进来。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/skath/default/1",
+    "raw": "Sir, we agreed that this place would be for me alone.",
+    "value": "先生，我们说好了这地方只属于我一个人。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/skath/default/2",
+    "raw": "I don't mind sharing my home but this wasn't a part of our contract.",
+    "value": "我不介意和别人分享我的房子，但这不是我们合同的一部分。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/skath/default/3",
+    "raw": "I think you made a mistake by placing another deed in my home. Care to remove it?",
+    "value": "我想你在我家里再放一张契约是个错误，可以把它拿掉吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/skath/default/0",
+    "raw": "Maybe I would be better off in the ocean...",
+    "value": "也许我最好还是去海边..."
+  },
+  {
+    "op": "replace",
+    "path": "/severe/skath/default/1",
+    "raw": "I miss Norkumsgath. I think I will return there..",
+    "value": "我想念Norkumsgath，我想我会回到那里。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/skath/default/2",
+    "raw": "I'm sorry Sir but these conditions aren't bearable for me.",
+    "value": "对不起，先生，这种情况我实在受不了。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/skath/default/3",
+    "raw": "Maybe I should move out. I don't like this place anymore.",
+    "value": "也许我该搬出去，我再也不喜欢这个地方了。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/skath/default/0",
+    "raw": "I'm ending my contract. I will leave.",
+    "value": "我要结束我的合同，我要离开。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/skath/default/1",
+    "raw": "I think I will return to a proper colony.",
+    "value": "我想我会回到一个合适的殖民地。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/skath/default/2",
+    "raw": "This isn't bearable for me anymore. I will move out.",
+    "value": "我再也受不了了，我要搬出去。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/skath/default/3",
+    "raw": "I'm contacting the Vanguard. Maybe they can provide me with a proper home.",
+    "value": "我正在联系、先锋，也许他们能给我提供一个合适的家。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/skath/default/4",
+    "raw": "I should have stayed on the other colony. Moving in here was a mistake.",
+    "value": "我应该待在另一个殖民地的，搬到这里来是个错误。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/skath/default/0",
+    "raw": "What can i fix you with?",
+    "value": "我能为你做点什么呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/skath/default/1",
+    "raw": "Can I help you with something?",
+    "value": "有什么需要帮助吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/skath/default/2",
+    "raw": "Greetings. Do you need me for anything?",
+    "value": "你好。你需要我做什么吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/skath/default/3",
+    "raw": "Is there anything I can do for you?",
+    "value": "我能为你做点什么吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/skath/default/4",
+    "raw": "Something on your mind?",
+    "value": "你在想什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/skath/default/0",
+    "raw": "Thank you for providing me with a proper home. Take this in exchange for your kindness.",
+    "value": "谢谢你给我提供了一个合适的家。拿着这个，作为你好心的回报。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/skath/default/1",
+    "raw": "Our kind needs more people like you. Please, accept this token of gratitude.",
+    "value": "我们需要更多像你这样的人。请接受这个表示感谢的礼物。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/skath/default/2",
+    "raw": "You have done a great job with this house. Please take this as a token of my gratitude..",
+    "value": "你把这房子装修得很好。请收下这个作为我感激的象征.."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/fenerox/default/0",
+    "raw": "Many goods. Wise choices.",
+    "value": "很多商品，明智的选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/fenerox/default/1",
+    "raw": "Great stuff. Come buy!",
+    "value": "好东西，来买吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/fenerox/default/2",
+    "raw": "Mutual exchange. My profits. Your happiness.",
+    "value": "相互交换。我的利润。你的幸福。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/fenerox/default/3",
+    "raw": "Buy something, get richer!",
+    "value": "买东西，变得更富有！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/fenerox/default/4",
+    "raw": "My wares. All yours. To peruse. Feeling excited!",
+    "value": "我的商品，都是你的了，去细品吧，感觉很兴奋！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/nightar/default/0",
+    "raw": "We have goods and thou hast much lucre on thine person. Surely we can make a trade to our profit.",
+    "value": "我们有货物，你本人也有许多财物。 我们当然可以做一笔交易来获取利润。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/nightar/default/1",
+    "raw": "Fine goods have I the likes thou hast never seen!",
+    "value": "我有你从未见过的好东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/nightar/default/2",
+    "raw": "Thou wouldst strike a deal?",
+    "value": "你要做交易吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fenerox/default/0",
+    "raw": "Lowered stock. Feeling richer.",
+    "value": "库存减少，感觉更有钱。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fenerox/default/1",
+    "raw": "Once broken, considered sold.",
+    "value": "一旦坏了，就被认为是卖掉了。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fenerox/default/2",
+    "raw": "Thank you, come again!",
+    "value": "谢谢，欢迎再来！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fenerox/default/3",
+    "raw": "Come again, soon?",
+    "value": "下次再来，GKD？"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fenerox/default/4",
+    "raw": "Many things, many more.",
+    "value": "很多东西，很多很多。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fenerox/default/5",
+    "raw": "But wait, there's more!",
+    "value": "但是等等，还有更多！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/nightar/default/0",
+    "raw": "Come again soon, my liege?",
+    "value": "下次再来吧，陛下？"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/nightar/default/1",
+    "raw": "Many things, many more will I have when thou returnest.",
+    "value": "当你回来的时候，我将拥有更多的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/nightar/default/2",
+    "raw": "But wait, there's more!",
+    "value": "但是等等，还有更多！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/nightar/default/3",
+    "raw": "Come around again, <entityname>!",
+    "value": "下次再来，<entityname>！"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/fenerox/default/0",
+    "raw": "Great bargains! Make deals.",
+    "value": "物超所值！做交易吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/fenerox/default/1",
+    "raw": "Visit shop? follow me.",
+    "value": "参观商店？跟我来。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/fenerox/default/2",
+    "raw": "Need something? this way, please.",
+    "value": "需要什么吗，这边请。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/nightar/default/0",
+    "raw": "Come with me my liege, for I have fine goods to show thee.",
+    "value": "跟我来吧，我的陛下，因为我有好东西给你看。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/nightar/default/1",
+    "raw": "Hast thou come to visit mine shop? follow me.",
+    "value": "你是来看我的商店的吗？跟我来。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/nightar/default/2",
+    "raw": "I am lief to do business with you, <entityname> Lightdweller.",
+    "value": "我有幸与你们做生意，<entityname>·光明居民。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/nightar/default/3",
+    "raw": "Need something? this way, I pray thee.",
+    "value": "需要什么吗？这边请。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/nightar/default/4",
+    "raw": "Right this way, my liege.",
+    "value": "这边请，陛下。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/nightar/default/5",
+    "raw": "Please follow me, I pray.",
+    "value": "请跟我来，拜托。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/fenerox/default/0",
+    "raw": "My store, your place!",
+    "value": "我的店，你的地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/fenerox/default/1",
+    "raw": "We're here! deal now?",
+    "value": "我们到了，成交吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/nightar/default/0",
+    "raw": "I bid thee welcome, <entityname>.",
+    "value": "我向你表示欢迎，<entityname>。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/nightar/default/1",
+    "raw": "What shall it be, Daydweller?",
+    "value": "这是什么呢，光明居民？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/nightar/default/2",
+    "raw": "Mayhap thou willst buy something now?",
+    "value": "你现在可以买点什么吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/nightar/default/3",
+    "raw": "Here we are, at the greatest store thou willst ever see, methinks.",
+    "value": "我想，我们就在这里，在你将看到的最伟大的商店里。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/nightar/nightar/0",
+    "raw": "I bid thee welcome, my liege.",
+    "value": "我向你表示欢迎，陛下。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/nightar/nightar/1",
+    "raw": "What shall it be, my liege?",
+    "value": "怎么样，陛下？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/nightar/nightar/2",
+    "raw": "Mayhap thou willst buy something now?",
+    "value": "你现在可以买点什么吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/nightar/nightar/3",
+    "raw": "Here we are, at the greatest store thou willst ever see, methinks.",
+    "value": "我想，我们就在这里，在你将看到的最伟大的商店里。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/nightar/shadow/0",
+    "raw": "I bid thee welcome, Darkdweller.",
+    "value": "我欢迎你，黑暗居民。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/nightar/shadow/1",
+    "raw": "What shall it be, Tenebhrae?",
+    "value": "怎么样，Tenebhrae？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/nightar/shadow/2",
+    "raw": "Mayhap thou willst buy something now?",
+    "value": "你现在可以买点什么吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/nightar/shadow/3",
+    "raw": "Here we are, at the greatest store thou willst ever see, methinks.",
+    "value": "我想，我们就在这里，在你将看到的最伟大的商店里。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/fenerox/default/0",
+    "raw": "Come buy, at <selfname>'s!",
+    "value": "到<selfname>的店里来买吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/fenerox/default/1",
+    "raw": "Good deals! great bargains! buy now, please?",
+    "value": "物美价廉！物超所值！现在就买，好吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/fenerox/default/2",
+    "raw": "Wide selections. Good prices. No regrets.",
+    "value": "广泛的选择。好价格。没有遗憾。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/fenerox/default/3",
+    "raw": "Buy something? Please? Big clan, big litters. Everyone's starving.",
+    "value": "买东西？求你了？大家族，大窝。每个人都在挨饿。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/default/0",
+    "raw": "Wares rare and fine here!",
+    "value": "这里的货真是稀世珍品！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/default/1",
+    "raw": "Needst thou fine goods at low prices? then get them here!",
+    "value": "你需要价廉物美的商品吗？那就到这儿来买吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/default/2",
+    "raw": "Thou there, Lightdweller! willst thou buy mine fine wares?",
+    "value": "你这个光明居民! 你愿意买我的精美物品吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/default/3",
+    "raw": "Oyez! oyez! come ye all and buy from <selfname>!",
+    "value": "好耶！ 注意！ 你们都过来，买<selfname>的东西吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/default/4",
+    "raw": "No bad deal shalt thou make in traffick with me!",
+    "value": "你不要跟我做不好的交易！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/default/5",
+    "raw": "Come one, come all; come around and buy!",
+    "value": "来吧，大家都来吧，过来买吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/sith/0",
+    "raw": "Wares rare and fine here!",
+    "value": "这里的货真是稀世珍品！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/sith/1",
+    "raw": "Needst thou fine goods at low prices? then get them here!",
+    "value": "你需要价廉物美的商品吗？那就到这儿来买吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/sith/2",
+    "raw": "Oyez! oyez! come ye all and buy from <selfname>!",
+    "value": "好耶！ 注意！ 你们都过来，买<selfname>的东西吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/sith/3",
+    "raw": "No bad deal shalt thou make in traffick with me!",
+    "value": "你不要跟我做不好的交易！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/sith/4",
+    "raw": "Come one, come all; come around and buy!",
+    "value": "来吧，大家都来吧，过来买吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/shadow/0",
+    "raw": "Wares rare and fine here!",
+    "value": "这里的货真是稀世珍品！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/shadow/1",
+    "raw": "Needst thou fine goods at low prices? then get them here!",
+    "value": "你需要价廉物美的商品吗？那就到这儿来买吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/shadow/2",
+    "raw": "Oyez! oyez! come ye all and buy from <selfname>!",
+    "value": "好耶！ 注意！ 你们都过来，买<selfname>的东西吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/shadow/3",
+    "raw": "No bad deal shalt thou make in traffick with me, Darkdweller!",
+    "value": "黑暗居民，你别想跟我做什么坏交易！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/shadow/4",
+    "raw": "Come one, come all; come around and buy!",
+    "value": "来吧，大家都来吧，过来买吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/nightar/0",
+    "raw": "Wares rare and fine here!",
+    "value": "这里的货真是稀世珍品！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/nightar/1",
+    "raw": "Needst thou fine goods at low prices? then get them here!",
+    "value": "你需要价廉物美的商品吗？那就到这儿来买吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/nightar/2",
+    "raw": "Oyez! oyez! come ye all and buy from <selfname>!",
+    "value": "好耶！ 注意！ 你们都过来，买<selfname>的东西吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/nightar/3",
+    "raw": "No bad deal shalt thou make in traffick with me, Nightar!",
+    "value": "不要跟我做什么坏交易，夜族人！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/nightar/nightar/4",
+    "raw": "Come one, come all; come around and buy!",
+    "value": "来吧，大家都来吧，过来买吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/nightar/default/0",
+    "raw": "Methinks that some of my stock was pilfered!",
+    "value": "小偷！抓住他们！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/nightar/default/1",
+    "raw": "Was it thou who recently stole something from me?",
+    "value": "是你最近偷了我的东西吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/nightar/default/2",
+    "raw": "I would urge thee to unhand what thou hast unjustly taken from mine shop!",
+    "value": "停下！你已经触犯了法律！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/fenerox/default/0",
+    "raw": "Hey, that's mine! no stealing! Not amused!",
+    "value": "嘿，那是我的，不许偷，不许开玩笑！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/fenerox/default/1",
+    "raw": "Shoplifting prohibited. Put back, now!",
+    "value": "禁止入店行窃，放回去，马上！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/fenerox/default/2",
+    "raw": "Stealing something? Guards, Guards!",
+    "value": "你偷了什么东西吗？守卫，守卫！"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/fenerox/default/0",
+    "raw": "Walls damaged. Stock spoiling. Please help!",
+    "value": "墙壁破损。库存变质。请帮忙！"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/fenerox/default/1",
+    "raw": "Shop damaged. Customers leaving. Please, fix. Now.",
+    "value": "店铺损坏，顾客离开，请马上修好。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/nightar/default/0",
+    "raw": "This is no good for commerce, my liege. We must needs repair the walls of mine store.",
+    "value": "这对商业没有好处，陛下。我们必须修理我商店的墙壁。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/fenerox/default/0",
+    "raw": "No competition, please. Remove Deed, now.",
+    "value": "不要竞争了，现在就把货物拿走。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/nightar/default/0",
+    "raw": "I will not brook any competition from a rival hawker in my very home!",
+    "value": "我不会容忍任何竞争对手的小贩在我的家！"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/fenerox/default/0",
+    "raw": "Business suffering. Crappy margins. Packing up. Must leave.",
+    "value": "生意不景气。利润微薄。收拾东西得走了。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/nightar/default/0",
+    "raw": "My liege, this is no good, I must soon take my leave of this place.",
+    "value": "陛下，这样不好，我必须马上离开这个地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/fenerox/default/0",
+    "raw": "Problems unsolved, profits plummeting. Feeling neglected. Closing up!",
+    "value": "问题未解决，利润直线下降，感觉被忽视，关门大吉！"
+  },
+  {
+    "op": "replace",
+    "path": "/final/nightar/default/0",
+    "raw": "It is clear that thou art prejudiced against mine designs, and I will have no more of it!",
+    "value": "很明显，你对我的图谋有偏见，我再也不会容忍了！"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fenerox/default/0",
+    "raw": "Welcome, strange person. Need something?",
+    "value": "欢迎，陌生人。需要什么吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fenerox/default/1",
+    "raw": "I'm here! make deals, yes?",
+    "value": "我在这儿，做交易，好吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fenerox/default/2",
+    "raw": "You called? buying something?",
+    "value": "你打电话？买东西吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/nightar/default/0",
+    "raw": "Here I am, my liege!",
+    "value": "我在这里，陛下！"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/nightar/default/1",
+    "raw": "How may I be of service to thee this moment?",
+    "value": "此时此刻，我能为你效劳吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/nightar/default/2",
+    "raw": "Hast thou the desire to acquire something, my liege?",
+    "value": "你有什么欲望吗，我的陛下？"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fenerox/default/0",
+    "raw": "What business! so profitable! here, your rent!",
+    "value": "什么生意！这么有利可图！给，你的房租！"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fenerox/default/1",
+    "raw": "Everything good. Excellent business. There, your cut.",
+    "value": "一切都很好，生意很好，这是你的那份。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/nightar/default/0",
+    "raw": "My trade has been lucrative, and thou deservest a part of the profits.",
+    "value": "我的生意很赚钱，你应该得到一部分利润。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/nightar/default/1",
+    "raw": "I am lief to share a part of my earnings with thee, my liege.",
+    "value": "我有幸与你分享我的一部分收入，我的陛下。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/nightar/default/2",
+    "raw": "There, my liege; here be thine most fair share of the spoils.",
+    "value": "那儿，我的陛下，这儿是你的战利品中最公平的一份。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/fumantizi/default/0",
+    "raw": "Many goods. Wise choices.",
+    "value": "很多商品，明智的选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/fumantizi/default/1",
+    "raw": "Great stuff. Come buy!",
+    "value": "好东西，来买吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/fumantizi/default/2",
+    "raw": "Cor blimey, another deal!",
+    "value": "哎呀，又一笔交易！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/fumantizi/default/3",
+    "raw": "Buy sumpin', get richer!",
+    "value": "购买奢侈品，变得更富有！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/fumantizi/default/4",
+    "raw": "Browse our wares!",
+    "value": "来浏览我们的商品！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/fumantizi/default/5",
+    "raw": "I've got what youse wants!",
+    "value": "我拿到你们要的东西了！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/fumantizi/default/6",
+    "raw": "How can I help youse, omie?",
+    "value": "有什么可以帮你的吗，奥米？"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/fumantizi/default/7",
+    "raw": "Let me know if youse needs anythin'.",
+    "value": "如果你们需要什么就告诉我。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/mantizi/default/0",
+    "raw": "Many goods. Wise choices.",
+    "value": "很多商品，明智的选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/mantizi/default/1",
+    "raw": "Great stuff. Come buy!",
+    "value": "好东西，来买吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/mantizi/default/2",
+    "raw": "Cor blimey, another deal!",
+    "value": "哎呀，又一笔交易！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/mantizi/default/3",
+    "raw": "Buy sumpin', get richer!",
+    "value": "购买奢侈品，变得更富有！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/mantizi/default/4",
+    "raw": "Browse our wares!",
+    "value": "来浏览我们的商品！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/mantizi/default/5",
+    "raw": "I've got what youse wants!",
+    "value": "我拿到你们要的东西了！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/mantizi/default/6",
+    "raw": "How can I help youse, omie?",
+    "value": "有什么可以帮你的吗，奥米？"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/mantizi/default/7",
+    "raw": "Let me know if youse needs anythin'.",
+    "value": "如果你们需要什么就告诉我。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fumantizi/default/0",
+    "raw": "Come again, soon?",
+    "value": "下次再来，GKD？"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fumantizi/default/1",
+    "raw": "Youse ain't gettin' no better deals than chez mine, y'know.",
+    "value": "你们不会得到比我家更好的交易，你知道的。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fumantizi/default/2",
+    "raw": "But wait, there's more!",
+    "value": "但是等等，还有更多！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fumantizi/default/3",
+    "raw": "See youse later, guv'.",
+    "value": "回头见，老大。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fumantizi/default/4",
+    "raw": "Don't be a stranger.",
+    "value": "不要像个陌生人。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fumantizi/default/5",
+    "raw": "Yes, yes, move along.",
+    "value": "是的，是的，继续。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fumantizi/default/6",
+    "raw": "Alright, friend, youse be a-holdin' up the line.",
+    "value": "好了，朋友，你们要坚持住。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fumantizi/default/7",
+    "raw": "Thankee fer the patronage, guv'.",
+    "value": "谢谢你的惠顾，长官。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/fumantizi/default/8",
+    "raw": "Yer bizzo was me pleasure!",
+    "value": "我很高兴见到你！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/mantizi/default/0",
+    "raw": "Come again, soon?",
+    "value": "下次再来，GKD？"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/mantizi/default/1",
+    "raw": "Youse ain't gettin' no better deals than chez mine, y'know.",
+    "value": "你们不会得到比我家更好的交易，你知道的。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/mantizi/default/2",
+    "raw": "But wait, there's more!",
+    "value": "但是等等，还有更多！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/mantizi/default/3",
+    "raw": "See youse later, guv'.",
+    "value": "回头见，老大。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/mantizi/default/4",
+    "raw": "Don't be a stranger.",
+    "value": "不要像个陌生人。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/mantizi/default/5",
+    "raw": "Yes, yes, move along.",
+    "value": "是的，是的，继续。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/mantizi/default/6",
+    "raw": "Alright, friend, youse be a-holdin' up the line.",
+    "value": "好了，朋友，你们要坚持住。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/mantizi/default/7",
+    "raw": "Thankee fer the patronage, guv'.",
+    "value": "谢谢你的惠顾，长官。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/mantizi/default/8",
+    "raw": "Yer bizzo was me pleasure!",
+    "value": "我很高兴见到你！"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/fumantizi/default/0",
+    "raw": "Great bargains! Make deals.",
+    "value": "物超所值！做交易吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/fumantizi/default/1",
+    "raw": "Visitin' a shop? follow me.",
+    "value": "去商店吗，跟我来。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/fumantizi/default/2",
+    "raw": "Need something? this way, please.",
+    "value": "需要什么吗，这边请。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/fumantizi/default/3",
+    "raw": "Right over here, me ol' cock sparrow.",
+    "value": "就在这里，我的老鸡麻雀。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/fumantizi/default/4",
+    "raw": "Why don't we just head on over to my shop?",
+    "value": "为什么我们不直接去我的商店呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/fumantizi/default/5",
+    "raw": "This way.",
+    "value": "这边。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/mantizi/default/0",
+    "raw": "Great bargains! Make deals.",
+    "value": "物超所值！做交易吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/mantizi/default/1",
+    "raw": "Visitin' a shop? follow me.",
+    "value": "去商店吗，跟我来。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/mantizi/default/2",
+    "raw": "Need something? this way, please.",
+    "value": "需要什么吗，这边请。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/mantizi/default/3",
+    "raw": "Right over here, me ol' cock sparrow.",
+    "value": "就在这里，我的老鸡麻雀。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/mantizi/default/4",
+    "raw": "Why don't we just head on over to my shop?",
+    "value": "为什么我们不直接去我的商店呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/mantizi/default/5",
+    "raw": "This way.",
+    "value": "这边。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/fumantizi/default/0",
+    "raw": "My store, yer place!",
+    "value": "我的店，你的地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/fumantizi/default/1",
+    "raw": "Me deals're so good, it'd be cuttin' me own thorax just lettin' youse in here.",
+    "value": "我的生意做得太好了，让你们进来，我的胸都要炸了。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/fumantizi/default/2",
+    "raw": "We're here! deal now?",
+    "value": "我们到了，成交吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/fumantizi/default/3",
+    "raw": "Here we are. What can I gets youse?",
+    "value": "到了，您要点什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/fumantizi/default/4",
+    "raw": "The good stuff is over here, guv'.",
+    "value": "好东西在这里，老大。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/fumantizi/default/5",
+    "raw": "Are the guards charpering? No? Good, let's get on with it!",
+    "value": "卫兵们在演戏吗？没有吗？很好，我们开始吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/mantizi/default/0",
+    "raw": "My store, yer place!",
+    "value": "我的店，你的地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/mantizi/default/1",
+    "raw": "Me deals're so good, it'd be cuttin' me own thorax just lettin' youse in here.",
+    "value": "我的生意做得太好了，让你们进来，我的胸都要炸了。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/mantizi/default/2",
+    "raw": "We're here! deal now?",
+    "value": "我们到了，成交吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/mantizi/default/3",
+    "raw": "Here we are. What can I gets youse?",
+    "value": "到了，您要点什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/mantizi/default/4",
+    "raw": "The good stuff is over here, guv'.",
+    "value": "好东西在这里，老大。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/mantizi/default/5",
+    "raw": "Are the guards charpering? No? Good, let's get on with it!",
+    "value": "卫兵们在演戏吗？没有吗？很好，我们开始吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/fumantizi/default/0",
+    "raw": "Come buy, at <selfname>'s!",
+    "value": "到<selfname>的店里来买吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/fumantizi/default/1",
+    "raw": "Good deals! great bargains! buy now, please?",
+    "value": "物美价廉！物超所值！现在就买，好吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/fumantizi/default/2",
+    "raw": "Wide selectios. Good prices. No regrets.",
+    "value": "广泛的选择。好价格。没有遗憾。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/fumantizi/default/3",
+    "raw": "Best deals, anywhere!",
+    "value": "最好的交易，绝对的！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/fumantizi/default/4",
+    "raw": "If I don't have it, youse won't be naffin' wantin' it.",
+    "value": "如果我没有它，你们就不会想要它。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/fumantizi/default/5",
+    "raw": "Imported at great cost!",
+    "value": "价格昂贵的进口货！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/fumantizi/default/6",
+    "raw": "Just got some new stock in!",
+    "value": "刚进了些新货！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/fumantizi/default/7",
+    "raw": "Masterworks all, youse can't go wrong.",
+    "value": "都是杰作，你不会错的。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/fumantizi/default/8",
+    "raw": "Spend yer hard-earned Pixels here!",
+    "value": "在这里花费你辛苦挣来的像素！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/fumantizi/default/9",
+    "raw": "Buy somethin' please? I've many gawdfers and we've nant in the Mother Hubbard.",
+    "value": "买点东西好吗？ 我看过很多傻瓜，我们也看过《哈伯德妈妈》。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/mantizi/default/0",
+    "raw": "Come buy, at <selfname>'s!",
+    "value": "到<selfname>的店里来买吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/mantizi/default/1",
+    "raw": "Good deals! great bargains! buy now, please?",
+    "value": "物美价廉！物超所值！现在就买，好吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/mantizi/default/2",
+    "raw": "Wide selectios. Good prices. No regrets.",
+    "value": "广泛的选择。好价格。没有遗憾。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/mantizi/default/3",
+    "raw": "Best deals, anywhere!",
+    "value": "最好的交易，绝对的！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/mantizi/default/4",
+    "raw": "If I don't have it, youse won't be naffin' wantin' it.",
+    "value": "如果我没有它，你们就不会想要它。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/mantizi/default/5",
+    "raw": "Imported at great cost!",
+    "value": "价格昂贵的进口货！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/mantizi/default/6",
+    "raw": "Just got some new stock in!",
+    "value": "刚进了些新货！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/mantizi/default/7",
+    "raw": "Masterworks all, youse can't go wrong.",
+    "value": "都是杰作，你不会错的。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/mantizi/default/8",
+    "raw": "Spend yer hard-earned Pixels here!",
+    "value": "在这里花费你辛苦挣来的像素！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/mantizi/default/9",
+    "raw": "Buy somethin' please? I've many gawdfers and we've nant in the Mother Hubbard.",
+    "value": "买点东西好吗？ 我看过很多傻瓜，我们也看过《哈伯德妈妈》。"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/fumantizi/default/0",
+    "raw": "Hey, did youse just shush something from my shop? put it back!",
+    "value": "嘿，你们刚才是不是从我的店里嘘了什么东西？放回去！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/fumantizi/default/1",
+    "raw": "Shoplifting is prohibited. Put it back, now!",
+    "value": "入店行窃是被禁止的，把它放回去，现在！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/fumantizi/default/2",
+    "raw": "Keep yer shushin' lills off my stock!",
+    "value": "让你的谎言远离我的存货！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/fumantizi/default/3",
+    "raw": "Keeps yer lills to yerself!",
+    "value": "让你的灵魂永远属于你！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/fumantizi/default/4",
+    "raw": "I saw that, mate, so youse better unhand whatever youse just nicked there!",
+    "value": "我看到了，伙计，所以你最好把刚才偷的东西放下！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/mantizi/default/0",
+    "raw": "Hey, did youse just shush something from my shop? put it back!",
+    "value": "嘿，你们刚才是不是从我的店里嘘了什么东西？放回去！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/mantizi/default/1",
+    "raw": "Shoplifting is prohibited. Put it back, now!",
+    "value": "入店行窃是被禁止的，把它放回去，现在！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/mantizi/default/2",
+    "raw": "Keep yer shushin' lills off my stock!",
+    "value": "让你的谎言远离我的存货！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/mantizi/default/3",
+    "raw": "Keeps yer lills to yerself!",
+    "value": "让你的灵魂永远属于你！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/mantizi/default/4",
+    "raw": "I saw that, mate, so youse better unhand whatever youse just nicked there!",
+    "value": "我看到了，伙计，所以你最好把刚才偷的东西放下！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/shadow/default/0",
+    "raw": "...!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/fumantizi/default/0",
+    "raw": "This Pope's completely busted. Can youse sort it out soon?",
+    "value": "这个教皇完全崩溃了，你们能尽快解决吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/fumantizi/default/1",
+    "raw": "There's a meese hole in the walls. I can't sell a thing unless youse patches it back up.",
+    "value": "墙上有一个密封的洞。除非你们修补好，否则我什么都卖不出去。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/fumantizi/default/2",
+    "raw": "Having this shop damaged is keeping the measures from coming in. I'd like youse to take care of it.",
+    "value": "由于这家商店被损坏，这些货物无法进来。我希望你们能处理这件事。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/mantizi/default/0",
+    "raw": "This Pope's completely busted. Can youse sort it out soon?",
+    "value": "这个教皇完全崩溃了，你们能尽快解决吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/mantizi/default/1",
+    "raw": "There's a meese hole in the walls. I can't sell a thing unless youse patches it back up.",
+    "value": "墙上有一个密封的洞。除非你们修补好，否则我什么都卖不出去。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/mantizi/default/2",
+    "raw": "Having this shop damaged is keeping the measures from coming in. I'd like youse to take care of it.",
+    "value": "由于这家商店被损坏，这些货物无法进来。我希望你们能处理这件事。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/shadow/default/0",
+    "raw": "...!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/fumantizi/default/0",
+    "raw": "I thought this hopping was single tenancy only? either he goes or I go.",
+    "value": "我还以为这次跳楼的只是单一租户呢？要么他走，要么我走。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/fumantizi/default/1",
+    "raw": "I'm not sharing my lot with another omie who I can't trust.",
+    "value": "我不会再和一个我不能信任的人分享我的命运。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/fumantizi/default/2",
+    "raw": "No competition, please. Get the other bugger begone.",
+    "value": "没有竞争，请。让另一个家伙滚开。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/mantizi/default/0",
+    "raw": "I thought this hopping was single tenancy only? either he goes or I go.",
+    "value": "我还以为这次跳楼的只是单一租户呢？要么他走，要么我走。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/mantizi/default/1",
+    "raw": "I'm not sharing my lot with another omie who I can't trust.",
+    "value": "我不会再和一个我不能信任的人分享我的命运。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/mantizi/default/2",
+    "raw": "No competition, please. Get the other bugger begone.",
+    "value": "没有竞争，请。让另一个家伙滚开。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/shadow/default/0",
+    "raw": "...!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/severe/fumantizi/default/0",
+    "raw": "I told youse to repair this flamin' lot, yet youse ain't done a single thing.",
+    "value": "我告诉过你们要修好这堆烂东西，你们却什么也没做。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/fumantizi/default/1",
+    "raw": "Better fix things up, I'm almost hearts and won't pay youse soon.",
+    "value": "最好把事情处理好，我没闲心，不会很快付钱给你们。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/shadow/default/0",
+    "raw": "!!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/severe/mantizi/default/0",
+    "raw": "I told youse to repair this flamin' lot, yet youse ain't done a single thing.",
+    "value": "我告诉过你们要修好这堆烂东西，你们却什么也没做。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/mantizi/default/1",
+    "raw": "Better fix things up, I'm almost hearts and won't pay youse soon.",
+    "value": "最好把事情处理好，我没闲心，不会很快付钱给你们。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/fumantizi/default/0",
+    "raw": "This stall's a goner. Time to go charper for another.",
+    "value": "这个摊位快没戏了，是时候再来一个了。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/fumantizi/default/1",
+    "raw": "Let's cut youse a deal, Elephant. Youse ain't fixin' things, I won't be stayin'. Fair enough Guv?",
+    "value": "我们来做个交易吧，大象。你们不能收拾东西，我不能留下。够公平了吧，头儿？"
+  },
+  {
+    "op": "replace",
+    "path": "/final/fumantizi/default/2",
+    "raw": "It'll be good to be back on the frog after what youse put me through!",
+    "value": "在你们让我经历了那么多之后，回到青蛙身边真是太好了！"
+  },
+  {
+    "op": "replace",
+    "path": "/final/fumantizi/default/3",
+    "raw": "That's it, Gordon. Time to pack and scarper for good!",
+    "value": "够了，戈登。是时候收拾行李永远离开了！"
+  },
+  {
+    "op": "replace",
+    "path": "/final/mantizi/default/0",
+    "raw": "This stall's a goner. Time to go charper for another.",
+    "value": "这个摊位快没戏了，是时候再来一个了。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/mantizi/default/1",
+    "raw": "Let's cut youse a deal, Elephant. Youse ain't fixin' things, I won't be stayin'. Fair enough Guv?",
+    "value": "我们来做个交易吧，大象。你们不能收拾东西，我不能留下。够公平了吧，头儿？"
+  },
+  {
+    "op": "replace",
+    "path": "/final/mantizi/default/2",
+    "raw": "It'll be good to be back on the frog after what youse put me through!",
+    "value": "在你们让我经历了那么多之后，回到青蛙身边真是太好了！"
+  },
+  {
+    "op": "replace",
+    "path": "/final/mantizi/default/3",
+    "raw": "That's it, Gordon. Time to pack and scarper for good!",
+    "value": "够了，戈登。是时候收拾行李永远离开了！"
+  },
+  {
+    "op": "replace",
+    "path": "/final/shadow/default/0",
+    "raw": "!!!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fumantizi/default/0",
+    "raw": "Hola mate! need somethin'?",
+    "value": "你好，需要什么吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fumantizi/default/1",
+    "raw": "Youse called? I'm here, let's get to jawin' shop now!",
+    "value": "你叫我？我在这儿，我们现在就去招呼店吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/mantizi/default/0",
+    "raw": "Hola mate! need somethin'?",
+    "value": "你好，需要什么吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/mantizi/default/1",
+    "raw": "Youse called? I'm here, let's get to jawin' shop now!",
+    "value": "你叫我？我在这儿，我们现在就去招呼店吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fumantizi/default/0",
+    "raw": "Guv', here's the Burton  -- er, the rent. Now, get yet bleedin' Khyber outta 'ere.",
+    "value": "老爹，这是伯顿的房租。 ——额，现在，赶快离开这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fumantizi/default/1",
+    "raw": "Everything's gone nowt but dolly, I thinks that youse oughta 'ave sumthin.",
+    "value": "什么都没有了，除了多莉，我认为你们应该拥有一些东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fumantizi/default/2",
+    "raw": "I'm bleeding scratch so far, Guv. Take what youse likes from the jack.",
+    "value": "我已经受够了，老爹，你想拿什么就拿什么吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fumantizi/default/3",
+    "raw": "There, yer cut Guv', fair and square.",
+    "value": "好了，你们这些家伙，光明正大的。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/mantizi/default/0",
+    "raw": "Guv', here's the Burton  -- er, the rent. Now, get yet bleedin' Khyber outta 'ere.",
+    "value": "老爹，这是伯顿的房租。 ——额，现在，赶快离开这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/mantizi/default/1",
+    "raw": "Everything's gone nowt but dolly, I thinks that youse oughta 'ave sumthin.",
+    "value": "什么都没有了，除了多莉，我认为你们应该拥有一些东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/mantizi/default/2",
+    "raw": "I'm bleeding scratch so far, Guv. Take what youse likes from the jack.",
+    "value": "我已经受够了，老爹，你想拿什么就拿什么吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/mantizi/default/3",
+    "raw": "There, yer cut Guv', fair and square.",
+    "value": "好了，你们这些家伙，光明正大的。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/shadow/default/0",
+    "raw": "Your grace is noted.",
+    "value": "您的恩典已记录在案。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/felin/default/0",
+    "raw": "Stuff for sale!",
+    "value": "货品待售！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/felin/default/1",
+    "raw": "Anybody need anything?",
+    "value": "有人需要什么吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/felin/default/2",
+    "raw": "Good stuff here!",
+    "value": "这里有好东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/felin/default/0",
+    "raw": "See ya!",
+    "value": "再见！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/felin/default/1",
+    "raw": "Don't be a stranger!",
+    "value": "不要像个陌生人！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/felin/default/2",
+    "raw": "Your Pixels are always good here.",
+    "value": "你的像素在这里总是很好。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/felin/default/3",
+    "raw": "Pleasure doing business with you!",
+    "value": "很高兴和你做生意！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/felin/default/4",
+    "raw": "Thanks for visiting my store.",
+    "value": "谢谢光临我的店。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/felin/default/5",
+    "raw": "Great to see you!",
+    "value": "很高兴见到你！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/felin/default/6",
+    "raw": "Let's do business again.",
+    "value": "我们再做生意吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/felin/default/0",
+    "raw": "Follow me to my store, please.",
+    "value": "请跟我到我的店里去。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/felin/default/1",
+    "raw": "The best prices around, just if you please to come with me.",
+    "value": "最好的价格在附近，只要你愿意跟我来。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/felin/default/2",
+    "raw": "I can show the merchandise in my store.",
+    "value": "我可以在我的商店里展示商品。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/felin/default/0",
+    "raw": "Does anything catch your eyes?",
+    "value": "有什么吸引你的眼球吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/felin/default/1",
+    "raw": "What you wish to buy? If you wish to buy...",
+    "value": "你想买什么？如果你想买..."
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/felin/default/2",
+    "raw": "I got everything that can help you in anything.",
+    "value": "我有一切能帮你的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/default/0",
+    "raw": "I got the best goods!",
+    "value": "我得到了最好的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/default/1",
+    "raw": "If you can't find it here... it's not for sale here.",
+    "value": "如果你在这里找不到...这里不卖。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/default/2",
+    "raw": "Best deals around!",
+    "value": "最划算的交易！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/default/3",
+    "raw": "Interested in brand new goods?",
+    "value": "对全新的商品感兴趣？"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/apex/0",
+    "raw": "I got the best goods!",
+    "value": "我得到了最好的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/apex/1",
+    "raw": "If you can't find it here... it's not for sale here.",
+    "value": "如果你在这里找不到...这里不卖。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/apex/2",
+    "raw": "Interested in brand new goods?",
+    "value": "对全新的商品感兴趣？"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/apex/3",
+    "raw": "What? Tracking device? Why should it have one?",
+    "value": "什么？跟踪装置？为什么要有？"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/floran/0",
+    "raw": "I got the best goods!",
+    "value": "我得到了最好的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/floran/1",
+    "raw": "If you can't find it here... it's not for sale here.",
+    "value": "如果你在这里找不到...这里不卖。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/floran/2",
+    "raw": "Interested in brand new goods?",
+    "value": "对全新的商品感兴趣？"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/floran/3",
+    "raw": "I got stuff that help you flower-flourish I meant.",
+    "value": "我的意思是，我有东西可以帮助你开花。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/felin/0",
+    "raw": "I got the best goods!",
+    "value": "我得到了最好的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/felin/1",
+    "raw": "If you can't find it here... it's not for sale here.",
+    "value": "如果你在这里找不到...这里不卖。"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/felin/2",
+    "raw": "Interested in brand new goods?",
+    "value": "对全新的商品感兴趣？"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/felin/3",
+    "raw": "Need some help in your hunt?",
+    "value": "需要帮忙狩猎吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/felin/felin/4",
+    "raw": "Anything I can help with, Hunter?",
+    "value": "有什么我能帮忙的吗，猎人？"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/shadow/default/0",
+    "raw": "...!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/shadow/shadow/0",
+    "raw": "Welcome to my store.",
+    "value": "欢迎光临我的店。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/shadow/shadow/1",
+    "raw": "You know you want to buy everything!",
+    "value": "你知道你什么都想买！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/shadow/shadow/2",
+    "raw": "A customer!",
+    "value": "一个顾客！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/shadow/shadow/3",
+    "raw": "Welcome, spacefarer, to my humble store!",
+    "value": "欢迎，航天员，来到我卑微的商店！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/shadow/nightar/0",
+    "raw": "Welcome to my store.",
+    "value": "欢迎光临我的店。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/shadow/nightar/1",
+    "raw": "You know you want to buy everything!",
+    "value": "你知道你什么都想买！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/shadow/nightar/2",
+    "raw": "A customer!",
+    "value": "一个顾客！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/shadow/nightar/3",
+    "raw": "Welcome, spacefarer, to my humble store!",
+    "value": "欢迎，航天员，来到我卑微的商店！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/default/0",
+    "raw": "...?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/nightar/0",
+    "raw": "If you can't find it here... it's not for sale anywhere else.",
+    "value": "如果你在这里找不到...那么它就不会在其他地方出售。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/nightar/1",
+    "raw": "If you need me, I'll be lurking here",
+    "value": "如果你需要我，我就在这里"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/nightar/2",
+    "raw": "Come around again, <entityname>.",
+    "value": "再来一次，<entityname>。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/nightar/3",
+    "raw": "Your Pixels are always good here.",
+    "value": "你的像素在这里总是很好。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/nightar/4",
+    "raw": "Pleasure doing business with you!",
+    "value": "很高兴和你做生意！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/nightar/5",
+    "raw": "Thanks for visiting my store.",
+    "value": "谢谢光临我的店。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/nightar/6",
+    "raw": "Great to see you!",
+    "value": "很高兴见到你！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/nightar/7",
+    "raw": "Let's do business again.",
+    "value": "我们再做生意吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/shadow/0",
+    "raw": "If you can't find it here... it's not for sale anywhere else.",
+    "value": "如果你在这里找不到...那么它就不会在其他地方出售。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/shadow/1",
+    "raw": "If you need me, I'll be lurking here",
+    "value": "如果你需要我，我就在这里"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/shadow/2",
+    "raw": "Come around again, <entityname>.",
+    "value": "再来一次，<entityname>。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/shadow/3",
+    "raw": "Your Pixels are always good here.",
+    "value": "你的像素在这里总是很好。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/shadow/4",
+    "raw": "Pleasure doing business with you!",
+    "value": "很高兴和你做生意！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/shadow/5",
+    "raw": "Thanks for visiting my store.",
+    "value": "谢谢光临我的店。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/shadow/6",
+    "raw": "Great to see you!",
+    "value": "很高兴见到你！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/shadow/shadow/7",
+    "raw": "Let's do business again.",
+    "value": "我们再做生意吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/shadow/default/0",
+    "raw": "...!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/follow/shadow/nightar/0",
+    "raw": "Right this way.",
+    "value": "这边请。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/shadow/nightar/1",
+    "raw": "Please follow me.",
+    "value": "请跟我来。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/shadow/nightar/2",
+    "raw": "Come with me.",
+    "value": "跟我来。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/shadow/shadow/0",
+    "raw": "Right this way.",
+    "value": "这边请。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/shadow/shadow/1",
+    "raw": "Please follow me.",
+    "value": "请跟我来。"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/shadow/shadow/2",
+    "raw": "Come with me.",
+    "value": "跟我来。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/shadow/nightar/0",
+    "raw": "Here we are. What can I get you?",
+    "value": "我们到了，您要点什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/shadow/nightar/1",
+    "raw": "The good stuff is over here.",
+    "value": "好东西在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/shadow/shadow/0",
+    "raw": "Here we are. What can I get you?",
+    "value": "我们到了，您要点什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/shadow/shadow/1",
+    "raw": "The good stuff is over here.",
+    "value": "好东西在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/shadow/shadow/2",
+    "raw": "Are the guards looking? No? Good.",
+    "value": "警卫在看吗？没有？很好。"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/shadow/default/0",
+    "raw": "...!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/tout/shadow/shadow/0",
+    "raw": "I got the best goods!",
+    "value": "我得到了最好的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/shadow/shadow/1",
+    "raw": "Best deals around!",
+    "value": "最划算的交易！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/shadow/shadow/2",
+    "raw": "Interested in brand new goods?",
+    "value": "对全新的商品感兴趣？"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/shadow/nightar/0",
+    "raw": "I got the best goods!",
+    "value": "我得到了最好的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/shadow/nightar/1",
+    "raw": "Best deals around!",
+    "value": "最划算的交易！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/shadow/nightar/2",
+    "raw": "Interested in brand new goods?",
+    "value": "对全新的商品感兴趣？"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/shadow/default/0",
+    "raw": "...!",
+    "value": ""
+  }
+]

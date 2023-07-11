@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that resists the Physical element.\n^cyan;+10% Physical & Knockback Res.^reset;.",
+    "value": "一个能够抵抗物理元素的EPP模块。\n^cyan;+10%物理&击退抗性+10%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Physical Barrier",
+    "value": "EPP模块（物理屏障）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Physical Barrier",
+    "value": "EPP模块（物理屏障）"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A super strong chain of ancient origin.\n^green;Extractable^reset;.",
+    "value": "来源于古时，非常坚固的链子。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Chain",
+    "value": "先驱链条"
+  }
+]

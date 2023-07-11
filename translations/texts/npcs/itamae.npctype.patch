@@ -1,0 +1,92 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "raw": "  Itamae",
+    "value": "  板前"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Fish serving fish? Weird.",
+    "value": "  鱼做鱼料理？真奇怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "raw": "Greetings. What can I make for you today?",
+    "value": "你好。今天想吃点什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1",
+    "raw": "All of our ingredients are locally grown and raised.",
+    "value": "我们所有的原料都是本地种植和养殖的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2",
+    "raw": "Please take your time in choosing.",
+    "value": "请精挑慢选。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/hyltol/default/0",
+    "raw": "Greetings. What can I make for you today?",
+    "value": "你好。今天想吃点什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/hyltol/default/1",
+    "raw": "All of our ingredients are locally grown and raised.",
+    "value": "我们所有的原料都是本地种植和养殖的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/hyltol/default/2",
+    "raw": "Please take your time in choosing.",
+    "value": "请精挑慢选。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+    "raw": "Right this way, if you please.",
+    "value": "请这边走。如果你愿意的话。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
+    "raw": "I can serve you right over here.",
+    "value": "我能在这里为你服务。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
+    "raw": "What can I start you off with today?",
+    "value": "我今天先给你做点什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/hylotl/default/0",
+    "raw": "Right this way, if you please.",
+    "value": "请这边走。如果你愿意的话。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/hylotl/default/1",
+    "raw": "I can serve you right over here.",
+    "value": "我能在这里为你服务。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/hylotl/default/2",
+    "raw": "What can I start you off with today?",
+    "value": "我今天先给你做点什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "raw": "I hope you've had an enjoyable experience.",
+    "value": "我希望你有一次愉快的经历。"
+  }
+]

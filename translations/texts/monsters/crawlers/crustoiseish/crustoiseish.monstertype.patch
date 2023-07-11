@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alpha Crustoise",
+    "value": "岩壳刺猬·阿尔法"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An erratic offshoot of the common crustoise.",
+    "value": "岩壳刺猬的一个不稳定变体。"
+  }
+]

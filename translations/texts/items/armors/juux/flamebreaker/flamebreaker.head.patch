@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stormbreakers are responsible for collecting charged gems from the surface.",
+    "value": "风暴克星负责从地表收集带电的宝石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stormbreaker Helmet",
+    "value": "风暴克星头盔"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Charged impact hammer.\n^cyan;Breaks blocks^reset;",
+    "value": "充能冲击锤。\n^cyan;破坏方块^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Striker",
+    "value": "宇宙打击者"
+  }
+]

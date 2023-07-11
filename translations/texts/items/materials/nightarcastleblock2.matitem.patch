@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mysterious Castle Blocks.",
+    "value": "神秘的城堡方块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Castle Block",
+    "value": "夜族城堡砖块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. Mysterious Castle Blocks.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Myssteriouss  Blocksss.",
+    "value": "神秘的方块块块。"
+  }
+]

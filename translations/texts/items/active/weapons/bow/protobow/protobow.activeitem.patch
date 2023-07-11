@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Made of protocite and other high quality materials.",
+    "value": "用原体矿和其他高等材料制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protocite Bow",
+    "value": "原体弓"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Energy Blast",
+    "value": "能量爆裂"
+  }
+]

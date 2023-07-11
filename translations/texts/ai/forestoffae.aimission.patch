@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "I've discovered a nefarious cultist plot to corrupt an ancient forest. It's up to me to stop them! I've been advised that a grappling hook will be necessary to complete this mission, so I should get one before I go.",
+    "value": "我发现邪教徒正在密谋腐化古老的仙灵之森，而我将阻止它们的恶行。另外为了完成任务，我得准备好抓钩，它是这项任务的必要装备，所以如果我还没有的话，那么我应该在出发前制作一个。"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Forest of Fae (5)",
+    "value": "仙灵之森(5)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Forest of Fae (5) (R)",
+    "value": "重新挑战仙灵之森(5)"
+  }
+]

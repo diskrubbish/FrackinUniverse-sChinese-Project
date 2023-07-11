@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The blueprints for potent Floran armour.",
+    "value": "叶族强力盔甲的蓝图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Floran Schematics (Power)",
+    "value": "叶族盔甲架构图(力量)"
+  }
+]

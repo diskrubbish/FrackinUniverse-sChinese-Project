@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fill enemies with chemicals, without the annoyance of laws interfering with scientific progress.",
+    "value": "向敌人注入化学物质。没有法律的阻碍，科学的进展就不会受到干扰。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poison Injector",
+    "value": "毒素注射器"
+  }
+]

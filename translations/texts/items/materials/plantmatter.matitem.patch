@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block made of packed plant matter.\n^green;Extractable^reset;.",
+    "value": "用大量植物组织做成的方块。\n^green;可萃取^reset;。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crystalling impact weapon.",
+    "value": "由月晶制成的锤子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Hammer",
+    "value": "月晶锤"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Effigiflora",
+    "value": "火精灵曼陀罗"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Will harass you to death. Phases dimensions when murdered.",
+    "value": "会把你折磨至死。死因是周围的相位扭曲。"
+  }
+]

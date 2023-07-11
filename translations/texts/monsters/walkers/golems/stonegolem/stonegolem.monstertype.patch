@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stone Brute",
+    "value": "岩石魔像"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rolling around, being awesome.",
+    "value": "滚来滚去，来去风流。"
+  }
+]

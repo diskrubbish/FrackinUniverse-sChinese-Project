@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mammalian cells define this gene.",
+    "value": "一些哺乳动物的细胞基因。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mammalian",
+    "value": "哺乳类基因"
+  }
+]

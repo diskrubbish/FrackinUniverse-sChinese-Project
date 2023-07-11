@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This might in some way be related to fire.\n^yellow;Inflicts burning^reset;\n^green;Awesome^reset;",
+    "value": "或许它在某种程度上与火有关。\n^cyan;附加燃烧效果^reset;\n^green;真棒！^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hellfire Ejector",
+    "value": "地狱火喷射器"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hides your secret identity.",
+    "value": "隐藏你的秘密身份。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hero Cowl",
+    "value": "英雄斗篷"
+  }
+]

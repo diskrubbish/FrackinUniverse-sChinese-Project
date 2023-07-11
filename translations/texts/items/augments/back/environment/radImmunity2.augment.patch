@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that repels extreme varieties of radiation, including radiation burn.\n^cyan;Immune: Extreme Radiation\n^green;+15% Rad Resistance.^reset;",
+    "value": "一个能够抵御极端种类的辐射的EPP模块，还包括抵御辐射烧伤。\n^cyan;免疫: 极端辐射^reset;\n^cyan;+15^reset;%辐射抗性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Radiation Shield II",
+    "value": "EPP模块（辐射护盾 II）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Radiation Shield II",
+    "value": "EPP模块（辐射护盾 II）"
+  }
+]

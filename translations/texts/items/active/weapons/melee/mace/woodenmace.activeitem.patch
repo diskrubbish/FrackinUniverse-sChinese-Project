@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's a piece of wood. You whack things with it.",
+    "value": "一块木头，你用它来敲打东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wooden Club",
+    "value": "木制棍棒"
+  }
+]

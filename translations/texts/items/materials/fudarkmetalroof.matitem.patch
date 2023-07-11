@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy metallic roof.",
+    "value": "坚固的金属屋顶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dark Metal Roofing",
+    "value": "暗色金属屋顶"
+  }
+]

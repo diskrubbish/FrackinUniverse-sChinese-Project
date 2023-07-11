@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "+^green;10^reset;% Pistol Mastery\n+^green;10^reset;% Sniper Mastery  \nEnergy x^green;1.15^reset;\n^orange;Glow in the Dark^reset;",
+    "value": "+^green;10^reset;%手枪专精\n+^green;10^reset;%狙击枪专精\n能量x^green;1.15^reset;\n^orange;在黑暗中发光^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "The Dawn Sigil",
+    "value": "黎明徽记"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "The Dawn Sigil",
+    "value": "黎明徽记"
+  }
+]

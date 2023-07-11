@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "A band of Apex rebels is dealing with a hostage situation with the Miniknog on a far-off world. I could go over and try to help them with their problem.",
+    "value": "在一颗遥远行星上，猿族反抗军正在苦恼于被科学发展部绑架人质的麻烦，或许我可以帮助他们解决问题。"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Snow Crash (4)",
+    "value": "雪崩行动(4)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Snow Crash (4) (R)",
+    "value": "重新挑战雪崩行动(4)"
+  }
+]

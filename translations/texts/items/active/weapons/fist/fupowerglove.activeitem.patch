@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "All the tech since 1989 still couldn't save this travesty.",
+    "value": "就算是1989年之后的所有科技都无法拯救这坨翔一样的游戏外设。\n^blue;译注：你最好离这坨屎有多远就走多远——詹姆斯.罗弗(喷神James)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Power Glove",
+    "value": "能量手套"
+  }
+]

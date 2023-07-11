@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Adult Poptop",
+    "value": "成年吐舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's huge...",
+    "value": "这么大只..."
+  }
+]

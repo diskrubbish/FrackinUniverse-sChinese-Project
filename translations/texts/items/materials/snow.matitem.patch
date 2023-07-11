@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Soft and fluffy snow.\n^green;Extractable^reset;.",
+    "value": "松软的雪块。\n^green;可萃取^reset;。"
+  }
+]

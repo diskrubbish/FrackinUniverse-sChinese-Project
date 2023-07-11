@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/title",
+    "raw": "^orange;Snowperson Printer^reset;",
+    "value": "^orange;雪人打印机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/windowtitle/subtitle",
+    "raw": "Turn snow into friends!",
+    "value": "堆个雪人朋友吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "raw": "Assemble",
+    "value": "制作"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnStopCraft/caption",
+    "raw": "Stop",
+    "value": "停止"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/tbSpinCount/regex",
+    "raw": "x?\\d{0,4}",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProduct/value",
+    "raw": "MATERIALS AVAILABLE",
+    "value": "可用材料"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/filter/hint",
+    "raw": "Search",
+    "value": "搜索"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This hat is a jack of all trades! Not really sure what those trades are though.",
+    "value": "这顶帽子是各行各业的杰克！虽然还不太确定这些交易到底是什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Omnix Hat",
+    "value": "奥米菲狐帽"
+  }
+]

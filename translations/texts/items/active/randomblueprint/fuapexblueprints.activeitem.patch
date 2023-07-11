@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The blueprints for sturdy Apex armour.",
+    "value": "猿族坚固盔甲的蓝图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apex Schematics (Health)",
+    "value": "猿族盔甲架构图(生命)"
+  }
+]

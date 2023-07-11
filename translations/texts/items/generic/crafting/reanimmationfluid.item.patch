@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Able to revive dead flesh with the help of a proper catalyst.",
+    "value": "能够在适当的催化剂的帮助下复活死肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Reanimation Fluid",
+    "value": "复苏流体"
+  }
+]

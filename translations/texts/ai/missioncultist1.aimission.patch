@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "The Dantalion (6)",
+    "value": "旃塔霖(6)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Revisit The Dantalion (6)",
+    "value": "重新挑战大君王神庙副本(5)"
+  }
+]

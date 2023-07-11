@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bandraflora",
+    "value": "毒药曼陀罗"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It loves spewing out annoying little buggers.",
+    "value": "它喜欢吐出讨厌的小玩意。"
+  }
+]

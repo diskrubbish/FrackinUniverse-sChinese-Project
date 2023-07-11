@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A very nice sword in very poor condition.",
+    "value": "这本该是一柄很好的剑，但是它现在情况不太妙。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Broken Nightar Saber",
+    "value": "破损的夜族军刀"
+  }
+]

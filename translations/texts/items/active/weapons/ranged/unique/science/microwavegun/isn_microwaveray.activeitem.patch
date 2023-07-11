@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires waves of sound that look spiffy!\n^yellow;It's okay I guess^reset;\n^green;You might like it?^reset;",
+    "value": "发出看上去很厉害的音浪！\n^yellow;相当棒的武器^reset;\n^green;你到底喜不喜欢？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sonic Cannon",
+    "value": "声波炮"
+  }
+]

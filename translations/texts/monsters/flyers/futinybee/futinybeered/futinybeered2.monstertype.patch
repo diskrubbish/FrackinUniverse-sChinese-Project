@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Giant Bee",
+    "value": "巨型蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Don't touch the point end.",
+    "value": "不要触碰终点。"
+  }
+]

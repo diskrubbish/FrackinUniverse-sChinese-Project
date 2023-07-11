@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Twice as much sun protection for your eyes!",
+    "value": "双倍防晒镜片，保护你的眼睛！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peglaci Sunglasses",
+    "value": "羊蹄族太阳镜"
+  }
+]

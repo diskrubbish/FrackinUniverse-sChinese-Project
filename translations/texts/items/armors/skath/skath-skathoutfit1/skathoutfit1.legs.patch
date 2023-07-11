@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "They're longer than your average shorts.",
+    "value": "比一般的短裤要长。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skathian Shorts",
+    "value": "绘世者短裤"
+  }
+]

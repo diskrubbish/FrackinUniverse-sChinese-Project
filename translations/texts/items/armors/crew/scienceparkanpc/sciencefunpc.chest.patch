@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Capable of withstanding the harshest cold.",
+    "value": "能够承受最严酷的寒冷。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Arctic Parka",
+    "value": "北极皮衣"
+  }
+]

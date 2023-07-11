@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Quite heavy, but also quite sharp.",
+    "value": "很重，但也很锋利。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tungsten Greataxe",
+    "value": "钨制巨斧"
+  }
+]

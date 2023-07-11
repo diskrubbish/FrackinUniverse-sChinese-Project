@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bite sized delicious gelatin-pastery combination!.",
+    "value": "一口就能吞的美味的明胶加上糊状物！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gummi Cupcake",
+    "value": "咕米杯子蛋糕"
+  }
+]

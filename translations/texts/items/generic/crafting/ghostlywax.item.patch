@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exspiravit Wax",
+    "value": "幻灵蜡"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chunk of semi transparent, white-hued wax. Known to be a potent hallucinogen.",
+    "value": "一块半透明的白色蜡块，是种强效迷幻剂。"
+  }
+]

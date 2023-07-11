@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rough, unrefined gritstone.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "一些未处理的砂岩。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Unrefined Gritstone",
+    "value": "未处理的砂岩"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Gritstone.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssstonne.",
+    "value": "石石石头。"
+  }
+]

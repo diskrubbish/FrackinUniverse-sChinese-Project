@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Made from the same springy substance as the real thing!",
+    "value": "由和实物相同的弹性物质制成！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gleap Mask",
+    "value": "葛利普面具"
+  }
+]

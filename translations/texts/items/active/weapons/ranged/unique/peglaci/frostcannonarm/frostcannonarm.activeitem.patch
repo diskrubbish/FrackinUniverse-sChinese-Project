@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Freezing mists weaponized for your enjoyment\n^yellow;Inflicts freezing^reset;\n^green;Multi-shot^reset;",
+    "value": "可发射冻结性喷雾，攻击你的敌人。\n^cyan;附加冻结效果^reset;\n^yellow;多重射击^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mistral Icethrower",
+    "value": "寒惧"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Ice Wall",
+    "value": "冰墙"
+  }
+]

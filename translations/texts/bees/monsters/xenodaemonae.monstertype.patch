@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xenodaemonae Bee",
+    "value": "异种蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A xenodaemonae bee.",
+    "value": "一只异种蜜蜂。"
+  }
+]

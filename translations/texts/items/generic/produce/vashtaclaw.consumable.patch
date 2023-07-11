@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Damage x1.3^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;伤害x1.3^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vashta Claw",
+    "value": "骨刺"
+  }
+]

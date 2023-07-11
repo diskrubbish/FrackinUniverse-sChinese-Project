@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rapidly fires volleys of spread-out rounds that are especially lethal at close range.",
+    "value": "射速非常快，攻击范围窄的双手霰弹枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NPC Automatic Shotgun",
+    "value": "NPC的自动霰弹枪"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Forest Anglure",
+    "value": "丛林昂格鲁尔"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "At home in forests, and rather slimy.",
+    "value": "生活在家乡的森林里，有点粘糊糊的。"
+  }
+]

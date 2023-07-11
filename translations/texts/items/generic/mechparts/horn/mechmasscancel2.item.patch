@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Creates a field that cancels 50% of mech Mass. Toggle with ^green;[F]^reset;.",
+    "value": "创建一块领域，减少50%的机甲质量。按^green;[F]^reset;切换。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Light Frame (50)",
+    "value": "轻型骨架(（50）"
+  }
+]

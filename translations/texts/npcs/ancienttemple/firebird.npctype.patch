@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Be wreathed in holy flame!",
+    "value": "于圣火中肆虐！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "raw": "You shall burn for your trespass!",
+    "value": "你将会为你的鲁莽行为付出代价！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "raw": "Burn for the glory of Kluex!",
+    "value": "为克鲁西斯而燃！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/reattack/default/default/0",
+    "raw": "I shall purify your mind with my sacred flame!",
+    "value": "我将会用圣火净化你的心灵！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/killedTarget/default/default/0",
+    "raw": "Ashes to ashes!",
+    "value": "尘归尘，土归土！"
+  }
+]

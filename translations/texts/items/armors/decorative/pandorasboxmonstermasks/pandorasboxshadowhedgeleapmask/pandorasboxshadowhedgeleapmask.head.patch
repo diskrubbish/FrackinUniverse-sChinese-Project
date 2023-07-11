@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Careful. You could cut yourself on its edge.",
+    "value": "小心，你会被它的边缘割伤的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Hedgeleap Mask",
+    "value": "暗影飞鼠面具"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires devastating ice bullets colder than liquid nitrogen.\n^cyan;Slows targets ^reset;",
+    "value": "发射比液氮冷的破坏性冰弹。\n^cyan;附加减速效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Semiauto",
+    "value": "寒霜半自动"
+  }
+]

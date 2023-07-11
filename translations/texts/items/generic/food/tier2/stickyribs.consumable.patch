@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sweet and sticky ribs. Delicious! ^orange;Type: Cooked Meat^reset;",
+    "value": "又甜又腻的肋骨，真好吃！\n^orange;类型：熟肉食^reset;"
+  }
+]

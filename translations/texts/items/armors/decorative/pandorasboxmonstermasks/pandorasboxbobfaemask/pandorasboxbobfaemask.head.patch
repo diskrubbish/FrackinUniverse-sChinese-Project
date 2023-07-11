@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Less flimsy than the real thing!",
+    "value": "不如实物那样脆弱！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bobfae Mask",
+    "value": "波比蜂面具"
+  }
+]

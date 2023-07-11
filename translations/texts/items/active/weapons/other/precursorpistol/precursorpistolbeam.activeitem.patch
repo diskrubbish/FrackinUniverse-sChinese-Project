@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ejects energy beams.\n^yellow;Projects energy beams^reset;",
+    "value": "可射出能量光束。\n^yellow;射出能量光束^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Beamgun",
+    "value": "先驱光束枪"
+  }
+]

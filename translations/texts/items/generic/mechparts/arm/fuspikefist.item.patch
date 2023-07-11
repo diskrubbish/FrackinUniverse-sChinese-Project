@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Causes massive impact damage.",
+    "value": "造成巨大的撞击伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Smasher Mech Arm",
+    "value": "重击机械臂"
+  }
+]

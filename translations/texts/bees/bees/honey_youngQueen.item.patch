@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Honey Young Queen",
+    "value": "幼年的蜂蜜女王"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Honey Queen",
+    "value": "幼年蜂蜜蜂后"
+  }
+]

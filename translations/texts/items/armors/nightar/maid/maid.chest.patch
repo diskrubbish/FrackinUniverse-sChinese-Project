@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A maid dress. Can even be worn over armour, just in case.",
+    "value": "一件女仆连衣裙。可以穿在盔甲外面，以便应对突发情况。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Maid Dress",
+    "value": "女仆连衣裙"
+  }
+]

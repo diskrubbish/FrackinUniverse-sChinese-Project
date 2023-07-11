@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightcrutter",
+    "value": "暗影克鲁特"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange mutation of the Crutter genome.",
+    "value": "克路特基因组的一次奇怪变异。"
+  }
+]

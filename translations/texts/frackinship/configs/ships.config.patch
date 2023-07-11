@@ -1,0 +1,134 @@
+[
+  {
+    "op": "replace",
+    "path": "/fu_defaultByos/name",
+    "raw": "Rusty BYOS Ship",
+    "value": "生锈的BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_defaultByosRepaired/name",
+    "raw": "Non-Rusty BYOS Ship",
+    "value": "未生锈的BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_defaultByosAlt/name",
+    "raw": "Non-Rusty Alternate BYOS Ship",
+    "value": "未生锈的备选BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_defaultByosAltRusty/name",
+    "raw": "Rusty Alternate BYOS Ship",
+    "value": "生锈的备选BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosprotectorship/name",
+    "raw": "Protectorate BYOS Ship",
+    "value": "守护团BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosuros/name",
+    "raw": "UROs BYOS Ship",
+    "value": "URO BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosminiship/name",
+    "raw": "Miniship BYOS Ship",
+    "value": "迷你BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosApex/name",
+    "raw": "Apex BYOS Ship",
+    "value": "猿族BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosAvian/name",
+    "raw": "Avian BYOS Ship",
+    "value": "翼族BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosFloran/name",
+    "raw": "Floran BYOS Ship",
+    "value": "叶族BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosGlitch/name",
+    "raw": "Glitch BYOS Ship",
+    "value": "电子人BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosHuman/name",
+    "raw": "Human BYOS Ship",
+    "value": "人类BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosHylotl/name",
+    "raw": "Hylotl BYOS Ship",
+    "value": "鲛人BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosNovakid/name",
+    "raw": "Novakid BYOS Ship",
+    "value": "星之子BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosMantizi/name",
+    "raw": "Mantizi BYOS Ship",
+    "value": "甲虫族BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosTenebrhae/name",
+    "raw": "Tenebrhae BYOS Ship",
+    "value": "影裔BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosThelusian/name",
+    "raw": "Thelusian BYOS Ship",
+    "value": "蚁族BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosSkath/name",
+    "raw": "Skath BYOS Ship",
+    "value": "绘世者BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosSlime/name",
+    "raw": "Slime BYOS Ship",
+    "value": "史莱姆BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosavali/name",
+    "raw": "Avali BYOS Ship",
+    "value": "羽族BYOS飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosFlesh/name",
+    "raw": "Kevin's Flesher (tm)",
+    "value": "凯文的觅血者(tm)"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_byosdeveloper/name",
+    "raw": "Frackin' Devs",
+    "value": "Frackin的开发者飞船"
+  }
+]

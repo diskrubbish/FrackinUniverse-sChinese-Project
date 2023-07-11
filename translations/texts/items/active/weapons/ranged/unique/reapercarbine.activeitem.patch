@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires super-cold dark matter infused rounds.\n^yellow;Extremely fast, accurate rounds^reset;",
+    "value": "发射注入极寒暗物质的子弹。\n^yellow;极其快速而精确的子弹^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tk-4 Violator",
+    "value": "Tk-4 违背者"
+  }
+]

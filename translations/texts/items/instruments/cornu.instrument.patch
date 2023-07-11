@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large, curved brass horn.",
+    "value": "一个大型的、弯曲的铜制喇叭。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cornu",
+    "value": "角"
+  }
+]

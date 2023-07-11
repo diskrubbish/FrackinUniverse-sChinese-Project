@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Shell",
+    "value": "暗影贝壳"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Don't let these guys erupt in your face. You won't like it.",
+    "value": "不要让这些家伙在你面前爆发。你不会喜欢的。"
+  }
+]

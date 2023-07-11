@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Coat yourself in no-stick putty to prevent slipping and sticking.",
+    "value": "用粉末涂抹自己，防止滑倒或被黏住。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Corvex Putty^reset;",
+    "value": "^#77acc3;防滑粉末^reset;"
+  }
+]

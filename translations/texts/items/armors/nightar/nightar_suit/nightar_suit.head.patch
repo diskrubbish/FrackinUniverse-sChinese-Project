@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Normal shades. Or are they?",
+    "value": "普通的墨镜，或许也不普通？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neat Shades",
+    "value": "整洁的墨镜"
+  }
+]

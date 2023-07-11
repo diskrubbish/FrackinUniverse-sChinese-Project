@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that removes negative effects from most tiles.",
+    "value": "^cyan;免疫来自绝大多数物块的负面效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mobility III",
+    "value": "EPP模块（移动性 III）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Mobility III",
+    "value": "EPP模块（移动性 III）"
+  }
+]

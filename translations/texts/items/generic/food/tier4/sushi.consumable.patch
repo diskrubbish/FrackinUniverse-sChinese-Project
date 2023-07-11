@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Delicious rolls of rice and seaweed. A Hylotl favourite. ^orange;Type: Seafood + Grain^reset;",
+    "value": "美味的海带米饭卷。一种鲛人的最爱。\n^orange;类型：海鲜 + 谷物^reset;"
+  }
+]

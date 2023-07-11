@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A densely packed stack of processors, kept chilled to optimal temperatures.",
+    "value": "密集堆叠在一起的处理器，请保持冷却以达到最佳温度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chilled Cable Nexus",
+    "value": "冷却电缆连接点"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Analysis. This is a stack of solid-state processors.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Looksss like a bunch of shiny vines.",
+    "value": "看起来像一束闪亮的葡萄萄萄藤。"
+  }
+]

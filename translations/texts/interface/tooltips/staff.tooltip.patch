@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/levelLabelTitle/value",
+    "raw": "^yellow;Tier^reset;",
+    "value": "^yellow;品级^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/staffDamageTitleLabel/value",
+    "raw": "Base Damage:",
+    "value": "基础伤害："
+  },
+  {
+    "op": "replace",
+    "path": "/staffEnergyTitleLabel/value",
+    "raw": "Energy Cost:",
+    "value": "能量消耗："
+  },
+  {
+    "op": "replace",
+    "path": "/staffProjectileTitleLabel/value",
+    "raw": "# Projectiles:",
+    "value": "# 投射物"
+  },
+  {
+    "op": "replace",
+    "path": "/staffRangeTitleLabel/value",
+    "raw": "Max Range:",
+    "value": "最大范围："
+  }
+]

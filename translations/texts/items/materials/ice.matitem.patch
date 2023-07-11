@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Solid ice, tingly to the touch.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "坚硬的冰，摸起来有刺痛感。\n^green;可萃取^reset;，^orange;可粉碎^reset;。"
+  }
+]

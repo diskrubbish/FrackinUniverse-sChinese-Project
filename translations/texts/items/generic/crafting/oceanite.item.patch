@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The main power source of the Eld'uukhar. Its liquid form has slight healing properties.",
+    "value": "厄休安龙人的主要动力来源。它的液体形式有轻微的愈合性能。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Oceanite Crystal",
+    "value": "大洋石水晶"
+  }
+]

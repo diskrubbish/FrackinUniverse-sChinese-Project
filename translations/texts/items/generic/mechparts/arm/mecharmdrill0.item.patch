@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mining drill that can serve as a weapon in a pinch.",
+    "value": "可以用作应急武器的采矿钻。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Drill Arm",
+    "value": "铁制钻头机械臂"
+  }
+]

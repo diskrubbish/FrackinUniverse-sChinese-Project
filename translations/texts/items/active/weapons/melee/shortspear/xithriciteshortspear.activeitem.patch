@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rend and stab with cosmic potence.\n^cyan;Hunting weapon^reset;",
+    "value": "用宇宙的力量撕裂和刺伤。n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Shortspear",
+    "value": "赛德瑞瑟短矛"
+  }
+]

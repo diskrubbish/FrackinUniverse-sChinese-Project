@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shiny, honed and deadly.\n^cyan;Universal Damage^reset;",
+    "value": "闪闪发光，精心磨刀且致命。\n^cyan;通用伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbral Katana",
+    "value": "半影武士刀"
+  }
+]

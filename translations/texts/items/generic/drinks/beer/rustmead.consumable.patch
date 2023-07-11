@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Glitch favorite.\n^cyan;+^white;4 ^cyan;Defense ^gray;(^white;1m^gray;)\n^white;35% ^red;Slow ^gray;, ^red;Drunk ^gray;(^white;30s^gray;)^reset;",
+    "value": "电子人的最爱。\n^cyan;+^white;4^cyan;防御^gray;(^white;持续1m^gray;)\n^white;35%^red;减速^gray;，^red;醉酒^gray;(^white;持续30s^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rust Mead",
+    "value": "生锈蜜酒"
+  }
+]

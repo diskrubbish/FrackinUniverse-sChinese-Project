@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
+    "raw": "ERROR: IFF SYSTEMS DAMAGED. REQUESTING REBOOT.",
+    "value": "错误: 敌我识别系统损坏，请求重启。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "CAUTION: VESSEL ENGINE DOES NOT CONFORM TO HEGEMONY STANDARDS. RECALIBRATING FUEL INJECTORS.",
+    "value": "警告: 船用发动机不符合霸权标准。重新校准燃油喷射器。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "DANGER: FOREIGN ELEMENTS DETECTED. REINFORCING BIOSTRUCTURE AGAINST UNKNOWN QUANTITIES.",
+    "value": "危险: 检测到外来元素。对未知数量加强生物结构。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+    "raw": "REPORT: UNIT SUCCESSFULLY RECONSTRUCTED. READY TO DEPLOY.",
+    "value": "报告: 单位重建成功，准备部署。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
+    "raw": "ACKNOWLEDGEMENT: UNIT READY TO DEPLOY. AWAITING FURTHER COMMANDS.",
+    "value": "确认: 单位准备部署。等待进一步命令。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+    "raw": "ACKNOWLEDGEMENT: FOLLOW MODE DISENGAGED. UNIT WILL REMAIN IN PLACE AWAITING FURTHER COMMANDS.",
+    "value": "确认: 跟随模式解除。单位将保持在原位等待进一步命令。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+    "raw": "ERROR: UNABLE TO REACH TARGET LOCATION.",
+    "value": "错误: 无法到达目标位置。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Precursor Drone",
+    "value": "先驱无人机"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Precursor Drone",
+    "value": "先驱无人机"
+  }
+]

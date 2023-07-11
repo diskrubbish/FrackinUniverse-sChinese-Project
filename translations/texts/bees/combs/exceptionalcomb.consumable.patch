@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A delicious and top-quality honey comb.",
+    "value": "一个顶级质量的美味蜂巢。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exceptional Honeycomb",
+    "value": "超凡蜂巢"
+  }
+]

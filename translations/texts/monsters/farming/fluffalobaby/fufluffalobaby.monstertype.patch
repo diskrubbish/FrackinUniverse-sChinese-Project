@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fluffalo Calf",
+    "value": "小蓬蓬牛"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A newborn fluffalo's diet determines the type it grows into.",
+    "value": "刚出生的蓬蓬牛的饮食习惯决定了它将来的成长方向。"
+  }
+]

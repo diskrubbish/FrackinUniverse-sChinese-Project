@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mid-Air Damage x^green;1.15^reset;\n+^green;10^reset;% Run Speed\n+^green;10^reset;% Jump Height",
+    "value": "空中造成伤害x^green;1.15^reset;\n+^green;10^reset;%;奔跑速度\n+^green;10^reset;%跳跃高度"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "The Wheel of Kluex",
+    "value": "克鲁西斯之轮"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "The Wheel of Kluex",
+    "value": "克鲁西斯之轮"
+  }
+]

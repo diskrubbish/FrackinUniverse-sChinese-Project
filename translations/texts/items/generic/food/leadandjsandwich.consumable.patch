@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Don't eat this. \n^blue;+^white;1 ^blue;Madness^reset; \n^yellow;Type: Robot Food^reset;",
+    "value": "别恰，烙嘴。\n^blue;+^white;1 ^blue;疯癫^reset;\n^yellow;类型：机械食物^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pb and J Sandwich",
+    "value": "铅酱三明治"
+  }
+]

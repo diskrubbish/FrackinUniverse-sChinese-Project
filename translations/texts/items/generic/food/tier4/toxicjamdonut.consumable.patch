@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A harmless donut filled with toxictop jam. ^orange;Type: Fruits + Dairy + Eggs + Sugar^reset;",
+    "value": "一个涂满毒果酱的无害的甜甜圈。\n^orange;类型：水果 + 蛋奶 + 甜食^reset;"
+  }
+]

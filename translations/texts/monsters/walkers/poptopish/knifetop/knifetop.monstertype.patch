@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Knifetop",
+    "value": "飞刀吐舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Who taught this thing to use a knife?!?!",
+    "value": "谁教这些小家伙们使用飞刀的？！？！"
+  }
+]

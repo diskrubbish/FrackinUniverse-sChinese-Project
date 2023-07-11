@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires...gleaps?",
+    "value": "发射...葛利普？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Volatile Oogler Pod",
+    "value": "不稳定奥格尔捕捉仓"
+  }
+]

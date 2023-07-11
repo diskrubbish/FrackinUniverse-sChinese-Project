@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's a delicious rich cake!\n^cyan;+^white;20% ^cyan;EP ^gray;(^white;500s^gray;)^reset; \n^orange;Type: Fruits + Dairy + Eggs + Sugar^reset;",
+    "value": "美味的油炸蛋糕！\n^cyan;+^white;20%^cyan;EP^gray;(^white;持续500s^gray;)^reset;\n^orange;类型：水果+蛋奶+甜食^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frosted Cake",
+    "value": "奶油蛋糕"
+  }
+]

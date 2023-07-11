@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A huge-scale hunting rifle.",
+    "value": "一把大型狩猎步枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hunting Rifle Arm",
+    "value": "狩猎步枪机甲臂"
+  }
+]

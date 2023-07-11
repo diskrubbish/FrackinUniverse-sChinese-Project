@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I'll give you a massive 20% fuel cost reduction whenever we're on the ship!",
+    "value": "当我在船上时，我会降低20%燃料消耗！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "I absorb radiation! Handy, that!",
+    "value": "我可以帮你免疫辐射！"
+  },
+  {
+    "op": "replace",
+    "path": "/npcname",
+    "raw": "Sievert Gray",
+    "value": "辐射之灰"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "X'ian Explorer",
+    "value": "艾肯探险家"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "X'ian Explorer",
+    "value": "艾肯探险家"
+  }
+]

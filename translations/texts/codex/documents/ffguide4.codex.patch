@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "^#ffea00;FU Guide^reset; : 4",
+    "value": "^#ffea00;FU指南^reset; : 4"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "How to Play",
+    "value": "教你怎么玩！"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "To read this codex, use your ^orange;Personal Tricorder^reset; and click the Book icon.",
+    "value": "要阅读此典籍，请使用您的^orange;个人三度仪^reset;，然后单击书本图标。"
+  }
+]

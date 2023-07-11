@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Let 'em hang with this handy item!",
+    "value": "用这玩意让它们看看你的惊骇之物吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Invisible Legs",
+    "value": "隐式腿部装饰"
+  }
+]

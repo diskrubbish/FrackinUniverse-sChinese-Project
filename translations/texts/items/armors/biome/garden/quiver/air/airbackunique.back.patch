@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sniper's Quiver",
+    "value": "狙击手箭袋"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "+^green;55^reset;% Airborne Damage (Bows)",
+    "value": "空射伤害（弓箭）+^green;55^reset;%"
+  }
+]

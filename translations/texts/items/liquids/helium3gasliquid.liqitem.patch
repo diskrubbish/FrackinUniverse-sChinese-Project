@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Helium-3",
+    "value": "氦-3"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Exceptional in nuclear applications despite being non-radioactive.\n^yellow;Centrifugable^reset;.",
+    "value": "核反应中的一种特殊材料，尽管没有放射性。\n^yellow;可离心^reset;。"
+  }
+]

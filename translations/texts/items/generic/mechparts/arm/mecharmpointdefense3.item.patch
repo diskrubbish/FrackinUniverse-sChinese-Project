@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Densinium blasts shred foes within 12 feet.",
+    "value": "超致密爆炸撕碎在12英尺内的敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Point Defense III",
+    "value": "对点防御 III"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pile of hair.",
+    "value": "一堆头发。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bunch of hair",
+    "value": "头发束"
+  }
+]

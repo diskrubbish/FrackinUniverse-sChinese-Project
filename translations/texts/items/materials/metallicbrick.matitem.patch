@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metallic Brick",
+    "value": "金属砖块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Etched metal to look like bricks.",
+    "value": "把金属蚀刻得像砖块一样。"
+  }
+]

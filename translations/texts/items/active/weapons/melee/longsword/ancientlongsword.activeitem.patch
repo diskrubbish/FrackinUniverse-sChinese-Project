@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A weapon of the ancients.",
+    "value": "一把古代武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient's Warblade",
+    "value": "古代战刃"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This fleshy mass looks like it was part of some creature's stomach.\n^green;Extractable^reset;.",
+    "value": "这些肉肉的方块看起来是某种生物的胃。\n^green;可萃取^reset;。"
+  }
+]

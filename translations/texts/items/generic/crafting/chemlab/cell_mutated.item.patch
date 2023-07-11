@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cell riddled with unusual biological mutations.",
+    "value": "一个充满了不寻常的生物突变的细胞。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mutated Cell",
+    "value": "突变细胞"
+  }
+]

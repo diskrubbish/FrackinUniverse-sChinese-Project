@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A curious, unique weapon of ancient design.\n^yellow;Inflicts Electrified^reset;\n^green;Incredible knockback^reset;",
+    "value": "一把古怪的、独特的古代设计风格的武器。\n^cyan;附加感电效果^reset;\n^cyan;难以置信的击退^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Harbinger",
+    "value": "先驱预告者"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+21 HP^reset;, ^cyan;+30 EP^reset;, ^cyan;Heal 80% HP^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;+21 HP^reset;, ^cyan;+30 EP^reset;, ^cyan;治疗80% HP^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tyvokk Hook",
+    "value": "糖果棒"
+  }
+]

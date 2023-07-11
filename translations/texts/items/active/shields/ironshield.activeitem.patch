@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;-20% Fall Damage^reset;",
+    "value": "^green;-20%掉落伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Shield",
+    "value": "铁制盾"
+  }
+]

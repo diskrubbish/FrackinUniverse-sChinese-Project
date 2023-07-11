@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hydrogen and Dark Matter combined to provide ample power.\n^blue;+^white;8000 ^blue;Fuel^reset;",
+    "value": "氢与暗物质的结合，提供充足的能量。\n^blue;燃料+^white;8000^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#e43774;D-Hydrogen Phase Core^reset;",
+    "value": "^#e43774;氢相堆芯^reset;"
+  }
+]

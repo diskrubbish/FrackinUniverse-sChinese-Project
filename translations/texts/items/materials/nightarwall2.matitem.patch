@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A black wall infused with some unknown Nightar technologies.",
+    "value": "一种注入了某种未知的夜族科技的黑色墙板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Tech Wall",
+    "value": "夜族科技墙板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. Nothing will move this structurally reinforced wall.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Thiss wall is ssso sstrong.",
+    "value": "这种墙板好好好牢固。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Ain't nothin' gonna move this thick wall.",
+    "value": "没有东西能够动摇这种厚墙板。"
+  }
+]

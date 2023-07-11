@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dark concrete specially designed for outposts.\n^orange;Crushable^reset;.",
+    "value": "专门为前哨站设计的黑色混凝土。\norange;可破碎^reset;。"
+  }
+]

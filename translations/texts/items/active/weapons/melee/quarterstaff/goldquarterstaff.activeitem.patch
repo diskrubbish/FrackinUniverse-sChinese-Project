@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cumbersome, but light and pretty.",
+    "value": "笨重，但是耀眼而迷人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gold Quarterstaff",
+    "value": "金制长棍"
+  }
+]

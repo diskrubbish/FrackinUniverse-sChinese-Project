@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dude. 4% reduced fuel costs. Rock on.",
+    "value": "来整点好活。降低4%的燃料消耗。让我们一起摇摆！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "80s Metalhead Contract",
+    "value": "八十年代重金属歌手合同"
+  }
+]

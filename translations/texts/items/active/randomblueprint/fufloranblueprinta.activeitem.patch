@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The blueprints for energetic Floran armour.",
+    "value": "叶族能量盔甲的蓝图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Floran Schematics (Energy)",
+    "value": "叶族盔甲架构图(能量)"
+  }
+]

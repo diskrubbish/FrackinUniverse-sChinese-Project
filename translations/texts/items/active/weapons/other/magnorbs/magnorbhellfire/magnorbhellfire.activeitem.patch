@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Full of scorchy fun.",
+    "value": "燃烧才是唯一的乐趣所在。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hellfire Orbs",
+    "value": "地狱火之珠"
+  }
+]

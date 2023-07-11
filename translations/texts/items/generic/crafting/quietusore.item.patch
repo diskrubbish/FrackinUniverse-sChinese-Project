@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange ore that challenges the scientific definition of \"life\".",
+    "value": "一种奇怪的矿石，挑战着“生命”的科学定义。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quietus Ore",
+    "value": "寂灭矿"
+  }
+]

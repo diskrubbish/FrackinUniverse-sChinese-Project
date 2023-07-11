@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Looks pretty cute and comfortable to wear.",
+    "value": "相当可爱，相当舒适。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Maid Headband",
+    "value": "女仆头巾"
+  }
+]

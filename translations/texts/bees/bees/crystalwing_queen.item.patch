@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crystalwing Queen",
+    "value": "晶翅蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystalwing Queen",
+    "value": "晶翅蜂后"
+  }
+]

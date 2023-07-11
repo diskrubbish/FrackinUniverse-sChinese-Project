@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sniper rifle that fires streams of energy at distant targets with pinpoint accuracy.",
+    "value": "一把可以精确射击远距离目标的狙击步枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Common Beam Rifle",
+    "value": "普通的光束步枪"
+  }
+]

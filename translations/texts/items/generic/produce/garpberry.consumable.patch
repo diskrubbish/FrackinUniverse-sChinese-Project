@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+10% Radiation Res & Immune^reset;: Radiation Burn: 2m",
+    "value": "^yellow;^reset;^cyan;+10%辐射抗性 & 免疫^reset;: 辐射烧伤: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Garp Berry",
+    "value": "彭泽浆果"
+  }
+]

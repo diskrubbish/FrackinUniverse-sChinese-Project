@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A remote for some sort of device of the Ancients.\n^green;Research in a microscope.^reset;",
+    "value": "某种古代的远程设备。\n^green;在显微镜下研究。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Remote",
+    "value": "古代远程设备"
+  }
+]

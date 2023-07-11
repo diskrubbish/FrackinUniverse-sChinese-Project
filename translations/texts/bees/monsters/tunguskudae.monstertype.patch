@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tunguskudae Bee",
+    "value": "钨头蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tunguskudae bee.",
+    "value": "一只钨头蜜蜂。"
+  }
+]

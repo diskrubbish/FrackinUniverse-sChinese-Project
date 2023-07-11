@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ouch ouch ouch. Hot!\n^green;Extractable^reset;.",
+    "value": "嗷！嗷！烫！\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Molten Metal",
+    "value": "熔化金属"
+  }
+]

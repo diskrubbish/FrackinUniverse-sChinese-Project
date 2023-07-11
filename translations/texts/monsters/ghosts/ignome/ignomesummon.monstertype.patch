@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ignome",
+    "value": "火蝙蝠"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Its charred surface is surprisingly pleasant to touch. Just keep away from the flames!",
+    "value": "它被烧焦的表面触摸起来出乎意料。只要远离火焰就行！"
+  }
+]

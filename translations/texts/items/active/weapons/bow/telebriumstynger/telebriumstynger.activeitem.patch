@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "High firerate poison bolts.",
+    "value": "发射高射速的毒素弹头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Stynger",
+    "value": "月海发射器"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corrupt Fly",
+    "value": "腐化苍蝇"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dreams to rule the world someday.",
+    "value": "梦想着有一天能统治这个世界。"
+  }
+]

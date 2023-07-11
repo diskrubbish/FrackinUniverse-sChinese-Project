@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy, dense metal platform.",
+    "value": "坚固、致密的金属平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sturdy Platform",
+    "value": "坚固平台"
+  }
+]

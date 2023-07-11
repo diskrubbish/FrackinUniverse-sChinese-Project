@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Protect your mouth from getting too cold - also bugs and stuff.",
+    "value": "在刺骨寒风中保护你的嘴——还能挡下虫子之类的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peglaci Mask",
+    "value": "羊蹄族面罩"
+  }
+]

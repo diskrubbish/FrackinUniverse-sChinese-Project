@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Exceptionally tough alloy support.",
+    "value": "异常坚韧的合金支撑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Solid Support",
+    "value": "结实支撑"
+  }
+]

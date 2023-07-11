@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A truly amazing fuel source.\n^blue;+^white;25 ^blue;Fuel^reset;",
+    "value": "一种实属惊人的燃料资源。\n^blue;燃料+^white;25^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protocite Fuel Canister",
+    "value": "原体燃料罐"
+  }
+]

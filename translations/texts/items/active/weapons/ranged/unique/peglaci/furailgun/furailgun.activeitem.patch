@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A devastating long-ranged rifle.\n^yellow;Pierces tiles, increases damage with range^reset;\n^cyan;Efficient alt-fire^reset;",
+    "value": "一把毁灭性的远程步枪。\n^yellow;可穿透物块，随着距离增加伤害^reset;\n^yellow;高效的次要攻击^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Railgun",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Energy Zone",
+    "value": "能源领域"
+  }
+]

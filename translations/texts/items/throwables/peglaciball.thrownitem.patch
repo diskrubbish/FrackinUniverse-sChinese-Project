@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice Ball",
+    "value": "冰球"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A ball, in ice form. Or is it ice in ball form?",
+    "value": "冰球。或者说是球状的冰？"
+  }
+]

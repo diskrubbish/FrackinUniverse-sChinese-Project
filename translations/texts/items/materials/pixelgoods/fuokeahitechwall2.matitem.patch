@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Plasteel is pretty awesome.",
+    "value": "塑钢真的很棒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasteel Tile",
+    "value": "塑钢瓦"
+  }
+]

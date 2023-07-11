@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires psionic bursts",
+    "value": "将灵能爆发射出"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mental Blast Ammo",
+    "value": "精神爆裂弹药"
+  }
+]

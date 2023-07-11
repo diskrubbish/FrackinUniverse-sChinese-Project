@@ -1,0 +1,1988 @@
+[
+  {
+    "op": "replace",
+    "path": "/statuses/generic/0",
+    "raw": "Contemplating their life choices",
+    "value": "考虑他们的生活选择"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/1",
+    "raw": "Thinking about their family",
+    "value": "考虑他们的家庭"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/2",
+    "raw": "Thinking about starting a lawn care business",
+    "value": "考虑入行草坪护理业务"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/3",
+    "raw": "Wants to raid a candy store",
+    "value": "想突袭一家糖果店"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/4",
+    "raw": "Thinking about starting a band",
+    "value": "考虑组建乐队"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/5",
+    "raw": "Thinking about starting a rock band",
+    "value": "考虑组建摇滚乐队"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/6",
+    "raw": "Thinking about starting a heavy metal band",
+    "value": "考虑组建重金属乐队"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/7",
+    "raw": "Left their wallet in their capture pod",
+    "value": "将钱包留在捕获舱中"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/8",
+    "raw": "Starting a stamp collection",
+    "value": "开始集邮"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/9",
+    "raw": "Grooming theirself",
+    "value": "梳理自己"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/10",
+    "raw": "Questioning their reality",
+    "value": "质疑他们的现实"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/11",
+    "raw": "Playing the latest Pocket Humanoids game",
+    "value": "玩最新的口袋人类游戏"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/12",
+    "raw": "Spinning in circles",
+    "value": "绕着圈子转"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/13",
+    "raw": "Lost in thought",
+    "value": "陷入沉思"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/14",
+    "raw": "Wonders how many times they have died",
+    "value": "想知道他们已经死了多少次"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/15",
+    "raw": "Feels like they're catching a cold",
+    "value": "感觉就像他们在感冒一样"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/16",
+    "raw": "Didn't finish their favorite video game",
+    "value": "没有通关他们最喜欢的视频游戏"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/17",
+    "raw": "Thinking about making a Starbound mod",
+    "value": "考虑制作屎大棒mod"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/18",
+    "raw": "Can't think straight",
+    "value": "不敢直想"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/19",
+    "raw": "Renting out their capture pod",
+    "value": "出租他们的捕获舱"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/20",
+    "raw": "Having déjà vu",
+    "value": "有既视感"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/21",
+    "raw": "Questioning their sanity",
+    "value": "质疑他们的理智"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/22",
+    "raw": "Having a ball",
+    "value": "有个球"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/23",
+    "raw": "Advocating equal rights for monsters",
+    "value": "提倡怪物享有平等权利"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/24",
+    "raw": "Missing their friends and family",
+    "value": "想念他们的朋友和家人"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/25",
+    "raw": "Thinking about becoming a superhero",
+    "value": "考虑成为超级英雄"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/26",
+    "raw": "Thinking about the places they've visited",
+    "value": "考虑故地重游"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/27",
+    "raw": "Wonders if they're still in shape",
+    "value": "想知道他们是否仍处于健康状态"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/28",
+    "raw": "Has a song stuck in their head",
+    "value": "他们的脑袋里余音绕梁"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/29",
+    "raw": "Tripped over a rock earlier",
+    "value": "早些时候在岩石上绊倒了"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/30",
+    "raw": "Feels like they're stuck in a video game",
+    "value": "感觉像被卡在视频游戏中一样"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/31",
+    "raw": "Wishes things were different",
+    "value": "愿望不同"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/32",
+    "raw": "Considering taking up a new hobby",
+    "value": "考虑接受新的爱好"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/33",
+    "raw": "Needs a break",
+    "value": "需要休息"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/34",
+    "raw": "Feels like breaking into song",
+    "value": "感觉就像在唱歌"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/35",
+    "raw": "Trying to remember how old they are",
+    "value": "试图记住他们的年龄"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/36",
+    "raw": "More than a number",
+    "value": "不仅仅是一个数字"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/37",
+    "raw": "Can't believe it's true",
+    "value": "不能相信这是真的"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/38",
+    "raw": "Tired after a long day of doing nothing",
+    "value": "一整天无所事事后感到疲倦"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/39",
+    "raw": "Doesn't want anyone to discover their secret",
+    "value": "不想让任何人发现他们的秘密"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/40",
+    "raw": "Hiding something",
+    "value": "藏东西"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/41",
+    "raw": "Wants to try new things",
+    "value": "想要尝试新事物"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/42",
+    "raw": "Has a feeling that their life is a lie",
+    "value": "感觉自己的生活是谎言"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/43",
+    "raw": "Can't believe this is happening",
+    "value": "不能相信这正在发生"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/44",
+    "raw": "Unwilling to give up",
+    "value": "绝不死心"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/45",
+    "raw": "Contemplating the vastness of the universe",
+    "value": "考虑宇宙的广阔"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/46",
+    "raw": "Out of their depth",
+    "value": "摸不着头脑"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/47",
+    "raw": "Wondering what's for lunch",
+    "value": "想知道午餐是什么"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/48",
+    "raw": "Wants to write a song",
+    "value": "想写一首歌"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/49",
+    "raw": "Feels like snacking",
+    "value": "感觉像在吃零食"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/50",
+    "raw": "Feeling nostalgic",
+    "value": "感到怀旧"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/51",
+    "raw": "Doesn't want to be part of the system",
+    "value": "不想成为系统的一部分"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/52",
+    "raw": "Wants to break free",
+    "value": "想要挣脱"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/53",
+    "raw": "Secretly knows they should exercise more",
+    "value": "私下知道他们应该多运动"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/54",
+    "raw": "Craving some spicy food",
+    "value": "渴望一些辛辣的食物"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/55",
+    "raw": "Staring into the abyss",
+    "value": "凝视深渊"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/56",
+    "raw": "Considering living underground",
+    "value": "考虑住在地下"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/57",
+    "raw": "Has no idea what they're doing and hopes no-one notices",
+    "value": "不知道他们在做什么，希望没有人注意到"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/58",
+    "raw": "Has an itchy toe",
+    "value": "脚痒"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/59",
+    "raw": "Wishes they had superpowers",
+    "value": "希望他们拥有超能力"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/60",
+    "raw": "Wondering how they would handle a zombie apocalypse",
+    "value": "想知道他们将如何处理尸变天灾"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/61",
+    "raw": "Wishes they had a colouring book",
+    "value": "希望他们有一本图画书"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/62",
+    "raw": "Can't see the forest for the trees",
+    "value": "看不清森林中的树木"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/63",
+    "raw": "Has a great idea for a video game",
+    "value": "对电子游戏有个好主意"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/64",
+    "raw": "Systematically counting every pixel",
+    "value": "系统地计算每个像素"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/65",
+    "raw": "Wonders if someone is secretly controlling their life",
+    "value": "想知道是否有人在暗中控制自己的生活"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/66",
+    "raw": "Feeling sophisticated",
+    "value": "感觉很精致"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/67",
+    "raw": "Considering becoming a vegetarian",
+    "value": "考虑成为素食主义者"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/68",
+    "raw": "Feeling fancy",
+    "value": "感觉很好"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/69",
+    "raw": "Considering a hunting trip",
+    "value": "考虑打猎"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/70",
+    "raw": "On the ball",
+    "value": "在球上"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/71",
+    "raw": "Trying not to vomit",
+    "value": "尝试不呕吐"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/72",
+    "raw": "Is hot and bothered",
+    "value": "很热很烦"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/73",
+    "raw": "Wondering what snails are even trying to do",
+    "value": "想知道蜗牛到底在想做什么"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/74",
+    "raw": "Wondering if brushing your teeth is cleaning your skeleton",
+    "value": "想知道刷牙是否在清洁骨骼"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/75",
+    "raw": "Thinking about their lost owner",
+    "value": "考虑他们失去的主人"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/76",
+    "raw": "Finding inspiration for their blog",
+    "value": "为他们的博客寻找灵感"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/77",
+    "raw": "Beating a dead horse",
+    "value": "死马当活马医"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/78",
+    "raw": "Feels like a new monster on the block",
+    "value": "感觉就像街上的新怪物一样"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/79",
+    "raw": "In pain",
+    "value": "浑身疼痛"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/80",
+    "raw": "Dead inside",
+    "value": "心灰意冷"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/81",
+    "raw": "Feeling deeply disturbed",
+    "value": "感到不安"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/82",
+    "raw": "Reacting badly",
+    "value": "反应严重"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/83",
+    "raw": "Feeling confident",
+    "value": "感觉自己有信心"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/84",
+    "raw": "Wondering if bugs mind being caught",
+    "value": "想知道是否有虫子被抓住"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/85",
+    "raw": "Feels like dancing the night away",
+    "value": "感觉就像在夜里跳舞"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/86",
+    "raw": "Can't stop blinking",
+    "value": "不能停止闪烁"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/87",
+    "raw": "Feeling fine",
+    "value": "感觉不错"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/88",
+    "raw": "Has great expectations",
+    "value": "有野望"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/89",
+    "raw": "Holding a grudge",
+    "value": "怀恨在心"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/90",
+    "raw": "Feeling content",
+    "value": "感到满足"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/91",
+    "raw": "Feeling good",
+    "value": "感觉挺棒"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/92",
+    "raw": "Taking their time",
+    "value": "浪费时间"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/93",
+    "raw": "Rocking the boat",
+    "value": "摇船"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/94",
+    "raw": "Trying their luck",
+    "value": "碰碰运气"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/95",
+    "raw": "Enjoying the moment",
+    "value": "享受当下"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/96",
+    "raw": "Finding answers",
+    "value": "寻找答案"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/generic/97",
+    "raw": "Seeking distraction",
+    "value": "寻求分心"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/bland/0",
+    "raw": "Doing nothing of particular interest",
+    "value": "无所事事"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/bland/1",
+    "raw": "Doing something boring",
+    "value": "做一些无聊的事情"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/bland/2",
+    "raw": "Not doing much of anything",
+    "value": "什么也没做"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/bland/3",
+    "raw": "Doesn't feel special",
+    "value": "感觉不特别"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/bland/4",
+    "raw": "Busy doing nothing at all",
+    "value": "忙里偷闲"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/0",
+    "raw": "Just happy to be alive",
+    "value": "很高兴活着"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/1",
+    "raw": "Stops to smell the roses",
+    "value": "停下来闻玫瑰"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/2",
+    "raw": "Finished decorating the interior of its capture pod",
+    "value": "完成了对它的捕获舱内部的装饰。"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/3",
+    "raw": "Enjoying the beautiful day",
+    "value": "享受美好的一天"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/4",
+    "raw": "Just happy to help you",
+    "value": "乐意为您服务"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/5",
+    "raw": "Couldn't be happier",
+    "value": "再开心不过了"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/6",
+    "raw": "Thinking it's a nice day",
+    "value": "认为这是美好的一天"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/7",
+    "raw": "Wouldn't want to be anywhere else",
+    "value": "不想在其他任何地方"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/8",
+    "raw": "Cheeks hurt from grinning",
+    "value": "笑得腮帮子都疼了"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/9",
+    "raw": "Remembering not to skip in public",
+    "value": "记住不要在公共场合乱跳"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/10",
+    "raw": "Enjoying the scenery",
+    "value": "欣赏风景"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/11",
+    "raw": "Immune to crippling loneliness",
+    "value": "不受孤独的折磨"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/12",
+    "raw": "Pretending everything is okay",
+    "value": "假装一切还好"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/13",
+    "raw": "Has faith",
+    "value": "有信心"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/14",
+    "raw": "Believes everything is a-okay",
+    "value": "相信一切都很好"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/15",
+    "raw": "Enjoying the simple life",
+    "value": "享受简单的生活"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/16",
+    "raw": "Feeling motivated",
+    "value": "感觉很有动力"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/17",
+    "raw": "Wonders why they can't stop smiling",
+    "value": "想知道为什么他们不能停止微笑"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/18",
+    "raw": "Enjoying the feeling of needing to pee",
+    "value": "享受需要撒尿的感觉"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/19",
+    "raw": "Looking for someone to tickle",
+    "value": "想找个人来挠痒痒"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/20",
+    "raw": "Can smell something nice",
+    "value": "闻起来很香"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/21",
+    "raw": "Calm and cheerful",
+    "value": "冷静开朗"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/22",
+    "raw": "Dealing well with the futility of their existence",
+    "value": "处理好自己存在的徒劳无功的问题"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/23",
+    "raw": "Feeling right at home",
+    "value": "感觉就像在家里一样"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/24",
+    "raw": "One with the universe",
+    "value": "与宇宙合一"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/25",
+    "raw": "Can't stop thinking of cute animals",
+    "value": "想到可爱的动物就停不下来"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/26",
+    "raw": "Finally has a place to call home",
+    "value": "终于有了自己的归宿"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/27",
+    "raw": "Thinking you're a lovely person",
+    "value": "认为你是一个可爱的人"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/28",
+    "raw": "Happy despite everything",
+    "value": "一切安好"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/29",
+    "raw": "Would like to do a good deed",
+    "value": "想做好事"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/30",
+    "raw": "Happy with their appearance",
+    "value": "对他们的外表感到满意"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/31",
+    "raw": "Following their dreams",
+    "value": "追随他们的梦想"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/32",
+    "raw": "Has a tasty bag of treats",
+    "value": "有一袋美味的零食"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/33",
+    "raw": "Feeling positive",
+    "value": "感觉很积极"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/34",
+    "raw": "Happy to be alive",
+    "value": "很高兴能活着"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/cheerful/35",
+    "raw": "Could die happy",
+    "value": "死而无憾"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/playful/0",
+    "raw": "Just frolicking along behind you",
+    "value": "只是在你身后嬉戏"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/playful/1",
+    "raw": "Batting at a pebble",
+    "value": "在卵石上击球"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/playful/2",
+    "raw": "Running in circles",
+    "value": "兜兜转转"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/playful/3",
+    "raw": "Playing a game of red light green light",
+    "value": "玩红灯绿灯的游戏"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/playful/4",
+    "raw": "Pouncing at your feet",
+    "value": "扑在你的脚下"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/hyper/0",
+    "raw": "Bouncing off the walls",
+    "value": "从墙上弹起"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/hyper/1",
+    "raw": "Violently vibrating",
+    "value": "剧烈振动"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/hyper/2",
+    "raw": "Can't stay still",
+    "value": "不能静止不动"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/hyper/3",
+    "raw": "Spinning in circles",
+    "value": "绕着圈子转"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/hyper/4",
+    "raw": "Hyped up on caffeine",
+    "value": "大肆宣传咖啡因"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/hyper/5",
+    "raw": "Making loud abrupt noises",
+    "value": "突然发出巨大声音"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/calm/0",
+    "raw": "In a state of zen",
+    "value": "处于禅定状态"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/calm/1",
+    "raw": "At one with their surroundings",
+    "value": "与周围环境合二为一"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/calm/2",
+    "raw": "Feels content",
+    "value": "感到满足"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/calm/3",
+    "raw": "Feels perfectly relaxed",
+    "value": "感觉完全放松"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/calm/4",
+    "raw": "Calming their mind",
+    "value": "陷入冥思"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/robotic/0",
+    "raw": "Scanning their surroundings",
+    "value": "扫描周围的环境"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/robotic/1",
+    "raw": "On the look out for threats",
+    "value": "警惕威胁"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/robotic/2",
+    "raw": "Repressing their emotions",
+    "value": "压抑他们的情绪"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/robotic/3",
+    "raw": "Unphased by recent events",
+    "value": "两耳不闻窗外事"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/robotic/4",
+    "raw": "Analyzing the situation",
+    "value": "分析情况"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/enthusiastic/0",
+    "raw": "Itching to fight",
+    "value": "渴望战斗"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/enthusiastic/1",
+    "raw": "Can't contain theirself",
+    "value": "无法控制自己"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/enthusiastic/2",
+    "raw": "Ready to give you a hand",
+    "value": "准备帮你"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/enthusiastic/3",
+    "raw": "Can't wait to help",
+    "value": "等不及要帮忙了"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/enthusiastic/4",
+    "raw": "Eager to help",
+    "value": "渴望帮助"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/grumpy/0",
+    "raw": "Woke up on the wrong side of the capture pod",
+    "value": "在捕获舱的错误一侧醒来"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/grumpy/1",
+    "raw": "Feels angry for no good reason",
+    "value": "无缘无故感到生气"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/grumpy/2",
+    "raw": "Feels angry at society",
+    "value": "对社会感到愤怒"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/grumpy/3",
+    "raw": "Feeling angry over politics",
+    "value": "对政治感到愤怒"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/grumpy/4",
+    "raw": "Wants people to get off their lawn",
+    "value": "希望人们离开草坪"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/grumpy/5",
+    "raw": "Grumbling to theirself",
+    "value": "自怨自艾"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/0",
+    "raw": "Watching you while you sleep",
+    "value": "睡觉时看着你"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/1",
+    "raw": "Desperate for your attention",
+    "value": "迫切需要你的关注"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/2",
+    "raw": "Is wondering what you're doing",
+    "value": "想知道你在做什么"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/3",
+    "raw": "Hovering over your shoulder",
+    "value": "悬停在你的肩膀上"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/4",
+    "raw": "Invading your personal space",
+    "value": "侵犯你的个人空间"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/5",
+    "raw": "Reading your text messages",
+    "value": "阅读短信"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/6",
+    "raw": "Wants you to notice them",
+    "value": "希望你注意到他们"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/7",
+    "raw": "Is the only monster for you",
+    "value": "是你唯一的怪物"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/8",
+    "raw": "Won't stop staring at you",
+    "value": "盯着你不放"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/9",
+    "raw": "Hacking your Starbook account",
+    "value": "入侵你的Starbook帐户"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/10",
+    "raw": "Just Monika",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/11",
+    "raw": "Likes you in that outfit",
+    "value": "喜欢那身衣服"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/12",
+    "raw": "Feeling hormonal",
+    "value": "感觉到荷尔蒙"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/13",
+    "raw": "Unable to control themselves",
+    "value": "无法控制自己"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/14",
+    "raw": "Finding it hard to control their desires",
+    "value": "难以控制自己的欲望"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/15",
+    "raw": "Telling themselves they're not a stalker",
+    "value": "告诉自己他们不是跟踪者"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/16",
+    "raw": "Loves the way you handle their capture pod",
+    "value": "喜欢你处理捕捉舱的方式"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/17",
+    "raw": "Crossing the line",
+    "value": "跨越界限"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/18",
+    "raw": "Staring",
+    "value": "凝视"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/19",
+    "raw": "Wanting to be best friends",
+    "value": "希望做最好的朋友"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/20",
+    "raw": "Thinking of lyrics for a song about you",
+    "value": "想一首关于你的歌的歌词"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/yandere/21",
+    "raw": "Wanting to know what your face feels like",
+    "value": "想知道你的脸是什么样"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/flirt/0",
+    "raw": "Batting their eyes at you",
+    "value": "对着你眨眼"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/flirt/1",
+    "raw": "Rubbing against your leg",
+    "value": "摩擦你的腿"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/flirt/2",
+    "raw": "Playfully bumping into you",
+    "value": "嬉皮笑脸地撞上你"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/flirt/3",
+    "raw": "Wondering if you like them",
+    "value": "想知道你是否喜欢他们"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/flirt/4",
+    "raw": "Nudging against you",
+    "value": "对你进行推敲"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/0",
+    "raw": "Worrying about tomorrow",
+    "value": "担心明天"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/1",
+    "raw": "Thought they heard something",
+    "value": "认为他们听到了什么"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/2",
+    "raw": "Feeling a little shakey",
+    "value": "感觉有点动摇"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/3",
+    "raw": "Feels like something bad's going to happen",
+    "value": "感觉印堂发黑"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/4",
+    "raw": "Feeling unsure of themselves",
+    "value": "对自己没有信心"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/5",
+    "raw": "Worried",
+    "value": "担心"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/6",
+    "raw": "Feels like the walls are closing in",
+    "value": "感觉身陷绝境"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/7",
+    "raw": "Feels a panic attack coming on",
+    "value": "感到恐慌发作"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/8",
+    "raw": "Worrying that they might have undiagnosed illnesses",
+    "value": "担心他们可能患有无法诊断的疾病"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/9",
+    "raw": "Wants to avoid social interaction for a while",
+    "value": "想要暂时避免社交互动"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/10",
+    "raw": "Wondering just how fast they can run",
+    "value": "想知道他们能跑多快"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/11",
+    "raw": "Wishes they were invisible",
+    "value": "希望他们是隐形的"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/12",
+    "raw": "Afraid of the end of the world",
+    "value": "害怕世界的尽头"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/13",
+    "raw": "Feels nervous",
+    "value": "感到紧张"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/14",
+    "raw": "Nervous wreck",
+    "value": "神经衰弱"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/15",
+    "raw": "Second guessing their taste in music",
+    "value": "猜测他们对音乐的品味"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/16",
+    "raw": "Trembling",
+    "value": "瑟瑟发抖"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/17",
+    "raw": "Doesn't feel cut out for this",
+    "value": "感觉不适合做这个"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/18",
+    "raw": "Lacking confidence",
+    "value": "缺乏信心"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/19",
+    "raw": "Isn't sure they look cool after all",
+    "value": "不知道他们看起来是不是很酷"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/20",
+    "raw": "Feeling more comfortable in front of a computer",
+    "value": "在电脑前感觉更舒适"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/21",
+    "raw": "Feeling socially awkward",
+    "value": "感到社交上的尴尬"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/22",
+    "raw": "Feeling unattractive",
+    "value": "感觉没有吸引力"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/23",
+    "raw": "Creating awkward silences",
+    "value": "造成尴尬的沉默"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/24",
+    "raw": "Sweating uncontrollably",
+    "value": "汗流浃背"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/25",
+    "raw": "Hiccuping at inappropriate times",
+    "value": "在不适当的时候打嗝"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/26",
+    "raw": "Feeling an intense sense of pressure",
+    "value": "感到强烈的压力感"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/27",
+    "raw": "Sensing dread",
+    "value": "感受到恐惧"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/28",
+    "raw": "Compulsively nail biting",
+    "value": "强迫性地咬指甲"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/29",
+    "raw": "Nervously giggling",
+    "value": "紧张地傻笑"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/30",
+    "raw": "Just wants to be at home",
+    "value": "只想宅在家里"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/31",
+    "raw": "Considering therapy",
+    "value": "考虑治疗"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/anxious/32",
+    "raw": "Keeps snorting",
+    "value": "一直在"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/perfectlygeneric/0",
+    "raw": "Standing perfectly still",
+    "value": "完全静止不动"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/perfectlygeneric/1",
+    "raw": "Graduated College",
+    "value": "从大学毕业"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/perfectlygeneric/2",
+    "raw": "Aims to excel",
+    "value": "追求卓越"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/perfectlygeneric/3",
+    "raw": "Feels absolutely perfect",
+    "value": "感觉非常完美"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/perfectlygeneric/4",
+    "raw": "Polished their collection of awards",
+    "value": "擦亮了他们的奖项收藏"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/jock/0",
+    "raw": "Running laps around your feet",
+    "value": "绕着你的脚跑一圈"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/jock/1",
+    "raw": "Just finished a workout session",
+    "value": "刚结束锻炼"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/jock/2",
+    "raw": "Wondering when they should visit the gym",
+    "value": "想知道他们什么时候应该去健身房"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/jock/3",
+    "raw": "Feels in top form",
+    "value": "感觉处于最佳状态"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/jock/4",
+    "raw": "Feels like they can conquer the world",
+    "value": "感觉自己可以征服世界"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/jock/5",
+    "raw": "Jogging in place",
+    "value": "原地慢跑"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/daredevil/0",
+    "raw": "Sticks the landing",
+    "value": "坚持着陆"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/daredevil/1",
+    "raw": "Dreaming of entering the Olympics",
+    "value": "梦想参加奥运会"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/daredevil/2",
+    "raw": "Performing risky stunts",
+    "value": "表演危险的特技"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/daredevil/3",
+    "raw": "Living life on the edge",
+    "value": "生活在边缘"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/daredevil/4",
+    "raw": "Doing backflips",
+    "value": "做后空翻"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/daredevil/5",
+    "raw": "Doesn't live only once",
+    "value": "并非只有一次生命"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/wimp/0",
+    "raw": "Covered in bruises",
+    "value": "浑身擦伤"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/wimp/1",
+    "raw": "Tripped over their own feet",
+    "value": "绊倒自己的脚"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/wimp/2",
+    "raw": "Having difficulties mustering up strength",
+    "value": "难以振作起来"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/wimp/3",
+    "raw": "Just can't climb the mountain",
+    "value": "就是不能爬山"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/wimp/4",
+    "raw": "Wishes it didn't skip monster gym class",
+    "value": "希望它没有翘怪物体育课"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/lazy/0",
+    "raw": "Doesn't want to leave its capture pod",
+    "value": "不想离开它的捕获舱"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/lazy/1",
+    "raw": "Wants you to carry them",
+    "value": "希望被你随身携带"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/lazy/2",
+    "raw": "Binging Netflix",
+    "value": "在看网非"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/lazy/3",
+    "raw": "Doesn't feel like helping",
+    "value": "不喜欢帮忙"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/lazy/4",
+    "raw": "Thinking about their next meal",
+    "value": "考虑他们的下一顿饭"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/pathetic/0",
+    "raw": "Wallowing in their own tears",
+    "value": "沉浸在自己的眼泪中"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/pathetic/1",
+    "raw": "Feels worthless",
+    "value": "感到一文不值"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/pathetic/2",
+    "raw": "Just wishes they mattered",
+    "value": "只是希望他们能重视"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/pathetic/3",
+    "raw": "Wonders why they exist",
+    "value": "想知道为什么他们存在"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/pathetic/4",
+    "raw": "Feeling blue",
+    "value": "情绪低落"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/0",
+    "raw": "Feels like a sorry excuse for a monster",
+    "value": "感觉就像一个对不起怪物的借口"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/1",
+    "raw": "Wishes they didn't skip Monster School",
+    "value": "希望他们没有从怪物学校辍学"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/2",
+    "raw": "Wonders how they will fail you today",
+    "value": "想知道他们今天怎么会让你失望"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/3",
+    "raw": "Wishing somebody could help open a jar",
+    "value": "希望有人可以帮忙打开一个罐子"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/4",
+    "raw": "Breaking everything they touch",
+    "value": "破坏他们接触的一切"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/5",
+    "raw": "Keeps tripping up",
+    "value": "不断绊倒"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/6",
+    "raw": "Repeatedly dropping expensive possessions",
+    "value": "反复弄丢贵重物品"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/7",
+    "raw": "Considering learning juggling",
+    "value": "考虑学习杂耍"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/8",
+    "raw": "Feeling prone to mistakes",
+    "value": "感觉容易出错"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/9",
+    "raw": "Slipping up",
+    "value": "滑倒"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/10",
+    "raw": "Feeling clumsy",
+    "value": "觉得自己很笨拙"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/11",
+    "raw": "Afraid of breaking something",
+    "value": "害怕破坏东西"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/12",
+    "raw": "Wondering if they could operate a space ship",
+    "value": "想知道他们是否可以操纵太空飞船"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/13",
+    "raw": "Cursing their luck",
+    "value": "诅咒他们的运气"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/14",
+    "raw": "Cursing their dexterity",
+    "value": "诅咒他们的灵巧"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/15",
+    "raw": "Considering buying insurance",
+    "value": "考虑购买保险"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/16",
+    "raw": "Swearing they didn't do it",
+    "value": "发誓他们没有做"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/17",
+    "raw": "Thinking they left something behind",
+    "value": "认为他们留下了一些东西"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/18",
+    "raw": "Feeling like they've lost something",
+    "value": "感觉好像他们失去了一些东西"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/19",
+    "raw": "Feeling dangerous",
+    "value": "感到危险"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/20",
+    "raw": "Compulsively wobbling",
+    "value": "强迫性地摇摆"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/21",
+    "raw": "Systematically ruining everything",
+    "value": "系统地破坏一切"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/22",
+    "raw": "Unhappy with the physics",
+    "value": "对物理学不满意"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/23",
+    "raw": "In fear of falling down",
+    "value": "害怕跌倒"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/24",
+    "raw": "Hands are slippery",
+    "value": "手很贱"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/25",
+    "raw": "Fingers are buttery",
+    "value": "手指沾满黄油"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/26",
+    "raw": "Wobbling like jelly",
+    "value": "像果冻一样摇摆"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/27",
+    "raw": "Feeling like they can't be trusted",
+    "value": "感觉像他们不能被信任"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/28",
+    "raw": "Dropping the ball",
+    "value": "丢球"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/29",
+    "raw": "Lacking dignity",
+    "value": "缺乏自尊"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/30",
+    "raw": "Stubbed their toe",
+    "value": "伸出脚趾头"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/31",
+    "raw": "Gangling",
+    "value": "甘霖娘"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/clumsy/32",
+    "raw": "Feeling ungainly",
+    "value": "感到不舒服"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/0",
+    "raw": "Ponders why they're alive",
+    "value": "思考为什么他们还活着"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/1",
+    "raw": "Embracing their eventual demise",
+    "value": "垂死挣扎"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/2",
+    "raw": "Wishes their capture pod would break",
+    "value": "希望他们的捕获舱破裂"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/3",
+    "raw": "Feeling depressed",
+    "value": "感觉郁闷"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/4",
+    "raw": "Feels like they don't matter",
+    "value": "感觉他们并不重要"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/5",
+    "raw": "Is full of regret",
+    "value": "充满遗憾"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/6",
+    "raw": "Shedding a single tear",
+    "value": "潸然泪下"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/7",
+    "raw": "Feels like no one understands them",
+    "value": "感觉没有人理解他们"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/8",
+    "raw": "Feeling very emotional",
+    "value": "感觉很情绪化"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/9",
+    "raw": "Just wants to stay in the dark forever",
+    "value": "只想永远留在黑暗中"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/10",
+    "raw": "Has much sadness in their heart",
+    "value": "心中充满悲伤"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/11",
+    "raw": "Feeling lost",
+    "value": "感到失落"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/12",
+    "raw": "Feeling alone",
+    "value": "感到孤单"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/13",
+    "raw": "Feeling down",
+    "value": "心情失落"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/14",
+    "raw": "Feeling misunderstood",
+    "value": "感到误解"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/15",
+    "raw": "Considering a fringe",
+    "value": "考虑边缘化"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/16",
+    "raw": "Feeling angry at the world",
+    "value": "对世界感到愤怒"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/17",
+    "raw": "Feeling miserable",
+    "value": "感到痛苦"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/18",
+    "raw": "Feeling like a failure",
+    "value": "感觉自己很失败"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/19",
+    "raw": "Feeling feelings",
+    "value": "感受感情"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/20",
+    "raw": "Feeling sad",
+    "value": "感到悲伤"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/21",
+    "raw": "Feeling emotional",
+    "value": "情绪激动"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/22",
+    "raw": "Inventing a new kind of sadness",
+    "value": "发明一种新的悲伤"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/23",
+    "raw": "Having an existential crisis",
+    "value": "遭遇生存危机"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/24",
+    "raw": "Feeling excluded",
+    "value": "感到被排斥"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/25",
+    "raw": "Questioning the point",
+    "value": "质疑这一点"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/26",
+    "raw": "Feeling like sobbing",
+    "value": "感觉想哭"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/27",
+    "raw": "Feeling depressed",
+    "value": "感觉郁闷"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/28",
+    "raw": "Feeling introverted",
+    "value": "感到内向"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/29",
+    "raw": "Giving up",
+    "value": "选择放弃"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/30",
+    "raw": "Giving in",
+    "value": "选择屈服"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/31",
+    "raw": "Feeling deserted",
+    "value": "感到被抛弃"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/32",
+    "raw": "Feeling like sobbing",
+    "value": "感觉想哭"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/33",
+    "raw": "Attempting to repair their self esteem",
+    "value": "试图恢复自尊"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/emo/34",
+    "raw": "Contemplating a piercing",
+    "value": "考虑穿刺"
+  }
+]

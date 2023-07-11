@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sulphur Troll",
+    "value": "硫磺巨魔"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "One of the more dangerous varieties of troll next to Mr. Chow.",
+    "value": "一种更危险的巨魔，仅次于周先生。"
+  }
+]

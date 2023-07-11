@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An ancient Avian weapon that fires beams of dazzling light energy.",
+    "value": "一种古老的翼族武器，能发射出耀眼的光束。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Light Beam",
+    "value": "轻光束"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "PLUR",
+    "value": "PLUR(和平、爱、团结、尊重)"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glowstick",
+    "value": "荧光棒"
+  }
+]

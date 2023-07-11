@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Etched with a strange language. Kinda creepy, too.",
+    "value": "表面蚀刻着陌生的语言，并且这些字好像在不停蠕动着。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Baseboard",
+    "value": "远古面板"
+  }
+]

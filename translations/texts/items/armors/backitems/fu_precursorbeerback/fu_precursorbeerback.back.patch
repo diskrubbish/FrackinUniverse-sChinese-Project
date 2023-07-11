@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Generates an infinite amount of beer.",
+    "value": "利用奇妙的先驱科技生产无限量的啤酒吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Beer Generator",
+    "value": "先驱啤酒酿造机"
+  }
+]

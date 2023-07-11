@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shiny, dangerous, and fun!",
+    "value": "闪亮，危险，有趣！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Hammer",
+    "value": "高熔点锤"
+  }
+]

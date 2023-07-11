@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy stone fence.",
+    "value": "一个坚固的石栅栏。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightarian Fence",
+    "value": "夜族栅栏"
+  }
+]

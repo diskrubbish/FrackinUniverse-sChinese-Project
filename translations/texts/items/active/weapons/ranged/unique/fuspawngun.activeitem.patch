@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Needles of death.\n^cyan;Inflicts Poison^reset;",
+    "value": "死亡针雨。\n^cyan;附加中毒效果^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Floran Needler",
+    "value": "叶族刺针枪"
+  }
+]

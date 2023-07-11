@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Obliterating blasts that promise death.\n^cyan;Energy weapon^reset;",
+    "value": "必死无疑的湮灭爆炸。\n^cyan;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Titan",
+    "value": "阳清泰坦"
+  }
+]

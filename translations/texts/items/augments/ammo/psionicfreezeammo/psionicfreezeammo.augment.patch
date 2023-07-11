@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Freeze enemies with your mind.",
+    "value": "用意念冻结敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cryokinesis Ammo",
+    "value": "冷冻弹药"
+  }
+]

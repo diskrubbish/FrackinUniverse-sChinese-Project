@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Potentially dangerous viral cells.",
+    "value": "有潜在危险的病毒细胞。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Viral Cell",
+    "value": "病毒细胞"
+  }
+]

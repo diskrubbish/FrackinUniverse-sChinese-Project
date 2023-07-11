@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Heavy-duty quietus weapon with seriously sharp edges.",
+    "value": "重型的寂灭武器，带有不能忽视的利刃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Generals' Blade",
+    "value": "将军长剑"
+  }
+]

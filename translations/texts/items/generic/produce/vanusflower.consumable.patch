@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+3 Defense^reset;: 3m",
+    "value": "^yellow;^reset;^cyan;+3 防御^reset;: 3m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vanus Flower",
+    "value": "金星花"
+  }
+]

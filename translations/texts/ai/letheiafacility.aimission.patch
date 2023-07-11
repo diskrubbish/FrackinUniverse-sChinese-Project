@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "The Letheia Corporation apparently has a mysterious facility on a far-off planet. I wonder what's going on there...",
+    "value": "莱西亚公司似乎在一个遥远的星球有一个秘密设施。我想知道那里在发生什么..."
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "The Letheia Facility (8)",
+    "value": "莱西亚基地(8)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "The Letheia Facility (8) (R)",
+    "value": "重新挑战莱西亚基地(8)"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Delicious spirits infused with raw chaos. And you're going to drink it.\n^pink;Shadow Taint ^cyan;Immunity^gray;, ^red;Drunk ^gray;(^white;1m^gray;)^reset;",
+    "value": "充满原始混乱的美酒。而且你要喝它。\n^red;醉酒^gray;，^reset;赋予^pink;暗影^cyan;免疫^gray;(^white;持续1m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Spirits",
+    "value": "暗影烈酒"
+  }
+]

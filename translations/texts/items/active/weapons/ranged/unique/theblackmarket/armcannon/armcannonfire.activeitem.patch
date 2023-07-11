@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Attaches to the forearm. Fires incendiary blasts.\n^yellow;Counts as 'flamethrower' and 'machinepistol' for set bonuses^reset;",
+    "value": "可装在手臂上，发射出燃烧型子弹。\n^yellow;火箭发射器、自动手枪^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Arm Cannon (Fire)^reset;",
+    "value": "^orange;臂炮(火焰)"
+  }
+]

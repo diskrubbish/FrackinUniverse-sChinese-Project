@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A unique plasma phase weapon specially designed for breaching hulls.\n^yellow;Burns targets^reset;",
+    "value": "一种独特的等离子武器，专为破坏船体研发。\n^yellow;点燃目标"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Breach Gun",
+    "value": "劫掠霰弹枪"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Breach Ripper^reset; ^yellow;^reset;",
+    "value": "^cyan;劫掠开膛手^reset; ^yellow;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "A unique plasma phase weapon specially designed for breaching hulls.\n^yellow;Burns targets^reset;",
+    "value": "一种独特的等离子武器，专为破坏船体研发。\n^yellow;点燃目标"
+  }
+]

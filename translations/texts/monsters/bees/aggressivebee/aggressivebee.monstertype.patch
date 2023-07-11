@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aggressive Bee",
+    "value": "好斗蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Warning: Do not provoke these bees.",
+    "value": "警告：千万别挑衅这种蜜蜂。"
+  }
+]

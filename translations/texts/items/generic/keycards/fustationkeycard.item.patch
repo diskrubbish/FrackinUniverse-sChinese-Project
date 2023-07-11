@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An expensive Kirhosi keycard, providing VIP access to space station teleporters.",
+    "value": "一张昂贵的鼠族钥匙卡，提供使用空间站传送器VIP通道的权限。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kirhosi Station Keycard",
+    "value": "鼠人空间站贵宾卡"
+  }
+]

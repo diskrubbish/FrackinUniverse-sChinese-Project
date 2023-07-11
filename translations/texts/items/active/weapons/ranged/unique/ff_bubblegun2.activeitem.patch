@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It looks like a harmless bubble gun. It isn't.\n^yellow;Inflicts radiation burn^reset;",
+    "value": "它看起来像一个无害的泡泡枪。 事实并非如此。\n^cyan;附加辐射烧伤效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Jake",
+    "value": "杰克"
+  }
+]

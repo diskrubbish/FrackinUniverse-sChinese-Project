@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This symbol tingles your memories, but you can't quite place where you've seen it.",
+    "value": "这个符号刺痛着你的记忆，但是你不能确定你在哪里见过它。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Strange Carving",
+    "value": "奇异雕印"
+  }
+]

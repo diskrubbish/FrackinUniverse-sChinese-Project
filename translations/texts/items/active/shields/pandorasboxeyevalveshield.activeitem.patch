@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bivalve shell of extreme durability. It's a little heavy though.",
+    "value": "一个非常耐用的双瓣贝壳，虽然有些重。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Eyevalve Shield",
+    "value": "瞳孔贝壳护盾"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Chewy... But in a nice way. ^orange;Type: Cooked Meat^reset;",
+    "value": "非常耐嚼。\n^orange;类型：熟肉食^reset;"
+  }
+]

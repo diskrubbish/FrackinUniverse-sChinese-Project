@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that grants +^green;0.74^reset;% HP/s Regen",
+    "value": "一个赋予+^green;0.74^reset;% 每秒HP恢复的EPP模块。"
+  }
+]

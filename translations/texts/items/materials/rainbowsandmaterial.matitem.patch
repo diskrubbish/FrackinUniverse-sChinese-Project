@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rainbow-hued sand.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "彩虹色的沙子。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rainbow Sand",
+    "value": "彩虹沙"
+  }
+]

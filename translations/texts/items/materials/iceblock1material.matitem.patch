@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Deep-Frozen Ice",
+    "value": "深冻冰"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wonderfully layered bit of icy ground.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "这是一块层次分明的冰地。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  }
+]

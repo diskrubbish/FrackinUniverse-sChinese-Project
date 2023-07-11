@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A very neat, gentle-looking bottom piece.",
+    "value": "一套非常整洁，看起来温文尔雅的下半身套装。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Suit bottom",
+    "value": "西装下装"
+  }
+]

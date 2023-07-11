@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Burning with a need for blood.",
+    "value": "燃烧着，它渴望着鲜血。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Molten Sword",
+    "value": "熔火剑"
+  }
+]

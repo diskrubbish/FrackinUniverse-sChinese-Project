@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Light and airy panels.",
+    "value": "发光的通风面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vertical Panels",
+    "value": "纵向面板"
+  }
+]

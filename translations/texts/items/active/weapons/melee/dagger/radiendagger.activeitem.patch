@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A X'ian weapon for close combat,",
+    "value": "艾肯人的近身武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Dagger",
+    "value": "艾肯匕首"
+  }
+]

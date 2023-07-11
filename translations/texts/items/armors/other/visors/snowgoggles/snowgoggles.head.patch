@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This will protect your eyes in blizzards.\n+^green;8^reset;% Ice Resist",
+    "value": "这将在暴风雪中保护你的眼睛。\n+寒气抗性^green;8^reset;%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Snow Goggles",
+    "value": "雪地护目镜"
+  }
+]

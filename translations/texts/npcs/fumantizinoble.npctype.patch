@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/default/default/0",
+    "raw": "Do hurry along, won't you? You smell terrible.",
+    "value": "滚远点，拜托？你真是臭不可闻。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/default/default/1",
+    "raw": "Ah, are you here to apply for a position? I'm afraid I'm not taking on any new manservants at present.",
+    "value": "啊，你是来应聘的吗？恐怕我现在不招收新的仆人了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/default/default/2",
+    "raw": "See yourself out, if you'd be so kind? You're tracking mud all over my floors.",
+    "value": "如果你愿意的话，你自己出来看看吧？你把泥巴弄得我满地都是。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/fumantizi/default/0",
+    "raw": "Do hurry along, won't you? You smell terrible.",
+    "value": "滚远点，拜托？你真是臭不可闻。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/fumantizi/default/1",
+    "raw": "Ah, are you here to apply for a position? I'm afraid I'm not taking on any new manservants at present.",
+    "value": "啊，你是来应聘的吗？恐怕我现在不招收新的仆人了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/fumantizi/default/2",
+    "raw": "See yourself out, if you'd be so kind? You're tracking mud all over my floors.",
+    "value": "如果你愿意的话，你自己出来看看吧？你把泥巴弄得我满地都是。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "raw": "Do hurry along, won't you? You smell terrible.",
+    "value": "滚远点，拜托？你真是臭不可闻。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "raw": "Ah, are you here to apply for a position? I'm afraid I'm not taking on any new manservants at present.",
+    "value": "啊，你是来应聘的吗？恐怕我现在不招收新的仆人了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "raw": "See yourself out, if you'd be so kind? You're tracking mud all over my floors.",
+    "value": "如果你愿意的话，你自己出来看看吧？你把泥巴弄得我满地都是。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fumantizi/default/0",
+    "raw": "Do hurry along, won't you? You smell terrible.",
+    "value": "滚远点，拜托？你真是臭不可闻。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fumantizi/default/1",
+    "raw": "Ah, are you here to apply for a position? I'm afraid I'm not taking on any new manservants at present.",
+    "value": "啊，你是来应聘的吗？恐怕我现在不招收新的仆人了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fumantizi/default/2",
+    "raw": "See yourself out, if you'd be so kind? You're tracking mud all over my floors.",
+    "value": "如果你愿意的话，你自己出来看看吧？你把泥巴弄得我满地都是。"
+  }
+]

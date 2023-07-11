@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Are you sure these are clothes?",
+    "value": "你确定这些是衣服吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Invisible Shirt",
+    "value": "隐形衬衫"
+  }
+]

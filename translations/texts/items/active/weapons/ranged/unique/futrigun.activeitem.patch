@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decidedly original .45 calibre weapon with bouncing and homing bullets.",
+    "value": "毫无疑问是一把发射弹跳和追踪子弹的点45口径武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vash's Theft",
+    "value": "窃骨者"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "A gun for those who just can't get enough death.",
+    "value": "一把为那些无法获得足够死亡的人准备的枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "Vash's Strength",
+    "value": "窃魄者"
+  }
+]

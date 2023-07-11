@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shroombop",
+    "value": "蘑菇波普"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "They stay in groups, to ensure they can safely spread their spores.",
+    "value": "它们成群结队，以确保能安全地传播孢子。"
+  }
+]

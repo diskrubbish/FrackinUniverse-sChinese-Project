@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Reach out and hit somebody.",
+    "value": "伸手打人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fire Slime Tendrils II",
+    "value": "火焰粘液触须 II"
+  }
+]

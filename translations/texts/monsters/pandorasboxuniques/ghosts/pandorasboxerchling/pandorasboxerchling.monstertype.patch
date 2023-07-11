@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Erchling",
+    "value": "恶食灵"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Their tendency to swarm makes them very hazardous.",
+    "value": "它们群居的倾向使它们非常危险。"
+  }
+]

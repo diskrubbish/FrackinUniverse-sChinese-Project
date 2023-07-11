@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These cells are protected by some means.",
+    "value": "这些基因通过某种手段保护自身。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Natural Defense",
+    "value": "防御基因"
+  }
+]

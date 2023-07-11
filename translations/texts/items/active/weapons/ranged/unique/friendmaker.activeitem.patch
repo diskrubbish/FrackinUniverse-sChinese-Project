@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Enormous damage potential.",
+    "value": "可造成巨大的伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Friendmaker",
+    "value": "跳跳火箭"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Blocker Blast",
+    "value": "拦截阵"
+  }
+]

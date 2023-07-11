@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Frosty balls of danger decimate the enemy.",
+    "value": "危险的冰霜球会消灭敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbrite Magnorb",
+    "value": "半影磁力珠"
+  }
+]

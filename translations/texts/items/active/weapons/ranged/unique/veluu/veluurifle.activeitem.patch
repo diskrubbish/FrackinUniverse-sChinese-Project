@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A popular sniper option among Vel'uuish.\n^cyan;Hunting weapon^reset;",
+    "value": "在灵猫之间是种受欢迎的狙击用枪。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vel'uuish Rifle",
+    "value": "灵猫步枪"
+  }
+]

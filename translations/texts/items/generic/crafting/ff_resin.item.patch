@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Useful for adhesives, and hardening certain materials.",
+    "value": "通常用于粘合或是硬化某些材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Resin",
+    "value": "树脂"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Attack!",
+    "value": "进攻！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/0",
+    "raw": "You should not...be here...",
+    "value": "你不该...踏足这里..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/1",
+    "raw": "Cursed...",
+    "value": "诅咒..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/2",
+    "raw": "This place...will be your death...",
+    "value": "这地方...你将葬身于此..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/hylotl/default/3",
+    "raw": "No...",
+    "value": "不..."
+  }
+]

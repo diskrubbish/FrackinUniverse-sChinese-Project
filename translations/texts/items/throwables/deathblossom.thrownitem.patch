@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Deathblossom Mushroom",
+    "value": "死亡蘑菇"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Toss this hideous thing, and enjoy the mayhem.",
+    "value": "据说把这个蘑菇丢出去会造成不可思议的效果。"
+  }
+]

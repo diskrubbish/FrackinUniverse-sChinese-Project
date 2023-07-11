@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Jelli",
+    "value": "无害海蜇"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Relatively harmless.",
+    "value": "近乎无害。"
+  }
+]

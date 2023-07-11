@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shoat Lamb",
+    "value": "小黏羊"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A newborn shoat's diet determines the type it grows into.",
+    "value": "刚出生的小黏羊的饮食习惯决定了它将来的成长方向。"
+  }
+]

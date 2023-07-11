@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nocturnal Bee",
+    "value": "夜行蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bee that's as black as midnight.",
+    "value": "一只像午夜一样黑的蜜蜂。"
+  }
+]

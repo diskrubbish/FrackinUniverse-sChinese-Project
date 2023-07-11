@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Immune: Extreme Radiation^reset;",
+    "value": "^cyan;免疫: 极端辐射^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mutavisk Mask",
+    "value": "飞螳面具"
+  }
+]

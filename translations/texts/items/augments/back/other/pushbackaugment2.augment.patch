@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Keeps enemies away from you with a ^orange;20ms pulsing electric field^reset;\n^cyan;22 Knockback^reset;, ^#e43774;1 Damage^reset;",
+    "value": "击退^orange;20ms脉冲力场范围^reset;以内的敌对目标。\n^cyan;击退距离：22，^#e43774;伤害：1^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Repulsor Field II",
+    "value": "EPP模块（排斥力场II）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Repulsor Field II",
+    "value": "EPP模块（排斥力场II）"
+  }
+]

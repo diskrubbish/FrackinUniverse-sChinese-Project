@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Immune^reset;: L.Nitro, Proto, Moderate Heat/Cold/Radiation, Mild Poison\n^cyan;+20%^reset; Armor, ^red;-10%^reset; Fuel",
+    "value": "^cyan;免疫^reset;：中度寒冷/炎热/辐射, 轻度毒素，原毒，液氮\n^cyan;+20%^reset;护甲，^red;-10%^reset;燃料"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chinook Mech Body",
+    "value": "奇努克机械机身"
+  }
+]

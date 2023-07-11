@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A complete set of ^green;Industrial Kitchen^white; themed furniture. ^green;A savings of 25%!^reset;",
+    "value": "一整套^green;工业厨房^white;主题家具。^green;节省25%!^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Industrial Set Bundle",
+    "value": "工业家具捆绑包"
+  }
+]

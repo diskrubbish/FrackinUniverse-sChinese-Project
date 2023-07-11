@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fully-automatic tungsten-cased rifle.",
+    "value": "一把全自动的钨套步枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tungsten Assault Rifle",
+    "value": "钨制突击步枪"
+  }
+]

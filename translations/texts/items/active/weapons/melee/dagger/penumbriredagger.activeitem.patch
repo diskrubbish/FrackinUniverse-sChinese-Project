@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Forged from lustrous penumbrite.\n^cyan;Universal Damage^reset;",
+    "value": "以有光泽的半影矿锻造。\n^cyan;通用伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbral Dagger",
+    "value": "半影匕首"
+  }
+]

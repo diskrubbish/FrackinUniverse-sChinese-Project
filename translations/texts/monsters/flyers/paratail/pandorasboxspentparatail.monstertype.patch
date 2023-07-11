@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spent Paratail",
+    "value": "精疲力竭的爆炸瓦斯"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "During storms it attaches itself to trees so as not to blow away.",
+    "value": "在暴风雨中，它会依附在树木上，以免被吹走。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Girder made of ancient materials.\n^green;Extractable^reset;.",
+    "value": "这是由古代材料制成的横梁。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Bright Girder",
+    "value": "先驱明亮横梁"
+  }
+]

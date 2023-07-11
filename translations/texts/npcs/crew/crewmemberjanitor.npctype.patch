@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I'm <selfname>... The janitor.",
+    "value": "我是<selfname>...一个清洁工。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "raw": "The name's <selfname>... The janitor.",
+    "value": "名字是<selfname>...一个清洁工。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "raw": "Floran is <selfname>... Floran's job is to sssweep. A lot.",
+    "value": "叶族人是<selfname>...叶族人的工作是清清清扫。哇哦。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+    "raw": "Floran's name is <selfname>. <selfname> the Janitor.",
+    "value": "叶族人的名字是<selfname>，清洁工<selfname>。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "raw": "Bored. I'm <selfname>... The janitor.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
+    "raw": "Underwhelmed. A job is a job, but still...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0",
+    "raw": "When a floor get's all dusty, someone's gotta sweep. That's the way it is.",
+    "value": "当地板上都是灰尘的时候，总得有人来打扫。事实就是如此。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1",
+    "raw": "The name's <selfname>, the Janitor. I take whatever work I can get round here.",
+    "value": "我叫<selfname>，一介清洁工。我在这儿能找到什么工作就干什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Janitor",
+    "value": "清洁工"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Cleanliness",
+    "value": "清洁工"
+  }
+]

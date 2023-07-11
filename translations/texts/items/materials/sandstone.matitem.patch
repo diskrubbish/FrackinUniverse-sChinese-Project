@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tough natural sandstone.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "坚硬但是自然的沙石。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Icthydaemonae Skull",
+    "value": "类鱼海豚头骨"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fossilised Icthydaemonae head.",
+    "value": "类鱼海豚的头骨化石。"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "raw": "Icthydaemonae Fossil",
+    "value": "类鱼海豚化石"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "raw": "A massive dolphin-like fossil.",
+    "value": "一块巨大的类海豚生物化石。"
+  }
+]

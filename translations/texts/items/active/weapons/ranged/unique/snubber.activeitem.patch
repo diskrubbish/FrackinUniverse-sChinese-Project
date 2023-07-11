@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires 3-round bursts of diamond-tipped rounds.\n^cyan;Piercing bursts^reset;\n^#e43774;Hunting Weapon^reset;",
+    "value": "这把枪攻击时连射3轮钻石般坚硬的子弹\n^yellow;穿透攻击^reset;\n^yellow;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Snub Gun",
+    "value": "缓冲型自动手枪"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bottle filled with brewing yeast.",
+    "value": "一个装满了酵母水的瓶子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Yeast Water",
+    "value": "酵母水"
+  }
+]

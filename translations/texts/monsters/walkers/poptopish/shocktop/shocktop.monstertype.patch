@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shocktop",
+    "value": "电击吐舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A zaptastic specimen.",
+    "value": "一个扎普塔式的标本。"
+  }
+]

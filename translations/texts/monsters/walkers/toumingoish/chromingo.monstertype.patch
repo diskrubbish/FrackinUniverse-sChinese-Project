@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chromingo",
+    "value": "陆行鸟"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The long legs allow it to stand in water to catch fish.",
+    "value": "长腿让它能够站在水里捕鱼。"
+  }
+]

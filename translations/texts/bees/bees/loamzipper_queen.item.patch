@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Loamzipper Queen",
+    "value": "拨土蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Loamzipper Queen",
+    "value": "拨土蜂后"
+  }
+]

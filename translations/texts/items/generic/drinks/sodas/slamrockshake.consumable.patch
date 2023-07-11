@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Liquid rock and...carbonation? Okay...\n^cyan;+^white;20% ^pink;Radiation ^cyan;Res ^gray;(^white;1m^gray;)^reset;",
+    "value": "液态岩石和...碳酸？好吧。\n^cyan;+^white;20%^pink;辐射^cyan;抗性^gray;(^white;持续1m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slamrock Shake",
+    "value": "草木激荡"
+  }
+]

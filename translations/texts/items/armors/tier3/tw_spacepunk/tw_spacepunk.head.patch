@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Headlamp^reset;\n^orange;Set Bonuses^reset;:\n^yellow;^reset; Oxygen x^green;30^reset;",
+    "value": "^cyan;头灯^reset;\n^orange;套装奖励^reset;:\n^yellow;^reset; 氧气时长x^green;30^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spacepunk Helmet",
+    "value": "太空朋克头盔"
+  }
+]

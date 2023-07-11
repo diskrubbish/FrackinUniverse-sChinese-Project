@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Living, vital coral\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "活生生的，有生命的珊瑚。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Darkwater Coral",
+    "value": "黑液珊瑚"
+  }
+]

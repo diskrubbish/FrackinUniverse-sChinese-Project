@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Headlamp^reset;\n\n^orange;Set Bonuses^reset; (^orange;Part 1^reset;):\n^yellow;^reset; ^cyan;Auto-Medic^reset;: 10%\n^yellow;^reset; ^cyan;Adaptive Armor^reset;: 0.8x-0.5x",
+    "value": "^cyan;头灯^reset;\n\n^orange;套装奖励^reset;(^orange;第一部分^reset;):\n^yellow;^reset; ^cyan;自动医疗^reset;: 10%\n^yellow;^reset; ^cyan;自适应护甲^reset;: 0.8x-0.5x"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Densinium EVA Helm",
+    "value": "超致密EVA头盔"
+  }
+]

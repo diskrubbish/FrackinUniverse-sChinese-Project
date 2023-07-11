@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "raw": "I'm busy right now, let's chat later.",
+    "value": "我现在很忙，我们以后再聊吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/skath/default/0",
+    "raw": "On your command, Sir.",
+    "value": "听你的命令，长官。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/skath/default/1",
+    "raw": "Sir.",
+    "value": "先生。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/skath/default/2",
+    "raw": "I will follow your command.",
+    "value": "我会听从你的命令。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/skath/default/3",
+    "raw": "Understood.",
+    "value": "明白。"
+  }
+]

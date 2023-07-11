@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tester.",
+    "value": "测试用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Piss off",
+    "value": "无能狂怒"
+  }
+]

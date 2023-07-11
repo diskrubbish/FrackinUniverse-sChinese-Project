@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "We promise wearing this hat will not induce poison.",
+    "value": "我们保证戴这顶帽子不会导致中毒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toxix Hat",
+    "value": "剧毒菲狐帽"
+  }
+]

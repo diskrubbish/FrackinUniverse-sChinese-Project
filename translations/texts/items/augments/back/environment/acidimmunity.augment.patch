@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that protects against sulphuric acid. ^cyan;Immune: Acid^reset;",
+    "value": "一个能够抵御硫酸的EPP模块。\n^cyan;免疫酸蚀^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Acid Shield",
+    "value": "EPP模块（酸蚀护盾）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Acid Shield",
+    "value": "EPP模块（酸蚀护盾）"
+  }
+]

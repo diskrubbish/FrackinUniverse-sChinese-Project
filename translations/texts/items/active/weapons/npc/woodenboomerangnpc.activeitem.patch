@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An aboriginal design made in the bush.\n^cyan;Hunting weapon^reset;",
+    "value": "居住于灌木丛中的原住民的设计。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wooden Boomerang NPC",
+    "value": ""
+  }
+]

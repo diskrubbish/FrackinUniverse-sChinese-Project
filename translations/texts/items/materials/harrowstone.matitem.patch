@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rough, sharp, and irregular stone flecked with impurities.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "一种粗糙、尖锐、不规则的带有杂质的石头。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rough Stone",
+    "value": "粗糙石块"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A corpse, wound unceremoniously in cloth to prevent gore leaving a mess.",
+    "value": "一具尸体，草草地用布裹着，以防止血流得到处都是。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wrapped Corpse",
+    "value": "被包裹的尸体"
+  }
+]

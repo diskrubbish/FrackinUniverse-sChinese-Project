@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "If we act quickly, we might be able to stop the penguins! Techno City is depending on us! At least, I think...",
+    "value": "如果我们现在就动身，应该能在企鹅们毁灭科技城之前阻止它们。科技城的生死靠我们了！我觉得是这样..."
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Highway Havoc (8)",
+    "value": "毁灭之途(8)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Highway Havoc (8) (R)",
+    "value": "重新挑战毁灭之途(8)"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "With its beady eyes, it could give you the upper hand in a staring contest!",
+    "value": "这对明亮的眼睛，让你在对视大赛中占据上风！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Petricub Hat",
+    "value": "石油鬼帽"
+  }
+]

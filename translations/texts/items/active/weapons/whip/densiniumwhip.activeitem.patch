@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Incredibly dense, but ultra flexible. A shockingly good time.\n^cyan;Electrifies foes^reset;",
+    "value": "无比致密，却无比灵活。电击派对要开始了！\n^cyan;使敌人感电^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Densinium Whip",
+    "value": "超致密鞭"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "The Shoggoth",
+    "value": "修格斯"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Enormous, malign and unknowable.",
+    "value": "庞大，邪恶，不可知。"
+  }
+]

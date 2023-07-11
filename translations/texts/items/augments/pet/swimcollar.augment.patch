@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Increase your pet's liquid agility.",
+    "value": "一个宠物项圈，它可以提升宠物在液体中的敏捷性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aqua Collar",
+    "value": "水环项圈"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "raw": "Aqua Collar",
+    "value": "水环项圈"
+  }
+]

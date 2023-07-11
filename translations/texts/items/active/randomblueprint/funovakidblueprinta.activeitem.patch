@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The blueprints for energetic Novakid armour.",
+    "value": "星之子能量盔甲的蓝图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Novakid Schematics (Energy)",
+    "value": "星之子盔甲架构图(能量)"
+  }
+]

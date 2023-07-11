@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune^reset;: Grav-Rain: 2m",
+    "value": "^yellow;^reset;^cyan;免疫^reset;: 重力雨: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gemglow",
+    "value": "宝石果"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dense Proto Shale",
+    "value": "实心原体土块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Compacted organic dirt.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "压实后的原体土块。\n^green;可萃取^reset;，^orange;可筛分^reset;"
+  }
+]

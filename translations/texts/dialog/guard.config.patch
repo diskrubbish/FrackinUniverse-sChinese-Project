@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/hail/skath/default/0",
+    "raw": "Don't cause any trouble around here.",
+    "value": "不要在这里惹麻烦。"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/skath/default/1",
+    "raw": "Remember. The Vanguard watches you",
+    "value": "记住，先锋会看着你"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/skath/default/2",
+    "raw": "Behave yourself around this colony.",
+    "value": "在这个殖民地里要规矩点。"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/skath/default/3",
+    "raw": "Move along, stranger.",
+    "value": "走开，陌生人。"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/skath/default/4",
+    "raw": "Watch yourself here, stranger.",
+    "value": "小心点，陌生人。"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/skath/default/5",
+    "raw": "Don't cause any trouble and we won't get any problem.",
+    "value": "别惹麻烦，我们就不会有麻烦。"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/skath/skath/0",
+    "raw": "Good day, Sir.",
+    "value": "您好，先生。"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/skath/skath/1",
+    "raw": "The Vanguard shall preserve order on this world.",
+    "value": "先锋部队将维护这个世界的秩序。"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/skath/skath/2",
+    "raw": "Please behave around here, Sir. We don't need any incidents.",
+    "value": "先生，请注意安全，我们不希望发生任何意外。"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/skath/skath/3",
+    "raw": "Don't worry, Sir. This colony is well guarded.",
+    "value": "别担心，长官，这个殖民地戒备森严。"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/skath/skath/4",
+    "raw": "Sir.",
+    "value": "先生。"
+  },
+  {
+    "op": "replace",
+    "path": "/hail/skath/skath/5",
+    "raw": "Walk well, Brother.",
+    "value": "走好，兄弟。"
+  }
+]

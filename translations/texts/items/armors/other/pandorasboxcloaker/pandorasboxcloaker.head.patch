@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A helmet that hides headwear.",
+    "value": "一件隐藏了头部装备的胸甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Helmet Cloaker",
+    "value": "隐形头盔"
+  }
+]

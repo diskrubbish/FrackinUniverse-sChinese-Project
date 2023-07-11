@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Chunks of flesh from a horrifying Shoggoth.",
+    "value": "来自可怕的修格斯，哪怕修格斯已经死亡，这块肉仍然在蠕动。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shoggoth Flesh",
+    "value": "修格斯肉"
+  }
+]

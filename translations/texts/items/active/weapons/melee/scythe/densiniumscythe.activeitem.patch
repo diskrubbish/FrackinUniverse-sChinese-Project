@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perhaps the deadliest curved blade around.",
+    "value": "这，就是最致命的镰刀。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Densinium Scythe",
+    "value": "超致密镰刀"
+  }
+]

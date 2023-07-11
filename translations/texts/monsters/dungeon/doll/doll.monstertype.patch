@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Creepy Doll",
+    "value": "阴森玩偶"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Possessed by an evil spirit",
+    "value": "它被一个邪恶的灵魂附身了。"
+  }
+]

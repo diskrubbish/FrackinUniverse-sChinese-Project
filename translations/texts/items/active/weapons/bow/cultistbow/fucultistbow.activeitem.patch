@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Because who doesn't want a bow that can aim with its own eye?",
+    "value": "毕竟谁不想要一把能自己用眼睛瞄准的弓呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cultist Bow",
+    "value": "异教弓"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Shadow Wave",
+    "value": "暗影波"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I guess that settles it. This...thing...was Wagner.",
+    "value": "我想任务解决了，这应该就是……瓦格纳的ID卡，我是说曾经是。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wagner's ID card",
+    "value": "瓦格纳的ID卡"
+  }
+]

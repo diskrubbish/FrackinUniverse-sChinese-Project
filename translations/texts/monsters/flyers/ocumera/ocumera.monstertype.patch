@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ocumera",
+    "value": "奥乌梅拉"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A flying scorpion-tailed cyclops.",
+    "value": "一种拥有飞行能力的蝎尾独眼怪物。"
+  }
+]

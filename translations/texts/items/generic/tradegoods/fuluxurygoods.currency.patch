@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sealed crate of luxorious trinkets, valuable for interstellar trade.",
+    "value": "一些高价值的奢侈品，对星际贸易很有价值。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Luxury Goods",
+    "value": "奢侈品"
+  }
+]

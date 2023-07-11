@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hide those ugly EPPs with this handy item!",
+    "value": "用这些便利的玩意把那些丑陋的EPP藏起来！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Invisible Backpack",
+    "value": "隐形背包"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lightweight, yet strong blade.",
+    "value": "一把轻巧的利刃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Titanium Longsword",
+    "value": "钛制长剑"
+  }
+]

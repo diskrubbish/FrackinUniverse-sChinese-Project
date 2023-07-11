@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/helpme/cat/default/0",
+    "raw": "Hiss! Hostile intentions sensed! Somebody help meowt!",
+    "value": "嘶！感觉到敌意！快来人帮帮我喵！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/cat/default/1",
+    "raw": "Meow! I don't want to lose a life! I only get nine!",
+    "value": "喵，我不想失去一条命，我也只有九条命！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/cat/default/2",
+    "raw": "Hiss! Meownster! Help!",
+    "value": "嘶！有敌人！救命！"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/cat/default/0",
+    "raw": "Sensation of hostility is fading... Meow!",
+    "value": "敌意正在消退...喵！"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/cat/default/1",
+    "raw": "Meow! Yay! Meownster is gone!",
+    "value": "喵！耶！敌人已经消失了！"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/cat/default/2",
+    "raw": "Meow? I didn't lose a life?",
+    "value": "喵？我没有失去一条命？"
+  }
+]

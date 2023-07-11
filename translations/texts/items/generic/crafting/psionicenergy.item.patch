@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The harnessed mental energy of sapient beings, ready to be used as power.\n^blue;+^white;10 ^blue;Fuel^reset;",
+    "value": "被智慧生物利用的精神能量，已备作为能源使用。\n^blue;燃料+^white;10^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Psi-1 Energy",
+    "value": "1级灵能"
+  }
+]

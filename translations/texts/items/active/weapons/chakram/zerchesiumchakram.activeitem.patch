@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Zerchesium power of crystalline destruction.",
+    "value": "感受高熔点矿带来的结晶破坏力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Chakram",
+    "value": "高熔点环刃"
+  }
+]

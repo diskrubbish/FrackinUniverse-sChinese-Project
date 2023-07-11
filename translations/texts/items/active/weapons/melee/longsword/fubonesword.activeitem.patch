@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hellishly creepy. Devilishly stylish.\n^cyan;Floran^reset;",
+    "value": "这把武器拥有令人毛骨悚然的外形。\n^cyan;叶族^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bone Longsword",
+    "value": "骨制长剑"
+  }
+]

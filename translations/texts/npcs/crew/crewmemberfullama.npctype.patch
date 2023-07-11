@@ -1,0 +1,206 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
+    "raw": "Oi' kin taste tha blood o' me enemies!",
+    "value": "啊哈哈！血！我享受每一个敌人喷溅出的热气腾腾的血！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
+    "raw": "Fancy a bit o' murder?",
+    "value": "来开一场凶杀派对？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
+    "raw": "We should CRUSH our foes together!",
+    "value": "我们应当并肩作战！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
+    "raw": "I'd join ye if ye'd have me, sir!",
+    "value": "我想加入你的队伍，先生！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "Oi'll be here for you if ye need someone to help ye fight baddies!",
+    "value": "我会待在这里，以防你需要一些人手来对付那些坏蛋！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "raw": "If ye need protection, ye know where to find me!",
+    "value": "如果你需要保护，你知道在哪里找到我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+    "raw": "If ye need me in battle, Oi'll be here!",
+    "value": "如果你在战斗中需要我的帮助，请记得我就在这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "Come at me, yeh craven bastards!",
+    "value": "来吧，卑鄙的混蛋！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "raw": "I'll mangle the lot o' ye!",
+    "value": "我会捣蛋的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+    "raw": "Wot just happened?",
+    "value": "刚刚发生了啥事？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1",
+    "raw": "Oi'm back! And alive!",
+    "value": "我回来了！并且还活着！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/2",
+    "raw": "Oi'm back, and in one piece!",
+    "value": "我回来了，毫发未伤！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/3",
+    "raw": "Oi'm alive again! That's good.",
+    "value": "我又一次生还了！真好。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/4",
+    "raw": "Oi' don't think I respawned properly...",
+    "value": "我不认为我重生得很好..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/5",
+    "raw": "Me head hurts.",
+    "value": "我脑壳疼..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/6",
+    "raw": "What was oi doing just before I died?",
+    "value": "我死的时候发生了什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+    "raw": "Oi'll just wait here.",
+    "value": "我就在这里等待。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
+    "raw": "Oi'll stay here. Come back when ye need me, captain!",
+    "value": "我会待在这里。当你需要我的时候就请回来，船长！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/2",
+    "raw": "Oi'll stay here for now, captain.",
+    "value": "现在我会待在这里，船长。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/3",
+    "raw": "Do ye need me to stay here?",
+    "value": "你需要我待在这里吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/4",
+    "raw": "Oi'll stay here for now, then.",
+    "value": "现在我会待在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/5",
+    "raw": "Oi'll stay here.",
+    "value": "我会待在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
+    "raw": "Aye, captain!",
+    "value": "明白，船长！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/1",
+    "raw": "Captain!",
+    "value": "是是是的，船长！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/2",
+    "raw": "Let's get going!",
+    "value": "让我们出发吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/3",
+    "raw": "Let's go, captain!",
+    "value": "船长，出发吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/4",
+    "raw": "Are we going somewhere?",
+    "value": "我们要去哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+    "raw": "Oi' can't reach you!",
+    "value": "我跟不上你了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
+    "raw": "Ye too far!",
+    "value": "太远了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
+    "raw": "Oi, wait up!",
+    "value": "嘿，等等！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
+    "raw": "Don't go too far!",
+    "value": "你离得太远了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
+    "raw": "Let me catch up!",
+    "value": "等等我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Berserker",
+    "value": "狂战士"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Murderology",
+    "value": "谋杀"
+  }
+]

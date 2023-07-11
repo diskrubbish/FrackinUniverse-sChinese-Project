@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Despite simplicity, it leaks with deadly toxins.",
+    "value": "造型简单，却能释放致命的毒素。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Predator Scythe",
+    "value": "捕食者镰刀"
+  }
+]

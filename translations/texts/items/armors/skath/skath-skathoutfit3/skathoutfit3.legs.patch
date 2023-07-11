@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Moderately comfy, reasonably easy to wear.",
+    "value": "适度舒适，穿着相当方便。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skathian Straights",
+    "value": "绘世者直统裤"
+  }
+]

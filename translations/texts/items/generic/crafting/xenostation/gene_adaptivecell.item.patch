@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These cells aren't hardy, but they adapt quickly to survive.",
+    "value": "这种基因不算强壮，但它们适应性很强。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Adaptive Cells",
+    "value": "自适应基因"
+  }
+]

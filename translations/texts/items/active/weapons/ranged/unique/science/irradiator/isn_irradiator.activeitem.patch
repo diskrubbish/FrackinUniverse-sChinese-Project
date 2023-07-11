@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Most certainly against intergalactic weapons laws.\n^yellow;Area-Effect weapon^reset;\n^green;Inflicts radiation burn^reset;",
+    "value": "绝对违反了星际武器法的武器。\n^cyan;附加辐射烧伤效果\n^yellow;范围性武器^reset;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradiator",
+    "value": "烈辐"
+  }
+]

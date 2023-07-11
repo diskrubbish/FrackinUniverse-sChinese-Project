@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Not the kind of fuel you need... \n^blue;Glow^reset; 120s ^blue;+^reset;40 ^blue;Fuel^reset; ^orange;Type: Cooked Meat + Vegetables + Dairy + Eggs^reset;",
+    "value": "这种加油方式为时过早... \n^blue;发光^reset;120s^blue;\n燃料^reset;+40 ;\n^orange;类型： 熟肉食 + 蔬菜 + 蛋奶"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Erchius Omlette",
+    "value": "递质蛋包饭"
+  }
+]

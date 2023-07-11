@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Flash em with flashy gold!",
+    "value": "一想到闪闪发光的黄金会刺进敌人的肚子，就觉得乐趣十足！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gold Rapier",
+    "value": "金制刺剑"
+  }
+]

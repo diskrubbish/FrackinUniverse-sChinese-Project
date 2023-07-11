@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An icy platform made of beeswax.",
+    "value": "一个冰冷的平台，使用蜂蜡制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frozen Wax Platform",
+    "value": "冷冻蜂蜡平台"
+  }
+]

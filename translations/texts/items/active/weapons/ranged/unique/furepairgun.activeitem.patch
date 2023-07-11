@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Repairs damaged mechs. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "修理损坏的机甲。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mech Repair Tool",
+    "value": "机甲修理工具"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Mech Repair Tool II ^cyan;^reset;",
+    "value": "机甲修理工具 II ^cyan;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "Mech Repair Tool III ^white;^reset;",
+    "value": "机甲修理工具 III ^white;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/shortdescription",
+    "raw": "Mech Repair Tool IV ^green;^reset;",
+    "value": "机甲修理工具 IV ^green;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters4/shortdescription",
+    "raw": "Mech Repair Tool V ^green;^reset;",
+    "value": "机甲修理工具 V ^green;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters5/shortdescription",
+    "raw": "Mech Repair Tool VI ^yellow;^reset;",
+    "value": "机甲修理工具 VI ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters6/shortdescription",
+    "raw": "Mech Repair Tool VII ^yellow;^reset;",
+    "value": "机甲修理工具 VII ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters7/shortdescription",
+    "raw": "Mech Repair Tool VIII ^yellow;^reset;",
+    "value": "机甲修理工具 VIII ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters8/shortdescription",
+    "raw": "Mech Repair Tool IX ^#e43774;^reset;",
+    "value": "机甲修理工具 IX ^#e43774;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters8/description",
+    "raw": "Repairs damaged mecha. ^green;Fully Upgraded^reset;.",
+    "value": "修理损坏的机甲。\n^green;已完全升级^reset;。"
+  }
+]

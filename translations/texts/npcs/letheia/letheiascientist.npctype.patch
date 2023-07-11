@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "A corporate spy!",
+    "value": "哈，我发现了其他公司派来的间谍！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "raw": "This is a restricted zone!",
+    "value": "这是禁区！滚出去！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "raw": "Where's your ID?",
+    "value": "你的工作牌呢？我可不认识你。"
+  }
+]

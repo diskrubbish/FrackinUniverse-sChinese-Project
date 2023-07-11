@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Reliable, sturdy and stabby.",
+    "value": "可靠，坚固，稳定。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tungsten Rapier",
+    "value": "钨制刺剑"
+  }
+]

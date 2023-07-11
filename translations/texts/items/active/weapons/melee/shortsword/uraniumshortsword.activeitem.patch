@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's actually quite deadly.",
+    "value": "这把武器非常致命。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Uranium War-Knife",
+    "value": "铀制战刀"
+  }
+]

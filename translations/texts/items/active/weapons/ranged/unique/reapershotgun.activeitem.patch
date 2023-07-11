@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires freezing dark matter flechettes.\n^cyan;Freezes enemies^reset;",
+    "value": "发射冻结暗物质的碎片。\n^cyan;冻结敌人^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tk-2 Showstopper",
+    "value": "Tk-2 搅局者"
+  }
+]

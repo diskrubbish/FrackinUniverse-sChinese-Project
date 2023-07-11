@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cherry Mash, the product of crushed and squeezed cherries.",
+    "value": "樱桃压榨后的产物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cherry Mash",
+    "value": "樱桃醪"
+  }
+]

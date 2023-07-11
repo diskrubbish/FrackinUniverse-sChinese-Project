@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A backpack with an attached xenon light. More light than you'll ever need!",
+    "value": "一种附加了氙气灯的背包，比你所需要的更加明亮！\n^green;发出非常明亮的光^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xenon Pack",
+    "value": "氙气背包"
+  }
+]

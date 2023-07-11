@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tumbling heap of squishy eyeballs.\n^green;Extractable^reset;.",
+    "value": "一堆翻滚中的湿润眼球。\n^green;可萃取^reset;。"
+  }
+]

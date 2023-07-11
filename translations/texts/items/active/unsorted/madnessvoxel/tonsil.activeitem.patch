@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "So long as you hold this, the deceased have great luck.",
+    "value": "只要你拿着这个，死者就会有很大的好运。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A Good Luck Tonsil",
+    "value": "幸运扁桃体"
+  }
+]

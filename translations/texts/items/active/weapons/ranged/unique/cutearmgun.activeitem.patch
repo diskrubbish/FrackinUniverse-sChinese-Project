@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Attaches to the forearm. Fires deadly blasts.\n^yellow;Counts as 'energy' for set bonuses^reset;",
+    "value": "附着在手臂上，发射致命的爆破。\n^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prismatic Arm Blaster",
+    "value": "棱镜臂枪"
+  }
+]

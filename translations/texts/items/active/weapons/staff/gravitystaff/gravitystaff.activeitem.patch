@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Primary^reset;: Foreground, ^orange;Secondary^reset;: Background.",
+    "value": "^orange;主要攻击^reset;：前景，^orange;次要攻击^reset;：背景"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Matter Staff",
+    "value": "宗师法杖"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Gravity Siphon (R)",
+    "value": "重力虹吸（R）"
+  }
+]

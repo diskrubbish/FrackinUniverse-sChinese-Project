@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that grants +^green;25^reset; Poison Resistance and Poison Immunity",
+    "value": "一个赋予+^green;25^reset;%毒素抗性与中毒免疫的EPP模块。"
+  }
+]

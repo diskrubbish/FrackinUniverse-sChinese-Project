@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tangy fruit with a highly sought flavor. ^green;Type: Fruit^reset;",
+    "value": "一块泡泡糖口味的霓虹瓜。\n^green;类型：素食^reset;"
+  }
+]

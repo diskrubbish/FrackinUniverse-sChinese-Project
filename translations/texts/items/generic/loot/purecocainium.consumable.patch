@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You probably shouldn't be seen carrying this around.\n^cyan;+^white;30 ^cyan;EP^gray;, ^cyan;Extremely Caffeinated^gray;, ^red;-^white;30 ^red;Defense^gray;, ^red;Insanity^gray;, ^red;Poisoned ^gray;(^white;220s^gray;)^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pure Cocanium",
+    "value": ""
+  }
+]

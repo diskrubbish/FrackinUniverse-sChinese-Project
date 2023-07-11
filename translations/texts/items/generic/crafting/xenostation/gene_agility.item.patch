@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This gene increases overall physical agility or metabolism.",
+    "value": "该基因会增加物理和敏捷性还有新陈代谢能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Agility",
+    "value": "敏捷基因"
+  }
+]

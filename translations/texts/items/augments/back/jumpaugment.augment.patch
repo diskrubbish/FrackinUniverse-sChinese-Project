@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that grants +^green;20^reset;% Jump",
+    "value": "一个赋予+^green;20^reset;%跳跃高度的EPP模块。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Can YOU endure the challenge? \n^red;Burning ^reset;30s",
+    "value": "你能经受住挑战吗？\n^red;烧伤^reset;30s"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "The Cinnamon Challenge",
+    "value": "肉桂挑战"
+  }
+]

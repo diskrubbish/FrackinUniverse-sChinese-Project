@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Popular lower-street wear.\n+^green;10^reset;% Crit Damage",
+    "value": "Popular lower-street wear.\n+^green;10^reset;% 暴击伤害"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Booster Shades",
+    "value": "增强墨镜"
+  }
+]

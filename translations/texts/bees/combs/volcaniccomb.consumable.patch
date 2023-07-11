@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A volcanic honeycomb. Try placing it in a centrifuge! Good fire proofing.",
+    "value": "火山蜂巢。请尝试用离心机提炼它！具有良好的防火效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Volcanic Honeycomb",
+    "value": "火山蜂巢"
+  }
+]

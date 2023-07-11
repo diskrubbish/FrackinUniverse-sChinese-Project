@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Heal ^white;125 ^gray;(^white;10s^gray;)\n^green;Cures ^pink;Burning^gray;, ^pink;Cold^gray;, ^pink;Electrified^gray;, ^pink;Poisoned^reset;",
+    "value": "^gray;在^white;10s内^green;治疗^white;125点生命值\n^green;治疗^pink;烧伤^gray;，^pink;冰冻^gray;，^pink;带电^gray;，^pink;中毒"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medical Kit II",
+    "value": "医疗包 II"
+  }
+]

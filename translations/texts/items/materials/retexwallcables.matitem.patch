@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some neatly placed cables.",
+    "value": "一些放置整齐的电缆。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wall Cables",
+    "value": "墙壁电缆"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Excited. Cables!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wirrrre.",
+    "value": "线线线。"
+  }
+]

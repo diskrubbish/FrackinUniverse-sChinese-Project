@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tempered slime, extremely hard.",
+    "value": "钢化的粘液，非常坚硬。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Gem",
+    "value": "粘液宝石"
+  }
+]

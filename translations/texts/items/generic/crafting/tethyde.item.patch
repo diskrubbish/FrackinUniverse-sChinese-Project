@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An extremely durable material consisting of bonded durasteel and penumbrite.",
+    "value": "由耐钢和半影石组成的极其耐用的材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tethyde",
+    "value": "韧影合金"
+  }
+]

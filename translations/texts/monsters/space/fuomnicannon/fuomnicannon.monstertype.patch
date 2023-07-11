@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Omnicannon",
+    "value": "泛用加农炮"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An omni-directional point defence cannon",
+    "value": "全方位点防御炮"
+  }
+]

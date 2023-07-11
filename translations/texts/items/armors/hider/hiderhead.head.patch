@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Free your mane with this handy item!",
+    "value": "不必再遮掩你那胜人一筹的发量了！（"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Invisible Head",
+    "value": "隐式帽子装饰"
+  }
+]

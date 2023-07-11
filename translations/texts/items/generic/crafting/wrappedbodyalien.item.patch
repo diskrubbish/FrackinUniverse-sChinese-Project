@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wrapped corpse of an unknown alien species.",
+    "value": "一具被包裹着的外星人尸体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wrapped Alien Corpse",
+    "value": "被包裹的外星尸体"
+  }
+]

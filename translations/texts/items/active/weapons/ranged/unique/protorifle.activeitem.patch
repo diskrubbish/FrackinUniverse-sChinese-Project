@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An energy-based sniper rifle with a bouncy projectile.",
+    "value": "一种能量型狙击步枪，射出弹性发射物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Proto Rifle",
+    "value": "原体狙击步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Blaster Ball",
+    "value": "爆破球"
+  }
+]

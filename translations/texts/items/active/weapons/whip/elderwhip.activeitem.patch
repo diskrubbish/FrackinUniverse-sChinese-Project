@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some sort of tentacle thingy.",
+    "value": "好像某种怪物的触手一般。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Whip",
+    "value": "远古鞭"
+  }
+]

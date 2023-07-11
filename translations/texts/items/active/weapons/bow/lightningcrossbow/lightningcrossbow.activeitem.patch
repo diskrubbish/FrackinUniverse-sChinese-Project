@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Electrifying!",
+    "value": "小心，有电！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lightning Crossbow",
+    "value": "闪电弩"
+  }
+]

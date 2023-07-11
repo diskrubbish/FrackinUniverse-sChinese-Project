@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Decreases weapon reload time by -0.4s.",
+    "value": "减少武器0.4s的重新装弹时间。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Reloader IV",
+    "value": "EPP模块（重新装弹IV）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Reloader IV",
+    "value": "EPP模块（重新装弹IV）"
+  }
+]

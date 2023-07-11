@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spinemine",
+    "value": "针刺地雷"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Explodes whenever it meets someone new. No-one knows how they aren't extinct already.",
+    "value": "只要遇到新的来客就会爆炸。没人知道它们为什么还没有灭绝。"
+  }
+]

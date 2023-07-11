@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Butter, lemon, lobster, and joy. All in one. ^orange;Type: Cooked Seafood^reset;",
+    "value": "黄油，柠檬，龙虾，以及黄油。汇成一体。\n^orange;类型：熟海鲜^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lemony Lobster",
+    "value": "柠檬味龙虾"
+  }
+]

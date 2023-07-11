@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Launches tiny little pellets of death. Really, really fast.",
+    "value": "这把枪能以超快的速度发射出无数微小的死亡颗粒撕碎目标。你没听错，超快，真的超快"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cyclone",
+    "value": "旋风"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Left-click: quick harvest of crops/flowers/trees.\nRight-click: till soil",
+    "value": "左键单击：快速收获农作物/花卉/树木。\n右键单击：翻地"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Harvester Beamgun",
+    "value": "树木收割者"
+  }
+]

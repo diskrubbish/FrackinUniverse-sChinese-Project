@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;+0.08% HP Regen^reset;",
+    "value": "^green;生命恢复速度+0.08^reset;%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Leather Shield",
+    "value": "皮革盾"
+  }
+]

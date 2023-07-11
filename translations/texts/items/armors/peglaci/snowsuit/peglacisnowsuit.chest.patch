@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A loose-fitting warm coat that allows for easy movement.",
+    "value": "一件宽松的保暖外套，便于移动。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Arctic Coat",
+    "value": "北极大衣"
+  }
+]

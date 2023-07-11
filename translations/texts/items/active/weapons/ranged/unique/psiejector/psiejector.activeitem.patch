@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Focuses mental power via Psionic energy.\n^yellow;Can use various types of ammo.^reset;",
+    "value": "通过灵能聚焦精神力量。\n^yellow;可以使用各种类型的弹药。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Psionic Focus",
+    "value": "灵力光束"
+  }
+]

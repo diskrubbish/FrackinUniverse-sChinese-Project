@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Power Lance",
+    "value": "能量标枪"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A powerful thrown lance pulsing with energy.",
+    "value": "一种强有力的投掷型能量武器。"
+  }
+]

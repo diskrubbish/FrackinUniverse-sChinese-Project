@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "High-yield radioactive armor piercing rounds.",
+    "value": "高放射性穿甲弹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "DU-Rifle Mech Arm",
+    "value": "DU-步枪机甲臂"
+  }
+]

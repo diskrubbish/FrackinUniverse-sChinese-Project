@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Radioactive Soil",
+    "value": "辐射土块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This can't be safe.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "这很危险。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  }
+]

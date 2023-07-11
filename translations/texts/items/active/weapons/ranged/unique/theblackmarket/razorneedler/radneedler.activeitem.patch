@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Horribly radioactive and kinda pretty.\n^yellow;Inflicts rad-burn^reset;",
+    "value": "极具放射性，但却相当漂亮。\n^cyan;附加辐射烧伤效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#5aff00;Toxic Needler^reset;",
+    "value": "^#5aff00;毒刺风暴^reset;"
+  }
+]

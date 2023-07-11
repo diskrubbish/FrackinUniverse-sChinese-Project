@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A seemingly infinite supply of frisbees.",
+    "value": "让你感受到狂欢节的氛围！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stack o' Frisbees",
+    "value": "堆叠飞盘"
+  }
+]

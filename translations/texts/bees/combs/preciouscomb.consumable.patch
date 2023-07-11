@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A glittering honeycomb with small particles of pure crystal within.",
+    "value": "一个闪闪发光的蜂巢，里面有纯晶体的小颗粒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystalline Honeycomb",
+    "value": "水晶蜂巢"
+  }
+]

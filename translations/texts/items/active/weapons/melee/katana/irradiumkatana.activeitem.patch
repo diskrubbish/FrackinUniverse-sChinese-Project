@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Radioactive stabby fun. Two-handed.\n^yellow;5 hit combo^reset;",
+    "value": "放射性给这把武器带来了无比刺激的乐趣。双手握持。\n^yellow;5连斩^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Katana",
+    "value": "镭制武士刀"
+  }
+]

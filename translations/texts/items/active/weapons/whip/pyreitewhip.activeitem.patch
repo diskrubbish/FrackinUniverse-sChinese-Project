@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "There is no whip hotter than this. Take that as you will.\n^cyan;Inflicts Napalm^reset;",
+    "value": "没有鞭子比这更热。想拿就拿吧。\n^cyan;释放凝固汽油^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Whip",
+    "value": "永燃鞭"
+  }
+]

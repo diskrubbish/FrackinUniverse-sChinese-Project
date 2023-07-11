@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The hellish weapon of a cultist",
+    "value": "为异教徒量身定做的邪恶武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fury",
+    "value": "怒火"
+  }
+]

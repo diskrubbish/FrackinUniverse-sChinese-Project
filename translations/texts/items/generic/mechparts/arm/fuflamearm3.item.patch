@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Burninate!",
+    "value": "燃烧吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flame Arm III",
+    "value": "火焰臂 III"
+  }
+]

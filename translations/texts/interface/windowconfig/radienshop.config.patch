@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblTitle/value",
+    "raw": " Seline's Mineral Shop",
+    "value": " 硅宾矿物商店"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblSubTitle/value",
+    "raw": " Beautiful and delicious rocks.",
+    "value": " 美观好味的石头。"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnCraft/caption",
+    "raw": "Buy",
+    "value": "购买"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/btnStopCraft/caption",
+    "raw": "Cancel",
+    "value": "取消"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/tbSpinCount/regex",
+    "raw": "x?\\d{0,4}",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblProduct/value",
+    "raw": "HAVE MATERIAL",
+    "value": "材料可用"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/filter/hint",
+    "raw": "Search",
+    "value": "搜索"
+  }
+]

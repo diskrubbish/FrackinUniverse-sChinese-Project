@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Striped...",
+    "value": "条纹..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dollhouse Striped Block",
+    "value": "玩具屋条纹方块"
+  }
+]

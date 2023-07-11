@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Tile",
+    "value": "合金砖块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A finely crafted alloy tile.",
+    "value": "精心制作的合砖块。"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Acid Gun",
+    "value": "艾肯酸液枪"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange X'i-formed weapon.\n^cyan;Eats Tiles^reset;\n^yellow;Poison Rad Gas^reset;",
+    "value": "一种奇怪的X’i制式武器。\n^cyan;腐蚀地面^reset;\n^yellow;放射性毒气^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;X'ian Acid Ejector^reset;",
+    "value": "^cyan;艾肯酸液喷射器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "A strange X'i-formed weapon.\n^cyan;Eats Tiles, ^orange;+2 Projectiles^reset;^reset;\n^yellow;Poison Rad Gas^reset;",
+    "value": "一种奇怪的X’i制式武器。\n^cyan;腐蚀地面^reset;，^orange;发射物数量+2^reset;\n^yellow;放射性毒气^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "^orange;X'ian Acid Blaster^reset;",
+    "value": "^orange;艾肯酸液冲击^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "A strange X'i-formed weapon.\n^cyan;Eats Tiles, ^orange;+2 Projectiles^reset;^reset;\n^yellow;Poison Rad Gas^reset;",
+    "value": "一种奇怪的X’i制式武器。\n^cyan;腐蚀地面^reset;，^orange;发射物数量+2^reset;\n^yellow;放射性毒气^reset;"
+  }
+]

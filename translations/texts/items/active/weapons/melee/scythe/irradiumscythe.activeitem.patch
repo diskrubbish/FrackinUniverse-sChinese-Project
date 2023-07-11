@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Unsure if meant for farming or murder. Fun either way.",
+    "value": "不知道适合农业还是谋杀。无论哪种方式都很有趣吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Scythe",
+    "value": "镭制镰刀"
+  }
+]

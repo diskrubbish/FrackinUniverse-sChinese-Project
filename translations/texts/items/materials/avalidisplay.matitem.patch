@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These LED displays are a thin adhesive film that can be stuck on any surface.",
+    "value": "这种LED显示屏可以非常方便的粘贴在任何物体的表面。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "LED Display",
+    "value": "LED显示屏"
+  }
+]

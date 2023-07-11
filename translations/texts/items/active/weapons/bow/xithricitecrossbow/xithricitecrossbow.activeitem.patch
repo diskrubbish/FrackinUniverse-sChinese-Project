@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Eruptive cosmic blasts bring joy to children the world over.",
+    "value": "爆发的宇宙爆裂会给全世界的孩子们带来欢乐。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Crossbow",
+    "value": "宇宙弩"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Are these... severed monster hands? AWESOME!\n^cyan;Inflicts Bleeding^reset;",
+    "value": "这些是……被切断的怪物爪？太棒了！！\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mutaclaw",
+    "value": "怪物爪子"
+  }
+]

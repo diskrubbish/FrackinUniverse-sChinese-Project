@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Much more dangerous than it looks.\n^yellow;Counts as 'energy' for set bonuses^reset;\n^cyan;Hunting weapon^reset;",
+    "value": "比看上去要危险得多。\n^yellow;能量武器^reset;\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prismatic Shortspear",
+    "value": "棱镜短矛"
+  }
+]

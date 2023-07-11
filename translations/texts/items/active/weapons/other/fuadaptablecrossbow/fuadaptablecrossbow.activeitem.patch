@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "If you can make it better, do so.",
+    "value": "我觉得你没法再做出比它更棒的武器了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Adaptable Crossbow DX",
+    "value": "自适应弩 DX"
+  }
+]

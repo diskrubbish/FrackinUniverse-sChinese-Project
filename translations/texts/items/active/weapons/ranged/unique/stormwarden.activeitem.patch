@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Launches rapid-fire bomblets.",
+    "value": "快速地发射小型炸弹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stormwarden",
+    "value": "风暴守卫"
+  }
+]

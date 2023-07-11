@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Aegisalt, violium and ferozium have formed this into a dense alloy.",
+    "value": "一种密度极高的合金，由霓磷盐、维奥合金和菲洛合金组合而成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;Dense Alloy^reset;",
+    "value": "^#88e25b;致密合金^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Leggings favored by Peglaci hunters - waterproof and warm.",
+    "value": "紧身裤受到羊蹄族猎人们的青睐——防水、保暖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Arctic Leggings",
+    "value": "北极紧身裤"
+  }
+]

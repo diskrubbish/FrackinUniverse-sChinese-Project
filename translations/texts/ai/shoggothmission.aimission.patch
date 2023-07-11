@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "There is no communication from this remote outpost. Investigate why.",
+    "value": "这个偏远的前哨站没有任何通讯信息。我应该调查这里发生了什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "^#7fac66;Delta Freya II^reset; (7+)",
+    "value": "^#7fac66;德尔塔·弗雷亚 II^reset;(7+)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "^#7fac66;Delta Freya II^reset; (7+)(R)",
+    "value": "^#7fac66;重新挑战德尔塔·弗雷亚 II^reset;(7+)"
+  }
+]

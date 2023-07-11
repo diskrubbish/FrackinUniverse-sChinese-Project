@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Jeroboam of sweet perry!\n^cyan;+^white;10 ^cyan;Defense ^gray;(^white;45s^gray;)\n^white;35% ^red;Slow^gray;, ^red;Drunk ^gray;(^white;1m^gray;)^reset;",
+    "value": "这是超大瓶的甜梨酒！\n^cyan;+^white;10^cyan;防御^gray;(^white;持续45s^gray;)\n^white;35%^red;减速^gray;，n^red;醉酒^gray;(^white;持续1m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poire",
+    "value": "超大瓶甜梨酒"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lead the fleet in style. Gives +^green;5^reset;% Shadow Resist.",
+    "value": "引领舰队时尚。给予+^green;5^reset;% 暗影抗性."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadekin Bottoms",
+    "value": "暗影精灵下装"
+  }
+]

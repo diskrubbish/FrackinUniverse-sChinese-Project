@@ -1,0 +1,158 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": " Space station front desk",
+    "value": " 空间站前台"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": " Interact with the station",
+    "value": " 与其互动"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/goodsTradeList/children/itemList/schema/listTemplate/buyButton/caption",
+    "raw": "Buy",
+    "value": "购买"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/goodsTradeList/children/itemList/schema/listTemplate/sellButton/caption",
+    "raw": "Sell",
+    "value": "出售"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/goodsTradeList/children/itemList/schema/listTemplate/stationStockLabel/value",
+    "raw": "Station stock: ",
+    "value": "空间站库存："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/goodsTradeList/children/itemList/schema/listTemplate/sellStockLabel/value",
+    "raw": "Your stock:     ",
+    "value": "你的库存：     "
+  },
+  {
+    "op": "replace",
+    "path": "/gui/benefitsLabel/value",
+    "raw": "Benefits",
+    "value": "利益"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/benefitsBuyPriceLabel/value",
+    "raw": "Buy prices:",
+    "value": "购买价格："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/benefitsSellPriceLabel/value",
+    "raw": "Sell prices:",
+    "value": "出售价格："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/investButton/caption",
+    "raw": "Invest",
+    "value": "投资"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/investMax/caption",
+    "raw": "Max",
+    "value": "最大值"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/shopBuyButton/caption",
+    "raw": "Buy",
+    "value": "购买"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/shopTotalPriceLabel/value",
+    "raw": "TOTAL",
+    "value": "总量"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/shopSellButton/caption",
+    "raw": "Sell",
+    "value": "出售"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/text/value",
+    "raw": "I AM ERROR",
+    "value": "*我是错误的*"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/goodsTradeList/children/itemList/schema/listTemplate/buyPrice/value",
+    "raw": "x ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/goodsTradeList/children/itemList/schema/listTemplate/sellPrice/value",
+    "raw": "x ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/specialsScrollList/children/itemList/schema/listTemplate/price/value",
+    "raw": "x ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/scientificSpecialList/children/itemList/schema/listTemplate/amountIn1/value",
+    "raw": "-",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/scientificSpecialList/children/itemList/schema/listTemplate/amountOut1/value",
+    "raw": "-",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/scientificSpecialList/children/itemList/schema/listTemplate/amountIn2/value",
+    "raw": "-",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/scientificSpecialList/children/itemList/schema/listTemplate/amountOut2/value",
+    "raw": "-",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/investAmount/regex",
+    "raw": "\\d{0,5}",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/investAmount/hint",
+    "raw": "amount",
+    "value": "数量"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/shopBuyAmount/regex",
+    "raw": "x?\\d{0,5}",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/shopBuyAmount/hint",
+    "raw": "x0",
+    "value": ""
+  }
+]

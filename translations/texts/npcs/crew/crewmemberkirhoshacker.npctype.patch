@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I'll jack into your ship's mainframe, and overclock the warp drive!",
+    "value": "我会骇入您船上的主机，并对传送驱动器进行超频！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "Don't forget your bio-antivirus, boss!",
+    "value": "老大，别忘了您的生物杀毒软件！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "raw": "This'll mask your signal!",
+    "value": "这能掩盖您的信号！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Hacker",
+    "value": "骇客"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Hacker",
+    "value": "骇客"
+  }
+]

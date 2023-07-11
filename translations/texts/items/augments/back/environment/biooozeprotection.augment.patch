@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides immunity to Bio-ooze.",
+    "value": "^cyan;免疫生物软泥^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bio-Ooze Shield",
+    "value": "EPP模块（生物软泥护盾）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Bio-Ooze Shield",
+    "value": "EPP模块（生物软泥护盾）"
+  }
+]

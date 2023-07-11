@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flesh Reaper",
+    "value": "血肉收割者"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange, ghost like creature native to dark, forboding places.",
+    "value": "一种奇异而鬼魅的生物，原产于黑暗而不祥的地方。"
+  }
+]

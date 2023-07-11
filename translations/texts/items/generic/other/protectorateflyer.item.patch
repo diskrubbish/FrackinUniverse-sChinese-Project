@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This notice is about the Protectorate's emergency meeting regarding the recent unknown threat devastating member worlds.",
+    "value": "这个通知是关于大地守护团组织的围绕最近未知威胁破坏成员世界的紧急会议。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Emergency Meeting Notice",
+    "value": "紧急会议通知"
+  }
+]

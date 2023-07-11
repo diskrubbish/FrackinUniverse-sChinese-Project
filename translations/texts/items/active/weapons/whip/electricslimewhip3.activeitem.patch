@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A whip made of sticky, electrically-charged slime.",
+    "value": "由粘性带电的粘液制成的鞭子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Electric Slime Whip III",
+    "value": "电气粘液鞭 III"
+  }
+]

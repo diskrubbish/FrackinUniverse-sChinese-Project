@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pulse-blaster fueled by steam\n^yellow;Fast projectiles^reset;",
+    "value": "利用蒸汽推动的脉冲武器。\n^yellow;高射速^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shock Rifle",
+    "value": "电击步枪"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadowwraith Shroom",
+    "value": "暗影幽灵蘑菇"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This tough little bastard spits raw plasma.",
+    "value": "这个坚强的小混蛋吐出原始的等离子。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Knock enemies silly.",
+    "value": "杀敌如智障。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Impact Slime Tendrils III",
+    "value": "弹力粘液触须 III"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Impact Slime Tendrils ^yellow;^reset;",
+    "value": "弹力粘液触须 ^yellow;^reset;"
+  }
+]

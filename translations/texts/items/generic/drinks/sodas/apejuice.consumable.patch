@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It looks like a clever play on words. It isn't. It's Apex blood.\n^cyan;+^white;30% ^cyan;Rage ^gray;(^white;30s^gray;)^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ape Juice",
+    "value": "猿血汁"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Good with a cup of coffee! \n^cyan;+^reset;15%^green; HP^reset; \n^orange;Type: Grain Dairy Dessert^reset;",
+    "value": "和咖啡更配！\n^cyan;+^reset;15%^green; HP^reset;\n类型:^green; 谷物蛋奶甜食"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cinnamon Sugar Cups",
+    "value": "肉桂糖杯"
+  }
+]

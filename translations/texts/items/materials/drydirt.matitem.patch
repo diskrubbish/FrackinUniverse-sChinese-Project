@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dirt, dried solid in the sun.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "土块被太阳晒成干硬块。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  }
+]

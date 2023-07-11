@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Digger Queen",
+    "value": "挖掘蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Digger Queen",
+    "value": "挖掘蜂后"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Capable of stopping inertia completely for a brief moment.",
+    "value": "克服惯性，让你很快停下来。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gyrostabilizer",
+    "value": "回转稳定器"
+  }
+]

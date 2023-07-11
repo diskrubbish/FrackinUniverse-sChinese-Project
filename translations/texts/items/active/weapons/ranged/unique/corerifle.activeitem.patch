@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A primitive ^cyan;Energy^reset; blaster.\n^red;Prone to overheating^reset;\n^cyan;Upgrade to Empower^reset;",
+    "value": "一把原始的^cyan;能量^reset;抛射器。\n^cyan;升级以充能^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Core Rifle",
+    "value": "核心步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParametersTricorder/shortdescription",
+    "raw": "Core Rifle MkII",
+    "value": "核心步枪 MkII"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParametersTricorder/description",
+    "raw": "Explosive, super-hot power.\n^cyan;Upgrade to Empower^reset;",
+    "value": "危险的烫手之力。\n^cyan;升级以充能^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Core Rifle MkIII",
+    "value": "核心步枪 MkIII"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Lingering burning for extra pain.\n^cyan;Upgrade to Empower^reset;",
+    "value": "挥之不去的灼热，让人格外痛苦。\n^cyan;升级以充能^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "^red;Core Rifle MkIV^reset;",
+    "value": "^red;核心步枪 MkIV^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "Simple tech taken to extraordinary levels.",
+    "value": "简单的技术被强化到了非凡的水平。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Not even we're sure what it does. How mysterious!",
+    "value": "我们甚至都不确定它会做什么，多么神秘！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mysterix Hat",
+    "value": "隐秘菲狐帽"
+  }
+]

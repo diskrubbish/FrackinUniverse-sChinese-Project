@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A powerful one-handed sword.",
+    "value": "一把强大的单手武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Uncommon Longsword",
+    "value": "优秀长剑"
+  }
+]

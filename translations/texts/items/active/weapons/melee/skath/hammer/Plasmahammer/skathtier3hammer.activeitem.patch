@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This hammer strikes like the waves of a tsunami.",
+    "value": "锤击如海啸津波。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Tsunami Hammer",
+    "value": "绘世者战锤·海啸"
+  }
+]

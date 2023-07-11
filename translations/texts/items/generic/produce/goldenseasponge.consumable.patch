@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Swim Boost 2^reset;, ^cyan;Immune^reset;: Poison: 2m",
+    "value": "^yellow;^reset;^cyan;游泳加速 2^reset;, ^cyan;免疫^reset;: 中毒: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Sea Sponge",
+    "value": "金色海苔"
+  }
+]

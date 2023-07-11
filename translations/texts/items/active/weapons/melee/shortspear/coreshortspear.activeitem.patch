@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Searingly fun for everyone!\n^cyan;Hunting weapon^reset;",
+    "value": "炙热的乐趣，献给所有人！\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Core Shortspear",
+    "value": "星核短矛"
+  }
+]

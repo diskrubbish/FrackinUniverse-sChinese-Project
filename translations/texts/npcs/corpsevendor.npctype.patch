@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "raw": "  Shady Merchant",
+    "value": "  不见光的商人"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Sells ...stuff.",
+    "value": "  卖...东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "raw": "Need some corpses?",
+    "value": "需要尸体吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "raw": "Come back anytime!",
+    "value": "随时欢迎你！"
+  }
+]

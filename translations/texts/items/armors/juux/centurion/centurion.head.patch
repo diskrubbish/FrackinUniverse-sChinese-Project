@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The Pharitu hold their Centurions in high regard.",
+    "value": "法瑞图对他们的百夫长敬重有加。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Centurion Helmet",
+    "value": "百夫长头盔"
+  }
+]

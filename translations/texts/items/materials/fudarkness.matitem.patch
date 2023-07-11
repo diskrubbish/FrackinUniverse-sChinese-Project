@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Block",
+    "value": "暗影方块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hello darkness, my old friend~",
+    "value": "别来无恙,黑暗,我的老友~(《寂静之声》歌词)"
+  }
+]

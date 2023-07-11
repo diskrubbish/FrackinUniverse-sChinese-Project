@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lethal energy blade for your cutting pleasure.",
+    "value": "一个非常致命的能量近战武器，如果你享受切割敌人，它将为你带来无上的快乐。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Swordbreaker Arm",
+    "value": "剑毁机甲臂"
+  }
+]

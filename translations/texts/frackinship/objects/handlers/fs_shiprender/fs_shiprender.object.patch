@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Renders the T0 ship's background image.",
+    "value": "改装T0飞船的背景图像。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ship Render",
+    "value": "飞船改装"
+  }
+]

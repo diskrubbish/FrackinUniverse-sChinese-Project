@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block of rusted junk.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "一块生锈的废料。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Brittle Junk",
+    "value": "易碎的废料"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Compressed junk metal.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ready to sssnap.",
+    "value": "准备抢抢抢购。"
+  }
+]

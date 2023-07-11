@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A large, heavy tungsten blade.",
+    "value": "一把沉重巨大的钨制刀刃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tungsten Longsword",
+    "value": "钨制长剑"
+  }
+]

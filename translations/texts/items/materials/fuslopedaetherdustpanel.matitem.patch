@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy hull panels made from tungsten and aether material.",
+    "value": "由钨和以太物质制成的坚固船体板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Dust Panel",
+    "value": "以太尘面板"
+  }
+]

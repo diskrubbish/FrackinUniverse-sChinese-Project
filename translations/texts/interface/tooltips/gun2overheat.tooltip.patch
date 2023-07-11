@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/levelLabelTitle/value",
+    "raw": "^yellow;Tier^reset;",
+    "value": "^yellow;等级^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/damagePerShotTitleLabel/value",
+    "raw": "Damage Per Shot:",
+    "value": "每击伤害："
+  },
+  {
+    "op": "replace",
+    "path": "/speedTitleLabel/value",
+    "raw": "Rate of Fire:",
+    "value": "射速："
+  },
+  {
+    "op": "replace",
+    "path": "/overheatLabelTitleLabel/value",
+    "raw": "^green;Shots per Charge^reset;:",
+    "value": "^green;弹匣容量^reset;："
+  },
+  {
+    "op": "replace",
+    "path": "/cooldownTitleLabel/value",
+    "raw": "^#ee1414;Charge Time^reset;:",
+    "value": "^#ee1414;充能时间^reset;："
+  }
+]

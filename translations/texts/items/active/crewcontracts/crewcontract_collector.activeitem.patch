@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Loves to hurl his balls at things until they crawl inside. Also provides a 2% fuel cost reduction and a useful ^green;Thorns effect.^reset;",
+    "value": "喜欢乱丢捕捉舱，直到把怪物装进去为止。也降低4％的飞船燃料消耗，且提供实用的^green;反伤buff。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Collector Contract",
+    "value": "合同：捕捉猎人"
+  }
+]

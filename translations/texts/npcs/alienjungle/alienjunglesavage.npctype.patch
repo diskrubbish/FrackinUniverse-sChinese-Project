@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Sstab it! Sstab it!",
+    "value": "叶族人要杀了了了你！杀了你！！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "raw": "Tribe iss sstrongest!",
+    "value": "部落至至至上！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "raw": "Protect village!",
+    "value": "叶族人为村村村庄而战！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/3",
+    "raw": "Feel mighty powerss!",
+    "value": "叶族人正拥有着无比比比强大的力量！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/4",
+    "raw": "Sstab! Sstab! And then sstab again!",
+    "value": "刺！刺，叶族人要刺死死死你！"
+  }
+]

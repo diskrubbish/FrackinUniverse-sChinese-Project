@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A concealed whip made of sticky, poisonous slime.",
+    "value": "用粘性有毒粘液制成的隐蔽鞭子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Concealed Poison Slime Whip",
+    "value": "隐式毒液粘液鞭"
+  }
+]

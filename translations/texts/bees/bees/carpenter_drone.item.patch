@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Carpenter Drone",
+    "value": "木匠工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carpenter Drone",
+    "value": "木匠工蜂"
+  }
+]

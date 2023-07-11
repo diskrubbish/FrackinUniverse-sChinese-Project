@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Funga-Gnome",
+    "value": "真菌地精"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Half gnome, half mushroom. All tasty.",
+    "value": "它一半是生物，一半是蘑菇，真是好吃。"
+  }
+]

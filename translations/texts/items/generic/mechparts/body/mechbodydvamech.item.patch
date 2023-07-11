@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Immune^reset;: Pressure, Extreme Heat/Cold/Radiation/Poison, Proto",
+    "value": "^cyan;免疫^reset;: 压强, 极端毒素/寒冷/炎热/辐射"
+  }
+]

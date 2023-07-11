@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy iron. Deadly edge.",
+    "value": "用坚固的铁打造而成，非常锋利。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cruel Axe",
+    "value": "残忍的斧头"
+  }
+]

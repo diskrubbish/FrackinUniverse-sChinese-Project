@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Icebobb",
+    "value": "浮冰"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Floaty little balls of freezing pain.",
+    "value": "一团团漂浮的冰冻的阵痛。"
+  }
+]

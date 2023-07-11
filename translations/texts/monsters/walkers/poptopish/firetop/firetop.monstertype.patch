@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Firetop",
+    "value": "火焰吐舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Defecates flames. Constantly. Not an ideal indoor pet.",
+    "value": "喷吐火焰，从不间断。显示不是一只理想的室内宠物。"
+  }
+]

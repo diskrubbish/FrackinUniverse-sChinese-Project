@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A ripe red apple. ^green;Type: Fruit^reset;",
+    "value": "一颗熟透的红苹果。\n^green;类型：素食^reset;"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I'll give you a 4% fuel cost reduction whenever we're on the ship! I cook *that* well!",
+    "value": "当我在船上时，我会降低你4%的燃料消耗！这钵是肉蛋葱鸡！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "Warm meals from me will keep you fed!",
+    "value": "我的料理会让你乐不思蜀！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "raw": "Let me feed you!",
+    "value": "快来吃我做的料理！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+    "raw": "I'm gonna fill your stomache with tasty nomz.",
+    "value": "我会用美味的食物填饱肚子的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+    "raw": "Would you like this fine sandwich? Take it! Non-optional!",
+    "value": "你喜欢这份三明治？给，拿去！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
+    "raw": "Floran hasss things to help you eat! Promise iss not a baby!",
+    "value": "叶族人为你制作的食谱可以让你更健康！噢，come on，别拒绝我的好意！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1",
+    "raw": "Floran can help out! I is feeds with foodss!",
+    "value": "叶族人可以帮到你！叶族人这里有食食食物！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
+    "raw": "Floran hasss things to help! Meatss!",
+    "value": "叶族人做了一些肉肉肉料理，香喷喷的噢！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+    "raw": "Eager. I can help you out with a fine delicacy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
+    "raw": "Excited. Perhaps you could do with a hot meal?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
+    "raw": "Intrigued. I wonder if this delicious nourishment will help you?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
+    "raw": "Helpful. Take this, it will help keep you fed!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Line Chef",
+    "value": "高级厨师"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Cooking",
+    "value": "烹饪"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Masteroid (Small)",
+    "value": "分裂者(小型)"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A boron-based creature that can split its body and consciousness when damaged.",
+    "value": "一种以硼基生物，在受到伤害时可以分裂身体和意识。"
+  }
+]

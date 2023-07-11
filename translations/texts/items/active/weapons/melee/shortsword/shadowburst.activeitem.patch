@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A soul-cleaver of ageless, unknown materials.",
+    "value": "于暗影中收割生命，以未知材料制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Reaper",
+    "value": "暗影收割者"
+  }
+]

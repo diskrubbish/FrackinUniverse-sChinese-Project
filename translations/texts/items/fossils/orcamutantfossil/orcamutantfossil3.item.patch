@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Icthydaemonae Spine",
+    "value": "类鱼海豚脊柱"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fossilised Icthydaemonae spine.",
+    "value": "类鱼海豚的脊柱化石。"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "op": "replace",
+    "path": "/defaultRecruitDescription",
+    "raw": "> No data.",
+    "value": "> 无数据。"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/windowtitle/title",
+    "raw": "S.A.I.L.",
+    "value": "S.A.I.L。"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/windowtitle/subtitle",
+    "raw": "Ship-based Artificial Intelligence Lattice",
+    "value": "舰载人工智能"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/backButton/caption",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/showMissions/caption",
+    "raw": "MISSIONS",
+    "value": "任务"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/showCrew/caption",
+    "raw": "CREW",
+    "value": "船员"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/mainStack/stack/1/missionStack/stack/2/missionName/value",
+    "raw": "mission name",
+    "value": "任务名称"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/mainStack/stack/1/missionStack/stack/2/startMission/caption",
+    "raw": "DEPLOY",
+    "value": "部署"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/mainStack/stack/2/crewStack/stack/2/dismissRecruit/caption",
+    "raw": "DISMISS",
+    "value": "解雇"
+  },
+  {
+    "op": "replace",
+    "path": "/missionBreadcrumbText",
+    "raw": "MISSION",
+    "value": "任务"
+  },
+  {
+    "op": "replace",
+    "path": "/missionDeployText",
+    "raw": "DEPLOY",
+    "value": "部署"
+  },
+  {
+    "op": "replace",
+    "path": "/crewBreadcrumbText",
+    "raw": "CREW",
+    "value": "船员"
+  },
+  {
+    "op": "replace",
+    "path": "/guiConfig/homeBreadcrumb/value",
+    "raw": "HOME",
+    "value": "主页"
+  }
+]

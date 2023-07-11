@@ -1,0 +1,698 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
+    "raw": "Hello adventurer, mind if I join you?",
+    "value": "你好冒险家，介意我加入你们吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
+    "raw": "I'm <selfname>, and I really want to join a ship. Do you want to employ me?",
+    "value": "我是<selfname>，我打算找一艘飞船去探险，你打算雇用我吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
+    "raw": "You are JUST the kind of person I should work with! Fancy employing me?",
+    "value": "你就是我想要一起共事的人，不考虑雇用我吗?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
+    "raw": "I'm looking for a ship's crew to join. Are you interested?",
+    "value": "我想找一份飞船上的活儿，你的飞船缺人吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/4",
+    "raw": "I'm looking for a place among a crew. Can I join yours?",
+    "value": "你在招募船员？我可以加入你的队伍吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/5",
+    "raw": "I have skills that may help you on your ventures. Would you like to hire me?",
+    "value": "我可以帮到你，你打算雇我吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/6",
+    "raw": "Perhaps the life aboard a ship is the one for me. Can I join you?",
+    "value": "我非常向往飞船上的生活，我可以加入你的队伍吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/7",
+    "raw": "I'm looking to escape to a new life. Are you hiring?",
+    "value": "我想找份新的工作，请问你还需要新船员吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/8",
+    "raw": "You have a ship? Perhaps you're looking for people to join a crew?",
+    "value": "你有一艘飞船？可能你会想要找一些船员加入你的飞船？我怎么样？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/9",
+    "raw": "Tell me, are you looking for crew members? To live among the stars would be wonderful.",
+    "value": "告诉我，你是不是在找船员？如果能在星空中生活就好了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/10",
+    "raw": "Can I join you in the stars? I have skills that could help you!",
+    "value": "我可以成为你的船员吗？我可以帮到你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/11",
+    "raw": "A life among the stars is the one for me. Please, can I join your crew?",
+    "value": "我向往星际间的生活，请问，我可以成为你的船员吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/12",
+    "raw": "I'm a very useful person! Can I join you?",
+    "value": "我是一个非常有用的人！我可以加入你的队伍吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I'll be here for you if you need someone to help you fight bad guys!",
+    "value": "如果你需要我帮你战斗，请来找我，我会一直待在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "raw": "If you need protection, you know where to find me!",
+    "value": "如果你需要保护，你知道在哪里能找到我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+    "raw": "If you need me in battle, I'll be here!",
+    "value": "如果你需要与敌人战斗，我会一直待在这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/3",
+    "raw": "I'll stay posted here until you need backup.",
+    "value": "我会一直留在这里，直到您需要备份为止。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/4",
+    "raw": "I'll remain on guard here until you need me, captain.",
+    "value": "船长，在您需要我之前，我会一直保持警惕。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/5",
+    "raw": "If you need military support, I'll be here.",
+    "value": "如果您需要军事支持，我会在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/6",
+    "raw": "If you need me in battle, you know where I am.",
+    "value": "如果你需要与敌人战斗，你知道在哪里可以找到我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/7",
+    "raw": "I'll be here for you if you need someone to help you in battle.",
+    "value": "我会一直待在这里。直到你需要我帮你打败那些坏人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/8",
+    "raw": "If you need a hand in battle, you know where to find me!",
+    "value": "如果你需要我帮助你战斗，你知道在哪里找到我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/9",
+    "raw": "I'll stay here so you know where I'll be if you need protection!",
+    "value": "我就待在这里，如果你需要保护，就来找我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/10",
+    "raw": "I'll be here if you need help to defend yourself",
+    "value": "如果你需要保镖，请来找我，我会在这里一直等你。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/11",
+    "raw": "If you need assistance on your travels, I will be here.",
+    "value": "如果你需要探索之类的帮助，我会在这里等着你。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/12",
+    "raw": "I can always lend you my arms and skill in battle, should you need it.",
+    "value": "我随时可以在战斗中向你提供我的武器和技能。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/13",
+    "raw": "When you need my protection, come get me.",
+    "value": "当你需要我保护的时候，来找我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "Let me give you a hand real quick!",
+    "value": "让我快速为您提供帮助！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "raw": "Let me help you out!",
+    "value": "让我来帮你吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+    "raw": "Looks like you could use my assistance!",
+    "value": "看上去你需要我的帮忙！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+    "raw": "I can help!",
+    "value": "我会帮上忙的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0",
+    "raw": "Let me give you a hand real quick!",
+    "value": "让我快速为您提供帮助！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/1",
+    "raw": "Let me help you out!",
+    "value": "让我来帮你吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/2",
+    "raw": "Looks like you could use my assistance!",
+    "value": "看上去你需要我的帮忙！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/3",
+    "raw": "I can help!",
+    "value": "我会帮上忙的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+    "raw": "Heh... Dying tickles.",
+    "value": "哎哟...死了真不好。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1",
+    "raw": "What just happened?",
+    "value": "刚才发生了什么事？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/2",
+    "raw": "I'm back! And alive!",
+    "value": "我活过来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/3",
+    "raw": "I'm back and in one piece!",
+    "value": "我完好无缺的复活了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/4",
+    "raw": "I'm alive again! That's good.",
+    "value": "呼，我还活着！还好。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/5",
+    "raw": "I don't think I respawned properly...",
+    "value": "我不认为我复活的姿势很到位..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/6",
+    "raw": "My head hurts.",
+    "value": "我的头有些疼。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/7",
+    "raw": "What was I doing just before I died?",
+    "value": "到底我是怎么死的？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/8",
+    "raw": "Was I dead just now?",
+    "value": "我刚才死了吗"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/9",
+    "raw": "I hope I respawned properly. Do I look alright?",
+    "value": "我希望我重生时没有出什么差错，我的脸看上去还好吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/10",
+    "raw": "Respawning makes my head feel fuzzy. I like it.",
+    "value": "重生让我的脑袋感到晕晕乎乎，不过我喜欢这种感觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/11",
+    "raw": "Did I die, or just black out?",
+    "value": "我死了，还是只是黑屏了？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+    "raw": "I'll just wait here.",
+    "value": "我就在这里等着。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
+    "raw": "I'll stay here. Come back when you need me, captain!",
+    "value": "船长，我会在这里待着，直到你需要我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/2",
+    "raw": "I'll stay here for now, captain.",
+    "value": "我会一直待在这里的，船长。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/3",
+    "raw": "Do you need me to stay here?",
+    "value": "你需要我待在这里吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/4",
+    "raw": "I'll remain here for now, then.",
+    "value": "那我现在待在这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/5",
+    "raw": "I can wait here, captain.",
+    "value": "我会在这里等待你的下一个命令，船长。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/6",
+    "raw": "I'll hold the fort if you want, captain.",
+    "value": "如果你愿意，我可一夫当关，船长。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
+    "raw": "Yes, captain!",
+    "value": "好的，船长！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/1",
+    "raw": "Captain!",
+    "value": "是是是的，船长！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/2",
+    "raw": "Let's get going!",
+    "value": "让我们出发吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/3",
+    "raw": "Let's go, captain!",
+    "value": "船长，出发吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/4",
+    "raw": "Are we going somewhere?",
+    "value": "我们要去哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/5",
+    "raw": "I shall follow, captain.",
+    "value": "我会跟着你的，船长。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/6",
+    "raw": "Shall we go, captain?",
+    "value": "打算去哪里，船长？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/7",
+    "raw": "Is it time to move, captain?",
+    "value": "该走了吗？船长。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+    "raw": "I can't reach you!",
+    "value": "我没法跟上你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
+    "raw": "You're too far!",
+    "value": "你跑得太快了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
+    "raw": "Hey, wait up!",
+    "value": "嘿，等等！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
+    "raw": "Don't go too far!",
+    "value": "你离得太远了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
+    "raw": "Let me catch up!",
+    "value": "等等我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/5",
+    "raw": "Wait for me!",
+    "value": "等会儿我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Soldier",
+    "value": "士兵"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Security",
+    "value": "保安"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/0",
+    "raw": "Second-to-Last <role>",
+    "value": "倒数第二个<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/1",
+    "raw": "3rd Technical Assistant <field> Officer",
+    "value": "三级<role>科研助手"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/2",
+    "raw": "Assistant Deputy <role> Guy/Gal",
+    "value": "恋爱僚机<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/3",
+    "raw": "Trainee Apprentice <role>",
+    "value": "见习实习生<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/4",
+    "raw": "Temporary Relief <role>",
+    "value": "临时救济<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/5",
+    "raw": "3rd Rear Lieutenant <role>",
+    "value": "三级<role>少尉"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/6",
+    "raw": "64th Commodore <role>",
+    "value": "第64届<role>准将"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/7",
+    "raw": "Standing <field> Officer",
+    "value": "驻<field常务官"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/8",
+    "raw": "Sitting <field> Officer",
+    "value": "坐镇<field>官员"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/9",
+    "raw": "Executive Coffee-Making <role>",
+    "value": "行政咖啡制作<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/10",
+    "raw": "Command Master Chief Petty <field> Officer",
+    "value": "指挥部主任军士长<field>干事"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/11",
+    "raw": "Independent <field> Auditor",
+    "value": "独立<field>审核员"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/12",
+    "raw": "Dependant <field> Auditor",
+    "value": "相关<field>审核员"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/13",
+    "raw": "Dreadnought <field> Officer",
+    "value": "无畏<field>军官"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/14",
+    "raw": "Trainee <field> Mastermind",
+    "value": "实习生<field>策划者"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/15",
+    "raw": "Head of Petty <field> Arguments",
+    "value": "小资<field>负责人"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/16",
+    "raw": "Backup <role>",
+    "value": "备份<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/17",
+    "raw": "Reliable <field> Lacky",
+    "value": "可靠的<field>爪牙"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/18",
+    "raw": "Theoretical <field> Advisor",
+    "value": "理论<field>顾问"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/19",
+    "raw": "Reliable <field> Lackey",
+    "value": "可靠的<field>爪牙"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/20",
+    "raw": "Head of <field> operations",
+    "value": "<field>运营负责人"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/21",
+    "raw": "Wild Card <role>",
+    "value": "外卡<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/22",
+    "raw": "Head of <field> Relations",
+    "value": "<field>关系负责人"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/23",
+    "raw": "Last-Minute <role>",
+    "value": "最后一分钟<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/24",
+    "raw": "Expert in <field> Diplomacy",
+    "value": "<field>外交专家"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/25",
+    "raw": "<field> Innovation Manager",
+    "value": "<field>创新经理"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/26",
+    "raw": "Loose Cannon <role>",
+    "value": "散弹炮<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/27",
+    "raw": "Regional <field> Director",
+    "value": "区域<field>总监"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/28",
+    "raw": "Private <field> Investigator",
+    "value": "私人<field>调查员"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/29",
+    "raw": "Temporal <field> Surveyor",
+    "value": "暂任<field>测量员"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/30",
+    "raw": "Radical <field> Innovator",
+    "value": "激进<field>创新者"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/31",
+    "raw": "Independent Head of <field> Operations",
+    "value": "<field>业务部门独立主管"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/32",
+    "raw": "Just your average <role>",
+    "value": "只是平均水平<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/33",
+    "raw": "Hobbyist <role>",
+    "value": "业余爱好者<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/34",
+    "raw": "Master of <field> Matters",
+    "value": "<field>硕士"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/35",
+    "raw": "Alternative <field> Advisory Representative",
+    "value": "替代<field>咨询代表"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/36",
+    "raw": "Runner-Up <field> Officer",
+    "value": "亚军<field>官员"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/37",
+    "raw": "Emergency <field> Officer",
+    "value": "紧急<field>官员"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/38",
+    "raw": "First Mate's Second-Cousin's Third <role>",
+    "value": "第一位伴侣的第二位堂兄的第三位<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/39",
+    "raw": "Unpaid <field> Intern",
+    "value": "无薪<field>实习生"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/40",
+    "raw": "<field> Student",
+    "value": "<field>学生"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/41",
+    "raw": "<field> Forum Moderator",
+    "value": "<field>论坛版主"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/42",
+    "raw": "Rogue <field> Profiteer",
+    "value": "流氓<field>谋利者"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/43",
+    "raw": "Neutral Third Party <role>",
+    "value": "中性第三方<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/44",
+    "raw": "Low Quality <field> Negotiations",
+    "value": "低质量<field>协商者"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/45",
+    "raw": "Armchair <field> Expert",
+    "value": "理论<field>专家"
+  }
+]

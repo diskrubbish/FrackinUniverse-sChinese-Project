@@ -1,0 +1,98 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "raw": "What... have I become?",
+    "value": "什么...我到底变成了什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/0",
+    "raw": "What... have I become?",
+    "value": "什么...我到底变成了什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/1",
+    "raw": "My fur, it's... colourful.",
+    "value": "我的毛皮，是多么的...华丽。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/2",
+    "raw": "I remember... bananas.",
+    "value": "我只记得...香蕉。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/3",
+    "raw": "My dreams are haunted by a giant ape. What does this mean?",
+    "value": "我的梦经常会出现一只大猿，你知道是什么意思吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/4",
+    "raw": "I fell asleep at my desk and when I awoke, I'd written the word 'Miniknog' over and over.",
+    "value": "我在书桌前睡着了，当我醒来时，我已经把“发展部”这个词写了一遍又一遍。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/5",
+    "raw": "What colourful fur I have! So strange.",
+    "value": "为什么我有五颜六色的毛？这太奇怪了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/default/6",
+    "raw": "I feel like everything has changed overnight.",
+    "value": "我觉得就好像昨晚才发生似的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/apex/0",
+    "raw": "You... your face is familiar, somehow.",
+    "value": "你...你的脸让我感觉很熟悉，到底是什么原因。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/apex/1",
+    "raw": "Were we once alike, Ape?",
+    "value": "我们曾经一样吗？猿族人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/apex/2",
+    "raw": "Tell me what you know of the name Greenfinger.",
+    "value": "告诉我你的名字，绿手指。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/apex/3",
+    "raw": "Why do you seem so familiar? It is like... no, I can't think.",
+    "value": "我觉得你有些面善，我想想...不，我没法思考。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/apex/4",
+    "raw": "Have we met before, Ape?",
+    "value": "我们以前见过吗？猿族人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/apex/5",
+    "raw": "Seeing you makes me feel an alarming nostalgia. Why?",
+    "value": "看到你让我回想起以前，为什么会这样？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/apex/6",
+    "raw": "Outside I am colourful, inside I am grey.",
+    "value": "我的外在不管多么华丽，内心却一片死灰。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/apex/apex/7",
+    "raw": "I had... a family, once. They were like you.",
+    "value": "我曾经...有个家，他们就像你一样地亲切。"
+  }
+]

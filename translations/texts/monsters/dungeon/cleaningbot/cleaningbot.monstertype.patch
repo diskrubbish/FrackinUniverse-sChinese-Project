@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cleaning Bot",
+    "value": "清洁机器人"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "For those too lazy to do the vacuum cleaning themselves.",
+    "value": "非常适合那些懒惰的人。"
+  }
+]

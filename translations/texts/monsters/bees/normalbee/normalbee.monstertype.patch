@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Bee",
+    "value": "蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bee that gathers nectar and turns it into honey.",
+    "value": "蜜蜂采集花蜜并将其酿成蜂蜜。"
+  }
+]

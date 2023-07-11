@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Oooh, Pretty! Fires ^red;Sharp^reset; blades.",
+    "value": "哈，真是太棒了！发射^red;锋利^reset;的刃片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quietus Staff",
+    "value": "寂灭法杖"
+  }
+]

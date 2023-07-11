@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dangerously powerful minigun.\n^cyan;Counts as 'plasma' for set bonuses^reset;\n^yellow;Heavy. Extreme fire rate^reset;",
+    "value": "危险而强大的迷你机枪。\n^yellow;等离子武器^reset;\n^yellow;极端的射速^reset;\n^red;沉重^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Punisher",
+    "value": "惩罚者"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Energy Zone",
+    "value": "能源领域"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Fire Protection, +7 Shieldbash Push, 0.2 Regen^reset;",
+    "value": "^green;火焰防护，+7盾牌击退，0.2生命回复速度^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Shield",
+    "value": "高熔点盾"
+  }
+]

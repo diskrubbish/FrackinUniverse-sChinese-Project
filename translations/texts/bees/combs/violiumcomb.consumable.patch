@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A honeycomb with high violium contents. Increases energy max.",
+    "value": "这种蜂巢富含维奥合金。增加最大能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Violium Honeycomb",
+    "value": "维奥蜂巢"
+  }
+]

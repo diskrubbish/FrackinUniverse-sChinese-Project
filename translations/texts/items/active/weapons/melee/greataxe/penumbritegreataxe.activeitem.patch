@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fantastically stylish.\n^cyan;Universal Damage^reset;",
+    "value": "非常时尚。\n^cyan;通用伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbrite Greataxe",
+    "value": "半影巨斧"
+  }
+]

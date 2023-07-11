@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Too hot for the honey extractor.\n^blue;+^white;10 ^blue;Fuel^reset;",
+    "value": "多么灼热的蜂蜜！\n^blue;燃料+^white;10^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Solar Honeycomb",
+    "value": "太阳蜂巢"
+  }
+]

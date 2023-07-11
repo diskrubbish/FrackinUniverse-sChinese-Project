@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A solid beam guaranteed to roast your foes.",
+    "value": "精准的光束确保你的敌人会被烧焦。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beam Gun",
+    "value": "光束枪"
+  }
+]

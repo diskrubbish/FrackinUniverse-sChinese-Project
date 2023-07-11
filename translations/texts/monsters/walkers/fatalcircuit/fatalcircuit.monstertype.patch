@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fatal Circuit",
+    "value": "致命回路"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Though technically a cyborg, its organic brain controls only lower functions",
+    "value": "尽管技术上来说它是一个机器人，但它的有机大脑只能控制低端的功能。"
+  }
+]

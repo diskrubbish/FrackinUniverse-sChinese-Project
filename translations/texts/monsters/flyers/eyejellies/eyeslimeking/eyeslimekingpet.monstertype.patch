@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Behemoth",
+    "value": "黏液巨兽"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An array of eyes immersed in a viscous fluid.",
+    "value": "由复数巨眼与大量紫色黏液组合而成的巨大生物。"
+  }
+]

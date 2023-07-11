@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Tae battle!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "raw": "Ye blood shall soil the land!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "raw": "Oy!",
+    "value": "哟！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/3",
+    "raw": "Raidin' time came early today!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/4",
+    "raw": "Hopin' tae catch me with mah socks off, were ye?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/5",
+    "raw": "Yer havin' a laff, ain't'cha?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/6",
+    "raw": "I'll take ye as a warm-up 'fore the monastery!",
+    "value": ""
+  }
+]

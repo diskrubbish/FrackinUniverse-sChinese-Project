@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crisper",
+    "value": "克里精灵"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wandering fire spirit doing its best to hinder travelers",
+    "value": "一个游荡的火灵，尽已所能地阻碍着旅人们。"
+  }
+]

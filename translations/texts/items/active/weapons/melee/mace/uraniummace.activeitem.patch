@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Completely non-toxic",
+    "value": "销售商保证该武器完全无毒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Uranium Mace",
+    "value": "铀制钉头锤"
+  }
+]

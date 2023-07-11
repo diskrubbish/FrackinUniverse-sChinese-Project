@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "We used some robots from some abandoned bunkers to make these hats... Not like they were being used for anything else anyway.",
+    "value": "我们用了一些废弃地堡中的机器人当材料制作了这些帽子...反正不是任何他们之前的用途。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Serpentdroid Mask",
+    "value": "毒蛇机器人面具"
+  }
+]

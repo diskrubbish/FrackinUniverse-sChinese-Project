@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spread joy and shrapnel.",
+    "value": "传播快乐和子弹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Longarm Shotgun",
+    "value": "长臂霰弹枪"
+  }
+]

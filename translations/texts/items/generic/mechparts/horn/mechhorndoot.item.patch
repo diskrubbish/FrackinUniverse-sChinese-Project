@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You see, demons are temporary, but DOOT is eternal.",
+    "value": "地狱空荡荡，嘟嘟在人间。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Doot Horn",
+    "value": "嘟嘟喇叭"
+  }
+]

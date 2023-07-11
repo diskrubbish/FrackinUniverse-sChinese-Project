@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stunning. +^green;5^reset;% Charisma.",
+    "value": "令人惊叹。\n+^green;5^reset;% 魅力."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nonpareil Pants",
+    "value": "圣徒裤子"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Damages and captures creatures. Handy.",
+    "value": "非常方便的捕捉生物的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Capture Gun",
+    "value": "捕捉枪"
+  }
+]

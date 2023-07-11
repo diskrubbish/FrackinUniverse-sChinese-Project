@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Swiftly kills with shadowy promise.\n^cyan;Universal Damage^reset;",
+    "value": "以影子的承诺迅速杀敌。\n^cyan;通用伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbral Rapier",
+    "value": "半影刺剑"
+  }
+]

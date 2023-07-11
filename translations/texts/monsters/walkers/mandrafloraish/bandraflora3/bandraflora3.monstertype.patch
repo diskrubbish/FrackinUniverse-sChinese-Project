@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rajaflora",
+    "value": "忍者曼陀罗"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mutation of the common genus.",
+    "value": "通常种的突变。"
+  }
+]

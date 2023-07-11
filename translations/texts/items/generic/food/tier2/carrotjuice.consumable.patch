@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Carrots in liquid form. Surprisingly sweet, unsurprisingly nutritious. ^green;Type: Vegetable^reset;",
+    "value": "液体形式的胡萝卜。令人惊讶的甜，不出所料的富含营养。\n^green;类型：蔬菜^reset;"
+  }
+]

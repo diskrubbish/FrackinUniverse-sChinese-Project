@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lethal, and ancient beyond measure.\n^cyan;inflicts Defense Debuff^reset;",
+    "value": "超乎想象的致命和古老。\n^cyan;附加防御下降效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Broadsword",
+    "value": "古代宽剑"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Cosmic Burst",
+    "value": "宇宙爆发"
+  }
+]

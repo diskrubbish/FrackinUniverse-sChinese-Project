@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dark and sleek. Perfect for deep digging.",
+    "value": "邪恶的用料，光滑的握把。完美的挖掘工具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ebonshard Pickaxe",
+    "value": "骨制镐"
+  }
+]

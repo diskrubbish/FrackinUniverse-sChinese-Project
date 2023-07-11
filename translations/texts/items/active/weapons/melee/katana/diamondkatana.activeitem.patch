@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Two-handed, shining diamond. Exceptionally beautiful and deadly.\n^yellow;8 hit combo^reset;",
+    "value": "这把闪亮的钻石武器异常的美丽而致命。双手握持。\n^yellow;8连斩^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Diamond Katana",
+    "value": "钻石武士刀"
+  }
+]

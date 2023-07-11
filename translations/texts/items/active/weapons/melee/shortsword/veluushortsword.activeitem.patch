@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Charged with purrpose.",
+    "value": "充满了意志。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vel'uuish Shortsword",
+    "value": "Vel'uuish短剑"
+  }
+]

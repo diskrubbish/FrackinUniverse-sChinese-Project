@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides 20% reduced fuel costs, and +3.75 ship speed. Also provides extra special coffee.",
+    "value": "雇用一名更棒的工程师，+3.75飞船行驶速度，并且降低20%的飞船燃料消耗。除此之外还会提供特殊的咖啡。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Engineer II Contract",
+    "value": "合同：工程师 II"
+  }
+]

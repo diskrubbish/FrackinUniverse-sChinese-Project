@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sweet smelling dark leaves and flowers.\n^green;Extractable^reset;.",
+    "value": "芳香的暗绿色叶子与花朵。\n^green;可萃取^reset;"
+  }
+]

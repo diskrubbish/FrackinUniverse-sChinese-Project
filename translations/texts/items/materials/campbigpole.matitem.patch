@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A heavyweight tent support.",
+    "value": "大型帐篷支架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Big Tent Pole",
+    "value": "大帐篷杆"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You'd probably startle the real thing if you wore this!",
+    "value": "如果你戴着这个你可能会吓到真实的它！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Snuffish Mask",
+    "value": "灯芯鱼面具"
+  }
+]

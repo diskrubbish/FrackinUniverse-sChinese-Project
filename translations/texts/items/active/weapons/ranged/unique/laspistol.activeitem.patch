@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A common sidearm in the galaxy.\n^yellow;Reliable^reset;\n^yellow;Counts as 'Energy' for set bonuses^reset;",
+    "value": "星际中的一种常见手枪。\n^yellow;可靠^reset;\n^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Laser Pistol",
+    "value": "激光手枪"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Superior firepower. Sexy sheen. ^yellow;Reliable^reset;",
+    "value": "优越的火力。性感的光泽。^yellow;很可靠^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Scatterlaser Pistol",
+    "value": "散射激光手枪"
+  }
+]

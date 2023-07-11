@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rod of tritium. Product of fission.\n^blue;+^white;3 ^blue;Fuel^reset;",
+    "value": "一根氚棒。裂变反应的产物。\n^blue;燃料+^white;3^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tritium Rod",
+    "value": "氚棒"
+  }
+]

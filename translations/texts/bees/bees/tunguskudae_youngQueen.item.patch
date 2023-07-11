@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tunguskudae Young Queen",
+    "value": "幼年的钨头蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Tunguskudae Queen",
+    "value": "幼年钨头蜂后"
+  }
+]

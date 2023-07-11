@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An artfully crafted blade. The crystal on the handle shines softly.",
+    "value": "一把巧妙加工成的刀刃，剑柄上的水晶散发着柔和的光亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nhydri Shortsword",
+    "value": "纳德短剑"
+  }
+]

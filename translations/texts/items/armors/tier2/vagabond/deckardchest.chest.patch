@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;^orange;Set Bonuses^reset;: ^reset;\n^yellow;^reset; +^green;10^reset;% Speed\n^yellow;^reset; (Machine) Pistol: Damage x^green;1.075/1.15^reset;",
+    "value": "^orange;^orange;套装奖励^reset;：\n^yellow;^reset; +^green;10^reset;% 速度\n^yellow;^reset; (自动) 手枪: 伤害x^green;1.075/1.15^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vagabond's Coat",
+    "value": "漂泊者外套"
+  }
+]

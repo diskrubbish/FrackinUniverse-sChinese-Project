@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bar of compressed protocite, found on Protoworlds.",
+    "value": "一块压缩过的原体矿。\n被发现于原体世界。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protocite Bar",
+    "value": "原体锭"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Something had a heart. This was it.",
+    "value": "某个生物曾拥有的心脏。曾经是这样的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Unknown Heart",
+    "value": "未知心脏"
+  }
+]

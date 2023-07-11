@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A techy block of tungsten.\n^green;Extractable^reset;.",
+    "value": "一块用钨制成的方块。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tungsten Tech Block",
+    "value": "钨科技方块"
+  }
+]

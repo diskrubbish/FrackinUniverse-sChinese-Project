@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A repurposed manipulator. This one murders! Yay!\n^cyan;Floran^reset;",
+    "value": "一把“重新利用”的物质枪。极好的凶器！爽！\n^cyan;叶族^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slaughter Manipulator",
+    "value": "殒命操手"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "Love is for pansies. Try this instead.",
+    "value": "你的爱是做出来的。来试试这个吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "Hate Beam",
+    "value": "韦天灭世波"
+  }
+]

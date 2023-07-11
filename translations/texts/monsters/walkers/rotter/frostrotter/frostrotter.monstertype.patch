@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frost Rotter",
+    "value": "冰结僵尸"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A half-dead, horrible thing. It wants to mate with your skull.",
+    "value": "半死不活的可怕东西。它想和你的头骨交配。"
+  }
+]

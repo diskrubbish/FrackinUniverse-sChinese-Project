@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gift Box (Small)",
+    "value": "礼物盒(小型)"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I wonder what's inside. Maybe love? Or just a little viscera?",
+    "value": "现在我们将随机抽取一位幸运玩家...."
+  }
+]

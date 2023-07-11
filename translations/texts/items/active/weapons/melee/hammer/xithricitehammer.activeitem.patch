@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Slam them with cosmic force.\n^cyan;Inflicts Minor Vulnerability^reset;",
+    "value": "用宇宙之力砸扁你的敌人。\n^cyan;附加错调瑕疵效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Hammer",
+    "value": "赛德瑞瑟之锤"
+  }
+]

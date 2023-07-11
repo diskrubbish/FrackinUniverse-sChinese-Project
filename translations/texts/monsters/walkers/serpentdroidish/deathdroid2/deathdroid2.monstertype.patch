@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glitched Deathbot",
+    "value": "致命故障机械"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "When programming goes wrong, this is what you get.",
+    "value": "当程序出错时，你就会遇见它。"
+  }
+]

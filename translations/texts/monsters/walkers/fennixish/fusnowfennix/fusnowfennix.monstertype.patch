@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Snow Fennix",
+    "value": "冰雪女妖"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An icy little cutie.",
+    "value": "一个冰冷的小可爱。"
+  }
+]

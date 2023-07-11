@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A segment of a distortion sphere snake",
+    "value": "变形球蛇的身体片段"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A snake-like construct composed of distrotion spheres",
+    "value": "由膨胀的球体组成的蛇形组织"
+  }
+]

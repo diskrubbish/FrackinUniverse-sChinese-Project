@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Protects from harmful (and beneficial) gasses.",
+    "value": "免疫有害(和有益)的气体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mark VI Gasmask",
+    "value": "马克VI 防毒面具"
+  }
+]

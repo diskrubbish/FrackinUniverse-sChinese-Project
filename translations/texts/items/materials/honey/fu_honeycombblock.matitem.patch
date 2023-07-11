@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honeycomb Block",
+    "value": "蜂巢块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block of honeycomb.\n^green;Extractable^reset;.",
+    "value": "一个蜂巢块。\n^green;可萃取^reset;。"
+  }
+]

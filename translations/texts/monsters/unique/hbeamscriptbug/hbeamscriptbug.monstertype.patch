@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Scripted Bug",
+    "value": "脚本虫"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This is no ordinary bug, no sir. This one is special.",
+    "value": "这可不是普通的虫子，(程序员)先生。这一个是特殊的。"
+  }
+]

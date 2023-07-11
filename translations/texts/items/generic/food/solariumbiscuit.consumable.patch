@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Super-dangerous to eat if you can't roll in radiation.\n^cyan;+^white;30% ^pink;Radiation ^cyan;Res ^gray;(^white;5m^gray;)^reset;",
+    "value": "如果你不能在放射物里翻滚的话，吃下它是极其危险的。\n^cyan;+^white;30%^pink;辐射^cyan;抗性^gray;(^white;持续5m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Solarium Biscuit",
+    "value": "日曜石饼干"
+  }
+]

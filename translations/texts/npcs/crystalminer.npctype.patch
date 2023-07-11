@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Oh, you done started somethin' now!",
+    "value": "嘿，看来你惹麻烦了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/0",
+    "raw": "Curmudgeonly. You young'uns are always causin' trouble!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/1",
+    "raw": "World-weary. Here we go again, then.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/2",
+    "raw": "Grizzled. You'll not make a mockery of me!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/3",
+    "raw": "Gruff. Didn't they tell ye, never aggro a smith?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/4",
+    "raw": "Surly. Looks like I'll be messin' up me nice new weapon.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/5",
+    "raw": "Resigned. Sigh. More disruption.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/6",
+    "raw": "Eager. Good chance to test me weapons out.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/glitch/default/7",
+    "raw": "Grumpy. Looks like I'll have to teach yeh a lesson.",
+    "value": ""
+  }
+]

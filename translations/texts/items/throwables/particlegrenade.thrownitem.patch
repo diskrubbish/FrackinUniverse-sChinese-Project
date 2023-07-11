@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Particle Grenade",
+    "value": "粒子手雷"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Eradicates large swathes of terrain.",
+    "value": "这颗手雷爆炸时会破坏附近的地形。"
+  }
+]

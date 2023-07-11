@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These cookies are almost on fire. \n^pink;Lava^gray;, ^pink;Burning ^cyan;Immunity ^gray;(^white;5m^gray;)^reset;",
+    "value": "这些曲奇几乎要烧起来了。\n赋予^pink;岩浆^gray;，^pink;烧伤^cyan;免疫^gray;(^white;持续5m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Magma Cookie",
+    "value": "熔岩曲奇"
+  }
+]

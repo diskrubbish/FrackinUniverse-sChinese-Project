@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Juvenile Poptop",
+    "value": "少年吐舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's chubby...",
+    "value": "它胖乎乎的..."
+  }
+]

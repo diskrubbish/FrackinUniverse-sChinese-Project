@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "RADIOACTIVE! DO NOT EAT!\n^blue;+^white;4 ^blue;Fuel^reset;",
+    "value": "别恰！它辐射大！\n^blue;燃料+^white;4^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Solarium Honeycomb",
+    "value": "日耀蜂巢"
+  }
+]

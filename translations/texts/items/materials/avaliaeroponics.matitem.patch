@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Once tilled, these tubes transport a nutrient aerosol for growing plants within.",
+    "value": "用于给作物输送营养气溶胶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Aeroponic Tubing^reset;",
+    "value": "^cyan;气培管^reset;"
+  }
+]

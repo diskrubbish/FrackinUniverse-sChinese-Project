@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Platform",
+    "value": "夜族平台"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strong platform made from unknown materials.",
+    "value": "由未知材料制成的牢固的平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. This looks cool yet efficient",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sstrong platform.",
+    "value": "牢牢固的平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This platform's strong enough t'keep from gettin' boot scuffed.",
+    "value": "这个平台足够强壮，能够承受住双脚的压力。"
+  }
+]

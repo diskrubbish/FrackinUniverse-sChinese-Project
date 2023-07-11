@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crackling with horrible energy and malign promise. Edible.",
+    "value": "伴随着可怕的能量和恶毒的答应噼啪作响。可食用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glowing Glyph",
+    "value": "辉光符文"
+  }
+]

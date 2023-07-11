@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A superior biofuel.\n^blue;+^white;15 ^blue;Fuel^reset;",
+    "value": "一种优秀的生物燃料。\n^blue;燃料+^white;15^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Erithian Biofuel Canister",
+    "value": "埃里西安藻豆荚燃料罐"
+  }
+]

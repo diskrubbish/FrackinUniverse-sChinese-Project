@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires a large swarm of guided mini missiles.",
+    "value": "发射一大群跟踪性的微型导弹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mega Missile Rack",
+    "value": "超级导弹发射架"
+  }
+]

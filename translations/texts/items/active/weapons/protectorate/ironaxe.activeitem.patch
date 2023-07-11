@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A roughly-made iron axe.",
+    "value": "粗制的铁斧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Axe",
+    "value": "铁制斧"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Select missile and press the fire button.",
+    "value": "选择导弹并按下开火按钮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Garuda Missile Launcher",
+    "value": "迦楼罗导弹发射器"
+  }
+]

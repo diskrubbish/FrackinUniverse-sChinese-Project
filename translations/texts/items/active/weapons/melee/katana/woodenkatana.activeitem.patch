@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Made of wood. Not sharp, but will still hurt like a bugger.\n^yellow;3 hit combo^reset;",
+    "value": "由木制成，并不锋利，但是仍然可以造成少量伤害。\n^yellow;3连斩^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Practice Katana",
+    "value": "练习用木刀"
+  }
+]

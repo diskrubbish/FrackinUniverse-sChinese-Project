@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Launches smaller anti-personnel rockets in fairly quick succession (by rocket launcher standards).",
+    "value": "这个火箭发射器比普通的射速要快得多。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NPC Mini-Rocket Launcher",
+    "value": "NPC的微型火箭发射器"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This tool will last a long time, and I'll be able to dig pretty fast with it.",
+    "value": "这个工具有着很高的耐久，且能快速的挖掘。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Pickaxe",
+    "value": "碳制镐"
+  }
+]

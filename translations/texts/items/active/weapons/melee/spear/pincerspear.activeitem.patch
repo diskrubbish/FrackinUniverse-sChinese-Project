@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A two-sided blade for twice the fun.\n^cyan;Hunting weapon, Floran^reset;",
+    "value": "双面刀片，双倍快乐。\n^cyan;狩猎武器，叶族^reset; "
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pincer Spear",
+    "value": "钳状长矛"
+  }
+]

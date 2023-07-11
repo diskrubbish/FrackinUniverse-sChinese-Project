@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that resists the Shadow element.\n^green;+10% Shadow Resist\n^cyan;Immune: Shadow Taint^reset;",
+    "value": "一个能够抵抗暗影元素的EPP模块。\n^cyan;暗影抗性+10%；\n^cyan;免疫：暗影污染^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Barrier",
+    "value": "EPP模块（暗影屏障）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Shadow Barrier",
+    "value": "EPP模块（暗影屏障）"
+  }
+]

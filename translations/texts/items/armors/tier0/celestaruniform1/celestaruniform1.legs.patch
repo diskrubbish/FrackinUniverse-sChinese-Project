@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lead the fleet in style.",
+    "value": "舰队领导的风格。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Admiral Bottoms",
+    "value": "将军下装"
+  }
+]

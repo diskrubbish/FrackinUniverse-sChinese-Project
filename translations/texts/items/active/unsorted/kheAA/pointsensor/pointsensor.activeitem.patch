@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "[Equip] Detects placement points of nearby objects.\n[Primary] Show Colony Tags.",
+    "value": "[装备] 检测附近物体的放置点。\n[主要攻击] 显示家具殖民标签。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Object Data Sensor",
+    "value": "物件数据传感器"
+  }
+]

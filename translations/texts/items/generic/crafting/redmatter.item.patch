@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Long thought impossible to create, this supreme energy is exceptionally dangerous.",
+    "value": "长久以来被认为不可能创造，这种至高无上的能量异常危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Red Matter",
+    "value": "赤物质"
+  }
+]

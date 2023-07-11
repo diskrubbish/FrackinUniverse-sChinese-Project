@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Veteran",
+    "value": "战士"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Battle",
+    "value": "战斗向"
+  }
+]

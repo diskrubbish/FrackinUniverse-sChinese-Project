@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sand covered in ice.\n^green;Extractable^reset;.",
+    "value": "沙子和冰的混合物。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Icy Sand",
+    "value": "冰沙"
+  }
+]

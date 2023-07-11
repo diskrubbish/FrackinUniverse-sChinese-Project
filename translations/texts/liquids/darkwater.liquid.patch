@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This probably isn't swim-safe.",
+    "value": "在这里游泳很可能不安全！"
+  }
+]

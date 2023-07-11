@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Use to check if you have any missing default unlocks. Prints items that could be causing the issue to the log.",
+    "value": "用于检查是否缺少任何默认解锁。将可能导致问题的物品打印到日志中。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Default Unlock Checker^reset;",
+    "value": "^cyan;默认解锁检查器"
+  }
+]

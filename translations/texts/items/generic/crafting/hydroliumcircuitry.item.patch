@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A highly efficent circuitry made out of hydrolium, commonly used by the Skath.",
+    "value": "由氢化合金制成的高效电路，通常由绘世者使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hydrolium Circuitry",
+    "value": "氢化合金电路"
+  }
+]

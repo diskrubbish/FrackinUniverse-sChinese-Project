@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Look stylish at dinner parties. -^green;10^reset;% Energy Block time.",
+    "value": "在晚宴上看起来很时髦。\n-^green;10^reset;%能量冷却时间。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elite Top",
+    "value": "精英头盔"
+  }
+]

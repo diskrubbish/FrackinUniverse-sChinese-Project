@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "\n\n\nDense head protection. ^cyan;Immune^reset; to stun.",
+    "value": "\n\n\n密封严实的头部保护。^cyan;免疫^reset;击晕。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skullcap",
+    "value": "无边便帽"
+  }
+]

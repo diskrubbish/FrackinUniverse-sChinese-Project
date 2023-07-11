@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Heal 20^reset;: 2s \n^green;Type: Nut^reset;",
+    "value": "^yellow;^reset;^cyan;治疗20点生命值^reset;: 2s\n^green;类型：坚果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tearnut",
+    "value": "珍珠坚果"
+  }
+]

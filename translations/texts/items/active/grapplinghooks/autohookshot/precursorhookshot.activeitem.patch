@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Be careful not to get whiplash.",
+    "value": "小心别扭伤了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Hookshot",
+    "value": "先驱发射钩爪"
+  }
+]

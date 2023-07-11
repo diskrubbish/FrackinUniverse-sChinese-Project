@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cleave with sun power. Two-handed.\n^yellow;10 hit combo^reset;",
+    "value": "用太阳的力量劈砍。双手握持。\n^yellow;10连斩^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Solarium Katana",
+    "value": "日耀武士刀"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Shock Eruption",
+    "value": "冲击爆发"
+  }
+]

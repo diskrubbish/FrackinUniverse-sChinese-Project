@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Look slick and protect your noggin from the sun.",
+    "value": "质感光滑，保护你的头部免受太阳的伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peglaci Visor",
+    "value": "羊蹄族遮阳板"
+  }
+]

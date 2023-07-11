@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hopper",
+    "value": "装料兔"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Wants to do nothing but giggle, sing and hug. All the time.",
+    "value": "除了傻笑，唱歌和拥抱以外什么都不想做。一直都是。"
+  }
+]

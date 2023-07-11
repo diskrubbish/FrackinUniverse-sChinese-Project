@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Morbid Bee",
+    "value": "濒死蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bee with a hunger for the living.",
+    "value": "渴望活着的蜜蜂。"
+  }
+]

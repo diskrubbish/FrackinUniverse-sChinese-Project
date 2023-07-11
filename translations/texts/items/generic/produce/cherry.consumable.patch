@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fresh cherry, red and delicious! ^green;Type: Fruit^reset;",
+    "value": "一个新鲜的樱桃，红红的，很美味！\n^green;类型：植物^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cherry",
+    "value": "樱桃"
+  }
+]

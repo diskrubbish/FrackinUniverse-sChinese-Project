@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Metal cannot talk. Why is this metal talk.",
+    "value": "金属不能说话。为什么这个金属说话。"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fenerox views on Glitch",
+    "value": "耳廓狐对电子人的看法"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "Met impossible thing. Metal that talks. Kirhos said other people made metal-people and metal people just not remembering. We have many thinks about this, and are wonder: How is metal men baby-making? No flesh parts, no eggs, no sex? Where is babies? How is making more?",
+    "value": "遇到了不可能的事。会说话的金属。数组人说，其他人制造了金属人只是金属人不记得。 我们有很多人在思考这个问题，并且想知道：金属人是如何生孩子的？没有肉体，没有卵子，没有性？ 婴儿在哪里？ 如何生下更多？"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "raw": "Also, if metal people exist...why is not advanced? Should be super-people, but still using iron weapons. Even Fenerox changed to steel past 4 generations! How is metal-men having ships and space jump? Can metal-men be pets? Would be useful for clean burrows, since never sleeping.",
+    "value": "此外，如果金属人存在... 为什么不是先进的？ 应该是超人，但仍然使用铁制武器。 即使是耳廓狐也经历了4代变成了钢铁！ 金属人如何拥有飞船和太空跳跃？金属人能当宠物吗？对于干净的洞穴来说很有用，因为它们从不睡觉。"
+  }
+]

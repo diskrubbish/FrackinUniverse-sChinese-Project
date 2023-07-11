@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A material made from ionic matter similar to plasma.\n^green;Extractable^reset;.",
+    "value": "一种由离子物质制造的类似等离子体的材料。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Miasmet",
+    "value": "离子瘴"
+  }
+]

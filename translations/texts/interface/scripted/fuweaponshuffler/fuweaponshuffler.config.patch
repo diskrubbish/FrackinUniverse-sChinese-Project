@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/doShuffle/caption",
+    "raw": "Shuffle",
+    "value": "乱序机"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblText/value",
+    "raw": "^#b9b5b2;Place randomizable item in the left slot.",
+    "value": "^#b9b5b2;请将可随机化的物品放在左侧的格子中。"
+  }
+]

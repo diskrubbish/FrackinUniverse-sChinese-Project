@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lightweight, accurate rifle with a built-in ultra-zoom scope.",
+    "value": "带有内置超变焦瞄准镜的轻巧而精确的步枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protectorate Rifle",
+    "value": "守护团步枪"
+  }
+]

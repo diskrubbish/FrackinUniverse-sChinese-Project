@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A really dangerous sort of shotgun.",
+    "value": "一种非常危险的散弹枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rendergun",
+    "value": "引流喷枪"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Well this seems like a good idea!",
+    "value": "这真是不错的主意！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Uranium Blade",
+    "value": "铀制宽剑"
+  }
+]

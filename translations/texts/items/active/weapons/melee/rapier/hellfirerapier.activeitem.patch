@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Brightly burns with hatred and fire.\n^cyan;Causes Burning^reset;",
+    "value": "仇恨与怒火熊熊燃烧。\n^cyan;附加燃烧效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hellfire Rapier",
+    "value": "地狱火刺剑"
+  }
+]

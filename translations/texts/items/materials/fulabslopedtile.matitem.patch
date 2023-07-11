@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Smooth, wonderful industrial metal and plasteel.",
+    "value": "光滑、美妙的工业金属和塑料制品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloped Lab Tile",
+    "value": "倾斜实验室地砖"
+  }
+]

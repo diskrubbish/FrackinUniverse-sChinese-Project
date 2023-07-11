@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Flows with shadow energy.\n^cyan;Universal Damage^reset;",
+    "value": "流动着暗影能量。\n^cyan;通用伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbrite Axe",
+    "value": "半影斧"
+  }
+]

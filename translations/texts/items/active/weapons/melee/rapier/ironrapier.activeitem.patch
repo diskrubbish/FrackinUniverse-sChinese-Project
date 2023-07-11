@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's a rapier. Made of iron.",
+    "value": "一把刺剑，由铁打造。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Rapier",
+    "value": "铁制刺剑"
+  }
+]

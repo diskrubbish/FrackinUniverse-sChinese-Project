@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This shortsword is quite heavy.",
+    "value": "这把短剑相当重。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tungsten Shortsword",
+    "value": "钨制短剑"
+  }
+]

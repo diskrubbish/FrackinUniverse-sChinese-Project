@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The danciest companion in the universe, with booze and 4% reduced fuel costs.",
+    "value": "可称得上是这个宇宙中最疯狂的人了，除了能给你整点啤的，还能降低4％的燃料消耗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "PLUR Contract",
+    "value": "合同：PLUR"
+  }
+]

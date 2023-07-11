@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Compression of various metals has resulted in a super strong metal plating.",
+    "value": "经过压缩的多种金属，塑造了极其强壮的金属面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;Advanced Alloy^reset;",
+    "value": "^#88e25b;高级合金^reset;"
+  }
+]

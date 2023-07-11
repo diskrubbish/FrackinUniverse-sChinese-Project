@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A poisonous sniping experience.\n^yellow;Inflicts poison, ^cyan;Floran^reset;",
+    "value": "毒辣的狙击体验。\n^cyan;附加中毒效果，^cyan;中毒^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Verdant Rifle",
+    "value": "苍翠狙击步枪"
+  }
+]

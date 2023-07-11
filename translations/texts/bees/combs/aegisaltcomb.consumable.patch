@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A honeycomb with strange properties that can provide great healing.",
+    "value": "这种蜂巢性能奇特，具有强效愈合效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Recombinant Honeycomb",
+    "value": "愈合蜂巢"
+  }
+]

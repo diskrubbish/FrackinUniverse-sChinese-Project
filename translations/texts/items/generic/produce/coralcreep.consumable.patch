@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The coralcreep fruit turns red when cooked, like a lobster. ^green;Type: Fruit^reset;",
+    "value": "煮熟的珊瑚果会变红，像一只龙虾。\n^green;类型：素食^reset;"
+  }
+]

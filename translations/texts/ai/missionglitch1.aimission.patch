@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "The Baron's Keep (6)",
+    "value": "拜隆先生的城堡(6)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Revisit The Baron's Keep (6)",
+    "value": "重新挑战拜隆先生的城堡(6)"
+  }
+]

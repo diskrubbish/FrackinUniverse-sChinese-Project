@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Servitor Drone",
+    "value": "从者无人机"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Protects an assigned ecosystem with brutal force. Made of densinium.",
+    "value": "用无情力量保护指定的生态系统。由致密锭制成。"
+  }
+]

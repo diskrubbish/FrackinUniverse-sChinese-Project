@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Mine",
+    "value": "先驱地雷"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An ancient weapon system.",
+    "value": "一种古老的武器系统。"
+  }
+]

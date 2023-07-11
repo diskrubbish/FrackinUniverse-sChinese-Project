@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "We tried to think of a decent description for this mask, but it was no use.",
+    "value": "我们曾为这个面具想过一个体面的描述，但没有被采用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Silver Hedgeleap Mask",
+    "value": "白银飞鼠面具"
+  }
+]

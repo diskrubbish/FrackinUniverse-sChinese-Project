@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A high quality, stiff paper.",
+    "value": "一种高质量的硬纸。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "High Grade Paper",
+    "value": "高级纸张"
+  }
+]

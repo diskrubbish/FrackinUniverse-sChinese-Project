@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This will help with friend making.",
+    "value": "有助于交朋友。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tungsten Boomerang",
+    "value": "钨制回旋镖"
+  }
+]

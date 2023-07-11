@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A gem harvested in a similar shape to Thanatite.",
+    "value": "一种量产的形状类似于心叶矿的宝石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sahkite Crystal",
+    "value": "萨克特水晶"
+  }
+]

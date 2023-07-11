@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A basic microscope designed to inspect queen bees. Works automatically.",
+    "value": "用于检查蜂后的基本显微镜。可自动工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Advanced^reset; Microscope",
+    "value": "^orange;高级^reset;显微镜"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Inspect Bees & Items",
+    "value": "观察蜜蜂&物品"
+  }
+]

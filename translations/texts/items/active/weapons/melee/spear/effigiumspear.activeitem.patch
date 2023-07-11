@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ghostly as a spirit.\n^cyan;Hunting weapon^reset;",
+    "value": "矛如鬼影。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Phantasm Spear",
+    "value": "幻影长矛"
+  }
+]

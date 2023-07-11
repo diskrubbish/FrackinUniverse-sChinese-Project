@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dangerous and supremely accurate.\n^cyan;Energy weapon^reset;",
+    "value": "危险而极其精确。\n^cyan;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Vindicator",
+    "value": "阳清复仇者"
+  }
+]

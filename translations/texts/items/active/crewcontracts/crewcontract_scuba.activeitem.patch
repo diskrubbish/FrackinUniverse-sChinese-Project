@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a Marine Biologist to help you swim faster.",
+    "value": "雇用一名潜水员，他能让你游得更快。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Scuba Contract",
+    "value": "合同：潜水员"
+  }
+]

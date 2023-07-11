@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tool of the ancients, blisteringly fast.\n\nSlow down with ^orange;Shift+Click^reset;.",
+    "value": "古人的工具，快得惊人。\n\n^orange;Shift+左键减速^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Rail Hook",
+    "value": "先驱轨钩"
+  }
+]

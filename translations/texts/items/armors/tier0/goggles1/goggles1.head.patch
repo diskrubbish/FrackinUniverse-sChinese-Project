@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Look good while obliterating reality. +^green;5^reset;% Knockback Resist.",
+    "value": "在抹去现实的同时看起来还不错。 +^green;5^reset;% 击退抗性."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Obliterator Goggles",
+    "value": "湮灭者护目镜"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Charge and release radioactive-electric blasts.\n^yellow;Increases damage with charge^reset;",
+    "value": "这把武器会发射强放射性的电浆球.\n^cyan;蓄力攻击会发射更多弹药^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rad Charger",
+    "value": "拉得蓄电器"
+  }
+]

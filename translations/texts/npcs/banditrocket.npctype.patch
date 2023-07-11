@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "Attack!",
+    "value": "进攻！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/human/default/0",
+    "raw": "Hey look, easy prey!",
+    "value": "嘿，看啊，小菜鸟！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/human/default/1",
+    "raw": "Don't think you're getting out of this one easily!",
+    "value": "不要以为你能轻松摆脱这困境！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/human/default/2",
+    "raw": "I bet you'll drop lots of pixels!",
+    "value": "给爷多爆点像素！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/human/default/3",
+    "raw": "You've wandered right into the wolf's den!",
+    "value": "羊入狼穴，在劫难逃！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/human/default/4",
+    "raw": "Good, a fight! I was almost bored!",
+    "value": "好耶，干架！我闲死了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/human/default/5",
+    "raw": "This isn't personal, I just love attacking people!",
+    "value": "无关私人恩怨，我只就是喜欢暴力杀戮！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/human/default/6",
+    "raw": "Surprise, you're about to get poked full of holes!",
+    "value": "惊喜吧，你将在我面前破绽百出！"
+  }
+]

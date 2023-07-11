@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tiny little explosive buddies spew out of this thing.\n^yellow;Area-Damage weapon, ^cyan;Floran^reset;^reset;",
+    "value": "可发射细小的可爆炸性弹药。\n^yellow;范围性武器，^cyan;叶族^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fungal Gun",
+    "value": "真菌枪"
+  }
+]

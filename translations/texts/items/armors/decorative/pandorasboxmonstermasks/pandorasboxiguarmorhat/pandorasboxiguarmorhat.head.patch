@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Despite its protective appearance, this will not serve as a replacement for a proper helmet.",
+    "value": "尽管看起来具有保护性，但是并不能作为一顶合适的头盔。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iguarmor Hat",
+    "value": "武装蜥蜴帽"
+  }
+]

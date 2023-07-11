@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Techy Queens!\n<beeData>",
+    "value": "科学的养蜂！\n<beeData>"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tech Frame",
+    "value": "科技框巢"
+  }
+]

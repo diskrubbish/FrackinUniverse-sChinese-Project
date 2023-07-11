@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Horribly poisonous barbs just aching to enter your foes.\n^yellow;Inflicts poison^reset;",
+    "value": "可怕的毒将会使被击中的敌人苦不堪言。\n^cyan;附加中毒效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#5aff00;Toxic Needler^reset;",
+    "value": "^#5aff00;毒刺风暴^reset;"
+  }
+]

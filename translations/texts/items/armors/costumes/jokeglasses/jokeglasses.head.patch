@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Laugh it up.",
+    "value": "小丑竟是我自己。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Joke Glasses",
+    "value": "小丑眼镜"
+  }
+]

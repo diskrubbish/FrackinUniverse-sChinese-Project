@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "masteroid_selector",
+    "value": "母体选择器"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Used to spawn tier appropriate masteroids",
+    "value": "用于产生适当的母体"
+  }
+]

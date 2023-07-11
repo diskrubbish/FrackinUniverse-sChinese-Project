@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Immune^reset;: Pressure, Extreme Heat/Cold/Radiation, Mild Poison, Proto, Lava/L.Nitro",
+    "value": "^cyan;免疫^reset;：压强，极端炎热/寒冷/辐射, 原毒, 轻度毒素, 岩浆/液氮"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Brute III Mech Body",
+    "value": "残暴机甲躯体 III"
+  }
+]

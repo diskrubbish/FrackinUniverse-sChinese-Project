@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "More thorn than juice. ^green;Type: Vegetable^reset;",
+    "value": "刺还多过果汁。\n ^green;类型：蔬菜^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Holy crap.",
+    "value": "极富毁灭性，效果简直令人瞠目结舌。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ultracannon Arm",
+    "value": "究极炮臂"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sparkling with moon-endowed power.\n^cyan;Hunting weapon^reset;",
+    "value": "闪耀着月亮赋予它的力量。\n^yellow;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Spear",
+    "value": "月海长矛"
+  }
+]

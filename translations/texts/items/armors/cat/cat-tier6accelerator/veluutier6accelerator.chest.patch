@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Imbued with extra defensive power, this collar fills its wielder with extra energy.",
+    "value": "这个项圈有额外的防御能力，也使持用者充满额外的能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cat's Prime Energy Collar",
+    "value": "优质能量猫项圈"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Well, these are cheery...and they increase energy and shield regen!",
+    "value": "哈，看它们抖得多么欢快...并且它们可以提高能量和盾牌耐久的回复速度！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Writhing Tentacles",
+    "value": "纠缠触须"
+  }
+]

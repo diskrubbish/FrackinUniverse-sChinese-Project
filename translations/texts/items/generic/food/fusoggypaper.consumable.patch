@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "For some reason, I feel inclined to eat this.\n^cyan;+^white;20% ^cyan;EP ^gray;(^white;125s^gray;)^reset;",
+    "value": "不知什么原因，我想吃这个。\n^cyan;+^white;20%^cyan;EP^gray;(^white;持续125s^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Edible Soggy Paper",
+    "value": "可食用的湿纸"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Gain ^cyan;Bouncy^reset; Status and Fall Damage Immunity\nHealth x^green;1.25^reset;",
+    "value": "赋予^cyan;弹性^reset;状态和坠落伤害免疫\n最大HPx^green;1.25^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Jelly Lump^reset;",
+    "value": "^cyan;果冻块^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "^cyan;Jelly Lump^reset;",
+    "value": "^cyan;果冻块^reset;"
+  }
+]

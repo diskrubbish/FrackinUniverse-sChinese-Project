@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Useful for extremely short-ranged grappling. Survival tool. Can also do 5 damage.",
+    "value": "用于极短距离的格斗。求生工具。也能造成5点伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice Axe",
+    "value": "冰之斧"
+  }
+]

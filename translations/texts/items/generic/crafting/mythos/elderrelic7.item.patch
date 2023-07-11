@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The purpose of these runed wands is unknown.",
+    "value": "这根表面写满未知文字的魔杖到底有什么用呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Rune Wand^reset;",
+    "value": "^#ffe50e;密文魔杖^reset;"
+  }
+]

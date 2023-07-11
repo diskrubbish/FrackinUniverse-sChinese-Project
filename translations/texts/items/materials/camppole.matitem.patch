@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lightweight tent support.",
+    "value": "轻便的帐篷支架。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nanofibre Pole",
+    "value": "纳米级帐篷杆"
+  }
+]

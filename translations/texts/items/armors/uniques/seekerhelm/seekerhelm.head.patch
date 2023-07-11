@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "High energy reserve. ^cyan;Immune^reset; to Insanity.",
+    "value": "高效的能量存储设备。 ^cyan;免疫^reset;精神错乱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Seeker Helm",
+    "value": "探求者头盔"
+  }
+]

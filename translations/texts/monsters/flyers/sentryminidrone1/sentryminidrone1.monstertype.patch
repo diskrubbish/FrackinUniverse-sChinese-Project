@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Light Drone",
+    "value": "发光无人机"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Floats and glows.",
+    "value": "漂浮，发光。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wonderful hat for idiots.",
+    "value": "对白痴来说是一顶好帽子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dunce Cap",
+    "value": "笨蛋帽"
+  }
+]

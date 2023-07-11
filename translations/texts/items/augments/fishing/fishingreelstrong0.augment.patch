@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A medium reel with high-test line that won't break as easily.",
+    "value": "具有高测试标准的中型卷轴，不会轻易断裂。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mid Tension Reel",
+    "value": "中型抗张力线轴"
+  }
+]

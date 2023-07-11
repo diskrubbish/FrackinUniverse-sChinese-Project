@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Magma Slime",
+    "value": "岩浆史莱姆"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's all sticky and ^red;really^reset; hot...ow.",
+    "value": "哦...这可真是黏人，而且^red;真的^reset;很热。"
+  }
+]

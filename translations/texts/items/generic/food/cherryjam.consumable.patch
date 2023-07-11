@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Super sweet. Great on toast.\n^cyan;+^white;20% ^cyan;EP ^gray;(^white;150s^gray;)\n^green;Type: Fruit Dessert^reset;",
+    "value": "常甜，搭配烤面包享用，味道更佳\n^cyan;+^white;20%^cyan;能量^gray;(^white;150s^gray;)\n^green;类型：水果甜食^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cherry Jam",
+    "value": "樱桃酱"
+  }
+]

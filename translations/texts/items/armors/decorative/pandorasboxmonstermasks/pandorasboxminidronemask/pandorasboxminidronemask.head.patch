@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Another example of potentially highly complex technology converted into headwear!",
+    "value": "将高度复杂的技术转换为头饰的另一个示例！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Minidrone Mask",
+    "value": "迷你机器人面具"
+  }
+]

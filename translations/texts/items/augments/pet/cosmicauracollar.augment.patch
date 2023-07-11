@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Your pet gets a cosmic aura!\n^green;+20%^reset; Cosmic Resistance",
+    "value": "装备后，你的宠物可获得射线光环！\n^green;+20^reset;%射线抗性"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Aura Collar I",
+    "value": "射线光环项圈I"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "raw": "Cosmic Aura I",
+    "value": "射线光环I"
+  }
+]

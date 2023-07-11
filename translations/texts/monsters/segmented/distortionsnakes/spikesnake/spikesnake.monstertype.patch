@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "The head of a spiked sphere snake",
+    "value": "尖刺球蛇的头部"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A snake-like construct composed of spiked distortion spheres",
+    "value": "由尖锐的畸变球体组成的蛇形组织"
+  }
+]

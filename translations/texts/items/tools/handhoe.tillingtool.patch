@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This hoe lets you till soil but with half the hands and time!",
+    "value": "普通锄头可以干的活儿，这种锄头只需要一半的时间。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^orange;Hand Hoe^reset;",
+    "value": "^orange;便携锄头^reset;"
+  }
+]

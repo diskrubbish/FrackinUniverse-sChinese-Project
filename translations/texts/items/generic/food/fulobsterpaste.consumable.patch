@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mashed and reconstituted lobster... stuff. ^orange;Type: Cooked Seafood^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lobster Paste",
+    "value": "虾酱"
+  }
+]

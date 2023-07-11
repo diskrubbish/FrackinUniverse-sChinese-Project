@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ew.\n^cyan;Bio Weapon^reset;",
+    "value": "口区。\n^cyan;生物武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slug Gun",
+    "value": "鼻涕虫枪"
+  }
+]

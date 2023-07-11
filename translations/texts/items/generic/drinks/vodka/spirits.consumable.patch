@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bottle of fruit-infused rectified spirits!\n^white;35% ^red;Slow ^gray;, ^red;Drunk ^gray;(^white;10s^gray;)^reset;",
+    "value": "一瓶精制酒，超棒的美酒！\n^white;35%^red;减速^gray;，^red;醉酒^gray;(^white;持续10s^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rectified Spirits",
+    "value": "精制烈酒"
+  }
+]

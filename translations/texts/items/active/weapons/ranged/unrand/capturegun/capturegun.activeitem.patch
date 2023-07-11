@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Deals Percentage Damage. Captures creatures. Very shiny.",
+    "value": "造成百分比伤害且捕获生物。很炫很酷。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mega Capture Gun",
+    "value": "超级捕捉枪"
+  }
+]

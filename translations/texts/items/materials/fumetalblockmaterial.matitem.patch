@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rusted, solid metal.\n^green;Extractable^reset;.",
+    "value": "布满锈迹，但很坚固的金属。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Metal",
+    "value": "古代金属"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "Ancient, technologically-fantastic ruins of a long-forgotten race.",
+    "value": "古老但科技繁荣的地区，已成废墟，属于一个早已被遗忘的种族。"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Precursor Ruins (5)",
+    "value": "先驱者废墟(5)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Revisit the Precursor Ruins (5)",
+    "value": "重访先驱者废墟(5)"
+  }
+]

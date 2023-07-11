@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Great for early meat and hide gathering.",
+    "value": "适合早期的肉类和兽皮收集。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Primitive Dagger",
+    "value": "原始匕首"
+  }
+]

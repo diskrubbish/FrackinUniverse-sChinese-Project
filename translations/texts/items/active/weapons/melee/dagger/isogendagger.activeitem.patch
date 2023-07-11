@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Share your cold feelings.\n^cyan;Inflicts Freezing^reset;",
+    "value": "刺进敌人体内，让他们感受那种冰冷刺骨的感觉吧。\n^cyan;附加冻结效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Knife",
+    "value": "寒霜小刀"
+  }
+]

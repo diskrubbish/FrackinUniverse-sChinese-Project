@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Fitting Small Things Into Larger Things",
+    "value": "把小东西装进大东西里"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Why does this exist?",
+    "value": "这玩意有什么存在的必要吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "A surprisingly informative book devoted entirely to fitting small objects into larger objects. Page length: 280 pages. Publisher: Penguin",
+    "value": "这是一本信息量惊人的书，完全致力于将小物体放入大物体中。页数: 280页。出版者: 企鹅"
+  }
+]

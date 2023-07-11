@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I know what you're thinking, and the answer is no, it isn't real. I'm a businesstop, not a lunatic.",
+    "value": "我知道你在想什么，答案是否定的，这不是真实的。我是企业高层，不是疯子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Po Mask",
+    "value": "Po面具"
+  }
+]

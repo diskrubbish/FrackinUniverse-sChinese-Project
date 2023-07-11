@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Pyreite weapons: Damage x^green;1.25^reset;\n^yellow;^reset; ^cyan;Immune^reset;: Oxygen, All Cold",
+    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; 永燃武器: 伤害x^green;1.25^reset;\n^yellow;^reset; ^cyan;免疫^reset;: 窒息, 一切寒冷"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Chestplate",
+    "value": "永燃胸甲"
+  }
+]

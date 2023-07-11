@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lightweight titanium shortsword.",
+    "value": "这把短剑非常轻便。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Titanium Shortsword",
+    "value": "钛制短剑"
+  }
+]

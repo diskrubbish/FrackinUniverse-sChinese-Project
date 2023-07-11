@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Harnessed power of crystalline destruction.",
+    "value": "利用了水晶的破坏性力量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Chakram",
+    "value": "月晶环刃"
+  }
+]

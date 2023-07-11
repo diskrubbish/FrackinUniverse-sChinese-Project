@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dangerous and deadly pants!",
+    "value": "既危险又致命的裤子！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stalker's Legs",
+    "value": "潜行者裤子"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Swift and sure, this sucker will keep you alive and well.",
+    "value": "迅速而可靠，这个玩意能让你活得好好的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quietus Axe",
+    "value": "寂灭斧"
+  }
+]

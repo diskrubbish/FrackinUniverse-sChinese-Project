@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What greater joy than cooking flesh?\n^yellow;Inflicts burning^reset;",
+    "value": "这肯定比烤肉有趣多了！\n^cyan;附加燃烧效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Incinerator",
+    "value": "焚烧炉"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Burninator^reset; ^yellow;^reset;",
+    "value": "^cyan;纵火者^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "What greater joy than cooking flesh?\n^yellow;Inflicts burning^reset;\n^cyan;Dual-flames and increased range^reset;",
+    "value": "有什么比烤肉更快乐呢？\n^cyan;附加燃烧效果^reset;\n^yellow;双重火焰，射程增加^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "^cyan;Roastmaster^reset; ^yellow;^reset;",
+    "value": "^cyan;烧烤大师^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "What greater joy than cooking flesh?\n^yellow;Inflicts burning^reset;\n^cyan;Dual-flames and increased range^reset;",
+    "value": "有什么比烤肉更快乐呢？\n^cyan;附加燃烧效果^reset;\n^yellow;双重火焰，射程增加^reset;"
+  }
+]

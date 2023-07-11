@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cool whip fashioned from crystal. Put your enemies on ice!\n^cyan;Inflicts Slow^reset;",
+    "value": "由月晶制成的冰冷鞭子。让你的敌人如履薄冰！\n^cyan;造成减速^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Whip",
+    "value": "月晶鞭"
+  }
+]

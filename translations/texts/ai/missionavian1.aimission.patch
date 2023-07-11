@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Great Sovereign Temple (5)",
+    "value": "大君王神庙(5)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Revisit the Great Sovereign Temple (5)",
+    "value": "重新挑战大君王神庙副本(5)"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Forged by ^cyan;quiqksilver^reset;. Control gravity!",
+    "value": "由^cyan;筷银^reset;制成。可控制重力！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gravity Wand",
+    "value": "重力魔杖"
+  }
+]

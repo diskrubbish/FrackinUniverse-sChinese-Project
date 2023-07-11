@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cosmic power stabilized into high powered shots.\n^cyan;Cosmic blasts^reset;",
+    "value": "宇宙力量稳定在高能射击之中。\n^cyan;射线冲击^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Assault Rifle",
+    "value": "赛德瑞瑟突击步枪"
+  }
+]

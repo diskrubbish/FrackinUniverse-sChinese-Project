@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These ancient crystals hum with energy. They release a gentle, healing light.",
+    "value": "这些古老的能量水晶发出奇怪的嗡嗡声，还散发着一种温和的治愈之光。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Green Guardian Wings",
+    "value": "绿色守护者之翼"
+  }
+]

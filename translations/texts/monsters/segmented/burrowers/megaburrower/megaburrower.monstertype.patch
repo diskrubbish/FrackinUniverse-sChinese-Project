@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Burrower",
+    "value": "挖掘"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A massive, deadly worm. Definitely not natural.",
+    "value": "一种巨大而致命的蠕虫。绝对不属于大自然。"
+  }
+]

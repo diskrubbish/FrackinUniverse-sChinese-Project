@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Made from the stuff of raw Chaos.\n^cyan;Hunting weapon^reset;",
+    "value": "由原始混沌制成。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hellfire Spear",
+    "value": "地狱火长矛"
+  }
+]

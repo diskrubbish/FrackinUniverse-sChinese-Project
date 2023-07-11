@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The stuff of raw entropy across the universe.",
+    "value": "整个宇宙的原始嫡。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dark Matter",
+    "value": "暗物质"
+  }
+]

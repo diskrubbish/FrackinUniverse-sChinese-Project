@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mid-length, fine fabric covering for one's legs.",
+    "value": "一种用来遮腿的中等长度的精细纤维。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toga Bottom",
+    "value": "议员下装"
+  }
+]

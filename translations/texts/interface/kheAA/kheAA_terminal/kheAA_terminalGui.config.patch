@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/clearInputs/caption",
+    "raw": "Clear Inputs",
+    "value": "清除输入"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/request/caption",
+    "raw": "Request",
+    "value": "提取"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/requestAllButOne/caption",
+    "raw": "Request All-1",
+    "value": "提取(留1份)"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/requestOne/caption",
+    "raw": "Request X",
+    "value": "提取指定数量"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/refresh/caption",
+    "raw": "Refresh",
+    "value": "刷新"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/scrollArea/children/itemList/schema/listTemplate/amount/value",
+    "raw": "x999",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/filterBox/hint",
+    "raw": "filter",
+    "value": "过滤"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/requestAmount/regex",
+    "raw": "^\\d{0,6}$",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/requestAmount/hint",
+    "raw": "1",
+    "value": ""
+  }
+]

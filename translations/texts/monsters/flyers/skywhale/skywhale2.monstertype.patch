@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Ray",
+    "value": "宇宙射线兽"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Majestic and peaceful interstellar creatures.",
+    "value": "庞大而平和的星际生物。"
+  }
+]

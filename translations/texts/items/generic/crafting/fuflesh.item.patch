@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The skin from a body.",
+    "value": "一块尸体上的皮肤。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Epidermis",
+    "value": "表皮层"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Veilendrex",
+    "value": "隐世巨颚"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "One of the most dangerous known predatory fish families.",
+    "value": "已知最危险的捕食性鱼类之一。"
+  }
+]

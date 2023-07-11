@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Freezinate!",
+    "value": "冻结吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice Arm III",
+    "value": "寒冰臂 III"
+  }
+]

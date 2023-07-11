@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/bookmarkName",
+    "raw": "Science Outpost",
+    "value": "科学前哨站"
+  },
+  {
+    "op": "replace",
+    "path": "/destinations/0/name",
+    "raw": "Beam to Ship",
+    "value": "传送至飞船"
+  }
+]

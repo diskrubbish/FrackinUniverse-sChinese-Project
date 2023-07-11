@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A metal screen decorated with Peglaci glyphs.\n^green;Extractable^reset;.",
+    "value": "装饰有羊蹄符号的金属屏幕。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Screen",
+    "value": "合金屏幕"
+  }
+]

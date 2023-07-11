@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Able to store potent charges for various uses.",
+    "value": "能够储存强大的能量，用途极其广泛。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Charge Module",
+    "value": "先驱充能模块"
+  }
+]

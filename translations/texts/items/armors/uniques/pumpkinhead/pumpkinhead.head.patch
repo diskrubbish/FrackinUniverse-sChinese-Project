@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Call on Ichabod Crane!",
+    "value": "去拜访伊卡博德·克兰！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pumpkin Mask",
+    "value": "南瓜面具"
+  }
+]

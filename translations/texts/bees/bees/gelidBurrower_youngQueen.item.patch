@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Gelid Burrower Young Queen",
+    "value": "幼年的冰掘蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Gelid Burrower Queen",
+    "value": "幼年冰掘蜂后"
+  }
+]

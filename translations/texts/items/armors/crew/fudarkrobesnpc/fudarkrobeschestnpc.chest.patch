@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Death themed body armor!",
+    "value": "以死亡为主题的盔甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stalker's Robe",
+    "value": "潜行者长袍"
+  }
+]

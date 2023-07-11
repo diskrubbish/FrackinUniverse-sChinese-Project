@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ripe with malice.\n^cyan;Alt-Fire opens Rift to Far Realm.^reset;",
+    "value": "仅仅握着就感到一股强烈的怨恨。\n^yellow;次要攻击可发射重定向箭矢^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Bow",
+    "value": "远古弓"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Rift Arrow",
+    "value": "裂隙箭矢"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Attaches to the forearm. Fires frost blasts.\n^yellow;Counts as 'ice' or 'isogen' for set bonuses^reset;",
+    "value": "可装在手臂上，发射出冰冻型子弹。\n^yellow;寒气武器、寒霜武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Arm Cannon (Ice)^reset;",
+    "value": "^cyan;臂炮(冰冻)"
+  }
+]

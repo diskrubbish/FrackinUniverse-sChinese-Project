@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Refined Fuel",
+    "value": "精制燃料"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An industrial-grade fuel obtained from refining lesser fuel using a catalyst.",
+    "value": "通过使用催化剂精炼少量燃料而获得的工业级燃料。"
+  }
+]

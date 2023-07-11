@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Made of penumbrite and rage.",
+    "value": "一把带有半影之威的狩猎弓。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Enigma Bow",
+    "value": "神秘弓"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Shadow Coil",
+    "value": "暗影线圈"
+  }
+]

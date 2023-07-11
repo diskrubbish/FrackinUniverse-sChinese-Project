@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Passage",
+    "value": "道途"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Seems to be a hint of some sort.",
+    "value": "这似乎是某种暗示。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "Foul liquids, toxic.\nChained and helpless.\nOne, the lock pick.\nBe patient, and judge each in turn.\nAwait the Old Ones decision.",
+    "value": "污染之源，毒液缠身。\n锁链禁锢，无助哀嚎。\n通路唯一，锁头拾起。\n耐心等待，逐个尝试。\n等待旧日诸神的决断。"
+  }
+]

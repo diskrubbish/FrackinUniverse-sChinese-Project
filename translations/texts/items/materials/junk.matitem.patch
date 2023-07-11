@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An old pile of junk.\n^green;Extractable^reset;.",
+    "value": "一堆旧垃圾。\n^green;可萃取^reset;。"
+  }
+]

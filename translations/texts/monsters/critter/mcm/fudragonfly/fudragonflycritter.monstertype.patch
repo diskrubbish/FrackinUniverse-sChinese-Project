@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dragonfly",
+    "value": "蜻蜓"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A relatively large insect found in swamps and marshland.",
+    "value": "在沼泽地中被发现的比较大的昆虫。"
+  }
+]

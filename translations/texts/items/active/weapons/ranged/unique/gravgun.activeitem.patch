@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Condenses gravity into focused blasts.\n^cyan;Moves enemies. A lot.^reset;\n^yellow;Extreme Knockback (Alt)^reset;",
+    "value": "将重力作为弹药射出。\n^cyan;击退敌人^reset;\n^yellow;次要攻击可释放出黑洞^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gravity Gun",
+    "value": "重力之枪"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Gravity Warp",
+    "value": "扭曲重力"
+  }
+]

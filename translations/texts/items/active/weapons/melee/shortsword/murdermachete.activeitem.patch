@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Smile and share.",
+    "value": "微笑，与分享。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Friendship Knife",
+    "value": "友谊短刀"
+  }
+]

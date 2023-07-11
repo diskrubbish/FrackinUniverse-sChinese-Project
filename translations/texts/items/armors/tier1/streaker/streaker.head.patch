@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Apparently this is a hat?",
+    "value": "很显然这是一顶帽子？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "'Hat'?",
+    "value": "帽子？"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Glimmering 'Hat'",
+    "value": "闪耀帽子"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Ooh sparkly...",
+    "value": "哦，闪闪发光..."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "Streaker's Sight",
+    "value": "裸奔者的视线"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "Look who's here! The life of the party!",
+    "value": "看看谁来了，派对的核心领袖！"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/shortdescription",
+    "raw": "Emperor's Gaze",
+    "value": "帝王的凝视"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/description",
+    "raw": "You see only the unworthy around you.",
+    "value": "你只看到你周围的不值得的东西。"
+  }
+]

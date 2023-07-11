@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bloody severed leg from a hapless miner.",
+    "value": "一个倒霉的矿工的血淋淋的腿。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bloody Leg",
+    "value": "血淋淋的大腿"
+  }
+]

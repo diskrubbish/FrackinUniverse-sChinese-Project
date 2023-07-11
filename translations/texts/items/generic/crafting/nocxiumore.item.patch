@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Raw, untainted Nocxium.",
+    "value": "原生的、纯净的诺克石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Raw Nocxium",
+    "value": "诺克原石"
+  }
+]

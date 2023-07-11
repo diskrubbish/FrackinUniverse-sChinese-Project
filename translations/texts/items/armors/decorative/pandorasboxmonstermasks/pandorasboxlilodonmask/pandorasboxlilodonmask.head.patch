@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Like a shark mask, but more adorable.",
+    "value": "像是鲨鱼面具，但却更加可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lilodon Mask",
+    "value": "鲨狗面具"
+  }
+]

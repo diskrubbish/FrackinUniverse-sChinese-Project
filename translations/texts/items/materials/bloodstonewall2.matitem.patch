@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bloody Rock",
+    "value": "血岩"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This is probably worth something, somewhere.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "在某个地方，这种材料可能是很昂贵的。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  }
+]

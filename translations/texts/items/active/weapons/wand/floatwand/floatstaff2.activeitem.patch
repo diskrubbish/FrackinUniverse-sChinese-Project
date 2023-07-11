@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange, modified Gravity Wand.",
+    "value": "一个奇怪的、调整过的重力法杖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pinkie",
+    "value": "品克"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Reaper Young Queen",
+    "value": "幼年的收割蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Reaper Queen",
+    "value": "幼年收割蜂后"
+  }
+]

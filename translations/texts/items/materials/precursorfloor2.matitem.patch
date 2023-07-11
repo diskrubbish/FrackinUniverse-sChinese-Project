@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Floor of the ancients.\n^green;Extractable^reset;.",
+    "value": "这材料来自远古。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Lit Floor",
+    "value": "先驱发光地板"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Built for conquest.",
+    "value": "为征服而铸。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium War Knife",
+    "value": "镭制战刀"
+  }
+]

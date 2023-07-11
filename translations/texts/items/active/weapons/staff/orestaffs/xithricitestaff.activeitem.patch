@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Interdimensional Destruction.",
+    "value": "将当前的维度破坏殆尽。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Staff",
+    "value": "赛德瑞瑟法杖"
+  }
+]

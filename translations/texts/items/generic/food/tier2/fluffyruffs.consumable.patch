@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "They're ruffy and fluffy! ^orange;Type: Grain + Eggs^reset;",
+    "value": "它们又松软又好吃！\n^orange;类型：谷物 +蛋奶^reset;"
+  }
+]

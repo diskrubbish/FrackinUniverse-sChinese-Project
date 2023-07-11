@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Precursor device that warps the flow of time.",
+    "value": "扭曲时间流的先驱装置。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Quantum Node",
+    "value": "先驱量子节点"
+  }
+]

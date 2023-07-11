@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Conjures a noxious cloud of poisonous gas.",
+    "value": "可释放出毒气团。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corrupt Staff",
+    "value": "腐化法杖"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A more advanced lasher hook that also deals more damage. Weighted.",
+    "value": "更先进的鞭钩，同时造成更多伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lasher Hook II",
+    "value": "鞭笞抓钩 II"
+  }
+]

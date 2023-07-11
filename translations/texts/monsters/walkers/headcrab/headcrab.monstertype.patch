@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Head Crab",
+    "value": "猎头蟹"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Their children form a parasite-host relationship with humanoids.",
+    "value": "它们的幼体与人类是寄生者与宿主的关系。"
+  }
+]

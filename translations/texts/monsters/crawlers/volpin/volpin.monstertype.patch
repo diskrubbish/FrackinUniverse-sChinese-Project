@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Volpin",
+    "value": "粘墙液"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It has a sticky texture that allows it to climb surfaces with ease.",
+    "value": "它具有粘性质地，可以轻松黏在表面。"
+  }
+]

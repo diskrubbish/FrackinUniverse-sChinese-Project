@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "I've discovered the route to some ancient overgrown ruins which supposedly house many Floran artifacts. If I need information, this should be the place.",
+    "value": "我发现了通往一些遗迹的路线，那里的植被非常古老且杂草丛生，据说那里有许多叶族的文物。如果我需要情报，那里应该是正确的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "The Verdant Ruins (2)",
+    "value": "翠绿遗址(2)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "The Verdant Ruins (2) (R)",
+    "value": "重新挑战翠绿遗址(2)"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chili Pepper Bomb",
+    "value": "辣椒炸弹"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chili pepper that explodes into flames. Fun to throw at your neighbors!",
+    "value": "一种能爆炸成火焰的辣椒。扔向你的邻居会很有趣！"
+  }
+]

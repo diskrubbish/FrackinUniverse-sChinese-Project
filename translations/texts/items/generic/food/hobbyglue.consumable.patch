@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Welcome back to Kindergarten.",
+    "value": "欢迎回到幼儿园。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hobby Glue",
+    "value": "口嗨胶"
+  }
+]

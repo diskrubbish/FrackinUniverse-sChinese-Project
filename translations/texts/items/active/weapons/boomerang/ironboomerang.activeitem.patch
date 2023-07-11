@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Iron. Whoosh.",
+    "value": "铁的。嗖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Boomerang",
+    "value": "铁制回旋镖"
+  }
+]

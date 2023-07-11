@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A super-heavy fusion rocket launcher.\n^yellow;Huge radius^reset;\n^green;Destroys tiles^reset;",
+    "value": "非常笨重的可聚变火箭发射器。\n^yellow;巨大的弹药^reset;\n^green;可破坏物块"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fusion Cannon",
+    "value": "聚变炮"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Blastmark^reset; ^yellow;^reset;",
+    "value": "^cyan;爆炸标记^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Increased projectile speed and knockback.^reset;",
+    "value": "提高射速以及击退能力。"
+  }
+]

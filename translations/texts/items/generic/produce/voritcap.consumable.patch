@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Swim Boost 3^reset;, ^cyan;Immune^reset;: Oxygen: 6m",
+    "value": "^yellow;^reset;^cyan;游泳加速 3^reset;, ^cyan;免疫^reset;: 窒息: 6m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vorit Cap",
+    "value": "劳瑞冻"
+  }
+]

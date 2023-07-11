@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shadow-forged dagger.\n^cyan;Shadow Damage^reset;",
+    "value": "由阴影铸成的匕首。\n^yellow;造成暗影伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadeclaw",
+    "value": "影爪"
+  }
+]

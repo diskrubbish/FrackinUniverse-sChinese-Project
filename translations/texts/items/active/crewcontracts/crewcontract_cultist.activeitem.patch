@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a flesh-hungry cultist. Increases max ship fuel by 150 and provides ^pink;Insanity Immunity^reset; and ^green;Moderate Poison Protection.^reset;",
+    "value": "雇用一名邪教徒，他能通过黑暗献祭的方式增加飞船150刻度的最大燃料容量。他也能帮你^pink;抵御精神错乱^reset;与^green;提供中度毒素防护^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cultist Contract",
+    "value": "合同：邪教徒"
+  }
+]

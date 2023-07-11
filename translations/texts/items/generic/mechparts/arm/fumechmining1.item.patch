@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Melt through worlds with ease.",
+    "value": "轻而易举地融化世界。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mining Cannon II",
+    "value": "挖掘机甲臂 II"
+  }
+]

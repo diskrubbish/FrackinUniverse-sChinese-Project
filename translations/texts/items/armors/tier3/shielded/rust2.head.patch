@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; +^green;15^reset;% Speed\n^yellow;^reset; ^cyan;Immune^reset;: Oxygen, Gas^reset;",
+    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; +^green;15^reset;% 速度\n^yellow;^reset; ^cyan;免疫^reset;: 窒息, 气体"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shielded Helmet",
+    "value": "庇护头盔"
+  }
+]

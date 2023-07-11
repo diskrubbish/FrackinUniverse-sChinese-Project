@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^#a5ff00;Looking at this blade causes dizziness, for it endlessly undulates.^reset;",
+    "value": "^#a5ff00;看这把剑会头晕，因为它在不停地波动。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#a5ff00;Elder Blade^reset;",
+    "value": "^#a5ff00;远古短剑^reset;"
+  }
+]

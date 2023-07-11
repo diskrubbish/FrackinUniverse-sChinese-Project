@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A high-powered rifle that sacrifices rate-of-fire for enough firepower to cut through armor like a hot knife through butter.",
+    "value": "威力非常强的步枪，它的火力打在装甲上如同烧热的刀穿过黄油一般顺畅。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NPC Anti-Material Rifle",
+    "value": "NPC的反物质步枪"
+  }
+]

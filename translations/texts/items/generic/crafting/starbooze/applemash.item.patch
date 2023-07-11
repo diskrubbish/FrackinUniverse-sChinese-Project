@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Apple Mash, the product of crushed and squeezed apples.",
+    "value": "苹果压榨后的产物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apple Mash",
+    "value": "苹果醪"
+  }
+]

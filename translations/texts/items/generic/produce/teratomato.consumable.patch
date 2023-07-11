@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+30% Physical & Knockback Res.^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;+30%物理 & 击退抗性^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Teratomato",
+    "value": "畸胎果"
+  }
+]

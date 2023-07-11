@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The height of fashion.",
+    "value": "时尚的高度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poptop Cap",
+    "value": "吐舌娃帽"
+  }
+]

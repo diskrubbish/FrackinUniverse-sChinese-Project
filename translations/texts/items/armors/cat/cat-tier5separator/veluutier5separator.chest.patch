@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This collar is meant to increase health and provide excellent defensive power.",
+    "value": "这个项圈增加猫咪健康，提供优秀的防御能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cat's Health Collar",
+    "value": "健康猫项圈"
+  }
+]

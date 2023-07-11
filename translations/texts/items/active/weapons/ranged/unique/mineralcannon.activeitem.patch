@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Made to maim and eradicate. Cheery.\n^yellow;Destroys tiles^reset;",
+    "value": "斩草除根的最佳选择，哈哈！\n^yellow;可破坏物块^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Particle Rifle",
+    "value": "粒子步枪"
+  }
+]

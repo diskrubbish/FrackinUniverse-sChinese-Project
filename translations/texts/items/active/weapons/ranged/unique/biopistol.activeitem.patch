@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ejects poisonous clouds. Fun.\n^yellow;Inflicts poison status^reset;",
+    "value": "会释放出毒气云。太有意思了！\n^cyan;附加中毒效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poison Ejector",
+    "value": "毒气喷射器"
+  }
+]

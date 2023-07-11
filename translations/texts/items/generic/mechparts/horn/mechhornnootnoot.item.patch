@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Offensive and crass.",
+    "value": "鸣号冲锋！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Offensive Mech Horn",
+    "value": "进击的机甲喇叭"
+  }
+]

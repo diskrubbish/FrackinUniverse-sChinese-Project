@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Impossibly sharp focused light forms the blade.\n^cyan;Inflicts Radiation Burn^reset;",
+    "value": "由汇聚的光组成的剑刃，难以置信的锋利。\n^cyan;附加辐射烧伤效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Rendblade",
+    "value": "先驱宽剑"
+  }
+]

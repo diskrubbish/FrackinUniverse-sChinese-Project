@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A charming bone and wood staff dripping with poison.\n^cyan;Hunting weapon^reset;",
+    "value": "一根漂亮的骨头与一根淬毒的木棍。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cultist Battle Staff",
+    "value": "异教战斗法杖"
+  }
+]

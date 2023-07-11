@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lethal edged weapon of the Thelusians.\n^cyan;Counts as Hunting weapon^reset;",
+    "value": "一把Thelusians使用的致命的锋利武器。\n^yellow;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Longsword",
+    "value": "蚁族长剑"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires irradiated bursts of projectiles.\n^yellow;Inflicts radiation burn^reset;",
+    "value": "射出带有放射性的弹药。\n^cyan;附加辐射烧伤效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Burstgun",
+    "value": "镭制破裂枪"
+  }
+]

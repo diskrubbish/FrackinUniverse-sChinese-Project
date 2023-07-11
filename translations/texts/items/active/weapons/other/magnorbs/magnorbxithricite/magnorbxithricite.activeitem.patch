@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Erase them from existence with cosmic power.",
+    "value": "用宇宙的力量将他们从存在中抹去。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Magnorb",
+    "value": "宇宙磁力珠"
+  }
+]

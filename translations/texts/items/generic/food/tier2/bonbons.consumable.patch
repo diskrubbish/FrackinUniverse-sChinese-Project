@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Confectionery perfection. ^green;Type: Sugar^reset;",
+    "value": "完美的糖果。\n^green;类型：糖类^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decent crystal weapon.",
+    "value": "一把相当好的水晶武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Shortsword",
+    "value": "月晶短剑"
+  }
+]

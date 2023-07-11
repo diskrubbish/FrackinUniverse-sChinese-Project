@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;+0.5% HP Regen, +6 ShieldBash Push^reset;",
+    "value": "^green;生命恢复速度+0.5%，盾牌猛击击退+6^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Shield",
+    "value": "黏液盾"
+  }
+]

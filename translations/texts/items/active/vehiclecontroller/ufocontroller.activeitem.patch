@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "UFO Controller",
+    "value": "飞碟控制器"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Create a tiny UFO from stored nanites.",
+    "value": "利用储存的纳米机器人创造一个微型UFO。"
+  }
+]

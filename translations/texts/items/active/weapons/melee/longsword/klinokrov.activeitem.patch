@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Blade of a fallen legend.\n^cyan;Inflicts Caliginous Gas^reset;",
+    "value": "一把堕落的传奇之刃。\n^cyan;附加暗影气体效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Klinokrov",
+    "value": "克罗科夫"
+  }
+]

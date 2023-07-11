@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Panelling made from gold and a crystal alloy.",
+    "value": "由金和水晶制成的合金面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Advanced Crystal Panels",
+    "value": "高级水晶面板"
+  }
+]

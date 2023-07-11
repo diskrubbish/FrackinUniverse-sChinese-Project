@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a deadly assassin. Grants ^green;Poison and Bio Ooze Immunity^reset;, and 160 ship maximum fuel.",
+    "value": "雇用一名刺客，他能帮你抵御^green;毒素和生物软泥^reset;，并且提高飞船160刻度的燃料容量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Assassin Contract",
+    "value": "合同：刺客"
+  }
+]

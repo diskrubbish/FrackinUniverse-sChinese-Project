@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Grows out of your back when you need it most. ^green;+1 Gene production^reset;.",
+    "value": "当你最需要的时候从你的背上长出来。\n^green;+1基因产量^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Lantern Bulb",
+    "value": "艾肯灯笼球茎"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Electropod",
+    "value": "电解豆荚"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's like a flying electric eel, but must slam the ground to discharge.",
+    "value": "它就像一条会飞的电鳗，但必须猛击地面才能放电。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Roasted sprouted wheat!",
+    "value": "这是烤过的发芽小麦！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Malt",
+    "value": "麦芽"
+  }
+]

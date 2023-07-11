@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strong wall made of penumbral stone.",
+    "value": "半影石制成的坚固墙体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbral Wall",
+    "value": "半影墙体"
+  }
+]

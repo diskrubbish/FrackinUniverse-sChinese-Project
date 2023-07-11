@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cheesy quiche packed full of fresh mushrooms. ^orange;Type: Mushrooms + Dairy + Eggs^reset;",
+    "value": "装有新鲜蘑菇的干酪乳蛋饼。\n^orange;类型：蘑菇 + 蛋奶^reset;"
+  }
+]

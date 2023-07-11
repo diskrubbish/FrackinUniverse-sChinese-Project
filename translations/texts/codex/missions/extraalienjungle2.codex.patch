@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "(Brine Star) Savage Scribbling",
+    "value": "涂鸦(盐湖之星)"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Looks even worse than your usual Floran scrawl.",
+    "value": "这什么意思？比叶族画的画还糟糕。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "RULESS OF TRIBE\n\nRUINSS GIVESS SSPARKLIESS\n\nSSPARKLIESS GIVESS POWER\n\nDEVOUR SSPARKLIESS\n\nKEEP AWAY MEATSSS\n\nKEEP AWAY OTHER FLORAN\n\nBECOME SSSTRONGESST",
+    "value": "部落的准则\n\n废墟给我们闪闪\n\n闪闪给我们力量\n\n吃了闪闪\n\n不再吃肉\n\n不再吃叶族人\n\n变得更强"
+  }
+]

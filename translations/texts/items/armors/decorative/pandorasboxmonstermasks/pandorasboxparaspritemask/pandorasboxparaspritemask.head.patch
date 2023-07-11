@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I for one think it suits you perfectly!",
+    "value": "我个人认为它太适合您了！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Parasprite Mask",
+    "value": "Parasprite面具"
+  }
+]

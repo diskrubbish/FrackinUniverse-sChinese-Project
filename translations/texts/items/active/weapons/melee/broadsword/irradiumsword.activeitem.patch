@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Forged from irradium.",
+    "value": "由镭锻造而成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Blade",
+    "value": "镭制宽剑"
+  }
+]

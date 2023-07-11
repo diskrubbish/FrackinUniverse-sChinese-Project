@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Precise and powerful, and shiny!",
+    "value": "精确有力，闪闪发光！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbrite Chakram",
+    "value": "半影环刃"
+  }
+]

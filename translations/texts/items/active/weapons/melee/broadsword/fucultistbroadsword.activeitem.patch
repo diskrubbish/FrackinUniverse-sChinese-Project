@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Forged from carbon.\n^cyan;Inflicts bleeding^reset;",
+    "value": "由碳锻造而成。\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cultist Broadsword",
+    "value": "异教宽剑"
+  }
+]

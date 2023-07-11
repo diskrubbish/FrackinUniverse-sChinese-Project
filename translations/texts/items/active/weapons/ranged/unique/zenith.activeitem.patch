@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "ArCon forces always have this handy.\n^cyan;Counts as 'plasma' for set bonuses.^reset;",
+    "value": "阿克恩部队总是有这种便利。\n^yellow;等离子武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "ArCon Zenith",
+    "value": "阿克恩手枪"
+  }
+]

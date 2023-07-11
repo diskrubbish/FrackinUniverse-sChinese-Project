@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Double-pronged for twice the fun.",
+    "value": "双倍的快乐。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Knife",
+    "value": "月海小刀"
+  }
+]

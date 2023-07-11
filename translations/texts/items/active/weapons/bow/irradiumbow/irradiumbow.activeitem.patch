@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Radioactive Hunting.",
+    "value": "快来一场辐射狩猎吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Bow",
+    "value": "镭制弓"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Debilitator",
+    "value": "衰变"
+  }
+]

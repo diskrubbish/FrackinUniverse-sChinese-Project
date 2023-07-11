@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A box from Khe containing 'the most perfect outfit ever'. Looks suspiciously empty.",
+    "value": "来自溪的盒子，里面装有“有史以来最完美的服装”。但是看起来是空的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "'Perfect Outfit' Box",
+    "value": "“完美服饰”大礼包"
+  }
+]

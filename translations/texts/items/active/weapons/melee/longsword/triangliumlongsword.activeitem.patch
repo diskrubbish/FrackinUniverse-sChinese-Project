@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dangerously irradiated. Also cutty and pretty.",
+    "value": "带有危险的辐射，也很锐利和漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Trianglium Longsword",
+    "value": "三棱长剑"
+  }
+]

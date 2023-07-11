@@ -1,0 +1,272 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
+    "raw": "Hey adventurer, mind if I join mew? I'll purrove myself useful, I purromise!",
+    "value": "嘿，冒险家，介意我加入吗喵？我会证明自己有用，我保证！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
+    "raw": "I'm <selfname>, and I've been looking to get off this planet. Can I come with mew?",
+    "value": "我是<selfname>，我一直想离开这个星球。我能与泥一起出发吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
+    "raw": "I sense that mew would see my usefulness as a crew member. Let's go together!",
+    "value": "我感觉泥会发现我作为一名船员是多么的有用。让我们出发吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
+    "raw": "I'm looking for a ship's crew to join. Care to have me aboard?",
+    "value": "我正在寻找一艘飞船加入。有兴趣请我上船吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/4",
+    "raw": "This place is getting boring. Care to let a cat join your crew?",
+    "value": "这地方越来越无聊了。介意让一只猫加入你的团队吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I might not look like much, but I can wield a weapon as good as any humanoid!",
+    "value": "我可能看起来很菜，但是我可以把武器使得和其他人一样溜索！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "raw": "If you need purrtection, mew know where to find me!",
+    "value": "如果你需要保护，泥随时可以找我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+    "raw": "Even cats have claws. I'll be here if mew need 'em!",
+    "value": "猫有爪子。如果泥有需要我会在这里的喵！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+    "raw": "Technology is amazing!",
+    "value": "科技真是震撼我心！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1",
+    "raw": "That was only one life. I have more.",
+    "value": "那只是一条命，我还有更多。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/2",
+    "raw": "That was an...interesting experience...",
+    "value": "这算是次...有趣的经历..."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/3",
+    "raw": "I'm back and my pelt is in one piece!",
+    "value": "我回来了，我的毛皮完好无损！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/4",
+    "raw": "I'm alive again! Purr.",
+    "value": "我又活过来啦！咕噜咕噜。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/5",
+    "raw": "...Is there a kink in my tail?",
+    "value": "...我的尾巴是不是打了个结？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/6",
+    "raw": "My paw hurts.",
+    "value": "我的爪子受伤了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/7",
+    "raw": "What was I doing just before I died?",
+    "value": "到底我是怎么死的？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
+    "raw": "Are mew taking meowt?",
+    "value": "你要走了喵？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/1",
+    "raw": "Yes, captain!",
+    "value": "好的，船长！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/2",
+    "raw": "Where are we going?",
+    "value": "我们要去哪？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/3",
+    "raw": "Let's go, let's go!",
+    "value": "我们走我们走！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/4",
+    "raw": "Are we going somewhere?",
+    "value": "我们要去哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+    "raw": "I can't reach mew!",
+    "value": "我跟不上泥！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
+    "raw": "Mew're too fast!",
+    "value": "泥跑太快了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
+    "raw": "Hey, wait up!",
+    "value": "嘿，等等！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
+    "raw": "How are Mew so fast?",
+    "value": "泥为啥跑这么快？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
+    "raw": "Hey! Come back!",
+    "value": "嘿！快回来！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Soldier",
+    "value": "士兵"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Security",
+    "value": "保安"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/0",
+    "raw": "Pun-Master <role>",
+    "value": "双关大师<role>猫"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/1",
+    "raw": "Feline <field> Officer",
+    "value": "公务员<field>猫"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/2",
+    "raw": "Deputy <role> Cat",
+    "value": "副手猫<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/3",
+    "raw": "Appurrentice <role>",
+    "value": "学徒<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/4",
+    "raw": "Near-Purrfect <role>",
+    "value": "几近完美<role>猫"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/5",
+    "raw": "Furierce <role>",
+    "value": "凶猛猫<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/6",
+    "raw": "Feline Commodore <role>",
+    "value": "准将猫<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/7",
+    "raw": "Executive Feline <role>",
+    "value": "行政猫<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/8",
+    "raw": "Independent <field> Cat",
+    "value": "独立自主<field>猫"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/9",
+    "raw": "Dependant <field> Cat",
+    "value": "黏人<field>猫"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/10",
+    "raw": "Dreadnought <field> Cat",
+    "value": "无畏<field>猫"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/11",
+    "raw": "Feline <field> Mastermind",
+    "value": "策划<field>猫"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/12",
+    "raw": "Feline <role>",
+    "value": "猫中贵族<role>"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/13",
+    "raw": "Reliable <field> Cat",
+    "value": "可靠<field>猫"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/14",
+    "raw": "Theoretical <field> Cat",
+    "value": "理论<field>猫"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/15",
+    "raw": "Reliable <field> Cat",
+    "value": "可靠<field>猫"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/ranks/16",
+    "raw": "Armchair <field> Cat",
+    "value": "言而不行<field>猫"
+  }
+]

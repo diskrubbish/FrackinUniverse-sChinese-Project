@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sandprowler Young Queen",
+    "value": "幼年的潜沙蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Sandprowler Queen",
+    "value": "幼年潜沙蜂后"
+  }
+]

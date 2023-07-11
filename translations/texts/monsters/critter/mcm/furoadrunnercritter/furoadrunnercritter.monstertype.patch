@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Roadrunner",
+    "value": "走鹃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small fast-running bird that feeds on insects and fruit.",
+    "value": "一种以昆虫和水果为食的能够快速奔跑的小型鸟。"
+  }
+]

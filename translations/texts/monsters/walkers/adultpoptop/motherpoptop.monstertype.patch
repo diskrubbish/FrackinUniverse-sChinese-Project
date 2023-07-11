@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mother Poptop",
+    "value": "吐舌娃妈妈"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's huge...",
+    "value": "这么大只..."
+  }
+]

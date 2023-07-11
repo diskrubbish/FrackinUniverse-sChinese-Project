@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hides the player and whatever they're holding. Good for screenshots.",
+    "value": "隐藏玩家和其所持的物品。适合于截图。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hat of Invisibility",
+    "value": "隐身帽"
+  }
+]

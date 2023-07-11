@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Bouncy, Immune to Fall Damage^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;弹性, 免疫坠落伤害^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Springvault Coil",
+    "value": "春季卷"
+  }
+]

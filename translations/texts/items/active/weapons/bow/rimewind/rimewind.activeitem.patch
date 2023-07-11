@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires arrows imbued with crippling frost.",
+    "value": "发射注有极端霜冻能量的箭矢。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rimewind",
+    "value": "霜岚"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Ice Shot",
+    "value": "冰结射击"
+  }
+]

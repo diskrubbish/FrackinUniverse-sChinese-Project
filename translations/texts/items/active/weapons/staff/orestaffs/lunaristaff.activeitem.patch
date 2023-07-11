@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Powered by the crystal moon.",
+    "value": "水晶之月能量"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Staff",
+    "value": "月晶法杖"
+  }
+]

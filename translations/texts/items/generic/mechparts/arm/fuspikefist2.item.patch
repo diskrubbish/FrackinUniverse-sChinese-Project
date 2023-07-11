@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shoots phasing blasts.",
+    "value": "发射相位爆炸。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Phase Ball Arm",
+    "value": "相位能量球机械臂"
+  }
+]

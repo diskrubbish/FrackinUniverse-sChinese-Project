@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ooey-gooey caramel!",
+    "value": "黏稠的焦糖！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Caramel",
+    "value": "焦糖"
+  }
+]

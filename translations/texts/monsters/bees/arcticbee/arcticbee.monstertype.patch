@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Arctic Bee",
+    "value": "北极蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An arctic bee, capable of withstanding extremely cold temperatures.",
+    "value": "北极蜜蜂，能承受极低的温度。"
+  }
+]

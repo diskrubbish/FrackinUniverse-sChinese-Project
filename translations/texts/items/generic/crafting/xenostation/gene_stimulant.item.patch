@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Creates powerful effects on the body.",
+    "value": "对身体产生强大的影响。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stimulant",
+    "value": "刺激基因"
+  }
+]

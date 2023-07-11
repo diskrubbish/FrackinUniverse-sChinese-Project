@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Red Glowstick",
+    "value": "红色荧光棒"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An effective and waterproof way to light up a dark cave before you dive into it.",
+    "value": "好用且防水，适合进入黑暗洞穴。"
+  }
+]

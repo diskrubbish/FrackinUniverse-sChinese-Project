@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hefty tungsten dagger.",
+    "value": "这把匕首有些大。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tungsten Dagger",
+    "value": "钨制匕首"
+  }
+]

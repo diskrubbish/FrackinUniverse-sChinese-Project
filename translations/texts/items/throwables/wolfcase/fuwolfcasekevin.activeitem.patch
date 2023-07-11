@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What's inside? It's pretty heavy.",
+    "value": "这里面装的是什么东西，怎么那么重啊？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mystery Box",
+    "value": "神秘盒子"
+  }
+]

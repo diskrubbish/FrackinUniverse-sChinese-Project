@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sulphuric Acid",
+    "value": "硫酸"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sulphuric Acid ^gray;H2SO4^reset; is one of the strongest naturally occurring acids.\n^yellow;Centrifugable^reset;.",
+    "value": "硫酸^gray;H2SO4^reset;是最强的自然酸之一。\n^yellow;可离心^reset;。"
+  }
+]

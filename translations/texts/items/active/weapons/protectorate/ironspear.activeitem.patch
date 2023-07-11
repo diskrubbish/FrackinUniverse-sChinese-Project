@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A shoddy iron spear.\n^cyan;Hunting weapon^reset;",
+    "value": "一把劣质的铁制长矛。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Spear",
+    "value": "铁制长矛"
+  }
+]

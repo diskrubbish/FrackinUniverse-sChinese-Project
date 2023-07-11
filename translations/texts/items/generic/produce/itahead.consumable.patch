@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune: Poison & 25% Poison Res^reset;, ^cyan;Immunity ^reset;: Bee Stings, Bio-Ooze, Pus, Slime: 1m",
+    "value": "^yellow;^reset;^cyan;免疫: 中毒 & 25%毒素抗性^reset;, ^cyan;免疫^reset;: 蜂蜇, 生物软泥, 脓液, 黏液: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ita Flower Head",
+    "value": "伊达花"
+  }
+]

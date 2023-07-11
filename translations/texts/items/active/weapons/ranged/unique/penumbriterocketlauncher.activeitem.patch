@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fast-moving blasts of attuned power.\n^yellow;Universal Damage^reset;",
+    "value": "快速移动的调谐能量爆炸。\n^yellow;通用武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbrite Cannon",
+    "value": "半影加农"
+  }
+]

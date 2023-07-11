@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A brutally effective pistol.\n^cyan;Shotgun - style bursts ^reset;",
+    "value": "残酷而高效的手枪。\n^yellow;霰弹枪式爆射^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blasthammer",
+    "value": "爆裂战锤"
+  }
+]

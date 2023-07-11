@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": "Sticky Note Pad",
+    "value": "便笺簿"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": "Leave yourself a reminder",
+    "value": "给自己留个提醒"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/makebutton/caption",
+    "raw": "Peel",
+    "value": "揭下"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/writebox/hint",
+    "raw": "Write something...",
+    "value": "写点什么……"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/writebox/regex",
+    "raw": "[\\d\\D ]{0,50}",
+    "value": ""
+  }
+]

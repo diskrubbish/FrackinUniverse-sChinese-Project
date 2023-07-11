@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wattsper",
+    "value": "瓦特精灵"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some believe wattspers are lost spirits. At night their glow can lead explorers astray.",
+    "value": "有人相信wattsper是迷失的灵魂，夜晚来临，它们所发出的微光能使探索者们误入歧途。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aberrant Sentry",
+    "value": "变异哨兵"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stone temple guardian, animated with ancient technology.",
+    "value": "一尊用古老科技做的活灵活现的石头守护神。"
+  }
+]

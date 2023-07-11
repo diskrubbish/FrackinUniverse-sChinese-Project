@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Put your enemies on ice.\n^cyan;Slows enemies^reset;",
+    "value": "冻住，不许走！\n^cyan;减慢敌人的速度^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium SMG",
+    "value": "高熔点SMG"
+  }
+]

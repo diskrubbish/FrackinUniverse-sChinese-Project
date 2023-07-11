@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+    "value": "右键使用这瓶染料来改变盔甲或衣服的颜色。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exonite Dye",
+    "value": "长石色染料"
+  }
+]

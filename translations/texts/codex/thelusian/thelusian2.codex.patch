@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Thelusian Naming",
+    "value": "蚁族人的名字"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Thelusian Life Vol 2",
+    "value": "蚁族生活 第2卷"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "The Thelusians are not known as such to their own kind. Their language is completely unusable by other known spacefaring races due to their unique vocalizations. While they can mimic the speech of other races, it will never sound right and always contain a sort of buzzing-tick.",
+    "value": "蚁族人并不认识彼此。由于他们独特的发声方式，其他已知的太空种族完全无法使用他们的语言。虽然他们可以模仿其他种族的语言，但它听起来永远不会正确，而且总是包含一种嗡嗡的滴答声。"
+  }
+]

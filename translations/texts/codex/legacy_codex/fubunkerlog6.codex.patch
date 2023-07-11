@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "USCM Personnel Log #99999",
+    "value": "USCM员工日志 #99999"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "USCM Personnel Log #99999",
+    "value": "USCM员工日志 #99999"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "Please let me go home\nI'm tired and I miss my games consoles\nPlus the other soldiers are really annoying\nSemper fi.",
+    "value": "让我回家吧\n我累了，我想念我的游戏机\n而且其他士兵真的很烦人\n永远忠诚。"
+  }
+]

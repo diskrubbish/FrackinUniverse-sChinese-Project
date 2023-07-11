@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A moist cake enriched with coffee. Moreish! ^orange;Type: Grain + Dairy + Eggs + Sugar^reset;",
+    "value": "一个富含咖啡的湿软的蛋糕。好吃！\n^orange;类型：谷物 + 蛋奶 + 糖类^reset;"
+  }
+]

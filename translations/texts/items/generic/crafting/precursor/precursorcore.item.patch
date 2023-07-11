@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A quantum-state energy matrix suspended in...antimatter?",
+    "value": "这个量子态能量矩阵竟然悬浮在……反物质中？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flux Core",
+    "value": "通量堆芯"
+  }
+]

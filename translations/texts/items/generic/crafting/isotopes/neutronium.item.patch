@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A substance composed purely of neutrons. Ultra-dense.\n^blue;+^white;300 ^blue;Fuel^reset;",
+    "value": "一种完全由中子组成的物质。密度极高。\n^blue;燃料+^white;300^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;Neutronium Rod^reset;",
+    "value": "^#88e25b;中子棒^reset;"
+  }
+]

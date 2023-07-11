@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Finally I can be a kitty-fairy!",
+    "value": "我终于可以做个猫仙子了！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kitty Butterfly Wings",
+    "value": "猫咪蝴蝶翼"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small semi-automatic handgun with a decent rate-of-fire and accuracy.",
+    "value": "这把小型的半自动手枪具有不错的射击速度和精准度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NPC Semi-Automatic Pistol",
+    "value": "NPC的半自动手枪"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gnomish Warriors",
+    "value": "侏儒战士"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "They appear to be enraged, but are not particularly threatening.",
+    "value": "他们似乎被激怒了，但没有特别的威胁性。"
+  }
+]

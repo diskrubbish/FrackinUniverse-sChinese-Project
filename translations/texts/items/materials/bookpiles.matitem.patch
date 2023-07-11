@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pile of dusty old books, they're full of tales of dragons and knights.\n^green;Extractable^reset;, ^red;Smeltable^reset;.",
+    "value": "一堆尘封的史册，全都是些关于龙和骑士的传说。\n^green;可萃取^reset;, ^red;可冶炼^reset;。"
+  }
+]

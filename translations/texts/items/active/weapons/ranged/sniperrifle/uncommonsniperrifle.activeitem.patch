@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A traditional favorite of snipers and marksmen. Ideal for covering long distances.",
+    "value": "一支传统狙击手和射手的最爱，是长距离掩护的理想选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Uncommon Semi-Automatic Rifle",
+    "value": "非凡半自动步枪"
+  }
+]

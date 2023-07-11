@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mental health expert. Reduces madness effects up to 40%. Reduces fuel costs by 2%.",
+    "value": "心理健康专家。减少40%狂乱影响。降低2％的飞船燃料消耗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ship Psychologist Contract",
+    "value": "合同：随船心理师"
+  }
+]

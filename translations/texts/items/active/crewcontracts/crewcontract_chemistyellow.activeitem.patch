@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a chemist that helps you see in the dark.",
+    "value": "雇用一名化学家，他能让你具备昏暗视觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chemist-D Contract",
+    "value": "合同：化学家D"
+  }
+]

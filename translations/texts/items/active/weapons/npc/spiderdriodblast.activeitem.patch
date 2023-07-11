@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You shouldn't have this. Cheater.",
+    "value": "喜欢开admin？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spider Blast",
+    "value": "蜘蛛爆破"
+  }
+]

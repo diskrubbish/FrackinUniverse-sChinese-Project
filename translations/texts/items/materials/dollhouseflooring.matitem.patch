@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Delightful dollhouse ornate flooring.",
+    "value": "漂亮的玩具屋华丽地板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dollhouse Ornate Flooring",
+    "value": "玩具屋华丽地板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Charmed. A beautiful dollhouse ornate wooden floor.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran feelss fancy walking on dollhouse ornate floor.",
+    "value": "在玩具屋华丽华丽的地板上漫步，叶族人感感感觉很奇妙。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some fancy lookin' dollhouse ornate floorin'.",
+    "value": "一些漂亮的玩具屋华丽地板。"
+  }
+]

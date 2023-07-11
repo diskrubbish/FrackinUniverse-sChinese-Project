@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Exceptional leg servos provide amazing jumping.",
+    "value": "特殊的动力提供惊人的跳跃力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Intrepid-X Mech Legs",
+    "value": "无畏机甲足"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A matter block. A block that matters.\n^green;Extractable^reset;, ^red;Smeltable^reset;.",
+    "value": "一块物质块。物质块一块。\n^green;可萃取^reset;，^red;可冶炼^reset;。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Bomb",
+    "value": "变铁炸弹"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Alchemical creation! Turn tiles into iron!",
+    "value": "炼金大发明！它可以把块变成铁！"
+  }
+]

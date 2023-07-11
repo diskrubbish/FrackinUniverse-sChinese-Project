@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Your pet now functions like a glitchtop. Yay?",
+    "value": "仿生机械娃能梦到电子人吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glitchtop Collar",
+    "value": "故障娃项圈"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "raw": "Glitch Aura",
+    "value": "故障光环"
+  }
+]

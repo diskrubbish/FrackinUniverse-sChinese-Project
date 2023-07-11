@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Makes people think they've been hit with 10 gamma ray bursts at once.",
+    "value": "让敌人一次被10次伽玛射线击中。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Stynger",
+    "value": "混沌发射器"
+  }
+]

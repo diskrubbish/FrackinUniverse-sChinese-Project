@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "There is no orb on this hat, because 'you' are the orb!",
+    "value": "这顶帽子上没有球体，因为“你”就是那个！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Squeem Hat",
+    "value": "呱太帽"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Crit Chance +3%, Crit Damage +5^reset;",
+    "value": "^green;暴击几率+3%, 暴击伤害+5^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Durasteel Shield",
+    "value": "耐钢盾"
+  }
+]

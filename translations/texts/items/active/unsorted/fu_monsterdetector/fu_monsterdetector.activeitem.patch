@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Monster Detector",
+    "value": "怪物探测器"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Reveals nearby monsters.",
+    "value": "显示附近的怪物。"
+  }
+]

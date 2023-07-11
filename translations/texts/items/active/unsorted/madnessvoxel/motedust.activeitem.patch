@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mote of dust that just won't stop following you.",
+    "value": "永远跟随你的尘埃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Confusing Dust",
+    "value": "困惑之尘"
+  }
+]

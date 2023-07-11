@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Condensed and hardened Lunari crystal.",
+    "value": "浓缩成型的月晶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Crystal",
+    "value": "月晶"
+  }
+]

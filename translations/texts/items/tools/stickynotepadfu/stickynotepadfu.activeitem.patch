@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sticky Note Pad",
+    "value": "便笺簿"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Write yourself notes. Leave them everywhere. Drive your roommates crazy!",
+    "value": "写下自己的笔记。把它们留在各地。把你的室友逼疯！"
+  }
+]

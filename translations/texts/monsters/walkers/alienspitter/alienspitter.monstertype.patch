@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spitting Wretch",
+    "value": "吐痰虫"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A vicious looking insectoid with unusual mandibles.",
+    "value": "一只长着不同寻常的下颚，凶神恶煞的昆虫态动物。"
+  }
+]

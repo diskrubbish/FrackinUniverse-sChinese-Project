@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Your Dad",
+    "value": "你爹"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Family History",
+    "value": "家族历史"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "From cover to cover, this book appears to be a recounting of the life of your father.",
+    "value": "从头到尾，这本书似乎是在叙述你父亲的一生。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A truly unique weapon!\n^yellow;Incapacitate enemies^reset;\n^green;Redirect in zero-g^reset;",
+    "value": "这把武器非常独特。\n^yellow;敌人将毫无还手之力^reset;\n^green;将重力归零"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Redirector",
+    "value": "归零"
+  }
+]

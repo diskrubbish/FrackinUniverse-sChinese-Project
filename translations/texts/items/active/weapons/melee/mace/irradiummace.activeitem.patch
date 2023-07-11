@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Radiation-laced for extra merriment.",
+    "value": "让辐射注入你敲击之人的体内吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Mace",
+    "value": "镭制钉头锤"
+  }
+]

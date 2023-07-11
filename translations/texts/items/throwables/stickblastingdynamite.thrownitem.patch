@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Throwing Dynamite",
+    "value": "爆破用炸药"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Toss to mine out blocks at a distance. Fire in the hole!",
+    "value": "建议扔远一点，别炸到自己。"
+  }
+]

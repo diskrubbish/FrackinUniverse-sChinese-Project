@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Roofing",
+    "value": "合金屋顶"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy looking metal girder.",
+    "value": "一个看起来很坚固的金属横梁。"
+  }
+]

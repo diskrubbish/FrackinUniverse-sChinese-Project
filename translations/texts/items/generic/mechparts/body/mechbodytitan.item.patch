@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Immune^reset;: Pressure, Extreme Heat/Cold/Radiation/Poison, Proto, Acid, L.Nitro, Aether",
+    "value": "^cyan;免疫^reset;：压强，极端毒素/炎热/寒冷/辐射，原毒，酸蚀，液氮，以太"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Titan Mech Body",
+    "value": "泰坦机甲躯体"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This honeycomb contains traces of gold and can heal wounds over time.",
+    "value": "这个蜂巢有黄金的痕迹，使用后可以随着时间的推移愈合伤口。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gold Honeycomb",
+    "value": "金色蜂巢"
+  }
+]

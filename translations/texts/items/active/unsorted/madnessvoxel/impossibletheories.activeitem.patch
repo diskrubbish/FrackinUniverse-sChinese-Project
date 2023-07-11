@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Flying in the face of reason, this book of your theories is utterly insane.",
+    "value": "你的这套理论全然丧失理性，简直是要上天。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Impossible Theories",
+    "value": "荒谬之论"
+  }
+]

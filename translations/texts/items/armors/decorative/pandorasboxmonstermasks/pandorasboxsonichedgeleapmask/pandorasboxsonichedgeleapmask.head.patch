@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Can be put on at sonic speed.",
+    "value": "能以音速戴上它。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sonic Hedgeleap Mask",
+    "value": "音速飞鼠面具"
+  }
+]

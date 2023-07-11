@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small fully-automatic pistol that lacks stopping power, but can be wielded in one hand with decent accuracy.",
+    "value": "一种小型全自动手枪，缺乏停止作用，但可以单手使用，具有良好的准确性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NPC Machine Pistol",
+    "value": "NPC的自动手枪"
+  }
+]

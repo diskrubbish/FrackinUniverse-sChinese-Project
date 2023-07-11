@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An extremely durable titanium greataxe.",
+    "value": "使用钛制造而成，非常耐用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Titanium Greataxe",
+    "value": "钛制巨斧"
+  }
+]

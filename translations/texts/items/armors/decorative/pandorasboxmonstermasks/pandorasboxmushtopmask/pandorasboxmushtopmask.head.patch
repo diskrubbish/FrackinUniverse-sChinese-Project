@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fungal spore free! (Potentially..)",
+    "value": "没有真菌孢子！（大概...）"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mushtop Mask",
+    "value": "菇舌娃面具"
+  }
+]

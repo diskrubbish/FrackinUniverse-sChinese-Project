@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wobbly-looking sword made of slime.",
+    "value": "用黏液制成的摇摇晃晃的剑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Rapier II",
+    "value": "黏液刺剑 II"
+  }
+]

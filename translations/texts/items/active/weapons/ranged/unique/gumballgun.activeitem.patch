@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "All things considered, it's actually pretty awesome.",
+    "value": "所有的因素都考虑到了，这真的是太棒了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gumball Gun",
+    "value": "口香糖枪"
+  }
+]

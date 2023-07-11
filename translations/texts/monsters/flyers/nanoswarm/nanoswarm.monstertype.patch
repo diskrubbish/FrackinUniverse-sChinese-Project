@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nanobot Swarm",
+    "value": "纳米机械群"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Swift moving and able to literally deconstruct flesh. Fun!",
+    "value": "移动迅速，还的确能够解构血肉。有趣！"
+  }
+]

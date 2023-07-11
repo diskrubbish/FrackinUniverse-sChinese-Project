@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "We used a sugary substance in the material once, but customers complained it irritated their eyes.. Whoops.",
+    "value": "我们曾经在这种材料中使用过一种含糖的物质，但客户抱怨它会使眼睛发炎。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gummi Mask",
+    "value": "古米面具"
+  }
+]

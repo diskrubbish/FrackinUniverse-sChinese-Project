@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Keep the glare of the sun out of your face.",
+    "value": "别让太阳光照到你的脸上。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peglaci Bandana",
+    "value": "羊蹄族头巾"
+  }
+]

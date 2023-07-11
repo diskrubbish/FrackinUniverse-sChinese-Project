@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chunk of purple warts, seemingly growing out of itself.\n^green;Extractable^reset;.",
+    "value": "一大块紫色的瘤，似乎已经长得比它原来还要大了。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Warts",
+    "value": "瘤块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgust. A chunk of slimy warts.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Slimy wartsss.",
+    "value": "黏黏的瘤瘤瘤块。"
+  }
+]

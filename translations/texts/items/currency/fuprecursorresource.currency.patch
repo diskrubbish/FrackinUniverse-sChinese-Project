@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mysterious substance that can directly affect organic brainwaves.",
+    "value": "一种可以直接影响有机脑电波的神秘物质。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protheon",
+    "value": "源典"
+  }
+]

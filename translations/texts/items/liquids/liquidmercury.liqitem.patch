@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Liquid Mercury",
+    "value": "液态汞"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A measure of Mercury ^gray;Hg^reset; in its most common state. Caution: Toxic",
+    "value": "一定量的水银^gray;Hg^reset;处于其最常见的状态。警告：有毒"
+  }
+]

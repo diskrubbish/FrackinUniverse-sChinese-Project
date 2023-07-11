@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "War Bot",
+    "value": "战争机械"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Resilient robot built for the battlefield.",
+    "value": "为战争所设计的机器人。"
+  }
+]

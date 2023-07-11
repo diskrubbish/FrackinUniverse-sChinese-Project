@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Water Walking^reset;, ^cyan;Immune: Freeze & +25% Ice Res^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;水面行走^reset;, ^cyan;免疫: 冻结 & +25%寒气抗性^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blue Melon",
+    "value": "蓝瓜"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mega-Fauna",
+    "value": "两足巨兽"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A massive primeval creature.",
+    "value": "一种巨大的原始生物。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A 'natural' opposite to neutronium. Exceptionally unsafe.\n^blue;+^white;600 ^blue;Fuel^reset;",
+    "value": "中子素的一种“自然的”反面存在。异常的不安全。\n^blue;燃料+^white;600^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;Anti-Neutronium Rod^reset;",
+    "value": "^#88e25b;反中子棒^reset;"
+  }
+]

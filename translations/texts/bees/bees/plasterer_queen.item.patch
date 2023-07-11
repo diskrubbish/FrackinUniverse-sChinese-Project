@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Plasterer Queen",
+    "value": "泥匠蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasterer Queen",
+    "value": "泥匠蜂后"
+  }
+]

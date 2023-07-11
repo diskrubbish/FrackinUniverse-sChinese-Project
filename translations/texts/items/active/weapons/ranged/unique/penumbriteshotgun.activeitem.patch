@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Specially treated rounds harm any element equally.\n^yellow;Universal Damage^reset;",
+    "value": "特殊处理的子弹，对任何元素造成同等的伤害。\n^yellow;通用伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbrite Shotgun",
+    "value": "半影霰弹枪"
+  }
+]

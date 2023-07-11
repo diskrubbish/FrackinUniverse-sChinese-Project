@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Great for creating magnesium powder!",
+    "value": "可提取镁粉！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Magnesite",
+    "value": "镁"
+  }
+]

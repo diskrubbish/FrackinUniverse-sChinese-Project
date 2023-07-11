@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Major league upgrade.",
+    "value": "一次传奇性的升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mech Barrage Gun",
+    "value": "机甲弹幕枪"
+  }
+]

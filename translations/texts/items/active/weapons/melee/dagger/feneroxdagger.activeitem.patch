@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strange shape, but actually quite useful.\n^cyan;Hunting Weapon^reset;",
+    "value": "形状奇怪，但实际上很有用。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fenerox Knife",
+    "value": "费涅罗小刀"
+  }
+]

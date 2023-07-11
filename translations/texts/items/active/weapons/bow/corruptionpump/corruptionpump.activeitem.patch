@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perfect for biowarfare",
+    "value": "最棒的生物武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corruption Pump",
+    "value": "腐败气体泵"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Slice em up with cosmic power.",
+    "value": "以宇宙之力切碎他们。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Disc",
+    "value": "阳清圆盘"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Derision be thy shield.",
+    "value": "嘲为汝盾。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Aether Defender",
+    "value": "阳清守卫者"
+  }
+]

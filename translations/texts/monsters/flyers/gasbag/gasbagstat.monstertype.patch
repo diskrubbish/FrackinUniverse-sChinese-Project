@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Valus Gas Bag",
+    "value": "瓦鲁斯气囊"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hostile bags of gas. They feed on subatomic organic particles they create via annihilation.",
+    "value": "带有敌意的气囊。它们以从湮灭中诞生的，有机的亚原子粒子为食。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mask. Made of wood. You really need this described? C'mon!",
+    "value": "一个面具，由木材制成的。拜托！你真的需要这个描述吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wood Mask",
+    "value": "木制面具"
+  }
+]

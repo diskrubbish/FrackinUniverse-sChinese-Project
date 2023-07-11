@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A delicious green-tinted honeycomb that provides medicinal benefits.",
+    "value": "一种美味的绿色蜂窝，具有药用价值。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rich Honeycomb",
+    "value": "充盈蜂巢"
+  }
+]

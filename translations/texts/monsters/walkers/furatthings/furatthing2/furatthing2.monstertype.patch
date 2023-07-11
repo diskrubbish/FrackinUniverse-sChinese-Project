@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wretched Rat Matriarch",
+    "value": "卑鄙鼠王"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These ones make babies. Lots of babies.",
+    "value": "这家伙生娃。很多娃。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aquamantle",
+    "value": "水色斗篷"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Its liquid core produces a constant flow of water. It hates you.",
+    "value": "它的液体核心产生持续不断的水流。它讨厌你。"
+  }
+]

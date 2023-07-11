@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dense slab of whackin' fun.",
+    "value": "一块充满重击的乐趣的密集厚板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aegisalt Mace",
+    "value": "霓磷盐钉头锤"
+  }
+]

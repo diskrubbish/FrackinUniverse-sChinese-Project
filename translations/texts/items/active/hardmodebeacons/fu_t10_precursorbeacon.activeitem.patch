@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Teleports the user to the ^orange;Dark Precursor Ruins^reset; in the Nightmare World.\n^red;Environmental Hazards^reset;:\nExtreme Electrical Storms\nExtreme Radiation\nMaddening Atmosphere",
+    "value": "将使用者传送至至位于噩梦世界的^orange;极暗先驱者废墟^reset;\n^red;环境危害^reset;:\n极端闪电风暴\n极端辐射\n致疯大气"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beacon: ^orange;Dark Precursor^reset;",
+    "value": "信标·^orange;极暗废墟reset;"
+  }
+]

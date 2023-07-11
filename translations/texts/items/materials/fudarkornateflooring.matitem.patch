@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Delightful dark ornate flooring.",
+    "value": "可爱的黑色华丽地板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dark Ornate Flooring",
+    "value": "黑色华丽地板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Charmed. A beautiful dark ornate wooden floor.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran feelss fancy walking on dark ornate floor.",
+    "value": "叶族人觉觉觉得得在黑暗华丽的地板上走着很有意思。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some fancy lookin' dark ornate floorin'.",
+    "value": "一些看起来很漂亮的黑色华丽地板。"
+  }
+]

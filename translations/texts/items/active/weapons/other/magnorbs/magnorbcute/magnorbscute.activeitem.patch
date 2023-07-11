@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "TK is your best friend.",
+    "value": "TK是你最好的朋友。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cute Magnorbs",
+    "value": "可爱的磁力珠"
+  }
+]

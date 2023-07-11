@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Anti-Gravity Bomb",
+    "value": "反重力炸弹"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Weaponized orange grav-liquid container.",
+    "value": "里面蕴含着橙色重力液体。"
+  }
+]

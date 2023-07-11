@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+10% E. Regen & -5% E. Regen Block^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;+10%能量回复& -5%能量重充能时间^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blex Cactus Sap",
+    "value": "球状仙人掌汁"
+  }
+]

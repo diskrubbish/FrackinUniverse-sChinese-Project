@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Makes useful weapons.\n^yellow;^reset;^red;Poisoned^reset;: 12s",
+    "value": "能制成有用的武器。\n^yellow;^reset;^red;中毒^reset;: 12s"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thornitox Dongle",
+    "value": "棘刺"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's a glass. For wine. Duh.",
+    "value": "一个红酒杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wine Glass",
+    "value": "葡萄酒杯"
+  }
+]

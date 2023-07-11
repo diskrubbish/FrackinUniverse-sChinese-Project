@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A vastly superior upgrade to the Matter Manipulator.",
+    "value": "这是对物质枪的极大升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#b84cbc;Morphite Manipulator^reset;",
+    "value": "^#b84cbc;异极合金物质枪^reset;"
+  }
+]

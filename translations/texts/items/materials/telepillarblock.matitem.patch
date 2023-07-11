@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fancy pillar fashioned from telebrium.",
+    "value": "用月海石做成的精美柱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Pillar Block",
+    "value": "月海柱块"
+  }
+]

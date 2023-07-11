@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Use this to open it and reveal its contents. How exciting!",
+    "value": "打开它就能知道里面装着什么了。多么令人激动！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Briefcase o' Rewards",
+    "value": "回报……公文包?"
+  }
+]

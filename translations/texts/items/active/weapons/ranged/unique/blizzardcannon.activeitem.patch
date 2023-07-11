@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Freeze enemies with cryogenic rockets!\n^cyan;Freeze enemies^reset;\n^#e43774;Area Clear^reset;",
+    "value": "超低温火箭将会冰封你眼前的敌人！\n^cyan;冻结敌人^reset;\n^yellow;范围性武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blizzard Cannon",
+    "value": "暴雪炮"
+  }
+]

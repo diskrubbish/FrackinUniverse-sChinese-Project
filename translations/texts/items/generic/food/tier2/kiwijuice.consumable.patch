@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sweet and tropical juice made of kiwis. ^green;Type: Fruit^reset;",
+    "value": "一杯猕猴桃做的甜甜的热带果汁。\n^green;类型：素甜食^reset;"
+  }
+]

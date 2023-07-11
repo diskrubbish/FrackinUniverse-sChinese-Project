@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nikaw",
+    "value": "爆炸菇"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A nasty fungal mutation that just can't stop spewing explosive spores.",
+    "value": "一种令人讨厌的变异真菌，因为它会不停地喷出会爆炸的孢子。"
+  }
+]

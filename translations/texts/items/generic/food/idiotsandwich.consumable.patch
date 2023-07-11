@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "IT'S FRACKIN RAW \n^blue;+Drunk^reset; 2m \n^red;Type: Raw Meat^reset;",
+    "value": "零 成 熟 包 生 蛆！\n^blue;醉酒^reset;2m^reset;\n^red;类型：生肉食;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Idiot Sandwich",
+    "value": "沙口三明治"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Loamzipper Drone",
+    "value": "拨土工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Loamzipper Drone",
+    "value": "拨土工蜂"
+  }
+]

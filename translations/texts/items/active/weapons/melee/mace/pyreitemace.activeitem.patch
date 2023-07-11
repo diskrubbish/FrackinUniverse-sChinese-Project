@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Masterful crafting, deadly edges.\n^cyan;Inflicts Napalm^reset;",
+    "value": "精湛的工艺，致命的武器。\n^cyan;致命凝固汽油弹^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Mace",
+    "value": "永燃钉头锤"
+  }
+]

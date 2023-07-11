@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Backscatter",
+    "value": "后向散射手雷"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Launches a grenade that accelerates before firing off three missiles the other way.",
+    "value": "发射一枚手榴弹，加速后向相反方向再发射三枚导弹。"
+  }
+]

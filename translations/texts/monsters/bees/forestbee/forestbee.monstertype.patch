@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Forest Bee",
+    "value": "森林蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A forest bee, found in the depths of a forest.",
+    "value": "森林蜜蜂，可在森林深处发现。"
+  }
+]

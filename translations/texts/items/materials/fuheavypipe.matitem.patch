@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sloped Heavy Pipe",
+    "value": "倾斜重型管道"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A heavy pipe, commonly used in waste systems.",
+    "value": "一个重型管道，一般用于废品排放系统。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Disgusted. I would hate to see the waste that has been passed through this pipe.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssmelly sssewer pipesss.",
+    "value": "闻起来像下下下水管道。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some dirty ol' pipes.",
+    "value": "一些脏兮兮的管道。"
+  }
+]

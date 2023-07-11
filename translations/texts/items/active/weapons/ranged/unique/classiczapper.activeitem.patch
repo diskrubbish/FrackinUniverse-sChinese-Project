@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A truly inspired classic. Feel the nostalgia.\n^cyan;Stuns enemies^reset;\n^#e43774;Invisible projectiles^reset;",
+    "value": "真正的经典，让人有了怀旧之情。\n^cyan;眩晕敌人^reset;\n^yellow;隐形弹^reset;\n^blue;译注：任天堂经典外设光枪。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Classic Zapper",
+    "value": "经典Zapper"
+  }
+]

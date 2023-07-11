@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Used to burn through ship hulls for deep-space boarding.\n^cyan;Hunting weapon^reset;",
+    "value": "用来烧穿船体，进行深空登舰。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kirhosi Boarding Pike",
+    "value": "鼠鼠登舰梭"
+  }
+]

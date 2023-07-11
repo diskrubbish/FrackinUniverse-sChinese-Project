@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Heal 10 HP^reset;: 2s",
+    "value": "^yellow;^reset;^cyan;治疗 10 HP^reset;: 2s"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Varan Berries",
+    "value": "瓦兰浆果"
+  }
+]

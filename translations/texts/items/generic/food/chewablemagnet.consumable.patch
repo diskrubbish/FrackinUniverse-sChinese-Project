@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Not healthy, but useful. \n^yellow;Item Magnet II^reset;",
+    "value": "不健康，但是好用。\n^yellow;吸引物品 II^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chewable Magnet",
+    "value": "咀嚼磁石"
+  }
+]

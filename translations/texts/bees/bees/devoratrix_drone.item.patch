@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Devoratrix Drone",
+    "value": "吞食工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Devoratrix Drone",
+    "value": "吞食工蜂"
+  }
+]

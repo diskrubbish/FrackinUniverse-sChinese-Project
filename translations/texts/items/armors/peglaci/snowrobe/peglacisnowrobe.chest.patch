@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Comfortable, warm fur wrappings. Exposed skin doesn't bother Peglaci.",
+    "value": "舒适温暖的皮毛护胸。裸露的皮肤堆羊蹄族没啥影响 。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Taiga Bindings",
+    "value": "针叶护胸"
+  }
+]

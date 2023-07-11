@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Eye jelly roller",
+    "value": "凝胶之眼·滚动者"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rolling jelly blob.",
+    "value": "旋转着的果冻怪。"
+  }
+]

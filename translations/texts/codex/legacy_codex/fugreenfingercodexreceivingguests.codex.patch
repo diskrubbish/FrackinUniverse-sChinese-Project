@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Greenfinger's Notes: Receiving Guests",
+    "value": "绿手指的笔记: 接待客人"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Greenfinger's Notes: Receiving Guests",
+    "value": "绿手指的笔记: 接待客人"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "Any visitor to a Floran village will be greeted with a single reassurance; it is Floran custom not to harm any guest who enters a Floran home patch.",
+    "value": "任何来到叶族人村落的游客都会得到一句简单的慰问: 按照叶族人的习俗，进入佛叶族人聚居地家中的游客不会受到伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "raw": "This is, of course, a lie.",
+    "value": "这话，自然，是一句谎言。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/2",
+    "raw": "Perhaps the intention was to be hospitable, but the Florans are incapable of sticking to such things, quickly descending into lethal violence if their guests should offend them in some manner. It is also worth noting that it is exceptionally easy to offend a Floran. Examples include: refusing to eat raw meat, damaging the plant life, being a Hylotl.",
+    "value": "也许他们的本意是好客，但是叶族人不能忍受一些事情，如果他们的客人以某种方式冒犯了他们，他们会很快陷入致命的暴力之中。同样值得注意的是，冒犯一个叶族人人格外容易。例子包括: 拒绝吃生肉，破坏植物生命，和作为一名鲛人。"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides you with some extra breath. +125s breath",
+    "value": "为你提供额外的呼吸。\n^cyan;呼吸时限+125s^reset;"
+  }
+]

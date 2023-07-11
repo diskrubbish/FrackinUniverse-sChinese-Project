@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An unusual spore that produces its own light. It might prove useful in experiments.",
+    "value": "一种会自行发光的孢子，应该是有用的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bioluminescent Spore",
+    "value": "发光孢子"
+  }
+]

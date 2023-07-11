@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A complete set of ^green;Protectorate^white; themed furniture. ^green;A savings of 25%!^reset;",
+    "value": "一整套^green;守护团^white;主题家具。^green;节省25%!^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Protectorate Set Bundle",
+    "value": "守护团家具捆绑包"
+  }
+]

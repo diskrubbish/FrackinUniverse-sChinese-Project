@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Energy Quiver",
+    "value": "能量箭袋"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "-^green;6^reset; Energy Per Shot (Bows)",
+    "value": "每击消耗能量（弓箭）-^green;6^reset;"
+  }
+]

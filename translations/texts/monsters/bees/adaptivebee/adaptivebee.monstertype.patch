@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Adaptive Bee",
+    "value": "自适应蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bee with no preference for the heat or the cold.",
+    "value": "这种蜜蜂对热对冷都无所谓。"
+  }
+]

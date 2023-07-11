@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Currentcorn, full of acid. Not good for fleshy creatures. ^yellow;Type: Robot Food^reset;",
+    "value": "会长出液体玉米，充满了酸。对碳基生物不好。\n^yellow;类型：机械食物^reset;"
+  }
+]

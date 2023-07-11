@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Energy weapons: Damage x^green;1.25^reset;\n^yellow;^reset; ^cyan;Immune^reset;: Stun, Electrify",
+    "value": "^orange;套装奖励^reset;：\n^yellow;^reset; 能量武器: 伤害x^green;1.25^reset;\n^yellow;^reset; ^cyan;免疫^reset;: 击晕, 带电"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Graphene Helm",
+    "value": "石墨帽子"
+  }
+]

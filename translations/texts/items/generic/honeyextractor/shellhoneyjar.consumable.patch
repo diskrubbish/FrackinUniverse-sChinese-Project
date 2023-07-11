@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A delicious jar of shell honey.^cyan;+^white;30% ^pink;Physical ^cyan;Resistance ^gray;(^white;5m^gray;)^reset;",
+    "value": "一罐可口的硬壳蜂蜜。^cyan;+^white;30%^pink;物理^cyan;抗性^gray;(^white;持续5m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shell Honey Jar",
+    "value": "罐装硬壳蜂蜜"
+  }
+]

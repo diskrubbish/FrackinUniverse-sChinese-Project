@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+12.5% E. Regen & -6.25% E. Regen Block^reset;, ^cyan;+50% Run^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;+12.5%能量恢复 & -6.25%能量重充能时间^reset;, ^cyan;+50%速度^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Goldenglow Petal",
+    "value": "重瓣金光菊"
+  }
+]

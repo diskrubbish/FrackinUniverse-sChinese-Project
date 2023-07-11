@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+50% Run^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;+50%速度^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Minkocoa Pod",
+    "value": "可可荚"
+  }
+]

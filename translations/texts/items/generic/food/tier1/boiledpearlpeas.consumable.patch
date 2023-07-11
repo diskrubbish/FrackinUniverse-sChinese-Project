@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bowl of rather bland boiled pearlpeas. ^green;Type: Legumes^reset;",
+    "value": "一碗清淡的煮珍珠豆。\n^green;类型：蔬菜^reset;"
+  }
+]

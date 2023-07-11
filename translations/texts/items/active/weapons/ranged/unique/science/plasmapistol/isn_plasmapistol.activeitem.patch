@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Unusual sidearm for an unusual age.\n^cyan;Counts as plasma weapon for set bonuses^reset;\n^yellow;Bouncing projectiles^reset;",
+    "value": "不寻常的手枪，不寻常的时代。\n^yellow;等离子武器^reset;\n^yellow;弹跳子弹^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasma Pistol",
+    "value": "等离子手枪"
+  }
+]

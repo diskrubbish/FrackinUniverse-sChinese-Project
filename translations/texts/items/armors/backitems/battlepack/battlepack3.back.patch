@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Damage x1.20. +16 Health, +16 Energy, +10 Shield Bash.",
+    "value": "伤害x1.20。+16HP，+16能量，+10盾牌反伤。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Battle Pack III",
+    "value": "作战用背包 III"
+  }
+]

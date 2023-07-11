@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+20% Poison Res^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;+20%毒素抗性^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Diodia Hybrid Fruit",
+    "value": "杂交钮扣果"
+  }
+]

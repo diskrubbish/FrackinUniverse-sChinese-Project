@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A starry kind of wood imbued with Aether.\n^green;Extractable^reset;.",
+    "value": "一种布满星星的木头，充满了以太的气息。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Wood Log",
+    "value": "暗木木材"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "raw": "Impressed. These logs fit together closely and are effective for building.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "raw": "Floran likess wooden log wallss.",
+    "value": "叶族人喜喜喜欢木制的木墙墙墙。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "raw": "Ain't uncommon to see logs laid like this in cabins.",
+    "value": "在小木屋里这样放木头并不罕见。"
+  }
+]

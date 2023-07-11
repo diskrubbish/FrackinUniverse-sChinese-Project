@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nothin' fancy. Just typical radioactive waste sold as a snack.\n^cyan;+^white;10% ^pink;Radiation ^cyan;Res ^gray;(^white;5m^gray;)^reset;",
+    "value": "没什么有趣的，就是当作小吃卖出去的典型放射性废料。\n^cyan;+^white;10%^pink;辐射^cyan;抗性^gray;(^white;持续5m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sludgey Blubs",
+    "value": "淤泥球"
+  }
+]

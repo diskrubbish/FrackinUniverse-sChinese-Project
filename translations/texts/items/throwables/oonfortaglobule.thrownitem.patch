@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Oonforta Globule",
+    "value": "奥弗塔球"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Use this to light up your path.",
+    "value": "可以丢出去照亮道路。"
+  }
+]

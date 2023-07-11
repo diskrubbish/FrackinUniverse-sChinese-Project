@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires remotely-detonated blobs of slime.\n^green;Counts as Hunting Weapon.^reset;  \n^yellow;Detonate all blobs with right-click.^reset;",
+    "value": "发射远程引爆的粘液泡。\n^cyan;狩猎武器^reset;\n^yellow;右键引爆所有气泡。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Grenade Launcher",
+    "value": "黏液榴弹发射器"
+  }
+]

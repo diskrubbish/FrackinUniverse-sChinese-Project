@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zombot",
+    "value": "行尸机器人"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Slow, plodding and extremely well armored.",
+    "value": "行动缓慢但拥有极其坚固的护甲。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An unusually conductive crystal that channels energy even better than Quartz.",
+    "value": "一种异常导电的晶体，其能量传输能力甚至优于石英。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Crystal",
+    "value": "月海水晶"
+  }
+]

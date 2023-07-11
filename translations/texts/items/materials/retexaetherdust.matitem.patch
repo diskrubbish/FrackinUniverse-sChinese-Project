@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strangely glittering dust.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "闪闪发光的奇怪尘土。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Dust",
+    "value": "以太尘"
+  }
+]

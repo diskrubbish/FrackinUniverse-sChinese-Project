@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pulsing with cosmic energy.",
+    "value": "发射宇宙能量攻击你的敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prismatic Bow",
+    "value": "棱镜弓"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Chaos Arrow",
+    "value": "混乱箭矢"
+  }
+]

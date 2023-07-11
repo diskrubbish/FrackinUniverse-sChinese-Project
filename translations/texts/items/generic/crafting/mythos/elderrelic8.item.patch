@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This seems to be a hand-sized power source. Origin unknown.",
+    "value": "这个手掌大小的装置内蕴藏着巨大的能量，其来源与用途均不明。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Unknown Reactor^reset;",
+    "value": "^#ffe50e;未知反应器^reset;"
+  }
+]

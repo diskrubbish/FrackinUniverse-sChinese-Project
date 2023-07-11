@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A delicious honey straw. Get a sugar high!\n^green;Heal ^white;160 ^gray;(^white;2m^gray;)^reset; \n^green;Type: Sugar^reset;",
+    "value": "一支美味的蜂蜜杆！糖分极高！\n^green;治疗^white;160点生命值^gray;(^white;2m内^gray;)^reset;\n^green;类型：甜食^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey Straw",
+    "value": "蜂蜜杆"
+  }
+]

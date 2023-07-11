@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The explosive version of this has long since been recalled! (At least.. I think we recalled them.)",
+    "value": "它会爆炸的版本很早以前就被撤消啦(至少...我记得我们确实撤回了)。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Paratail Mask",
+    "value": "爆炸瓦斯面具"
+  }
+]

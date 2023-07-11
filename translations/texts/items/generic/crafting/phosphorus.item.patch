@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A life-essential non-metallic chemical element.",
+    "value": "一种生命必需的非金属化学元素。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Phosphorus",
+    "value": "磷"
+  }
+]

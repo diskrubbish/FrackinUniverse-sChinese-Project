@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A three-saw burst of danger.",
+    "value": "三份锯刃的危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Saw Launcher Arm",
+    "value": "锯刃发射臂"
+  }
+]

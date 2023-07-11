@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fantastic, conductive material ideal for circuitry.",
+    "value": "一种奇异的导电材料，电路的理想选择。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hydrolium",
+    "value": "氢化合金"
+  }
+]

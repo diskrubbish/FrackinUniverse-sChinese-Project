@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/labelinput/value",
+    "raw": "Input",
+    "value": "输入"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/labeloutput/value",
+    "raw": "Output",
+    "value": "输出"
+  }
+]

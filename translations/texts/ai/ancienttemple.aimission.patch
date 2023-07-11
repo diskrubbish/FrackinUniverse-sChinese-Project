@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "We've found the way to an ancient temple filled with treasure! It might be worth it to go and do some tomb raiding...the planet is reported on my scanners as threat level 2.",
+    "value": "我找到了一座装满宝藏的古老神庙，这绝对值得我去冒险。扫描指出该区域的威胁等级为II。"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "The Ancient Temple (2)",
+    "value": "古老神庙(2)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "The Ancient Temple (2) (R)",
+    "value": "重新挑战古老神庙(2)"
+  }
+]

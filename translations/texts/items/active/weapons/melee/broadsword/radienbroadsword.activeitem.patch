@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fresh from your body, ready to slaughter.",
+    "value": "饥渴难耐。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Broadsword",
+    "value": "艾肯宽剑"
+  }
+]

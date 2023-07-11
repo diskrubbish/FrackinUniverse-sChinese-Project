@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides +10% Electric Resist",
+    "value": "^cyan;电系抗性+10^reset;%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Electric Resist I",
+    "value": "EPP模块（电系抵抗 I）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Electric Resist I",
+    "value": "EPP模块（电系抵抗 I）"
+  }
+]

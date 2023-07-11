@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A neat little mining weapon. Does a bit of damage, too.\nUpgrade using your ^orange;Tricorder^reset;.",
+    "value": "一把利索的采矿武器。也有一点点危险。\n可在^orange;工具升级站^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mining Laser",
+    "value": "激光挖掘器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "P-7 Miner ^cyan;^reset;",
+    "value": "P-7 挖掘器 ^cyan;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "A-7C Miner ^white;^reset;",
+    "value": "A-7C 挖掘器 ^white;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/shortdescription",
+    "raw": "B-97 Miner^reset; ^green;^reset;",
+    "value": "B-97 挖掘器 ^green;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters4/shortdescription",
+    "raw": "^cyan;C-7 Miner^reset; ^green;^reset;",
+    "value": "^cyan;C-7 挖掘器^reset; ^green;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters5/shortdescription",
+    "raw": "^green;D4-B Miner^reset; ^yellow;^reset;",
+    "value": "^green;D4-B 挖掘器^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters6/shortdescription",
+    "raw": "^#ffc14e;KX-1 Miner^reset; ^yellow;^reset;",
+    "value": "^#ffc14e;KX-1 挖掘器^reset; ^yellow; ^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters7/shortdescription",
+    "raw": "^#f74eff;CT-4 Mining Cannon^reset; ^yellow; ^reset;",
+    "value": "^#f74eff;CT-4 挖掘炮^reset; ^yellow; ^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters8/shortdescription",
+    "raw": "^#f74eff;CT-4 Mining Cannon ^#f74eff;^reset;",
+    "value": "^#f74eff;CT-4 挖掘炮^reset; ^#f74eff;^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Meat Bunny",
+    "value": "肉用兔子"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Wants to do nothing but giggle, spew gore, and devour flesh.",
+    "value": "除了傻笑，吐血，吃肉什么都不想做。"
+  }
+]

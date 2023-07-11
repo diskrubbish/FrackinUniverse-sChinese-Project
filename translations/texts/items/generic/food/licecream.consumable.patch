@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Made from 100% lice.\n^cyan;+^white;10% ^pink;Poison ^cyan;Res ^gray;(^white;5m^gray;)^reset;",
+    "value": "由100%的虱子制成。\n^cyan;+^white;10%^pink;毒素^cyan;抗性^gray;(^white;持续5m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lice Cream",
+    "value": "虱淇淋"
+  }
+]

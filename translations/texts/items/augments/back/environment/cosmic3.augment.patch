@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides +30% Cosmic Resist",
+    "value": "^cyan;射线抗性+30^reset;%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Resist III",
+    "value": "EPP模块（射线抵抗 III）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Cosmic Resist III",
+    "value": "EPP模块（射线抵抗 III）"
+  }
+]

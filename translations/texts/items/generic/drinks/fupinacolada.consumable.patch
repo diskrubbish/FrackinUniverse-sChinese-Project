@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An alcoholic drink made from coconut milk and rum.\n^white;35% ^red;Slow^gray;, ^red;Drunk ^gray;(^white;1m^gray;)^reset;",
+    "value": "由椰奶和朗姆酒制成的酒精饮料。\n^white;35%^red;减速^gray;，^red;醉酒^gray;(^white;持续1m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Piña Colada",
+    "value": "椰林飘香"
+  }
+]

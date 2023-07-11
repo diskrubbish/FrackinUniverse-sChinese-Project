@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ejects deadly radioactive bolts.",
+    "value": "射出致命的放射性箭头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Justicar",
+    "value": "镭之仲裁者"
+  }
+]

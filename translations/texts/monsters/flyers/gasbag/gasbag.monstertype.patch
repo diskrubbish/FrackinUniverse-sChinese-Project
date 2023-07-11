@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gas Bag",
+    "value": "气囊"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Non-hostile bags of gas. It is absolutely advised to not harass them. They tend to explode.",
+    "value": "不带敌意的气囊。绝对不要侵扰它们，它们往往会爆炸。"
+  }
+]

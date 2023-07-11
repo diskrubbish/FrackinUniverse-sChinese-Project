@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Really unhealthily radioactive.",
+    "value": "非常不健康的辐射。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Solarium Cestus",
+    "value": "日耀石拳套"
+  }
+]

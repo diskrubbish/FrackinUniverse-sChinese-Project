@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Massive Spider",
+    "value": "巨型蜘蛛"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Loves your delicious ground-walker insides.",
+    "value": "不论是你的外在还是你的内在，都是它最爱的美味。"
+  }
+]

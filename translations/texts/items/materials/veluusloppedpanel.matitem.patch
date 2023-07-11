@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Panels made out of gold and some kind of crystal alloy.",
+    "value": "面板由黄金和某种水晶合金制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vel'uuish Alloy Panels",
+    "value": "超薄合金面板"
+  }
+]

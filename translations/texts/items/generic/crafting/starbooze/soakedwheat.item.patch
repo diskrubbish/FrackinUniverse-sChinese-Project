@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A very soggy wheat seed.",
+    "value": "完全浸湿的小麦。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Soaked Wheat Seed",
+    "value": "浸湿的小麦"
+  }
+]

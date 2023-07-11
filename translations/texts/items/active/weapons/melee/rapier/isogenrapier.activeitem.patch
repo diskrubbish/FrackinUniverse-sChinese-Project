@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Icey-cold stabby side. Deadly in almost any hand.\n^cyan;Inflicts Frost Burn^reset;",
+    "value": "冰冷刺骨，不管握在哪只手上，都是极其致命的武器。\n^cyan;附加霜灼效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Rapier",
+    "value": "寒霜刺剑"
+  }
+]

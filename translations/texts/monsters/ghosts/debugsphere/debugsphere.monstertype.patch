@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Debug sphere",
+    "value": "排错球体"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Testing rotating monster. Wait, how do you see this?",
+    "value": "测试用旋转怪物。等等，你是怎么看见这个的？\n^blue;彩蛋在这里！^reset;"
+  }
+]

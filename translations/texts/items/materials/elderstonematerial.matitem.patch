@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This feels... wrong.\n^green;Extractable^reset;.",
+    "value": "看着它的感觉...真不好。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Soil",
+    "value": "远古土块"
+  }
+]

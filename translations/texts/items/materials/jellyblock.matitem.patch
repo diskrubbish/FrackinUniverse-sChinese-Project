@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A slimy, bright coloured mass of jelly.\n^green;Extractable^reset;.",
+    "value": "一种黏糊糊、颜色鲜艳的凝胶块。\n^green;可萃取^reset;。"
+  }
+]

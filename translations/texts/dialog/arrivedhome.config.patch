@@ -1,0 +1,482 @@
+[
+  {
+    "op": "replace",
+    "path": "/beacon/skath/default/0",
+    "raw": "What can I fix you with?",
+    "value": "我能为你修点什么吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/skath/default/1",
+    "raw": "Can I help you with something?",
+    "value": "有什么需要帮助吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/skath/default/2",
+    "raw": "Greetings. Do you need me for anything?",
+    "value": "你好。你需要我做什么吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/skath/default/3",
+    "raw": "Is there anything I can do for you?",
+    "value": "我能为你做点什么吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/skath/default/4",
+    "raw": "Something on your mind?",
+    "value": "你在想什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/skath/default/0",
+    "raw": "Thank you for providing me with a proper home. Take this in exchange for your kindness.",
+    "value": "谢谢你给我提供了一个合适的家。拿着这个，作为你好心的回报。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/skath/default/1",
+    "raw": "Our kind needs more people like you. Please, accept this token of gratitude.",
+    "value": "我们需要更多像你这样的人。请接受这个表示感谢的礼物。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/skath/default/2",
+    "raw": "You have done a great job with this house. Please take this as a token of my gratitude.",
+    "value": "你把这房子装修得很好。请收下这个作为我感激的象征。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fenerox/default/0",
+    "raw": "Eeeeeeeeeeeeeee! WHY?",
+    "value": "哎呀呀呀呀！为什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fenerox/default/1",
+    "raw": "Why is I be called?.",
+    "value": "为什么叫我？。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fenerox/default/2",
+    "raw": "Urjint need? Why?",
+    "value": "需要什么？为什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fenerox/default/3",
+    "raw": "I not much of helps. Not like.",
+    "value": "我帮不上什么忙。不像。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fenerox/default/4",
+    "raw": "Called me. Why?",
+    "value": "叫我。为什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/default/0",
+    "raw": "...?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/juux/0",
+    "raw": "Summoned. Why?",
+    "value": "召唤。为什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/juux/1",
+    "raw": "Present. Anticipating. Respond?",
+    "value": "现在，期待。回应？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/juux/2",
+    "raw": "Present. Here. Waiting.",
+    "value": "现在，这里，等待。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/juux/3",
+    "raw": "Visitor. Pharitu; friendly.",
+    "value": "访客。法瑞图; 友好的。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/diathim/0",
+    "raw": "Summoned. Why?",
+    "value": "召唤。为什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/diathim/1",
+    "raw": "Present. Anticipating. Respond?",
+    "value": "现在，期待。回应？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/diathim/2",
+    "raw": "Present.",
+    "value": "现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/diathim/3",
+    "raw": "Stranger. Alien. Discourse?",
+    "value": "陌生人，外星人。话语？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/sith/0",
+    "raw": "Parley? Why?",
+    "value": "谈判？为什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/sith/1",
+    "raw": "Present. Anticipating. Respond?",
+    "value": "现在，期待。回应？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/sith/2",
+    "raw": "Present, ready. Guarding.",
+    "value": "现在，准备。守卫。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/sith/3",
+    "raw": "Sith. Apprehension. Watching, waiting.",
+    "value": "Sith。忧虑。观察，等待。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/beldehor/0",
+    "raw": "Summoned. Why?",
+    "value": "召唤。为什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/beldehor/1",
+    "raw": "Present. Anticipating. Respond?",
+    "value": "现在，期待。回应？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/beldehor/2",
+    "raw": "Present.",
+    "value": "现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/beldehor/3",
+    "raw": "Stranger. Beldehor. Discourse?",
+    "value": "陌生人，Beldehor。话语？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/shadow/0",
+    "raw": "Summoned. Why?",
+    "value": "召唤。为什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/shadow/1",
+    "raw": "Present. Anticipating. Respond?",
+    "value": "现在，期待。回应？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/shadow/2",
+    "raw": "Present.",
+    "value": "现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/shadow/3",
+    "raw": "Stranger. Alien. Discourse?",
+    "value": "陌生人，外星人。话语？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/fuizku/0",
+    "raw": "Summoned. Why?",
+    "value": "召唤。为什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/fuizku/1",
+    "raw": "Present. Anticipating. Respond?",
+    "value": "现在，期待。回应？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/fuizku/2",
+    "raw": "Present.",
+    "value": "现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/fuizku/3",
+    "raw": "Stranger. Izku. Discourse?",
+    "value": "陌生人，Izku。话语？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/nightar/0",
+    "raw": "Summoned. Why?",
+    "value": "召唤。为什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/nightar/1",
+    "raw": "Present. Anticipating. Respond?",
+    "value": "现在，期待。回应？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/nightar/2",
+    "raw": "Present.",
+    "value": "现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/juux/nightar/3",
+    "raw": "Stranger. Darkdweller. Discourse?",
+    "value": "陌生人，黑暗居民。话语？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fuizku/izku/0",
+    "raw": "Summoned. Why?",
+    "value": "召唤。为什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fuizku/izku/1",
+    "raw": "Present. Anticipating. Respond?",
+    "value": "现在，期待。回应？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fuizku/izku/2",
+    "raw": "Present.",
+    "value": "现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fuizku/izku/3",
+    "raw": "Visitor. Izku; friendly.",
+    "value": "访客。Izku; 友好的。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fuizku/default/0",
+    "raw": "Summoned. Why?",
+    "value": "召唤。为什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fuizku/default/1",
+    "raw": "Present. Anticipating. Respond?",
+    "value": "现在，期待。回应？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fuizku/default/2",
+    "raw": "Present.",
+    "value": "现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/fuizku/default/3",
+    "raw": "Stranger. Alien. Discourse?",
+    "value": "陌生人，外星人。话语？"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fenerox/default/0",
+    "raw": "Good home. Safe home. Thank you, Protector!",
+    "value": "真是个好家。安全回家。谢谢你，守护者！"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fenerox/default/1",
+    "raw": "Found enough. Rent payable. Please, take.",
+    "value": "找到足够。应付租金。请收下。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fenerox/default/2",
+    "raw": "Generous host. Excellent domicile. Feeling grateful. Gift is given!",
+    "value": "慷慨的主人。绝佳的住所。心存感激。礼物送出！"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fenerox/default/3",
+    "raw": "Feeling generous. A gift, yes? Please take.",
+    "value": "感觉很慷慨。一份礼物，是吗？请收下。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fenerox/default/4",
+    "raw": "Rent ready. Now payable. I pay with this.",
+    "value": "准备租下。现在可以支付。我用这个来付账。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/default/0",
+    "raw": "...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/juux/0",
+    "raw": "Satisfaction. Amity. Reimbursement, ready. Accept, now.",
+    "value": "满意，友好，补偿，准备好了。接受。现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/juux/1",
+    "raw": "Contentment. Fulfilling, harmony. Reciprocation, imminent.",
+    "value": "满意，友好，补偿，准备好了。接受。现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/nightar/0",
+    "raw": "Contrition. Equanimity. Rewards.",
+    "value": "忏悔，平静。奖励。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/nightar/1",
+    "raw": "Shared benefit. Mutual gain.",
+    "value": "共享利益。互惠互利。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/nightar/2",
+    "raw": "Graciousness. Fair exchange. Dealing, completed.",
+    "value": "优雅，公平的交换。交易完成。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/diathim/0",
+    "raw": "Satisfaction. Amity. Reimbursement, ready. Accept, now.",
+    "value": "满意，友好，补偿，准备好了。接受。现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/diathim/1",
+    "raw": "Contentment. Fulfilling, harmony. Reciprocation, imminent.",
+    "value": "满意，友好，补偿，准备好了。接受。现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/sith/0",
+    "raw": "Contrition. Collective prosperity.",
+    "value": "悔悟。集体繁荣。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/sith/1",
+    "raw": "Equanimity. Acceptance. Rewards, benefits.",
+    "value": "平静，接受。奖励，福利。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/sith/2",
+    "raw": "Mutual gain. Equanimity. Magnanimity. Acceptance.",
+    "value": "互利，平静，宽宏大量。接受。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/sith/3",
+    "raw": "Graciousness. Fair exchange. Dealing, completed.",
+    "value": "优雅，公平的交换。交易完成。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/beldehor/0",
+    "raw": "Satisfaction. Amity. Reimbursement, ready. Accept, now.",
+    "value": "满意，友好，补偿，准备好了。接受。现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/beldehor/1",
+    "raw": "Contentment. Fulfilling, harmony. Reciprocation, imminent.",
+    "value": "满意，友好，补偿，准备好了。接受。现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/shadow/0",
+    "raw": "Satisfaction. Amity. Reimbursement, ready. Accept, now.",
+    "value": "满意，友好，补偿，准备好了。接受。现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/shadow/1",
+    "raw": "Contentment. Fulfilling, harmony. Reciprocation, imminent.",
+    "value": "满意，友好，补偿，准备好了。接受。现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/fuizku/0",
+    "raw": "Satisfaction. Amity. Reimbursement, ready. Accept, now.",
+    "value": "满意，友好，补偿，准备好了。接受。现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/juux/fuizku/1",
+    "raw": "Contentment. Fulfilling, harmony. Reciprocation, imminent.",
+    "value": "满意，友好，补偿，准备好了。接受。现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fuizku/default/0",
+    "raw": "Contrition. Collective prosperity.",
+    "value": "悔悟。集体繁荣。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fuizku/default/1",
+    "raw": "Equanimity. Acceptance. Rewards, benefits.",
+    "value": "平静，接受。奖励，福利。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fuizku/default/2",
+    "raw": "Mutual gain. Equanimity. Magnanimity. Acceptance.",
+    "value": "互利，平静，宽宏大量。接受。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fuizku/default/3",
+    "raw": "Graciousness. Fair exchange. Dealing, completed.",
+    "value": "优雅，公平的交换。交易完成。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fuizku/fuizku/0",
+    "raw": "Satisfaction. Amity. Reimbursement, ready. Accept, now.",
+    "value": "满意，友好，补偿，准备好了。接受。现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/fuizku/fuizku/1",
+    "raw": "Contentment. Fulfilling, harmony. Reciprocation, imminent.",
+    "value": "满意，友好，补偿，准备好了。接受。现在。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/shadow/default/0",
+    "raw": "...",
+    "value": ""
+  }
+]

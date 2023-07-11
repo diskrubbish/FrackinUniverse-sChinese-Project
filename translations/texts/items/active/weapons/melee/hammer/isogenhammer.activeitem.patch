@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Clearly a tool of friendship and tolerance.\n^cyan;Inflicts Freezing^reset;",
+    "value": "想必这把武器能够很清楚地表达出想交朋友的热切心情。\n^cyan;附加冻结效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Sledge",
+    "value": "寒霜大锤"
+  }
+]

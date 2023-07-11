@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Popular lower-street wear.\n+^green;5^reset;% Crit Chance",
+    "value": "流行的下街装束。\n+^green;5^reset;% 暴击几率"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Booster Croptop",
+    "value": "增强铠甲"
+  }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "op": "replace",
+    "path": "/fenerox/default/0",
+    "raw": "Fenerox supportive. Providing support. Win battle!",
+    "value": "耳狐相助。搭手战斗。逢战必胜！"
+  },
+  {
+    "op": "replace",
+    "path": "/fenerox/default/1",
+    "raw": "Eager helper. Providing advice. Win fight!",
+    "value": "渴望出手。出谋划策。逢战必胜！"
+  },
+  {
+    "op": "replace",
+    "path": "/fenerox/default/2",
+    "raw": "Feeling eager. Contributing support. Win fight!",
+    "value": "耳闻渴望。搭手战斗。逢战必胜！"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/fenerox/default/0",
+    "raw": "Hostiles returning, engage!!",
+    "value": "敌人回来了，开火! ！"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/fenerox/default/1",
+    "raw": "Regroup now! engage!",
+    "value": "现在重新部署！开火！"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/fenerox/default/2",
+    "raw": "They're back!",
+    "value": "他们回来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/nightar/default/0",
+    "raw": "A conshak!",
+    "value": "一只兔子！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/nightar/default/1",
+    "raw": "Long hath my blade longed for this moment, charge!",
+    "value": "我的剑渴望这一刻已久，冲锋！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/nightar/default/2",
+    "raw": "May the Byak take thee, fell fiend!",
+    "value": "愿比亚克带走你，堕落的恶魔！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/nightar/default/3",
+    "raw": "Our homes are in peril, so strike back!",
+    "value": "我们的家园正处于危险之中，所以反击吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/nightar/default/4",
+    "raw": "Feel the backhand of Justice!",
+    "value": "感受正义的反击！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/nightar/default/5",
+    "raw": "There is strength in numbers, and I am two or three, at least!",
+    "value": "人多力量大，而我至少能抵两三个人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/nightar/default/6",
+    "raw": "The bigger they are, the harder I hit!",
+    "value": "越是庞大，我出手越重！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/nightar/default/7",
+    "raw": "<selfname> will lead with blade and boot!",
+    "value": "<selfname>将以刀剑和靴子为领导！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/nightar/default/8",
+    "raw": "Have at thee, foul one!",
+    "value": "吃瘪吧，臭家伙！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/nightar/default/9",
+    "raw": "They're assailing us!",
+    "value": "他们在攻击我们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/nightar/default/10",
+    "raw": "Full plate, and packing steel!",
+    "value": "全力出击，拳拳到位！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/nightar/default/11",
+    "raw": "The foe is advancing!",
+    "value": "敌人正在逼近！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/thelusian/default/0",
+    "raw": "Watch it! I am huge!",
+    "value": "小心！我是个大块头！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/thelusian/default/1",
+    "raw": "Feel the backhand of Justice!",
+    "value": "感受正义的反击！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/thelusian/default/2",
+    "raw": "There is strength in numbers, and I am two or three, at least!",
+    "value": "人多力量大，而我至少能抵两三个人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/thelusian/default/3",
+    "raw": "The bigger they are, the harder I hit!",
+    "value": "越是庞大，我出手越重！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/thelusian/default/4",
+    "raw": "<selfname> will lead with blade and boot!",
+    "value": "<selfname>将以刀剑和靴子为领导！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/thelusian/default/5",
+    "raw": "Jump on my sword while you can, evil... I won't be as gentle!",
+    "value": "趁你还能跳上我的剑，恶魔...我不会这么温柔的！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/thelusian/default/6",
+    "raw": "Live by the sword, live a good looong time.",
+    "value": "伴剑为生，酣战良辰。"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/thelusian/default/7",
+    "raw": "Full plate, and packing steel!",
+    "value": "全力出击，拳拳到位！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/thelusian/default/8",
+    "raw": "This foe could do with a swift kick in their morals!",
+    "value": "践踏这些入侵者的斗志！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/fenerox/default/0",
+    "raw": "Engaging hostiles!",
+    "value": "正在攻击敌人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/fenerox/default/1",
+    "raw": "Under attack! defend now!",
+    "value": "受到攻击！现在防守！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/fenerox/default/2",
+    "raw": "Kill them, quickly!",
+    "value": "杀了他们，快！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/fenerox/default/3",
+    "raw": "Get them!",
+    "value": "拿下他们！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/fumantizi/default/0",
+    "raw": "Prepare to meet yer Maker!",
+    "value": "准备见你的造物主吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/fumantizi/default/1",
+    "raw": "A boner barney this will be!",
+    "value": "这将会是一场愚蠢的战斗！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/fumantizi/default/2",
+    "raw": "Come at me, bro'!",
+    "value": "跟上我，老兄！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/fumantizi/default/3",
+    "raw": "Bring it on, and lay it thick into 'em!",
+    "value": "放马过来，狠狠地揍他们一顿！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/fumantizi/default/4",
+    "raw": "At 'em, now!",
+    "value": "看着他们，就现在！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/fumantizi/default/5",
+    "raw": "Get them!",
+    "value": "拿下他们！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/nightar/default/0",
+    "raw": "They have been vanquished, sirrah!",
+    "value": "他们已经被击败了，哥们！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/nightar/default/1",
+    "raw": "These monsters can be felled. They can be beaten!",
+    "value": "这些怪物可以被消灭。他们可以被打败！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/nightar/default/2",
+    "raw": "That foe is no more!",
+    "value": "敌人已经被歼灭！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/nightar/default/3",
+    "raw": " Thou must needs excuse me, my arms need sharpening.",
+    "value": " 你得原谅我，我的胳膊需要练练手。"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/nightar/default/4",
+    "raw": "Embrace obvlivion, foul one!",
+    "value": "拥抱遗忘吧，侵犯者！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/nightar/default/5",
+    "raw": "Another monster cleansed from the face of this world!",
+    "value": "又一个怪物从这个世界上消失了！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/nightar/default/6",
+    "raw": "We have prevailed over the foe!",
+    "value": "我们战胜了敌人！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/nightar/default/7",
+    "raw": "The Matriarch be praised, they were made as stubble unto mine sword!",
+    "value": "赞美女族长吧，她们是我剑上的短须！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/nightar/default/8",
+    "raw": "The enemy hath been slain.",
+    "value": "敌人已被歼灭。"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/nightar/default/9",
+    "raw": "I slew them all!",
+    "value": "我把他们都杀了！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/nightar/default/10",
+    "raw": "Our foe lies dead. What must I needs do now?",
+    "value": "我们的敌人已经死了。我现在需要做什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/fenerox/default/0",
+    "raw": "Foe killed. Declare victory?",
+    "value": "敌人已败。宣布胜利？"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/fenerox/default/1",
+    "raw": "Enemy slain. Can loot?",
+    "value": "敌人屠尽。战利品呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/fenerox/default/2",
+    "raw": "Foe slain. Enemies defeated. Dropped loot? anything good?",
+    "value": "敌人被啥。敌人已败。战利品在哪？一切安好？"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/fumantizi/default/0",
+    "raw": "We got this one, guv'!",
+    "value": "我们搞定这个了，老大！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/fumantizi/default/1",
+    "raw": "We trashed them all good, Legate!",
+    "value": "我们把他们都打得落花流水，使节！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/fumantizi/default/2",
+    "raw": "That's the last one. Did 'e drop any good swag?",
+    "value": "这是最后一个。有什么好东西吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/fumantizi/default/3",
+    "raw": "They all 'ad it comin' fer 'em!",
+    "value": "他们都是冲着战败来的！"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/fenerox/default/0",
+    "raw": "Enemy fled. Missed them. Not happy.",
+    "value": "敌人逃跑。错过良机。很不开心。"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/fenerox/default/1",
+    "raw": "Foe routed. Not destroyed. Feeling disappointed.",
+    "value": "敌人败溃。尚未屠尽。感到失望。"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/fenerox/default/2",
+    "raw": "Enemy ran. Still alive, at least. But worried.",
+    "value": "敌人跑了。至少活着。但很担心。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/fenerox/default/0",
+    "raw": "Enemy unseen. Still there.",
+    "value": "看不见敌人。还在那里。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/fenerox/default/1",
+    "raw": "Hidden enemy. Can't see. Hunt them!",
+    "value": "隐藏的敌人。看不见。猎杀他们！"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/fenerox/default/2",
+    "raw": "See enemy? can't engage.",
+    "value": "看到敌人了吗？无法交火。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/fenerox/default/3",
+    "raw": "Enemy gone? no, just unseen.",
+    "value": "敌人消失了？没有，只是看不见。"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/fenerox/default/0",
+    "raw": "Enemy around. Still alive. <selfname> knows!",
+    "value": "敌人包围。还有一息。<selfname>知道！"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/fenerox/default/1",
+    "raw": "Enemy undefeated. Still unreachable. Need assistance.",
+    "value": "敌人失守。追踪不上。需要协助。"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/fenerox/default/2",
+    "raw": "Come back! still fighting! not over!",
+    "value": "回来！还在战斗！还没结束！"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/skath/default/0",
+    "raw": "Target reacquired!",
+    "value": "目标重新获得！"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/skath/default/1",
+    "raw": "I won't let you get away this time!",
+    "value": "这次我不会再让你跑掉了！"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/skath/default/2",
+    "raw": "For honor!",
+    "value": "为了荣耀！"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/skath/default/3",
+    "raw": "You made a huge mistake by returning here!.",
+    "value": "你回到这里是真是个致命的失误！。"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/skath/default/4",
+    "raw": "You again!",
+    "value": "你又来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/skath/default/0",
+    "raw": "Hostiles sighted! Engaging combat!",
+    "value": "发现敌人！开始战斗！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/skath/default/1",
+    "raw": "Come at me! I live for this!!",
+    "value": "冲我来！我就是为此而生的！！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/skath/default/2",
+    "raw": "The Vanguard shall strike you down!",
+    "value": "先锋会把你们打倒的！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/skath/default/3",
+    "raw": "Your journey ends here!",
+    "value": "你的旅程到此结束！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/skath/default/4",
+    "raw": "Hostile activity!",
+    "value": "敌对活动！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/skath/default/5",
+    "raw": "Engaging hostiles!",
+    "value": "正在攻击敌人！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/skath/default/6",
+    "raw": "Everybody assemble formation!",
+    "value": "大家集合！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/skath/default/7",
+    "raw": "For the Vanguard!",
+    "value": "为了先锋！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/skath/default/0",
+    "raw": "Area secured. Status report, soldiers!",
+    "value": "区域安全。报告情况，士兵们！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/skath/default/1",
+    "raw": "Target neutralized!",
+    "value": "目标已消灭！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/skath/default/2",
+    "raw": "Never fight a battle you can't win.",
+    "value": "永远不要打一场你赢不了的仗。"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/skath/default/3",
+    "raw": "It is a bad idea to mess with the Vanguard.",
+    "value": "惹恼先锋是个坏主意。"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/skath/default/4",
+    "raw": "Threat eliminated.",
+    "value": "威胁消除。"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/skath/default/5",
+    "raw": "An honourable victory.",
+    "value": "光荣的胜利。"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/skath/default/0",
+    "raw": "Target escaped.",
+    "value": "目标逃跑了。"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/skath/default/1",
+    "raw": "We'll get you next time.",
+    "value": "我们下次会抓到你的。"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/skath/default/2",
+    "raw": "Don't come back. You are not welcome.",
+    "value": "别再回来了。你不受欢迎。"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/skath/default/3",
+    "raw": "If you fear for your life, stay away.",
+    "value": "如果你担心自己的小命，远离我吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/skath/default/4",
+    "raw": "Dammit.",
+    "value": "该死。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/skath/default/0",
+    "raw": "I lost the target!",
+    "value": "我失去目标了！"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/skath/default/1",
+    "raw": "The enemy is hiding!",
+    "value": "敌人躲起来了！"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/skath/default/2",
+    "raw": "Come out! We will find you anyway!",
+    "value": "出来！无论如何我们都会找到你的！"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/skath/default/3",
+    "raw": "Can anybody see the target?",
+    "value": "有人看到目标了吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/skath/default/4",
+    "raw": "I think they are gone.",
+    "value": "我想他们已经走了。"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/skath/default/0",
+    "raw": "Get back here, coward!",
+    "value": "给我回来，胆小鬼！!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/skath/default/1",
+    "raw": "Dammit! They are out of my reach!",
+    "value": "该死！我跟不上！"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/skath/default/2",
+    "raw": "Come back here and fight!.",
+    "value": "回来战斗！。"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/skath/default/3",
+    "raw": "You are better off hiding!",
+    "value": "你最好躲起来！"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/skath/default/4",
+    "raw": "Don't feel too safe now! We will get you!",
+    "value": "现在不要觉得太安全了！我们会抓到你的！"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/skath/default/0",
+    "raw": "Get them!",
+    "value": "拿下他们！"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/skath/default/1",
+    "raw": "We almost got them! Keep fighting!",
+    "value": "我们差点就拿下他们了！继续战斗！"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/skath/default/2",
+    "raw": "This victory shall be ours!!",
+    "value": "这场胜利将是我们的！"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/skath/default/3",
+    "raw": "We won't fail!",
+    "value": "我们不会失败的！"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/skath/default/4",
+    "raw": "Don't resist! It's useless!",
+    "value": "不要反抗！这是没用的！"
+  }
+]

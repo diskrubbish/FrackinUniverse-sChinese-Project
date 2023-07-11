@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rare multi-phasic super-dense metal.",
+    "value": "一种罕见的多相位超致密金属。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Densinium Bar",
+    "value": "超致密锭"
+  }
+]

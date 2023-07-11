@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Heavy, cumbersome and awesome.\n^cyan;Breaks blocks^reset;",
+    "value": "超级笨重却又令人惊叹。\n^cyan;能够破坏方块^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aegisalt Striker",
+    "value": "霓磷盐打击者"
+  }
+]

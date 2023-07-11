@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Wand/Staff: Damage x^green;1.22^reset;\n^yellow;^reset; ^cyan;Immune^reset;: Poison",
+    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; 魔杖/法杖: 伤害 x^green;1.22^reset;\n^yellow;^reset; ^cyan;免疫^reset;: 中毒"
+  }
+]

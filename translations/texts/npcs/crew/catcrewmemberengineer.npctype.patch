@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "Meow! Purrfect! Fuel costs reduced by 10%!",
+    "value": "喵！镐极了！燃油消耗降低了10%！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/shipImprovementApplied/default/default/0",
+    "raw": "Meow! Purrfect! Fuel costs reduced by 10%!",
+    "value": "喵！镐极了！燃油消耗降低了10%！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Engineer",
+    "value": "工程师"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Engineering",
+    "value": "工程学"
+  }
+]

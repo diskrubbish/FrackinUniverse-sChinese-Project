@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Gemcrafting",
+    "value": "宝石工艺"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "What are you looking at? I'm not finished yet.",
+    "value": "还没写完，建议高强度逼着sayter去写。"
+  }
+]

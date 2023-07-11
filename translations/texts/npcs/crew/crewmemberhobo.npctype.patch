@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "Hey! My booze kin help fuel yer ship! Itsh shuuuper good! *hic*",
+    "value": "嘿！我能让你的飞船燃料箱可以装下更多的燃料，*嗝*"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "raw": "Floran booze kin fuel ship! Itsh shuuuper good! *hic*",
+    "value": "叶族人可以让飞船装下更多的燃料！*嗝*，干杯！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "raw": "Statement. My booze can help fuel your ship. It is super good.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "Here! Have shum boooze! *hic*",
+    "value": "噢，对，酒，我要酒！*嗝*"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
+    "raw": "Floran isss wildly intoxicated! Floran not drinking alone! You take some!",
+    "value": "叶族人有些醉醉醉了，叶族人不想一个人人人喝酒，快来，干杯！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+    "raw": "Eager. Have some carbonated alcoholic beverage. This is not optional.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Hobo",
+    "value": "酒鬼"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Intoxicology",
+    "value": "酒精学"
+  }
+]

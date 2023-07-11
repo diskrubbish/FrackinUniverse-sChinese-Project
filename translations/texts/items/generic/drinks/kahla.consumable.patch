@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What looks to be a bottle of liquified Oceanite. Contains healing properties.\n^green;Heal ^white;50% ^green;HP ^gray;(^white;30s^gray;)^reset;",
+    "value": "看起来是一瓶液化的大洋石。包含治疗属性。\n^green;治疗^white;50%^green;HP^gray;(^white;30s内^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Liquid Oceanite Bottle",
+    "value": "瓶装液化大洋石"
+  }
+]

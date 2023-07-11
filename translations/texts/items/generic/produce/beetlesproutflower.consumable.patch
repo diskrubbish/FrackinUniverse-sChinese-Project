@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Defense x1.3^reset;, ^cyan;+20% Shield Regen^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;防御x1.3^reset;, ^cyan;+20%盾牌耐久恢复^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beetle Sprout Flower",
+    "value": "虫芽花"
+  }
+]

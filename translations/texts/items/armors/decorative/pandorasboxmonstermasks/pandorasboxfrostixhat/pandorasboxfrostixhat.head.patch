@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A nice hat to wear on a hot day!",
+    "value": "在炎热的天气里戴上漂亮的帽子！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frostix Hat",
+    "value": "冰霜菲狐帽"
+  }
+]

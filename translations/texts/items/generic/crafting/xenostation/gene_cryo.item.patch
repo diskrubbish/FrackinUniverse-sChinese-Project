@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Brr. Chalked full of icy goodness.",
+    "value": "充满了冰冷。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cryogenic",
+    "value": "低温基因"
+  }
+]

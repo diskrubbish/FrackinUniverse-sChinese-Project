@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Damage x1.15^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;伤害 x1.15^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Little Good Berry",
+    "value": "小浆果"
+  }
+]

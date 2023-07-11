@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rich in beauty and leaves.\n^green;Extractable^reset;.",
+    "value": "上面铺满了美丽的花瓣。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rainforest Floor",
+    "value": "雨林泥土"
+  }
+]

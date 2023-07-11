@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/equipFunctional/caption",
+    "raw": "Equip (Functional)",
+    "value": "装备（功能）"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/equipCosmetic/caption",
+    "raw": "Equip (Cosmetic)",
+    "value": "装备（装饰）"
+  }
+]

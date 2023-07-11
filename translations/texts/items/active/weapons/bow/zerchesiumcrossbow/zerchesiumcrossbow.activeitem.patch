@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A crossbow, probably designed for hunting.",
+    "value": "这把弩或许就是为了狩猎而设计的吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Crossbow",
+    "value": "高熔点弩"
+  }
+]

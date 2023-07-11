@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Powerfully strong to cover long distances.",
+    "value": "强大的远距离武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tungsten Sniper Rifle",
+    "value": "钨制狙击枪"
+  }
+]

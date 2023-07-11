@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vampire Bat",
+    "value": "吸血蝙蝠"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These highly aggressive blood suckers prefer dark places.",
+    "value": "这些具有高度攻击性的吸血动物喜欢待在昏暗的地方。"
+  }
+]

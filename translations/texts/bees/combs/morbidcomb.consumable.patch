@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A honeycomb that contains strong anti-shadow properties.",
+    "value": "一个蜂巢，包含强大的反暗影属性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Harlequin Honeycomb",
+    "value": "小丑蜂巢"
+  }
+]

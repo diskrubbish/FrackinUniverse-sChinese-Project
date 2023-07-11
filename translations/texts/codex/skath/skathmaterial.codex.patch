@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "About Tethyde",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A log about the Skath's strongest material.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "[REDACTED]",
+    "value": ""
+  }
+]

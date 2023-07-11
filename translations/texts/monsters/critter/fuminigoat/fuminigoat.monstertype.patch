@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pygmy Goat",
+    "value": "矮山羊"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perhaps not so great for goats' milk. But they make great pets.",
+    "value": "也许它并不是山羊，但却可以做最棒的宠物。"
+  }
+]

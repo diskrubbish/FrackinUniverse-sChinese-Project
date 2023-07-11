@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Solid darkness found in the Umbra... how?\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "这块黑色固体隐藏的黑暗中...那到底是如何发现的呢？\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Block of Darkness",
+    "value": "黑暗方块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Confused. Solid darkness?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssscary block.",
+    "value": "可可可怕。"
+  }
+]

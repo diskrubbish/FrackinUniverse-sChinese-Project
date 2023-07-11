@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just spooky enough. ^green;Type: Meaty Plant^reset;",
+    "value": "太怪异了。\n^green;类型：荤素食^reset;"
+  }
+]

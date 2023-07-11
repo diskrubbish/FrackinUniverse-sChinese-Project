@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dense, heavy bread packed full of seeds. ^green;Type: Grain^reset;",
+    "value": "密实的、沉重的面包，里面和着的全是鸟喙果。\n^green;类型：谷物^reset;"
+  }
+]

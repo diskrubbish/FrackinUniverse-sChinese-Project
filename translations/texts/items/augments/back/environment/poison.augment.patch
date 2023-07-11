@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides +10% Poison Resist",
+    "value": "^cyan;毒素抗性+10^reset;%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poison Resist I",
+    "value": "EPP模块（毒素抵抗 I）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Poison Resist I",
+    "value": "EPP模块（毒素抵抗 I）"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Harlequin Bee",
+    "value": "小丑蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A harlequin bee.",
+    "value": "一只小丑蜜蜂。"
+  }
+]

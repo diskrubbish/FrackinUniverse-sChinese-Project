@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A grappling hook dripping with...stuff. Has strange properties.",
+    "value": "一个滴着什么东西的抓钩。有着奇怪的属性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Hook",
+    "value": "远古抓钩"
+  }
+]

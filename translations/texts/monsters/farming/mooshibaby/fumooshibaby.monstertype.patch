@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mooshi Calf",
+    "value": "哞西牛牛犊"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A newborn mooshi! It'll eat most fruits and vegetables.",
+    "value": "刚出生的哞西牛！它能吃大部分水果和蔬菜。"
+  }
+]

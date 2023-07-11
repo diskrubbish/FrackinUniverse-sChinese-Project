@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some stylish checkered tiles.",
+    "value": "一些时髦的方格瓷砖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Modern Tiles",
+    "value": "现代瓷砖"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Impressed. Some stylish checkered tiles.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sshiny tile.",
+    "value": "亮闪闪的瓷砖。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some nifty lookin' tiles.",
+    "value": "一些漂亮的瓷砖。"
+  }
+]

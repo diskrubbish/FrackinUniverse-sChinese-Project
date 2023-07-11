@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;120% Gas Thorns^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;120%毒气反伤^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fayshroom",
+    "value": "费伊蘑菇"
+  }
+]

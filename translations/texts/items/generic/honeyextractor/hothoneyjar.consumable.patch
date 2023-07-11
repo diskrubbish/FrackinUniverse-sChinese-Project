@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A delicious jar of hot honey.^cyan;+^white;30% ^pink;Fire ^cyan;Resistance ^gray;(^white;5m^gray;)^reset;",
+    "value": "一罐炙热的美味蜂蜜。^cyan;+^white;30%^pink;火炎^cyan;抗性^gray;(^white;持续5m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Inferno Honey",
+    "value": "地狱蜂蜜"
+  }
+]

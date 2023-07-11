@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides more slots for frames and drones.",
+    "value": "提供更多的框巢和工蜂巢位。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Apiary",
+    "value": "大型蜂房"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Harvest honey!",
+    "value": "收获蜜蜂！"
+  }
+]

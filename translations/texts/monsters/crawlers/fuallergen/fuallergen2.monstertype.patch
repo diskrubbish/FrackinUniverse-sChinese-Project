@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gasser Trap",
+    "value": "火井陷阱"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This flower is filled with toxic gas.",
+    "value": "这朵花中充满了毒气。"
+  }
+]

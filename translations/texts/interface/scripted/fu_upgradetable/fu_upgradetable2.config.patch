@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": " Precursor Crucible",
+    "value": " 先驱坩埚"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": " Upgrade most equipment",
+    "value": " 升级绝大多数装备"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/warningLabel/value",
+    "raw": "SCRIPT ERROR!",
+    "value": "工 口 发 生！"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/btnUpgrade/caption",
+    "raw": "Upgrade",
+    "value": "升级"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/upgradeTargetLabel/value",
+    "raw": "To: ",
+    "value": "升级为："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/emptyLabel/value",
+    "raw": "You don't have any weapons to upgrade!",
+    "value": "你没有任何装备可升级！"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/essenceCostDescription/value",
+    "raw": "REQUIRED ESSENCE",
+    "value": "需要精华"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/essenceCost/value",
+    "raw": "0 / -- (--)",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/upgradeTargetText/regex",
+    "raw": "^$|(^[1-9][0-9]{0,2}$)",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/upgradeTargetText/hint",
+    "raw": "<X>",
+    "value": ""
+  }
+]

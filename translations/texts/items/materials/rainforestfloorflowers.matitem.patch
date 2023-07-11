@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Flowery, lush soil.\n^green;Extractable^reset;.",
+    "value": "美丽、苍翠。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rainforest Flowers",
+    "value": "雨林花儿"
+  }
+]

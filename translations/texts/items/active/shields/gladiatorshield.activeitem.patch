@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;+4 Defense^reset;",
+    "value": "^green;防御+4^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gladiator Shield",
+    "value": "角斗士盾"
+  }
+]

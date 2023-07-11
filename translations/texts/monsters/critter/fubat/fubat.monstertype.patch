@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Battrix",
+    "value": "可爱蝙蝠怪"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Aww. Wook at dis widdle guy!",
+    "value": "哇，真是个可爱的家伙！"
+  }
+]

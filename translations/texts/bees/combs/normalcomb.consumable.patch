@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A delicious honeycomb with mild medicinal properties.",
+    "value": "一种美味的蜂窝，具有温和的药用特性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honeycomb",
+    "value": "蜂蜜蜂巢"
+  }
+]

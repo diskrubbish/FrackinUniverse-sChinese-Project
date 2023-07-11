@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "My name is...",
+    "value": "吾名为..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Rapier",
+    "value": "阳清刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Aetherium Puncturer",
+    "value": "阳清刺穿者"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Vengeance be thy pursuit.",
+    "value": "复仇为汝愿。"
+  }
+]

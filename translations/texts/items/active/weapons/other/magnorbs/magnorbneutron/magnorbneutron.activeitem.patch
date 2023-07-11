@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Superior gravity orbs. ^cyan;Counts as 'energy' weapon^reset;",
+    "value": "超级重力球体。 ^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neutron Star Orbs",
+    "value": "中子星珠"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This dirt is frozen solid.\n^green;Extractable^reset;.",
+    "value": "这是冰冻至坚硬的泥土。\n^green;可萃取^reset;。"
+  }
+]

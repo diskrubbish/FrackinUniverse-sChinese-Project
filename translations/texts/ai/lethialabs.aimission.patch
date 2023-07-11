@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "The distress signal's origin is this far-off facility owned by Letheia Corporation. I wonder what awaits there...",
+    "value": "求救信号来自于这个遥远设施，该设施归莱西亚公司所有。我不知道那里有什么在等待着我，希望一切顺利。"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Letheia Labs (6)",
+    "value": "莱西亚实验室(6)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Letheia Labs (6) (R)",
+    "value": "重新挑战莱西亚实验室(6)"
+  }
+]

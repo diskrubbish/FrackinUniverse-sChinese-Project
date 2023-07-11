@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cutting-edge cloth shirt.",
+    "value": "一件新风格的棉布衬衫。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Myral Top",
+    "value": "迈拉尔上衣"
+  }
+]

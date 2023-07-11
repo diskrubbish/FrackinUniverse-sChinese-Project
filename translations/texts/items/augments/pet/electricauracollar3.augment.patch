@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Your pet gets an electric aura!\n^green;+60%^reset; Electric Resistance",
+    "value": "装备后，你的宠物可获得电系光环！\n^green;+60^reset;%电系抗性"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shock Aura Collar III",
+    "value": "电击光环项圈III"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "raw": "Shock Aura III",
+    "value": "电击光环III"
+  }
+]

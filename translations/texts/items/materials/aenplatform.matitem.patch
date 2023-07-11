@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pretty Aen Wood platform.",
+    "value": "一个漂亮的暗木平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aen Wood Platform",
+    "value": "暗木平台"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchdescription",
+    "raw": "Familiar. This is a basic wood platform.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/florandescription",
+    "raw": "Ssimple wood platformsss.",
+    "value": "简简简单的木质平台台台。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakiddescription",
+    "raw": "Just a platform made outta wood.",
+    "value": "只是一个用木头做的平台。"
+  }
+]

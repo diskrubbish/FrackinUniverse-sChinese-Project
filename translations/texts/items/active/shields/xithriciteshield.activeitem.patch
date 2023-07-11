@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Proto, Bio-ooze Protections, +12 Shieldbash Push, 0.2 Regen^reset;",
+    "value": "^green;免疫原毒，生物软泥，+12盾牌反伤，0.2盾牌耐久回复^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Shield",
+    "value": "赛德瑞瑟盾"
+  }
+]

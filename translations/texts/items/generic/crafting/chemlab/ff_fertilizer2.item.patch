@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A step above lesser fertilizers.\n^green;Growth Rate x^white;2.5 ^gray;& ^green;+^white;2 ^green;produce.\n^cyan;-^white;1 ^cyan;seed use^reset;",
+    "value": "更进一步的肥料。\n^green;生长速率x^white;2.5^gray;&^green;产量+^white;2^reset;\n^cyan;种子消耗-^white;1^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Advanced Fertilizer",
+    "value": "高级肥料"
+  }
+]

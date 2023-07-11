@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just enough cloth to keep modest, just enough sandal to kick teeth in. Gives +^green;5^reset;% Damage.",
+    "value": "就来点足够的布料保持优雅，就来双足够的凉鞋踢掉牙齿。+^green;5^reset;%伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ruffian Sandals",
+    "value": "痞子下装"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Needle-free, for your safety.",
+    "value": "无针款，为了您的安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Trictus Cap",
+    "value": "诡行仙帽"
+  }
+]

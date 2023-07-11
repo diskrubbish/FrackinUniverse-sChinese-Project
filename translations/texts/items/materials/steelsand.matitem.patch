@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fine grains of metal.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "金属的细颗粒。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Steel Sand Block",
+    "value": "钢砂块"
+  }
+]

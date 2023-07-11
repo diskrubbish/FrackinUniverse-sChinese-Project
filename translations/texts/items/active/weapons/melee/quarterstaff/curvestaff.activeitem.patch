@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Kinda swordy, for a staff. Ziiiip zaaaap!\n^cyan;Counts as plasma weapon for set bonuses^reset;",
+    "value": "作为长棍来说有点像剑。呼！哈！\n^yellow;等离子武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasma Quarterstaff",
+    "value": "等离子长棍"
+  }
+]

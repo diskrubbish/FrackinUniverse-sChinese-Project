@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lure with internal mechanisms for greater control.",
+    "value": "具有内部机械的诱饵，可实现更好的控制。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mechanical Lure",
+    "value": "机械诱饵"
+  }
+]

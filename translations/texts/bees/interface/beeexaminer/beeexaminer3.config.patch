@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/inputLabel/value",
+    "raw": "Input:",
+    "value": "输入："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/outputLabel/value",
+    "raw": "Output:",
+    "value": "输出："
+  },
+  {
+    "op": "replace",
+    "path": "/gui/statuslabel/value",
+    "raw": "Status:",
+    "value": "状态："
+  }
+]

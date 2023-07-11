@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A commoner's skirt and sandals. Gives +^green;0.3^reset; Health Regen.",
+    "value": "平民的下装和凉鞋。赋予 ^green;0.3^reset;% HP恢复."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plebeian Skirt",
+    "value": "平民下装"
+  }
+]

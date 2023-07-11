@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune: Poison & +10% Poison Res^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;免疫: 中毒 & +10%的毒素抗性^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nyani String",
+    "value": "尼尔尼茎"
+  }
+]

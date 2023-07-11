@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides a Fall Damage Multiplier based on fall speed, scaling to ^green;0.0^reset;x at 200 Units per second.",
+    "value": "基于坠落速度降低坠落伤害倍率，200格每秒时，倍率降至^green;0.0^reset;x。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Meteor Shell",
+    "value": "流星之壳"
+  }
+]

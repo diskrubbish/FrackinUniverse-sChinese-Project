@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmostache",
+    "value": "宇宙胡"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An irritable biomechanical lifeform. The bigger their moustaches, the older they are.",
+    "value": "一种易激生物力的生命形式。他们的胡子越大，他们就越老。"
+  }
+]

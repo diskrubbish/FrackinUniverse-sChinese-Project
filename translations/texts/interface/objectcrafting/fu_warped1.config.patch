@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/lblText/value",
+    "raw": "^#b9b5b2;Place ??? in slots to apply ??? effects in range.",
+    "value": "^#b9b5b2;在格子中放入???以应用范围内的???效果。"
+  }
+]

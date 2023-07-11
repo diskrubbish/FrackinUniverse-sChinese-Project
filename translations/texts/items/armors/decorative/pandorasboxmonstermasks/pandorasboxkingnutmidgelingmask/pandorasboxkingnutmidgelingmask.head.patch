@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The mask's tuft is more durable than the real thing.",
+    "value": "这个口罩的簇比实物更耐用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "King Nutmidgeling Mask",
+    "value": "榛果王面具"
+  }
+]

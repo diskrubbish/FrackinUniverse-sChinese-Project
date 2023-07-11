@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Guaranteed to cause tetanus. Share with friends for bonus fun.",
+    "value": "保证会引发破伤风。与朋友分享乐趣更多。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Junk Rapier",
+    "value": "废料刺剑"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Super lightweight. More fashion than function.",
+    "value": "超轻型。时尚比功能更重要。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar War Vest",
+    "value": "夜族战争背心"
+  }
+]

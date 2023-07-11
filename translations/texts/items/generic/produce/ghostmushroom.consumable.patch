@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Invisible to Erchius Horrors^reset;: 5m",
+    "value": "^yellow;^reset;^cyan;无视厄尔吉斯之怖^reset;: 5m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ghost Mushroom Spore",
+    "value": "幽灵菇"
+  }
+]

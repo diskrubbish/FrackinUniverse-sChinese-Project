@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some colorful plaid wallpaper.",
+    "value": "一些彩色的格子墙纸。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plaid Wallpaper",
+    "value": "格子墙纸"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. This wallpaper has an appealing stripped pattern.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wallpaper with lots of little sstripes.",
+    "value": "带有许多小条纹的墙纸。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "A purty decent wallpaper, if you like that sort of thing.",
+    "value": "如果你喜欢的话，这算是种漂亮得不像话的墙纸。"
+  }
+]

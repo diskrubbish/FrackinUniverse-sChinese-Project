@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": " Gravity Console",
+    "value": " 重力调节器"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": " Control your Gravity!",
+    "value": " 可调节周围重力！"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblGravity/value",
+    "raw": "GRAVITY",
+    "value": "重力"
+  }
+]

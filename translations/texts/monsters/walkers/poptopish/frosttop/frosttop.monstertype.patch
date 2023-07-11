@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Frosttop",
+    "value": "冰霜吐舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Chilly but cute.",
+    "value": "很寒冷，但也很可爱。"
+  }
+]

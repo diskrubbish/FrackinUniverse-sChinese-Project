@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metal Walkway",
+    "value": "金属走道"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Comfortable aesthetic, solid construction.",
+    "value": "舒适的审美，坚实的结构。"
+  }
+]

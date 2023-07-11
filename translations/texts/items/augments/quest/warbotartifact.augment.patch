@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;+3%^reset; Crit Chance\n^green;+20%^reset; Crit Damage",
+    "value": "^green;+3^reset;%暴击率\n^green;+20^reset;%暴击伤害"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hyper Targeting Chip",
+    "value": "超瞄准芯片"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Targeting Chip",
+    "value": "瞄准芯片"
+  }
+]

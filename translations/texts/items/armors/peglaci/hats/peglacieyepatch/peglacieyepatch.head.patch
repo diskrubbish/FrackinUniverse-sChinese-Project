@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Watch your eyes out there!",
+    "value": "小心你的眼睛！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peglaci Eyepatch",
+    "value": "羊蹄族眼罩"
+  }
+]

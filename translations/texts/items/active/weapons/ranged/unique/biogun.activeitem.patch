@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bone-formed biological weapon.\n^yellow;Inflicts bio-ooze effect^reset;\n^green;Aimable stun-balls^reset;",
+    "value": "一把外包骨骼的生物类武器。\n^cyan;附加生物软泥效果^reset;\n^yellow;延迟性的眩晕弹^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bio Rifle",
+    "value": "生化步枪"
+  }
+]

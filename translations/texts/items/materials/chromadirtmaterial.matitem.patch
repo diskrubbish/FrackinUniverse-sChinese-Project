@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pure, unblemished soil.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "纯净，无瑕疵的土壤。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chromatic Dirt",
+    "value": "多色土块"
+  }
+]

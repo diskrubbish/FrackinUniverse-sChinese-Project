@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Masterful crafting, deadly edges.",
+    "value": "精湛的工艺，致命的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Mace",
+    "value": "寒霜钉头锤"
+  }
+]

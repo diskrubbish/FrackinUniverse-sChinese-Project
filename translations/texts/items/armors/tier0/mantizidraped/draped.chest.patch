@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mass of cloth draped over the shoulder and around the hips. +^green;10^reset;% Energy Regen.",
+    "value": "一大块布搭在肩膀和臀部周围。\n+^green;10^reset;能量回复。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Draped Top",
+    "value": "披挂上衣"
+  }
+]

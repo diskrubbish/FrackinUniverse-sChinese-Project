@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Daggers: +^green;20^reset;/^green;40^reset;% Crit Damage\n^yellow;^reset; ^cyan;Immune^reset;: Snow, Slush, Ice, Extreme Cold",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wolf Coat",
+    "value": "狼皮大衣"
+  }
+]

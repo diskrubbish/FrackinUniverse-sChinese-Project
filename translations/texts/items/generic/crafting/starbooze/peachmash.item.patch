@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Peach Mash, the product of crushed and squeezed peaches.",
+    "value": "桃子压榨后的产物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peach Mash",
+    "value": "桃子醪"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A little bit of metal.",
+    "value": "一点金属。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avali Hull Plating",
+    "value": "羽族船壳板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. A small bit of metal.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssteel.",
+    "value": "钢钢钢。"
+  }
+]

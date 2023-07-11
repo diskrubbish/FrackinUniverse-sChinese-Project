@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The remains of an alien, ready to investigate via autopsy.",
+    "value": "外星人的遗体，请准备好通过解剖进行调查。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alien cadaver",
+    "value": "外星尸体"
+  }
+]

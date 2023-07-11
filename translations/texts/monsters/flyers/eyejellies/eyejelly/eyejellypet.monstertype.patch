@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gelatinous Eye",
+    "value": "凝胶眼"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An eye immersed in a violet viscous fluid.",
+    "value": "浸泡在紫罗兰色粘性液体中的眼睛。"
+  }
+]

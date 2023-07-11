@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Copper Bomb",
+    "value": "变铜炸弹"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Alchemical creation! Turn tiles into copper!",
+    "value": "炼金大发明！它可以把块变成铜！"
+  }
+]

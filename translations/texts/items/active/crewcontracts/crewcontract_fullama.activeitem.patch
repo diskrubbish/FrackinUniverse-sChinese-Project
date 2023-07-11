@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a tough Alpaca warrior.",
+    "value": "雇用一名顽强的羊驼勇士！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alpaca Contract",
+    "value": "合同：羊驼"
+  }
+]

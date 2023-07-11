@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/lblTitle/value",
+    "raw": " Tech Research",
+    "value": " 科技研究"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSubTitle/value",
+    "raw": " Unlock new powerful techs",
+    "value": " 解锁最新的强力科技！"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/popupList/schema/listTemplate/itemName/value",
+    "raw": "Golden Moustache",
+    "value": "金胡子"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblProduct/value",
+    "raw": "HAVE MATERIALS",
+    "value": "材料可用"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/filter/hint",
+    "raw": "Search",
+    "value": "搜索"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/popupTitle/value",
+    "raw": "INGREDIENTS",
+    "value": "材料"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/popupList/schema/listTemplate/count/value",
+    "raw": "19/99",
+    "value": ""
+  }
+]

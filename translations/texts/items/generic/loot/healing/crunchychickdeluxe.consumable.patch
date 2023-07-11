@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Floran delicacy. A live baby boobie.\n^green;Heals ^white;100% ^green;HP ^gray;(^white;50s^gray;)^reset;\n^red;Type: Raw Meat^reset;",
+    "value": "叶族美味。一只活的小鸡。\n^green;治疗^white;100%^green;HP^gray;(^white;50s内^gray;)^reset;\n^red;类型：生肉食^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Deluxe Crunchy Chick",
+    "value": "豪华小鸡"
+  }
+]

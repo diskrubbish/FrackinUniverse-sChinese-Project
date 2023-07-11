@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poptopalon Jaw",
+    "value": "吐舌龙颚骨"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fossilised Poptopalon jaw bone.",
+    "value": "吐舌龙颚骨的化石。"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "ITS FUCKIN' BROKEN. JOKES ON YOU.^reset;",
+    "value": "他娘的坏了。开个玩笑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "YOU CHEATED THIS IN, MORON.",
+    "value": "你作弊了，智障。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Shatterstar^reset; ^yellow;^reset;",
+    "value": "^cyan;破灭之星^reset; ^yellow;^reset;"
+  }
+]

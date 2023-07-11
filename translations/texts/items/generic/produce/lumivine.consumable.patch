@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune^reset;: Pressure: 2m",
+    "value": "^yellow;^reset;^cyan;免疫^reset;: 压强: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lumivine",
+    "value": "卢蒂海带"
+  }
+]

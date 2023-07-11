@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Super-quality shotgun with a hair trigger.",
+    "value": "品质极高的霰弹枪，带有一个微力扳机。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Shotgun",
+    "value": "合金霰弹枪"
+  }
+]

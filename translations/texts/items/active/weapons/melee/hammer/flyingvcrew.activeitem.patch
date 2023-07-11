@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shred, Rip, and play the sickest solos!",
+    "value": "撕碎，撕裂，上演最病态的独奏！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lead Guitar",
+    "value": "主音吉他"
+  }
+]

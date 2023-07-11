@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Giant Red Bee",
+    "value": "巨型红色蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Don't touch the pointy end.",
+    "value": "别碰尖的一头。"
+  }
+]

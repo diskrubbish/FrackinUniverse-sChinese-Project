@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+12 HP^reset;, ^cyan;+20 EP^reset;: 3m",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Little Rascal Herb",
+    "value": "乌里草"
+  }
+]

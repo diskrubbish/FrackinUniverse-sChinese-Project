@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block made of soft fungus.\n^green;Extractable^reset;.",
+    "value": "菌类植物组成的方块。\n^green;可萃取^reset;。"
+  }
+]

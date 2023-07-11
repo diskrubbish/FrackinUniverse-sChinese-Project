@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A breakfast favorite among humans. Great with a side of milk. \n^cyan;+^green;12% Energy^reset; ^green;Type: Grain^reset;",
+    "value": "人类最爱的早餐。加杯牛奶更好。\n^cyan;+^reset;12% 能量\n^green;类型：谷物^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cinnamon Oatmeal",
+    "value": "肉桂燕麦粥"
+  }
+]

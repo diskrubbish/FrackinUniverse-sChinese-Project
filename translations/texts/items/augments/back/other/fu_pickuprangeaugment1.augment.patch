@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pulls items towards you from up to 10 blocks away.",
+    "value": "自动拾取^orange;10格范围^reset;内的可拾取物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Item Magnet I",
+    "value": "EPP模块（自动拾取 I）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Item Magnet I",
+    "value": "EPP模块（自动拾取 I）"
+  }
+]

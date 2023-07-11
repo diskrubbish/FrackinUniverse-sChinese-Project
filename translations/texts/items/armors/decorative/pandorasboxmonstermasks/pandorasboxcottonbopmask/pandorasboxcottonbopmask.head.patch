@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Made with 99.9999% cotton!",
+    "value": "由99.9999%的棉绒制成！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cottonbop Mask",
+    "value": "棉绒波普面具"
+  }
+]

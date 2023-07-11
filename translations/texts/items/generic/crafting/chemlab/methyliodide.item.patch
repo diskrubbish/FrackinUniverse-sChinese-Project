@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An extremely toxic, but useful lab reagent.",
+    "value": "一种毒性极高，但很有用的实验室试剂。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Methyl Iodide",
+    "value": "甲基碘"
+  }
+]

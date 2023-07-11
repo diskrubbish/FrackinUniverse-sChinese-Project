@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A perfect fit if you have a bad temper!",
+    "value": "如果你脾气不好，这正是一个完美的选择！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crabcano Hat",
+    "value": "火山蟹帽"
+  }
+]

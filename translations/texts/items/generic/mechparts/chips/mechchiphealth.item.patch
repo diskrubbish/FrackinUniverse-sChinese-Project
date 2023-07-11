@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Increases mech health bonus effiency as well as raising total mass.",
+    "value": "增加机甲耐久度，但提高机甲总质量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Goliath Module",
+    "value": "巨人模块"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's the pelt of an animal.",
+    "value": "这是从动物身上获取的毛皮。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pelt",
+    "value": "毛皮"
+  }
+]

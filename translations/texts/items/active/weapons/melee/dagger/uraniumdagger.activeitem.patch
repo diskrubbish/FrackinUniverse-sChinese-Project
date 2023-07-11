@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Swift and radioactive.",
+    "value": "用铀制作的匕首，非常轻便并且具有放射性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Uranium Knife",
+    "value": "铀制小刀"
+  }
+]

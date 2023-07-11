@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Loaded full of delicious eyeballs\n^cyan;Inflicts bleeding^reset;",
+    "value": "装满了美味的眼球。\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cultist Quarterstaff",
+    "value": "异教长棍"
+  }
+]

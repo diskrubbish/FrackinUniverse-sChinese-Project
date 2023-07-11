@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nail Bomb",
+    "value": "钉刺炸弹"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This lovely explosive will fill your foe with nails. Fun!",
+    "value": "这可爱的炸弹会将钉子射向你的敌人。有趣！"
+  }
+]

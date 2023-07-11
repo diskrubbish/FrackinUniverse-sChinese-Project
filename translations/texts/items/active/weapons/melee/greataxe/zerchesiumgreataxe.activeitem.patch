@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A freezing and dangerous edge.",
+    "value": "斧刃冰冷而又危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Greataxe",
+    "value": "高熔点巨斧"
+  }
+]

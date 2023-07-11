@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Toxic Fly",
+    "value": "大型毒蝇"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You do have to wonder how it grew to that size.",
+    "value": "你会想知道它是怎么变得这么大的。"
+  }
+]

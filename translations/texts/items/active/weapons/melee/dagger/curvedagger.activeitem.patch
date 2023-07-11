@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Charged plasma-laced dagger. Handy, that.\n^cyan;Inflicts Burning^reset;",
+    "value": "充能过的等离子匕首，非常便于使用。\n^cyan;附加燃烧效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Breach Knife",
+    "value": "劫掠小刀"
+  }
+]

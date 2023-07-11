@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fire through solid materials!\n^yellow;Reveal enemies and terrain^reset;",
+    "value": "用于发射X光。\n^yellow;可以探知敌人和地形^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor X-Ray Gun",
+    "value": "先驱X光枪"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Light up the room. With death.\n^yellow;Counts as 'energy' for set bonuses^reset;",
+    "value": "用死亡点亮房间。\n^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prismatic Machinegun",
+    "value": "棱镜机枪"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Common table salt ^gray;NaCl^reset; is extremely useful in everything from culinary arts to chemical engineering.",
+    "value": "普通食盐^gray;NaCl^reset;在从烹饪艺术到化学工程的所有领域都非常有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Salt",
+    "value": "盐"
+  }
+]

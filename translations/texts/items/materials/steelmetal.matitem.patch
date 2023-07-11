@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block of metal.\n^green;Extractable^reset;.",
+    "value": "一块金属。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metal",
+    "value": "金属块"
+  }
+]

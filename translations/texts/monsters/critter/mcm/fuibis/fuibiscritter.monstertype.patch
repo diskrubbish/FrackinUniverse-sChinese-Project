@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Scarlet Ibis",
+    "value": "红鹮"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A medium sized shorebird with a long curved bill. They are commonly found near tropical coasts.",
+    "value": "一种中等体型的滨鸟，有长而弯曲的喙。它们通常出现在热带海岸附近。"
+  }
+]

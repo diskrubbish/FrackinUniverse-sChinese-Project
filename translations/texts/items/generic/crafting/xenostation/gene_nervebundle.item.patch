@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Extra connecting tissues.",
+    "value": "可以额外的连接其他组织。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nerve Bundle",
+    "value": "神经束基因"
+  }
+]

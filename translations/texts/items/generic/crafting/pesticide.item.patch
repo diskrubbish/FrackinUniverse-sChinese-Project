@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Kills bugs dead.\n^green;Growth Rate x^white;3 ^gray;& ^green;+^white;2 ^green;produce.\n^cyan;Uses +^white;2 ^cyan;fluid use ^gray;& ^cyan;-^white;1 ^cyan;seed use^reset;",
+    "value": "专杀虫子。\n^green;生长速率x^white;3^gray;&^green;产量+^white;2^reset;\n^cyan;液体消耗+^white;2^gray;&^cyan;种子消耗-^white;1^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pesticide",
+    "value": "杀虫剂"
+  }
+]

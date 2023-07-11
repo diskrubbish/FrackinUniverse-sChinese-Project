@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A contraband jar of honey.\n^cyan;+^white;25% ^cyan;Run ^gray;(^white;3m^gray;)^reset;",
+    "value": "一罐走私蜂蜜。\n^cyan;+^white;25%^cyan;速度^gray;(^white;持续3m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Speed Honey Jar",
+    "value": "罐装急速蜂蜜"
+  }
+]

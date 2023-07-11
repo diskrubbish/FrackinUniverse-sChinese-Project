@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/boxes/0/description",
+    "raw": "Minerals and Goods",
+    "value": "矿物和货物"
+  },
+  {
+    "op": "replace",
+    "path": "/boxes/1/description",
+    "raw": "Weapons and Gear",
+    "value": "武器和工具"
+  },
+  {
+    "op": "replace",
+    "path": "/boxes/2/description",
+    "raw": "Modules, Heals and more",
+    "value": "模块，医疗物品以及更多"
+  }
+]

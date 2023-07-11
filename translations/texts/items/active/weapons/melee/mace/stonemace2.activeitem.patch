@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Literally a rock tied to a stick. Design by Dagnez",
+    "value": "说白了就是在一根棍子上绑上一块石头。由Dagnez设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stone Club",
+    "value": "石制钉头锤"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Damage x^green;1.2^reset;, Health x^red;0.8^reset;",
+    "value": "伤害x^green;1.2^reset;, 最大HPx^red;0.8^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Berserker Unit",
+    "value": "EPP模块（狂战士）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Berserker Unit",
+    "value": "EPP模块（狂战士）"
+  }
+]

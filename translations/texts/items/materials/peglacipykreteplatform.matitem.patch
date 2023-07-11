@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chilly - but sturdy - platform made of pykrete.",
+    "value": "一个寒冷-但坚固-由派克瑞特制成的平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pykrete Platform",
+    "value": "派克瑞特平台"
+  }
+]

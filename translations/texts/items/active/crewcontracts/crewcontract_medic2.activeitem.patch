@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a trained medic to help keep you alive and kicking.",
+    "value": "雇用一名受训的医疗学家，他能让你生存得更好。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medic Contract II",
+    "value": "合同：医疗学家 II"
+  }
+]

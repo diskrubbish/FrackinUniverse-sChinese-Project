@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glass Ball",
+    "value": "玻璃球"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Because we all know what cats like to do to ornaments...",
+    "value": "因为我们都知道猫喜欢对装饰品做什么……"
+  }
+]

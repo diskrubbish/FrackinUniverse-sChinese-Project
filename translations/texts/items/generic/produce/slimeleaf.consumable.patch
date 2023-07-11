@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+2 Defense^reset;, ^cyan;Immune^reset;: Slime: 2m",
+    "value": "^yellow;^reset;^cyan;+2防御^reset;, ^cyan;免疫^reset;: 史莱姆: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Leaf",
+    "value": "泥叶"
+  }
+]

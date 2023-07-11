@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Imbued with a special power to increase energy generation, while also protecting its wearer.",
+    "value": "注入了特殊的动力，以增加能量的产生，同时也保护其佩戴者。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cat's Energy Collar 1",
+    "value": "能量猫项圈 1"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These shorts show off your perfectly sculpted legs!",
+    "value": "这些短裤显示了你完美的雕塑腿！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beach 'Shorts'",
+    "value": "沙滩短裤"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Glimmering 'Shorts'",
+    "value": "闪耀短裤"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "So sparkly...",
+    "value": "如此闪亮动人..."
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "Streaker's Stride",
+    "value": "裸奔者的跨步"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "These are the party pants!",
+    "value": "这是派对裤！"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/shortdescription",
+    "raw": "Emperor's Skirt",
+    "value": "皇帝的下装"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/description",
+    "raw": "None are fit to walk before you.",
+    "value": "没有人适合在你前面行走。"
+  }
+]

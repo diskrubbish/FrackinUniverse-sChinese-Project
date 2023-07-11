@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The gold and gems on this sword are strictly for combat purposes.",
+    "value": "镶嵌在剑身上的黄金和宝石有着严格的战斗用途。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Opul Broadsword",
+    "value": "欧普尔长宽剑"
+  }
+]

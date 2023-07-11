@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Improves mech fuel efficiency by 20%",
+    "value": "增加机甲20％的燃料使用率。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Economist Module",
+    "value": "经济学家模块"
+  }
+]

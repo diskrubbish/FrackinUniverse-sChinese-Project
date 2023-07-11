@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Heavier than heck, but hey... painful!",
+    "value": "很重，但是砍起来...很痛！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Primitive Scythe",
+    "value": "原始镰刀"
+  }
+]

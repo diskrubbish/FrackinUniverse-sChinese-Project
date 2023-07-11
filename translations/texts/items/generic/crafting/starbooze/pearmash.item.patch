@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pear Mash, the product of crushed and squeezed pears.",
+    "value": "梨子压榨后的产物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pear Mash",
+    "value": "梨子醪"
+  }
+]

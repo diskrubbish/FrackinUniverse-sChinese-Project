@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What does it mean? How can it be translated?",
+    "value": "这是什么意思？怎么翻译呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Voynich Manuscript",
+    "value": "伏尼契手稿"
+  }
+]

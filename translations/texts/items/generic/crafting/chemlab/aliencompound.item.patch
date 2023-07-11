@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strange compounds with various amazing uses in scientific research.",
+    "value": "在科学研究中有着各种奇妙用途的奇怪化合物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;Alien Compound^reset;",
+    "value": "^#88e25b;外星化合物^reset;"
+  }
+]

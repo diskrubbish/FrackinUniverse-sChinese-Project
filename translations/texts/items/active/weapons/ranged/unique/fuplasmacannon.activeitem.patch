@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Focuses energy for supreme damage output.\n^cyan;Counts as plasma weapon for set bonuses^reset;\n^yellow;Destroys tiles^reset;",
+    "value": "聚焦能量以获得最高的伤害输出。\n^yellow;等离子武器^reset;\n^yellow;可破坏物块^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasma Eruptor",
+    "value": "等离子枪"
+  }
+]

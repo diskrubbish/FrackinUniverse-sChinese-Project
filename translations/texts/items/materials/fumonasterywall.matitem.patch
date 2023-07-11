@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wall of Shoji design.",
+    "value": "拉门结构的墙。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shoji Wall",
+    "value": "木质墙"
+  }
+]

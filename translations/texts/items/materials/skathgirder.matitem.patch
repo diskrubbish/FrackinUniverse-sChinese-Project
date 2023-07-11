@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A thick, strong girder made of tethyde alloy.",
+    "value": "用韧影合金合金制成的粗而坚固的梁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tethyde Girder",
+    "value": "韧影合金合金梁"
+  }
+]

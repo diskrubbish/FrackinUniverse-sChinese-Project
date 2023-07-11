@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shines with shifting color variations. ^red;Sharp^reset; and ^yellow;Weakening^reset;.",
+    "value": "闪耀着不断变化的色彩。\n^red;锋利^reset;却^yellow;脆弱^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystalshard Staff",
+    "value": "水晶碎片法杖"
+  }
+]

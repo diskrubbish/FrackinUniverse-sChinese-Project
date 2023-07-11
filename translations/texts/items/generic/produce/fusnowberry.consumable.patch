@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune^reset;: Snow, Slush, Icy: 3m",
+    "value": "^yellow;^reset;^cyan;免疫^reset;: 雪, 雪泥, 冰面: 3m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Snowberry",
+    "value": "雪浆果"
+  }
+]

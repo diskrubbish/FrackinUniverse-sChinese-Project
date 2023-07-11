@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Saltwater Dolphin",
+    "value": "咸水海豚"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "KEE KEE KEE KEE KEE KEEE! KEE ? KEE KEE!",
+    "value": "13号脏话？十三号脏话！"
+  }
+]

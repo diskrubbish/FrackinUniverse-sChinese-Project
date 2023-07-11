@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dangerous iron crossbow.",
+    "value": "一把危险的铁制弩。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Crossbow",
+    "value": "铁制弩"
+  }
+]

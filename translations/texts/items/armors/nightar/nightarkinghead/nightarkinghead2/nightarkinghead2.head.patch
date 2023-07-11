@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "NOT FOR NORMAL USE, AND DON'T CHEAT IT IN, please ;D",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar King's head",
+    "value": "夜族之王的头盔"
+  }
+]

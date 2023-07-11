@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "X'ian processes have stripped the impurities. \n^yellow;Type: Isotope^reset;",
+    "value": "艾肯的处理流程已经去除了其中的杂质。\n^yellow;类型：同位素^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Edible Neptunium",
+    "value": "食用镎"
+  }
+]

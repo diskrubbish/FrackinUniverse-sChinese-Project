@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A golden pillar made using a crystal alloy.",
+    "value": "金柱用水晶合金制成的金柱。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vel'uuish Ornate Golden Pillar",
+    "value": "灵猫族金色饰柱"
+  }
+]

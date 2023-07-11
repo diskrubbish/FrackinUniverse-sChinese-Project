@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Poptop music not included.",
+    "value": "它可不会吹吐舌娃小曲儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poptop Mask",
+    "value": "吐舌娃面具"
+  }
+]

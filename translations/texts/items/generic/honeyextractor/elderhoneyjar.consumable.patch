@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Has the consistency of cat puke.\n^pink;Insanity ^cyan;Immunity ^gray;(^white;5m^gray;)^reset;",
+    "value": "如同猫的呕吐物般恶心。\n赋予^pink;精神错乱^cyan;免疫^gray;(^white;持续5m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Unknown Substance",
+    "value": "未知物质"
+  }
+]

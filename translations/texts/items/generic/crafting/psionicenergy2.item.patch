@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Infused with additional power.\n^blue;+^white;20 ^blue;Fuel^reset;",
+    "value": "灌注了额外的能量。\n^blue;燃料+^white;20^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Psi-2 Energy",
+    "value": "2级灵能"
+  }
+]

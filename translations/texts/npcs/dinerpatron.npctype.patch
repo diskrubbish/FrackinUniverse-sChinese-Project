@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/0",
+    "raw": "Don't worry, I'll take care of this",
+    "value": "不用担心，我会照顾好它的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/attack/default/default/1",
+    "raw": "What kind of monster is this!?",
+    "value": "这到底是个什么样的怪物！？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/join/default/default/0",
+    "raw": "Hello adventurer, mind if I join you?",
+    "value": "你好冒险家，介意我加入你们吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/join/default/default/1",
+    "raw": "You look strong. We're friends now.",
+    "value": "你看起来很强壮，现在你是我的朋友了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/0",
+    "raw": "Now that was a fight!",
+    "value": "战斗开始了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/1",
+    "raw": "Phew, you handle yourself quite well.",
+    "value": "不错，你处理的非常好。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/wait/default/default/0",
+    "raw": "I'll just wait here.",
+    "value": "我就在这里等着。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/0",
+    "raw": "You came back!",
+    "value": "你快回来！"
+  }
+]

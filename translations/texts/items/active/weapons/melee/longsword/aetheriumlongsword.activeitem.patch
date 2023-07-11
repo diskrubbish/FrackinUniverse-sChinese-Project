@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A weapon infused with the power of the cosmos.",
+    "value": "一把注入了宇宙之力的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Longsword",
+    "value": "阳清长剑"
+  }
+]

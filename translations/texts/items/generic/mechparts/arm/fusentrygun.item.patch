@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Launches a defensive turret. 10s reload.",
+    "value": "发射一个防御炮塔。装载时间10秒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sentry Gun Arm",
+    "value": "哨兵枪机械臂"
+  }
+]

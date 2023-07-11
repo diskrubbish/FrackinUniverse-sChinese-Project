@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A new style of textile.",
+    "value": "一种新的纺织风格。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poly-Thread Pants",
+    "value": "聚线裤子"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Plasterer Young Queen",
+    "value": "幼年的泥匠蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Plasterer Queen",
+    "value": "幼年泥匠蜂后"
+  }
+]

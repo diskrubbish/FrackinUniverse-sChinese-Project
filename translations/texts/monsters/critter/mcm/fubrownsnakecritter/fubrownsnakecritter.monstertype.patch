@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Brown Snake",
+    "value": "棕色蛇"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tiny venomous snake found in the woods and swamps.",
+    "value": "在森林和沼泽中发现的一种小型毒蛇。"
+  }
+]

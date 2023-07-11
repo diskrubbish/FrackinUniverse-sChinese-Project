@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dynast wood that has been prepared for building and crafting.",
+    "value": "为建筑与打造物品所准备的皇家木材。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dynast Timber",
+    "value": "皇家木材"
+  }
+]

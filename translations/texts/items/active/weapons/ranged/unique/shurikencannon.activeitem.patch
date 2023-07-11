@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I'm sure this will help make friends in a real hurry.",
+    "value": "我相信这将有助于迅速交到朋友。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shuriken Cannon",
+    "value": "手里剑步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Shuriken Trap",
+    "value": "手里剑陷阱"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Alien fruit jam. Sticky. ^green;Type: Fruit Dessert^reset;",
+    "value": "外星水果果酱。黏糊糊。\n^green;类型：水果甜食^reset;"
+  }
+]

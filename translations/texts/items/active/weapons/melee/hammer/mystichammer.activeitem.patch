@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "So mystic.",
+    "value": "太神秘了..."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mystichammer",
+    "value": "神必壬"
+  }
+]

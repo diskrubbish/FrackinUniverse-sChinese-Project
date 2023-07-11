@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rather large, gore-encrusted arm.\n^cyan;Meaty Death, Floran^reset;\n^yellow;Poisonous^reset;",
+    "value": "一只相当大的、被血包裹着的手臂。\n^yellow;血肉四溅，叶族^reset;\n^yellow;有毒的^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Meat Hammer",
+    "value": "肉锤"
+  }
+]

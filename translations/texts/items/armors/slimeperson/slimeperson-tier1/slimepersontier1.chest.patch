@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small gem made of slime which grants limited protection.",
+    "value": "一种用粘胶制成的小宝石，能提供有限的保护。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Slime Chest Protection Gem",
+    "value": "史莱姆护胸宝石"
+  }
+]

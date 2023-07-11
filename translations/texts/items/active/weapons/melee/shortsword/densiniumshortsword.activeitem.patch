@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Superior craftsmanship. Nearly unbreakable.",
+    "value": "高超的工艺。几乎牢不可破。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Densinium Shortsword",
+    "value": "超致密短剑"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Turtle mkI",
+    "value": "盾型 MK I"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Aggressively defends its creator.",
+    "value": "在激活后，将会四处巡逻，并主动攻击有敌意的生物。"
+  }
+]

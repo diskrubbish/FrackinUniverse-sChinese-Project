@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "When held, will weigh you down. Great to sink fast.",
+    "value": "当你拿着它时，你的重量急剧增加。你会快速下沉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pocket Anchor",
+    "value": "口袋锚"
+  }
+]

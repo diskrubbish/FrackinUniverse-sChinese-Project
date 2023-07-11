@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Emits dense shadow matter.\n^cyan;Breaks blocks^reset;",
+    "value": "发射致密的暗影物质。\n^cyan;能够破坏方块^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Effigium Striker",
+    "value": "幻影打击者"
+  }
+]

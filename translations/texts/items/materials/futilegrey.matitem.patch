@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A popular quality-focused flooring.",
+    "value": "流行的注重质量的地板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quality Plasteel (Plain)",
+    "value": "高质量塑钢(平纹)"
+  }
+]

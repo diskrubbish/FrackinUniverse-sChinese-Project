@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bulbop Hop",
+    "value": "弹跳波尔普"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Even more aggravating than the Bulbop.",
+    "value": "比波尔普更让人恼火。"
+  }
+]

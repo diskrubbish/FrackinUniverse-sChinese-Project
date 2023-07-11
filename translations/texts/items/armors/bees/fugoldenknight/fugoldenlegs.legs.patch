@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; ^green;Thorns^reset;\n^yellow;^reset; Bladed Melee: Damage x^green;1.1^reset;\n^yellow;^reset; ^cyan;Immune^reset;: Beestings, Honey",
+    "value": "^orange;套装奖励^reset;：\n^yellow;^reset; ^green;荆棘^reset;\n^yellow;^reset; 近战刀剑：伤害x^green;1.1^reset;\n^yellow;^reset; ^cyan;免疫^reset;：蜂蜇, 蜂蜜"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Amber Leg Plates",
+    "value": "琥珀腿甲"
+  }
+]

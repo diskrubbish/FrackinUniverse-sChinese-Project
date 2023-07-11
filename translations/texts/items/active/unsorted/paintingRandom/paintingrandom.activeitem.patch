@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Your imagination has conjured up this artistic piece.",
+    "value": "你的想象力生出了这件艺术作品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Painting",
+    "value": "绘画"
+  }
+]

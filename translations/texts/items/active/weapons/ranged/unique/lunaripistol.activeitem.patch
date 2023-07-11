@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Crystalline blasts charged with lunari energy.\n^yellow;Lights areas^reset;\n^green;Long-lived projectiles^reset;",
+    "value": "可以射出爆炸性月晶能量弹药。\n^yellow;照明^reset;\n^yellow;持久弹"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Pistol",
+    "value": "月晶手枪"
+  }
+]

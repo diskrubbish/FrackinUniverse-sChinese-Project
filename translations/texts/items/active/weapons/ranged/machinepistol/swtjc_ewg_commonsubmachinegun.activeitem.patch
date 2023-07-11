@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The power of an assault rifle in a compact one-handed package. Shame that it isn't anywhere nearly as accurate...",
+    "value": "射速非常快的单手武器，可惜不是很准……"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Common Submachine Gun",
+    "value": "普通的冲锋枪"
+  }
+]

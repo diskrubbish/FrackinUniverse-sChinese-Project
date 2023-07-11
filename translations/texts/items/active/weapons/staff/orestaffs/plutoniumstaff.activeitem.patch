@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A highly radioactive staff.",
+    "value": "一把高辐射的法杖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nuclear Staff",
+    "value": "核素法杖"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Radiation Bubble",
+    "value": "辐射泡泡"
+  }
+]

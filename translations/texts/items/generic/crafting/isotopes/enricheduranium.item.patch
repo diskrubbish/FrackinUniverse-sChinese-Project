@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An improved form of uranium.\n^blue;+^white;25 ^blue;Fuel^reset;",
+    "value": "铀的一种改良形态。\n^blue;燃料+^white;25^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;Enriched Uranium Rod^reset;",
+    "value": "^#88e25b;浓缩铀棒^reset;"
+  }
+]

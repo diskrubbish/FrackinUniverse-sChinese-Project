@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "Ninjas in the employ of Shogun Takeshi have kidnapped the Hylotl princess Koto! Are you a bad enough dude to rescue her?",
+    "value": "琴乃公主被幕府武士雇用的忍者绑架了，你能顺利救她回来吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Takeshi's Castle (3)",
+    "value": "武士府邸(3)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Takeshi's Castle (3) (R)",
+    "value": "重新挑战武士府邸(3)"
+  }
+]

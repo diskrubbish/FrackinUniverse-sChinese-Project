@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pro-level rod with long line length and fast reeling time. Also durable.",
+    "value": "钓鱼的最佳选择，耐用，收线快。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pro Fishing Rod",
+    "value": "高级鱼竿"
+  }
+]

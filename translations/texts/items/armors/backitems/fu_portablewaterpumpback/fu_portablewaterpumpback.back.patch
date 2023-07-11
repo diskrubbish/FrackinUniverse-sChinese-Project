@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A water pump that can be worn on your back.",
+    "value": "一种随时收集环境中液体的便携式水泵，它会持续地在你的背包里生产水。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Portable Water Pump",
+    "value": "便携式水泵"
+  }
+]

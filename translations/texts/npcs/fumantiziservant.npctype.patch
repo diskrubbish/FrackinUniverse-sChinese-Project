@@ -1,0 +1,98 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/default/default/0",
+    "raw": "You oughta speak to the Consul, I gotta clean the whole flingin' house 'fore I get to eat.",
+    "value": "你应该跟执政官说说，我得把整个房子打扫干净才能吃东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/default/default/1",
+    "raw": "Wotcher, chum. I oughta get off just afore moonspeak if yous wants to chinwag then.",
+    "value": "你好，朋友。我应该在月语前离开，如果你想唠叨。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/default/default/2",
+    "raw": "The Consul what lives here might call us lot servants, but I don't feel a midge freer than no Apex.",
+    "value": "住在这里的执政官可能会称我们为仆人，但我不觉得比没有老大猿更自由。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/default/default/3",
+    "raw": "Hail, mate. I hope things are goin' better for you lot than it is for us.",
+    "value": "你好，伙计。我希望你们的情况比我们好。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/fumantizi/default/0",
+    "raw": "You oughta speak to the Consul, I gotta clean the whole flingin' house 'fore I get to eat.",
+    "value": "你应该跟执政官说说，我得把整个房子打扫干净才能吃东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/fumantizi/default/1",
+    "raw": "Wotcher, chum. I oughta get off just afore moonspeak if yous wants to chinwag then.",
+    "value": "你好，朋友。我应该在月语前离开，如果你想唠叨。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/fumantizi/default/2",
+    "raw": "The Consul what lives here might call us lot servants, but I don't feel a midge freer than no Apex.",
+    "value": "住在这里的执政官可能会称我们为仆人，但我不觉得比没有老大猿更自由。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/greeting/fumantizi/default/3",
+    "raw": "Hail, mate. I hope things are goin' better for you lot than it is for us.",
+    "value": "你好，伙计。我希望你们的情况比我们好。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "raw": "You oughta speak to the Consul, I gotta clean the whole flingin' house 'fore I get to eat.",
+    "value": "你应该跟执政官说说，我得把整个房子打扫干净才能吃东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/1",
+    "raw": "Wotcher, chum. I oughta get off just afore moonspeak if yous wants to chinwag then.",
+    "value": "你好，朋友。我应该在月语前离开，如果你想唠叨。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/2",
+    "raw": "The Consul what lives here might call us lot servants, but I don't feel a midge freer than no Apex.",
+    "value": "住在这里的执政官可能会称我们为仆人，但我不觉得比没有老大猿更自由。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/3",
+    "raw": "Hail, mate. I hope things are goin' better for you lot than it is for us.",
+    "value": "你好，伙计。我希望你们的情况比我们好。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fumantizi/default/0",
+    "raw": "You oughta speak to the Consul, I gotta clean the whole flingin' house 'fore I get to eat.",
+    "value": "你应该跟执政官说说，我得把整个房子打扫干净才能吃东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fumantizi/default/1",
+    "raw": "Wotcher, chum. I oughta get off just afore moonpeak if you wants to chinwag then.",
+    "value": "你好，朋友。我应该在月峰之前离开，如果你想在那时候打招呼的话。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fumantizi/default/2",
+    "raw": "The Consul what lives here might call us lot servants, but I don't feel a midge freer than no Apex.",
+    "value": "住在这里的执政官可能会称我们为仆人，但我不觉得比没有老大猿更自由。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/fumantizi/default/3",
+    "raw": "Hail, mate. I hope things are goin' better for you lot than it is for us.",
+    "value": "你好，伙计。我希望你们的情况比我们好。"
+  }
+]

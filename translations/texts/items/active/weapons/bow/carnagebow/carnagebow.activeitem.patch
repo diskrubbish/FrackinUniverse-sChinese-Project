@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires homing arrows.",
+    "value": "发射追踪箭头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carnage Bow",
+    "value": "屠戮之弓"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Power Arrow",
+    "value": "力之箭矢"
+  }
+]

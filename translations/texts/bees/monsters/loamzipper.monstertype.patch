@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Loamzipper Bee",
+    "value": "拨土蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A loamzipper bee.",
+    "value": "一只拨土蜜蜂。"
+  }
+]

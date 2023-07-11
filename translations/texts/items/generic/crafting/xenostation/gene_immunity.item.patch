@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Immune to specific effects.",
+    "value": "免疫某些特定的特殊效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Immunization",
+    "value": "免疫基因"
+  }
+]

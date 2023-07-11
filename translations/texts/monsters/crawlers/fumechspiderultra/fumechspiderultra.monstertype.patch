@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spider Servitor",
+    "value": "蛛型仆从"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ready to annihilate.",
+    "value": "随时准备歼灭。"
+  }
+]

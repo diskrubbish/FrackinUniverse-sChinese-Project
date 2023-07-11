@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Robot Hen",
+    "value": "电子鸡"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Robotic Hen, which lays AA batteries.",
+    "value": "能下AA电池组的机械鸡，只因你太美。"
+  }
+]

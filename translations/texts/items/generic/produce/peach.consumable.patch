@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fresh, juicy peach, ripe for baking or consuming with my face! ^green;Type: Fruit^reset;",
+    "value": "一个新鲜的、多汁的桃子，烤一烤，尝一尝。\n^green;类型：植物^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Peach",
+    "value": "桃子"
+  }
+]

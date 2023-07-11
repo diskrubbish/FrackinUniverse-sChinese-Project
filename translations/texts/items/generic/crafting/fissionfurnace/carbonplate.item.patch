@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Carbon plating can be used for armor or other goods.",
+    "value": "碳板可用于制作盔甲或其他物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Plate",
+    "value": "碳板"
+  }
+]

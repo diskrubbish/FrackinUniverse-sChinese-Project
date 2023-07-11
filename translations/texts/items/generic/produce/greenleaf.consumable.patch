@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+20% E. Regen & -10% E. Regen Block^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;+20%能量恢复& -10%能量重充能时间^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Greenleaf Herb",
+    "value": "绿叶草"
+  }
+]

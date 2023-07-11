@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Has built-in snack holders, television and air conditioning.",
+    "value": "内置小吃架，电视和空调。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chucklefish Mask",
+    "value": "呵呵鱼面具"
+  }
+]

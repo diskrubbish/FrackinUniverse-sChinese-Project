@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dangerous, but inaccurate.",
+    "value": "危险，但准度不高。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron LMG",
+    "value": "铁制轻机枪"
+  }
+]

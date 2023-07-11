@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Exceptionally powerful.\n^yellow;Alt-Fire slows enemies^reset;\n^green;+Sustained Fire^reset;\n^red;-Slowed^reset;",
+    "value": "异常强大的武器。\n^yellow;次要攻击会减缓敌人的行动^reset;\n^yellow;持续性火焰^reset;\n^red;缓速^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Imperius Minigun",
+    "value": "残害者迷你机枪"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Stun Shot",
+    "value": "感电射击"
+  }
+]

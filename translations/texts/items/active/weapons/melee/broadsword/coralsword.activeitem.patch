@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Massively dangerous. Do not touch.\n^cyan;Inflicts Poison^reset;",
+    "value": "太危险了，千万不要触摸它的锋刃。\n^cyan;附加中毒效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coral Broadsword",
+    "value": "珊瑚宽剑"
+  }
+]

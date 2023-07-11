@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A powerful sniper rifle.\n^yellow;Homing bullet^reset;",
+    "value": "一把强大的狙击步枪。\n^yellow;追踪弹^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carvelle Sniper Rifle",
+    "value": "凯路威狙击步枪"
+  }
+]

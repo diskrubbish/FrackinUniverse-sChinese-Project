@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Proper Cult Wear - Torso",
+    "value": "信徒真正的服饰 - 上衣"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A cultists guide to torso-pants",
+    "value": "关于信徒服饰的获取指南"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "No self-respecting cultist is without his robe. To make your upper garment, you must place seven Nocxium Bars, a Rune Wand and an Elder Fragment upon the altar and recite the incantation of Horvalaatsh.",
+    "value": "没有一位自我感觉良好的的教徒是没有长袍的。要制作属于你的上衣，你需要将柒个诺克石锭、壹根密文魔杖和壹卷远古残卷放入祭坛，然后颂唱Horvalaatsh的咒文。"
+  }
+]

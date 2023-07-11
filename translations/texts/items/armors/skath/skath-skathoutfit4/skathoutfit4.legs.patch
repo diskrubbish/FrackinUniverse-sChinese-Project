@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These stretch to fit anyone, of any weight!",
+    "value": "这条弹性十足的裤子适合任何体重的任何人！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skathian Stretchy Pants",
+    "value": "绘世者弹力裤"
+  }
+]

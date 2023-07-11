@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The rocks are very real, and still very sharp. We suggest you don't leave this lying around!",
+    "value": "这些岩石非常真实，但仍然非常锋利。我们建议你不要把这东西到处丢！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crustoise Mask",
+    "value": "岩壳刺蝟面具"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a mechanic to ^cyan;reduce ship mass by 20%^reset; and fuel costs by 10%. Also provides special coffee.",
+    "value": "雇用一名机械师，他能^cyan;降低10％的飞船燃料消耗^reset;，并减少20％的飞船质量。除此之外还会提供特殊的咖啡。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mechanic Contract",
+    "value": "合同：机械师"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A deadly mix of plant and machine.\n^yellow;Inflicts poison, ^cyan;Floran^reset;\n^#e43774;6-round microbursts (x6 dmg)^reset;",
+    "value": "植物和机器的致命结合。\n^yellow;附加中毒效果，^cyan;叶族^reset;;\n^#e43774;6发微爆弹(x6伤害)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Verdant Carbine",
+    "value": "苍翠步枪"
+  }
+]

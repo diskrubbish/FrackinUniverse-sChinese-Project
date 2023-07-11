@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Honed to utter perfection.",
+    "value": "被打磨得完美无瑕。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Master's Rapier",
+    "value": "宗师刺剑"
+  }
+]

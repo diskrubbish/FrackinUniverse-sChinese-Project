@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune^reset;: Poison: 2m",
+    "value": "^yellow;^reset;^cyan;免疫^reset;: 中毒: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spongeweed Slice",
+    "value": "海绵草"
+  }
+]

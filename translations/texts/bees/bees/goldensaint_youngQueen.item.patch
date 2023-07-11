@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Golden Saint Young Queen",
+    "value": "幼年的圣金蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Golden Saint Queen",
+    "value": "幼年圣金蜂后"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Heavy, fur and leather robes to keep your legs warm.",
+    "value": "厚重的皮质长袍保暖你的双腿。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Taiga Robe",
+    "value": "针叶长袍"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Garflipp",
+    "value": "加布林"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Unusually delicious, harmless, and able to calm the mind.",
+    "value": "异乎寻常的美味，无害，并能平静心灵。"
+  }
+]

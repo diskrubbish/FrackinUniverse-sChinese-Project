@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hunter Pteropod",
+    "value": "游猎的飞翼豆荚"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Able to super-charge itself to spew micro plasma blasts.",
+    "value": "能够对自身进行超级充电以喷射微等离子体冲击。"
+  }
+]

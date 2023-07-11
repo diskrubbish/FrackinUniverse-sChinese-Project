@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Monkey",
+    "value": "猴子"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tiny diurnal mammal. It spends its time in the trees searching for food.",
+    "value": "一种日行小型哺乳动物。会花时间在树上寻找食物。"
+  }
+]

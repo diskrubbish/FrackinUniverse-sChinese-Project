@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mascagnite is a mineral abundant in Ammonium Sulfate, which can be extracted.",
+    "value": "铵矾是一种矿产丰富的硫酸铵来源，可以提取。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mascagnite",
+    "value": "铵矾"
+  }
+]

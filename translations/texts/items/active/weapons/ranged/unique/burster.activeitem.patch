@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A basic but dangerous weapon.\n^green;Explosive^reset;",
+    "value": "一把非常基础，但却危险的武器。\n^yellow;爆炸^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blast Buddy",
+    "value": "爆炸伙伴"
+  }
+]

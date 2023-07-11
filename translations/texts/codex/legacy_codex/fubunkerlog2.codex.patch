@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "USCM Personnel Log #54126",
+    "value": "USCM员工日志 #54126"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "USCM Personnel Log #54126",
+    "value": "USCM员工日志 #54126"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "Received communication for the first time in years. Wasn't Earth, but someone claiming to be a Hylotl, saying they were outside our door and it was really cold outside. Not falling for that one. Ignored it.",
+    "value": "多年来第一次收到来报。不是地球，而是一个自称是鲛人的人，说他们在我们的门外，外面真的很冷。我不会上当的。忽视它。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "raw": "Still confused how they knew our transmission frequency.",
+    "value": "还是不明白他们怎么知道我们的传输频率。"
+  }
+]

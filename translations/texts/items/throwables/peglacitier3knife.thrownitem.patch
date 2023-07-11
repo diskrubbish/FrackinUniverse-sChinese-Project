@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ricoshave",
+    "value": "正义剃刀"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The gyroscopically stable blade can be banked off walls.",
+    "value": "回转稳定的叶片，可以在墙壁上倾斜反弹。"
+  }
+]

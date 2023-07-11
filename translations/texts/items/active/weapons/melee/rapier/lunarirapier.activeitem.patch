@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Purified crystalline stabber.",
+    "value": "精制的水晶锥刺。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Rapier",
+    "value": "月晶刺剑"
+  }
+]

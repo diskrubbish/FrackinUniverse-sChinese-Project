@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange language is carved around the edge of this disk, whispering into your mind.",
+    "value": "圆盘的边缘刻着奇怪的语言，在你的脑海里低语。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Odd Glyph",
+    "value": "奇异雕文"
+  }
+]

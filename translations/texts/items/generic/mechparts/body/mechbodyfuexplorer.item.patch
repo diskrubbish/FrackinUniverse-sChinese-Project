@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Immune^reset;: Acid, Proto, Mild Heat/Cold/Radiation/Poison",
+    "value": "^cyan;免疫^reset;：酸蚀，轻度寒冷/辐射/毒素/炎热"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Explorer Mech Body",
+    "value": "探索者机甲躯体 I"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Harnessed chaos, ready to poke your friends.\n^cyan;Hunting weapon^reset;",
+    "value": "利用混乱，准备好去痛戳你的队友。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Spear",
+    "value": "阳清矛"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Aether Blast",
+    "value": "以太爆裂"
+  }
+]

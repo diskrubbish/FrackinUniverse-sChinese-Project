@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Positively marvellous, darling!\n^green;+20%^reset; Charisma (Trading)",
+    "value": "亲爱的，这可真是惊人！\n^green;魅力+20%(交易)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Charm Necklace",
+    "value": "魅力项链"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Charm Necklace",
+    "value": "魅力项链"
+  }
+]

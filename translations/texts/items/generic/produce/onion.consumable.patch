@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^Cyan;Heal in Light 250.2-252.5% HP^reset;: 5m",
+    "value": "^yellow;^reset;^cyan;光照下回复250.2-252.5% HP^reset;: 5m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gurn Onion",
+    "value": "胶洋葱"
+  }
+]

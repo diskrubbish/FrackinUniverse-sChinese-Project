@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A common choice of Thelusian protection.\n+^green;5^reset;% Ice Resist",
+    "value": "蚁族防具的常见选择。\n+^green;5^reset;% 寒气抗性"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Helm",
+    "value": "蚁族头盔"
+  }
+]

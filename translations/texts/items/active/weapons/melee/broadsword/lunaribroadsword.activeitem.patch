@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shining with crystalline menace.",
+    "value": "闪耀着水晶般的威胁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Broadsword",
+    "value": "月晶阔剑"
+  }
+]

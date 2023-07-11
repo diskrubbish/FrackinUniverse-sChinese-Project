@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This blade is crafted after a weapon wielded by a hero of legend.",
+    "value": "这把刀刃的原型是一名传说中的英雄所使用的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metal Shortsword",
+    "value": "金属短剑"
+  }
+]

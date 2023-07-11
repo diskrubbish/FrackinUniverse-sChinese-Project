@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rough volcanic rock.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "一块粗糙的火山岩。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Andesite",
+    "value": "安山岩"
+  }
+]

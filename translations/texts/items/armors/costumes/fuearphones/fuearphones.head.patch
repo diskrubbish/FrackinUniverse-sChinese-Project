@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Listen in style. Perfect for Floyd.",
+    "value": "聆听世界的声音。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hi-Fi Earphones",
+    "value": "HI-FI 耳机"
+  }
+]

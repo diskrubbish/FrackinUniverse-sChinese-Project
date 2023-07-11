@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "The Shadow will consume all!",
+    "value": "黑暗将会吞噬一切！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "raw": "I'll melt your face off!",
+    "value": "看我烧焦你的脸！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "raw": "The Corruption spreads!",
+    "value": "腐化正在蔓延！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/3",
+    "raw": "Speak the shadow words of pain!",
+    "value": "露出你心中的阴暗面吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/4",
+    "raw": "Nothing...everything!",
+    "value": "这里...什么...都没有！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/5",
+    "raw": "No more tears. Only darkness.",
+    "value": "止住软弱的眼泪，这里只有无尽黑暗。"
+  }
+]

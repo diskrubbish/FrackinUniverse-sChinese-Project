@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Melts walls and flesh with microwaves.",
+    "value": "用微波熔化坚壁和血肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Melta Arm",
+    "value": "熔化机械臂"
+  }
+]

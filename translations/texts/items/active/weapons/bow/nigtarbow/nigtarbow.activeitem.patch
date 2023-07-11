@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Specially constructed arrows damage all elements equally, but still work for hunting.",
+    "value": "特制的箭头对所有元素造成的伤害相等，视为狩猎弓使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Brightsteel Bow",
+    "value": "亮钢猎弓"
+  }
+]

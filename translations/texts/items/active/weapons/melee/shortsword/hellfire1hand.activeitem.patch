@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Burns with volcanic rage.",
+    "value": "来自地狱的愤怒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hellfire Knife",
+    "value": "地狱火短刀"
+  }
+]

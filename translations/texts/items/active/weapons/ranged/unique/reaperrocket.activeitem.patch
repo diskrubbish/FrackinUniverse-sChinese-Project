@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Enormous damage potential.",
+    "value": "可造成巨大的伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tk-72 Janus",
+    "value": "Tk-72 雅努斯"
+  }
+]

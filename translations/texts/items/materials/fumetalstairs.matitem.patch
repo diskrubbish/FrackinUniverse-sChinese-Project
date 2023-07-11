@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Compressed Steel Stairs",
+    "value": "压缩钢楼梯"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fantastically durable staircase.",
+    "value": "梦幻般的耐用楼梯。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "God-like power to reshape matter.",
+    "value": "藉由造物主之力，重塑世间万物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#b84cbc;Master Manipulator^reset;",
+    "value": "^#b84cbc;始源物质枪^reset;"
+  }
+]

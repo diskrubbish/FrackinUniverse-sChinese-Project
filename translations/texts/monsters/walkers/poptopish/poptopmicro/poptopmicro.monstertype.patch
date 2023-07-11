@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Topling",
+    "value": "推推宝"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A baby Poptop. Adorable.",
+    "value": "一只婴儿吐舌娃。真可爱。"
+  }
+]

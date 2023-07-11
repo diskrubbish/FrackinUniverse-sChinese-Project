@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A screen displaying text in the Skath language.",
+    "value": "用绘世者语言显示文本的屏幕。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Energy Screen",
+    "value": "绘世者能量屏"
+  }
+]

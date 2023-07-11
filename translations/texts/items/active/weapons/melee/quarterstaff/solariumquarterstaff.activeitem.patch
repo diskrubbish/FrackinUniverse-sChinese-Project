@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Glowy and full of radiation.",
+    "value": "炽热的棍身，其内充满了放射性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Solarium Quarterstaff",
+    "value": "日耀长棍"
+  }
+]

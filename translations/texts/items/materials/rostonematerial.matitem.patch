@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rough, unrefined rostone.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "未经加工的人造石头。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rostone",
+    "value": "人造石头"
+  }
+]

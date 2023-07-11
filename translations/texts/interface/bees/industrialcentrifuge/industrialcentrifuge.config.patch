@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/clear/caption",
+    "raw": "Take all",
+    "value": "全部拾取"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/dragDrop/value",
+    "raw": "Drag & Drop",
+    "value": "拖入 & 取出"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/countinput/value",
+    "raw": "Input",
+    "value": "输入"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/countoutput/value",
+    "raw": "Items",
+    "value": "项目"
+  }
+]

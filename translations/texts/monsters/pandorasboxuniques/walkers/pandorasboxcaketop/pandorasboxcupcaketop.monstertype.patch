@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cupcaketop",
+    "value": "纸杯蛋糕娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cupcaketops rarely stray from their mother. They can only produce cupcakes at this age.",
+    "value": "纸杯蛋糕很少跟随他们的母亲流浪。他们只能在这个年龄段生产纸杯蛋糕。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alien Soil",
+    "value": "异星土块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strange soil with an almost neon glow.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "一种发出霓虹辉光的奇怪土壤。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  }
+]

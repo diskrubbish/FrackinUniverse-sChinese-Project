@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avian Red Metal Trim",
+    "value": "翼族红色金属饰件"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Red metal trim using Avian technology.",
+    "value": "使用翼族技术的红色金属装饰。"
+  }
+]

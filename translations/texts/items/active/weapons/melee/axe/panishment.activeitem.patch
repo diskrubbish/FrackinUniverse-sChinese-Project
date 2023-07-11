@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Skillet technology will never surpass cast iron.",
+    "value": "长柄煎锅的技术永远比不上铸铁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Panishment",
+    "value": "惩罚"
+  }
+]

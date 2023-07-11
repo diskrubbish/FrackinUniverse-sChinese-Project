@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bright crystal-made light for your mech. Drains energy. Can be toggled by the horn button.",
+    "value": "一盏安装在机甲上的明亮水晶灯。消耗能量。可通过喇叭按钮进行开关。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shining Module",
+    "value": "闪亮模块"
+  }
+]

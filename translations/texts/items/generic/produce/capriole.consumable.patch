@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+50% Jump^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;+50%跳跃高度^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Capriole Flower",
+    "value": "跳跃花"
+  }
+]

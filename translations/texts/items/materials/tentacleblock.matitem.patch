@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mass of wriggling tentacles.\n^green;Extractable^reset;.",
+    "value": "一团蠕动的触手。\n^green;可萃取^reset;。"
+  }
+]

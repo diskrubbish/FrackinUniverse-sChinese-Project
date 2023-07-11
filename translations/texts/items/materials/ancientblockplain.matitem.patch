@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These plain bricks have certainly survived the test of time.",
+    "value": "这些普通的砖确实经受住了时间的考验。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ancient Plain Block",
+    "value": "古代简朴石块"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A heavier sort of rapier. Nastily sharp along both edges.",
+    "value": "一把较为沉重的刺剑，两侧的剑刃不洁般的锋利。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Scarlet Empress",
+    "value": "猩红女皇"
+  }
+]

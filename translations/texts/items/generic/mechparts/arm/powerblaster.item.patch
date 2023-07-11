@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spews out numerous power shards.",
+    "value": "喷射出无数的能量碎片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shard Blaster Arm",
+    "value": "碎片喷射臂"
+  }
+]

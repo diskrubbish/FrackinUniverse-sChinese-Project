@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mushtop",
+    "value": "菇舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mushtops still sing even after becoming infested with fungal matter.",
+    "value": "即使真菌大量滋生在菇舌娃身上，它们还是会唱歌。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Infused with moon-laced hate.",
+    "value": "充满了月亮的仇恨。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Hammer",
+    "value": "月海锤"
+  }
+]

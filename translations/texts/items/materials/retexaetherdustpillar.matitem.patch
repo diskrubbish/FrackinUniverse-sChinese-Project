@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dreamy beige pillar.",
+    "value": "一根梦幻般的米色柱子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aether Dust Pillar",
+    "value": "以太尘支柱"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Beige pillars.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Columnssss.",
+    "value": "柱柱柱子。"
+  }
+]

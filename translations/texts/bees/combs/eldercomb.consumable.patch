@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Laced with unusual chemicals. Extremely psychotropic.",
+    "value": "含有不寻常的化学物质，究极的精神药物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rotcomb",
+    "value": "腐巢"
+  }
+]

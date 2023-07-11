@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rather fast and poisonous sword.",
+    "value": "一把快且有毒的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Greenedge",
+    "value": "绿锋"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Deal absurd damage, and carve a hole in space-time.",
+    "value": "造成荒谬的破坏，在时空中开凿一个洞。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cosmic Greataxe",
+    "value": "宇宙巨斧"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bloody, raw chunks of meat. Great for carnivores. ^red;Type: Raw Meat^reset;",
+    "value": "血腥的生肉块，对肉食生物来说很棒。\n^red;类型：生肉食^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Meaty Kibble",
+    "value": "肉质食物"
+  }
+]

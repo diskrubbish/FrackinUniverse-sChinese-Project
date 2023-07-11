@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stone covered in moss.\n^green;Extractable^reset;.",
+    "value": "一块覆盖着苔藓的石头。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mossy Stone",
+    "value": "长满青苔的石头"
+  }
+]

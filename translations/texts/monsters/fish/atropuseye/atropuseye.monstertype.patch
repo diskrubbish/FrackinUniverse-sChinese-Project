@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Atropal Eye",
+    "value": "肉源之眼"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Spawned from some other creature.",
+    "value": "由其他生物繁衍而来。"
+  }
+]

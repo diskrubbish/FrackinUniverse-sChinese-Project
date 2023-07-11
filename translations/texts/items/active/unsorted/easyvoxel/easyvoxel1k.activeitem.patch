@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "1000 pixels compressed into a voxel. Now with easy decompress.",
+    "value": "将1000像素压缩为方块。现在可以轻松解压缩。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "1k Voxel (EZ)",
+    "value": "1k像素块(简易)"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Well, this is super-fun!\n^cyan;Hunting weapon^reset;",
+    "value": "好吧，这真有趣！\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flightfire",
+    "value": "飞火"
+  }
+]

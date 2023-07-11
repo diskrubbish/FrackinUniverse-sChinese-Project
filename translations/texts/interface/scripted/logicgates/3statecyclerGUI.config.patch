@@ -1,0 +1,86 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": " 3-State Cycler",
+    "value": " 三态循环仪"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": " Configure timers here.",
+    "value": " 在这里配置计时器。"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/labelLeft/value",
+    "raw": "First",
+    "value": "输出节点1"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/labelMid/value",
+    "raw": "Second",
+    "value": "输出节点2"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/labelRight/value",
+    "raw": "Third",
+    "value": "输出节点3"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/labelReset/value",
+    "raw": "^black;Reset",
+    "value": "^black;重置"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/labelSave/value",
+    "raw": "^black;Save",
+    "value": "^black;保存"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/labelLoad/value",
+    "raw": "^black;Load",
+    "value": "^black;加载"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/inputLeft/regex",
+    "raw": "\\d{0,3}",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/inputLeft/hint",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/inputMid/regex",
+    "raw": "\\d{0,3}",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/inputMid/hint",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/inputRight/regex",
+    "raw": "\\d{0,3}",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/inputRight/hint",
+    "raw": "---",
+    "value": ""
+  }
+]

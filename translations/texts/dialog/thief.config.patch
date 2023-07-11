@@ -1,0 +1,56 @@
+[
+  {
+    "op": "replace",
+    "path": "/accuse/skath/default/0",
+    "raw": "We'll have none of that, you hear?!",
+    "value": "我们不要这些，听到了吗？！"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/skath/default/1",
+    "raw": "These Items do not belong to you!",
+    "value": "这些物品不属于你！"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/skath/default/2",
+    "raw": "Stop your thievery at once!",
+    "value": "马上停止你的偷窃行为！"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/skath/default/3",
+    "raw": "I will pretend I haven't seen that but you must stop!",
+    "value": "我会假装我没有看到，但你必须停下！"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/skath/default/4",
+    "raw": "Put this back at once! This is not yours!",
+    "value": "马上把这个放回去！这不是你的！"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/skath/default/0",
+    "raw": "Alert the Guards! We have a thief around here!",
+    "value": "警卫！我们这里有小偷！"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/skath/default/1",
+    "raw": "Guards! Stop that thief!",
+    "value": "卫兵！抓住那个小偷！"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/skath/default/2",
+    "raw": "The Vanguard will strike you down for your nasty deeds! Guards!",
+    "value": "先锋会因为你的恶行把你打倒的！卫兵！"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/skath/default/3",
+    "raw": "Guards, arrest this thief!",
+    "value": "卫兵，抓住这个小偷！"
+  }
+]

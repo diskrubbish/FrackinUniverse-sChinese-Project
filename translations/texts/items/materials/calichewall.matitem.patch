@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Caliche Stone",
+    "value": "生硝石"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rich in iodine.\n^green;Extractable^reset;.",
+    "value": "富含碘。\n^green;可萃取^reset;。"
+  }
+]

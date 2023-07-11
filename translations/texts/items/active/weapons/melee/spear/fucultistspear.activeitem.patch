@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Share it with friends for bonus eyeballs.\n^cyan;Inflicts bleeding\n^cyan;Hunting weapon^reset;",
+    "value": "与朋友分享它，来吸引眼球。\n^cyan;造成流血\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cultist Spear",
+    "value": "异教长矛"
+  }
+]

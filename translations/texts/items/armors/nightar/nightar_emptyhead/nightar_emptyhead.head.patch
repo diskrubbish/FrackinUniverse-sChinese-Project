@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Show your glorious hair!",
+    "value": "展示你那光荣的头发吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Empty head slot",
+    "value": "空头盔"
+  }
+]

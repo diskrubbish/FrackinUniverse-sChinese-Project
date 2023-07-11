@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Exspiravit Queen",
+    "value": "幻灵蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exspiravit Queen",
+    "value": "幻灵蜂后"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sealed crate of 'asking for trouble', valuable for the wrong kinds of people.",
+    "value": "一个密封的箱子，上面写着'自找麻烦'，对那些不正常的人似乎很有价值。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Contraband",
+    "value": "违禁品箱"
+  }
+]

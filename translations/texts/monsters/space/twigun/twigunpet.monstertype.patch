@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Twigun",
+    "value": "双子枪"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A mass-produced autonomous defense turret. It tries very hard not to miss.",
+    "value": "大批量生产的自主防御炮塔。它非常努力地让自己弹无虚发。"
+  }
+]

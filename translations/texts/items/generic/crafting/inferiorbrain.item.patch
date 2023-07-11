@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A waste of brain cells.",
+    "value": "对脑细胞的一种亵渎。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Inferior Brain",
+    "value": "劣质大脑"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Immune^reset;: Extreme Cold/Poison, Extreme Radiation, Desert/Tropical Heat, L.Nitro",
+    "value": "^cyan;免疫^reset;: 极端寒冷/毒素, 极端辐射, 沙漠/热带炎热, 液氮"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Erchibud Baby",
+    "value": "Erchibud幼崽"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A newborn erchibud! It'll eat moondust and other lunar items.",
+    "value": "一只刚出生的Erchibud！它会吃月尘和其他来自月球的东西。"
+  }
+]

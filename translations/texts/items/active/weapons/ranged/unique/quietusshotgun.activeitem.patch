@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A unique flavor of bioweapon that avoids violations of intergalactic law.\n^cyan;Targets cannot heal when hit^reset;",
+    "value": "一把独特的生物武器，可以避免违反星际法。\n^cyan;被击中的目标无法治疗。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quietus Shotgun",
+    "value": "寂灭霰弹枪"
+  }
+]

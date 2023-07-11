@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sturdy, and keeps a keen edge.\n^cyan;Inflicts bleeding^reset;",
+    "value": "尖锐，表面非常锋利。\n^cyan;造成出血^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Knife",
+    "value": "碳制匕首"
+  }
+]

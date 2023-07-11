@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Orbis",
+    "value": "球形机器"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A robotic Orbis, which regularly regurgitates spare parts.",
+    "value": "球形的机械生命，它会定期产出备用零件。"
+  }
+]

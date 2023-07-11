@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; ^cyan;Thorns^reset;\n^yellow;^reset; Fist: Damage x^green;1.2^reset;, +^green;20^reset;% Knockback\n^yellow;^reset; ^cyan;Immune^reset;: Sandstorms, Liq. Nitrogen, Proto-Poison",
+    "value": "^orange;套装奖励^reset;：\n^yellow;^reset; ^cyan;荆棘^reset;\n^yellow;^reset; 拳头: 伤害x^green;1.2^reset;, +^green;20^reset;% 击退抗性\n^yellow;^reset; ^cyan;免疫^reset;: 沙尘暴, 液氮, 原毒"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gladiator Hardsuit",
+    "value": "角斗士胸甲"
+  }
+]

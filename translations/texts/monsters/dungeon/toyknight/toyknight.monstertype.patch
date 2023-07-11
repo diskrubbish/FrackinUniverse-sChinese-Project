@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toy Knight",
+    "value": "玩具骑士"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tiny knight animated by sorcery.",
+    "value": "一个由巫术操控的小小骑士。"
+  }
+]

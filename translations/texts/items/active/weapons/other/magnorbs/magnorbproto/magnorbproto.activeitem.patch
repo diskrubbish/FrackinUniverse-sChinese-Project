@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This unusual weapon is quite dangerous. ^cyan;Counts as 'energy' weapon^reset;",
+    "value": "这把不寻常的武器相当危险。\n^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tauntra Orbs",
+    "value": "危险制造者"
+  }
+]

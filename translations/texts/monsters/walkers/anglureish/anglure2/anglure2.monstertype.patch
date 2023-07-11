@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rotting Anglure",
+    "value": "腐坏昂格鲁尔"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This type of anglure spews noxious gore. Charming.",
+    "value": "这类昂格鲁尔会喷出有害的血液。真迷人。"
+  }
+]

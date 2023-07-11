@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/levelLabelTitle/value",
+    "raw": "Tier",
+    "value": "等级"
+  },
+  {
+    "op": "replace",
+    "path": "/healthTitleLabel/value",
+    "raw": "Shield Health:",
+    "value": "盾牌耐久："
+  },
+  {
+    "op": "replace",
+    "path": "/shieldBashTitleLabel/value",
+    "raw": "Bash Bonus:",
+    "value": "盾牌反伤："
+  },
+  {
+    "op": "replace",
+    "path": "/blockTitleLabel/value",
+    "raw": "Perfect Block Time:",
+    "value": "完美格挡时间："
+  },
+  {
+    "op": "replace",
+    "path": "/stamTitleLabel/value",
+    "raw": "Shield Regen Bonus:",
+    "value": "盾牌耐久恢复速度："
+  },
+  {
+    "op": "replace",
+    "path": "/hp2Label/value",
+    "raw": "%",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/energy2Label/value",
+    "raw": "%",
+    "value": ""
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Globber",
+    "value": "发光宝"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "What the hell is this thing?!?!",
+    "value": "这是什么鬼？"
+  }
+]

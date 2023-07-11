@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Disabler",
+    "value": "阻塞器"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Freezes the target's skin, stopping them in their tracks and sapping their heat.",
+    "value": "冻结目标的皮肤，阻挡他们的脚步，消耗他们的热量。"
+  }
+]

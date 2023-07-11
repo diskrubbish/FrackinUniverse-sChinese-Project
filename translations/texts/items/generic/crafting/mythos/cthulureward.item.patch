@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange, unknowably ancient artifact.",
+    "value": "一个陌生的、不可知的上古神器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Elder Artifact^reset;",
+    "value": "^#ffe50e;远古遗物^reset;"
+  }
+]

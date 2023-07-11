@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A durasteel spear. Among the finest.\n^cyan;Hunting weapon^reset;",
+    "value": "一把相当精美的耐钢矛。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Durasteel Spear",
+    "value": "耐钢矛"
+  }
+]

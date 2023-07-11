@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Finely polished silver modular tile.",
+    "value": "精心打磨的银色模块瓷砖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightarian Silver Plating",
+    "value": "夜族银电镀"
+  }
+]

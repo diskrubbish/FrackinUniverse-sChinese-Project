@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Contained lunar energy. Fun for tossing.",
+    "value": "含有月球的能量，投掷起来将会非常有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Boomerang",
+    "value": "月海回旋镖"
+  }
+]

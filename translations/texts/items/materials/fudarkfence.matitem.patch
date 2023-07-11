@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy wooden fence.",
+    "value": "结实的木栅栏。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dark Wooden Fence",
+    "value": "黑色木栅栏"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Pleased. This wooden fence is quite sturdy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssturdy fence.",
+    "value": "结结结实的栅栏。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Nothin' like a sturdy wooden fence.",
+    "value": "没什么，就是个结实的木头栅栏。"
+  }
+]

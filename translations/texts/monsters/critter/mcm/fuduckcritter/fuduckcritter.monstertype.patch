@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Duck",
+    "value": "鸭子"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small water bird. It has a long neck and powerful legs meant for swimming and diving.",
+    "value": "一种小型水鸟。长长的脖子和强有力的腿，让它们适合游泳和潜水。"
+  }
+]

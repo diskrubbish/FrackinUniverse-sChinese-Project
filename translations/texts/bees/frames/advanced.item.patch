@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Advanced frame for an apiary.\n<beeData>",
+    "value": "高级蜂房框巢。\n<beeData>"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Advanced Frame",
+    "value": "高级框巢"
+  }
+]

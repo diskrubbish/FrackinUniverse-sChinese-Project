@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The cosmos right at your side.\n^cyan;Cosmic blasts^reset;",
+    "value": "宇宙就在你身边。\n^cyan;射线冲击^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Pistol",
+    "value": "赛德瑞瑟手枪"
+  }
+]

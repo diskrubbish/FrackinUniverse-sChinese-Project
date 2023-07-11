@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ornate wood that has been prepared for building and crafting.",
+    "value": "为建筑与打造物品所准备的华丽木材。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ornate Timber",
+    "value": "华丽木材"
+  }
+]

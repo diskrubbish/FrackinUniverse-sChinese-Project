@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sends arrow volleys as strong as the cosmos.",
+    "value": "发射与宇宙同源的的凌空飞箭。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Stynger",
+    "value": "阳清发射器"
+  }
+]

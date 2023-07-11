@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A measure of dirty swamp water.\n^green;Extractable^reset;, ^yellow;Centrifugable^reset;.",
+    "value": "一定量的肮脏的沼泽水。"
+  }
+]

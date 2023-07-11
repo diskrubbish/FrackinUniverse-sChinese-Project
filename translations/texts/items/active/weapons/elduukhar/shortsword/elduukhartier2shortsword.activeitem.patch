@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This sword teaches the crafter to create a sword only with crystal.",
+    "value": "这把剑教导工匠们如何只以水晶为材料锻造一把剑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Emera Shortsword",
+    "value": "艾米拉短剑"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;[Arrow Keys] - Navigate options, [Space or Enter] - Select options^reset;",
+    "value": "^green;[箭头键]-导航选项，[空格或回车]-选择选项"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Monster Field Guide",
+    "value": "域外怪物指南"
+  }
+]

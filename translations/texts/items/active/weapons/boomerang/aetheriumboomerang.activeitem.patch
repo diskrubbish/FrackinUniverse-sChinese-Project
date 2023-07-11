@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "State-of-the-art microthrusters guarantee that it will always return.",
+    "value": "精巧的设计保证它每次都能返回主人身边。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Boomerang",
+    "value": "阳清回旋镖"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Ultrum Boomerang^reset; ^yellow;^reset;",
+    "value": "^cyan;终极回旋镖^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Perfection.",
+    "value": "完美。"
+  }
+]

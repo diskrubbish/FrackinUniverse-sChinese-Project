@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A panel of crystal with hexagonal tiles.\n^green;Extractable^reset;.",
+    "value": "镶有六角瓦片的水晶面板。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hexpane Panel",
+    "value": "六角面板"
+  }
+]

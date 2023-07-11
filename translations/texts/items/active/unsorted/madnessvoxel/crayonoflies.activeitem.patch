@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Anything written or drawn with it is a lie.",
+    "value": "所有用它写或画的东西都是假的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crayon of Lies",
+    "value": "谎言蜡笔"
+  }
+]

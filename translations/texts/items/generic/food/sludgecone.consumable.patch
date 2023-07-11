@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "For species that can't get enough radioactive iced cream.\n^cyan;+^white;20% ^pink;Radiation ^cyan;Res ^gray;(^white;5m^gray;)^reset;",
+    "value": "提供给那些不能摄入足够量的放射性冰淇淋的物种。\n^cyan;+^white;20%^pink;辐射^cyan;抗性^gray;(^white;持续5m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sludge Cone",
+    "value": "淤泥锥"
+  }
+]

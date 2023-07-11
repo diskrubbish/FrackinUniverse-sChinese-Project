@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune^reset;: Icy, Tar, Mud : 3m",
+    "value": "^yellow;^reset;^cyan;免疫^reset;: 冰面, 焦油, 泥泞 : 3m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kamaran Pod",
+    "value": "卡玛兰豆荚"
+  }
+]

@@ -1,0 +1,1166 @@
+[
+  {
+    "op": "replace",
+    "path": "/displayConfig/title",
+    "raw": "Humped by a Deep One",
+    "value": "深陷"
+  },
+  {
+    "op": "replace",
+    "path": "/displayConfig/subtitle",
+    "raw": "A sickening, creepy love epic",
+    "value": "令人作呕的，可怕的爱情史诗"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pre_credits/text",
+    "raw": "[This appears to be a journal, written by one C.C Wagner. The cover is blood-stained, ruining the once meticulously tidy book. Mostly, it's boring entries detailing nothing interesting. Sample data, climate experiments...]",
+    "value": "[这本日志似乎是C.C.瓦格纳的。日志的封面满是斑驳的血迹，里面的内容大多数是一些日常记录，像是样本数据和一些气候实验等等内容。]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro0/text",
+    "raw": "[...and then you find the juicy bits. Near the end of the book, scrawled in a more hasty hand (yes, they actually wrote on real live paper instead of digital!) a number of entries are found that are quite unsettling.]",
+    "value": "[...你继续翻阅着，接着你感觉这本湿漉漉的。在这本书的后面，字迹更加潦草，在仔细分辨字迹时，你发觉这字迹根本就是直接用手指沾着鲜血书写的，接下来的内容更让你坐立不安了。]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro1a/text",
+    "raw": "Jun 4 - Something in the ice",
+    "value": "6月4日-冰里的东西"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro1/text",
+    "raw": "The driller fell through the damned ice! The entire thing is lost, utterly unsalvagable without some means to block the effects of the liquid nitrogen pool. And that still doesn't help lug the thing out.",
+    "value": "司钻掉进了该死的冰里！如果没有一些方法来阻止液氮池的影响，整个事情就会完全失去意义，完全无法挽救。但这仍然不能帮助我们把这东西拖出来。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro2/text",
+    "raw": "We found some sort of corpse in the ice. I can't even discern what it is. Never seen anything like it. It's like a chimera of lifeforms. Terrifying to behold. I'm going to bring it to MacReady to autopsy.",
+    "value": "我们在冰层中发现了一些尸体。我无法根据它们的外貌分辨出它到底是什么生物，因为我根本没有见过这样的物种。这太可怕了，不过我还是得把它们带给麦克瑞迪，或许在他对它们进行解剖后就能真相大白了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro3/text",
+    "raw": "Jun 5 - Changes",
+    "value": "6月5日-转变"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro3c/text",
+    "raw": "MacReady has been acting strange lately. I can't place my finger on it, but ever since that...thing...fell under his operating knife he's changed. It's unsettling.",
+    "value": "麦克瑞迪最近变得有些奇怪。从那次解剖实验之后他就不一样了，这令我有些不安。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro3a/text",
+    "raw": "Actually, I think it may be in the eyes. It's almost as if he sees you and...knows you. Knows you in ways he shouldn't. He remarked on Doakes's sordid past, and he wasn't there.",
+    "value": "说真的，我认为这种改变更多体现在于眼睛。他似乎可以无时无刻地监视你，探寻你的内心。他曾在背地里辱骂多克，这在以前，这是不可能会发生的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro3b/text",
+    "raw": "Jun 6 - Confinement",
+    "value": "6月6日-禁闭"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro4/text",
+    "raw": "We found one of the dogs this morning. It had been strung up and vivisected. Its organs were in a neat pile beside it on the floor, stacked to resemble that malign aberration I found.",
+    "value": "今天我们发现了一条狗，准确的说，是一条狗的尸体。从它挣扎的痕迹看出，它是活生生的被吊起来然后被解剖的，而它的器官则在地板上整齐地罗列着，它就好像我交给麦克瑞迪的生物一样，完美地被解剖开了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro5/text",
+    "raw": "We've confined MacReady to the labs. He's totally lost it. At least we can seal the door remotely and he can be holed up with that...thing. I should investigate beyond the cliffs...see what is going on.",
+    "value": "我们把麦克瑞迪关在了实验室里。这下他没法出来了！我应该去原先的那个山崖下方，看看到底是什么让麦克瑞迪变得如此...癫狂。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro6/text",
+    "raw": "I'm taking the first rover tomorrow morning, and leaving the second for the rest should I fail to return. At least then they can still escape. Now we just need to hope for some damned answers. I'm starting to lose it.",
+    "value": "明天早上我将乘坐第一辆探测车，如果我不能返回，我将把第二辆留给其余的人。至少他们还有机会逃跑。现在我们只需要期待一些该死的答案。我开始失控了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro7/text",
+    "raw": "Jun 9 - Tacos are nutritious",
+    "value": "6月9日-玉米饼很有营养"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro8/text",
+    "raw": "The find I have just made rewrites the knowledge of the cosmos in its entirety. There are ruins past the mountain. It was a treacherous climb but well worth it. This place is ancient beyond telling.",
+    "value": "我眼前的一切彻底颠覆了我的认知。这个地方非常的古老，可能在还没有发明语言之前就已经存在了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro9/text",
+    "raw": "These ruins match no known species, language or style I am aware of. Something about them is wrong, though. The angles are just...off. Dimensions seem larger or smaller than they should. My mind is cracking.",
+    "value": "废墟中看到的雕像与我见过的物种完全不符合，所有物种应该有的特征在这些雕像上完全体现不出来。我感觉我的脑子快要裂开了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro10/text",
+    "raw": "My vision slowly returns to me, and I feel warm sand beneath my hands and feet. Am I on a planet's surface? Is that the sun I feel upon me, or perhaps I am merely on fire?",
+    "value": "我的视觉慢慢的恢复，我感到手和脚下有温暖的沙子。我是在行星的表面上吗？那感觉是太阳，还是仅仅是我在燃烧？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro11/text",
+    "raw": "I am not on fire, but that doesn't give me much reassurance. The place I am in is almost entirely unfamiliar.",
+    "value": "我没有着急，但也并不舒心。我所处的地方几乎完全陌生。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro12/text",
+    "raw": "I am on the shore of a small island, in the center of which is a grand pagoda. A sun sets above me. It is clear to me that I must plan my next move very carefully...",
+    "value": "我在一个小岛的岸边，岛的中心是一座宏伟的宝塔。太阳在我头上落下。很明显，我必须非常仔细地计划我的下一步行动..."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/sneak1/text",
+    "raw": "An unfamiliar land, a pounding headache... I decide to approach this situation with stealth. I crouch low, making my way across the beach towards the pagoda.",
+    "value": "一处陌生的地方，一阵剧烈的头痛...我决定悄悄地处理这种情况。我低下身，穿过海滩朝宝塔走去。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/sneak2/text",
+    "raw": "The air is quiet, except for the soft lapping of waves on this mysterious beach. The ocean appears to be water, and not acid or magma. This fact calms me somewhat.",
+    "value": "空气是安静的，除了在这处神秘的海滩上轻轻拍打的海浪。海洋似乎是水，而不是酸或岩浆。这个事实使我平静了一些。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/sneak3/text",
+    "raw": "I hear voices! I hide behind a nearby post. The architecture is all Hylotl, so at least my chances of being in Floran territory seems low.",
+    "value": "我听到声音了！我躲在附近的一根柱子后面。这里的建筑都是鲛人风格的，所以至少我进入叶族人领土的几率似乎不大。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/sneak4/text",
+    "raw": "Outside the entrance to the pagoda, I see a girl, kneeling in the sand. I gasp, unable to steel myself, and she turns to see me!",
+    "value": "在塔门外，我看见一个女孩跪在沙滩上。我喘着粗气，无法控制自己，之后她转过身来看我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/yell1/text",
+    "raw": "I panic and start yelling. I'm sure I will draw the attention of a helpful authority figure who will help me in my predicament.",
+    "value": "我惊慌失措，开始大喊大叫。我确信我会引起一个有帮助的权威人物的注意，他会在困境中帮助我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/yell2/text",
+    "raw": "However, who instead greets me is a beautiful girl, dressed in strange ceremonial robes. Grasped in her hands is a pink staff.",
+    "value": "然而，迎接我的却是一个美丽的姑娘，穿着奇怪的礼服。她的手里握着一根粉红色的拐杖。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kasumi1a/text",
+    "raw": "\"Who are you, and why are you sneaking around?\" says the girl, light dancing off her beautiful, clammy skin.",
+    "value": "“你是谁？为什么在这附近鬼鬼祟祟？”，那个女孩说道，她那湿漉漉的美丽皮肤上的光芒在翩翩起舞"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kasumi1b/text",
+    "raw": "\"Who are you, and why are you screaming like a nerd?\" says the girl, light dancing off her beautiful, clammy skin.",
+    "value": "“你是谁，为什么像个呆子一样尖叫？”那个女孩说道，她那湿漉漉的美丽皮肤上的光芒在翩翩起舞"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation1a/text",
+    "raw": "\"You're at the Grand Hylotl Library, which is opening one week from tonight.\" She explains.",
+    "value": "“你现在在大塔图书馆，本图书馆从今晚起开放一周”她解释到。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation2a/text",
+    "raw": "\"No-one else is supposed to be here whilst I bless the island! Why did you come here?\"",
+    "value": "“当我为这座岛祈福的时候，其他人不该在这里！你为什么会来这里？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation1b/text",
+    "raw": "\"I am Kasumi, a shrine maiden sent to bless the Grand Hylotl Library before its opening next week.\" She explains.",
+    "value": "“我是霞，我是在下周为大塔图书馆开幕仪式祈福的巫女。”她说道。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation2b/text",
+    "raw": "\"No-one else is supposed to be here, though! Why did you come here?\"",
+    "value": "“任何人都不该在这里！你为什么会来这里？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty1/text",
+    "raw": "She is taken aback by the abruptness of my statement. I panic, wondering why that would be one of the first things I would say to a girl.",
+    "value": "我发言的唐突使她吃了一惊。我惊慌失措，想知道为什么这会是我对一个女孩说的第一句话。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty2/text",
+    "raw": "She replies, \"Well I'm afraid you've come to the wrong place, because the Grand Hylotl Library isn't open to the public just yet.\"",
+    "value": "她回答说: “恐怕你来错地方了，因为大塔图书馆还没有对公众开放。”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty3/text",
+    "raw": " I assume that she misunderstood the implication of my remark, but I cannot help stare a little too long into her triumvirate of ruby red eyes.",
+    "value": "我觉得她误解了我的意思，我忐忑地望着她那如同红宝石般的眼眸，却又无法辩解。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty4a/text",
+    "raw": "\"Where are my manners,\" she adds suddenly, \"I forgot to ask you your name. Who are you?\"",
+    "value": "“失礼了，”她突然说道，“我忘了问你的名字了，你叫什么？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty4b/text",
+    "raw": "\"Where are my manners,\" she adds suddenly, \"My name is Kasumi. And who might you be?\"",
+    "value": "“失礼了，”她突然说道，“我叫霞，你的名字是？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty5a/text",
+    "raw": "\"...That's a weird name,\" she says flatly. \"Why would your parents even call you that?\"",
+    "value": "“你的名字真奇怪。”，她淡然说道，“为什么你的父母会打电话给你？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty5b/text",
+    "raw": "\"It's a pleasure to meet you, Vaughn St. Lovecastle!\" she says with a pleasant smile. \"Why are you interested in this unopened library, of all places?\"",
+    "value": "“很高兴见到你，沃恩·圣洛夫卡斯尔！”她笑着说。“在这么多地方之中您为什么独对这座未开馆的图书馆感兴趣呢？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty6a/text",
+    "raw": "I tersely avoid the subject of my name's embarassing origin.",
+    "value": "我简明扼要地回避了“我的名字令人尴尬的起源”的话题。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty6b/text",
+    "raw": "\"So tell me,\" she begins, \" Why are you interested in this unopened library, of all places?\"",
+    "value": "“那么，告诉我”。她说，“在这么多地方之中你为什么只对这座未开馆的图书馆感兴趣呢？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_time1/text",
+    "raw": "\"Travelled... Through time?\" she repeats, confused. \"But doesn't everyone travel through time?\"",
+    "value": "“时间...旅行？”她困惑的重复道，“但是，不是每个人都可以穿越时间吗？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_time2/text",
+    "raw": "I ask her what she means.",
+    "value": "我问她是什么意思。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_time3/text",
+    "raw": "\"We're all moving through time, at a rate of around 1 second per second.\" she elaborates.",
+    "value": "“我们都已穿越了时空，速度大概是每秒1秒左右”她详细说明道"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_time4/text",
+    "raw": "I cannot tell if this beautiful girl is a genius or insane.",
+    "value": "我不知道这个漂亮女孩是天才还是疯子。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda1/text",
+    "raw": "The library... The Grand Hylotl Library!",
+    "value": "噢，这里是图书馆...鲛人的大塔图书馆！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda2/text",
+    "raw": "Of course I've heard of it, it is a famous historical site, yet right now it hasn't even opened yet! THAT is why I knew I have been sent to the past!",
+    "value": "当然我听说过它，它是一个著名的历史遗址，但直到现在它也还没有开放！这就是为什么我知道我已经被送到了过去的原因！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda3/text",
+    "raw": "I quickly explain to Kasumi that in my era, the library is open.",
+    "value": "我很快地向霞解释，在我的时代，图书馆是开放的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda4a/text",
+    "raw": "\"Your story is far-fetched, Mr. Lovecastle,\" she begins, \"But you don't look or talk like anyone I've ever known. Perhaps your story is true.\"",
+    "value": "“你说的话很牵强，洛夫卡斯尔先生”她说，“但你看起来不像我认识的任何人，可能你说的是真的。”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda4b/text",
+    "raw": "\"Your story sounds insane,\" she begins, \"But you don't look or talk like anyone I've ever known. Perhaps your story is true.\"",
+    "value": "“你说的话很疯狂，”她说，“但你看起来不像我认识的任何人，可能你说的是真的。”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda5/text",
+    "raw": "\"If you have been sent through time and space at an unusual rate, what do you think caused you to come here?\"",
+    "value": "“如果你以不寻常的速度穿越时空，那你又认为是什么导致你来到这里？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey1/text",
+    "raw": "\"Air Hockey? What is this 'Air Hockey'? you speak of?\"",
+    "value": "“空气曲棍球？这是什么意思？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey2/text",
+    "raw": "...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey3/text",
+    "raw": "She doesn't know what Air Hockey is.",
+    "value": "她不知道什么是空中曲棍球。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey4/text",
+    "raw": "There probably isn't even any Air Hockey IN this era.",
+    "value": "在那个年代，或许连空气曲棍球都还没有。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey5/text",
+    "raw": "I suddenly feel the crushing weight of how serious my circumstances have become.",
+    "value": "我突然感到我的处境变得多么糟糕，压得我喘不过气来。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey6/text",
+    "raw": "\"Does this 'Air Hockey' of yours usually send people through time?\"",
+    "value": "“你说的‘曲棍球’，别人是不是都喜欢玩这个？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey7/text",
+    "raw": "\"Perhaps it was something else?\" she says thoughtfully..",
+    "value": "“可能是什么别的东西？”她若有所思..."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey8/text",
+    "raw": "She ignores me entirely, contemplating for a moment before her face lights up.",
+    "value": "她完全无视我，沉思了片刻，然后她的脸亮了起来。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual1/text",
+    "raw": "\"The ceremony!\" she exclaims. \"But it is a ceremony of tradition, not divine power. And it is not even finished, either.\"",
+    "value": "“真可爱，他们在哪里相见的？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual2a/text",
+    "raw": "I ask her why her ceremony wasn't complete.",
+    "value": "我问她为什么庆典没有完成。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual3a/text",
+    "raw": "\"Well of course it isn't - I was interrupted by you flailing about and screaming for help.\"",
+    "value": "“当然不是，我被你的手忙脚乱大叫着求助打断了”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual2b/text",
+    "raw": "I ask her why her ceremony wasn't complete.",
+    "value": "我问她为什么庆典没有完成。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual3b/text",
+    "raw": "\"Well of course it isn't - I was interrupted by you flailing about screaming for help.\"",
+    "value": "“当然不是，我被你的手忙脚乱大叫着求助打断了”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual4/text",
+    "raw": "\"But perhaps...\" she says whilst looking intently at the staff in her hand, \"Perhaps finishing the ceremony will help send you back?\"",
+    "value": "“不过...”，她把注意力集中于她手中的法杖上说道，“或许这个仪式可以帮助你返回你的世界。”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual5/text",
+    "raw": "\"Well first was the 'tribute of prayer' - next comes the 'tribute of talent', and then the 'tribute of song'.\"",
+    "value": "“开始是‘祈祷的贡献’，然后是‘天才的贡献’，然后是‘歌曲的贡献’”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual6/text",
+    "raw": "She smiles, saying, \"I am an artist. I must paint for the ritual!\"",
+    "value": "她笑着说: “我是个艺术家。我必须为这场仪式作画! ”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art1/text",
+    "raw": "\"That's right!\" she says. \"Wait here, and when I'm done, you can judge if my art is worthy.\"",
+    "value": "“对！”她说，“在那等着，等我完事了你就知道我的作品值不值了。”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art2/text",
+    "raw": "Kasumi leaves for the beach, opening a chest of calligraphy brushes. I sit awkwardly on the steps of the pagoda entrance, watching her from a short distance.",
+    "value": "霞离开海滩，打开一箱毛笔。我笨拙地坐在宝塔入口的台阶上，从不远处望着她。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art3/text",
+    "raw": "I have a short time go gather my thoughts.",
+    "value": "我得花一点时间去整理我的思绪。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art4/text",
+    "raw": "To think that not only is she beautiful, but that she is also a talented artist? Surely I must be in a dream, or perhaps an elaborate coma fantasy.",
+    "value": "她或许非常美丽，并且是一位才华横溢的艺术家。不过这仅仅是我的幻想，不过我还是十分向往。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art5a/text",
+    "raw": "She thinks my name is Vaughn St. Lovecastle. If we are truly destined for one another, would she appreciate my true name? Could she ever?",
+    "value": "她以为我叫沃恩·圣·洛维卡斯特尔。如果我们真的注定要在一起，她会欣赏我的真名吗？她可以吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art5b/text",
+    "raw": "Could she truly love me? Will she be able to come to the present with me? Will that cause a rift in the space-time continuum?",
+    "value": "她真的爱我吗？她能和我一起来到现世吗？这会导致时空连续体的裂缝吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art6/text",
+    "raw": "I ponder my tribulations so far, but as I do so, Kasumi returns with a rolled up scroll.",
+    "value": "到目前为止，我一直在思考我的苦难，但是当我这样做的时候，霞带着一个卷起来的卷轴回来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art7/text",
+    "raw": "\"I have finished!\" she announces. Her smile glitters in the sunset like the lure of a beautiful angler fish.",
+    "value": "“我完成了！”她宣布道。 她的笑容在夕阳中闪闪发光，就像美丽的琵琶鱼头上的诱饵一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art8a/text",
+    "raw": "\"Yep! Here it is!\"",
+    "value": "“哈！就是这！”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art8b/text",
+    "raw": "\"You'll be able to see when I show you, riiiight now!\".",
+    "value": "“当我展示给你的时候你就会看到，现在！”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art9/text",
+    "raw": "She presents the scroll to me.",
+    "value": "她把卷轴送给我。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art10/text",
+    "raw": "...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art11/text",
+    "raw": "......",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art12/text",
+    "raw": "\"Can you tell what it is?\" she asks, eagerly.",
+    "value": "“你能告诉我那是什么吗？”，她看上去很感兴趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art13/text",
+    "raw": "She giggles. \"No, silly, it's a duck!\"",
+    "value": "她咯咯地笑着。“不，傻瓜，那是只鸭子! ”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art14/text",
+    "raw": "......",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art15/text",
+    "raw": "I question if Kasumi has literally ever seen a duck, or even heard a second-hand description of one.",
+    "value": "我怀疑霞是否真的见过鸭子，甚至就是听到过对鸭子的二手描述。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art16/text",
+    "raw": "I turn back to her. \"Well?\" she asks. \"What do you think?\"",
+    "value": "我转向她。“怎么样? ” 她问道。“你觉得怎么样? ”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art17a/text",
+    "raw": "\"...I guess the standard of art is different in your time, huh?\" she says flatly. I presume that the picture was not, in fact, a joke.",
+    "value": "“这难道和你所认为的艺术标准不一样吗？嗯？”，她平静地说道。其实，我觉得这张照片并不好笑。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art18/text",
+    "raw": "I figure that I may have upset her, and desperately think of a way to move the conversation forward.",
+    "value": "我想我可能让她不高兴了，于是拼命想办法让谈话继续下去。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art17b/text",
+    "raw": "\"Why, thank you!\" she says with a beaming smile. ",
+    "value": "“为什么，谢谢你！”她面带笑容的说。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song1/text",
+    "raw": "She nods. \"I have to come up with a song that will cleanse the land of uncivility. But I will need help coming up with ideas...\"",
+    "value": "她点点头。“我必须想出一首歌来点化这片不文明的土地。但我需要有人帮我想个点子...”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song2/text",
+    "raw": "\"That sounds good! What kind of song should it be, then?\"",
+    "value": "“听起来很棒！那会是怎样的一种歌曲呢？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song3a/text",
+    "raw": "\"A fun song? That sounds... Fine. What kind of characters would it have?\"",
+    "value": "“一首有趣的歌？好啊，我真想听听它到底有多有趣。”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4a/text",
+    "raw": "\"A talking fish sounds fun. What should the fish be doing?\"",
+    "value": "“听一条鱼说笑话？这本身就是一个笑话，对了，那条鱼后来怎么样了？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5a/text",
+    "raw": "\"Okay, I think I have something...\" she says.",
+    "value": "“好吧，我想我有些东西...”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6a/text",
+    "raw": "\"Talking fish, of utmost health, what makes you journey, for such wealth?\"",
+    "value": "“会说话的，强健的鱼，是什么让你的旅途如此精彩？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5b/text",
+    "raw": "\"Yelling? Sure. In fact, I think I have something...\" she says.",
+    "value": "“大喊大叫？当然。事实上，我想我有些东西...”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6b/text",
+    "raw": "\"Talking fish, straight from my dreams, how can we, prevent your screams?\"",
+    "value": "“会说话的鱼，从我的梦中出现，我们该怎样，阻止你的尖叫？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4b/text",
+    "raw": "\"A sad bear? Um, okay. Why is the bear sad?\"",
+    "value": "“一只悲伤的熊？呃，为什么这只熊会悲伤？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5c/text",
+    "raw": "\"He's losing his house? How sad! I have a song idea, but it isn't very funny.\" she says.",
+    "value": "“他失去了他的房子？噢，这太悲伤了！我突然对这首歌有了不同的看法，不过这并不有趣。”，她说道。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6c/text",
+    "raw": "\"Sad old bear, destined to roam, after the banks, repossessed his home.\"",
+    "value": "“悲伤的老熊，注定的漫游，走过了河畔，回到了老家”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5d/text",
+    "raw": "\"He's losing his house? How sad! I have a song idea, but it isn't very funny.\" she says.",
+    "value": "“他失去了他的房子？噢，这太悲伤了！我突然对这首歌有了不同的看法，不过这并不有趣。”，她说道。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6d/text",
+    "raw": "\"Sad old bear, it's all gone wrong, since you realised, you're just a song.\"",
+    "value": "“悲伤的老熊，失败的前行，当你回过头，已成一首歌”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song3b/text",
+    "raw": "\"A romantic song! How wonderful! What should it be about?\"",
+    "value": "“听听这首，多么浪漫的旋律，多么美妙的节奏！你觉得怎样？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4c/text",
+    "raw": "\"That's cute! Where did they meet?\"",
+    "value": "“真可爱，他们在哪里相见的？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5e/text",
+    "raw": "\"How wholesome! I think I can sing about this.\" she says.",
+    "value": "“多么好听的歌儿，我想唱这一首。”，她说道。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6e/text",
+    "raw": "\"Starfish lovers, united hearts, met at the youth club, playing darts.\"",
+    "value": "“海星恋人，心心相依，社团相见，飞梭共舞”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5f/text",
+    "raw": "\"How adorable! I think I can sing about this.\" she says.",
+    "value": "“我好喜欢它的旋律，我觉得我可以唱唱看。”，她说道。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6f/text",
+    "raw": "\"Starfish lovers, oh so sweet, how do you dance, without some feet?\"",
+    "value": "“海星恋人，如此甜蜜，无腿无足，如何起舞？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4d/text",
+    "raw": "\"I can picture it now! Why is he so lovesick?\"",
+    "value": "“我现在可以画出来了！为什么他会相思成疾？”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5g/text",
+    "raw": "\"That is quite tragic! I have a song in mind just for this.\" she says.",
+    "value": "“这太悲哀了！我的脑海中响起了一首歌。”，她说。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6g/text",
+    "raw": "\"Lone Octopus, hesong fatigued, because his crush, is out of his league.\"",
+    "value": "孤独的章鱼，他疲惫不堪，因为他迷恋的，与他天差地别。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song5h/text",
+    "raw": "\"Poor lonely octopus! I have a song in mind just for this.\" she says.",
+    "value": "“可怜又孤独的章鱼！我的脑海里响起了一首歌”她说"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6h/text",
+    "raw": "\"Lone Octopus, you can't just wait, put in some effort, if you want to date.\"",
+    "value": "“孤独的章鱼，若你渴求约会，你不能坐以待毙，要付诸努力。”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale1/text",
+    "raw": "An ethereal light suddenly fills the area as her words of power leave her lips. My stomach churns like a washing machine left out in the sun.",
+    "value": "当她的咒语从她的嘴唇中说出时，空灵的光芒突然充满了整个区域。我的胃像洗衣机一样在阳光下翻腾。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale2/text",
+    "raw": "\"I don't know!\" she cries out. I feel something tugging at me. An unseen hand of fate. I suddenly realise my time here may be over shortly.",
+    "value": "“我不知道！” 她哭了出来。我感觉有什么东西在拉我。是一只不可见的命运之手。我突然意识到我在这里的时间很快就会结束。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale3/text",
+    "raw": "I have precious seconds left. I may fail at winning her love, but I must make an attempt! A BEAUTIFUL ATTEMPT!",
+    "value": "我还剩下有宝贵的时间。我也许不能赢得她的爱，但我必须尝试一下！一次美妙的尝试！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale4a/text",
+    "raw": "I never hear her reply, as time pulls me away into the dark void of nothingness once more.",
+    "value": "我再也没有听到她的回答，因为时间又一次把我拖进了虚无的黑暗虚空中。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale4b/text",
+    "raw": "\"That's a bit weird, we don't know either other that well!\" she responds. I barely have time to process my rejection as I feel the familiar tug of time, and everything fades.",
+    "value": "“这有点奇怪，我们彼此都不太了解！”她回答到。我几乎没有时间去表达我的反对， 与此同时熟悉的时间拖拽感来袭，所有的东西都变得模糊。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding/text",
+    "raw": "Kasumi's poem echoes in my head, guiding me through the darkness. I feel like a fish on a lead. In the dark.",
+    "value": "霞的诗在我的脑海中回荡，指引我穿过黑暗。我觉得自己就像是一条在黑暗中被牵着走的鱼。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding1/text",
+    "raw": "After what feels like a millenia, but also only maybe five or six minutes, I wake up where I began.",
+    "value": "仿佛过了千年之久，又如只过了五六分钟，我在开始的地方醒来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding2/text",
+    "raw": "The hockey table... The present day... Kasumi! I feel like fate has been snatched from me.",
+    "value": "噢，曲棍球台！我觉得我不应该谈论这个话题的，美丽的霞啊。我似乎看到命运已经快要把我遗弃了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding3/text",
+    "raw": "I cry out in a dramatic and wimpering rage. This Hockey table is nothing compared to love. In my anger, I flip the table over, sending it crashing to the ground.",
+    "value": "我在一种戏剧性的而摇摇欲坠的愤怒中哭了出来。这张曲棍球桌和爱情相比根本不算什么。我生气地把桌子掀翻过来，把它摔在地上。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding4/text",
+    "raw": "I collapse to the ground sobbing, next to the destroyed table. It was too real - Kasumi can't just be a dream, can she?",
+    "value": "我瘫倒在地上啜泣，旁边是被毁坏的桌子。这太真实了——霞不可能只是一个梦，难道不是吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding5/text",
+    "raw": "Curiously enough, I see a letter, sticking out of the rubble. It looks old, very old. Has this always been here?",
+    "value": "还好我足够谨慎，发现了一封粘在废墟外的信。这封信看起来非常陈旧，它一直在这里吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding6/text",
+    "raw": "Still on my knees, I eagerly peel away at the wax seal, careful not to tear the paper. Will this be a letter from Kasumi, confessing her love?",
+    "value": "我仍然跪在地上，急切地撕开蜡封，小心翼翼地不要撕破纸。这是一封来自霞的信，这封信表达的是她的爱意吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding7/text",
+    "raw": "I open the envelope, my heart racing. Perhaps the letter from Kasumi will instruct me how to return to her time so we can resume our fated love?",
+    "value": "我打开信封，心跳加速。也许来自霞的信将教导我如何回到她的时空，以让我们可以再续我们命中注定的爱情？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding8/text",
+    "raw": "I lift out the letter. Everything comes down to this.",
+    "value": "我拿出那封信。归根结底就是这样。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding9/text",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/badEnding/text",
+    "raw": "Kasumi's poem echoes in my head, guiding me through the darkness. I feel like a fish on a lead. In the dark.",
+    "value": "霞的诗在我的脑海中回荡，指引我穿过黑暗。我觉得自己就像是一条在黑暗中被牵着走的鱼。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/badEnding1/text",
+    "raw": "After what feels like a millenia, but also only maybe five or six minutes, I wake up where I began.",
+    "value": "仿佛过了千年之久，又如只过了五六分钟，我在开始的地方醒来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/badEnding2/text",
+    "raw": "The hockey table... The present day... Kasumi! I feel like fate has been snatched from me.",
+    "value": "噢，曲棍球台！我觉得我不应该谈论这个话题的，美丽的霞啊。我似乎看到命运已经快要把我遗弃了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/badEnding3/text",
+    "raw": "I cry out in a dramatic and wimpering rage. This Hockey table is nothing compared to love. In my anger, I attempt to flip the table, but my weak arms fail me.",
+    "value": "我在一种戏剧性而摇摇欲坠的愤怒中哭了出来。这张曲棍球桌和爱情相比根本不算什么。生气的时候，我试图掀翻桌子，但是我虚弱的手臂没有抓住。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/badEnding4/text",
+    "raw": "I could never destroy this Hockey table. Beautiful shrine maidens may come and go...",
+    "value": "我永远不会毁了这个曲棍球桌。美丽的神殿少女忽隐忽现..."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/badEnding5/text",
+    "raw": "But at least I'll have my games.",
+    "value": "但至少我还有我的游戏。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/badEnding6/text",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro12/options/0/0",
+    "raw": "Sneak around",
+    "value": "偷偷摸摸"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro12/options/1/0",
+    "raw": "Cry for help",
+    "value": "大喊救命"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kasumi1a/options/0/0",
+    "raw": "Where am I?",
+    "value": "我在哪儿？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kasumi1a/options/1/0",
+    "raw": "Who are you?",
+    "value": "你是谁？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kasumi1b/options/0/0",
+    "raw": "Where am I?",
+    "value": "我在哪儿？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kasumi1b/options/1/0",
+    "raw": "Who are you?",
+    "value": "你是谁？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation2a/options/0/0",
+    "raw": "To meet beautiful girls!",
+    "value": "去和美丽的女孩约会！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation2a/options/1/0",
+    "raw": "I was sent through time!",
+    "value": "我穿越了时空的"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation2b/options/0/0",
+    "raw": "To meet beautiful girls!",
+    "value": "去和美丽的女孩约会！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/explanation2b/options/1/0",
+    "raw": "I was sent through time!",
+    "value": "我穿越了时空的"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty4a/options/0/0",
+    "raw": "Tell her your name",
+    "value": "告诉她你的名字"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty4a/options/1/0",
+    "raw": "Give her a romantic fake name",
+    "value": "给她起一个浪漫的假名"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty4b/options/0/0",
+    "raw": "Tell her your name",
+    "value": "告诉她你的名字"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/question_beauty4b/options/1/0",
+    "raw": "Give her a romantic fake name",
+    "value": "给她起一个浪漫的假名"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda5/options/0/0",
+    "raw": "Your ceremonial ritual",
+    "value": "崇高的仪式"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pagoda5/options/1/0",
+    "raw": "The Power of Air Hockey",
+    "value": "空气曲棍球之力"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey6/options/0/0",
+    "raw": "Not really, no",
+    "value": "没有，没有"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey6/options/1/0",
+    "raw": "I'm pretty sure no",
+    "value": "我很确定没有"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey7/options/0/0",
+    "raw": "Your ceremonial ritual",
+    "value": "崇高的仪式"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey7/options/1/0",
+    "raw": "No it's Air Hockey",
+    "value": "不，这是空中曲棍球"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hockey8/options/0/0",
+    "raw": "What is it?",
+    "value": "这是什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual4/options/0/0",
+    "raw": "What do you need to do?",
+    "value": "你想要做什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual5/options/0/0",
+    "raw": "What is the talent?",
+    "value": "这是什么天赋吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ritual6/options/0/0",
+    "raw": "Paint?",
+    "value": "绘画？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art7/options/0/0",
+    "raw": "Can I see?",
+    "value": "能给我看看吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art7/options/1/0",
+    "raw": "What did you paint?",
+    "value": "你在画什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art12/options/0/0",
+    "raw": "Some sort of dog?",
+    "value": "某种狗?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art12/options/1/0",
+    "raw": "An alien of some kind?",
+    "value": "某种外星人？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art13/options/0/0",
+    "raw": "...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art16/options/0/0",
+    "raw": "Is this a joke?",
+    "value": "你在开玩笑吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art16/options/1/0",
+    "raw": "It's beautiful!",
+    "value": "真漂亮！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art18/options/0/0",
+    "raw": "So is the 'Tribute of song' next?",
+    "value": "那么接下来是《颂歌》吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/art17b/options/0/0",
+    "raw": "So is the 'Tribute of song' next?",
+    "value": "那么接下来是《颂歌》吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song1/options/0/0",
+    "raw": "I can help!",
+    "value": "我会帮上忙的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song2/options/0/0",
+    "raw": "A fun song!",
+    "value": "一首有趣的歌"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song2/options/1/0",
+    "raw": "A romantic song!",
+    "value": "一首浪漫的歌"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song3a/options/0/0",
+    "raw": "A talking fish!",
+    "value": "一条会说话的鱼！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song3a/options/1/0",
+    "raw": "A sad bear!",
+    "value": "悲伤的熊！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4a/options/0/0",
+    "raw": "Searching for gold!",
+    "value": "寻找黄金！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4a/options/1/0",
+    "raw": "Just yelling at everyone!",
+    "value": "对每个人都大喊大叫！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6a/options/0/0",
+    "raw": "Is that it?",
+    "value": "是这样吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6b/options/0/0",
+    "raw": "Is that it?",
+    "value": "是这样吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4b/options/0/0",
+    "raw": "His house is being foreclosed!",
+    "value": "他的房子被取消赎回权了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4b/options/1/0",
+    "raw": "He doesn't exist!",
+    "value": "他不存在！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6c/options/0/0",
+    "raw": "Is that it?",
+    "value": "是这样吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6d/options/0/0",
+    "raw": "Is that it?",
+    "value": "是这样吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song3b/options/0/0",
+    "raw": "Starfish, in love!",
+    "value": "海星，为爱沉沦！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song3b/options/1/0",
+    "raw": "A lovesick octopus!",
+    "value": "相思成病的章鱼"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4c/options/0/0",
+    "raw": "A youth club!",
+    "value": "一个青年俱乐部！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4c/options/1/0",
+    "raw": "The village dance!",
+    "value": "快来跳乡村舞蹈！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6e/options/0/0",
+    "raw": "Is that it?",
+    "value": "是这样吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6f/options/0/0",
+    "raw": "Is that it?",
+    "value": "是这样吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4d/options/0/0",
+    "raw": "He loves a Hylotl!",
+    "value": "他爱上了一个鲛人！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song4d/options/1/0",
+    "raw": "He can't get a date!",
+    "value": "他不会有一个约会的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6g/options/0/0",
+    "raw": "Is that it?",
+    "value": "是这样吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/song6h/options/0/0",
+    "raw": "Is that it?",
+    "value": "是这样吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale1/options/0/0",
+    "raw": "What's going on?!",
+    "value": "到底发生了什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale3/options/0/0",
+    "raw": "Never forget me!",
+    "value": "永远不要忘记我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/finale3/options/1/0",
+    "raw": "I love you!",
+    "value": "我爱你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/goodEnding5/options/0/0",
+    "raw": "Open the letter",
+    "value": "打开信"
+  }
+]

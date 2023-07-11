@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;+0.1% HP Regen, +20% Energy^reset;",
+    "value": "^green;生命恢复速度+0.1%，能量值上限+20^reset;%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aqua Shield",
+    "value": "防水盾"
+  }
+]

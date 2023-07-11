@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "+^green;20^reset;% Phys. and +^green;20^reset;% Fire Resist at the expense of ^red;20^reset;% Cosmic Resist. Great for warm climates such as deserts and rainforests.",
+    "value": "适合沙漠、热带雨林等温暖特征的星球。\n物理抗性/火炎抗性+^green;20^reset;%，射线抗性^red;-20^reset;%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Repulsor Field Pack",
+    "value": "简易冷却背包"
+  }
+]

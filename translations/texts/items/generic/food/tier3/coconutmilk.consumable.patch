@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The best reason to crack open a coconut. The taste is amazing. ^green;Type: Fruit^reset;",
+    "value": "一个打开椰子的最好的理由。味道好极了。\n^green;类型: 水果^reset;"
+  }
+]

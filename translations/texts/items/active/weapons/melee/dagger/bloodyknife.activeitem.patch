@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Covered in blood and creepy carvings",
+    "value": "表面布满了血液和蠕动的花纹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sacrificial Blade",
+    "value": "牺牲匕首"
+  }
+]

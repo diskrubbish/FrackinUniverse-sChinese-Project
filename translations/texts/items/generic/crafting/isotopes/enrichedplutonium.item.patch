@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An improved form of plutonium.\n^blue;+^white;28 ^blue;Fuel^reset;",
+    "value": "一根浓缩的钚棒。\n^blue;燃料+^white;28^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;Enriched Plutonium Rod^reset;",
+    "value": "^#88e25b;浓缩钚棒^reset;"
+  }
+]

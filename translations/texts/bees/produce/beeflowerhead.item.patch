@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The head of a Bee flower. Contains traces of anti-mite poison!",
+    "value": "蜜蜂花的花头，含有抗螨毒素的痕迹！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bee Flower Head",
+    "value": "蜜蜂花头"
+  }
+]

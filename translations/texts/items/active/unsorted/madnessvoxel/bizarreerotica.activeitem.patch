@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A book that pairs a sapient being with a random mythological creature.",
+    "value": "这本书中一个聪明人和随机的神话生物交配。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bizarre Erotica",
+    "value": "怪异春卷"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/toggleCrafting/caption",
+    "raw": "Rename",
+    "value": "重命名"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/nameTextbox/hint",
+    "raw": "Name",
+    "value": "命名"
+  }
+]

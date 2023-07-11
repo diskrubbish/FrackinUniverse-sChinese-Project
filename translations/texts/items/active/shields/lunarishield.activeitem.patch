@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Shield",
+    "value": "月晶盾"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Immune: Slime^reset;",
+    "value": "^green;免疫黏液^reset;"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "op": "replace",
+    "path": "/tagCriteria/cat/default/0",
+    "raw": "Either another cat's using their powers to mess with me, or mew took something.",
+    "value": "要么是别的猫用它们的超能力来骚扰我，要么是它们拿走了什么东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/cat/default/1",
+    "raw": "Did you rearrange my house without purrmission?",
+    "value": "你是不是擅自重新布置了我的房子？"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/cat/default/2",
+    "raw": "This new setup is upsetting my psychic powers. Put it back, please.",
+    "value": "这个新的程序让我的通灵能力受到了干扰。请把它放回去。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/cat/default/0",
+    "raw": "Maybe ordinary housecats like having holes in things, but I don't! Fix it please.",
+    "value": "也许普通的家庭主妇喜欢在东西上打洞，但我不喜欢！请把它修好。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/cat/default/1",
+    "raw": "Those holes are letting the weather in. Can mew repair it please?",
+    "value": "那些洞让天气进来了，请给我们修一修好吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/cat/default/2",
+    "raw": "Purrfect timing. I need some repairs done to the house.",
+    "value": "完美的时间安排。我需要把房子修理一下。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/cat/default/0",
+    "raw": "Why's someone else trying to mewve into my house?",
+    "value": "为什么有人要闯进我的房子？"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/cat/default/1",
+    "raw": "Methinks mew put that in the wrong house...",
+    "value": "我觉得我来错新房子了..."
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/cat/default/2",
+    "raw": "Hey! This is my house. I don't want to share!",
+    "value": "嘿！这是我的房子，我不想和别人分享！"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/cat/default/0",
+    "raw": "We cats demand a much higher effort from our landlords.",
+    "value": "我们猫要求我们的房东付出更大的努力。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/cat/default/1",
+    "raw": "If mew don't fix this house, I'm finding another place to live!",
+    "value": "如果我不把这房子修好，我就另找地方住！"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/cat/default/2",
+    "raw": "Are mew going to fix things or what? I'll leave if not.",
+    "value": "我们到底要不要解决问题？如果解决不了，我就走。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/cat/default/0",
+    "raw": "I've had enough of this! You're a terrible landlord.",
+    "value": "我受够了！你是个糟糕的房东。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/cat/default/1",
+    "raw": "Not even a dog would want to stay here. I'm out.",
+    "value": "连狗都不愿意待在这里，我走了。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/cat/default/2",
+    "raw": "I'm done. I'm mewving out!",
+    "value": "我受够了，我要出去！"
+  }
+]

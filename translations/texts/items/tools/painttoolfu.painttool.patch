@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "With this brush the world is your canvas, to paint as you see fit.",
+    "value": "有了这支画笔，世界就是你的画布，你可以随心所欲地在尘世间作画。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Paint Brush",
+    "value": "画笔"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "No matter how much you try, they cannot be spent.",
+    "value": "不管你怎么努力，就是花不完。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Three Coins",
+    "value": "三枚硬币"
+  }
+]

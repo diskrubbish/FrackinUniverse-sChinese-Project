@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Negative energy eradicates all solid matter.\n^yellow;Extreme fire speed^reset;\n^green;Paralyzing alt-Fire^reset;",
+    "value": "以负极能量根除所有固态物质。\n^yellow;极高的射速^reset;\n^yellow;次要攻击：射出瘫痪敌人的能量球^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Vaporizer",
+    "value": "先驱汽化器"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Bio-Disruptor",
+    "value": "生命破败"
+  }
+]

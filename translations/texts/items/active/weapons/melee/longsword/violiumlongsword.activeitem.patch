@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Forged from stellar violium particulates and carbon.",
+    "value": "由碳和星球的维奥粒子锻造而成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Violium Longsword",
+    "value": "维奥合金长剑"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cockroach",
+    "value": "蟑螂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A tiny insect that seeks out unwatched food and garbage. They fear light",
+    "value": "一种寻找未见过的食物和垃圾的小昆虫。 它们怕光。"
+  }
+]

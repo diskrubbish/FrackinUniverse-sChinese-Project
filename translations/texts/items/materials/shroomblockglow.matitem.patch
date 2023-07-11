@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block made of soft, glowing fungus.\n^green;Extractable^reset;.",
+    "value": "由柔软、发光的真菌制成的块。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glowing Mushroom",
+    "value": "夜光蘑菇块"
+  }
+]

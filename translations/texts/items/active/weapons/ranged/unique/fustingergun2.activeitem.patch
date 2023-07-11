@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sting the living hell out of your foes.\n^yellow;Lots of stingy fun, ^cyan;Floran^reset;^reset;",
+    "value": "把敌人驱逐到地狱。\n^yellow;乐趣无穷，^cyan;叶族^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stinger Burstrifle",
+    "value": "毒刺爆裂步枪"
+  }
+]

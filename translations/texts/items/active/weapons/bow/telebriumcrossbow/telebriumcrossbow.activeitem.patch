@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "High-impact poison bolts.",
+    "value": "高冲击力的有毒箭头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Crossbow",
+    "value": "月海弩"
+  }
+]

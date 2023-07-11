@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A space pirate favorite in plasma technology.\n^yellow;+Bouncy and Burny^reset;",
+    "value": "一把太空海盗使用的等离子武器。\n^yellow;附加弹力和烧伤效果"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Breach Blaster",
+    "value": "劫掠突击步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "A space pirate favorite in plasma technology.\n^yellow;+Bouncy and Burny^reset;",
+    "value": "一把太空海盗使用的等离子武器。\n^yellow;附加弹力和烧伤效果"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Breach Blaster^reset; ^yellow;^reset;",
+    "value": "^cyan;劫掠突击步枪^reset; ^yellow;"
+  }
+]

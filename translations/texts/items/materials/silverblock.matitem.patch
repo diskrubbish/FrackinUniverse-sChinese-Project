@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A whole block of silver.\n^green;Extractable^reset;.",
+    "value": "一大块银子！\n^green;可萃取^reset;。"
+  }
+]

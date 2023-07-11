@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Top-of-the-line computing power.",
+    "value": "拥有顶级的计算能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;Quantum Processor^reset;",
+    "value": "^#88e25b;量子处理器^reset;"
+  }
+]

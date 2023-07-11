@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A crateful of nothing.",
+    "value": "毫无用处"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Empty Crate",
+    "value": "空物品"
+  }
+]

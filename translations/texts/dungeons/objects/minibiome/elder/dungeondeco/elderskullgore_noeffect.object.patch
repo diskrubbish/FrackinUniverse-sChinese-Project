@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Someone has had their skull forcibly removed from their body.",
+    "value": "有人的头骨被强行从体内取出。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gory Skull",
+    "value": "血淋淋的头骨"
+  }
+]

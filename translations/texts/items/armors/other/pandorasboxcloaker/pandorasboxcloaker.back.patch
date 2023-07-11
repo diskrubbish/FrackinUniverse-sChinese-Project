@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A backpack that hides backwear.",
+    "value": "一件隐藏了背部装备的背包"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Backpack Cloaker",
+    "value": "隐形背包"
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/0",
+    "raw": "Dude. Why so violent?",
+    "value": "伙计，你为什么这么暴力？"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/1",
+    "raw": "Killin my buzz, dude.",
+    "value": "我要杀了你这个像只苍蝇的家伙！"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/2",
+    "raw": "Make love, not war. Jeez.",
+    "value": "天呐。要做爱，不要战争。"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/3",
+    "raw": "You came back?",
+    "value": "你又回来了？"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/4",
+    "raw": "So you came back.",
+    "value": "所以，你又回来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "raw": "Attack!",
+    "value": "进攻！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/0",
+    "raw": "Never mess with me!",
+    "value": "你永远别惹我！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/1",
+    "raw": "Victory!",
+    "value": "赢了！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/2",
+    "raw": "Phew!",
+    "value": "唷！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/3",
+    "raw": "Another victory!",
+    "value": "又是一次胜利！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/4",
+    "raw": "I didn't even break a sweat!",
+    "value": "我甚至都没出汗！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/5",
+    "raw": "Heh.",
+    "value": "嘿。"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/6",
+    "raw": "Of course I won!",
+    "value": "我赢了，这是当然的！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/7",
+    "raw": "I'm pretty good at this!",
+    "value": "这让我感觉很好！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/8",
+    "raw": "That was stressful...",
+    "value": "压力好大..."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/9",
+    "raw": "Another easy win!",
+    "value": "又是一次轻松的胜利！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/10",
+    "raw": "Yes!",
+    "value": "耶！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/11",
+    "raw": "That's what you get!",
+    "value": "这是你应得的！"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/0",
+    "raw": "I will get you one day!",
+    "value": "总有一天我会找到你的！"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/1",
+    "raw": "It's not over!",
+    "value": "还没完呐！"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/2",
+    "raw": "Don't come back!",
+    "value": "别回来！"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/3",
+    "raw": "Where are you...",
+    "value": "你在哪..."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/4",
+    "raw": "What a hassle.",
+    "value": "真是麻烦！"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/5",
+    "raw": "Just you wait!",
+    "value": "你给我站住！"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/0",
+    "raw": "Sneaky! This is sneaky! How did you disappear?",
+    "value": "潜行！这是潜行！你是怎么消失的？"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/1",
+    "raw": "They're getting away!",
+    "value": "他们跑了！"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/2",
+    "raw": "Where'd you go?",
+    "value": "你刚才去哪了？"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/3",
+    "raw": "Get back here!",
+    "value": "回来！"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/4",
+    "raw": "How did this happen?",
+    "value": "这是怎么发生的？"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/0",
+    "raw": "Get over here!",
+    "value": "来这儿！"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/1",
+    "raw": "Come here!",
+    "value": "来这里！"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/2",
+    "raw": "Get back here!",
+    "value": "回来！"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/3",
+    "raw": "How did you get over there?",
+    "value": "你是怎么到那儿的？"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/4",
+    "raw": "I can't reach!",
+    "value": "我不能到那里！"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/0",
+    "raw": "I have a plan!",
+    "value": "我有一个计划！"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/1",
+    "raw": "Get them!",
+    "value": "抓住他们！"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/2",
+    "raw": "Everybody is in my way.",
+    "value": "所有人都在挡我的路。"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/3",
+    "raw": "Why aren't they already dead?",
+    "value": "他们怎么还没死呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/4",
+    "raw": "Come on!",
+    "value": "来啊！"
+  }
+]

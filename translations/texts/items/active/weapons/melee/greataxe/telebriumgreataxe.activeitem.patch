@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Surprisingly light and agile.",
+    "value": "这把武器轻巧而又灵活，让人惊讶不已。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Greataxe",
+    "value": "月海巨斧"
+  }
+]

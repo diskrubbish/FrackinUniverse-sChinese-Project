@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A backpack with an attached halogen light. It's very bright!",
+    "value": "一种附加了卤素灯的背包，非常明亮！\n^green;发出明亮的光^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Halogen Pack",
+    "value": "卤素背包"
+  }
+]

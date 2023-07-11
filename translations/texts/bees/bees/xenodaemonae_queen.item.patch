@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Xenodaemonae Queen",
+    "value": "异种蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xenodaemonae Queen",
+    "value": "异种蜂后"
+  }
+]

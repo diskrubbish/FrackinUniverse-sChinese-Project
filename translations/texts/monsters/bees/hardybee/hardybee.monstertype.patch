@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hardy Bee",
+    "value": "勤劳蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This bee is more productive than the average honey bee.",
+    "value": "这种蜜蜂比普通蜜蜂更勤快。"
+  }
+]

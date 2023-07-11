@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sidearm of the ancient Precursor race.",
+    "value": "古代先驱种族使用的手枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Pistol",
+    "value": "先驱手枪"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Don't worry. The leaf is more durable than it looks!",
+    "value": "不用担心，这些叶子比看起来更耐用！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Autumnbop Mask",
+    "value": "秋波普面具"
+  }
+]

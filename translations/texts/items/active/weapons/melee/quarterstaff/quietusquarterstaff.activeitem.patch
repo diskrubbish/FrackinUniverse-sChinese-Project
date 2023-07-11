@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shiny, life-sucking staff of death.",
+    "value": "吸食生命的闪亮死亡之杖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quietus Quarterstaff",
+    "value": "寂灭双头棍"
+  }
+]

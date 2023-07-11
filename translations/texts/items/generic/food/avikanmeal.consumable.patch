@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A traditional Kadavan meal, a warrior's favourite.\n^cyan;+^white;20% ^cyan;HP ^gray;& ^cyan;EP ^gray;(^white;210s^gray;)\n^cyan;+^white;20% ^cyan;Rage ^gray;(^white;60s^gray;)^reset; ^orange;Type: Cooked Meat + Vegetables^reset;",
+    "value": "传统的卡达文主食，战士的最爱。\n^cyan;+^white;20%^cyan;HP^gray;和^cyan;EP^gray;(^white;持续210s^gray;)\n^cyan;+^white;20%^cyan;狂暴^gray;(^white;持续60s^gray;)^reset;\n^orange;类型：熟肉食+蔬菜^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kadavan Meal",
+    "value": "卡达文盖浇饭"
+  }
+]

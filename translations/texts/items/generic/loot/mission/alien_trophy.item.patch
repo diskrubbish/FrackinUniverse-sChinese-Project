@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Some form of broadcasting device.\n^green;Research in a microscope.^reset;",
+    "value": "某种广播设备。\n^green;在显微镜下研究。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alien Broadcast Node",
+    "value": "外星广播节点"
+  }
+]

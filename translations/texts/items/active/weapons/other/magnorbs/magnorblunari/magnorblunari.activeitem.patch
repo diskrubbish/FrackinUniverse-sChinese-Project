@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This lunari-forged weapon can both defend and attack. Quite useful.",
+    "value": "这把月晶锻造的武器用于防守和进攻相当奏效。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shard Field",
+    "value": "碎片之珠"
+  }
+]

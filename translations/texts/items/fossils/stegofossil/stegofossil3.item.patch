@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stegovapti Torso",
+    "value": "蒸汽剑龙躯干"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fossilised Stegovapti Torso.",
+    "value": "蒸汽剑龙躯干的化石。"
+  }
+]

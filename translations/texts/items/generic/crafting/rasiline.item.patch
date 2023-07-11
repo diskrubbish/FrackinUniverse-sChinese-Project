@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A holy gem to the Eld'uukhar. Produces severe hallucinations when consumed.",
+    "value": "对于厄休安龙人来说，这是一块神圣的宝石。食用后会产生严重的幻觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rasiline Crystal",
+    "value": "罗莎琳水晶"
+  }
+]

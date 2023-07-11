@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rapidly fired blasts of lunari charged projectiles.\n^yellow;Lights areas^reset;\n^green;Long-lived projectiles^reset;",
+    "value": "迅速发射的爆裂弓箭弹。\n^yellow;照亮区域^reset;\n^green;发射物长时间存在^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari SMG",
+    "value": "月晶SMG"
+  }
+]

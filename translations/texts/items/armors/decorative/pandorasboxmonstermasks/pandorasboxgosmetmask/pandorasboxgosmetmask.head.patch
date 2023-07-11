@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A somewhat popular item among our Hylotl customers.. I wonder why?",
+    "value": "不知怎么的，在我们的鲛人顾客中破受欢迎，我想知道是为什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gosmet Mask",
+    "value": "幽灵盔面具"
+  }
+]

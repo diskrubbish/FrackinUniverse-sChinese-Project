@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A complete set of ^green;Barracks^white; themed furniture. ^green;A savings of 25%!^reset;",
+    "value": "一整套^green;军营^white;主题家具。^green;节省25%!^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Barracks Set Bundle",
+    "value": "军营家具捆绑包"
+  }
+]

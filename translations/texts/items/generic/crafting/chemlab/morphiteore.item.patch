@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A lab-built custom alloy. Tough but malleable.",
+    "value": "一种在实验室中制造的定制合金，结实而富有韧性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;Morphite^reset;",
+    "value": "^#88e25b;异极合金^reset;"
+  }
+]

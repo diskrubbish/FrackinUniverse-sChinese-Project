@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A piece of the fabled Celaeno.",
+    "value": "一块来自传说中的昴星团的碎片。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Celaeno Fragment^reset;",
+    "value": "^#ffe50e;昴星团碎片^reset;"
+  }
+]

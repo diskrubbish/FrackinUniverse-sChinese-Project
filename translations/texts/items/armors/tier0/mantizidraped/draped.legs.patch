@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Thick, layered cloth. +^green;10^reset;% Energy Regen.",
+    "value": "厚而分层的布料。\n+^green;10^reset;能量回复。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Draped Skirt",
+    "value": "披挂裙子"
+  }
+]

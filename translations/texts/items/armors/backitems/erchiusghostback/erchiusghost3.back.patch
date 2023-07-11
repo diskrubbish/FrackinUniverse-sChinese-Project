@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides an ^orange;air supply^reset;, ^cyan;Ghost Immunity^reset; and a ^#00aa00;green glow^reset;. No penalty.",
+    "value": "提供^orange;氧气供给^reset;，^#e43774;幽灵免疫^reset;和^#00aa00;绿色光源^reset;。没有惩罚。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Black Erchius Buddy",
+    "value": "暗黑厄尔吉斯伙伴"
+  }
+]

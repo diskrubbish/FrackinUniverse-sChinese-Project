@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A good way to make something nasty even nastier.\n^cyan;+^white;20% ^cyan;EP ^gray;(^white;225s^gray;)^reset; \n^green;Type: Vegetable Dessert^reset;",
+    "value": "这是种让脏东西变得更脏的好方法。\nyan;+^white;20%^cyan;EP^gray;(^white;持续225s^gray;)^reset;\n^green;类型：蔬菜甜食^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bolbohn Jam",
+    "value": "波旁果酱"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Copperbeak",
+    "value": "铜喙鸟"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A handy farm animal, since they digest their food into copper pellets. Carnivore.",
+    "value": "一只便利的农场动物，可以把吃下的食物转化成铜矿石。肉食动物。"
+  }
+]

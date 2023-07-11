@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ghostly as a spirit.",
+    "value": "如鬼魅一般的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Phantasm Axe",
+    "value": "幻影斧"
+  }
+]

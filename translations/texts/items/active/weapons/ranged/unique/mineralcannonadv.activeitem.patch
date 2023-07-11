@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Enormous blasting potential.\n^yellow;Destroys tiles^reset;",
+    "value": "威力强大！\n^yellow;可破坏物块^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Particle Cannon",
+    "value": "粒子炮"
+  }
+]

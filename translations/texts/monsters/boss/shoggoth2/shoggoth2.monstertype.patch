@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shoggoth",
+    "value": "修格斯"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An unspeakable abomination out of a nightmare.",
+    "value": "一个来自噩梦的无法形容的梦魇。"
+  }
+]

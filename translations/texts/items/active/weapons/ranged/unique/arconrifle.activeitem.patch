@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Deadly and rapid fire plasma for spreading joy.\n^cyan;Counts as 'plasma' for set bonuses.^reset;",
+    "value": "致命、快速的等离子体，用于传播快乐。\n^yellow;等离子武器，^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "ArCon Rifle",
+    "value": "阿克恩步枪"
+  }
+]

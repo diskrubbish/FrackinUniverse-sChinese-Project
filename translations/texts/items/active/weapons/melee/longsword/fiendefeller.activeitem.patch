@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Blade of a fallen legend.\n^cyan;Inflicts Bleeding^reset;",
+    "value": "一把堕落的传奇之刃。\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fiendefeller",
+    "value": "弗里达砍伐者"
+  }
+]

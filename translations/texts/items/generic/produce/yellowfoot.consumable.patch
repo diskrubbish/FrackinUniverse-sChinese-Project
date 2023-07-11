@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Energy x1.15^reset;^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;能量x1.15^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Yellow-foot Mushroom",
+    "value": "黄脚菇"
+  }
+]

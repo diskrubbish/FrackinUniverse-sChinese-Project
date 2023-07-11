@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires unusual blasts that ignore physics.\n^yellow;Ignores walls^reset;",
+    "value": "射出忽视物理的异常爆炸。\n^yellow;穿墙攻击^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wave Gun",
+    "value": "波动枪"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Wave Burst",
+    "value": "波动爆射"
+  }
+]

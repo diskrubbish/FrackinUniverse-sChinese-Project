@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Inspects monsters.",
+    "value": "检验怪物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Monster Inspector",
+    "value": "怪物检查器"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Throw it down to release the creature captured inside!",
+    "value": "使用后将会激活捕捉到里面的生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Filled Capture Pod",
+    "value": "捕捉舱(满)"
+  }
+]

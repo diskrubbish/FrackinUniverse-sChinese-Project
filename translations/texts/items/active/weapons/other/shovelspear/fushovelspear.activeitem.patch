@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pierce the heavens, or at least the earth.",
+    "value": "可以捅破天空，或者刺穿大地。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "The Diginator",
+    "value": "挖掘终结者"
+  }
+]

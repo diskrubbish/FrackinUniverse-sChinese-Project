@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A decorative Neon Tube. Use a Material Mod Placer to place.",
+    "value": "一种装饰用的霓虹灯管。使用材料放置枪放置。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neon Tubing",
+    "value": "霓虹灯管"
+  }
+]

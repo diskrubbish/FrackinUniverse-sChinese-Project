@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange glyph with an embossed symbol.",
+    "value": "这个雕文上面刻着奇怪的文字。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Ancient Glyph^reset;",
+    "value": "^#ffe50e;远古雕文^reset;"
+  }
+]

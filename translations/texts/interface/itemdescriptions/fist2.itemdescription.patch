@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/levelTitleLabel/value",
+    "raw": "^yellow;Tier ^reset;",
+    "value": "^yellow;品级^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shiftClickLabel/value",
+    "raw": "^green;[Shift + Left Click]^reset; : Use Special",
+    "value": "^green;[Shift + 左键]^reset; : 使用特殊技能"
+  },
+  {
+    "op": "replace",
+    "path": "/critChanceTitleLabel/value",
+    "raw": "^#ee1414;Crit %^reset;",
+    "value": "^#ee1414;暴击率^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/critBonusTitleLabel/value",
+    "raw": "^yellow;Dmg +^reset;",
+    "value": "^yellow;暴击伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/damagePerShotTitleLabel/value",
+    "raw": "Damage :",
+    "value": "伤害："
+  },
+  {
+    "op": "replace",
+    "path": "/speedTitleLabel/value",
+    "raw": "Speed:",
+    "value": "攻击速度："
+  },
+  {
+    "op": "replace",
+    "path": "/comboFinisherTitleLabel/value",
+    "raw": "Finisher:",
+    "value": "终结伤害："
+  }
+]

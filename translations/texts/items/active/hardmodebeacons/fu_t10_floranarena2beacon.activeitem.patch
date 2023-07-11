@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Teleports the user to the ^orange;Silver Arena^reset; in the Nightmare World.\n^red;Environmental Hazards^reset;:\nUnyielding Madness",
+    "value": "将使用者传送至至位于噩梦世界的^orange;白银竞技场^reset;\n^red;环境危害^reset;:\n不可名状之怖"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beacon: ^orange;Silver Arena^reset;",
+    "value": "信标·^orange;白银竞技场reset;"
+  }
+]

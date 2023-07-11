@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Incredibly powerful neuron-based processor.",
+    "value": "基于神经元的极其强大的处理器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Neural Processor",
+    "value": "神经处理器"
+  }
+]

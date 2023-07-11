@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange slime with fascinating properties. May be toxic.",
+    "value": "一种奇怪的泥，有着有趣的特性。可能有毒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Putrid Slime",
+    "value": "腐泥"
+  }
+]

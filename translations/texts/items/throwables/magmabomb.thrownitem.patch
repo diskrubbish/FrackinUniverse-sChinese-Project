@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Magma Nodule",
+    "value": "岩浆炸弹"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Magma in a bomb. Nice.",
+    "value": "内部有岩浆的炸弹，超棒！（爆炸后生成少量岩浆）"
+  }
+]

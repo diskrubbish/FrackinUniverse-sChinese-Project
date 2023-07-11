@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Health x^green;1.05^reset;, Fall Damage x^green;0.85^reset;^reset;\n^yellow;^reset; Longsword or Axe: Damage x^green;1.15^reset;\n^yellow;^reset; ^cyan;Lush/Forest^reset;: Health x^green;1.05^reset;, Damage x^green;1.05^reset;, +^green;5^reset;% Phys. Resist^reset;",
+    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; 最大HPx^green;1.05^reset;, 坠落伤害x^green;0.85^reset;\n^yellow;^reset; 长剑/斧: 伤害x^green;1.15^reset;\n^yellow;^reset; ^cyan;葱郁/森林^reset;: 最大HPx^green;1.05^reset;, 伤害增幅x^green;1.05^reset;, +^green;5^reset;% 物理抗性"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bone Chest",
+    "value": "骨制胸甲"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A condensed rod of Deuterium.\n^blue;+^white;2 ^blue;Fuel^reset;",
+    "value": "一根浓缩的氘棒。\n^blue;燃料+^white;2^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Deuterium Rod",
+    "value": "氘棒"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Thick and weighty. Design by Sacre.",
+    "value": "用料扎实，异常沉重。由Sacre设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Durasteel Mace",
+    "value": "耐钢钉头锤"
+  }
+]

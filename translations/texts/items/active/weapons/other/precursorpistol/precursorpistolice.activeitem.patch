@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Frickin' Freezing!\n^yellow;Freeze enemies with cold^reset;",
+    "value": "这真的太冻了！\n^yellow;冻住敌人，伴随着寒冷^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Freeze Gun",
+    "value": "先驱冰冻枪"
+  }
+]

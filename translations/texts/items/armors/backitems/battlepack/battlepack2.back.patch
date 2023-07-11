@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Damage x1.15. +7 Health, +7 Energy, +7 Shield Bash.",
+    "value": "伤害x1.15。+7HP，+7能量，+7盾牌反伤。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Battle Pack II",
+    "value": "作战用背包 II"
+  }
+]

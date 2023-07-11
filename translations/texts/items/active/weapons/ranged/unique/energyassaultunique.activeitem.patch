@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A highly overtuned energy rifle with a plain steel body.\n^yellow;High efficiency^reset;\n^yellow;Counts as 'Energy' for set bonuses^reset;",
+    "value": "一支超高规格的能量步枪，普通钢制枪体。\n^yellow;高效^reset;\n^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wailin' Banshee",
+    "value": "报丧女妖"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Mr.Dependable^reset; ^yellow;^reset;",
+    "value": "^cyan;靠谱老哥^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "You've gone and made it even better.\n^yellow;High efficiency^reset;",
+    "value": "你把它变得更棒。\n^yellow;高效率^reset;"
+  }
+]

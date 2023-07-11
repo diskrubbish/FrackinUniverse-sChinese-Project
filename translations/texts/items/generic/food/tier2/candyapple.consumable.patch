@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "All the nutritious value of an apple masked by globs of sweet, sweet sugar. ^green;Type: Fruit Dessert^reset;",
+    "value": "一个苹果所有的营养成分都被晶莹剔透的糖衣包住了。\n^green;类型：水果甜食^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These remains are well into putrefaction stage. Nasty.",
+    "value": "这些遗骸已进入腐烂阶段。真恶心。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rotting cadaver",
+    "value": "腐烂尸体"
+  }
+]

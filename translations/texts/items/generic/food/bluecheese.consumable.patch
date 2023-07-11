@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Let's just say it was always blue.\n^purple;Glow^reset; ^cyan;300s^reset; \n^orange;Type: Dairy^reset;",
+    "value": "万事不易，蓝调叹气。\n^purple;发光^reset;^cyan;300s;^reset;\n^green;类型：蛋奶^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blue Cheese",
+    "value": "蓝纹奶酪"
+  }
+]

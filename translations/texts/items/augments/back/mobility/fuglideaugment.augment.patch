@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Significantly reduces your falling speed in the air.",
+    "value": "显著降低你的掉落速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glide",
+    "value": "EPP模块（滑翔）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Glide",
+    "value": "EPP模块（滑翔）"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An early skathmade broadsword.",
+    "value": "一把原始的绘世者工艺制造的宽剑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rustic Skath Blade",
+    "value": "绘世者战刃·低级"
+  }
+]

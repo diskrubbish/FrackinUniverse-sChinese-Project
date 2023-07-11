@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Tough wastestone.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "坚固的废墟石块。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wastestone Block",
+    "value": "废墟石块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Wastestone.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Wastessstone.",
+    "value": "废墟墟墟石头。"
+  }
+]

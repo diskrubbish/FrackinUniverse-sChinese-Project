@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Whose twisted idea was this?! Revolting! \n^cyan;-^red;15% ^green;HP^reset;",
+    "value": "这是谁的馊主意？恶心！ \n^cyan;-^red;15% ^green;HP^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bloody Boogerbread",
+    "value": "血腥鼻涕包"
+  }
+]

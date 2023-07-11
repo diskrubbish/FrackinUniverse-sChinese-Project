@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bunch of rough dirt.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "一块脏兮兮的土块。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rough Dirt",
+    "value": "脏土块"
+  }
+]

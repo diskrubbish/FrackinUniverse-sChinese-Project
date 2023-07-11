@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a drug specialist to increase jump height and speed, and reduces your ship's fuel costs by 5%.",
+    "value": "雇用一名药品学家，他能让你跳得更高、跑得更快，并且减少5％飞船燃料消耗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Drug Specialist Contract",
+    "value": "合同：药品学家"
+  }
+]

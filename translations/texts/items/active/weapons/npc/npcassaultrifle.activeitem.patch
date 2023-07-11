@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fully-automatic, military grade rifle, with decent stopping power and accuracy.",
+    "value": "一种全自动、军用级步枪，具有良好的停止作用和准确性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NPC Assault Rifle",
+    "value": "NPC的突击步枪"
+  }
+]

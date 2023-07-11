@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A floaty pet. Okay then.",
+    "value": "一只漂浮的宠物，好吧就这样。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gravity Harness",
+    "value": "重力项圈"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "raw": "Gravity Harness",
+    "value": "重力项圈"
+  }
+]

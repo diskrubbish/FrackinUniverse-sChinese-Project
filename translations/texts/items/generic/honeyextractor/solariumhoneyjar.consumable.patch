@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Top-shelf stuff.\n^cyan;+^white;15% ^pink;All ^cyan;Res ^gray;(^white;2m^gray;)\n^blue;+^white;10 ^blue;Fuel^reset;",
+    "value": "大补之物。\n^cyan;+^white;15%^pink;所有^cyan;抗性^gray;(^white;持续2m^gray;)\n^blue;燃料+^white;10^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quasar Honey Jar",
+    "value": "罐装类星体蜂蜜"
+  }
+]

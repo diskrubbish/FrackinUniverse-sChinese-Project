@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Can ^yellow;slow^reset;, ^blue;electrify^reset; and ^green;poison^reset; foes.\n^cyan;Floran^reset;",
+    "value": "对敌人造成^yellow;减速^reset;，^blue;感电^reset;和^green;中毒^reset;。\n^cyan;叶族^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Druid Staff",
+    "value": "德鲁伊法杖"
+  }
+]

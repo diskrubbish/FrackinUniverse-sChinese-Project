@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Briefcase o' Bees",
+    "value": "一公文包的……蜜蜂。"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Throw to release a swarm of bees!",
+    "value": "扔出去释放出一群愤怒的蜜蜂！\n^red;凯文你真他●的是个贱人^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Repair Bot",
+    "value": "维修机器人"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A robotic sentry designed for maintaining U.S.C.M. robots and machinery, it's armed for basic self-defense.",
+    "value": "一种用于维修的机械哨兵。但它也能战斗。"
+  }
+]

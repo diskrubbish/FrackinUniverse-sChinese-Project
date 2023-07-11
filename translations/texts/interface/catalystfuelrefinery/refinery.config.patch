@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": "  Mech fuel refinery",
+    "value": "  机甲燃料提炼厂"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": "  ^#b9b5b2;Refines mech fuel",
+    "value": "  ^#b9b5b2;提炼机甲燃料"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/toggleCrafting/caption",
+    "raw": "Refine",
+    "value": "提炼"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblText/value",
+    "raw": "^#b9b5b2;Place unrefined fuel and catalyst in the left slots to make mech fuel.",
+    "value": "^#b9b5b2;把未精炼的燃料和催化剂放在左边的槽子里制造机甲燃料。"
+  }
+]

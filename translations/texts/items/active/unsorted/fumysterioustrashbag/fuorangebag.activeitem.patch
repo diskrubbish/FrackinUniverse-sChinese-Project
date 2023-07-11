@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's quite heavy, must be a lot of oranges!",
+    "value": "真的很沉，里面一定有很多的橘子罢！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bag of Oranges",
+    "value": "一包橘子"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nocttop Queen",
+    "value": "夜舌娃女王"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The Scourge of Midnight planets...",
+    "value": "午夜行星的祸害..."
+  }
+]

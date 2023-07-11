@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystallite Shard",
+    "value": "晶粒镖"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ludicrously dangerous shards.",
+    "value": "这是异常危险的投掷型武器。"
+  }
+]

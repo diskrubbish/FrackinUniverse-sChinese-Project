@@ -1,0 +1,1454 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "raw": "Hello.",
+    "value": "你好"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/1",
+    "raw": "Hi.",
+    "value": "嗨。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/2",
+    "raw": "How's it going?",
+    "value": "进展如何？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/3",
+    "raw": "How's it?",
+    "value": "怎么样？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/4",
+    "raw": "Yo!",
+    "value": "哟！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/5",
+    "raw": "Hey, great to see you.",
+    "value": "嘿，很高兴见到你。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/6",
+    "raw": "Hey, what's up?",
+    "value": "嘿，怎么了？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/7",
+    "raw": "Oh hey, how's it going?",
+    "value": "哦，嘿，怎么样？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/8",
+    "raw": "You seem like a nice sort.",
+    "value": "你看起来很不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/9",
+    "raw": "Thanks for dropping by!",
+    "value": "感谢你的光临！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/10",
+    "raw": "Great to see you, pal.",
+    "value": "很高兴遇见你，pal。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/11",
+    "raw": "Hey, nice to meet you.",
+    "value": "嘿，很高兴遇见你。0"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/12",
+    "raw": "Ace meeting you.",
+    "value": "冠军来了。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/13",
+    "raw": "Nice meeting ya!",
+    "value": "很高兴见到拟！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/14",
+    "raw": "What's up?",
+    "value": "发生了什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/15",
+    "raw": "Hey.",
+    "value": "嘿。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/16",
+    "raw": "Hey! Welcome!",
+    "value": "嘿，欢迎！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/17",
+    "raw": "Alright?",
+    "value": "没事吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/18",
+    "raw": "Oh hey!",
+    "value": "哦，嘿！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/19",
+    "raw": "You alright?",
+    "value": "一切尚好？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/20",
+    "raw": "You good?",
+    "value": "你还好吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/21",
+    "raw": "Alright mate?",
+    "value": "伙计，没事吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/22",
+    "raw": "Welcome!",
+    "value": "欢迎！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/23",
+    "raw": "What you up to?",
+    "value": "你想做什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/24",
+    "raw": "Hellooo.",
+    "value": "你好好好好。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/25",
+    "raw": "Good to see you.",
+    "value": "见到你很高兴。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/26",
+    "raw": "How're things?",
+    "value": "一切安好？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/27",
+    "raw": "How's life treating you?",
+    "value": "生活对你怎么样？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/28",
+    "raw": "Hey, what's happening?",
+    "value": "嘿，发生什么了？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/slimeperson/0",
+    "raw": "Hello, fellow slime.",
+    "value": "你好，粘液小子。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/slimeperson/1",
+    "raw": "Anything interesting happening today?",
+    "value": "今天发生了什么趣事吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/slimeperson/2",
+    "raw": "Every time I see a regular human, I get a little worried that they might be rude.",
+    "value": "每次我看到一个正常人，我都会有点担心他们可能粗鲁失礼。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/slimeperson/3",
+    "raw": "I was in the slime world when I heard what happened to Earth.",
+    "value": "当我听说到发生在地球上的事情时，我还在史莱姆的世界里。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/slimeperson/4",
+    "raw": "I like being squishy.",
+    "value": "我喜欢软又湿。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/slimeperson/5",
+    "raw": "I don't think I've been sick even once since I mutated.",
+    "value": "我想我从变异后就没病过一次。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/slimeperson/6",
+    "raw": "We decided to leave the other slimes in peace after all that happened.",
+    "value": "在发生这一切之后，我们决定让其他的史莱姆们保持平静。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/slimeperson/7",
+    "raw": "Have you ever heard of 'Monster Musume'?",
+    "value": "你听说过“怪物博物馆”吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/slimeperson/8",
+    "raw": "It's kinda nice living out here.  Much more peaceful.",
+    "value": "住在这里真好。这里比之前住的地方更加和平。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/slimeperson/9",
+    "raw": "Becoming a slime really changed my opinion of those little slimes.",
+    "value": "变成一个史莱姆真的改变了我对那些黏液的看法。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/slimeperson/10",
+    "raw": "I used to be expedition's xenobiologist, but I didn't want to hurt the slimes.",
+    "value": "我曾经是探险队的异种生物学家，但我不想伤害史莱姆。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/slimeperson/11",
+    "raw": "Hey, you jelly?  So am I!  Ha!",
+    "value": "嘿，你是团果冻？我也是！哈！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/0",
+    "raw": "Hey, ape-dude!",
+    "value": "嘿，猿人！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/1",
+    "raw": "A talking monkey. Cool.",
+    "value": "一个正在说话的猴子。真酷。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/2",
+    "raw": "Are you gonna hurt me?",
+    "value": "你是打算伤害我吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/3",
+    "raw": "Just how big IS Big Ape?",
+    "value": "大猿究竟有多大？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/4",
+    "raw": "Didn't the Apex look kind of like us once?  Oh, uh... I mean like humans?",
+    "value": "这些猿人曾与我们相似，不是吗？额...我是在说人类。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/5",
+    "raw": "A monkey! Oh wait, monkeys have tails. An ape!",
+    "value": "一个猴子！哦等一下，猴子是有尾巴的...这是一个猿人！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/6",
+    "raw": "Aah!!! Oh, sorry - I have an irrational fear of chimpanzees, and your face... er... Sorry...",
+    "value": "啊！噢，抱歉......我对大猩猩有着说不说原因的恐惧，而且你的脸......额......真的抱歉......"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/7",
+    "raw": "I had a pizza with tuna and bananas on it once. Surprisingly good.",
+    "value": "我吃过一块比萨饼，上面有金枪鱼和香蕉。出奇的不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/8",
+    "raw": "Are all Apex good at science? It was my worst subject at school.",
+    "value": "猿人是不是都擅长科学？这是我在学校学的最糟糕的一门课程了。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/9",
+    "raw": "Sorry that the Apex are all oppressed and stuff.",
+    "value": "对于猿人被极权压迫的事情我感到很难过。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/10",
+    "raw": "Are the Apex continuously devolving? When do you get tails?",
+    "value": "猿人真的在持续退化吗？你什么时候会长出尾巴呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/11",
+    "raw": "I've heard bad things about the Miniknog, I'm not surprised you joined the Protectorate.",
+    "value": "我听说过关于科技发展部的坏事，我并不对你加入守护团的行为感到惊讶。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/12",
+    "raw": "Your hair is just magnificent.",
+    "value": "你的头发可真华丽。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/13",
+    "raw": "Who is \"Big Ape\"?",
+    "value": "“大猿人”是谁？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/14",
+    "raw": "Hey there, Apex!",
+    "value": "嘿这边，猿人！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/15",
+    "raw": "Have you ever tried shaving to pass as human?",
+    "value": "你有没有试过像人类一样剃毛发？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/16",
+    "raw": "The Miniknog sounds terrible!",
+    "value": "科技发展部真是骇人听闻！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/17",
+    "raw": "Awesome to see you, Apex!",
+    "value": "遇见你真棒，猿人！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/18",
+    "raw": "You guys are so cool.",
+    "value": "你这家伙可真酷。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/19",
+    "raw": "You reek of wet dog! Or, I guess, wet ape.",
+    "value": "你身上有落水狗狗的臭味！或者，我猜，是落水猿的味道。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/20",
+    "raw": "I've never met a Miniknog soldier. Are they scary?",
+    "value": "我从来没有见过科技发展部的士兵。他们吓人吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/21",
+    "raw": "You look pretty strong, like a wrestler.",
+    "value": "你看起来真强壮，就像一个摔跤手。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/22",
+    "raw": "Pleasure to make your acquaintance, ape.",
+    "value": "很高兴认识你，猿人。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/23",
+    "raw": "When I was a child I had a toy monkey that looked like you.",
+    "value": "当我还是一个孩子的时候，我有一个看起来与你很相像的玩具猴子。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/24",
+    "raw": "Oh geez, uh... hello.",
+    "value": "哦，嗯...你好。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/25",
+    "raw": "Suddenly remembering working in my old xenobiology lab...",
+    "value": "突然想起我以前在我的旧异种生物学实验室工作的日子..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/apex/26",
+    "raw": "Those poor monkeys... ... what?  Oh, uh... nothing!",
+    "value": "这些可怜的猴子......啥？哦，嗯...没啥！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/0",
+    "raw": "Hey, it's a big bird!",
+    "value": "嘿，这是只大鸟！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/1",
+    "raw": "Nice feathers there.",
+    "value": "多漂亮的羽毛。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/2",
+    "raw": "It's weird that you can't fly.",
+    "value": "你不能飞，这可真奇怪。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/3",
+    "raw": "Hey there, Avian!",
+    "value": "嘿这边，翼族人！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/4",
+    "raw": "I'm in a hurry, gotta fly. Oops, sorry, that was insensitive.",
+    "value": "我赶时间，得飞了。哎呀，对不起，那太麻木了。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/5",
+    "raw": "You look so warm and fluffy.",
+    "value": "你看起来很温暖，毛绒绒的。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/6",
+    "raw": "Who's this Kluex I keep hearing about, then?",
+    "value": "那么，到底谁是我一直在听到的克鲁西斯？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/7",
+    "raw": "I too am flightless.",
+    "value": "我也不会飞。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/8",
+    "raw": "I've never met an Avian I didn't like.",
+    "value": "我从来没有遇到过我不喜欢的翼族人。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/9",
+    "raw": "I hear your kind build grand temples. We used to do that too.",
+    "value": "我听说你们翼族建造了宏伟的寺庙。我们以前也这样做。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/10",
+    "raw": "I like birds; my uncle used to own parrots.",
+    "value": "我喜欢鸟儿; 我叔叔曾经养过鹦鹉。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/11",
+    "raw": "Don't worry, we're not too sticky.  Your feathers are safe.",
+    "value": "别担心，我们不算太粘。你的羽毛很安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/12",
+    "raw": "I saw one of those Avian towers once. People jump off those!?",
+    "value": "我曾经看过其中一座翼族塔楼。翼族人会从那些塔上面跳下去！？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/13",
+    "raw": "Have you ever tried sunflower seeds? I think you'd love them.",
+    "value": "你尝过太阳花种子吗？我觉你你会喜欢的。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/14",
+    "raw": "I study intergalactic religions - Kluex is just fascinating.",
+    "value": "我研究星际宗教——克鲁西斯真是令人着迷。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/15",
+    "raw": "Another Avian I met told me about the Celestial Towers. Chilling.",
+    "value": "我所遇到的另一个翼族人告诉了我水晶塔的相关事情。让人心寒。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/16",
+    "raw": "Can I borrow a feather to make a quill?",
+    "value": "如果我带一片羽毛来，我能不能制造一支羽毛笔？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/17",
+    "raw": "If an Avian and a snake had a baby, would it be a feather boa?",
+    "value": "如果一位翼族人和一只蛇有了一个孩子，它会是条羽毛围巾吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/avian/18",
+    "raw": "Avians are SO COOL!",
+    "value": "翼族人很酷。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/0",
+    "raw": "I used to work in a robotics lab.",
+    "value": "我以前在机器人实验室工作。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/1",
+    "raw": "Did you hear about our planet, Glitch? What do we do now?",
+    "value": "听得到我们的星球的声音吗，电子人？我们现在该做什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/2",
+    "raw": "How do you work?",
+    "value": "你是怎么运作的？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/3",
+    "raw": "Sometimes I like to pretend I'm an old timey knight!",
+    "value": "有时候我喜欢假装自己是个个老练的骑士！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/4",
+    "raw": "No bones about it, robots are just awesome.",
+    "value": "毫无疑问，机器人真是太帅了！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/5",
+    "raw": "Do you ever have to replace your eye bulbs?",
+    "value": "你们在过去有没有迫不得要已换掉眼球的时候？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/6",
+    "raw": "Jovial. Hello! Uh, I hope that wasn't offensive.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/7",
+    "raw": "I once made a Glitch costume out of cardboard.",
+    "value": "我曾用纸板做过电子人的服饰。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/8",
+    "raw": "The Glitch have a funny way of talking... Cuts out the flim-flam though.",
+    "value": "电子人有一种有趣的谈话方式...尽管这避免了废话。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/9",
+    "raw": "My dad is a mechanic, but I guess in Glitch terms he's a doctor.",
+    "value": "我父亲是一名机械师，但我想对于电子人方面来说方面他会是一名医生。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/10",
+    "raw": "You're a bit creaky, maybe you should oil your joints.",
+    "value": "你有点吱吱作响，也许你该给你的关节上点油。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/11",
+    "raw": "Don't worry, touching us won't corrode your fingers or anything.",
+    "value": "别担心，触摸我们不会腐蚀你的手指或任何东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/12",
+    "raw": "That's a nice alloy you've got there.",
+    "value": "你这身合金很不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/13",
+    "raw": "I've always wanted to hang out with a robot.",
+    "value": "我一直想和机器人一起出去闲逛。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/14",
+    "raw": "What's it like to be made of metal?",
+    "value": "由金属制成是种什么感觉？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/15",
+    "raw": "Who created you guys, then?",
+    "value": "谁在那时创造了你们这群家伙？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/16",
+    "raw": "I want armour like yours.",
+    "value": "我想要和你一样的盔甲。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/17",
+    "raw": "I love the way you guys talk.",
+    "value": "我喜欢你说话的方式。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/18",
+    "raw": "So lovely to meet you, Glitch!",
+    "value": "很高兴见到你，电子人！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/19",
+    "raw": "What metal are you made from?",
+    "value": "你是用什么金属制成的？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/20",
+    "raw": "Can you go in the water?",
+    "value": "你能浸一下水吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/21",
+    "raw": "You're quite small for a killer robot.",
+    "value": "作为一个杀手机器人，你相当可爱。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/glitch/22",
+    "raw": "You have the coolest face.",
+    "value": "你有着世界上最酷的脸庞。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/0",
+    "raw": "Yo there, Floran.",
+    "value": "哟，叶族人。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/1",
+    "raw": "You're pretty cute.",
+    "value": "你挺可爱的。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/2",
+    "raw": "I've read that most of your kind are savages. You don't seem to be.",
+    "value": "我读过的书中说你们叶族大部分人都是野蛮人。你似乎不是。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/3",
+    "raw": "You could do with a pruning.",
+    "value": "你可以修剪一下。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/4",
+    "raw": "It's hard to believe Floran could be lethal killers.",
+    "value": "很难相信叶族人会是致命的杀手。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/5",
+    "raw": "Do you guys have pollen?",
+    "value": "你们这些家伙身上有没有花粉？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/6",
+    "raw": "Do Floran ever get attacked by giant hummingbirds?",
+    "value": "叶族人有没有被巨型的蜂鸟袭击过？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/7",
+    "raw": "You make me think of the garden I had when I was growing up on Earth.",
+    "value": "你让我想起我在地球上长大时所拥有的花园。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/8",
+    "raw": "I met a greenfinger once - real nice guy... Or girl... Or neither?",
+    "value": "我曾经有一次遇到绿手指——是个很棒的人...或者是个女孩...或者两个都不是？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/9",
+    "raw": "Could you teach me how to hunt some time?",
+    "value": "如果有时间的话，你能不泵教我如何狩猎？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/10",
+    "raw": "I wish I was a Floran.",
+    "value": "我希望我上辈子是个叶族人。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/11",
+    "raw": "I've heard Floran can be pretty vicious, but you seem kinda nice.",
+    "value": "我听说叶族人非常凶残，但你似乎挺和善的。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/12",
+    "raw": "Which meat is the best meat?",
+    "value": "什么肉才是世界上最美味的肉呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/13",
+    "raw": "I want to go into spear production, do you think there's a market for it?",
+    "value": "我想从事矛的生产，你认为这有市场吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/14",
+    "raw": "You're so pretty.",
+    "value": "你是如此的漂亮。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/15",
+    "raw": "I'm scared of you.",
+    "value": "我害怕你。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/16",
+    "raw": "Do Floran ever get like 250ft tall, like a sequoia tree with a face?",
+    "value": "有没有叶族人长到250英尺高，像一棵有脸的红杉？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/17",
+    "raw": "I got my eye on you, Floran.",
+    "value": "我盯住你了，叶族人。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/18",
+    "raw": "It's pretty exciting to see you!",
+    "value": "很高兴见到你！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/19",
+    "raw": "I hear you and the fish people don't get on?",
+    "value": "我听说你们和鲛人无法和睦相处？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/20",
+    "raw": "I bet you've killed more monsters than I've had hot dinners.",
+    "value": "我敢打赌，你杀的怪物比我吃的热饭还多。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/21",
+    "raw": "Can you read?",
+    "value": "你能读一下？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/22",
+    "raw": "Florans are the best!",
+    "value": "叶族人天下第一！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/23",
+    "raw": "Don't even think about it.  Our bodies are toxic.",
+    "value": "想都别想。我们的身体是有毒的。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/floran/24",
+    "raw": "Some people tried eating slime jelly once.  Their bodies melted from the inside out.",
+    "value": "有人吃过一次史莱姆果冻。后来他们的身体从里到外的融化了。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/0",
+    "raw": "Oh hey, a giant fish.",
+    "value": "哦，嘿，一条巨大的鱼。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/1",
+    "raw": "Hah, oh my, you smell funny.",
+    "value": "啊哈，哦我的天，你闻起来真有趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/2",
+    "raw": "You remind me of holidays at the beach.",
+    "value": "你让我想起了在海滩度假的日子。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/3",
+    "raw": "A Hylotl, eh?",
+    "value": "一个鲛人，嗯？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/4",
+    "raw": "Nice to meet you, fishface.",
+    "value": "很高兴见到你，鱼脸人。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/5",
+    "raw": "I've had some problems with water ever since I became a slimeperson, but I'm still a pretty good swimmer.",
+    "value": "打从我成为一名史莱姆以来，我遇到了一些关于水的问题，但我仍然是一个非常棒的游泳健将。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/6",
+    "raw": "I've read ten books!",
+    "value": "我已经看了看了十本书！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/7",
+    "raw": "Hylotl art is pretty nice, I'm a fan.",
+    "value": "鲛人艺术十分出色，我也是粉丝之一。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/8",
+    "raw": "I had a pizza with tuna and bananas on it once. Surprisingly good.",
+    "value": "我吃过一块比萨饼，上面有金枪鱼和香蕉。出奇的不错。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/9",
+    "raw": "The Hylotl strive for peace, right? Same as humans. No wonder you're a Protector.",
+    "value": "鲛人们为和平而奋斗，对吧？ 就和人类一样。难怪你会是个守护者。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/10",
+    "raw": "I used to live by a beach on Earth. I miss it.",
+    "value": "我曾经住在地球上的海滩边。我好怀念。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/11",
+    "raw": "I don't read a lot of poetry, I find it too opaque.",
+    "value": "我没有读多少诗，我觉得它太晦涩了。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/12",
+    "raw": "I used to meditate, but I couldn't stand the quiet.",
+    "value": "我过去常常冥想，但我却不能忍受安静。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/13",
+    "raw": "I draw a little, maybe you'd like to take a look sometime?",
+    "value": "我绘制了一点小作品，也许你想找个时间观摩观摩？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/14",
+    "raw": "Do Hylotl ever dry out?",
+    "value": "鲛人有没有干透过？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/15",
+    "raw": "Seals are like dogs, but in the sea. All Hylotl should have seals.",
+    "value": "海豹就像狗，在海里。所有的鲛人都应该有只海豹。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/16",
+    "raw": "You're pretty awesome for a talking tuna.",
+    "value": "作为一个会说话的金枪鱼来说，你还蛮帅的。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/17",
+    "raw": "Welcome, Hylotl!",
+    "value": "欢迎，鲛人！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/18",
+    "raw": "Nice to meet you!",
+    "value": "很高兴见到你！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/19",
+    "raw": "I think I'll pass on going for a swim.",
+    "value": "我想我还是继续游泳吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/20",
+    "raw": "Something about you makes me want fish and chips. Can't put my finger on what.",
+    "value": "我也不清楚为什么，你的某些东西让我想吃炸鱼薯条。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/21",
+    "raw": "Living under water is cool.",
+    "value": "生活在水底下真酷，"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/22",
+    "raw": "I hear your architecture is stunning.",
+    "value": "我听说你们的建筑巧夺天工。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/23",
+    "raw": "You seem like a cultured kind of person.",
+    "value": "你似乎像是个有教养的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/24",
+    "raw": "Could you beat a shark in a fight? Maybe that's like asking if I could beat a tiger in a fight.",
+    "value": "你能打败一只鲨鱼吗？这就像是在问我能否打败一只猛虎一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/25",
+    "raw": "Talking fish, sharks with legs... man, I love space!",
+    "value": "会说话的鱼，有腿的鲨鱼...伙计，我喜欢太空！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/26",
+    "raw": "Our planet had many oceans. Then a tentacle monster happened.",
+    "value": "我们的星球曾有大片的海洋。直到后来一只触手怪出现了。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/27",
+    "raw": "You're one slick fish man.",
+    "value": "你是一个聪明的鱼人。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/28",
+    "raw": "We should hang out more often, fish.",
+    "value": "我们应该更频繁地闲逛，鱼人。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/29",
+    "raw": "Hah, we're both slimy!",
+    "value": "啊哈，我们都是黏糊糊的！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/30",
+    "raw": "Nice outfit, where'd you get it?",
+    "value": "不错的装备，你从哪儿搞到的？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/31",
+    "raw": "I miss the cool sea breeze.",
+    "value": "我想念凉爽的海风。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/0",
+    "raw": "Are you made of pure energy?",
+    "value": "你的身体是不是由纯粹能量组成的？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/1",
+    "raw": "Oh wow, I've never seen anyone like you before!",
+    "value": "哦，哇，我以前从没见过像你这样的人！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/2",
+    "raw": "Do you glow all the time, or is it like a switch you can turn off?",
+    "value": "你们是一直发光，还是像开关一样可以开关自如？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/3",
+    "raw": "Whoa, you're something new alright...",
+    "value": "哇，你真是崭新的好东西..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/4",
+    "raw": "Do you have eyes? How do you even see?",
+    "value": "你们有眼睛吗？没有的话，你们又是如何观察周围事物的呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/5",
+    "raw": "You look so cool. I wish I was you.",
+    "value": "你看起来真酷。我真希望我是你。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/6",
+    "raw": "You're so bright!",
+    "value": "你是如此的耀眼！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/7",
+    "raw": "What are you? ...Whatever you are, I like it.",
+    "value": "你是啥？...不管你是啥，我还是喜欢你。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/8",
+    "raw": "Howdy.",
+    "value": "你好。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/9",
+    "raw": "That's a pretty cool glow you've got going there.",
+    "value": "你这发光真是酷毙了。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/10",
+    "raw": "You would be a terrible \"murder in the dark\" player.",
+    "value": "你肯定会成为一个恐怖的“暗夜凶杀”玩家。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/11",
+    "raw": "Ow, my eyes. You're super bright.",
+    "value": "哇哦，我的眼睛，你真是亮爆了。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/12",
+    "raw": "Nice face.",
+    "value": "多俊的脸。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/13",
+    "raw": "Does your glow attract bugs at night? I collect bugs...",
+    "value": "你们的光会在晚上的时候吸引虫子吗，我捉一点虫子..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/14",
+    "raw": "I bet you're popular at parties!",
+    "value": "我打赌你就是派对上最亮的仔！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/15",
+    "raw": "You're not from around here, are you?",
+    "value": "你不是从附近来的，是吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/16",
+    "raw": "Wow, you're pretty brightly coloured! Are you off to a festival?",
+    "value": "哇，你真是五光十色！你去参加节日了吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/17",
+    "raw": "Okay, I've never seen anyone like you before.",
+    "value": "好吧，我之前还真没见过像你这样的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/18",
+    "raw": "Well, you're something I've not seen before.",
+    "value": "好吧，你是我之前从来没见过的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/19",
+    "raw": "Oh wow, you're made of plasma.",
+    "value": "哦，哇，你是由等离子构成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/20",
+    "raw": "You Novakids are awesome.",
+    "value": "你们这些星之子可真帅。"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/0",
+    "raw": "Hey, what're you doing?",
+    "value": "嘿，你在做什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/1",
+    "raw": "Put that back, please.",
+    "value": "请把东西放回去。"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/2",
+    "raw": "Can't you just scan and replicate that or something instead of taking it?",
+    "value": "能不能扫描这件物品，或者复制一份，而不是直接拿走它？"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/3",
+    "raw": "What's going on here?",
+    "value": "这里发生了什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/default/default/0",
+    "raw": "Where the heck's a guard when you need one?!",
+    "value": "当你需要警卫的时候，警卫他娘的在哪里？！"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/default/default/1",
+    "raw": "Stop stealing my stuff!",
+    "value": "不要再偷我的东西！"
+  },
+  {
+    "op": "replace",
+    "path": "/alert/default/default/2",
+    "raw": "Oh come on, stop it!",
+    "value": "哦快点，阻止它！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/0",
+    "raw": "I liked this place the way it was before.",
+    "value": "我喜欢这个地方以前的样子。"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/1",
+    "raw": "Can you put things back the way they were?",
+    "value": "你能把东西放回原来位置吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/2",
+    "raw": "Something doesn't feel right.",
+    "value": "感觉事情有些不对劲。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/0",
+    "raw": "Could you patch that hole for me?",
+    "value": "你能为我补上那个洞口吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/1",
+    "raw": "This place's seen better days.",
+    "value": "这地方风光不再。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/2",
+    "raw": "I'm feeling a bit of a draft here.",
+    "value": "我觉得这里有一点草拟。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default/0",
+    "raw": "I still live here.  Why'd you put up another deed?",
+    "value": "我还住在这里,你为什么又提出另一个契约？"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default/1",
+    "raw": "What're you doing, <entityname>?",
+    "value": "你在做什么，<entityname>？"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default/2",
+    "raw": "It'd have been nice to be informed beforehand about this sorta thing.",
+    "value": "被事先告知这件事真是在好不过了。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default/3",
+    "raw": "This place's already occupied.",
+    "value": "这个地方已经被占用了。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/0",
+    "raw": "If things stay in this state, I'm heading elsewhere.",
+    "value": "如果事态继续这样下去，我会前去别的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/1",
+    "raw": "Come on, <entityname>.  I can't live like this.",
+    "value": "快一点，<entityname>。我真的受不了了。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/2",
+    "raw": "Can't you just fix things back to normal?",
+    "value": "你就不能让这些东西恢复原样吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/0",
+    "raw": "That's it I'm outta here.",
+    "value": "就这样，我要离开这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/1",
+    "raw": "Alright, I get the message.  I'm gone.",
+    "value": "很好，我得到了情报。我将要出发了。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/2",
+    "raw": "Time to set up shop somewhere else, I guess.",
+    "value": "我想是时候到别的地方去开店了。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/3",
+    "raw": "I hope your future tenants are treated better than this.",
+    "value": "我希望你未来的租户得到更好的待遇。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/0",
+    "raw": "Hey, <entityname>.  Did you need anything?",
+    "value": "嘿。<entityname>，你需要什么吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/1",
+    "raw": "Did you need me?",
+    "value": "你需要我在身边吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/2",
+    "raw": "What's up, <entityname>?",
+    "value": "发生了什么，<entityname>？"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/0",
+    "raw": "Here, I'd like you to have this.",
+    "value": "这里，我想拥有这个。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/1",
+    "raw": "Here you go, <entityname>.",
+    "value": "拿去吧，<entityname>。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/2",
+    "raw": "I hope this'll do.",
+    "value": "我希望就这样。"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/0",
+    "raw": "Oh shoot, HELP!!",
+    "value": "哦，有人开枪，救命！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/1",
+    "raw": "If anyone's got a weapon, take that thing out!!",
+    "value": "如果有人带了武器，那就给我抄家伙！！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/2",
+    "raw": "KILL IT!!  KILL IT!!",
+    "value": "干掉它！干掉它！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/3",
+    "raw": "Aaaaghhhh!!",
+    "value": "啊啊啊啊啊！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/4",
+    "raw": "Guards!!",
+    "value": "防御！！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/5",
+    "raw": "Why didn't I take a weapon with me?!",
+    "value": "我为什么不拿上自己的武器呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/6",
+    "raw": "Where's a toolbox when you need one?!",
+    "value": "当你需要工具箱的时候它在哪里？"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/7",
+    "raw": "Help!",
+    "value": "救命！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/8",
+    "raw": "I don't wanna die!",
+    "value": "我还不想死！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpthem/default/default/0",
+    "raw": "Somebody do something!",
+    "value": "快来人来做点什么！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpthem/default/default/1",
+    "raw": "I'd help, but I don't have a weapon!  Can you help them?!",
+    "value": "我会帮忙的，但我没有武器！你能帮帮他们吗？！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpthem/default/default/2",
+    "raw": "Oh geez, somebody help!",
+    "value": "哦天哪！，快来人帮忙！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpthem/default/default/3",
+    "raw": "Please, help them!!",
+    "value": "拜托，救救他们！！"
+  },
+  {
+    "op": "replace",
+    "path": "/encourage/default/default/0",
+    "raw": "Go go go!",
+    "value": "冲冲冲！"
+  },
+  {
+    "op": "replace",
+    "path": "/encourage/default/default/1",
+    "raw": "Get 'em!",
+    "value": "抓住他们！"
+  },
+  {
+    "op": "replace",
+    "path": "/encourage/default/default/2",
+    "raw": "Take 'em out!",
+    "value": "带他们出去！"
+  },
+  {
+    "op": "replace",
+    "path": "/encourage/default/default/3",
+    "raw": "Whoo!",
+    "value": "喔喔！"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/0",
+    "raw": "Phew!",
+    "value": "唷！"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/1",
+    "raw": "Thank you!",
+    "value": "谢谢你！"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/2",
+    "raw": "I hope that doesn't happen too often.",
+    "value": "我希望这不会经常发生。"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/3",
+    "raw": "Survived another day.  Whew...",
+    "value": "又活了一天。唷..."
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/4",
+    "raw": "This place could use a better defense setup.",
+    "value": "这地方可以用上更好的防御体系。"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/5",
+    "raw": "Geez...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/6",
+    "raw": "Safe!  For the moment.",
+    "value": "暂时安全了！"
+  }
+]

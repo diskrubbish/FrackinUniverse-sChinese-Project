@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Your pet gets a poison aura!\n^green;+40%^reset; Poison Resistance",
+    "value": "装备后，你的宠物可获得毒液光环！\n^green;+40^reset;%毒素抗性"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Poison Aura Collar II",
+    "value": "毒液光环项圈II"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "raw": "Poison Aura II",
+    "value": "毒液光环II"
+  }
+]

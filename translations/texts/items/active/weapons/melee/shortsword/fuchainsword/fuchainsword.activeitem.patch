@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A brutally efficient blade that chews targets up.\n^cyan;Causes Bleeding^reset;",
+    "value": "残忍高效的链刃，将目标撕碎。别惹战天使。\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chain Blade",
+    "value": "链刃"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Massacre Blade^reset; ^yellow;^reset;",
+    "value": "^cyan;屠戮之刃^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Time to cut them down to size.\n^cyan;Causes Heavy Bleeding^reset;",
+    "value": "是时候把他们切成碎片了。\n^cyan;附加严重的出血效果^reset;"
+  }
+]

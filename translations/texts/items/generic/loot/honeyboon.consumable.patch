@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A long-lasting honey repellant.\n^pink;Honey Slow ^cyan;Immunity ^gray;(^white;5m^gray;)^reset;",
+    "value": "一种持久的蜂蜜防护剂。\n赋予^pink;蜂蜜减速^cyan;免疫^gray;(^white;持续5m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honeyboon Stim",
+    "value": "蜂蜜药剂"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Miner Bee",
+    "value": "矿工蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A variety of bee with an attraction to shiny objects.",
+    "value": "这种蜜蜂会被闪闪发光的物体所吸引。"
+  }
+]

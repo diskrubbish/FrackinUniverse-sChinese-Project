@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Goldensaint Bee",
+    "value": "圣金蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A goldensaint bee.",
+    "value": "一只圣金蜜蜂。"
+  }
+]

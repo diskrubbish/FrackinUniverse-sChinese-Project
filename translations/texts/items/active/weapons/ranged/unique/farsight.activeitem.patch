@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Brutal long ranged rifle.\n^yellow;Inflicts bleeding^reset;",
+    "value": "残酷的远距离步枪。\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "FarSight XR-20",
+    "value": "XR-20 远视狙击枪"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Fusion Shredder",
+    "value": "溶解弹幕"
+  }
+]

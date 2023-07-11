@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "A Hidden castle between the mountins on a snow planet. The Nightar king's fort, it is either abandoned, or has scanners jammers.",
+    "value": "这颗冰雪行星的群山之间有一座隐蔽的城堡。夜王城堡，它可能是被遗弃，也可能有着扫描干扰器。"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Visit Nightfort",
+    "value": "拜访夜王城堡"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Visit Nightfort",
+    "value": "拜访夜王城堡"
+  }
+]

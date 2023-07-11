@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tarpin",
+    "value": "焦油布丁怪"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Packs a fire-jet attack and loves to excrete tar all over the place.",
+    "value": "背负一台火箭进行攻击，喜欢把焦油排泄得到处都是。"
+  }
+]

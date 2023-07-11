@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Phantokat",
+    "value": "黑化猫"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Even more vile than their lesser cousins.",
+    "value": "比他们的小表弟更卑鄙。"
+  }
+]

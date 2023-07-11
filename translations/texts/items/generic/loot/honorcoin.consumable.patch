@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "When consumed it provides a defense boost.",
+    "value": "使用后提供防御增强。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honor Coin",
+    "value": "荣耀硬币"
+  }
+]

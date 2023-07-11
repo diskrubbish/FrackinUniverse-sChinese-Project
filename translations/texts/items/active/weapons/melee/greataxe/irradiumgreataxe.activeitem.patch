@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Not at all fun to be cleaved by.\n^cyan;+12% Stun chance^reset;",
+    "value": "劈来劈去一点也不好玩。\n^cyan;眩晕几率+12^reset;%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Greataxe",
+    "value": "镭制巨斧"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A gemstone often used to strengthen Emera to create more sturdy fabric.",
+    "value": "一种宝石，经常用来加强艾米拉，以创造更坚固的织物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Upilite Crystal",
+    "value": "优普利水晶"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Advanced metals form a fantastic building alloy.",
+    "value": "先进金属构成的奇妙建筑材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hi-Tech Alloy Block",
+    "value": "高科技合金块"
+  }
+]

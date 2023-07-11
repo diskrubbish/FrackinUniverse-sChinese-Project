@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Robotic Spider",
+    "value": "机器蜘蛛"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Eight metallic pincing legs and a heart full of love.",
+    "value": "八条金属钳状的腿，再加上一颗一颗充满爱的心。"
+  }
+]

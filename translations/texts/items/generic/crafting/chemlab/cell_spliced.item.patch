@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An engineered cell.",
+    "value": "一个工程化细胞。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spliced Cell",
+    "value": "拼接细胞"
+  }
+]

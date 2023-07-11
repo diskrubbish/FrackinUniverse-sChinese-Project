@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/levelLabelTitle/value",
+    "raw": "^yellow;Tier ^reset;",
+    "value": "^yellow;品级^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/critChanceTitleLabel/value",
+    "raw": "^#ee1414;Crit %^reset;",
+    "value": "^#ee1414;暴击率^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/critBonusTitleLabel/value",
+    "raw": "^yellow;Dmg +^reset;",
+    "value": "^yellow;暴击伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/maxDamageTitleLabel/value",
+    "raw": "Base Max Damage:",
+    "value": "基础最大伤害："
+  },
+  {
+    "op": "replace",
+    "path": "/energyPerShotTitleLabel/value",
+    "raw": "Energy Per Shot:",
+    "value": "每击耗能："
+  }
+]

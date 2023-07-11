@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An enhanced brain, perfect for transplanting.",
+    "value": "增强过的大脑，非常适合移植。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Artificial Brain",
+    "value": "人造大脑"
+  }
+]

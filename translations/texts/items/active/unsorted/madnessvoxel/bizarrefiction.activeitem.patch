@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Weird fiction that is completely bonkers.",
+    "value": "完全疯狂的猎奇小说。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bizarre Fiction",
+    "value": "猎奇小说"
+  }
+]

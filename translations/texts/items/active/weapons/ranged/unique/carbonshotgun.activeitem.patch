@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "S-mart's top of the line.\n^cyan;Stuns enemies^reset;",
+    "value": "S-marts的一线武器。\n^cyan;眩晕敌人^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "S-Mart Special",
+    "value": "S-Mart特种霰弹枪"
+  }
+]

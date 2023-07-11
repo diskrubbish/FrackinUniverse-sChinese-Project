@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Immune^reset;: Pressure, Extreme Heat/Cold, Mild Radiation/Poison, Proto, Lava/L.Nitro",
+    "value": "^cyan;免疫^reset;：压强，岩浆，极端炎热/寒冷，轻度毒素/辐射，原毒，岩浆/液氮"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chitron Mech Body",
+    "value": "Chitron机甲躯体"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Isn't hazardous to your health! (We promise.)",
+    "value": "这对您的健康无害！(我们保证)"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quagmutt Hat",
+    "value": "沼泽犬帽"
+  }
+]

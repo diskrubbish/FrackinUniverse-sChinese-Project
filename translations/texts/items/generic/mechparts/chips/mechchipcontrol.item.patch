@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Increases mech maneuverability and jump power but lowers speed.",
+    "value": "增强机甲的机动性和跳跃能力，但降低速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Acrobat Module",
+    "value": "特技模块"
+  }
+]

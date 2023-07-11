@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Powerful and wonderous.",
+    "value": "充满力量和奇迹。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Quarterstaff",
+    "value": "赛德瑞瑟长棍"
+  }
+]

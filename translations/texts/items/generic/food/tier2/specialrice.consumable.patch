@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This pleasantly filling dish leaves you with a warm feeling. ^orange;Type: Grain + Eggs^reset;",
+    "value": "这道菜的分量喜闻乐见的多，能暖和你的身体。\n^orange;类型：谷物 + 鸡蛋^reset;"
+  }
+]

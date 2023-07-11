@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Glass made from refined crystal.",
+    "value": "由精炼水晶制成的玻璃。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Advanced Crystal Glass",
+    "value": "高级水晶玻璃"
+  }
+]

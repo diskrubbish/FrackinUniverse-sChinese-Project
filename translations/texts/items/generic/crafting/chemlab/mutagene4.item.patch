@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Vibrant with moving colors, this bizarre substance can alter the structure of cells.",
+    "value": "具有鲜明色彩的奇异物质，可以改变细胞的结构。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Durable Mutagene",
+    "value": "长效诱变剂"
+  }
+]

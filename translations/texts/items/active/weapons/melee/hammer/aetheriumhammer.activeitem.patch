@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Slam them with cosmic force.\n^yellow;Stun^reset; and apply ^cyan;Minor Vulnerability^reset;.",
+    "value": "用宇宙之力砸扁你的敌人。\n造成^yellow;击晕^reset;并^cyan;附加错调瑕疵效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Hammer",
+    "value": "阳清锤"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Retribution be thy name.",
+    "value": "业为汝名。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Aetherium Daemonslayer",
+    "value": "阳清屠魔者"
+  }
+]

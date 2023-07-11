@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Bouncy, Immune to Fall Damage^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;弹性, 免疫坠落伤害^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ighant Bulb",
+    "value": "艾恩茎"
+  }
+]

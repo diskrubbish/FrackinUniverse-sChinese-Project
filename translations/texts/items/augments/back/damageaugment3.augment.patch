@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that grants: Damage x^green;1.15^reset;",
+    "value": "一个赋予伤害x^green;1.15^reset;的EPP模块。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Supreme fire rate with wild projectiles.",
+    "value": "这把枪能够出高速的疯狂弹跳的弹丸。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wildfire",
+    "value": "野火"
+  }
+]

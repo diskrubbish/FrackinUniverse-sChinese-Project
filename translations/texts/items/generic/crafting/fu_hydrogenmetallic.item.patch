@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A quantum-viable super-conductor.\n^blue;+^white;10 ^blue;Fuel^reset;",
+    "value": "一种以量子形式存在的超导气体。\n^blue;燃料+^white;10^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metallic Hydrogen",
+    "value": "金属氢"
+  }
+]

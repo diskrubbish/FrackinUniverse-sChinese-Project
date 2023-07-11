@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Gelatin flavored with Hylotl blood.\n^cyan;+^white;10% ^pink;Poison ^cyan;Res^gray;, ^pink;Poisoned ^cyan;Immunity ^gray;(^white;2m^gray;)^reset;",
+    "value": "沾有鲛人血的风味明胶。\n^cyan;+^white;10%^pink;毒素^cyan;抗性^gray;，赋予^pink;中毒^cyan;免疫^gray;(^white;持续2m^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bluelotl Jelly",
+    "value": "蓝鲛果冻"
+  }
+]

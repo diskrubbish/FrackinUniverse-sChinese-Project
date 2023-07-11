@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fortified penumbral stone panels",
+    "value": "强化过的半影石板"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbral Panel",
+    "value": "半影面板"
+  }
+]

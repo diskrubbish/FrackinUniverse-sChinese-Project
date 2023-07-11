@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A slice of warm, eggy bread. Delicious. ^orange;Type: Grain + Eggs^reset;",
+    "value": "一片暖洋洋的蛋黄面包，美味十足。\n^green;类型：谷物 + 蛋奶^reset;"
+  }
+]

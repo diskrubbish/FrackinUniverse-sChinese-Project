@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hunter Bee",
+    "value": "狩猎蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An omnivorous bee that preys on less fortunate insects.",
+    "value": "一种杂食性蜜蜂，捕食倒了霉的昆虫。"
+  }
+]

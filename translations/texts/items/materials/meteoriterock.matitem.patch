@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An extremely hard rock found just outside the atmosphere.\n^green;Extractable^reset;, ^orange;Crushable^reset;, ^red;Smeltable^reset;.",
+    "value": "一一种坚硬无比的岩石，只在大气层外出现。\n^green;可萃取^reset;，^orange;可粉碎^reset;，^red;可冶炼^reset;。"
+  }
+]

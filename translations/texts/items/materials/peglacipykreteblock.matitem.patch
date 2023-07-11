@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block made of pykrete.\n^green;Extractable^reset;.",
+    "value": "一个由派克瑞特制成的方块。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pykrete Block",
+    "value": "派克瑞特块"
+  }
+]

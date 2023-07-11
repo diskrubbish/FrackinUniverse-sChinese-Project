@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Colorful, sharp, and one-handed.\n^yellow;Counts as 'energy' for set bonuses^reset;",
+    "value": "多彩、锋利、单手握持的武器。\n^yellow;能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prismatic Longsword",
+    "value": "棱镜长剑"
+  }
+]

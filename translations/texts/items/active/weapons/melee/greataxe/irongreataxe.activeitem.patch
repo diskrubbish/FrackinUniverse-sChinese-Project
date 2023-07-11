@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A somewhat crude iron greataxe.",
+    "value": "这把粗糙的斧头是由铁制成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Greataxe",
+    "value": "铁制巨斧"
+  }
+]

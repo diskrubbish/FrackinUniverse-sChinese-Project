@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Whip/Rapier: Damage x^green;1.25^reset;",
+    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; 鞭/刺剑: 伤害 x^green;1.25^reset;"
+  }
+]

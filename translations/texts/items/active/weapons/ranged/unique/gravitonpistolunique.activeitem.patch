@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A famous modified Graviton pistol thought lost forever.\n^yellow;Causes Freeze^reset;\n^green;Powerful knockback^reset;",
+    "value": "一个著名的改进型重力手枪的想法永远地消失了。\n^cyan;附加冻结效果^reset;\n^cyan;强力的击退^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffdb31;Susan^reset;",
+    "value": "^#ffdb31;苏珊^reset;"
+  }
+]

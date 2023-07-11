@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hires a basic medic to help keep you alive and kicking.",
+    "value": "雇用一名基础的医疗学家，他能让你生存得更好。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Medic Contract",
+    "value": "合同：医疗学家"
+  }
+]

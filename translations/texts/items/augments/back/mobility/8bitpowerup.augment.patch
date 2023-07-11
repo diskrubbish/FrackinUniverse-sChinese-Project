@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;+15% Speed^reset;\n  ^orange;+20% Jump^reset;\n  ^cyan;+10 Air Force^reset;",
+    "value": "^cyan;移动速度+15%，跳跃力+20%，空中攻击+10^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "8-Bit Powerup",
+    "value": "EPP模块（8位元之力）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "8-Bit Powerup",
+    "value": "EPP模块（8位元之力）"
+  }
+]

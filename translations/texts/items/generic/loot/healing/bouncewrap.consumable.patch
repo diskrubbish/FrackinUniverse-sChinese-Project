@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Gives you tremendous bounce.",
+    "value": "带给你巨大的弹跳能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Bounce Wrap^reset;",
+    "value": "^#77acc3;弹跳包^reset;"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A powerful energy rifle.\n^cyan;Hunting and Energy weapon^reset;",
+    "value": "一把强力的能量步枪。\n^cyan;狩猎与能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kirhosi Rifle",
+    "value": "啮齿步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Kirhosi Rifle II^reset; ^yellow;^reset;",
+    "value": "^cyan;啮齿步枪II^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Perfection.\n^cyan;Hunting and Energy Weapon^reset;",
+    "value": "完美。\n^cyan;狩猎和能量武器^reset;"
+  }
+]

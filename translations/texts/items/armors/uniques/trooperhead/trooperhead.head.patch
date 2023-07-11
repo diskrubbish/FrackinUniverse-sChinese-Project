@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Built for frontline infantry.",
+    "value": "专为前线的步兵打造。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tactical Combat Helm",
+    "value": "战术作战头盔"
+  }
+]

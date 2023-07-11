@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/lightregen/label",
+    "raw": "Photonic Regen Rate",
+    "value": "光子再生速率"
+  },
+  {
+    "op": "replace",
+    "path": "/darkregen/label",
+    "raw": "Counter-Photonic Regen Rate",
+    "value": "反光子再生速率"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeable/label",
+    "raw": "Upgradeable",
+    "value": "可升级"
+  },
+  {
+    "op": "replace",
+    "path": "/fuCharisma/label",
+    "raw": "Charisma",
+    "value": "魅力"
+  }
+]

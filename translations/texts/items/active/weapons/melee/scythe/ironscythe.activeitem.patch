@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Good ol' sharp and deadly iron!",
+    "value": "锋利致命！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Scythe",
+    "value": "铁制镰刀"
+  }
+]

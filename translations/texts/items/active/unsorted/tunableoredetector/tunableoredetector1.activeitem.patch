@@ -1,0 +1,110 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precision Ore Detector",
+    "value": "精密矿石探测器"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Precision Ore Detector MKII ^cyan;^reset;",
+    "value": "精密矿石探测器 MKII ^cyan;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "Precision Ore Detector MKIII ^yellow;^reset;",
+    "value": "精密矿石探测器 MKIII ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/description",
+    "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/shortdescription",
+    "raw": "Precision Ore Detector MKIV ^yellow;^reset;",
+    "value": "精密矿石探测器 MKIV ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters4/description",
+    "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters4/shortdescription",
+    "raw": "Precision Ore Detector MKV ^cyan;^reset;",
+    "value": "精密矿石探测器 MKV ^cyan;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters5/description",
+    "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters5/shortdescription",
+    "raw": "Precision Ore Detector MKVI ^red;^reset;",
+    "value": "精密矿石探测器 MKVI ^red;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters6/description",
+    "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters6/shortdescription",
+    "raw": "Precision Ore Detector MKVII ^red;^reset;",
+    "value": "精密矿石探测器 MKVII ^red;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters7/description",
+    "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters7/shortdescription",
+    "raw": "Precision Ore Detector MKVIII ^#e43774;^reset;",
+    "value": "精密矿石探测器 MKVIII ^#e43774;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters8/description",
+    "raw": "Shift+click to configure. Scans one ore at a time. ^green;Fully Upgraded^reset;.",
+    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n^green;已完全升级^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters8/shortdescription",
+    "raw": "Precision Ore Detector MKIX ^#e43774;^reset;",
+    "value": "精密矿石探测器 MKIX ^#e43774;^reset;"
+  }
+]

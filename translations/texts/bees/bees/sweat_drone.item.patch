@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sweat Drone",
+    "value": "勤劳工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sweat Drone",
+    "value": "勤劳工蜂"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This might harm foes.",
+    "value": "这可能会伤到敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rare Greataxe",
+    "value": "精良巨斧"
+  }
+]

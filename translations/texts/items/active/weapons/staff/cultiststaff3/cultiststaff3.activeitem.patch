@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fashioned from bones and petrified wood.",
+    "value": "用骨头和化石木制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Staff of Madness",
+    "value": "怪异疯病"
+  }
+]

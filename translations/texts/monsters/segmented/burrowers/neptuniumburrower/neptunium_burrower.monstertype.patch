@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Burrower",
+    "value": "挖掘"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A camoflauged worm burrowing through the earth",
+    "value": "一只在地里钻来钻去的拟态蠕虫"
+  }
+]

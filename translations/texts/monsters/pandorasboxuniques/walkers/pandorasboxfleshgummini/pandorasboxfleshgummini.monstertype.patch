@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flesh Gummini",
+    "value": "肉胶胶"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Even the smallest Flesh Gummi chunks can become Flesh Gumminis.",
+    "value": "即使是最小的血肉咕米也可以变成肉胶胶。"
+  }
+]

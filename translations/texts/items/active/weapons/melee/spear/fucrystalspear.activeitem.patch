@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shimmering, beautiful death.\n^cyan;Hunting weapon^reset;",
+    "value": "微光，然后美丽地逝去。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crystal Spear",
+    "value": "水晶长矛"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Has it just melted my teeth?!\n^yellow;^reset;^cyan;+20% Run^reset;: 40s\n^yellow;^reset;^red;Burning^reset;: 10s",
+    "value": "它刚刚融掉了我的牙齿？！\n^yellow;^reset;^cyan;+20%速度^reset;: 40s\n^yellow;^reset;^red;烧伤^reset;: 10s"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Phasefruit",
+    "value": "相位果"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Prevents nasty bee stings!",
+    "value": "防止讨厌的蜜蜂蜇伤你。\n^cyan;免疫蜂蛰^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bee Keeper's Helm",
+    "value": "养蜂人帽子"
+  }
+]

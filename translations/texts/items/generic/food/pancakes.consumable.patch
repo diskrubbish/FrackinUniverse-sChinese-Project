@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A favorite in every galaxy. ^orange;Type: Vegetables + Dairy + Eggs^reset;",
+    "value": "颇受任何星系的人们的喜爱。\n^green;类型：蔬菜 + 蛋奶^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pancakes",
+    "value": "煎饼"
+  }
+]

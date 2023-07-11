@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A juice that can taste like anything! ^green;Type: Fruit^reset;",
+    "value": "包含所有味道的果汁！\n^green;类型：水果^reset;"
+  }
+]

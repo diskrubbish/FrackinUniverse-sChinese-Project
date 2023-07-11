@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Both tasty and useful! Not!\n^yellow;^reset;^cyan;Health x1.2^reset;: 1m\n^yellow;^reset;^red;Burning^reset;: 10s",
+    "value": "不尝尝，心刺挠！呕！\n^yellow;^reset;^cyan;最大HPx1.2^reset;: 1m\n^yellow;^reset;^red;烧伤^reset;: 10s"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Violiroot",
+    "value": "维奥根"
+  }
+]

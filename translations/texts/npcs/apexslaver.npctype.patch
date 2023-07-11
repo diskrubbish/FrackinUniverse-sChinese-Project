@@ -1,0 +1,146 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/default/default/0",
+    "raw": "What is freedom, if not another form of slavery?",
+    "value": "什么才是自由？或许那是另一种奴役的形式。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/default/0",
+    "raw": "What is freedom, if not another form of slavery?",
+    "value": "什么才是自由？或许那是另一种奴役的形式。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/default/1",
+    "raw": "Servitude awaits us all, stranger.",
+    "value": "我们都会变成奴隶的，陌生人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/default/2",
+    "raw": "We do this because we must, stranger.",
+    "value": "我们必须这么做，陌生人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/default/3",
+    "raw": "Questioning our methods will only get you killed, stranger.",
+    "value": "质疑我们的下场只有死，陌生人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/default/4",
+    "raw": "Big Ape is watching us all, stranger.",
+    "value": "大猿人正在看着我们，陌生人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/default/5",
+    "raw": "You're no Apex, stranger. You're safe if you don't cause trouble.",
+    "value": "陌生人，你不是猿族人，如果你不惹麻烦的话，那么你就是安全的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/default/6",
+    "raw": "Be on your way, traveller.",
+    "value": "你该上路了，旅行者。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/default/7",
+    "raw": "Free will is a myth.",
+    "value": "自由将是一个骗局。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/default/8",
+    "raw": "There is no freedom without servitude.",
+    "value": "那里没有自由只有奴役。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/default/9",
+    "raw": "Big Ape will free us all, stranger.",
+    "value": "大猿人将会让我们获得自由，陌生人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/default/10",
+    "raw": "We're captives too, of a kind.",
+    "value": "我们都成为俘虏了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/default/11",
+    "raw": "The Miniknog watch over us. Closely.",
+    "value": "保持警惕，科技发展部正在盯着我们。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/apex/0",
+    "raw": "Be gone from here if you value your freedom, sibling.",
+    "value": "如果你珍惜你的自由，就从这里离开吧，朋友。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/apex/1",
+    "raw": "We'll turn a blind eye to you for now, sibling.",
+    "value": "我们对你一无所知，人类。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/apex/2",
+    "raw": "You surely do not believe you've escaped Big Ape's gaze.",
+    "value": "难以置信，你竟然逃离了大猿人的监视。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/apex/3",
+    "raw": "The Apex will rise, sibling.",
+    "value": "猿族将会复兴，人类。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/apex/4",
+    "raw": "You are no more free than I, Resistance fighter.",
+    "value": "除了我，没人能给你自由，抵抗者。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/apex/5",
+    "raw": "You'd fetch a good price. Luckily you're not on my list.",
+    "value": "你应该能卖个好价钱，可惜你并不在我的名单上。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/apex/6",
+    "raw": "This is not enjoyable work, sibling. Do not be so quick to judge me.",
+    "value": "这可不是有意思的工作，人类。别对我妄下定论。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/apex/7",
+    "raw": "Big Ape... I hear him, even now.",
+    "value": "即使现在，我还是能够听到大猿人...的声音。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/apex/8",
+    "raw": "Beware the Miniknog, sibling. Do not get complacent.",
+    "value": "小心科技发展部，人类。不要自满。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/apex/9",
+    "raw": "Go, sibling, go far from here.",
+    "value": "走吧，人类，离开这里。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/hail/apex/apex/10",
+    "raw": "Live free, sibling. Live free.",
+    "value": "自由地生活，人类。为了自由地生活。"
+  }
+]

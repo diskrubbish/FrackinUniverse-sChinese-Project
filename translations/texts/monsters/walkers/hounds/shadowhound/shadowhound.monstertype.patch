@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Hound",
+    "value": "暗影猎犬"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hates ponex as much as any smart creature should.",
+    "value": "像任何聪明的生物一样憎恨彩虹小马。"
+  }
+]

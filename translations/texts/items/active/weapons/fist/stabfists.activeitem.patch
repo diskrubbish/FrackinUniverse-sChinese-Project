@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strap these blades to your hands. Fun ensues.",
+    "value": "把这些刀片绑在你的手上。乐趣随之而来。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Fists",
+    "value": "铁制拳套"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vampiradon Skull",
+    "value": "吸血龙头骨"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fossilised Vampiradon skull.",
+    "value": "吸血龙头骨的化石。"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "raw": "Vampiradon Fossil",
+    "value": "吸血龙化石"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "raw": "An ancient bat of giant proportions.",
+    "value": "一种拥有巨大体量的古代蝙蝠"
+  }
+]

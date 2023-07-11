@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Evil lurks within.",
+    "value": "里面隐藏着可怕的恶魔。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mask of Nekron",
+    "value": "黑死帝面具"
+  }
+]

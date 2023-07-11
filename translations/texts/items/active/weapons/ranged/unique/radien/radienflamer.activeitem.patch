@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Radthrower",
+    "value": "艾肯射辐器"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires deadly radiation streams.\n^yellow;Causes Radiation Burn^reset;",
+    "value": "发射致命辐射风暴。\n^yellow;导致辐射烧伤^reset;"
+  }
+]

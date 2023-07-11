@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A girder made of steel.",
+    "value": "由钢制成的梁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Steel Girder",
+    "value": "钢制梁"
+  }
+]

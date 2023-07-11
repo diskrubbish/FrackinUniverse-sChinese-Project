@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Swim Boost 2 ^gray;(^white;220s^gray;)^reset;",
+    "value": "^cyan;游泳加速2^gray;(持续220s)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Deepwater Stim",
+    "value": "深海药剂"
+  }
+]

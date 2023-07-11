@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shoots sharp bone shards that cause enormous pain.\n^cyan;Bio Weapon^reset;",
+    "value": "射出锋利的骨头碎片，造成极度的痛苦。\n^cyan;生物武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bone Shard Thresher",
+    "value": "碎骨打叶机"
+  }
+]

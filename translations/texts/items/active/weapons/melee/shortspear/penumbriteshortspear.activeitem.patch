@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stab from the shadows...with shadow.\n^cyan;Universal Damage^reset;",
+    "value": "从阴影中刺出来...用阴影之力。\n^cyan;通用伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbral Shortspear",
+    "value": "半影短矛"
+  }
+]

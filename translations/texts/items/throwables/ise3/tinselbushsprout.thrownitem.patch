@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tinselbush Dart",
+    "value": "钨金镖"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fun to throw at living things to make them not alive anymore. Oddly, also tills any surface. Extract for tungsten.",
+    "value": "把它们丢向某些活着的生物实在是太有趣了。奇怪的是，它还可以在任何地面耕作。能从中提取出钨。"
+  }
+]

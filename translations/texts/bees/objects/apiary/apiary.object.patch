@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A bee breeding apiary.",
+    "value": "小小的蜜蜂的家。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apiary",
+    "value": "蜂房"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Harvest honey!",
+    "value": "收获蜜蜂！"
+  }
+]

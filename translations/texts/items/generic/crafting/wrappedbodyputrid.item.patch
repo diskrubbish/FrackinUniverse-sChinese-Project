@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rotting, putrid corpse best avoided by the sane.",
+    "value": "一具腐烂、发臭的尸体，理智告诉你最好还是避开它。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wrapped Putrid Corpse",
+    "value": "被包裹的腐烂尸体"
+  }
+]

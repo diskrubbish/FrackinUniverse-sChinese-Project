@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This glowing device is marked with ancient, unknown script.",
+    "value": "这个发光的装置表面铭刻有古老且未知的文字。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Engraved Device^reset;",
+    "value": "^#ffe50e;浮雕装置^reset;"
+  }
+]

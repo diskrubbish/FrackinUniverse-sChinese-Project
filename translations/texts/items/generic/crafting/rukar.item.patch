@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A blood red gem.",
+    "value": "一颗血红色的宝石。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Rukar Crystal",
+    "value": "卢卡尔水晶"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bones and plates and increased bone toughness.",
+    "value": "增加你骨骼的柔韧性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skeletal Structure",
+    "value": "骨骼基因"
+  }
+]

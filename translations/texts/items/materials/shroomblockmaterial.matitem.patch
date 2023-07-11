@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Soft, pliable fungus\n^green;Extractable^reset;.",
+    "value": "又软又有韧性的真菌。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shroom Wall",
+    "value": "蘑菇墙"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "For the truly blood-crazed warrior.\n+^green;25^reset;% Ice Resist",
+    "value": "为生而渴血的狂战士设计。\n+^green;25^reset;% 寒气抗性"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Xix Helm",
+    "value": "蚁族 Xix 头盔"
+  }
+]

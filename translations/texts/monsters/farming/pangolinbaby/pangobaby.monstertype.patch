@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pangolin Pup",
+    "value": "小穿山甲"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A newborn pangolin! It'll eat most vegetables, fruits and prepared meats.",
+    "value": "一只刚出生的穿山甲，它什么都吃。"
+  }
+]

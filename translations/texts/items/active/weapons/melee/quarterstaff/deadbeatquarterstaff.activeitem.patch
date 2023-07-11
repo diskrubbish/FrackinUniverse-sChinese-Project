@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rusty chainsaws taped to the ends? Sure. Why not. Seems totally viable.",
+    "value": "把生锈的链锯贴在两端？当然，为什么不呢？这完全行得通。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Junk Quarterstaff",
+    "value": "废料长棍"
+  }
+]

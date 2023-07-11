@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stalwart Young Queen",
+    "value": "幼年的忠诚蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Stalwart Queen",
+    "value": "幼年忠诚蜂后"
+  }
+]

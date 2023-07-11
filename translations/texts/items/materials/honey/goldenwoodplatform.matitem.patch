@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A golden-looking wooden platform.",
+    "value": "一个金色的木制平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Wood Platform",
+    "value": "金色木制平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uncommon. This is like the basic wood platform, but it has a strange gold hue.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Pretty wood platformsss.",
+    "value": "漂亮的平平平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Huh. A platform made outta some kinda gold wood.",
+    "value": "呵。一个用金色的木材制成的平台。"
+  }
+]

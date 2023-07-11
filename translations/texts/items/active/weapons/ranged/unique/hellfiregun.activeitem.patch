@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dangerous weapon in any hand. Watch out for fire.\n^yellow;Inflicts burning^reset;\n^green;Erupting projectile^reset;",
+    "value": "属于危险武器，请勿靠近易燃易爆物。\n^cyan;附加燃烧效果^reset;\n^yellow;爆发弹^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hellfire Gun",
+    "value": "地狱火之枪"
+  }
+]

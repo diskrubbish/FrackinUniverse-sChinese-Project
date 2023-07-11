@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange, poisonous shotgun.",
+    "value": "一把猎奇毒辣的霰弹枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Shotgun",
+    "value": "月海霰弹枪"
+  }
+]

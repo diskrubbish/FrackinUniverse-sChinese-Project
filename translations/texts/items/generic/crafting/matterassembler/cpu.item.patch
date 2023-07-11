@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A high-end processor.",
+    "value": "一块高端的处理器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Advanced Processor^reset;",
+    "value": "^#77acc3;高级处理器^reset;"
+  }
+]

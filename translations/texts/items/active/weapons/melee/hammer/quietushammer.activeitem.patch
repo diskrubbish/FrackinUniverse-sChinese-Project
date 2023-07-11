@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A solid, dangerous weapon for a true warrior.\n^cyan;Inflicts Poison^reset;",
+    "value": "对于一个真正的战士来说，这是一个坚实而危险的武器。\n^cyan;附加中毒效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quietus Hammer",
+    "value": "寂灭锤"
+  }
+]

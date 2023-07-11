@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bricks carved from shadowy rock.\n^green;Extractable^reset;.",
+    "value": "由暗影石雕刻而成的砖块。\n^green;可萃取^reset;。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Click a gift box to select reward category.",
+    "value": "单击以选择奖励类别。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Loot Box",
+    "value": "战利品箱"
+  }
+]

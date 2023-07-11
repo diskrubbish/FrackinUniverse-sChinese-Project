@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "'A high tech minigun that fires plasma rounds.'",
+    "value": "发射等离子弹的高科技机枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Plasma Minigun",
+    "value": "绘世者机枪·等离子"
+  }
+]

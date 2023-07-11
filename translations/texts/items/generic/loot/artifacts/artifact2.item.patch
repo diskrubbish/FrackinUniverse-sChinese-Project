@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange, unknowably ancient artifact.\n^green;Research in a microscope.^reset;",
+    "value": "一个陌生的、不可知的上古造物。\n^green;在显微镜下研究。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Ancient Artifact^reset;",
+    "value": "^#ffe50e;古代遗物^reset;"
+  }
+]

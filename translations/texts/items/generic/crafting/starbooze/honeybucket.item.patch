@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A wooden bucket dripping with golden honey",
+    "value": "只是一些桶装蜂蜜。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honey-filled Bucket",
+    "value": "桶装蜂蜜"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Expensive. Sharpened. Fun.",
+    "value": "制作昂贵，不过乐趣十足！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Golden Chakram",
+    "value": "金制环刃"
+  }
+]

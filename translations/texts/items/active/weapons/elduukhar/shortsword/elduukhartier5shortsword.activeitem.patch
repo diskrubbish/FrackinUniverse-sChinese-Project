@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An elegantblade, more compact than its predecessor.",
+    "value": "一把优雅的刀刃，比它的前身更加简洁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fused Thanatite Shortsword",
+    "value": "熔炼的心叶石短剑"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Adult Magmatop",
+    "value": "成年岩浆吐舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "I don't recommend petting one of these. Absolutely lethal.",
+    "value": "我不建议把它们收为宠物，太致命了。"
+  }
+]

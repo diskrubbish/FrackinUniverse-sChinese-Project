@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Minion",
+    "value": "古代仆从"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Its movement is determined by temperature levels in the atmosphere.",
+    "value": "它的运动由大气中的温度水平决定。"
+  }
+]

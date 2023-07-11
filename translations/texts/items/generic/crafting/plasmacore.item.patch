@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A pulsing core of energized plasma. \n^blue;+^white;250 ^blue;Fuel^reset;",
+    "value": "一个激发等离子体的脉冲核心。\n^blue;燃料+^white;250^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasma Core",
+    "value": "等离子核心"
+  }
+]

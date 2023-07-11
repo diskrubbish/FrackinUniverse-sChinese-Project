@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gelatinous Block",
+    "value": "凝胶块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Thickened jelly. It's really tempting to eat it.",
+    "value": "黏稠的果冻块，看起来很美味。"
+  }
+]

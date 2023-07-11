@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that resists the Radioactive element, ^green;+25% Rad Resist, Rad-Burn Immunity^reset;.",
+    "value": "一个能够抵抗放射元素的EPP模块。\n^cyan;放射抗性+25%；免疫辐射烧伤^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Radioactive Barrier",
+    "value": "EPP模块（放射屏障）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Radioactive Barrier",
+    "value": "EPP模块（放射屏障）"
+  }
+]

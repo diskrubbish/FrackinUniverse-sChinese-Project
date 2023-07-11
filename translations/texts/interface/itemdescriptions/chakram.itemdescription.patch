@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/levelTitleLabel/value",
+    "raw": "^yellow;Tier ^reset;",
+    "value": "^yellow;品级^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/maxDamageTitleLabel/value",
+    "raw": "Base Damage:",
+    "value": "基础伤害："
+  },
+  {
+    "op": "replace",
+    "path": "/knockbackTitleLabel/value",
+    "raw": "Knockback:",
+    "value": "击退："
+  },
+  {
+    "op": "replace",
+    "path": "/distanceTitleLabel/value",
+    "raw": "Max Distance:",
+    "value": "最大距离："
+  },
+  {
+    "op": "replace",
+    "path": "/critChanceTitleLabel/value",
+    "raw": "^#ee1414;Crit %^reset;",
+    "value": "^#ee1414;暴击率^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/critBonusTitleLabel/value",
+    "raw": "^yellow;Dmg +^reset;",
+    "value": "^yellow;暴击伤害^reset;"
+  }
+]

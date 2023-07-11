@@ -1,0 +1,128 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelSpeciesRadio/value",
+    "raw": "^#8d8d8d;SPECIES",
+    "value": "^#8d8d8d;种族"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelMale/value",
+    "raw": "^#8d8d8d;MALE",
+    "value": "^#8d8d8d;男性"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelFemale/value",
+    "raw": "^#8d8d8d;FEMALE",
+    "value": "^#8d8d8d;女性"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelCustomise/value",
+    "raw": "^#8d8d8d;CUSTOMISE",
+    "value": "^#8d8d8d;装扮"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelName/value",
+    "raw": "^#8d8d8d;NAME",
+    "value": "^#8d8d8d;姓名"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelDifficulty/value",
+    "raw": "^#8d8d8d;DIFFICULTY",
+    "value": "^#8d8d8d;难度"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelRandomise/value",
+    "raw": "RANDOMISE:",
+    "value": "随机选择:"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelToggleClothing/value",
+    "raw": "Show clothing",
+    "value": "显示衣物"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelPortrait/value",
+    "raw": "HUMAN",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/saveChar/caption",
+    "raw": "Done",
+    "value": "完成"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/cancel/caption",
+    "raw": "Cancel",
+    "value": "取消"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelCasualMode/value",
+    "raw": "CASUAL",
+    "value": "取消"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelSurvivalMode/value",
+    "raw": "SURVIVAL",
+    "value": "生存"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelHardcoreMode/value",
+    "raw": "HARDCORE",
+    "value": "硬核"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/mode/buttons/0/data/description",
+    "raw": "No need to eat and no death penalties.",
+    "value": "不需要吃东西，也没有死亡惩罚。"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/mode/buttons/1/data/description",
+    "raw": "Eat to survive, drop items on death.",
+    "value": "进食以生存，死亡时掉落物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/mode/buttons/2/data/description",
+    "raw": "When you die your character stays dead!",
+    "value": "当你死的时候，你的角色就死了！"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelSpeciesRadio2/value",
+    "raw": "^#8d8d8d;SPECIES",
+    "value": "^#8d8d8d;种族"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/name/regex",
+    "raw": "[a-zA-Z0-9 '-]{0,16}",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/name/hint",
+    "raw": "Name",
+    "value": "命名"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblSkipIntro/value",
+    "raw": "Skip intro mission",
+    "value": "跳过新手教程"
+  }
+]

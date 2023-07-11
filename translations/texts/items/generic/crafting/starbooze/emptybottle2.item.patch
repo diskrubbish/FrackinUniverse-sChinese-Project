@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just an empty glass bottle.",
+    "value": "只是一个空玻璃瓶。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Empty Glass Bottle",
+    "value": "空玻璃瓶"
+  }
+]

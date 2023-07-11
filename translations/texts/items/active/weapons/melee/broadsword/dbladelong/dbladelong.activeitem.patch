@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A powerful two-handed sword with neat techy bits.",
+    "value": "一把由优美锻造工艺制成的强大双手剑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tek Blade",
+    "value": "泰克宽剑"
+  }
+]

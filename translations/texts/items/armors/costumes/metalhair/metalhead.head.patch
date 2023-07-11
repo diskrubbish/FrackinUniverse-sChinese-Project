@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Adorable man-eater.",
+    "value": "可爱的食人鲨"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Metalhead Hair",
+    "value": "合金头盔"
+  }
+]

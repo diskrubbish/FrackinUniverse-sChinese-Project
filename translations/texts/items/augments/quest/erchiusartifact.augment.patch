@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "E. Regen x^green;1.15^reset;\n^green;+Glow^reset;",
+    "value": "能量恢复x^green;1.15^reset;\n^green;+发光^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Erchius Shard",
+    "value": "厄尔吉斯晶体碎片"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Erchius Shard",
+    "value": "厄尔吉斯晶体碎片"
+  }
+]

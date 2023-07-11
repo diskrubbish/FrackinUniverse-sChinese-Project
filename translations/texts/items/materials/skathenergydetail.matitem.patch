@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Skath flooring embedded with glowing plasma tubes.",
+    "value": "镶嵌着发光等离子管的绘世者地板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skath Energy Detail",
+    "value": "绘世者能量细部"
+  }
+]

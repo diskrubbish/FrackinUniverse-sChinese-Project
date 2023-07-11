@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Open to gently float while falling.",
+    "value": "开启时缓慢降落。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Floatbulb",
+    "value": "艾肯浮泡"
+  }
+]

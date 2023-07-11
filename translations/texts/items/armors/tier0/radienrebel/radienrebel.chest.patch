@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A crop top worn by X'i war rebels. ^reset;+5%^reset; to Mental Protection.",
+    "value": "一种艾肯反叛军所穿的露脐装。\n精神抗性^green;+5^reset;%"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'i Tailored Shirt",
+    "value": "艾肯特制衬衫"
+  }
+]

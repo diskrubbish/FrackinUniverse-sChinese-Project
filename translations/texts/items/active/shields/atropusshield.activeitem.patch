@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;+0.05% HP Regen, Immune: Insanity^reset;",
+    "value": "^green;生命恢复速度+0.05%；免疫精神错乱^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fleshrot Shield",
+    "value": "腐烂盾"
+  }
+]

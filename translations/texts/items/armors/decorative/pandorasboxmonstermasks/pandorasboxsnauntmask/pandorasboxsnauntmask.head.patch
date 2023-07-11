@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Non-Toxic and kid friendly!",
+    "value": "无毒且对儿童友好！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Snaunt Mask",
+    "value": "吐槽蛇面具"
+  }
+]

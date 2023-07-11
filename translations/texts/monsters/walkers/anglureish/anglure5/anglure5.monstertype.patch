@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dusk Anglure",
+    "value": "黄昏安格鲁尔"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Emits a dense, shadowy gas. Not friendly.",
+    "value": "散发出浓密而模糊的气体。一点都不友好。"
+  }
+]

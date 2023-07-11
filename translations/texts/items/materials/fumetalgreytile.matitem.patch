@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Solid and unyielding tile.",
+    "value": "坚实不屈的地砖。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Alloy Floor Tile",
+    "value": "合金地板砖"
+  }
+]

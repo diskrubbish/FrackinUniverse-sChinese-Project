@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Used to summon your pets to your side.\nHold ^green;Shift^reset; to summon crew instead.\n^red;Consumes ALL energy^reset;",
+    "value": "将你的宠物传送至身旁。\n按住^green;Shift^reset;召唤船员。\n^red;消 耗 所 有 能 量^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Companion Recall Device",
+    "value": "伙伴召回装置"
+  }
+]

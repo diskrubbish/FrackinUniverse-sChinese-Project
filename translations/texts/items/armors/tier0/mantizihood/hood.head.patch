@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A simple hood to shield your sensitive eyes from the harsh light of the sun.",
+    "value": "这个简单的兜帽可以使眼睛免受严酷阳光的伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Black Hood",
+    "value": "黑色兜帽"
+  }
+]

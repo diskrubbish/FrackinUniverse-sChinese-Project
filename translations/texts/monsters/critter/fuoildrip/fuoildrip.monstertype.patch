@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aliveoil",
+    "value": "泥团怪"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Great little pet. Also amazing for cooking. Cruel, but delicious!",
+    "value": "超棒的小宠物。也可以用来做料理。残忍，但好吃！"
+  }
+]

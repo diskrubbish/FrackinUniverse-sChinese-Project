@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "All things related to heat.",
+    "value": "与热量有关。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyrogenic",
+    "value": "热原基因"
+  }
+]

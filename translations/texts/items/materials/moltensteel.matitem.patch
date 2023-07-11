@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Can be used to cook with, if desperate.\n^green;Extractable^reset;.",
+    "value": "如果你快死了，可以作为烹饪的材料。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Molten Steel Stone",
+    "value": "钢水石"
+  }
+]

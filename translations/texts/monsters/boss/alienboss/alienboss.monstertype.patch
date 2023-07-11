@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Flesh Tyrant",
+    "value": "血肉暴君"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Perfection.",
+    "value": "完美。"
+  }
+]

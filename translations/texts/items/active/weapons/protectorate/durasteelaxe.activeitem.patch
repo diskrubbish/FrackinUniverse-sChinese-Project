@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Few axes would surpass this masterpiece.",
+    "value": "只有一小部分的武器能与之媲美。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Durasteel Axe",
+    "value": "耐钢斧"
+  }
+]

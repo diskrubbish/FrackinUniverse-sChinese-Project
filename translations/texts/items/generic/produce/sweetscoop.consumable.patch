@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Energy x1.2^reset;: 2m \n^green;Type: Fruit^reset;",
+    "value": "^yellow;^reset;^cyan;能量x1.2^reset;: 2m\n^green;类型：水果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sweetscoop",
+    "value": "糖果笼"
+  }
+]

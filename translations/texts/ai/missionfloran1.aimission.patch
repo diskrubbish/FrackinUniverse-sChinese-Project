@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Ceremonial Hunting Caverns(3)",
+    "value": "狩猎聚会洞穴(3)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Revisit the Ceremonial Hunting Caverns(3)",
+    "value": "重新挑战狩猎聚会洞穴(3)"
+  }
+]

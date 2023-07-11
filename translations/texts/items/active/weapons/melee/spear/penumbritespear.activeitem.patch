@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The shadowy tip is great for poking.\n^cyan;Universal Damage^reset;",
+    "value": "这柄阴暗的尖矛很适合戳刺。\n^cyan;通用伤害^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Penumbral Spear",
+    "value": "半影长矛"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A crown for the King of the Nightar.",
+    "value": "一顶由夜族之王所戴的王冠。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Crown",
+    "value": "夜族王冠"
+  }
+]

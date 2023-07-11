@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Oxygen x^green;30^reset;",
+    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; 氧气时长x^green;30^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Spacepunk Pants",
+    "value": "太空朋克裤子"
+  }
+]

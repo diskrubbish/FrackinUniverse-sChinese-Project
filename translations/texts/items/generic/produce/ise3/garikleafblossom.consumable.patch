@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+50% Run^reset;, ^cyan;Low Gravity^reset;: 1m",
+    "value": "^yellow;^reset;^cyan;+50%速度^reset;, ^cyan;低重力^reset;: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Garikleaf Blossom",
+    "value": "加里克花"
+  }
+]

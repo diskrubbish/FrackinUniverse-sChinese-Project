@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "White Sheer Dress",
+    "value": "白色丝织下装"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A loose dress made from sheer fabric. It fits slimes rather well.",
+    "value": "宽松的丝织物造下装。它很适合史莱姆。"
+  }
+]

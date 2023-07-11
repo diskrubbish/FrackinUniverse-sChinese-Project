@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Levitation^reset;: 1m\n^yellow;^reset;^cyan;Immune^reset;: Grav Rain: 3m",
+    "value": "^yellow;^reset;^cyan;悬浮^reset;: 1m\n^yellow;^reset;^cyan;免疫^reset;: 重力雨: 3m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xax Wing",
+    "value": "龙翼"
+  }
+]

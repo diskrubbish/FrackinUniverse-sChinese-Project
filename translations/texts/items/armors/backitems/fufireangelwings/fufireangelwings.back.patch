@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rise like the phoenix. +30% Fire Resist, +15 Health/Energy",
+    "value": "如凤凰般升起。+25%火炎抗性，+15HP/EP。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Burning Wings",
+    "value": "燃烧之翼"
+  }
+]

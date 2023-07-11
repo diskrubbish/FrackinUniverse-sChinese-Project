@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A SinCo. brand shotgun mech arm.",
+    "value": "一个有着广阔攻击范围的霰弹枪机械臂。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mech Shotgun",
+    "value": "机甲霰弹枪"
+  }
+]

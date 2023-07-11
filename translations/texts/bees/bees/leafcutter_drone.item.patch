@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Leafcutter Drone",
+    "value": "切叶工蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Leafcutter Drone",
+    "value": "切叶工蜂"
+  }
+]

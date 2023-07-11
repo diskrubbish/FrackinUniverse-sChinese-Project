@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "The Science Outpost is an important research center situated on a damp, vibrant Fungal world.",
+    "value": "科学前哨站是一个重要的科学研究机构，它位于一个郁郁葱葱，充满活力的雨林世界中。"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "Visit Science Outpost",
+    "value": "访问科学前哨站"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "Revisit the Science Outpost",
+    "value": "重访科学前哨站"
+  }
+]

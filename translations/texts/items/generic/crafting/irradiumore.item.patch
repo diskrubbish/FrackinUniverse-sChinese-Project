@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Irradium is a rare and valuable radioactive metal. Handle with care!",
+    "value": "镭是一种稀有而珍贵的放射性金属。小心轻放！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Ore",
+    "value": "镭矿"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ironbeak",
+    "value": "铁喙鸟"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A handy farm animal, since they digest their food into iron pellets. Carnivore.",
+    "value": "一只便利的农场动物，可以把吃下的食物转化成铁矿石。肉食动物。"
+  }
+]

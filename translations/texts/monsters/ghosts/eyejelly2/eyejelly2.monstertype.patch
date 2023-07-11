@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Eye Jelly",
+    "value": "凝胶眼"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An eye immersed in a viscous fluid",
+    "value": "浸泡在粘性流体中的一只眼睛。"
+  }
+]

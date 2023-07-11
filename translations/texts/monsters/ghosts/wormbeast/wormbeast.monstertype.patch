@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Wormbeast",
+    "value": "巨兽蠕虫"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A horrible burrowing monstrositiy. Hates ketchup.",
+    "value": "一种恐怖的挖掘异虫，讨厌番茄酱。"
+  }
+]

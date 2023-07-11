@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Planc Temperature.",
+    "value": "达到了普朗克温度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pyreite Staff",
+    "value": "永燃法杖"
+  }
+]

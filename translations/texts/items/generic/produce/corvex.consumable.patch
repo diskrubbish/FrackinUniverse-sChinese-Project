@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+100% Leech^reset;: 30s",
+    "value": "^yellow;^reset;^cyan;+100%汲血^reset;: 30s"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Corvex Blob",
+    "value": "凸球萌芽果"
+  }
+]

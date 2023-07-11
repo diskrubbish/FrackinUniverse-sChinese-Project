@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Rock Troll",
+    "value": "大型岩石巨魔"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Even larger than his lesser cousin, and punchier.",
+    "value": "比他的远亲大，并且强而有力。"
+  }
+]

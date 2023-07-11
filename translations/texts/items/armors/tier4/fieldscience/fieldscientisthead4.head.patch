@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Vision enhancement provides a very juicy enhancement: Damage x^green;1.1^reset;.",
+    "value": "提高视力的让伤害得到了加强：伤害x^green;1.1^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Geologist's Attack Goggles",
+    "value": "地质学家攻击眼镜"
+  }
+]

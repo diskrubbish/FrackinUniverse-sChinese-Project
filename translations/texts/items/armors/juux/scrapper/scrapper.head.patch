@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Simple Pharitu headwear made for sparring.",
+    "value": "简单的法瑞图头盔，用于拳击。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Scrapper's Mask",
+    "value": "刮刀面具"
+  }
+]

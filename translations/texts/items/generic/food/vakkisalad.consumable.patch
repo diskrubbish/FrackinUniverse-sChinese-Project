@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Left it in the toaster for too long. \n^cyan;+^white;10% ^cyan;HP ^gray;(^white;45s^gray;)^reset; ^green;Type: Grain^reset;",
+    "value": "这块面包已经放在烤面包机上很久了，都已经焦了。\n^cyan;+^white;10%^cyan;HP^gray;(^white;持续45s^gray;)^reset;\n^green;类型：谷物^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Burnt Toast",
+    "value": "烤焦的面包"
+  }
+]

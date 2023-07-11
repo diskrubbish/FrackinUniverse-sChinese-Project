@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Heavy, freezing metallic death.\n^cyan;Frozen Edge^reset;",
+    "value": "伴随着沉重的冷冻金属的死亡。^yellow;冻结的刀锋^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Scythe",
+    "value": "高熔点镰刀"
+  }
+]

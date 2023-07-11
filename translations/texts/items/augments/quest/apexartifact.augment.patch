@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Improved efficiency with all techs^reset;\nEnergy x^green;1.15^reset;\n^orange;Mobility II^reset;",
+    "value": "^cyan;增强所有科技的效率^reset;\n能量x^green;1.15^reset;\n^orange;机动性增强II^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "The Genesis Coil",
+    "value": "创世线圈"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "The Genesis Coil",
+    "value": "创世线圈"
+  }
+]

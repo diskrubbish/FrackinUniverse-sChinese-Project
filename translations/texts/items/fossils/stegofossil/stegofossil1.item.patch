@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stegovapti Tail",
+    "value": "蒸汽剑龙尾骨"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fossilised Stegovapti tail.",
+    "value": "蒸汽剑龙尾骨的化石。"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/shortdescription",
+    "raw": "Stegovapti Fossil",
+    "value": "蒸汽剑龙化石"
+  },
+  {
+    "op": "replace",
+    "path": "/completeSetDescriptions/description",
+    "raw": "A massive Stegosaurus-like fossil.",
+    "value": "一块巨大的类剑龙生物的化石。"
+  }
+]

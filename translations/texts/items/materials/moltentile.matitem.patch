@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Burning hot steel tile!\n^green;Extractable^reset;.",
+    "value": "正在燃烧的金属瓦片！\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Molten Steel Tile",
+    "value": "钢水瓦片"
+  }
+]

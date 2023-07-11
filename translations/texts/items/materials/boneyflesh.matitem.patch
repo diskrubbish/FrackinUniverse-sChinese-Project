@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bony Flesh",
+    "value": "多骨的肉"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This goes well beyond creepy.\n^green;Extractable^reset;.",
+    "value": "这远远超出了我的承受能力，太恐怖了！\n^green;可萃取^reset;。"
+  }
+]

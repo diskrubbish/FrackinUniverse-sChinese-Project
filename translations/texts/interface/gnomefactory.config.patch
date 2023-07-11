@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/prototype label/value",
+    "raw": "<- Prototype",
+    "value": "<- 原型"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/input label/value",
+    "raw": "Materials",
+    "value": "材料"
+  }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "raw": "Do I smell? Please let me know if I do, it could mean I botched the fermentation process again.",
+    "value": "我发臭了吗？如果闻到了我发臭的话请告诉我，，这意味着我可能又把发酵过程给搞砸了。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/1",
+    "raw": "Just because I live amongst distilling equipment rather than dusty old antiques doesn't mean I'm poor. I'm a master brewer after all.",
+    "value": "不能仅仅是因为我生活在蒸馏设备里而不是尘土飞扬的旧古董堆里来认定我很穷。毕竟我可是个酿酒宗师。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/2",
+    "raw": "Concocting the ultimate bubbly is a great joy, if I dare say so myself.",
+    "value": "我敢这么说，调制出究极的发泡酒是一种极致的乐趣。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/3",
+    "raw": "I do have a cushy day job with lots of benefits and pay, but brewing and sampling fine wine and spirits is my hobby.",
+    "value": "我有一份轻松而报酬颇丰的工作,不过酿造和品尝优质葡萄酒和烈酒才是我的爱好。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/4",
+    "raw": "I rather like bad wine ... one gets so bored with good wine, especially if one is a chef.",
+    "value": "我喜欢劣质葡萄酒......人会对优质葡萄酒感到厌倦，这个人是厨子的时候会更甚。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/5",
+    "raw": "Of course I'm rich! Just how many people do you think can afford to have the brewing equipment you see here?",
+    "value": "我当然很有钱！你认为有多少人能负担得这些起你看到的酿酒设备？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/6",
+    "raw": "What is youth if not intoxication without wine?",
+    "value": "若是为因红酒而醉，青春又有何意义？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/7",
+    "raw": "Tell me what you drink, and I will tell you what you are.",
+    "value": "告诉我你喝的是什么，我就能告诉你，你是什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/8",
+    "raw": "When the wine is in, the wit is out.",
+    "value": "酒水进，智慧出。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/9",
+    "raw": "A meal without wine is like a day without sunshine.",
+    "value": "一餐无酒，一日无光。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/10",
+    "raw": "When I drink a Claret my head spins, so from now on I'll drink Anjou or Arbois wine instead.",
+    "value": "当我喝下一瓶干红的时侯，我感到天旋地转，所以从现在开始，我会喝玫瑰或柔红葡萄酒。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/11",
+    "raw": "Voxels lose their value through inflation. Good vintage wines don't.",
+    "value": "像素会因通货膨胀失去价值。 而上好的老葡萄酒却不会。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/12",
+    "raw": "Remember - please consume alcohol responsibly, and don't drive while drunk!",
+    "value": "请记住——喝酒不开车，开车不喝酒。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/0",
+    "raw": "Good wine, good blood - that's what my nan used to tell me.",
+    "value": "好酒，好血。这是我奶奶告诉过我的。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/1",
+    "raw": "I've had a smack of every sort of wine, from humble port to Imperial Tokay.",
+    "value": "我有各种各样的葡萄酒，从廉价的波尔特温葡萄酒到托凯伊皇室香槟。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/2",
+    "raw": "Yes, that woman in the floppy hat is my sister. Or was, until I disowned her for filling my vats with dross-quality lager.",
+    "value": "对，那个戴着软呢帽的女人是我妹妹。也许吧，直到我对她在我的大桶里灌满了劣质啤酒的行为感到失望。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/3",
+    "raw": "I used to be a Protector, but then found my true calling - as a founding sole member of the Club of Extremely Inebriated and Erudite Gentlemen!",
+    "value": "我曾经是个守护者，但后来我找到了我真正的使命——成为一个醉酒而博学的的绅士俱乐部的创始成员！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/4",
+    "raw": "I see nothing about having too much wealth, if it gives me time to produce something that makes people happy and inebriated. Corporate social responsibility, right?",
+    "value": "我眼中没有太多的利润，如果这些利润能让我有时间生产让人们快乐和陶醉的东西。这就叫企业社会责任，对吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/5",
+    "raw": "My peers oft indulge in pretensions of eruditeness by collecting crassly gilded ornamentations or wearing silly wigs, but I prefer to collect fine wines and fully aged spirits.",
+    "value": "我的同辈们沉溺于收集粗糙的镀金饰品或戴着愚蠢的假发，佯装出博学的自负，但比起这些我更喜欢收集精美的葡萄酒和完全老化的烈酒。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/6",
+    "raw": "Gather wine, summer fruits and oil, and put them in your vessels.",
+    "value": "收集美酒，夏日水果以及油，融入你的血管。，"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/7",
+    "raw": "Burgundy makes you think of silly things, Bordeaux makes you talk of them and Champagne makes you do them.",
+    "value": "勃艮第会让你忆起蠢事，波尔多让你阔谈它们，而香槟让你两者兼具。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/8",
+    "raw": "Give strong drink unto him that is ready to perish, and wine unto those heavy of heart.",
+    "value": "烈酒浇给那位即将沉沦之人，普通的酒浇给那些心上的重负。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/9",
+    "raw": "Old wines to drink! old wood to burn! old books to read! old friends to trust! can anything else beat that?",
+    "value": "喝着老酒！烧着老柴！读着旧书！信任着老友！还有别的什么可以动摇我吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/10",
+    "raw": "In vino veritas.",
+    "value": "酒后吐真言。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/human/11",
+    "raw": "Cura fugit multo diluiturque mero.",
+    "value": "酒精能清理大量的胆固醇。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/0",
+    "raw": "Are your kind acquainted with the fine art of brewing and distilling alcoholic beverages?",
+    "value": "我的朋友，您是否熟悉酿造和蒸馏酒精饮料的精巧艺术？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/1",
+    "raw": "My ancestors became rich and powerful by making fine liquors for a living. Me? I just live to sample them, I suppose.",
+    "value": "我的祖先靠酿造精致的酒而变得富甲一方。你问我？我想，我只是为品尝美酒而生。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/2",
+    "raw": "Won't you agree that the ability to brew and refine spirits is a mark of civilised living?",
+    "value": "你难道不同意酿造和提炼烈酒的能力是一项文明存在的标志吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/3",
+    "raw": "My people once had a saying: ''take wine in small doses, and knowledge in large ones''. But what about knowledge of wine?",
+    "value": " 我的顾客曾经有一句话：“小口酌酒，尽力求知。”但是关于葡萄酒的知识呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/hylotl/4",
+    "raw": "Better be jocund with the fruitful grape, than sadden after none, or bitter fruit.",
+    "value": "最好用饱满多果的葡萄，而不是一无所有的悲伤，否则只会收获苦果。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/twilek/0",
+    "raw": "Are your kind acquainted with the fine art of brewing and distilling alcoholic beverages?",
+    "value": "我的朋友，您是否熟悉酿造和蒸馏酒精饮料的精巧艺术？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/twilek/1",
+    "raw": "My ancestors became rich and powerful by making fine liquors for a living. Me? I just live to sample them, I suppose.",
+    "value": "我的祖先靠酿造精致的酒而变得富甲一方。你问我？我想，我只是为品尝美酒而生。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/twilek/2",
+    "raw": "Won't you agree that the ability to brew and refine spirits is a mark of civilised living?",
+    "value": "你难道不同意酿造和提炼烈酒的能力是一项文明存在的标志吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/twilek/3",
+    "raw": "My people once had a saying: ''take wine in small doses, and knowledge in large ones''. But what about knowledge of wine?",
+    "value": " 我的顾客曾经有一句话：“小口酌酒，尽力求知。”但是关于葡萄酒的知识呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/twilek/4",
+    "raw": "Better be jocund with the fruitful grape, than sadden after none, or bitter fruit.",
+    "value": "最好用饱满多果的葡萄，而不是一无所有的悲伤，否则只会收获苦果。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/0",
+    "raw": "Root pop? let me show you something better: it's red, bites like a serpent, and stings like an adder!",
+    "value": "草根汽水？让我给你整些更爽的；来点红酒，如毒蛇般噬人，如蝰蛇般刺人！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/1",
+    "raw": "Drink! for you not know whence you came, nor why; drink! for you know not why you go, nor where.",
+    "value": "喝吧！因为你不知道你从何处来，也不知道你为何而来；喝吧！因为你不知道你为什么离去，也不知道你将去何方。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/novakid/2",
+    "raw": "While you live, drink! - for, once dead, you never shall return.",
+    "value": "活着的时候，多喝点！——因为，人死不能复生。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/mawg/0",
+    "raw": "Come try out my bread and drink the wine which I have brewed!",
+    "value": "来，尝尝我的面包，喝喝我所酿造的酒！"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/mawg/1",
+    "raw": "Drink! for you not know whence you came, nor why; drink! for you know not why you go, nor where.",
+    "value": "喝吧！因为你不知道你从何处来，也不知道你为何而来；喝吧！因为你不知道你为什么离去，也不知道你将去何方。"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/mawg/2",
+    "raw": "While you live, drink! - for, once dead, you never shall return.",
+    "value": "活着的时候，多喝点！——因为，人死不能复生。"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/0",
+    "raw": "I saw that!",
+    "value": "我看到那个了！"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/1",
+    "raw": "Did you steal something?",
+    "value": "你偷了什么东西吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/2",
+    "raw": "I urge you to return whatever you took. I have powerful friends.",
+    "value": "哪儿凉快哪儿呆去。我的朋友可不好惹。"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/3",
+    "raw": "What contemptible scoundrel stole the cork from my lunch? was it you?",
+    "value": "是哪个混小子偷走了我午餐用的软木塞？ 是你吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/accuse/default/default/4",
+    "raw": "If you stole something, beware, I am going to set your teeth on edge.",
+    "value": "如果你偷了东西，小心点，我会把你打得满地找牙。"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/0",
+    "raw": "I saw that!",
+    "value": "我看到那个了！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/1",
+    "raw": "Without that piece of equipment you took away, this place is worthless to me.",
+    "value": "若是没有你拿走的那件设备，这地方对我来说就一文不值了。"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/2",
+    "raw": "Did you steal something?",
+    "value": "你偷了什么东西吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/3",
+    "raw": "I urge you to return whatever you took. I have powerful friends.",
+    "value": "哪儿凉快哪儿呆去。我的朋友可不好惹。"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/4",
+    "raw": "What contemptible scoundrel stole the cork from my lunch? was it you?",
+    "value": "是哪个混小子偷走了我午餐用的软木塞？ 是你吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/5",
+    "raw": "If you stole something, beware, I am going to set your teeth on edge.",
+    "value": "如果你偷了东西，小心点，我会把你打得满地找牙。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/0",
+    "raw": "I need an enclosed area in order to brew. Please fix my walls.",
+    "value": "我需要一个封闭的区域来酿造我的美酒。请帮我修复墙壁。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/1",
+    "raw": "Those holes in the walls need patching, I can't afford anything being blown in and contaminating my ingredients.",
+    "value": "墙上的那些洞需要打上补丁，我可不希望任何东西吹来污染我酿酒的成分。"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/2",
+    "raw": "Can you do something about the breaches in the walls? I can't let anything contaminate my brews.",
+    "value": "你能对墙上的洞采取一些行动吗？ 我不能让任何东西污染我的啤酒。"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default/0",
+    "raw": "Are you trying to move a squatter in?",
+    "value": "你想试图让一个擅自闯入者搬进来吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default/1",
+    "raw": "I'm not sharing this place with another tenant!",
+    "value": "我不会和另一个房客共享这块地方！"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default/2",
+    "raw": "I thought this place was my very own home, and you want me to share it?!",
+    "value": "我认为这个地方是我自己的家，而你却想我共享它？"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/0",
+    "raw": "I need you to fix this place; it's not safe to brew anything here.",
+    "value": "我需要你修理这个地方。这个地方酿造任何东西都不安全。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/1",
+    "raw": "I wish my requests were listened to.",
+    "value": "我希望我的请求值得一听。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/2",
+    "raw": "The fixes to these premises haven't been made.",
+    "value": "这片营业场所还没有装修好。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/3",
+    "raw": "This has gone too far, I need you to fix things!",
+    "value": "这太过分了，我需要你来解决问题！"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/4",
+    "raw": "I can't put up with this much longer - look at the state of my brewery.",
+    "value": "我再也忍受不了了——看看我的酒坊。"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/5",
+    "raw": "My usually resilient patience is beginning to wear thin.",
+    "value": "我那常有的能迅速恢复的耐心开始越来越差。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/0",
+    "raw": "This is beyond me. I'm taking my leave.",
+    "value": "这简直超乎我的想象。 容我告辞。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/1",
+    "raw": "I didn't want it to come to this, but I can't stay here any longer.",
+    "value": "我不怎么情愿，但我不能再继续呆在这里了。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/2",
+    "raw": "Enough is enough. I deserve a better place than this",
+    "value": "我受够了。我渴望一处更好的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/3",
+    "raw": "That's it. I'm leaving. I can't stand working here anymore.",
+    "value": " 就是这样。我要走了。我再也不能忍受这里的工作了。"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/0",
+    "raw": "Be quick with your business, I have something in the mashing tun!",
+    "value": "搞快点，我还有一些东西在糖化桶里面呢！"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/1",
+    "raw": "You need me for something?",
+    "value": "你需要我为你做什么吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/2",
+    "raw": "Did you need me for a particular reason?",
+    "value": "你需要我吗，为了一个特别的理由？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/3",
+    "raw": "Here I am! What did you want to talk about?",
+    "value": "我在这里！你想谈些什么呢？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/4",
+    "raw": "Did you want to chat?",
+    "value": "想要聊一聊天吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/5",
+    "raw": "Is this a social call?",
+    "value": "这算社会交际吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/0",
+    "raw": "My brewery efforts have been fantastic, and you ought to share in the rewards!",
+    "value": "我的酿造工作非常棒，你应该与我分享这些成果！"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/1",
+    "raw": "This is going very well! Here's a gift to say thank you.",
+    "value": "一切顺利！ 这是答谢你的礼物。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/2",
+    "raw": "Here is a gift, for all your help.",
+    "value": "这是礼物，谢谢你的帮助。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/3",
+    "raw": "A gift of thanks, I hope you enjoy it!",
+    "value": "这是我的礼物，希望你能享受它。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/4",
+    "raw": "I got you a present for all you've done for me.",
+    "value": "我送了一件礼物给你，为了你为我做的一切。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/5",
+    "raw": "I hope you like the gift, you've earned it!",
+    "value": "希望你能喜欢这件礼物，这是你所赢得的。"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/6",
+    "raw": "That's for you to do as you please with.",
+    "value": " 在这里不必拘束，随心所欲。"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/0",
+    "raw": "I'm here to collect the rent!",
+    "value": "我是来收租的！"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/1",
+    "raw": "@#$@$#@ *!!!HIC!!!*",
+    "value": "@#$@$#@ *!!!嗝!!!*"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/2",
+    "raw": "!!!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/3",
+    "raw": "Wantsh yer pixhels? Here, kitty kitty kitty!",
+    "value": "想要像素吗？过来，小猫咪，小猫咪！"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/4",
+    "raw": "Back for more now?",
+    "value": "现在回来了？"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/5",
+    "raw": "*BURRRRP!!*",
+    "value": "*打嗝儿*！！"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "raw": "I bite like a serpent, and sting like an adder!",
+    "value": "我如毒蛇般噬人，又如蝰蛇般刺人。"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/1",
+    "raw": "I'm coming to cut you down like John Barleycorn!",
+    "value": "我要像约翰·巴雷科恩那样把你放倒！"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/0",
+    "raw": "Let's break out the celebratory bubbly, I think we bagged them all.",
+    "value": "让我们拉开庆祝用的香槟，我们要把它们全包了"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/0",
+    "raw": "Only looshers like ya pick on people when they're drunk!",
+    "value": "只有像你这样的废物才会在人们喝醉的时候欺负他们！"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/1",
+    "raw": "Come back, the party wash jusht gettin' shtarted!",
+    "value": "回来，派对才刚刚开始呢！"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/0",
+    "raw": "Only looshers like ya pick on people when they're drunk!",
+    "value": "只有像你这样的废物才会在人们喝醉的时候欺负他们！"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/1",
+    "raw": "Awwww, me ish alone again.",
+    "value": "啊哇哇哇，我又似一个人了。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/2",
+    "raw": "By Venush, I'll need to find another drinkin' mate!",
+    "value": "以金星之名起誓，我得再找一个酒伴！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/0",
+    "raw": "Please spare me, I'm unarmed!",
+    "value": "放过我吧，我手无寸铁！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/1",
+    "raw": "NoooOOOOooo!!!",
+    "value": "不不不！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/2",
+    "raw": "Where's a reinforced concrete winecellar when you need one?!?!",
+    "value": "当你需要的时候，钢筋混凝土酒窖在哪里？！？！"
+  },
+  {
+    "op": "replace",
+    "path": "/helpme/default/default/3",
+    "raw": "Take all the booze and cash I've got, just leave me alone!",
+    "value": "拿走我所得到的所有酒水和现金，只留下我一个人！"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/0",
+    "raw": "Is it gone? are my wines safe?",
+    "value": "它离开了吗？我的酒没事吧？"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/1",
+    "raw": "Are they dead yet?",
+    "value": "他们已经逝去了吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/2",
+    "raw": "Is it safe now?",
+    "value": "现在安全了吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/safe/default/default/3",
+    "raw": "Can I come back? I had to leave halfway through a drink.",
+    "value": "我能回来吗？我不得不在途中喝一杯。"
+  },
+  {
+    "op": "replace",
+    "path": "/greeting/default/default/0",
+    "raw": "Greetings!",
+    "value": "你好！"
+  },
+  {
+    "op": "replace",
+    "path": "/greeting/default/default/1",
+    "raw": "How are you my friend?",
+    "value": "一切安好，我的朋友？"
+  },
+  {
+    "op": "replace",
+    "path": "/greeting/default/default/2",
+    "raw": "Hello.",
+    "value": "你好"
+  },
+  {
+    "op": "replace",
+    "path": "/greeting/default/default/3",
+    "raw": "Welcome, welcome, welcome!",
+    "value": "欢迎，欢迎，欢迎！"
+  },
+  {
+    "op": "replace",
+    "path": "/greeting/default/default/4",
+    "raw": "Cou cou",
+    "value": "库库"
+  }
+]

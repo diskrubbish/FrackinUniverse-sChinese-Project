@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "20% Cooler",
+    "value": "20% 冷静器"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A Miniknog research report.",
+    "value": "一份科学发展部的研究报告。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "The thought reassignment evaluations proceed apace. I note with satisfaction that the shark tank method was considerably improved by the addition of lasers to the predator's heads.",
+    "value": "思维重排评估进展迅速。我满意地注意到，在鲨鱼的头部增加了激光，大大提高了鲨鱼缸的推广。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "raw": "While absolutely useless as more than laser pointers, the waterproof lasers increased the margin of intimidation on most subjects by at least 50%. The sharks themselves might also have become 20% cooler.",
+    "value": "虽然防水激光器绝对比激光指示器更加无用，但是对于大多数受试者来说，防水激光器至少增加了50%的威胁幅度。鲨鱼本身也几乎冷静了20% 。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/2",
+    "raw": "The only reason we are not recommending the immediate implementation of such measures in all population centers is the space requirement that comes with constructing the appropriate facilities. Upkeep is surprisingly low.",
+    "value": "我们不建议在所有人口中心立即实施这些措施的唯一原因是建造适当设施所需的空间。就算是维护费用低得惊人。"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sweet and corny, good for digestion! ^green;Type: Vegetable^reset;",
+    "value": "甜的，糯的，好消化！\n^green;类型：蔬菜^reset;"
+  }
+]

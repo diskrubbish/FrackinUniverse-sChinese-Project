@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "With this you can play electrician, linking up power nodes.",
+    "value": "有了它，你就可以使用类似于物质枪上的连线功能了。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mechanic's Wrench",
+    "value": "技工扳手"
+  }
+]

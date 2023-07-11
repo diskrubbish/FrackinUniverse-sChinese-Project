@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A thick mucus. It jiggles when poked but seems firm.",
+    "value": "一层厚厚的粘液。戳的时候它会摇晃，但似乎很结实。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Strong Slime Glob",
+    "value": "强力粘液球"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Hesitant. This slime looks sticky and firm.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran lovess hard sslime!",
+    "value": "叶族人喜喜欢硬粘粘粘液！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This slime is some nasty lookin' stuff.",
+    "value": "这粘液看起来真恶心。"
+  }
+]

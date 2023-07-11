@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Your lab notes. Thoroughly nutters.",
+    "value": "你的实验笔记。彻头彻尾的疯子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Insane Notes",
+    "value": "疯狂的笔记"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dense metal spear for puncturing enemies.",
+    "value": "致密的金属，刺穿你的敌人。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Spear",
+    "value": "碳制长矛"
+  }
+]

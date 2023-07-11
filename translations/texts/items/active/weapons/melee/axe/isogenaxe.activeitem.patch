@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Build snowmen with corpses.\n^cyan;Inflicts Freezing^reset;",
+    "value": "用尸体搭建雪人。\n^cyan;附加冻结效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Isogen Axe",
+    "value": "寒霜斧"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Delightful ornate flooring.",
+    "value": "令人愉快的华丽地板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Raw Wood Ornate Flooring",
+    "value": "原木华丽地板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Charmed. A beautiful ornate wooden floor.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran feelss fancy walking on ornate floor.",
+    "value": "叶族人走在华丽的地板上感感感觉很梦幻。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some fancy lookin' ornate floorin'.",
+    "value": "一些看起来很华丽的地板。"
+  }
+]

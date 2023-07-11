@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A measure of cool, clear water.\n^green;Extractable^reset;, ^yellow;Centrifugable^reset;.",
+    "value": "一定量的清澈的水。"
+  }
+]

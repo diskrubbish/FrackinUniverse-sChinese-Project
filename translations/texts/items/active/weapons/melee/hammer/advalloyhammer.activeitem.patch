@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A formidable hammer made of a nearly indestructible alloy.",
+    "value": "一种用几乎坚不可摧的合金制成的可怖锤子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Master's Hammer",
+    "value": "宗师战锤"
+  }
+]

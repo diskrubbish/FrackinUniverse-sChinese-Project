@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that repels cold, but not absolute freeze. ^cyan;Immune: Moderate Cold^reset;.",
+    "value": "一种EPP模块，可以抵御寒冷，但不不能隔绝绝对冰冻。^cyan;免疫：严酷寒冷^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cold Shield I",
+    "value": "EPP模块（寒冷护盾 I）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Cold Shield I",
+    "value": "EPP模块（寒冷护盾 I）"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;25% Fire Res & Immune: Burning, Lava^reset;, ^cyan;Immune^reset;:  Extreme Heat: 1m",
+    "value": "^yellow;^reset;^cyan;25%火炎抗性 & 免疫: 烧伤、岩浆^reset;, ^cyan;免疫^reset;:  一切炎热: 1m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quellstem Bud",
+    "value": "奎尔茎芽"
+  }
+]

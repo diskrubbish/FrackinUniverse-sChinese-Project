@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A somewhat-crude iron hammer.",
+    "value": "一个粗制滥造的铁制锤。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Iron Hammer",
+    "value": "铁制锤"
+  }
+]

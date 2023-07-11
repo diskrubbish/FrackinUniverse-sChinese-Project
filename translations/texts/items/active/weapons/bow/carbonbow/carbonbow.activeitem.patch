@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A carbon hunting bow, monsters killed with a bow drop tasty meat.",
+    "value": "一把碳制猎弓，可以用来狩猎并获取美味的肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Hunting Bow",
+    "value": "碳制猎弓"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Explosive Arrow",
+    "value": "爆炸箭矢"
+  }
+]

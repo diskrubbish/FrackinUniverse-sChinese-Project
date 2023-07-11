@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Extremely short ranged defensive laser drones.",
+    "value": "发射极短程防御型激光无人机。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Point Defense",
+    "value": "对点防御 I"
+  }
+]

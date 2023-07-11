@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hunter Pteropod",
+    "value": "游猎的飞翼豆荚"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Brings death with sharp, poisoned spines.",
+    "value": "用尖锐的毒刺带来死亡。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pure honed Telebrium. Ribbed for her pleasure.",
+    "value": "经过细磨的纯月海晶体。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Longsword",
+    "value": "月海长剑"
+  }
+]

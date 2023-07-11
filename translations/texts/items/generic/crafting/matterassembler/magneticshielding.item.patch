@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A material shielded against electromagnetic waves.",
+    "value": "一种可以屏蔽电磁波的材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Electromagnetic Shielding",
+    "value": "电磁屏蔽材料"
+  }
+]

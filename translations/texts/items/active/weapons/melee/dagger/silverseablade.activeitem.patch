@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Able to damage all elements equally.",
+    "value": "能够对所有元素造成相等伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Silver Sea Blade",
+    "value": "银海匕首"
+  }
+]

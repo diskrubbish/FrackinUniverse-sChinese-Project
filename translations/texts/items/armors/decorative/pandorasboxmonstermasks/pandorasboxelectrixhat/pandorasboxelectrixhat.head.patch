@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This hat may generate slight traces of static electricity. Try not to touch electrical appliances!",
+    "value": "这顶帽子可能会产生少量的静电痕迹。尽量不要触摸电器！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Electrix Hat",
+    "value": "电气菲狐帽"
+  }
+]

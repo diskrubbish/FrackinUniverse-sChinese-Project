@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Energy x^green;1.6^reset;\n^red;-20% ^reset;Cosmic Resistance\n^red;-20% ^reset;Shadow Resistance\n^red;-20% ^reset;Mental Protection",
+    "value": "能量x^green;1.6^reset;\n^red;-20% ^reset;射线抗性\n^red;-20% ^reset;暗影抗性\n^red;-20% ^reset;精神抗性"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffcd00;The King in Yellow^reset;",
+    "value": "^#ffcd00;黄衣之主^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "^#ffcd00;The King in Yellow^reset;",
+    "value": "^#ffcd00;黄衣之主^reset;"
+  }
+]

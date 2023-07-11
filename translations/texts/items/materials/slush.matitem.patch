@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Melting ice makes a thick slush.\n^green;Extractable^reset;.",
+    "value": "冰雪融化形成了厚厚的雪泥。\n^green;可萃取^reset;。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Omnicannon",
+    "value": "泛用加农炮"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hivemind of worm-like parasites interwoven into an old energy cannon.",
+    "value": "交织在一座古老的能量大炮里蠕虫状寄生虫。"
+  }
+]

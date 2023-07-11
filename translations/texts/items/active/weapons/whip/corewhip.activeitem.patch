@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fiery whip formed from core fragments. Nice and hot!",
+    "value": "由星核碎片制作而成的鞭子，又烫又棒！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fiery Whip",
+    "value": "火焰鞭"
+  }
+]

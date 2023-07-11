@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dignity and honor all rolled into one lovely package. Gives +^green;5^reset;% Shadow Resist.",
+    "value": "尊严和荣誉集于一身。给予+^green;5^reset;% 暗影抗性."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadekin Top",
+    "value": "暗影精灵上衣"
+  }
+]

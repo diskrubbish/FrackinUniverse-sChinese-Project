@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "I've received world of a grand Floran jungle arena where hunters test themselves against monsters from all over. There are prizes too, it could be worth checking out!",
+    "value": "我收到了叶族大竞技场的邀请函，叶族猎手们通常都在于此地测试自己的力量。如果战胜，当然少不了各种奖品，这真是个不错的消遣！"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "The Grand Arena (5)",
+    "value": "大竞技场(5)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "The Grand Arena (5) (R)",
+    "value": "重新挑战大竞技场(5)"
+  }
+]

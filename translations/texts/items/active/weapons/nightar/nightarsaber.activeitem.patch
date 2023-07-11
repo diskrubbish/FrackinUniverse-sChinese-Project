@@ -1,0 +1,50 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Said to be wielded by a legendary Nightar swordsman.",
+    "value": "据说曾被一位传奇夜族剑客所使用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Nightar Saber",
+    "value": "夜之军刀"
+  },
+  {
+    "op": "replace",
+    "path": "/improvedParameters/shortdescription",
+    "raw": "Honed Nightar Sabre",
+    "value": "打磨过的夜之军刀"
+  },
+  {
+    "op": "replace",
+    "path": "/improvedParameters/description",
+    "raw": "A fine, lethal edge.",
+    "value": "剑刃锋利。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Peerless Nightar Sabre",
+    "value": "无双夜之军刀"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "The edge is superior to nearly any other.",
+    "value": "它的刀刃拥有无与伦比的锋利度。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "Legendary Nightar Sabre",
+    "value": "传奇夜之军刀"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "The finest edge possible.",
+    "value": "力劈华山，所向披靡。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Reads the soul.",
+    "value": "阅尽死魂。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Soulreader",
+    "value": "读魂者"
+  }
+]

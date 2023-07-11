@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Mass-produced mech legs that allow for basic mobility.",
+    "value": "批量生产的机甲足，基本的移动力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Improved Mech Legs",
+    "value": "改良机甲足"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A strange sort of rock.\n^orange;Crushable^reset;, ^red;Smeltable^reset;.",
+    "value": "一种奇怪的岩石。\n^orange;可筛分^reset;，^red;可冶炼^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Stone",
+    "value": "远古岩"
+  }
+]

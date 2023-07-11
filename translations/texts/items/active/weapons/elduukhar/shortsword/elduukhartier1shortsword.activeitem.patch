@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This sword is the a part of the apprentice gemcrafter's final test.",
+    "value": "这把剑是宝石工匠学徒的最终测试的一部分。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Oceanite Shortsword",
+    "value": "大洋石短剑"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Plating in the shape of, and possibly inspired by, a Glitch hive.\n^green;Extractable^reset;.",
+    "value": "形状类似蜂巢，灵感可能来自于蜂巢。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hexagonal Plating",
+    "value": "六镀方块"
+  }
+]

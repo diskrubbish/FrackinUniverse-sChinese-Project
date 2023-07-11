@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A whip made of sticky, cold slime.",
+    "value": "冰冷的粘性粘液制成的鞭子。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ice Slime Whip III",
+    "value": "寒气粘液鞭 III"
+  }
+]

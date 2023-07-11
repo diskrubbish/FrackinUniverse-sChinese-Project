@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Dignity and honor all rolled into one lovely package.",
+    "value": "尊严和荣誉造就了这件衣服。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Admiral Top",
+    "value": "将军上衣"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires teleport-node discs. Quite useful. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "发射传送节点。十分实用。\n在^orange;三度仪^reset;处升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Translocator",
+    "value": "传送枪"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Fires teleport-node discs. Quite useful. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "发射传送节点。十分实用。\n在^orange;三度仪^reset;处升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Translocator II ^cyan;^reset;",
+    "value": "传送枪 II ^cyan;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "Fires teleport-node discs. Quite useful. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "发射传送节点。十分实用。\n在^orange;三度仪^reset;处升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "Translocator III ^yellow;^reset;",
+    "value": "传送枪 III ^cyan;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/description",
+    "raw": "Fires teleport-node discs. Quite useful. Upgrade using your ^orange;Tricorder^reset;.",
+    "value": "发射传送节点。十分实用。\n在^orange;三度仪^reset;处升级。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/shortdescription",
+    "raw": "Translocator IV ^red;^reset;",
+    "value": "传送枪 IV ^cyan;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters4/description",
+    "raw": "Fires teleport-node discs. Quite useful. ^green;Fully Upgraded^reset;.",
+    "value": "发射传送节点。十分实用。\n^green;已完全升级^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters4/shortdescription",
+    "raw": "Transwarpator^#e43774;^reset;",
+    "value": "扭曲传送枪^#e43774;^reset;"
+  }
+]

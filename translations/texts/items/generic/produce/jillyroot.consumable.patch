@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Heal 30^reset;: 2s",
+    "value": "^yellow;^reset;^cyan;治疗30点HP^reset;: 2s"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Jilly Root",
+    "value": "吉利根茎"
+  }
+]

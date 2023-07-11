@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fragrant bundle made of flowers and leaves.\n^green;Extractable^reset;.",
+    "value": "把花朵与叶子捆在一起的芬芳的方块。\n^green;可萃取^reset;。"
+  }
+]

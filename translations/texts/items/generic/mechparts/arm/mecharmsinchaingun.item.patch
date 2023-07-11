@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Higher velocity kinetic rifle.",
+    "value": "更高速度的动力学步枪。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ripper Cannon",
+    "value": "撕裂加农炮"
+  }
+]

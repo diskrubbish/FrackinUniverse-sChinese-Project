@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "High tech golden panels.",
+    "value": "高科技黄金面板。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vel'uuish Golden Panel",
+    "value": "灵猫族金色面板"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cancels out vehicle movement while firing. Toggle with ^green;[F]^reset;.",
+    "value": "在射击时抵消机甲运动。 按^green;[F]^reset;切换。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mech Aim Actuator",
+    "value": "机甲瞄准作动器"
+  }
+]

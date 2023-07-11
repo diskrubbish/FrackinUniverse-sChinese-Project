@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Cold, hard, concrete.\n^orange;Crushable^reset;.",
+    "value": "又冷又硬的混凝土。\n^orange;可粉碎^reset;。"
+  }
+]

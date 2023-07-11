@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This stone reads as inorganic, yet bleeds if cut.",
+    "value": "这块石头看起来像是无机物，但若切开它，就会有血流出来。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#ffe50e;Akashic Stone^reset;",
+    "value": "^#ffe50e;阿卡西之石^reset;"
+  }
+]

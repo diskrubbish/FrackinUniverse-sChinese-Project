@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Immune^reset;: Tropical/Desert Heat, Poison, Chill",
+    "value": "^cyan;免疫^reset;：热带/沙漠炎热，毒素，冰面"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Thelusian Prototype Body",
+    "value": "蚁族机甲躯体原型"
+  }
+]

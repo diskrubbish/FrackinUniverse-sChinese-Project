@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "raw": "Suspended in the aether, the Sky Boulevard is one of Avian civilization's most sacred sites. It's no doubt also guarded by the most elite warriors!",
+    "value": "悬在以太之中，天路是翼族文明最神圣的地方之一。毫无疑问，最精英的战士们也都在守护着它！"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/buttonText",
+    "raw": "The Sky Boulevard (6+)",
+    "value": "天路(6+)"
+  },
+  {
+    "op": "replace",
+    "path": "/speciesText/default/repeatButtonText",
+    "raw": "The Sky Boulevard (6+) (R)",
+    "value": "重新挑战天路(6+)"
+  }
+]

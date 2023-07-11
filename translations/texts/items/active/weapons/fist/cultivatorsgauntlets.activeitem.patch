@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "No, they are not perfectly balanced.\n^yellow;Inflicts burn, poison, electrified, defense reduction and shadow.^reset;",
+    "value": "不，万物平衡简直是在扯淡。\n^cyan;附加燃烧、中毒、辐射烧伤、防御下降和暗影效果。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Infinite Fists",
+    "value": "无限拳套"
+  }
+]

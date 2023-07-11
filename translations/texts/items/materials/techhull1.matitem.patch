@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Wiring hides beneath this reinforced hi-tech plated material.\n^green;Extractable^reset;.",
+    "value": "在加固的电镀材料下隐藏着电路。\n^green;可萃取^reset;。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Put your enemies on ice.\n^cyan;Grenade Launcher^reset;",
+    "value": "冻住，不许走！\n^cyan;榴弹发射器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Assault Rifle",
+    "value": "高熔点突击步枪"
+  }
+]

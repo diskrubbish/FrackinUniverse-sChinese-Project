@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Roofing of Elder origin.",
+    "value": "远古的屋顶材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Roofing",
+    "value": "远古屋顶"
+  }
+]

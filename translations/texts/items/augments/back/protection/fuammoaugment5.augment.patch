@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Increases weapon ammo by +10.",
+    "value": "弹药上限+10。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ammo Belt V",
+    "value": "弹药带V"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Ammo Belt V",
+    "value": "弹药带V"
+  }
+]

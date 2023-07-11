@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A state-of-the-art assault rifle hardened for use in extreme environments.",
+    "value": "经过强化处理的先进突击步枪，可用于极端环境。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Plasma Assault Rifle",
+    "value": "等离子突击步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Sticky Plasma Mines",
+    "value": "粘性等离子地雷"
+  }
+]

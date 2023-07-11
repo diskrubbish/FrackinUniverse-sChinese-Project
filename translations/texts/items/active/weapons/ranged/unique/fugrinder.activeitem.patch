@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This is the pinnacle of kinetic rifle technology.\n^yellow;Extreme Fire Rate^reset;",
+    "value": "这就是动力步枪的巅峰之作。\n^yellow;极高的射速^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Grinder",
+    "value": "碎裂"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Webber Juvenile",
+    "value": "蜘蛛人幼体"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A big spider. Who doesn't love spiders?",
+    "value": "一只大蜘蛛，谁不喜欢蜘蛛呢？"
+  }
+]

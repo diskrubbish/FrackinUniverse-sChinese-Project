@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A piercing weapon of great style and sophistication.\n^cyan;Hunting weapon^reset;",
+    "value": "一把独具一格而复杂的尖锐武器。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bane Spear",
+    "value": "灾祸长矛"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Experimental Vaccine",
+    "value": "实验性疫苗"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Lab Notes 1",
+    "value": "实验笔记1"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "After twenty assorted tests on the genome markers for this curative agent, we were unable to determine what caused C7 to go ballistic and attack, kill, mutilate and devour the other rats at random. The viral load in his cells is not present, nor is there any trace of change in his physiology.",
+    "value": "针对疫苗的基因组标记进行了二十次以上的实验后，我们还是没有找到引起实验鼠C7暴怒，疯狂，无动机的杀害吞噬同类的原因。它的细胞内没有任何病毒存在，而且我们从它的生理行为中没有发现任何的异常现象。"
+  }
+]

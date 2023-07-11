@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires highly radioactive blasts of energy.",
+    "value": "能够发射出高强度的辐射能量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Irradium Beam",
+    "value": "镭制机甲臂"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Doesn't bleed when cut.",
+    "value": "切开时不流血。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bulbop Mask",
+    "value": "布波普"
+  }
+]

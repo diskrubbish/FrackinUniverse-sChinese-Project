@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This baseboard completes the classic home look.",
+    "value": "这块护墙板契合了经典的家的外观。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Raw Wood Baseboard",
+    "value": "原木护壁板"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. Baseboards are not commonly found in Glitch construction.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Fancy wall boardsss.",
+    "value": "绚烂的墙板板板。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some fancy wall moulding.",
+    "value": "一些花哨的墙面模型。"
+  }
+]

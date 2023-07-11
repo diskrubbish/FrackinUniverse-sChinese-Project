@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A ghostly lash. Rather short but swings fast.\n^cyan;Inflicts Caliginous Gas^reset;",
+    "value": "幽灵般的鞭子。有点短，但挥动起来很快。\n^cyan;释放暗影气体^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Effigium Whip",
+    "value": "幻影鞭"
+  }
+]

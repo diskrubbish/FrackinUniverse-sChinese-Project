@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glarp",
+    "value": "葛拉普"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Releases different abnormalizing gasses when struck or frightened.",
+    "value": "受到撞击或惊吓时释放出不同的异常气体。"
+  }
+]

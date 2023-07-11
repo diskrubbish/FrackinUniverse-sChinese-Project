@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Razor-sharp shards of fun slow targets.",
+    "value": "充满欢乐的锋利碎片会减缓目标的行动。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^cyan;Ice Shard Gun^reset;",
+    "value": "^cyan;寒冰碎片枪^reset;"
+  }
+]

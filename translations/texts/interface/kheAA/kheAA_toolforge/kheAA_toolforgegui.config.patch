@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/craftButton/caption",
+    "raw": "Craft tool",
+    "value": "制作工具"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/close/caption",
+    "raw": "Close",
+    "value": "关闭"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/filter/hint",
+    "raw": "Name your Tool",
+    "value": "命名你的工具"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/stats/value",
+    "raw": "^#CCB600;Stats:",
+    "value": "^#CCB600;统计："
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A traditional garb for a Kingsryche.",
+    "value": "“国王杀手”仪式的传统服饰。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kingsryche Leggings",
+    "value": "国王杀手绑腿"
+  }
+]

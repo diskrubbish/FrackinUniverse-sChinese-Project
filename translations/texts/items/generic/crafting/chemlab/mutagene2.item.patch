@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A powerful mutagenic extract with multiple lab applications.",
+    "value": "一种具有多种实验效用的强大诱变提取物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Powerful Mutagene",
+    "value": "特效诱变剂"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sharp and dangerous. Give to a friend!",
+    "value": "锋利而危险，做一把送给你朋友吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coral Cleaver",
+    "value": "珊瑚劈刀"
+  }
+]

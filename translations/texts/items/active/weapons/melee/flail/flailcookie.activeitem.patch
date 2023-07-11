@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It...shoots a cookie.\n^cyan;Breaks blocks...somehow^reset;",
+    "value": "它射出的是...曲奇。\n^cyan;能够破环方块...不知怎的^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cookie Striker",
+    "value": "曲奇打击者"
+  }
+]

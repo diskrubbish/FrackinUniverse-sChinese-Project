@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Reliable infantry weapon for anti-robot warfare.\n^yellow;Inflicts Electrified^reset;\n^green;Area-Denial Alt^reset;",
+    "value": "用于反机器人战争的可靠步兵武器。\n^cyan;附加感电效果^reset;\n^yellow;次要攻击：区域封锁^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ion Rifle",
+    "value": "离子步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Shock Grenade",
+    "value": "脉冲手雷"
+  }
+]

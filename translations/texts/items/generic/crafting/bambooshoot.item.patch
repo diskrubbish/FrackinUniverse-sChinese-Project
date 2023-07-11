@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bamboo for crafting goods.",
+    "value": "竹子，可以作为建筑材料。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bamboo Shoot",
+    "value": "竹子"
+  }
+]

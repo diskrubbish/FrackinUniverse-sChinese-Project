@@ -1,0 +1,176 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "Tell me your problems and I'll help soothe your worries. With science!",
+    "value": "告诉我你的问题，我会帮助你消除烦恼。用科学！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "raw": "Tell Floran your problems and Floran will sssoothe your worries. With ssscience!",
+    "value": "告诉叶族人你的问题，叶族人会为你排排排忧解难。用科科科学的方法！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "raw": "Reassuring. Tell me your problems and I'll help soothe your worries. With science!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0",
+    "raw": "Tell me what you're feeling.",
+    "value": "告诉我你的感受。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/1",
+    "raw": "If you don't share your problems, I cannot help you.",
+    "value": "如果你不分享你的问题，我也爱莫能助。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/2",
+    "raw": "Have you seen a bearded, sexy commander lately? I'm asking for a friend.",
+    "value": "你最近有没有看到一个留着胡子的性感指挥官？我在找一个朋友。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/3",
+    "raw": "This isn't the first time I've been exposed to this, it's okay to open up.",
+    "value": "这已经不是我第一次面对这种情况了，敞开心扉吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/0",
+    "raw": "Tell me what you're feeling.",
+    "value": "告诉我你的感受。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/1",
+    "raw": "If you don't share your problemsss, Floran cannot help you.",
+    "value": "如果你不分享你的问问问题，叶族人也爱莫能助。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/2",
+    "raw": "Have you sseen a bearded, sssexy commander lately? Floran iss asking for a friend.",
+    "value": "你最近有没有看看看到一个留着胡子的性性性感指挥官？我在找一个朋友。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/3",
+    "raw": "This issn't the firsst time Floran hass sseen this, it'ss okay to open up.",
+    "value": "这已经不是是是叶族人第一一一次面对这种情况了，敞开心扉吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/0",
+    "raw": "Sympathetic. Tell me what you're feeling.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/1",
+    "raw": "Tender. If you don't share your problems, I cannot help you.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/2",
+    "raw": "Casual. Have you seen a bearded, sexy commander lately? I'm asking for a friend.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/3",
+    "raw": "Reassuring. This isn't the first time I've been exposed to this, it's okay to open up.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "Tell me what you're feeling.",
+    "value": "告诉我你的感受。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "raw": "If you don't share your problems, I cannot help you.",
+    "value": "如果你不分享你的问题，我也爱莫能助。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+    "raw": "Have you seen a bearded, sexy commander lately? I'm asking for a friend.",
+    "value": "你最近有没有看到一个留着胡子的性感指挥官？我在找一个朋友。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+    "raw": "This isn't the first time I've been exposed to this, it's okay to open up.",
+    "value": "这已经不是我第一次面对这种情况了，敞开心扉吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
+    "raw": "Tell me what you're feeling.",
+    "value": "告诉我你的感受。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1",
+    "raw": "If you don't share your problemsss, Floran cannot help you.",
+    "value": "如果你不分享你的问问问题，叶族人也爱莫能助。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
+    "raw": "Have you sseen a bearded, sssexy commander lately? Floran iss asking for a friend.",
+    "value": "你最近有没有看看看到一个留着胡子的性性性感指挥官？我在找一个朋友。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/3",
+    "raw": "This issn't the firsst time Floran hass sseen this, it'ss okay to open up.",
+    "value": "这已经不是是是叶族人第一一一次面对这种情况了，敞开心扉吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+    "raw": "Sympathetic. Tell me what you're feeling.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
+    "raw": "Tender. If you don't share your problems, I cannot help you.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
+    "raw": "Casual. Have you seen a bearded, sexy commander lately? I'm asking for a friend.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
+    "raw": "Reassuring. This isn't the first time I've been exposed to this, it's okay to open up.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Skilled Counsellor",
+    "value": "技术顾问"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Fixing Heads",
+    "value": "修理专精"
+  }
+]

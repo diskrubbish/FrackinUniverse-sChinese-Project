@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A purely cosmetic gemstone to the Eld'uukhar. It is grown purely to trade.",
+    "value": "一块对于厄休安隆龙人来说是纯粹装饰的宝石。它纯粹是为了贸易而生长的。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Duskiline Crystal",
+    "value": "薄暮水晶"
+  }
+]

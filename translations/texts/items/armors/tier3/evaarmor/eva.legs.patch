@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;\n^yellow;^reset; ^cyan;Immune^reset;: Moderate Radiation, Radiation Burn, Pus, Liq. Nitrogen",
+    "value": "^orange;套装奖励^reset;\n^yellow;^reset; ^cyan;免疫^reset;: 严酷辐射, 辐射烧伤, 脓液, 液氮"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "E.V.A Pants",
+    "value": "E.V.A 裤子"
+  }
+]

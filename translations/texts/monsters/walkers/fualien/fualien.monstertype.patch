@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Baroshk Nyano",
+    "value": "巴罗什克·尼亚诺"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A hostile, flesh-eating alien race",
+    "value": "一个敌对的，吃肉的外星人种族。"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just objectively the best thing ever. ^green;Type: Sugar^reset;",
+    "value": "客观上来说是最好的东西。\n ^green;类型：甜食^reset;"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "op": "replace",
+    "path": "/merchantStart/default/default/0",
+    "raw": "F'ilyaa uln'yar!",
+    "value": "期待众人呼唤之纪元！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/default/default/1",
+    "raw": "Llll fhtagn lw'nafh...",
+    "value": "于梦境中等候..."
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/default/default/2",
+    "raw": "Hup mggokai ya ng c' ahor ah'lw'nafh syha'h!",
+    "value": "奇珍异宝，此地有售！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantStart/default/default/3",
+    "raw": "Ph' ya mgepog r'luhhor uaaahll.",
+    "value": "愿吾死能归于深渊之筑。"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/default/default/0",
+    "raw": "C' ph'nglui c' mgepnah uh'eagl!",
+    "value": "吾等居于吾等之仙境！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/default/default/1",
+    "raw": "Ymg' ah l' gotha mggokai?",
+    "value": "问君可予股间肉？"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/default/default/2",
+    "raw": "Uaaah syha'h uh'eagl!",
+    "value": "宏伟之城，始于足下！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/default/default/3",
+    "raw": "Vulgtlagln mgepog'drnn!",
+    "value": "向深渊祈祷！"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantEnd/default/default/4",
+    "raw": "Nogephaii ph'nglui yar!",
+    "value": "必将如闪电般归来！"
+  },
+  {
+    "op": "replace",
+    "path": "/follow/default/default/0",
+    "raw": "Llll nog ya...",
+    "value": "伴我身边..."
+  },
+  {
+    "op": "replace",
+    "path": "/follow/default/default/1",
+    "raw": "Ah'hri...",
+    "value": "我愿追随..."
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/default/default/0",
+    "raw": "C' ph'nglui c' mgepnah uh'eagl!",
+    "value": "吾等居于吾等之仙境！"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/default/default/1",
+    "raw": "Ymg' ah l' gotha mggokai?",
+    "value": "问君可予股间肉？"
+  },
+  {
+    "op": "replace",
+    "path": "/welcome/default/default/2",
+    "raw": "Mgr'luh hup mgepuaaah n'gha!",
+    "value": "请欣赏死亡中绽放的花朵！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/default/default/0",
+    "raw": "Vulgtmor ymg' pixels!",
+    "value": "向众神祭上像素！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/default/default/1",
+    "raw": "Uaaahll'Uaaahll'Uaaahll'Uaaahll'Uaaahll!",
+    "value": "叠砖加瓦，建功奉神！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/default/default/2",
+    "raw": "Vulgtmor ymg' ahnah nilgh'rinahh!",
+    "value": "向众神祭上残殇！"
+  },
+  {
+    "op": "replace",
+    "path": "/tout/default/default/3",
+    "raw": "Y' hup nog R'lyeh llll shugnahoth!",
+    "value": "拜请降临，无形之惧！"
+  },
+  {
+    "op": "replace",
+    "path": "/tagCriteria/default/default/0",
+    "raw": "Y' vulgtlagln Mgepoghnahh!",
+    "value": "吾向众神祈求！"
+  },
+  {
+    "op": "replace",
+    "path": "/enclosedArea/default/default/0",
+    "raw": "Wgah'nagl ah n'gha'agl, nafl yogagl!",
+    "value": "居于暗影，不屈冥土！"
+  },
+  {
+    "op": "replace",
+    "path": "/otherDeed/default/default/0",
+    "raw": "Y' fhtagn mguh'e!",
+    "value": "于此驻足，宴请八方！"
+  },
+  {
+    "op": "replace",
+    "path": "/severe/default/default/0",
+    "raw": "Ogthrod ai'f geb'l ee'h!",
+    "value": "渎神崩言，助吾侍主！"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/0",
+    "raw": "Ia! Ia!",
+    "value": "爱！爱！"
+  },
+  {
+    "op": "replace",
+    "path": "/final/default/default/1",
+    "raw": "'Ngah'ng ai'y zhro!",
+    "value": "决无悔意！"
+  },
+  {
+    "op": "replace",
+    "path": "/beacon/default/default/0",
+    "raw": "Ahf' ah fahf?",
+    "value": "汝等何人？"
+  },
+  {
+    "op": "replace",
+    "path": "/rent/default/default/0",
+    "raw": "Throdog r'luhhor mgr'luh vulgtmnah vulgtmor!",
+    "value": "为旧日支配者献上至高之宴！"
+  }
+]

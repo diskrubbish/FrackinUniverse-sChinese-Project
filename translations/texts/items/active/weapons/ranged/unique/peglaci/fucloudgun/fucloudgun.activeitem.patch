@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Fires clouds of exploding gas.\n^yellow;Extremely loud^reset;\n^green;Massive explosive area^reset;",
+    "value": "射出可引起爆炸的气体。\n^yellow;非常响^reset;\n^green;大范围的爆炸^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Boom Cannon",
+    "value": "轰击炮"
+  }
+]

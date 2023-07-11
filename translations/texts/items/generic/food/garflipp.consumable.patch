@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A brain leech primarily found on Nitrogen seas.\n^cyan;+^white;2% ^cyan;HP ^gray;(^white;1m^gray;)\n^cyan;-^white;20% ^cyan;Risk of Madness Effects^reset;",
+    "value": "一种脑水蛭，主要见于液氮海。\n^cyan;+^white;2%^cyan;HP^gray;(^white;持续1m^gray;)\n^cyan;-^white;20%^cyan;疯癫带来的风险"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Garflipp",
+    "value": "加布林"
+  }
+]

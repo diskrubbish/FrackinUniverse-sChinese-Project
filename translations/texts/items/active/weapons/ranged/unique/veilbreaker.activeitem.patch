@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A brutal and efficient weapon.",
+    "value": "残忍而高效的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Veilbreaker",
+    "value": "隐密破坏者"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Gravity Bomb",
+    "value": "重力炸弹"
+  }
+]

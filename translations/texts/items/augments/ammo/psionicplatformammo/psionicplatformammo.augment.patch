@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "You can shape the air into useable platforms.",
+    "value": "你可以将空气塑造成可用的平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kinetic Ammo",
+    "value": "动能弹药"
+  }
+]

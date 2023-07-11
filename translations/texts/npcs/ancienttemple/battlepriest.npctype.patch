@@ -1,0 +1,86 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "A sacrifice presents itself!",
+    "value": "我愿做祭品！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "raw": "How fortuitous. Usually a sacrifice won't present itself so readily!",
+    "value": "多么庆幸，我可以为克鲁西斯献出自己的生命！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "raw": "You dishonour Kluex!",
+    "value": "不信克鲁西斯者死！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/3",
+    "raw": "You are unwelcome, stranger!",
+    "value": "这里不欢迎你，陌生人！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/4",
+    "raw": "Today, Kluex claims another soul!",
+    "value": "今天，又一个灵魂将被献祭于克鲁西斯！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/5",
+    "raw": "The wrath of Kluex will fall upon you!",
+    "value": "克鲁西斯之怒将会降临于汝身！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/6",
+    "raw": "The power of Kluex compels me to slay you!",
+    "value": "我身体内充满了克鲁西斯的力量，我要杀了你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/0",
+    "raw": "Filthy Grounded scum! Today, you die!",
+    "value": "肮脏的渣滓，受死吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/1",
+    "raw": "Rend the unbeliever limb from limb!",
+    "value": "我会让你领教一下什么才是我们的教义！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/2",
+    "raw": "Your disbelief will be your undoing!",
+    "value": "你胆敢怀疑克鲁西斯！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/3",
+    "raw": "I’ll kill you myself, scum!",
+    "value": "我要杀了你！渣滓！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/4",
+    "raw": "Your disregard towards our mighty Kluex is despicable!",
+    "value": "你藐视了我们伟大的克鲁西斯，你这个异端！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/5",
+    "raw": "By Kluex be purged!",
+    "value": "为了克鲁西斯！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/avian/default/6",
+    "raw": "I... I must destroy you, heretic! I have no choice!",
+    "value": "别无选择，我只能杀了你！"
+  }
+]

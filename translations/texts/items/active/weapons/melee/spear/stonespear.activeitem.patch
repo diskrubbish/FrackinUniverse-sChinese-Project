@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Great for early hide and meat gathering.\n^cyan;Hunting weapon, Floran^reset;",
+    "value": "非常适合前期的躲藏以及肉类采集。\n^cyan;狩猎武器，叶族^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Primitive Spear",
+    "value": "原始长矛"
+  }
+]

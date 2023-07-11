@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Water Bot",
+    "value": "浇水机器人"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This robot serves one purpose: Moisten.",
+    "value": "这个机器人只为一个目的服务：把一切变潮湿。"
+  }
+]

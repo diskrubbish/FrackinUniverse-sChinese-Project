@@ -1,0 +1,38 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Astounding stopping power.",
+    "value": "惊人的制动力。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fellshot Revolver",
+    "value": "强力左轮手枪"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Deadeye^reset; ^yellow;^reset;",
+    "value": "^cyan;死亡之眼^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Revolver...evolved.\n^cyan;+1 projectile^reset;",
+    "value": "左轮手枪……进化。\n^cyan;弹药数+1^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/shortdescription",
+    "raw": "^cyan;Equalizer^reset; ^yellow;^reset;",
+    "value": "^cyan;均衡者^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters2/description",
+    "raw": "Open many large holes in your foes.\n^cyan;+2 projectile^reset;",
+    "value": "在你的敌人身上开洞。\n^cyan;弹数+2^reset;"
+  }
+]

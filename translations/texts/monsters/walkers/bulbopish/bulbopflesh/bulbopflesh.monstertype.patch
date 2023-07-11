@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Meatbag",
+    "value": "肉袋"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Ew.",
+    "value": "额。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tentacle Spawner",
+    "value": "触手生成者"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An abomination which creates more abominations. Burn it to death.",
+    "value": "一个制造更多可憎之物的可憎之物。快烧死它。"
+  }
+]

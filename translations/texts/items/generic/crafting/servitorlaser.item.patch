@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A potential weapon system for a droid.",
+    "value": "一种有待开发的机器人武器系统。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Weapon System Parts",
+    "value": "机器人武器系统"
+  }
+]

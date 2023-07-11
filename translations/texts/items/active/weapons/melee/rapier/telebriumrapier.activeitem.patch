@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stab faster than a ninja.",
+    "value": "比忍者刺得还快。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Telebrium Rapier",
+    "value": "月海刺剑"
+  }
+]

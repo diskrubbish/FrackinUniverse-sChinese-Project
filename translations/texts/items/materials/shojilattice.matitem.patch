@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A delicate lattice made of wood.",
+    "value": "一种用木材做成的精致窗棂。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shoji Window Lattice",
+    "value": "木质窗格"
+  }
+]

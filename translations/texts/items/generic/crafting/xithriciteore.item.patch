@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A super-dense crystalline metal.",
+    "value": "一种超致密的晶体类金属。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Xithricite Ore",
+    "value": "赛德瑞瑟晶体碎片"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune: Shadow Taint & +10% Shadow Res^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;免疫: 暗影污染 & +10% 暗影抗性^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lactarius Indigo Mushroom",
+    "value": "靛兰乳菇"
+  }
+]

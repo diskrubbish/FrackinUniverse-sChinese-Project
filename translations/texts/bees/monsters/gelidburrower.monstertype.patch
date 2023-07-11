@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gelidburrower Bee",
+    "value": "冰掘蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A gelidburrower bee.",
+    "value": "一只冰掘蜜蜂。"
+  }
+]

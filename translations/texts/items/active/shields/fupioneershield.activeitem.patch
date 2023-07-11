@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pioneer Shield",
+    "value": "先锋盾"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;+2% Energy Regen, Immune: Burning^reset;",
+    "value": "^green;能量回复速度+2%；免疫燃烧^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Glofae",
+    "value": "精灵蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These whimsical-looking monsters are actually a highly intelligent bioluminescent insect.",
+    "value": "这些外貌猎奇的怪物实际上是一种高智商的发光昆虫。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Suitable for a rebel without a cause.",
+    "value": "适合叛逆期的离家人士。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elite Shorts",
+    "value": "精英短裤"
+  }
+]

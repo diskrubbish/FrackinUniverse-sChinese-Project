@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Giantek Panel",
+    "value": "企鹅面板"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A dense panel packed with processing power.\n^green;Extractable^reset;.",
+    "value": "具有高速处理能力，内部似乎安装了许多处理器。\n^green;可萃取^reset;。"
+  }
+]

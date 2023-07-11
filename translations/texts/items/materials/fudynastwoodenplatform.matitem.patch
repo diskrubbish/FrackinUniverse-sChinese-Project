@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nicely finished ornate, wooden platforms.",
+    "value": "精心装饰的木质平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dynast Wood Platform",
+    "value": "王朝木平台"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Delighted. These ornate platforms have been finely sanded and finished.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Ornate platformss made from wood.",
+    "value": "木质的华美平平平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some ornate looking wooden platforms.",
+    "value": "木质的华美平台。"
+  }
+]

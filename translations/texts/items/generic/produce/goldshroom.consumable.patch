@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^#b3b398;Glow^reset;: 2m",
+    "value": "^yellow;^reset;^#b3b398;发光^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Gold Shroom",
+    "value": "金色蘑菇"
+  }
+]

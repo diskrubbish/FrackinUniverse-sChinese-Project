@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Creates a field that cancels -all- mech Mass. Toggle with ^green;[F]^reset;.",
+    "value": "创建一块领域，让机甲质量归零。按^green;[F]^reset;切换。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Light Frame (100)",
+    "value": "轻型骨架（100）"
+  }
+]

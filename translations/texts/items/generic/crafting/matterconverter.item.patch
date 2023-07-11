@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Converts matter into new states. Quite useful for gas/liquid/solid conversions.",
+    "value": "将物质转换成新的状态。对于气/液/固转换非常有用。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Matter Converter",
+    "value": "物态转换器"
+  }
+]

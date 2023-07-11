@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An array that can redirect passing particle streams.",
+    "value": "一个阵列，可以重定向通过自身的粒子流。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#88e25b;Focusing Array^reset;",
+    "value": "^#88e25b;聚焦阵列^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune^reset;: Extreme Cold, Liquid Nitrogen: 2m",
+    "value": "^yellow;^reset;^cyan;免疫^reset;: 极端严寒, 液氮: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blizzberry",
+    "value": "暴风雪浆果"
+  }
+]

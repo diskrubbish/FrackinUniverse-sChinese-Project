@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Warsworn Shield",
+    "value": "誓战之盾"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;-20% Fall Damage, +10 Shield Bash^reset;",
+    "value": "^green;掉落伤害-20%, 盾牌反伤+10^reset;%"
+  }
+]

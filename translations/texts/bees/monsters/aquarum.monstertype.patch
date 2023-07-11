@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aquarum Bee",
+    "value": "海族蜜蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A aquarum bee.",
+    "value": "一只海族蜜蜂。"
+  }
+]

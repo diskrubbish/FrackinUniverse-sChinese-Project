@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "psionitop",
+    "value": "灵能娃"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Able to affect reality with sheer willpower.",
+    "value": "能够以纯粹的意志力影响现实。"
+  }
+]

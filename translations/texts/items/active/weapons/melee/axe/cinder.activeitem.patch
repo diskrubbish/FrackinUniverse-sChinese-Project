@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Scorchingly fun.\n^cyan;Really hot.^reset;",
+    "value": "非常有趣。\n^cyan;真的很热。^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cinder",
+    "value": "灰烬"
+  }
+]

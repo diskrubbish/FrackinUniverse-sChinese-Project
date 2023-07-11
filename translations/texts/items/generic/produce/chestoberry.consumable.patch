@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A berry that provides a energy boost and is dry tasting. ^green;Type: Fruit^reset;",
+    "value": "一种能够提供能量加成的干浆果。\n^green;类型：水果^reset;"
+  }
+]

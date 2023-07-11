@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune^reset;: Icy, Slush, Snow, Extreme Cold: 2m",
+    "value": "^yellow;^reset;^cyan;免疫^reset;: 冰面, 雪泥, 雪, 极端严寒: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kramil Spine",
+    "value": "克拉姆根茎"
+  }
+]

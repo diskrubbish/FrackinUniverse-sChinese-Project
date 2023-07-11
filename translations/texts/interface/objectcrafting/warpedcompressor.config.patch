@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/toggleCrafting/caption",
+    "raw": "Warp",
+    "value": "曲变"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblText/value",
+    "raw": "^#b9b5b2;Place Weapon or Tool in the left slot.",
+    "value": "^#b9b5b2;在左边的格子中放入武器或者工具。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Gathered genetic material.",
+    "value": "收集的遗传物质。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Genes",
+    "value": "基因"
+  }
+]

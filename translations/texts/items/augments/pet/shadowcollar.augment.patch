@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A collar that makes your pet almost invisible.",
+    "value": "一个宠物项圈，它可以让你的宠物变成几乎看不见的状态。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shadow Collar",
+    "value": "化影项圈"
+  },
+  {
+    "op": "replace",
+    "path": "/collar/displayName",
+    "raw": "Ghost",
+    "value": "幽灵"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Conjures up thunderheads.",
+    "value": "雷电召来，亦是永恒。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tritanium Staff",
+    "value": "三相法杖"
+  }
+]

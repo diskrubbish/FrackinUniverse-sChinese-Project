@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Silver Stair",
+    "value": "银制台阶"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Shining, high-quality silver stairs.",
+    "value": "闪亮的高质量银色楼梯。"
+  }
+]

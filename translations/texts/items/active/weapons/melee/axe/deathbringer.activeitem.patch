@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Bone and sinew and death. Also, smiles.",
+    "value": "死亡总是伴随着骸骨。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Deathbringer",
+    "value": "死亡使者"
+  }
+]

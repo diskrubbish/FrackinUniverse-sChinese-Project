@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Just as light as the real thing (We are not responsible if this product blows off your face in the wind.)",
+    "value": "就像本尊一样轻（如果该产品在风中吹落您的脸，我们将不承担任何责任。）"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Skimbus Mask",
+    "value": "寒风之魄面具"
+  }
+]

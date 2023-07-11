@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Chillingly effective. Freeze'em dead.",
+    "value": "残酷且有效，冻死他们！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Fistblade",
+    "value": "高熔点拳刃"
+  }
+]

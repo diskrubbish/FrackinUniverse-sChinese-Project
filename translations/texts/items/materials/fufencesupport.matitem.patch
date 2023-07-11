@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nicely finished ornate metallic fence",
+    "value": "完成度很高的华丽金属栅栏。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Steel Support Fence",
+    "value": "钢支撑栅栏"
+  }
+]

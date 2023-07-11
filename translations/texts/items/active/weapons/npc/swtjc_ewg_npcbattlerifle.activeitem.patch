@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An automatic rifle that fires more powerful rounds than an ordinary assault rifle, with better accuracy, at the cost of rate-of-fire.",
+    "value": "与普通步枪而言，它可以射出更强力的弹药，精准度非常高，不过射速有些低。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NPC Battle Rifle",
+    "value": "NPC的战斗步枪"
+  }
+]

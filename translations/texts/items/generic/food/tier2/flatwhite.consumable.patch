@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Coffee with milk. ^orange;Type: Dairy^reset;",
+    "value": "加了牛奶的咖啡。\n^orange;类型：蛋奶^reset;"
+  }
+]

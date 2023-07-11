@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Manipulates anything that matters. ^green;Quick select with [R] key.^reset;",
+    "value": "操纵任何东西。\n^green;快速选择：[R]"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Enhanced Manipulator",
+    "value": "增强物质枪"
+  }
+]

@@ -1,0 +1,416 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/lblTitle/value",
+    "raw": " ^#00eaff;Personal Tricorder^reset;",
+    "value": " ^#00eaff;个人三度仪^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblSubTitle/value",
+    "raw": " ^#bbbbbb;Accesses Stats, Research, Mechs and more.",
+    "value": " ^#bbbbbb;神器在手，天下我有！"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": " ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/resistancesLabel/value",
+    "raw": " ^#ffffff;Resistances^reset;",
+    "value": " ^#ffffff;抗性^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/immunitiesLabel/value",
+    "raw": "Immunities",
+    "value": "免疫"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/expandButton1Label/value",
+    "raw": "Research",
+    "value": "研究点数"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/expandButton2Label/value",
+    "raw": "GPS",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/expandButton3Label/value",
+    "raw": "Codex",
+    "value": "典籍"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/expandButton4Label/value",
+    "raw": "Tech Equip",
+    "value": "科技装备"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/expandButton5Label/value",
+    "raw": "Tech Craft",
+    "value": "科技制作"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/expandButton6Label/value",
+    "raw": "Mech Gear",
+    "value": "机甲装备"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/expandButton7Label/value",
+    "raw": "Mech Fuel",
+    "value": "机甲燃料"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/expandButton8Label/value",
+    "raw": "Upgrade",
+    "value": "升级"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/expandButton9/caption",
+    "raw": "Adv. Stats",
+    "value": "详细状态"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/racialLabel/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/immunitiesList/children/textList/schema/listTemplate/immunity/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/physicalResist/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/fireResist/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/electricResist/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/iceResist/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/poisonResist/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/radioactiveResist/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/cosmicResist/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/shadowResist/value",
+    "raw": "---",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/liquidnitrogenImmunity/name",
+    "raw": "^#4BF3FD;Liquid Nitrogen",
+    "value": "^#4BF3FD;液氮"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/nitrogenfreezeImmunity/name",
+    "raw": "^#4BF3FD;Nitrogen Freeze",
+    "value": "^#4BF3FD;氮冷冻"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/ffextremecoldImmunity/name",
+    "raw": "^#4BF3FD;Extreme Cold",
+    "value": "^#4BF3FD;极端寒冷"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/biomecoldImmunity/name",
+    "raw": "^#4BF3FD;Moderate Cold",
+    "value": "^#4BF3FD;严酷寒冷"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/quicksandImmunity/name",
+    "raw": "^yellow;Quick Sand",
+    "value": "^yellow;流沙"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/snowslowImmunity/name",
+    "raw": "^#4BF3FD;Snow [Tile]",
+    "value": "^#4BF3FD;雪[减速]"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/slushslowImmunity/name",
+    "raw": "^#4BF3FD;Slush [Tile]",
+    "value": "^#4BF3FD;雪泥[减速]"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/iceslipImmunity/name",
+    "raw": "^#4BF3FD;Ice [Tile]",
+    "value": "^#4BF3FD;冰块[滑动]"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/fumudslowImmunity/name",
+    "raw": "^brown;Mud [Tile]",
+    "value": "^brown;泥[减速]"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/fujungleslowImmunity/name",
+    "raw": "^green;Jungle [Tile]",
+    "value": "^green;丛林[减速]"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/slimeImmunity/name",
+    "raw": "^#61D13F;Slow (Slime)",
+    "value": "^#61D13F;缓慢（黏液）"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/slimefrictionImmunity/name",
+    "raw": "^#61D13F;Slimed",
+    "value": "^#61D13F;黏住"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/slimestickImmunity/name",
+    "raw": "^#61D13F;Sticky Slime",
+    "value": "^#61D13F;粘性黏液"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/waterbreathProtection/name",
+    "raw": "^blue;Drowning",
+    "value": "^blue;溺水"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/biooozeImmunity/name",
+    "raw": "^#78f04f;Bio-Ooze",
+    "value": "^#78f04f;生物软泥"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/pusImmunity/name",
+    "raw": "^yellow;Pus",
+    "value": "^yellow;脓液"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/gravrainImmunity/name",
+    "raw": "^gray;Gravity Rain",
+    "value": "^gray;重力雨"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/blacktarImmunity/name",
+    "raw": "^#5B6177;Black Tar",
+    "value": "^#5B6177;黑焦油"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/tarImmunity/name",
+    "raw": "^#5B6177;Tar",
+    "value": "^#5B6177;焦油"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/ffextremeheatImmunity/name",
+    "raw": "^#FDBE4B;Extreme Heat",
+    "value": "^#FDBE4B;极端炎热"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/biomeheatImmunity/name",
+    "raw": "^#FDBE4B;Moderate Heat",
+    "value": "^#FDBE4B;严酷炎热"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/lavaImmunity/name",
+    "raw": "^#C83E14;Lava",
+    "value": "^#C83E14;熔岩"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/sandstormImmunity/name",
+    "raw": "^orange;Sandstorm",
+    "value": "^orange;沙尘暴"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/breathProtection/name",
+    "raw": "Breath",
+    "value": "呼吸"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/gasImmunity/name",
+    "raw": "^#D1E160;Gas",
+    "value": "^#D1E160;气体"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/stunImmunity/name",
+    "raw": "^gray;Stun",
+    "value": "^gray;击晕"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/sulphuricImmunity/name",
+    "raw": "^#ffd800;Sulph. Acid",
+    "value": "^#ffd800;硫酸"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/protoImmunity/name",
+    "raw": "^#78f04f;Proto-Poison",
+    "value": "^#78f04f;原毒"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/extremepressureProtection/name",
+    "raw": "^gray;Pressure",
+    "value": "^gray;压强"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/pressureProtection/name",
+    "raw": "^gray;Pressure",
+    "value": "^gray;压强"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/shadowImmunity/name",
+    "raw": "^#3F2E4D;Shadow Taint",
+    "value": "^#3F2E4D;暗影污染"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/aetherImmunity/name",
+    "raw": "^#E33FFF;Aether",
+    "value": "^#E33FFF;以太"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/insanityImmunity/name",
+    "raw": "^#EA907E;Insanity",
+    "value": "^#EA907E;精神错乱"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/darknessImmunity/name",
+    "raw": "^#EA907E;Darkness",
+    "value": "^#EA907E;黑暗"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/beestingImmunity/name",
+    "raw": "^#ffae00;Bee Sting",
+    "value": "^#ffae00;蜂蜇"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/honeyslowImmunity/name",
+    "raw": "^#FFEC84;Honey Slow",
+    "value": "^#FFEC84;蜂蜜减速"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/electricStatusImmunity/name",
+    "raw": "^#FFE149;Shock",
+    "value": "^#FFE149;触电"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/poisonStatusImmunity/name",
+    "raw": "^#D1E160;Poisoning",
+    "value": "^#D1E160;中毒"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/fireStatusImmunity/name",
+    "raw": "^#FDBE4B;Burning",
+    "value": "^#FDBE4B;燃烧"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/iceStatusImmunity/name",
+    "raw": "^#4BF3FD;Freeze",
+    "value": "^#4BF3FD;冻结"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/biomeelectricImmunity/name",
+    "raw": "^#4BF3FD;Lightning",
+    "value": "^#4BF3FD;闪电"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/ffextremeradiationImmunity/name",
+    "raw": "^yellow;Extreme Radiation",
+    "value": "^yellow;极端辐射"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/biomeradiationImmunity/name",
+    "raw": "^yellow;Moderate Radiation",
+    "value": "^yellow;严酷辐射"
+  },
+  {
+    "op": "replace",
+    "path": "/statuses/radiationburnImmunity/name",
+    "raw": "^yellow;Radiation Burn",
+    "value": "^yellow;辐射烧伤"
+  }
+]

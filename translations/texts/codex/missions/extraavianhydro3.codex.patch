@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "(Hydro Center) The Charge Beam",
+    "value": "阿沃斯激光(水下神庙)"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "These pages are crumbling away from age.",
+    "value": "书页正随着时间流逝而破碎。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "The initial prototype works perfectly. The Stargazers will be pleased. Using the core of avolite crystals, this optics-based weapon is slated to be the first in a line of optics-based weaponry.",
+    "value": "在最初的原型研究中，进展一直很顺利，这肯定能让大祭司满意。这种利用阿沃斯水晶的光学武器将会列为光学武器史上的新里程碑。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "raw": "Its construction is the primary goal of this facility, and now that it is completed, we hope to see implementation in the next few years in addition to other beam weapons.",
+    "value": "阿沃斯激光的出现是为了保护这所神庙，在未来几年来，我们希望还能研发出其他变种武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/2",
+    "raw": "Additional adjustments need to be made in response to safety, ergonomical and maintenance issues, but everyone is feeling proud and relieved at the moment.",
+    "value": "另外，由于安全原因，得需要专人进行维护。我们每个研究人员都以阿沃斯激光研发成功而自豪。"
+  }
+]

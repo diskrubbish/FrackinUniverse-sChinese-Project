@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An unusual weapon for an unusual time.\n^yellow;Fires rebounding discs^reset;\n^green;Sets traps^reset;",
+    "value": "，不寻常的时代，不寻常的武器.\n^yellow;发射可返回的环刃^reset;\n^green;可设置陷阱^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Disc Rifle",
+    "value": "环刃步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Disc Rifle MkII^reset; ^yellow;^reset;",
+    "value": "^cyan;环刃步枪 MkII^reset; ^yellow;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Even more discy.\n^yellow;Slows enemies^reset;",
+    "value": "更多环刃。\n^cyan;减慢敌人的速度^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Razordisc",
+    "value": "剃刀之环"
+  }
+]

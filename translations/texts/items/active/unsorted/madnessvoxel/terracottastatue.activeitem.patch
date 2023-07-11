@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Whatever being this represents is unknown, but it chills you.",
+    "value": "不知道这代表着什么，但它让你不寒而栗。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A Terracotta Bust",
+    "value": "赤陶雕像"
+  }
+]

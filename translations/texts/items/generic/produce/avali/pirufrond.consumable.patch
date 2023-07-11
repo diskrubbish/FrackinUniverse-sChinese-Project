@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Swim Boost^reset;, ^cyan;+15% Run^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;游泳加速^reset;, ^cyan;+15%速度^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Piru Frond [FU]",
+    "value": "皮鲁藤壶叶[FU]"
+  }
+]

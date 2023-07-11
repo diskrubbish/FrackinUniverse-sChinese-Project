@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A rather unusual choice in weaponry.",
+    "value": "一个相当不寻常的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "A Sharpened Mouse",
+    "value": "磨利的老鼠"
+  }
+]

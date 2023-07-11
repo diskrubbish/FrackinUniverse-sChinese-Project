@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Avian Hull Panel",
+    "value": "翼族船体面板"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Hull panels worthy of Avian praise. Very strong.",
+    "value": "这些船体面板值得翼族人的赞扬。非常结实。"
+  }
+]

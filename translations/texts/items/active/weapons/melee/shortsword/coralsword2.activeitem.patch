@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sharp, jagged coral sword.",
+    "value": "一把锋利的、锯齿状的珊瑚剑。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Coral Shortsword",
+    "value": "珊瑚短剑"
+  }
+]

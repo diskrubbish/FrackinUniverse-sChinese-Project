@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Your hard-earned work, ready for use in experiments and blueprints",
+    "value": "里面全是你辛苦得到的科研数据，是为了实验和蓝图作的准备。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Encoded Research",
+    "value": "编码研究光盘"
+  }
+]

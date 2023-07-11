@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/interactData/paneLayoutOverride/windowtitle/title",
+    "raw": " Geologist",
+    "value": " 地质学家"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "raw": " Rocks and Rock-like things.",
+    "value": " 出售石头或类似石头的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I've got things to sell.",
+    "value": "我可以在这里购买或者出售物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+    "raw": "Floran sssell thingss to you.",
+    "value": "叶族人有些东西西西卖给你。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+    "raw": "Statement. I've got things to sell.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Geologist",
+    "value": "地质学家"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Geology",
+    "value": "地质学"
+  }
+]

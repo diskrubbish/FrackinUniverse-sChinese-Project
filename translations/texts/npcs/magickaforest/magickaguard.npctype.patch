@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "raw": "You shouldn't be seeing this.",
+    "value": "你不该看这玩意儿。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/0",
+    "raw": "Nervous. This is my first tour of duty.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/1",
+    "raw": "Apprehensive. We have asked the monks to retreat to safety until the raiders are defeated.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/2",
+    "raw": "Optimistic. The monastery walls will confer us a significant defensive advantage.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/3",
+    "raw": "Uncertain. The alpaca are very good at hiding in the ruins.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/4",
+    "raw": "Adventurous. I hear the ruins go much deeper than one might think. I would like to explore someday.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/5",
+    "raw": "Grim. Alpaca raiders have troubled Glitch settlements for generations.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/6",
+    "raw": "Hopeful. Perhaps a seasoned adventurer like you will deal with the problem without us needing to intervene.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/7",
+    "raw": "Earnest. Shear a handful of those overgrown sheep for me, will you?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/glitch/default/8",
+    "raw": "Determined. These monasteries preserve much knowledge and culture in these dark times. They must be protected.",
+    "value": ""
+  }
+]

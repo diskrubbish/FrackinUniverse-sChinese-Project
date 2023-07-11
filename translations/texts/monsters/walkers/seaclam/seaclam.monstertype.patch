@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sea Clam",
+    "value": "海蚌"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A thick shell and a bubbly attack.",
+    "value": "它有厚厚的壳，用泡泡攻击。"
+  }
+]

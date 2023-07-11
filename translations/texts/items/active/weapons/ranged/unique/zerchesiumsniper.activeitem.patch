@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Put your enemies on ice.\n^green;Generate drones^reset;\n^cyan;Slows enemies^reset;",
+    "value": "冻住，不许走！\n^green;无人机发射器^reset;\n^cyan;减慢敌人的速度^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zerchesium Sniper Rifle",
+    "value": "高熔点狙击步枪"
+  }
+]

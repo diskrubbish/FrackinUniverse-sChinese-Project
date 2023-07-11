@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Kill them with kindness.",
+    "value": "以善之名，抹灭他们。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Heart Staff",
+    "value": "善心法杖"
+  }
+]

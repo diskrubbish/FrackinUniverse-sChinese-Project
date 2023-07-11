@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune^reset;: Proto-Poison: 2m\n^yellow;^reset;^cyan;Heal 60% HP^reset;: 90s",
+    "value": "^yellow;^reset;^cyan;免疫^reset;: 原毒: 2m\n^yellow;^reset;^cyan;治疗 60% HP^reset;: 90s"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Vextongue Stamen",
+    "value": "凸舌蕊"
+  }
+]

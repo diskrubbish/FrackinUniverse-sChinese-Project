@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Warbot",
+    "value": "先驱战争机械"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Its ancient brain houses long-lost secrets of the cosmos.",
+    "value": "它那古老的大脑里蕴藏了有关宇宙的失传已久的秘密。"
+  }
+]

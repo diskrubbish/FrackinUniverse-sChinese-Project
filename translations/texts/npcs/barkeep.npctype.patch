@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+    "raw": "  Barkeep",
+    "value": "  酒保"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "raw": "  Marty's Place",
+    "value": "  马蒂家"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "raw": "Thirsty, friend? Come have a seat. Take a load off and relax.",
+    "value": "渴吗，朋友？过来坐吧。休息一下，放松一下。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/1",
+    "raw": "Looks like you've had a hell of a day, friend. Why don't you have a seat and let me serve you up some refreshment.",
+    "value": "看起来你今天过得很糟，朋友。你为什么不坐下来，让我给你弄点吃的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/2",
+    "raw": "Need to take a break...take the edge off? Maybe a vodka will do the trick.",
+    "value": "需要休息一下...放松一下？也许伏特加可以解决问题。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "raw": "Come back anytime!",
+    "value": "随时欢迎你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1",
+    "raw": "Have a great day. Thanks for the patronage, good sir.",
+    "value": "祝你今天愉快。谢谢您的光临，先生。"
+  }
+]

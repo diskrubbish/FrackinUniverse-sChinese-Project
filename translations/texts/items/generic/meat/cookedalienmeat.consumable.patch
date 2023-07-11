@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A slab of delicious cooked alien meat. ^orange;Type: Cooked Meat^reset;",
+    "value": "一块煮熟的、美味的外星肉。\n^orange;类型：熟肉食^reset;"
+  }
+]

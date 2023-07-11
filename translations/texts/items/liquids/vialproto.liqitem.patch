@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Liquid Protocite",
+    "value": "原体液"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A measure of liquid protocite.\n^yellow;Centrifugable^reset;.",
+    "value": "一定量的液态原体矿。\n^yellow;可离心^reset;。"
+  }
+]

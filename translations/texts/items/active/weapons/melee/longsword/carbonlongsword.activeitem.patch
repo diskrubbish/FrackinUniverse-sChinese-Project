@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A heavy carbon longsword.\n^cyan;Inflicts bleeding^reset;",
+    "value": "一把沉重的碳制长剑。\n^cyan;造成出血^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Carbon Longsword",
+    "value": "碳制长剑"
+  }
+]

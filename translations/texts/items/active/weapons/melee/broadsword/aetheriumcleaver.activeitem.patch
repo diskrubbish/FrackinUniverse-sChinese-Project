@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Nothing is more deadly and beautiful.\n^cyan;Annihilating Alt-Fire^reset;",
+    "value": "没有什么能比它更致命，更绚丽！\n^yellow;湮灭性的次要攻击^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Aetherium Cleaver",
+    "value": "阳清劈刀"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Aetheric Blast",
+    "value": "开天"
+  }
+]

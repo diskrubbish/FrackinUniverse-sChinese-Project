@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; ^#3c3c00;Glow^reset;\n^yellow;^reset; +^green;0.6^reset;% Health Regen\n^yellow;^reset; Wand/Staff/Quarterstaff: Damage x^green;1.25^reset;",
+    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; ^#3c3c00;发光^reset;\n^yellow;^reset; +^green;0.6^reset;%HP恢复\n^yellow;^reset; 魔杖/法杖/双头棍: 伤害x^green;1.25^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Prophet Significa",
+    "value": "先知帽子"
+  }
+]

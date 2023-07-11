@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A servitor chassis. Perhaps I could build my own droid!",
+    "value": "一块机器人用的外壳。也许我可以制作出只属于自己的机器人！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Servitor Chassis",
+    "value": "机器人外壳"
+  }
+]

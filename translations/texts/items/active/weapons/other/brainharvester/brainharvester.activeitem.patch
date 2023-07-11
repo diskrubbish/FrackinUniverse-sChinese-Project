@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Extracts a targets brain at the moment of death.\n^cyan;Collects Brains from enemies^reset;\n^yellow;Counts as Bio-Weapon^reset;",
+    "value": "在目标死亡的那一刻提取目标大脑。\n^cyan;收集敌人的大脑^reset;\n^yellow;生物武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Brain Extractor",
+    "value": "大脑提取器"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Shadow Lance",
+    "value": "暗影之枪"
+  }
+]

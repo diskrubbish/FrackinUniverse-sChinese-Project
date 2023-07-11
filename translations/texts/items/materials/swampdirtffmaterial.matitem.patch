@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Icky, slimy dirt.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "呃，泥土因潮湿变得泥泞了。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Swamp Dirt",
+    "value": "沼泽土块"
+  }
+]

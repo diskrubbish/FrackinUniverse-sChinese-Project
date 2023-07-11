@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A low-capacity, high power energy sidearm.\n^cyan;Hunting and Energy weapon^reset;",
+    "value": "一把低容量，高功率的能量手枪。\n^cyan;狩猎和能量武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kirhosi Blaster",
+    "value": "啮齿冲击者"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "^cyan;Kirhos Blaster II^reset; ^yellow;^reset;",
+    "value": "^cyan;啮齿冲击者II^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "Perfection.\n^cyan;Hunting and Energy Weapon^reset;\n^yellow;+1 projectile^reset;",
+    "value": "完美。\n^cyan;狩猎和能量武器^reset;\n^yellow;发射物+1^reset;"
+  }
+]

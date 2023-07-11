@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A sturdy, reliable grenade launcher.\n^green;Explosive^reset;",
+    "value": "一把耐用、可靠的榴弹发射器。\n^yellow;爆炸^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bushmaster",
+    "value": "大毒蛇"
+  }
+]

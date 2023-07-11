@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Burster",
+    "value": "爆炸物"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The standard issue Peglaci explosive hunting dart.",
+    "value": "标准配置的羊蹄族手榴弹，发射狩猎飞镖。"
+  }
+]

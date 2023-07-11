@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+5% E. Regen & -2.5% E. Regen Block^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;+5%能量回复 & -2.5%能量重充能速度^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Star Mint",
+    "value": "星光薄荷"
+  }
+]

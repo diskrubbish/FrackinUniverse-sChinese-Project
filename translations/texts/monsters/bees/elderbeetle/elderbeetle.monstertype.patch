@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Elder Beetle",
+    "value": "长寿甲虫"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Despite what the name suggests, Elder Beetles don't live very long.",
+    "value": "在甲虫中活得够久，但寿命跟其他动物比起来并不算长。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Sliced violiroot is a simple but delicious Novakid food. ^cyan;+^white;20% ^cyan;Jump ^gray;(^white;100s^gray;)\n^red;Electrified ^gray;(^white;5s^gray;)^reset;",
+    "value": "切片维奥根是一道简单但美味的星之子小菜。\n^cyan;+^white;20%^cyan;跳跃^gray;(^white;持续100s^gray;)\n^red;带电^gray;(^white;持续5s^gray;)^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Violiroot Plate",
+    "value": "维奥根小菜"
+  }
+]

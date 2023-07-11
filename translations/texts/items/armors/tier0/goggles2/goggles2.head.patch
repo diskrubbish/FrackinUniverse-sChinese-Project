@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Raised goggles look friendlier. +^green;5^reset;% Knockback Resist.",
+    "value": "凸起的护目镜看起来更友好。+^green;5^reset;%击退抗性。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dr.Horrible Goggles",
+    "value": "恐怖博士护目镜"
+  }
+]

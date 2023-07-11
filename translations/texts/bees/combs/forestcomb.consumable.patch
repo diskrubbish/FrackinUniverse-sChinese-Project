@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A delicious forest honeycomb! Low grade healing.",
+    "value": "哎吗，真香！具有低效愈合效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Forest Honeycomb",
+    "value": "森林蜂巢"
+  }
+]

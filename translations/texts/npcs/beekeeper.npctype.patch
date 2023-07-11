@@ -1,0 +1,290 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpme/default/0",
+    "raw": "Guards! Help me!",
+    "value": "守卫！快来帮我！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpme/default/1",
+    "raw": "Help! Guards! Help!",
+    "value": "来人！卫兵！快来！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpme/default/2",
+    "raw": "Guards! I've been accosted!",
+    "value": "守卫！我已经事先提醒你了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpme/glitch/0",
+    "raw": "Fear. Guards! Help me!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpme/glitch/1",
+    "raw": "Intimidated. Please don't hurt me!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpme/glitch/2",
+    "raw": "Abused. Guards! I've been accosted!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpme/glitch/3",
+    "raw": "Afraid. Get away from me! Guards!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpme/glitch/4",
+    "raw": "Terrified. Save me!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpme/glitch/5",
+    "raw": "Shocked. No! Get away from me!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpme/floran/0",
+    "raw": "Ssstabby time for me!",
+    "value": "哈！轮到到到我刺啦"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpme/floran/1",
+    "raw": "Floran being hurted!",
+    "value": "叶族人被伤伤伤害了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpme/floran/2",
+    "raw": "Floran not ready for hunt!",
+    "value": "叶族人还没准备好好好去狩猎！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpme/floran/3",
+    "raw": "Greenguard help Floran!",
+    "value": "绿叶卫兵，快帮帮帮叶族人！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpthem/default/0",
+    "raw": "What have you done!?",
+    "value": "你到底做了什么！？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpthem/glitch/0",
+    "raw": "Fear. Guards!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpthem/glitch/1",
+    "raw": "Intimidated. Please don't hurt me!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpthem/glitch/2",
+    "raw": "Afraid. Leave me be! Guards!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpthem/glitch/3",
+    "raw": "Terrified. Save me!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpthem/glitch/4",
+    "raw": "Shocked. What have you done?!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpthem/glitch/5",
+    "raw": "Righteous. I will write an electronic letter in protest!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpthem/floran/0",
+    "raw": "Ssstabby time for me!",
+    "value": "哈！轮到到到我刺啦"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpthem/floran/1",
+    "raw": "Floran being hurted!",
+    "value": "叶族人被伤伤伤害了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpthem/floran/2",
+    "raw": "Floran not ready for hunt!",
+    "value": "叶族人还没准备好好好去狩猎！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/helpthem/floran/3",
+    "raw": "Greenguard help Floran!",
+    "value": "绿叶卫兵，快帮帮帮叶族人！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/encourage/default/0",
+    "raw": "Get 'em!",
+    "value": "抓住他们！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/encourage/default/1",
+    "raw": "Avenge me!",
+    "value": "记得给我报仇！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/encourage/default/2",
+    "raw": "Stick 'em once for me!",
+    "value": "让我敲一下！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/encourage/default/3",
+    "raw": "Don't let 'em get away!",
+    "value": "不要让他们离开！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/encourage/glitch/0",
+    "raw": "Encourage. Put 'em to the sword!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/encourage/glitch/1",
+    "raw": "Excitement. Avenge me!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/encourage/glitch/2",
+    "raw": "Aggressive. Strike him down!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/encourage/glitch/3",
+    "raw": "Vengeful. Don't let 'em get away!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/encourage/floran/0",
+    "raw": "Ssstabb the intruders!",
+    "value": "刺那些些些入侵者！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/encourage/floran/1",
+    "raw": "Floran get revenge now!",
+    "value": "叶族人现在要报报报复！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/encourage/floran/2",
+    "raw": "Ssslice them!",
+    "value": "刺刺刺他们！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/encourage/floran/3",
+    "raw": "Greenguard destroy it!",
+    "value": "绿叶卫兵，快刺刺刺它！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/safe/default/0",
+    "raw": "Phew, I think I got away.",
+    "value": "*反感*，我想我该走了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/safe/default/1",
+    "raw": "I've escaped with my life!",
+    "value": "我不想回到以前的日子！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/safe/default/2",
+    "raw": "Is this the safe zone?",
+    "value": "这里安全吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/safe/glitch/0",
+    "raw": "Relieved. Phew, I think I got away.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/safe/glitch/1",
+    "raw": "Thankful. I've escaped with my life!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/safe/glitch/2",
+    "raw": "Wishful. If only I could afford a keep.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/safe/glitch/3",
+    "raw": "Hopeful. Am I safe?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/safe/glitch/4",
+    "raw": "Embarrassed. I think I leaked a little oil.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/safe/floran/0",
+    "raw": "Floran sssafe now.",
+    "value": "叶族人现在安全全全了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/safe/floran/1",
+    "raw": "Floran not get ssstabbed after all.",
+    "value": "叶族人再也不不不会被刺到了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/safe/floran/2",
+    "raw": "Them lucky Floran not have weapon.",
+    "value": "叶族人正好没有武武武器，他们很走运。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/flee/dialog/safe/floran/3",
+    "raw": "Sssalvation!",
+    "value": "得得得救了！"
+  }
+]

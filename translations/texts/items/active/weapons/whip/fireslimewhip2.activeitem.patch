@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A whip made of sticky slime, producing immense heat.",
+    "value": "粘性黏液制成的鞭子，能产生巨大的热量。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fire Slime Whip II",
+    "value": "火焰粘液鞭 II"
+  }
+]

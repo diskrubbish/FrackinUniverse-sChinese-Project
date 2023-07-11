@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fantastic foe-stabber.\n^cyan;Hunting weapon^reset;",
+    "value": "梦幻的致命一刺。\n^cyan;狩猎武器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Quietus Spear",
+    "value": "寂灭长矛"
+  }
+]

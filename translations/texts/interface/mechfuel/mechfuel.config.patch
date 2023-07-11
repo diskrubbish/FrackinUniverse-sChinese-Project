@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "raw": "  Mech fuel tank",
+    "value": "  机甲燃料箱"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "raw": "  ^#b9b5b2;Insert erchius fuel to power your mech",
+    "value": "  ^#b9b5b2;插入厄尔吉斯燃料来驱动机甲"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblModuleLabel/value",
+    "raw": "^green;CURRENT FUEL:^white;",
+    "value": "^green;当前燃料:^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblModuleCount/value",
+    "raw": "^yellow;0 / 0^white;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/lblFuelType/value",
+    "raw": "CURRENT FUEL TYPE: ",
+    "value": "当前燃料种类:"
+  }
+]

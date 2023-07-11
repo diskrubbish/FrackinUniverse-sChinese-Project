@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This beast absolutely murders the enemy!\n^yellow;Inflicts frozen-fire^reset;\n^cyan;Summons Assault Drones^reset;",
+    "value": "毫无疑问，这把狂野的武器能把敌人轰杀至渣！\n^cyan;附加霜灼效果^reset;\n^yellow;召唤2只两足机器人协助战斗^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Sentry Railgun",
+    "value": "哨兵轨道炮"
+  }
+]

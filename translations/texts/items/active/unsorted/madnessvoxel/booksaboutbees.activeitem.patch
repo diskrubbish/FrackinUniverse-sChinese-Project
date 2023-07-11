@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This is the Bee Movie script. Over and over again.",
+    "value": "这是一本蜜蜂电影脚本。一遍接一遍的重复着。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "All About Bees",
+    "value": "蜂群全记"
+  }
+]

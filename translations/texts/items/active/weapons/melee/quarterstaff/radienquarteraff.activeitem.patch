@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A X'ian staff, made from their own Bulbs.",
+    "value": "用艾肯自己的球茎制成。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "X'ian Quarterstaff",
+    "value": "艾肯长棍"
+  }
+]

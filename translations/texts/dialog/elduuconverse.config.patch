@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/greeting/elduukhar/default/0",
+    "raw": "Greetings, friend.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/converse/elduukhar/generic/0",
+    "raw": "You're not here to cause trouble, are you?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/converse/elduukhar/default/0",
+    "raw": "Hello there.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/converse/elduukhar/apex/0",
+    "raw": "I'm not sure what to think of you.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/converse/elduukhar/avian/0",
+    "raw": "Your gemstones are exquisite. May I take a look sometime, friend?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/converse/elduukhar/floran/0",
+    "raw": "I'm not for stabbing, trust me.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/converse/elduukhar/glitch/0",
+    "raw": "I promise I won't set fire to your castle.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/converse/elduukhar/human/0",
+    "raw": "How are you doing today, human?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/converse/elduukhar/hylotl/0",
+    "raw": "I would be happy to learn more about swordfighting from your kind.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/converse/elduukhar/elduukhar/0",
+    "raw": "It's nice to see a familiar face!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/converse/elduukhar/novakid/0",
+    "raw": "I've never seen someone like you before.",
+    "value": ""
+  }
+]

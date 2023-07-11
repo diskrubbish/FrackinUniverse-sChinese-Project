@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;+5 HP^reset;, ^cyan;+6 EP^reset;: 3m",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Biscorn",
+    "value": "双子玉米"
+  }
+]

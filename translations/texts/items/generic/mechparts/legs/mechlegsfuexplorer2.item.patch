@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Greater jump and movement speed.",
+    "value": "加强了跳跃力和移动速度。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Explorer II Mech Legs",
+    "value": "探索者机甲足 II"
+  }
+]

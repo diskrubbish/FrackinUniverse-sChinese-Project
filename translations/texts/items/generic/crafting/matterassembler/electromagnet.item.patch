@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An advanced electromagnet.",
+    "value": "一块先进的电磁铁。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#77acc3;Electromagnet^reset;",
+    "value": "^#77acc3;电磁铁^reset;"
+  }
+]

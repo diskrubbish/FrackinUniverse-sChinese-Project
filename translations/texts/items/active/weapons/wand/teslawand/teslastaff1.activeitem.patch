@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The fury of storms in the palm of your hand.",
+    "value": "狂风暴雨，握于掌上。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Tesla's Wand",
+    "value": "特斯拉魔杖"
+  }
+]

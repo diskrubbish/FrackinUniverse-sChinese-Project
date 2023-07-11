@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Artisan Young Queen",
+    "value": "幼年工匠蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Artisan Queen",
+    "value": "幼年的工匠蜂后"
+  }
+]

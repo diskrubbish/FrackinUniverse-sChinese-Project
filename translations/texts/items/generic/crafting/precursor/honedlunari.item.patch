@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A perfectly re-shaped piece of lunari, ready to charge with energy.",
+    "value": "一块完美重塑过的月晶，等待充能。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Honed Lunari",
+    "value": "精炼月晶"
+  }
+]

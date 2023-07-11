@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Teleports the user to the ^orange;Dark Erchius Mining Facility^reset; in the Nightmare World.\n^red;Environmental Hazards^reset;:\nMaddening Atmosphere",
+    "value": "将使用者传送至至位于噩梦世界的^orange;极暗厄尔吉斯开采设施^reset;\n^red;环境危害^reset;:\n致疯大气"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beacon: ^orange;Dark Erchius^reset;",
+    "value": "信标·^orange;极暗开采设施reset;"
+  }
+]

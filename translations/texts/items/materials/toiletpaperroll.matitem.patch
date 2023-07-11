@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Usually placed next to a toilet for finishing personal business... though it's also possible to construct things using these.",
+    "value": "通常放在厕所里边，用来处理私人事务...但也可以用来建造东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Toilet Paper",
+    "value": "厕纸"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A slimey liquid.\n^yellow;Centrifugable^reset;.",
+    "value": "黏黏的液体。\n^yellow;可离心^reset;。"
+  }
+]

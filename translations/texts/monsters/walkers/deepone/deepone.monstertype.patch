@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Deep One",
+    "value": "深潜者"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This wretched evolutionary abomination is one of countless billions...",
+    "value": "这种令人讨厌的进化恶兽只是数十亿恶兽中的一种..."
+  }
+]

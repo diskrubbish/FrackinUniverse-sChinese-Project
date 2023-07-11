@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Exceptional Quiver",
+    "value": "卓越箭袋"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "+^green;20^reset;% Damage (Bows)\n+^green;20^reset;% Draw Speed (Bows)\n+^green;8^reset;% Airborne Damage (Bows)\n-^green;4^reset; Energy Per Shot (Bows)",
+    "value": "伤害（弓箭）+^green;20^reset;%\n上弦速度（弓箭）+^green;20^reset;% \n空射伤害（弓箭）+^green;8^reset;%\n每击能量消耗（弓箭）-^green;4^reset;"
+  }
+]

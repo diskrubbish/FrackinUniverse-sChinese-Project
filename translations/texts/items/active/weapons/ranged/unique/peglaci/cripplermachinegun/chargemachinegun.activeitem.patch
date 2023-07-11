@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Rapid fire radioactive joy!\n^yellow;Inflicts Radiation Burn^reset;",
+    "value": "烧，烧起来吧！\n^cyan;附加辐射烧伤效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Crippler Machinegun",
+    "value": "残害者机枪"
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/name",
+    "raw": "Stun Sphere",
+    "value": "眩晕球"
+  }
+]

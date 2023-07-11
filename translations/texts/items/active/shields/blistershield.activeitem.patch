@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Immune: Poison^reset;",
+    "value": "^green;免疫中毒^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Blister Shield",
+    "value": "泡荚盾"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A chunk of beeswax.",
+    "value": "一块蜂蜡。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Beeswax",
+    "value": "蜂蜡"
+  }
+]

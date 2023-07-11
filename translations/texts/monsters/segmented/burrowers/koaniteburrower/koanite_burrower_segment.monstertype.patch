@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Burrower Segment",
+    "value": "挖土拟态蠕虫"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A segment of a camoflauged burrowing worm",
+    "value": "一段拟态穴居蠕虫"
+  }
+]

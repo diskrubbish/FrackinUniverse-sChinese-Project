@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stellar Young Queen",
+    "value": "幼年的恒星蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Young Stellar Queen",
+    "value": "幼年恒星蜂后"
+  }
+]

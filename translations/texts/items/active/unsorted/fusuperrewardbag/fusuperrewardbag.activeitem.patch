@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Broken off from a Space-Time Obelisk. Use to open its trans-dimensional storage.",
+    "value": "从一个时空方尖碑上脱落下来。常常用来打开空间储存器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Space-Time Crystal",
+    "value": "时空晶体"
+  }
+]

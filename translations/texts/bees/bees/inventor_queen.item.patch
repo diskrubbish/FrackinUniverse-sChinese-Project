@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Inventor Queen",
+    "value": "发明蜂后"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Inventor Queen",
+    "value": "发明蜂后"
+  }
+]

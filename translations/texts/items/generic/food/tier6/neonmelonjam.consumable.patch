@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Super-delicious neonmelon jam. ^green;Type: Fruit Dessert^reset;",
+    "value": "一瓶用霓虹瓜制成的美味的果酱。\n^green;类型：水果甜食^reset;"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This spear will pierce the heavens. And flesh.\n^cyan;Inflicts Bleeding^reset;",
+    "value": "这把矛可以捅破天空，亦可刺穿肉身。\n^cyan;附加出血效果^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Drill Spear",
+    "value": "先驱破天矛"
+  }
+]

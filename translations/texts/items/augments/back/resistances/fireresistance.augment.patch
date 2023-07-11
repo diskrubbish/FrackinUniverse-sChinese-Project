@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that resists the Fire element, ^green;+25% Fire Resist, Burn Immunity^reset;.",
+    "value": "一个能够抵抗火炎元素的EPP模块。\n^cyan;火炎抗性+25%；免疫燃烧^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Fire Barrier",
+    "value": "EPP模块（火炎屏障）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Fire Barrier",
+    "value": "EPP模块（火炎屏障）"
+  }
+]

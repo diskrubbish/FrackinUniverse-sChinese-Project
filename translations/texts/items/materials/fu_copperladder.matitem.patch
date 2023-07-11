@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Copper Ladder",
+    "value": "铜制梯子"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A copper ladder.",
+    "value": "就是铜制的梯子。"
+  }
+]

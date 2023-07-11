@@ -1,0 +1,44 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/0",
+    "raw": "You made a big mistake coming here!",
+    "value": "你犯了一个大错！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/1",
+    "raw": "You cannot hurt me! I am bulletproof!",
+    "value": "你无法伤害我！我可是防弹的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/default/2",
+    "raw": "Intruder spotted! Isolate. Destroy.",
+    "value": "发现入侵者！包围，消灭。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/apex/0",
+    "raw": "Rebel scum! Today, you die!",
+    "value": "逆贼！你今天死定了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/apex/1",
+    "raw": "Opposing Big Ape is a mistake!",
+    "value": "反抗大猿是错误的行为！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/apex/2",
+    "raw": "Why do you fight? You cannot hope to win.",
+    "value": "为什么要反抗呢？你毫无胜算。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/attack/default/apex/3",
+    "raw": "You cannot hurt me! I am bulletproof!",
+    "value": "你无法伤害我！我可是防弹的！"
+  }
+]

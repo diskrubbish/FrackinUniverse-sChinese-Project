@@ -1,0 +1,158 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
+    "raw": "I'M FREE! AT LONG LAST! Sire, I would travel with you as thanks!",
+    "value": "呼，我终于自由了！感谢你邀请我和你一起旅行！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
+    "raw": "Glorious, wonderful oxygen. Do yourself a favor: Don't be friends with Avians. That sucked. I'll follow you now, if you'll have me.",
+    "value": "荣幸之极，啊，这空气真棒！给你一个忠告：别和翼族的家伙混在一起，它们都是一群鸟人。还有如果你要我帮你，就喊我，别客气。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
+    "raw": "Let us unravel secrets together, now that you've so graciously freed me.",
+    "value": "既然你已经让我自由了，那就让我们一起解开这世界的所有秘密吧。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
+    "raw": "I suppose they meant it literally when they said they intended to keep me forever. Avian hospitality is rather poor.",
+    "value": "我记得当他们说他们打算永远留下我的时候，他们还真就是这个意思。翼族人一点也不好客。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "I can shield you from damage, and from madness!",
+    "value": "我可以保护你免受伤害，并且让你免疫狂乱！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "raw": "You need not fear insanity if I'm around, sir!",
+    "value": "先生！有我在你身边，你永远都不需要担心精神错乱了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+    "raw": "I can ward you against foul madness-inducing things!",
+    "value": "我可以帮助你抵御那些诱向疯狂的事物的入侵，免疫精神错乱！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+    "raw": "I'm back? Again? What madness is this?",
+    "value": "我活过来了？刚才我死掉了的事难道是幻觉？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1",
+    "raw": "I am positive I just died. Did I?",
+    "value": "我觉得我刚才死了？这是真的？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "To battle, <entityname>!",
+    "value": "为战而战，<playerName>！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "raw": "<entityname>! Let us vanquish these cursed foes!",
+    "value": "<playerName>！让我们战胜这些被诅咒的敌人！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+    "raw": "Like a squallid hellhound, I engage Beast Mode!",
+    "value": "就如同一只呲牙的猎犬一般，我会撕碎他们，直到他们变成一堆碎肉为止！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+    "raw": "I'll stay here. Come back when you need me, <entityname>!",
+    "value": "我就在这里等着。 需要我的时候再来，<entityname>！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
+    "raw": "I'll stay here for now, <entityname>.",
+    "value": "我会留在这里，<playerName>。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/2",
+    "raw": "Do you need me to stay here, <entityname>?",
+    "value": "你需要我留在这里吗？<playerName>。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
+    "raw": "Good idea <entityname>!",
+    "value": "好主意，<playerName>！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/1",
+    "raw": "Let's get going, <entityname>!",
+    "value": "我们走，<playerName>！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/2",
+    "raw": "Let's go, <entityname>!",
+    "value": "我们出发吧，<entityname>！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+    "raw": "I can't reach you!",
+    "value": "我没法跟上你！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
+    "raw": "You're too far!",
+    "value": "你跑得太快了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
+    "raw": "Hey, wait up!",
+    "value": "嘿，等等！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
+    "raw": "Don't go too far!",
+    "value": "你离得太远了！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
+    "raw": "Let me catch up!",
+    "value": "等等我！"
+  },
+  {
+    "op": "replace",
+    "path": "/npcname",
+    "raw": "Lovelius Smythe",
+    "value": "神秘学研究者"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Occult Scholar",
+    "value": "邪教徒"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Investigation",
+    "value": "勘察"
+  }
+]

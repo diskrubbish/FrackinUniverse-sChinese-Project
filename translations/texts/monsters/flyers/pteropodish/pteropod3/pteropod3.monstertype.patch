@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bloodbound Pteropod",
+    "value": "血界的飞翼豆荚"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Erupts with noxious gore. Horrible for dinner parties.",
+    "value": "喷出有毒的血块。对于晚餐聚会来说太可怕了。"
+  }
+]

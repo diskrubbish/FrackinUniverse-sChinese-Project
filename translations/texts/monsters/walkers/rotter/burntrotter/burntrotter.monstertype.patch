@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Burnt Rotter",
+    "value": "灼伤僵尸"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A half-dead, fire-breathing abomination. Great with kids.",
+    "value": "一只半死不活的喷火怪物。和孩子相性不错。"
+  }
+]

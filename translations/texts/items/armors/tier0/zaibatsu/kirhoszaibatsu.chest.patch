@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Formal wear suitable for corporate affairs.",
+    "value": "适用于处理公司事务的正装。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Zaibatsu Top",
+    "value": "财阀头盔"
+  }
+]

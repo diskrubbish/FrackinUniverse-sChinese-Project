@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Mother Whispers",
+    "value": "母亲耳语"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A fragment reads",
+    "value": "一本“碎片”读物"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "raw": "When the Mother whispers, a Fragment must obey. Consuming allows the Fragment to survive. Mother births the Fragment. Obey.",
+    "value": "当圣母低语时，碎片必须服从。消耗使得碎片得以存活。母亲生下了碎片。唯有服从。"
+  }
+]

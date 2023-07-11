@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Icewalker",
+    "value": "冰宝宝"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Their loathing of the Fireballs is unmatched.",
+    "value": "非常讨厌火。"
+  }
+]

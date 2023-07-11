@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Shock Shroom",
+    "value": "冲击蘑菇"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Toss this shroom and shock your foes.",
+    "value": "丢出这个蘑菇来冲击你的敌人。"
+  }
+]

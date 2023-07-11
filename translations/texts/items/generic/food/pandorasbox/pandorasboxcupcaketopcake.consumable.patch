@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A delicious small cake-like pastery produced by Cupcaketops.",
+    "value": "一块美味而小巧的纸杯蛋糕。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cupcaketop Cupcake",
+    "value": "纸杯蛋糕"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Large Corrupt Fly",
+    "value": "大型腐化苍蝇"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "He is the Lord of the Flies.",
+    "value": "他是苍蝇之王。"
+  }
+]

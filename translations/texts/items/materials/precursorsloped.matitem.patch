@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Glorious ancient metal\n^green;Extractable^reset;.",
+    "value": "壮丽的古代金属。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Precursor Sloped Panel",
+    "value": "先驱倾斜面板"
+  }
+]

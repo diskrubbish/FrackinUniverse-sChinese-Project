@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A block of bone gritted down into dust.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": "这是用骨头磨成的一些粉末。\n^green;可萃取^reset;，^orange;可筛分^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Bonemeal",
+    "value": "骨粉"
+  }
+]

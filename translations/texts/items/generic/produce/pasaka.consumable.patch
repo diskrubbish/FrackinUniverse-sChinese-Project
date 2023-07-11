@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^yellow;^reset;^cyan;Immune: Radiation Burn & +20% Radiation Res^reset;: 2m",
+    "value": "^yellow;^reset;^cyan;免疫: 辐射烧伤 & +20% 辐射抗性^reset;: 2m"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Pasaka Bulb",
+    "value": "帕斯卡球果"
+  }
+]

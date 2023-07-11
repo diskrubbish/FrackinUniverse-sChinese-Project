@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Expertly treated dark ornate wood.",
+    "value": "精细加工后的黑色华丽木头。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dark Ornate Wood",
+    "value": "黑色华丽木头"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Amazed. This wood was specially treated by a master craftsman.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Floran likess sspecial treated wood.",
+    "value": "叶族人喜喜喜欢特殊处处理过的木材。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "This wood looks like it's been treated with somethin'.",
+    "value": "这种木材似乎被用某种方法处理过。"
+  }
+]

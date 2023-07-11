@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Block of Darkstone",
+    "value": "黑暗石块"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A stone of solid darkness found in the Umbra.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": "在黑暗中发现的坚固黑色石头。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Statement. Hard darkness.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sssstone of darknessss.",
+    "value": "石头头头很黑。"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The ideal man-portable weapon of choice for taking down rampaging tanks, mecha, and giant monsters, if you can handle the long reload time.",
+    "value": "如果你习惯于它的重新装载弹药的时间，那么它将会你最理想的武器，坦克，机甲和巨型怪物对它来说是小菜一碟。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "NPC Rocket Launcher",
+    "value": "NPC的火箭发射器"
+  }
+]

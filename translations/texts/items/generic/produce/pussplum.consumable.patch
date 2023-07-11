@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Pussplum, some claim it is delicious! ^green;Type: Fruit^reset;",
+    "value": "圣女果，据说非常美味！\n^green;类型：水果^reset;"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
+    "raw": "Dude. Are you ready for the @#$%^$^#ing party or what?!?!",
+    "value": "伙计。你准备好轰他@#$%^$^#的趴还是要？！？！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
+    "raw": "Wanna hang out?",
+    "value": "想一起出去玩吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
+    "raw": "HEY MAN, DO YOU WANT A LIGHT SHOW?!?!?!",
+    "value": "嘿，伙计，你渴望一场灯光秀吗！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+    "raw": "PAAAAAAAAAAAAAAAAAAAAAAAAAAAARRRTY!",
+    "value": "趴啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊踢！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+    "raw": "DID YOU SAY PARTY? I'M 300% POSITIVE THAT YOU DID!",
+    "value": "你是说派对吗？我百分之三百肯定是你办的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+    "raw": "MAN, YOU LOOK LIKE YOU NEED TO PARTY!",
+    "value": "伙计，你看起来需要开个派对！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+    "raw": "WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!",
+    "value": "喔噢噢噢噢噢噢噢噢哦哦哦哦哦哦哦哦哦哦哦哦哦！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1",
+    "raw": "Holy crap that was intense. Wanna hug?",
+    "value": "我勒个去，太紧张了。想来个拥抱吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/2",
+    "raw": "I just wanna touch everything right now.",
+    "value": "我现在只想接触所有的东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/3",
+    "raw": "PHEW! I THOUGHT THE PARTY WAS OVER, THERE!",
+    "value": "呼！我还以为派对结束了呢！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/4",
+    "raw": "PLUR BROUGHT ME BACK FOR ONE LAST PARTY!",
+    "value": "请把我带回来参加最后一个派对！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/5",
+    "raw": "I don't have syphilis.",
+    "value": "我没得梅毒。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/6",
+    "raw": "My head hurts.",
+    "value": "我的头有些疼。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/respawned/default/default/7",
+    "raw": "I think I talked to God.",
+    "value": "我认为我和上帝说过话。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+    "raw": "Dude.",
+    "value": "老兄。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+    "raw": "WOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!",
+    "value": "哇！！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+    "raw": "PAAAAAAAAAAAAAAAAAAAAAAAAAAAARRRTY!",
+    "value": "趴啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊踢！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+    "raw": "DID YOU SAY PARTY? I'M 300% POSITIVE THAT YOU DID!",
+    "value": "你是说派对吗？我百分之三百肯定是你办的！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/4",
+    "raw": "MAN, YOU LOOK LIKE YOU NEED TO PARTY!",
+    "value": "伙计，你看起来需要开个派对！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/5",
+    "raw": "I AM GOING TO PARTY THEM TO DEATH!",
+    "value": "我准备和他们轰趴至死！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+    "raw": "This place sucks.",
+    "value": "这个地方糟透了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
+    "raw": "Without music? You suck.",
+    "value": "没有音乐听？真是糟透了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/2",
+    "raw": "Dude.",
+    "value": "老兄。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
+    "raw": "!@#$#@%@ YES ARE YOU READY TO PARTY?!??",
+    "value": "!@#$#@%@准备好轰趴了吗?!??"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/1",
+    "raw": "About time.",
+    "value": "是时候了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/follow/default/default/2",
+    "raw": "I swear I didn't touch your underwear, man.",
+    "value": "我发誓我没碰你的内裤。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+    "raw": "DUDE! SLOW THE HECK DOWN! I'M WASTED.",
+    "value": "伙计！搞慢点！我醉了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
+    "raw": "Cmon dude....you're too far.",
+    "value": "拜托，伙计...你离我太远了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
+    "raw": "Seriously? Slow down, Wally West.",
+    "value": "真的吗？慢点，沃利·韦斯特。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
+    "raw": "I hate running.",
+    "value": "我讨厌跑步。"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
+    "raw": "CAN'T WE JUST STAY STILL AND DANCE?!?!?",
+    "value": "我们就不能好好地跳舞吗？"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/name",
+    "raw": "Party Party Party",
+    "value": "派对派对派对"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/crew/role/field",
+    "raw": "Partyime Pal",
+    "value": "派对狂魔"
+  }
+]

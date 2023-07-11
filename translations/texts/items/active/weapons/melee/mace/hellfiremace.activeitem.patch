@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Burns with rage. And heat. And other hot stuff. Design by Gezbo.",
+    "value": "烧吧，烧尽一切吧！由Gezbo设计。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Hellfire Mace",
+    "value": "地狱火钉头锤"
+  }
+]

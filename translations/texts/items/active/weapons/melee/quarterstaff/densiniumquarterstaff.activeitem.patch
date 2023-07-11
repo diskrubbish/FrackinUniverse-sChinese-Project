@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An extremely dense, heavy staff.",
+    "value": "这把武器非常非常重！"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Densinium Quarterstaff",
+    "value": "超致密长棍"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This fleshy mass looks like it was part of some creature's stomach.\n^green;Extractable^reset;.",
+    "value": "这种鼓起的肉块好像某种生物的胃的内壁。\n^green;可萃取^reset;。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Stomach Lining",
+    "value": "胃内壁"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Uncomforatble. This slimy mass looks and smells terrible.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Sslimy meat.",
+    "value": "黏黏的肉肉肉。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "raw": "Some sorta slimy lookin' meat.",
+    "value": "这种黏糊糊的东西好像肉一般。"
+  }
+]

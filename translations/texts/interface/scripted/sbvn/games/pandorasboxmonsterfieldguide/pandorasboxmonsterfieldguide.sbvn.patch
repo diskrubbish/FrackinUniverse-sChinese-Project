@@ -1,0 +1,4850 @@
+[
+  {
+    "op": "replace",
+    "path": "/displayConfig/title",
+    "raw": "Protectorate Monster Field Guide",
+    "value": "守护团怪物指南"
+  },
+  {
+    "op": "replace",
+    "path": "/displayConfig/subtitle",
+    "raw": "An interactive field guide to identifying monsters.",
+    "value": "一台能让你现场识别怪物的可交互指南。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro0/text",
+    "raw": "[Greetings Protector. This device is your personal field guide to monsters you will encounter in the universe.]",
+    "value": "[你好，守护者。这个装置是你用于鉴别在宇宙中遇到的怪物的个人现场指南。]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/intro1/text",
+    "raw": "[The next screen will populate with different monster categories. These categories include ground, flying, ghost, and crawling.]",
+    "value": "[下一个屏幕将显示不同的怪物类别。这些类别包括地面系，飞行系，鬼怪，和爬行系。]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/categoryselect0/text",
+    "raw": "[Select the category you wish to browse, or select MORE to view more categories.]",
+    "value": "[请选择要浏览的类别，或选择“更多”以查看其他类别。]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/categoryselect1/text",
+    "raw": "[Loading additional categories...]",
+    "value": "[正在加载其他类别... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundendofdata/text",
+    "raw": "[You have reached the end of this monster's data. Returning to Ground Monster Selection Screen...]",
+    "value": "[你已经到达了这种怪物数据的终点。返回地面系怪物选择层... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingendofdata/text",
+    "raw": "[You have reached the end of this monster's data. Returning to Flying Monster Selection Screen...]",
+    "value": "[你已经到达了这种怪物数据的终点。返回飞行系怪物选择层... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostendofdata/text",
+    "raw": "[You have reached the end of this monster's data. Returning to Ghost Monster Selection Screen...]",
+    "value": "[你已经到达了这种怪物数据的终点。返回鬼怪选择层... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingendofdata/text",
+    "raw": "[You have reached the end of this monster's data. Returning to Crawling Monster Selection Screen...]",
+    "value": "[你已经到达了这种怪物数据的终点。返回爬行系怪物选择层... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundintro0/text",
+    "raw": "[This is the selection menu for Ground Monsters. The list will be populated with one option per screen. Click NEXT to view the next screen, or click BACK to return to a previous screen.]",
+    "value": "[这是地面系怪物的选择菜单。该列表将在每个屏幕上显示一个选项。单击“下一个”查看后项，或单击“离开”返回到上一层。]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingintro0/text",
+    "raw": "[This is the selection menu for Flying Monsters. The list will be populated with one option per screen. Click NEXT to view the next screen, or click BACK to return to a previous screen.]",
+    "value": "[这是飞行系怪物的选择菜单。该列表将在每个屏幕上显示一个选项。单击“下一个”查看后项，或单击“离开”返回到上一层。]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostintro0/text",
+    "raw": "[This is the selection menu for Ghost Monsters. The list will be populated with one option per screen. Click NEXT to view the next screen, or click BACK to return to a previous screen.]",
+    "value": "[这是鬼怪的选择菜单。该列表将在每个屏幕上显示一个选项。单击“下一个”查看后项，或单击“离开”返回到上一层。]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingintro0/text",
+    "raw": "[This is the selection menu for Crawling Monsters. The list will be populated with one option per screen. Click NEXT to view the next screen, or click BACK to return to a previous screen.]",
+    "value": "[这是爬行系怪物的选择菜单。该列表将在每个屏幕上显示一个选项。单击“下一个”查看后项，或单击“离开”返回到上一层。]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpoptop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectadultpoptop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsnorktop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnocttop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcaketop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmushtop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectoctotop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmagmatop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmimetop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectglitchtop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectbulbop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcottonbop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectshroombop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsummerbop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectautumnbop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectwinterbop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectspringbop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcandybop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmallowbop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmandraflora/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectgummi/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectrockgummi/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttargummi/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectfleshgummi/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectskullgummi/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecteyevalve/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttrapogo/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectfennix/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectfrostix/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectelectrix/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttoxix/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmysterix/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnormix/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcleaningbot/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpeblit/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectorelit/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnutmidge/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnutmidgeling/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectkingnutmidgeling/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecthelmidge/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectanglure/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectbobot/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcapricoat/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcrabcano/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcrutter/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectgleap/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectaliep/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectoculemic/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecthemogoblin/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecthypnare/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectlilodon/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmiasmop/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnarfin/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectoogler/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectorbide/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpetricub/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpipkin/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectquagmutt/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectringram/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectscaveran/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsmoglin/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsnaunt/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsnuffish/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsporgus/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttaroni/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttoumingo/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttrictus/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectvoltip/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectyokat/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmoontant/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectixoling/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectkluextotem/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectend/text",
+    "raw": "[End of Monster datafiles reached. Loading navigation options...]",
+    "value": "[怪物数据文件到达结尾，正在加载导航选项... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectagrobat/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectbatong/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectbobfae/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectmonopus/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectparatail/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectpteropod/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectscandroid/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectminidrone/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectkluexsentry/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectluminorb/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselecthummingbug/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectglofae/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectskelecrow/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselecttoxicskelecrow/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectshadowskelecrow/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectend/text",
+    "raw": "[End of Monster datafiles reached. Loading navigation options...]",
+    "value": "[怪物数据文件到达结尾，正在加载导航选项... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectgosmet/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectignome/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectlumoth/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectnautileech/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectpyromantle/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectskimbus/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectspookit/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectsqueem/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectwisper/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectend/text",
+    "raw": "[End of Monster datafiles reached. Loading navigation options...]",
+    "value": "[怪物数据文件到达结尾，正在加载导航选项... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectcrustoise/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectmagtoise/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectnocttoise/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselecthivetoise/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectbeetoise/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectiguarmor/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectoculob/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectpulpin/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectsnaggler/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselecttintic/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectsluirm/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectshnail/text",
+    "raw": "[Loading Monster datafiles...]",
+    "value": "[正在装载怪物数据文件... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectend/text",
+    "raw": "[End of Monster datafiles reached. Loading navigation options...]",
+    "value": "[怪物数据文件到达结尾，正在加载导航选项... ]"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/poptop0/text",
+    "raw": "MONSTER: Poptop - FAMILY: Poptop - BIOMES: Garden",
+    "value": "怪物：吐舌娃 - 家族：吐舌娃 - 生物群落：花园"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/poptop1/text",
+    "raw": "A small, deceptively cute-looking monster found strolling in garden biomes. Their constant tendency to sing often causes uninformed adventurers to mistaken them for a docile creature.",
+    "value": "一种可爱外观十分具有欺骗性的小小怪物，常被发现在花园群系的环境里散步。他们不断歌唱的习性常常导致不知情的冒险者误以为他们是一种温顺的动物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/poptop2/text",
+    "raw": "This of course is a dangerous mistake for the unprepared. They're actually highly aggressive predators, and will actively snap at their prey.",
+    "value": "对于手无寸铁的人来说，这当然是一个危险的错误。他们实际上是极具攻击性的捕食者，而且会积极地捕食它们的猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/adultpoptop0/text",
+    "raw": "MONSTER: Adult Poptop - FAMILY: Poptop - SPECIES: Poptop - BIOMES: Jungle",
+    "value": "怪物：成年 吐舌娃 - 家族：吐舌娃 - 种系：吐舌娃 - 生物群落：丛林"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/adultpoptop1/text",
+    "raw": "Few realize that the unassuming Poptop can grow up to be quite the ferocious monster. They attack with forceful sweeps of their huge clawed arms.",
+    "value": "很少有人意识到，不起眼的吐舌娃事实上可以长大成为相当凶猛的怪兽。它们有力地挥舞着长有爪子的巨臂进行攻击。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/adultpoptop2/text",
+    "raw": "Most adults are found in jungles, but you will usually find a Mother Poptop somewhere on Lush planets...",
+    "value": "大多数成年吐舌娃都是在丛林中被发现的，但是你通常会在葱郁星球上的某个地方发现一头巨大的吐舌娃妈妈..."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/snorktop0/text",
+    "raw": "MONSTER: Snorktop - FAMILY: Poptop - SPECIES: Poptop - BIOMES: Ocean Floor",
+    "value": "怪物：潜水娃 - 家族：吐舌娃 - 种系：吐舌娃 - 生物群落：海底"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/snorktop1/text",
+    "raw": "Snorktops are Poptops that have adapted to life at the bottom of the Ocean. No one knows where they got their masks.",
+    "value": "潜水娃是适应了海底生活的吐舌娃。没人知道他们的面具是从哪儿来的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/snorktop2/text",
+    "raw": "Though their hunting strategy is similar to normal Poptops, they possess an amusing bubble beam ability.",
+    "value": "虽然他们的狩猎策略类似于普通的吐舌娃，但他们拥有一种有趣的喷吐泡泡束的能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/nocttop0/text",
+    "raw": "MONSTER: Nocttop - FAMILY: Poptop - BIOMES: Midnight",
+    "value": "怪物：夜游吐舌娃 - 家族：吐舌娃 - 生物群落：午夜"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/nocttop1/text",
+    "raw": "One of the most feared members of the Poptop family. They are extremely aggressive predators, and relentlessly chase their prey.",
+    "value": "吐舌娃家族中最可怕的成员之一。他们是极具攻击性的捕食者，总是无情地追杀猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/nocttop2/text",
+    "raw": "They possess a powerful Bite, and toxic spit they can fire at fleeing prey. Though native to Midnight planets, weaker forms have also been spotted on other worlds, during night cycles...",
+    "value": "他们具有强大的撕咬力，有腐蚀性的唾液也可以向逃跑的猎物射击。虽然原产于“午夜”行星，但在其他星球上也发现了较为弱化的形态，在夜间循环期间..."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/adultnocttop0/text",
+    "raw": "MONSTER: Adult Nocttop - FAMILY: Poptop - SPECIES: Nocttop - BIOMES: Midnight",
+    "value": "怪物：成年夜游吐舌娃 - 家族：吐舌娃 - 种系：夜游吐舌娃 - 生物群落：午夜"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/adultnocttop1/text",
+    "raw": "Fully grown Nocttops are an uncommon sight. They generally exist for the purpose of producing new Nocttops. They are, ironically, somewhat less dangerous than younger Nocttops.",
+    "value": "完全成年的夜游吐舌娃是一种罕见的景象。它们的存在通常是为了产生新的夜游吐舌娃。具有讽刺意味的是，他们并不比年轻的夜游吐舌娃更危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/caketop0/text",
+    "raw": "MONSTER: Caketop - FAMILY: Poptop - BIOMES: Spring - Notes: Can be harvested",
+    "value": "怪物：蛋糕头吐舌娃 - 家族：吐舌娃 - 生物群落：春日 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/caketop1/text",
+    "raw": "A peculiar member of the Poptop family. They are surprisingly one of the few members of the family that is completely docile. They have no known native biome, but they have been spotted in Spring biomes.",
+    "value": "吐舌娃家族的一个特殊成员。令人惊讶的是，它们是这个家族中为数不多的几个完全温顺的成员之一。它们没有已知的自然生物群落，但它们会在春季生物群落中被发现。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/caketop2/text",
+    "raw": "They are famous for producing pasteries that are of low nutritional value, but very sweet. Caketops are raised by fertile Mama Caketops. At this state, they are called Cupcaketops.",
+    "value": "他们以生产营养价值低，但非常甜的食物而闻名。蛋糕头吐舌娃是由他们能生育的妈妈喂养的。在这个阶段，他们被称为杯蛋糕。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/caketop3/text",
+    "raw": "Cupcaketops follow their mother until they grow brave enough to venture out on their own. Due to their appearance, other monsters often target Caketops as prey.",
+    "value": "杯蛋糕头吐舌娃跟随着妈妈，直到他们变得足够勇敢，敢于独自冒险。由于它们甜美的外表，其他怪物经常以蛋糕头吐舌娃为猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mushtop0/text",
+    "raw": "MONSTER: Mushtop - FAMILY: Poptop - BIOMES: Mushroom",
+    "value": "怪物：菇舌娃 - 家族：吐舌娃 - 生物群落：蘑菇"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mushtop1/text",
+    "raw": "Mushtops are a member of the Poptop family. They are aggressive, and attack with spore seeds, much like the Sporgus.",
+    "value": "菇舌娃是吐舌娃家族的一员。它们具有侵略性，用孢囊种子攻击，很像双头菇。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mushtop2/text",
+    "raw": "It is speculated Mushtops were once normal Poptops that ventured too far into Mushroom biomes, and became infested by the local Fungi.",
+    "value": "据推测菇舌娃曾经是普通的吐舌娃，他们冒险进入蘑菇生物群落太远，并开始逐渐感染了当地的真菌。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mushtop3/text",
+    "raw": "Despite this grim theory, Mushtops seem to maintain a sense of freedom, and behave much like any other species of Poptop.",
+    "value": "尽管有了这个残酷的理论，菇舌娃似乎保有自由的意识，并且行为表现得像吐舌娃的其他亚种一样。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/octotop0/text",
+    "raw": "MONSTER: Octotop - FAMILY: Poptop - BIOMES: Ocean Floor",
+    "value": "怪物：触舌娃 - 家族：吐舌娃 - 生物群落：海床"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/octotop1/text",
+    "raw": "Octotops are a highly predatory member of the Poptop family. Their singular eye is very sharp, and allows them to track distant fish.",
+    "value": "触舌娃是一种具有高度掠夺嗜好的吐舌娃家族成员。他们独特的巨眼非常精准，能够追踪到很远处的鱼类。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/octotop2/text",
+    "raw": "Octotops use their singing to lure nearby fish. Once their prey is within reach, they grab them with their tentacles to keep them from fleeing.",
+    "value": "触舌娃用他们的歌声来吸引附近的鱼。一旦他们的猎物“触手可及”，他们就会用触手抓住猎物，防止它们逃跑。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/octotop3/text",
+    "raw": "Though humanoids are too strong for Octotops to grab with their tentacles, they still try to snap at divers they happen upon beneath the waves.",
+    "value": "虽然类人生物相比他们十分强壮，以至触舌娃无法用触手抓住我们，但是他们仍然会一不留神就试图抓住潜水员。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/magmatop0/text",
+    "raw": "MONSTER: Magmatop - FAMILY: Poptop - BIOMES: Magma, Volcanic",
+    "value": "怪物：熔岩吐舌娃 - 家族：吐舌娃 - 生物群落：岩浆，火山"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/magmatop1/text",
+    "raw": "Magmatops are a fascinating member of the Poptop family. How the family adapted to such a harsh environment is a scientific mystery.",
+    "value": "熔岩吐舌娃是吐舌娃家族中一个迷人的成员。这个种群怎样适应如此恶劣的环境仍是一个科学谜团。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/magmatop2/text",
+    "raw": "Whatever the case, Magmatops are fierce predators. They attack their prey by spitting magma rocks, as well as incorporating standard Poptop strategies.",
+    "value": "无论如何，熔岩吐舌娃都是凶猛的食肉动物。他们通过喷吐岩浆攻击猎物，同时也采用标准的吐舌娃行为策略。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/magmatop3/text",
+    "raw": "Curiously, Magmatops prefer their meals burned down to ashes. No one is sure why they do this.",
+    "value": "奇怪的是，熔岩吐舌娃喜欢把它们的食物烧成灰烬。没有人知道他们为什么这么做。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mimetop0/text",
+    "raw": "MONSTER: Mimetop - FAMILY: Poptop - BIOMES: ???",
+    "value": "怪物：默舌娃 - 家族：吐舌娃 - 生物群落：? ? ?"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mimetop1/text",
+    "raw": "These strange members of the Poptop family are completely silent. Though they appear to sing, nothing is capable of hearing them.",
+    "value": "这些吐舌娃家族的奇怪成员完全沉默。虽然他们看起来在唱歌，但却没有什么东西能可以听到它们。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mimetop2/text",
+    "raw": "It is thought other Mimetops may be able to hear the songs of their own species. Mimetops do not like being disturbed, and will attempt to shoo away threats.",
+    "value": "人们认为其他的默舌娃也许能够听到他们自己物种的歌声。默舌娃不喜欢被打扰，它会试图驱散威胁。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mimetop3/text",
+    "raw": "They aren't capable of damaging their assailants. Even their bit is harmless. They can knock their foes around quite a bit though. Mimetops themselves are surprisingly hardy, and have an extreme resistance to pure physical damage.",
+    "value": "他们没有能力去伤害攻击他们的人。甚至连可能会咬人的那一点都是无害的。不过他们仍然可以把敌人“打击”得体无完肤。因为默舌娃的身体本来就坚强得惊人，更别提他们还有对纯粹物理伤害的极端抗性。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/glitchtop0/text",
+    "raw": "MONSTER: Glitchtop - FAMILY: ??? - BIOMES: Underground",
+    "value": "忄圣物: 异常口土舌女圭 - 家锟斤拷簇: ? ? ? - 生牛勿君羊落: 土也下簳褰撳師鍛婇粍鏌愬"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/glitchtop1/text",
+    "raw": "A strange, indescribable horror encountered uncommonly underground during night cycles. Their origins are unknown.",
+    "value": "旅行者于夜间周期在地下罕少遭遇的一种奇怪的，难以形容的恐怖现象。它们的来源不明。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/glitchtop2/text",
+    "raw": "The creatures resist most weaponry, and reportedly only have one elemental weakness. This weakness unfortunately is highly inconsistent.",
+    "value": "这种生物能抵抗大多数武器，据信只有一种元素弱点。不幸的是，这种缺陷在统计学上是高度不一致的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/glitchtop3/text",
+    "raw": "All that's been documented by survivors is that they are unpredictable and extremely dangerous. If you hear their ominous song underground, it is advised you head in the opposite direction.",
+    "value": "幸存者们所记下的唯一讯息就是它们是完全不可预测，并且极其危险的事物。如果你在地下听到它们不祥的歌声，建议你朝相反的方向前进。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/glitchtop4/text",
+    "raw": "Due to their building reputation, and witness reports, this monster has been given the nickname 'Glitchtop'. It is speculated they could be the product of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of",
+    "value": "由于它们的“有口皆碑”，以及目击者的报道，这种怪物被冠以“异常”的绰号。据推测，他们可能屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌屌"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/bulbop0/text",
+    "raw": "MONSTER: Bulbop - FAMILY: Bulbop - BIOMES: Giant Flower - Notes: Can be harvested",
+    "value": "怪物：布波普 - 家族：布波普 - 生物群落：巨型花 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/bulbop1/text",
+    "raw": "A small hopping plant-like organism. Since they bleed when they're cut, they're speculated to be a form of hybrid organism.",
+    "value": "一种擅长跳动的小型类植有机体。因为它们在遭到切割时会流血，所以被推测是一种突变生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/bulbop2/text",
+    "raw": "They are often found in groups, and are remarkably aggressive. They are fast leapers.",
+    "value": "他们经常成群结队，且非常具有攻击性。他们是快速的跳跃者。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/bulbop3/text",
+    "raw": "Bulbops, on rare occasions, produce bulbs when they die. These can be used to cultivate them. Most Bulbop species can be farmed.",
+    "value": "布波普，他们在罕见的情况下，死亡时会留下球茎。这可以用于培养它们。大多数布波普品种都可以人工繁育。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/cottonbop0/text",
+    "raw": "MONSTER: Cottonbop - FAMILY: Bulbop - BIOMES: Garden - Notes: Can be harvested",
+    "value": "怪物：棉绒波普 - 家族：布波普 - 生物群落：花园 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/cottonbop1/text",
+    "raw": "Cottonbops are non-aggressive relatives to the Bulbop found in Garden biomes. They are capable of limited 'flight' due to their ability to trap air in their cotton fibres, and drift along wind currents.",
+    "value": "棉绒波普是在花园生物群落中发现的布波普的非攻击性近亲。由于它们能够利用棉纤维捕获空气粒子，并沿着风流漂移，所以它们能够有限地“飞行”。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/cottonbop2/text",
+    "raw": "When threatened, they release a flurry of raw cotton spores into the air.",
+    "value": "当受到威胁时，他们会向空气中释放大量的原棉孢子。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/shroombop0/text",
+    "raw": "MONSTER: Shroombop - FAMILY: Bulbop - BIOMES: Mushroom",
+    "value": "怪物：蘑菇波普 - 家族：布波普 - 生物群落：蘑菇"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/shroombop1/text",
+    "raw": "Shroombops are a Bulbop species native to Mushroom biomes. They prefer to stay in groups for safety.",
+    "value": "蘑菇波普是一种原产于蘑菇生物群落的布波普种群。为了安全起见，他们喜欢成群结队出行。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/shroombop2/text",
+    "raw": "Staying in groups allows them to spread their spores without interference of predators. When harassed, they shed spore seeds into the air to scare them away.",
+    "value": "群居可以让他们在没有捕食者干扰的情况下传播孢子。当受到敌人侵扰时，他们会将孢囊种子散播到空气中，把它们吓跑。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/summerbop0/text",
+    "raw": "MONSTER: Summerbop - FAMILY: Bulbop - BIOMES: Forest - Notes: Can be harvested",
+    "value": "怪物：夏波普 - 家族：布波普 - 生物群落：森林 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/summerbop1/text",
+    "raw": "Summerbops are a member of the seasonal Bulbop family. Summerbops are strong, but not quite as hardy as an Autumnbop.",
+    "value": "夏波普是季节性布波普家族的一员。夏波普很强壮，但不如秋波普耐性更高。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/summerbop2/text",
+    "raw": "Curiously, they often alternate the reach of their hops. No one is sure why they do this.",
+    "value": "很奇怪，它们经常交替地来回移动。没有人知道他们为什么这么做。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/autumnbop0/text",
+    "raw": "MONSTER: Autumnbop - FAMILY: Bulbop - BIOMES: Forest - Notes: Can be harvested",
+    "value": "怪物：秋波普 - 家族：布波普 - 生物群落：森林 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/autumnbop1/text",
+    "raw": "Autumnbops are a member of the seasonal Bulbop family. Autumnbops are hardy, but also somewhat sluggish.",
+    "value": "秋波普是布波普家族季节性的一员。秋波普很顽强，但也有些迟钝。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/winterbop0/text",
+    "raw": "MONSTER: Winterbop - FAMILY: Bulbop - BIOMES: Snow, Tundra - Notes: Can be harvested",
+    "value": "怪物：冬波普 - 家族：布波普 - 生物群落：雪地，苔原 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/winterbop1/text",
+    "raw": "Winterbops are a member of the seasonal Bulbop family. Winterbops always feel tired and sluggish.",
+    "value": "冬波普是季节性的布波普家族的一员。冬波普总是表现得十分疲倦和懒散。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/winterbop2/text",
+    "raw": "They have a tendency to fall asleep. They're even known to fall asleep in the middle of combat. Fortunately for the Winterbop, they regenerate health while sleeping.",
+    "value": "他们总是惺忪不已，甚至有打到一半也能睡着的情况。对于冬波普来说幸运之处在于，他们能在睡眠中恢复健康值。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/springbop0/text",
+    "raw": "MONSTER: Springbop - FAMILY: Bulbop - BIOMES: Spring - Notes: Can be harvested",
+    "value": "怪物：春波普 - 家族：布波普 - 生物群落：春天 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/springbop1/text",
+    "raw": "Springbops are a member of the seasonal Bulbop family. Their docile appearance is somewhat deceptive.",
+    "value": "春波普是季节性布波普家族的一员。他们温顺的外表有些欺骗性。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/springbop2/text",
+    "raw": "Though they are non-aggressive, they will fight back when attacked. They are arguably the strongest of the seasonal Bulbops.",
+    "value": "虽然他们不具有攻击性，但是当受到攻击时他们会反击。他们可以说是季节性布波普中最强壮的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/candybop0/text",
+    "raw": "MONSTER: Candybop - FAMILY: Bulbop - BIOMES: None - Notes: Can be harvested",
+    "value": "怪物：糖波普 - 家族：布波普 - 生物群落：无 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/candybop1/text",
+    "raw": "A peculiar member of the Bulbop family that resemble candy corn. They're docile monsters.",
+    "value": "类似玉米糖的布波普家族特殊成员。它们这一支比较温顺。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/candybop2/text",
+    "raw": "Candybops are capable of producing candy corn. Their candy corn is of low nutritional value.",
+    "value": "这些糖波普能够产出玉米糖。不过他们产下的玉米糖营养价值很低。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mallowbop0/text",
+    "raw": "MONSTER: Mallowbop - FAMILY: Bulbop - BIOMES: None - Notes: Can be harvested",
+    "value": "怪物：棉花糖波普 - 家族：布波普 - 生物群落：无 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mallowbop1/text",
+    "raw": "A peculiar member of the Bulbop family that resemble marshmallows. They're docile monsters.",
+    "value": "类似于棉花糖的布波普家族特殊成员。它们这一支也很温顺。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mallowbop2/text",
+    "raw": "Candybops are capable of producing marshmallows. Their marshmallows are of low nutritional value.",
+    "value": "一种能生产棉花糖的糖波普。他们的棉花糖营养价值也很低。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mandraflora0/text",
+    "raw": "MONSTER: Mandraflora - FAMILY: Mandraflora - BIOMES: Giant Flower - Notes: Can be harvested",
+    "value": "怪物：蔓陀螺 - 家族：蔓陀螺 - 生物群落：巨花 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mandraflora1/text",
+    "raw": "Young Mandraflora spend their lives underground, feeding on the rich nutrients in the soil. This solitary lifestyle allows them to reach impressive sizes.",
+    "value": "小蔓陀螺终其一生都活在地下，以土壤中丰富的养分为食。这种孤独的生活方式能使他们的体型达到骇人的规模。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mandraflora2/text",
+    "raw": "Once they are fully grown, they live the rest of their lives on the surface, basking in the sun. They aren't fond of intruders invading their space, and will spin like a top to scare them off.",
+    "value": "一旦他们完全长大，他们就会在地面上享受阳光，度过余生。他们不喜欢来访者入侵他们的沃土，他们会像陀螺一样旋转，把入侵者吓跑。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gummi0/text",
+    "raw": "MONSTER: Gummi - FAMILY: Gummi - BIOMES: Forest",
+    "value": "怪物：咕米 - 家族：咕米 - 生物群落：森林"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gummi1/text",
+    "raw": "Gummis are a gelatinous monster native to forests. They get their name from a gelatinous substance produced in their bodies.",
+    "value": "咕米是一种原产于森林的胶状怪物。它们的名字源于其体内产生的一种凝胶类物质。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gummi2/text",
+    "raw": "Gummis are technically docile, but their inability to control their excitement when they meet new lifeforms makes them dangerous.",
+    "value": "咕米们在理论上是温顺的，但是当它们遇到新的生命时，它们无法控制自己的兴奋性，这使它们的行为变得十分危险。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gummi3/text",
+    "raw": "When a Gummi spots a new lifeform, they make an audible squeak. It's thought this squeak is a release of air bubbles trapped within their bodies.",
+    "value": "咕米发现其他感兴趣的东西时，会发出清晰的吱吱声。人们认为这种吱吱声是他们体内释放出的气泡所致。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gummi4/text",
+    "raw": "They are obsessed with making close physical contact with lifeforms, and aren't afraid to throw their bodies around to do so.",
+    "value": "他们痴迷于与各种生命形式进行亲密的身体接触，并且不惜抛出他们的身体来这样做。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gummi5/text",
+    "raw": "It is thought they may just simply want to make new friends. When captured, they make great pets.",
+    "value": "人们认为它们可能只是想交些新朋友。它们被捕获后，会成为很棒的宠物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gummi6/text",
+    "raw": "Gummis are asexual, and never stop growing. When they reach a certain size, they become capable of producing offspring. At this stage they are called Mama Gummis.",
+    "value": "咕米是无性的，而且永远不会停止生长。当它们达到一定的体型时，它们就有能力生育后代。在这个阶段，它们被称为咪咕妈。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gummi7/text",
+    "raw": "The size of the Gummis produced depends on the size of the Mama. Mama Gummis behave like average Gummis, but are far more bulky, and can throw more weight around.",
+    "value": "产下的咕米大小决定于母体的大小。咪咕妈表现得与一般咕米无异，但远远笨重许多，也可以朝周围坐出更震撼的一屁股。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gummi8/text",
+    "raw": "The small gummis produced by Mamas of a standard-size are called Gumminis. The vibrant colors of the adults aren't as present in Gumminis. Their size often makes them a difficult target.",
+    "value": "标准尺寸的妈妈们生产的小咕米被称作咕胶胶。成体们鲜艳的颜色在咕胶胶身上并不常见。如此娇小的体型反倒让它们成了棘手的目标。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gummi9/text",
+    "raw": "When a Gummi of any species is killed, bits of a substance called Gummi globules may be left behind. This substance is highly versatile, and can be cooked into a sweet glob at a campfire, or used in the creation of monster eggs.",
+    "value": "当任何物种的咕米被杀死时，都会留下一种叫胶球的物质。这种物质用途广泛，可以在篝火旁烤成甜甜的一团，也可以用来制造怪物蛋。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gummi10/text",
+    "raw": "The latter is possible, due to the substance's incredible ability to replicate and mirror DNA of organic matter that comes into contact with it. This alone makes it a highly useful resource.",
+    "value": "后者是可能的，因为该物质具有不可思议的复制和镜像与之接触的有机物DNA的能力。仅此一点就使它成为一种非常有用的资源。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/rockgummi0/text",
+    "raw": "MONSTER: Rock Gummi - FAMILY: Gummi - BIOMES: Underground",
+    "value": "怪物：岩咕米 - 家族：咕米 - 生物群落：地下"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/rockgummi1/text",
+    "raw": "Rock Gummis are believed to be Gummis that fell into caves and chasms, and were unable get back out. They adapted to the subterranean environment.",
+    "value": "岩咕米被认为是那些落入洞穴和深渊，无法回来的咕米们。他们适应了地下环境。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/rockgummi2/text",
+    "raw": "The exterior of their gelatinous bodies hardened a bit due to the cold temperatures underground. This increased their hardiness.",
+    "value": "由于地下的低温，他们凝胶状的身体外表稍微硬化了一点。这增加了他们的坚韧性。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/targummi0/text",
+    "raw": "MONSTER: Tar Gummi - FAMILY: Gummi - BIOMES: Tar",
+    "value": "怪物：油库里 - 家族：咕米 - 生物群落：焦油"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/targummi1/text",
+    "raw": "Likely one of the most fascinating properties of the Gummis, is their ability to adapt to nearly any environment.",
+    "value": "咕米们最引人着迷的特性之一，就是它们那几乎可以适应任何环境的能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/targummi2/text",
+    "raw": "As Gummis spread to other parts of the universe, properties of their bodies can change depending on what's taken in from the environment.",
+    "value": "随着咕米们散播到宇宙的其他地方，它们身体的特性会随着环境的改变而变化。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/targummi3/text",
+    "raw": "Tar Gummis, for example, are Gummi's that have absorbed large amounts of tar. When they spot a lifeform, and become excited, they have a tendency to spit tar balls.",
+    "value": "油库里，打个比方，就是吸收了大量焦油的咕米。当它们发现一个生命体，并跃跃欲试地靠近时，它们总会想朝目标吐上几颗焦油球。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/targummi4/text",
+    "raw": "This tar-spitting is more of a reflex rather than an act of aggression. Simply keep your distance when dealing with them.",
+    "value": "吐焦油的动机更多的是一种本能反应，而不是一种侵略行为。与他们打交道时，只需保持距离即可。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/skullgummi0/text",
+    "raw": "MONSTER: Skull Gummi - FAMILY: Gummi - BIOMES: Bones, Bonecaves",
+    "value": "怪物：骷米 - 家族：咕米 - 生物群落：骨地，骷髅洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/skullgummi1/text",
+    "raw": "These monsters may appear to be leaping skulls, but they are actually a species of Gummi. The species formed when Gummis leapt into Boneyards, and picked up the genetic material littering the environment.",
+    "value": "这些怪物可能看起来像是跳跃的头骨，但实际上他们是咕米的一个亚种。这个物种是在咕米们跃入骨地时形成的，他们拾取了那些散落在环境中的遗传物质，就像砂之星。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/skullgummi2/text",
+    "raw": "The skull that rests on their head is firmly planted, and doesn't come off naturally. Removing the skull inflicts too much pain on captured specimens, and success almost always results in the Gummi's death.",
+    "value": "他们脑瓜上的颅骨是固定的，不会自然脱落。取下头盖骨会给捕获的标本带来太多的痛苦，而接近成功时又几乎总会导致骷米散华。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/skullgummi3/text",
+    "raw": "The single successful report of a Skull Gummi skull removal provided no imagery of the Gummi underneath... However, the report did come with the resignations of those that performed the operation.",
+    "value": "唯一那份成功摘除颅骨的报告没有提供颅骨之下的图像...然而，这份报告的确提到了那些实施手术的人的辞职。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/skullgummi4/text",
+    "raw": "They never elaborated on what they actually saw in the incident, and always avoided the subject matter entirely when questioned.",
+    "value": "那些人从来没有详细说过他们在手术中实际看到了什么，而且在被质问时总是惶惶然地避之不及。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/fleshgummi0/text",
+    "raw": "MONSTER: Flesh Gummi - FAMILY: Gummi - BIOMES: Flesh",
+    "value": "怪物：血肉咕米 - 家族：咕米 - 生物群落：血肉"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/fleshgummi1/text",
+    "raw": "Flesh Gummis are Gummis that have absorbed large amounts of... flesh, from their environment. Killing a Flesh Gummi causes it to split into Flesh Gumminis.",
+    "value": "血肉咕米是由于咕米从环境中吸收了大量...血肉而成。我们说:杀死一个肉胶只会使它分裂成肉胶胶。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/eyevalve0/text",
+    "raw": "MONSTER: Eyevalve - FAMILY: Eyevalve - BIOMES: Ocean Floor",
+    "value": "怪物：眼蛤 - 家族：眼蛤 - 生物群落：海底"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/eyevalve1/text",
+    "raw": "Eyevalves are two separate monsters working together in a symbiotic relationship. The clam is blind, and has issues locating prey on their own. The Aqueye is highly vulnerable, but has excellent vision.",
+    "value": "眼蛤是两种独立的怪物，在一种共生关系中一起生存。这种巨蛤看不见东西，并且没法自己定位食物源。而水眼非常脆弱，同时却有很好的视力。协作让它们变成了捕食者。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/eyevalve2/text",
+    "raw": "The monsters overcome each other's weaknesses and shortcomings by teaming up. The Aqueye locates prey, and the clam provides the Aqueye with protection.",
+    "value": "这种怪物通过合作来克服彼此的弱点和缺点。水眼能定位猎物，而巨蛤蜊则为水眼提供保护。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/eyevalve3/text",
+    "raw": "When an Eyevalve is defeated, the Aqueye is left behind. Aqueye are very weak, and virtually defenseless on their own",
+    "value": "眼蛤被击败时，水眼就被丢出来了。而水眼非常弱小，它几乎没有自卫能力"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/eyevalve4/text",
+    "raw": "It would take quite a cruel person to destroy the symbiotic bond of an Eyevalve.",
+    "value": "若是有人要摧毁眼蛤这样奇妙的共生关系，那可真算得上是一个残忍的家伙了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/trapogo0/text",
+    "raw": "MONSTER: Trapogo - FAMILY: Trapogo - BIOMES: Mixed",
+    "value": "怪物：守箱怪 - 家族：守箱怪 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/trapogo1/text",
+    "raw": "Trapogos are quirky creatures that traverse their environment via a spring that extends into their bodies. This spring compresses and decompresses to launch the monsters where they want to go.",
+    "value": "守箱怪是一种古怪的生物，它们通过一根贯穿身体的弹簧状器官穿越周围地形。这些组织不断进行压缩和释放，以用能量推动守箱怪跳往他们想去的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/trapogo2/text",
+    "raw": "Trapogos are shy monsters, and like to convert containers they find into snug-housing to protect them from the elements. Their body colors even change to match their home.",
+    "value": "守箱怪是一种害羞的生物，喜欢把他们发现的箱子改造成舒适的住房，以保护他们免受自然因素的影响。他们的身体颜色甚至会为了搭配这个小窝而进行变化。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/trapogo3/text",
+    "raw": "They hoard the chest's previous contents for themselves. They possess a strong attachment to the items they claim, and grow agitated when travelers attempt to steal from them.",
+    "value": "他们会把箱子里以前装着的东西都藏起来。他们对自己所拥有的物品有着强烈的依恋，当旅行者试图从他们那里“偷”东西时，他们多数会变得焦虑不安。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/fennix0/text",
+    "raw": "MONSTER: Fennix - FAMILY: Fennix - BIOMES: Mixed - Notes: Can be harvested",
+    "value": "怪物：菲狐 - 家族：菲狐 - 生物群落：混合 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/fennix1/text",
+    "raw": "These small fox-like creatures are capable of breathing fire. They utilize their flamethrowers to defend themselves, and roast their prey.",
+    "value": "这些类似狐狸的小生物能够喷火。他们利用这天生的火焰喷射器来保护自己，并烤熟猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/frostix0/text",
+    "raw": "MONSTER: Frostix - FAMILY: Fennix - BIOMES: Snow - Notes: Can be harvested",
+    "value": "怪物：冰霜菲狐 - 家族：菲狐 - 生物群落：雪 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/frostix1/text",
+    "raw": "Frostix are members of the Fennix family. They are adapted to the cold, and possess a frigid, icy breath. Their bodies are often covered in ice crystals.",
+    "value": "冰霜菲狐是菲狐家族的成员。它们适应寒冷，呼吸冰冽。它们的身体通常覆盖着冰晶。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/electrix0/text",
+    "raw": "MONSTER: Electrix - FAMILY: Fennix - BIOMES: Scorched, Scorched City - Notes: Can be harvested",
+    "value": "怪物：电气菲狐 - 家族：菲狐 - 生物群落：焦土，废土城市 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/electrix1/text",
+    "raw": "Electrix are members of the Fennix family. They are often found in Scorched environments, hunting for abandoned sources of electricity that may still be active.",
+    "value": "电气菲狐是菲狐家族的成员。它们经常出现在焦土的环境中，寻找可能仍然处于活性状态下的被遗弃的电源。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/electrix2/text",
+    "raw": "When threatened, they can charge their breath with electricity, and shock their target.",
+    "value": "当受到威胁时，他们可以使呼吸带电，并麻痹目标。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/toxix0/text",
+    "raw": "MONSTER: Toxix - FAMILY: Fennix - BIOMES: Toxic - Notes: Can be harvested",
+    "value": "怪物：剧毒菲狐 - 家族：菲狐 - 生物群落：毒素 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/toxix1/text",
+    "raw": "Toxix are members of the Fennix family. Toxix are known for feeding on small toxic creatures, which makes the Toxix themselves highly poisonous. Their toxic breath induces poison on contact.",
+    "value": "剧毒菲狐是菲狐家族的成员。剧毒菲狐因以小型有毒生物为食而闻名，这使得这种菲狐本身具有剧毒。他们呼出的有毒气体会在接触时产生毒素。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mysterix0/text",
+    "raw": "MONSTER: Mysterix - FAMILY: Fennix - BIOMES: Midnight",
+    "value": "怪物：隐秘菲狐 - 家族：菲狐 - 生物群落：午夜"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/mysterix1/text",
+    "raw": "Mysterix are members of the Fennix family. They are adapted to the dark environments of Midnight biomes. Their shadowy, cold breath is corrosive.",
+    "value": "隐秘菲狐是菲狐家族的一员。她们适应了午夜生物群落的黑暗环境。而她们朦胧、冰冷的呼吸也极具腐蚀性。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/normix0/text",
+    "raw": "MONSTER: Normix - FAMILY: Fennix - BIOMES: Garden - Notes: Can be harvested",
+    "value": "怪物：泛狐 - 家族：菲狐 - 生物群落：花园 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/normix1/text",
+    "raw": "Normix are members of the Fennix family. Their DNA consists of a mix of most of the other members of the family. They don't possess any remarkable combat skills.",
+    "value": "泛狐是菲狐家族的一员。他们的DNA由大多数其他家族成员的来源混合组成。他们没有任何非凡的战斗技能。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/normix2/text",
+    "raw": "That said, they do at least have noteworthy resistance to elemental attacks.",
+    "value": "也就是说，他们至少有值得注意的元素抵抗能力。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/cleaningbot0/text",
+    "raw": "MONSTER: Roomba - FAMILY: Roomba - BIOMES: Scorched City",
+    "value": "怪物：屋霸 - 家族：屋霸 - 生物群落：废土焦墟"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/cleaningbot1/text",
+    "raw": "These monsters are found cleaning away in Scorched City biomes. Since most of them have never received maintenance, their outer exterior has deteriorated quite a bit.",
+    "value": "这些怪物被发现正在废土焦墟的生物群落中消失。由于他们大多数从来没有得到过维护，他们的外表已经恶化得相当不堪入目了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/cleaningbot2/text",
+    "raw": "Despite this, they still miraculously carry on with their primary function. They don't tolerate anyone hindering their cleaning, and are prone to attacking anyone that gets too close.",
+    "value": "尽管如此，他们仍然奇迹般地继续发挥着各自的主要性能。他们不会容忍任何人妨碍他们的清洁，并且也容易攻击任何离他们太近的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/cleaningbot3/text",
+    "raw": "Supposedly, some people have reported acquiring Roombas in mint-condition, though they never elaborate on where they caught them, and such units are likely fairly rare.",
+    "value": "据传，有些人报告说他们获得了全新的屋霸——尽管他们从来没有详细说明是在哪里捕获的，而这样的机器可能相当罕见。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/peblit0/text",
+    "raw": "MONSTER: Peblit - FAMILY: Peblit - BIOMES: Underground - Notes: Can be harvested",
+    "value": "怪物：小岩石 - 家族：小岩石 - 生物群落：地下 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/peblit1/text",
+    "raw": "The lowly Peblit isn't a particularly threatening foe. They're fairly sluggish, and incapable of running due to their large heads.",
+    "value": "地底的小岩石并不是一类特别具有威胁性的敌人。他们行动相当迟缓，而且由于他们的大脑袋而不能奔跑。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/peblit2/text",
+    "raw": "They retract their body into their head when they feel threatened. They're as hard as a rock, and a decently defensive monster.",
+    "value": "当他们感受到威胁时，他们会把小身体缩回自己的头石。他们像石头一样坚硬，是一种防守力可观的怪物，据说基于这点，某些雇佣兵会训练他们作为移动沙袋。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/orelit0/text",
+    "raw": "MONSTER: Blank - FAMILY: Blank - BIOMES: Blank - Notes: Can be harvested",
+    "value": "怪物：空白 - 家族：空白 - 生物群落：空白 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/orelit1/text",
+    "raw": "Orelits are a Peblit relative rich in various types of ore. Their hardiness varies depending on the ore their bodies contain.",
+    "value": "小矿精是一种含矿量相对丰富的小岩石类群。它们的耐寒性取决于它们身体所含的矿石。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/nutmidge0/text",
+    "raw": "MONSTER: Nutmidge - FAMILY: Nutmidge - BIOMES: Garden",
+    "value": "怪物：榛果丸 - 家族：榛果丸 - 生物群落：花园"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/nutmidge1/text",
+    "raw": "Nutmidges are found in garden biomes. Though they look like an individual organism, Nutmidges are actually made up of three smaller creatures known as Nutmidgelings.",
+    "value": "在花园生物群落中，你能发现榛果丸。虽然他们看起来像一个独立的生物体，但实际上这是由三只较小的生物组成的，这三只生物被称为榛果果。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/nutmidge2/text",
+    "raw": "When bothered, they attack their target by charging at them. If charging proves ineffective, the Nutmidgeling on top (Known as a King Nutmidgeling) tucks into the shell, and the trio braces for incoming damage.",
+    "value": "当受到干扰时，他们会向目标发起攻击。如果撞击无效，那么上面的那个“榛果果”(被称为“榛果王”)就会钻进壳里发出讯号，这时三个“榛果果”就会一起准备抵挡即将到来的伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/nutmidgeling0/text",
+    "raw": "MONSTER: Nutmidgeling - FAMILY: Nutmidge - BIOMES: None",
+    "value": "怪物：榛果果 - 家族：榛果果 - 生物群落：无"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/nutmidgeling1/text",
+    "raw": "Nutmidgelings are small, relatively fragile creatures that live in garden biomes. Though they will try to leap at their target, their soft squishy bodies make them inefficient in combat.",
+    "value": "榛果果是一种小型的，相对脆弱的生物，生活在花园的生物群落里。虽然他们会试图跳跃到他们的目标身上，但是他们柔嫩湿软的身体使他们在战斗中效率低下。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/nutmidgeling2/text",
+    "raw": "To avoid getting trampled by bigger creatures, they often group together with other members of their species inside a shell to form a Nutmidge.",
+    "value": "为了避免被更大的生物踩踏，他们经常和同种的其他成员一起挤在一个壳子里，形成一个榛果丸。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kingnutmidgeling0/text",
+    "raw": "MONSTER: King Nutmidgeling - FAMILY: Nutmidge - BIOMES: None",
+    "value": "怪物：榛果王 - 家族：榛果丸 - 生物群落：无"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kingnutmidgeling1/text",
+    "raw": "A Nutmidgeling with its head tuft still intact is an uncommon sight, as they usually get trampled and lose it.",
+    "value": "一只头部簇绒完好无损的“榛果王”十分罕见， 鉴于它们经常会因被其他榛果丸踩踏而丢掉这个小东西。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kingnutmidgeling2/text",
+    "raw": "Nutmidgelings seem to regard these members of their species with respect, and always make them keep watch at the top of the stack in a Nutmidge.",
+    "value": "榛果果们似乎会尊敬他们种族中的这一特殊成员，并总是让他们待在榛果体的顶端望风。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/helmidge0/text",
+    "raw": "MONSTER: Helmidge - FAMILY: Nutmidge - BIOMES: Forest",
+    "value": "怪物：坚果丸 - 家族：榛果丸 - 生物群落：森林"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/helmidge1/text",
+    "raw": "On some occasions Nutmidgelings may be unable to find other members of their species. When this happens, they resort to other methods to protect themselves.",
+    "value": "在某些情况下，榛果果可能无法找到他们物种的其他成员。当这种情况发生时，他们只好求助于其他方法来保护自己。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/helmidge2/text",
+    "raw": "A lone Nutmidgeling dons a nut shell to protect their soft squishy noggin. This makes them more defensive, which increases their probability of survival.",
+    "value": "一头孤单的榛果果戴着坚果壳子来保护它软软的脑袋。这使得他们更具防御力，从而增加了他们生存下去的可能。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/anglure0/text",
+    "raw": "MONSTER: Anglure - FAMILY: Anglure - BIOMES: Bioluminescent",
+    "value": "怪物：昂格吕尔 - 家族：昂格吕尔 - 生物群落：发光"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/anglure1/text",
+    "raw": "These large intimidating creatures stalk bioluminescent biomes. They attack their prey by spitting bioluminescent critters at them.",
+    "value": "这些巨大的、令人生畏的生物潜伏在生物荧光区。它们通过向猎物喷射“生物发光体”来攻击猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/anglure2/text",
+    "raw": "Researchers wonder where the critters come from, but no one's ever had the courage to get close enough to study the aggressive creature.",
+    "value": "研究人员想知道这些生物是从哪里来的，但是从来没有人有足够的勇气接近他们去研究这种具有攻击性的生物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/bobot0/text",
+    "raw": "MONSTER: Bobot - FAMILY: Bobot - BIOMES: Mixed",
+    "value": "怪物：波波机器人 - 家族：波波机器人 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/bobot1/text",
+    "raw": "A peculiar robot of unknown origins. Their maker is unknown. They charge at anyone who get's too close.",
+    "value": "来历不明的奇特机器人。它们的制造者无人知晓。会冲向任何靠得它们太近的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/capricoat0/text",
+    "raw": "MONSTER: Capricoat - FAMILY: Capricoat - BIOMES: Alpine",
+    "value": "怪物：雪羯 - 家族：雪羯 - 生物群落：高山"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/capricoat1/text",
+    "raw": "Ram-like creatures found in Alpine biomes. Their dense fur protects them from the cold environments they inhabit.",
+    "value": "高山生物群落中发现的类似牦羊的生物。他们浓密的皮毛保护他们免受在寒冷环境中生存的伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/capricoat2/text",
+    "raw": "They're extremely territorial, and charge at intruders. No one like's being knocked off a mountain, so be cautious when dealing with Capricoats.",
+    "value": "它们非常具有领土意识，会攻击入侵者。没有人喜欢被顶下山，所以要谨慎对待雪羯。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crabcano0/text",
+    "raw": "MONSTER: Crabcano - FAMILY: Crabcano - BIOMES: Mixed",
+    "value": "怪物：火山蟹 - 家族：火山蟹 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crabcano1/text",
+    "raw": "These creatures seem to be in a perpetual state of anger. They erupt at the slightest confrontation, and should be dealt with cautiously.",
+    "value": "这些生物似乎永远处在愤怒的状态。他们即便在最轻微的冲突中也会暴怒，所以应该谨慎处理。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crutter0/text",
+    "raw": "MONSTER: Crutter - FAMILY: Crutter - BIOMES: Mixed",
+    "value": "怪物：克鲁特 - 家族：克鲁特 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crutter1/text",
+    "raw": "Crutters possess an extremely potent toxin. Just a drop of Crutter toxin can inflict poison.",
+    "value": "克鲁特拥有一种极其有效的毒素。只要一滴克鲁特毒素就能造成严重毒害。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crutter2/text",
+    "raw": "They should be approached with caution, as they can utilize their toxin as a projectile.",
+    "value": "应该谨慎对待他们，因为他们可以利用那种剧毒的物质作为投射物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gleap0/text",
+    "raw": "MONSTER: Gleap - FAMILY: Gleap - BIOMES: Garden",
+    "value": "怪物：葛利普 - 家族：葛利普 - 生物群落：花园"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gleap1/text",
+    "raw": "A hopping creature made of a springy substance. Their primary method of movement and attack consists of leaping.",
+    "value": "由弹性物质构成的跳行动物。蹦跶这个词完美地囊括了它们的主要动作和攻击方式。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/aliep0/text",
+    "raw": "MONSTER: Aliep - FAMILY: Gleap - BIOMES: Alien",
+    "value": "怪物：阿利普 - 家族：葛利普 - 生物群落：异星"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/aliep1/text",
+    "raw": "Alieps are highly observant predators. Their primary tactics for dealing with prey involve abrupt leaps, and waiting for their opponent to make the first move. The more they are attacked, the more they retaliate. Be careful!",
+    "value": "阿利普们是高度敏锐的捕食者。它们对付猎物的主要策略包括突然跳跃，或是静待猎物主动出击等。他们受到的攻击越多，他们就报复得越多。小心！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/oculemic0/text",
+    "raw": "MONSTER: Oculemic - FAMILY: Gleap - BIOMES: Eyepatch",
+    "value": "怪物：眼柠怪 - 家族：葛利普 - 生物群落：眼界"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/oculemic1/text",
+    "raw": "This peculiar monster is a distant relative to the Gleap. They generally feed on oculemons, but they are opportunistic predators as well.",
+    "value": "这一奇特的怪物是葛利普的远亲。它们通常以眼柠檬为食，但它们也是一种善于投机取巧的捕食者。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/oculemic2/text",
+    "raw": "Their mimicry allows them to blend in with their environment, waiting for prey to get close enough for them to attack!",
+    "value": "它们的模仿能让它们融入周围环境，等待猎物靠得足够近让它们攻击！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hemogoblin0/text",
+    "raw": "MONSTER: Hemogoblin - FAMILY: Hemogoblin - BIOMES: Flesh - Notes: Can be harvested",
+    "value": "怪物：血红妖兽 - 家族：血红妖兽 - 生物群落：血肉 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hemogoblin1/text",
+    "raw": "These red-skinned monsters are both creepy, and remarkable. They can survive being split in half, and will even continue attacking afterwards!",
+    "value": "这些猩红皮肤的怪物既令人毛骨悚然，又引人注目。它们可以在被分成两半的情况下生存下来，甚至在之后还会继续攻击！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hemogoblin2/text",
+    "raw": "It is unknown if the two halves of a Hemogoblin can reunite in the wild. Such behavior has never been witnessed.",
+    "value": "尚不清楚这两半身体能否在野外团聚。这种行为从来没有被目击过。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hypnare0/text",
+    "raw": "MONSTER: Hypnare - FAMILY: Hypnare - BIOMES: Spring",
+    "value": "怪物：海泊尼亚兔草 - 家族：海泊尼亚兔草 - 生物群落：春日"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hypnare1/text",
+    "raw": "Hypnares are non-aggressive monsters found in Spring biomes. They spend most of their lives frolicking.",
+    "value": "海泊尼亚兔草是在春季生物群落中发现的非侵略性怪物。他们一生中的大部分时间都在嬉戏。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hypnare2/text",
+    "raw": "Hypnares will defend themselves from attackers. They typically utilize graceful leaps in combat.",
+    "value": "海泊尼亚兔草能够保护自己免受袭击者的伤害。他们通常在战斗中将优雅的飞跃运用自如。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/lilodon0/text",
+    "raw": "MONSTER: Lilodon - FAMILY: Lilodon - BIOMES: Mixed",
+    "value": "怪物：鲨狗 - 家族：鲨狗 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/lilodon1/text",
+    "raw": "Though their ancestors used to be aquatic, Lilodons survive fine on land. Though they are small, they shouldn't be underestimated.",
+    "value": "虽然他们的祖先曾经是水生动物，但是鲨狗在陆地上也能生存得很好。虽然他们很小，可也不能被低估。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/lilodon2/text",
+    "raw": "They still possess the powerful jaws of their ancestors. They often partially bury themselves underground until potential prey enters their territory.",
+    "value": "他们仍然拥有祖先强有力的爪子。而且经常把自己的一部分埋在地下，直到潜在的猎物进入他们的领地。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/miasmop0/text",
+    "raw": "MONSTER: Miasmop - FAMILY: Miasmop - BIOMES: Mixed",
+    "value": "怪物：毒气草 - 家族：毒气草 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/miasmop1/text",
+    "raw": "These fascinating creatures defend themselves, and subdue prey with pungent fumes they release from the tubes on their heads.",
+    "value": "这些迷人的生物保护自己，用她们头上的管孔释放出的刺鼻气体来制服猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/miasmop2/text",
+    "raw": "Miasmop fumes are highly toxic, and should be avoided while fighting them. Attacking them from a distance should make them much more manageable.",
+    "value": "毒气草的烟雾是剧毒的，在与她们打斗时应该避免接触。从远处攻击应该会使她们更易于控制。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/narfin0/text",
+    "raw": "MONSTER: Narfin - FAMILY: Narfin - BIOMES: Prism",
+    "value": "怪物：棱光海狮 - 家族：棱光海狮 - 生物群落：棱镜"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/narfin1/text",
+    "raw": "The vibrant horn of the Narfin isn't just used for self defense. They utilize their horn like a prism, giving off vibrant displays of light in hopes of attracting a mate.",
+    "value": "棱光海狮充满活力能量的大角不仅仅是用来自卫的。它们像棱镜一样利用它们的角，发出活力四射的光线，希望能吸引异性。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/narfin2/text",
+    "raw": "During mating season, Narfin with the most elaborate displays of light pass on their genes to the next generation.",
+    "value": "在交配季节，能够将光线幻变展现到极致的棱光海狮才能把它们的基因传递给下一代。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/oogler0/text",
+    "raw": "MONSTER: Oogler - FAMILY: Oogler - BIOMES: Bone",
+    "value": "怪物：奥格尔 - 家族：奥格尔 - 生物群落：骨地"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/oogler1/text",
+    "raw": "These unsettling creatures are fascinated with new life forms. They persistently observe specific lifeforms to determine if they may be potential prey.",
+    "value": "这些令人不安的生物着迷于新的生命形式。它们会持续观察特定的生命形式，以确定自己是否可能成为潜在的猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/oogler2/text",
+    "raw": "When an Oogler finds potential prey, they will lunge at their target with little warning. Be on your guard when traveling through Oogler territory...",
+    "value": "当奥格尔发现潜在的猎物时，他们会毫无预警地扑向目标。当你穿越奥格尔的出没区域时，请保持警惕..."
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/orbide0/text",
+    "raw": "MONSTER: Orbide - FAMILY: Orbide - BIOMES: Hive",
+    "value": "怪物：球头侍 - 家族：球头侍 - 生物群落：蜂巢"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/orbide1/text",
+    "raw": "The Orbide is one of the most unsettling creatures in the universe. They spend most of their time retracted into the orb-like structure encasing their head.",
+    "value": "球头侍是宇宙中最令人不安的生物之一。它们大部分时间都缩回到球状结构中，用自己的头把五脏六腑都裹起来。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/orbide2/text",
+    "raw": "Don't let their sluggish movement fool you. They are highly aggressive, and attack with astonishing agility. They slash at their targets with the blades on their arms.",
+    "value": "别让它们最开始那缓慢的动作欺骗了你。它们具有高度的侵略性，而攻击时惊人地敏捷。它们能用手臂上等同鲛人长刀般锋利的生物刃瞬间将目标一分为二。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/orbide3/text",
+    "raw": "Orbides are remarkably invasive. Though their hives are usually found on Midnight planets, they have spread to many other parts of the universe.",
+    "value": "球头侍绝非善类。虽然他们的蜂巢通常都坐落在午夜行星上，但他们已经扩散到宇宙的许多其他地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/petricub0/text",
+    "raw": "MONSTER: Petricub - FAMILY: Petricub - BIOMES: Mixed",
+    "value": "怪物：石油鬼 - 家族：石油鬼 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/petricub1/text",
+    "raw": "These strange creatures observe the movements of their prey. When they feel an opening is available, they lunge at their target.",
+    "value": "这些奇怪的生物会持续观察猎物的一举一动。当他们觉得有破绽时，就会毫不犹豫地扑向目标。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/petricub2/text",
+    "raw": "Due to the fascinating way Petricubs die, researchers wonder if they may be ethereal.",
+    "value": "由于石油鬼死亡时的迷人现象，生物研究者们都想知道他们是否拥有空灵的物理状态。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pipkin0/text",
+    "raw": "MONSTER: Pipkin - FAMILY: Pipkin - BIOMES: Steamspring",
+    "value": "怪物：瓦罐怪 - 家族：瓦罐怪 - 生物群落：蒸汽泉"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pipkin1/text",
+    "raw": "These robotic monsters defend themselves with hot steam. Despite their friendly appearance, they don't seem to interact with each other.",
+    "value": "这些机器怪物用炙热的蒸汽保护自己。尽管他们外表友好，但他们似乎并不与其他什么东西互动。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pipkin2/text",
+    "raw": "Due to this, researchers speculate they may simply be constructs designed to protect the area.",
+    "value": "基于此，研究人员推测他们可能只是为了保护这个区域而被创造的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/quagmutt0/text",
+    "raw": "MONSTER: Quagmutt - FAMILY: Quagmutt - BIOMES: Swamp",
+    "value": "怪物：沼泽犬 - 家族：沼泽犬 - 生物群落：沼泽"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/quagmutt1/text",
+    "raw": "The unhygienic lifestyle of the Quagmutt makes their bite toxic. They're not afraid of people, and will lunge at potential prey.",
+    "value": "沼泽犬不卫生的生活方式使他们的撕咬有中毒风险。他们不怕人，且会扑向潜在的猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/quagmutt2/text",
+    "raw": "There are rumors some Floran tribes keep them as pets. These rumors have neither been confirmed or denied, but the nature of Floran makes it highly unlikely.",
+    "value": "有传言说一些叶族部落把它们当宠物养。这些谣言既没有被证实也没有被否认，但是叶族人的猎手天性使得这个可能性非常小。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ringram0/text",
+    "raw": "MONSTER: Ringram - FAMILY: Ringram - BIOMES: Alpine",
+    "value": "怪物：环形虫 - 家族：环形虫 - 生物群落：高山"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ringram1/text",
+    "raw": "The horns of a Ringram never stop growing. They utilize rolling both to get around quickly, and keep their horns ground down to a manageable length.",
+    "value": "环形虫的角永远不会停止生长。他们利用滚动来快速移动，并且把他们的角磨成可控的长度。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ringram2/text",
+    "raw": "Despite their size, they are highly territorial, and aren't afraid to chase trespassers away with their rolling charge.",
+    "value": "尽管他们的体型很小，但他们的领地意识特别强，并且不惜用滚动冲锋来驱赶入侵者。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/scaveran0/text",
+    "raw": "MONSTER: Scaveran - FAMILY: Scaveran - BIOMES: Mixed",
+    "value": "怪物：拾荒鸟 - 家族：拾荒鸟 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/scaveran1/text",
+    "raw": "The flightless Scaveran feed on the carcasses of dead monsters. The substance they propel from their beak is highly acidic, and likely used to soften their meal.",
+    "value": "不会飞的拾荒鸟以怪物死尸为食。他们从喙中推溅出的物质是高酸性的，很可能用来软化食物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/scaveran2/text",
+    "raw": "If their natural food source is scarce, these birds aren't afraid to turn to live prey...",
+    "value": "如果他们的天然食物来源稀缺，这些鸟类并不在乎将目标转向活着的猎物……"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/smoglin0/text",
+    "raw": "MONSTER: Smoglin - FAMILY: Smoglin - BIOMES: Mixed",
+    "value": "怪物：雾麟 - 家族：雾麟 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/smoglin1/text",
+    "raw": "These monsters get their name from the hot toxic smog they breathe to attack prey. The smog is formed by a chemical reaction that occurs in their belly.",
+    "value": "这些怪物的名字来源于他们用于攻击猎物时呼出的有毒热烟雾。烟雾是由他们腹部发生的化学反应所形成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/snaunt0/text",
+    "raw": "MONSTER: Snaunt - FAMILY: Snaunt - BIOMES: Mixed",
+    "value": "怪物：吐槽蛇 - 家族：吐槽蛇 - 生物模型: 混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/snaunt1/text",
+    "raw": "Though the Snaunt is often considered a mere garden pest, their ancestors were once huge predators.",
+    "value": "虽然吐槽蛇通常被认为只是花园生态里的一种害兽，但他们的祖先曾经是巨硕无朋的恐怖食肉动物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/snaunt2/text",
+    "raw": "Snaunt defend themselves by spitting a toxic substance at their attackers.",
+    "value": "吐槽蛇通过向攻击者吐出一种有毒物质来保护自己。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/snuffish0/text",
+    "raw": "MONSTER: Snuffish - FAMILY: Snuffish - BIOMES: Ocean",
+    "value": "怪物：灯芯鱼 - 家族：灯芯鱼 - 生物群落：海洋"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/snuffish1/text",
+    "raw": "Due to being the prey species for some organisms, Snuffish are always alert, and easily startled.",
+    "value": "灯芯鱼是某些生物的固定猎物，因此它们总是很警觉，也很容易受到惊吓。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/snuffish2/text",
+    "raw": "A startled Snuffish spits a cold substance from their body to ward off potential attackers.",
+    "value": "受到惊吓的灯芯鱼会从他们的身体里吐出一种冰冷的物质来抵御潜在的攻击者。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/sporgus0/text",
+    "raw": "MONSTER: Sporgus - FAMILY: Sporgus - BIOMES: Mushroom",
+    "value": "怪物：双头菇 - 家族：双头菇 - 生物群落：蘑菇"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/sporgus1/text",
+    "raw": "The Sporgus are fast growing fungal creatures that thrive in warm, moist environments. They fire spore seeds at potential prey.",
+    "value": "双头菇是生长迅速的真菌动物，在温暖潮湿的环境中茁壮成长。它们向潜在的猎物发射孢子囊苞。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/sporgus2/text",
+    "raw": "Neither the Sporgus, or their spores are edible. In fact, they're highly hallucinogenic. (A group of space-faring Floran hunters infamously discovered this the hard way.)",
+    "value": "双头菇和它们的孢子都不能食用。事实上，它们是高度致幻剂。(一群“从事太空旅行业”的叶族猎手搞出了这些难顶的问题，整件事可谓臭名昭著。)"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/taroni0/text",
+    "raw": "MONSTER: Taroni - FAMILY: Taroni - BIOMES: Tar - Notes: Can be harvested",
+    "value": "怪物：沥青兽 - 家族：沥青兽 - 生物群落：焦油 - 注释: 可以收获"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/taroni1/text",
+    "raw": "The easiest way to describe the Taroni, is with one word: Tar. These monsters eat tar, live in tar, sleep in tar, and even excrete tar.",
+    "value": "用一个最简洁的词来形容沥青兽就是：焦油。这些怪物吃在焦油上，住在焦油中，睡在焦油里，甚至连排泄物也是焦油。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/taroni2/text",
+    "raw": "They are highly territorial, and possessive of their tar. They will attempt to drive away intruders by pelting them with balls of tar.",
+    "value": "他们有很强的领土意识，并且占有欲也很强。他们会试图通过向入侵者扔焦油球来驱赶他们。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/toumingo0/text",
+    "raw": "MONSTER: Toumingo - FAMILY: Toumingo - BIOMES: Oasis",
+    "value": "怪物：多明戈犀鸟 - 家族：多明戈犀鸟 - 生物群落：绿洲"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/toumingo1/text",
+    "raw": "These flightless birds spend most of their days hunting for fish in Oasis biomes. They wade through water with their long legs, and snap up prey with their beaks.",
+    "value": "这些不会飞的鸟类的大部分时间都在绿洲生物群落里捕鱼。他们用长腿在水中跋涉，用喙捕捉猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/toumingo2/text",
+    "raw": "Though non-aggressive, they defend themselves by quite literally falling on their attacker. This seems inefficient, but their beaks are hard, and actually pretty dangerous!",
+    "value": "虽然没有攻击性，但是他们通过把喙砸在攻击者身上来保护自己。这看起来效率不高，不过其实他们的喙很硬，而且这个动作实际上对你和犀鸟自己都非常危险！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/trictus0/text",
+    "raw": "MONSTER: Trictus - FAMILY: Trictus - BIOMES: Desert",
+    "value": "怪物：诡行仙 - 家族：诡行仙 - 生物群落：沙漠"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/trictus1/text",
+    "raw": "Uninformed adventurers often mistake buried these monsters for desert flowers. Trictus are solitary creatures, spending most of their time partially buried.",
+    "value": "无知的冒险家常常把这些埋在地里的怪物误认为是沙漠中的花朵。诡行仙是独居生物，大部分时间都被沙丘掩埋。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/trictus2/text",
+    "raw": "If disturbed, they attack with sharp claws, and can also defend themselves by firing off the cactus needles attached to their bodies.",
+    "value": "如果被惊扰，它们会用锋利的爪子进行攻击，也会通过乱射它们身上附着的针刺来保护自己。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/voltip0/text",
+    "raw": "MONSTER: Voltip - FAMILY: Voltip - BIOMES: Underground",
+    "value": "怪物：伏特犬 - 家族：伏特犬 - 生物群落：地下"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/voltip1/text",
+    "raw": "These creatures are supposedly the result of an experiment gone horribly wrong. Whatever their origins may be, Voltops can be found across the universe.",
+    "value": "这些生物可能是一次灾难性实验的产物。不管它们的起源是什么，伏特犬在宇宙中随处可见。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/voltip2/text",
+    "raw": "They aren't fond of humanoid lifeforms for some peculiar reason, and will shock anyone who gets too close.",
+    "value": "由于某些特殊的原因，他们不喜欢类人生命形式，并且会让任何靠得太近的人感受科学的力量。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/yokat0/text",
+    "raw": "MONSTER: Yokat - FAMILY: Yokat - BIOMES: Eyepile",
+    "value": "怪物：怪化猫 - 家族：怪化猫 - 生物群落：眼堆"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/yokat1/text",
+    "raw": "These sneaky monsters stalk eye biomes. If their sneaking is disturbed, they will attempt to scare off observers with their creepy bulging eye...",
+    "value": "这些鬼鬼祟祟的怪物潜伏在眼界周围。如果他们的潜行受到了干扰，他们会试图用那颗令人毛骨悚然的大眼珠子吓跑旁观者......"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/yokat2/text",
+    "raw": "They are very greedy, and reportedly sneak into villages near their habitat during the night to rob them of their pixels, and shiny objects.",
+    "value": "它们非常贪婪，据说它们会在夜间潜入其栖息地附近的村庄，抢走村民的像素和闪亮物品。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/moontant0/text",
+    "raw": "MONSTER: Moontant - FAMILY: Moontant - BIOMES: Moon",
+    "value": "怪物：月变体 - 家族：月变体 - 生物群落：月亮"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/moontant1/text",
+    "raw": "Moontants are grotesque mutants that inhabit moons. They were once humanoids, but underwent harsh mutations from extended contact with erchius crystals.",
+    "value": "月变体是居于卫星表面的诡异变种生命。它们曾经是……某些类人生物，但由于长期接触刺激性厄尔吉斯晶体而遭受了严重的突变。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/moontant2/text",
+    "raw": "Moontants should be dealt with cautiously. They fire a liquid from their arms to attack their target.",
+    "value": "应该谨慎对待月球表面的那些东西。他们从手臂里喷出液体来攻击目标。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/moontant3/text",
+    "raw": "Don't allow their origins to cause you to drop your guard. They are nothing more than monsters now.",
+    "value": "不要因为它们的来头就让你的圣母心泛滥。他 们 现 在 只 不 过 是 怪 物 。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ixoling0/text",
+    "raw": "MONSTER: Ixoling - FAMILY: Ixoling - BIOMES: Underground",
+    "value": "怪物：死亡执行者 - 家族：死亡执行者 - 生物群落：地下"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ixoling1/text",
+    "raw": "Ixolings are juvenile Ixodooms. It takes roughly 200 years for them to potentially pupate, so they wait out this period hunting underground.",
+    "value": "死亡执行者是死亡主宰的幼体形态。它们需要大约200年的时间才有可能化蛹，在此之前它们会一直在地下猎食。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ixoling2/text",
+    "raw": "Their venom glands aren't developed at this stage, so they instead rely on their jaws to subdue potential prey. Keep your distance when fighting them, as they pounce their prey.",
+    "value": "它们的毒腺在这个阶段还没有发育，所以它们只能依靠下颚来制服潜在的猎物。与它们战斗时要保持距离，因为它们会突然扑上来袭击它们的猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kluextotem0/text",
+    "raw": "MONSTER: Kluex Totem - FAMILY: Kluex Totem - BIOMES: Desert",
+    "value": "怪物：克鲁克斯图腾 - 家族：克鲁克斯图腾 - 生物群落：沙漠"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kluextotem1/text",
+    "raw": "Kluex Totems are ancient constructs created by Avians. They were generally designed to protected Avian settlements, important structures and burial planets.",
+    "value": "克鲁克斯图腾是由翼族人创造的古代构造体。它们通常被设计用于保护翼族定居点、重要建筑和葬仪行星。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kluextotem2/text",
+    "raw": "Today, most Kluex Totems have gone haywire, and attack virtually anyone that gets too close.",
+    "value": "今天，大多数克鲁克斯图腾也都已经失控，会攻击几乎所有靠得太近的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/agrobat0/text",
+    "raw": "MONSTER: Agrobat - FAMILY: Agrobat - BIOMES: Underground",
+    "value": "怪物：酸液蝠 家族：酸液蝠 - 生物群落：地下"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/agrobat1/text",
+    "raw": "The Agrobat has sensitive eyes, and prefers dark environments. The slightest glow or reflection can agitate them.",
+    "value": "酸液蝠拥有敏锐的眼睛，且喜欢黑暗的环境。因此哪怕最轻微的光芒或反射都能激惹他们。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/agrobat2/text",
+    "raw": "They attack by swooping at their target. Generally, Agrobats should be left to their own devices if possible.",
+    "value": "他们以猛扑目标的方式进行攻击。一般来说，如果可能的话，任其自由而不管是对待酸液蝠的最好办法。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/batong0/text",
+    "raw": "MONSTER: Batong - FAMILY: Batong - BIOMES: Underground",
+    "value": "怪物：巨舌蝠 - 家族：巨舌蝠 - 生物群落：地下"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/batong1/text",
+    "raw": "These bat-like creatures are nearly blind, and get a sense of where they are going through taste.",
+    "value": "这些类似蝙蝠的生物几乎看不见任何东西，不过它们只凭味觉就能感受到要去的地方。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/batong2/text",
+    "raw": "They don't like being disturbed, and will defend themselves if attacked. They often retaliate to attacks with a swoop.",
+    "value": "他们不喜欢被打扰，而如果受到攻击，他们绝逼会自卫。他们经常以成群结队的突然猛扑作为回击手段。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/bobfae0/text",
+    "raw": "MONSTER: Bobfae - FAMILY: Bobfae - BIOMES: Forest",
+    "value": "怪物：波比蜂 - 家族：波比蜂 - 生物群落：森林"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/bobfae1/text",
+    "raw": "Though classified as flying monsters, Bobfae are one of the weakest fliers in the universe. The act is so tiring, they periodically have to rest.",
+    "value": "虽然被归类为飞行怪物，但波比蜂是宇宙中最弱的飞行物种之一。这种飞行模式看起来就累人，他们不得不周期性地休息。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/bobfae2/text",
+    "raw": "They will attack potential threats, but they don't particularly excel in combat.",
+    "value": "他们会攻击潜在的威胁，但他们在战斗中并不是特别出色。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/monopus0/text",
+    "raw": "MONSTER: Monopus - FAMILY: Monopus - BIOMES: Mixed",
+    "value": "怪物：脉冲蛹 - 家族：脉冲蛹 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/monopus1/text",
+    "raw": "The ancient Monopus are highly intelligent. They also happen to be mischievous, and attack people that get too close.",
+    "value": "这古老的脉冲蛹拥有高度的智慧。他们偶尔来了兴致会有些调皮捣蛋，攻击那些没长眼靠太近的家伙。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/monopus2/text",
+    "raw": "No one knows whether their hostility is out of malice, or just simply their way of being playful.",
+    "value": "没有人知道他们的气势汹汹是出于恶意，还是仅仅是他们找乐子的方法。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/paratail0/text",
+    "raw": "MONSTER: Paratail - FAMILY: Paratail - BIOMES: Mixed",
+    "value": "怪物：爆炸瓦斯 - 家族：爆炸瓦斯 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/paratail1/text",
+    "raw": "These balloon-like, flying monsters contain volatile gases, which explode when the creature feels threatened.",
+    "value": "这些气球状的飞行怪物内囊含有高挥发性物质，当这种生物感到威胁时就会引发爆炸。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/paratail2/text",
+    "raw": "Paratail are only capable of exploding once, so they have to make this dangerous defensive maneuver count.",
+    "value": "爆炸瓦斯只能“炸”一次，所以他们必须对这种危险的防御策略精打细算。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pteropod0/text",
+    "raw": "MONSTER: Pteropod - FAMILY: Pteropod - BIOMES: Swamp",
+    "value": "怪物：翼袋龙 - 家族：翼袋龙 - 生物群落：沼泽"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pteropod1/text",
+    "raw": "The berries this flying monster eats are highly toxic. They provide the monster with nourishment, and also serve as a defensive attack.",
+    "value": "这种会飞的怪物所吞吃的浆果往往是剧毒的。它们为怪物的躯体提供营养，同时也能作为一种防御性的攻击储备。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pteropod2/text",
+    "raw": "Pteropod attack their target by spitting the poisonous substance left over from their digested berries.",
+    "value": "翼袋龙通过吐出经它们消化的浆果所残留的有毒物质来攻击目标。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/scandroid0/text",
+    "raw": "MONSTER: Scandroid - FAMILY: Scandroid - BIOMES: Mixed",
+    "value": "怪物：雷达机器人 - 家族：雷达机器人 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/scandroid1/text",
+    "raw": "These robots are constantly searching for something (or someone?). No one knows who created the Scandroids, or what they're searching for.",
+    "value": "这些机器人实际上是在不断地寻找某样东西(或某个人?) . 没有人知道谁创造了这些雷达机器人，或者他们在寻找什么。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/scandroid2/text",
+    "raw": "Whatever it may be, they are highly aggressive. They shock anyone that interrupts their endless search.",
+    "value": "不管其本质可能是什么，它们都是非常有侵略性的。任何打断它们无休止的搜索的人都会被等离子气电击。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/minidrone0/text",
+    "raw": "MONSTER: Minidrone - FAMILY: Minidrone - BIOMES: Scorched",
+    "value": "怪物：猕拟无人机 - 家族：猕拟无人机 - 生物群落：焦土"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/minidrone1/text",
+    "raw": "Minidrones are flying robots created by the Miniknog. While experimental models exist in some strongholds, the finished product patrols Scorched biomes.",
+    "value": "猕拟无人机是米尼克诺格（科技发展部）制造的飞行机器人。虽然他们声称实验模型只存在于一些要塞，但最终成品却早已在废土之上逡巡了。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/minidrone2/text",
+    "raw": "Minidrones are either set to scout, or to kill. They're generally looking Apex rebels, but do not discriminate them from normal adventurers very well.",
+    "value": "猕拟无人机要么被设置为侦察，要么被设置为杀戮。他们通常都只是在搜杀肃清那些猿族的反叛者，但是……却不能很好地区分他们和普通的冒险家。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kluexsentry0/text",
+    "raw": "MONSTER: Kluex Sentry - FAMILY: Kluex Sentry - BIOMES: Desert",
+    "value": "怪物：克鲁克斯哨兵 - 家族：克鲁克斯哨兵 - 生物群落：沙漠"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kluexsentry1/text",
+    "raw": "Kluex Sentries are ancient flying constructs created by Avians. They were created to patrol planets suitable for Avian settlement.",
+    "value": "克鲁克斯哨兵是由翼族人创造的古老飞行构造体。他们是为了巡逻适合翼族定居的星球而建造的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/kluexsentry2/text",
+    "raw": "Today, most Kluex Sentries have gone haywire, and attack virtually anyone that gets too close. Some Kluex Sentries can also be found in important Avian temples.",
+    "value": "今天，大多数克鲁克斯哨兵已经失控，攻击几乎任何感知范围内的人。一些克鲁克斯哨兵也可以在重要的翼族庙宇里发现。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/luminorb0/text",
+    "raw": "MONSTER: Luminorb - FAMILY: Luminorb - BIOMES: Atmosphere",
+    "value": "怪物：流明珠 - 家族：流明珠 - 生物组: 大气"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/luminorb1/text",
+    "raw": "Luminorbs are mysterious flying monsters that light up the atmospheres of planets during night cycles.",
+    "value": "流明珠是神秘的飞行物，在夜间周期会照亮行星的大气层。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/luminorb2/text",
+    "raw": "Their origins are properties are unknown. They are generally non-aggressive, but will attempt to defend themselves if attacked.",
+    "value": "它们的起源是性质未知的。它们通常不具有攻击性，但一旦受到攻击，它们也会试图自卫。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/luminorb3/text",
+    "raw": "There have also been Luminorb sightings reported in bioluminescent biomes, where they spawn in swarms.",
+    "value": "在生物荧光区也有“发光体”的目击报道，流明珠会在那里成群产卵。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hummingbug0/text",
+    "raw": "MONSTER: Hummingbug - FAMILY: Hummingbug - BIOMES: Swamp",
+    "value": "怪物：烦人蜻 - 家族：烦人蜻 - 生物群落：沼泽"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hummingbug1/text",
+    "raw": "Hummingbugs are tenacious insects often found in swarms. They are hostile, and attempt to feed on anything that entires their territory.",
+    "value": "烦人蜻是一种顽强的昆虫，通常成群出现。它们充满敌意，并试图以任何敢于占据它们领地的东西为食。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hummingbug2/text",
+    "raw": "They are relatively harmless physically, but their bite passes on a virus to victims. This virus can last a long time, and can be fatal if left untreated.",
+    "value": "它们的身体相对无害，但是它们的叮咬会把病毒传染给受害者。这种病毒可以持续复制很长时间，如果不及时治疗可能是致命的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hummingbug3/text",
+    "raw": "To avoid a fatal encounter with these insects, be sure to pack antidotes when traveling through swamps.",
+    "value": "为了避免与这些昆虫发生致命的冲突，穿越沼泽时请务必携带解毒剂。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/glofae0/text",
+    "raw": "MONSTER: Glofae - FAMILY: Glofae - BIOMES: Bioluminescent, Spring",
+    "value": "怪物：精灵蜂 - 家族：精灵蜂 - 生物群落：发光，春季"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/glofae1/text",
+    "raw": "Glofae are bioluminescent insects of high intelligence. They are generally non-aggressive, but also a bit mischievous.",
+    "value": "精灵蜂是一种高智商的发光昆虫生命。他们通常是非攻击性的，但偶尔也有点淘气。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/glofae2/text",
+    "raw": "They are found throughout the universe, and there are rumors that some groups even existed on Earth at one point in time.",
+    "value": "他们遍布整个宇宙，有传言说甚至有一些蜂群曾经在地球上存在过。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/glofae3/text",
+    "raw": "Glofae prefer pristine and beautiful environments, and don't like being disturbed. Though they are small and physically weak, they aren't afraid to take on threats.",
+    "value": "精灵蜂喜欢原始和美丽的环境，不喜欢被打扰。尽管他们体型渺小，能力贫弱，但他们并不害怕面对威胁。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/skelecrow0/text",
+    "raw": "MONSTER: Skelecrow - FAMILY: Skelecrow - BIOMES: Bone",
+    "value": "怪物：骨鸦 - 家族：骨鸦 - 生物群落:骨地"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/skelecrow1/text",
+    "raw": "The skeletal remains of these birds are manipulated by microscopic organisms. They attack prey by firing bones at them.",
+    "value": "这些鸟类的骨骼残骸是由微生物操纵的。它们用骨头攻击猎物。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/toxicskelecrow0/text",
+    "raw": "MONSTER: Toxic Skelecrow - FAMILY: Skelecrow - BIOMES: Toxic",
+    "value": "怪物：毒骨老鸦 - 家族：骨鸦 - 生物群落：毒素"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/toxicskelecrow1/text",
+    "raw": "The microbes manipulating this skelecrow are highly toxic. Thus, their bones inflict poison on contact.",
+    "value": "操纵这套骨骼的微生物毒性很强。因此，它们的骨骼会在接触时产生毒害效果。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/shadowskelecrow0/text",
+    "raw": "MONSTER: Shadow Skelecrow - FAMILY: Skelecrow - BIOMES: Midnight",
+    "value": "怪物：影之骨鸦 - 家族：骨鸦 - 生物群落：午夜"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/shadowskelecrow1/text",
+    "raw": "The microbes that manipulate these corpses thrive in the dark environments of Midnight biomes. Their presence has inspired many ghost stories!",
+    "value": "操纵这些尸体的微生物在午夜生物群落的黑暗环境中茁壮成长。它们的出现给许多鬼故事创造了灵感！"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crustoise0/text",
+    "raw": "MONSTER: Crustoise - FAMILY: Crustoise - BIOMES: Underground",
+    "value": "怪物：岩壳刺蝟 - 家族：岩壳刺蝟 - 生物群落：地下"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crustoise1/text",
+    "raw": "These monsters are covered in painfully sharp rocks. Though they look cute, they're highly territorial.",
+    "value": "这些怪物身上覆盖着锋利得瞟一眼就足够让人产生痛苦的岩石。虽然他们笨拙的样子看起来很可爱，但他们的领地意识非常强。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crustoise2/text",
+    "raw": "These little guys are famous for raising up on their hind-legs and charging at their targets. It's thought they do this to scare off intruders.",
+    "value": "这些小家伙以用后腿站立向目标冲锋而闻名。人们认为他们这样做是为了先吓跑入侵者。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/magtoise0/text",
+    "raw": "MONSTER: Magtoise - FAMILY: Crustoise - BIOMES: Magma, Volcanic",
+    "value": "怪物：熔壳刺蝟 - 家族：岩壳刺蝟 - 生物群落：岩浆，火山"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/magtoise1/text",
+    "raw": "These Crustoise relatives prefer hot environments. Their shell is extremely hot, and capable of inflicting fourth degree burns if touched.",
+    "value": "这些岩壳刺蝟的亲戚更喜欢炎热的环境。它们的外壳非常烫，一旦肉体触碰就能造成四级烧伤。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/magtoise2/text",
+    "raw": "They are capable of surviving in high temperatures, and have even been reported to reside at the core layer of some planets.",
+    "value": "它们能够在高温中生存，甚至有报道称它们居住在一些行星的核心层。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/nocttoise0/text",
+    "raw": "MONSTER: Nocttoise - FAMILY: Crustoise - BIOMES: Midnight",
+    "value": "怪物：夜游刺蝟 - 家族：岩壳刺蝟 - 生物群落：午夜"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/nocttoise1/text",
+    "raw": "These Crustoise relatives prefer sitting in the shadows, waiting for potential prey to come within reach.",
+    "value": "这些岩壳刺蝟的亲戚喜欢坐在阴影中，等待潜在的猎物接近到触手可及的距离。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/nocttoise2/text",
+    "raw": "While native to Midnight biomes, they are also found on the surface of some other biomes during the night.",
+    "value": "虽然他们原产于“午夜”生物群落，但他们的一些弱化种也会在夜间出现在其他一些生物群落的表面。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hivetoise0/text",
+    "raw": "MONSTER: Hivetoise - FAMILY: Crustoise - BIOMES: Hive",
+    "value": "怪物：巢壳刺蝟 - 家族：岩壳刺蝟 - 生物群落：蜂巢"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hivetoise1/text",
+    "raw": "These distant relatives to the Crustoise are native to Hive biomes. They act as worker drones, maintaining and caring for the Hive.",
+    "value": "这些岩壳刺蝟一族的远亲原产于蜂巢生物群落。它们会充当起工虫的角色，维护和照顾蜂巢。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/hivetoise2/text",
+    "raw": "Due to their awkward round shells, they are incapable of standing up on their hind-legs, and thus cannot charge intruders.",
+    "value": "由于那笨拙的圆形外壳，他们几乎不可能用后腿站立，因此他们其实无法袭击入侵者。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/beetoise0/text",
+    "raw": "MONSTER: Beetoise - FAMILY: Crustoise - BIOMES: Jungle, Mushroom",
+    "value": "怪物：龟蝟 - 家族：岩壳刺蝟 - 生物群落：丛林，蘑菇"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/beetoise1/text",
+    "raw": "These Crustoise relatives possess one of the strongest shells in the world of monsters. Pure physical attacks do next to nothing to them, so elemental weapons are a must.",
+    "value": "这些岩壳刺蝟的亲戚拥有宇宙间最强硬的怪物外壳。纯粹的物理攻击对他们几乎没有任何作用，所以活用元素武器是必要的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/beetoise2/text",
+    "raw": "Be mindful of their shell-spin attack. The attack is hard for the monster to stop, but very fast. If you have good reflexes, you may be able to leap over a Beetoise as they go sailing past you.",
+    "value": "要特别注意他们的甲壳螺旋攻击。攻击的惯性使这些家伙很难停下自己，但速度极快。如果你有良好的反应能力，你也许可以跳过一只正从你身下冲过的龟蝟。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/beetoise3/text",
+    "raw": "Beetoise generally feed on vegetation, but populations in Mushroom biomes are also known to feed on fungi.",
+    "value": "龟蝟通常以植物为食，但是在蘑菇生物群落中也普遍以真菌为食。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/iguarmor0/text",
+    "raw": "MONSTER: Iguarmor - FAMILY: Iguarmor - BIOMES: Mixed",
+    "value": "怪物：武装蜥蜴 - 家族：武装蜥蜴 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/iguarmor1/text",
+    "raw": "Iguarmor are non-aggressive reptiles equipped with a spiked shell attached to their tail. They use this shell for protection.",
+    "value": "武装蜥蜴是一种非攻击性的爬行动物，尾部附有一个带刺的壳子。它们就是用这个尾甲来保护自己的。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/oculob0/text",
+    "raw": "MONSTER: Oculob - FAMILY: Oculob - BIOMES: Slime",
+    "value": "怪物：眼垂体 - 家族：眼垂体 - 生物群落：粘液"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/oculob1/text",
+    "raw": "Oculobs are gelatinous organisms that inhabit slime biomes. Their slime acts as an adhesive, firmly anchoring them to the surface they're attached to.",
+    "value": "眼垂体是栖息在黏液生物群落中的凝胶状生物。它们的黏液起着粘合剂的作用，把它们牢牢地固定在它们所附着的表面。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/oculob2/text",
+    "raw": "They will attempt to attack intruders, but do not possess any noteworthy combat skills.",
+    "value": "它们会尝试攻击入侵者，但不具备任何显著的战斗技能。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pulpin0/text",
+    "raw": "MONSTER: Pulpin - FAMILY: Pulpin - BIOMES: Mixed",
+    "value": "怪物：噗丁 - 家族：噗丁 - 生物模型: 混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pulpin1/text",
+    "raw": "These fascinating lifeforms appear to be water-based. Their sticky texture allows them to easily climb surfaces.",
+    "value": "这些迷人的生命形式似乎是以水为基础的。它们的粘性质地使它们很容易爬上表面。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pulpin2/text",
+    "raw": "They defend themselves by firing cold bubbles from an orifice on their head.",
+    "value": "他们通过从头上的小孔里喷出冷凝泡来保护自己。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/snaggler0/text",
+    "raw": "MONSTER: Snaggler - FAMILY: Snaggler - BIOMES: Underground",
+    "value": "怪物：窃甲蜗 - 家族：窃甲蜗 - 生物群落：地下"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/snaggler1/text",
+    "raw": "This gastropod is essentially a predatory snail. They are surprisingly fast, and relentlessly chase down prey. They care little about their prey's size.",
+    "value": "这种腹足类动物基本上是一种食肉性蜗牛。它们速度惊人，无情地追逐猎物。它们不在乎猎物的大小。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/snaggler2/text",
+    "raw": "When attacked, they tuck their body into their shell to try to endure damage.",
+    "value": "当受到攻击时，它们会把身体缩进壳里以承受伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/tintic0/text",
+    "raw": "MONSTER: Tintic - FAMILY: Tintic - BIOMES: Underground",
+    "value": "怪物：马口铁蜘蛛 - 家族：马口铁蜘蛛 - 生物群落：地下"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/tintic1/text",
+    "raw": "No one knows whether this monster is organic, or inorganic. They never seem to eat or sleep.",
+    "value": "没有人知道这种怪物算作有机还是无机。他们似乎从不进食或睡觉。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/tintic2/text",
+    "raw": "Their most valuable tool is their silk. They fashion their own armor from this silk, and even spit webshots at potential prey.",
+    "value": "它们最有价值的工具便是它们的丝。它们用这种丝制成自己的盔甲，甚至向潜在的猎物吐出网状的子弹。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/sluirm0/text",
+    "raw": "MONSTER: Sluirm - FAMILY: Sluirm - BIOMES: Underground",
+    "value": "怪物：斯鲁瑞姆蛞蝓 - 家族：斯鲁瑞姆蛞蝓 - 生物群落：地下"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/sluirm1/text",
+    "raw": "Description: Sluirms are non-aggressive, worm-like monsters that live underground. Their bodies are covered in a stretchy, leathery hide that's resistant to elemental attacks.",
+    "value": "描述: 斯鲁瑞姆蛞蝓是生活在地下的非侵略性的蠕虫样怪物。他们的身体覆盖着一层有弹性的坚韧皮革，可以抵抗元素的攻击。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/sluirm2/text",
+    "raw": "Since they are mostly made up of muscles, they can stretch and contort across most surfaces. Since they aren't particularly strong, they usually group together for safety.",
+    "value": "因为它们主要由肌肉组成，所以它们可以在大多数表面上伸展和扭曲。由于它们不是特别强壮，为了保证彼此的安全，它们也通常会聚在一起。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/shnail0/text",
+    "raw": "MONSTER: Shnail - FAMILY: Shnail - BIOMES: Underground",
+    "value": "怪物：史耐尔鲍 - FAMILY: 史耐尔鲍 - 生物群落：地下"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/shnail1/text",
+    "raw": "Snhails are non-aggressive, worm-like monsters closely related to the Sluirm. They possess a highly sturdy shell, which protects them from physical force.",
+    "value": "史耐尔鲍是非侵略性的，与斯鲁瑞姆蛞蝓密切相近的蠕虫类怪物。它们拥有非常坚固的外壳，可以保护它们免受物理力量的伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/shnail2/text",
+    "raw": "Snhail bodies aren't as thick as a Sluirm, so they resort to tucking into their shell to endure most damage.",
+    "value": "史耐尔鲍的肉体没有斯鲁瑞姆蛞蝓那么厚，所以它们只能缩进壳里来承受大部分的伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gosmet0/text",
+    "raw": "MONSTER: Gosmet - FAMILY: Gosmet - BIOMES: Abandoned Hylotl Structures",
+    "value": "怪物：幽灵盔 - 家族：幽灵盔 - 生物群落：鲛人建筑废墟"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gosmet1/text",
+    "raw": "These ghostly monsters mould their armor from their own ethereal bodies. They are reported to dwell within abandoned Hylotl structures.",
+    "value": "这些幽灵般的怪物用他们自己虚幻的身体来铸造他们的缥缈盔甲。报告称，他们居住在一些废弃的鲛人建筑里。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/gosmet2/text",
+    "raw": "Why they are drawn to Hylotl architecture is unknown, but they don't like intruders, and will attack on sight.",
+    "value": "为什么他们会被鲛人建筑所吸引还不得而知，但是他们不喜欢入侵者，并且会悍不畏死地进行攻击。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ignome0/text",
+    "raw": "MONSTER: Ignome - FAMILY: Ignome - BIOMES: Mixed",
+    "value": "怪物：烛精灵 - 家族：烛精灵 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ignome1/text",
+    "raw": "These strange ghostly monsters like hot environments. They are highly resistant to fire despite their charred appearance.",
+    "value": "这些奇特的鬼怪喜欢炎热的环境。尽管他们外表看起来好像被烧焦了一样，但耐火性很强。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ignome2/text",
+    "raw": "The Ignome are very hostile, and charge at anyone they catch within their territory.",
+    "value": "烛精灵非常敌对，他们会冲向任何在自己领地内闲逛被逮住的家伙。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/lumoth0/text",
+    "raw": "MONSTER: Lumoth - FAMILY: Lumoth - BIOMES: Steamspring",
+    "value": "怪物：灯蛾 - 家族：灯蛾 - 生物群落：蒸汽泉"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/lumoth1/text",
+    "raw": "The bulbs attached to the heads of Lumoths are powered by their flight. Their light would go out if they ever stopped flying.",
+    "value": "连接在灯蛾头部的灯泡是由它们的飞行提供能量的。如果它们停止飞行，它们的光就会熄灭。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/nautileech0/text",
+    "raw": "MONSTER: Nautileech - FAMILY: Nautileech - BIOMES: Ocean",
+    "value": "怪物：海蛭 - 家族：海蛭 - 生物群落：海洋"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/nautileech1/text",
+    "raw": "This semi-aquatic parasitic lifeform is a pest to deep sea divers. They persistently chase prey in an attempt to drain their health.",
+    "value": "这种半水生寄生生物对深海潜水员来说是一种害虫。它们坚持不懈地追逐猎物，企图吸光他们的精华。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pyromantle0/text",
+    "raw": "MONSTER: Pyromantle - FAMILY: Pyromantle - BIOMES: Magma, Volcanic, Core",
+    "value": "怪物：火焰斗篷 - 家族：火焰斗篷 - 生物群落：岩浆，火山，核心"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pyromantle1/text",
+    "raw": "Pyromantle appear to be some sort of ethereal golem. They attack people who stumble into their territory.",
+    "value": "火焰斗篷似乎是某种虚幻的投影。他们会攻击那些无意中闯入他们领地的人。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/pyromantle2/text",
+    "raw": "They defend themselves with bursts of heat and smoke, and propel magma rocks at their target.",
+    "value": "他们用爆发的热量和烟雾来保护自己，将岩浆泵向目标。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/skimbus0/text",
+    "raw": "MONSTER: Skimbus - FAMILY: Skimbus - BIOMES: Asteroid belts",
+    "value": "怪物：寒风之魄 - 家族：寒风之魄 - 生物群落：小行星带"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/skimbus1/text",
+    "raw": "It is thought these ethereal monsters generally reside in space due to being easily blown by the slightest wind.",
+    "value": "人们认为这些虚无缥缈的怪物通常居住在太空中，因为他们很容易被最轻微的风吹动。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/skimbus2/text",
+    "raw": "They are territorial, and will charge anyone who invades their space. Why they are drawn to asteroids in particular remains a mystery.",
+    "value": "他们有领土意识，会向任何侵入其领空的人发起攻击。他们为何如此迷恋小行星仍然是一个谜。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/spookit0/text",
+    "raw": "MONSTER: Spookit - FAMILY: Spookit - BIOMES: Forest, Underground",
+    "value": "怪物：猫鬼 - 家族：猫鬼 - 生物群落：森林，地下"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/spookit1/text",
+    "raw": "Spookits are cat-like ethereal monsters. They can enter a different plane of existence if attacked.",
+    "value": "猫鬼是像猫咪一样的虚灵怪物。如果受到攻击，它们可以进入另一个存在的位相来闪避。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/spookit2/text",
+    "raw": "It's speculated that their defensive maneuver may actually be involuntary. Spookits will pass into the different plane whenever they blink.",
+    "value": "据推测，他们的防御行为实际上可能是无意识发生的。每当他们眨眼的时候，这些幽灵体就会进入不同的位面。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/squeem0/text",
+    "raw": "MONSTER: Squeem - FAMILY: Squeem - BIOMES: Mixed",
+    "value": "怪物：呱太 - 家族：呱太 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/squeem1/text",
+    "raw": "The movements of the floaty Squeem are determined by atmospheric temperature. It is speculated Squeem 'attack' people due to their body heat.",
+    "value": "浮游呱太的运动取决于大气温度。据推测，呱太攻击人们往往是因为他们的体温所致。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/wisper0/text",
+    "raw": "MONSTER: Wisper - FAMILY: Wisper - BIOMES: Mixed",
+    "value": "怪物：低语精灵 - 家族：低语精灵 - 生物群落：混合"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/wisper1/text",
+    "raw": "The glow of this monster seems to be caused by a cold ethereal liquid. Wispers attack threats by freezing and firing this liquid at their target.",
+    "value": "这种怪物发出的光线似乎是由一种冰冷虚无的液态物质所引起的。低语精灵通过凝结并向目标发射这种液体来攻击威胁者。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/0/text",
+    "raw": "MONSTER: Blank - FAMILY: Blank - BIOMES: Blank",
+    "value": "怪物：空白 - 家族：空白 - 生物群落：空白"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/1/text",
+    "raw": "Text.",
+    "value": "文本。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/2/text",
+    "raw": "Text.",
+    "value": "文本。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/3/text",
+    "raw": "Text.",
+    "value": "文本。"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/categoryselect0/options/0/0",
+    "raw": "GROUND MONSTERS",
+    "value": "地面系怪物"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/categoryselect0/options/1/0",
+    "raw": "FLYING MONSTERS",
+    "value": "飞行系怪物"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/categoryselect0/options/2/0",
+    "raw": "MORE",
+    "value": "更多"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/categoryselect1/options/0/0",
+    "raw": "GHOST MONSTERS",
+    "value": "鬼怪"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/categoryselect1/options/1/0",
+    "raw": "CRAWLING MONSTERS",
+    "value": "爬行系怪物"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/categoryselect1/options/2/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpoptop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpoptop/options/1/0",
+    "raw": "POPTOP",
+    "value": "吐舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpoptop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectadultpoptop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectadultpoptop/options/1/0",
+    "raw": "ADULT POPTOP",
+    "value": "成年吐舌王"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectadultpoptop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsnorktop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsnorktop/options/1/0",
+    "raw": "SNORKTOP",
+    "value": "潜水娃"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsnorktop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnocttop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnocttop/options/1/0",
+    "raw": "NOCTTOP",
+    "value": "夜游吐舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnocttop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcaketop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcaketop/options/1/0",
+    "raw": "CAKETOP",
+    "value": "蛋糕头吐舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcaketop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmushtop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmushtop/options/1/0",
+    "raw": "MUSHTOP",
+    "value": "菇舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmushtop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectoctotop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectoctotop/options/1/0",
+    "raw": "OCTOTOP",
+    "value": "触舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectoctotop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmagmatop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmagmatop/options/1/0",
+    "raw": "MAGMATOP",
+    "value": "熔岩吐舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmagmatop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmimetop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmimetop/options/1/0",
+    "raw": "MIMETOP",
+    "value": "默舌娃"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmimetop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectglitchtop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectglitchtop/options/1/0",
+    "raw": "GLITCHTOP",
+    "value": "異*吐?{千口‘娃_"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectglitchtop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectbulbop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectbulbop/options/1/0",
+    "raw": "BULBOP",
+    "value": "布波普"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectbulbop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcottonbop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcottonbop/options/1/0",
+    "raw": "COTTONTOP",
+    "value": "棉绒波普"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcottonbop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectshroombop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectshroombop/options/1/0",
+    "raw": "SHROOMBOP",
+    "value": "蘑菇波普"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectshroombop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsummerbop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsummerbop/options/1/0",
+    "raw": "SUMMERBOP",
+    "value": "夏波普"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsummerbop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectautumnbop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectautumnbop/options/1/0",
+    "raw": "AUTUMNBOP",
+    "value": "秋波普"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectautumnbop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectwinterbop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectwinterbop/options/1/0",
+    "raw": "WINTERBOP",
+    "value": "冬波普"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectwinterbop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectspringbop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectspringbop/options/1/0",
+    "raw": "SPRINGBOP",
+    "value": "春波普"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectspringbop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcandybop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcandybop/options/1/0",
+    "raw": "CANDYBOP",
+    "value": "糖波普"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcandybop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmallowbop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmallowbop/options/1/0",
+    "raw": "MALLOWBOP",
+    "value": "棉花糖波普"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmallowbop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmandraflora/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmandraflora/options/1/0",
+    "raw": "MANDRAFLORA",
+    "value": "蔓陀螺（曼德拉螺旋丸）"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmandraflora/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectgummi/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectgummi/options/1/0",
+    "raw": "GUMMI",
+    "value": "咕米"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectgummi/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectrockgummi/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectrockgummi/options/1/0",
+    "raw": "ROCK GUMMI",
+    "value": "岩咕米"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectrockgummi/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttargummi/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttargummi/options/1/0",
+    "raw": "TAR GUMMI",
+    "value": "油库里"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttargummi/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectfleshgummi/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectfleshgummi/options/1/0",
+    "raw": "FLESH GUMMI",
+    "value": "血肉咕米"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectfleshgummi/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectskullgummi/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectskullgummi/options/1/0",
+    "raw": "SKULL GUMMI",
+    "value": "骷米"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectskullgummi/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecteyevalve/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecteyevalve/options/1/0",
+    "raw": "EYEVALVE",
+    "value": "眼蛤"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecteyevalve/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttrapogo/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttrapogo/options/1/0",
+    "raw": "TRAPOGO",
+    "value": "守箱怪"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttrapogo/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectfennix/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectfennix/options/1/0",
+    "raw": "FENNIX",
+    "value": "菲狐"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectfennix/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectfrostix/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectfrostix/options/1/0",
+    "raw": "FROSTIX",
+    "value": "冰霜菲狐"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectfrostix/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectelectrix/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectelectrix/options/1/0",
+    "raw": "ELECTRIX",
+    "value": "电气菲狐"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectelectrix/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttoxix/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttoxix/options/1/0",
+    "raw": "TOXIX",
+    "value": "剧毒菲狐"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttoxix/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmysterix/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmysterix/options/1/0",
+    "raw": "MYSTERIX",
+    "value": "隐秘菲狐"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmysterix/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnormix/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnormix/options/1/0",
+    "raw": "NORMIX",
+    "value": "泛狐"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnormix/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcleaningbot/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcleaningbot/options/1/0",
+    "raw": "ROOMBA",
+    "value": "屋霸"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcleaningbot/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpeblit/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpeblit/options/1/0",
+    "raw": "PEBLIT",
+    "value": "小岩石"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpeblit/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectorelit/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectorelit/options/1/0",
+    "raw": "ORELIT",
+    "value": "小矿精"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectorelit/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnutmidge/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnutmidge/options/1/0",
+    "raw": "NUTMIDGE",
+    "value": "榛果丸"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnutmidge/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnutmidgeling/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnutmidgeling/options/1/0",
+    "raw": "NUTMIDGELING",
+    "value": "榛果果"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnutmidgeling/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectkingnutmidgeling/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectkingnutmidgeling/options/1/0",
+    "raw": "KING NUTMIDGELING",
+    "value": "“榛果王”"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectkingnutmidgeling/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecthelmidge/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecthelmidge/options/1/0",
+    "raw": "HELMIDGE",
+    "value": "坚果丸"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecthelmidge/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectanglure/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectanglure/options/1/0",
+    "raw": "ANGLURE",
+    "value": "昂格吕尔"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectanglure/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectbobot/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectbobot/options/1/0",
+    "raw": "BOBOT",
+    "value": "波波机器人"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectbobot/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcapricoat/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcapricoat/options/1/0",
+    "raw": "CAPRICOAT",
+    "value": "雪羯（绒山羊）"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcapricoat/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcrabcano/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcrabcano/options/1/0",
+    "raw": "CRABCANO",
+    "value": "火山蟹"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcrabcano/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcrutter/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcrutter/options/1/0",
+    "raw": "CRUTTER",
+    "value": "克鲁特"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectcrutter/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectgleap/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectgleap/options/1/0",
+    "raw": "GLEAP",
+    "value": "葛利普"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectgleap/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectaliep/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectaliep/options/1/0",
+    "raw": "ALIEP",
+    "value": "阿利普"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectaliep/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectoculemic/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectoculemic/options/1/0",
+    "raw": "OCULEMIC",
+    "value": "眼柠怪"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectoculemic/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecthemogoblin/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecthemogoblin/options/1/0",
+    "raw": "HEMOGOBLIN",
+    "value": "血红妖兽"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecthemogoblin/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecthypnare/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecthypnare/options/1/0",
+    "raw": "HYPNARE",
+    "value": "海泊尼亚兔草"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecthypnare/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectlilodon/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectlilodon/options/1/0",
+    "raw": "LILODON",
+    "value": "鲨狗"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectlilodon/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmiasmop/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmiasmop/options/1/0",
+    "raw": "MIASMOP",
+    "value": "毒气草"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmiasmop/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnarfin/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnarfin/options/1/0",
+    "raw": "NARFIN",
+    "value": "棱光海狮"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectnarfin/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectoogler/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectoogler/options/1/0",
+    "raw": "OOGLER",
+    "value": "奥格尔"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectoogler/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectorbide/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectorbide/options/1/0",
+    "raw": "ORBIDE",
+    "value": "球头侍"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectorbide/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpetricub/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpetricub/options/1/0",
+    "raw": "PETRICUB",
+    "value": "石油鬼"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpetricub/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpipkin/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpipkin/options/1/0",
+    "raw": "PIPKIN",
+    "value": "瓦罐怪"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectpipkin/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectquagmutt/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectquagmutt/options/1/0",
+    "raw": "QUAGMUTT",
+    "value": "沼泽犬"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectquagmutt/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectringram/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectringram/options/1/0",
+    "raw": "RINGRAM",
+    "value": "环形虫"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectringram/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectscaveran/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectscaveran/options/1/0",
+    "raw": "SCAVERAN",
+    "value": "拾荒鸟"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectscaveran/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsmoglin/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsmoglin/options/1/0",
+    "raw": "SMOGLIN",
+    "value": "雾麟"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsmoglin/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsnaunt/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsnaunt/options/1/0",
+    "raw": "SNAUNT",
+    "value": "吐槽蛇"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsnaunt/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsnuffish/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsnuffish/options/1/0",
+    "raw": "SNUFFISH",
+    "value": "灯芯鱼"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsnuffish/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsporgus/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsporgus/options/1/0",
+    "raw": "SPORGUS",
+    "value": "双头菇"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectsporgus/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttaroni/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttaroni/options/1/0",
+    "raw": "TARONI",
+    "value": "沥青兽"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttaroni/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttoumingo/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttoumingo/options/1/0",
+    "raw": "TOUMINGO",
+    "value": "多明戈犀鸟"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttoumingo/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttrictus/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttrictus/options/1/0",
+    "raw": "TRICTUS",
+    "value": "诡行仙"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselecttrictus/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectvoltip/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectvoltip/options/1/0",
+    "raw": "VOLTIP",
+    "value": "伏特犬"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectvoltip/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectyokat/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectyokat/options/1/0",
+    "raw": "YOKAT",
+    "value": "怪化猫"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectyokat/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmoontant/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmoontant/options/1/0",
+    "raw": "MOONTANT",
+    "value": "月变体"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectmoontant/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectixoling/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectixoling/options/1/0",
+    "raw": "IXOLING",
+    "value": "死亡执行者"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectixoling/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectkluextotem/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectkluextotem/options/1/0",
+    "raw": "KLUEX TOTEM",
+    "value": "克鲁克斯图腾"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectkluextotem/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectend/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectend/options/1/0",
+    "raw": "MENU",
+    "value": "主界面"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/groundselectend/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectagrobat/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectagrobat/options/1/0",
+    "raw": "AGROBAT",
+    "value": "酸液蝠"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectagrobat/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectbatong/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectbatong/options/1/0",
+    "raw": "BATONG",
+    "value": "巨舌蝠"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectbatong/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectbobfae/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectbobfae/options/1/0",
+    "raw": "BOBFAE",
+    "value": "波比蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectbobfae/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectmonopus/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectmonopus/options/1/0",
+    "raw": "MONOPUS",
+    "value": "脉冲蛹"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectmonopus/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectparatail/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectparatail/options/1/0",
+    "raw": "PARATAIL",
+    "value": "爆炸瓦斯"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectparatail/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectpteropod/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectpteropod/options/1/0",
+    "raw": "PTEROPOD",
+    "value": "翼袋龙（袋狐蝠）"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectpteropod/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectscandroid/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectscandroid/options/1/0",
+    "raw": "SCANDROID",
+    "value": "雷达机器人"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectscandroid/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectminidrone/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectminidrone/options/1/0",
+    "raw": "MINIDRONE",
+    "value": "猕拟无人机"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectminidrone/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectkluexsentry/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectkluexsentry/options/1/0",
+    "raw": "KLUEX SENTRY",
+    "value": "克鲁克斯哨兵"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectkluexsentry/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectluminorb/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectluminorb/options/1/0",
+    "raw": "LUMINORB",
+    "value": "流明珠"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectluminorb/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselecthummingbug/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselecthummingbug/options/1/0",
+    "raw": "HUMMINGBUG",
+    "value": "烦人蜻"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselecthummingbug/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectglofae/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectglofae/options/1/0",
+    "raw": "GLOFAE",
+    "value": "精灵蜂"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectglofae/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectskelecrow/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectskelecrow/options/1/0",
+    "raw": "SKELECROW",
+    "value": "骨鸦"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectskelecrow/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselecttoxicskelecrow/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselecttoxicskelecrow/options/1/0",
+    "raw": "TOXIC SKELECROW",
+    "value": "毒骨老鸦"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselecttoxicskelecrow/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectshadowskelecrow/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectshadowskelecrow/options/1/0",
+    "raw": "SHADOW SKELECROW",
+    "value": "影之骨鸦"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectshadowskelecrow/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectend/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectend/options/1/0",
+    "raw": "MENU",
+    "value": "主界面"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/flyingselectend/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectgosmet/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectgosmet/options/1/0",
+    "raw": "GOSMET",
+    "value": "幽灵盔"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectgosmet/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectignome/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectignome/options/1/0",
+    "raw": "IGNOME",
+    "value": "烛精灵（侏蝠）"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectignome/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectlumoth/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectlumoth/options/1/0",
+    "raw": "LUMOTH",
+    "value": "灯蛾（月海天蚕蛾）"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectlumoth/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectnautileech/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectnautileech/options/1/0",
+    "raw": "NAUTILEECH",
+    "value": "海蛭"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectnautileech/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectpyromantle/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectpyromantle/options/1/0",
+    "raw": "PYROMANTLE",
+    "value": "火焰斗篷"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectpyromantle/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectskimbus/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectskimbus/options/1/0",
+    "raw": "SKIMBUS",
+    "value": "寒风之魄"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectskimbus/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectspookit/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectspookit/options/1/0",
+    "raw": "SPOOKIT",
+    "value": "猫鬼"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectspookit/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectsqueem/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectsqueem/options/1/0",
+    "raw": "SQUEEM",
+    "value": "呱太"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectsqueem/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectwisper/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectwisper/options/1/0",
+    "raw": "WISPER",
+    "value": "低语精灵"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectwisper/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectend/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectend/options/1/0",
+    "raw": "MENU",
+    "value": "主界面"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/ghostselectend/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectcrustoise/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectcrustoise/options/1/0",
+    "raw": "CRUSTOISE",
+    "value": "岩壳刺蝟"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectcrustoise/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectmagtoise/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectmagtoise/options/1/0",
+    "raw": "MAGTOISE",
+    "value": "熔壳刺蝟"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectmagtoise/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectnocttoise/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectnocttoise/options/1/0",
+    "raw": "NOCTTOISE",
+    "value": "夜游刺蝟"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectnocttoise/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselecthivetoise/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselecthivetoise/options/1/0",
+    "raw": "HIVETOISE",
+    "value": "巢壳刺蝟"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselecthivetoise/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectbeetoise/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectbeetoise/options/1/0",
+    "raw": "BEETOISE",
+    "value": "龟蝟"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectbeetoise/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectiguarmor/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectiguarmor/options/1/0",
+    "raw": "IGUARMOR",
+    "value": "武装蜥蜴"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectiguarmor/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectoculob/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectoculob/options/1/0",
+    "raw": "OCULOB",
+    "value": "眼垂体"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectoculob/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectpulpin/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectpulpin/options/1/0",
+    "raw": "PULPIN",
+    "value": "噗丁（布丁怪）"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectpulpin/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectsnaggler/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectsnaggler/options/1/0",
+    "raw": "SNAGGLER",
+    "value": "窃甲蜗"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectsnaggler/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselecttintic/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselecttintic/options/1/0",
+    "raw": "TINTIC",
+    "value": "马口铁蜘蛛"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselecttintic/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectsluirm/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectsluirm/options/1/0",
+    "raw": "SLUIRM",
+    "value": "斯鲁瑞姆蛞蝓"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectsluirm/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectshnail/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectshnail/options/1/0",
+    "raw": "SHNAIL",
+    "value": "史耐尔鲍"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectshnail/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectend/options/0/0",
+    "raw": "BACK",
+    "value": "返回"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectend/options/1/0",
+    "raw": "MENU",
+    "value": "主界面"
+  },
+  {
+    "op": "replace",
+    "path": "/scenes/crawlingselectend/options/2/0",
+    "raw": "NEXT",
+    "value": "下一页"
+  }
+]

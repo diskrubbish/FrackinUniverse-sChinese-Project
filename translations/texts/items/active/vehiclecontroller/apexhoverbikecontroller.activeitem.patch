@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Stores a sleek transport vehicle designed by Apex scientists.",
+    "value": "其内储存有由猿人科学家设计的时尚交通工具。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Apex Hoverbike",
+    "value": "猿族悬浮车"
+  }
+]

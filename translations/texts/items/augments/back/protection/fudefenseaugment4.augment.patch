@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "An EPP module that multiplies Defense by 1.15.",
+    "value": "一个让防御x1.15的EPP模块。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kinetic Field IV",
+    "value": "EPP模块（动能力场 IV）"
+  },
+  {
+    "op": "replace",
+    "path": "/augment/displayName",
+    "raw": "Kinetic Field IV",
+    "value": "EPP模块（动能力场 IV）"
+  }
+]

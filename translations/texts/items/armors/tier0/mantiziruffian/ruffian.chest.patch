@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Thick gloves and little else. Gives +^green;5^reset;% Damage.",
+    "value": "厚厚的手套和少量的其他东西。+^green;5^reset;%伤害。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ruffian Gloves",
+    "value": "痞子上衣"
+  }
+]

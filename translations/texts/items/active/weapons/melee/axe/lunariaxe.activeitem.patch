@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Jagged edge. Endless fun.",
+    "value": "锯齿状的边缘。无尽的欢乐。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Lunari Hatchet",
+    "value": "月晶短柄斧"
+  }
+]

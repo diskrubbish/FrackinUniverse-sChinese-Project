@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This unusual mineral formation keeps whispering your name, as if intimate with you.",
+    "value": "这种不寻常的矿物质结构一直在低声呼唤着你的名字，仿佛与你亲密无间。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Whispering Crystal",
+    "value": "低语水晶"
+  }
+]

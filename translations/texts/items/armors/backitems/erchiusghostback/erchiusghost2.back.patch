@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Provides an ^orange;air supply^reset;, ^cyan;Ghost Immunity^reset; and a ^#b72ebc;bright purple glow^reset;. No penalty.",
+    "value": "提供^orange;氧气供给^reset;，^#e43774;幽灵免疫^reset;和^#b72ebc;明亮的紫色光源^reset;。没有惩罚。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Erchius Bro",
+    "value": "厄尔吉斯兄弟"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ecto Slime",
+    "value": "胞膜史莱姆"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "It's all sticky and warm...ew.",
+    "value": "这一切都粘稠和温暖...嗯。"
+  }
+]

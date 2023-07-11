@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Strong photosynthetic ability means a hardy plant.",
+    "value": "更强的光合能力造就了更能忍耐的植物。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Chloroplast Boost",
+    "value": "叶绿素基因"
+  }
+]

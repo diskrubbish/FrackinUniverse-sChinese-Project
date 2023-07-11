@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A heavy blade made of junk.",
+    "value": "用废料制造的武器。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Junk Blade",
+    "value": "废料宽剑"
+  }
+]

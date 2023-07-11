@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This tastes !@#!$!%! amazing! ^green;Type: Sugar^reset;",
+    "value": "这玩意儿真是!@#!$!%！美味到极点！\n^green;类型：甜食^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Better Chocolate",
+    "value": "更好味的巧克力"
+  }
+]

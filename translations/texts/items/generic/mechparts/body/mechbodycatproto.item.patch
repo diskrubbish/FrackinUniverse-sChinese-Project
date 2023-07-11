@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^cyan;Immune^reset;: Tropical/Desert Heat, Mild Poison, Chill",
+    "value": "^cyan;免疫^reset;：热带/沙漠炎热，轻度毒素，冰面"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Orb Mech Body",
+    "value": "圆球机甲躯体"
+  }
+]
