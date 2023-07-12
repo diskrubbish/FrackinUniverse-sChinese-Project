@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/particleEmitters/cantheal/particles/0/particle/text",
     "raw": "+",
-    "value": ""
+    "value": "+"
   },
   {
     "op": "replace",
     "path": "/particleEmitters/cantheal2/particles/0/particle/text",
     "raw": "^green;+",
-    "value": ""
+    "value": "^green;+"
   }
 ]

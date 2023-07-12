@@ -45,6 +45,6 @@
     "op": "replace",
     "path": "/gui/lblDate/value",
     "raw": "%stardate%",
-    "value": ""
+    "value": "%stardate%"
   }
 ]

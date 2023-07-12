@@ -303,7 +303,7 @@
     "op": "replace",
     "path": "/shoggothmission20/text",
     "raw": "ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn!",
-    "value": ""
+    "value": "ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn!"
   },
   {
     "op": "replace",
@@ -315,7 +315,7 @@
     "op": "replace",
     "path": "/shoggothmission21/text",
     "raw": "Lagash ni'mofghek Shoggoth! IA! IA! IA!",
-    "value": ""
+    "value": "Lagash ni'mofghek Shoggoth! IA! IA! IA!"
   },
   {
     "op": "replace",

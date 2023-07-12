@@ -27,7 +27,7 @@
     "op": "replace",
     "path": "/gui/windowTitle/value",
     "raw": "S.A.I.L",
-    "value": ""
+    "value": "S.A.I.L"
   },
   {
     "op": "replace",
@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/gui/path/value",
     "raw": "root/sail/ui/intro",
-    "value": ""
+    "value": "root/sail/ui/intro"
   },
   {
     "op": "replace",

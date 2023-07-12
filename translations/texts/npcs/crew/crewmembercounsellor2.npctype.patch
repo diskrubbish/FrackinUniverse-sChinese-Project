@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Reassuring. Tell me your problems and I'll help soothe your worries. With science!",
-    "value": ""
+    "value": "宽心。 告诉我你的问题，我会帮助你消除烦恼。用科学！"
   },
   {
     "op": "replace",
@@ -69,25 +69,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/0",
     "raw": "Sympathetic. Tell me what you're feeling.",
-    "value": ""
+    "value": "同情。 告诉我你的感受。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/1",
     "raw": "Tender. If you don't share your problems, I cannot help you.",
-    "value": ""
+    "value": "体贴。 如果你不分享你的问题，我也爱莫能助。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/2",
     "raw": "Casual. Have you seen a bearded, sexy commander lately? I'm asking for a friend.",
-    "value": ""
+    "value": "马虎 你最近有没有看到一个留着胡子的性感指挥官？我在找一个朋友。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/3",
     "raw": "Reassuring. This isn't the first time I've been exposed to this, it's okay to open up.",
-    "value": ""
+    "value": "宽心。 这已经不是我第一次面对这种情况了，敞开心扉吧。"
   },
   {
     "op": "replace",
@@ -141,25 +141,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Sympathetic. Tell me what you're feeling.",
-    "value": ""
+    "value": "同情。 告诉我你的感受。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
     "raw": "Tender. If you don't share your problems, I cannot help you.",
-    "value": ""
+    "value": "体贴。 如果你不分享你的问题，我也爱莫能助。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
     "raw": "Casual. Have you seen a bearded, sexy commander lately? I'm asking for a friend.",
-    "value": ""
+    "value": "马虎 你最近有没有看到一个留着胡子的性感指挥官？我在找一个朋友。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
     "raw": "Reassuring. This isn't the first time I've been exposed to this, it's okay to open up.",
-    "value": ""
+    "value": "宽心。 这已经不是我第一次面对这种情况了，敞开心扉吧。"
   },
   {
     "op": "replace",

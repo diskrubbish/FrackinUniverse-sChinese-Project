@@ -81,7 +81,7 @@
     "op": "replace",
     "path": "/beacon/juux/default/0",
     "raw": "...?",
-    "value": ""
+    "value": "...?"
   },
   {
     "op": "replace",
@@ -333,7 +333,7 @@
     "op": "replace",
     "path": "/rent/juux/default/0",
     "raw": "...",
-    "value": ""
+    "value": "..."
   },
   {
     "op": "replace",
@@ -477,6 +477,6 @@
     "op": "replace",
     "path": "/rent/shadow/default/0",
     "raw": "...",
-    "value": ""
+    "value": "..."
   }
 ]

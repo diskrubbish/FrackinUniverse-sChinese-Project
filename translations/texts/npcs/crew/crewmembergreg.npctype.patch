@@ -303,13 +303,13 @@
     "op": "replace",
     "path": "/npcname",
     "raw": "Greg",
-    "value": ""
+    "value": "Greg"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/crew/role/name",
     "raw": "Greg",
-    "value": ""
+    "value": "Greg"
   },
   {
     "op": "replace",

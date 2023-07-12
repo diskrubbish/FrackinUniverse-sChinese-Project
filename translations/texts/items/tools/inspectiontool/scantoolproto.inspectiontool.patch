@@ -87,43 +87,43 @@
     "op": "replace",
     "path": "/outOfRangeText/glitch/0",
     "raw": "Disappointed. This hardware's sensors are insufficient to analyze that position from here.",
-    "value": ""
+    "value": "失望的。 该硬件的传感器不足以分析该位置。"
   },
   {
     "op": "replace",
     "path": "/outOfRangeText/glitch/1",
     "raw": "Puzzled. I cannot seem to get a reading; perhaps I should get closer.",
-    "value": ""
+    "value": "困惑。 我似乎无法读数; 也许我应该靠近。"
   },
   {
     "op": "replace",
     "path": "/outOfRangeText/glitch/2",
     "raw": "Frustrated. The signal is too faint to make out, I believe I'm out of range.",
-    "value": ""
+    "value": "沮丧。 信号太微弱，无法读数，我觉得我超出了范围。"
   },
   {
     "op": "replace",
     "path": "/outOfRangeText/glitch/3",
     "raw": "Irked. It must be out of range, I cannot get a reading.",
-    "value": ""
+    "value": "激怒。 它肯定超出了范围，我无法获得读数。"
   },
   {
     "op": "replace",
     "path": "/outOfRangeText/shadow/0",
     "raw": "...?",
-    "value": ""
+    "value": "...?"
   },
   {
     "op": "replace",
     "path": "/outOfRangeText/shadow/1",
     "raw": ".....",
-    "value": ""
+    "value": "....."
   },
   {
     "op": "replace",
     "path": "/outOfRangeText/shadow/2",
     "raw": "...? ...",
-    "value": ""
+    "value": "...? ..."
   },
   {
     "op": "replace",
@@ -225,43 +225,43 @@
     "op": "replace",
     "path": "/nothingThereText/glitch/0",
     "raw": "Unimpressed. Nothing of interest here.",
-    "value": ""
+    "value": "不为所动。 没啥兴趣。"
   },
   {
     "op": "replace",
     "path": "/nothingThereText/glitch/1",
     "raw": "Neutral. There is nothing there.",
-    "value": ""
+    "value": "中立。 那里什么都没有。"
   },
   {
     "op": "replace",
     "path": "/nothingThereText/glitch/2",
     "raw": "Disappointed. Nothing there to scan.",
-    "value": ""
+    "value": "失望的。 没有什么可以扫描。"
   },
   {
     "op": "replace",
     "path": "/nothingThereText/glitch/3",
     "raw": "Disinterested. This isn't really anything.",
-    "value": ""
+    "value": "无私的 这不是真的。"
   },
   {
     "op": "replace",
     "path": "/nothingThereText/shadow/0",
     "raw": "...?",
-    "value": ""
+    "value": "...?"
   },
   {
     "op": "replace",
     "path": "/nothingThereText/shadow/1",
     "raw": ".....",
-    "value": ""
+    "value": "....."
   },
   {
     "op": "replace",
     "path": "/nothingThereText/shadow/2",
     "raw": "...? ...",
-    "value": ""
+    "value": "...? ..."
   },
   {
     "op": "replace",

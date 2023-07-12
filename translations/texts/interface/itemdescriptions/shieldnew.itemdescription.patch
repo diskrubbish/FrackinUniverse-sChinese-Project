@@ -33,12 +33,12 @@
     "op": "replace",
     "path": "/hp2Label/value",
     "raw": "%",
-    "value": ""
+    "value": "%"
   },
   {
     "op": "replace",
     "path": "/energy2Label/value",
     "raw": "%",
-    "value": ""
+    "value": "%"
   }
 ]

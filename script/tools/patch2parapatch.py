@@ -9,7 +9,7 @@ from os.path import normpath as normpath_old
 def normpath(path):
         return normpath_old(path).replace('\\', '/')
 file_dir = "F:/workplace/FrackinUniverse-sChinese-Project/translations/texts"
-patch_dir = "F:/workplace/FrackinUniverse-sChinese-Project/mods"
+patch_dir = "F:/Fu Schinese"
 for path, d, filelist in walk(file_dir):
     for thefile in filelist:
         if thefile in ["substitutions.json", "totallabels.json", "translatedlabels.json", "patch_substitutions.json", "parse_problem.txt", "_metadata", "_previewimage"]:

@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Observation. An /'XOR'/ gate. Requires an odd number of inputs to be on, and the rest off.",
-    "value": ""
+    "value": "观察。 一个异或门。需要接入奇数的输入节点才能激活/ON/。"
   },
   {
     "op": "replace",

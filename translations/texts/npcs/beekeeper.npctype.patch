@@ -21,37 +21,37 @@
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpme/glitch/0",
     "raw": "Fear. Guards! Help me!",
-    "value": ""
+    "value": "害怕。 守卫！快来帮我！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpme/glitch/1",
     "raw": "Intimidated. Please don't hurt me!",
-    "value": ""
+    "value": "恐吓。 请不要伤害我！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpme/glitch/2",
     "raw": "Abused. Guards! I've been accosted!",
-    "value": ""
+    "value": "虐待。 守卫！我已经事先提醒你了！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpme/glitch/3",
     "raw": "Afraid. Get away from me! Guards!",
-    "value": ""
+    "value": "害怕。 离我远点！卫兵！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpme/glitch/4",
     "raw": "Terrified. Save me!",
-    "value": ""
+    "value": "吓坏了。 救救我！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpme/glitch/5",
     "raw": "Shocked. No! Get away from me!",
-    "value": ""
+    "value": "震惊。 别靠近我！离我远点！"
   },
   {
     "op": "replace",
@@ -87,37 +87,37 @@
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpthem/glitch/0",
     "raw": "Fear. Guards!",
-    "value": ""
+    "value": "害怕。 守卫！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpthem/glitch/1",
     "raw": "Intimidated. Please don't hurt me!",
-    "value": ""
+    "value": "恐吓。 请不要伤害我！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpthem/glitch/2",
     "raw": "Afraid. Leave me be! Guards!",
-    "value": ""
+    "value": "害怕。 离我远点！卫兵！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpthem/glitch/3",
     "raw": "Terrified. Save me!",
-    "value": ""
+    "value": "吓坏了。 救救我！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpthem/glitch/4",
     "raw": "Shocked. What have you done?!",
-    "value": ""
+    "value": "震惊。 你到底做了什么？！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpthem/glitch/5",
     "raw": "Righteous. I will write an electronic letter in protest!",
-    "value": ""
+    "value": "正直。 我会提交一封电子信以示我的抗议！"
   },
   {
     "op": "replace",
@@ -171,25 +171,25 @@
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/encourage/glitch/0",
     "raw": "Encourage. Put 'em to the sword!",
-    "value": ""
+    "value": "鼓励。 快把武器放下！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/encourage/glitch/1",
     "raw": "Excitement. Avenge me!",
-    "value": ""
+    "value": "激动。 记得给我报仇！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/encourage/glitch/2",
     "raw": "Aggressive. Strike him down!",
-    "value": ""
+    "value": "攻击。 打倒他！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/encourage/glitch/3",
     "raw": "Vengeful. Don't let 'em get away!",
-    "value": ""
+    "value": "报复。 不要让他们离开！"
   },
   {
     "op": "replace",
@@ -237,31 +237,31 @@
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/glitch/0",
     "raw": "Relieved. Phew, I think I got away.",
-    "value": ""
+    "value": "宽慰。 *反感*，我想我该走了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/glitch/1",
     "raw": "Thankful. I've escaped with my life!",
-    "value": ""
+    "value": "感激。 我不想回到以前的日子！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/glitch/2",
     "raw": "Wishful. If only I could afford a keep.",
-    "value": ""
+    "value": "热切。 如果只有我能承受的话。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/glitch/3",
     "raw": "Hopeful. Am I safe?",
-    "value": ""
+    "value": "充满希望。 我安全了？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/glitch/4",
     "raw": "Embarrassed. I think I leaked a little oil.",
-    "value": ""
+    "value": "尴尬。 我想我漏油了。"
   },
   {
     "op": "replace",

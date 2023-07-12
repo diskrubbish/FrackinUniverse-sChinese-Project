@@ -27,13 +27,13 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Bored. I'm <selfname>... The janitor.",
-    "value": ""
+    "value": "无聊。 我是<selfname>...一个清洁工。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
     "raw": "Underwhelmed. A job is a job, but still...",
-    "value": ""
+    "value": "不感兴趣。 工作就是工作，但还是..."
   },
   {
     "op": "replace",

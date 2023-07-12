@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/greeting/elduukhar/default/0",
     "raw": "Greetings, friend.",
-    "value": ""
+    "value": "你好，朋友。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/converse/elduukhar/default/0",
     "raw": "Hello there.",
-    "value": ""
+    "value": "你好。"
   },
   {
     "op": "replace",
@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/converse/elduukhar/glitch/0",
     "raw": "I promise I won't set fire to your castle.",
-    "value": ""
+    "value": "我保证不会放火烧你的城堡。"
   },
   {
     "op": "replace",

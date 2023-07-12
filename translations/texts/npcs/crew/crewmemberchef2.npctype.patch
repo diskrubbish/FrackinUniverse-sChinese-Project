@@ -51,25 +51,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Eager. I can help you out with a fine delicacy.",
-    "value": ""
+    "value": "渴望。 我可以帮你做很多好吃的。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
     "raw": "Excited. Perhaps you could do with a hot meal?",
-    "value": ""
+    "value": "兴奋。 或许你可以吃点我做的热腾腾的料理？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
     "raw": "Intrigued. I wonder if this delicious nourishment will help you?",
-    "value": ""
+    "value": "感兴趣。 我会严格按照能量配对，给你最适合的食材搭配。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
     "raw": "Helpful. Take this, it will help keep you fed!",
-    "value": ""
+    "value": "乐于助人。 给，这样你就勿需担心饥饿的问题了！"
   },
   {
     "op": "replace",

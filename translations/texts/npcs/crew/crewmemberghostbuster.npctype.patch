@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Helpful. I'll fill your tanks with ectoplasm whenever we're on the ship!",
-    "value": ""
+    "value": "乐于助人。 每当我们在船上时，我都会用种质填充你的油箱！"
   },
   {
     "op": "replace",
@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Excited. We've got one!",
-    "value": ""
+    "value": "兴奋。 我们抓到一个了！"
   },
   {
     "op": "replace",
@@ -51,7 +51,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/0",
     "raw": "Excited. We've got one!",
-    "value": ""
+    "value": "兴奋。 我们抓到一个了！"
   },
   {
     "op": "replace",

@@ -219,37 +219,37 @@
     "op": "replace",
     "path": "/gui/inputSlotCount/regex",
     "raw": "^$|(^[1-9][0-9]{0,2}$)",
-    "value": ""
+    "value": "^$|(^[1-9][0-9]{0,2}$)"
   },
   {
     "op": "replace",
     "path": "/gui/inputSlotCount/hint",
     "raw": "---",
-    "value": ""
+    "value": "---"
   },
   {
     "op": "replace",
     "path": "/gui/outputSlotCount/regex",
     "raw": "^$|(^[1-9][0-9]{0,2}$)",
-    "value": ""
+    "value": "^$|(^[1-9][0-9]{0,2}$)"
   },
   {
     "op": "replace",
     "path": "/gui/outputSlotCount/hint",
     "raw": "---",
-    "value": ""
+    "value": "---"
   },
   {
     "op": "replace",
     "path": "/gui/inputSlotScrollArea/children/inputSlotList/schema/listTemplate/slotNr/value",
     "raw": "0-999",
-    "value": ""
+    "value": "0-999"
   },
   {
     "op": "replace",
     "path": "/gui/outputSlotScrollArea/children/outputSlotList/schema/listTemplate/slotNr/value",
     "raw": "0-999",
-    "value": ""
+    "value": "0-999"
   },
   {
     "op": "replace",

@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/charCreationTooltip/title",
     "raw": "fuphotonpoptop",
-    "value": ""
+    "value": "fuphotonpoptop"
   },
   {
     "op": "replace",
     "path": "/charCreationTooltip/subTitle",
     "raw": "awwwwwwwww",
-    "value": ""
+    "value": "awwwwwwwww"
   },
   {
     "op": "replace",
@@ -75,7 +75,7 @@
     "op": "replace",
     "path": "/charGenTextLabels/10",
     "raw": "HUMAN",
-    "value": ""
+    "value": "HUMAN"
   },
   {
     "op": "replace",

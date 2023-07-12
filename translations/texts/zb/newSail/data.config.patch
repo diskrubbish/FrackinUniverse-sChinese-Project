@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/GUI/title",
     "raw": "S.A.I.L",
-    "value": ""
+    "value": "S.A.I.L"
   },
   {
     "op": "replace",
@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/Speech/shipStatus/0/text",
     "raw": "Zzz... Zzz... Zzz...",
-    "value": ""
+    "value": "Zzz... Zzz... Zzz..."
   },
   {
     "op": "replace",

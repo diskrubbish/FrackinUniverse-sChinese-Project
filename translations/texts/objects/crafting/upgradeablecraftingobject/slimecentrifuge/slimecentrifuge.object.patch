@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
     "raw": "Confused. The Glitch don't know the purpose of these Biochemist tables.",
-    "value": ""
+    "value": "迷糊。 电子人不知道生化工作台的用途。"
   },
   {
     "op": "replace",
@@ -117,7 +117,7 @@
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
     "raw": "Eager. I can make titanium equipment and more here.",
-    "value": ""
+    "value": "渴望。 我可以在这里制造钛制装备或者其他东西。"
   },
   {
     "op": "replace",
@@ -189,7 +189,7 @@
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
     "raw": "Neutral. I can make equipment and more with this.",
-    "value": ""
+    "value": "中立。 我可以用这个制造装备和更多的东西。"
   },
   {
     "op": "replace",

@@ -9,18 +9,18 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/0",
     "raw": "Cryptic. I owe you nothing but an arrow through the eye.",
-    "value": ""
+    "value": "言外之意。 我什么都不欠你的。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/1",
     "raw": "Menacing. Stay back, or I'll put one through your knee!",
-    "value": ""
+    "value": "威胁。 别动，否则你的膝盖就会被射中！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/2",
     "raw": "Grim. One shot, intruder. That's all I'll need.",
-    "value": ""
+    "value": "严肃。 武器，入侵者，我所需要的是武器。"
   }
 ]

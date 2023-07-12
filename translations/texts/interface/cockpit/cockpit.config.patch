@@ -63,19 +63,19 @@
     "op": "replace",
     "path": "/gui/coordinatesFrame/children/xLabel/value",
     "raw": "X",
-    "value": ""
+    "value": "X"
   },
   {
     "op": "replace",
     "path": "/gui/coordinatesFrame/children/yLabel/value",
     "raw": "Y",
-    "value": ""
+    "value": "Y"
   },
   {
     "op": "replace",
     "path": "/gui/coordinatesFrame/children/go/caption",
     "raw": "GO",
-    "value": ""
+    "value": "GO"
   },
   {
     "op": "replace",
@@ -141,7 +141,7 @@
     "op": "replace",
     "path": "/gui/editBookmarkFrame/children/name/regex",
     "raw": "[a-zA-Z0-9 '-?!.]{0,28}",
-    "value": ""
+    "value": "[a-zA-Z0-9 '-?!.]{0,28}"
   },
   {
     "op": "replace",
@@ -153,13 +153,13 @@
     "op": "replace",
     "path": "/gui/coordinatesFrame/children/x/regex",
     "raw": "-?[0-9]{0,10}",
-    "value": ""
+    "value": "-?[0-9]{0,10}"
   },
   {
     "op": "replace",
     "path": "/gui/coordinatesFrame/children/y/regex",
     "raw": "-?[0-9]{0,10}",
-    "value": ""
+    "value": "-?[0-9]{0,10}"
   },
   {
     "op": "replace",

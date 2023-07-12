@@ -27,13 +27,13 @@
     "op": "replace",
     "path": "/states/frackinShipChoice/text",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",
     "path": "/states/frackinShipPreview/text",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/states/frackinShipChosen/text",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",
@@ -57,7 +57,7 @@
     "op": "replace",
     "path": "/states/vanillaShipChosen/text",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",
@@ -75,7 +75,7 @@
     "op": "replace",
     "path": "/states/repairsSkipped/text",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",
@@ -135,7 +135,7 @@
     "op": "replace",
     "path": "/gui/windowTitle/value",
     "raw": "S.A.I.L",
-    "value": ""
+    "value": "S.A.I.L"
   },
   {
     "op": "replace",
@@ -147,7 +147,7 @@
     "op": "replace",
     "path": "/gui/path/value",
     "raw": "root/sail/ui/replaceship",
-    "value": ""
+    "value": "root/sail/ui/replaceship"
   },
   {
     "op": "replace",

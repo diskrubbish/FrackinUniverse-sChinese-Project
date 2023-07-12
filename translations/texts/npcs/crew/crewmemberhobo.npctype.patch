@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Statement. My booze can help fuel your ship. It is super good.",
-    "value": ""
+    "value": "声明。 我的酒可以帮到你的船！"
   },
   {
     "op": "replace",
@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Eager. Have some carbonated alcoholic beverage. This is not optional.",
-    "value": ""
+    "value": "渴望。 碳酸酒精饮料？这种可算不上酒。"
   },
   {
     "op": "replace",

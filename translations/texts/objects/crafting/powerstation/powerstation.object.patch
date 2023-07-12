@@ -27,13 +27,13 @@
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",
@@ -63,13 +63,13 @@
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",

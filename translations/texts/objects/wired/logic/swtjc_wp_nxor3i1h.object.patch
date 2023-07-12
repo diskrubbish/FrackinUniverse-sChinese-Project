@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Observation. A /'NXOR'/ gate. Remains on unless exactly 1 input is on, and the rest off.",
-    "value": ""
+    "value": "观察。 一个同或门。需要接入一个输入节点才能激活/ON/。"
   }
 ]

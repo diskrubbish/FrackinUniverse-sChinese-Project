@@ -27,7 +27,7 @@ try:
 except:
     para_api = None
 
-root_dir = "/workplace/FrackinUniverse/"
+root_dir = "F:/FrackinUniverse"
 prefix = "/workplace/FrackinUniverse-sChinese-Project/translations/"
 patch_serialization = {
     "craftingmedical.object.patch": {'upgradeStages':{"index": 2, "increase":False}},

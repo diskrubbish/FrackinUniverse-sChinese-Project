@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Boastful. I am personally acquanted with Shamu, you know.",
-    "value": ""
+    "value": "自夸。 你知道，我个人很喜欢杀人鲸。"
   },
   {
     "op": "replace",
@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Mocking. Afraid of a little dip?",
-    "value": ""
+    "value": "嘲笑。 害怕稍稍的浸水吗？"
   },
   {
     "op": "replace",

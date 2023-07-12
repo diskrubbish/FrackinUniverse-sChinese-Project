@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "S.A.I.L",
-    "value": ""
+    "value": "S.A.I.L"
   },
   {
     "op": "replace",
@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Statement. Rebooting this tech station should repair communication with my ship AI.",
-    "value": ""
+    "value": "声明。 重启一下这个科技站，应该就能使我和我的飞船AI恢复沟通。"
   },
   {
     "op": "replace",

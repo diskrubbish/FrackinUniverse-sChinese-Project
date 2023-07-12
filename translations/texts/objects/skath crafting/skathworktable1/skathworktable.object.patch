@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Impressed. This table can be used to craft both farming supplies and furniture.",
-    "value": ""
+    "value": "印象深刻。 这张桌子可以用来制作家具和农具。"
   },
   {
     "op": "replace",
@@ -93,7 +93,7 @@
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/glitchDescription",
     "raw": "Impressed. This table can be used to craft both farming supplies and furniture.",
-    "value": ""
+    "value": "印象深刻。 这张桌子可以用来制作家具和农具。"
   },
   {
     "op": "replace",
@@ -165,7 +165,7 @@
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/glitchDescription",
     "raw": "Impressed. The arm mounted on this workbench seems to assist in crafting.",
-    "value": ""
+    "value": "印象深刻。 安装在桌子上的手臂似乎有助于制作。"
   },
   {
     "op": "replace",

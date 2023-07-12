@@ -51,19 +51,19 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/0",
     "raw": "Cheery. We've got a special on coffee today... And everyday too, for that matter!",
-    "value": ""
+    "value": "愉快。 我们今天有特价咖啡...每一天都是如此，就是这样！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/1",
     "raw": "Nervous. Will that be a short, a tall, a grande, a venti, or a... Frustrated. Oh no, I've lost track again...",
-    "value": ""
+    "value": "神经紧张。 你要小杯的，中杯的，大杯的，超大杯的，还是...悲伤。哦，不，我又忘了..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/2",
     "raw": "Cordial. Right then, what can I brew for you today?",
-    "value": ""
+    "value": "亲切。 那么，我今天能为你酿点什么呢？"
   },
   {
     "op": "replace",
@@ -147,19 +147,19 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/glitch/default/0",
     "raw": "Hospitable. Please do come in!",
-    "value": ""
+    "value": "好客的。 请进！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/glitch/default/1",
     "raw": "Assured. Ours is a quality brew, I assure you.",
-    "value": ""
+    "value": "保证。 我们的啤酒足够带劲，我向你保证。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/glitch/default/2",
     "raw": "Welcoming. Oh! A patron!",
-    "value": ""
+    "value": "欢迎。 哦！赞助人！"
   },
   {
     "op": "replace",
@@ -225,7 +225,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/glitch/default/0",
     "raw": "Desperate. Don't forget to review us online!",
-    "value": ""
+    "value": "绝望的。 别忘了在网上评论我们！"
   },
   {
     "op": "replace",

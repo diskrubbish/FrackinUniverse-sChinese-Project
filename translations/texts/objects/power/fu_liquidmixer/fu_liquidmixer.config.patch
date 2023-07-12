@@ -15,12 +15,12 @@
     "op": "replace",
     "path": "/gui/label1/value",
     "raw": "1",
-    "value": ""
+    "value": "1"
   },
   {
     "op": "replace",
     "path": "/gui/label2/value",
     "raw": "2",
-    "value": ""
+    "value": "2"
   }
 ]

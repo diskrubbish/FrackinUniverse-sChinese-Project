@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Observation. Stops transmitting signals for 2 seconds whenever it becomes active.",
-    "value": ""
+    "value": "观察。 当激活时会让脉冲信号中断2s。"
   }
 ]

@@ -3,30 +3,30 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "raw": "!!!",
-    "value": ""
+    "value": "!!!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/1",
     "raw": ">=(",
-    "value": ""
+    "value": ">=("
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/2",
     "raw": "-_-",
-    "value": ""
+    "value": "-_-"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/3",
     "raw": "0_o",
-    "value": ""
+    "value": "0_o"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/4",
     "raw": ":3",
-    "value": ""
+    "value": ":3"
   }
 ]

@@ -111,31 +111,31 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/0",
     "raw": "Affable. All your cooking needs, right here.",
-    "value": ""
+    "value": "和蔼可亲的。 这是你需要准备烹饪材料。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/1",
     "raw": "Confident. My produce is of excellent quality!",
-    "value": ""
+    "value": "自信。 我的产品质量上乘！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/2",
     "raw": "Friendly. If you're hungry, you have come to the right person.",
-    "value": ""
+    "value": "友好。 如果你饿了，那你可找对人了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/3",
     "raw": "Genial. Best produce around! What can I get you?",
-    "value": ""
+    "value": "和煦。 最棒的产品！您要点什么？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/4",
     "raw": "Proud. Glitch grow the best produce.",
-    "value": ""
+    "value": "骄傲。 我们可以创造出最棒的食物。"
   },
   {
     "op": "replace",
@@ -285,19 +285,19 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/glitch/default/0",
     "raw": "Happy. Come back any time.",
-    "value": ""
+    "value": "开心。 欢迎你随时回来。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/glitch/default/1",
     "raw": "Encouraging. Go forth and become hungry.",
-    "value": ""
+    "value": "激励。 走着走着就饿了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/glitch/default/2",
     "raw": "Pleased. I'm sure you will enjoy that.",
-    "value": ""
+    "value": "很高兴。 我相信你会喜欢的。"
   },
   {
     "op": "replace",

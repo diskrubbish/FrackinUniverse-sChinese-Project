@@ -144,5 +144,5 @@ def import_memory_para(path, memory_file,glitch=False,show_fname=False):
 
 #export_memory_para("/workplace/StarBound_Mods_SChinese_Project/text/SChinese_para/raw","/workplace/StarBound_Mods_SChinese_Project/text/SChinese_para/memory.json")
 #export_memory("F:/workplace/FFS-sChinese-Project/translations","F:/workplace/StarBound_Mods_SChinese_Project/text/FFS/memory.json")
-#import_memory_para("/workplace/StarBound_Mods_SChinese_Project/text/StardustLib/raw","/workplace/StarBound_Mods_SChinese_Project/text/SChinese_para/memory.json")
+#import_memory_para("/workplace/FrackinUniverse-sChinese-Project/translations/texts","F:/workplace/FrackinUniverse-sChinese-Project/memory.json")
 #import_memory("F:/workplace/FrackinUniverse-sChinese-Project/translations","F:/workplace/FrackinUniverse-sChinese-Project-50f2f901921bf33addce960a95b157e379309e66/memory.json")

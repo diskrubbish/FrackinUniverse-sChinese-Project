@@ -51,7 +51,7 @@
     "op": "replace",
     "path": "/paneLayout/labelPortrait/value",
     "raw": "HUMAN",
-    "value": ""
+    "value": "HUMAN"
   },
   {
     "op": "replace",
@@ -111,7 +111,7 @@
     "op": "replace",
     "path": "/paneLayout/name/regex",
     "raw": "[a-zA-Z0-9 '-]{0,16}",
-    "value": ""
+    "value": "[a-zA-Z0-9 '-]{0,16}"
   },
   {
     "op": "replace",

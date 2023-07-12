@@ -111,19 +111,19 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
     "raw": "Excited. Can I join you in the stars? I have skills that could help you!",
-    "value": ""
+    "value": "兴奋。 我可以成为你的船员吗？我可以帮到你！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
     "raw": "Desperate. A life among the stars is the one for me. Please, can I join your crew?",
-    "value": ""
+    "value": "绝望的。 我向往星际间的生活，请问，我可以成为你的船员吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
     "raw": "Eager. I'm a very useful person! Can I join you?",
-    "value": ""
+    "value": "渴望。 我是一个非常有用的人！我可以加入你的队伍吗？"
   },
   {
     "op": "replace",
@@ -261,25 +261,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Statement. My tough-as-nails training will protect you from jungles.",
-    "value": ""
+    "value": "声明。 我所受过的丛林训练可以让你不受丛林环境的干扰。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
     "raw": "Eager. Let's find the enemy! This terrain is not even a bother to us!",
-    "value": ""
+    "value": "渴望。 让我们找出对我们不利的家伙吧，这里我们将如履平地！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
     "raw": "Boastful. I'll help us to prowl the jungle unhindered!",
-    "value": ""
+    "value": "自夸。 我能够帮助你更便捷地探索丛林！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
     "raw": "Proud. Mud? Clay? Hah. Walk on through.",
-    "value": ""
+    "value": "骄傲。 泥？黏土？哈哈，直接走过去。"
   },
   {
     "op": "replace",
@@ -381,25 +381,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Gallant. I'll be here if you need a warrior to defend you!",
-    "value": ""
+    "value": "勇敢。 如果你需要人保护你，请随时吩咐，我会一直在这里的。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
     "raw": "Brave. If you need assistance on your travels, I will be here.",
-    "value": ""
+    "value": "勇敢。 如果你需要探索之类的帮助，我会在这里等着你。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
     "raw": "Stalwart. I can always lend you my sword and skill in battle, should you need it.",
-    "value": ""
+    "value": "坚定。 如果你需要，我可以随时帮助你战斗！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3",
     "raw": "Eager. If you need someone to help you fight, I shall be here waiting!",
-    "value": ""
+    "value": "渴望。 如果你需要人帮你打架，请随时吩咐！"
   },
   {
     "op": "replace",
@@ -495,31 +495,31 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/0",
     "raw": "Dazed. Was I dead?",
-    "value": ""
+    "value": "茫然。 难道我刚才死了？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/1",
     "raw": "Relieved. I'm back!",
-    "value": ""
+    "value": "宽慰。 我又复活了！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/2",
     "raw": "Concerned. I hope I respawned properly. Do I look alright?",
-    "value": ""
+    "value": "关注。 我希望我重生时没有出什么差错，我的脸看上去还好吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/3",
     "raw": "Confused. Was I dead for a little while?",
-    "value": ""
+    "value": "迷糊。 我刚才是不是死了？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/4",
     "raw": "Tired. Respawning is exhausting.",
-    "value": ""
+    "value": "累了。 重生让人疲惫不堪。"
   },
   {
     "op": "replace",
@@ -627,25 +627,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
     "raw": "Obliging. I will remain here for now, then.",
-    "value": ""
+    "value": "乐于助人。 从现在起，我会一直待在这里。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1",
     "raw": "Patient. I can wait here, captain.",
-    "value": ""
+    "value": "耐心。 我会在这里等待你的下一个命令，船长。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2",
     "raw": "Amicable.  I will remain here if you want me to, captain.",
-    "value": ""
+    "value": "友好。 船长，如果你打算让我待在这里，我会无条件地执行你的命令。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3",
     "raw": "Agreeable. I can stay here if you prefer, captain.",
-    "value": ""
+    "value": "愉快。 我会听从你的命令待在这里的，船长。"
   },
   {
     "op": "replace",
@@ -729,25 +729,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/0",
     "raw": "Humble. I shall follow, captain.",
-    "value": ""
+    "value": "谦卑。 我会跟着你的，船长。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/1",
     "raw": "Alert. Shall we go, captain?",
-    "value": ""
+    "value": "提防。 打算去哪里，船长？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/2",
     "raw": "Solemn. Is it time to move, captain?",
-    "value": ""
+    "value": "庄重。 该走了吗？船长。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/3",
     "raw": "Inquisitive. Are we going somewhere?",
-    "value": ""
+    "value": "好奇。 我们要去哪里？"
   },
   {
     "op": "replace",
@@ -825,13 +825,13 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0",
     "raw": "Frustrated. I can't reach you!",
-    "value": ""
+    "value": "沮丧。 我没法跟上你！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1",
     "raw": "Concerned. Wait for me!",
-    "value": ""
+    "value": "关注。 等会儿我！"
   },
   {
     "op": "replace",

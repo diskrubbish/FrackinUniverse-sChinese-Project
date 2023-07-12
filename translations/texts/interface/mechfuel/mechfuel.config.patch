@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/gui/lblModuleCount/value",
     "raw": "^yellow;0 / 0^white;",
-    "value": ""
+    "value": "^yellow;0 / 0^white;"
   },
   {
     "op": "replace",

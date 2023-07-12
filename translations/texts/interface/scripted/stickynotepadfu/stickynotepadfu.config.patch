@@ -27,6 +27,6 @@
     "op": "replace",
     "path": "/gui/writebox/regex",
     "raw": "[\\d\\D ]{0,50}",
-    "value": ""
+    "value": "[\\d\\D ]{0,50}"
   }
 ]

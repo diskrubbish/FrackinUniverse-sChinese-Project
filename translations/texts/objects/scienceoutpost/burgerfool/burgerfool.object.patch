@@ -15,42 +15,42 @@
     "op": "replace",
     "path": "/chatOptions/0",
     "raw": "...",
-    "value": ""
+    "value": "..."
   },
   {
     "op": "replace",
     "path": "/chatOptions/1",
     "raw": ".. ..... ....",
-    "value": ""
+    "value": ".. ..... ...."
   },
   {
     "op": "replace",
     "path": "/chatOptions/2",
     "raw": ".",
-    "value": ""
+    "value": "."
   },
   {
     "op": "replace",
     "path": "/chatOptions/3",
     "raw": ".. ...... ... . . ..... ... .. . ......",
-    "value": ""
+    "value": ".. ...... ... . . ..... ... .. . ......"
   },
   {
     "op": "replace",
     "path": "/chatOptions/4",
     "raw": ".. .. . .... .. . .. .. ..... . .... ............ ..",
-    "value": ""
+    "value": ".. .. . .... .. . .. .. ..... . .... ............ .."
   },
   {
     "op": "replace",
     "path": "/chatOptions/5",
     "raw": "... .",
-    "value": ""
+    "value": "... ."
   },
   {
     "op": "replace",
     "path": "/chatOptions/6",
     "raw": ".. ... .... .. . . . ... .",
-    "value": ""
+    "value": ".. ... .... .. . . . ... ."
   }
 ]

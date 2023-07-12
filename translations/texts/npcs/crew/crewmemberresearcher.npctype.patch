@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Intrigued. Do take me along next time you explore an alien world, won't you?",
-    "value": ""
+    "value": "感兴趣。 下次你探索外星世界的时候，带我一起去吧，好吗？"
   },
   {
     "op": "replace",
@@ -57,25 +57,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Sympathetic. That must have hurt.",
-    "value": ""
+    "value": "同情。 那一定很痛。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
     "raw": "Excited. I can't wait to return to the lab!",
-    "value": ""
+    "value": "兴奋。 我等不及要回实验室了！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
     "raw": "Intrigued. I wonder if I could replicate that?",
-    "value": ""
+    "value": "感兴趣。 我想知道我是否可以复制它？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
     "raw": "Curious. Could you do that again?",
-    "value": ""
+    "value": "奇妙。 你能再来一次吗？"
   },
   {
     "op": "replace",

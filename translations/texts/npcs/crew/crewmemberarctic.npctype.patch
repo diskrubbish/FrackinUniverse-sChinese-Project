@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Friendly. I'll give you an 8% fuel cost reduction whenever we're on the ship!",
-    "value": ""
+    "value": "友好。 当我在船上时，我会降低你8%的燃料消耗！"
   },
   {
     "op": "replace",
@@ -63,25 +63,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Eager. I can help you out!",
-    "value": ""
+    "value": "渴望。 我可以帮到你！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
     "raw": "Excited. Perhaps you could do with a power-up!",
-    "value": ""
+    "value": "兴奋。 或许这样会让你更强大一些！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
     "raw": "Intrigued. I wonder if this will help you?",
-    "value": ""
+    "value": "感兴趣。 这是不是可以帮到你？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
     "raw": "Helpful. Take this, it will help!",
-    "value": ""
+    "value": "乐于助人。 拿着这个，它能帮上你的忙！"
   },
   {
     "op": "replace",

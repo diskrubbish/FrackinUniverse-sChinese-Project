@@ -51,25 +51,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
     "raw": "Annoyed. I'm practicing. What do you want?",
-    "value": ""
+    "value": "恼怒。 我在练习。你想干什么？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
     "raw": "Cool. Wanna form a band, man?",
-    "value": ""
+    "value": "酷 想组建个乐队吗，伙计？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
     "raw": "Passionate. Check out these riffs, mother#$@$#@$@!",
-    "value": ""
+    "value": "激情四射。 听听这些即兴演奏，他娘的#$@$#@$@！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/3",
     "raw": "Proud. I have some pretty sick ideas when it comes to badass licks, man.",
-    "value": ""
+    "value": "骄傲。 我有一些很变态的想法，当它涉及到...，*少儿不宜*。"
   },
   {
     "op": "replace",
@@ -123,7 +123,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
     "raw": "Passionate. I bring the metal.",
-    "value": ""
+    "value": "激情四射。 我带来了金属。"
   },
   {
     "op": "replace",

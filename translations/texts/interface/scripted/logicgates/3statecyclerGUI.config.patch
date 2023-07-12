@@ -51,36 +51,36 @@
     "op": "replace",
     "path": "/gui/inputLeft/regex",
     "raw": "\\d{0,3}",
-    "value": ""
+    "value": "\\d{0,3}"
   },
   {
     "op": "replace",
     "path": "/gui/inputLeft/hint",
     "raw": "---",
-    "value": ""
+    "value": "---"
   },
   {
     "op": "replace",
     "path": "/gui/inputMid/regex",
     "raw": "\\d{0,3}",
-    "value": ""
+    "value": "\\d{0,3}"
   },
   {
     "op": "replace",
     "path": "/gui/inputMid/hint",
     "raw": "---",
-    "value": ""
+    "value": "---"
   },
   {
     "op": "replace",
     "path": "/gui/inputRight/regex",
     "raw": "\\d{0,3}",
-    "value": ""
+    "value": "\\d{0,3}"
   },
   {
     "op": "replace",
     "path": "/gui/inputRight/hint",
     "raw": "---",
-    "value": ""
+    "value": "---"
   }
 ]

@@ -3,43 +3,43 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
     "raw": "Hoom! Hoom hoom shroomboss! Clink clink chop bang?",
-    "value": ""
+    "value": "Hoom! Hoom hoom shroomboss! Clink clink chop bang?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
     "raw": "Hoom haba cantara!",
-    "value": ""
+    "value": "Hoom haba cantara!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
     "raw": "Halhoom nab chop! Carpa!",
-    "value": ""
+    "value": "Halhoom nab chop! Carpa!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
     "raw": "Clink clink! Clink clink mushroom!",
-    "value": ""
+    "value": "Clink clink! Clink clink mushroom!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
     "raw": "Hoom!",
-    "value": ""
+    "value": "Hoom!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
     "raw": "Hoom weepa? Nab!",
-    "value": ""
+    "value": "Hoom weepa? Nab!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
     "raw": "Hoomay mesti, plesta!",
-    "value": ""
+    "value": "Hoomay mesti, plesta!"
   },
   {
     "op": "replace",

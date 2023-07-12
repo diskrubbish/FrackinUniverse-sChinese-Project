@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/definition/text",
     "raw": "^white;$dmg$",
-    "value": ""
+    "value": "^white;$dmg$"
   }
 ]

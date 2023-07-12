@@ -33,25 +33,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
     "raw": "Eager. Hello adventurer, mind if I join you and KICK SOME ASS?!?!?",
-    "value": ""
+    "value": "渴望。 你好，冒险者，或许我可以加入你的探索队伍？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
     "raw": "Impressed. Look at that gear! Let me travel with you, and we can DECIMATE THE OPPOSITION!",
-    "value": ""
+    "value": "印象深刻。 看看我身上穿的这套漂亮的装备！让我和你一起探险吧，我们会把敌人统统都搞掂的！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
     "raw": "Statement. I'M ALL ANGRY, ALL THE TIME! YOU WANT TO HIRE ME, DON'T YOU, YOU WEAK SISSY?!?!?!",
-    "value": ""
+    "value": "声明。 我会遵照你说的做！你打算雇用我吗？如果你不雇用我，你就不怕我杀了你？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/3",
     "raw": "Statement. Hire me. That is not a request.",
-    "value": ""
+    "value": "声明。 雇我，我这可不是请求的语气。"
   },
   {
     "op": "replace",
@@ -93,19 +93,19 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Statement. I'M READY TO STAB, SHOOT AND KILL WHATEVER YOU ASK ME TO!",
-    "value": ""
+    "value": "声明。 如果你问我准备好了吗？我会回答：我随时都可以杀光你的敌人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
     "raw": "Request. Do you happen to have a burrito? I've grown rather peckish.",
-    "value": ""
+    "value": "恳求。 你身上有没有玉米煎饼？我有些饿了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
     "raw": "Murderous. Ever wonder what sawing someone in half with BULLETS would be like? LET'S TRY!",
-    "value": ""
+    "value": "凶狠。 你试过用子弹把目标打成两半吗？要不我们来试试？"
   },
   {
     "op": "replace",
@@ -159,25 +159,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/0",
     "raw": "Murderous. I'M GOING TO FIND THAT THING AND MURDER IT IN VENGEANCE!",
-    "value": ""
+    "value": "凶狠。 我就是想要杀光那些敌人！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/1",
     "raw": "Incorrigible. CRAP! ANOTHER GLORIOUS DEATH? THAT'S 42 THIS WEEK!",
-    "value": ""
+    "value": "不可救药。 靠！又死了一次？这已经是本周第四十二次了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/2",
     "raw": "Eager. I'm already missing murder! Get me back out there, Sir!",
-    "value": ""
+    "value": "渴望。 我找不到可以攻击的目标了，Sir！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/3",
     "raw": "Vengeful. I need to cave in the skull of whatever just killed me.",
-    "value": ""
+    "value": "报复。 我需要杀死它并把它的头骨当作帽子。"
   },
   {
     "op": "replace",
@@ -255,37 +255,37 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
     "raw": "Critical. WHAT? TOO MANY AWESOME BULLETS FOR YOU, SISSY?",
-    "value": ""
+    "value": "紧张。 什么？这么多子弹，你是怎么躲开的，SIR？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1",
     "raw": "Obedient. SIR, YES SIR!",
-    "value": ""
+    "value": "服从。 SIR，YES SIR！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2",
     "raw": "Perplexed. But...how can I murder things without tagging along?",
-    "value": ""
+    "value": "迷茫。 不过...我应该躲过了才对啊？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3",
     "raw": "Curious. Sir, are you sure that is wise? I can't kill things from here.",
-    "value": ""
+    "value": "奇妙。 Sir，你确定你要这么做？这样一来我就没法帮到你了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/4",
     "raw": "Irritated. I'll stay. Just...sit here and be bored. Whatever.",
-    "value": ""
+    "value": "生气。 我会留在这儿，只不过在这里等着有些无聊。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/5",
     "raw": "Statement. I'll stay here.",
-    "value": ""
+    "value": "声明。 我会一直留守的这里的。"
   },
   {
     "op": "replace",
@@ -351,31 +351,31 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/0",
     "raw": "Eager. FOR THE GLORY OF BATTLE, WE RIDE!",
-    "value": ""
+    "value": "渴望。 为了荣耀而战！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/1",
     "raw": "Obedient. SIR, YES SIR!",
-    "value": ""
+    "value": "服从。 SIR，YES SIR！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/2",
     "raw": "Murderous. DEATH TIME!",
-    "value": ""
+    "value": "凶狠。 死亡时刻！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/3",
     "raw": "Enthusiastic. Your foes will be vanquished, and ale shall be drank.",
-    "value": ""
+    "value": "热心。 你的敌人将会跪在你的脚下，而啤酒将会被我们干掉！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/4",
     "raw": "Impatient. Let's get a move on, then!",
-    "value": ""
+    "value": "不耐烦。 快出发吧！我已经等不及了。"
   },
   {
     "op": "replace",
@@ -429,13 +429,13 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0",
     "raw": "Frustrated. I can't reach you!",
-    "value": ""
+    "value": "沮丧。 我没法跟上你！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1",
     "raw": "Concerned. Wait for me!",
-    "value": ""
+    "value": "关注。 等会儿我！"
   },
   {
     "op": "replace",

@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Helpful. I'll heal you whenever we're on the ship!",
-    "value": ""
+    "value": "乐于助人。 只要我们在船上，我就会治好你！"
   },
   {
     "op": "replace",
@@ -63,19 +63,19 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/0",
     "raw": "Concerned. You look like you could do with some healing!",
-    "value": ""
+    "value": "关注。 你看起来需要治疗一下！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/1",
     "raw": "Caring. Perhaps you could do with some healing?",
-    "value": ""
+    "value": "关心 也许可以帮你做一些治疗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/2",
     "raw": "Helpful. You look like you could be in better shape. Let me assist you!",
-    "value": ""
+    "value": "乐于助人。 你看起来好多了，让我来帮你吧！"
   },
   {
     "op": "replace",
@@ -129,25 +129,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Eager. I can help you out!",
-    "value": ""
+    "value": "渴望。 我可以帮到你！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
     "raw": "Excited. Perhaps you could do with some healing?",
-    "value": ""
+    "value": "兴奋。 也许可以帮你做一些治疗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
     "raw": "Helpful. This should heal you!",
-    "value": ""
+    "value": "乐于助人。 这应该能治好你！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
     "raw": "Helpful. Take this, it will help!",
-    "value": ""
+    "value": "乐于助人。 拿着这个，它能帮上你的忙！"
   },
   {
     "op": "replace",

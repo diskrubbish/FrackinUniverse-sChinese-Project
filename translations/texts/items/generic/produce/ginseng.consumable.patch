@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "^yellow;^reset;^cyan;+8 HP^reset;, ^cyan;+12 EP^reset;: 3m",
-    "value": ""
+    "value": "^yellow;^reset;^cyan;+8 HP^reset;, ^cyan;+12 EP^reset;: 3m"
   },
   {
     "op": "replace",

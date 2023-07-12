@@ -3,25 +3,25 @@
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "raw": "There is effectively nothing that this furnace cannot melt down.",
-    "value": ""
+    "value": "没有什么东西是这个熔炉不能熔化的。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
     "raw": "^orange;Fission Furnace^reset;",
-    "value": ""
+    "value": "^orange;裂变熔炉^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
     "raw": " Fission Furnace",
-    "value": ""
+    "value": " 裂变熔炉"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " ^#b9b5b2;Bars and ingredients",
-    "value": ""
+    "value": " ^#b9b5b2;金属锭和配件"
   },
   {
     "op": "replace",

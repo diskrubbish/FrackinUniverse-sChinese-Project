@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/gui/scrollArea/children/itemList/schema/listTemplate/amount/value",
     "raw": "x999",
-    "value": ""
+    "value": "x999"
   },
   {
     "op": "replace",
@@ -45,12 +45,12 @@
     "op": "replace",
     "path": "/gui/requestAmount/regex",
     "raw": "^\\d{0,6}$",
-    "value": ""
+    "value": "^\\d{0,6}$"
   },
   {
     "op": "replace",
     "path": "/gui/requestAmount/hint",
     "raw": "1",
-    "value": ""
+    "value": "1"
   }
 ]

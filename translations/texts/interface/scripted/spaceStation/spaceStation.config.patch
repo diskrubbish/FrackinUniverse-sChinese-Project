@@ -93,49 +93,49 @@
     "op": "replace",
     "path": "/gui/goodsTradeList/children/itemList/schema/listTemplate/buyPrice/value",
     "raw": "x ",
-    "value": ""
+    "value": "x "
   },
   {
     "op": "replace",
     "path": "/gui/goodsTradeList/children/itemList/schema/listTemplate/sellPrice/value",
     "raw": "x ",
-    "value": ""
+    "value": "x "
   },
   {
     "op": "replace",
     "path": "/gui/specialsScrollList/children/itemList/schema/listTemplate/price/value",
     "raw": "x ",
-    "value": ""
+    "value": "x "
   },
   {
     "op": "replace",
     "path": "/gui/scientificSpecialList/children/itemList/schema/listTemplate/amountIn1/value",
     "raw": "-",
-    "value": ""
+    "value": "-"
   },
   {
     "op": "replace",
     "path": "/gui/scientificSpecialList/children/itemList/schema/listTemplate/amountOut1/value",
     "raw": "-",
-    "value": ""
+    "value": "-"
   },
   {
     "op": "replace",
     "path": "/gui/scientificSpecialList/children/itemList/schema/listTemplate/amountIn2/value",
     "raw": "-",
-    "value": ""
+    "value": "-"
   },
   {
     "op": "replace",
     "path": "/gui/scientificSpecialList/children/itemList/schema/listTemplate/amountOut2/value",
     "raw": "-",
-    "value": ""
+    "value": "-"
   },
   {
     "op": "replace",
     "path": "/gui/investAmount/regex",
     "raw": "\\d{0,5}",
-    "value": ""
+    "value": "\\d{0,5}"
   },
   {
     "op": "replace",
@@ -147,12 +147,12 @@
     "op": "replace",
     "path": "/gui/shopBuyAmount/regex",
     "raw": "x?\\d{0,5}",
-    "value": ""
+    "value": "x?\\d{0,5}"
   },
   {
     "op": "replace",
     "path": "/gui/shopBuyAmount/hint",
     "raw": "x0",
-    "value": ""
+    "value": "x0"
   }
 ]

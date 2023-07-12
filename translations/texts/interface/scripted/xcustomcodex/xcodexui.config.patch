@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/gui/nextButton/caption",
     "raw": ">>",
-    "value": ""
+    "value": ">>"
   },
   {
     "op": "replace",
     "path": "/gui/prevButton/caption",
     "raw": "<<",
-    "value": ""
+    "value": "<<"
   },
   {
     "op": "replace",

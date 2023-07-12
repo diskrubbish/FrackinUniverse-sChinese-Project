@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "S.A.I.L",
-    "value": ""
+    "value": "S.A.I.L"
   },
   {
     "op": "replace",
@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Happy. This station allows me to talk to SAIL.",
-    "value": ""
+    "value": "开心。 友善.这个设备能让我和SAIL交流。"
   },
   {
     "op": "replace",
@@ -63,7 +63,7 @@
     "op": "replace",
     "path": "/dialog/wakeUp/0/1",
     "raw": "/ai/portraits/veluuportrait.png:unique.1",
-    "value": ""
+    "value": "/ai/portraits/veluuportrait.png:unique.1"
   },
   {
     "op": "replace",
@@ -75,7 +75,7 @@
     "op": "replace",
     "path": "/dialog/wakeUp/1/1",
     "raw": "/ai/portraits/veluuportrait.png:talk.0",
-    "value": ""
+    "value": "/ai/portraits/veluuportrait.png:talk.0"
   },
   {
     "op": "replace",
@@ -87,7 +87,7 @@
     "op": "replace",
     "path": "/dialog/wakeUp/2/1",
     "raw": "/ai/portraits/veluuportrait.png:talk.1",
-    "value": ""
+    "value": "/ai/portraits/veluuportrait.png:talk.1"
   },
   {
     "op": "replace",
@@ -99,7 +99,7 @@
     "op": "replace",
     "path": "/dialog/wakeUp/3/1",
     "raw": "/ai/portraits/veluuportrait.png:talk.0",
-    "value": ""
+    "value": "/ai/portraits/veluuportrait.png:talk.0"
   },
   {
     "op": "replace",
@@ -111,7 +111,7 @@
     "op": "replace",
     "path": "/dialog/wakeUp/4/1",
     "raw": "/ai/portraits/veluuportrait.png:talk.1",
-    "value": ""
+    "value": "/ai/portraits/veluuportrait.png:talk.1"
   },
   {
     "op": "replace",
@@ -123,7 +123,7 @@
     "op": "replace",
     "path": "/dialog/wakePlayer/0/1",
     "raw": "/ai/portraits/veluuportrait.png:unique.1",
-    "value": ""
+    "value": "/ai/portraits/veluuportrait.png:unique.1"
   },
   {
     "op": "replace",
@@ -135,7 +135,7 @@
     "op": "replace",
     "path": "/dialog/wakePlayer/1/1",
     "raw": "/ai/portraits/veluuportrait.png:unique.1",
-    "value": ""
+    "value": "/ai/portraits/veluuportrait.png:unique.1"
   },
   {
     "op": "replace",
@@ -147,7 +147,7 @@
     "op": "replace",
     "path": "/dialog/wakePlayer/2/1",
     "raw": "/ai/portraits/veluuportrait.png:unique.1",
-    "value": ""
+    "value": "/ai/portraits/veluuportrait.png:unique.1"
   },
   {
     "op": "replace",
@@ -159,7 +159,7 @@
     "op": "replace",
     "path": "/dialog/wakePlayer/3/1",
     "raw": "/ai/portraits/veluuportrait.png:unique.1",
-    "value": ""
+    "value": "/ai/portraits/veluuportrait.png:unique.1"
   },
   {
     "op": "replace",
@@ -171,7 +171,7 @@
     "op": "replace",
     "path": "/dialog/wakePlayer/4/1",
     "raw": "/ai/portraits/veluuportrait.png:unique.1",
-    "value": ""
+    "value": "/ai/portraits/veluuportrait.png:unique.1"
   },
   {
     "op": "replace",
@@ -183,6 +183,6 @@
     "op": "replace",
     "path": "/dialog/wakePlayer/5/1",
     "raw": "/ai/portraits/veluuportrait.png:unique.1",
-    "value": ""
+    "value": "/ai/portraits/veluuportrait.png:unique.1"
   }
 ]

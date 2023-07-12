@@ -45,13 +45,13 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
     "raw": "Menacing. My organic components feel only rage. Let us annihilate our foes together.",
-    "value": ""
+    "value": "威胁。 我的有机成分只感觉到愤怒。让我们一起消灭我们的敌人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
     "raw": "Fevered. I was told that the installation of an Apex adrenal gland would drive me insane. I acquired one anyways. Hire me.",
-    "value": ""
+    "value": "狂热。 有人告诉我，安装猿人肾上腺会让我发疯。无论如何我已经用上了。雇用我。"
   },
   {
     "op": "replace",
@@ -75,7 +75,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Intense. With my biological enhancements, I can increase your ships speed.",
-    "value": ""
+    "value": "疯狂。 通过我的生物强化，我可以提高你的船的速度。"
   },
   {
     "op": "replace",
@@ -117,19 +117,19 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/0",
     "raw": "Manic. I cannot rest until I slay the one who slew me.",
-    "value": ""
+    "value": "狂躁。 不杀了杀我的人，我是不会罢休的。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/1",
     "raw": "Concerned. My organic neural components appear to have grown in size. Is this normal?",
-    "value": ""
+    "value": "关注。 我的有机神经元件似乎长大了。这正常吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/2",
     "raw": "Furious. I am ready for retribution, fearless leader.",
-    "value": ""
+    "value": "气愤。 我已经做好了业报的准备，无畏的领袖。"
   },
   {
     "op": "replace",
@@ -147,7 +147,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Eager. I can grant immunity to Aether and target enemies with glee!",
-    "value": ""
+    "value": "渴望。 我可以提供以太免疫，并且将敌人轰杀至渣！"
   },
   {
     "op": "replace",
@@ -207,25 +207,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
     "raw": "Obliging. I will remain here for now, then.",
-    "value": ""
+    "value": "乐于助人。 从现在起，我会一直待在这里。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1",
     "raw": "Patient. I can wait here, captain.",
-    "value": ""
+    "value": "耐心。 我会在这里等待你的下一个命令，船长。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2",
     "raw": "Amicable.  I will remain here if you want me to, captain.",
-    "value": ""
+    "value": "友好。 船长，如果你打算让我待在这里，我会无条件地执行你的命令。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3",
     "raw": "Agreeable. I can stay here if you prefer, captain.",
-    "value": ""
+    "value": "愉快。 我会听从你的命令待在这里的，船长。"
   },
   {
     "op": "replace",
@@ -315,25 +315,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/0",
     "raw": "Humble. I shall follow, captain.",
-    "value": ""
+    "value": "谦卑。 我会跟着你的，船长。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/1",
     "raw": "Alert. Shall we go, captain?",
-    "value": ""
+    "value": "提防。 打算去哪里，船长？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/2",
     "raw": "Solemn. Is it time to move, captain?",
-    "value": ""
+    "value": "庄重。 该走了吗？船长。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/3",
     "raw": "Inquisitive. Are we going somewhere?",
-    "value": ""
+    "value": "好奇。 我们要去哪里？"
   },
   {
     "op": "replace",
@@ -411,13 +411,13 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0",
     "raw": "Frustrated. I can't reach you!",
-    "value": ""
+    "value": "沮丧。 我没法跟上你！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1",
     "raw": "Concerned. Wait for me!",
-    "value": ""
+    "value": "关注。 等会儿我！"
   },
   {
     "op": "replace",

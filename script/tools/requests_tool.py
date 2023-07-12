@@ -74,8 +74,9 @@ def get_files_content(project_id, file_id, Authorization, pageSize):
     return result
 
 
-def operate_file(local_list, para_list, local_path, project_id, Authorization, file, subdir="", operate="", reupload=False):
-    print(basename(file))
+def operate_file(local_list, para_list, local_path, project_id, Authorization, file, subdir="", operate="", reupload=False,output=False):
+    if output!=False:
+        print(basename(file))
     if operate == "up":
         if local_list[file] != para_list[file]["hash"] or reupload == True:
             files = normpath(local_path + "/" + file)
@@ -95,42 +96,46 @@ def operate_file(local_list, para_list, local_path, project_id, Authorization, f
         pass
 
 
-def sync_trans(local_path, project_id, Authorization, subdir="", process=cpu_count(), reupload=False):
+def sync_trans(local_path, project_id, Authorization, subdir="", process=cpu_count(), reupload=False,output=False):
     print("Walking local dir...")
     local_list = walk_hash(local_path)
     print("\nGet online list...")
     para_list = get_files_list(
         project_id, Authorization, subdir=subdir, get_hash=True)
     if para_list == None:
-        return print("para_list is None")
-    upload_list = list(set(local_list.keys()).intersection(para_list.keys()))
-    add_list = list(set(local_list.keys()).difference(para_list.keys()))
-    del_list = list(set(para_list.keys()).difference(local_list.keys()))
+        print("para_list is None")
+        upload_list = list()
+        add_list = local_list.keys()
+        del_list = list()
+    else:
+        upload_list = list(set(local_list.keys()).intersection(para_list.keys()))
+        add_list = list(set(local_list.keys()).difference(para_list.keys()))
+        del_list = list(set(para_list.keys()).difference(local_list.keys()))
     if len(upload_list) != 0:
         print("\nComparing exist files...")
         with Pool(process) as p:
             p.map_async(partial(operate_file, local_list, para_list, local_path,
-                        project_id, Authorization, subdir=subdir, operate="up", reupload=reupload), upload_list)
+                        project_id, Authorization, subdir=subdir, operate="up", reupload=reupload,output=False), upload_list)
             p.close()
             p.join()
     if len(add_list) != 0:
         print("\nUploading new files...")
         with Pool(process) as p:
             p.map_async(partial(operate_file, local_list, para_list,
-                        local_path, project_id, Authorization, subdir=subdir, operate="add"), add_list)
+                        local_path, project_id, Authorization, subdir=subdir, operate="add", reupload=reupload,output=False), add_list)
             p.close()
             p.join()
     if len(del_list) != 0:
         print("\nDelete outdated files...")
         with Pool(process) as p:
             p.map_async(partial(operate_file, local_list, para_list,
-                        local_path, project_id, Authorization, subdir=subdir, operate="del"), del_list)
+                        local_path, project_id, Authorization, subdir=subdir, operate="del", reupload=reupload,output=False), del_list)
             p.close()
             p.join()
 
 
 def uploadtrans_process(local_path, project_id, Authorization, files_list, file, uid=None, force_updata=False):
-    print(basename(file))
+   #print(basename(file))
     if files_list[file]["translated"] == files_list[file]["total"]:
         pass
     else:
@@ -140,15 +145,13 @@ def uploadtrans_process(local_path, project_id, Authorization, files_list, file,
         para_file = get_files_content(
             project_id, files_list[file]["id"], Authorization, len(local_file)+10)
         for item in para_file.keys():
-            if (
-                para_file[item]["translation"] == ""
-                or para_file[item]["translation"] == None
-            ) or force_updata == True:
-                for v in local_file:
-                    if item.lstrip("#replace#") == v["path"]:
-                        if (v["value"] != "" and v["raw"] == para_file[item]["original"]) or v["value"] != para_file[item]["translation"]:
-                            para_api.upload_translation(project_id, Authorization, str(
-                                para_file[item]["id"]),  v["value"], uid=uid)
+            for v in local_file:
+                if item.lstrip("#replace#") == v["path"]:
+                    if v["value"] == "":
+                        continue
+                    elif v["raw"] == para_file[item]["original"] and  v["value"] != para_file[item]["translation"]:
+                        para_api.upload_translation(project_id, Authorization, str(
+                            para_file[item]["id"]),  v["value"], uid=uid)
 
 
 def upload_translation(local_path, project_id, Authorization, subdir="", uid=None, force_updata=False, process=cpu_count()):

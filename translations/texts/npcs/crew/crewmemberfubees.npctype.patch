@@ -63,31 +63,31 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
     "raw": "Friendly. Hello adventurer, mind if I join you and hurl bees at things?",
-    "value": ""
+    "value": "友好。 你好，冒险者，你是不是需要我的蜜蜂来帮你对抗你的敌人？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
     "raw": "Hopeful. I'm <selfname>, and I really want to throw bees at people. Do you want to employ me?",
-    "value": ""
+    "value": "充满希望。 我是<selfname>，我可以让我的蜜蜂帮你，你打算雇用我吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
     "raw": "Cheerful. You are JUST the kind of person I should throw bees for! Fancy employing me?",
-    "value": ""
+    "value": "快乐。 我可以用我的蜜蜂帮助你，要不要雇用我？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/3",
     "raw": "Excited. I'm looking for a ship's crew to cover in bees. Are you interested?",
-    "value": ""
+    "value": "兴奋。 我正在找一艘可以养蜜蜂的飞船，你愿意雇用我吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/4",
     "raw": "Ambitious. I'm looking for a place among a crew. Can I join yours and dump bees everywhere?",
-    "value": ""
+    "value": "雄心壮志。 我正在找一个可以准许我养蜜蜂的飞船，请问我可以加入你的队伍吗？"
   },
   {
     "op": "replace",
@@ -129,19 +129,19 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Brave. I'll be here for you if you need someone to throw bees at things!",
-    "value": ""
+    "value": "勇敢。 如果你需要蜜蜂的帮忙，就来找我！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
     "raw": "Gallant. If you need bees, you know where to find me!",
-    "value": ""
+    "value": "勇敢。 如果你需要蜜蜂的帮忙，别犹豫，来找我！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
     "raw": "Stalwart. If you need bees, I'll be here!",
-    "value": ""
+    "value": "坚定。 如果你需要蜜蜂的帮忙，就喊我！"
   },
   {
     "op": "replace",
@@ -195,25 +195,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Eager. Let me make you immune to BEES!",
-    "value": ""
+    "value": "渴望。 我可以让你免疫蜂蜇！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
     "raw": "Excited. Bee stings suck! Now you don't need to worry!",
-    "value": ""
+    "value": "兴奋。 以前被蜜蜂蜇过？现在你再也不用担心了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
     "raw": "Helpful. Have some bee-proofing!",
-    "value": ""
+    "value": "乐于助人。 我有些蜂蜜，要不要来点？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
     "raw": "Helpful. I can help you avoid the wrath of beeeeeees!!",
-    "value": ""
+    "value": "乐于助人。 我可以帮你避免被愤怒的蜜蜂们蛰到！！"
   },
   {
     "op": "replace",
@@ -291,31 +291,31 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/0",
     "raw": "Dazed. Was I dead?",
-    "value": ""
+    "value": "茫然。 难道我刚才死了？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/1",
     "raw": "Relieved. I'm back!",
-    "value": ""
+    "value": "宽慰。 我又复活了！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/2",
     "raw": "Concerned. I hope I respawned properly. Do I look alright?",
-    "value": ""
+    "value": "关注。 我希望我重生时没有出什么差错，我的脸看上去还好吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/3",
     "raw": "Confused. Was I dead for a little while?",
-    "value": ""
+    "value": "迷糊。 我刚才是不是死了？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/4",
     "raw": "Tired. Respawning is exhausting.",
-    "value": ""
+    "value": "累了。 重生让人疲惫不堪。"
   },
   {
     "op": "replace",
@@ -399,25 +399,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
     "raw": "Obliging. I will remain here for now, then.",
-    "value": ""
+    "value": "乐于助人。 从现在起，我会一直待在这里。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1",
     "raw": "Patient. I can wait here, captain.",
-    "value": ""
+    "value": "耐心。 我会在这里等待你的下一个命令，船长。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2",
     "raw": "Amicable.  I will remain here if you want me to, captain.",
-    "value": ""
+    "value": "友好。 船长，如果你打算让我待在这里，我会无条件地执行你的命令。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3",
     "raw": "Agreeable. I can stay here if you prefer, captain.",
-    "value": ""
+    "value": "愉快。 我会听从你的命令待在这里的，船长。"
   },
   {
     "op": "replace",
@@ -501,25 +501,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/0",
     "raw": "Humble. I shall follow, captain.",
-    "value": ""
+    "value": "谦卑。 我会跟着你的，船长。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/1",
     "raw": "Alert. Shall we go, captain?",
-    "value": ""
+    "value": "提防。 打算去哪里，船长？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/2",
     "raw": "Solemn. Is it time to move, captain?",
-    "value": ""
+    "value": "庄重。 该走了吗？船长。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/3",
     "raw": "Inquisitive. Are we going somewhere?",
-    "value": ""
+    "value": "好奇。 我们要去哪里？"
   },
   {
     "op": "replace",
@@ -573,13 +573,13 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0",
     "raw": "Frustrated. I can't reach you!",
-    "value": ""
+    "value": "沮丧。 我没法跟上你！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1",
     "raw": "Concerned. Wait for me!",
-    "value": ""
+    "value": "关注。 等会儿我！"
   },
   {
     "op": "replace",

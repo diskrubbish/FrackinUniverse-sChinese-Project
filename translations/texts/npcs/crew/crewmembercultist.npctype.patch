@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Manic. I'll pray to my dark lord, and fuel your ship with his rage!",
-    "value": ""
+    "value": "狂躁。 我会对黑暗之王祷告，它的怒火将会让你的飞船燃料燃烧得更加猛烈。"
   },
   {
     "op": "replace",
@@ -63,25 +63,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Eager. I can help you out!",
-    "value": ""
+    "value": "渴望。 我可以帮到你！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
     "raw": "Excited. Perhaps you could do with a ritual empowerement!",
-    "value": ""
+    "value": "兴奋。 也许你可以做一个仪式授权者！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
     "raw": "Intrigued. I wonder if this will help more than it dooms you?",
-    "value": ""
+    "value": "感兴趣。 不知道这样做对你的帮助会不会大于毁灭？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
     "raw": "Helpful. Take this, it will help, for a time!",
-    "value": ""
+    "value": "乐于助人。 拿着这个，会有帮助的，一段时间吧！"
   },
   {
     "op": "replace",

@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/gui/windowtitle/title",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/gui/expandButton2Label/value",
     "raw": "GPS",
-    "value": ""
+    "value": "GPS"
   },
   {
     "op": "replace",
@@ -93,61 +93,61 @@
     "op": "replace",
     "path": "/gui/racialLabel/value",
     "raw": "---",
-    "value": ""
+    "value": "---"
   },
   {
     "op": "replace",
     "path": "/gui/immunitiesList/children/textList/schema/listTemplate/immunity/value",
     "raw": "---",
-    "value": ""
+    "value": "---"
   },
   {
     "op": "replace",
     "path": "/gui/physicalResist/value",
     "raw": "---",
-    "value": ""
+    "value": "---"
   },
   {
     "op": "replace",
     "path": "/gui/fireResist/value",
     "raw": "---",
-    "value": ""
+    "value": "---"
   },
   {
     "op": "replace",
     "path": "/gui/electricResist/value",
     "raw": "---",
-    "value": ""
+    "value": "---"
   },
   {
     "op": "replace",
     "path": "/gui/iceResist/value",
     "raw": "---",
-    "value": ""
+    "value": "---"
   },
   {
     "op": "replace",
     "path": "/gui/poisonResist/value",
     "raw": "---",
-    "value": ""
+    "value": "---"
   },
   {
     "op": "replace",
     "path": "/gui/radioactiveResist/value",
     "raw": "---",
-    "value": ""
+    "value": "---"
   },
   {
     "op": "replace",
     "path": "/gui/cosmicResist/value",
     "raw": "---",
-    "value": ""
+    "value": "---"
   },
   {
     "op": "replace",
     "path": "/gui/shadowResist/value",
     "raw": "---",
-    "value": ""
+    "value": "---"
   },
   {
     "op": "replace",

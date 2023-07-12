@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
     "raw": "Observant. A hyper-advanced tailoring tool.",
-    "value": ""
+    "value": "善于观察的。 超先进的裁剪工具。"
   },
   {
     "op": "replace",
@@ -57,13 +57,13 @@
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",

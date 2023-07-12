@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Valiant. My powers of love will protect you from the powers of shadow.",
-    "value": ""
+    "value": "英勇。 我的力量将保护你，使你免受暗影伤害。"
   },
   {
     "op": "replace",
@@ -63,19 +63,19 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Valiant. Darkness be gone!",
-    "value": ""
+    "value": "英勇。 黑暗退散！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
     "raw": "Caring. Looks like you could use some love!",
-    "value": ""
+    "value": "关心 看来你可以使用爱的力量！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
     "raw": "Brave. Let me help you out!",
-    "value": ""
+    "value": "勇敢。 让我来帮你吧！"
   },
   {
     "op": "replace",

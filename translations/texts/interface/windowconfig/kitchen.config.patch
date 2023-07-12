@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/paneLayout/tbSpinCount/regex",
     "raw": "x?\\d{0,3}",
-    "value": ""
+    "value": "x?\\d{0,3}"
   },
   {
     "op": "replace",

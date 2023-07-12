@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/title",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " ",
-    "value": ""
+    "value": " "
   },
   {
     "op": "replace",

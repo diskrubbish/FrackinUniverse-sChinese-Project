@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Happy. This station allows me to talk to S.A.I.L..",
-    "value": ""
+    "value": "开心。 这个站台允许我和S.A.I.L.通话。。"
   },
   {
     "op": "replace",
@@ -147,7 +147,7 @@
     "op": "replace",
     "path": "/dialog/wakeUp/0/1",
     "raw": "/ai/portraits/hylotlportrait.png:unique.1",
-    "value": ""
+    "value": "/ai/portraits/hylotlportrait.png:unique.1"
   },
   {
     "op": "replace",
@@ -159,7 +159,7 @@
     "op": "replace",
     "path": "/dialog/wakeUp/1/1",
     "raw": "/ai/portraits/hylotlportrait.png:talk.0",
-    "value": ""
+    "value": "/ai/portraits/hylotlportrait.png:talk.0"
   },
   {
     "op": "replace",
@@ -171,7 +171,7 @@
     "op": "replace",
     "path": "/dialog/wakeUp/2/1",
     "raw": "/ai/portraits/hylotlportrait.png:talk.1",
-    "value": ""
+    "value": "/ai/portraits/hylotlportrait.png:talk.1"
   },
   {
     "op": "replace",
@@ -183,7 +183,7 @@
     "op": "replace",
     "path": "/dialog/wakeUp/3/1",
     "raw": "/ai/portraits/hylotlportrait.png:talk.0",
-    "value": ""
+    "value": "/ai/portraits/hylotlportrait.png:talk.0"
   },
   {
     "op": "replace",
@@ -195,7 +195,7 @@
     "op": "replace",
     "path": "/dialog/wakeUp/4/1",
     "raw": "/ai/portraits/hylotlportrait.png:talk.1",
-    "value": ""
+    "value": "/ai/portraits/hylotlportrait.png:talk.1"
   },
   {
     "op": "replace",
@@ -207,7 +207,7 @@
     "op": "replace",
     "path": "/dialog/wakePlayer/0/1",
     "raw": "/ai/portraits/hylotlportrait.png:unique.1",
-    "value": ""
+    "value": "/ai/portraits/hylotlportrait.png:unique.1"
   },
   {
     "op": "replace",
@@ -219,7 +219,7 @@
     "op": "replace",
     "path": "/dialog/wakePlayer/1/1",
     "raw": "/ai/portraits/hylotlportrait.png:unique.1",
-    "value": ""
+    "value": "/ai/portraits/hylotlportrait.png:unique.1"
   },
   {
     "op": "replace",
@@ -231,7 +231,7 @@
     "op": "replace",
     "path": "/dialog/wakePlayer/2/1",
     "raw": "/ai/portraits/hylotlportrait.png:unique.1",
-    "value": ""
+    "value": "/ai/portraits/hylotlportrait.png:unique.1"
   },
   {
     "op": "replace",
@@ -243,7 +243,7 @@
     "op": "replace",
     "path": "/dialog/wakePlayer/3/1",
     "raw": "/ai/portraits/hylotlportrait.png:unique.1",
-    "value": ""
+    "value": "/ai/portraits/hylotlportrait.png:unique.1"
   },
   {
     "op": "replace",
@@ -255,7 +255,7 @@
     "op": "replace",
     "path": "/dialog/wakePlayer/4/1",
     "raw": "/ai/portraits/hylotlportrait.png:unique.1",
-    "value": ""
+    "value": "/ai/portraits/hylotlportrait.png:unique.1"
   },
   {
     "op": "replace",
@@ -267,6 +267,6 @@
     "op": "replace",
     "path": "/dialog/wakePlayer/5/1",
     "raw": "/ai/portraits/hylotlportrait.png:unique.1",
-    "value": ""
+    "value": "/ai/portraits/hylotlportrait.png:unique.1"
   }
 ]
