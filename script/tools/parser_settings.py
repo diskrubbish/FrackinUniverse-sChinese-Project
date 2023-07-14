@@ -31,7 +31,7 @@ foi = {
     "help.config": ["^[a-z]+Commands/.+$"],
     "hunger.config": ["^.*$"],
     "locations.config": [".*/name$"],
-    "namegen.config": ["^names/1/[0-9]+/[0-9]+$"],
+    #"namegen.config": ["^names/1/[0-9]+/[0-9]+$"],
     "quests.config": ["^pronouns/.+$", "^objectiveDescriptions/.+"],
     ".species": ["^charGenTextLabels/[0-9]+$"],
     ".sbvn": ["^.+/options/[0-9]+/0$"],
@@ -90,6 +90,7 @@ foi = {
     "parts.config": [".*/displayName$"],
     "extraStatsWindow.config": ["^tooltipBoxes/[0-9]+/tooltip$", "^defaultTooltip$"],
     "statWindow.config": [".*/name$"],
+    "spacestationdata.config": ["^medical/[0-9]+/(0|4)$", "^military/[0-9]+/(0|4)$", "^quests/.+/(objective|time|reward)$"],
     "spaceStationData.config": ["^medical/[0-9]+/(0|4)$", "^military/[0-9]+/(0|4)$", "^quests/.+/(objective|time|reward)$"],
     "ships.config": [".*/name$"],
 }

@@ -1,6 +1,7 @@
 from os.path import dirname, join, exists
 from os import walk, makedirs
 import shutil
+import os
 import json
 from sys import platform
 if platform == "win32":
@@ -12,7 +13,7 @@ else:
     from os.path import normpath
 
 
-def export_mod_para(path, texts_prfix="raw", mods_prfix="utf8", others_prfix="others"):
+def export_mod_para(path, texts_prfix="texts", mods_prfix="mods", others_prfix="others"):
     if exists(normpath(join(path, mods_prfix))):
         shutil.rmtree(normpath(join(path, mods_prfix)))
     shutil.copytree(normpath(join(path, others_prfix)),
@@ -50,4 +51,7 @@ def export_mod_para(path, texts_prfix="raw", mods_prfix="utf8", others_prfix="ot
 
                         json.dump(result, f, ensure_ascii=False,
                                   indent=2, sort_keys=True)
+if __name__ == '__main__':
+    export_mod_para(normpath((os.environ.get('GITHUB_WORKSPACE')+"/translations")))
+    
   

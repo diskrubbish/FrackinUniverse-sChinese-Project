@@ -4,7 +4,7 @@ from bisect import insort_left
 from codecs import open as open_n_decode
 from json import dump, load, loads, dumps
 from functools import partial
-from multiprocessing import Pool
+from multiprocessing import Pool,cpu_count
 from os import makedirs, remove, walk
 from os.path import abspath, basename, dirname, exists, join, relpath
 from re import compile as regex
@@ -166,7 +166,7 @@ def final_write_para(file_buffer, header, prefix, ignore_filelist=None):
         p.join()
 
 
-def construct_db_para(assets_dir, files_of_interest, patch_serialization, dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=8):
+def construct_db_para(assets_dir, files_of_interest, patch_serialization, dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=cpu_count()):
     print("Scanning assets at " + assets_dir)
     endings = tuple(files_of_interest.keys())
     db = [{}, {}]
@@ -201,7 +201,7 @@ def construct_db_para(assets_dir, files_of_interest, patch_serialization, dir_bl
     return db
 
 
-def construct_db_para_muti(assets_dir_list, files_of_interest, patch_serialization, dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=8):
+def construct_db_para_muti(assets_dir_list, files_of_interest, patch_serialization, dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=cpu_count()):
     endings = tuple(files_of_interest.keys())
     db = [{"": dict()}]
     foi = list()
@@ -349,7 +349,7 @@ def parsePatchFile(filename, files_of_interest, patch_serialization, ignore_file
     return chunk
 
 
-def construct_db(assets_dir, files_of_interest, patch_serialization, dir_blacklist, path_blacklist, ignore_filelist, parse_process_number=8):
+def construct_db(assets_dir, files_of_interest, patch_serialization, dir_blacklist, path_blacklist, ignore_filelist, parse_process_number=cpu_count()):
     print("Scanning assets at " + assets_dir)
     endings = tuple(files_of_interest.keys())
     db = [{"": dict()}, {"": dict()}]
@@ -381,7 +381,7 @@ def construct_db(assets_dir, files_of_interest, patch_serialization, dir_blackli
     return db
 
 
-def construct_db_muti(assets_dir_list, files_of_interest, patch_serialization, dir_blacklist, path_blacklist, ignore_filelist, parse_process_number=8):
+def construct_db_muti(assets_dir_list, files_of_interest, patch_serialization, dir_blacklist, path_blacklist, ignore_filelist, parse_process_number=cpu_count()):
     foi = list()
     foi_patch = list()
     db = [{"": dict()}, {"": dict()}]
@@ -611,7 +611,7 @@ def extract_labels(root_dir, prefix):
 
 
 def stbtran(root_dir, prefix,
-            files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, parse_process_number=8,
+            files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, parse_process_number=cpu_count(),
             sub_fname="substitutions.json", patch_sub_fname="patch_substitutions.json", texts_prefix="texts", patch_texts_prefix="patches", adapt=False):
     sub_file = normpath(join(prefix, sub_fname))
     patch_sub_file = normpath(join(prefix, patch_sub_fname))
@@ -628,7 +628,7 @@ def stbtran(root_dir, prefix,
 
 
 def stbtran_mutimods(root_dir_list, prefix,
-                     files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, parse_process_number=8,
+                     files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, parse_process_number=cpu_count(),
                      sub_fname="substitutions.json", patch_sub_fname="patch_substitutions.json", texts_prefix="texts", patch_texts_prefix="patches", adapt=False):
     sub_file = normpath(join(prefix, sub_fname))
     patch_sub_file = normpath(join(prefix, patch_sub_fname))
@@ -643,7 +643,7 @@ def stbtran_mutimods(root_dir_list, prefix,
 
 
 def stbtran_para(root_dir, prefix,
-                 files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=8, texts_prefix="texts", ):
+                 files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=cpu_count(), texts_prefix="texts", ):
     thedatabase = construct_db_para(
         root_dir, files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=parse_process_number)
     file_buffer = process_label_para(thedatabase[0], prefix, texts_prefix)
@@ -652,7 +652,7 @@ def stbtran_para(root_dir, prefix,
 
 
 def stbtran_mutimods_para(root_dir, prefix,
-                          files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=8, texts_prefix="texts", ):
+                          files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=cpu_count(), texts_prefix="texts", ):
     thedatabase = construct_db_para_muti(
         root_dir, files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=parse_process_number)
     file_buffer = process_label_para(thedatabase[0], prefix, texts_prefix)

@@ -1,5 +1,5 @@
 from sys import platform
-from os.path import join
+from multiprocessing import cpu_count
 import os
 from parser_settings import files_of_interest
 if platform == "win32":
@@ -9,26 +9,14 @@ if platform == "win32":
         return normpath_old(path).replace('\\', '/')
 else:
     from os.path import normpath
-from extract_labels_config import file_list
-
-from requests_tool import download_translation, sync_trans, upload_translation
 
 from translation_memory import *
 
 import stbtran_utils
-import configparser
-config = configparser.ConfigParser()
-root_dir = os.path.split(os.path.realpath(__file__))[0]
 
-try:
-    config.read(
-        normpath(join(root_dir, "acess_key.ini")))
-    para_api = config.get("SETTINGS", "para_apikey")
-except:
-    para_api = None
+root_dir = normpath((os.environ.get('GITHUB_WORKSPACE')+"/temp/FrackinUniverse"))
 
-root_dir = "F:/FrackinUniverse"
-prefix = "/workplace/FrackinUniverse-sChinese-Project/translations/"
+prefix = normpath((os.environ.get('GITHUB_WORKSPACE')+"/translations"))
 patch_serialization = {
     "craftingmedical.object.patch": {'upgradeStages':{"index": 2, "increase":False}},
     "statuses.config.patch": {"generic": {"index": 70, "increase": True}, "cheerful": {"index": 31, "increase": True}, "jerk": {"index": 31, "increase": True}, "flirty": {"index": 31, "increase": True}, "anxious": {"index": 31, "increase": True}, "easilyspooked": {"index": 32, "increase": True}, "clumsy": {"index": 31, "increase": True}, "excited": {"index": 31, "increase": True}, "intrusive": {"index": 31, "increase": True}, "dumb": {"index": 32, "increase": True}, "emo": {"index": 30, "increase": True}, "fast": {"index": 31, "increase": True}, "nocturnal": {"index": 32, "increase": True}, "socialite": {"index": 31, "increase": True}, "ambitious": {"index": 30, "increase": True}},

@@ -1,0 +1,61 @@
+name: Test
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+
+env:
+    SOURCE_URL: https://github.com/sayterdarkwynd/FrackinUniverse
+    PARA_TOKEN: ${{ secrets.PARA_TOKEN }}
+jobs:
+  my-job:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v2
+        with:
+            python-version: "3.10"
+      - name: Download Translation
+        run: |
+            pip install requests
+            cd ${{github.workspace}}
+            mkdir temp
+            cd ${{github.workspace}}/script/tools
+            python download_paratrans.py
+      - name: Clone Source Code
+        run: |
+            cd ${{github.workspace}}
+            cd temp
+            git clone $SOURCE_URL
+            git clone https://github.com/edwardspec/github-action-pack-starbound-mod.git
+      - name: Extract Labels
+        run: |
+            cd ${{github.workspace}}/script/tools
+            python extract_labels.py
+      - name: Sync to Paratranz
+        run: |
+            cd ${{github.workspace}}/script/tools
+            python sync_to_paratrans.py
+      - name: Make Mods
+        run: |
+            cd ${{github.workspace}}/script/tools
+            python export_mod_para.py
+            cd ${{github.workspace}}/temp/github-action-pack-starbound-mod
+            ${{github.workspace}}/temp/github-action-pack-starbound-mod/asset_packer ${{github.workspace}}/translations/mods FU_Schinese.pak
+            ls  -l FU_Schinese.pak
+      - uses: actions/upload-artifact@v3
+        with:
+            name: my-artifact
+            path: ${{github.workspace}}/temp/github-action-pack-starbound-mod/FU_Schinese.pak
+      - name: Delete Temp
+        run: |
+             cd ${{github.workspace}}
+             rm -rf temp
+      - name: Commit & Push changes
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: Andro999b/push@v1.3
+        with:
+            github_token: ${{ secrets.ACTIONS_TOKEN }}
+            branch: Paratranz
+            

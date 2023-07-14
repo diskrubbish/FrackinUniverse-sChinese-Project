@@ -8,6 +8,8 @@ if platform == "win32":
 
     def normpath(path):
         return normpath_old(path).replace('\\', '/')
+else:
+    from os.path import normpath
 from os import walk
 from functools import partial
 from multiprocessing import Pool, cpu_count, Manager
@@ -50,7 +52,7 @@ def process_filelist(project_id, Authorization, file, result, subdir="", get_has
 def get_files_list(project_id, Authorization, subdir="", get_hash=False, process=cpu_count()):
     result = Manager().dict()
     try:
-        raw_list = para_api.filelist(project_id, Authorization)
+        raw_list = para_api.file_list(project_id, Authorization)
     except:
         return None
     with Pool(process) as p:
@@ -208,7 +210,7 @@ if __name__ == "__main__":
     #print(get_files_content("2747", "316916", "cd11860c565ed926ea5b2aa41697fd57"))
     # upload_translation("F:\workplace\StarBound_-Mod_Misc_Chinese_Project/text/novakidquest/raw","3694","cd11860c565ed926ea5b2aa41697fd57")
     #print(walk_hash("F:\workplace\StarBound_-Mod_Misc_Chinese_Project/text/neo+/raw", endswith=".patch"))
-    #print(para_api.filelist("3694", "cd11860c565ed926ea5b2aa41697fd57"))
+    #print(para_api.file_list("3694", "cd11860c565ed926ea5b2aa41697fd57"))
     #download_translation("/workplace/StarBound_-Mod_Misc_Chinese_Project/text/Project Knightfall/raw","2472", "cd11860c565ed926ea5b2aa41697fd57")
     fl = get_files_list("3092", "cd11860c565ed926ea5b2aa41697fd57", subdir="",get_hash=False)
     partial(process_trans, "/workplace/StarBound_Mods_SChinese_Project/text/EP's Expansion of Shadows/raw",fl,"3092", "cd11860c565ed926ea5b2aa41697fd57")(dialog/epviolence.config.patch)
