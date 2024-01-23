@@ -29,7 +29,7 @@ for path, d, filelist in walk(file_dir):
                             if i["path"] == v["path"]:
                                 if v["value"] != i["value"]:
                                     json_dict[x]["value"] = i["value"]
-                    f = open(para_file, "wb+", "utf-8")
+                    f = open(para_file, "wb+", "utf-8-sig")
                     json.dump(
                         json_dict, f, ensure_ascii=False, indent=2, sort_keys=True)
                     f.close

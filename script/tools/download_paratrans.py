@@ -2,6 +2,7 @@ from sys import platform
 import functools
 import os
 import json
+import time
 from multiprocessing import Pool, cpu_count, Manager
 from json_tools import prepare
 if platform == "win32":
@@ -10,9 +11,8 @@ if platform == "win32":
         return normpath_old(path).replace('\\', '/')
 else:
     from os.path import normpath
-from extract_labels_config import file_list
-
-from requests_tool import download_translation, sync_trans, upload_translation
+from extract_labels import file_list
+from translation_memory import export_memory_para, import_memory_para
 
 import shutil
 import para_api
@@ -55,9 +55,15 @@ def fix_transltion(local_path,para_path,thefile):
                             result_dict, f, ensure_ascii=False, indent=2, sort_keys=True)
                     f.close
     
-
+ 
 if __name__ == "__main__":
+    print("Export Translation Memory...")
+    export_memory_para(para_path,os.environ.get('GITHUB_WORKSPACE')+"/translations/memory.json")
     print("DownLoading Artifacts...")
+    trigger_time = time.mktime(time.strptime(para_api.trigger_artifacts(para_id, para_token)['createdAt'],"%Y-%m-%dT%H:%M:%S.%f%z"))
+    while time.mktime(time.strptime(para_api.get_artifacts(para_id, para_token)['createdAt'],"%Y-%m-%dT%H:%M:%S.%f%z")) <= trigger_time:
+        print("Waiting For Creating...")
+        time.sleep( 120 )
     para_api.download_artifacts(para_id,para_token,temp_path)
     print("DownLoading Artifacts Finished")    
     print("Unzip Artifacts...")
@@ -79,6 +85,8 @@ if __name__ == "__main__":
     for file in file_list:
         fix_transltion(para_path , normpath(temp_path+"/data/raw"),file)
     shutil.copytree(para_path,normpath(temp_path+"/data/texts"))
+    print("Import Translation Memory...")
+    import_memory_para(para_path,os.environ.get('GITHUB_WORKSPACE')+"/translations/memory.json")
     
         
             

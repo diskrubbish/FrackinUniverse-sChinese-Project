@@ -1,14 +1,14 @@
-name: Test
+name: Sync Translation
 
 on:
   workflow_dispatch:
   repository_dispatch:
+    types: [FuChinese]
 
 env:
-    SOURCE_URL: https://github.com/sayterdarkwynd/FrackinUniverse
     PARA_TOKEN: ${{ secrets.PARA_TOKEN }}
 jobs:
-  my-job:
+  workflow:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -16,22 +16,34 @@ jobs:
         uses: actions/setup-python@v2
         with:
             python-version: "3.10"
-      - name: Download Translation
+      - name: Setup steamcmd
+        uses: CyberAndrii/setup-steamcmd@v1
+      - name: Setup Other Environment
         run: |
             pip install requests
+            pip install pytz
             cd ${{github.workspace}}
             mkdir temp
             cd ${{github.workspace}}/script/tools
-            python download_paratrans.py
-      - name: Clone Source Code
-        run: |
+            chmod +x asset_packer
+            chmod +x asset_unpacker
             cd ${{github.workspace}}
             cd temp
-            git clone $SOURCE_URL
-            git clone https://github.com/edwardspec/github-action-pack-starbound-mod.git
+      - name: Download Translation
+        run: |
+            cd ${{github.workspace}}/script/tools
+            python download_paratrans.py
+      - name: Download Lastest FU      
+        uses: robinraju/release-downloader@v1.8
+        with:
+          repository: "sayterdarkwynd/FrackinUniverse"
+          latest: true
+          out-file-path: "temp"
+          fileName: "FrackinUniverse.pak"
       - name: Extract Labels
         run: |
             cd ${{github.workspace}}/script/tools
+            ${{github.workspace}}/script/tools/asset_unpacker ${{github.workspace}}/temp/FrackinUniverse.pak ${{github.workspace}}/temp/FrackinUniverse  
             python extract_labels.py
       - name: Sync to Paratranz
         run: |
@@ -39,23 +51,34 @@ jobs:
             python sync_to_paratrans.py
       - name: Make Mods
         run: |
+            cd ${{github.workspace}}/temp
+            mkdir paks
             cd ${{github.workspace}}/script/tools
             python export_mod_para.py
-            cd ${{github.workspace}}/temp/github-action-pack-starbound-mod
-            ${{github.workspace}}/temp/github-action-pack-starbound-mod/asset_packer ${{github.workspace}}/translations/mods FU_Schinese.pak
-            ls  -l FU_Schinese.pak
-      - uses: actions/upload-artifact@v3
+            ${{github.workspace}}/script/tools/asset_packer ${{github.workspace}}/translations/mods ${{github.workspace}}/temp/paks/FU_Schinese.pak
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3
         with:
             name: my-artifact
-            path: ${{github.workspace}}/temp/github-action-pack-starbound-mod/FU_Schinese.pak
+            path: ${{github.workspace}}/temp/paks/FU_Schinese.pak
+      - name: Generate auth code
+        id: generate
+        uses: CyberAndrii/steam-totp@v1
+        with:
+            shared_secret: ${{ secrets.STEAM_TFASEED }}
+      - name: Upload to Workshop
+        run: steamcmd +login ${{ secrets.STEAM_USERNAME }} ${{ secrets.STEAM_PASSWORD }} ${{ steps.generate.outputs.code }} +workshop_build_item ${{github.workspace}}/temp/mod.vdf +quit    
       - name: Delete Temp
         run: |
              cd ${{github.workspace}}
              rm -rf temp
       - name: Commit & Push changes
-        if: startsWith(github.ref, 'refs/tags/')
         uses: Andro999b/push@v1.3
         with:
             github_token: ${{ secrets.ACTIONS_TOKEN }}
             branch: Paratranz
+      
+        
+
+
             

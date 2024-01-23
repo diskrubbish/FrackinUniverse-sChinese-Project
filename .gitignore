@@ -11,8 +11,8 @@ Pad.md
 __init__.py
 *.iml
 out
-mods
+/translations/mods
 
 !/.idea/jsonSchemas.xml
 
-temp
+/temp

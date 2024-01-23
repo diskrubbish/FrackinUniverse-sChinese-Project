@@ -18,7 +18,7 @@ def export_memory_para_old(path, memory_file,show_fname=False):
             i = join_path(path, filename)
             if show_fname  == True: 
                 print(basename(i))
-            with open(i, "rb+", "utf-8") as f:
+            with open(i, "rb+", "utf-8-sig") as f:
                 jsondata = json.loads(prepare(f))
                 for i, v in enumerate(jsondata):
                     if 'translation' in jsondata[i]:
@@ -32,7 +32,7 @@ def export_memory_para_old(path, memory_file,show_fname=False):
                         pass
     result = json.dumps(memory, ensure_ascii=False,
                         sort_keys=True, indent=2)
-    f = open(memory_file, "wb+", "utf-8")
+    f = open(memory_file, "wb+", "utf-8-sig")
     f.write(result)
     f.close
 
@@ -45,7 +45,7 @@ def export_memory_para(path, memory_file,show_fname=False):
             i = join_path(path, filename)
             if show_fname  == True: 
                 print(basename(i))
-            with open(i, "rb+", "utf-8") as f:
+            with open(i, "rb+", "utf-8-sig") as f:
                 jsondata = json.loads(prepare(f))
                 for i, v in enumerate(jsondata):
                     if 'value' in jsondata[i]:
@@ -58,7 +58,7 @@ def export_memory_para(path, memory_file,show_fname=False):
                         pass
     result = json.dumps(memory, ensure_ascii=False,
                         sort_keys=True, indent=2)
-    f = open(memory_file, "wb+", "utf-8")
+    f = open(memory_file, "wb+", "utf-8-sig")
     f.write(result)
     f.close
 
@@ -72,7 +72,7 @@ def export_memory(path, memory_file,show_fname=False):
             i = join_path(path, filename)
             if show_fname  == True: 
                 print(basename(i))
-            with open(i, "rb+", "utf-8") as f:
+            with open(i, "rb+", "utf-8-sig") as f:
                 jsondata = json.loads(prepare(f))
                 for i, v in enumerate(jsondata):
                     if 'Chs' in jsondata[i]['Texts']:
@@ -85,13 +85,13 @@ def export_memory(path, memory_file,show_fname=False):
                         pass
     result = json.dumps(memory, ensure_ascii=False,
                         sort_keys=True, indent=2)
-    f = open(memory_file, "wb+", "utf-8")
+    f = open(memory_file, "wb+", "utf-8-sig")
     f.write(result)
     f.close
 
 
 def import_memory(path, memory_file,show_fname=False):
-    memory = json.loads(prepare(open(memory_file, "r", "utf-8")))
+    memory = json.loads(prepare(open(memory_file, "r", "utf-8-sig")))
     for path, d, filelist in walk(path):
         for filename in filelist:
             if basename(filename) in ["substitutions.json", "totallabels.json", "translatedlabels.json", "patch_substitutions.json", "parse_problem.txt", "_metadata", "_previewimage", "memory.json"]:
@@ -99,7 +99,7 @@ def import_memory(path, memory_file,show_fname=False):
             i = join_path(path, filename)
             if show_fname  == True: 
                 print(basename(i))
-            with open(i, "rb+", "utf-8") as f:
+            with open(i, "rb+", "utf-8-sig") as f:
                 jsondata = json.loads(prepare(f))
                 for t, v in enumerate(jsondata):
                     if 'Chs' in jsondata[t]['Texts']:
@@ -110,13 +110,13 @@ def import_memory(path, memory_file,show_fname=False):
                                                                  ['Texts']['Eng']]
             text = json.dumps(jsondata, ensure_ascii=False,
                               sort_keys=True, indent=2)
-            f = open(i, "wb+", "utf-8")
+            f = open(i, "wb+", "utf-8-sig")
             f.write(text)
             f.close
 
 
 def import_memory_para(path, memory_file,glitch=False,show_fname=False):
-    memory = json.loads(prepare(open(memory_file, "r", "utf-8")))
+    memory = json.loads(prepare(open(memory_file, "r", "utf-8-sig")))
     for path, d, filelist in walk(path):
         for filename in filelist:
             if basename(filename) in ["substitutions.json", "totallabels.json", "translatedlabels.json", "patch_substitutions.json", "parse_problem.txt", "_metadata", "_previewimage", "memory.json"]:
@@ -124,7 +124,7 @@ def import_memory_para(path, memory_file,glitch=False,show_fname=False):
             i = join_path(path, filename)
             if show_fname  == True: 
                 print(basename(i))
-            with open(i, "rb+", "utf-8") as f:
+            with open(i, "rb+", "utf-8-sig") as f:
                 jsondata = json.load(f)
                 for t, v in enumerate(jsondata):
                     if v['value'] != "":
@@ -137,7 +137,7 @@ def import_memory_para(path, memory_file,glitch=False,show_fname=False):
                                 jsondata[t]['value'] = memory[jsondata[t]['raw'].split(". ",1)[0]+"."]+memory[jsondata[t]['raw'].split(". ",1)[1]]
             text = json.dumps(jsondata, ensure_ascii=False,
                               sort_keys=True, indent=2)
-            f = open(i, "wb+", "utf-8")
+            f = open(i, "wb+", "utf-8-sig")
             f.write(text)
             f.close
 

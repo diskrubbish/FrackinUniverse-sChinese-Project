@@ -4,13 +4,15 @@ from bisect import insort_left
 from codecs import open as open_n_decode
 from json import dump, load, loads, dumps
 from functools import partial
-from multiprocessing import Pool,cpu_count
+from multiprocessing import Pool, cpu_count
 from os import makedirs, remove, walk
 from os.path import abspath, basename, dirname, exists, join, relpath
 from re import compile as regex
 from sys import platform
 from patch_tool import trans_patch, items_subset
 from json_tools import field_by_path, list_field_paths, prepare
+
+
 ##from adapt_translation import process_text
 from shared_path import getSharedPath
 from special_cases import specialSections
@@ -19,7 +21,8 @@ if platform == "win32":
     from os.path import normpath as normpath_old
 
     def normpath(path):
-        return normpath_old(path).replace('\\', '/')
+        return normpath_old(path).replace("\\", "/")
+
 else:
     from os.path import normpath
 
@@ -45,14 +48,13 @@ def glitchDescriptionSpecialHandler(val, filename, path):
         return False
     emote = extracted.groups()[0]
     text = extracted.groups()[1]
-    t = defaultHandler(text, filename, normpath(
-        join(path, "glitchEmotedText")))
+    t = defaultHandler(text, filename, normpath(join(path, "glitchEmotedText")))
     e = defaultHandler(emote, filename, normpath(join(path, "glitchEmote")))
     return t + e
 
 
 textHandlers = [
-    #glitchDescriptionSpecialHandler,
+    # glitchDescriptionSpecialHandler,
     defaultHandler
 ]
 
@@ -68,8 +70,7 @@ def chunk_parse_para(chunk, database, assets_dir, path_blacklist=None):
             if dname in path_blacklist.keys():
                 if path in path_blacklist[dname]:
                     continue
-        filename = normpath(
-            relpath(abspath(fname), abspath(assets_dir)))
+        filename = normpath(relpath(abspath(fname), abspath(assets_dir)))
         if filename not in database:
             database[filename] = dict()
         if path not in database[filename].keys():
@@ -88,7 +89,7 @@ def process_label_para(database, prefix, header, outdata=False):
             reference = dict()
             temp = list()
             try:
-                with open_n_decode(file, 'r', 'utf-8') as f:
+                with open_n_decode(file, "r", "utf-8-sig") as f:
                     olddata = loads(prepare(f))
             except:
                 print("Can not open old data " + basename(file))
@@ -102,8 +103,7 @@ def process_label_para(database, prefix, header, outdata=False):
                         content["value"] = ""
                         if outdata == True:
                             if reference[obj][1] != "":
-                                content["context"] = "之前文本：\n" + \
-                                    reference[obj][1]
+                                content["context"] = "之前文本：\n" + reference[obj][1]
                             elif reference[obj][1] == "" and reference[obj][2] != "":
                                 content["context"] = reference[obj][2]
                             else:
@@ -118,8 +118,7 @@ def process_label_para(database, prefix, header, outdata=False):
         else:
             temp = list()
             for obj in objs.keys():
-                content = {"op": "replace", "path": obj,
-                           "raw": objs[obj], "value": ""}
+                content = {"op": "replace", "path": obj, "raw": objs[obj], "value": ""}
                 temp.append(content)
         result[file] = temp
     return result
@@ -146,27 +145,36 @@ def write_file_para(filename, content):
         makedirs(filedir, exist_ok=True)
     else:
         raise Exception("Filename without dir: " + filename)
-    with open_n_decode(filename, "w", 'utf-8') as f:
+    with open_n_decode(filename, "w", "utf-8-sig") as f:
         dump(content, f, ensure_ascii=False, indent=2, sort_keys=True)
 
 
 def final_write_para(file_buffer, header, prefix, ignore_filelist=None):
     danglings = catch_danglings_para(
-        join(prefix, header), file_buffer, ignore_filelist=ignore_filelist)
-    print("These "+header+" files will be deleted:")
+        join(prefix, header), file_buffer, ignore_filelist=ignore_filelist
+    )
+    print("These " + header + " files will be deleted:")
     for d in danglings:
-        print('  ' + d)
-    print('Writing...')
+        print("  " + d)
+    print("Writing...")
     with Pool(8) as p:
         p.map_async(remove, danglings)
-        p.starmap_async(
-            write_file_para, list(file_buffer.items()))
-        #write_result = p.starmap_async(write_file, file_buffer)
+        p.starmap_async(write_file_para, list(file_buffer.items()))
+        # write_result = p.starmap_async(write_file, file_buffer)
         p.close()
         p.join()
 
 
-def construct_db_para(assets_dir, files_of_interest, patch_serialization, dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=cpu_count()):
+def construct_db_para(
+    assets_dir,
+    files_of_interest,
+    patch_serialization,
+    dir_blacklist,
+    path_blacklist,
+    ignore_filelist,
+    string_blacklist,
+    parse_process_number=cpu_count(),
+):
     print("Scanning assets at " + assets_dir)
     endings = tuple(files_of_interest.keys())
     db = [{}, {}]
@@ -185,23 +193,45 @@ def construct_db_para(assets_dir, files_of_interest, patch_serialization, dir_bl
     print("Step 1: scanning normal files")
     with Pool(parse_process_number) as p:
         r = p.imap_unordered(
-            partial(parseFile, files_of_interest=files_of_interest, ignore_filelist=ignore_filelist, string_blacklist=string_blacklist,), foi)
+            partial(
+                parseFile,
+                files_of_interest=files_of_interest,
+                ignore_filelist=ignore_filelist,
+                string_blacklist=string_blacklist,
+            ),
+            foi,
+        )
         for chunk in r:
-            chunk_parse_para(chunk, db[0], assets_dir,
-                             path_blacklist=path_blacklist)
+            chunk_parse_para(chunk, db[0], assets_dir, path_blacklist=path_blacklist)
 
     print("Step 2: scanning patch files")
     with Pool(parse_process_number) as p:
         r_patch = p.imap_unordered(
-            partial(parsePatchFile, files_of_interest=files_of_interest, patch_serialization=patch_serialization, ignore_filelist=ignore_filelist, string_blacklist=string_blacklist,), foi_patch)
+            partial(
+                parsePatchFile,
+                files_of_interest=files_of_interest,
+                patch_serialization=patch_serialization,
+                ignore_filelist=ignore_filelist,
+                string_blacklist=string_blacklist,
+            ),
+            foi_patch,
+        )
 
         for chunk in r_patch:
-            chunk_parse_para(chunk,  db[0], assets_dir,
-                             path_blacklist=path_blacklist)
+            chunk_parse_para(chunk, db[0], assets_dir, path_blacklist=path_blacklist)
     return db
 
 
-def construct_db_para_muti(assets_dir_list, files_of_interest, patch_serialization, dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=cpu_count()):
+def construct_db_para_muti(
+    assets_dir_list,
+    files_of_interest,
+    patch_serialization,
+    dir_blacklist,
+    path_blacklist,
+    ignore_filelist,
+    string_blacklist,
+    parse_process_number=cpu_count(),
+):
     endings = tuple(files_of_interest.keys())
     db = [{"": dict()}]
     foi = list()
@@ -221,19 +251,36 @@ def construct_db_para_muti(assets_dir_list, files_of_interest, patch_serializati
         print("Step 1: scanning normal files")
         with Pool(parse_process_number) as p:
             r = p.imap_unordered(
-                partial(parseFile, files_of_interest=files_of_interest, ignore_filelist=ignore_filelist, string_blacklist=string_blacklist), foi)
+                partial(
+                    parseFile,
+                    files_of_interest=files_of_interest,
+                    ignore_filelist=ignore_filelist,
+                    string_blacklist=string_blacklist,
+                ),
+                foi,
+            )
             for chunk in r:
                 chunk_parse_para(
-                    chunk, db[0], assets_dir, path_blacklist=path_blacklist)
+                    chunk, db[0], assets_dir, path_blacklist=path_blacklist
+                )
 
         print("Step 2: scanning patch files")
         with Pool(parse_process_number) as p:
             r_patch = p.imap_unordered(
-                partial(parsePatchFile, files_of_interest=files_of_interest, patch_serialization=patch_serialization, ignore_filelist=ignore_filelist, string_blacklist=string_blacklist), foi_patch)
+                partial(
+                    parsePatchFile,
+                    files_of_interest=files_of_interest,
+                    patch_serialization=patch_serialization,
+                    ignore_filelist=ignore_filelist,
+                    string_blacklist=string_blacklist,
+                ),
+                foi_patch,
+            )
 
             for chunk in r_patch:
                 chunk_parse_para(
-                    chunk,  db[0], assets_dir, path_blacklist=path_blacklist)
+                    chunk, db[0], assets_dir, path_blacklist=path_blacklist
+                )
     return db
 
 
@@ -248,8 +295,7 @@ def chunk_parse(chunk, database, assets_dir, path_blacklist):
             database[sec] = dict()
         if val not in database[sec]:
             database[sec][val] = dict()
-        filename = normpath(
-            relpath(abspath(fname), abspath(assets_dir)))
+        filename = normpath(relpath(abspath(fname), abspath(assets_dir)))
         if filename not in database[sec][val]:
             database[sec][val][filename] = list()
         if path not in database[sec][val][filename]:
@@ -257,9 +303,11 @@ def chunk_parse(chunk, database, assets_dir, path_blacklist):
     return database
 
 
-def parseFile(filename, files_of_interest, ignore_filelist, string_blacklist, show_fname=False):
+def parseFile(
+    filename, files_of_interest, ignore_filelist, string_blacklist, show_fname=False
+):
     chunk = list()
-    if basename(filename)not in ignore_filelist:
+    if basename(filename) not in ignore_filelist:
         if show_fname == True:
             print(basename(filename))
         with open_n_decode(filename, "r", "utf_8_sig") as f:
@@ -276,15 +324,14 @@ def parseFile(filename, files_of_interest, ignore_filelist, string_blacklist, sh
                 if filename.endswith(k) or k == "*":
                     for path in paths:
                         if len(path.split("/")) >= 15:
-                            print("Some path in" + filename+"'s len > 15！")
+                            print("Some path in" + filename + "'s len > 15！")
                             continue
                         for roi in files_of_interest[k]:
                             if roi.match(path) or dialog:
                                 val = field_by_path(jsondata, path)
                                 if not type(val) is str:
                                     print("File: " + filename)
-                                    print("Type of " + path +
-                                          " is not a string!")
+                                    print("Type of " + path + " is not a string!")
                                     continue
                                 if val == "":
                                     continue
@@ -292,7 +339,7 @@ def parseFile(filename, files_of_interest, ignore_filelist, string_blacklist, sh
                                     if val in string_blacklist:
                                         continue
                                 for handler in textHandlers:
-                                    res = handler(val, filename, '/' + path)
+                                    res = handler(val, filename, "/" + path)
                                     if res:
                                         chunk += res
                                         break
@@ -301,9 +348,16 @@ def parseFile(filename, files_of_interest, ignore_filelist, string_blacklist, sh
     return chunk
 
 
-def parsePatchFile(filename, files_of_interest, patch_serialization, ignore_filelist, string_blacklist, show_fname=False):
+def parsePatchFile(
+    filename,
+    files_of_interest,
+    patch_serialization,
+    ignore_filelist,
+    string_blacklist,
+    show_fname=False,
+):
     chunk = list()
-    if basename(filename)not in ignore_filelist:
+    if basename(filename) not in ignore_filelist:
         if show_fname == True:
             print(basename(filename))
         with open_n_decode(filename, "r", "utf_8_sig") as f:
@@ -311,7 +365,8 @@ def parsePatchFile(filename, files_of_interest, patch_serialization, ignore_file
                 if len(patch_serialization) != 0:
                     if basename(filename) in dict.keys(patch_serialization):
                         patchdata = trans_patch(
-                            f, ex=patch_serialization[basename(filename)])
+                            f, ex=patch_serialization[basename(filename)]
+                        )
                     else:
                         patchdata = trans_patch(f)
                 else:
@@ -320,7 +375,7 @@ def parsePatchFile(filename, files_of_interest, patch_serialization, ignore_file
             except:
                 print("Cannot parse " + filename)
                 return []
-            filename = filename.replace('.patch', "")
+            filename = filename.replace(".patch", "")
             dialog = dirname(filename).endswith("dialog")
             for k in files_of_interest.keys():
                 if filename.endswith(k) or k == "*":
@@ -332,8 +387,7 @@ def parsePatchFile(filename, files_of_interest, patch_serialization, ignore_file
                                 val = patchdata[path]
                                 if not type(val) is str:
                                     print("File: " + filename)
-                                    print("Type of " + path +
-                                          " is not a string!")
+                                    print("Type of " + path + " is not a string!")
                                     continue
                                 if val == "":
                                     continue
@@ -349,7 +403,15 @@ def parsePatchFile(filename, files_of_interest, patch_serialization, ignore_file
     return chunk
 
 
-def construct_db(assets_dir, files_of_interest, patch_serialization, dir_blacklist, path_blacklist, ignore_filelist, parse_process_number=cpu_count()):
+def construct_db(
+    assets_dir,
+    files_of_interest,
+    patch_serialization,
+    dir_blacklist,
+    path_blacklist,
+    ignore_filelist,
+    parse_process_number=cpu_count(),
+):
     print("Scanning assets at " + assets_dir)
     endings = tuple(files_of_interest.keys())
     db = [{"": dict()}, {"": dict()}]
@@ -368,20 +430,41 @@ def construct_db(assets_dir, files_of_interest, patch_serialization, dir_blackli
     print("Step 1: scanning normal files")
     with Pool(parse_process_number) as p:
         r = p.imap_unordered(
-            partial(parseFile, files_of_interest=files_of_interest, ignore_filelist=ignore_filelist), foi)
+            partial(
+                parseFile,
+                files_of_interest=files_of_interest,
+                ignore_filelist=ignore_filelist,
+            ),
+            foi,
+        )
         for chunk in r:
             chunk_parse(chunk, db[0], assets_dir, path_blacklist)
 
     print("Step 2: scanning patch files")
     with Pool(parse_process_number) as p:
         r_patch = p.imap_unordered(
-            partial(parsePatchFile, files_of_interest=files_of_interest, patch_serialization=patch_serialization, ignore_filelist=ignore_filelist), foi_patch)
+            partial(
+                parsePatchFile,
+                files_of_interest=files_of_interest,
+                patch_serialization=patch_serialization,
+                ignore_filelist=ignore_filelist,
+            ),
+            foi_patch,
+        )
         for chunk in r_patch:
-            chunk_parse(chunk,  db[1], assets_dir, path_blacklist)
+            chunk_parse(chunk, db[1], assets_dir, path_blacklist)
     return db
 
 
-def construct_db_muti(assets_dir_list, files_of_interest, patch_serialization, dir_blacklist, path_blacklist, ignore_filelist, parse_process_number=cpu_count()):
+def construct_db_muti(
+    assets_dir_list,
+    files_of_interest,
+    patch_serialization,
+    dir_blacklist,
+    path_blacklist,
+    ignore_filelist,
+    parse_process_number=cpu_count(),
+):
     foi = list()
     foi_patch = list()
     db = [{"": dict()}, {"": dict()}]
@@ -400,20 +483,33 @@ def construct_db_muti(assets_dir_list, files_of_interest, patch_serialization, d
                 elif thefile.endswith(".patch"):
                     cache_patch.append(normpath(join(subdir, thefile)))
         foi = foi + cache
-        foi_patch = foi_patch+cache_patch
+        foi_patch = foi_patch + cache_patch
     print("Step 1: scanning normal files")
     with Pool(parse_process_number) as p:
         r = p.imap_unordered(
-            partial(parseFile, files_of_interest=files_of_interest, ignore_filelist=ignore_filelist), foi)
+            partial(
+                parseFile,
+                files_of_interest=files_of_interest,
+                ignore_filelist=ignore_filelist,
+            ),
+            foi,
+        )
         for chunk in r:
             chunk_parse(chunk, db[0], assets_dir, path_blacklist)
 
     print("Step 2: scanning patch files")
     with Pool(parse_process_number) as p:
         r_patch = p.imap_unordered(
-            partial(parsePatchFile, files_of_interest=files_of_interest, patch_serialization=patch_serialization, ignore_filelist=ignore_filelist), foi_patch)
+            partial(
+                parsePatchFile,
+                files_of_interest=files_of_interest,
+                patch_serialization=patch_serialization,
+                ignore_filelist=ignore_filelist,
+            ),
+            foi_patch,
+        )
         for chunk in r_patch:
-            chunk_parse(chunk,  db[1], assets_dir, path_blacklist)
+            chunk_parse(chunk, db[1], assets_dir, path_blacklist)
     return db
 
 
@@ -441,26 +537,28 @@ def process_label(combo, prefix, adapt=False):
             fieldend = basename(field)
             if fieldend in specialSharedPaths:
                 obj_file = normpath(specialSharedPaths[fieldend])
-            if obj_file == '.':
+            if obj_file == ".":
                 obj_file = "wide_spread_fields"
             filename = normpath(join(prefix, header, obj_file + ".json"))
             if thefile != obj_file or fieldend in ["glitchEmotedText"]:
                 if thefile not in substitutions:
                     substitutions[thefile] = dict()
-                substitutions[thefile][field] = normpath(
-                    relpath(filename, prefix))
+                substitutions[thefile][field] = normpath(relpath(filename, prefix))
             oldfile = normpath(
-                join(prefix, file_by_assets(thefile, field, oldsubs, header)))
+                join(prefix, file_by_assets(thefile, field, oldsubs, header))
+            )
             if exists(oldfile):
                 olddata = []
                 try:
-                    with open_n_decode(oldfile, 'r', 'utf-8') as f:
+                    with open_n_decode(oldfile, "r", "utf-8-sig") as f:
                         olddata = load(f)
                 except:
                     pass
                 for oldentry in olddata:
                     if oldentry["Texts"]["Eng"] == label:
-                        if "Chs" in oldentry["Texts"].keys() and isinstance(oldentry["Texts"]["Chs"], dict):
+                        if "Chs" in oldentry["Texts"].keys() and isinstance(
+                            oldentry["Texts"]["Chs"], dict
+                        ):
                             if oldentry["Files"] == files:
                                 break
                             else:
@@ -471,12 +569,32 @@ def process_label(combo, prefix, adapt=False):
                                         compare_list.append(a_i)
                                 for i in compare_list:
                                     if i in items_subset(oldentry["Files"].items()):
-                                        if str(items_subset(oldentry["Files"].items()).index(i)+1) in oldentry["Texts"]["Chs"].keys():
-                                            new_text_list[str(items_subset(files.items()).index(
-                                                i)+1)] = oldentry["Texts"]["Chs"][str(items_subset(oldentry["Files"].items()).index(i)+1)]
+                                        if (
+                                            str(
+                                                items_subset(
+                                                    oldentry["Files"].items()
+                                                ).index(i)
+                                                + 1
+                                            )
+                                            in oldentry["Texts"]["Chs"].keys()
+                                        ):
+                                            new_text_list[
+                                                str(
+                                                    items_subset(files.items()).index(i)
+                                                    + 1
+                                                )
+                                            ] = oldentry["Texts"]["Chs"][
+                                                str(
+                                                    items_subset(
+                                                        oldentry["Files"].items()
+                                                    ).index(i)
+                                                    + 1
+                                                )
+                                            ]
                                 if str(0) in oldentry["Texts"]["Chs"].keys():
-                                    new_text_list[str(
-                                        0)] = oldentry["Texts"]["Chs"][str(0)]
+                                    new_text_list[str(0)] = oldentry["Texts"]["Chs"][
+                                        str(0)
+                                    ]
                                 oldentry["Texts"]["Chs"] = new_text_list
                                 """
                                 if len(oldentry["Texts"]["Chs"]) == 1:
@@ -486,8 +604,7 @@ def process_label(combo, prefix, adapt=False):
                         if "DeniedAlternatives" in oldentry:
                             for a in oldentry["DeniedAlternatives"]:
                                 if a not in translation["DeniedAlternatives"]:
-                                    insort_left(
-                                        translation["DeniedAlternatives"], a)
+                                    insort_left(translation["DeniedAlternatives"], a)
                         translation["Texts"].update(oldentry["Texts"])
                         break
                     """
@@ -519,16 +636,19 @@ def prepare_to_write(database, sub_file, header, prefix, adapt=False):
     substitutions = dict()
     oldsubs = dict()
     header = header
-    print("Trying to merge with old "+header+" data...")
+    print("Trying to merge with old " + header + " data...")
     try:
-        with open_n_decode(sub_file, "r", 'utf-8') as f:
+        with open_n_decode(sub_file, "r", "utf-8-sig") as f:
             oldsubs = load(f)
     except:
         print("No old data found, creating new database.")
     for section, thedatabase in database.items():
         with Pool(8) as p:
-            result = p.imap_unordered(partial(process_label, prefix=prefix, adapt=adapt),
-                                      [(f, d, oldsubs, section, header) for f, d in thedatabase.items()], 40)
+            result = p.imap_unordered(
+                partial(process_label, prefix=prefix, adapt=adapt),
+                [(f, d, oldsubs, section, header) for f, d in thedatabase.items()],
+                40,
+            )
             for fn, js, sb in result:
                 for fs, flds in sb.items():
                     if fs not in substitutions:
@@ -561,19 +681,18 @@ def write_file(filename, content):
         makedirs(filedir, exist_ok=True)
     else:
         raise Exception("Filename without dir: " + filename)
-    with open_n_decode(filename, "w", 'utf-8') as f:
+    with open_n_decode(filename, "w", "utf-8-sig") as f:
         dump(content, f, ensure_ascii=False, indent=2, sort_keys=True)
         # print("Written " + filename)
 
 
 # auto processing
 def final_write(file_buffer, header, prefix, ignore_filelist):
-    danglings = catch_danglings(
-        join(prefix, header), file_buffer, ignore_filelist)
-    print("These "+header+" files will be deleted:")
+    danglings = catch_danglings(join(prefix, header), file_buffer, ignore_filelist)
+    print("These " + header + " files will be deleted:")
     for d in danglings:
-        print('  ' + d)
-        print('Writing...')
+        print("  " + d)
+        print("Writing...")
     with Pool(8) as p:
         delete_result = p.map_async(remove, danglings)
         write_result = p.starmap_async(write_file, list(file_buffer.items()))
@@ -581,7 +700,12 @@ def final_write(file_buffer, header, prefix, ignore_filelist):
         p.join()
 
 
-'''
+
+    
+    
+
+
+"""
 def final_write(file_buffer):
   danglings = catch_danglings(join(prefix, "texts"), file_buffer)
   print("These files will be deleted:")
@@ -598,7 +722,7 @@ def final_write(file_buffer):
     write_result = p.starmap_async(write_file, list(file_buffer.items()))
     p.close()
     p.join()
-'''
+"""
 
 """
 def extract_labels(root_dir, prefix):
@@ -610,51 +734,54 @@ def extract_labels(root_dir, prefix):
 """
 
 
-def stbtran(root_dir, prefix,
-            files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, parse_process_number=cpu_count(),
-            sub_fname="substitutions.json", patch_sub_fname="patch_substitutions.json", texts_prefix="texts", patch_texts_prefix="patches", adapt=False):
-    sub_file = normpath(join(prefix, sub_fname))
-    patch_sub_file = normpath(join(prefix, patch_sub_fname))
-    thedatabase = construct_db(
-        root_dir, files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, parse_process_number=parse_process_number)
-    file_buffer = prepare_to_write(
-        thedatabase[0], sub_file, texts_prefix, prefix, adapt=adapt)
-    # with open_n_decode("F:/workplace/StarBound_-Mod_Misc_Chinese_Project/script/tools copy/test.json", "w", 'utf-8') as f:
-    ##dump(file_buffer, f, ensure_ascii=False, indent=2, sort_keys=True)
-    patch_file_buffer = prepare_to_write(
-        thedatabase[1], patch_sub_file, patch_texts_prefix, prefix, adapt=adapt)
-    final_write(file_buffer, texts_prefix, prefix, ignore_filelist)
-    final_write(patch_file_buffer, patch_texts_prefix, prefix, ignore_filelist)
 
-
-def stbtran_mutimods(root_dir_list, prefix,
-                     files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, parse_process_number=cpu_count(),
-                     sub_fname="substitutions.json", patch_sub_fname="patch_substitutions.json", texts_prefix="texts", patch_texts_prefix="patches", adapt=False):
-    sub_file = normpath(join(prefix, sub_fname))
-    patch_sub_file = normpath(join(prefix, patch_sub_fname))
-    thedatabase = construct_db_muti(
-        root_dir_list, files_of_interest, patch_serialization, dir_blacklist, path_blacklist, ignore_filelist, parse_process_number=parse_process_number)
-    file_buffer = prepare_to_write(
-        thedatabase[0], sub_file, texts_prefix, prefix, adapt=adapt)
-    patch_file_buffer = prepare_to_write(
-        thedatabase[1], patch_sub_file, patch_texts_prefix, prefix, adapt=adapt)
-    final_write(file_buffer, texts_prefix, prefix, ignore_filelist)
-    final_write(patch_file_buffer, patch_texts_prefix, prefix, ignore_filelist)
-
-
-def stbtran_para(root_dir, prefix,
-                 files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=cpu_count(), texts_prefix="texts", ):
+def stbtran_para(
+    root_dir,
+    prefix,
+    files_of_interest,
+    patch_serialization,
+    dir_blacklist,
+    path_blacklist,
+    ignore_filelist,
+    string_blacklist,
+    parse_process_number=cpu_count(),
+    texts_prefix="texts",
+):
     thedatabase = construct_db_para(
-        root_dir, files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=parse_process_number)
+        root_dir,
+        files_of_interest,
+        patch_serialization,
+        dir_blacklist,
+        path_blacklist,
+        ignore_filelist,
+        string_blacklist,
+        parse_process_number=parse_process_number,
+    )
     file_buffer = process_label_para(thedatabase[0], prefix, texts_prefix)
-    final_write_para(file_buffer, texts_prefix, prefix,
-                     ignore_filelist=ignore_filelist)
+    final_write_para(file_buffer, texts_prefix, prefix, ignore_filelist=ignore_filelist)
 
 
-def stbtran_mutimods_para(root_dir, prefix,
-                          files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=cpu_count(), texts_prefix="texts", ):
+def stbtran_mutimods_para(
+    root_dir,
+    prefix,
+    files_of_interest,
+    patch_serialization,
+    dir_blacklist,
+    path_blacklist,
+    ignore_filelist,
+    string_blacklist,
+    parse_process_number=cpu_count(),
+    texts_prefix="texts",
+):
     thedatabase = construct_db_para_muti(
-        root_dir, files_of_interest, patch_serialization,  dir_blacklist, path_blacklist, ignore_filelist, string_blacklist, parse_process_number=parse_process_number)
+        root_dir,
+        files_of_interest,
+        patch_serialization,
+        dir_blacklist,
+        path_blacklist,
+        ignore_filelist,
+        string_blacklist,
+        parse_process_number=parse_process_number,
+    )
     file_buffer = process_label_para(thedatabase[0], prefix, texts_prefix)
-    final_write_para(file_buffer, texts_prefix, prefix,
-                     ignore_filelist=ignore_filelist)
+    final_write_para(file_buffer, texts_prefix, prefix, ignore_filelist=ignore_filelist)

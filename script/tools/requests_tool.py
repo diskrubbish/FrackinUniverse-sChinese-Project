@@ -83,14 +83,14 @@ def operate_file(local_list, para_list, local_path, project_id, Authorization, f
         if local_list[file] != para_list[file]["hash"] or reupload == True:
             files = normpath(local_path + "/" + file)
             para_api.upload_file(project_id, Authorization, files, str(
-                para_list[file]["id"]), encoding="utf-8")
+                para_list[file]["id"]), encoding="utf-8-sig")
     elif operate == "add":
         if subdir != "":
             para_api.create_file(project_id, Authorization, normpath(
-                join(local_path, file)),  normpath(join(subdir, dirname(file))), encoding="utf-8")
+                join(local_path, file)),  normpath(join(subdir, dirname(file))), encoding="utf-8-sig")
         else:
             para_api.create_file(project_id, Authorization, normpath(
-                join(local_path, file)), dirname(file), encoding="utf-8")
+                join(local_path, file)), dirname(file), encoding="utf-8-sig")
     elif operate == "del":
         para_api.del_file(project_id, Authorization,
                           str(para_list[file]["id"]))
@@ -142,7 +142,7 @@ def uploadtrans_process(local_path, project_id, Authorization, files_list, file,
         pass
     else:
         local_file = json.load(
-            open(normpath(local_path + "/" + file), "r+", encoding="utf-8")
+            open(normpath(local_path + "/" + file), "r+", encoding="utf-8-sig")
         )
         para_file = get_files_content(
             project_id, files_list[file]["id"], Authorization, len(local_file)+10)
@@ -169,7 +169,7 @@ def process_trans(local_path, files_list, project_id, Authorization, file, outpu
     if output == True:
         print(basename(file))
     local_file = json.load(
-        open(normpath(local_path + "/" + file), "r+", encoding="utf-8")
+        open(normpath(local_path + "/" + file), "r+", encoding="utf-8-sig")
     )
     para_file = get_files_content(
         project_id, files_list[file]["id"], Authorization, len(local_file)+10)
@@ -188,7 +188,7 @@ def process_trans(local_path, files_list, project_id, Authorization, file, outpu
                         result[i]["value"] = para_file[item]["translation"].replace(
                             "\\n", "\n"
                         )
-    f = open(normpath(local_path + "/" + file), "w", encoding="utf-8")
+    f = open(normpath(local_path + "/" + file), "w", encoding="utf-8-sig")
     json.dump(result, f, ensure_ascii=False, indent=2, sort_keys=True)
     f.close
 
@@ -245,7 +245,7 @@ if __name__ == "__main__":
     # files=files, headers=headers, data=data)
     # requests.delete(base_url+project_id+"/files/448483",headers=headers)
 
-f = open(normpath("F:/workplace/StarBound_Mods_SChinese_Project/script/tools/test.json"), "w", encoding="utf-8")
+f = open(normpath("F:/workplace/StarBound_Mods_SChinese_Project/script/tools/test.json"), "w", encoding="utf-8-sig")
 #test = para_api.file("4025", "cd11860c565ed926ea5b2aa41697fd57",fileid="764802")
 test = get_files_content("4025", "764802","cd11860c565ed926ea5b2aa41697fd57",20)
 text = json.dump(test,f, ensure_ascii=False,

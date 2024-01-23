@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Somewhat solid clouds! You can even walk on them!",
+    "value": "一种固体云方块。它非常轻，轻到你甚至可以在上面行走。"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Cloud Block",
+    "value": "乌云块"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "raw": "Curious. A block of clouds.",
+    "value": "奇妙。 一种云方块。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "raw": "Cloudsss. Can Floran eat, maybe?",
+    "value": "云云云。也许可以吃？"
+  }
+]
