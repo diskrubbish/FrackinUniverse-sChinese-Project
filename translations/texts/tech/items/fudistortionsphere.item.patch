@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Transform into a ball! ^green;Press [F]^reset;",
-    "value": "^green;按[F]^reset;变成一个球！"
+    "raw": "Transform into a ball! ^green;Press [F]^reset;\n^green;It's safe to sell this item, you won't lose the tech.^reset;\n^yellow;In multiplayer:^reset; giving this item to another player will teach them this tech.",
+    "value": ""
   },
   {
     "op": "replace",

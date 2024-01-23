@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "A strange device made by the Ancients.",
-    "value": "古人制造的一种奇怪的装置。"
+    "raw": "^red;This item is no longer needed, it's safe to sell it.^reset;\nA strange device made by the Ancients.",
+    "value": ""
   },
   {
     "op": "replace",

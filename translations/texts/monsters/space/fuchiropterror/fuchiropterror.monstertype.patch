@@ -1,14 +1,14 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/shortdescription",
-    "raw": "Chiropterror",
-    "value": "翼手蝠"
+    "raw": "Precursor Chiropterror",
+    "value": ""
   },
   {
     "op": "replace",
     "path": "/description",
-    "raw": "It's a chiropterror",
-    "value": "这是只翼手蝠。"
+    "raw": "It's a chiropterror!",
+    "value": ""
   }
 ]

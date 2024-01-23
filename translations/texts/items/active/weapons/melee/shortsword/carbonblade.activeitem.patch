@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Finely made. Causes targets to bleed.\n^cyan;Inflicts bleeding^reset;",
-    "value": "良心之作。割裂目标使其出血。\n^cyan;造成流血^reset;"
+    "raw": "Finely made.\n^cyan;Inflicts bleeding^reset;",
+    "value": ""
   },
   {
     "op": "replace",

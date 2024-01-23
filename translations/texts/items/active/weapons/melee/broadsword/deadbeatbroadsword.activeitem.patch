@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Looks crappy. Cuts deep.\n^cyan;Causes bleeding^reset;",
-    "value": "看起来很吓人，造成的伤口也很深。\n^cyan;附加出血效果^reset;"
+    "raw": "Looks crappy. Cuts deep.\n^cyan;Inflicts bleeding^reset;",
+    "value": ""
   },
   {
     "op": "replace",

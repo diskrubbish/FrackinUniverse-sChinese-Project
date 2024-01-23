@@ -1,0 +1,8 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "This stim has natural healing properties. Grants ^white;60^reset;s of ^cyan;Regeneration 4^reset;: ^green; Heal 1.7% HP/s^reset;",
+    "value": ""
+  }
+]

@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "A masterfully made alloy spear for puncturing enemies.\n^cyan;Hunting weapon^reset;",
-    "value": "一把用于刺穿敌人的精致合金长矛。\n^cyan;狩猎武器^reset;"
+    "raw": "A masterfully made alloy spear for puncturing enemies.\n^cyan;Hunting weapon^reset;\n^cyan;Inflicts bleeding^reset;",
+    "value": ""
   },
   {
     "op": "replace",

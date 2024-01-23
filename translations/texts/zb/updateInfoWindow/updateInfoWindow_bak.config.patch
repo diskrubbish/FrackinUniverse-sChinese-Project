@@ -1,0 +1,50 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/gui/close/caption",
+    "raw": "Dismiss",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonInfo/caption",
+    "raw": "Information",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonChangelog/caption",
+    "raw": "Changelog",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonCredits/caption",
+    "raw": "Credits",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonPrevious/caption",
+    "raw": "Previous",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/buttonNext/caption",
+    "raw": "Next",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/textScrollBox/children/text/value",
+    "raw": "I AM ERROR",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gui/version/value",
+    "raw": "version",
+    "value": ""
+  }
+]

@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "A weapon to rival most.\n^yellow;5 hit combo^reset;",
-    "value": "这把武器最具竞争力。\n^yellow;5连斩^reset;"
+    "raw": "A weapon to rival most.\n^yellow;5 hit combo^reset;\n^cyan;Inflicts bleeding^reset;",
+    "value": ""
   },
   {
     "op": "replace",

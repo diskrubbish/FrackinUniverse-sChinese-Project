@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "^yellow;^reset;^cyan;Heal 85^reset;: 2s\n^yellow;^reset;^cyan;20% Reduced Hunger Drain^reset;: 2m",
-    "value": "^yellow;^reset;^cyan;治疗85点生命^reset;: 2s\n^yellow;^reset;^cyan;20%饥饿速率降低^reset;: 2m"
+    "raw": "^yellow;^reset;^cyan;Heal 85^reset;: 2s\n^yellow;^reset;^cyan;40% Reduced Hunger Drain^reset;: 2m",
+    "value": ""
   },
   {
     "op": "replace",

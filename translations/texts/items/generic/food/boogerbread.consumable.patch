@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "What IS this disgusting creation?! \n^cyan;-^red;5% ^green;HP^reset;",
-    "value": "这是什么恶心的造物！？\n^cyan;-^red;5% ^green;HP^reset;"
+    "raw": "What IS this disgusting creation?! \n^red;-^reset;5^red;% Health^reset; \n^blue;Madness Gain^reset; 2",
+    "value": ""
   },
   {
     "op": "replace",

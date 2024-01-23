@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
@@ -14,14 +14,14 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "raw": "A wooden trough. It's empty.",
-    "value": "一个木质食槽。空的"
+    "raw": "A trough of iron. It's empty.",
+    "value": ""
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "raw": "An empty wooden container.",
-    "value": "一个空的木质容器。"
+    "raw": "An empty iron container.",
+    "value": ""
   },
   {
     "op": "replace",

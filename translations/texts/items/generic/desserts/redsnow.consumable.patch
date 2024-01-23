@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Slow, long-lasting healing in convenient popsicle format. \n^green;Heal ^white;31.5% ^green;HP ^gray;over ^white;1m^reset;",
-    "value": "像冰棒一样，能提供缓慢，持久的愈合。\n在^white;1m内^green;治疗^white;31.5%^green;HP^gray;"
+    "raw": "Three red stimpacks, in a long-lasting popsicle form.\n^green;Heal ^white;3.3% ^green;HP^gray;/S for ^white;3m^reset;",
+    "value": ""
   },
   {
     "op": "replace",

@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "It slices, it dices...and acts as a makeshift walking stick.",
-    "value": "它可以切片、切丁......还可以作为临时的手杖。"
+    "raw": "It slices, it dices...and acts as a makeshift walking stick.\n^cyan;Inflicts bleeding^reset;",
+    "value": ""
   },
   {
     "op": "replace",

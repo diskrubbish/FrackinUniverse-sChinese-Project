@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "^green;Links^reset; together certain inventory network nodes.",
-    "value": "把设备与物品传输网络^green;连接^reset;在一起。"
+    "raw": "^green;Links^reset; together certain inventory network nodes. ^red;Will not function if looped.^reset;",
+    "value": ""
   },
   {
     "op": "replace",

@@ -1,56 +1,14 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "An expertly crafted Avian sarcophagus. I wonder what's inside.",
-    "value": "一个精心制作的翼族石棺。我想知道里面是什么。"
+    "raw": "^red;This object is being deprecated. Just place it down to get the normal version^reset;.",
+    "value": ""
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "raw": "Avian Sarcophagus",
-    "value": "翼族石棺"
-  },
-  {
-    "op": "replace",
-    "path": "/apexDescription",
-    "raw": "A sarcophagus. I wonder if someone is inside.",
-    "value": "石棺。不知道里面有没有人。"
-  },
-  {
-    "op": "replace",
-    "path": "/avianDescription",
-    "raw": "The richest and most revered of Avians preserve their entire bodies in these.",
-    "value": "最富有和最受尊敬的翼族人们会把他们的躯体保存在这些石棺里。"
-  },
-  {
-    "op": "replace",
-    "path": "/floranDescription",
-    "raw": "Sssnack insside iss not fresh.",
-    "value": "石棺里面的零零零食不新鲜。"
-  },
-  {
-    "op": "replace",
-    "path": "/glitchDescription",
-    "raw": "Neutral. The Avian within is very old indeed.",
-    "value": "中立。 在这里面的翼族确实非常古老。"
-  },
-  {
-    "op": "replace",
-    "path": "/humanDescription",
-    "raw": "A dusty sarcophagus.",
-    "value": "满是灰尘的石棺。"
-  },
-  {
-    "op": "replace",
-    "path": "/hylotlDescription",
-    "raw": "The Hylotl give their dead to the ocean.",
-    "value": "鲛人会把他们的逝者献给大海。"
-  },
-  {
-    "op": "replace",
-    "path": "/novakidDescription",
-    "raw": "A place for a dead body.",
-    "value": "存放逝者的场所。"
+    "raw": "Avian Sarcophagus (Deprecated)",
+    "value": ""
   }
 ]

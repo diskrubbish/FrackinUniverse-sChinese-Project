@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
@@ -151,6 +151,30 @@
   },
   {
     "op": "replace",
+    "path": "/outOfRangeText/droden/0",
+    "raw": "Scanner error. Out of range.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/droden/1",
+    "raw": "Error. Maximum scanner range exceeded.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/droden/2",
+    "raw": "Error. Signal strength insufficient.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/droden/3",
+    "raw": "No signal. Please reduce distance to target.",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/nothingThereText/default/0",
     "raw": "Nothing of interest here.",
     "value": "没啥兴趣。"
@@ -286,5 +310,29 @@
     "path": "/nothingThereText/fenerox/3",
     "raw": "Watch nothing? See nothing.",
     "value": "看不见？ 看不见。"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/droden/0",
+    "raw": "Error. Invalid target.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/droden/1",
+    "raw": "Error. No item of interest.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/droden/2",
+    "raw": "Unable to read target.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/droden/3",
+    "raw": "Error. Empty.",
+    "value": ""
   }
 ]

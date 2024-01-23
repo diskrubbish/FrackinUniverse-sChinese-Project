@@ -1,0 +1,8 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "raw": "The mechanical counterpart to the mischievious Neki. One would think their artificial nature would result in a more polite, compliant personality, but these dubious companion-bots are hardly any different from their organic counterparts.\n\n^orange;Diet^reset;: Robotic\n\n^orange;Perks^reset;:\n  Speed: ^green;6%^reset;, Fall Damage: ^green;0.9x^reset;\n  Max Energy: ^green;+10%^reset;, Energy Regen: ^green;+10%^reset;\n  ^cyan;Tile Immunities^reset;: Jungle, Slush, Snow\n  ^cyan;Immune^reset;: Breath, Poison, Bee Stings\n\n^orange;Environment^reset;:\n  ^green;Oil/Liquid Proto/Erchius^reset;: Health & E. Regen, Energy x^green;1.25^reset;\n  ^red;Hot^reset; biomes: Energy x^red;0.9^reset;\n  ^cyan;Cold^reset; biomes: Health x^red;0.8^reset;, ^green;10%^reset; Max Energy, ^green;10%^reset; E. Regen Rate\n\n^orange;Weapons^reset;\n  ^green;10%^reset; Fist, Magnorb Mastery, Energy\n\n^green;Resistances^reset;:\n  Poison ^green;20%^reset;, Physical ^green;10%^reset;, Fire ^green;10%^reset;, Radioactive ^green;5%^reset;\n\n^red;Weaknesses^reset;:\n  Health ^red;0.85x^reset;, Electric ^red;50%^reset;, Ice ^red;20%^reset; \n  Hunger Rate ^red;20%^reset;\n",
+    "value": ""
+  }
+]

@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Sturdy, and keeps a keen edge.",
-    "value": "尖锐，表面非常锋利。"
+    "raw": "Sturdy, and keeps a keen edge.\n^cyan;Inflicts bleeding^reset;",
+    "value": ""
   },
   {
     "op": "replace",

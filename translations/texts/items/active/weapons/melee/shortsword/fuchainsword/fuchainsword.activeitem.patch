@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "A brutally efficient blade that chews targets up.\n^cyan;Causes Bleeding^reset;",
-    "value": "残忍高效的链刃，将目标撕碎。别惹战天使。\n^cyan;附加出血效果^reset;"
+    "raw": "A brutally efficient blade that chews targets up.\n^cyan;Inflicts bleeding^reset;",
+    "value": ""
   },
   {
     "op": "replace",

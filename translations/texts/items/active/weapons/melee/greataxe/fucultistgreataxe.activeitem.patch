@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "That appears to be a real living eye in the handle. Cheery.",
-    "value": "斧柄上的眼睛看起来像是活的。愉悦。"
+    "raw": "That appears to be a real living eye in the handle. Cheery.\n^cyan;Inflicts bleeding^reset;",
+    "value": ""
   },
   {
     "op": "replace",

@@ -1,9 +1,9 @@
-[
+﻿[
   {
     "op": "replace",
     "path": "/description",
-    "raw": "^yellow;^reset;^cyan;80 Damage Barrier^reset;: 5m\n^yellow;^reset;^red;Poisoned^reset;: 60s",
-    "value": "^yellow;^reset;^cyan;80点伤害减免^reset;: 5m\n^yellow;^reset;^red;中毒^reset;: 60s"
+    "raw": "^yellow;^reset;^cyan;100% HP Damage Barrier^reset;: 1m\n^yellow;^reset;^red;Wretchel Poisoning^reset;: 1m",
+    "value": ""
   },
   {
     "op": "replace",
