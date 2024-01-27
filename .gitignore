@@ -3,6 +3,7 @@
 
 *.markup
 script/test
+script/tools/test.py
 Pad.md
 /bak
 /mods

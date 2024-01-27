@@ -67,6 +67,7 @@ jobs:
         with:
             tag: ${{steps.downloadrelease.outputs.tag_name}}
             artifacts: "${{github.workspace}}/temp/paks/FU_Schinese.pak"
+            allowUpdates: true
             token: ${{ secrets.ACTIONS_TOKEN }}
       - name: Generate auth code
         id: generate
