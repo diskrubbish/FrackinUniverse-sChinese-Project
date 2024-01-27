@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A fine chair made from carbon plating and core fragments.",
-    "value": ""
+    "value": "由碳镀层和星核碎片制成的精美椅子。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Kirhosi Chair",
-    "value": ""
+    "value": "鼠族椅"
   }
 ]

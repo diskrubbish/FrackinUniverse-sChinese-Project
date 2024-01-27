@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A small volcanic formation.",
-    "value": ""
+    "value": "一个小火山地层。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Small Volcanic Formation",
-    "value": ""
+    "value": "小火山地层"
   }
 ]

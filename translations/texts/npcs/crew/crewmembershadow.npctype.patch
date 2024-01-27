@@ -63,25 +63,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
     "raw": "..... ...",
-    "value": ""
+    "value": "..... ..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
     "raw": "..? ...",
-    "value": ""
+    "value": "..? ..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
     "raw": "..? ..!",
-    "value": ""
+    "value": "..? ..!"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
     "raw": "..!",
-    "value": ""
+    "value": "..!"
   },
   {
     "op": "replace",

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "The label reads, \"Capable of spewing lethal toxic pollen.\"",
-    "value": ""
+    "value": "标签上写着：“能够喷出致命的有毒花粉。”"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Snarker Trap Figurine",
-    "value": ""
+    "value": "魅陷阱雕像"
   }
 ]

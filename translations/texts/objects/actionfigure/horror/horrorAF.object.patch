@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "The label reads, \"A horrifying aberration that really wants your face skin in its mouth.\"",
-    "value": ""
+    "value": "标签上写着，“一种可怕的畸变，它真的想吃掉你的脸皮。”"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Floating Horror Figurine",
-    "value": ""
+    "value": "浮空恐惧雕像"
   }
 ]

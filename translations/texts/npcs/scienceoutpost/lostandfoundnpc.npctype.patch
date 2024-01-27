@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/default/default/1",
     "raw": "I sell lost things. Check them out!",
-    "value": ""
+    "value": "丢东西了？记得来我这里找回！"
   },
   {
     "op": "replace",
@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/default/default/1",
     "raw": "It's no small feat to sell such great things!",
-    "value": ""
+    "value": "能卖这么好的东西可不是一件小事！"
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/follow/default/default/1",
     "raw": "Follow me and we can do business.",
-    "value": ""
+    "value": "快跟上，我们一起谈生意。"
   },
   {
     "op": "replace",
@@ -69,7 +69,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/tout/default/default/1",
     "raw": "Mrowr. Looking to purchase things you've lost? I've got what you need.",
-    "value": ""
+    "value": "喵喵。想要购买你丢失的东西？我正好有你需要的东西。"
   },
   {
     "op": "replace",

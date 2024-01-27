@@ -2,10 +2,10 @@ from re import compile as regex
 
 foi = {
     "*": [".*escription$", "^(.+/)?[Tt]ext$", "^(.+/)?[Dd]ialog/[^/]+/[^/]+/.*[0-9]+$",
-           "^(.+/)?(lbl)?([sS]ub)?[tT]itle(/value)?$", "^(.+/)+caption$", "^(.+/)?label$", "^(.+/)?message$", "^.+Name/value$",
+          "^(.+/)?(lbl)?([sS]ub)?[tT]itle(/value)?$", "^(.+/)+caption$", "^(.+/)?label$", "^(.+/)?message$", "^.+Name/value$",
           "^.*friendlyName$", ".*senderName$", ".*destinations/.+[Nn]ame$", ".+[lL]abel[a-zA-Z]*/value$",
-          "bookmarkName"],
-    ".object": ["^chatOptions/.+$", ],
+          "bookmarkName","category"],
+    ".object": ["^chatOptions/.+$","^chatLines/.+$"],
     ".codex": ["contentPages/[0-9]+$", "longContentPages/[0-9]+$"],
     ".matherial": [],
     ".config": ["shipStatus", "^(.+/)?lbl[a-zA-Z]+/value$", "^labels/.+$", "^otherDeed/.+$", "^.*Format$",

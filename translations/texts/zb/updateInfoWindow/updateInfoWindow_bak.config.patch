@@ -3,48 +3,48 @@
     "op": "replace",
     "path": "/gui/close/caption",
     "raw": "Dismiss",
-    "value": ""
+    "value": "关闭"
   },
   {
     "op": "replace",
     "path": "/gui/buttonInfo/caption",
     "raw": "Information",
-    "value": ""
+    "value": "信息"
   },
   {
     "op": "replace",
     "path": "/gui/buttonChangelog/caption",
     "raw": "Changelog",
-    "value": ""
+    "value": "更新日志"
   },
   {
     "op": "replace",
     "path": "/gui/buttonCredits/caption",
     "raw": "Credits",
-    "value": ""
+    "value": "鸣谢"
   },
   {
     "op": "replace",
     "path": "/gui/buttonPrevious/caption",
     "raw": "Previous",
-    "value": ""
+    "value": "上一页"
   },
   {
     "op": "replace",
     "path": "/gui/buttonNext/caption",
     "raw": "Next",
-    "value": ""
+    "value": "下一页"
   },
   {
     "op": "replace",
     "path": "/gui/textScrollBox/children/text/value",
     "raw": "I AM ERROR",
-    "value": ""
+    "value": "*我是错误的*"
   },
   {
     "op": "replace",
     "path": "/gui/version/value",
     "raw": "version",
-    "value": ""
+    "value": "版本"
   }
 ]

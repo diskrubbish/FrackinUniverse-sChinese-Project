@@ -55,7 +55,6 @@ def create_metadata(root_dir, prefix, contentfolder, vdf_save_path):
     mod_metadata["version"] = mod_adapt_version
     raw_steam_vdf = {
         "appid": "211820",
-        # "contentfolder": os.environ.get("GITHUB_WORKSPACE")+"/temp/paks",
         "contentfolder": contentfolder,
         "description": mod_description,
         "publishedfileid": str(mod_metadata["steamContentId"]),

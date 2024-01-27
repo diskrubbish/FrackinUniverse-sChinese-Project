@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "An Apex flag. The symbol of the Miniknog. Use ^green;[E]^reset; to bookmark a teleportation location.",
-    "value": ""
+    "value": "一面猿人旗帜。科技发展部的象征。使用 ^green;[E]^reset; 来标记传送点。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Apex Flag",
-    "value": ""
+    "value": "猿人旗帜"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "This Apex flag is not one us Resistance types respond well to.",
-    "value": ""
+    "value": "这个猿人旗帜在我们反叛军中反响不好。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "The Apex flag of oppression.",
-    "value": ""
+    "value": "象征着压迫的猿人旗帜。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran think this monkey flag mean ssspeed boost!",
-    "value": ""
+    "value": "叶族人认为这面猴子旗意味着超超超级加速！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Statement. An Apex flag.",
-    "value": ""
+    "value": "声明。 一面猿人旗帜"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "This Apex flag is somewhat familiar.",
-    "value": ""
+    "value": "这个猿人旗帜好像有点熟悉。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "This Apex flag reminds us of their barbaric hierarchy.",
-    "value": ""
+    "value": "这面猿人旗帜让我们想起了他们野蛮的等级制度。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "This ain't the flag of no civil Apex folk, that's for sure.",
-    "value": ""
+    "value": "这不是没有等级制度的猿人旗帜，我敢肯定。"
   }
 ]

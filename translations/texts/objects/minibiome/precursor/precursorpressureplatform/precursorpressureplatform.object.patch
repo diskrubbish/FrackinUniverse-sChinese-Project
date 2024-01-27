@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A hovering pressure platform.",
-    "value": "一个悬浮的压力平台。"
+    "value": "悬停的压力平台。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Precursor Pressure Platform",
-    "value": ""
+    "value": "先驱压力平台"
   }
 ]

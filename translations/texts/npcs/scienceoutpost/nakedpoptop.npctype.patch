@@ -3,174 +3,174 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/flee/helpme/default/0",
     "raw": "Reeep Reeep!",
-    "value": ""
+    "value": "哔！哔！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/flee/helpme/default/1",
     "raw": "Glbglb! Piff!",
-    "value": ""
+    "value": "啪！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/flee/safe/default/0",
     "raw": "Reeep Reeep!",
-    "value": ""
+    "value": "哔！哔！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/flee/safe/default/1",
     "raw": "Glbglb! Piff!",
-    "value": ""
+    "value": "啪！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/breakObject/default/0",
     "raw": "Reeep Reeep!",
-    "value": ""
+    "value": "哔！哔！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/breakObject/default/1",
     "raw": "Glbglb! Piff!",
-    "value": ""
+    "value": "啪！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/greeting/default/0",
     "raw": "*purrs softly*",
-    "value": ""
+    "value": "*小声地呜呜*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/greeting/default/1",
     "raw": "*purrs loudly*",
-    "value": ""
+    "value": "*大声地呜呜*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/accuse/default/0",
     "raw": "*angry stare*",
-    "value": ""
+    "value": "*怒视*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/alert/default/0",
     "raw": "*unholy screeching*",
-    "value": ""
+    "value": "*邪恶的尖叫*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "raw": "Reeep Reeep!",
-    "value": ""
+    "value": "哔！哔！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "raw": "Glbglb! Piff!",
-    "value": ""
+    "value": "啪！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "raw": "Steve!",
-    "value": ""
+    "value": "史蒂夫！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/3",
     "raw": "*purring*",
-    "value": ""
+    "value": "*呜呜*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/4",
     "raw": "*stares blankly, incapable of comprehending you*",
-    "value": ""
+    "value": "*茫然地盯着你，无法理解你*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/5",
     "raw": "*excitedly twitches*",
-    "value": ""
+    "value": "*兴奋地抽搐*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/6",
     "raw": "*sighs*",
-    "value": ""
+    "value": "*叹气*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/7",
     "raw": "*raises its paw as if in solidarity with your cause*",
-    "value": ""
+    "value": "举起爪子，仿佛站在你这边*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/8",
     "raw": "*demands a treat*",
-    "value": ""
+    "value": "*需要款待*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/0",
     "raw": "Reeep Reeep!",
-    "value": ""
+    "value": "哔！哔！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/1",
     "raw": "Glbglb! Piff!",
-    "value": ""
+    "value": "啪！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/2",
     "raw": "Steve!",
-    "value": ""
+    "value": "史蒂夫！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/3",
     "raw": "*purring*",
-    "value": ""
+    "value": "*呜呜*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/4",
     "raw": "*stares blankly, incapable of comprehending you*",
-    "value": ""
+    "value": "*茫然地盯着你，无法理解你*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/5",
     "raw": "*excitedly twitches*",
-    "value": ""
+    "value": "*兴奋地抽搐*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/6",
     "raw": "*sighs*",
-    "value": ""
+    "value": "*叹气*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/7",
     "raw": "*raises its paw as if in solidarity with your cause*",
-    "value": ""
+    "value": "举起爪子，仿佛站在你这边*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuphotonpoptop/default/8",
     "raw": "*demands a treat*",
-    "value": ""
+    "value": "*需要款待*"
   },
   {
     "op": "replace",
     "path": "/npcname",
     "raw": "Scott",
-    "value": ""
+    "value": "斯科特"
   }
 ]

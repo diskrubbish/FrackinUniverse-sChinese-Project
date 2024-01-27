@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "The label reads, \"This flower is filled with toxic gas.\"",
-    "value": ""
+    "value": "标签上写着：“这朵花充满了有毒气体。”"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Gasser Trap Figurine",
-    "value": ""
+    "value": "火井陷阱雕像"
   }
 ]

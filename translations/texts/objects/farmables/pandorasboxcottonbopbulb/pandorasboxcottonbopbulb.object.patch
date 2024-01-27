@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "Grows a Cottonbop monster.",
-    "value": ""
+    "value": "长出一只棉球怪。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Cottonbop Bulb",
-    "value": ""
+    "value": "棉球"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "This little plant will grow into a Cottonbop.",
-    "value": ""
+    "value": "这种小植物会长成棉球。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "Growing monsters? Hope that's safe..",
-    "value": ""
+    "value": "成长中的怪物？希望它是安全的……"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran alwaysss wanted a new friend!",
-    "value": ""
+    "value": "叶族人有再再再多朋友也不嫌多！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Excited. This plant will yield a Cottonbop.",
-    "value": ""
+    "value": "兴奋。 种下这棵小植物会收获一只棉球。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "I tried eating a Cottonbop once... Never again.",
-    "value": ""
+    "value": "我曾试过一口吞下这棉球...那是第一次，也是最后一次。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Hopefully it will be appreciative enough to not attack me for growing it.",
-    "value": ""
+    "value": "希望它怀有感恩之心，不要攻击我，毕竟是我种的它。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Cottonbop plant huh? Guess I can put my green thumb to good use!",
-    "value": ""
+    "value": "这是棉球植物吧？正是我这种园艺高手的用武之地！"
   }
 ]

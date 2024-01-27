@@ -3,19 +3,19 @@
     "op": "replace",
     "path": "/description",
     "raw": "Two candles made with beeswax.",
-    "value": ""
+    "value": "两根用蜂蜡做成的蜡烛。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Two Candles",
-    "value": ""
+    "value": "两只蜡烛"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "Two small candles.",
-    "value": ""
+    "value": "两个小蜡烛。"
   },
   {
     "op": "replace",
@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Pretty little candles.",
-    "value": ""
+    "value": "漂亮的小蜡烛。"
   },
   {
     "op": "replace",
@@ -51,6 +51,6 @@
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Neat lil candles.",
-    "value": ""
+    "value": "整齐的蜡烛。"
   }
 ]

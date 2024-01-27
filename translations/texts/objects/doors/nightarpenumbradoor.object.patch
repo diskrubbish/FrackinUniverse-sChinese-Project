@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A smooth and cool door made of Penumbral stone.",
-    "value": ""
+    "value": "由半影石制成的光滑而又凉爽的门。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Penumbrite Door",
-    "value": ""
+    "value": "半影门"
   }
 ]

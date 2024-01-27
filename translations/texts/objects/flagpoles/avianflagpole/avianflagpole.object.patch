@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "The Avian flag. Use ^green;[E]^reset; to bookmark a teleportation location.",
-    "value": ""
+    "value": "翼族旗帜。使用 ^green;[E]^reset; 来标记一个传送点。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Avian Flag",
-    "value": ""
+    "value": "翼族旗帜"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "The Avian flag reflects their longing to return to the skies.",
-    "value": ""
+    "value": "翼族旗帜反映了他们对重返天空的渴望。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "Our flag is a symbol of hope that one day we will fly again.",
-    "value": ""
+    "value": "我们的旗帜象征着希望有一天我们能够再次飞翔。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran think this mean angelsss!",
-    "value": ""
+    "value": "弗洛兰认为这代表着天使！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Statement. A striking Avian flag.",
-    "value": ""
+    "value": "声明。 一面醒目的翼族旗帜。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "The Avian flag has a spiritual aura to it.",
-    "value": ""
+    "value": "翼族旗帜具有精神光环。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "As their flag shows, the Avians cling to the past.",
-    "value": ""
+    "value": "正如他们的旗帜所显示的那样，翼族人坚守传统。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "This flag's a beaut, all right.",
-    "value": ""
+    "value": "这面旗帜上画了个美女，仅此而已。"
   }
 ]

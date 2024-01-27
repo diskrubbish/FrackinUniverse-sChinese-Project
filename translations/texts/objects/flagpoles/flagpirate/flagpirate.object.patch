@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "A Pirate's flag. Use ^green;[E]^reset; to bookmark a teleportation location.",
-    "value": ""
+    "value": "一面海盗旗。使用 ^green;[E]^reset; 来标记一个传送点。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Pirate Flag",
-    "value": ""
+    "value": "海盗旗"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "An pirate flag. I can use this as a waypoint for teleportation.",
-    "value": ""
+    "value": "海盗旗。我可以用它作为传送点。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "This pirate flag can be bookmarked as a destination for my ship teleporter.",
-    "value": ""
+    "value": "这面海盗旗可以收藏为我的飞船传送器的目的地。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Pirate flag makess good point to teleport back to ussing teleporter!",
-    "value": ""
+    "value": "海盗旗帜是传传传送回传送器的好好好好方法！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Observant. A small locator module attached to this pirate flag allows it to be bookmarked for teleportation.",
-    "value": ""
+    "value": "善于观察。 附在这面海盗旗上的小型定位器模块允许将其添加为书签以进行传送。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "This pirate flag can be saved as a location for my teleporter. Then I can return to it any time.",
-    "value": ""
+    "value": "这个海盗旗可以保存为我的传送器的位置。然后我可以随时返回此处。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "This pirate flag can act as a way point, enabling me to return to this point using a teleporter.",
-    "value": ""
+    "value": "这面海盗旗可以作为传送点，使我能够使用传送器返回此处。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "I can bookmark this pirate flag for quick teleportin'.",
-    "value": ""
+    "value": "我可以收藏这面海盗旗帜为书签，以便快速传送。"
   }
 ]

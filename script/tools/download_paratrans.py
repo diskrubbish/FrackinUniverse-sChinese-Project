@@ -63,7 +63,7 @@ if __name__ == "__main__":
     trigger_time = time.mktime(time.strptime(para_api.trigger_artifacts(para_id, para_token)['createdAt'],"%Y-%m-%dT%H:%M:%S.%f%z"))
     while time.mktime(time.strptime(para_api.get_artifacts(para_id, para_token)['createdAt'],"%Y-%m-%dT%H:%M:%S.%f%z")) <= trigger_time:
         print("Waiting For Creating...")
-        time.sleep( 120 )
+        time.sleep( 80 )
     para_api.download_artifacts(para_id,para_token,temp_path)
     print("DownLoading Artifacts Finished")    
     print("Unzip Artifacts...")

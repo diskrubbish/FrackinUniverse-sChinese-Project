@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "The flag of the Protectorate. Use ^green;[E]^reset; to bookmark a teleportation location.",
-    "value": ""
+    "value": "大地守护团的旗帜。使用 ^green;[E]^reset; 来标记一个传送点。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Human Flag",
-    "value": ""
+    "value": "人类旗帜"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A human flag. Looks like it represents their organisation.",
-    "value": ""
+    "value": "一面人类的旗帜。看起来它代表了他们的组织。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "I see this human symbol a lot.",
-    "value": ""
+    "value": "我经常看到这个人类符号。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran like meatman flag!",
-    "value": ""
+    "value": "叶族人喜欢“肉”人的旗帜！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Statement. A human flag, depicting the alternate symbol of the Terrene Protectorate.",
-    "value": ""
+    "value": "声明。 一面人类旗帜，是大地守护团的替代象征。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "The other flag of the Protectorate!",
-    "value": ""
+    "value": "大地守护团的另一种旗帜！"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "This human flag represents intercolonial co-operation.",
-    "value": ""
+    "value": "这面人类旗帜代表着殖民地间的合作。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Can't say I'm as familiar with this Protectorate flag.",
-    "value": ""
+    "value": "不得不说，我对这面大地守护团旗帜很熟悉。"
   }
 ]

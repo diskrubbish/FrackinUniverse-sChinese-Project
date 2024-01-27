@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "The label reads, \"Releases toxic seeds when threatened.\"",
-    "value": ""
+    "value": "标签上写着：“受到威胁时释放有毒种子。”"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Seeder Trap Figurine",
-    "value": ""
+    "value": "播种陷阱雕像"
   }
 ]

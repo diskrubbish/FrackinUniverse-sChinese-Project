@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "The flag of the Glitch. Use ^green;[E]^reset; to bookmark a teleportation location.",
-    "value": ""
+    "value": "电子人旗帜。使用 ^green;[E]^reset; 来标记一个传送点。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Glitch Flag",
-    "value": ""
+    "value": "电子人旗帜"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A Glitch flag. Quite striking.",
-    "value": ""
+    "value": "一面电子人旗帜。相当引人注目。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "I like the Glitch's flag.",
-    "value": ""
+    "value": "我喜欢电子人旗帜。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran think this mean metal people nearby!",
-    "value": ""
+    "value": "叶族人认为这意味着附近有金属人！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Pride. The flag of the Glitch. Outcast or not, we all turn to this flag.",
-    "value": ""
+    "value": "自豪。 电子人的旗帜。无论是否过时，我们都服从于这面旗帜。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "This flag belongs to the Glitch.",
-    "value": ""
+    "value": "这是电子人的旗帜。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Oh look, it's the Glitch's basic, childish flag.",
-    "value": ""
+    "value": "哦，看，这是电子人的旗帜！真是面幼稚的旗。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "A nice, simple flag. I like it.",
-    "value": ""
+    "value": "一个漂亮，简单的旗帜。我喜欢。"
   }
 ]

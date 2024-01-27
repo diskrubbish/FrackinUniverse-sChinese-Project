@@ -3,10 +3,13 @@ import functools
 import os
 import json
 from json_tools import prepare
+
 if platform == "win32":
     from os.path import normpath as normpath_old
+
     def normpath(path):
         return normpath_old(path).replace("\\", "/")
+
 else:
     from os.path import normpath
 
@@ -56,6 +59,7 @@ if __name__ == "__main__":
                 normpath(para_path + "/" + upload_file), "r", encoding="utf-8-sig"
             ) as f:
                 local_json = json.loads(prepare(f))
+                local_translist = [(i["raw"], i["value"]) for i in local_json]
                 f.close
             with open(
                 normpath(temp_path + "/data/texts/" + upload_file),
@@ -63,6 +67,7 @@ if __name__ == "__main__":
                 encoding="utf-8-sig",
             ) as f2:
                 para_json = json.loads(prepare(f2))
+                para_translist = [(i["raw"], i["value"]) for i in para_json]
                 f2.close
             if local_json != para_json:
                 print(upload_file)
@@ -73,13 +78,14 @@ if __name__ == "__main__":
                     online_list[upload_file],
                     encoding="utf-8-sig",
                 )
-                para_api.upload_file_trans(
-                    para_id,
-                    para_token,
-                    os.path.join(para_path, upload_file),
-                    online_list[upload_file],
-                    encoding="utf-8-sig",
-                )
+                if local_translist != para_translist:
+                    para_api.upload_file_trans(
+                        para_id,
+                        para_token,
+                        os.path.join(para_path, upload_file),
+                        online_list[upload_file],
+                        encoding="utf-8-sig",
+                    )
     if len(del_list) != 0:
         print("\nDelete outdated files...")
         for del_file in del_list:
@@ -101,10 +107,20 @@ if __name__ == "__main__":
             i["name"]: i["id"] for i in para_api.file_list(para_id, para_token)
         }
         for add_file in add_list:
-            para_api.upload_file_trans(
-                para_id,
-                para_token,
-                os.path.join(para_path, add_file),
-                online_list[add_file],
-                encoding="utf-8-sig",
-            )
+            add_transcount = 0
+            with open(
+                normpath(para_path + "/" + add_file), "r", encoding="utf-8-sig"
+            ) as f:
+                add_json = json.loads(prepare(f))
+                f.close
+            for trans_value in add_json:
+                if trans_value["value"] != "":
+                    add_transcount = add_transcount + 1
+            if add_transcount != 0:
+                para_api.upload_file_trans(
+                    para_id,
+                    para_token,
+                    os.path.join(para_path, add_file),
+                    online_list[add_file],
+                    encoding="utf-8-sig",
+                )

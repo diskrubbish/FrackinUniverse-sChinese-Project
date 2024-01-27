@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A dark bush.",
-    "value": ""
+    "value": "黑暗的灌木丛。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Penumbral Bush",
-    "value": ""
+    "value": "半影丛"
   }
 ]

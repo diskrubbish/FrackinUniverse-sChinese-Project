@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; ^cyan;Slow Fall^reset;\n^yellow;^reset; ^cyan;Immune^reset;: Oxygen, Pressure, Gas, Extreme Radiation",
-    "value": ""
+    "value": "^orange;套装奖励^reset;：\n^yellow;^reset; ^cyan;羽落^reset;\n^yellow;^reset; ^cyan;免疫^reset;: 窒息, 压强, 气体, 极端辐射"
   },
   {
     "op": "replace",

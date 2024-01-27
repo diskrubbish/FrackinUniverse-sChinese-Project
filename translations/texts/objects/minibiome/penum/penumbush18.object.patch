@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A dark flower.",
-    "value": ""
+    "value": "黑暗的花。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Penumbral Flower",
-    "value": ""
+    "value": "半影花"
   }
 ]

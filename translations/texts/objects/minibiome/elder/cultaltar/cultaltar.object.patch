@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Devote worship to the things that lurk beyond our reality.\n^red;-20 Happiness^reset;",
-    "value": ""
+    "value": "敬拜那些潜伏在我们现实之外的事物。\n^red;-20幸福^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Statue of the Old One",
-    "value": ""
+    "value": "旧雕像"
   }
 ]

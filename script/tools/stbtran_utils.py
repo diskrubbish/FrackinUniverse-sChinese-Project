@@ -4,16 +4,13 @@ from bisect import insort_left
 from codecs import open as open_n_decode
 from json import dump, load, loads, dumps
 from functools import partial
-from multiprocessing import Pool, cpu_count
+from multiprocessing import Pool
 from os import makedirs, remove, walk
 from os.path import abspath, basename, dirname, exists, join, relpath
 from re import compile as regex
 from sys import platform
 from patch_tool import trans_patch, items_subset
 from json_tools import field_by_path, list_field_paths, prepare
-
-
-##from adapt_translation import process_text
 from shared_path import getSharedPath
 from special_cases import specialSections
 
@@ -41,6 +38,111 @@ def defaultHandler(val, filename, path):
     return [(sec, val, filename, path)]
 
 
+starcore_category_list = [
+    "block",
+    "liquid",
+    "platform",
+    "rail",
+    "chestarmour",
+    "headarmour",
+    "legarmour",
+    "backwear",
+    "chestwear",
+    "headwear",
+    "legwear",
+    "enviroProtectionPack",
+    "clothingDye",
+    "codex",
+    "cookingIngredient",
+    "craftingMaterial",
+    "currency",
+    "drink",
+    "eppAugment",
+    "farmBeastEgg",
+    "farmBeastFood",
+    "fishingRod",
+    "fishingLure",
+    "fishingReel",
+    "food",
+    "foodJunk",
+    "junk",
+    "largeFossil",
+    "mediumFossil",
+    "medicine",
+    "musicalInstrument",
+    "mysteriousReward",
+    "petCollar",
+    "preparedFood",
+    "quest",
+    "railPlatform",
+    "salvageComponent",
+    "shipLicense",
+    "smallFossil",
+    "tech",
+    "throwableItem",
+    "tool",
+    "tradingCard",
+    "trophy",
+    "upgradeComponent",
+    "vehicleController",
+    "fuel",
+    "farmBeastFeed",
+    "mechPart",
+    "tradeGoods",
+    "actionFigure",
+    "artifact",
+    "breakable",
+    "bug",
+    "crafting",
+    "decorative",
+    "door",
+    "fridgeStorage",
+    "furniture",
+    "generic",
+    "light",
+    "other",
+    "railPoint",
+    "sapling",
+    "seed",
+    "shippingContainer",
+    "spawner",
+    "storage",
+    "techManagement",
+    "teleporter",
+    "teleportMarker",
+    "trap",
+    "wire",
+    "terraformer",
+    "assaultRifle",
+    "axe",
+    "boomerang",
+    "bow",
+    "broadsword",
+    "chakram",
+    "crossbow",
+    "dagger",
+    "fistWeapon",
+    "grenadeLauncher",
+    "hammer",
+    "machinePistol",
+    "pistol",
+    "rocketLauncher",
+    "shield",
+    "shortsword",
+    "shotgun",
+    "sniperRifle",
+    "spear",
+    "staff",
+    "wand",
+    "toy",
+    "uniqueWeapon",
+    "whip",
+    "Tool",
+    "Drone",
+    "materials",
+]
+
+
 def glitchDescriptionSpecialHandler(val, filename, path):
     extracted = glitch.glitchEmoteExtractor.match(val)
     is_glitch = glitch.glitchIsHere.match(path)
@@ -63,6 +165,20 @@ specialSharedPaths = {
 }
 
 
+def get_category_list(root_dir, default_list):
+    file = normpath(join(root_dir, "items/categories.config.patch"))
+    if exists(file):
+        try:
+            with open_n_decode(file, "r", "utf-8-sig") as f:
+                category_data = trans_patch(f)
+                result = [v.split("/")[2] for v in category_data.keys()] + default_list
+                return result
+        except:
+            return default_list
+    else:
+        return default_list
+
+
 def chunk_parse_para(chunk, database, assets_dir, path_blacklist=None):
     for sec, val, fname, path in chunk:
         dname = dirname(fname)
@@ -83,44 +199,58 @@ def process_label_para(database, prefix, header, outdata=False):
     for key in database.keys():
         if key == "":
             continue
-        objs = database[key]
-        file = normpath(join(prefix, header, key + ".patch"))
-        if exists(file):
-            reference = dict()
-            temp = list()
-            try:
-                with open_n_decode(file, "r", "utf-8-sig") as f:
-                    olddata = loads(prepare(f))
-            except:
-                print("Can not open old data " + basename(file))
-                continue
-            for data in olddata:
-                reference[data["path"]] = [data["raw"], data["value"]]
-            for obj in objs.keys():
-                content = {"op": "replace", "path": obj, "raw": objs[obj]}
-                if obj in reference.keys():
-                    if reference[obj][0] != objs[obj]:
-                        content["value"] = ""
-                        if outdata == True:
-                            if reference[obj][1] != "":
-                                content["context"] = "之前文本：\n" + reference[obj][1]
-                            elif reference[obj][1] == "" and reference[obj][2] != "":
-                                content["context"] = reference[obj][2]
+        else:
+            objs = database[key]
+            file = normpath(join(prefix, header, key + ".patch"))
+            if exists(file):
+                reference = dict()
+                old_dict = dict()
+                temp = list()
+                try:
+                    with open_n_decode(file, "r", "utf-8-sig") as f:
+                        olddata = loads(prepare(f))
+                except:
+                    print("Can not open old data " + basename(file))
+                    continue
+                for data in olddata:
+                    reference[data["path"]] = [data["raw"], data["value"]]
+                    old_dict[data["raw"]] = data["value"]
+                for obj in objs.keys():
+                    content = {"op": "replace", "path": obj, "raw": objs[obj]}
+                    if obj in reference.keys():
+                        if reference[obj][0] != objs[obj]:
+                            if objs[obj] in list(old_dict.keys()):
+                                content["value"] = old_dict[objs[obj]]
                             else:
-                                content["context"] = ""
-                    elif reference[obj][0] == objs[obj]:
-                        content["value"] = reference[obj][1]
+                                content["value"] = ""
+                            if outdata == True:
+                                if reference[obj][1] != "":
+                                    content["context"] = "之前文本：\n" + reference[obj][1]
+                                elif (
+                                    reference[obj][1] == "" and reference[obj][2] != ""
+                                ):
+                                    content["context"] = reference[obj][2]
+                                else:
+                                    content["context"] = ""
+                        elif reference[obj][0] == objs[obj]:
+                            content["value"] = reference[obj][1]
+
+                        else:
+                            content["value"] = ""
                     else:
                         content["value"] = ""
-                else:
-                    content["value"] = ""
-                temp.append(content)
-        else:
-            temp = list()
-            for obj in objs.keys():
-                content = {"op": "replace", "path": obj, "raw": objs[obj], "value": ""}
-                temp.append(content)
-        result[file] = temp
+                    temp.append(content)
+            else:
+                temp = list()
+                for obj in objs.keys():
+                    content = {
+                        "op": "replace",
+                        "path": obj,
+                        "raw": objs[obj],
+                        "value": "",
+                    }
+                    temp.append(content)
+            result[file] = temp
     return result
 
 
@@ -173,13 +303,15 @@ def construct_db_para(
     path_blacklist,
     ignore_filelist,
     string_blacklist,
-    parse_process_number=cpu_count(),
+    category=starcore_category_list,
+    parse_process_number=8,
 ):
     print("Scanning assets at " + assets_dir)
     endings = tuple(files_of_interest.keys())
     db = [{}, {}]
     foi = list()
     foi_patch = list()
+    category_list = get_category_list(assets_dir, category)
     for subdir, dirs, files in walk(assets_dir):
         for thefile in files:
             if len(dir_blacklist) != 0:
@@ -198,6 +330,7 @@ def construct_db_para(
                 files_of_interest=files_of_interest,
                 ignore_filelist=ignore_filelist,
                 string_blacklist=string_blacklist,
+                category_list=category_list,
             ),
             foi,
         )
@@ -213,6 +346,7 @@ def construct_db_para(
                 patch_serialization=patch_serialization,
                 ignore_filelist=ignore_filelist,
                 string_blacklist=string_blacklist,
+                category_list=category_list,
             ),
             foi_patch,
         )
@@ -230,13 +364,19 @@ def construct_db_para_muti(
     path_blacklist,
     ignore_filelist,
     string_blacklist,
-    parse_process_number=cpu_count(),
+    category=starcore_category_list,
+    parse_process_number=8,
 ):
     endings = tuple(files_of_interest.keys())
     db = [{"": dict()}]
-    foi = list()
-    foi_patch = list()
+    foi = dict()
+    foi_patch = dict()
+    category_list = category
     for assets_dir in assets_dir_list:
+        category_list = get_category_list(assets_dir, category_list)
+    for assets_dir in assets_dir_list:
+        cache = list()
+        cache_patch = list()
         print("Scanning assets at " + assets_dir)
         for subdir, dirs, files in walk(assets_dir):
             for thefile in files:
@@ -244,11 +384,14 @@ def construct_db_para_muti(
                     if dirname(subdir) in dir_blacklist:
                         continue
                 if thefile.endswith(endings):
-                    foi.append(normpath(join(subdir, thefile)))
+                    cache.append(normpath(join(subdir, thefile)))
                 elif thefile.endswith(".patch"):
                     if thefile.replace(".patch", "").endswith(endings):
-                        foi_patch.append(normpath(join(subdir, thefile)))
-        print("Step 1: scanning normal files")
+                        cache_patch.append(normpath(join(subdir, thefile)))
+        foi[assets_dir] = cache
+        foi_patch[assets_dir] = cache_patch
+    print("Step 1: scanning normal files")
+    for assets_dir in foi.keys():
         with Pool(parse_process_number) as p:
             r = p.imap_unordered(
                 partial(
@@ -256,15 +399,17 @@ def construct_db_para_muti(
                     files_of_interest=files_of_interest,
                     ignore_filelist=ignore_filelist,
                     string_blacklist=string_blacklist,
+                    category_list=category_list,
                 ),
-                foi,
+                foi[assets_dir],
             )
             for chunk in r:
                 chunk_parse_para(
                     chunk, db[0], assets_dir, path_blacklist=path_blacklist
                 )
 
-        print("Step 2: scanning patch files")
+    print("Step 2: scanning patch files")
+    for assets_dir in foi_patch.keys():
         with Pool(parse_process_number) as p:
             r_patch = p.imap_unordered(
                 partial(
@@ -273,8 +418,9 @@ def construct_db_para_muti(
                     patch_serialization=patch_serialization,
                     ignore_filelist=ignore_filelist,
                     string_blacklist=string_blacklist,
+                    category_list=category_list,
                 ),
-                foi_patch,
+                foi_patch[assets_dir],
             )
 
             for chunk in r_patch:
@@ -304,7 +450,12 @@ def chunk_parse(chunk, database, assets_dir, path_blacklist):
 
 
 def parseFile(
-    filename, files_of_interest, ignore_filelist, string_blacklist, show_fname=False
+    filename,
+    files_of_interest,
+    ignore_filelist,
+    string_blacklist,
+    category_list,
+    show_fname=False,
 ):
     chunk = list()
     if basename(filename) not in ignore_filelist:
@@ -324,11 +475,14 @@ def parseFile(
                 if filename.endswith(k) or k == "*":
                     for path in paths:
                         if len(path.split("/")) >= 15:
-                            print("Some path in" + filename + "'s len > 15！")
+                            print("Some path in  " + filename + "'s len > 15！")
                             continue
                         for roi in files_of_interest[k]:
                             if roi.match(path) or dialog:
                                 val = field_by_path(jsondata, path)
+                                if regex("category").match(path):
+                                    if val in category_list:
+                                        continue
                                 if not type(val) is str:
                                     print("File: " + filename)
                                     print("Type of " + path + " is not a string!")
@@ -354,6 +508,7 @@ def parsePatchFile(
     patch_serialization,
     ignore_filelist,
     string_blacklist,
+    category_list,
     show_fname=False,
 ):
     chunk = list()
@@ -385,6 +540,9 @@ def parsePatchFile(
                         for roi in files_of_interest[k]:
                             if roi.match(path) or dialog:
                                 val = patchdata[path]
+                                if regex("category").match(path):
+                                    if val in category_list:
+                                        continue
                                 if not type(val) is str:
                                     print("File: " + filename)
                                     print("Type of " + path + " is not a string!")
@@ -410,13 +568,15 @@ def construct_db(
     dir_blacklist,
     path_blacklist,
     ignore_filelist,
-    parse_process_number=cpu_count(),
+    category=starcore_category_list,
+    parse_process_number=8,
 ):
     print("Scanning assets at " + assets_dir)
     endings = tuple(files_of_interest.keys())
     db = [{"": dict()}, {"": dict()}]
     foi = list()
     foi_patch = list()
+    category_list = get_category_list(assets_dir, category)
     for subdir, dirs, files in walk(assets_dir):
         for thefile in files:
             if len(dir_blacklist) != 0:
@@ -434,6 +594,7 @@ def construct_db(
                 parseFile,
                 files_of_interest=files_of_interest,
                 ignore_filelist=ignore_filelist,
+                category_list=category_list,
             ),
             foi,
         )
@@ -448,6 +609,7 @@ def construct_db(
                 files_of_interest=files_of_interest,
                 patch_serialization=patch_serialization,
                 ignore_filelist=ignore_filelist,
+                category_list=category_list,
             ),
             foi_patch,
         )
@@ -463,27 +625,25 @@ def construct_db_muti(
     dir_blacklist,
     path_blacklist,
     ignore_filelist,
-    parse_process_number=cpu_count(),
+    category=starcore_category_list,
+    parse_process_number=8,
 ):
     foi = list()
     foi_patch = list()
     db = [{"": dict()}, {"": dict()}]
+    category_list = get_category_list(assets_dir, category)
+    endings = tuple(files_of_interest.keys())
     for assets_dir in assets_dir_list:
         print("Scanning assets at " + assets_dir)
-        endings = tuple(files_of_interest.keys())
-        cache = list()
-        cache_patch = list()
         for subdir, dirs, files in walk(assets_dir):
             for thefile in files:
                 if len(dir_blacklist) != 0:
                     if dirname(subdir) in dir_blacklist:
                         break
                 if thefile.endswith(endings):
-                    cache.append(normpath(join(subdir, thefile)))
+                    foi.append(normpath(join(subdir, thefile)))
                 elif thefile.endswith(".patch"):
-                    cache_patch.append(normpath(join(subdir, thefile)))
-        foi = foi + cache
-        foi_patch = foi_patch + cache_patch
+                    foi_patch.append(normpath(join(subdir, thefile)))
     print("Step 1: scanning normal files")
     with Pool(parse_process_number) as p:
         r = p.imap_unordered(
@@ -491,6 +651,7 @@ def construct_db_muti(
                 parseFile,
                 files_of_interest=files_of_interest,
                 ignore_filelist=ignore_filelist,
+                category_list=category_list,
             ),
             foi,
         )
@@ -505,6 +666,7 @@ def construct_db_muti(
                 files_of_interest=files_of_interest,
                 patch_serialization=patch_serialization,
                 ignore_filelist=ignore_filelist,
+                category_list=category_list,
             ),
             foi_patch,
         )
@@ -607,25 +769,6 @@ def process_label(combo, prefix, adapt=False):
                                     insort_left(translation["DeniedAlternatives"], a)
                         translation["Texts"].update(oldentry["Texts"])
                         break
-                    """
-                    elif oldentry["Texts"]["Eng"] != label and adapt == True:
-                        if "Chs" in oldentry["Texts"].keys() and isinstance(oldentry["Texts"]["Chs"], str):
-                            try:
-                                oldentry["Texts"]["Chs"] = process_text(
-                                    oldentry["Texts"]["Chs"], oldentry["Texts"]["Eng"], label)
-                                if oldentry["Texts"]["Chs"] == label:
-                                    break
-                                oldentry["Texts"]["Eng"] = label
-                                if "DeniedAlternatives" in oldentry:
-                                    for a in oldentry["DeniedAlternatives"]:
-                                        if a not in translation["DeniedAlternatives"]:
-                                            insort_left(
-                                                translation["DeniedAlternatives"], a)
-                                translation["Texts"].update(oldentry["Texts"])
-                                break
-                            except:
-                                pass
-                    """
     translation["Files"] = files
     print((filename, translation, substitutions))
     return (filename, translation, substitutions)
@@ -700,11 +843,6 @@ def final_write(file_buffer, header, prefix, ignore_filelist):
         p.join()
 
 
-
-    
-    
-
-
 """
 def final_write(file_buffer):
   danglings = catch_danglings(join(prefix, "texts"), file_buffer)
@@ -734,6 +872,79 @@ def extract_labels(root_dir, prefix):
 """
 
 
+def stbtran(
+    root_dir,
+    prefix,
+    files_of_interest,
+    patch_serialization,
+    dir_blacklist,
+    path_blacklist,
+    ignore_filelist,
+    parse_process_number=8,
+    sub_fname="substitutions.json",
+    patch_sub_fname="patch_substitutions.json",
+    texts_prefix="texts",
+    patch_texts_prefix="patches",
+    adapt=False,
+):
+    sub_file = normpath(join(prefix, sub_fname))
+    patch_sub_file = normpath(join(prefix, patch_sub_fname))
+    thedatabase = construct_db(
+        root_dir,
+        files_of_interest,
+        patch_serialization,
+        dir_blacklist,
+        path_blacklist,
+        ignore_filelist,
+        parse_process_number=parse_process_number,
+    )
+    file_buffer = prepare_to_write(
+        thedatabase[0], sub_file, texts_prefix, prefix, adapt=adapt
+    )
+    # with open_n_decode("F:/workplace/StarBound_-Mod_Misc_Chinese_Project/script/tools copy/test.json", "w", 'utf-8-sig') as f:
+    ##dump(file_buffer, f, ensure_ascii=False, indent=2, sort_keys=True)
+    patch_file_buffer = prepare_to_write(
+        thedatabase[1], patch_sub_file, patch_texts_prefix, prefix, adapt=adapt
+    )
+    final_write(file_buffer, texts_prefix, prefix, ignore_filelist)
+    final_write(patch_file_buffer, patch_texts_prefix, prefix, ignore_filelist)
+
+
+def stbtran_mutimods(
+    root_dir_list,
+    prefix,
+    files_of_interest,
+    patch_serialization,
+    dir_blacklist,
+    path_blacklist,
+    ignore_filelist,
+    parse_process_number=8,
+    sub_fname="substitutions.json",
+    patch_sub_fname="patch_substitutions.json",
+    texts_prefix="texts",
+    patch_texts_prefix="patches",
+    adapt=False,
+):
+    sub_file = normpath(join(prefix, sub_fname))
+    patch_sub_file = normpath(join(prefix, patch_sub_fname))
+    thedatabase = construct_db_muti(
+        root_dir_list,
+        files_of_interest,
+        patch_serialization,
+        dir_blacklist,
+        path_blacklist,
+        ignore_filelist,
+        parse_process_number=parse_process_number,
+    )
+    file_buffer = prepare_to_write(
+        thedatabase[0], sub_file, texts_prefix, prefix, adapt=adapt
+    )
+    patch_file_buffer = prepare_to_write(
+        thedatabase[1], patch_sub_file, patch_texts_prefix, prefix, adapt=adapt
+    )
+    final_write(file_buffer, texts_prefix, prefix, ignore_filelist)
+    final_write(patch_file_buffer, patch_texts_prefix, prefix, ignore_filelist)
+
 
 def stbtran_para(
     root_dir,
@@ -744,7 +955,7 @@ def stbtran_para(
     path_blacklist,
     ignore_filelist,
     string_blacklist,
-    parse_process_number=cpu_count(),
+    parse_process_number=8,
     texts_prefix="texts",
 ):
     thedatabase = construct_db_para(
@@ -770,7 +981,7 @@ def stbtran_mutimods_para(
     path_blacklist,
     ignore_filelist,
     string_blacklist,
-    parse_process_number=cpu_count(),
+    parse_process_number=8,
     texts_prefix="texts",
 ):
     thedatabase = construct_db_para_muti(

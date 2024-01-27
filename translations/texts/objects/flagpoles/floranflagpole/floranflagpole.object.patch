@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "The Floran flag. Use ^green;[E]^reset; to bookmark a teleportation location.",
-    "value": ""
+    "value": "叶族人的旗帜。使用 ^green;[E]^reset; 来标记一个传送点。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Floran Flag",
-    "value": ""
+    "value": "叶族旗帜"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "The Floran flag is a lot less bloodthirsty than you'd expect.",
-    "value": ""
+    "value": "叶族旗帜比你想象的血腥要少得多。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "The Floran flag is actually quite pretty.",
-    "value": ""
+    "value": "叶族人的旗帜实际上非常漂亮。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran, Floran, Floran yeah! Ssstab with flagpole!",
-    "value": ""
+    "value": "叶族~ 叶族~ 叶族~ 耶！是个带刺刺刺的旗杆！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Statement. The simplistic beauty of the Floran flag.",
-    "value": ""
+    "value": "声明。 叶族旗帜的简约之美。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "A flower for the Florans.",
-    "value": ""
+    "value": "为叶族人打造的花"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "A horrifying Floran symbol for a horrifying species.",
-    "value": ""
+    "value": "一个可怕的叶族人符号，代表一个可怕的物种。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "That's a right cute flag. You're tellin' me it's Floran?",
-    "value": ""
+    "value": "这是一面可爱的旗帜。啥？你告诉我这旗帜这是叶族的？"
   }
 ]

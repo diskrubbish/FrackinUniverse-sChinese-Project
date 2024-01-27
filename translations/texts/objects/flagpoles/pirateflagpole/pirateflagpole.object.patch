@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "A pirate's flag. Use ^green;[E]^reset; to bookmark a teleportation location.",
-    "value": ""
+    "value": "一面海盗旗。使用 ^green;[E]^reset; 来标记一个传送点。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Pirate Flag",
-    "value": ""
+    "value": "海盗旗"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A pirate's flag... I need to stay on guard.",
-    "value": ""
+    "value": "一面海盗旗……看来我要保持警惕了。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "Grounded are no stranger to pirates. But these ones friends or foe?",
-    "value": ""
+    "value": "陆地人对海盗并不陌生。但这些是朋友还是敌人？"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran will make off with pirate richesss.",
-    "value": ""
+    "value": "叶族人将会夺得海盗的财财财宝。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Cautious. Space pirates must be in the area.",
-    "value": ""
+    "value": "小心翼翼。 此处必有太空海盗出没。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Oh sweet, pirates! Wait no, that's a bad thing.",
-    "value": ""
+    "value": "哦，亲爱的，海盗！等等，这可不是一件好事。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "The flag of scourges and bullies that take to the seas and sky.",
-    "value": ""
+    "value": "闯荡在海天之上的祸害和恶霸的旗帜。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Pirates? Guess I oughta be prepared for a fight.",
-    "value": ""
+    "value": "海盗？看来我该做好战斗准备了。"
   }
 ]
