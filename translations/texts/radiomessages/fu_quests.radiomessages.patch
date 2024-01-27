@@ -153,7 +153,7 @@
     "op": "replace",
     "path": "/fu_start_Complete1c/text",
     "raw": "The cave was previously locked, but I just opened it with a ^orange;key^reset; that I interestingly found in the ^green;old, ruined house^reset; on the surface. You should be able to enter now.",
-    "value": ""
+    "value": "要进入洞穴，你会需要这把 ^orange;钥匙^reset;，我偶然心血来潮在地表^green;破旧的老房子里^reset;找到了它。它似乎与洞穴反应，允许人进入其中。^red;请随身携带这把钥匙，否则你无法进入洞穴^reset;。"
   },
   {
     "op": "replace",

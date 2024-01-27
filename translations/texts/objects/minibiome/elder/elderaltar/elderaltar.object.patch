@@ -16,5 +16,11 @@
     "path": "/subtitle",
     "raw": "a dark, terrible relic.",
     "value": "一个黑色的可怕遗迹。"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Ancient Artifact",
+    "value": ""
   }
 ]

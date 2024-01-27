@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Tech",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Heal within a radius.",
     "value": "在半径范围内治愈"

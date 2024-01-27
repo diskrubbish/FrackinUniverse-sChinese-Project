@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Tech",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Dash further in the air.",
     "value": "可以在空中进一步地冲刺。"

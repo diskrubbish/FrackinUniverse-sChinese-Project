@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Irradium Rapier",
     "value": "镭制刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

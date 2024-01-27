@@ -28,5 +28,11 @@
     "path": "/novakidDescription",
     "raw": "This platform's strong enough t'keep from gettin' boot scuffed.",
     "value": "这个平台足够强壮，能够承受住双脚的压力。"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Supports",
+    "value": ""
   }
 ]

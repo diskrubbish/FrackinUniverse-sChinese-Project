@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Tech",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Increases grip, leap and capability of Wall Jump.",
     "value": "更进一步增加蹬墙跳的抓地力和连跳能力。"

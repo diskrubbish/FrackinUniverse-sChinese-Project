@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Wagner's Face",
     "value": "瓦格纳的脸"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "armor",
+    "value": ""
   }
 ]

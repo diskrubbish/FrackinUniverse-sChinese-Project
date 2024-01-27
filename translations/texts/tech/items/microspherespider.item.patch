@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Tech",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "A creepy-crawly microsphere.",
     "value": "这是爬墙球的微型版。"

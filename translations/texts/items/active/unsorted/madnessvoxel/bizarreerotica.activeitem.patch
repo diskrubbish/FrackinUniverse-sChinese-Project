@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "You're a creep.",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "A book that pairs a sapient being with a random mythological creature.",
     "value": "这本书中一个聪明人和随机的神话生物交配。"

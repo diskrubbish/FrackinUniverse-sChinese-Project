@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Smart Box",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Splits a stack into 100s, 10s,\nand 1s (as well as it can).\nItem-Network compatible.",
     "value": "可将物品数量以百十个位依次拆分。\n兼容物品传输网络。"

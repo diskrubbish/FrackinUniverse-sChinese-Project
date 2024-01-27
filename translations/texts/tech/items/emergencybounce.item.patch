@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Tech",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Auto-Protect against falls.",
     "value": "在掉落速度达到一定阈值会自行启动，它可以避免你摔死。"

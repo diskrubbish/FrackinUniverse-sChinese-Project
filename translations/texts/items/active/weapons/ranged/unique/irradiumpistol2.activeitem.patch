@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Irradium Justicar",
     "value": "镭之仲裁者"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Pistol",
+    "value": ""
   }
 ]

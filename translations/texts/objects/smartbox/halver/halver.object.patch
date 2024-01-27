@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Smart Box",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Splits a stack into 50% of its previous value.",
     "value": "可将物品数量以半数拆分。\n兼容物品传输网络。"

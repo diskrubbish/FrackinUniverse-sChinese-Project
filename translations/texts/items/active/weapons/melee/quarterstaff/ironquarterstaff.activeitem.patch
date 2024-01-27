@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Iron Quarterstaff",
     "value": "铁制长棍"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Quarterstaff",
+    "value": ""
   }
 ]

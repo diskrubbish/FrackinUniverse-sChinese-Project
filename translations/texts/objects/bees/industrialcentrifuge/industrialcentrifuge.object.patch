@@ -16,5 +16,11 @@
     "path": "/subtitle",
     "raw": "Powered Centrifuge",
     "value": "需供电式离心机"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "^orange;Centrifuge^reset;",
+    "value": ""
   }
 ]

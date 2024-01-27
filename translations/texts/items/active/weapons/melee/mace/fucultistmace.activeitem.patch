@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A dense slab of whackin' fun\n^cyan;Inflicts bleeding^reset;",
-    "value": "一块充满重击的乐趣的密集厚板。\n^cyan;附加出血效果^reset;"
+    "value": "一块能让人享受重击快感的厚板。\n^cyan;造成流血^reset;"
   },
   {
     "op": "replace",

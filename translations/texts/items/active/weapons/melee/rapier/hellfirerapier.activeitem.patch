@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Hellfire Rapier",
     "value": "地狱火刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

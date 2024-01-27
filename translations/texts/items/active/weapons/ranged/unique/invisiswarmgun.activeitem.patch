@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Swarm Gun",
     "value": "虫群枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "^#e43774;Upgradeable Weapon^reset;",
+    "value": ""
   }
 ]

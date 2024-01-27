@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Frost Lobber",
     "value": "寒冰之珠"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Magnorb",
+    "value": ""
   }
 ]

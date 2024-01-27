@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "^cyan;Liquid Mixer^reset;",
     "value": "^cyan;液体混合器^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "^orange;Extraction Device^reset;",
+    "value": ""
   }
 ]

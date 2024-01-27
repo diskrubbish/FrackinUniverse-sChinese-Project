@@ -10,5 +10,11 @@
     "path": "/description",
     "raw": "Ultra techy stairs",
     "value": "使用终极科技制造的楼梯。"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "supports",
+    "value": ""
   }
 ]

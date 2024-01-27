@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "petbed",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "An standard spaceship bed for your pet!",
     "value": "一张为您的宠物打造的标准的飞船床！"

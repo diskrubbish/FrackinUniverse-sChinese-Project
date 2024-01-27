@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "^red;This object is being deprecated. Just place it down to get the normal version^reset;.",
-    "value": ""
+    "value": "把你的兔子带到来世是种罪吗？"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Bunny Sarcophagus (Deprecated)",
-    "value": ""
+    "value": "翼族兔型石棺"
   }
 ]

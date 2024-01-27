@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "material",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "I can see my reflection... it's hideous!",
     "value": "我可以看到我的倒影...真有意思！"

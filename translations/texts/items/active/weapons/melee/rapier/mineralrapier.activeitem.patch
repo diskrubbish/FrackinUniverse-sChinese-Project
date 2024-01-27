@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Particle Rapier",
     "value": "粒子刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

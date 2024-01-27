@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Fries with a fermented gravy, adorned with bacon. What a crappy meal. ^red;-^reset;5^red;% Health ^reset; ^blue;Madness Gain^reset; 2 ^orange;Type: Cooked Meat + Vegetables^reset;",
-    "value": ""
+    "value": "薯条配上发酵的肉汁，装饰着培根。多么蹩脚的一顿饭。\n^cyan;-^red;5% HP ^reset; ^blue;+2^reset; 疯癫\n^orange;类型：熟肉食 + 蔬菜^reset;"
   },
   {
     "op": "replace",

@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Master's Rapier",
     "value": "宗师刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

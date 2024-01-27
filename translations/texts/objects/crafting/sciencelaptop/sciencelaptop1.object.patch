@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Personal Computer",
     "value": "个人电脑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "^orange;Extraction Device^reset;",
+    "value": ""
   }
 ]

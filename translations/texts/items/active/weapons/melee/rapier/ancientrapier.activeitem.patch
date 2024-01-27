@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Ancient Rapier",
     "value": "古代刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Autopsy Table",
     "value": "解剖台"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Extractor",
+    "value": ""
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "^red;This object is being deprecated. Just place it down to get the normal version^reset;.",
-    "value": ""
+    "value": "一个精心制作的翼族石棺。这根羽毛说明这里面是个重要人物。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Grand Avian Sarcophagus (Deprecated)",
-    "value": ""
+    "value": "华丽翼族石棺"
   }
 ]

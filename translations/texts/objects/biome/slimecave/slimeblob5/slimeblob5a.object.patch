@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Decoration",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "A vile bubble of slime. Yuk.",
     "value": "真像一团恶心的黏液！真让人不舒服。"

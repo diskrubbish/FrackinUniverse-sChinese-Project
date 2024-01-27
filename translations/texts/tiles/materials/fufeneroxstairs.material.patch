@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Fenerox Stair",
     "value": "耳廓狐楼梯"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Supports",
+    "value": ""
   }
 ]

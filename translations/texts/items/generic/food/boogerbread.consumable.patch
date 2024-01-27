@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "What IS this disgusting creation?! \n^red;-^reset;5^red;% Health^reset; \n^blue;Madness Gain^reset; 2",
-    "value": ""
+    "value": "这是什么恶心的造物！？\n^cyan;-^red;5% ^green;HP^reset;"
   },
   {
     "op": "replace",

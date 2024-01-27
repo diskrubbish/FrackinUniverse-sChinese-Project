@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Veluu Lightweaver",
     "value": "Veluu 光织者"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Magnorb",
+    "value": ""
   }
 ]

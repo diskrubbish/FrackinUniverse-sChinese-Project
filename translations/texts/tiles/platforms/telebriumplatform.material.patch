@@ -10,5 +10,11 @@
     "path": "/description",
     "raw": "A sharp, stylish platform made from telebrium.",
     "value": "由月海晶体制成的一个锐利、时尚的平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Supports",
+    "value": ""
   }
 ]

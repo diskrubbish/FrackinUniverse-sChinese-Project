@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Tungsten Quarterstaff",
     "value": "钨制长棍"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Quarterstaff",
+    "value": ""
   }
 ]

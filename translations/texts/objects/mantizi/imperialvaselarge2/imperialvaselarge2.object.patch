@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "pot",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "A large decorative glazed vase.",
     "value": "一个装饰性的大玻璃花瓶。"

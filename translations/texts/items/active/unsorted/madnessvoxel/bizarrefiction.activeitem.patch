@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Pulp Fiction",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Weird fiction that is completely bonkers.",
     "value": "完全疯狂的猎奇小说。"

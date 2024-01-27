@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "playerstation",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Large Greenhouse background",
     "value": "大型温室背景墙"

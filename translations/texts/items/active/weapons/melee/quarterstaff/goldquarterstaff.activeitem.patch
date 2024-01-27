@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Gold Quarterstaff",
     "value": "金制长棍"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Quarterstaff",
+    "value": ""
   }
 ]

@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Zerchesium Quarterstaff",
     "value": "高熔点长棍"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Quarterstaff",
+    "value": ""
   }
 ]

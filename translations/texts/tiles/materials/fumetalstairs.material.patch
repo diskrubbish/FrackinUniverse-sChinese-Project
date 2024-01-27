@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Alloy Stair",
     "value": "合金楼梯"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Supports",
+    "value": ""
   }
 ]

@@ -7,6 +7,12 @@
   },
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "material",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Small bricks made of honeystone.",
     "value": "小型砖块制作的蜜蜡石砖。"

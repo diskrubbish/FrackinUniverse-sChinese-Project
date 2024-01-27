@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Slime Rapier II",
     "value": "黏液刺剑 II"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Lasher Hook",
     "value": "鞭笞抓钩"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "^#e43774;Upgradeable Tool^reset;",
+    "value": ""
   }
 ]

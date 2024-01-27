@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Tech",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "A teency, tiny little distortionsphere. With a bomb in it.",
     "value": "这是炸弹球的微型版。"

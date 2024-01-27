@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "material",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/shortdescription",
     "raw": "White Wax Platform",
     "value": "白蜡平台"

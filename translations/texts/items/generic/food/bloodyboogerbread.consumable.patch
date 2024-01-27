@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Whose twisted idea was this?! Revolting! \n^red;-^reset;15^red;% Health^reset; \n^blue;Madness Gain^reset; 2",
-    "value": ""
+    "value": "这是谁的馊主意？恶心！ \n^cyan;-^red;15% ^green;HP^reset;"
   },
   {
     "op": "replace",

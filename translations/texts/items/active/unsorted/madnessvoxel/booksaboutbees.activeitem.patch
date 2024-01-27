@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Dr.Beeman's Bees",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "This is the Bee Movie script. Over and over again.",
     "value": "这是一本蜜蜂电影脚本。一遍接一遍的重复着。"

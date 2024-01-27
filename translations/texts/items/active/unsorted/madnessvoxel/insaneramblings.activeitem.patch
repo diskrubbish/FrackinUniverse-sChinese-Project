@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Work of a Genius",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Your lab notes. Thoroughly nutters.",
     "value": "你的实验笔记。彻头彻尾的疯子。"

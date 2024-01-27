@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Scarlet Empress",
     "value": "猩红女皇"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

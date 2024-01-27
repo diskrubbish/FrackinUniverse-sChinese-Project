@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "playerstation",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Residential Shaft background",
     "value": "一块玻璃背景墙(六)"

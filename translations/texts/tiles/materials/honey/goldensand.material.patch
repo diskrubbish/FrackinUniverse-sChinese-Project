@@ -22,5 +22,11 @@
     "path": "/floranDescription",
     "raw": "Sssand.",
     "value": "沙沙沙子。"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "material",
+    "value": ""
   }
 ]

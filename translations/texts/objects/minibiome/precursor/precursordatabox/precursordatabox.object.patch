@@ -76,5 +76,11 @@
     "path": "/fukirhosDescription",
     "raw": "Ooh goody! Ancient technology with precursor files!",
     "value": "太棒了！带有前驱文件的古老技术！"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "^orange;Extraction Device^reset;",
+    "value": ""
   }
 ]

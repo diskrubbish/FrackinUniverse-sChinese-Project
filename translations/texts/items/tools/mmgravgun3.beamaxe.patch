@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "^#b84cbc;Precursor Manipulator^reset;",
     "value": "^#b84cbc;先驱物质枪^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Matter Manipulator",
+    "value": ""
   }
 ]

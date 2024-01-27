@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "craftingIngredient",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "An empty honey jar.",
     "value": "一个空的蜂蜜罐。"

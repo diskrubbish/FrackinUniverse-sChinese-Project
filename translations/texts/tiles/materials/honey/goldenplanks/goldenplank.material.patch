@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "material",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/shortdescription",
     "raw": "Golden Plank",
     "value": "金色木板"

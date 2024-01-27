@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Shadow Orbs",
     "value": "暗影之珠"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Magnorb",
+    "value": ""
   }
 ]

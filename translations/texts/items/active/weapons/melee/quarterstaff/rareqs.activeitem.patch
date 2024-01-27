@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Rare Quarterstaff",
     "value": "精良长棍"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Quarterstaff",
+    "value": ""
   }
 ]

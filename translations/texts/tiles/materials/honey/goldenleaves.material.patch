@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "material",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "A block made of golden leaves.",
     "value": "一块金黄的叶子"

@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Telebrium Rapier",
     "value": "月海刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

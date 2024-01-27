@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Tech",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Near lethal levels of drugs, superior speed and dash. Passive.",
     "value": "注射的药物极其致命，但会带来更快的移动速度和冲刺距离。被动能力。"

@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Sushi Belt",
     "value": "寿司带"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "misc",
+    "value": ""
   }
 ]

@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Tungsten Rapier",
     "value": "钨制刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

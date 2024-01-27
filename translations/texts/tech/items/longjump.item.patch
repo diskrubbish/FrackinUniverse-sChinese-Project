@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Tech",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "A powerful boost to jumping instead of a double-jump.",
     "value": "大大提高跳跃高度，而不是双跳。"

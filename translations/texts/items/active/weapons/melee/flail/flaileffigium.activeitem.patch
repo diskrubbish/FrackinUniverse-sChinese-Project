@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Effigium Striker",
     "value": "幻影打击者"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Striker",
+    "value": ""
   }
 ]

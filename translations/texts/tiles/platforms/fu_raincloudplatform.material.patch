@@ -28,5 +28,11 @@
     "path": "/novakidDescription",
     "raw": "This here cloud is made from some heavy fluff stuff.",
     "value": "这里的云是由一些重于绒毛的东西组成的。"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Supports",
+    "value": ""
   }
 ]

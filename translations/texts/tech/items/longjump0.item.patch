@@ -1,9 +1,15 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Tech",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Increased jump ability.\n^green;It's safe to sell this item, you won't lose the tech.^reset;\n^yellow;In multiplayer:^reset; giving this item to another player will teach them this tech.",
-    "value": ""
+    "value": "增加跳跃能力。"
   },
   {
     "op": "replace",

@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Common Rapier",
     "value": "普通刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

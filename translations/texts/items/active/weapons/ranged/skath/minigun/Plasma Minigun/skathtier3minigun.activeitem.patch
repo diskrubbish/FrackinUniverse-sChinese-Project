@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Skath Plasma Minigun",
     "value": "绘世者机枪·等离子"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Minigun",
+    "value": ""
   }
 ]

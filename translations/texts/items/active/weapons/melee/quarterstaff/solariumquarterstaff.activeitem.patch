@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Solarium Quarterstaff",
     "value": "日耀长棍"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Quarterstaff",
+    "value": ""
   }
 ]

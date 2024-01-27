@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Cookie Striker",
     "value": "曲奇打击者"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Striker",
+    "value": ""
   }
 ]

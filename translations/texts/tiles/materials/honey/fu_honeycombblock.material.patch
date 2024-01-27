@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Honeycomb Block",
     "value": "蜂巢块"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "material",
+    "value": ""
   }
 ]

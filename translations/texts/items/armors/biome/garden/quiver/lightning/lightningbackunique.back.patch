@@ -9,6 +9,6 @@
     "op": "replace",
     "path": "/description",
     "raw": "^green;x3.5^reset; Draw Speed (Bows), ^red;+5^reset; Energy Per Shot (Bows)",
-    "value": ""
+    "value": "+^green;x2.5^reset;箭矢速度，每击消耗能量（弓箭）^red;+5^reset;"
   }
 ]

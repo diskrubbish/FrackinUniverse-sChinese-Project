@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Research Server",
     "value": "研究用服务器"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "^orange;Extraction Device^reset;",
+    "value": ""
   }
 ]

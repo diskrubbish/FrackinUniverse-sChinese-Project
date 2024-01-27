@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Slime Wall Jump Tech Idea",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Written idea for adapting jump tech for slimes. Bring it to Elliott",
     "value": "有关适用于史莱姆的蹬墙跳技术的书面笔记。 把它带给艾略特。"

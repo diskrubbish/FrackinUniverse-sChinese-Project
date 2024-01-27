@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "container",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "A Complicated Nightar fuel hatch.",
     "value": "一个复杂的夜族燃料仓。"

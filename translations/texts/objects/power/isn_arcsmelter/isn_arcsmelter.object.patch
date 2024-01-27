@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "^cyan;Arc Smelter^reset;",
     "value": "^cyan;电弧冶炼炉^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "^orange;Extraction Device^reset;",
+    "value": ""
   }
 ]

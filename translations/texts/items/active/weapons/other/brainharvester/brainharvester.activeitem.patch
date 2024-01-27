@@ -13,6 +13,12 @@
   },
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Shotgun",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/altAbility/name",
     "raw": "Shadow Lance",
     "value": "暗影之枪"

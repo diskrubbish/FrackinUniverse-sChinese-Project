@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Shard Field",
     "value": "碎片之珠"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Magnorb",
+    "value": ""
   }
 ]

@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Carbon Quarterstaff",
     "value": "碳制长棍"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Quarterstaff",
+    "value": ""
   }
 ]

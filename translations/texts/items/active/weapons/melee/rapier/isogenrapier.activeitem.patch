@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Isogen Rapier",
     "value": "寒霜刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

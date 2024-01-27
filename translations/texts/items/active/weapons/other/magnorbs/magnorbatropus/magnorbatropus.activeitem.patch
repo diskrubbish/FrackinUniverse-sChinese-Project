@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Flesh Bola",
     "value": "血肉之珠"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Magnorb",
+    "value": ""
   }
 ]

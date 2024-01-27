@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "+^green;10^reset;% Spear/Bow Mastery\nHealth x^green;1.12^reset;\n^cyan;Immune: Electrified^reset;",
-    "value": "+^green;10^reset;%矛/弓箭专精\n生命x^green;1.12^reset;\n^cyan;免疫：感电^reset;"
+    "value": "+^green;10^reset;%矛/弓箭精通\n生命x^green;1.12^reset;\n^cyan;免疫：感电^reset;"
   },
   {
     "op": "replace",

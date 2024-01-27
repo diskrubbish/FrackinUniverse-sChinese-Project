@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "^red;This object is being deprecated. Just place it down to get the normal version^reset;.",
-    "value": ""
+    "value": "一个精心制作的翼族石棺。我想知道里面是什么。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Avian Sarcophagus (Deprecated)",
-    "value": ""
+    "value": "翼族石棺"
   }
 ]

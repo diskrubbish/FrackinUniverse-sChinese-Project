@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Prismatic Rapier",
     "value": "棱镜刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

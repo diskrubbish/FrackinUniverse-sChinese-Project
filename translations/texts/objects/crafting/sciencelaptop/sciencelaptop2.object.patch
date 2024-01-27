@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Advanced Computer",
     "value": "高级电脑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "^orange;Extraction Device^reset;",
+    "value": ""
   }
 ]

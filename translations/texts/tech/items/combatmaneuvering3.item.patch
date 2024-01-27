@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Tech",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Dodge a further distance. Keeps momentum. Allows jumping mid-dodge.",
     "value": "闪避更远的距离。保持动量。允许跳跃在半空中时闪避。"

@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "^orange;Extraction Device^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "A truly amazing, ancient computer. Can devise the perfect cup of coffee.\n^cyan;Research Rate^reset;: 6% (1.2%), 0.5s",
     "value": "一台令人叹为观止的古代计算机。可以设计出完美的咖啡。\n^cyan;研究效率^reset;: 6% (1.2%), 0.5s"

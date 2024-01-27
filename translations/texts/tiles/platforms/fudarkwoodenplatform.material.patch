@@ -28,5 +28,11 @@
     "path": "/novakidDescription",
     "raw": "Some simple lookin' wooden platforms.",
     "value": "看起来简洁的木制平台。"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Supports",
+    "value": ""
   }
 ]

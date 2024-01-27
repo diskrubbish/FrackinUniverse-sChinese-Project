@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Human Schematics (Energy)",
     "value": "人族盔甲架构图(能量)"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Blueprint",
+    "value": ""
   }
 ]

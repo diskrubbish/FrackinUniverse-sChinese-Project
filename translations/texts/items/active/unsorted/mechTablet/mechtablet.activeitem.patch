@@ -10,5 +10,11 @@
     "path": "/description",
     "raw": "^cyan;Primary^reset;: Mech Assembly\n^yellow;Secondary^reset;: Mech Fuel",
     "value": "^cyan;左键^reset;: 机甲装配\n^yellow;右键^reset;: 机甲燃料"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Console",
+    "value": ""
   }
 ]

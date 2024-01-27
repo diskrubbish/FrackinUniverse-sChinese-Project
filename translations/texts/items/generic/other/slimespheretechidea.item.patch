@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Slime Sphere Tech Idea",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Written idea for adapting sphere tech for slimes. Bring it to Elliott",
     "value": "有关适用于史莱姆的球形技术的书面笔记。 把它带给艾略特。"

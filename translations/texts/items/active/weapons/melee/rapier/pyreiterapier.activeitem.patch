@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Pyreite Rapier",
     "value": "永燃刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

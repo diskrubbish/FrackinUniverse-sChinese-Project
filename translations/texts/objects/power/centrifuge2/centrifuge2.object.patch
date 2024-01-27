@@ -16,5 +16,11 @@
     "path": "/subtitle",
     "raw": "Extract items from resources",
     "value": "从资源中提取物质"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "^orange;Centrifuge^reset;",
+    "value": ""
   }
 ]

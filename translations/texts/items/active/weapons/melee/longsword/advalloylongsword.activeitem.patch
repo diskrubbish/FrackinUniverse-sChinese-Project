@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Forged from carbon. Bolstered by rage.\n^cyan;Inflicts bleeding^reset;",
-    "value": "由碳锻造，由狂暴加固。\n^cyan;附加出血效果^reset;"
+    "value": "由碳锻造，由怒火加固。\n^cyan;造成流血^reset;"
   },
   {
     "op": "replace",

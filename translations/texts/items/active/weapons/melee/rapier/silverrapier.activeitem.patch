@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Silver Rapier",
     "value": "银制刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

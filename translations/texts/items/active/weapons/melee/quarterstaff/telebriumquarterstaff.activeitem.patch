@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Telebrium Quarterstaff",
     "value": "月海长棍"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Quarterstaff",
+    "value": ""
   }
 ]

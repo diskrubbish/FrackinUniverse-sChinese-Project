@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "^orange;Extraction Device^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "A huge central mainframe accessing multiple simultaneous data streams.\n^cyan;Research Rate^reset;: 6%, 0.5s",
     "value": "一台巨大的中央主机，访问多股同时发生的数据流。\n^cyan;研究效率^reset;: 6%, 0.5s"

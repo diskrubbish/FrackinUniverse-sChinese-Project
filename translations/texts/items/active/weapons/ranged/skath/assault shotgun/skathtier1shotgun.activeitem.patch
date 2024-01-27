@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Rustic Skath Shotgun",
     "value": "绘世者霰弹枪·低级"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Assault Shotgun",
+    "value": ""
   }
 ]

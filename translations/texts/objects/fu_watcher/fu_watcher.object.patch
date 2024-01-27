@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Watcher",
     "value": "观察器"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Chunk Loader",
+    "value": ""
   }
 ]

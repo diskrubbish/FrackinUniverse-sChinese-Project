@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Zerchesium Rapier",
     "value": "高熔点刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

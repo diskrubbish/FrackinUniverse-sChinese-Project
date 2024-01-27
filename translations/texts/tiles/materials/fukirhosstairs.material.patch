@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Kirhosi Dark Stairs",
     "value": "鼠人暗色楼梯"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Supports",
+    "value": ""
   }
 ]

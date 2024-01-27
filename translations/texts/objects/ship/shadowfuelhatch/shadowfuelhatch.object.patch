@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "container",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Accepts a bunch of different kinds of fuel.",
     "value": "接受各种各样的燃料。"

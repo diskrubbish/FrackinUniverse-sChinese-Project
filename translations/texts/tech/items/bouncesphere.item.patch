@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Tech",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "A bouncing distortion sphere. Quite useful.",
     "value": "可以弹跳的变形球，真的很有用。"

@@ -10,5 +10,11 @@
     "path": "/description",
     "raw": "A sleek, low impact platforming device.",
     "value": "光滑，不耐冲击的平台设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "supports",
+    "value": ""
   }
 ]

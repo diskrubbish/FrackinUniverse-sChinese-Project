@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "^green;Now just $19.95!^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Click a gift box to select reward category.",
     "value": "单击以选择奖励类别。"

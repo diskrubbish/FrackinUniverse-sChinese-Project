@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Titanium Striker",
     "value": "钛制打击者"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Striker",
+    "value": ""
   }
 ]

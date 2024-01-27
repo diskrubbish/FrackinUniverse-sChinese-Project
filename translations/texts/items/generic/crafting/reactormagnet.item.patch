@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "reactormagnet",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "A key part of most reactors, keeping energy contained and stored.",
     "value": "大多数反应堆的关键部分，用于保持和储存能量。”"

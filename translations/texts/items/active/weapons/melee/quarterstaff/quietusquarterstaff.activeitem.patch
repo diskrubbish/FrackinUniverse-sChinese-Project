@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Quietus Quarterstaff",
     "value": "寂灭双头棍"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Quarterstaff",
+    "value": ""
   }
 ]

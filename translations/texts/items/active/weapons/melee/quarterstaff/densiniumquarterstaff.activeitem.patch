@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Densinium Quarterstaff",
     "value": "超致密长棍"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Quarterstaff",
+    "value": ""
   }
 ]

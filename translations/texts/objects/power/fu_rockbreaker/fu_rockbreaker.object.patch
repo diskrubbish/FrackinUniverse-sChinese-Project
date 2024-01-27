@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "^cyan;Rock Breaker^reset;",
     "value": "^cyan;破岩机^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "^orange;Extraction Device^reset;",
+    "value": ""
   }
 ]

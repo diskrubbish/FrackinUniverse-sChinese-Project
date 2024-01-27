@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Tech",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "Injects performance-enhancing drugs directly into your body. Grants speed and dash. Passive.",
     "value": "通过注射增强神经的药物，提高你的移动速度和冲刺距离。被动能力。"

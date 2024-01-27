@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A long-lasting vitality enhancer.\n^cyan;+^white;25% ^cyan;HP ^gray;(^white;2m^gray;) ^blue;Madness Gain^reset; 1",
-    "value": ""
+    "value": "一种持久的生命力增强剂。\n^cyan;+^white;25%^cyan;HP^gray;(^white;持续2m^gray;)\n^blue;疯癫+^white;5^reset;"
   },
   {
     "op": "replace",

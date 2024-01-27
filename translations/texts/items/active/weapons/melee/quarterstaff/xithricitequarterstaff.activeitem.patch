@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Xithricite Quarterstaff",
     "value": "赛德瑞瑟长棍"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Quarterstaff",
+    "value": ""
   }
 ]

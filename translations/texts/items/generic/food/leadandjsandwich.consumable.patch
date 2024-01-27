@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Don't eat this.\n^blue;Madness Gain^reset; 2\n^yellow;Type: Robot Food^reset;",
-    "value": ""
+    "value": "别恰，烙嘴。\n^blue;+^white;1 ^blue;疯癫^reset;\n^yellow;类型：机械食物^reset;"
   },
   {
     "op": "replace",

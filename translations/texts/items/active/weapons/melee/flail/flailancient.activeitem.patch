@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Ancient Striker",
     "value": "远古打击者"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Striker",
+    "value": ""
   }
 ]

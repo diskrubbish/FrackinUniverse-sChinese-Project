@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Penumbral Rapier",
     "value": "半影刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

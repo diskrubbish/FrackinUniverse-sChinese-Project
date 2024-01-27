@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Disturbing Object",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "This feels both firm and squishy to the touch. What could it be?",
     "value": "这东西摸起来又硬又软，还能是什么呢？"

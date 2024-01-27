@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A trough of iron. It's empty.",
-    "value": ""
+    "value": "一个木质食槽。空的"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "An empty iron container.",
-    "value": ""
+    "value": "一个空的木质容器。"
   },
   {
     "op": "replace",

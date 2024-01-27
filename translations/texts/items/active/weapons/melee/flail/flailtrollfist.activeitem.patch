@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Trollfist Striker",
     "value": "“上钩”拳"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Striker",
+    "value": ""
   }
 ]

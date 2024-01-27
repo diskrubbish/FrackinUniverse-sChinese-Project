@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Cosmic Striker",
     "value": "宇宙打击者"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Striker",
+    "value": ""
   }
 ]

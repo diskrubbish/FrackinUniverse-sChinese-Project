@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Phantasm Rapier",
     "value": "幻影刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

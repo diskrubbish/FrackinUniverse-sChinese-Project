@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Neutron Star Orbs",
     "value": "中子星珠"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Magnorb",
+    "value": ""
   }
 ]

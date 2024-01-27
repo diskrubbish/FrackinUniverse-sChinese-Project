@@ -22,5 +22,11 @@
     "path": "/shortdescription",
     "raw": "Medieval Workstation",
     "value": "中古工作站"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Primitive Crafting",
+    "value": ""
   }
 ]

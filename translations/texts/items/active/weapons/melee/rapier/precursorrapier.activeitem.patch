@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Precursor Rapier",
     "value": "先驱刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Invisipuke!",
     "value": "脓液枪"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Bio Weapon",
+    "value": ""
   }
 ]

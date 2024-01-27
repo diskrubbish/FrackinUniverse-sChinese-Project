@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Floran Schematics (Power)",
     "value": "叶族盔甲架构图(力量)"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Blueprint",
+    "value": ""
   }
 ]

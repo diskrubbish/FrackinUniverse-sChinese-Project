@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Lunari Rapier",
     "value": "月晶刺剑"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
   }
 ]

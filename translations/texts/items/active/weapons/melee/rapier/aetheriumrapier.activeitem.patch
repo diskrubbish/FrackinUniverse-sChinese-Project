@@ -13,6 +13,12 @@
   },
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Rapier",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "Aetherium Puncturer",
     "value": "阳清刺穿者"

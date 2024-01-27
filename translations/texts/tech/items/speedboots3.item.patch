@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/category",
+    "raw": "Tech",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "An implant that genetically alters your speed and reaction time. Passive.",
     "value": "变异神经覆盖你的身体每一个角落，从本质上改变你的移动速度和反应时间。被动能力。"

@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Iron Striker",
     "value": "铁制打击者"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Striker",
+    "value": ""
   }
 ]

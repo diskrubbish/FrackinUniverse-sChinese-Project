@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Hylotl Schematics (Power)",
     "value": "鲛族盔甲架构图(力量)"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Blueprint",
+    "value": ""
   }
 ]

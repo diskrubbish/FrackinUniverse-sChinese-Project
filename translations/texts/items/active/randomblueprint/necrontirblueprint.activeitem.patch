@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Necrontir Schematics",
     "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "raw": "Blueprint",
+    "value": ""
   }
 ]
