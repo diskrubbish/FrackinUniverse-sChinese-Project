@@ -1,0 +1,26 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/items/frackinuniverse:status/label",
+    "raw": "Personal Tricorder",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/items/frackinuniverse:questlist/label",
+    "raw": "Quest List",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/items/frackinuniverse:research/label",
+    "raw": "Research",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/items/frackinuniverse:updates/label",
+    "raw": "Updates",
+    "value": ""
+  }
+]
