@@ -475,7 +475,7 @@ def parseFile(
                 if filename.endswith(k) or k == "*":
                     for path in paths:
                         if len(path.split("/")) >= 15:
-                            print("Some path in  " + filename + "'s len > 15！")
+                            print(path + " in  " + filename + "'s len > 15！")
                             continue
                         for roi in files_of_interest[k]:
                             if roi.match(path) or dialog:
@@ -530,7 +530,7 @@ def parsePatchFile(
             except:
                 print("Cannot parse " + filename)
                 return []
-            filename = filename.replace(".patch", "")
+            filename = filename[0:len(filename)-6]
             dialog = dirname(filename).endswith("dialog")
             for k in files_of_interest.keys():
                 if filename.endswith(k) or k == "*":

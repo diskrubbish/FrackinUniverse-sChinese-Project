@@ -14,7 +14,7 @@ else:
     from os.path import normpath
 
 import para_api
-
+from translation_memory import import_memory_para
 
 para_id = "7650"
 para_path = normpath((os.environ.get("GITHUB_WORKSPACE") + "/translations/texts"))
@@ -39,6 +39,9 @@ def walk_files(local_path, endswith=".patch"):
 
 
 if __name__ == "__main__":
+    print("Import Translation Memory...")
+    import_memory_para(para_path,os.environ.get('GITHUB_WORKSPACE')+"/translations/memory.json")
+    import_memory_para(para_path,os.environ.get('GITHUB_WORKSPACE')+"/script/tools/starcore_memory.json")
     print("Walking local dir...")
     local_list = walk_files(para_path)
     # para_list = walk_files(normpath(temp_path+"/data/texts"))

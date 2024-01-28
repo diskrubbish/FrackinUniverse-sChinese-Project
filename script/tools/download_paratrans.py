@@ -85,8 +85,6 @@ if __name__ == "__main__":
     for file in file_list:
         fix_transltion(para_path , normpath(temp_path+"/data/raw"),file)
     shutil.copytree(para_path,normpath(temp_path+"/data/texts"))
-    print("Import Translation Memory...")
-    import_memory_para(para_path,os.environ.get('GITHUB_WORKSPACE')+"/translations/memory.json")
     
         
             

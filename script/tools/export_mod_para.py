@@ -52,7 +52,7 @@ def create_metadata(root_dir, prefix, contentfolder, vdf_save_path):
     )
     mod_description = "\n".join(mod_description)
     mod_metadata["description"] = mod_description
-    mod_metadata["version"] = mod_adapt_version
+    mod_metadata["version"] = mod_adapt_version+"-"+mod_creat_time
     raw_steam_vdf = {
         "appid": "211820",
         "contentfolder": contentfolder,
