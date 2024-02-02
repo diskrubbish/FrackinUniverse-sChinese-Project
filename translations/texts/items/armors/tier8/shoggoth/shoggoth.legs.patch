@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; ^cyan;Immune^reset;: Protects against most effects^reset;",
-    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; ^cyan;免疫^reset;：大多数异常效果"
+    "raw": "^orange;Set Bonuses^reset; (^orange;Part 3^reset;):\n^yellow;^reset; ^cyan;Immune^reset;: Liquid Nitrogen, Caliginous Gas, Bio-Ooze, Slush, Snow",
+    "value": ""
   },
   {
     "op": "replace",

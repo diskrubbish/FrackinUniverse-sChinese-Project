@@ -487,6 +487,18 @@
   },
   {
     "op": "replace",
+    "path": "/strings/research/workbenchenergywood/0",
+    "raw": "Energy Wood Construction",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/strings/research/workbenchenergywood/1",
+    "raw": "^orange;Tier 3^reset;\n\nYou've designed a whole bunch of EnergyWood-based furniture items.",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/strings/research/workbenchnightar/0",
     "raw": "Nightar Construction",
     "value": "夜族建筑"

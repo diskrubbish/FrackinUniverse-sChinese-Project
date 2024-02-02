@@ -15,42 +15,42 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A desk. It seems functional.",
-    "value": ""
+    "value": "看起来能用的桌子。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "A nice enough looking desk.",
-    "value": ""
+    "value": "足够好看的桌子。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "A dessk!",
-    "value": ""
+    "value": "桌桌桌子！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Impassive. It is a desk.",
-    "value": ""
+    "value": "面无表情。一张桌子。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "A desk. It seems okay.",
-    "value": ""
+    "value": "桌子。看起来还好。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "A basic desk. It is not to my tastes.",
-    "value": ""
+    "value": "基本的桌子。看起来不合我的口味。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "A desk. For those who like to sit down and write stuff.",
-    "value": ""
+    "value": "桌子。给那些喜欢坐着写文书材料的人用的。"
   }
 ]

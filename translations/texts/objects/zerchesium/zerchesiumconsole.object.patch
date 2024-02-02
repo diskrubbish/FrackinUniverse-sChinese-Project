@@ -15,42 +15,42 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A keypad. Keeps people from nosing around.",
-    "value": ""
+    "value": "键盘。让人听不见周围的噪音。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "A keypad. Most Avian have little use for these.",
-    "value": ""
+    "value": "键盘。大多数翼族人不用这个。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran type rude wordss on keypad. Nothing happenss...",
-    "value": ""
+    "value": "叶族人用键盘输入脏脏脏话。但是什么也没发生生生…"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Excited. A keypad, can I crack the code?",
-    "value": ""
+    "value": "激动。键盘，我能破解密码么？"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "A keypad! Can I crack the code?",
-    "value": ""
+    "value": "键盘！我能破解密码么？"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "A keypad. Can be an effective locking device when used correctly.",
-    "value": ""
+    "value": "键盘。正确使用时是有效的上锁工具。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Does this keypad do anything?",
-    "value": ""
+    "value": "这键盘有什么用么？"
   }
 ]

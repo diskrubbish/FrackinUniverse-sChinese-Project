@@ -1,0 +1,332 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/labels/fossilResearched",
+    "raw": "^cyan;Researched Fossil^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/artifactElderResearched",
+    "raw": "^cyan;Researched Artifact^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/artifactResearched",
+    "raw": "^cyan;Researched Artifact^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/bugResearched",
+    "raw": "^cyan;Researched Insect^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/geodeResearched",
+    "raw": "^cyan;Researched Geode^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/itemUpgrader",
+    "raw": "^#a335ee;Item Upgrader^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/unusualRelic",
+    "raw": "^green;Unusual Relic^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/resourceItem",
+    "raw": "^cyan;Resource Item^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/mechChip",
+    "raw": "Mech Module",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/translocator",
+    "raw": "^#e43774;Upgradeable Tool^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/parasol",
+    "raw": "^#e43774;Upgradeable Tool^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/bugnet",
+    "raw": "^#e43774;Upgradeable Tool^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/relocator",
+    "raw": "^#e43774;Upgradeable Tool^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/hookshot",
+    "raw": "^#e43774;Upgradeable Tool^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/mechrepairtool",
+    "raw": "^#e43774;Upgradeable Tool^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/mininglaser",
+    "raw": "Mining Laser",
+    "value": "激光挖掘器"
+  },
+  {
+    "op": "replace",
+    "path": "/labels/detector",
+    "raw": "^#e43774;Upgradeable Tool^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/armcannon",
+    "raw": "Arm Cannon",
+    "value": "臂炮"
+  },
+  {
+    "op": "replace",
+    "path": "/labels/injector",
+    "raw": "Injector",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/quarterstaff",
+    "raw": "Quarterstaff",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/greataxe",
+    "raw": "Greataxe",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/shortspear",
+    "raw": "Shortspear",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/katana",
+    "raw": "Katana",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/rapier",
+    "raw": "Rapier",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/mace",
+    "raw": "Mace",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/longsword",
+    "raw": "Longsword",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/lance",
+    "raw": "Lance",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/scythe",
+    "raw": "Scythe",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/energy",
+    "raw": "Energy Weapon",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/bioweapon",
+    "raw": "Bioweapon",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/petfood",
+    "raw": "Pet Food",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/swtjc_ewg_beamPistol",
+    "raw": "Beam Pistol",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/swtjc_ewg_revolver",
+    "raw": "High-Caliber Pistol",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/swtjc_ewg_submachineGun",
+    "raw": "Submachine Gun",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/swtjc_ewg_battleRifle",
+    "raw": "Battle Rifle",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/swtjc_ewg_squadAutomaticWeapon",
+    "raw": "Squad Automatic Weapon",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/swtjc_ewg_beamRifle",
+    "raw": "Beam Rifle",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/swtjc_ewg_antiMaterialRifle",
+    "raw": "Anti-Material Rifle",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/swtjc_ewg_sawedOffShotgun",
+    "raw": "Short-Barreled Shotgun",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/swtjc_ewg_autoShotgun",
+    "raw": "Automatic Shotgun",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/swtjc_ewg_flakCannon",
+    "raw": "Flak Cannon",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/swtjc_ewg_multiGrenadeLauncher",
+    "raw": "Multi-Grenade Launcher",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/swtjc_ewg_miniRocketLauncher",
+    "raw": "Mini-Rocket Launcher",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/plasma",
+    "raw": "Plasma Weapon",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/flamethrower",
+    "raw": "Flamethrower",
+    "value": "喷射火焰"
+  },
+  {
+    "op": "replace",
+    "path": "/labels/liquidGun",
+    "raw": "Liquid Gun",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/upgradeable",
+    "raw": "^#e43774;Upgradeable Weapon^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/upgradeableTool",
+    "raw": "^#e43774;Upgradeable Tool^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/sniperrifle",
+    "raw": "Sniper Rifle",
+    "value": "狙击步枪"
+  },
+  {
+    "op": "replace",
+    "path": "/labels/precursor",
+    "raw": "Precursor",
+    "value": "先驱"
+  },
+  {
+    "op": "replace",
+    "path": "/labels/elder",
+    "raw": "Elder",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/crewcontract",
+    "raw": "Crew Contract",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/craftingOre",
+    "raw": "Ore",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/craftingGene",
+    "raw": "Gene",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/labels/fu_byosShipUnlock",
+    "raw": "S.A.I.L Ship Data",
+    "value": ""
+  }
+]

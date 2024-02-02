@@ -1,6 +1,6 @@
 ﻿{
   "author": "Sky,Diskrubbish",
-  "description": "[H1] 适配版本 [/H1]\n[list]\n[*] 自动构建于 2024-01-28 02:48:58.093171+08:00，当前适配 Frackin' Universe 6.3.8 版本\n[/list]\n\n[H1] 项目主页 [/H1]\n[list]\n[*] GitHub 主页 [url=https://github.com/diskrubbish/FrackinUniverse-sChinese-Project/tree/Paratranz] GitHub [/url]\n[*] Telegram 群组 [url=https://t.me/joinchat/DR0AV0kjlPgEmltSqwr12Q] Telegram [/url]\n[/list]\n\n[H1] 汉化说明 [/H1]\n[list]\n[*] 因为使用了补丁方式进行文本替换。该mod不包含[url=https://steamcommunity.com/sharedfiles/filedetails/?id=729480149]Frackin' Universe本体[/url]←点击订阅即可。(该方式的优点是只要本体改动不大，汉化始终有效，且可保持最新版本，无需重新打包)\n[*] 由于之前的自动维护已经寄了，我重写了一下自动维护系统， 并且弄到了Paratranz上，订阅了[url=https://steamcommunity.com/sharedfiles/filedetails/?id=754350883]之前版本[/url]的同志们记得取消订阅哈。\n[*]大火想维护那就维护吧，我们欢迎新韭菜的加入。\n[/list]\n\n[H1] 协助翻译 [/H1]\n[list]\n[*]有兴趣帮助完善翻译的可以直接前往[url=https://paratranz.cn/projects/7650] Paratranz项目主页 [/url] 查看，待我维护稳定后我会慢慢放人进来。\n[*] 目前项目已转为自动构建，并在 FrackinUniverse 版本更新后自动跟进汉化版本更新（仅版本更新，不能保证文本跟进）。\n[/list]\n\n[H1] 下载相关 [/H1]\n[list]\n[*] NonSteam用户 & 其他用户直接下载 [url=https://github.com/ProjectSky/FrackinUniverse-sChinese-Project/releases/latest] 离线版本 [/url] 即可，下载后放入游戏mods文件夹，注意删除旧版本汉化。\n[/list]\n\n[H1] 特别感谢 [/H1]\n[list]\n[*] 感谢所有参与到 Frackin' Universe 中文化项目的贡献者，这些贡献者提供了很多帮助。\n[*] 感谢 Frackin' Universe 的作者 Sayter 提供了一个这样“有趣”的MOD。\n[*] 感谢原汉化的维护者 Sky ，没有他就没有现在。\n[/list]",
+  "description": "[H1] 适配版本 [/H1]\n[list]\n[*] 自动构建于 2024-02-03 04:44:21.305990+08:00，当前适配 Frackin' Universe 6.4.0 版本\n[/list]\n\n[H1] 项目主页 [/H1]\n[list]\n[*] GitHub 主页 [url=https://github.com/diskrubbish/FrackinUniverse-sChinese-Project/tree/Paratranz] GitHub [/url]\n[*] Telegram 群组 [url=https://t.me/joinchat/DR0AV0kjlPgEmltSqwr12Q] Telegram [/url]\n[/list]\n\n[H1] 汉化说明 [/H1]\n[list]\n[*] 因为使用了补丁方式进行文本替换。该mod不包含[url=https://steamcommunity.com/sharedfiles/filedetails/?id=729480149]Frackin' Universe本体[/url]←点击订阅即可。(该方式的优点是只要本体改动不大，汉化始终有效，且可保持最新版本，无需重新打包)\n[*] 由于之前的自动维护已经寄了，我重写了一下自动维护系统， 并且弄到了Paratranz上，订阅了[url=https://steamcommunity.com/sharedfiles/filedetails/?id=754350883]之前版本[/url]的同志们记得取消订阅哈。\n[*]大火想维护那就维护吧，我们欢迎新韭菜的加入。\n[/list]\n\n[H1] 协助翻译 [/H1]\n[list]\n[*]有兴趣帮助完善翻译的可以直接前往[url=https://paratranz.cn/projects/7650] Paratranz项目主页 [/url] 查看，待我维护稳定后我会慢慢放人进来。\n[*] 目前项目已转为自动构建，并在 FrackinUniverse 版本更新后自动跟进汉化版本更新（仅版本更新，不能保证文本跟进）。\n[/list]\n\n[H1] 下载相关 [/H1]\n[list]\n[*] NonSteam用户 & 其他用户直接下载 [url=https://github.com/ProjectSky/FrackinUniverse-sChinese-Project/releases/latest] 离线版本 [/url] 即可，下载后放入游戏mods文件夹，注意删除旧版本汉化。\n[/list]\n\n[H1] 特别感谢 [/H1]\n[list]\n[*] 感谢所有参与到 Frackin' Universe 中文化项目的贡献者，这些贡献者提供了很多帮助。\n[*] 感谢 Frackin' Universe 的作者 Sayter 提供了一个这样“有趣”的MOD。\n[*] 感谢原汉化的维护者 Sky ，没有他就没有现在。\n[/list]",
   "friendlyName": "Fu Schinese Mod Reborn Version",
   "includes": [
     "FrackinUniverse"
@@ -8,5 +8,5 @@
   "link": "https://zomboid.cn/blog",
   "name": "FuSchineseReborn",
   "steamContentId": "3144237230",
-  "version": "6.3.8"
+  "version": "6.4.0-2024-02-03 04:44:21.305990+08:00"
 }

@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A standard chair.",
-    "value": ""
+    "value": "普通的椅子。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "A simple chair.",
-    "value": ""
+    "value": "朴素的椅子。"
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "A basic chair, it serves its purpose.",
-    "value": ""
+    "value": "最基本的椅子。质量不错。"
   },
   {
     "op": "replace",

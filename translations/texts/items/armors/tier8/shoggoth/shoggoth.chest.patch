@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; ^cyan;Immune^reset;: Protects against most effects^reset;",
-    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; ^cyan;免疫^reset;：大多数异常效果"
+    "raw": "^orange;Set Bonuses^reset; (^orange;Part 2^reset;):\n^yellow;^reset; ^cyan;Immune^reset;: Proto, Poison, Sulphuric Acid, Burning, Radiation Burn",
+    "value": ""
   },
   {
     "op": "replace",

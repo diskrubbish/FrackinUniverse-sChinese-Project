@@ -15,42 +15,42 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A light fixture made from metal.",
-    "value": ""
+    "value": "金属制造的灯具。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "It's a light, but not an attractive one.",
-    "value": ""
+    "value": "这是盏灯，但并不吸引人。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Shiny lightsss.",
-    "value": ""
+    "value": "闪亮的光光光。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Impressed. This light functions superbly.",
-    "value": ""
+    "value": "难忘。这盏灯运行得非常好。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "These lights are great, until they start flickering.",
-    "value": ""
+    "value": "直到开始闪烁前，这都是非常好的灯。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "This light is harsh and unforgiving.",
-    "value": ""
+    "value": "这盏灯刺目且无情。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "A light that works, what more could you want?",
-    "value": ""
+    "value": "这盏灯照明得好好的，你还想让它怎么样？"
   }
 ]

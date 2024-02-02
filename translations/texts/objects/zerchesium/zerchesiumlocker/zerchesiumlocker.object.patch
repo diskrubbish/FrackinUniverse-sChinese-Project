@@ -15,42 +15,42 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "Whose locker is this, I wonder?",
-    "value": ""
+    "value": "这是谁的储物柜？我很好奇。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "I wonder if I could fit in this locker.",
-    "value": ""
+    "value": "我想知道我能不能躲进储物柜里？"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran wonders what'sss inside locker.",
-    "value": ""
+    "value": "叶族人想知道柜子里有什什什么"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Neutral. A locker, for locking up things you want to lock away.",
-    "value": ""
+    "value": "客观。储物柜，用来锁上你想保藏的东西。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Ah, this reminds me of high school.",
-    "value": ""
+    "value": "啊，这让我想起了我的高中生活。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "A basic, ugly locker.",
-    "value": ""
+    "value": "最基本的，丑陋的柜子。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Just a locker, does the job I guess.",
-    "value": ""
+    "value": "只是个储物柜，我猜它实现了其设计目的。"
   }
 ]

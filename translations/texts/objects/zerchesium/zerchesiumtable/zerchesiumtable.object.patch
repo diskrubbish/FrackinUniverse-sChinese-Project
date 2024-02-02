@@ -15,19 +15,19 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A decent table.",
-    "value": ""
+    "value": "像样的桌子。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "A nice table.",
-    "value": ""
+    "value": "漂亮的桌子。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran likess table.",
-    "value": ""
+    "value": "叶族人喜喜喜欢桌子。"
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "An unattractive table.",
-    "value": ""
+    "value": "不吸引人的桌子。"
   },
   {
     "op": "replace",
