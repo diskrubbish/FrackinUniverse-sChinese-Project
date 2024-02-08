@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "Tech",
-    "value": "科技"
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "Sneak attack, but with lower speed.",
     "value": "进入潜匿攻击状态，不过移动速度变慢。"

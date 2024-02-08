@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "^orange;Extraction Device^reset;",
-    "value": ""
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "Converts stuff into other stuff.",
     "value": "将某些材料转换成另一种材料。"

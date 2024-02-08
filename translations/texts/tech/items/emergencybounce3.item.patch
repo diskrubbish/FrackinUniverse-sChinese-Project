@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "Tech",
-    "value": "科技"
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "Auto-Protect against falls, holding [Space] will make you bounce.",
     "value": "按住[空格]启动，它可以避免你摔死。"

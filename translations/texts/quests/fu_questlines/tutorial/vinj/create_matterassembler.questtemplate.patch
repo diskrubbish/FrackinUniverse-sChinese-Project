@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Thanks to ^green;Vinalisj^reset;, you've managed your first steps towards escaping this planet. He asked you to visit a nearby ^orange;Dark Cavern^reset;, which seems to have an ^green;Energy Source^reset; that may prove vital in your repairs.",
-    "value": ""
+    "value": "感谢^green;维纳利斯^reset;，你已经成功完成了逃离这个星球的第一步。它叫你去探索附近的^orange;黑暗洞穴·^reset;，其中似乎有个^green;能源^reset;，也许对你的维修至关重要。"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
     "op": "replace",
     "path": "/scriptConfig/descriptions/makeForaging",
     "raw": "Research ^cyan;Agriculture^reset; and create a ^orange;Foraging Table^reset;.",
-    "value": ""
+    "value": "研究^cyan;农业^reset;并制作一个^orange;采集工作站^reset;"
   },
   {
     "op": "replace",

@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Station Upgrade tracker",
-    "value": ""
+    "value": "工作站升级追踪器"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "This isn't visible",
-    "value": ""
+    "value": "这玩意不可见"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "You shouldn't be able to see this in your log.",
-    "value": ""
+    "value": "你不应该在日志中看到这个。"
   }
 ]

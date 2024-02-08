@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "Smart Box",
-    "value": ""
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "Storage with only one slot!\nItem-Network compatible.",
     "value": "只有一个储存槽的智能箱！\n兼容物品传输网络。"

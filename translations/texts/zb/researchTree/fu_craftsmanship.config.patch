@@ -489,13 +489,13 @@
     "op": "replace",
     "path": "/strings/research/workbenchenergywood/0",
     "raw": "Energy Wood Construction",
-    "value": ""
+    "value": "能量木建筑"
   },
   {
     "op": "replace",
     "path": "/strings/research/workbenchenergywood/1",
     "raw": "^orange;Tier 3^reset;\n\nYou've designed a whole bunch of EnergyWood-based furniture items.",
-    "value": ""
+    "value": "^orange;3级^reset;\n\n你设计了一整套以能量木为基础的家具。"
   },
   {
     "op": "replace",

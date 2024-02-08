@@ -10,11 +10,5 @@
     "path": "/shortdescription",
     "raw": "^cyan;Sifter^reset;",
     "value": "^cyan;木制筛粉机^reset;"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "^orange;Extraction Device^reset;",
-    "value": ""
   }
 ]

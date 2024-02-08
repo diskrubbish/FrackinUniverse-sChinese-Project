@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Quietus Quarterstaff",
-    "value": "寂灭双头棍"
+    "value": "寂灭长棍"
   },
   {
     "op": "replace",
     "path": "/category",
     "raw": "Quarterstaff",
-    "value": ""
+    "value": "quarterstaff"
   }
 ]

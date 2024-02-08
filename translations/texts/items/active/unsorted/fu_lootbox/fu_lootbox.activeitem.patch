@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/category",
     "raw": "^green;Now just $19.95!^reset;",
-    "value": ""
+    "value": "^green;现在只需19.95刀！^reset;"
   },
   {
     "op": "replace",

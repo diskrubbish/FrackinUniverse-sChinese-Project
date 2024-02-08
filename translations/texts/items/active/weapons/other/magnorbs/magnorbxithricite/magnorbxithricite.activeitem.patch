@@ -10,11 +10,5 @@
     "path": "/shortdescription",
     "raw": "Cosmic Magnorb",
     "value": "宇宙磁力珠"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "Magnorb",
-    "value": ""
   }
 ]

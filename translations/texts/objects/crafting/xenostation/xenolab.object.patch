@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "^orange;Extraction Device^reset;",
-    "value": ""
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "This station is designed to pull genes from seeds for study and experimentation.",
     "value": "这个装置可以从种子中提取出基因，以便于进行下一步操作。"

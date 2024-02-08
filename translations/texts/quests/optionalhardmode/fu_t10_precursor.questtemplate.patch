@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "...mew. Telemetry data. Similar energy to...mew? What?!? And Kevin left notes, largely gibberish except one. \"SHE is here? No, it's not her, just a shell.\" Mew scared now.",
-    "value": ""
+    "value": "...喵。是遥测数据。与...喵相似的能量？什么？！而且凯文留下了一些笔记，大部分都是胡言乱语，除了一条。“她在这里吗？不，不是她，只是个空壳。” 喵现在好害怕。"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
     "op": "replace",
     "path": "/scriptConfig/descriptions/findGoal",
     "raw": "Find the signature",
-    "value": "找到签名"
+    "value": "找到标记"
   },
   {
     "op": "replace",

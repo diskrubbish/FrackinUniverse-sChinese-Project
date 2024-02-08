@@ -10,11 +10,5 @@
     "path": "/shortdescription",
     "raw": "^cyan;Rock Crusher^reset;",
     "value": "^cyan;碎岩机^reset;"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "^orange;Extraction Device^reset;",
-    "value": ""
   }
 ]

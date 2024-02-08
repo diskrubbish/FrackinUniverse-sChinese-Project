@@ -10,11 +10,5 @@
     "path": "/shortdescription",
     "raw": "^cyan;Powder Sifter^reset;",
     "value": "^cyan;高级筛粉机^reset;"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "^orange;Extraction Device^reset;",
-    "value": ""
   }
 ]

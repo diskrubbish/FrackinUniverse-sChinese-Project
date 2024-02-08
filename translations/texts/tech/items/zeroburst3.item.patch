@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "Tech",
-    "value": "科技"
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "A super blast jump.",
     "value": "带来超级爆炸的一跳。"

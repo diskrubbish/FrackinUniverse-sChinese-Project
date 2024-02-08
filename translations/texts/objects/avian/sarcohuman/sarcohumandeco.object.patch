@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "^red;This object is being deprecated. Just place it down to get the normal version^reset;.",
-    "value": "众所周知，翼族人会尝试带着人类伙伴一起去往来世。"
+    "value": "^red;此对象已弃用。只需将其放下即可获得正常版本^reset;。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Human Sarcophagus (Deprecated)",
-    "value": "翼族人类石棺"
+    "value": "翼族人类石棺（已弃用）"
   }
 ]

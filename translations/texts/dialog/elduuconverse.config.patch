@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/converse/elduukhar/generic/0",
     "raw": "You're not here to cause trouble, are you?",
-    "value": ""
+    "value": "你不是来惹麻烦的吧？"
   },
   {
     "op": "replace",
@@ -21,19 +21,19 @@
     "op": "replace",
     "path": "/converse/elduukhar/apex/0",
     "raw": "I'm not sure what to think of you.",
-    "value": ""
+    "value": "我不确定该如何看待你。"
   },
   {
     "op": "replace",
     "path": "/converse/elduukhar/avian/0",
     "raw": "Your gemstones are exquisite. May I take a look sometime, friend?",
-    "value": ""
+    "value": "你的宝石真是精美。朋友，我可以有机会看一下吗？"
   },
   {
     "op": "replace",
     "path": "/converse/elduukhar/floran/0",
     "raw": "I'm not for stabbing, trust me.",
-    "value": ""
+    "value": "我不是来捅人的，相信我。"
   },
   {
     "op": "replace",
@@ -45,24 +45,24 @@
     "op": "replace",
     "path": "/converse/elduukhar/human/0",
     "raw": "How are you doing today, human?",
-    "value": ""
+    "value": "你今天过得怎么样，人类？"
   },
   {
     "op": "replace",
     "path": "/converse/elduukhar/hylotl/0",
     "raw": "I would be happy to learn more about swordfighting from your kind.",
-    "value": ""
+    "value": "非常乐意向您请教更多关于剑术的知识。"
   },
   {
     "op": "replace",
     "path": "/converse/elduukhar/elduukhar/0",
     "raw": "It's nice to see a familiar face!",
-    "value": ""
+    "value": "很高兴见到一个熟悉的面孔！"
   },
   {
     "op": "replace",
     "path": "/converse/elduukhar/novakid/0",
     "raw": "I've never seen someone like you before.",
-    "value": ""
+    "value": "我以前从来没见过像你这样的人。"
   }
 ]

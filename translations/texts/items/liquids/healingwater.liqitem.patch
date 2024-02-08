@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/description",
     "raw": "A measure of cool, clear, healing water. Drinking it will restore your body.\n^green;Extractable^reset;, ^yellow;Centrifugable^reset;.",
-    "value": "一定量的冰冷而清澈的治疗之水。喝下它，你的身体就会得到恢复。"
+    "value": "一定量的冰冷而清澈的治疗之水。喝下它，你的身体就会得到恢复。\n^green;可萃取^reset;，^yellow;可离心^reset;。"
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Floran delicacy.\n^red;-^white;5% ^red;HP ^gray;(^white;10s^gray;) ^blue;Madness Gain^reset; 1\n^red;Type: Raw Meat^reset;",
-    "value": "叶族佳肴。\n^red;-^white;5%^red;HP^gray;(^white;持续10s^gray;)\n^blue;+^white;0.5^blue;疯癫^reset;\n^red;类型：生肉食^reset;"
+    "value": "叶族佳肴。\n^red;-^white;5%^red;HP^gray;（^white;持续10s^gray;）\n^blue;疯癫获取量^reset;：1\n^red;类型：生肉食^reset;"
   },
   {
     "op": "replace",

@@ -10,11 +10,5 @@
     "path": "/shortdescription",
     "raw": "Basic Computer",
     "value": "基础计算机"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "^orange;Extraction Device^reset;",
-    "value": ""
   }
 ]

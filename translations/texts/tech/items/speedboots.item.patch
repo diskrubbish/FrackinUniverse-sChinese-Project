@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "Tech",
-    "value": "科技"
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "Higher dose. Now grants +25% speed and dash. Passive.",
     "value": "更高的剂量，移动速度+25%。被动能力。"

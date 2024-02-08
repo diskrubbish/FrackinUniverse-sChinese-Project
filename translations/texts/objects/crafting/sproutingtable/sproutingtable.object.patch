@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "^orange;Extraction Device^reset;",
-    "value": ""
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "Extracts useful Genes from Seeds.",
     "value": "用于从种子中提取基因。"

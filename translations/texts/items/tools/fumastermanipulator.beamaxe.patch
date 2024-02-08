@@ -10,11 +10,5 @@
     "path": "/shortdescription",
     "raw": "^#b84cbc;Master Manipulator^reset;",
     "value": "^#b84cbc;始源物质枪^reset;"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "Matter Manipulator",
-    "value": "物质枪"
   }
 ]

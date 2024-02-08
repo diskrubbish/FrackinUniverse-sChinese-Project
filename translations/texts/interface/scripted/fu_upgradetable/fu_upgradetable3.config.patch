@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/gui/essenceCost/value",
     "raw": "0 / -- (--)",
-    "value": ""
+    "value": "0 / -- (--)"
   },
   {
     "op": "replace",
@@ -57,6 +57,6 @@
     "op": "replace",
     "path": "/gui/upgradeTargetText/hint",
     "raw": "<X>",
-    "value": ""
+    "value": "<X>"
   }
 ]
