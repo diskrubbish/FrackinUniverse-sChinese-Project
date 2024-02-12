@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "The drink of the Gods.\n^cyan;+^white;70 ^red;HP^gray;, ^red;Drunk^gray;, ^green;Heal ^white;125 ^gray;(^white;1m^gray;)^reset;",
-    "value": "众神饮的酒。\n^cyan;+^white;70%^red;HP^gray;，^red;醉酒^gray;，^green;治疗^white;125点生命值^gray;(^white;1m内^gray;)^reset;"
+    "value": "诸神的酣饮。\n^cyan;+^white;70^red;生命值^gray;\n^red;醉酒^gray;\n^green;治疗^white;125点生命值^gray;（^white;1分钟内^gray;）^reset;"
   },
   {
     "op": "replace",

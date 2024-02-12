@@ -153,25 +153,25 @@
     "op": "replace",
     "path": "/outOfRangeText/droden/0",
     "raw": "Scanner error. Out of range.",
-    "value": ""
+    "value": "扫描仪错误。超出范围。"
   },
   {
     "op": "replace",
     "path": "/outOfRangeText/droden/1",
     "raw": "Error. Maximum scanner range exceeded.",
-    "value": ""
+    "value": "错误。超出最大扫描范围。"
   },
   {
     "op": "replace",
     "path": "/outOfRangeText/droden/2",
     "raw": "Error. Signal strength insufficient.",
-    "value": ""
+    "value": "错误。信号强度不足。"
   },
   {
     "op": "replace",
     "path": "/outOfRangeText/droden/3",
     "raw": "No signal. Please reduce distance to target.",
-    "value": ""
+    "value": "无信号，请减小与目标的距离。"
   },
   {
     "op": "replace",
@@ -315,24 +315,24 @@
     "op": "replace",
     "path": "/nothingThereText/droden/0",
     "raw": "Error. Invalid target.",
-    "value": ""
+    "value": "错误。无效目标。"
   },
   {
     "op": "replace",
     "path": "/nothingThereText/droden/1",
     "raw": "Error. No item of interest.",
-    "value": ""
+    "value": "错误。没有感兴趣的项目。"
   },
   {
     "op": "replace",
     "path": "/nothingThereText/droden/2",
     "raw": "Unable to read target.",
-    "value": ""
+    "value": "无法读取目标。"
   },
   {
     "op": "replace",
     "path": "/nothingThereText/droden/3",
     "raw": "Error. Empty.",
-    "value": ""
+    "value": "错误。为空。"
   }
 ]
