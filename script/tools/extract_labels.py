@@ -16,7 +16,7 @@ import stbtran_utils
 
 from parser_settings import files_of_interest
 default_string_blacklist = ["0", "set at runtime", "tree", "Replace Me", "replace me","Replace me","", "^shadow;$dmg$",
-                            "-todo-", "--TODO--", "replaceme", "recruit name", "mission text", "recruit description","<beeData>"]
+                            "-todo-", "--TODO--", "replaceme", "recruit name", "mission text", "recruit description","\<beeData\>"," Replace Me"]
 file_list = [
     {
         "name": "Test",

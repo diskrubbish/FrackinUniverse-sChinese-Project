@@ -16,21 +16,6 @@
   },
   {
     "op": "add",
-    "path": "/labels/You're a creep.",
-    "value": "你是个讨厌鬼。"
-  },
-  {
-    "op": "add",
-    "path": "/labels/Pulp Fiction",
-    "value": "低俗小说"
-  },
-  {
-    "op": "add",
-    "path": "/labels/Work of a Genius",
-    "value": "天才的作品"
-  },
-  {
-    "op": "add",
     "path": "/labels/Smart Box",
     "value": "智能箱"
   },
@@ -48,5 +33,20 @@
     "op": "add",
     "path": "/labels/Matter Manipulator",
     "value": "物质枪"
+  },
+  {
+    "op": "add",
+    "path": "/labels/Blueprint",
+    "value": "蓝图"
+  },
+  {
+    "op": "add",
+    "path": "/labels/Striker",
+    "value": "连枷"
+  },
+  {
+    "op": "add",
+    "path": "/labels/Magnorb",
+    "value": "磁力珠"
   }
 ]

@@ -140,6 +140,16 @@ starcore_category_list = [
     "Tool",
     "Drone",
     "materials",
+    "^orange;Extraction Device^reset;",
+    "^orange;Centrifuge^reset;",
+    "Smart Box",
+    "Unhandled",
+    "Tech",
+    "Matter Manipulator",
+    "Blueprint",
+    "Striker",
+    "Magnorb",
+    
 ]
 
 

@@ -103,7 +103,7 @@ def export_mod_para(
                     for patch in json.load(open(patch_path, "r+", encoding="utf-8-sig")):
                         if patch["op"] != "replace":
                             result.append(
-                                [{"op": "test", "path": patch["path"]}, patch]
+                                [{"op": "test", "inverse": True,"path": patch["path"]}, patch]
                             )
                         else:
                             replace_result.append(patch)
