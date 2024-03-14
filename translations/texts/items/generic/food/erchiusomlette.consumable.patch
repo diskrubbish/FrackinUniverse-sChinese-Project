@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Not the kind of fuel you need... ^yellow;Glow^reset; 120s ^green;+^reset;40 ^green;Fuel^reset; ^blue;Madness Gain^reset; 4 ^orange;Type: Cooked Meat + Vegetables + Dairy + Eggs^reset;",
-    "value": "这种加油方式为时过早... \n^blue;发光^reset;120s^blue;\n燃料^reset;+40 ;\n^orange;类型： 熟肉食 + 蔬菜 + 蛋奶"
+    "value": "这种加油方式为时过早... \n^yellow;发光^reset;120秒\n^green;燃料^reset;^green;+^reset;40 ;\n^blue;疯癫获取量^reset;：4\n^orange;类型： 熟肉食 + 蔬菜 + 蛋奶^reset;"
   },
   {
     "op": "replace",

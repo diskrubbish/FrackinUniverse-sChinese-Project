@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "Tech",
-    "value": "科技"
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "A high-burst jump with a fluttery secondary jump. Useful!",
     "value": "跳得更高，并且可以在空中往前跨那么一小步！简直是太棒了！"

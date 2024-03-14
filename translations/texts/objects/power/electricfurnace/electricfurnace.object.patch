@@ -10,11 +10,5 @@
     "path": "/shortdescription",
     "raw": "^cyan;Electric Furnace^reset;",
     "value": "^cyan;电炉^reset;"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "^orange;Extraction Device^reset;",
-    "value": ""
   }
 ]

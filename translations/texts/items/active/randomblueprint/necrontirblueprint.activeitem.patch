@@ -3,18 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "The knowledge to create malign, shadowy armour.",
-    "value": ""
+    "value": "创造邪恶而阴影般的盔甲所需的知识。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Necrontir Schematics",
-    "value": ""
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "Blueprint",
-    "value": ""
+    "value": "死灵图纸"
   }
 ]

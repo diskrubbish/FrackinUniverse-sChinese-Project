@@ -10,11 +10,5 @@
     "path": "/shortdescription",
     "raw": "^#b84cbc;Quantum Manipulator^reset;",
     "value": "^#b84cbc;量子物质枪^reset;"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "Matter Manipulator",
-    "value": "物质枪"
   }
 ]

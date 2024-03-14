@@ -3,91 +3,91 @@
     "op": "replace",
     "path": "/labels/fossilResearched",
     "raw": "^cyan;Researched Fossil^reset;",
-    "value": ""
+    "value": "^cyan;已研究的化石^reset;"
   },
   {
     "op": "replace",
     "path": "/labels/artifactElderResearched",
     "raw": "^cyan;Researched Artifact^reset;",
-    "value": ""
+    "value": "^cyan;已研究的文物^reset;"
   },
   {
     "op": "replace",
     "path": "/labels/artifactResearched",
     "raw": "^cyan;Researched Artifact^reset;",
-    "value": ""
+    "value": "^cyan;已研究的文物^reset;"
   },
   {
     "op": "replace",
     "path": "/labels/bugResearched",
     "raw": "^cyan;Researched Insect^reset;",
-    "value": ""
+    "value": "^cyan;已研究的昆虫^reset;"
   },
   {
     "op": "replace",
     "path": "/labels/geodeResearched",
     "raw": "^cyan;Researched Geode^reset;",
-    "value": ""
+    "value": "^cyan;已研究的晶洞^reset;"
   },
   {
     "op": "replace",
     "path": "/labels/itemUpgrader",
     "raw": "^#a335ee;Item Upgrader^reset;",
-    "value": ""
+    "value": "^#a335ee;物品升级器^reset;"
   },
   {
     "op": "replace",
     "path": "/labels/unusualRelic",
     "raw": "^green;Unusual Relic^reset;",
-    "value": ""
+    "value": "^green;非凡圣物^reset;"
   },
   {
     "op": "replace",
     "path": "/labels/resourceItem",
     "raw": "^cyan;Resource Item^reset;",
-    "value": ""
+    "value": "^cyan;资源物品^reset;"
   },
   {
     "op": "replace",
     "path": "/labels/mechChip",
     "raw": "Mech Module",
-    "value": ""
+    "value": "机甲模块"
   },
   {
     "op": "replace",
     "path": "/labels/translocator",
     "raw": "^#e43774;Upgradeable Tool^reset;",
-    "value": ""
+    "value": "^#e43774;可升级工具^reset;"
   },
   {
     "op": "replace",
     "path": "/labels/parasol",
     "raw": "^#e43774;Upgradeable Tool^reset;",
-    "value": ""
+    "value": "^#e43774;可升级工具^reset;"
   },
   {
     "op": "replace",
     "path": "/labels/bugnet",
     "raw": "^#e43774;Upgradeable Tool^reset;",
-    "value": ""
+    "value": "^#e43774;可升级工具^reset;"
   },
   {
     "op": "replace",
     "path": "/labels/relocator",
     "raw": "^#e43774;Upgradeable Tool^reset;",
-    "value": ""
+    "value": "^#e43774;可升级工具^reset;"
   },
   {
     "op": "replace",
     "path": "/labels/hookshot",
     "raw": "^#e43774;Upgradeable Tool^reset;",
-    "value": ""
+    "value": "^#e43774;可升级工具^reset;"
   },
   {
     "op": "replace",
     "path": "/labels/mechrepairtool",
     "raw": "^#e43774;Upgradeable Tool^reset;",
-    "value": ""
+    "value": "^#e43774;可升级工具^reset;"
   },
   {
     "op": "replace",
@@ -99,7 +99,7 @@
     "op": "replace",
     "path": "/labels/detector",
     "raw": "^#e43774;Upgradeable Tool^reset;",
-    "value": ""
+    "value": "^#e43774;可升级工具^reset;"
   },
   {
     "op": "replace",
@@ -111,181 +111,181 @@
     "op": "replace",
     "path": "/labels/injector",
     "raw": "Injector",
-    "value": ""
+    "value": "注射器"
   },
   {
     "op": "replace",
     "path": "/labels/quarterstaff",
     "raw": "Quarterstaff",
-    "value": ""
+    "value": "长棍"
   },
   {
     "op": "replace",
     "path": "/labels/greataxe",
     "raw": "Greataxe",
-    "value": ""
+    "value": "巨斧"
   },
   {
     "op": "replace",
     "path": "/labels/shortspear",
     "raw": "Shortspear",
-    "value": ""
+    "value": "短矛"
   },
   {
     "op": "replace",
     "path": "/labels/katana",
     "raw": "Katana",
-    "value": ""
+    "value": "武士刀"
   },
   {
     "op": "replace",
     "path": "/labels/rapier",
     "raw": "Rapier",
-    "value": ""
+    "value": "刺剑"
   },
   {
     "op": "replace",
     "path": "/labels/mace",
     "raw": "Mace",
-    "value": ""
+    "value": "钉头锤"
   },
   {
     "op": "replace",
     "path": "/labels/longsword",
     "raw": "Longsword",
-    "value": ""
+    "value": "长剑"
   },
   {
     "op": "replace",
     "path": "/labels/lance",
     "raw": "Lance",
-    "value": ""
+    "value": "长枪"
   },
   {
     "op": "replace",
     "path": "/labels/scythe",
     "raw": "Scythe",
-    "value": ""
+    "value": "镰刀"
   },
   {
     "op": "replace",
     "path": "/labels/energy",
     "raw": "Energy Weapon",
-    "value": ""
+    "value": "能量武器"
   },
   {
     "op": "replace",
     "path": "/labels/bioweapon",
     "raw": "Bioweapon",
-    "value": ""
+    "value": "生物武器"
   },
   {
     "op": "replace",
     "path": "/labels/petfood",
     "raw": "Pet Food",
-    "value": ""
+    "value": "宠物食物"
   },
   {
     "op": "replace",
     "path": "/labels/swtjc_ewg_beamPistol",
     "raw": "Beam Pistol",
-    "value": ""
+    "value": "激光手枪"
   },
   {
     "op": "replace",
     "path": "/labels/swtjc_ewg_revolver",
     "raw": "High-Caliber Pistol",
-    "value": ""
+    "value": "大口径手枪"
   },
   {
     "op": "replace",
     "path": "/labels/swtjc_ewg_submachineGun",
     "raw": "Submachine Gun",
-    "value": ""
+    "value": "冲锋枪"
   },
   {
     "op": "replace",
     "path": "/labels/swtjc_ewg_battleRifle",
     "raw": "Battle Rifle",
-    "value": ""
+    "value": "战斗步枪"
   },
   {
     "op": "replace",
     "path": "/labels/swtjc_ewg_squadAutomaticWeapon",
     "raw": "Squad Automatic Weapon",
-    "value": ""
+    "value": "量产型自动武器"
   },
   {
     "op": "replace",
     "path": "/labels/swtjc_ewg_beamRifle",
     "raw": "Beam Rifle",
-    "value": ""
+    "value": "激光步枪"
   },
   {
     "op": "replace",
     "path": "/labels/swtjc_ewg_antiMaterialRifle",
     "raw": "Anti-Material Rifle",
-    "value": ""
+    "value": "反器材步枪"
   },
   {
     "op": "replace",
     "path": "/labels/swtjc_ewg_sawedOffShotgun",
     "raw": "Short-Barreled Shotgun",
-    "value": ""
+    "value": "霰弹枪"
   },
   {
     "op": "replace",
     "path": "/labels/swtjc_ewg_autoShotgun",
     "raw": "Automatic Shotgun",
-    "value": ""
+    "value": "自动霰弹枪"
   },
   {
     "op": "replace",
     "path": "/labels/swtjc_ewg_flakCannon",
     "raw": "Flak Cannon",
-    "value": ""
+    "value": "高炮"
   },
   {
     "op": "replace",
     "path": "/labels/swtjc_ewg_multiGrenadeLauncher",
     "raw": "Multi-Grenade Launcher",
-    "value": ""
+    "value": "多联装榴弹发射器"
   },
   {
     "op": "replace",
     "path": "/labels/swtjc_ewg_miniRocketLauncher",
     "raw": "Mini-Rocket Launcher",
-    "value": ""
+    "value": "微型火箭发射器"
   },
   {
     "op": "replace",
     "path": "/labels/plasma",
     "raw": "Plasma Weapon",
-    "value": ""
+    "value": "等离子武器"
   },
   {
     "op": "replace",
     "path": "/labels/flamethrower",
     "raw": "Flamethrower",
-    "value": "喷射火焰"
+    "value": "火焰喷射器"
   },
   {
     "op": "replace",
     "path": "/labels/liquidGun",
     "raw": "Liquid Gun",
-    "value": ""
+    "value": "液体枪"
   },
   {
     "op": "replace",
     "path": "/labels/upgradeable",
     "raw": "^#e43774;Upgradeable Weapon^reset;",
-    "value": ""
+    "value": "^#e43774;可升级武器^reset;"
   },
   {
     "op": "replace",
     "path": "/labels/upgradeableTool",
     "raw": "^#e43774;Upgradeable Tool^reset;",
-    "value": ""
+    "value": "^#e43774;可升级工具^reset;"
   },
   {
     "op": "replace",
@@ -303,30 +303,30 @@
     "op": "replace",
     "path": "/labels/elder",
     "raw": "Elder",
-    "value": ""
+    "value": "远古"
   },
   {
     "op": "replace",
     "path": "/labels/crewcontract",
     "raw": "Crew Contract",
-    "value": ""
+    "value": "船员合同"
   },
   {
     "op": "replace",
     "path": "/labels/craftingOre",
     "raw": "Ore",
-    "value": ""
+    "value": "矿物"
   },
   {
     "op": "replace",
     "path": "/labels/craftingGene",
     "raw": "Gene",
-    "value": ""
+    "value": "基因"
   },
   {
     "op": "replace",
     "path": "/labels/fu_byosShipUnlock",
     "raw": "S.A.I.L Ship Data",
-    "value": ""
+    "value": "S.A.I.L飞船数据"
   }
 ]

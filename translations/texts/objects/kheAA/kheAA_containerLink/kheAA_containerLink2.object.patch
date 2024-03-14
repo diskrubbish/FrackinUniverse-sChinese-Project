@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Marks containers for use by an item network. Place near object placement point.\n^blue;Input: ^white;item network^reset;\n^red;Output: ^white;item network^reset;\n^red;Lower output: ^white;item network^reset;\n^red;Upper outputs: ^white;Partial/Complete Fill^reset;",
-    "value": "标记用于同一物品网络的所有容器。放置在对象的放置点附近。扫描以获取更多信息。"
+    "value": "标记用于同一物品网络的所有容器。放置在对象的放置点附近。\n^blue;输入：^white;物品网络^reset;\n^red;输出：^white;物品网络^reset;\n^red;低处输出：^white;物品网络^reset;\n^red;高处输出：^white;部分/完全填充^reset;"
   },
   {
     "op": "replace",

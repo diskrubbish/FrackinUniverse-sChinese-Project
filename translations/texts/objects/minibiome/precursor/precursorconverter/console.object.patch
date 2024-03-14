@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "^orange;Extraction Device^reset;",
-    "value": ""
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "Converts erchius energy into a more potent fuel.",
     "value": "可将厄尔吉斯晶体、厄尔吉斯晶态燃料、厄尔吉斯液态燃料转换成更强劲的燃料。"

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Three red stimpacks, in a long-lasting popsicle form.\n^green;Heal ^white;3.3% ^green;HP^gray;/S for ^white;3m^reset;",
-    "value": "像冰棒一样，能提供缓慢，持久的愈合。\n在^white;1m内^green;治疗^white;31.5%^green;HP^gray;"
+    "value": "三支红色兴奋剂，被做成能长期保存的冰棍形式。\n在^white;3分钟内^gray;每秒^green;治疗^white;3.3%^green;生命值^reset;"
   },
   {
     "op": "replace",

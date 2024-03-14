@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "Tech",
-    "value": "科技"
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "Perform a super-awesome screw attack jump!",
     "value": "跳起来，然后开始惊人的螺旋攻击！"

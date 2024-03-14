@@ -10,11 +10,5 @@
     "path": "/shortdescription",
     "raw": "Cute Magnorbs",
     "value": "可爱的磁力珠"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "Magnorb",
-    "value": ""
   }
 ]

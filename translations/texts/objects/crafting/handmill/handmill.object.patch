@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "^orange;Extraction Device^reset;",
-    "value": ""
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "Extracts useful materials from most block types.",
     "value": "可从绝大部分的块中提取出有用材料。"

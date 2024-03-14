@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "throwing stars for NPCs.",
-    "value": ""
+    "value": "给NPC使用的飞镖。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Throwing Spear for NPCs",
-    "value": ""
+    "value": "NPC的投矛"
   }
 ]

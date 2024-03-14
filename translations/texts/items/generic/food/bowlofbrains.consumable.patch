@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Looks like a nice, wholesome bowl of mashed brains matter. \n^blue;Madness Gain^reset; 2\n^red;Type: Raw Meat^reset;",
-    "value": "看起来就像一碗美味的脑浆。\n^blue;疯癫+^white;1^reset;\n^red;类型：生肉食^reset;"
+    "value": "看起来就像一碗美味的脑浆。\n^blue;疯癫获取量^reset;：2\n^red;类型：生肉食^reset;"
   },
   {
     "op": "replace",

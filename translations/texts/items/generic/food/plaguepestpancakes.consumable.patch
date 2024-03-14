@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "I've heard of bacon in pancakes, but pest? Eugh! \n^red;-^reset;5^red;% Health^reset; 60s ^red;Poison^reset; ^blue;Madness Gain^reset; 3 ^orange;Type: Cooked Meat + Vegetables + Dairy + Eggs^reset;",
-    "value": "我听说过煎饼里有培根，但虫子？口区！\n^cyan;-^red;5% HP^reset; ^blue;+2^reset; 疯癫; ^red;60s 中毒\n^orange;类型：熟肉食 + 蔬菜 + 蛋奶^reset;"
+    "value": "我听说这块煎饼里加了培根，你说是虫？口区！\n^red;-^reset;5^red;%生命值^reset;\n60秒^red;中毒^reset;\n^blue;疯癫获取量^reset;：3\n^orange;类型：熟肉食 + 蔬菜 + 蛋奶^reset;"
   },
   {
     "op": "replace",

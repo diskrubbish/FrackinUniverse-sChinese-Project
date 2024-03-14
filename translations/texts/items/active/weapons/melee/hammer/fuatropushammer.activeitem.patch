@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Fleshweave Hammer",
-    "value": "血肉之锤"
+    "value": "肉织之锤"
   },
   {
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Plague Pillar",
-    "value": ""
+    "value": "瘟疫之柱"
   }
 ]

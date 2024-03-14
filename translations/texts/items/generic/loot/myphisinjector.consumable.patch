@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A mysterious drug.\n^red;Hammered^gray;, ^red;-^white;50% ^red;Run^gray;, ^red;-^white;30% ^red;Jump^gray;, ^cyan;+^white;15% ^pink;All ^cyan;Res^gray;, ^cyan;Extremely Caffeinated ^gray;(^white;220s^gray;) ^blue;Madness Gain^reset; 1",
-    "value": "一支神秘的毒品。\n^red;醉酒^gray;，^red;-^white;50%^red;速度^gray;，^red;-^white;30% ^red;跳跃^gray;，^cyan;+^white;15%^pink;所有^cyan;抗性^gray;，^cyan;巨量咖啡因^gray;(持续220s)\n^blue;疯癫+^white;5^reset;"
+    "value": "一支神秘的毒品。\n^red;醉酒^gray;\n^red;-^white;50%^red;速度^gray;\n^red;-^white;30%^red;跳跃^gray;\n^cyan;+^white;15%^pink;所有^cyan;抗性^gray; \n^cyan;巨量咖啡因^gray;（^white;持续220秒^gray;）\n^blue;疯癫获取量^reset;：1"
   },
   {
     "op": "replace",

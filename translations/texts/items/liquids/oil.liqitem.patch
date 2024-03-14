@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/description",
     "raw": "A measure of gooey unrefined oil.\n^green;Extractable^reset;, ^yellow;Centrifugable^reset;.",
-    "value": "一定量的黏稠的、未经提炼的油。"
+    "value": "一定量的黏稠的、未经提炼的油。\n^green;可萃取^reset;，^yellow;可离心^reset;。 "
   }
 ]

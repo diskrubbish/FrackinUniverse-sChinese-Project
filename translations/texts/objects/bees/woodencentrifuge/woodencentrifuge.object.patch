@@ -16,11 +16,5 @@
     "path": "/subtitle",
     "raw": "Centrifuge",
     "value": "离心机"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "^orange;Centrifuge^reset;",
-    "value": ""
   }
 ]

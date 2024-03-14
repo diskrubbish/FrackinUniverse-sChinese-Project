@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "Tech",
-    "value": "科技"
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "Allows basic manipulation of physics when holding Jump.",
     "value": "一种强大的跳跃增益科技，允许跳跃时浮空。"

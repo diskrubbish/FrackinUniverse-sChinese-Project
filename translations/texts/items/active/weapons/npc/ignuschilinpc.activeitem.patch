@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "throwing stars for NPCs.",
-    "value": ""
+    "value": "给NPC使用的飞镖。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Ingus Chili for NPCs",
-    "value": ""
+    "value": "NPC的伊格纳斯辣椒"
   }
 ]
