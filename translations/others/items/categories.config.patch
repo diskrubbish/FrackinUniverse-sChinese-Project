@@ -48,5 +48,45 @@
     "op": "add",
     "path": "/labels/Magnorb",
     "value": "磁力珠"
+  },
+  {
+    "op": "add",
+    "path": "/labels/Assault Shotgun",
+    "value": "突击霰弹枪"
+  },
+  {
+    "op": "add",
+    "path": "/labels/Decoration",
+    "value": "装饰"
+  },
+  {
+    "op": "add",
+    "path": "/labels/supports",
+    "value": "支撑"
+  },
+  {
+    "op": "add",
+    "path": "/labels/Supports",
+    "value": "支撑"
+  },
+  {
+    "op": "add",
+    "path": "/labels/petbed",
+    "value": "宠物床"
+  },
+  {
+    "op": "add",
+    "path": "/labels/pot",
+    "value": "锅"
+  },
+  {
+    "op": "add",
+    "path": "/labels/container",
+    "value": "容器"
+  },
+  {
+    "op": "add",
+    "path": "/labels/material",
+    "value": "材质"
   }
 ]

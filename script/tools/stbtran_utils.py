@@ -149,6 +149,14 @@ starcore_category_list = [
     "Blueprint",
     "Striker",
     "Magnorb",
+    "Assault Shotgun",
+    "Decoration",
+    "supports",
+    "Supports",
+    "petbed",
+    "pot",
+    "container",
+    "material"
     
 ]
 
