@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A bookcase made from Telebrium.",
-    "value": "一个由特勒贝晶体碎片做的书架。"
+    "value": "一个由特勒贝晶体做的书架。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Telebrium Bookcase",
-    "value": "特勒贝晶体碎片书架"
+    "value": "特勒贝晶体书架"
   },
   {
     "op": "replace",

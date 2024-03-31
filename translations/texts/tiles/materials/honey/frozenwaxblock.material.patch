@@ -10,11 +10,5 @@
     "path": "/shortdescription",
     "raw": "Frozen Wax Block",
     "value": "冻蜡方块"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "material",
-    "value": ""
   }
 ]

@@ -10,11 +10,5 @@
     "path": "/description",
     "raw": "A sturdy platform",
     "value": "一个坚固的平台。"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "supports",
-    "value": ""
   }
 ]

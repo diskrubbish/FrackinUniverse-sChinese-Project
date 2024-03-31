@@ -10,11 +10,5 @@
     "path": "/description",
     "raw": "Fancy. Polished wood, gleaming iron.",
     "value": "抛光得可以发出类似铁一般光芒的木板，简直太美丽了。"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "supports",
-    "value": ""
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A table made from energy wood.",
-    "value": ""
+    "value": "一张由能量木制做的桌子。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Energy Wood Table",
-    "value": ""
+    "value": "能量木桌"
   }
 ]

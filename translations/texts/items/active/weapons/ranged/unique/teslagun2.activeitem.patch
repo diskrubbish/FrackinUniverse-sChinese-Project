@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/description",
     "raw": "A heavily modified Tesla gun.\n^yellow;Tricky, but dangerous.^reset;\n^cyan;Decimating Alt Fire^reset;",
-    "value": ""
+    "value": "一把被高度改装过的特斯拉步枪。\n^yellow;棘手，但危险。^reset;\n^cyan;歼灭级的武器能力^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^cyan;Mercy^reset;",
-    "value": ""
+    "value": "^cyan;“仁慈”^reset;"
   },
   {
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Wrath of Thor",
-    "value": ""
+    "value": "雷神之怒"
   }
 ]

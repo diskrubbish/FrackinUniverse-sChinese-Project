@@ -28,11 +28,5 @@
     "path": "/novakidDescription",
     "raw": "A ladder made outta copper.",
     "value": "用铜做的梯子。"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "Supports",
-    "value": ""
   }
 ]

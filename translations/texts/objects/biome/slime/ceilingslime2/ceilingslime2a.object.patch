@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "Decoration",
-    "value": ""
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "A glob of dripping slime.",
     "value": "一团滴着的粘液。"

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A supreme long-ranged option for snipers.\n^yellow;Inflicts Electrified^reset;\n^cyan;Amazing crowd control^reset;",
-    "value": "狙击手的最佳远击选择\n^yellow;附加感电效果^reset;\n^cyan;惊人的群体控制^reset;"
+    "value": "狙击手的最佳远击选择。\n^yellow;附加感电效果^reset;\n^cyan;惊人的群体控制^reset;"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Wrath of Thor",
-    "value": ""
+    "value": "雷神之怒"
   }
 ]

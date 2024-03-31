@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Forged Telebrium, commonly found on moons.",
-    "value": "锻造过的月海晶体。\n通常被发现于卫星。"
+    "value": "锻造过的特勒贝晶体。\n通常被发现于卫星。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Telebrium Bar",
-    "value": "月海晶体锭"
+    "value": "特勒贝晶体锭"
   }
 ]

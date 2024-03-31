@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A cheaply made energy wood door.",
-    "value": ""
+    "value": "一面制作廉价的能量木门。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Energy Wood Door",
-    "value": ""
+    "value": "能量木门"
   }
 ]

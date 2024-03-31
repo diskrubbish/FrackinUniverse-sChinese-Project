@@ -13,12 +13,6 @@
   },
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "material",
-    "value": ""
-  },
-  {
-    "op": "replace",
     "path": "/glitchDescription",
     "raw": "Unsettled. This wooden log is an unnatural golden shade.",
     "value": "不安。 这块金色的圆木是一片出乎意料的阴凉之处。"

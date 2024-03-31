@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A chair made from Telebrium.",
-    "value": "一张特勒贝晶体碎片做的椅子。"
+    "value": "一张特勒贝晶体做的椅子。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Telebrium Chair",
-    "value": "特勒贝晶体碎片椅"
+    "value": "特勒贝晶体椅"
   },
   {
     "op": "replace",

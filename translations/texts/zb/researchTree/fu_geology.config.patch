@@ -63,7 +63,7 @@
     "op": "replace",
     "path": "/strings/research/metals_tier2/1",
     "raw": "^orange;Steelworker - Tier 2^reset;\n\nLearn to process ^cyan;Tungsten^reset; and ^cyan;Telebrium^reset; and work it into useful equipment. This will grant access to higher quality gear and dramatically increase survivability through defensive gear.",
-    "value": "^orange;钢铁工人 - 2级^reset;\n\n学习加工^cyan;钨^reset;和^cyan;月海矿^reset;，并把它们变成有用的设备。现在你可以获得更高质量的装备，并通过防御装备显著提高生存能力。"
+    "value": "^orange;钢铁工人 - 2级^reset;\n\n学习加工^cyan;钨^reset;和^cyan;特勒贝矿^reset;，并把它们变成有用的设备。现在你可以获得更高质量的装备，并通过防御装备显著提高生存能力。"
   },
   {
     "op": "replace",
@@ -273,13 +273,13 @@
     "op": "replace",
     "path": "/strings/research/metals_telebrium/0",
     "raw": "Telebrium",
-    "value": "月海晶体"
+    "value": "特勒贝晶体"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_telebrium/1",
     "raw": "^orange;Tier 2.5^reset;\n\nLearn to process the unusual ore known as ^cyan;Telebrium^reset;. Lightweight, conductive enough to create charge but unsuitable for holding it long-term, this metal has found use in numerous areas.\n\nYou can find Telebrium primarily on ^green;Moons^reset;, where it can be found abundantly forming.",
-    "value": "^orange;2.5级^reset;\n\n学习处理被称为^cyan;月海^reset;的不寻常矿石。这种金属重量轻，导电性好，足以产生电荷，但不适合长期使用，月海已经在许多领域得到应用。你可以在卫星上找到月海，在那里可以看到大量形成的月海矿。"
+    "value": "^orange;2.5级^reset;\n\n学习处理被称为^cyan;特勒贝^reset;的不寻常矿石。这种金属重量轻，导电性好，足以产生电荷，但不适合长期使用，特勒贝已经在许多领域得到应用。你可以在卫星上找到特勒贝，在那里可以看到大量形成的特勒贝矿。"
   },
   {
     "op": "replace",

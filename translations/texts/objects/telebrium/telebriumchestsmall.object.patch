@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A small chest made from Telebrium.",
-    "value": "一个由特勒贝晶体碎片做的小箱子。"
+    "value": "一个由特勒贝晶体做的小箱子。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Small Telebrium Chest",
-    "value": "小型特勒贝晶体碎片箱子"
+    "value": "小型特勒贝晶体箱子"
   },
   {
     "op": "replace",

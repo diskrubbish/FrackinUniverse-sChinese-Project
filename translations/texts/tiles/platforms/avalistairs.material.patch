@@ -10,11 +10,5 @@
     "path": "/description",
     "raw": "A hardened aerogel platform, this time designed so that the slopes are shaped like stairs.",
     "value": "一块硬化的气凝胶平台，常用于楼梯。"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "supports",
-    "value": ""
   }
 ]

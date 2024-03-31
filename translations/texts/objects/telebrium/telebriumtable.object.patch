@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A table made from Telebrium.",
-    "value": "一张由特勒贝晶体碎片做的桌子。"
+    "value": "一张由特勒贝晶体做的桌子。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Telebrium Table",
-    "value": "特勒贝晶体碎片桌"
+    "value": "特勒贝晶体桌"
   },
   {
     "op": "replace",

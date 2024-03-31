@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A fridge made from Telebrium.",
-    "value": "一个由特勒贝晶体碎片做的冰箱。"
+    "value": "一个由特勒贝晶体做的冰箱。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Telebrium Fridge",
-    "value": "特勒贝晶体碎片冰箱"
+    "value": "特勒贝晶体冰箱"
   },
   {
     "op": "replace",

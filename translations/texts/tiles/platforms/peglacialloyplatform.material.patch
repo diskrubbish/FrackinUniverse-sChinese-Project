@@ -10,11 +10,5 @@
     "path": "/description",
     "raw": "A platform made of an advanced alloy.",
     "value": "由某种高级合金制作的平台。"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "supports",
-    "value": ""
   }
 ]

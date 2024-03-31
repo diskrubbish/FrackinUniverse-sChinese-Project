@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A couch made from Telebrium.",
-    "value": "一张由特勒贝晶体碎片做的沙发。"
+    "value": "一张由特勒贝晶体做的沙发。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Telebrium Couch",
-    "value": "特勒贝晶体碎片沙发"
+    "value": "特勒贝晶体沙发"
   },
   {
     "op": "replace",

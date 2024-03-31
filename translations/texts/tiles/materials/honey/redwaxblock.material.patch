@@ -10,11 +10,5 @@
     "path": "/shortdescription",
     "raw": "Red Wax Block",
     "value": "红色蜡块"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "material",
-    "value": ""
   }
 ]

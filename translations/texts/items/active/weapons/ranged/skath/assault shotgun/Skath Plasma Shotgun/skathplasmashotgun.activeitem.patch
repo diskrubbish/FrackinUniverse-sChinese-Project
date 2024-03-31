@@ -13,12 +13,6 @@
   },
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "Assault Shotgun",
-    "value": ""
-  },
-  {
-    "op": "replace",
     "path": "/altAbility/name",
     "raw": " Plasma Grenade",
     "value": " 等离子手榴弹"

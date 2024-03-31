@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A desk lamp made from Telebrium.",
-    "value": "一架由特勒贝晶体碎片做的台灯。"
+    "value": "一架由特勒贝晶体做的台灯。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Telebrium Desk Lamp",
-    "value": "特勒贝晶体碎片台灯"
+    "value": "特勒贝晶体台灯"
   },
   {
     "op": "replace",

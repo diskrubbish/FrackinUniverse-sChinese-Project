@@ -15,12 +15,12 @@
     "op": "replace",
     "path": "/category",
     "raw": "Chaingun",
-    "value": ""
+    "value": "链枪"
   },
   {
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Stun Shot",
-    "value": "感电射击"
+    "value": "击晕射击"
   }
 ]

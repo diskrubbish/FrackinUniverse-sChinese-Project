@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Assault Shotgun, eh? That's a weird mix.",
-    "value": "突击猎枪，嗯？这是一个奇怪的组合。"
+    "value": "突击霰弹枪，嗯？真是奇怪的组合。"
   },
   {
     "op": "replace",
@@ -57,6 +57,6 @@
     "op": "replace",
     "path": "/skathDescription",
     "raw": "An Assault Shotgun is a rapid firing shotgun. The chances of penetrating walls or armour increases with each shot.",
-    "value": "突击猎枪是一种快速射击的猎枪。每次射击都会增加穿墙或穿甲的几率。"
+    "value": "一把突击霰弹枪，一种可以快速射击的猎枪。每次射击都会增加穿墙或穿甲的几率。"
   }
 ]

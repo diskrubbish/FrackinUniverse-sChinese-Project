@@ -10,11 +10,5 @@
     "path": "/description",
     "raw": "Whatever this is made from, it's not normal.",
     "value": "不管这是什么，总之不普通。"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "supports",
-    "value": ""
   }
 ]

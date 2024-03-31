@@ -453,13 +453,13 @@
     "op": "replace",
     "path": "/strings/research/workbenchtelebrium/0",
     "raw": "Telebrium Construction",
-    "value": "月海建筑"
+    "value": "特勒贝建筑"
   },
   {
     "op": "replace",
     "path": "/strings/research/workbenchtelebrium/1",
     "raw": "^orange;Tier 2^reset;\n\nYou've made a bunch of Telebrium-based furniture items.",
-    "value": "^orange;2级^reset;\n\n你已经做了一堆基于月海矿物的家具。"
+    "value": "^orange;2级^reset;\n\n你已经做了一堆基于特勒贝矿物的家具。"
   },
   {
     "op": "replace",

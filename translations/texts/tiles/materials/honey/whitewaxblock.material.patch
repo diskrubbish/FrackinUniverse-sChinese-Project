@@ -10,11 +10,5 @@
     "path": "/shortdescription",
     "raw": "White Wax Block",
     "value": "白色蜡块"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "material",
-    "value": ""
   }
 ]

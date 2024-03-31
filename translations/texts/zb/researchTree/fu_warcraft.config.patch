@@ -57,13 +57,13 @@
     "op": "replace",
     "path": "/strings/research/telebriumgear/0",
     "raw": "Telebrium Equipment",
-    "value": "月海装备"
+    "value": "特勒贝装备"
   },
   {
     "op": "replace",
     "path": "/strings/research/telebriumgear/1",
     "raw": "^orange;Tier 2^reset;\n\nYou've learned how best to utilize Telebrium in the creation of lightweight, poison-themed weapons and armor.",
-    "value": "^orange;2级^reset;\n\n你已经学会了如何最好地利用月海矿来创造轻量级，以毒为主题的武器和盔甲。"
+    "value": "^orange;2级^reset;\n\n你已经学会了如何最好地利用特勒贝矿来创造轻量级，以毒为主题的武器和盔甲。"
   },
   {
     "op": "replace",

@@ -156,7 +156,8 @@ starcore_category_list = [
     "petbed",
     "pot",
     "container",
-    "material"
+    "material",
+    "playerstation"
     
 ]
 

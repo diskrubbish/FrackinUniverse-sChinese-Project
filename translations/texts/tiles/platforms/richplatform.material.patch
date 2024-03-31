@@ -10,11 +10,5 @@
     "path": "/description",
     "raw": "Nicely carved wooden platforms.",
     "value": "精心雕刻过的木制平台。"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "supports",
-    "value": ""
   }
 ]

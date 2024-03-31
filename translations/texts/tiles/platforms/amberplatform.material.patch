@@ -10,11 +10,5 @@
     "path": "/description",
     "raw": "A rich amber platform",
     "value": "一个看上去很华丽的琥珀平台。"
-  },
-  {
-    "op": "replace",
-    "path": "/category",
-    "raw": "supports",
-    "value": ""
   }
 ]
