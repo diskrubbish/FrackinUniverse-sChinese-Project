@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/category",
     "raw": "^#d1d1d1;Extractor^reset;",
-    "value": ""
+    "value": "^orange;Extraction Device^reset;"
   },
   {
     "op": "replace",

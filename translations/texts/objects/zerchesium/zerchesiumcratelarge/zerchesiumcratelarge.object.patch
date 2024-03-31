@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "A crate made from Zerchesium.",
-    "value": ""
+    "value": "一个由抛光高熔点素做的货箱。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Zerchesium Crate",
-    "value": ""
+    "value": "高熔点货箱"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "An extremely cold crate.",
-    "value": ""
+    "value": "一个货箱，冰冷异常。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "This is very cold to touch.",
-    "value": ""
+    "value": "摸上去非常冰凉。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Cold box!",
-    "value": ""
+    "value": "冰冷的盒子！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Uncomfortable. This crate is very cold.",
-    "value": ""
+    "value": "不适，这个货箱异常冰冷。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "This crate would be better as a fridge!",
-    "value": ""
+    "value": "感觉这个货箱拿来做冰箱更好！"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "This crate is cold to the touch.",
-    "value": ""
+    "value": "这个货箱摸上去非常冰凉。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "This crate is mighty cold.",
-    "value": ""
+    "value": "这个货箱可真冷啊。"
   }
 ]

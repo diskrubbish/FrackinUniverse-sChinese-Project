@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A couch made from zerchesium.",
-    "value": ""
+    "value": "一张由高熔点素做的沙发。"
   },
   {
     "op": "replace",
@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A standard couch.",
-    "value": ""
+    "value": "普通的沙发。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "A simple couch.",
-    "value": ""
+    "value": "朴素的沙发。"
   },
   {
     "op": "replace",
@@ -33,24 +33,24 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Appreciative. A couch. The Glitch occasionally like to sit.",
-    "value": ""
+    "value": "感激。一把凳子。电子人们偶尔喜欢就这么坐着。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "A decent couch.",
-    "value": ""
+    "value": "一张像样的沙发。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "A basic couch, it serves its purpose.",
-    "value": ""
+    "value": "最基本的沙发。质量不错。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "A functionin' couch.",
-    "value": ""
+    "value": "一张实用的沙发。"
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A desk lamp made from polished zerchesium.",
-    "value": ""
+    "value": "一盏由抛光高熔点素做的台灯。"
   },
   {
     "op": "replace",
@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A sleek, simple lamp.",
-    "value": ""
+    "value": "一盏线条流畅而简朴的灯。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "This lamp has a very simple design.",
-    "value": ""
+    "value": "这盏灯的设计非常简单。"
   },
   {
     "op": "replace",
@@ -33,24 +33,24 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Neutral. A sleek lamp.",
-    "value": ""
+    "value": "中立。一盏平滑的灯。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "This lamp looks nice and sleek.",
-    "value": ""
+    "value": "这盏灯看起来如此精致，如此顺滑。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "The simplicity of the design is pleasing to the eyes.",
-    "value": ""
+    "value": "设计上的简约感真是赏心悦目。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "This lamp is mighty simple.",
-    "value": ""
+    "value": "这盏灯可真简约。"
   }
 ]

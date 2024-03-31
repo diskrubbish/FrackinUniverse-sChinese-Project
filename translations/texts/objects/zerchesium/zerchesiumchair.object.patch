@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A chair made from Zerchesium. Cold to sit on.",
-    "value": ""
+    "value": "一把由高熔点素做的椅子。坐在上面好凉。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Padded Zerchesium Chair",
-    "value": ""
+    "value": "护垫高熔点椅子"
   },
   {
     "op": "replace",
@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Appreciative. A chair. The Glitch occasionally like to sit.",
-    "value": "感激的 一把椅子。电子人偶尔喜欢坐着。"
+    "value": "感激。一把椅子。电子人们偶尔喜欢就这么坐着。"
   },
   {
     "op": "replace",

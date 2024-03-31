@@ -3,19 +3,19 @@
     "op": "replace",
     "path": "/title",
     "raw": "Aberrant Sentry [BOSS]",
-    "value": "克鲁西斯异常者 [BOSS]"
+    "value": "克鲁西斯哨兵 [BOSS]"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "Find and kill an ^orange;Aberrant Sentry^reset; in an ancient ruin.",
-    "value": "在一个古代遗迹中找到并杀死^orange;克鲁西斯异常者^reset;。"
+    "value": "在一个古代遗迹中找到并杀死^orange;克鲁西斯哨兵^reset;。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Find the ^orange;Relic Shield^reset; carried by an ^orange;Aberrant Sentry^reset;.",
-    "value": "找到^orange;克鲁西斯异常者^reset;携带的^orange;圣物之盾^reset;。"
+    "value": "找到^orange;克鲁西斯哨兵^reset;携带的^orange;圣物之盾^reset;。"
   },
   {
     "op": "replace",

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Ye olde counter.",
-    "value": "旧柜台。"
+    "value": "有年头的柜台。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Medieval Counter",
-    "value": "中世纪计数器"
+    "value": "中世纪柜台"
   }
 ]

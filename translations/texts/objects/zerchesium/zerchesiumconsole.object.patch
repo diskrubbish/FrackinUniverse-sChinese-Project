@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A keypad made from Zerchesium. Freezes your fingers if you get the code wrong.",
-    "value": ""
+    "value": "一把由高熔点素做的键盘。如果你输入了错误代码，手指会冻僵。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Zerchesium Keypad",
-    "value": ""
+    "value": "高熔点键盘"
   },
   {
     "op": "replace",

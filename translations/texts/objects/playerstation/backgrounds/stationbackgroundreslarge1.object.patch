@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/category",
-    "raw": "playerstation",
-    "value": ""
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "Residential Large background",
     "value": "一大块玻璃背景墙。"

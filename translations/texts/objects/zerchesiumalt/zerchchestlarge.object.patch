@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "A chest made from polished zerchesium.",
-    "value": ""
+    "value": "一个由抛光高熔点素做的箱子。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Zerchesium Chest",
-    "value": ""
+    "value": "高熔点箱"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A sleek, simple chest.",
-    "value": ""
+    "value": "一个线条流畅而简朴的箱子。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "This chest has a very simple design.",
-    "value": ""
+    "value": "这个箱子的设计非常简单。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran like ssshiny box.",
-    "value": ""
+    "value": "叶族人喜欢闪闪闪的盒子。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Neutral. A sleek chest.",
-    "value": ""
+    "value": "中立。一个平滑的箱子。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "This chest looks nice and sleek.",
-    "value": ""
+    "value": "这个箱子看起来如此精致，如此顺滑。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "The simplicity of the design is pleasing to the eyes.",
-    "value": ""
+    "value": "设计上的简约感真是赏心悦目。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "This chest is mighty simple.",
-    "value": ""
+    "value": "这个箱子可真简约。"
   }
 ]
