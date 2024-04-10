@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "A honed irradium edge makes this rather...reactive.",
-    "value": "把镭的边缘磨快了之后会相当的...锋利。"
+    "raw": "A honed irradium edge makes this rather...reactive.\n^cyan;Inflicts Rad-Burn^reset;",
+    "value": ""
   },
   {
     "op": "replace",

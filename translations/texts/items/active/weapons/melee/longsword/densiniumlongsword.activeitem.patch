@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Brutally dense metal. Super murdery fun.",
-    "value": "由残酷的致密金属制成。顶级的杀害乐趣。"
+    "raw": "Brutally dense metal. Super murdery fun.\n^cyan;Inflicts Electrified^reset;",
+    "value": ""
   },
   {
     "op": "replace",

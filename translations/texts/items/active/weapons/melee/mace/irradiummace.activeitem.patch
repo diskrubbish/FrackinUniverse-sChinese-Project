@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Radiation-laced for extra merriment.",
-    "value": "让辐射注入你敲击之人的体内吧。"
+    "raw": "Radiation-laced for extra merriment.\n^cyan;Inflicts Rad-Burn^reset;",
+    "value": ""
   },
   {
     "op": "replace",

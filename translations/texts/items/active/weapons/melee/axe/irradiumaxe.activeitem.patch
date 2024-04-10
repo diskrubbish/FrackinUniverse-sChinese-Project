@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Purified irradium weapon.",
-    "value": "精制的镭制武器。"
+    "raw": "Purified irradium weapon.\n^cyan;Inflicts Rad-Burn^reset;",
+    "value": ""
   },
   {
     "op": "replace",

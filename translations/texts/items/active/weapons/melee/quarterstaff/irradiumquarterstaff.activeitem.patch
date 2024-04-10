@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "A radioactive staff designed to fracture bone.",
-    "value": "一把设计成了断裂的骨头的带有辐射的长棍。"
+    "raw": "A radioactive staff designed to fracture bone.\n^cyan;Inflicts Rad-Burn^reset;",
+    "value": ""
   },
   {
     "op": "replace",

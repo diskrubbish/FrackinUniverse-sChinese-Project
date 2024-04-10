@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Forged from irradium.",
-    "value": "由镭锻造而成。"
+    "raw": "Forged from irradium.\n^cyan;Inflicts Rad-Burn^reset;",
+    "value": ""
   },
   {
     "op": "replace",

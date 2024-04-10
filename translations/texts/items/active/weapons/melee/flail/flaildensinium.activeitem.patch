@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Heavy, cumbersome and awesome.\n^cyan;Breaks blocks^reset;\n^yellow;Stuns enemies^reset;",
-    "value": "超级笨重却又令人惊叹。\n^cyan;能够破坏方块^reset;\n^cyan;击晕敌人^reset;"
+    "raw": "Heavy, cumbersome and awesome.\n^cyan;Breaks blocks^reset;\n^yellow;Stuns and electrifies^reset;",
+    "value": ""
   },
   {
     "op": "replace",

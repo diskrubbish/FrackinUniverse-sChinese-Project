@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Plasma-laced goodness.\n^yellow;8 hit combo^reset;",
-    "value": "掺加了等离子体的神兵利器。\n^yellow;8连斩^reset;"
+    "raw": "Plasma-laced goodness.\n^cyan;Inflicts Electrified^reset;\n^yellow;8 hit combo^reset;",
+    "value": ""
   },
   {
     "op": "replace",

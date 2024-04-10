@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Forged from carbon and irradium. Quite dangerous.",
-    "value": "使用碳与镭锻造而成。相当危险的武器。"
+    "raw": "Forged from carbon and irradium. Quite dangerous.\n^cyan;Inflicts Rad-Burn^reset;",
+    "value": ""
   },
   {
     "op": "replace",

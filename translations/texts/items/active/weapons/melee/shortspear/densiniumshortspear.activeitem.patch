@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Deadly edge, full of purple menace.\n^cyan;Hunting weapon^reset;",
-    "value": "致命的边缘，充满了紫色威胁。\n^cyan;狩猎武器^reset;"
+    "raw": "Deadly edge, full of purple menace.\n^cyan;Inflicts Electrified^reset;\n^cyan;Hunting weapon^reset;",
+    "value": ""
   },
   {
     "op": "replace",

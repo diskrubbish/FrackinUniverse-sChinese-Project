@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "A powerful, super-dense blade.",
-    "value": "一把无坚不摧的宽剑。"
+    "raw": "A powerful, super-dense blade.\n^cyan;Inflicts Electrified^reset;",
+    "value": ""
   },
   {
     "op": "replace",
