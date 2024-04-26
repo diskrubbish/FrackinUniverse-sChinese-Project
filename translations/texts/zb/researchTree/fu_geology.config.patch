@@ -417,13 +417,13 @@
     "op": "replace",
     "path": "/strings/research/metals_trianglium/0",
     "raw": "Trianglium",
-    "value": "三棱矿"
+    "value": "原力矿"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_trianglium/1",
     "raw": "^orange;Tier 4^reset;\n\nLearn to process ^cyan;Trianglium^reset;. \n\nThs unusual shape of this ore can be found readily on several biomes. The most common source are ^green;Tar Balls^reset;.",
-    "value": "^orange;4级^reset;\n\n学习处理^cyan;三棱矿^reset;。\n\n这种不寻常的矿石形状在几个生物群落中很容易找到。最常见的来源是^green;焦油星球^reset;。"
+    "value": "^orange;4级^reset;\n\n学习处理^cyan;原力矿^reset;。\n\n这种不寻常的矿石形状在几个生物群落中很容易找到。最常见的来源是^green;焦油星球^reset;。"
   },
   {
     "op": "replace",

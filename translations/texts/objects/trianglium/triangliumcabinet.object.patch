@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A cabinet made from trianglium.",
-    "value": "一个用原力矿制成的橱柜。"
+    "value": "一个用原力石制成的橱柜。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Trianglium Cabinet",
-    "value": "原力矿橱柜"
+    "value": "原力石橱柜"
   },
   {
     "op": "replace",

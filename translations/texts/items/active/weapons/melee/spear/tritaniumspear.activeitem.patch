@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "You should shove this in a foe. For science!\n^cyan;Inflicts Electrified^reset;\n^cyan;Hunting weapon^reset;",
-    "value": ""
+    "value": "你应该把这个刺向敌人，科学万岁！\n^cyan;附加感电效果^reset;\n^cyan;狩猎武器^reset;"
   },
   {
     "op": "replace",

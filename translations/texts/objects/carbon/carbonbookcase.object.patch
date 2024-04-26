@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A bookcase made from carbon.",
-    "value": "碳制的书架。"
+    "value": "碳制的书柜。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Carbon Bookcase",
-    "value": "碳制书架"
+    "value": "碳制书柜"
   },
   {
     "op": "replace",

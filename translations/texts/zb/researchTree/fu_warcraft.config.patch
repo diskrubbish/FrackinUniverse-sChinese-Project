@@ -225,13 +225,13 @@
     "op": "replace",
     "path": "/strings/research/triangliumgear/0",
     "raw": "Trianglium Equipment",
-    "value": "三棱装备"
+    "value": "原力装备"
   },
   {
     "op": "replace",
     "path": "/strings/research/triangliumgear/1",
     "raw": "^orange;Tier 4^reset;\n\nThe natural tendency of Trianglium to form into triangles no matter the circumstance means that it can be used in some very pointy implements. It is also a critical material in handling atomic and subatomic particles, so it's great in energy weapons as well.",
-    "value": "^orange;4级^reset;\n\n三棱矿无论在什么情况下都会自然地形成三角形，这意味着它可以用在一些非常尖锐的工具上。它也是处理原子和亚原子粒子的关键材料，因此在能量武器方面也很重要。"
+    "value": "^orange;4级^reset;\n\n原力矿无论在什么情况下都会自然地形成三角形，这意味着它可以用在一些非常尖锐的工具上。它也是处理原子和亚原子粒子的关键材料，因此在能量武器方面也很重要。"
   },
   {
     "op": "replace",

@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A desk made from trianglium.",
-    "value": "一张由原力矿制成的桌子。"
+    "value": "一张由原力石制成的桌子。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Trianglium Desk",
-    "value": "原力矿办公桌"
+    "value": "原力石办公桌"
   },
   {
     "op": "replace",

@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A bookcase made from penumbrite.",
-    "value": "用半影矿制成的书架。"
+    "value": "用半影矿制成的书柜。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Penumbrite Bookcase",
-    "value": "半影书架"
+    "value": "半影书柜"
   },
   {
     "op": "replace",

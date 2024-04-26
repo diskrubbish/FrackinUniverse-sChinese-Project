@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A small chest made from trianglium.",
-    "value": "原力矿制成的小箱子。"
+    "value": "原力石制成的小箱子。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Small Trianglium Chest",
-    "value": "小型原力矿箱子"
+    "value": "小型原力石箱子"
   },
   {
     "op": "replace",

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Forged from irradium.\n^cyan;Inflicts Rad-Burn^reset;",
-    "value": ""
+    "value": "由镭锻造而成。\n^cyan;附加辐射烧伤效果^reset; "
   },
   {
     "op": "replace",

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Infused with toxic Irradium radiation. That's kind of you.\n^cyan;Inflicts Rad-Burn^reset;\n^cyan;Hunting weapon^reset;",
-    "value": ""
+    "value": "充满有镭的有毒辐射。你真有辐气。\n^cyan;附加辐射烧伤效果^reset;\n^cyan;狩猎武器^reset;"
   },
   {
     "op": "replace",

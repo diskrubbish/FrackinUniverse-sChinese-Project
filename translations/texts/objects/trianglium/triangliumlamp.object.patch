@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A light made form trianglium. It floats gently.",
-    "value": "由原力矿制成的灯。它轻轻地漂浮着。"
+    "value": "由原力石制成的灯。它轻轻地漂浮着。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Trianglium Lamp",
-    "value": "原力矿灯"
+    "value": "原力石灯"
   },
   {
     "op": "replace",

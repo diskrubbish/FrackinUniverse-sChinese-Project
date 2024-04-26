@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Light and brutally radioactive. Guaranteed to cause death.\n^cyan;Inflicts Rad-Burn^reset;\n^cyan;Hunting weapon^reset;",
-    "value": ""
+    "value": "高温辐射和严重的放射性。祝你好死。\n^cyan;附加辐射烧伤效果^reset;\n^cyan;狩猎武器^reset;"
   },
   {
     "op": "replace",

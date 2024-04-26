@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "An end table made from trianglium.",
-    "value": "由原力矿制成的茶几。"
+    "value": "由原力石制成的茶几。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Trianglium End Table",
-    "value": "原力矿茶几"
+    "value": "原力石茶几"
   },
   {
     "op": "replace",

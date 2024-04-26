@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A small fluffy chest made of condensed water vapor.",
-    "value": ""
+    "value": "由凝结水蒸气制成的小箱子。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Cloud Chest",
-    "value": ""
+    "value": "云朵箱子"
   }
 ]

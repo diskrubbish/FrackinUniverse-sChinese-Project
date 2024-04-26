@@ -465,13 +465,13 @@
     "op": "replace",
     "path": "/strings/research/workbenchtriangulum/0",
     "raw": "Trianglium Construction",
-    "value": "三棱建筑"
+    "value": "原力建筑"
   },
   {
     "op": "replace",
     "path": "/strings/research/workbenchtriangulum/1",
     "raw": "^orange;Tier 4^reset;\n\nYou've turned Trianglium into some very triangular and pointy furniture.",
-    "value": "^orange;4级^reset;\n\n你把三棱矿做成了一些尖尖的三角形家具。"
+    "value": "^orange;4级^reset;\n\n你把原力矿做成了一些尖尖的三角形家具。"
   },
   {
     "op": "replace",

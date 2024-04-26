@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "This machine mixes liquids together in a controlled environment. ^cyan;Requires ^orange;15J ^cyan;per action.^reset;",
-    "value": ""
+    "value": "能够将两种不同种类的液体混合的装置。\n^cyan;每动需要^orange;15J^cyan;能量^reset;。"
   },
   {
     "op": "replace",

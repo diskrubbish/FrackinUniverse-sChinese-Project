@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A marvelously stabby device.\n^cyan;Inflicts Electrified^reset;\n^cyan;Hunting weapon^reset;",
-    "value": ""
+    "value": "惊人的穿刺武器。\n^cyan;附加感电效果^reset;\n^cyan;狩猎武器^reset;"
   },
   {
     "op": "replace",

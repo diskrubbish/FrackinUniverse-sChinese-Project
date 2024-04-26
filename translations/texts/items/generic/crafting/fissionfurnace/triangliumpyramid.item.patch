@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A melding of trianglium shards, which are found in many unusual places.",
-    "value": "一种融合三棱碎片而成的超稳定结构。\n被发现于一些极不寻常的地方。"
+    "value": "一种融合原力石碎片而成的超稳定结构。\n被发现于一些极不寻常的地方。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Trianglium Pyramid",
-    "value": "三棱棱锥"
+    "value": "原力棱锥"
   }
 ]

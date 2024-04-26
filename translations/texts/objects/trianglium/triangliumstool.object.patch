@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A stool made from trianglium.",
-    "value": "用原力矿做的凳子。"
+    "value": "用原力石做的凳子。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Trianglium Stool",
-    "value": "原力矿凳子"
+    "value": "原力石凳子"
   },
   {
     "op": "replace",

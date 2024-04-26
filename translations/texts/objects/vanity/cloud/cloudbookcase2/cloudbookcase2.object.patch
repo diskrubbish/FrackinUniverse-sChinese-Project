@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A bookcase made from clouds.",
-    "value": ""
+    "value": "一个由云做的书柜。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Cloud Bookcase",
-    "value": ""
+    "value": "云朵书柜"
   }
 ]

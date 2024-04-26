@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A stool made from clouds.",
-    "value": ""
+    "value": "一个由云朵做的凳子。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Cloud Stool",
-    "value": ""
+    "value": "云朵凳子"
   }
 ]

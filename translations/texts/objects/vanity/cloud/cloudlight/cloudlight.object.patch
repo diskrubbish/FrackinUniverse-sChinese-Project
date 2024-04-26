@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A light made from clouds. It's kind-of wet.",
-    "value": ""
+    "value": "一盏云做的灯。湿湿的。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Cloud Light",
-    "value": ""
+    "value": "云朵灯"
   }
 ]

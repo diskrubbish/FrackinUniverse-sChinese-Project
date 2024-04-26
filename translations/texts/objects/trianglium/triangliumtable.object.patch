@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A table made from trianglium.",
-    "value": "由原力矿制成的桌子。"
+    "value": "由原力石制成的桌子。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Trianglium Table",
-    "value": "原力矿桌"
+    "value": "原力石桌"
   },
   {
     "op": "replace",

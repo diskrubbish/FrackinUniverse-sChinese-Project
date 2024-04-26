@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A couch made from trianglium.",
-    "value": "原力矿做的沙发。"
+    "value": "原力石做的沙发。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Trianglium Couch",
-    "value": "原力矿沙发"
+    "value": "原力石沙发"
   },
   {
     "op": "replace",

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "An extremely dense, heavy staff.\n^cyan;Inflicts Electrified^reset;",
-    "value": ""
+    "value": "这把武器非常非常重！\n^cyan;附加感电效果^reset; "
   },
   {
     "op": "replace",

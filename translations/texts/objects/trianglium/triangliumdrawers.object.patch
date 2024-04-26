@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A set of drawers made from trianglium.",
-    "value": "一套由原力矿制成的抽屉。"
+    "value": "一套由原力石制成的抽屉。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Trianglium Drawers",
-    "value": "原力矿抽屉"
+    "value": "原力石抽屉"
   },
   {
     "op": "replace",

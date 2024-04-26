@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A small fridge made from trianglium.",
-    "value": "一个由原力矿制成的小冰箱。"
+    "value": "一个由原力石制成的小冰箱。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Trianglium Mini Fridge",
-    "value": "原力矿迷你冰箱"
+    "value": "原力石迷你冰箱"
   },
   {
     "op": "replace",

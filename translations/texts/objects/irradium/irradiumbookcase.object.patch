@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A bookcase made from irradium.",
-    "value": "用镭矿制成的书架。"
+    "value": "用镭矿制成的书柜。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Irradium Bookcase",
-    "value": "镭素书架"
+    "value": "镭素书柜"
   },
   {
     "op": "replace",

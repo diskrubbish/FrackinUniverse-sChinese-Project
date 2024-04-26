@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A bookcase made from flesh and organs. The shelves drip with... something.",
-    "value": "用血肉和器官做成的书架。架子上滴着...什么东西。"
+    "value": "用血肉和器官做成的书柜。架子上滴着...什么东西。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Atropus Bookcase",
-    "value": "肉源书架"
+    "value": "肉源书柜"
   },
   {
     "op": "replace",
