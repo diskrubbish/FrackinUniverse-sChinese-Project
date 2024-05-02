@@ -2,14 +2,14 @@
   {
     "op": "replace",
     "path": "/critChanceTitleLabel/value",
-    "raw": "^#ee1414;Crit %^reset;",
-    "value": "^#ee1414;暴击率^reset;"
+    "raw": "^#ee1414;Crit%^reset;",
+    "value": ""
   },
   {
     "op": "replace",
     "path": "/critBonusTitleLabel/value",
-    "raw": "^yellow;Dmg +^reset;",
-    "value": "^yellow;暴击伤害^reset;"
+    "raw": "^yellow;C.Dmg%^reset;",
+    "value": ""
   },
   {
     "op": "replace",
