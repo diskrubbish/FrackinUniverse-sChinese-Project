@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "A round, wooden cup.",
-    "value": "一个圆形的木制杯子。"
+    "raw": "A round, fired clay cup.",
+    "value": ""
   },
   {
     "op": "replace",
@@ -14,14 +14,14 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "raw": "A little wooden cup.",
-    "value": "一个小木杯。"
+    "raw": "A little clay cup.",
+    "value": ""
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "raw": "A wooden cup, round and sturdy.",
-    "value": "一个木制的杯子，又圆又结实。"
+    "raw": "A clay cup, round and sturdy.",
+    "value": ""
   },
   {
     "op": "replace",
@@ -32,20 +32,20 @@
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "raw": "Identify. A common wooden goblet.",
-    "value": "辨别。 一种普通的木制高脚杯。"
+    "raw": "Identify. A common fired clay goblet.",
+    "value": ""
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "raw": "A goblet made of wood.",
-    "value": "木制的高脚杯。"
+    "raw": "A goblet made of fired clay.",
+    "value": ""
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "raw": "A stained wooden goblet.",
-    "value": "沾满污迹的木制高脚杯。"
+    "raw": "A stained clay goblet.",
+    "value": ""
   },
   {
     "op": "replace",
