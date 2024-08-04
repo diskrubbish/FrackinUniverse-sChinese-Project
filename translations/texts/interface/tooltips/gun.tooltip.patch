@@ -9,24 +9,24 @@
     "op": "replace",
     "path": "/critChanceTitleLabel/value",
     "raw": "^#ee1414;Crit%^reset;",
-    "value": "^#ee1414;暴击率 %^reset;"
+    "value": "^#ee1414;暴击率%^reset;"
   },
   {
     "op": "replace",
     "path": "/critBonusTitleLabel/value",
     "raw": "^yellow;C.Dmg%^reset;",
-    "value": "^yellow;伤害^reset;"
+    "value": "^yellow;暴击伤害%^reset;"
   },
   {
     "op": "replace",
     "path": "/projectileCountTitleLabel/value",
     "raw": "^green;Projectiles^reset;",
-    "value": ""
+    "value": "^green;射弹数^reset;"
   },
   {
     "op": "replace",
     "path": "/burstCountTitleLabel/value",
     "raw": "^#61be3f;Burst^reset;",
-    "value": ""
+    "value": "^#61be3f;连发数^reset;"
   }
 ]

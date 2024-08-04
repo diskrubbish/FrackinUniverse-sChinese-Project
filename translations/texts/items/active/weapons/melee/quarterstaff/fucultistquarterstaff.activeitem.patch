@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Loaded full of delicious eyeballs\n^cyan;Inflicts bleeding^reset;",
-    "value": "装满了美味的眼球。\n^cyan;造成流血^reset;"
+    "raw": "Loaded full of delicious eyeballs\n^cyan;Inflicts bleeding^reset;\n^red;Deals Physical Damage^reset;",
+    "value": ""
   },
   {
     "op": "replace",

@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A small Gun Decoration for a Kirhosi spaceship.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Kirhos Ship Gun Deco",
+    "value": ""
+  }
+]

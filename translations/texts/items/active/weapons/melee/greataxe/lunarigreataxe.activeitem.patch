@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Glistening with crystalline beauty.\n^cyan;+12% Stun chance^reset;",
-    "value": "晶莹剔透的美丽。\n^cyan;+12%眩晕几率^reset;"
+    "raw": "Glistening with crystalline beauty.\n^blue;Slows Enemies^reset;\n^cyan;+12% Stun chance^reset;",
+    "value": ""
   },
   {
     "op": "replace",

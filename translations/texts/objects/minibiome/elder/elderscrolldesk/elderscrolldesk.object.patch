@@ -1,12 +1,6 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/interactData/paneLayoutOverride/windowtitle/title",
-    "raw": "Esoteric Research",
-    "value": "深奥的研究"
-  },
-  {
-    "op": "replace",
     "path": "/description",
     "raw": "A great place to sit down and uncover the blasphemous truths of the cosmos.",
     "value": "一处伟大的坐处，揭示亵渎的宇宙真相。"

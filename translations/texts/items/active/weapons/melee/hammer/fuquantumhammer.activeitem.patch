@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Straddles two universes. Amazing.",
-    "value": "横跨了两个宇宙，真是太棒了。"
+    "raw": "Straddles two universes. Amazing.\n^red;Deals Physical Damage^reset;",
+    "value": ""
   },
   {
     "op": "replace",

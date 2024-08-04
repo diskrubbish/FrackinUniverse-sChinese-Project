@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "A classy and deadly-looking weapon.",
-    "value": "一把优雅而致命的武器。"
+    "raw": "A classy and deadly-looking weapon.\n^green;Inflicts Poison^reset;",
+    "value": ""
   },
   {
     "op": "replace",

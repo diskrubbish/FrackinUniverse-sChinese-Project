@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Specialized grabber only for use on ships. Absolutely massive range, but no storage.\n^blue;Input: ^white;On/Off Switch^reset;",
-    "value": ""
+    "value": "只能用于飞船上的特殊采集器。采集范围非常大，但不自带存储。\n^blue;输入^white;：电源开关。 ^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Grabber (Ship)",
-    "value": ""
+    "value": "采集器（船用）"
   }
 ]

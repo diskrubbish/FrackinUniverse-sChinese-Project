@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A round, fired clay cup.",
-    "value": ""
+    "value": "一个圆形的烧纸黏土杯。"
   },
   {
     "op": "replace",
@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A little clay cup.",
-    "value": ""
+    "value": "一个小黏土杯。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "A clay cup, round and sturdy.",
-    "value": ""
+    "value": "一个粘土杯子，又圆又结实。"
   },
   {
     "op": "replace",
@@ -33,24 +33,24 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Identify. A common fired clay goblet.",
-    "value": ""
+    "value": "辨别。 一种普通的粘土高脚杯。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "A goblet made of fired clay.",
-    "value": ""
+    "value": "粘土烧制的高脚杯。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "A stained clay goblet.",
-    "value": ""
+    "value": "沾满污迹的粘土高脚杯。"
   },
   {
     "op": "replace",
     "path": "/fumantiziDescription",
     "raw": "For drinking. Lots of drinking!",
-    "value": "为了喝酒。喝多了！"
+    "value": "喝东西用的。猛猛的喝！"
   }
 ]

@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "A truly unique long-ranged rifle, firing freezing blasts of cellular matter.",
-    "value": "一把独特的远程步枪，可发射出冻结身体的细胞结构弹药。"
+    "raw": "A truly unique long-ranged rifle, firing ^cyan;freezing^reset;, ^green;poisonous^reset; blasts of cellular matter.",
+    "value": ""
   },
   {
     "op": "replace",

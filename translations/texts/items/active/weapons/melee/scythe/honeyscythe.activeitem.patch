@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "A clever use of honeycombs.",
-    "value": "蜂窝的巧妙用途。"
+    "raw": "A clever use of honeycombs.\n^red;Inflicts Bee Stings^reset;",
+    "value": ""
   },
   {
     "op": "replace",

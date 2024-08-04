@@ -28,5 +28,11 @@
     "path": "/upgradeParameters3/shortdescription",
     "raw": "^cyan;Phaser MkIV^reset; ^yellow;^reset;",
     "value": "^cyan;相位器 MkIV^reset; ^yellow;^reset;"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters3/description",
+    "raw": "A trusty beam weapon.\n^cyan;Inflicts Frostburn^reset;",
+    "value": ""
   }
 ]

@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Impossible. Weaponized honey.",
-    "value": "咦？怎么可能，把蜂蜜武器化了？"
+    "raw": "Impossible. Weaponized honey.\nNormal Strikes deal ^red;Physical Damage^reset; and inflict ^red;Bee Stings^reset; and ^orange;Burning^reset;",
+    "value": ""
   },
   {
     "op": "replace",

@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/chatOptions/0",
     "raw": "Welcome to the ^green;Science Outpost^reset;! Any friend of Vinalisj is a friend of ours. If you need some advice, I'm here! Just... try to stay away from Kevin.",
-    "value": "欢迎来到科学^green;前哨站^reset;！维纳利斯的任何朋友都是我们的朋友。 如果您需要一些建议，就我在这里！ 对了.....最好远离凯文。"
+    "value": "欢迎来到^green;科学前哨站^reset;！维纳利斯的任何朋友都是我们的朋友。 如果您需要一些建议，就我在这里！ 对了.....最好远离凯文。"
   },
   {
     "op": "replace",
@@ -201,7 +201,7 @@
     "op": "replace",
     "path": "/chatOptions/31",
     "raw": "A second reminder: Kevin is a genius, he really is. Super smart. However, I am absolutely certain he is at least a little bit insane. Read the infraction log, and you'll very swiftly understand what I mean.",
-    "value": "不说第二遍：凯文是一个天才，他确实是。聪明绝顶。 但是，我绝对肯定确定他有点魔怔。去读一下违规日志，你就会很快地理解我现在说的。"
+    "value": "再提醒你一下：凯文是一个天才，毫无疑问，聪明绝顶。 但是，我绝对肯定确定他有点魔怔。去读一下违规日志，你就知道我在说啥了。"
   },
   {
     "op": "replace",
@@ -219,7 +219,7 @@
     "op": "replace",
     "path": "/chatOptions/34",
     "raw": "Did you know that one time he obtained a 3-trillion pixel donation from a wealthy investor solely because, as he went on to claim, he made a really good sandwich for the man. Is any sandwich that good? I am sceptical.",
-    "value": "你知道吗，有一次他从一个富有的投资者那里获得了3万亿像素的捐款，仅仅是因为，正如他继续声称的那样，他为这个人做了一个非常好的三明治。有那么好的三明治吗？我持怀疑态度。"
+    "value": "你知道吗，有一次他从一个富有的投资者那里获得了3万亿像素的捐款，并说是因为他给这个富商做了一个非常好吃的三明治。有那么好吃的三明治吗？我信你个鬼。"
   },
   {
     "op": "replace",
@@ -237,7 +237,7 @@
     "op": "replace",
     "path": "/chatOptions/37",
     "raw": "^red;Do not^reset; use Kevins Kill-Pod technology. It does to you exactly what it says on the tin. This is likely not your desire. It sure wasn't the desire of Dr.Demento, revered Mime of Nippango IV. He ignored the warning. Now he's dead. So yea. Careful.",
-    "value": "^red;不要^reset;使用凯文牌死亡科技罐头。它对你做的正是它在罐子上说的事。这可能不是你的愿望。这也肯定不是先生德门托的愿望，他是尼潘戈IV上受人尊敬的哑剧演员。他无视警告。所以现在他已经死了。所以，说的是你。小心点。"
+    "value": "^red;不要^reset;使用凯文牌死亡科技罐头。它会如字面所说对你造成影响。你不会想要这玩意的。这也肯定不是德门托先生想要的，他是尼潘戈IV星球上受人尊敬的哑剧艺术家。他无视警告。所以现在他已经死了。吼吼，说的就是你。小心点。"
   },
   {
     "op": "replace",
@@ -297,7 +297,7 @@
     "op": "replace",
     "path": "/chatOptions/47",
     "raw": "When you -do- check it out, though, maybe wear pants. Kevin has a habit of shopping before he even gets dressed in the morning. If it wasn't for his carapace...well, let's just say there would be entirely too much alien wing-wong around.",
-    "value": "不过，当你--做--检查时，也许要穿裤子。凯文有一个习惯，在他早上穿衣服之前就去购物。如果不是因为他的外壳......好吧，我们只能说周围会有太多的外星人翅膀。"
+    "value": "不过，当你真去--做--检查时，最好穿上裤子。凯文有一个习惯，早上不穿衣服就去购物。如果不是因为他的外壳......好吧，只能说周围都是外星人的老二。"
   },
   {
     "op": "replace",

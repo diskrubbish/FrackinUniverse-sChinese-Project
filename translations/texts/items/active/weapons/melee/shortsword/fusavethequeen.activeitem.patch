@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Pink, but not wimpy.",
-    "value": "粉色的外观，但并不是看上去这么脆弱。"
+    "raw": "Pink, but not wimpy.\n^green;Inflicts Poison^reset;\n^red;Inflicts Bee Stings^reset;",
+    "value": ""
   },
   {
     "op": "replace",

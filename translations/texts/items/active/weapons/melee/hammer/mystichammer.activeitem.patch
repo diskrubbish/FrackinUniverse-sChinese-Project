@@ -8,7 +8,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "raw": "Mystichammer",
-    "value": "神必壬"
+    "raw": "Mystichammer\n^red;Deals Physical Damage^reset;",
+    "value": ""
   }
 ]

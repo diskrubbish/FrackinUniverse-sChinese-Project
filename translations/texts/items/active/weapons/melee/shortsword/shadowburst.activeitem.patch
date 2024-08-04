@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "A soul-cleaver of ageless, unknown materials.",
-    "value": "于暗影中收割生命，以未知材料制成。"
+    "raw": "A soul-cleaver of ageless, unknown materials.\n^red;Inflicts Bleeding^reset;",
+    "value": ""
   },
   {
     "op": "replace",
