@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Non-Auto Gun: Damage x^green;1.25^reset;\n^yellow;^reset; ^cyan;Immune^reset;: Shadow Taint",
-    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; 非自动枪: 伤害 x^green;1.25^reset;\n^yellow;^reset; ^cyan;免疫^reset;: 暗影污染"
+    "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Shotgun,Semi-Auto Pistol/Rifle, Sniper Rifle: Mastery +^green;25^reset;%\n^yellow;^reset; ^cyan;Immune^reset;: Shadow Taint",
+    "value": ""
   }
 ]

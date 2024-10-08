@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/glitchmission01a/text",
     "raw": "He may have a few screws loose, dear, but he's not dangerous. He's' ^green;absolutely certain^reset; that this keep houses an ^red;ancient and terrible artifact^reset; and spends a fortune investigating.",
-    "value": "他可能有点神志不清，亲爱的，但他并不危险。 他^green;绝对肯定^reset;在这里藏了一件^red;古老而不可直视的造物^reset;，并且花了大笔钱来调查。"
+    "value": "他可能有点神志不清，亲爱的，但他并不危险。 他^green;绝对肯定^reset;在这里藏了一件^red;古老而不可直视的遗物^reset;，并且花了大笔钱来调查。"
   },
   {
     "op": "replace",
@@ -33,19 +33,19 @@
     "op": "replace",
     "path": "/glitchmission02/text",
     "raw": "Well I'll be damned. The Baron was right. This must be the switch for the rumored 'secret' of the Keep. Be sure to get some scans of whatever you find. I'm really curious what you'll discover here!",
-    "value": "我真傻。拜伦男爵是对的。这一定是传说中要塞“秘密”的开关。一定要扫描一下你发现的任何东西。我真的很好奇你会在这里发现什么！"
+    "value": "唉，我犯傻啦。拜伦男爵还是棋高一着。这一定是掌管传说中要塞“秘密”的开关。一定要扫描一下你发现的任何东西。我真的很好奇你会在这里发现什么！"
   },
   {
     "op": "replace",
     "path": "/lunarbase04/text",
     "raw": "Erchius readings have reached 94 rad. You are in grave peril. My programming requires me to inform you that proceeding could prove dangerous. Use extreme caution.",
-    "value": "厄尔吉斯的辐射指数达到了94拉德。你的处境非常危险。我的程序要求我通知你，这样做可能会很危险。请保持极端谨慎。"
+    "value": "厄尔吉斯的辐射指数达到了94拉德。你的处境非常危险。我的程序要求我通知你，继续前进可能会很危险。请务必万分小心。"
   },
   {
     "op": "replace",
     "path": "/lunarbase05/text",
     "raw": "Prolonged contact with the Erchius crystals seems to have denatured their very being! Curious. The creatures have lost themselves completely.",
-    "value": "看看他们的样子，与厄尔吉斯晶体的长期接触已经彻底改变了他们的形态！我很好奇。这些可怜虫们已经完全迷失了自我。"
+    "value": "看看他们的样子，与厄尔吉斯晶体的长期接触已经彻底改变了他们的形态！真是好奇。这些可怜虫们已经完全迷失了自我。"
   },
   {
     "op": "replace",
@@ -63,7 +63,7 @@
     "op": "replace",
     "path": "/lunarbase08a/text",
     "raw": "There is enough Erchius here to power the Outpost for quite a long time. ^orange;Great work, Agent^reset;! This will greatly help the Protectorate to reform.",
-    "value": "这里有足够的厄尔吉斯晶体来为前哨站提供长时间的能量。^orange;干得好，探员^reset;！这将大大有助于守护团的改革。"
+    "value": "这里有足够的厄尔吉斯晶体来为前哨站提供长时间的能量。^orange;干得好，干员^reset;！这将对守护团的重塑大有裨益。"
   },
   {
     "op": "replace",
@@ -75,7 +75,7 @@
     "op": "replace",
     "path": "/floranmission102/text",
     "raw": "Bio readings show many lifesigns in these tunnels. Unfortunately, approximately 97% are hostile. I commend your valour.",
-    "value": "生命体检测显示这些隧道里有许多生命信号.很不幸，其中的97%带有敌意。我真佩服你的勇气。"
+    "value": "生命体检测显示这些隧道里有许多生命信号。很不幸，其中的97%带有敌意。我真佩服你的勇气。"
   },
   {
     "op": "replace",
@@ -93,7 +93,7 @@
     "op": "replace",
     "path": "/apexmission01/text",
     "raw": "Our arrival appears to coincide with a rebel attack against the Miniknog. This is to both our advantage for the Protectorate to provide aid.",
-    "value": "我们的到来似乎反抗军攻击科学发展部的时间相吻合。对于我们双方来说守护团伸出援手是双双获利的。"
+    "value": "我们的到来似乎与反抗军攻击科学发展部的时间相吻合。对于我们双方来说，守护团伸出援手是双赢的。"
   },
   {
     "op": "replace",
@@ -105,13 +105,13 @@
     "op": "replace",
     "path": "/apexmission06a/text",
     "raw": "Big Ape is a profoundly dangerous enemy, but is still vulnerable to weapons. Cut the head off the snake, and the Miniknog may crumble!",
-    "value": "大猿人真是一个极其危险的敌人，但头一掉啥人都没戏。擒贼先擒王，科技发展部这下子可能会走向崩溃！"
+    "value": "老大猿真是一个极其危险的敌人，但是也不是很能吃枪子。擒贼先擒王，科技发展部这下子可能会走向崩溃！"
   },
   {
     "op": "replace",
     "path": "/hylotlmission03a/text",
     "raw": "Something about these cultists is setting off alarm bells. There is an eerie resemblance to something that I just can't place...",
-    "value": "关于这些信徒的某些东西正在敲响我们警钟。他们的行为有一种令人毛骨悚然的相似之处，我只是无法理解..."
+    "value": "关于这些信徒的某些东西正在敲响我们警钟。他们的行为有一种令人毛骨悚然的相似之处，但我就是无法确定..."
   },
   {
     "op": "replace",
@@ -255,7 +255,7 @@
     "op": "replace",
     "path": "/activateMasterManipulator/text",
     "raw": "Excellent. You have activated the Master Manipulator using this Crucible as a power source! Now you can really obliterate matter like a champ! Go!",
-    "value": "优秀。 你已经用这块升级器作为动力源激活了始源物质枪！现在你真的可以像冠军一样消灭物质了！我们走！"
+    "value": "优秀。你已经用这块升级器作为动力源激活了始源物质枪！现在你真的可以像冠军一样消灭物质了！我们出发吧！"
   },
   {
     "op": "replace",
@@ -291,7 +291,7 @@
     "op": "replace",
     "path": "/extrachallengelabs301/text",
     "raw": "It is imperative to note that due to the nature of the tests in this facility, you may very well end up stuck through very much fault of your own.",
-    "value": "必须注意的是，由于这处测试设施的自然条件，您可能最终会遇到由自己造成的很多错误。"
+    "value": "必须注意的是，由于这处测试设施的自然条件，您可能最终会作茧自缚，自业自得。"
   },
   {
     "op": "replace",
@@ -315,7 +315,7 @@
     "op": "replace",
     "path": "/extrachallengelabs302/text",
     "raw": "Contained within the chest ahead is a Personal Spatial Transference Module, or in layman's terms, a Translocator. Please retrieve it. It will be required for testing.",
-    "value": "前面的箱子里装着一块个人空间转移模块，或者用外行人的话说，一个转移器。请取回它。它需要进行一些测试。"
+    "value": "前面的箱子里装着一块个人空间转移模块，或者用外行人的话说，一个转移器。请取走它。它需要进行一些测试。"
   },
   {
     "op": "replace",
@@ -327,7 +327,7 @@
     "op": "replace",
     "path": "/extrachallengelabs303/text",
     "raw": "Please note that from this point onwards, your performance will be evaluated. Use your translocator to navigate the tests in an expedient manner.",
-    "value": "请注意，从这处地方开始，你的表现将被评估。使用您的转换器以便利的方式完成测试。"
+    "value": "请注意，从这处地方开始，您的表现将被评估。使用您的转换器以便利的方式完成测试。"
   },
   {
     "op": "replace",
@@ -339,7 +339,7 @@
     "op": "replace",
     "path": "/extrachallengelabs303a/text",
     "raw": "You will be graded on factors such as time, adroit use of the translocator, attitude, non-vapourisation, and other common test parameters.",
-    "value": "你将被根据诸如时间、转换器的熟练使用、态度、未蒸发程度和其他常见测试参数等因素来评分。"
+    "value": "您将被根据诸如时间、转换器的熟练使用、态度、未蒸发程度和其他常见测试参数等因素来评分。"
   },
   {
     "op": "replace",
@@ -375,7 +375,7 @@
     "op": "replace",
     "path": "/extrachallengelabs306/text",
     "raw": "Being spatially relocated can be disorienting, but I have full faith you will overcome this obstacle. That, or be vapourised.",
-    "value": "空间重新定位可能会让人迷失方向，但我完全相信你能克服这个障碍。不然就是被蒸发。"
+    "value": "空间重新定位可能会让人迷失方向，但我完全相信您能克服这个障碍。或者，原地蒸发。"
   },
   {
     "op": "replace",
@@ -387,7 +387,7 @@
     "op": "replace",
     "path": "/extrachallengelabs307/text",
     "raw": "Thank you for participating in this small test! On behalf of all members of the facility, allow me to congratulate you on a job well done!",
-    "value": "谢谢你参加这个小小的测试！请允许我代表我们设施的所有成员，祝贺你的出色表现！"
+    "value": "谢谢您参加这个小小的测试！请允许我代表我们设施的所有成员，祝贺您的出色表现！"
   },
   {
     "op": "replace",
@@ -411,7 +411,7 @@
     "op": "replace",
     "path": "/extrachallengelabs307b/text",
     "raw": "Please depart via the radar in a calm and orderly fashion. Do remember to take your belongings with you.",
-    "value": "请通过雷达并平静有序地离开。记得带上你的随身物品。"
+    "value": "请通过雷达并平静有序地离开。记得带上您的随身物品。"
   },
   {
     "op": "replace",
@@ -423,7 +423,7 @@
     "op": "replace",
     "path": "/extrachallengelabs201/text",
     "raw": "Yellow detectors detect Companion Punchys. Blue detectors detect... well, you.",
-    "value": "黄色探测器检测到你的强力伙伴们。 蓝色探测器探测到...好吧，那是你。"
+    "value": "黄色探测器检测到您的强力伙伴们。 蓝色探测器探测到...好吧，那是您。"
   },
   {
     "op": "replace",
@@ -447,7 +447,7 @@
     "op": "replace",
     "path": "/extrachallengelabs203/text",
     "raw": "Relax a while in our fully-equipped pleasure chamber.",
-    "value": "在我们设备齐全的游乐室里放松一下。"
+    "value": "请在我们设备齐全的游乐室里放松一下。"
   },
   {
     "op": "replace",
@@ -471,7 +471,7 @@
     "op": "replace",
     "path": "/extrachallengelabs205/text",
     "raw": "Let's see how well you do under pressure.",
-    "value": "让我们看看你在压力下会表现如何。"
+    "value": "让我们看看您在压力下会表现如何。"
   },
   {
     "op": "replace",
@@ -483,7 +483,7 @@
     "op": "replace",
     "path": "/extrachallengelabs206/text",
     "raw": "Partners often switch sides in a dance.",
-    "value": "舞伴在舞蹈中经常交换位置。"
+    "value": "舞伴总会在舞蹈中互换站位。"
   },
   {
     "op": "replace",
@@ -495,7 +495,7 @@
     "op": "replace",
     "path": "/extrachallengelabs101/text",
     "raw": "Welcome, <insert subject name here>. You have chosen, or been chosen, to be the next benefactor of our highly advanced testing systems.",
-    "value": "欢迎，<输入你的大名>。您已选中或被选中，成为我们高科技测试系统的下一个受益者。"
+    "value": "欢迎，<输入你的大名>。您已选择，或被选择成为我们高科技测试系统的下一位捐赠者。"
   },
   {
     "op": "replace",
@@ -507,7 +507,7 @@
     "op": "replace",
     "path": "/extrachallengelabs101a/text",
     "raw": "My name is Generic Omnipresent Voice, or GOV for short. While you are in the facility, I will be your guiding authority.",
-    "value": "我的名字是通用而无所不在的之音，或简称GOV(Generic Omnipresent Voice)。当你在这处场地的时候，我将是你的指导者。"
+    "value": "我的名字是“千种用途且哪里都在的声音”，简称千里音。我负责在这个设施里为您提供指导。"
   },
   {
     "op": "replace",
@@ -519,7 +519,7 @@
     "op": "replace",
     "path": "/extrachallengelabs101b/text",
     "raw": "Do note that gravity anomaly fields are in effect on board this facility; while you will still fall, it will not hurt you.",
-    "value": "请注意，重力异常场在这处设施上有效，虽然你仍然会掉下来，但你不会受伤。"
+    "value": "请注意，该设施受重力异常场影响；虽然您仍然会掉下去，但您不会受伤。"
   },
   {
     "op": "replace",
@@ -531,7 +531,7 @@
     "op": "replace",
     "path": "/extrachallengelabs101c/text",
     "raw": "Have a very safe and educational day.",
-    "value": "祝你一路顺风，路遇良师。"
+    "value": "希望您能度过安全而充满教育意义的一天。"
   },
   {
     "op": "replace",
@@ -543,7 +543,7 @@
     "op": "replace",
     "path": "/extrachallengelabs102/text",
     "raw": "Contained within this chest is a Tool For Spatial Transference Of Living Matter, or in layman's terms, a Relocator. Please retrieve it. It will be required for testing.",
-    "value": "这个箱子里装着一个活物质空间转移的工具，或者用外行人的话说，一个定位器。请取回它。它需要进行一些测试。"
+    "value": "这个箱子里装着一个活体物质空间转移工具，或者用外行人的话说，一个重定位器。请取走它。它需要进行一些测试。"
   },
   {
     "op": "replace",
@@ -579,7 +579,7 @@
     "op": "replace",
     "path": "/extrachallengelabs104a/text",
     "raw": "Teamwork is mandatory in the testing facility. Non-compliance will not be tolerated and you will be penalised for failure to display a sufficient teamwork exponent.",
-    "value": "在测试设施中，团队合作是强制性的。不遵守这项规定是不能被容忍的，且你将会因没有表现出足够的团队合作指数而被惩罚。"
+    "value": "在测试设施中，团队合作是强制性的。不遵守规定将不被容忍，未能展现出足够的团队合作指数将会受罚。"
   },
   {
     "op": "replace",
@@ -591,7 +591,7 @@
     "op": "replace",
     "path": "/extrachallengelabs105/text",
     "raw": "Success! Teamwork levels are now non-negligible. Please enjoy a moment in the Comfort Chamber with your Companion Punchy before proceeding.",
-    "value": "成功了！现在看来团队合作的力量不可忽视。在继续之前，请和你的强力伙伴们一起在舒适的房间里享受一会儿。"
+    "value": "成功了！现在看来，团队合作的力量不可小觑。在继续之前，请和你的强力伙伴们一起在舒适的房间里享受一会儿。"
   },
   {
     "op": "replace",
@@ -603,7 +603,7 @@
     "op": "replace",
     "path": "/extrachallengelabs106/text",
     "raw": "Your Companion Punchy is more durable than appearances might otherwise suggest. It will bleed, burn, and die for you so that you don't have to.",
-    "value": "你的强力伙伴不是个样子货。它可以代替你流血，烧伤甚至死亡。"
+    "value": "你的强力伙伴比看上去更耐实。它可以代替你流血，烧伤甚至死亡。"
   },
   {
     "op": "replace",
@@ -2127,7 +2127,7 @@
     "op": "replace",
     "path": "/sunsetriders01/text",
     "raw": "We've arrived! This looks like a proper rustic backwater, all right.",
-    "value": "我们到了！好吧，这看起来正像一潭农村的死水。"
+    "value": "我们到了！是的，一处看上去就很闭塞的村落。"
   },
   {
     "op": "replace",
@@ -2139,25 +2139,25 @@
     "op": "replace",
     "path": "/sunsetriders01a/text",
     "raw": "Keeping peace in the galaxy is what the Protectorate is about, dear. Apprehending this criminal would certainly show we're up and about, if nothing else.",
-    "value": "亲爱的，维护星际和平就是守护团的意义所在。抓住这个罪犯肯定能表明我们已经苏醒并崛起，如果没有别的事情的话。"
+    "value": "维护星际和平就是守护团的使命所在，亲爱的。抓捕这个罪犯无疑会表明我们已东山再起并有所行动，哪怕仅此而已。"
   },
   {
     "op": "replace",
     "path": "/sunsetriders02/text",
     "raw": "You might want to talk to the locals and stock up on supplies before heading out. We won't be able to return once we leave the fort.",
-    "value": "在出发之前，你可能想和当地人谈谈，并储备一些物资。一旦离开堡垒，我们将无法返回。"
+    "value": "在出发之前，你可以和当地人谈谈，并补充一些物资。一旦离开堡垒，我们就无法再回来了。"
   },
   {
     "op": "replace",
     "path": "/sunsetriders03/text",
     "raw": "The path forks here. The hillside is likely a straightforward path, but teeming with enemies. The mines are more treacherous, but you'll face less resistance.",
-    "value": "路径在这里分叉。山坡似乎是一条直通的路，但却充满了敌人。地雷更加危险，但你将面临更少的阻力。"
+    "value": "这里的道路出现了分岔。走山坡的路也许能直达目的地，但敌人众多。而矿道可能路途凶险，但面对的抵抗力量会少一些。"
   },
   {
     "op": "replace",
     "path": "/sunsetriders04/text",
     "raw": "What a treasure trove! We're rich! We're rich!",
-    "value": "这真是个宝物！我们发财了！我们发了！"
+    "value": "真给你找到宝啦！我们发财了！有钱赚啦！"
   },
   {
     "op": "replace",
@@ -2169,7 +2169,7 @@
     "op": "replace",
     "path": "/sunsetriders06/text",
     "raw": "Hank's men have dug into the hill with fortifications and traps. Hope you're confident enough in your combat abilities to bust their barricade!",
-    "value": "汉克的人在山上挖了防御工事和陷阱。希望你对自己的战斗能力有足够的信心，突破他们的路障！"
+    "value": "汉克的人在山上挖筑了防御工事和陷阱。希望你对自己的战斗能力足够自信，相信自己有能力去突破他们的阻碍！"
   },
   {
     "op": "replace",
@@ -2187,7 +2187,7 @@
     "op": "replace",
     "path": "/sunsetriders07a/text",
     "raw": "I'm really sorry about the AI. The programming team was having a rather...unique day when they were coding the humour module.",
-    "value": "AI的事我真的很抱歉。编程团队在编写幽默模块的时候过了一天相当特别的日子。"
+    "value": "AI的事我真的很抱歉。编程团队在编写幽默模块时，确实经历了相当...独特的一天。"
   },
   {
     "op": "replace",

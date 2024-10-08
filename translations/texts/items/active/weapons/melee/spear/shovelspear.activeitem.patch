@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A dangerous shovel for the discerning knight.\n^cyan;Hunting weapon^reset;\n^red;Inflicts Bleeding^reset;",
-    "value": ""
+    "value": "识铲骑士的杀戮利器。\n^cyan;狩猎武器^reset;\n^red;造成流血^reset; "
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "The greatest shovel in the universe. ^yellow;It's true.^reset;\n^cyan;Hunting weapon^reset;\n^red;Inflicts Bleeding^reset;",
-    "value": ""
+    "value": "是全宇宙数一数二的铲铲。^yellow;毋须质疑。^reset;\n^cyan;狩猎武器^reset;\n^red;造成流血^reset; "
   },
   {
     "op": "replace",

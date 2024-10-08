@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Used to burn through ship hulls for deep-space boarding.\n^cyan;Hunting weapon^reset;\n^red;Inflicts Bleeding^reset;",
-    "value": ""
+    "value": "用来烧穿船体，进行深空登舰。\n^cyan;狩猎武器^reset;\n^red;造成流血^reset; "
   },
   {
     "op": "replace",

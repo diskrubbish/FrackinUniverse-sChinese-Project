@@ -458,8 +458,8 @@
   {
     "op": "replace",
     "path": "/scriptConfig/crew/role/name",
-    "raw": "Mercanary",
-    "value": "雇佣兵"
+    "raw": "Mercenary",
+    "value": ""
   },
   {
     "op": "replace",

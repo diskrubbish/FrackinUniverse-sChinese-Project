@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Highly destructive. Don't poke your eye out.\n^blue;Inflicts Electrified^reset;\n^cyan;Epic Swooshy Alt^reset;",
-    "value": ""
+    "value": "极具破坏性。不要戳到你的眼睛。\n^blue;附加感电效果^reset; \n^cyan;次要攻击：史诗级的回旋斩^reset;"
   },
   {
     "op": "replace",
