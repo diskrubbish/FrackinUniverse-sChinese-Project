@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/description",
     "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Spear/Bow: Mastery +^green;25^reset;%\n^yellow;^reset; ^cyan;Immune^reset;: Burning",
-    "value": ""
+    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; 长矛/弓: 专精+^green;25^reset;%\n^yellow;^reset; ^cyan;免疫^reset;: 烧伤"
   }
 ]

@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/description",
     "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Shotgun,Semi-Auto Pistol/Rifle, Sniper Rifle: Mastery +^green;19^reset;%\n^yellow;^reset; ^cyan;Immune^reset;: Shadow Taint",
-    "value": ""
+    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; 霰弹枪、半自动手枪/步枪、狙击步枪: 专精+^green;19^reset;%\n^yellow;^reset; ^cyan;免疫^reset;: 暗影污染"
   }
 ]

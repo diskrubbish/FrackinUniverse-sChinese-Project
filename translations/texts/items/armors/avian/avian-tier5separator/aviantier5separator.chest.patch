@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/description",
     "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Wand/Staff: Mastery +^green;22^reset;%\n^yellow;^reset; ^cyan;Immune^reset;: Poison",
-    "value": ""
+    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; 魔杖/法杖: 专精+^green;22^reset;%\n^yellow;^reset; ^cyan;免疫^reset;: 中毒"
   }
 ]

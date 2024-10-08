@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/contentPages/4",
     "raw": "Object Data Sensor: Crafted in the tinkering table. Detects object placement points, to allow for more precise placement of Storage Bridges. Bridges select a single container based on the distance between themselves and object placement points.",
-    "value": ""
+    "value": "物件数据传感器：在改造台处制造。检测对象的放置点，以使储存桥接器的设置更加精确。储存桥接器会根据自己和对象放置点之间的距离选择单个容器。"
   },
   {
     "op": "replace",

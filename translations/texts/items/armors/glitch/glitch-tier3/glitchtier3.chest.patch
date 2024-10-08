@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/description",
     "raw": "^orange;Set Bonuses^reset;:\n^yellow;^reset; Hammer/Mace/Axe/Greataxe: Damage x^green;1.16^reset;\n^yellow;^reset; ^cyan;Immune^reset;: Electrified",
-    "value": ""
+    "value": "^orange;套装奖励^reset;:\n^yellow;^reset; 锤/钉头锤/斧/巨斧: 伤害 x^green;1.16^reset;\n^yellow;^reset; ^cyan;免疫^reset;: 感电"
   }
 ]
