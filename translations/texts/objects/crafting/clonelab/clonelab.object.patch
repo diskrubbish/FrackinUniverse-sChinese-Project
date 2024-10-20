@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/subtitle",
     "raw": "Mash together tree genetics",
-    "value": "用于树木克隆"
+    "value": "将树木的遗传学特征混合"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "Create modified versions of saplings for unique trees.",
-    "value": "通过修改基因的方式，把树苗更改成你需要的树苗。"
+    "value": "创造独特树木的改良版本。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^orange;Cloning Lab^reset;",
-    "value": "^orange;树木克隆仪^reset;"
+    "value": "^orange;接枝实验室^reset;"
   }
 ]

@@ -1,0 +1,1310 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/generic/welcome",
+    "raw": "Welcome to the {STATIONNAME} station [(playername)]. Enjoy your stay!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/chat1",
+    "raw": "*Additional supplies depots required*\n[(pause)5]...[(pause)5]\nPardon me - wrong AI state.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/chat2",
+    "raw": "To protect you, we must isolate you.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/chat3",
+    "raw": "You're totally not a brain in a jar living a simulation, serving as a processor.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/chat4",
+    "raw": "*Incoming Transmission*\n[(pause)5]*Processing...*\n[(pause)5]*Printing to screen*\nAccording to all known laws of aviation, there is no way a bee should be able to fly.\nIts wings are too small to get its fat little body off the ground.\nThe bee, of course, flies anyway because bees don't care what humans think is impossible.\nYellow, black. Yellow, black.\nYellow, black. Yellow, black.\nOoh, black and yellow!\nLet's shake it up a little.\nBarry! Breakfast is ready!\nOoming!\nHang on a second.\nHello?\n- Barry?\n- Adam?\n- Oan you believe this is happening?\n- I can't. I'll pick you up.\nLooking sharp.\nUse the stairs. Your father\npaid good money for those.\nSorry. I'm excited.\nHere's the graduate.\nWe're very proud of you, son.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/chat5",
+    "raw": "*Searching archives for entertainment*\n[(pause)5].[(pause)5].[(pause)5].[(pause)10] *Entertainment detected. Printing to screen*\n[(pause)3]Now this is a story all about how\nMy life got flipped-turned upside down\nAnd I'd like to take a minute\nJust sit right there\nI'll tell you how I became the prince of a town called Bel-Air\nIn west Philadelphia born and raised\nOn the playground was where I spent most of my days\nChillin' out maxin' relaxin' all cool\nAnd all shooting some b-ball outside of the school\nWhen a couple of guys who were up to no good\nStarted making trouble in my neighborhood\nI got in one little fight and my mom got scared\nShe said, 'You're movin' with your auntie and uncle in Bel-Air.'",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/chat6",
+    "raw": "You've got mail!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/chat7",
+    "raw": "Would you like some cake?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/chat8",
+    "raw": "When travelling on Sulphuric worlds, if you are able to protect yourself against the ravages of the environment you will be capable of procuring enormous quantities of ore. With hazard comes reward.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/chat9",
+    "raw": "There are legends of an ancient race, long forgotten, that came here from some unknown sector of space. Allegedly, there is a treasure trove of powerful technology awaiting the intrepid explorer.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/chat10",
+    "raw": "Exposure to psionically damaging effects can permanently affect your brain. Madness -can- lead to genius, but not if you completely lose your mind.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/militarySpecial",
+    "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/medicalSpecial",
+    "raw": "As a medical research lab, our special service is providing you with powerful body enhancers, for the right price of course.\nDue to health hazard, you can have only one enhancer active at a time, but they last until death, or until removed at a medical station for 500 pixels.\nRemember - Every medical station has its own collection of enhancers, so be sure to check them all out!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/scientificSpecial",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/tradingSpecial",
+    "raw": "As a trading center, we care primarily about pixels and their value.\nShould you be able to raise a high enough amount and invest in us, we'll make sure it'll be worth your while.\nWith each investment you make, the prices in our shops will shift in your favor, allowing you to buy and sell goods at better rates!\nInvest enough, and the prices for all space stations will have a shift in your favor!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/tradingSpecialMax",
+    "raw": "Thank you for your great contribution!\nThanks to you, we are now a bustling trading station with a lot of goods to pick from, with good prices for everyone!\nWe'll make sure your contribution is known beyond the bounds of this station, providing you with a better price rate when you buy or sell from other vendors across the stars!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/returnSpecial",
+    "raw": "Was there anything else you wanted?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/cantAfford1",
+    "raw": "Seems like you're a bit short on pixels...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/cantAfford2",
+    "raw": "You're low on pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/cantAfford3",
+    "raw": "You can not afford that.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/cantAfford4",
+    "raw": "You'll need more pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/activeEnhancer",
+    "raw": "I'm sorry, but for your own safety we cannot apply another enhancer while another one is active.\nWe can remove your current one for 500 pixels if you'd like.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/acquireEnhancer",
+    "raw": "Don't forget you'll lose the enhancer should you die, or you can ask us to remove it should you tire from it.\nIn addition, side effects may include: dry mouth, nausea, vomiting, water retention, painful rectal itch, hallucination, dementia, psychosis, coma, death, and halitosis.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/cooldownEnhancer",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/removeEnhancer",
+    "raw": "Enhancer removed. Enjoy your enhancer free body!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/hireMerc",
+    "raw": "Heres the contract, use it to call and recruit them.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/generic/noMoreMerc",
+    "raw": "Sorry, we only allow one crewmate per captain.\nTry checking other military stations if you're in need for more crewmates.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/welcome",
+    "raw": "Welcome to the {STATIONNAME} station [(playername)], and remember, Big Ape is watching.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/chat1",
+    "raw": "I like bananas.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/chat2",
+    "raw": "Serving up here is a lot more fun than being a common worker.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/chat3",
+    "raw": "Apex engineering is the best in the universe!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/chat4",
+    "raw": "Get out of here stalker!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/militarySpecial",
+    "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/medicalSpecial",
+    "raw": "As a medical research lab, our special service is providing you with powerful body enhancers, for the right price of course.\nDue to health hazard, you can have only one enhancer active at a time, but they last until death, or until removed at a medical station for 500 pixels.\nRemmember - Every medical station has its own collection of enhancers, so be sure to check them all out!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/scientificSpecial",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/tradingSpecial",
+    "raw": "As a trading center, we care primarily about pixels and their value.\nShould you be able to raise a high enough amount and invest in us, we'll make sure it'll be worth your while.\nWith each investment you make, the prices in our shops will shift in your favor, allowing you to buy and sell goods at better rates!\nInvest enough, and the prices for all space stations will have a shift in your favor!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/tradingSpecialMax",
+    "raw": "Thank you for your great contribution!\nThanks to you, we are now a bustling trading station with a lot of goods to pick from, with good prices for everyone!\nWe'll make sure your contribution is known beyond the bounds of this station, providing you with a better price rate when you buy or sell from other vendors across the stars!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/returnSpecial",
+    "raw": "Was there anything else you wanted?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/cantAfford1",
+    "raw": "Seems like you're a bit short on pixels...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/cantAfford2",
+    "raw": "You're low on pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/cantAfford3",
+    "raw": "You can not afford that.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/cantAfford4",
+    "raw": "You'll need more pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/activeEnhancer",
+    "raw": "I'm sorry, but for your own safety we cannot apply another enhancer while another one is active.\nWe can remove your current one for 500 pixels if you'd like.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/acquireEnhancer",
+    "raw": "Don't forget you'll lose the enhancer should you die, or you can ask us to remove it should you tire from it.\nIn addition, side effects may include: dry mouth, nausea, vomiting, water retention, painful rectal itch, hallucination, dementia, psychosis, coma, death, and halitosis.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/cooldownEnhancer",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/removeEnhancer",
+    "raw": "Enhancer removed. Enjoy your enhancer free body!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/hireMerc",
+    "raw": "Heres the contract, use it to call and recruit them.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apex/noMoreMerc",
+    "raw": "Sorry, we only allow one crewmate per captain.\nTry checking other military stations if you're in need for more crewmates.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/welcome",
+    "raw": "Welcome to the {STATIONNAME} station [(playername)], Kluex watch over you!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/chat1",
+    "raw": "I may be flightless, but I imagine floating through space is just as fun!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/chat2",
+    "raw": "Tell me of your adventures!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/chat3",
+    "raw": "One day I'll save enough to buy my own ship!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/chat4",
+    "raw": "I'm bored...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/militarySpecial",
+    "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/medicalSpecial",
+    "raw": "As a medical research lab, our special service is providing you with powerful body enhancers, for the right price of course.\nDue to health hazard, you can have only one enhancer active at a time, but they last until death, or until removed at a medical station for 500 pixels.\nRemmember - Every medical station has its own collection of enhancers, so be sure to check them all out!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/scientificSpecial",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/tradingSpecial",
+    "raw": "As a trading center, we care primarly about pixels and their value.\nShould you be able to raise a high enough amount and invest in us, we'll make sure it'll be worth your while.\nWith each investment you make, the prices in our shops will shiftin your favor, allowing you to buy and sell goods at better rates!\nInvest enough, and the prices for all space stations will have a shift in your favor!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/tradingSpecialMax",
+    "raw": "Thank you for your great contribution!\nThanks to you, we are now a bustling trading station with a lot of goods to pick from, with good prices for everyone!\nWe'll make sure your contribution is known beyond the bounds of this station, providing you with a better price rate when you buy or sell from other vendors across the stars!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/returnSpecial",
+    "raw": "Was there anything else you wanted?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/cantAfford1",
+    "raw": "Seems like you're a bit short on pixels...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/cantAfford2",
+    "raw": "You're low on pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/cantAfford3",
+    "raw": "You can not afford that.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/cantAfford4",
+    "raw": "You'll need more pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/activeEnhancer",
+    "raw": "I'm sorry, but for your own safety we cannot apply another enhancer while another one is active.\nWe can remove your current one for 500 pixels if you'd like.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/acquireEnhancer",
+    "raw": "Don't forget you'll lose the enhancer should you die, or you can ask us to remove it should you tire from it.\nIn addition, side effects may include: dry mouth, nausea, vomiting, water retention, painful rectal itch, hallucination, dementia, psychosis, coma, death, and halitosis.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/cooldownEnhancer",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/removeEnhancer",
+    "raw": "Enhancer removed. Enjoy your enhancer free body!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/hireMerc",
+    "raw": "Heres the contract, use it to call and recruit them.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avian/noMoreMerc",
+    "raw": "Sorry, we only allow one crewmate per captain.\nTry checking other military stations if you're in need for more crewmates.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/welcome",
+    "raw": "Floran must welcome [(playername)] to the {STATIONNAME} ssstation. Ssstate your businesss",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/chat1",
+    "raw": "Nice weather. Good for Floransss.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/chat2",
+    "raw": "You haven't died.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/chat3",
+    "raw": "Floran lossst their meat. Floran susspects Sssteve.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/chat4",
+    "raw": "Is Floran wilting?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/chat5",
+    "raw": "Starsss are boring. Too far away to stab.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/chat6",
+    "raw": "There is no meat for sale. Everything is in a tube.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/chat7",
+    "raw": "Floran will ssstab if you act bad.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/chat8",
+    "raw": "Floran dreamt of being hunted.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/questStage0",
+    "raw": "Floran doesss have something they want done...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/questStage1",
+    "raw": "Greedy! Come back when you've finissshed the lassst one.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/questStage2",
+    "raw": "Floran will not give rewards for nothing.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/questStage3",
+    "raw": "Floran could have done better...\nHere isss your payment.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/militarySpecial",
+    "raw": "Floransss sstation isss military, and Floran hiresss out crew membersss. The better you pay Floran, the better the hunter, but you can only take one. We are good, ssstrong fightersss but even we can't fight alone...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/medicalSpecial",
+    "raw": "Floran will sssell power boosssters for weaklingss.\nBoosstersss don't ssstay after death, weakling.\nCan alsso remove boosster if you regret. Cosssts 500 pixelss.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/scientificSpecial",
+    "raw": "Floransss peoplesss are sciencey and will trade for different things they needsss.\nIf you have the wrong stuff Floran may need it later. Wait or be eaten.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/tradingSpecial",
+    "raw": "Thisss isss a trading center, so we like ssshiny pixelssss.\nIf you give usss money we will ssscare our shopss into giving you better pricess.\nIf you give usss enough pixelss, we sscare all other sspace sstation shops to give you better pricess.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/tradingSpecialMax",
+    "raw": "Floran should thank you for your money...\nNow we have more ssstuff to ssstab and thingsss.\nFloran will frighten other sellers into giving their ssstuff away cheaper and giving more pixelsss for your ssstuff!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/returnSpecial",
+    "raw": "Floran can sell you more thingsss...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/cantAfford1",
+    "raw": "You don't have enough moneysss.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/cantAfford2",
+    "raw": "Come back when you have enough pixelsss, wimp.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/cantAfford3",
+    "raw": "Floran needsss more pixelsss for that.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/cantAfford4",
+    "raw": "You'll need more pixelsss.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/activeEnhancer",
+    "raw": "Floran iss told to ssay, can't have more than one enhancer active at a time.\nCan remove active enhancer for 500 pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/acquireEnhancer",
+    "raw": "Floran is told to say: 'ssside effects may include: dry mouth, nausea, vomiting, water retention, painful rectal itchyness, hallucination, dementia, psychosisss, coma, death, and halitosis.'\nThat wasss a mouthful. Also, boossster gone if you die, weakling. Come back if you need another.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/cooldownEnhancer",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/removeEnhancer",
+    "raw": "Enhancer removed. Enjoy your enhancer free body!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/hireMerc",
+    "raw": "Here isss contract. Good for one hunter.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floran/noMoreMerc",
+    "raw": "Huntersss are come in sssingles. Go somewhere elesse for more.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/welcome",
+    "raw": "Cordial. Welcome to the {STATIONNAME} station [(playername)]. Enjoy your stay!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/chat1",
+    "raw": "Welcoming. We rarely receive visitors.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/chat2",
+    "raw": "Content. It is good to have you here.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/chat3",
+    "raw": "Puzzled. I can't find my lunchbag.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/chat4",
+    "raw": "Nostalgic. I miss proper metallic cuisine.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/chat5",
+    "raw": "Inquisitive. Do you come here often?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/chat6",
+    "raw": "Observant. Your mech is of interesting craft.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/chat7",
+    "raw": "Calm. It's so quiet out here, among the void...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/chat8",
+    "raw": "Cautious. Those warriors from Terra, they got curved swords. Curved. Swords.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/questStage0",
+    "raw": "Affirmative. IF you want to help, there's something we need.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/questStage1",
+    "raw": "Irraritated. Finish your previous assigment before asking for another.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/questStage2",
+    "raw": "Negative. You failed to honor your part of the deal.\nYou won't receive any payment.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/questStage3",
+    "raw": "Approving. Here, take this as payment.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/militarySpecial",
+    "raw": "Explanatory. As a military station, we deal in specialized crewmember contracts. Price and quality are tied, so go the extra mile if you want to be extra safe.\nKeep in mind that we can only spare one crew member per captain, in order to remain functional ourselves.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/medicalSpecial",
+    "raw": "Explanatory. As a medical research lab, we deal in all sort of long lasting enhancers.\nThey will remain with you until your eventual death, or until removed.\nThey can be removed at any medical station for 500 pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/scientificSpecial",
+    "raw": "Discoursing. As a scientific research lab, our main branch of action is synthesysing and trading all sorts of materials.\nDo remember to check back every now and then, as our stored goods may vary quite a bit.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/tradingSpecial",
+    "raw": "Discoursing. As a trading center, we are here mainly to amass pixels.\nWe are accepting investments, which may bring you a great profit if sufficient.\nWith each investment you make, our prices will shift in your favor.\nEncouraging. Raising enough pixels in our name will award you with a better price through out all the space stations in the cosmos!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/tradingSpecialMax",
+    "raw": "Pleased. Thank you for this important aid.\nAll thanks to you, this is now a prosperous merchant outpost with a large variety of goods to offer.\nWe'll make sure your contribution is known far and wide, allowing you to get better prices when buying or selling with other vendors as well.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/returnSpecial",
+    "raw": "Questioning. Do you need anything else?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/cantAfford1",
+    "raw": "Disappointed. You lack economical possessions.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/cantAfford2",
+    "raw": "Patient. Please return with more pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/cantAfford3",
+    "raw": "Explanatory. You can not afford that.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/cantAfford4",
+    "raw": "Disagreeing. That is not enough to pay for this.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/activeEnhancer",
+    "raw": "Explanatory. As stated, you cannot have more than one enhancer active at a time.\nWe can remove your active enhancer for 500 pixels if desired.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/acquireEnhancer",
+    "raw": "Hopeful. Come back if you would like another enhancer.\nAdvisory. The Galactic Food & Drug Agency has not fully approved this type of mechanism, and possible side effects are not completely known yet. Have fun, and remember to come back for another when you die!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/cooldownEnhancer",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/removeEnhancer",
+    "raw": "Pleased. Enhancer removed. Enjoy your enhancer free body!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/hireMerc",
+    "raw": "Explanatory. Here is your contract, use it to call your recruit.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitch/noMoreMerc",
+    "raw": "Apologizing. We only allow one crewmate per captain.\nIf you need more crew members, check in with other military stations.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/welcome",
+    "raw": "Welcome to the {STATIONNAME} station [(playername)]!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/chat1",
+    "raw": "Damn tentacled beasts, destroying planets and childhoods...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/chat2",
+    "raw": "You have my attention.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/chat3",
+    "raw": "I miss the 3120s",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/chat4",
+    "raw": "C'mooooooon it's been 3 hours since I last checked the time, and only ten minutes have passed!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/chat5",
+    "raw": "One more loot box, and I'll finally complete my cosmetic set in Hats n' Guns 2!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/chat6",
+    "raw": "Hey, I'm pretty sure I've seen you on- ...nevermind.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/chat7",
+    "raw": "I used to be a spacefarer like you, but then I took a laser to the knee.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/militarySpecial",
+    "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/medicalSpecial",
+    "raw": "As a medical research lab, our special service is providing you with powerful body enhancers, for the right price of course.\nDue to health hazard, you can have only one enhancer active at a time, but they last until death, or until removed at a medical station for 500 pixels.\nRemmember - Every medical station has its own collection of enhancers, so be sure to check them all out!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/scientificSpecial",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/tradingSpecial",
+    "raw": "As a trading station, we care primarly about pixels and their value.\nShould you be able to raise a high enough amount and invest in us, we'll make sure it'll be worth your while.\nWith each investment you make, the prices in our shops will shiftin your favor, allowing you to buy and sell goods at better rates!\nInvest enough, and the prices for all space stations will have a shift in your favor!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/tradingSpecialMax",
+    "raw": "Thank you for your great contribution!\nThanks to you, we are now a bustling trading station with a lot of goods to pick from, with good prices for everyone!\nWe'll make sure your contribution is known beyond the bounds of this station, providing you with a better price rate when you buy or sell from other vendors across the stars!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/returnSpecial",
+    "raw": "Was there anything else you wanted?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/cantAfford1",
+    "raw": "Seems like you're a bit short on pixels...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/cantAfford2",
+    "raw": "You're low on pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/cantAfford3",
+    "raw": "You can not afford that.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/cantAfford4",
+    "raw": "You'll need more pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/activeEnhancer",
+    "raw": "I'm sorry, but for your own safety we cannot apply another enhancer while another one is active.\nWe can remove your current one for 500 pixels if you'd like.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/acquireEnhancer",
+    "raw": "Don't forget you'll lose the enhancer should you die, or you can ask us to remove it should you tire from it.\nIn addition, side effects may include: dry mouth, nausea, vomiting, water retention, painful rectal itch, hallucination, dementia, psychosis, coma, death, and halitosis.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/cooldownEnhancer",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/removeEnhancer",
+    "raw": "Enhancer removed. Enjoy your enhancer free body!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/hireMerc",
+    "raw": "Heres the contract, use it to call and recruit them.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/human/noMoreMerc",
+    "raw": "Sorry, we only allow one crewmate per captain.\nTry checking other military stations if you're in need for more crewmates.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/welcome",
+    "raw": "Greetings [(playername)], and welcome to the {STATIONNAME} station ",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/chat1",
+    "raw": "I ate a fish the other day and got weird looks from the humans on board...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/chat2",
+    "raw": "Have you seen [you can quite make out what they're saying]?? Its the best show ever!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/chat3",
+    "raw": "When my shifts over, I'm going back to working on my novel!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/chat4",
+    "raw": "I broke my favorite brush yesterday and now I'm too sad to draw anything.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/militarySpecial",
+    "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/medicalSpecial",
+    "raw": "As a medical research lab, our special service is providing you with powerful body enhancers, for the right price of course.\nDue to health hazard, you can have only one enhancer active at a time, but they last until death, or until removed at a medical station for 500 pixels.\nRemmember - Every medical station has its own collection of enhancers, so be sure to check them all out!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/scientificSpecial",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/tradingSpecial",
+    "raw": "As a trading station, we care primarly about pixels and their value.\nShould you be able to raise a high enough amount and invest in us, we'll make sure it'll be worth your while.\nWith each investment you make, the prices in our shops will shiftin your favor, allowing you to buy and sell goods at better rates!\nInvest enough, and the prices for all space stations will have a shift in your favor!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/tradingSpecialMax",
+    "raw": "Thank you for your great contribution!\nThanks to you, we are now a bustling trading station with a lot of goods to pick from, with good prices for everyone!\nWe'll make sure your contribution is known beyond the bounds of this station, providing you with a better price rate when you buy or sell from other vendors across the stars!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/returnSpecial",
+    "raw": "Was there anything else you wanted?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/cantAfford1",
+    "raw": "Seems like you're a bit short on pixels...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/cantAfford2",
+    "raw": "You're low on pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/cantAfford3",
+    "raw": "You can not afford that.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/cantAfford4",
+    "raw": "You'll need more pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/activeEnhancer",
+    "raw": "I'm sorry, but for your own safety we cannot apply another enhancer while another one is active.\nWe can remove your current one for 500 pixels if you'd like.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/acquireEnhancer",
+    "raw": "Don't forget you'll lose the enhancer should you die, or you can ask us to remove it should you tire from it.\nIn addition, side effects may include: dry mouth, nausea, vomiting, water retention, painful rectal itch, hallucination, dementia, psychosis, coma, death, and halitosis.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/cooldownEnhancer",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/removeEnhancer",
+    "raw": "Enhancer removed. Enjoy your enhancer free body!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/hireMerc",
+    "raw": "Heres the contract, use it to call and recruit them.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotl/noMoreMerc",
+    "raw": "Sorry, we only allow one crewmate per captain.\nTry checking other military stations if you're in need for more crewmates.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/welcome",
+    "raw": "Howdy [(playername)]! Welcome to the {STATIONNAME} station pardner!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/chat1",
+    "raw": "Ya ever stare into a sun and get a funny feeling in yer eyes?\nI don't, got no eyes to feel!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/chat2",
+    "raw": "Now where'd I leave my banjo at?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/chat3",
+    "raw": "Ya like country music?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/chat4",
+    "raw": "How do I solve problems? [(pause)5]Guns.\n[(pause)10]How do I solve big problems? [(pause)5]Big guns!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/militarySpecial",
+    "raw": "Ya want extra guns by your side? You at the right military station cowboy!\nYa can hire a merc here ta help ya on yer travels, but we only allow one crewmate per captn', otherwise we'd end up being the ones hiring!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/medicalSpecial",
+    "raw": "If ya lookin' for a boon, you at the right medical station!\nWe're sellin' all sorts of enhancers that do all kinds of stuff.\nWe can't let ya walk around with more than one though, bad for yer health n' all that, but they strong enough to last you a life time, so dying ain't advised if ya have one. They can also be removed at any med station for 500 pixels if you'd like.\nAnd don't forget - Every station has its own collection of boosters, so be sure to check em' all out!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/scientificSpecial",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/tradingSpecial",
+    "raw": "Ya like pixels? So do we!\nIn this trading station, ya can invest pixels to better prices in yer favor.\nOnce ya invest enough, we'll make sure all stations, no matter what type, will have a better price ta offer ya!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/tradingSpecialMax",
+    "raw": "We all grateful to yer countribution pardenr!\nWe'll make sure any other station floating out there will have a better price for you!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/returnSpecial",
+    "raw": "Anything else pardner?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/cantAfford1",
+    "raw": "Ya low on pixels.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/cantAfford2",
+    "raw": "Sorry, ya can't afford that.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/cantAfford3",
+    "raw": "You'll need more pixels for that.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/cantAfford4",
+    "raw": "Yer wallet reminds me of the desert!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/activeEnhancer",
+    "raw": "Like I said, can't have more than one enhancer active at a time.\nWe can remove your active enhancer for 500 pixels if ya'd like.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/acquireEnhancer",
+    "raw": "Aaaaaand done!\nRemember - ya don't keep them if ya die, and we can remove em for 500 pixels if ya want.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/cooldownEnhancer",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/removeEnhancer",
+    "raw": "Enhancer removed, good as new!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/hireMerc",
+    "raw": "Heres the contract for em'. Use it ta call em' in and recruit em'.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/noMoreMerc",
+    "raw": "Sorry pardner, we only allow one crew per capn'. Try askin' other military stations!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/welcome",
+    "raw": "Welcome to the {STATIONNAME} station. Don't break anything.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/chat1",
+    "raw": "I know what you did.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/chat2",
+    "raw": "No.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/chat3",
+    "raw": "Did you know Avians can be alcoholics?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/chat4",
+    "raw": "I'd give a tailfeather for some lunch.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/chat5",
+    "raw": "Did you know the sign is blue?",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/chat6",
+    "raw": "I'm banned from the Beakeasy.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/chat7",
+    "raw": "Welcome to our station! No loitering.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/chat8",
+    "raw": "I eat chicken.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/militarySpecial",
+    "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrosity. Sadly, we can only spare one crew member per captain. I don't know if you're capable of handling more.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/medicalSpecial",
+    "raw": "As a medical research lab, our special service is providing you with all sort of long lasting enhancers, for the right price of course.\nDue to health hazard, only one enhancer can be applied.\nLucky you, they stay with you until your inevitable death!\nOr you can remove them for 500 pixels at any medical station, if death doesn't do it for you by the time you get to one.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/scientificSpecial",
+    "raw": "As a scientific research lab, we specialize in synthesysing all sorts of materials, and are willing to trade them for others.\nBe sure to check in often though, we don't always have or need the same materials!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/tradingSpecial",
+    "raw": "As a trading center, we care primarly about pixels and their value.\nShould you be able to raise a high enough amount and invest in us, we'll make sure it'll be worth your while.\nWith each investment you make, the prices in our shops will shiftin your favor, allowing you to buy and sell goods at better rates!\nInvest enough, and the prices for all space stations will have a shift in your favor!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/tradingSpecialMax",
+    "raw": "Thank you for your great contribution!\nThanks to you, we are now a bustling trading station with a lot of goods to pick from, with good prices for everyone!\nWe'll make sure your contribution is known beyond the bounds of this station, providing you with a better price rate when you buy or sell from other vendors across the stars!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/returnSpecial",
+    "raw": "What do you want?",
+    "value": "你想要什么？"
+  },
+  {
+    "op": "replace",
+    "path": "/cari/cantAfford1",
+    "raw": "Seems like you're a bit short on pixels...",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/cantAfford2",
+    "raw": "You're broke.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/cantAfford3",
+    "raw": "You're poor. Come back richer.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/cantAfford4",
+    "raw": "Time is money. You seem to be out of both.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/activeEnhancer",
+    "raw": "Like I said, you can't have more than one enhancer active at a time.\nWe can remove your active enhancer for 500 pixels if you'd like.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/acquireEnhancer",
+    "raw": "Come back if you want another one!\nOh, and side effects may include: dry mouth, nausea, vomiting, water retention, tingling rectal itch, hallucination, epiphany, psychosis, coma, death, and a fate worse than death.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/cooldownEnhancer",
+    "raw": "deprecated",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/removeEnhancer",
+    "raw": "Enhancer removed. Enjoy your enhancer free body!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/hireMerc",
+    "raw": "Heres the contract, use it to call and recruit them.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cari/noMoreMerc",
+    "raw": "Sorry, we only allow one crewmate per captain.\nTry checking other military stations.\nNo refunds.",
+    "value": ""
+  }
+]
