@@ -94,7 +94,8 @@ foi = {
     "spaceStationData.config": ["^medical/[0-9]+/(0|4)$", "^military/[0-9]+/(0|4)$", "^quests/.+/(objective|time|reward)$"],
     "ships.config": [".*/name$"],
     "icons.json":["items/(.*?)/label$"],
-    "categories.config": [".*"]
+    "categories.config": [".*"],
+    "texts.config":["^(?!.*?(currentRace|(sound.*)|(defaultButtonStates.*)|cutoffSound|volume|Frame|Cooldown|chatCount|portraitPath)$).*$"]
 }
 files_of_interest = dict()
 for ext, poi in foi.items():
