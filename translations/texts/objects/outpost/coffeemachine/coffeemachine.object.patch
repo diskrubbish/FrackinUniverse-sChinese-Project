@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/slimepersonDescription",
+    "raw": "I've never been a big fan of coffee. At least... I don't think I have?",
+    "value": "我从来不喜欢喝咖啡，至少... 我觉得我不喜欢？"
+  },
+  {
+    "op": "replace",
     "path": "/description",
     "raw": "A coffee machine, for the perfect pick-me-up.",
     "value": "一台咖啡机，提供完美的提神饮料。"
@@ -58,11 +64,5 @@
     "path": "/novakidDescription",
     "raw": "Black, no milk, no sugar. Don't mind if I do!",
     "value": "黑咖啡，不加牛奶，不加糖。别介意我这么做！"
-  },
-  {
-    "op": "replace",
-    "path": "/slimepersonDescription",
-    "raw": "I've never been a big fan of coffee. At least... I don't think I have?",
-    "value": "我从来不喜欢喝咖啡，至少... 我觉得我不喜欢？"
   }
 ]

@@ -1,0 +1,44 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/0/1",
+    "raw": "^red;Eating this would be a gamble^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/2/1",
+    "raw": "^orange;Starting to look gross^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/4/1",
+    "raw": "^yellow;Looks less than fresh^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/6/1",
+    "raw": "^cyan;Still safely edible^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/7/1",
+    "raw": "^cyan;Looks like its still fresh^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/8/1",
+    "raw": "^green;Still looks delicious^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/rotTimeDescriptions/10/1",
+    "raw": "^green;Pristine, fresh and delicious^reset;",
+    "value": ""
+  }
+]

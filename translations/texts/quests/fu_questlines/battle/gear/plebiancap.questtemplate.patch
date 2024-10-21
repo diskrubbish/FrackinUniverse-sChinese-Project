@@ -1,0 +1,20 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "Armor Up",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "I'm sure you don't need to be told what your ^orange;Armorworks^reset; does!\tThe armor and weapons you can create here are varied. Let's test it out by building a ^orange;Plebeian Cap^reset;.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "As you unlock more blueprints, you will find your potential for death, destruction and protection will increase exponentially.",
+    "value": ""
+  }
+]
