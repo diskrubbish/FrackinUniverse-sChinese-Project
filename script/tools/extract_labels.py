@@ -2,11 +2,13 @@ from sys import platform
 from multiprocessing import cpu_count
 import os
 from parser_settings import files_of_interest
+
 if platform == "win32":
     from os.path import normpath as normpath_old
 
     def normpath(path):
-        return normpath_old(path).replace('\\', '/')
+        return normpath_old(path).replace("\\", "/")
+
 else:
     from os.path import normpath
 
@@ -15,8 +17,25 @@ from translation_memory import *
 import stbtran_utils
 
 from parser_settings import files_of_interest
-default_string_blacklist = ["0", "set at runtime", "tree", "Replace Me", "replace me","Replace me","", "^shadow;$dmg$",
-                            "-todo-", "--TODO--", "replaceme", "recruit name", "mission text", "recruit description","\<beeData\>"," Replace Me"]
+
+default_string_blacklist = [
+    "0",
+    "set at runtime",
+    "tree",
+    "Replace Me",
+    "replace me",
+    "Replace me",
+    "",
+    "^shadow;$dmg$",
+    "-todo-",
+    "--TODO--",
+    "replaceme",
+    "recruit name",
+    "mission text",
+    "recruit description",
+    "\<beeData\>",
+    " Replace Me",
+]
 file_list = [
     {
         "name": "Test",
@@ -26,33 +45,189 @@ file_list = [
         "root_dir": "",
         "prefix": "",
         "texts_prefix": "raw",
-        "ignore_filelist": [
-        ],
-        "dir_blacklist": [
-        ],
-        "path_blacklist": {
-        },
-        "patch_serialization": {
-        },
+        "ignore_filelist": [],
+        "dir_blacklist": [],
+        "path_blacklist": {},
+        "patch_serialization": {},
         "string_blacklist": default_string_blacklist,
-    },
-    
+    }
 ]
-root_dir = normpath((os.environ.get('GITHUB_WORKSPACE')+"/temp/FrackinUniverse"))
+starcore_category_list = [
+    "block",
+    "liquid",
+    "platform",
+    "rail",
+    "chestarmour",
+    "headarmour",
+    "legarmour",
+    "backwear",
+    "chestwear",
+    "headwear",
+    "legwear",
+    "enviroProtectionPack",
+    "clothingDye",
+    "codex",
+    "cookingIngredient",
+    "craftingMaterial",
+    "currency",
+    "drink",
+    "eppAugment",
+    "farmBeastEgg",
+    "farmBeastFood",
+    "fishingRod",
+    "fishingLure",
+    "fishingReel",
+    "food",
+    "foodJunk",
+    "junk",
+    "largeFossil",
+    "mediumFossil",
+    "medicine",
+    "musicalInstrument",
+    "mysteriousReward",
+    "petCollar",
+    "preparedFood",
+    "quest",
+    "railPlatform",
+    "salvageComponent",
+    "shipLicense",
+    "smallFossil",
+    "tech",
+    "throwableItem",
+    "tool",
+    "tradingCard",
+    "trophy",
+    "upgradeComponent",
+    "vehicleController",
+    "fuel",
+    "farmBeastFeed",
+    "mechPart",
+    "tradeGoods",
+    "actionFigure",
+    "artifact",
+    "breakable",
+    "bug",
+    "crafting",
+    "decorative",
+    "door",
+    "fridgeStorage",
+    "furniture",
+    "generic",
+    "light",
+    "other",
+    "railPoint",
+    "sapling",
+    "seed",
+    "shippingContainer",
+    "spawner",
+    "storage",
+    "techManagement",
+    "teleporter",
+    "teleportMarker",
+    "trap",
+    "wire",
+    "terraformer",
+    "assaultRifle",
+    "axe",
+    "boomerang",
+    "bow",
+    "broadsword",
+    "chakram",
+    "crossbow",
+    "dagger",
+    "fistWeapon",
+    "grenadeLauncher",
+    "hammer",
+    "machinePistol",
+    "pistol",
+    "rocketLauncher",
+    "shield",
+    "shortsword",
+    "shotgun",
+    "sniperRifle",
+    "spear",
+    "staff",
+    "wand",
+    "toy",
+    "uniqueWeapon",
+    "whip",
+    "Tool",
+    "Drone",
+    "materials",
+    "^orange;Extraction Device^reset;",
+    "^orange;Centrifuge^reset;",
+    "Smart Box",
+    "Unhandled",
+    "Tech",
+    "Matter Manipulator",
+    "Blueprint",
+    "Striker",
+    "Magnorb",
+    "Assault Shotgun",
+    "Decoration",
+    "supports",
+    "Supports",
+    "petbed",
+    "pot",
+    "container",
+    "material",
+    "playerstation",
+]
+root_dir = normpath((os.environ.get("GITHUB_WORKSPACE") + "/temp/FrackinUniverse"))
 
-prefix = normpath((os.environ.get('GITHUB_WORKSPACE')+"/translations"))
+prefix = normpath((os.environ.get("GITHUB_WORKSPACE") + "/translations"))
 patch_serialization = {
-    "craftingmedical.object.patch": {'upgradeStages':{"index": 2, "increase":False}},
-    "statuses.config.patch": {"generic": {"index": 70, "increase": True}, "cheerful": {"index": 31, "increase": True}, "jerk": {"index": 31, "increase": True}, "flirty": {"index": 31, "increase": True}, "anxious": {"index": 31, "increase": True}, "easilyspooked": {"index": 32, "increase": True}, "clumsy": {"index": 31, "increase": True}, "excited": {"index": 31, "increase": True}, "intrusive": {"index": 31, "increase": True}, "dumb": {"index": 32, "increase": True}, "emo": {"index": 30, "increase": True}, "fast": {"index": 31, "increase": True}, "nocturnal": {"index": 32, "increase": True}, "socialite": {"index": 31, "increase": True}, "ambitious": {"index": 30, "increase": True}},
-    'craftingfurnace.object.patch': {'upgradeStages':{"index": 2, "increase":False}},
-    'craftingwheel.object.patch': {'upgradeStages':{"index": 2, "increase":False}}
+    "craftingmedical.object.patch": {"upgradeStages": {"index": 2, "increase": False}},
+    "statuses.config.patch": {
+        "generic": {"index": 70, "increase": True},
+        "cheerful": {"index": 31, "increase": True},
+        "jerk": {"index": 31, "increase": True},
+        "flirty": {"index": 31, "increase": True},
+        "anxious": {"index": 31, "increase": True},
+        "easilyspooked": {"index": 32, "increase": True},
+        "clumsy": {"index": 31, "increase": True},
+        "excited": {"index": 31, "increase": True},
+        "intrusive": {"index": 31, "increase": True},
+        "dumb": {"index": 32, "increase": True},
+        "emo": {"index": 30, "increase": True},
+        "fast": {"index": 31, "increase": True},
+        "nocturnal": {"index": 32, "increase": True},
+        "socialite": {"index": 31, "increase": True},
+        "ambitious": {"index": 30, "increase": True},
+    },
+    "craftingfurnace.object.patch": {"upgradeStages": {"index": 2, "increase": False}},
+    "craftingwheel.object.patch": {"upgradeStages": {"index": 2, "increase": False}},
 }
-dir_blacklis = "" 
+dir_blacklist = ""
 path_blacklist = ""
 ignore_filelist = ""
-string_blacklist = ["0", "set at runtime", "tree", "Replace Me", "replace me", "", "^shadow;$dmg$",
-                            "-todo-", "--TODO--", "replaceme", "recruit name", "mission text", "recruit description"]
+string_blacklist = [
+    "0",
+    "set at runtime",
+    "tree",
+    "Replace Me",
+    "replace me",
+    "",
+    "^shadow;$dmg$",
+    "-todo-",
+    "--TODO--",
+    "replaceme",
+    "recruit name",
+    "mission text",
+    "recruit description",
+]
 texts_prefix = "texts"
-if __name__ == '__main__':
-    stbtran_utils.stbtran_para(root_dir, prefix, files_of_interest,
-                           patch_serialization, dir_blacklis, path_blacklist, ignore_filelist, string_blacklist, texts_prefix=texts_prefix)
+if __name__ == "__main__":
+    stbtran_utils.stbtran_para(
+        root_dir,
+        prefix,
+        files_of_interest,
+        patch_serialization,
+        dir_blacklist,
+        path_blacklist,
+        ignore_filelist,
+        string_blacklist,
+        starcore_category_list,
+        parse_process_number=8,
+        texts_prefix="texts",
+    )
