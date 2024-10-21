@@ -1,0 +1,44 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/0/1/0/name",
+    "raw": "Machine Pistol or Submachinegun",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/0/1/1/name",
+    "raw": "Assault, Battle Rifle or Squad Automatic Weapon",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/0/1/2/name",
+    "raw": "Standard, Automatic, Short-Barreled Shotgun or Flak Cannon",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/0/1/3/name",
+    "raw": "Semi-Automatic, Beam Pistol or Revolver",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/0/1/4/name",
+    "raw": "Standard or Mini Rocket Launcher",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/0/1/5/name",
+    "raw": "Handheld or Multi Grenade Launcher",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/0/1/6/name",
+    "raw": "Sniper, Semi-Automatic, Anti-Materiel or Beam Rifle",
+    "value": ""
+  }
+]
