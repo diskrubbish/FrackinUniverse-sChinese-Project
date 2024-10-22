@@ -24,6 +24,11 @@ temp_path = normpath((os.environ.get("GITHUB_WORKSPACE") + "/temp"))
 para_token = os.environ.get("PARA_TOKEN")
 
 
+def load_json_file(file_path):
+    with open(file_path, "r", encoding="utf-8-sig") as f:
+        return json.loads(prepare(f))
+
+
 def walk_files(local_path, endswith=".patch"):
     result = list()
     local_path = normpath(local_path)
@@ -40,8 +45,13 @@ def walk_files(local_path, endswith=".patch"):
 
 if __name__ == "__main__":
     print("Import Translation Memory...")
-    import_memory_para(para_path,os.environ.get('GITHUB_WORKSPACE')+"/translations/memory.json")
-    import_memory_para(para_path,os.environ.get('GITHUB_WORKSPACE')+"/script/tools/starcore_memory.json")
+    import_memory_para(
+        para_path, os.environ.get("GITHUB_WORKSPACE") + "/translations/memory.json"
+    )
+    import_memory_para(
+        para_path,
+        os.environ.get("GITHUB_WORKSPACE") + "/script/tools/starcore_memory.json",
+    )
     print("Walking local dir...")
     local_list = walk_files(para_path)
     # para_list = walk_files(normpath(temp_path+"/data/texts"))
@@ -58,47 +68,30 @@ if __name__ == "__main__":
     if len(upload_list) != 0:
         print("\nCheck Upload files...")
         for upload_file in upload_list:
-            with open(
-                normpath(para_path + "/" + upload_file), "r", encoding="utf-8-sig"
-            ) as f:
-                local_json = json.loads(prepare(f))
-                f.close
-            if os.path.exists(normpath(temp_path + "/data/texts/" + upload_file)):
-                with open(
-                    normpath(temp_path + "/data/texts/" + upload_file),
-                    "r",
-                    encoding="utf-8-sig",
-                ) as f2:
-                    para_json = json.loads(prepare(f2))
-                    f2.close
+            local_json = load_json_file(normpath(os.path.join(para_path, upload_file)))
+            para_json_path = normpath(
+                normpath(os.path.join(temp_path, "data/texts/", upload_file))
+            )
+            need_upload = False
+            if os.path.exists(para_json_path):
+                para_json = load_json_file(para_json_path)
                 if local_json != para_json:
-                    print(upload_file)
-                    para_api.upload_file(
-                        para_id,
-                        para_token,
-                        os.path.join(para_path, upload_file),
-                        online_list[upload_file],
-                        encoding="utf-8-sig",
-                    )
-                    para_api.upload_file_trans(
-                        para_id,
-                        para_token,
-                        os.path.join(para_path, upload_file),
-                        online_list[upload_file],
-                        encoding="utf-8-sig",
-                    )
+                    need_upload = True
             else:
+                need_upload = True
+            if need_upload:
+                print(upload_file)
                 para_api.upload_file(
                     para_id,
                     para_token,
-                    os.path.join(para_path, upload_file),
+                    normpath(os.path.join(para_path, upload_file)),
                     online_list[upload_file],
                     encoding="utf-8-sig",
                 )
                 para_api.upload_file_trans(
                     para_id,
                     para_token,
-                    os.path.join(para_path, upload_file),
+                    normpath(os.path.join(para_path, upload_file)),
                     online_list[upload_file],
                     encoding="utf-8-sig",
                 )
