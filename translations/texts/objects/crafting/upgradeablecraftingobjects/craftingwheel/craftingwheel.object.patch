@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
     "raw": "^orange;Clothing Fabricator^reset;",
-    "value": "^orange;服装制造机^reset;"
+    "value": "^orange;装备合成器^reset;"
   },
   {
     "op": "replace",

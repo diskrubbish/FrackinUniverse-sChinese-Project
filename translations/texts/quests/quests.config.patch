@@ -1,0 +1,8 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/objectiveDescriptions/nebDamageTypeKill",
+    "raw": "Kill <current> / <required> enemies with <damageType>",
+    "value": ""
+  }
+]

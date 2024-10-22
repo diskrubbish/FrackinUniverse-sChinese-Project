@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/description",
     "raw": "A specialized turret designed to harvest farmbeasts.",
-    "value": "一个被设计用来抓牧场动物的特殊炮塔。"
+    "value": "一台被设计用来收获农畜的特殊炮塔。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Farmbeast Harvester Turret",
-    "value": "收割者炮塔(抓牧场动物用)"
+    "value": "农畜收获者炮塔"
   },
   {
     "op": "replace",
     "path": "/subtitle",
     "raw": "Automatic Harvesting",
-    "value": "可自动收割作物。"
+    "value": "自动收获"
   }
 ]

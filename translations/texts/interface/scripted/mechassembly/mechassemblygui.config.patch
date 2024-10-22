@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/gui/lblSlot_horn/value",
+    "raw": "Module",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/massFormat",
     "raw": "^green;Mass^reset;: %.02ft",
     "value": "^green;重量^reset;：%.02ft"

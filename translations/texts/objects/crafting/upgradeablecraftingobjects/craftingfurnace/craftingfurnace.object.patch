@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
     "raw": "^orange;Fission Furnace^reset;",
-    "value": "^orange;裂变熔炉^reset;"
+    "value": "^orange;裂变反应炉^reset;"
   },
   {
     "op": "replace",
@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " ^#b9b5b2;Bars and ingredients",
-    "value": " ^#b9b5b2;金属锭和配件"
+    "value": "^#b9b5b2;矿物块与原料"
   },
   {
     "op": "replace",

@@ -4,5 +4,59 @@
     "path": "/charCreationTooltip/description",
     "raw": "A mystery to the cosmos, the illusive Shadow people prefer to speak only to each other. This is simple, as other species cannot even hear their language.\n\n  ^orange;Diet^reset;: Any\n\n^orange;Perks^reset;:\n  Energy x^green;1.12^reset;, ^green;15%^reset; reduced Hunger drain\n  ^green;Resist^reset;: +^cyan;20^reset;% Shadow, Ice, +^cyan;15^reset;% Poison, +^cyan;10^reset;% Radioactive\n  ^cyan;Immune^reset;: Oxygen, Darkness, Shadow Taint\n  Tech: ^green;Shadow Burst^reset;\n\n^orange;Environment^reset;:\n  ^green;Dark^reset; biomes grant +^green;2^reset; Crit Chance, Energy x^green;1.15^reset;\n  Glows in Dark\n  Darkness increases power and Defense. Light reduces it.\n  ^red;Chromatic^reset; biomes: Defense x^red;0.8^reset;, Health x^red;0.75^reset;\n\n^orange;Weapons^reset;:\n  Scythe Mastery: +^green;25^reset;%\n  Staff/Wand: Health x^green;1.25^reset;\n  Magnorb: Defense x^green;1.25^reset;\n\n^red;Weaknesses^reset;:\n  Health x^red;0.85^reset;\n  ^red;Resist^reset;: -^red;15^reset;% Electric, Cosmic,-^red;10^reset;% Fire",
     "value": "宇宙的众多秘密之一，这些虚幻的影裔只愿意与彼此交谈。原因很简单一一其他种族甚至无法听到他们的语言。\n\n  ^orange;食性^reset;: 杂食性\n\n^orange;天赋^reset;:\n  能量 x^green;1.12^reset;, ^green;15%^reset; 减少饥饿消耗\n  ^green;抗性^reset;: +^cyan;20^reset;% 暗影抗性, 寒气抗性, +^cyan;15^reset;% 毒素抗性, +^cyan;10^reset;% 辐射抗性\n  ^cyan;免疫^reset;: 窒息, 黑暗, 暗影污染\n  科技: ^green;暗影爆裂^reset;\n\n^orange;环境^reset;:\n  ^green;Dark^reset; 生物群落 +^green;2^reset; 暴击几率, 能量 x^green;1.15^reset;\n  在黑暗中发光\n  在黑暗中增加伤害和防御，在光亮中减少伤害和防御\n  ^red;多彩^reset; 生物群落: 防御 x^red;0.8^reset;, HP x^red;0.75^reset;\n\n^orange;武器^reset;:\n  镰刀专精: +^green;25^reset;%\n  法杖/魔杖: HP x^green;1.25^reset;\n  磁力珠专精: Defense x^green;1.25^reset;\n\n^red;弱点^reset;:\n  HP x^red;0.85^reset;\n  ^red;抗性^reset;: -^red;15^reset;% 电系抗性, 射线抗性,-^red;10^reset;% 火炎抗性"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/0",
+    "raw": "Eye colour",
+    "value": "眼睛颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/1",
+    "raw": "Hair style",
+    "value": "发型"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/2",
+    "raw": "Shirt",
+    "value": "衬衫"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/3",
+    "raw": "Legwear",
+    "value": "腿部穿着"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/5",
+    "raw": "Hair colour",
+    "value": "发色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/6",
+    "raw": "Shirt colour",
+    "value": "衬衫颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/7",
+    "raw": "Legwear colour",
+    "value": "腿部穿着颜色"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/8",
+    "raw": "TENEBHRAE",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/9",
+    "raw": "Personality",
+    "value": "个性"
   }
 ]

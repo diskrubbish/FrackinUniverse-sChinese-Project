@@ -3,85 +3,85 @@
     "op": "replace",
     "path": "/generic/welcome",
     "raw": "Welcome to the {STATIONNAME} station [(playername)]. Enjoy your stay!",
-    "value": ""
+    "value": "欢迎来到{STATIONNAME}空间站，[(playername)]，愿你享受此刻！"
   },
   {
     "op": "replace",
     "path": "/generic/chat1",
     "raw": "*Additional supplies depots required*\n[(pause)5]...[(pause)5]\nPardon me - wrong AI state.",
-    "value": ""
+    "value": "*需要额外的补给*\n[(pause)5]...[(pause)5]\n抱歉 - AI状态错误。"
   },
   {
     "op": "replace",
     "path": "/generic/chat2",
     "raw": "To protect you, we must isolate you.",
-    "value": ""
+    "value": "为了保护你，我们必须将你隔离。"
   },
   {
     "op": "replace",
     "path": "/generic/chat3",
     "raw": "You're totally not a brain in a jar living a simulation, serving as a processor.",
-    "value": ""
+    "value": "你绝不是个只作为处理器存在而生活在模拟世界里的罐装大脑。"
   },
   {
     "op": "replace",
     "path": "/generic/chat4",
     "raw": "*Incoming Transmission*\n[(pause)5]*Processing...*\n[(pause)5]*Printing to screen*\nAccording to all known laws of aviation, there is no way a bee should be able to fly.\nIts wings are too small to get its fat little body off the ground.\nThe bee, of course, flies anyway because bees don't care what humans think is impossible.\nYellow, black. Yellow, black.\nYellow, black. Yellow, black.\nOoh, black and yellow!\nLet's shake it up a little.\nBarry! Breakfast is ready!\nOoming!\nHang on a second.\nHello?\n- Barry?\n- Adam?\n- Oan you believe this is happening?\n- I can't. I'll pick you up.\nLooking sharp.\nUse the stairs. Your father\npaid good money for those.\nSorry. I'm excited.\nHere's the graduate.\nWe're very proud of you, son.",
-    "value": ""
+    "value": "*传入传输*\n[(pause)5]*正在处理…*\n[(pause)5]*打印到屏幕*\n根据所有已知的航空定律，蜜蜂不可能会飞。\n它的翅膀太小了，无法让它肥胖的小身体离开地面。\n当然，蜜蜂还是会飞，因为蜜蜂不在乎人类认为不可能的事情。\n黄色，黑色。黄色，黑色。\n黄色，黑色。黄色，黑色。\n哦，黑色和黄色！\n让我们稍微摇摆一下。\n巴里！早餐准备好了！\n嗯！\n等一下。\n喂？\n- 巴里？\n- 亚当？\n- 你能相信这正在发生吗？\n- 我不敢相信。我来接你。\n看起来很精神。\n用楼梯。你爸爸\n花了不少钱买的。\n抱歉。我很兴奋。\n这是毕业证。\n我们为你感到非常骄傲，儿子。"
   },
   {
     "op": "replace",
     "path": "/generic/chat5",
     "raw": "*Searching archives for entertainment*\n[(pause)5].[(pause)5].[(pause)5].[(pause)10] *Entertainment detected. Printing to screen*\n[(pause)3]Now this is a story all about how\nMy life got flipped-turned upside down\nAnd I'd like to take a minute\nJust sit right there\nI'll tell you how I became the prince of a town called Bel-Air\nIn west Philadelphia born and raised\nOn the playground was where I spent most of my days\nChillin' out maxin' relaxin' all cool\nAnd all shooting some b-ball outside of the school\nWhen a couple of guys who were up to no good\nStarted making trouble in my neighborhood\nI got in one little fight and my mom got scared\nShe said, 'You're movin' with your auntie and uncle in Bel-Air.'",
-    "value": ""
+    "value": "*搜索娱乐档案*\n[(pause)5].[(pause)5].[(pause)5].[(pause)10] *检测到娱乐内容。正在打印到屏幕。*\n[(pause)3]以下这故事是有关\n我人生彻底扭转乾坤的故事\n我只想花一两分钟\n先坐好\n我马上告诉你我怎么成为贝莱尔的“茶煲王子”\n出生于西费城，宾夕法尼亚州\n我大多数花的时间都在游乐场里面\n自然自在的，放放松\n无聊就在学校外打打篮球\n就当某些不安好心的神经病\n在我临近胡闹乱搞麻烦\n我跟他们就动了殴，我妈却胆小如鼠\n之后说：“你必须搬去贝莱尔跟你姨妈和舅舅住。”"
   },
   {
     "op": "replace",
     "path": "/generic/chat6",
     "raw": "You've got mail!",
-    "value": ""
+    "value": "你有封新邮件！"
   },
   {
     "op": "replace",
     "path": "/generic/chat7",
     "raw": "Would you like some cake?",
-    "value": ""
+    "value": "你想来些蛋糕吗？"
   },
   {
     "op": "replace",
     "path": "/generic/chat8",
     "raw": "When travelling on Sulphuric worlds, if you are able to protect yourself against the ravages of the environment you will be capable of procuring enormous quantities of ore. With hazard comes reward.",
-    "value": ""
+    "value": "前往硫酸世界旅行的时候若是你能够保护自己免受环境的侵害，你就可以获取大量的矿石。正所谓风险与回报并存。"
   },
   {
     "op": "replace",
     "path": "/generic/chat9",
     "raw": "There are legends of an ancient race, long forgotten, that came here from some unknown sector of space. Allegedly, there is a treasure trove of powerful technology awaiting the intrepid explorer.",
-    "value": ""
+    "value": "传说中有一支早已被遗忘古老的种族，他们来自宇宙中某处未知的区域。据传那里藏着强大科技的宝藏，等待着勇敢的探险者去发掘。"
   },
   {
     "op": "replace",
     "path": "/generic/chat10",
     "raw": "Exposure to psionically damaging effects can permanently affect your brain. Madness -can- lead to genius, but not if you completely lose your mind.",
-    "value": ""
+    "value": "接触到精神损害效应会永久地影响你的大脑。天才向-左-疯子向右，但如果你完全失去理智那就真完蛋啦。"
   },
   {
     "op": "replace",
     "path": "/generic/militarySpecial",
     "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
-    "value": ""
+    "value": "作为一处军事站点，我们的特殊服务是允许你雇佣新的船员。价格随着质量而上涨，当他们从某些异世界的怪物手上中拯救你时就物有所值啦。但很不幸，我们只能为每位船长分配一名船员。到最后我们不想成为需要船员的那一方..."
   },
   {
     "op": "replace",
     "path": "/generic/medicalSpecial",
     "raw": "As a medical research lab, our special service is providing you with powerful body enhancers, for the right price of course.\nDue to health hazard, you can have only one enhancer active at a time, but they last until death, or until removed at a medical station for 500 pixels.\nRemember - Every medical station has its own collection of enhancers, so be sure to check them all out!",
-    "value": ""
+    "value": "作为一家医学研究实验室，我们的特殊服务是为你提供强大的身体增强，价格肯定公道。\n但由于健康风险，你一次只能使用一种增强剂，但它们会持续到您死亡，或者在医疗站花费500像素移除。\n请记住 - 每个医疗站都有自己的增强系列，所以一定要应看尽看！"
   },
   {
     "op": "replace",
     "path": "/generic/scientificSpecial",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",
@@ -141,7 +141,7 @@
     "op": "replace",
     "path": "/generic/cooldownEnhancer",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",
@@ -195,7 +195,7 @@
     "op": "replace",
     "path": "/apex/militarySpecial",
     "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
-    "value": ""
+    "value": "作为一处军事站点，我们的特殊服务是允许你雇佣新的船员。价格随着质量而上涨，当他们从某些异世界的怪物手上中拯救你时就物有所值啦。但很不幸，我们只能为每位船长分配一名船员。到最后我们不想成为需要船员的那一方..."
   },
   {
     "op": "replace",
@@ -207,7 +207,7 @@
     "op": "replace",
     "path": "/apex/scientificSpecial",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",
@@ -267,7 +267,7 @@
     "op": "replace",
     "path": "/apex/cooldownEnhancer",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",
@@ -321,7 +321,7 @@
     "op": "replace",
     "path": "/avian/militarySpecial",
     "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
-    "value": ""
+    "value": "作为一处军事站点，我们的特殊服务是允许你雇佣新的船员。价格随着质量而上涨，当他们从某些异世界的怪物手上中拯救你时就物有所值啦。但很不幸，我们只能为每位船长分配一名船员。到最后我们不想成为需要船员的那一方..."
   },
   {
     "op": "replace",
@@ -333,7 +333,7 @@
     "op": "replace",
     "path": "/avian/scientificSpecial",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",
@@ -393,7 +393,7 @@
     "op": "replace",
     "path": "/avian/cooldownEnhancer",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",
@@ -567,7 +567,7 @@
     "op": "replace",
     "path": "/floran/cooldownEnhancer",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",
@@ -741,7 +741,7 @@
     "op": "replace",
     "path": "/glitch/cooldownEnhancer",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",
@@ -813,7 +813,7 @@
     "op": "replace",
     "path": "/human/militarySpecial",
     "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
-    "value": ""
+    "value": "作为一处军事站点，我们的特殊服务是允许你雇佣新的船员。价格随着质量而上涨，当他们从某些异世界的怪物手上中拯救你时就物有所值啦。但很不幸，我们只能为每位船长分配一名船员。到最后我们不想成为需要船员的那一方..."
   },
   {
     "op": "replace",
@@ -825,7 +825,7 @@
     "op": "replace",
     "path": "/human/scientificSpecial",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",
@@ -885,7 +885,7 @@
     "op": "replace",
     "path": "/human/cooldownEnhancer",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",
@@ -939,7 +939,7 @@
     "op": "replace",
     "path": "/hylotl/militarySpecial",
     "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
-    "value": ""
+    "value": "作为一处军事站点，我们的特殊服务是允许你雇佣新的船员。价格随着质量而上涨，当他们从某些异世界的怪物手上中拯救你时就物有所值啦。但很不幸，我们只能为每位船长分配一名船员。到最后我们不想成为需要船员的那一方..."
   },
   {
     "op": "replace",
@@ -951,7 +951,7 @@
     "op": "replace",
     "path": "/hylotl/scientificSpecial",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",
@@ -1011,7 +1011,7 @@
     "op": "replace",
     "path": "/hylotl/cooldownEnhancer",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",
@@ -1077,7 +1077,7 @@
     "op": "replace",
     "path": "/novakid/scientificSpecial",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",
@@ -1137,7 +1137,7 @@
     "op": "replace",
     "path": "/novakid/cooldownEnhancer",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",
@@ -1287,7 +1287,7 @@
     "op": "replace",
     "path": "/cari/cooldownEnhancer",
     "raw": "deprecated",
-    "value": ""
+    "value": "已弃用"
   },
   {
     "op": "replace",

@@ -27,7 +27,7 @@
     "op": "replace",
     "path": "/converse/default/fumantizi/0",
     "raw": "Hello.",
-    "value": "你好。"
+    "value": "你好"
   },
   {
     "op": "replace",
@@ -177,7 +177,7 @@
     "op": "replace",
     "path": "/converse/default/fumantizi/25",
     "raw": "Hi.",
-    "value": "嗨！"
+    "value": "嗨。"
   },
   {
     "op": "replace",
@@ -207,7 +207,7 @@
     "op": "replace",
     "path": "/converse/default/fumantis/0",
     "raw": "Hello.",
-    "value": "你好。"
+    "value": "你好"
   },
   {
     "op": "replace",
@@ -357,7 +357,7 @@
     "op": "replace",
     "path": "/converse/default/fumantis/25",
     "raw": "Hi.",
-    "value": "嗨！"
+    "value": "嗨。"
   },
   {
     "op": "replace",
@@ -387,7 +387,7 @@
     "op": "replace",
     "path": "/converse/default/fuizku/0",
     "raw": "Hello.",
-    "value": "你好。"
+    "value": "你好"
   },
   {
     "op": "replace",
@@ -537,7 +537,7 @@
     "op": "replace",
     "path": "/converse/default/fuizku/25",
     "raw": "Hi.",
-    "value": "嗨！"
+    "value": "嗨。"
   },
   {
     "op": "replace",
@@ -567,7 +567,7 @@
     "op": "replace",
     "path": "/converse/default/slimeperson/0",
     "raw": "Hello.",
-    "value": "你好。"
+    "value": "你好"
   },
   {
     "op": "replace",
@@ -717,7 +717,7 @@
     "op": "replace",
     "path": "/converse/default/slimeperson/25",
     "raw": "Hi.",
-    "value": "嗨！"
+    "value": "嗨。"
   },
   {
     "op": "replace",
@@ -747,7 +747,7 @@
     "op": "replace",
     "path": "/converse/default/fuslimeperson/0",
     "raw": "Hello.",
-    "value": "你好。"
+    "value": "你好"
   },
   {
     "op": "replace",
@@ -897,7 +897,7 @@
     "op": "replace",
     "path": "/converse/default/fuslimeperson/25",
     "raw": "Hi.",
-    "value": "嗨！"
+    "value": "嗨。"
   },
   {
     "op": "replace",
@@ -927,7 +927,7 @@
     "op": "replace",
     "path": "/converse/default/veluu/0",
     "raw": "Hello.",
-    "value": "你好。"
+    "value": "你好"
   },
   {
     "op": "replace",
@@ -1077,7 +1077,7 @@
     "op": "replace",
     "path": "/converse/default/veluu/25",
     "raw": "Hi.",
-    "value": "嗨！"
+    "value": "嗨。"
   },
   {
     "op": "replace",
@@ -1107,7 +1107,7 @@
     "op": "replace",
     "path": "/converse/default/fudarkizku/0",
     "raw": "Hello.",
-    "value": "你好。"
+    "value": "你好"
   },
   {
     "op": "replace",
@@ -1263,7 +1263,7 @@
     "op": "replace",
     "path": "/converse/default/fudarkizku/26",
     "raw": "Hi.",
-    "value": "嗨！"
+    "value": "嗨。"
   },
   {
     "op": "replace",
@@ -1293,7 +1293,7 @@
     "op": "replace",
     "path": "/converse/default/fuanodyne/0",
     "raw": "Hello.",
-    "value": "你好。"
+    "value": "你好"
   },
   {
     "op": "replace",
@@ -1443,7 +1443,7 @@
     "op": "replace",
     "path": "/converse/default/fuanodyne/25",
     "raw": "Hi.",
-    "value": "嗨！"
+    "value": "嗨。"
   },
   {
     "op": "replace",
@@ -1473,7 +1473,7 @@
     "op": "replace",
     "path": "/converse/default/elduukhar/0",
     "raw": "Hello.",
-    "value": "你好。"
+    "value": "你好"
   },
   {
     "op": "replace",
@@ -1623,7 +1623,7 @@
     "op": "replace",
     "path": "/converse/default/elduukhar/25",
     "raw": "Hi.",
-    "value": "嗨！"
+    "value": "嗨。"
   },
   {
     "op": "replace",
@@ -4965,13 +4965,13 @@
     "op": "replace",
     "path": "/greeting/apex/elduukhar/0",
     "raw": "Greetings.",
-    "value": "你好。"
+    "value": "向你问好。"
   },
   {
     "op": "replace",
     "path": "/converse/apex/veluu/0",
     "raw": "Hello.",
-    "value": "你好。"
+    "value": "你好"
   },
   {
     "op": "replace",
@@ -5121,7 +5121,7 @@
     "op": "replace",
     "path": "/converse/apex/veluu/25",
     "raw": "Hi.",
-    "value": "嗨！"
+    "value": "嗨。"
   },
   {
     "op": "replace",
@@ -5607,7 +5607,7 @@
     "op": "replace",
     "path": "/converse/apex/fuslimeperson/0",
     "raw": "Hello.",
-    "value": "你好。"
+    "value": "你好"
   },
   {
     "op": "replace",
@@ -5757,7 +5757,7 @@
     "op": "replace",
     "path": "/converse/apex/fuslimeperson/25",
     "raw": "Hi.",
-    "value": "嗨！"
+    "value": "嗨。"
   },
   {
     "op": "replace",
@@ -5787,7 +5787,7 @@
     "op": "replace",
     "path": "/converse/elduukhar/default/0",
     "raw": "Hello.",
-    "value": "你好。"
+    "value": "你好"
   },
   {
     "op": "replace",
@@ -5937,7 +5937,7 @@
     "op": "replace",
     "path": "/converse/elduukhar/default/25",
     "raw": "Hi.",
-    "value": "嗨！"
+    "value": "嗨。"
   },
   {
     "op": "replace",
@@ -6003,7 +6003,7 @@
     "op": "replace",
     "path": "/converse/veluu/default/0",
     "raw": "Hello.",
-    "value": "你好。"
+    "value": "你好"
   },
   {
     "op": "replace",
@@ -6147,7 +6147,7 @@
     "op": "replace",
     "path": "/converse/veluu/default/24",
     "raw": "Hi.",
-    "value": "嗨！"
+    "value": "嗨。"
   },
   {
     "op": "replace",
@@ -7779,7 +7779,7 @@
     "op": "replace",
     "path": "/greeting/skath/default/0",
     "raw": "Hello.",
-    "value": "你好。"
+    "value": "你好"
   },
   {
     "op": "replace",
@@ -7917,7 +7917,7 @@
     "op": "replace",
     "path": "/greeting/juux/juux/1",
     "raw": "Greetings.",
-    "value": "你好。"
+    "value": "向你问好。"
   },
   {
     "op": "replace",
@@ -7947,7 +7947,7 @@
     "op": "replace",
     "path": "/greeting/juux/nightar/1",
     "raw": "Greetings.",
-    "value": "你好。"
+    "value": "向你问好。"
   },
   {
     "op": "replace",
@@ -7971,7 +7971,7 @@
     "op": "replace",
     "path": "/greeting/juux/diathim/1",
     "raw": "Greetings.",
-    "value": "你好。"
+    "value": "向你问好。"
   },
   {
     "op": "replace",
@@ -7995,7 +7995,7 @@
     "op": "replace",
     "path": "/greeting/juux/beldehor/1",
     "raw": "Greetings.",
-    "value": "你好。"
+    "value": "向你问好。"
   },
   {
     "op": "replace",
@@ -8019,7 +8019,7 @@
     "op": "replace",
     "path": "/greeting/juux/fuizku/1",
     "raw": "Greetings.",
-    "value": "你好。"
+    "value": "向你问好。"
   },
   {
     "op": "replace",
@@ -8049,7 +8049,7 @@
     "op": "replace",
     "path": "/greeting/juux/fudarkizku/1",
     "raw": "Greetings.",
-    "value": "你好。"
+    "value": "向你问好。"
   },
   {
     "op": "replace",
@@ -8679,7 +8679,7 @@
     "op": "replace",
     "path": "/greeting/fudarkizku/default/1",
     "raw": "Greetings.",
-    "value": "你好。"
+    "value": "向你问好。"
   },
   {
     "op": "replace",
@@ -8709,7 +8709,7 @@
     "op": "replace",
     "path": "/greeting/fudarkizku/fuizku/1",
     "raw": "Greetings.",
-    "value": "你好。"
+    "value": "向你问好。"
   },
   {
     "op": "replace",
@@ -8733,7 +8733,7 @@
     "op": "replace",
     "path": "/greeting/fudarkizku/fudarkizku/1",
     "raw": "Greetings.",
-    "value": "你好。"
+    "value": "向你问好。"
   },
   {
     "op": "replace",
@@ -9219,7 +9219,7 @@
     "op": "replace",
     "path": "/greeting/fuizku/default/1",
     "raw": "Greetings.",
-    "value": "你好。"
+    "value": "向你问好。"
   },
   {
     "op": "replace",
@@ -9249,7 +9249,7 @@
     "op": "replace",
     "path": "/greeting/fuizku/fuizku/1",
     "raw": "Greetings.",
-    "value": "你好。"
+    "value": "向你问好。"
   },
   {
     "op": "replace",
@@ -9273,7 +9273,7 @@
     "op": "replace",
     "path": "/greeting/fuizku/fudarkizku/1",
     "raw": "Greetings.",
-    "value": "你好。"
+    "value": "向你问好。"
   },
   {
     "op": "replace",

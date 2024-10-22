@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/critChanceTitleLabel/value",
     "raw": "^#ee1414;Crit %^reset;",
-    "value": "^#ee1414;暴击率 %^reset;"
+    "value": "^#ee1414;暴击率^reset;"
   },
   {
     "op": "replace",
     "path": "/critBonusTitleLabel/value",
     "raw": "^yellow;Dmg +^reset;",
-    "value": "^yellow;伤害^reset;"
+    "value": "^yellow;暴击伤害^reset;"
   },
   {
     "op": "replace",
@@ -27,6 +27,6 @@
     "op": "replace",
     "path": "/damagePerShotTitleLabel/value",
     "raw": "Damage:",
-    "value": "每击伤害："
+    "value": "伤害："
   }
 ]

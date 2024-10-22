@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/staffProjectileTitleLabel/value",
     "raw": "# Projectiles:",
-    "value": "# 投射物"
+    "value": "# 射弹数："
   },
   {
     "op": "replace",
     "path": "/staffRangeTitleLabel/value",
     "raw": "Max Range:",
-    "value": "最大范围："
+    "value": "最大距离："
   },
   {
     "op": "replace",

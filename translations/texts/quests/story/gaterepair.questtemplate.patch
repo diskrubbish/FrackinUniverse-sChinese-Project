@@ -1,6 +1,24 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/scriptConfig/descriptions/collectRepairItem",
+    "raw": "Locate the ^orange;Energy Source^reset; in the ^green;Cavern^reset;.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/findGate",
+    "raw": "Find the source of the ^green;Welcoming Beacon^reset;.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/makeTable",
+    "raw": "Complete the objectives given by ^green;Vinalisj^reset;.",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/completionText",
     "raw": "Welcome back to the ^orange;Protectorate^reset;, Agent. With your help I know we can triumph. I've had one of our mechanics ^green;repair your FTL Drive^reset; so that you can resume your duties!",
     "value": "欢迎回到^orange;大地守护团^reset;，同志，有你的帮助我们一定能成功。我雇了一个技工来^green;修复你的FTL引擎^reset;，这样你才能继续履行你的职责！"

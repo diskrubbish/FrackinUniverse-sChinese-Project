@@ -15,43 +15,43 @@
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
     "raw": "A table with a bunch of medical tools.",
-    "value": "一张摆满医疗器械的桌子。"
+    "value": "一张上面有一堆医疗工具的工作台。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
     "raw": "A chance to display one's medical ability.",
-    "value": "一个展示自己医学能力的机会。"
+    "value": "一个展示自己医疗能力的机会。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
     "raw": "Floran ussse table. Patch ssself up.",
-    "value": "叶族人用用用桌子，来修好自己己己。"
+    "value": "叶族人使使使用工作台。给自己己己包扎。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
     "raw": "Inspired. Medical module activated.",
-    "value": "灵感。 医疗模组启动。"
+    "value": "灵感。医疗模块已激活。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
     "raw": "I can use materials I've found here to create new healing items.",
-    "value": "我可以使用我在这里找到的材料来制造新的治疗用物品。"
+    "value": "我能用我在这里找到的材料来制作一些新的医疗物品。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
     "raw": "This gives me the ability to heal and rejuvenate after incurring damage.",
-    "value": "这给了受伤后我治愈和恢复的能力。"
+    "value": "这个给予了我在受到伤害后治疗与康复的能力。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
     "raw": "This table looks good for treatin' wounds.",
-    "value": "这张桌子看起来很适合治疗伤口。"
+    "value": "这个工作台对治疗伤口很有利。"
   },
   {
     "op": "replace",
@@ -63,6 +63,6 @@
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " ^#b9b5b2;Health and well-being",
-    "value": " ^#b9b5b1;保健与治疗。"
+    "value": "^#b9b5b2;健康且幸福"
   }
 ]

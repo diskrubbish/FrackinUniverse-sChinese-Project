@@ -4,5 +4,11 @@
     "path": "/shortdescription",
     "raw": "^orange;Apex^reset; Microscope",
     "value": "^orange;猿人^reset;显微镜"
+  },
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "raw": "Inspect Bees & Items",
+    "value": "观察蜜蜂&物品"
   }
 ]

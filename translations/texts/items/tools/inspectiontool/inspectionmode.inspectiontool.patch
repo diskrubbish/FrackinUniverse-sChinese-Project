@@ -1,0 +1,86 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/shadow/0",
+    "raw": "...?",
+    "value": "...?"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/shadow/1",
+    "raw": ".....",
+    "value": "....."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/shadow/2",
+    "raw": "...? ...",
+    "value": "...? ..."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/fenerox/0",
+    "raw": "Thing not seen?",
+    "value": "嘛样没有？"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/fenerox/1",
+    "raw": "See nothing. Move closer?",
+    "value": "什么也看不见。我应该靠近点？"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/fenerox/2",
+    "raw": "Scanner weak. Should move.",
+    "value": "扫描仪弱。 应该靠近。"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfRangeText/fenerox/3",
+    "raw": "Can't see. Scanner broken?",
+    "value": "看不到。是扫描仪坏了？"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/shadow/0",
+    "raw": "...?",
+    "value": "...?"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/shadow/1",
+    "raw": ".....",
+    "value": "....."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/shadow/2",
+    "raw": "...? ...",
+    "value": "...? ..."
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/fenerox/0",
+    "raw": "Thing not there?",
+    "value": "不在那里？"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/fenerox/1",
+    "raw": "See nothing. Why look?",
+    "value": "什么也看不见。为嘛要看？"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/fenerox/2",
+    "raw": "Nothing there?",
+    "value": "空空如也？"
+  },
+  {
+    "op": "replace",
+    "path": "/nothingThereText/fenerox/3",
+    "raw": "Watch nothing? See nothing.",
+    "value": "看不见？ 看不见。"
+  }
+]

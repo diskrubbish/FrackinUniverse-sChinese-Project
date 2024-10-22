@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/paneLayout/mode/buttons/2/data/description",
+    "raw": "Hunger. Death: Lose 50% pixels, drop ^red;ALL^reset; items.",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/paneLayout/labelSpeciesRadio/value",
     "raw": "^#8d8d8d;SPECIES",
     "value": "^#8d8d8d;种族"
@@ -94,12 +100,6 @@
     "path": "/paneLayout/mode/buttons/1/data/description",
     "raw": "Eat to survive, drop items on death.",
     "value": "进食以生存，死亡时掉落物品。"
-  },
-  {
-    "op": "replace",
-    "path": "/paneLayout/mode/buttons/2/data/description",
-    "raw": "When you die your character stays dead!",
-    "value": "当你死的时候，你的角色就死了！"
   },
   {
     "op": "replace",

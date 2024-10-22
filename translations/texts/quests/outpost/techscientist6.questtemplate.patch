@@ -1,6 +1,12 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/text",
+    "raw": "My ^orange;Distortion Sphere II Tech^reset; is ready to roll! I'd like you to ^green;test it on the new obstacle course^reset; I've set up. Drop bombs with ^red;[Fire]^reset; to blow things up! ^yellow;Talk to me again when you're ready to go in.^reset;",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/completionText",
     "raw": "Excellent! The ^orange;Distortion Sphere II Tech^reset; performed just as I'd hoped it would. Please, keep it - thanks to you I've been able to make significant strides in my research! Speak with me at any time to ^green;develop new techs^reset;!",
     "value": "好极了！ ^orange;变形球II^reset;的允许正如我所希望的。请收下它——感谢你，我已经能够在我的研究上取得重大进展！^green;记得随时和我交谈^reset;来开发新技术！"

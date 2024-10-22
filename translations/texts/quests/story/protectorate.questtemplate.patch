@@ -1,8 +1,20 @@
 ﻿[
   {
     "op": "replace",
+    "path": "/text",
+    "raw": "Survive the meeting.",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/completionText",
     "raw": "The years of training paid off - you survived the meeting!",
     "value": "多年的训练终于有了回报——你从灾难中活了下来！"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/graduate",
+    "raw": "Attend the emergency meeting",
+    "value": "参加紧急会议"
   }
 ]

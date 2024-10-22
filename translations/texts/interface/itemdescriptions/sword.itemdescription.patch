@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/critChanceTitleLabel/value",
     "raw": "^orange;Crit %^reset;",
-    "value": "^orange;暴击率^reset;"
+    "value": "^orange;暴击几率+^reset;"
   },
   {
     "op": "replace",
     "path": "/critBonusTitleLabel/value",
     "raw": "^yellow;Dmg +^reset;",
-    "value": "^yellow;伤害^reset;"
+    "value": "^yellow;暴击伤害^reset;"
   }
 ]
