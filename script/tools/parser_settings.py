@@ -95,7 +95,15 @@ foi = {
     "ships.config": [".*/name$"],
     "icons.json":["items/(.*?)/label$"],
     "categories.config": [".*"],
-    "texts.config":["^(?!.*?(currentRace|(sound.*)|(defaultButtonStates.*)|cutoffSound|volume|Frame|Cooldown|chatCount|portraitPath)$).*$"]
+    "texts.config":["^(?!.*?(currentRace|(sound.*)|(defaultButtonStates.*)|cutoffSound|volume|Frame|Cooldown|chatCount|portraitPath)$).*$"],
+    "kukagps/biomes.config": [".*"],
+    "kukagps/dungeons.config": [".*"],
+    "kukagps/enviroment.config": [".*"],
+    "kukagps/ores.config": [".*"],
+    "kukagps/planets.config": [".*"],
+    "kukagps/stars.config": [".*"],
+    "kukagps/weather.config": [".*"],
+    "buildsaplingfu.config":["^(foliage|stem)/.+$"]
 }
 files_of_interest = dict()
 for ext, poi in foi.items():
