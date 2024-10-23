@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Tentacle Barrier (Ruin)",
-    "value": "触手屏障(祸)"
+    "value": "触手屏障（祸）"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "You'd like to go somewhere, but there's a huge tentacle in the way!",
-    "value": "你想去某个地方，但路上有一个巨大的触手！"
+    "value": "你想去某个地方，但路上有一根巨大的触手！"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A sword made out of slime.\tStrange, but effective.",
-    "value": ""
+    "value": "一把由黏液制成的剑。奇异，但高效。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Slime Sword II",
-    "value": ""
+    "value": "黏液剑II"
   }
 ]

@@ -1,0 +1,2372 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/garden",
+    "raw": "Lush",
+    "value": "葱郁"
+  },
+  {
+    "op": "replace",
+    "path": "/forest",
+    "raw": "Forest",
+    "value": "森林"
+  },
+  {
+    "op": "replace",
+    "path": "/desert",
+    "raw": "Desert",
+    "value": "沙漠"
+  },
+  {
+    "op": "replace",
+    "path": "/snow",
+    "raw": "Snowy",
+    "value": "雪原"
+  },
+  {
+    "op": "replace",
+    "path": "/savannah",
+    "raw": "Savannah",
+    "value": "草原"
+  },
+  {
+    "op": "replace",
+    "path": "/toxic",
+    "raw": "Toxic",
+    "value": "毒素"
+  },
+  {
+    "op": "replace",
+    "path": "/jungle",
+    "raw": "Jungle",
+    "value": "丛林"
+  },
+  {
+    "op": "replace",
+    "path": "/alien",
+    "raw": "Alien",
+    "value": "突变"
+  },
+  {
+    "op": "replace",
+    "path": "/arctic",
+    "raw": "Arctic",
+    "value": "极地"
+  },
+  {
+    "op": "replace",
+    "path": "/tundra",
+    "raw": "Tundra",
+    "value": "冻土"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanic",
+    "raw": "Volcanic",
+    "value": "火山"
+  },
+  {
+    "op": "replace",
+    "path": "/midnight",
+    "raw": "Midnight",
+    "value": "黑暗"
+  },
+  {
+    "op": "replace",
+    "path": "/scorchedcity",
+    "raw": "Scorched",
+    "value": "焦灼荒漠"
+  },
+  {
+    "op": "replace",
+    "path": "/magma",
+    "raw": "Lava",
+    "value": "岩浆"
+  },
+  {
+    "op": "replace",
+    "path": "/moon",
+    "raw": "Moon",
+    "value": "卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/asteroids",
+    "raw": "Asteroids",
+    "value": "小行星带"
+  },
+  {
+    "op": "replace",
+    "path": "/barren",
+    "raw": "Barren",
+    "value": "荒芜"
+  },
+  {
+    "op": "replace",
+    "path": "/ancientgateway",
+    "raw": "Gateway",
+    "value": "远古庇护所"
+  },
+  {
+    "op": "replace",
+    "path": "/aethersea",
+    "raw": "Aether World",
+    "value": "以太世界"
+  },
+  {
+    "op": "replace",
+    "path": "/arcticdark",
+    "raw": "Dark Arctic",
+    "value": "极地(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/arboreal",
+    "raw": "Primeval Forest",
+    "value": "原始森林"
+  },
+  {
+    "op": "replace",
+    "path": "/arboreal2",
+    "raw": "Volcanic Primeval",
+    "value": "原始火山"
+  },
+  {
+    "op": "replace",
+    "path": "/arborealdark",
+    "raw": "Dark Primeval",
+    "value": "原始火山(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/atropus",
+    "raw": "Atropus",
+    "value": "肉源"
+  },
+  {
+    "op": "replace",
+    "path": "/atropusdark",
+    "raw": "Nightmare Atropus",
+    "value": "肉源(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/autumnforest",
+    "raw": "Autumn Forest",
+    "value": "秋日森林"
+  },
+  {
+    "op": "replace",
+    "path": "/bloodstone",
+    "raw": "Bloodstone",
+    "value": "血石"
+  },
+  {
+    "op": "replace",
+    "path": "/bloodstonesea",
+    "raw": "Atropus Sea",
+    "value": "肉源海"
+  },
+  {
+    "op": "replace",
+    "path": "/bog",
+    "raw": "Bog",
+    "value": "沼泽"
+  },
+  {
+    "op": "replace",
+    "path": "/crystalmoon",
+    "raw": "Crystalline",
+    "value": "结晶"
+  },
+  {
+    "op": "replace",
+    "path": "/chromatic",
+    "raw": "Chromatic",
+    "value": "多彩"
+  },
+  {
+    "op": "replace",
+    "path": "/desertwastes",
+    "raw": "Red Desert",
+    "value": "红色沙漠"
+  },
+  {
+    "op": "replace",
+    "path": "/desertwastesdark",
+    "raw": "Dark Red Desert",
+    "value": "红色沙漠(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/eden",
+    "raw": "Eden",
+    "value": "伊甸"
+  },
+  {
+    "op": "replace",
+    "path": "/ffunknown",
+    "raw": "Unknown",
+    "value": "未知"
+  },
+  {
+    "op": "replace",
+    "path": "/frozenvolcanic",
+    "raw": "Frozen Volcanic",
+    "value": "冰冻火山"
+  },
+  {
+    "op": "replace",
+    "path": "/fungus",
+    "raw": "Fungal",
+    "value": "真菌"
+  },
+  {
+    "op": "replace",
+    "path": "/icemoon",
+    "raw": "Frozen Moon",
+    "value": "冰封卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/icewaste",
+    "raw": "Ice Waste",
+    "value": "冰冻荒原"
+  },
+  {
+    "op": "replace",
+    "path": "/icewastedark",
+    "raw": "Dark Ice Waste",
+    "value": "冰冻荒原(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/infernus",
+    "raw": "Infernus",
+    "value": "炼狱"
+  },
+  {
+    "op": "replace",
+    "path": "/infernusdark",
+    "raw": "Dark Infernus",
+    "value": "炼狱(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/irradiated",
+    "raw": "Irradiated",
+    "value": "辐射"
+  },
+  {
+    "op": "replace",
+    "path": "/lightless",
+    "raw": "Lightless",
+    "value": "无光"
+  },
+  {
+    "op": "replace",
+    "path": "/magmadark",
+    "raw": "Dark Magma",
+    "value": "岩浆(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/metallicmoon",
+    "raw": "Cyber Sphere",
+    "value": "赛博"
+  },
+  {
+    "op": "replace",
+    "path": "/moon_toxic",
+    "raw": "Toxic Moon",
+    "value": "毒素卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/moon_desert",
+    "raw": "Desert Moon",
+    "value": "沙漠卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/moon_stone",
+    "raw": "Rocky Moon",
+    "value": "石块卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/moon_shadow",
+    "raw": "Shadow Moon",
+    "value": "暗影卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/moon_volcanic",
+    "raw": "Volcanic Moon",
+    "value": "火山月亮"
+  },
+  {
+    "op": "replace",
+    "path": "/moon_metallic",
+    "raw": "Metallic Moon",
+    "value": "金属卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/mountainous",
+    "raw": "Mountainous",
+    "value": "山脉"
+  },
+  {
+    "op": "replace",
+    "path": "/nitrogensea",
+    "raw": "Nitrogen Sea",
+    "value": "液氮海"
+  },
+  {
+    "op": "replace",
+    "path": "/penumbra",
+    "raw": "Penumbra",
+    "value": "半影"
+  },
+  {
+    "op": "replace",
+    "path": "/protoworld",
+    "raw": "Proto World",
+    "value": "原毒"
+  },
+  {
+    "op": "replace",
+    "path": "/protoworlddark",
+    "raw": "Shadow Proto World",
+    "value": "原毒(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/shadow",
+    "raw": "Shadow",
+    "value": "暗影"
+  },
+  {
+    "op": "replace",
+    "path": "/slimeworld",
+    "raw": "Gelatinous",
+    "value": "凝胶"
+  },
+  {
+    "op": "replace",
+    "path": "/snowdark",
+    "raw": "Dark Snow",
+    "value": "雪原(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/strangesea",
+    "raw": "Strange Sea",
+    "value": "诡之海"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphuric",
+    "raw": "Sulphuric",
+    "value": "硫酸"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphuricdark",
+    "raw": "Dark Sulphur",
+    "value": "硫酸(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphuricocean",
+    "raw": "Sulphur Sea",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/superdense",
+    "raw": "Super Dense",
+    "value": "气态巨行星"
+  },
+  {
+    "op": "replace",
+    "path": "/tabularasa",
+    "raw": "Tabula Rasa",
+    "value": "无人区"
+  },
+  {
+    "op": "replace",
+    "path": "/tarball",
+    "raw": "Tar Ball",
+    "value": "焦油"
+  },
+  {
+    "op": "replace",
+    "path": "/thickjungle",
+    "raw": "Rainforest",
+    "value": "雨林"
+  },
+  {
+    "op": "replace",
+    "path": "/tidewater",
+    "raw": "Tidewater",
+    "value": "潮汐"
+  },
+  {
+    "op": "replace",
+    "path": "/tundradark",
+    "raw": "Dark Tundra",
+    "value": "苔原(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/urbanwasteland",
+    "raw": "Wasteland",
+    "value": "废土"
+  },
+  {
+    "op": "replace",
+    "path": "/unknown",
+    "raw": "Spaceship",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/abandonedmines",
+    "raw": "Abandoned Mines",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/aetherbreakwater",
+    "raw": "Aether Breakwater",
+    "value": "以太防波堤"
+  },
+  {
+    "op": "replace",
+    "path": "/aethercorelayer",
+    "raw": "Aether Core",
+    "value": "以太地核"
+  },
+  {
+    "op": "replace",
+    "path": "/aetherseafloor",
+    "raw": "Aether Sea Floor",
+    "value": "以太海海底"
+  },
+  {
+    "op": "replace",
+    "path": "/aetherseaunderground",
+    "raw": "Aether Underground",
+    "value": "以太地层"
+  },
+  {
+    "op": "replace",
+    "path": "/aliendesert",
+    "raw": "Alien Desert",
+    "value": "外星沙漠"
+  },
+  {
+    "op": "replace",
+    "path": "/alienforest",
+    "raw": "Alien Forest",
+    "value": "外星森林"
+  },
+  {
+    "op": "replace",
+    "path": "/alpine",
+    "raw": "Alpine",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/arboreal2underground",
+    "raw": "Volcanic Arboreal Underground",
+    "value": "火山木地层"
+  },
+  {
+    "op": "replace",
+    "path": "/arborealunderground",
+    "raw": "Arboreal Underground",
+    "value": "乔木地层"
+  },
+  {
+    "op": "replace",
+    "path": "/arcticoceanfloor",
+    "raw": "Arctic Ocean Floor",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ashgarden",
+    "raw": "Ash Garden",
+    "value": "灰烬花园"
+  },
+  {
+    "op": "replace",
+    "path": "/asteroidfield",
+    "raw": "Asteroid Field",
+    "value": "小行星带"
+  },
+  {
+    "op": "replace",
+    "path": "/astral",
+    "raw": "Aetheric",
+    "value": "以太"
+  },
+  {
+    "op": "replace",
+    "path": "/atmosphere",
+    "raw": "Atmosphere",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/atropusbone",
+    "raw": "Boney Flesh Expanse",
+    "value": "骨肉平原"
+  },
+  {
+    "op": "replace",
+    "path": "/atropusbonecaves",
+    "raw": "Bone Caves (Atropus)",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/atropusboneunderground",
+    "raw": "Atropus Bone Underground",
+    "value": "肉源骨质地层"
+  },
+  {
+    "op": "replace",
+    "path": "/atropuscellcaves",
+    "raw": "Cell Caves (Atropus)",
+    "value": "细胞洞窟（肉源）"
+  },
+  {
+    "op": "replace",
+    "path": "/atropuscellfield",
+    "raw": "Cellular Expanse (Atropus)",
+    "value": "细胞平原(肉源)"
+  },
+  {
+    "op": "replace",
+    "path": "/atropuselder",
+    "raw": "Horrific Field",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/atropuselderunderground",
+    "raw": "Horrific Caverns",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/atropusfleshcaves",
+    "raw": "Flesh Caves (Atropus)",
+    "value": "血肉洞窟（肉源）"
+  },
+  {
+    "op": "replace",
+    "path": "/atropusgoreforest",
+    "raw": "Gore Forest (Atropus)",
+    "value": "血块森林(肉源)"
+  },
+  {
+    "op": "replace",
+    "path": "/atropushellhive",
+    "raw": "Atropus Hell Hive",
+    "value": "肉源地狱蜂巢"
+  },
+  {
+    "op": "replace",
+    "path": "/atropushellhiveunderground",
+    "raw": "Atropus Underground Hell Hive",
+    "value": "肉源地层蜂巢"
+  },
+  {
+    "op": "replace",
+    "path": "/atropusrot",
+    "raw": "Rotting Flesh Expanse",
+    "value": "腐肉平原"
+  },
+  {
+    "op": "replace",
+    "path": "/atropusrotunderground",
+    "raw": "Rotting Caves",
+    "value": "腐烂洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/atropusunderground",
+    "raw": "Atropus depths",
+    "value": "肉源深渊"
+  },
+  {
+    "op": "replace",
+    "path": "/atropuswartfield",
+    "raw": "Wart Field (Atropus)",
+    "value": "瘤块旷野(肉源)"
+  },
+  {
+    "op": "replace",
+    "path": "/badlands",
+    "raw": "Badlands",
+    "value": "罪恶之地"
+  },
+  {
+    "op": "replace",
+    "path": "/barren2",
+    "raw": "Barren II",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/barren3",
+    "raw": "Barren III",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/barrenasteroids",
+    "raw": "Barren Asteroids",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/barrenunderground",
+    "raw": "Barren Underground",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/bioluminescence",
+    "raw": "Bioluminescence",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/biowastes",
+    "raw": "Biowaste Zone",
+    "value": "生物废料区"
+  },
+  {
+    "op": "replace",
+    "path": "/birchforest",
+    "raw": "Birch Forest",
+    "value": "桦木林"
+  },
+  {
+    "op": "replace",
+    "path": "/blackslimebog",
+    "raw": "Black Slime Bog",
+    "value": "黑泥沼泽"
+  },
+  {
+    "op": "replace",
+    "path": "/blaststonecorelayer",
+    "raw": "Blaststone Core Layer",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/blisterbushfield",
+    "raw": "Blister Bush Field",
+    "value": "泡荚灌木旷野"
+  },
+  {
+    "op": "replace",
+    "path": "/blooddesert",
+    "raw": "Blood Desert",
+    "value": "血色沙漠"
+  },
+  {
+    "op": "replace",
+    "path": "/bloodgulch",
+    "raw": "Blood Gulch",
+    "value": "血液峡谷"
+  },
+  {
+    "op": "replace",
+    "path": "/bloodstonefield",
+    "raw": "Bloodstone Woods",
+    "value": "血石林"
+  },
+  {
+    "op": "replace",
+    "path": "/bloodstoneseafloor",
+    "raw": "Blood Ocean",
+    "value": "血海"
+  },
+  {
+    "op": "replace",
+    "path": "/bloodstoneunderground",
+    "raw": "Bloodstone caverns",
+    "value": "血石洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/bogunderground",
+    "raw": "Bog Caverns",
+    "value": "沼泽洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/bonecaves",
+    "raw": "Bone Caves",
+    "value": "骨头洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/bones",
+    "raw": "Bones",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/breakwater",
+    "raw": "Breakwater",
+    "value": "防波堤"
+  },
+  {
+    "op": "replace",
+    "path": "/cactiplace",
+    "raw": "Cactus Place",
+    "value": "仙人掌沙漠"
+  },
+  {
+    "op": "replace",
+    "path": "/calichefield",
+    "raw": "Caliche Vein",
+    "value": "钙质矿脉"
+  },
+  {
+    "op": "replace",
+    "path": "/cellcaves",
+    "raw": "Cell Caves",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/cellfieldaether",
+    "raw": "Cellular Expanse (Aether)",
+    "value": "细胞平原(以太)"
+  },
+  {
+    "op": "replace",
+    "path": "/cellfieldstrange",
+    "raw": "Cellular Expanse (Strange Sea)",
+    "value": "细胞平原(诡之海)"
+  },
+  {
+    "op": "replace",
+    "path": "/cellfield",
+    "raw": "Cellular Expanse",
+    "value": "细胞平原"
+  },
+  {
+    "op": "replace",
+    "path": "/charred",
+    "raw": "Charred",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/charredflesh",
+    "raw": "Charred Flesh",
+    "value": "焦肉"
+  },
+  {
+    "op": "replace",
+    "path": "/chromaticunderground",
+    "raw": "Chromatic Underground",
+    "value": "斑斓洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/cloudforest",
+    "raw": "Cloud Forest",
+    "value": "云朵森林"
+  },
+  {
+    "op": "replace",
+    "path": "/clouds",
+    "raw": "Clouds",
+    "value": "云"
+  },
+  {
+    "op": "replace",
+    "path": "/colorfulcave",
+    "raw": "Colorful Cave",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/colourful",
+    "raw": "Colourful",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/coralreefdark",
+    "raw": "Reef (dark)",
+    "value": "暗礁(黑暗)"
+  },
+  {
+    "op": "replace",
+    "path": "/coralreef",
+    "raw": "Reef",
+    "value": "暗礁"
+  },
+  {
+    "op": "replace",
+    "path": "/corruptasteroid",
+    "raw": "Corrupt Asteroids",
+    "value": "腐化小行星带"
+  },
+  {
+    "op": "replace",
+    "path": "/corrupt",
+    "raw": "Corrupt",
+    "value": "腐化之地"
+  },
+  {
+    "op": "replace",
+    "path": "/corruptedforest",
+    "raw": "Eldritch Forest",
+    "value": "怪异森林"
+  },
+  {
+    "op": "replace",
+    "path": "/corruptmoon",
+    "raw": "Corrupted Moon",
+    "value": "腐化卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/corruptmoonunderground",
+    "raw": "Corrupt Moon Underground",
+    "value": "腐化卫星地层"
+  },
+  {
+    "op": "replace",
+    "path": "/crystalcave",
+    "raw": "Crystal Cave",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/crystaldesertaether",
+    "raw": "Aether Crystalline Desert",
+    "value": "以太结晶沙漠"
+  },
+  {
+    "op": "replace",
+    "path": "/crystaldesertaether2",
+    "raw": "Aether Crystalline Desert Floor",
+    "value": "以太水晶沙漠地层"
+  },
+  {
+    "op": "replace",
+    "path": "/crystaldesert",
+    "raw": "Crystalline Desert",
+    "value": "结晶沙漠"
+  },
+  {
+    "op": "replace",
+    "path": "/crystalmoonunderground",
+    "raw": "Crystal Caverns",
+    "value": "水晶洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/crystalplain",
+    "raw": "Crystalline Volcanic",
+    "value": "结晶火山"
+  },
+  {
+    "op": "replace",
+    "path": "/crystalswampaether",
+    "raw": "Crystalline Swamp (Aether)",
+    "value": "结晶沼泽(以太)"
+  },
+  {
+    "op": "replace",
+    "path": "/crystalswampaether2",
+    "raw": "Aether Crystalline Swamp Floor",
+    "value": "以太水晶沼地层"
+  },
+  {
+    "op": "replace",
+    "path": "/crystalswamp",
+    "raw": "Crystalline Swamp",
+    "value": "结晶沼泽"
+  },
+  {
+    "op": "replace",
+    "path": "/cyberspace",
+    "raw": "Cyberspace",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/deadwood",
+    "raw": "Deadwood",
+    "value": "枯木林"
+  },
+  {
+    "op": "replace",
+    "path": "/deadwoodmoon",
+    "raw": "Deadwood (moon)",
+    "value": "枯木林(卫星)"
+  },
+  {
+    "op": "replace",
+    "path": "/deepseaventaether",
+    "raw": "Aether Sea Vent",
+    "value": "以太海洋裂口"
+  },
+  {
+    "op": "replace",
+    "path": "/deepseaventblood",
+    "raw": "Blood Sea Vent",
+    "value": "血海出海口"
+  },
+  {
+    "op": "replace",
+    "path": "/deepseaventdark",
+    "raw": "Deep Sea Vent (dark)",
+    "value": "深海裂口(黑暗)"
+  },
+  {
+    "op": "replace",
+    "path": "/deepseavent",
+    "raw": "Deep Sea Vent",
+    "value": "深海裂口"
+  },
+  {
+    "op": "replace",
+    "path": "/deepseaventsulphur",
+    "raw": "Deep Sea Vent (Sulphuric)",
+    "value": "深海裂口(硫酸)"
+  },
+  {
+    "op": "replace",
+    "path": "/desertoasis",
+    "raw": "Colorful Desert Oasis",
+    "value": "多彩沙漠绿洲"
+  },
+  {
+    "op": "replace",
+    "path": "/dryriverbed",
+    "raw": "Dry Riverbed",
+    "value": "干涸河床"
+  },
+  {
+    "op": "replace",
+    "path": "/earth",
+    "raw": "Earth",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/elderasteroid",
+    "raw": "Elder Asteroids",
+    "value": "远古小行星"
+  },
+  {
+    "op": "replace",
+    "path": "/eldercorelayer",
+    "raw": "Elder Core",
+    "value": "远古地核"
+  },
+  {
+    "op": "replace",
+    "path": "/elder",
+    "raw": "Eldritch Field",
+    "value": "怪异旷野"
+  },
+  {
+    "op": "replace",
+    "path": "/elderunderground",
+    "raw": "Elder Caverns",
+    "value": "远古洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/energyorbforestaether",
+    "raw": "Dark Zone (Aether)",
+    "value": "黑暗地带(以太)"
+  },
+  {
+    "op": "replace",
+    "path": "/energyorbforest",
+    "raw": "Dark Zone",
+    "value": "黑暗地带"
+  },
+  {
+    "op": "replace",
+    "path": "/erchiusasteroid",
+    "raw": "Erchius Asteroids",
+    "value": "厄尔吉斯晶体小行星带"
+  },
+  {
+    "op": "replace",
+    "path": "/estuaryaether",
+    "raw": "Aether Estuary",
+    "value": "以太港湾"
+  },
+  {
+    "op": "replace",
+    "path": "/estuarydark",
+    "raw": "Estuary (dark)",
+    "value": "港湾(黑暗)"
+  },
+  {
+    "op": "replace",
+    "path": "/estuary",
+    "raw": "Estuary",
+    "value": "港湾"
+  },
+  {
+    "op": "replace",
+    "path": "/extraalienjungle",
+    "raw": "Alien Jungle",
+    "value": "外星丛林"
+  },
+  {
+    "op": "replace",
+    "path": "/extraalpinemission",
+    "raw": "extraalpinemission",
+    "value": "额外高山生态"
+  },
+  {
+    "op": "replace",
+    "path": "/extraoceanfloormission",
+    "raw": "extraoceanfloormission",
+    "value": "额外海底生态"
+  },
+  {
+    "op": "replace",
+    "path": "/extraskymission",
+    "raw": "extraskymission",
+    "value": "额外天空生态"
+  },
+  {
+    "op": "replace",
+    "path": "/extraswampmission",
+    "raw": "extraswampmission",
+    "value": "额外沼泽生态"
+  },
+  {
+    "op": "replace",
+    "path": "/eyepatch",
+    "raw": "Eyepatch",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffbonecaves",
+    "raw": "Bone Caves (FU)",
+    "value": "枯骨洞窟（FU）"
+  },
+  {
+    "op": "replace",
+    "path": "/ffcellcaves",
+    "raw": "Cell Caves (FU)",
+    "value": "细胞洞窟（FU）"
+  },
+  {
+    "op": "replace",
+    "path": "/ffcoalmine",
+    "raw": "Coal Mine",
+    "value": "煤矿坑"
+  },
+  {
+    "op": "replace",
+    "path": "/ffcoppermine",
+    "raw": "Copper Mine",
+    "value": "铜矿坑"
+  },
+  {
+    "op": "replace",
+    "path": "/ffcoralcave",
+    "raw": "Coral Cave",
+    "value": "珊瑚洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/ffcrystalcavern",
+    "raw": "Crystal Cavern",
+    "value": "水晶洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/ffcrystalrealm",
+    "raw": "Crystalline Expanse",
+    "value": "结晶平原"
+  },
+  {
+    "op": "replace",
+    "path": "/fffleshcaves",
+    "raw": "Flesh Caves (FU)",
+    "value": "血肉洞窟（FU）"
+  },
+  {
+    "op": "replace",
+    "path": "/fffrostcavern",
+    "raw": "Frost Cavern",
+    "value": "冰封洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/ffgoldmine",
+    "raw": "Gold Mine",
+    "value": "黄金矿坑"
+  },
+  {
+    "op": "replace",
+    "path": "/ffhellhiveunderground",
+    "raw": "Underground Hell Hive",
+    "value": "地下地狱蜂巢"
+  },
+  {
+    "op": "replace",
+    "path": "/ffhive",
+    "raw": "Hive (FU)",
+    "value": "蜂巢(FU)"
+  },
+  {
+    "op": "replace",
+    "path": "/ffhiveunderground",
+    "raw": "Underground Hive",
+    "value": "地下蜂巢"
+  },
+  {
+    "op": "replace",
+    "path": "/ffpoopit",
+    "raw": "Excremental Caves",
+    "value": "粪便洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/ffshadowmoon",
+    "raw": "Shadowy Underworld",
+    "value": "阴暗的地下世界"
+  },
+  {
+    "op": "replace",
+    "path": "/ffshadow",
+    "raw": "Shadow Cave",
+    "value": "暗影洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/ffsilvermine",
+    "raw": "Silver Mine",
+    "value": "银矿石"
+  },
+  {
+    "op": "replace",
+    "path": "/ffspidernest",
+    "raw": "Spider Nest",
+    "value": "蜘蛛巢穴"
+  },
+  {
+    "op": "replace",
+    "path": "/ffsupermatter",
+    "raw": "Erchius Cave",
+    "value": "厄尔吉斯洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/fftarpitmoon",
+    "raw": "Sludge Field",
+    "value": "污泥场"
+  },
+  {
+    "op": "replace",
+    "path": "/fftarpit",
+    "raw": "Tar Pit",
+    "value": "焦油坑"
+  },
+  {
+    "op": "replace",
+    "path": "/ffvolcanic",
+    "raw": "Volcanic Caves",
+    "value": "火山洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/ffzen",
+    "raw": "Zen Caves (FU)",
+    "value": "禅思洞穴（FU）"
+  },
+  {
+    "op": "replace",
+    "path": "/fieldofbamboo",
+    "raw": "Bamboo Forest",
+    "value": "竹林"
+  },
+  {
+    "op": "replace",
+    "path": "/fieldofbanana",
+    "raw": "Banana Forest",
+    "value": "香蕉林"
+  },
+  {
+    "op": "replace",
+    "path": "/fieldofbracken",
+    "raw": "Bracken Field",
+    "value": "蕨田"
+  },
+  {
+    "op": "replace",
+    "path": "/fieldofcarrots",
+    "raw": "Carrot Crop",
+    "value": "胡萝卜田"
+  },
+  {
+    "op": "replace",
+    "path": "/fieldofcorn",
+    "raw": "Cornfield",
+    "value": "玉米地"
+  },
+  {
+    "op": "replace",
+    "path": "/fieldofgrape",
+    "raw": "Vineyard",
+    "value": "葡萄园"
+  },
+  {
+    "op": "replace",
+    "path": "/fieldofpotato",
+    "raw": "Potato Field",
+    "value": "土豆田"
+  },
+  {
+    "op": "replace",
+    "path": "/fieldofsugar",
+    "raw": "Sugarcane Field",
+    "value": "甘蔗地"
+  },
+  {
+    "op": "replace",
+    "path": "/fieldoftomato",
+    "raw": "Tomato Garden",
+    "value": "西红柿园"
+  },
+  {
+    "op": "replace",
+    "path": "/fieldofwheat",
+    "raw": "Wheat Field",
+    "value": "麦田"
+  },
+  {
+    "op": "replace",
+    "path": "/finesand",
+    "raw": "Silt Wonderland",
+    "value": "淤泥仙境"
+  },
+  {
+    "op": "replace",
+    "path": "/fleshasteroid",
+    "raw": "Flesh Blobs",
+    "value": "血肉团"
+  },
+  {
+    "op": "replace",
+    "path": "/fleshcaves",
+    "raw": "Flesh Caves",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fleshcorelayer",
+    "raw": "Flesh Core",
+    "value": "血肉地核"
+  },
+  {
+    "op": "replace",
+    "path": "/flesh",
+    "raw": "Flesh",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/flowerforest",
+    "raw": "Flower Forest",
+    "value": "花香森林"
+  },
+  {
+    "op": "replace",
+    "path": "/flowers",
+    "raw": "Flowers",
+    "value": "花儿"
+  },
+  {
+    "op": "replace",
+    "path": "/frozenvolcanicunderground",
+    "raw": "Frozen Volcanic Cavern",
+    "value": "冰冻火山洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/fuatropustentacle",
+    "raw": "Infested Biome (Atropus)",
+    "value": "寄生群落(肉源)"
+  },
+  {
+    "op": "replace",
+    "path": "/fucoralcavern",
+    "raw": "Coral Caverns",
+    "value": "珊瑚洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiant2",
+    "raw": "Proto Giant",
+    "value": "原体巨行星"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiant3",
+    "raw": "Flame Giant",
+    "value": "火焰巨行星"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiant4",
+    "raw": "Ice Giant",
+    "value": "冰霜巨行星"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiant5",
+    "raw": "Toxic Giant",
+    "value": "毒性巨行星"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiant",
+    "raw": "Gas Giant",
+    "value": "气态巨行星"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiantunderground2",
+    "raw": "Proto Giant Underground",
+    "value": "原毒巨行星地层"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiantunderground3",
+    "raw": "Flame Giant Underground",
+    "value": "火焰巨行星地层"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiantunderground4",
+    "raw": "Ice Giant Underground",
+    "value": "冰冻巨行星地层"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiantunderground5",
+    "raw": "Toxic Giant Underground",
+    "value": "毒气巨行星地层"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiantunderground",
+    "raw": "Gas Giant Underground",
+    "value": "气态巨行星地层"
+  },
+  {
+    "op": "replace",
+    "path": "/fungusunderground",
+    "raw": "Fungus Caverns",
+    "value": "真菌洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/furuinsunderground",
+    "raw": "Ruined Caverns",
+    "value": "废墟洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/futentacle",
+    "raw": "Infested Biome",
+    "value": "寄生群落"
+  },
+  {
+    "op": "replace",
+    "path": "/futentacleunderground",
+    "raw": "Infested Cave",
+    "value": "感染洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/gardencorelayer",
+    "raw": "Garden Core Layer",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gasgiantcorelayer2",
+    "raw": "Gas Giant Core Layer II",
+    "value": "气态巨行星地核II"
+  },
+  {
+    "op": "replace",
+    "path": "/gasgiantcorelayer3",
+    "raw": "Gas Giant Core Layer III",
+    "value": "气态巨行星地核III"
+  },
+  {
+    "op": "replace",
+    "path": "/gasgiantcorelayer",
+    "raw": "Gas Giant Core Layer",
+    "value": "气态巨行星地核"
+  },
+  {
+    "op": "replace",
+    "path": "/geode",
+    "raw": "Geode",
+    "value": "晶洞"
+  },
+  {
+    "op": "replace",
+    "path": "/giantflowers",
+    "raw": "Giant Flowers",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glacial",
+    "raw": "Glacial",
+    "value": "冰河"
+  },
+  {
+    "op": "replace",
+    "path": "/gleamingasteroid",
+    "raw": "Gleaming Asteroids",
+    "value": "闪亮小行星带"
+  },
+  {
+    "op": "replace",
+    "path": "/goreforest",
+    "raw": "Gore Forest",
+    "value": "血块森林"
+  },
+  {
+    "op": "replace",
+    "path": "/hauntedforest",
+    "raw": "Haunted Forest",
+    "value": "闹鬼森林"
+  },
+  {
+    "op": "replace",
+    "path": "/hauntedgraveyard",
+    "raw": "Haunted Graveyard",
+    "value": "闹鬼坟墓"
+  },
+  {
+    "op": "replace",
+    "path": "/hellfirefield",
+    "raw": "Hellfire Field",
+    "value": "地狱火花园"
+  },
+  {
+    "op": "replace",
+    "path": "/hellhive",
+    "raw": "Hell Hive",
+    "value": "地狱蜂巢"
+  },
+  {
+    "op": "replace",
+    "path": "/highlands",
+    "raw": "Rocky Highlands",
+    "value": "岩石高原"
+  },
+  {
+    "op": "replace",
+    "path": "/hive",
+    "raw": "Hive",
+    "value": "蜂巢"
+  },
+  {
+    "op": "replace",
+    "path": "/hiveold",
+    "raw": "Old Hive",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hotsprings",
+    "raw": "Hot Springs",
+    "value": "温泉"
+  },
+  {
+    "op": "replace",
+    "path": "/iceasteroids",
+    "raw": "Ice Asteroids",
+    "value": "冰冻小行星"
+  },
+  {
+    "op": "replace",
+    "path": "/icecaves",
+    "raw": "Ice Caves",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/iceclouds",
+    "raw": "Ice Clouds",
+    "value": "冰云"
+  },
+  {
+    "op": "replace",
+    "path": "/icecloudsmoonunderground",
+    "raw": "Ice Moon Ice Clouds",
+    "value": "冰霜卫星冰云"
+  },
+  {
+    "op": "replace",
+    "path": "/icecloudswastesurface",
+    "raw": "Frozen Wastes Ice Clouds",
+    "value": "冰冻废土冰云"
+  },
+  {
+    "op": "replace",
+    "path": "/icefire",
+    "raw": "Icefire Forest",
+    "value": "冰火森林"
+  },
+  {
+    "op": "replace",
+    "path": "/icepines",
+    "raw": "Frozen Taiga",
+    "value": "冰冻苔原"
+  },
+  {
+    "op": "replace",
+    "path": "/ice",
+    "raw": "Ice",
+    "value": "冰"
+  },
+  {
+    "op": "replace",
+    "path": "/icemoonunderground",
+    "raw": "Ice Moon Cavern",
+    "value": "冰霜卫星洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/icewasteunderground",
+    "raw": "Nitrogen Cavern (Ice Waste)",
+    "value": "氮气洞穴（冰冻荒原）"
+  },
+  {
+    "op": "replace",
+    "path": "/infernusunderground",
+    "raw": "Scorching Caverns",
+    "value": "灼热洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/irradiatedunderground",
+    "raw": "Irradiated Cavern",
+    "value": "辐射洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/irradiatedwaste",
+    "raw": "Irradiated Glade",
+    "value": "辐射沼泽"
+  },
+  {
+    "op": "replace",
+    "path": "/kelpforestdark",
+    "raw": "Kelp Forest (dark)",
+    "value": "海带森林(黑暗)"
+  },
+  {
+    "op": "replace",
+    "path": "/kelpforest",
+    "raw": "Kelp Forest",
+    "value": "海带森林"
+  },
+  {
+    "op": "replace",
+    "path": "/lightlessunderground",
+    "raw": "Lightless Cave",
+    "value": "无光洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/luminouscaves",
+    "raw": "Luminous Caves",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/lunarbase",
+    "raw": "Moon",
+    "value": "卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/magicsnowland",
+    "raw": "Magic Snow Land",
+    "value": "魔法雪地"
+  },
+  {
+    "op": "replace",
+    "path": "/magmaoceanfloor",
+    "raw": "Magma Ocean Floor",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/magmarockcorelayer",
+    "raw": "Magmarock Core Layer",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/mamapoptop",
+    "raw": "Poptop Cavern",
+    "value": "吐舌娃洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/meadow",
+    "raw": "Meadow",
+    "value": "牧场"
+  },
+  {
+    "op": "replace",
+    "path": "/metalhive",
+    "raw": "Metal Hive",
+    "value": "金属蜂巢"
+  },
+  {
+    "op": "replace",
+    "path": "/metaljungle",
+    "raw": "Metal Jungle",
+    "value": "金属丛林"
+  },
+  {
+    "op": "replace",
+    "path": "/metallicunderground",
+    "raw": "Metallic Underground",
+    "value": "金属地层"
+  },
+  {
+    "op": "replace",
+    "path": "/metalworks2",
+    "raw": "Metallic Surface II",
+    "value": "金属地表II"
+  },
+  {
+    "op": "replace",
+    "path": "/metalworks3",
+    "raw": "Metallic Surface III",
+    "value": "金属地表III"
+  },
+  {
+    "op": "replace",
+    "path": "/metalworks4",
+    "raw": "Metallic Surface IV",
+    "value": "金属地表IV"
+  },
+  {
+    "op": "replace",
+    "path": "/metalworks",
+    "raw": "Metallic Surface",
+    "value": "金属地表"
+  },
+  {
+    "op": "replace",
+    "path": "/metalworksunderground1",
+    "raw": "Metal Caves",
+    "value": "金属洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/metalworksunderground2",
+    "raw": "Metal Caves II",
+    "value": "金属洞穴II"
+  },
+  {
+    "op": "replace",
+    "path": "/metalworksunderground3",
+    "raw": "Metal Caves III",
+    "value": "金属洞穴III"
+  },
+  {
+    "op": "replace",
+    "path": "/metalworksunderground4",
+    "raw": "Metal Caves IV",
+    "value": "金属洞穴IV"
+  },
+  {
+    "op": "replace",
+    "path": "/metalworksundergroundmoon",
+    "raw": "Metal Caves (moon)",
+    "value": "金属洞穴（卫星）"
+  },
+  {
+    "op": "replace",
+    "path": "/murkyswamp",
+    "raw": "Murky Swamp",
+    "value": "墨色沼泽"
+  },
+  {
+    "op": "replace",
+    "path": "/minivillage",
+    "raw": "Mini Village",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/mooncorelayer",
+    "raw": "Moon Core Layer",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/moondesertunderground",
+    "raw": "Desert Moon Underground",
+    "value": "沙漠卫星地层"
+  },
+  {
+    "op": "replace",
+    "path": "/moonshadowunderground",
+    "raw": "Shadow Moon Underground",
+    "value": "暗影卫星地层"
+  },
+  {
+    "op": "replace",
+    "path": "/moonstoneunderground",
+    "raw": "Rocky Moon Underground",
+    "value": "月海晶体地层"
+  },
+  {
+    "op": "replace",
+    "path": "/moontoxicunderground",
+    "raw": "Toxic Moon Underground",
+    "value": "毒性卫星地层"
+  },
+  {
+    "op": "replace",
+    "path": "/moonunderground",
+    "raw": "Lunar Underground",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/moonvolcanicunderground",
+    "raw": "Volcanic Moon Underground",
+    "value": "火山卫星地层"
+  },
+  {
+    "op": "replace",
+    "path": "/mountainous2",
+    "raw": "Mountainous II",
+    "value": "山脉II"
+  },
+  {
+    "op": "replace",
+    "path": "/mountainous3",
+    "raw": "Mountainous III",
+    "value": "山脉III"
+  },
+  {
+    "op": "replace",
+    "path": "/mountainous4",
+    "raw": "Mountainous IV",
+    "value": "山脉IV"
+  },
+  {
+    "op": "replace",
+    "path": "/mountainousunderground",
+    "raw": "Mountain Caverns",
+    "value": "山脉洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/mushroompatch",
+    "raw": "Mushroom Patch",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/mushrooms",
+    "raw": "Mushrooms",
+    "value": "蘑菇"
+  },
+  {
+    "op": "replace",
+    "path": "/nitrogencorelayer",
+    "raw": "Nitrogen Core",
+    "value": "液氮地核"
+  },
+  {
+    "op": "replace",
+    "path": "/nitrogenseafloor",
+    "raw": "Nitrogen Sea Floor",
+    "value": "液氮海海底"
+  },
+  {
+    "op": "replace",
+    "path": "/nitrogenseaunderground",
+    "raw": "Nitrogen Cavern",
+    "value": "氮气洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/oasis",
+    "raw": "Oasis",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/obsidiancorelayer",
+    "raw": "Obsidian Core Layer",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/oceanfloor",
+    "raw": "Tropical Ocean Floor",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/oceanmission",
+    "raw": "Ocean Mission",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ocean",
+    "raw": "Tropical Ocean",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/orchardapple",
+    "raw": "Apple Orchard",
+    "value": "苹果园"
+  },
+  {
+    "op": "replace",
+    "path": "/orchardcherry",
+    "raw": "Cherry Orchard",
+    "value": "樱桃园"
+  },
+  {
+    "op": "replace",
+    "path": "/orchardpeach",
+    "raw": "Peach Orchard",
+    "value": "桃园"
+  },
+  {
+    "op": "replace",
+    "path": "/orchardpear",
+    "raw": "Pear Orchard",
+    "value": "梨树园"
+  },
+  {
+    "op": "replace",
+    "path": "/outpost",
+    "raw": "Outpost",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/parkinglot",
+    "raw": "Parking Lot",
+    "value": "停车场"
+  },
+  {
+    "op": "replace",
+    "path": "/penumbraunderground",
+    "raw": "Lightless Cave (Penumbra)",
+    "value": "无光洞穴（半影）"
+  },
+  {
+    "op": "replace",
+    "path": "/pineforest",
+    "raw": "Coniferous Forest",
+    "value": "针叶林"
+  },
+  {
+    "op": "replace",
+    "path": "/pineforest2",
+    "raw": "Mountainous Taiga",
+    "value": "山地苔原"
+  },
+  {
+    "op": "replace",
+    "path": "/pitchfield",
+    "raw": "Tar Pits",
+    "value": "焦油坑"
+  },
+  {
+    "op": "replace",
+    "path": "/precursorsurface",
+    "raw": "Precursor Ruins",
+    "value": "先驱废墟"
+  },
+  {
+    "op": "replace",
+    "path": "/precursorunderground",
+    "raw": "Underground Precursor Ruins",
+    "value": "地下先驱废墟"
+  },
+  {
+    "op": "replace",
+    "path": "/primevalforest",
+    "raw": "Ancient Glade",
+    "value": "古代沼泽"
+  },
+  {
+    "op": "replace",
+    "path": "/prism",
+    "raw": "Prism",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/protocorelayer",
+    "raw": "Proto Core",
+    "value": "原体地核"
+  },
+  {
+    "op": "replace",
+    "path": "/protoworldunderground",
+    "raw": "Proto Caves",
+    "value": "原体洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/puscorelayer",
+    "raw": "Pus Core",
+    "value": "脓液地核"
+  },
+  {
+    "op": "replace",
+    "path": "/rainbowforest",
+    "raw": "Rainbow Wood",
+    "value": "彩虹树林"
+  },
+  {
+    "op": "replace",
+    "path": "/reddesert",
+    "raw": "Red Waste",
+    "value": "红色废土"
+  },
+  {
+    "op": "replace",
+    "path": "/rocky",
+    "raw": "Rocky",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/rust",
+    "raw": "Rust",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/sandstone",
+    "raw": "Sandstone",
+    "value": "砂岩"
+  },
+  {
+    "op": "replace",
+    "path": "/scorched",
+    "raw": "Scorched Wasteland",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shoggothbiome",
+    "raw": "Delta Freya II",
+    "value": "德尔塔·弗雷亚 II"
+  },
+  {
+    "op": "replace",
+    "path": "/shroomcave",
+    "raw": "Shroom Cave",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/slimeasteroid",
+    "raw": "Slime Asteroids",
+    "value": "黏性小行星带"
+  },
+  {
+    "op": "replace",
+    "path": "/slimecaves",
+    "raw": "Slime Caves",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/slime",
+    "raw": "Slime",
+    "value": "黏液"
+  },
+  {
+    "op": "replace",
+    "path": "/slimeworldunderground",
+    "raw": "Gelatinous Cave",
+    "value": "凝胶洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/snowyforest",
+    "raw": "Winter Glade",
+    "value": "冬季沼泽"
+  },
+  {
+    "op": "replace",
+    "path": "/space",
+    "raw": "Space",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/spacewreckage_rusted",
+    "raw": "Rusted Hulk",
+    "value": "生锈残骸"
+  },
+  {
+    "op": "replace",
+    "path": "/spacewreckage_shiny",
+    "raw": "Unsalvaged Hulk",
+    "value": "未打捞残骸"
+  },
+  {
+    "op": "replace",
+    "path": "/spring",
+    "raw": "Spring",
+    "value": "弹跳"
+  },
+  {
+    "op": "replace",
+    "path": "/steamspring",
+    "raw": "Steamspring",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stonecaves",
+    "raw": "Stone Caves",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/strangeseafloor",
+    "raw": "Strange Sea Floor",
+    "value": "诡之海海底"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphuricmagma",
+    "raw": "Volcanic Sulphuric",
+    "value": "硫磺火山"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphuricoceandark",
+    "raw": "Dark Sulphuric Ocean",
+    "value": "黑暗硫酸海"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphuricoceanfloor",
+    "raw": "Sulphuric Ocean",
+    "value": "硫酸海"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphuricplain",
+    "raw": "Sulphur Pits",
+    "value": "硫磺矿坑"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphuricunderground",
+    "raw": "Deadly Caverns",
+    "value": "致命洞穴"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphur",
+    "raw": "Sulphur",
+    "value": "硫磺"
+  },
+  {
+    "op": "replace",
+    "path": "/supermatterzoneaether",
+    "raw": "Aether Erchius Expanse",
+    "value": "以太厄尔吉斯平原"
+  },
+  {
+    "op": "replace",
+    "path": "/supermatterzoneaether2",
+    "raw": "Aether Erchius Expanse Floor",
+    "value": "以太厄尔吉斯广阔地层"
+  },
+  {
+    "op": "replace",
+    "path": "/supermatterzone",
+    "raw": "Erchius Crystal Expanse",
+    "value": "厄尔吉斯晶体平原"
+  },
+  {
+    "op": "replace",
+    "path": "/supermatterzonemoon",
+    "raw": "Erchius Expanse",
+    "value": "厄尔吉斯平原"
+  },
+  {
+    "op": "replace",
+    "path": "/swamp",
+    "raw": "Swamp",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/taiga",
+    "raw": "Taiga",
+    "value": "针叶林带"
+  },
+  {
+    "op": "replace",
+    "path": "/tarpit",
+    "raw": "Tarpit",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/tar",
+    "raw": "Tar",
+    "value": "焦油"
+  },
+  {
+    "op": "replace",
+    "path": "/tentacleasteroid",
+    "raw": "Tentacle Mass",
+    "value": "触须团"
+  },
+  {
+    "op": "replace",
+    "path": "/tentacle",
+    "raw": "Tentacle",
+    "value": "触须"
+  },
+  {
+    "op": "replace",
+    "path": "/thickjungleunderground",
+    "raw": "Rainforest Underground",
+    "value": "雨林地层"
+  },
+  {
+    "op": "replace",
+    "path": "/tidewaterfloor",
+    "raw": "Rocky Tidewater Floor",
+    "value": "多岩潮汐海底"
+  },
+  {
+    "op": "replace",
+    "path": "/tidewaterunderground",
+    "raw": "Underground Tidewater",
+    "value": "潮汐地层"
+  },
+  {
+    "op": "replace",
+    "path": "/toxicoceanfloor",
+    "raw": "Toxic Ocean Floor",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground0a",
+    "raw": "Underground0a",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground0b",
+    "raw": "Underground0b",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground0c",
+    "raw": "Underground0c",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground0d",
+    "raw": "Underground0d",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground1a",
+    "raw": "Underground1a",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground1b",
+    "raw": "Underground1b",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground1c",
+    "raw": "Underground1c",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground1d",
+    "raw": "Underground1d",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground3a",
+    "raw": "Underground3a",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground3b",
+    "raw": "Underground3b",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground3c",
+    "raw": "Underground3c",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground3d",
+    "raw": "Underground3d",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground5a",
+    "raw": "Underground5a",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground5b",
+    "raw": "Underground5b",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground5c",
+    "raw": "Underground5c",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/underground5d",
+    "raw": "Underground5d",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/undergroundbrainssolid",
+    "raw": "Underground Solid Brains",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/undergroundbrains",
+    "raw": "Underground Brains",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/undergroundtentacles",
+    "raw": "Underground Tentacles",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/urbanwasteland2",
+    "raw": "Wasteland II",
+    "value": "废土II"
+  },
+  {
+    "op": "replace",
+    "path": "/void",
+    "raw": "Void",
+    "value": "虚空"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanicterraform",
+    "raw": "Volcanic (Terraformed)",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/wartfield",
+    "raw": "Wart Field",
+    "value": "瘤块旷野"
+  },
+  {
+    "op": "replace",
+    "path": "/wastelandminimoon",
+    "raw": "Wasteland Mini Biome (moon)",
+    "value": "废土迷你生态群落（卫星）"
+  },
+  {
+    "op": "replace",
+    "path": "/wastelandmini",
+    "raw": "Wasteland Mini Biome",
+    "value": "废土迷你生态群落"
+  },
+  {
+    "op": "replace",
+    "path": "/wastelandunderground",
+    "raw": "Underground Wasteland",
+    "value": "废土地层"
+  },
+  {
+    "op": "replace",
+    "path": "/wilderness",
+    "raw": "Wilderness",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/zen",
+    "raw": "Zen Caves",
+    "value": ""
+  }
+]

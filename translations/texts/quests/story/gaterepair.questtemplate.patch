@@ -21,12 +21,12 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Welcome back to the ^orange;Protectorate^reset;, Agent. With your help I know we can triumph. I've had one of our mechanics ^green;repair your FTL Drive^reset; so that you can resume your duties!",
-    "value": "欢迎回到^orange;大地守护团^reset;，同志，有你的帮助我们一定能成功。我雇了一个技工来^green;修复你的FTL引擎^reset;，这样你才能继续履行你的职责！"
+    "value": "欢迎回到^orange;大地守护团^reset;，干员，有你的帮助我们一定能成功。我雇了一个技工来^green;修复你的FTL引擎^reset;，这样你才能继续履行你的职责！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/BYOSCompletionText",
     "raw": "Welcome back to the ^orange;Protectorate^reset;, Agent. With your help I know we can triumph. You need to fix that ^red;broken FTL drive^reset; first, though! ^cyan;Research Engineering^reset; and ^green;build an STL drive^reset; at a ^orange;Machining Table^reset;.",
-    "value": "欢迎回到^orange;大地守护团^reset;，同志，有你的帮助我们一定能成功。但是首先你需要修好你^red;损坏的STL引擎^reset;！^cyan;研究工程学^reset;然后在^orange;加工台^reset;处^green;做一台STL引擎^reset;。"
+    "value": "欢迎回到^orange;大地守护团^reset;，干员，有你的帮助我们一定能成功。但是首先你需要修好你^red;损坏的STL引擎^reset;！^cyan;研究工程学^reset;然后在^orange;加工台^reset;处^green;做一台STL引擎^reset;。"
   }
 ]

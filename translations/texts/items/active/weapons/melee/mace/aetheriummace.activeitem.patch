@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "Sparkling and deadly. Design by Ashey.",
-    "value": ""
+    "value": "闪闪发光，沉重致命。由Ashey设计。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Aetherium Mace",
-    "value": ""
+    "value": "阳清钉头锤"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Valiant be thy heart.\tOriginal design by Ashey.",
-    "value": ""
+    "value": "愿你心勇往直前。原版由Ashey设计。"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "Aetherium Lordcrusher",
-    "value": ""
+    "value": "阳清弑君者"
   }
 ]

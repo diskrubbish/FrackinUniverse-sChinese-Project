@@ -1,0 +1,164 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/biomeairless",
+    "raw": "Vacuum",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/biomecold",
+    "raw": "Mild Cold",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/biomeheat",
+    "raw": "Mild Heat",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/biomeradiation",
+    "raw": "Mild Radiation",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffextremecold",
+    "raw": "Extreme Cold",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffextremeheat",
+    "raw": "Extreme Heat",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffextremeradiation",
+    "raw": "Extreme Radiation",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomecold1",
+    "raw": "Mild Cold",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomecold2",
+    "raw": "Moderate Cold",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomecold3",
+    "raw": "Extreme Cold",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomecold4",
+    "raw": "Lethal Cold",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeheat1",
+    "raw": "Mild Heat",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeheat2",
+    "raw": "Moderate Heat",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeheat3",
+    "raw": "Extreme Heat",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffbiomeheat4",
+    "raw": "Lethal Heat",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/radioactiveweathernew",
+    "raw": "Mild Radiation",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/radioactiveweathernew2",
+    "raw": "Moderate Radiation",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/radioactiveweathernew3",
+    "raw": "Extreme Radiation",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/protoweather",
+    "raw": "Proto-Poison",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/insanitynew",
+    "raw": "Insanity",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/crystalmoonfx",
+    "raw": "Cold Moon",
+    "value": "冰冷卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphuricweathernew",
+    "raw": "Acidic Atmosphere",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ffextremesulphuric",
+    "raw": "Sulphuric Atmosphere",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/gasworldweak",
+    "raw": "High Pressure",
+    "value": "极高压强"
+  },
+  {
+    "op": "replace",
+    "path": "/gasworld",
+    "raw": "Extreme Pressure",
+    "value": "极端压强"
+  },
+  {
+    "op": "replace",
+    "path": "/biomepoison2",
+    "raw": "Poisonous Gas",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/poisongas",
+    "raw": "Poisonous Gas II",
+    "value": ""
+  }
+]

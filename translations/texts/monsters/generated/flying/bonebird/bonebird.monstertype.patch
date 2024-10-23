@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Skeletal Bird",
-    "value": "骨鸟"
+    "value": "骨架鸟"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "Is this a real creature? How can it even fly?",
-    "value": "这是真实的生物吗？ 它为啥会飞呢？"
+    "value": "这玩意真的算生物吗？为啥这都能飞？"
   }
 ]

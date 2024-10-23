@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/objectiveDescriptions/nebDamageTypeKill",
     "raw": "Kill <current> / <required> enemies with <damageType>",
-    "value": ""
+    "value": "以<damageType>伤害杀死<current> / <required>只敌怪"
   }
 ]

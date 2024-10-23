@@ -1,0 +1,518 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/clear",
+    "raw": "Clear",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/rain",
+    "raw": "Rain",
+    "value": "雨"
+  },
+  {
+    "op": "replace",
+    "path": "/drizzle",
+    "raw": "Drizzle",
+    "value": "细雨"
+  },
+  {
+    "op": "replace",
+    "path": "/storm",
+    "raw": "Storms",
+    "value": "风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/ember",
+    "raw": "Cinder Showers",
+    "value": "小型灰烬雨"
+  },
+  {
+    "op": "replace",
+    "path": "/snow",
+    "raw": "Snow",
+    "value": "雪"
+  },
+  {
+    "op": "replace",
+    "path": "/fog",
+    "raw": "Fog",
+    "value": "雾"
+  },
+  {
+    "op": "replace",
+    "path": "/ash",
+    "raw": "Ashfall",
+    "value": "尘埃"
+  },
+  {
+    "op": "replace",
+    "path": "/lightash",
+    "raw": "Light Ashfall",
+    "value": "中型灰烬雨"
+  },
+  {
+    "op": "replace",
+    "path": "/meteorshower",
+    "raw": "Small Meteorites",
+    "value": "小型陨石雨"
+  },
+  {
+    "op": "replace",
+    "path": "/largemeteor",
+    "raw": "Large Meteorites",
+    "value": "大型陨石雨"
+  },
+  {
+    "op": "replace",
+    "path": "/glowingrain",
+    "raw": "Luminous Rain",
+    "value": "光雨"
+  },
+  {
+    "op": "replace",
+    "path": "/crystalrain",
+    "raw": "Crystal Rain",
+    "value": "晶体雨"
+  },
+  {
+    "op": "replace",
+    "path": "/hailstones",
+    "raw": "Hail",
+    "value": "冰雹"
+  },
+  {
+    "op": "replace",
+    "path": "/groundmist",
+    "raw": "Mist",
+    "value": "薄雾"
+  },
+  {
+    "op": "replace",
+    "path": "/windstorm",
+    "raw": "Windstorms",
+    "value": "暴风"
+  },
+  {
+    "op": "replace",
+    "path": "/spacejunk",
+    "raw": "Orbital Debris",
+    "value": "太空垃圾"
+  },
+  {
+    "op": "replace",
+    "path": "/spacedustshower",
+    "raw": "Stardust",
+    "value": "星尘"
+  },
+  {
+    "op": "replace",
+    "path": "/snowstorm",
+    "raw": "Blizzards",
+    "value": "暴雪"
+  },
+  {
+    "op": "replace",
+    "path": "/sandstorm",
+    "raw": "Sandstorms",
+    "value": "沙暴"
+  },
+  {
+    "op": "replace",
+    "path": "/duststorm",
+    "raw": "Dust Storms",
+    "value": "沙尘暴"
+  },
+  {
+    "op": "replace",
+    "path": "/icestorm",
+    "raw": "Ice Storms",
+    "value": "冰风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/acidrain",
+    "raw": "Acid Rain",
+    "value": "酸雨"
+  },
+  {
+    "op": "replace",
+    "path": "/ashstorm",
+    "raw": "Ash Storm",
+    "value": "尘埃风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/biorain",
+    "raw": "Bio Rain",
+    "value": "生物软泥雨"
+  },
+  {
+    "op": "replace",
+    "path": "/bograin",
+    "raw": "Bio Rain",
+    "value": "生物软泥雨"
+  },
+  {
+    "op": "replace",
+    "path": "/bloodrain",
+    "raw": "Blood Rain",
+    "value": "血雨"
+  },
+  {
+    "op": "replace",
+    "path": "/crystalstorm",
+    "raw": "Crystal Storm",
+    "value": "小型晶体风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/crystalstormmajor",
+    "raw": "Severe Crystal Storm",
+    "value": "大型晶体风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/firestorm",
+    "raw": "Fire Storm",
+    "value": "火焰风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/freezestorm",
+    "raw": "Freeze Storm",
+    "value": "小型冰冻风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/freezestormlesser",
+    "raw": "Lesser Freeze Storm",
+    "value": "中型冰冻风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/freezestormminor",
+    "raw": "Minor Freeze Storm",
+    "value": "大型冰冻风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/gravrain",
+    "raw": "Gravity Rain",
+    "value": "重力雨"
+  },
+  {
+    "op": "replace",
+    "path": "/gravrainlight",
+    "raw": "Light Gravity Rain",
+    "value": "小型重力雨"
+  },
+  {
+    "op": "replace",
+    "path": "/orangegravrain",
+    "raw": "Anti-Gravity Rain",
+    "value": "反重力雨"
+  },
+  {
+    "op": "replace",
+    "path": "/orangegravrainlight",
+    "raw": "Light Anti-Gravity Rain",
+    "value": "小型反重力雨"
+  },
+  {
+    "op": "replace",
+    "path": "/healingstorm",
+    "raw": "Healing Rain",
+    "value": "治愈雨"
+  },
+  {
+    "op": "replace",
+    "path": "/heavyrain",
+    "raw": "Torrential Rain",
+    "value": "暴雨"
+  },
+  {
+    "op": "replace",
+    "path": "/staticcharge",
+    "raw": "Static Charge",
+    "value": "静电"
+  },
+  {
+    "op": "replace",
+    "path": "/hurricane",
+    "raw": "Hurricane",
+    "value": "飓风"
+  },
+  {
+    "op": "replace",
+    "path": "/hurricaneelectric",
+    "raw": "Electric Storm",
+    "value": "雷电风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/hurricanefungal",
+    "raw": "Hurricane",
+    "value": "飓风"
+  },
+  {
+    "op": "replace",
+    "path": "/ironstorm",
+    "raw": "Molten Iron Storm",
+    "value": "溶铁风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/magmastorm",
+    "raw": "Magma Storm",
+    "value": "小型岩浆风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/magmastormgreater",
+    "raw": "Severe Magma Storm",
+    "value": "大型岩浆风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/mistyrain",
+    "raw": "Misty Rain",
+    "value": "雾雨"
+  },
+  {
+    "op": "replace",
+    "path": "/poptoprain",
+    "raw": "Organic Rain",
+    "value": "有机雨"
+  },
+  {
+    "op": "replace",
+    "path": "/slimestorm",
+    "raw": "Slime Storm",
+    "value": "小型黏液风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/slimestormlesser",
+    "raw": "Weak Slime Storm",
+    "value": "中型黏液风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphuricacidrain",
+    "raw": "Sulphuric Rain",
+    "value": "硫酸雨"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphurstorm",
+    "raw": "Sulphuric Storm",
+    "value": "硫酸风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphurstormlesser",
+    "raw": "Mild Sulphuric Storm",
+    "value": "轻度硫酸风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphurstormsevere",
+    "raw": "Major Sulphuric Storm",
+    "value": "大型硫酸风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/tarrain",
+    "raw": "Tar Rain",
+    "value": "焦油雨"
+  },
+  {
+    "op": "replace",
+    "path": "/fulightningrain",
+    "raw": "Rainy Lightning Storm",
+    "value": "雷雨闪电风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/fulightningrain2",
+    "raw": "Severe Rainy Lightning Storm",
+    "value": "重度雷雨闪电风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/fulightningstorm",
+    "raw": "Lightning Storm",
+    "value": "雷电风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/fulightningstorm2",
+    "raw": "Severe Lightning Storm",
+    "value": "中型雷电风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/gasgiantstorm",
+    "raw": "Dense Gas",
+    "value": "小型重力风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/gasgiantstorm2",
+    "raw": "Super Dense Gas",
+    "value": "中型重力风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/gasgiantstorm3",
+    "raw": "Impossibly Dense Gas",
+    "value": "大型重力风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_smog",
+    "raw": "Smog",
+    "value": "烟雾"
+  },
+  {
+    "op": "replace",
+    "path": "/poisongasstorm",
+    "raw": "Poison Gas",
+    "value": "小型毒气风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/poisongasstorm2",
+    "raw": "Dense Poison Gas",
+    "value": "中型毒气风暴"
+  },
+  {
+    "op": "replace",
+    "path": "/poisongasstorm3",
+    "raw": "Extreme Poison Gas",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fuearthquake",
+    "raw": "Earthquakes",
+    "value": "地震"
+  },
+  {
+    "op": "replace",
+    "path": "/fuearthquakelesser",
+    "raw": "Minor Earthquakes",
+    "value": "地震"
+  },
+  {
+    "op": "replace",
+    "path": "/fuearthquakesevere",
+    "raw": "Severe Earthquakes",
+    "value": "重度地震"
+  },
+  {
+    "op": "replace",
+    "path": "/fububblerain",
+    "raw": "Bubble Rain",
+    "value": "泡沫雨"
+  },
+  {
+    "op": "replace",
+    "path": "/fubuggy",
+    "raw": "Infested",
+    "value": "感染"
+  },
+  {
+    "op": "replace",
+    "path": "/fupretty",
+    "raw": "Butterfly Migration",
+    "value": "蝴蝶迁移"
+  },
+  {
+    "op": "replace",
+    "path": "/fusuddenchill",
+    "raw": "Sudden Chill",
+    "value": "寒冷"
+  },
+  {
+    "op": "replace",
+    "path": "/fusuddenchill2",
+    "raw": "Severe Chill",
+    "value": "严寒"
+  },
+  {
+    "op": "replace",
+    "path": "/fusuddenchill3",
+    "raw": "Extreme Chill",
+    "value": "极度寒冷"
+  },
+  {
+    "op": "replace",
+    "path": "/fuheatblast",
+    "raw": "Heatwaves",
+    "value": "热浪"
+  },
+  {
+    "op": "replace",
+    "path": "/fuheatblast2",
+    "raw": "Severe Heatwaves",
+    "value": "重度热浪"
+  },
+  {
+    "op": "replace",
+    "path": "/fuheatblast3",
+    "raw": "Extreme Heatwaves",
+    "value": "极端热浪"
+  },
+  {
+    "op": "replace",
+    "path": "/thunderclaplesser",
+    "raw": "Rolling Thunder",
+    "value": "滚雷"
+  },
+  {
+    "op": "replace",
+    "path": "/thunderclap",
+    "raw": "Thunderstorms",
+    "value": "雷暴"
+  },
+  {
+    "op": "replace",
+    "path": "/thunderclapgreater",
+    "raw": "Severe Thunder",
+    "value": "重度雷电"
+  },
+  {
+    "op": "replace",
+    "path": "/fusparklejoy",
+    "raw": "Sparklejoy",
+    "value": "闪电"
+  },
+  {
+    "op": "replace",
+    "path": "/mountainmass",
+    "raw": "High-Mass Event",
+    "value": "大质量事件"
+  },
+  {
+    "op": "replace",
+    "path": "/cosmicblast",
+    "raw": "Cosmic Blasts",
+    "value": "射线爆炸"
+  },
+  {
+    "op": "replace",
+    "path": "/darkblast",
+    "raw": "Dark Matter Blasts",
+    "value": "暗物质爆炸"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphuriccloud",
+    "raw": "Sulphuric Fog",
+    "value": "硫酸雾"
+  }
+]

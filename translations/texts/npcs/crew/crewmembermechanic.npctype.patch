@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
     "raw": "Coffee time!",
-    "value": "咖啡时间！"
+    "value": "该喝咖啡啦！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0",
     "raw": "Coffee time!",
-    "value": "咖啡时间！"
+    "value": "该喝咖啡啦！"
   }
 ]

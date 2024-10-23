@@ -1,0 +1,386 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/apextestfacility",
+    "raw": "Apex test facility",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apexresearchlab",
+    "raw": "Apex research complex",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apextestchamber",
+    "raw": "Apex test chamber",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apexspaceelevator",
+    "raw": "Apex Space Elevator",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apexbase",
+    "raw": "Apex military complex",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apexcity",
+    "raw": "Apex city",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apextowerblock",
+    "raw": "Apex city",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apexcamp",
+    "raw": "Apex field camp",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/apexunderwaterlab",
+    "raw": "Apex underwater lab",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianairship",
+    "raw": "Avian airship",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/aviannativevillage",
+    "raw": "Avian native village",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianvillage",
+    "raw": "Avian village",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/aviantemple",
+    "raw": "Avian temple",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/aviantomb",
+    "raw": "Avian crypt",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/aviansilo",
+    "raw": "Avian silo",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/aviantower",
+    "raw": "Avian tower",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianpyramid",
+    "raw": "Avian pyramid",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/aviandeeppyramid",
+    "raw": "Avian deep pyramid",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/avianfloatingislands",
+    "raw": "Avian floating islands",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/aviansacredtemple",
+    "raw": "Avian sacred temple",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/florancanyon",
+    "raw": "Floran canyon",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranhell",
+    "raw": "Floran hell",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranhuntinggrounds",
+    "raw": "Floran hunting grounds",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranhutvillage",
+    "raw": "Floran hut village",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/floranvillagetower",
+    "raw": "Floran village tower",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/greentower",
+    "raw": "Floran green tower",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/dungeoncrawler",
+    "raw": "Glitch dungeon",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/evilfortress",
+    "raw": "Glitch fortress",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitchcastle",
+    "raw": "Glitch castle",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitchvillage",
+    "raw": "Glitch village",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitchsewer",
+    "raw": "Glitch sewer",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitchfarm",
+    "raw": "Glitch farm",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/glitchjoust",
+    "raw": "Glitch joust",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humancamp",
+    "raw": "Human camp",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanprison",
+    "raw": "USCM penal colony",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanbunker",
+    "raw": "Human bunker",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/humanapartments",
+    "raw": "Human apartments",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/uscmbase",
+    "raw": "USCM military base",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlcity",
+    "raw": "Hylotl city",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotloceancity",
+    "raw": "Hylotl underwater settlement",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlruinedcastle",
+    "raw": "Hylotl castle",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlruinedcity",
+    "raw": "Hylotl underwater city ruins",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlvillage",
+    "raw": "Hylotl village",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotloceancityaether",
+    "raw": "Hylotl underwater aether settlement",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlruinedcityaether",
+    "raw": "Hylotl underwater aether ruins",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidvillage",
+    "raw": "Novakid village",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/novakidoutlawcamp",
+    "raw": "Novakid outlaw camp",
+    "value": "星之子非法营地"
+  },
+  {
+    "op": "replace",
+    "path": "/weaponsfactory",
+    "raw": "Weapons factory",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/volcano",
+    "raw": "Volcano",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/waterdungeon",
+    "raw": "Underwater complex",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/oceanfrontcity",
+    "raw": "Ocean city",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fungalden",
+    "raw": "Fungal den",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/alienjungleruins",
+    "raw": "Unknown alien ruins",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/greenruins",
+    "raw": "Unknown green ruins",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fuscifidungeon",
+    "raw": "Science complex",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/wreck",
+    "raw": "Crashed spaceship",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fuwreck",
+    "raw": "Crashed spaceship [FU]",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ship1",
+    "raw": "Unidentified spaceship",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/ancientgateway",
+    "raw": "Gate-like structure",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/naturalcave",
+    "raw": "Mine",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/medic1",
+    "raw": "Vinalisj's Lab",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/caveeentrance",
+    "raw": "Cave Entrance",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/starterhouse",
+    "raw": "Abandoned house",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/lakes",
+    "raw": "Lakes",
+    "value": ""
+  }
+]

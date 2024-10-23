@@ -633,7 +633,7 @@
     "op": "replace",
     "path": "/greeting/default/default/2",
     "raw": "Hello.",
-    "value": "你好"
+    "value": "你好。"
   },
   {
     "op": "replace",

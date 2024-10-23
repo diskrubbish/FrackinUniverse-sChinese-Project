@@ -1,0 +1,272 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/copper",
+    "raw": "Copper",
+    "value": "铜"
+  },
+  {
+    "op": "replace",
+    "path": "/silver",
+    "raw": "Silver",
+    "value": "银"
+  },
+  {
+    "op": "replace",
+    "path": "/gold",
+    "raw": "Gold",
+    "value": "金"
+  },
+  {
+    "op": "replace",
+    "path": "/iron",
+    "raw": "Iron",
+    "value": "铁"
+  },
+  {
+    "op": "replace",
+    "path": "/tungsten",
+    "raw": "Tungsten",
+    "value": "钨"
+  },
+  {
+    "op": "replace",
+    "path": "/corefragment",
+    "raw": "Core Fragment",
+    "value": "星核碎片"
+  },
+  {
+    "op": "replace",
+    "path": "/coal",
+    "raw": "Coal",
+    "value": "煤"
+  },
+  {
+    "op": "replace",
+    "path": "/diamond",
+    "raw": "Diamond",
+    "value": "钻石"
+  },
+  {
+    "op": "replace",
+    "path": "/fossilbone",
+    "raw": "Bones",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/titanium",
+    "raw": "Titanium",
+    "value": "钛"
+  },
+  {
+    "op": "replace",
+    "path": "/durasteel",
+    "raw": "Durasteel",
+    "value": "耐钢"
+  },
+  {
+    "op": "replace",
+    "path": "/ferozium",
+    "raw": "Ferozium",
+    "value": "菲洛"
+  },
+  {
+    "op": "replace",
+    "path": "/aegisalt",
+    "raw": "Aegisalt",
+    "value": "霓磷盐"
+  },
+  {
+    "op": "replace",
+    "path": "/violium",
+    "raw": "Violium",
+    "value": "维奥"
+  },
+  {
+    "op": "replace",
+    "path": "/solarium",
+    "raw": "Solarium",
+    "value": "日耀"
+  },
+  {
+    "op": "replace",
+    "path": "/erchius",
+    "raw": "Crystal Erchius Fuel",
+    "value": "厄尔吉斯晶态燃料"
+  },
+  {
+    "op": "replace",
+    "path": "/algaeore",
+    "raw": "Algae",
+    "value": "藻豆荚"
+  },
+  {
+    "op": "replace",
+    "path": "/magnesium",
+    "raw": "Magnesium",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/lead",
+    "raw": "Lead",
+    "value": "铅"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphur",
+    "raw": "Sulphur",
+    "value": "硫磺"
+  },
+  {
+    "op": "replace",
+    "path": "/effigium",
+    "raw": "Effigium",
+    "value": "幻影矿"
+  },
+  {
+    "op": "replace",
+    "path": "/isogen",
+    "raw": "Isogen",
+    "value": "寒霜矿"
+  },
+  {
+    "op": "replace",
+    "path": "/pyreite",
+    "raw": "Pyreite",
+    "value": "永燃矿"
+  },
+  {
+    "op": "replace",
+    "path": "/xithricite",
+    "raw": "Xithricite",
+    "value": "赛德瑞瑟晶体"
+  },
+  {
+    "op": "replace",
+    "path": "/protocite",
+    "raw": "Protocite",
+    "value": "原体矿"
+  },
+  {
+    "op": "replace",
+    "path": "/penumbrite",
+    "raw": "Penumbrite",
+    "value": "半影矿"
+  },
+  {
+    "op": "replace",
+    "path": "/quietus",
+    "raw": "Quietus",
+    "value": "寂灭矿"
+  },
+  {
+    "op": "replace",
+    "path": "/cinnabar",
+    "raw": "Cinnabar",
+    "value": "朱砂"
+  },
+  {
+    "op": "replace",
+    "path": "/corruption",
+    "raw": "Lasombrium",
+    "value": "混乱原生质"
+  },
+  {
+    "op": "replace",
+    "path": "/densinium",
+    "raw": "Densinium",
+    "value": "超致密"
+  },
+  {
+    "op": "replace",
+    "path": "/fublooddiamond",
+    "raw": "Plasmic Crystal",
+    "value": "血晶"
+  },
+  {
+    "op": "replace",
+    "path": "/irradium",
+    "raw": "Irradium",
+    "value": "镭"
+  },
+  {
+    "op": "replace",
+    "path": "/lunariore",
+    "raw": "Lunari",
+    "value": "月晶碎片"
+  },
+  {
+    "op": "replace",
+    "path": "/moonstone",
+    "raw": "Telebrium",
+    "value": "特勒贝晶体"
+  },
+  {
+    "op": "replace",
+    "path": "/prisilite",
+    "raw": "Prism Shard",
+    "value": "棱镜碎片"
+  },
+  {
+    "op": "replace",
+    "path": "/trianglium",
+    "raw": "Trianglium",
+    "value": "原力矿"
+  },
+  {
+    "op": "replace",
+    "path": "/zerchesium",
+    "raw": "Zerchesium",
+    "value": "高熔点矿"
+  },
+  {
+    "op": "replace",
+    "path": "/plutonium",
+    "raw": "Plutonium",
+    "value": "钚"
+  },
+  {
+    "op": "replace",
+    "path": "/uranium",
+    "raw": "Uranium",
+    "value": "铀"
+  },
+  {
+    "op": "replace",
+    "path": "/neptunium",
+    "raw": "Neptunium",
+    "value": "镎"
+  },
+  {
+    "op": "replace",
+    "path": "/thorium",
+    "raw": "Thorium",
+    "value": "钍"
+  },
+  {
+    "op": "replace",
+    "path": "/crystal",
+    "raw": "Crystal",
+    "value": "水晶"
+  },
+  {
+    "op": "replace",
+    "path": "/junkmod",
+    "raw": "Spare Parts",
+    "value": "备用零件"
+  },
+  {
+    "op": "replace",
+    "path": "/nocxium",
+    "raw": "Nocxium",
+    "value": "诺克石"
+  },
+  {
+    "op": "replace",
+    "path": "/koanite",
+    "raw": "Koanite",
+    "value": "心印石"
+  }
+]

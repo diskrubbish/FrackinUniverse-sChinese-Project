@@ -1,0 +1,74 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/default",
+    "raw": "Mysterious Star",
+    "value": "神秘之星"
+  },
+  {
+    "op": "replace",
+    "path": "/whitestar",
+    "raw": "Gentle Star",
+    "value": "和平的星"
+  },
+  {
+    "op": "replace",
+    "path": "/orangestar",
+    "raw": "Temperate Star",
+    "value": "温和的星"
+  },
+  {
+    "op": "replace",
+    "path": "/yellowstar",
+    "raw": "Radioactive Star",
+    "value": "放射性星"
+  },
+  {
+    "op": "replace",
+    "path": "/bluestar",
+    "raw": "Frozen Star",
+    "value": "寒冷的星"
+  },
+  {
+    "op": "replace",
+    "path": "/redstar",
+    "raw": "Fiery Star",
+    "value": "炽热的星"
+  },
+  {
+    "op": "replace",
+    "path": "/bluesun1",
+    "raw": "Blue Star",
+    "value": "蓝星"
+  },
+  {
+    "op": "replace",
+    "path": "/bluesun2",
+    "raw": "Blue Star",
+    "value": "蓝星"
+  },
+  {
+    "op": "replace",
+    "path": "/redsun1",
+    "raw": "Red Star",
+    "value": "红星"
+  },
+  {
+    "op": "replace",
+    "path": "/dying1",
+    "raw": "Dying Star",
+    "value": "死星"
+  },
+  {
+    "op": "replace",
+    "path": "/blacksun1",
+    "raw": "Black Star",
+    "value": "黑星"
+  },
+  {
+    "op": "replace",
+    "path": "/binary1",
+    "raw": "Binary Star",
+    "value": "双子星"
+  }
+]

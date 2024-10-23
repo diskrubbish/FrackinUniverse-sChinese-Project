@@ -1,0 +1,464 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/garden",
+    "raw": "Lush",
+    "value": "葱郁"
+  },
+  {
+    "op": "replace",
+    "path": "/forest",
+    "raw": "Forest",
+    "value": "森林"
+  },
+  {
+    "op": "replace",
+    "path": "/desert",
+    "raw": "Desert",
+    "value": "沙漠"
+  },
+  {
+    "op": "replace",
+    "path": "/snow",
+    "raw": "Snowy",
+    "value": "雪原"
+  },
+  {
+    "op": "replace",
+    "path": "/savannah",
+    "raw": "Savannah",
+    "value": "草原"
+  },
+  {
+    "op": "replace",
+    "path": "/ocean",
+    "raw": "Oceanic",
+    "value": "海洋"
+  },
+  {
+    "op": "replace",
+    "path": "/toxic",
+    "raw": "Toxic",
+    "value": "毒素"
+  },
+  {
+    "op": "replace",
+    "path": "/jungle",
+    "raw": "Jungle",
+    "value": "丛林"
+  },
+  {
+    "op": "replace",
+    "path": "/alien",
+    "raw": "Alien",
+    "value": "突变"
+  },
+  {
+    "op": "replace",
+    "path": "/arctic",
+    "raw": "Arctic",
+    "value": "极地"
+  },
+  {
+    "op": "replace",
+    "path": "/tundra",
+    "raw": "Tundra",
+    "value": "冻土"
+  },
+  {
+    "op": "replace",
+    "path": "/volcanic",
+    "raw": "Volcanic",
+    "value": "火山"
+  },
+  {
+    "op": "replace",
+    "path": "/midnight",
+    "raw": "Midnight",
+    "value": "黑暗"
+  },
+  {
+    "op": "replace",
+    "path": "/scorchedcity",
+    "raw": "Scorched",
+    "value": "焦灼荒漠"
+  },
+  {
+    "op": "replace",
+    "path": "/magma",
+    "raw": "Lava",
+    "value": "岩浆"
+  },
+  {
+    "op": "replace",
+    "path": "/moon",
+    "raw": "Lunar",
+    "value": "卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/asteroids",
+    "raw": "Asteroids",
+    "value": "小行星带"
+  },
+  {
+    "op": "replace",
+    "path": "/barren",
+    "raw": "Barren",
+    "value": "荒芜"
+  },
+  {
+    "op": "replace",
+    "path": "/ancientgateway",
+    "raw": "Gateway",
+    "value": "远古庇护所"
+  },
+  {
+    "op": "replace",
+    "path": "/aethersea",
+    "raw": "Aether World",
+    "value": "以太世界"
+  },
+  {
+    "op": "replace",
+    "path": "/arcticdark",
+    "raw": "Dark Arctic",
+    "value": "极地(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/arboreal",
+    "raw": "Primeval Forest",
+    "value": "原始森林"
+  },
+  {
+    "op": "replace",
+    "path": "/arboreal2",
+    "raw": "Volcanic Primeval",
+    "value": "原始火山"
+  },
+  {
+    "op": "replace",
+    "path": "/arborealdark",
+    "raw": "Dark Primeval",
+    "value": "原始火山(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/atropus",
+    "raw": "Atropus",
+    "value": "肉源"
+  },
+  {
+    "op": "replace",
+    "path": "/atropusdark",
+    "raw": "Nightmare Atropus",
+    "value": "肉源(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/bloodstone",
+    "raw": "Bloodstone",
+    "value": "血石"
+  },
+  {
+    "op": "replace",
+    "path": "/bloodstonesea",
+    "raw": "Atropus Sea",
+    "value": "肉源海"
+  },
+  {
+    "op": "replace",
+    "path": "/bog",
+    "raw": "Bog",
+    "value": "沼泽"
+  },
+  {
+    "op": "replace",
+    "path": "/crystalmoon",
+    "raw": "Crystalline",
+    "value": "结晶"
+  },
+  {
+    "op": "replace",
+    "path": "/chromatic",
+    "raw": "Chromatic",
+    "value": "多彩"
+  },
+  {
+    "op": "replace",
+    "path": "/desertwastes",
+    "raw": "Red Desert",
+    "value": "红色沙漠"
+  },
+  {
+    "op": "replace",
+    "path": "/desertwastesdark",
+    "raw": "Dark Red Desert",
+    "value": "红色沙漠(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/eden",
+    "raw": "Eden",
+    "value": "伊甸"
+  },
+  {
+    "op": "replace",
+    "path": "/ffunknown",
+    "raw": "Unknown",
+    "value": "未知"
+  },
+  {
+    "op": "replace",
+    "path": "/frozenvolcanic",
+    "raw": "Frozen Volcanic",
+    "value": "冰冻火山"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiant",
+    "raw": "Gas Giant",
+    "value": "气态巨行星"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiant2",
+    "raw": "Gas Giant",
+    "value": "气态巨行星"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiant3",
+    "raw": "Gas Giant",
+    "value": "气态巨行星"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiant4",
+    "raw": "Gas Giant",
+    "value": "气态巨行星"
+  },
+  {
+    "op": "replace",
+    "path": "/fugasgiant5",
+    "raw": "Gas Giant",
+    "value": "气态巨行星"
+  },
+  {
+    "op": "replace",
+    "path": "/fungus",
+    "raw": "Fungal",
+    "value": "真菌"
+  },
+  {
+    "op": "replace",
+    "path": "/icemoon",
+    "raw": "Frozen Moon",
+    "value": "冰封卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/icewaste",
+    "raw": "Ice Waste",
+    "value": "冰冻荒原"
+  },
+  {
+    "op": "replace",
+    "path": "/icewastedark",
+    "raw": "Dark Ice Waste",
+    "value": "冰冻荒原(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/infernus",
+    "raw": "Infernus",
+    "value": "炼狱"
+  },
+  {
+    "op": "replace",
+    "path": "/infernusdark",
+    "raw": "Dark Infernus",
+    "value": "炼狱(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/irradiated",
+    "raw": "Irradiated",
+    "value": "辐射"
+  },
+  {
+    "op": "replace",
+    "path": "/lightless",
+    "raw": "Lightless",
+    "value": "无光"
+  },
+  {
+    "op": "replace",
+    "path": "/magmadark",
+    "raw": "Dark Magma",
+    "value": "岩浆(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/metallicmoon",
+    "raw": "Cyber Sphere",
+    "value": "赛博"
+  },
+  {
+    "op": "replace",
+    "path": "/moon_toxic",
+    "raw": "Toxic Moon",
+    "value": "毒素卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/moon_desert",
+    "raw": "Desert Moon",
+    "value": "沙漠卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/moon_stone",
+    "raw": "Rocky Moon",
+    "value": "石块卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/moon_shadow",
+    "raw": "Shadow Moon",
+    "value": "暗影卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/moon_volcanic",
+    "raw": "Volcanic Moon",
+    "value": "火山月亮"
+  },
+  {
+    "op": "replace",
+    "path": "/moon_metallic",
+    "raw": "Shadow Moon",
+    "value": "暗影卫星"
+  },
+  {
+    "op": "replace",
+    "path": "/mountainous",
+    "raw": "Mountainous",
+    "value": "山脉"
+  },
+  {
+    "op": "replace",
+    "path": "/nitrogensea",
+    "raw": "Nitrogen Sea",
+    "value": "液氮海"
+  },
+  {
+    "op": "replace",
+    "path": "/penumbra",
+    "raw": "Penumbra",
+    "value": "半影"
+  },
+  {
+    "op": "replace",
+    "path": "/protoworld",
+    "raw": "Proto World",
+    "value": "原毒"
+  },
+  {
+    "op": "replace",
+    "path": "/protoworlddark",
+    "raw": "Shadow Proto World",
+    "value": "原毒(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/shadow",
+    "raw": "Shadow",
+    "value": "暗影"
+  },
+  {
+    "op": "replace",
+    "path": "/slimeworld",
+    "raw": "Gelatinous",
+    "value": "凝胶"
+  },
+  {
+    "op": "replace",
+    "path": "/snowdark",
+    "raw": "Dark Snow",
+    "value": "雪原(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/strangesea",
+    "raw": "Strange Sea",
+    "value": "诡之海"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphuric",
+    "raw": "Sulphuric",
+    "value": "硫酸"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphuricdark",
+    "raw": "Dark Sulphur",
+    "value": "硫酸(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/sulphuricocean",
+    "raw": "Sulphur Sea",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/superdense",
+    "raw": "Super Dense",
+    "value": "气态巨行星"
+  },
+  {
+    "op": "replace",
+    "path": "/tabularasa",
+    "raw": "Tabula Rasa",
+    "value": "无人区"
+  },
+  {
+    "op": "replace",
+    "path": "/tarball",
+    "raw": "Tar Ball",
+    "value": "焦油"
+  },
+  {
+    "op": "replace",
+    "path": "/thickjungle",
+    "raw": "Rainforest",
+    "value": "雨林"
+  },
+  {
+    "op": "replace",
+    "path": "/tidewater",
+    "raw": "Tidewater",
+    "value": "潮汐"
+  },
+  {
+    "op": "replace",
+    "path": "/tundradark",
+    "raw": "Dark Tundra",
+    "value": "苔原(黑夜)"
+  },
+  {
+    "op": "replace",
+    "path": "/urbanwasteland",
+    "raw": "Wasteland",
+    "value": "废土"
+  },
+  {
+    "op": "replace",
+    "path": "/unknown",
+    "raw": "Spaceship",
+    "value": ""
+  }
+]
