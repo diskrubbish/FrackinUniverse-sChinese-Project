@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
     "raw": "^orange;Kitchen Counter^reset;",
-    "value": "^orange;厨房柜台^reset;"
+    "value": "^orange;厨房灶台^reset;"
   },
   {
     "op": "replace",
@@ -63,7 +63,7 @@
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " ^#b9b5b2;Delicious food.",
-    "value": " ^#b9b5b1;佳肴美味。"
+    "value": " ^#b9b5b2;美味佳肴。"
   },
   {
     "op": "replace",
@@ -75,7 +75,7 @@
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
     "raw": "^orange;Chef's Kitchen^reset;",
-    "value": "^orange;大厨厨房^reset;"
+    "value": "^orange;主厨厨房^reset;"
   },
   {
     "op": "replace",
@@ -123,12 +123,12 @@
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
     "raw": " Chef's Kitchen",
-    "value": " 大厨厨房"
+    "value": "主厨厨房"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " ^#b9b5b2;A much nicer kitchen.",
-    "value": " ^#b9b5b1;更棒的厨房。"
+    "value": " ^#b9b5b2;更好更棒的厨房。"
   }
 ]

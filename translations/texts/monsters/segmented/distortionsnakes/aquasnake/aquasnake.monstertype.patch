@@ -2,13 +2,13 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "raw": "The head of a aqua sphere snake",
-    "value": "水色球蛇的头部"
+    "raw": "The head of an aqua sphere snake.",
+    "value": ""
   },
   {
     "op": "replace",
     "path": "/description",
-    "raw": "A snake-like construct composed of aqua distortion spheres",
-    "value": "由水溶性球体组成的蛇形组织"
+    "raw": "A snake-like construct composed of aqua distortion spheres.",
+    "value": ""
   }
 ]

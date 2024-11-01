@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "raw": "A top-of-the-line medical station.",
-    "value": "一流的医疗站。"
+    "value": "一座顶级的医疗站。"
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
     "raw": "This gives me the ability to heal and rejuvenate after incurring damage.",
-    "value": "这个给予了我在受到伤害后治疗与康复的能力。"
+    "value": "这让我在我在受到伤害后有治疗与康复的能力。"
   },
   {
     "op": "replace",

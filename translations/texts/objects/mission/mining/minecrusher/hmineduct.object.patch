@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "A duct for transport rocks.",
-    "value": "一种用于传送岩石的输送管。"
+    "raw": "A duct for transporting rocks.",
+    "value": ""
   },
   {
     "op": "replace",
@@ -14,14 +14,14 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "raw": "An industrial machine, used for transporting across rocks.",
-    "value": "一种工业用机器，用于传送岩石。"
+    "raw": "An industrial machine, used for transporting rocks across.",
+    "value": ""
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "raw": "A machine used for down rocks.",
-    "value": "一种用于传下岩石的机器。"
+    "raw": "A machine used for transporting rocks.",
+    "value": ""
   },
   {
     "op": "replace",
@@ -38,8 +38,8 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "raw": "A machine used for transport across rocks.",
-    "value": "一种用于传送岩石的机器。"
+    "raw": "A machine used for transporting rocks across.",
+    "value": ""
   },
   {
     "op": "replace",

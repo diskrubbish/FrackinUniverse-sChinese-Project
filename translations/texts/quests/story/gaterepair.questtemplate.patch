@@ -3,19 +3,19 @@
     "op": "replace",
     "path": "/scriptConfig/descriptions/collectRepairItem",
     "raw": "Locate the ^orange;Energy Source^reset; in the ^green;Cavern^reset;.",
-    "value": ""
+    "value": "定位位于^green;洞穴^reset;中的^orange;能量源^reset;。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/descriptions/findGate",
     "raw": "Find the source of the ^green;Welcoming Beacon^reset;.",
-    "value": ""
+    "value": "找到^green;迎宾信标^reset;的源头。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/descriptions/makeTable",
     "raw": "Complete the objectives given by ^green;Vinalisj^reset;.",
-    "value": ""
+    "value": "完成^green;维纳利斯^reset;给出的目标。"
   },
   {
     "op": "replace",

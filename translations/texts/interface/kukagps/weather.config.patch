@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/clear",
     "raw": "Clear",
-    "value": ""
+    "value": "晴天"
   },
   {
     "op": "replace",
@@ -393,7 +393,7 @@
     "op": "replace",
     "path": "/poisongasstorm3",
     "raw": "Extreme Poison Gas",
-    "value": ""
+    "value": "极端毒气"
   },
   {
     "op": "replace",

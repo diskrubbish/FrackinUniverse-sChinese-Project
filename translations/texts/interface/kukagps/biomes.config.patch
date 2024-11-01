@@ -381,7 +381,7 @@
     "op": "replace",
     "path": "/sulphuricocean",
     "raw": "Sulphur Sea",
-    "value": ""
+    "value": "硫酸海"
   },
   {
     "op": "replace",
@@ -429,13 +429,13 @@
     "op": "replace",
     "path": "/unknown",
     "raw": "Spaceship",
-    "value": ""
+    "value": "宇宙飞船"
   },
   {
     "op": "replace",
     "path": "/abandonedmines",
     "raw": "Abandoned Mines",
-    "value": ""
+    "value": "废弃矿坑"
   },
   {
     "op": "replace",
@@ -477,7 +477,7 @@
     "op": "replace",
     "path": "/alpine",
     "raw": "Alpine",
-    "value": ""
+    "value": "高山"
   },
   {
     "op": "replace",
@@ -495,7 +495,7 @@
     "op": "replace",
     "path": "/arcticoceanfloor",
     "raw": "Arctic Ocean Floor",
-    "value": ""
+    "value": "冰洋海底"
   },
   {
     "op": "replace",
@@ -519,7 +519,7 @@
     "op": "replace",
     "path": "/atmosphere",
     "raw": "Atmosphere",
-    "value": ""
+    "value": "大气"
   },
   {
     "op": "replace",
@@ -531,7 +531,7 @@
     "op": "replace",
     "path": "/atropusbonecaves",
     "raw": "Bone Caves (Atropus)",
-    "value": ""
+    "value": "骨头洞穴（肉源）"
   },
   {
     "op": "replace",
@@ -555,13 +555,13 @@
     "op": "replace",
     "path": "/atropuselder",
     "raw": "Horrific Field",
-    "value": ""
+    "value": "恐怖平原"
   },
   {
     "op": "replace",
     "path": "/atropuselderunderground",
     "raw": "Horrific Caverns",
-    "value": ""
+    "value": "恐怖洞穴"
   },
   {
     "op": "replace",
@@ -621,31 +621,31 @@
     "op": "replace",
     "path": "/barren2",
     "raw": "Barren II",
-    "value": ""
+    "value": "荒芜II"
   },
   {
     "op": "replace",
     "path": "/barren3",
     "raw": "Barren III",
-    "value": ""
+    "value": "荒芜III"
   },
   {
     "op": "replace",
     "path": "/barrenasteroids",
     "raw": "Barren Asteroids",
-    "value": ""
+    "value": "荒芜小行星"
   },
   {
     "op": "replace",
     "path": "/barrenunderground",
     "raw": "Barren Underground",
-    "value": ""
+    "value": "荒芜地下"
   },
   {
     "op": "replace",
     "path": "/bioluminescence",
     "raw": "Bioluminescence",
-    "value": ""
+    "value": "发光生物群落"
   },
   {
     "op": "replace",
@@ -669,7 +669,7 @@
     "op": "replace",
     "path": "/blaststonecorelayer",
     "raw": "Blaststone Core Layer",
-    "value": ""
+    "value": "爆石核心层"
   },
   {
     "op": "replace",
@@ -723,7 +723,7 @@
     "op": "replace",
     "path": "/bones",
     "raw": "Bones",
-    "value": ""
+    "value": "骨骼"
   },
   {
     "op": "replace",
@@ -747,7 +747,7 @@
     "op": "replace",
     "path": "/cellcaves",
     "raw": "Cell Caves",
-    "value": ""
+    "value": "细胞洞窟"
   },
   {
     "op": "replace",
@@ -771,7 +771,7 @@
     "op": "replace",
     "path": "/charred",
     "raw": "Charred",
-    "value": ""
+    "value": "焦土"
   },
   {
     "op": "replace",
@@ -801,13 +801,13 @@
     "op": "replace",
     "path": "/colorfulcave",
     "raw": "Colorful Cave",
-    "value": ""
+    "value": "多彩洞窟"
   },
   {
     "op": "replace",
     "path": "/colourful",
     "raw": "Colourful",
-    "value": ""
+    "value": "多彩"
   },
   {
     "op": "replace",
@@ -855,7 +855,7 @@
     "op": "replace",
     "path": "/crystalcave",
     "raw": "Crystal Cave",
-    "value": ""
+    "value": "水晶洞穴"
   },
   {
     "op": "replace",
@@ -909,7 +909,7 @@
     "op": "replace",
     "path": "/cyberspace",
     "raw": "Cyberspace",
-    "value": ""
+    "value": "赛博空间"
   },
   {
     "op": "replace",
@@ -969,7 +969,7 @@
     "op": "replace",
     "path": "/earth",
     "raw": "Earth",
-    "value": ""
+    "value": "地球"
   },
   {
     "op": "replace",
@@ -1065,7 +1065,7 @@
     "op": "replace",
     "path": "/eyepatch",
     "raw": "Eyepatch",
-    "value": ""
+    "value": "遮目"
   },
   {
     "op": "replace",
@@ -1281,7 +1281,7 @@
     "op": "replace",
     "path": "/fleshcaves",
     "raw": "Flesh Caves",
-    "value": ""
+    "value": "血肉洞窟"
   },
   {
     "op": "replace",
@@ -1293,7 +1293,7 @@
     "op": "replace",
     "path": "/flesh",
     "raw": "Flesh",
-    "value": ""
+    "value": "血肉"
   },
   {
     "op": "replace",
@@ -1413,7 +1413,7 @@
     "op": "replace",
     "path": "/gardencorelayer",
     "raw": "Garden Core Layer",
-    "value": ""
+    "value": "花园核心层"
   },
   {
     "op": "replace",
@@ -1443,7 +1443,7 @@
     "op": "replace",
     "path": "/giantflowers",
     "raw": "Giant Flowers",
-    "value": ""
+    "value": "巨花"
   },
   {
     "op": "replace",
@@ -1503,7 +1503,7 @@
     "op": "replace",
     "path": "/hiveold",
     "raw": "Old Hive",
-    "value": ""
+    "value": "古老蜂巢"
   },
   {
     "op": "replace",
@@ -1521,7 +1521,7 @@
     "op": "replace",
     "path": "/icecaves",
     "raw": "Ice Caves",
-    "value": ""
+    "value": "冰冻洞穴"
   },
   {
     "op": "replace",
@@ -1611,7 +1611,7 @@
     "op": "replace",
     "path": "/luminouscaves",
     "raw": "Luminous Caves",
-    "value": ""
+    "value": "光洞窟"
   },
   {
     "op": "replace",
@@ -1629,13 +1629,13 @@
     "op": "replace",
     "path": "/magmaoceanfloor",
     "raw": "Magma Ocean Floor",
-    "value": ""
+    "value": "岩浆海床"
   },
   {
     "op": "replace",
     "path": "/magmarockcorelayer",
     "raw": "Magmarock Core Layer",
-    "value": ""
+    "value": "岩浆岩核心层"
   },
   {
     "op": "replace",
@@ -1731,13 +1731,13 @@
     "op": "replace",
     "path": "/minivillage",
     "raw": "Mini Village",
-    "value": ""
+    "value": "小型村落"
   },
   {
     "op": "replace",
     "path": "/mooncorelayer",
     "raw": "Moon Core Layer",
-    "value": ""
+    "value": "卫星核心层"
   },
   {
     "op": "replace",
@@ -1767,7 +1767,7 @@
     "op": "replace",
     "path": "/moonunderground",
     "raw": "Lunar Underground",
-    "value": ""
+    "value": "月面地下"
   },
   {
     "op": "replace",
@@ -1803,7 +1803,7 @@
     "op": "replace",
     "path": "/mushroompatch",
     "raw": "Mushroom Patch",
-    "value": ""
+    "value": "蘑菇地"
   },
   {
     "op": "replace",
@@ -1833,31 +1833,31 @@
     "op": "replace",
     "path": "/oasis",
     "raw": "Oasis",
-    "value": ""
+    "value": "绿洲"
   },
   {
     "op": "replace",
     "path": "/obsidiancorelayer",
     "raw": "Obsidian Core Layer",
-    "value": ""
+    "value": "黑曜石核心层"
   },
   {
     "op": "replace",
     "path": "/oceanfloor",
     "raw": "Tropical Ocean Floor",
-    "value": ""
+    "value": "热带海床"
   },
   {
     "op": "replace",
     "path": "/oceanmission",
     "raw": "Ocean Mission",
-    "value": ""
+    "value": "远海"
   },
   {
     "op": "replace",
     "path": "/ocean",
     "raw": "Tropical Ocean",
-    "value": ""
+    "value": "热带海洋"
   },
   {
     "op": "replace",
@@ -1887,7 +1887,7 @@
     "op": "replace",
     "path": "/outpost",
     "raw": "Outpost",
-    "value": ""
+    "value": "前哨站"
   },
   {
     "op": "replace",
@@ -1941,7 +1941,7 @@
     "op": "replace",
     "path": "/prism",
     "raw": "Prism",
-    "value": ""
+    "value": "棱镜"
   },
   {
     "op": "replace",
@@ -1977,13 +1977,13 @@
     "op": "replace",
     "path": "/rocky",
     "raw": "Rocky",
-    "value": ""
+    "value": "岩地"
   },
   {
     "op": "replace",
     "path": "/rust",
     "raw": "Rust",
-    "value": ""
+    "value": "锈蚀"
   },
   {
     "op": "replace",
@@ -1995,7 +1995,7 @@
     "op": "replace",
     "path": "/scorched",
     "raw": "Scorched Wasteland",
-    "value": ""
+    "value": "灼热废土"
   },
   {
     "op": "replace",
@@ -2007,7 +2007,7 @@
     "op": "replace",
     "path": "/shroomcave",
     "raw": "Shroom Cave",
-    "value": ""
+    "value": "蘑菇洞窟"
   },
   {
     "op": "replace",
@@ -2019,7 +2019,7 @@
     "op": "replace",
     "path": "/slimecaves",
     "raw": "Slime Caves",
-    "value": ""
+    "value": "黏液洞穴"
   },
   {
     "op": "replace",
@@ -2043,7 +2043,7 @@
     "op": "replace",
     "path": "/space",
     "raw": "Space",
-    "value": ""
+    "value": "太空"
   },
   {
     "op": "replace",
@@ -2067,13 +2067,13 @@
     "op": "replace",
     "path": "/steamspring",
     "raw": "Steamspring",
-    "value": ""
+    "value": "蒸汽泉"
   },
   {
     "op": "replace",
     "path": "/stonecaves",
     "raw": "Stone Caves",
-    "value": ""
+    "value": "岩石洞穴"
   },
   {
     "op": "replace",
@@ -2145,7 +2145,7 @@
     "op": "replace",
     "path": "/swamp",
     "raw": "Swamp",
-    "value": ""
+    "value": "沼泽"
   },
   {
     "op": "replace",
@@ -2157,7 +2157,7 @@
     "op": "replace",
     "path": "/tarpit",
     "raw": "Tarpit",
-    "value": ""
+    "value": "焦油坑"
   },
   {
     "op": "replace",
@@ -2199,121 +2199,121 @@
     "op": "replace",
     "path": "/toxicoceanfloor",
     "raw": "Toxic Ocean Floor",
-    "value": ""
+    "value": "毒素海床"
   },
   {
     "op": "replace",
     "path": "/underground0a",
     "raw": "Underground0a",
-    "value": ""
+    "value": "地下0a"
   },
   {
     "op": "replace",
     "path": "/underground0b",
     "raw": "Underground0b",
-    "value": ""
+    "value": "地下0b"
   },
   {
     "op": "replace",
     "path": "/underground0c",
     "raw": "Underground0c",
-    "value": ""
+    "value": "地下0c"
   },
   {
     "op": "replace",
     "path": "/underground0d",
     "raw": "Underground0d",
-    "value": ""
+    "value": "地下0d"
   },
   {
     "op": "replace",
     "path": "/underground1a",
     "raw": "Underground1a",
-    "value": ""
+    "value": "地下1a"
   },
   {
     "op": "replace",
     "path": "/underground1b",
     "raw": "Underground1b",
-    "value": ""
+    "value": "地下1b"
   },
   {
     "op": "replace",
     "path": "/underground1c",
     "raw": "Underground1c",
-    "value": ""
+    "value": "地下1c"
   },
   {
     "op": "replace",
     "path": "/underground1d",
     "raw": "Underground1d",
-    "value": ""
+    "value": "地下1d"
   },
   {
     "op": "replace",
     "path": "/underground3a",
     "raw": "Underground3a",
-    "value": ""
+    "value": "地下3a"
   },
   {
     "op": "replace",
     "path": "/underground3b",
     "raw": "Underground3b",
-    "value": ""
+    "value": "地下3b"
   },
   {
     "op": "replace",
     "path": "/underground3c",
     "raw": "Underground3c",
-    "value": ""
+    "value": "地下3c"
   },
   {
     "op": "replace",
     "path": "/underground3d",
     "raw": "Underground3d",
-    "value": ""
+    "value": "地下3d"
   },
   {
     "op": "replace",
     "path": "/underground5a",
     "raw": "Underground5a",
-    "value": ""
+    "value": "地下5a"
   },
   {
     "op": "replace",
     "path": "/underground5b",
     "raw": "Underground5b",
-    "value": ""
+    "value": "地下5b"
   },
   {
     "op": "replace",
     "path": "/underground5c",
     "raw": "Underground5c",
-    "value": ""
+    "value": "地下5c"
   },
   {
     "op": "replace",
     "path": "/underground5d",
     "raw": "Underground5d",
-    "value": ""
+    "value": "地下5d"
   },
   {
     "op": "replace",
     "path": "/undergroundbrainssolid",
     "raw": "Underground Solid Brains",
-    "value": ""
+    "value": "地下坚固大脑"
   },
   {
     "op": "replace",
     "path": "/undergroundbrains",
     "raw": "Underground Brains",
-    "value": ""
+    "value": "地下大脑"
   },
   {
     "op": "replace",
     "path": "/undergroundtentacles",
     "raw": "Underground Tentacles",
-    "value": ""
+    "value": "地下触手"
   },
   {
     "op": "replace",
@@ -2331,7 +2331,7 @@
     "op": "replace",
     "path": "/volcanicterraform",
     "raw": "Volcanic (Terraformed)",
-    "value": ""
+    "value": "火山（地型）"
   },
   {
     "op": "replace",
@@ -2361,12 +2361,12 @@
     "op": "replace",
     "path": "/wilderness",
     "raw": "Wilderness",
-    "value": ""
+    "value": "荒野"
   },
   {
     "op": "replace",
     "path": "/zen",
     "raw": "Zen Caves",
-    "value": ""
+    "value": "禅思洞穴"
   }
 ]

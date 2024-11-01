@@ -3,121 +3,121 @@
     "op": "replace",
     "path": "/biomeairless",
     "raw": "Vacuum",
-    "value": ""
+    "value": "真空"
   },
   {
     "op": "replace",
     "path": "/biomecold",
     "raw": "Mild Cold",
-    "value": ""
+    "value": "轻度寒冷"
   },
   {
     "op": "replace",
     "path": "/biomeheat",
     "raw": "Mild Heat",
-    "value": ""
+    "value": "轻度炎热"
   },
   {
     "op": "replace",
     "path": "/biomeradiation",
     "raw": "Mild Radiation",
-    "value": ""
+    "value": "轻度辐射"
   },
   {
     "op": "replace",
     "path": "/ffextremecold",
     "raw": "Extreme Cold",
-    "value": ""
+    "value": "极端寒冷"
   },
   {
     "op": "replace",
     "path": "/ffextremeheat",
     "raw": "Extreme Heat",
-    "value": ""
+    "value": "极端炎热"
   },
   {
     "op": "replace",
     "path": "/ffextremeradiation",
     "raw": "Extreme Radiation",
-    "value": ""
+    "value": "极端辐射"
   },
   {
     "op": "replace",
     "path": "/ffbiomecold1",
     "raw": "Mild Cold",
-    "value": ""
+    "value": "轻度寒冷"
   },
   {
     "op": "replace",
     "path": "/ffbiomecold2",
     "raw": "Moderate Cold",
-    "value": ""
+    "value": "严酷寒冷"
   },
   {
     "op": "replace",
     "path": "/ffbiomecold3",
     "raw": "Extreme Cold",
-    "value": ""
+    "value": "极端寒冷"
   },
   {
     "op": "replace",
     "path": "/ffbiomecold4",
     "raw": "Lethal Cold",
-    "value": ""
+    "value": "致命严寒"
   },
   {
     "op": "replace",
     "path": "/ffbiomeheat1",
     "raw": "Mild Heat",
-    "value": ""
+    "value": "轻度炎热"
   },
   {
     "op": "replace",
     "path": "/ffbiomeheat2",
     "raw": "Moderate Heat",
-    "value": ""
+    "value": "严酷炎热"
   },
   {
     "op": "replace",
     "path": "/ffbiomeheat3",
     "raw": "Extreme Heat",
-    "value": ""
+    "value": "极端炎热"
   },
   {
     "op": "replace",
     "path": "/ffbiomeheat4",
     "raw": "Lethal Heat",
-    "value": ""
+    "value": "致命炎热"
   },
   {
     "op": "replace",
     "path": "/radioactiveweathernew",
     "raw": "Mild Radiation",
-    "value": ""
+    "value": "轻度辐射"
   },
   {
     "op": "replace",
     "path": "/radioactiveweathernew2",
     "raw": "Moderate Radiation",
-    "value": ""
+    "value": "严酷辐射"
   },
   {
     "op": "replace",
     "path": "/radioactiveweathernew3",
     "raw": "Extreme Radiation",
-    "value": ""
+    "value": "极端辐射"
   },
   {
     "op": "replace",
     "path": "/protoweather",
     "raw": "Proto-Poison",
-    "value": ""
+    "value": "原毒"
   },
   {
     "op": "replace",
     "path": "/insanitynew",
     "raw": "Insanity",
-    "value": ""
+    "value": "精神错乱"
   },
   {
     "op": "replace",
@@ -129,13 +129,13 @@
     "op": "replace",
     "path": "/sulphuricweathernew",
     "raw": "Acidic Atmosphere",
-    "value": ""
+    "value": "酸性大气"
   },
   {
     "op": "replace",
     "path": "/ffextremesulphuric",
     "raw": "Sulphuric Atmosphere",
-    "value": ""
+    "value": "硫酸大气"
   },
   {
     "op": "replace",
@@ -153,12 +153,12 @@
     "op": "replace",
     "path": "/biomepoison2",
     "raw": "Poisonous Gas",
-    "value": ""
+    "value": "毒气"
   },
   {
     "op": "replace",
     "path": "/poisongas",
     "raw": "Poisonous Gas II",
-    "value": ""
+    "value": "毒气II"
   }
 ]

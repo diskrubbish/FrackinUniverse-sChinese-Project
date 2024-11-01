@@ -1,0 +1,20 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/title",
+    "raw": "MAdness Loss Tracker",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "raw": "This isn't visible",
+    "value": "这玩意不可见"
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "raw": "You shouldn't be able to see this in your log.",
+    "value": "你不应该在日志中看到这个。"
+  }
+]

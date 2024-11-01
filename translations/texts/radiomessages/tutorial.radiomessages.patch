@@ -22,5 +22,83 @@
     "path": "/fu_pickupgravgun/text",
     "raw": "It appears you have obtained an upgrade to your ^cyan;Matter Manipulator^reset;. Using the ^orange;Shift + Secondary^reset; functionality of your ^green;Tricorder^reset;, you can replace your current device.",
     "value": "看起来你已经获得了一个升级版的^cyan;物质枪^reset;。通过使用你^green;三度仪^reset;的^orange;的Shift + 右键^reset;功能，你可以替换掉当前的设备。"
+  },
+  {
+    "op": "replace",
+    "path": "/fu_useFreud/text",
+    "raw": "The ^orange;Instafreud^reset; reduces ^cyan;madness^reset;, helping even the most insane scientists come back from the worst possible mental traumas. It is the only guaranteed way to tame the voices in your head. You can also reduce Madness with crew, gear or consumables.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fu_useMarket/text",
+    "raw": "The ^orange;Market^reset; provides a wealth of unique finds for sale to researchers and visitors alike, regardless of their affiliation. Some shopkeeps will provide quests from time to time, as well. I advise perusing every store : you never know what you'll find!",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fu_useBooze/text",
+    "raw": "The ^orange;Tavern^reset; provides entertainment and legal intoxicants to off-the-clock staff or visitors to the Science Outpost. While not all of us partake, some alcohol provides useful boons when ingested. After the ^orange;Tavern^reset; you'll find nothing of interest to investigate.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fu_useDrugs1/text",
+    "raw": "Ah, the garbage area. What else needs to be said? One thing is for certain: you most assuredly have no interest in continuing further, past the next door. Nothing of use awaits. Just turn back and do not proceed. It's better that way.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fu_useDrugs2/text",
+    "raw": "So...you didn't listen. No worries. Whatever you do, do not speak with the X'i over there. He is not interesting or at all worth hanging out with. Not even a little. Ignore him. He doesn't have narcotics or illegal substances.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fu_useBees/text",
+    "raw": "If you are an avid beekeeper, this is where you'll want to head to eschew yourself of excess Queens and Drones that do not meet your requirements. In exchange, you'll garner income and rare resources.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fu_useKevin/text",
+    "raw": "Nothing of interest lies below this point. You should definitely not proceed downward.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fu_useKevin2/text",
+    "raw": "No good can come of going further. Turn back.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fu_useKevin3/text",
+    "raw": "Contrary to the poster on the wall, there will soon be a reason to be upset If you keep going. You might end up in a conversation with ^cyan;Kevin^reset;. This is best avoided for the rest of your natural life if you have any intent of remaining sane. You were warned.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fu_useStarbucks/text",
+    "raw": "Yes, we have a ^orange;Starbucks^reset;. It's been here as long as anyone remembers: We cannot find the agreement we signed, nor have Starbucks been able to do so, that led to it being set up here. We have simply learned to accept it. ^cyan;Kevin^reset; without caffeine is not a thing you want to see.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fu_useBathroom/text",
+    "raw": "Various species expel their waste within this room. Except ^cyan;Kevin^reset;. Nobody has any clue where he goes to the bathroom, but he has never once used this facility other than as temporary storage for large carnivorous reptiles. ^cyan;Kevin^reset; maintains that this was necessary.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fu_useMusicAward/text",
+    "raw": "^cyan;Kevin^reset; insists he was given this award for the best-selling album of all time among Mantizi culture :^yellow;'Holy Crap, Look At The Size of that Sandwich!'^reset;. No proof has ever been provided. It is best to assume this is bullshit.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/fu_useTrough/text",
+    "raw": "^orange;Troughs^reset; provide a place to store food for your farm animals. When one of them becomes hungry, they will seek food there. With enough food they'll become happy, which increases their chance to produce offspring if a viable mate is nearby!",
+    "value": ""
   }
 ]

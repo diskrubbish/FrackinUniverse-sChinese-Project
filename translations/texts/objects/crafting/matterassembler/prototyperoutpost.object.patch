@@ -26,8 +26,8 @@
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
-    "raw": "Create more complicated gear",
-    "value": "制造更复杂的设备"
+    "raw": "Create more complicated gear.",
+    "value": ""
   },
   {
     "op": "replace",
