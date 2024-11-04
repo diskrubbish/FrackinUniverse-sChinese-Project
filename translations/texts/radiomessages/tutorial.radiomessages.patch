@@ -27,78 +27,78 @@
     "op": "replace",
     "path": "/fu_useFreud/text",
     "raw": "The ^orange;Instafreud^reset; reduces ^cyan;madness^reset;, helping even the most insane scientists come back from the worst possible mental traumas. It is the only guaranteed way to tame the voices in your head. You can also reduce Madness with crew, gear or consumables.",
-    "value": ""
+    "value": "^orange;虚拟弗洛伊德^reset;能够降低^cyan;疯癫值^reset;，甚至能帮助最疯狂的科学家从最严重的心理创伤中恢复过来。这是唯一能够确保驯服你脑中声音的方法。你也可以通过船员、装备或消耗品来降低疯癫值。"
   },
   {
     "op": "replace",
     "path": "/fu_useMarket/text",
     "raw": "The ^orange;Market^reset; provides a wealth of unique finds for sale to researchers and visitors alike, regardless of their affiliation. Some shopkeeps will provide quests from time to time, as well. I advise perusing every store : you never know what you'll find!",
-    "value": ""
+    "value": "^orange;市场^reset;提供了丰富独特的物品出售给研究人员和游客，不管他们属于哪个组织。一些商店也会不时提供任务。我建议仔细研究每一家商店：你永远不知道你会找到什么！"
   },
   {
     "op": "replace",
     "path": "/fu_useBooze/text",
     "raw": "The ^orange;Tavern^reset; provides entertainment and legal intoxicants to off-the-clock staff or visitors to the Science Outpost. While not all of us partake, some alcohol provides useful boons when ingested. After the ^orange;Tavern^reset; you'll find nothing of interest to investigate.",
-    "value": ""
+    "value": "^orange;酒馆^reset;为下班后的员工或科学前哨站的访客提供娱乐和合法的麻醉剂。虽然并非所有人都会参与，但一些酒精在摄入后能提供有用的好处。在^orange;酒馆^reset;后面，你也找不到啥值得调查的了，对吧。"
   },
   {
     "op": "replace",
     "path": "/fu_useDrugs1/text",
     "raw": "Ah, the garbage area. What else needs to be said? One thing is for certain: you most assuredly have no interest in continuing further, past the next door. Nothing of use awaits. Just turn back and do not proceed. It's better that way.",
-    "value": ""
+    "value": "啊，垃圾区。还有啥要说的？有一点很确定：你绝对对继续往前没有兴趣，过了下一扇门。没有任何有用的东西会等你。最好掉头，不要往前。那样做比较好。"
   },
   {
     "op": "replace",
     "path": "/fu_useDrugs2/text",
     "raw": "So...you didn't listen. No worries. Whatever you do, do not speak with the X'i over there. He is not interesting or at all worth hanging out with. Not even a little. Ignore him. He doesn't have narcotics or illegal substances.",
-    "value": ""
+    "value": "所以...你没听进去。别担心。无论你做什么，都不要和那边的艾肯说话。他很无趣，一点也不值得交往。一点必要都没有。请忽无视他。他哪儿没有毒品或非法物质。"
   },
   {
     "op": "replace",
     "path": "/fu_useBees/text",
     "raw": "If you are an avid beekeeper, this is where you'll want to head to eschew yourself of excess Queens and Drones that do not meet your requirements. In exchange, you'll garner income and rare resources.",
-    "value": ""
+    "value": "如果你是一个热衷于养蜂的人，这就是你想要前往的地方，摆脱那些不符合你要求的多余蜂后和工蜂。作为交换，你将获得收入和稀有资源。"
   },
   {
     "op": "replace",
     "path": "/fu_useKevin/text",
     "raw": "Nothing of interest lies below this point. You should definitely not proceed downward.",
-    "value": ""
+    "value": "此处往下绝无任何有趣之处。你绝对不应该继续向下前进。"
   },
   {
     "op": "replace",
     "path": "/fu_useKevin2/text",
     "raw": "No good can come of going further. Turn back.",
-    "value": ""
+    "value": "前进没有好结果。回头吧。"
   },
   {
     "op": "replace",
     "path": "/fu_useKevin3/text",
     "raw": "Contrary to the poster on the wall, there will soon be a reason to be upset If you keep going. You might end up in a conversation with ^cyan;Kevin^reset;. This is best avoided for the rest of your natural life if you have any intent of remaining sane. You were warned.",
-    "value": ""
+    "value": "与墙上的海报相反，如果你继续下去，很快你就会有理由地感到不安。你也许最终会与^cyan;凯文^reset;交谈。如果你打算保持理智，最好在余生中避免这种情况。你已经被警告过了。"
   },
   {
     "op": "replace",
     "path": "/fu_useStarbucks/text",
     "raw": "Yes, we have a ^orange;Starbucks^reset;. It's been here as long as anyone remembers: We cannot find the agreement we signed, nor have Starbucks been able to do so, that led to it being set up here. We have simply learned to accept it. ^cyan;Kevin^reset; without caffeine is not a thing you want to see.",
-    "value": ""
+    "value": "是的，我们这里有一家^orange;星八克^reset;。它在这里已经存在很久了，久到大家都记不清了：我们找不到我们签署的协议，星八克也找不到，就这样被，它在这里建起来啦。我们只是学会了接受。要是^cyan;凯文^reset;没咖啡因也没你看见的那么畜。"
   },
   {
     "op": "replace",
     "path": "/fu_useBathroom/text",
     "raw": "Various species expel their waste within this room. Except ^cyan;Kevin^reset;. Nobody has any clue where he goes to the bathroom, but he has never once used this facility other than as temporary storage for large carnivorous reptiles. ^cyan;Kevin^reset; maintains that this was necessary.",
-    "value": ""
+    "value": "这个房间里各种物种都会排泄废物，除了^cyan;凯文^reset;。没人知道他上厕所的地方，但他从未在这里如厕，只是把这里当作大型食肉爬行动物的临时存放地。^cyan;凯文^reset;坚持认为这是必要的。"
   },
   {
     "op": "replace",
     "path": "/fu_useMusicAward/text",
     "raw": "^cyan;Kevin^reset; insists he was given this award for the best-selling album of all time among Mantizi culture :^yellow;'Holy Crap, Look At The Size of that Sandwich!'^reset;. No proof has ever been provided. It is best to assume this is bullshit.",
-    "value": ""
+    "value": "^cyan;凯文^reset;坚称他因蚁族文化中史上最畅销专辑：^yellow;《天啊，看看那个三明治有多大！》^reset;而获得了这个奖项。然而他从未提供过任何证据。最好假设这是胡说八道。"
   },
   {
     "op": "replace",
     "path": "/fu_useTrough/text",
     "raw": "^orange;Troughs^reset; provide a place to store food for your farm animals. When one of them becomes hungry, they will seek food there. With enough food they'll become happy, which increases their chance to produce offspring if a viable mate is nearby!",
-    "value": ""
+    "value": "^orange;食槽^reset;是为你的农场动物存放食物的地方。当它们中的一只变得饥饿时，它们会去那里寻找食物。有足够的食物它们会变得快乐，如果附近有合适的伴侣的话，快乐会增加它们繁殖后代的机会！"
   }
 ]

@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "An industrial machine, used for transporting rocks across.",
-    "value": ""
+    "value": "一种工业用机器，用于岩石运输。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "A duct used for transporting rocks.",
-    "value": ""
+    "value": "用于传输岩石的管道。"
   },
   {
     "op": "replace",
@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/humanDescription",
     "raw": "A machine used for transporting rocks across.",
-    "value": ""
+    "value": "一台用于传送岩石的机器。"
   },
   {
     "op": "replace",

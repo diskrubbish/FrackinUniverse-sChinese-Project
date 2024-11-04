@@ -1155,91 +1155,91 @@
     "op": "replace",
     "path": "/novakid/noMoreMerc",
     "raw": "Sorry pardner, we only allow one crew per capn'. Try askin' other military stations!",
-    "value": ""
+    "value": "抱歉伙计，我们只允许每位船长带走一个船员。去问问其他军事站点吧！"
   },
   {
     "op": "replace",
     "path": "/cari/welcome",
     "raw": "Welcome to the {STATIONNAME} station. Don't break anything.",
-    "value": ""
+    "value": "欢迎来到{STATIONNAME}空间站，不要把任何东西弄坏。"
   },
   {
     "op": "replace",
     "path": "/cari/chat1",
     "raw": "I know what you did.",
-    "value": ""
+    "value": "我知道你干了啥。"
   },
   {
     "op": "replace",
     "path": "/cari/chat2",
     "raw": "No.",
-    "value": ""
+    "value": "不。"
   },
   {
     "op": "replace",
     "path": "/cari/chat3",
     "raw": "Did you know Avians can be alcoholics?",
-    "value": ""
+    "value": "你知道翼族人也能酗酒吗？"
   },
   {
     "op": "replace",
     "path": "/cari/chat4",
     "raw": "I'd give a tailfeather for some lunch.",
-    "value": ""
+    "value": "我愿意为了午餐献上一根尾羽。"
   },
   {
     "op": "replace",
     "path": "/cari/chat5",
     "raw": "Did you know the sign is blue?",
-    "value": ""
+    "value": "你知道标志是蓝色的吗？"
   },
   {
     "op": "replace",
     "path": "/cari/chat6",
     "raw": "I'm banned from the Beakeasy.",
-    "value": ""
+    "value": "我被易喙酒吧禁止入内。"
   },
   {
     "op": "replace",
     "path": "/cari/chat7",
     "raw": "Welcome to our station! No loitering.",
-    "value": ""
+    "value": "欢迎光临本站！禁止闲逛。"
   },
   {
     "op": "replace",
     "path": "/cari/chat8",
     "raw": "I eat chicken.",
-    "value": ""
+    "value": "我会吃鸡。"
   },
   {
     "op": "replace",
     "path": "/cari/militarySpecial",
     "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrosity. Sadly, we can only spare one crew member per captain. I don't know if you're capable of handling more.",
-    "value": ""
+    "value": "作为一处军事站点，我们的特殊服务是允许你雇佣新的船员。价格随着质量而上涨，当他们从某些异世界的怪物手上中拯救你时就物有所值啦。但很不幸，我们只能为每位船长分配一名船员。我不清楚你能否够处理更多人。"
   },
   {
     "op": "replace",
     "path": "/cari/medicalSpecial",
     "raw": "As a medical research lab, our special service is providing you with all sort of long lasting enhancers, for the right price of course.\nDue to health hazard, only one enhancer can be applied.\nLucky you, they stay with you until your inevitable death!\nOr you can remove them for 500 pixels at any medical station, if death doesn't do it for you by the time you get to one.",
-    "value": ""
+    "value": "作为一家医学研究实验室，我们的特殊服务是为你提供强大的身体增强，价格肯定公道。\n但由于健康风险，你一次只能应用一种增强。\n幸运的是，它们会陪伴你直到你不可避免的死亡！\n但它们会持续到您死亡，或者在医疗站花费500像素移除。"
   },
   {
     "op": "replace",
     "path": "/cari/scientificSpecial",
     "raw": "As a scientific research lab, we specialize in synthesysing all sorts of materials, and are willing to trade them for others.\nBe sure to check in often though, we don't always have or need the same materials!",
-    "value": ""
+    "value": "作为一间科研实验室，我们专门从事各种材料的合成，并愿意用它们来交换其他材料。\n但请务必经常查看，因为我们并不总是需要或拥有相同的材料！"
   },
   {
     "op": "replace",
     "path": "/cari/tradingSpecial",
     "raw": "As a trading center, we care primarly about pixels and their value.\nShould you be able to raise a high enough amount and invest in us, we'll make sure it'll be worth your while.\nWith each investment you make, the prices in our shops will shiftin your favor, allowing you to buy and sell goods at better rates!\nInvest enough, and the prices for all space stations will have a shift in your favor!",
-    "value": ""
+    "value": "作为一处交易中心，我们主要关心像素及其价值。\n如果你能筹集到足够高的金额并投资于我们，我们将确保这一切值得。\n随着你的每一次投资，我们商店的价格将向你倾斜，让您以更好的价格买卖商品！\n要是投资足够多，所有空间站的价格都会对你有利！"
   },
   {
     "op": "replace",
     "path": "/cari/tradingSpecialMax",
     "raw": "Thank you for your great contribution!\nThanks to you, we are now a bustling trading station with a lot of goods to pick from, with good prices for everyone!\nWe'll make sure your contribution is known beyond the bounds of this station, providing you with a better price rate when you buy or sell from other vendors across the stars!",
-    "value": ""
+    "value": "谢谢你的巨大贡献！\n多亏了您，我们现在是一处繁忙的交易站，有很多商品可供挑选，价格优惠！\n我们将确保您的贡献能超出本站的范围，当您从其他供应商处购买或出售时，他们会为您提供更好的价格！"
   },
   {
     "op": "replace",
@@ -1251,37 +1251,37 @@
     "op": "replace",
     "path": "/cari/cantAfford1",
     "raw": "Seems like you're a bit short on pixels...",
-    "value": ""
+    "value": "看起来你的像素有点不够啊…"
   },
   {
     "op": "replace",
     "path": "/cari/cantAfford2",
     "raw": "You're broke.",
-    "value": ""
+    "value": "你身无分文。"
   },
   {
     "op": "replace",
     "path": "/cari/cantAfford3",
     "raw": "You're poor. Come back richer.",
-    "value": ""
+    "value": "你很穷。挣点钱再回来。"
   },
   {
     "op": "replace",
     "path": "/cari/cantAfford4",
     "raw": "Time is money. You seem to be out of both.",
-    "value": ""
+    "value": "时间就是金钱。而你似乎两样都没有。"
   },
   {
     "op": "replace",
     "path": "/cari/activeEnhancer",
     "raw": "Like I said, you can't have more than one enhancer active at a time.\nWe can remove your active enhancer for 500 pixels if you'd like.",
-    "value": ""
+    "value": "就像我说的，你不能同时激活多个增强。\n如果你愿意的话，我们可以以500像素的价格移除你当前的增强。"
   },
   {
     "op": "replace",
     "path": "/cari/acquireEnhancer",
     "raw": "Come back if you want another one!\nOh, and side effects may include: dry mouth, nausea, vomiting, water retention, tingling rectal itch, hallucination, epiphany, psychosis, coma, death, and a fate worse than death.",
-    "value": ""
+    "value": "如果你想要另一种的话，欢迎再回来！\n哦对了，副作用可能包括：口干、恶心、呕吐、积水、疼痛直肠瘙痒、幻觉、痴呆、精神病、昏迷、死亡和口臭。"
   },
   {
     "op": "replace",
@@ -1293,18 +1293,18 @@
     "op": "replace",
     "path": "/cari/removeEnhancer",
     "raw": "Enhancer removed. Enjoy your enhancer free body!",
-    "value": ""
+    "value": "增强已移除。尽情享受你无添加的身体！"
   },
   {
     "op": "replace",
     "path": "/cari/hireMerc",
     "raw": "Heres the contract, use it to call and recruit them.",
-    "value": ""
+    "value": "这是合同，用它来联系和招募人员。"
   },
   {
     "op": "replace",
     "path": "/cari/noMoreMerc",
     "raw": "Sorry, we only allow one crewmate per captain.\nTry checking other military stations.\nNo refunds.",
-    "value": ""
+    "value": "抱歉，每位船长只能带走一名船员。\n请尝试查看其他军事站点。\n恕不退款。"
   }
 ]
