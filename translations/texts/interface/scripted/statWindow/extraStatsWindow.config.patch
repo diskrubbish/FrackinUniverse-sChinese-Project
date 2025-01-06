@@ -115,12 +115,6 @@
   },
   {
     "op": "replace",
-    "path": "/gui/shipMass/value",
-    "raw": "---",
-    "value": "---"
-  },
-  {
-    "op": "replace",
     "path": "/gui/healingBonus/value",
     "raw": "---",
     "value": "---"
@@ -254,12 +248,6 @@
   {
     "op": "replace",
     "path": "/tooltipBoxes/19/tooltip",
-    "raw": "Ship Mass",
-    "value": "船体质量"
-  },
-  {
-    "op": "replace",
-    "path": "/tooltipBoxes/20/tooltip",
     "raw": "Madness Resistance",
     "value": "疯癫抗性"
   },

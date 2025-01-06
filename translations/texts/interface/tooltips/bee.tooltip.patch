@@ -37,12 +37,6 @@
   },
   {
     "op": "replace",
-    "path": "/miteResistance/value",
-    "raw": "Mite Resistance:",
-    "value": "螨虫抗性："
-  },
-  {
-    "op": "replace",
     "path": "/workTime/value",
     "raw": "Work Time:",
     "value": "工作时间："

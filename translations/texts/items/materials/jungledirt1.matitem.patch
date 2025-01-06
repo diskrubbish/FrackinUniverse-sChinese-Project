@@ -8,7 +8,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "This is some nice soil.\n^green;Extractable^reset;.",
-    "value": "一些很好的土壤。\n^green;可萃取^reset;。"
+    "raw": "This is some nice soil.\n^green;Extractable^reset;, ^orange;Siftable^reset;.",
+    "value": ""
   }
 ]

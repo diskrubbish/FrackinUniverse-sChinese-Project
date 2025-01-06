@@ -8,7 +8,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Contains valuable quietus essence.\n^green;Extractable^reset;.",
-    "value": "蕴含珍贵的寂灭精华。\n^green;可萃取^reset;。"
+    "raw": "Contains valuable quietus essence.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
+    "value": ""
   }
 ]

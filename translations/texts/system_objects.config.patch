@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/flyingpyramid/parameters/description",
     "raw": "An Avian spacefaring structure full of murderous zealots. Pyramids are a traditional favourite.",
-    "value": "一座充满着狂热嗜杀者的翼族航天建筑物，金字塔是翼族人最喜欢的传统样式。"
+    "value": "一座充满着狂热嗜杀者的翼族航天建筑，金字塔是传统派的最爱。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/ixolinggrounds/parameters/description",
     "raw": "Ixoling husbandry is a long-standing and respected profession amongst Floran - and oddly enough, best carried out in space.",
-    "value": "蜱虫养殖业是叶族之中长期以来备受遵从的行业，奇怪的是——这项事业最适合在太空中进行。"
+    "value": "蜱虫养殖业是叶族中备受尊敬的行当，奇怪的是——这项事业最适合在太空中进行。"
   },
   {
     "op": "replace",
@@ -27,37 +27,37 @@
     "op": "replace",
     "path": "/outlawmine/parameters/description",
     "raw": "This cluster of mineral-rich asteroids has attracted some Novakid outlaws into staking an illegal claim to them.",
-    "value": "这个富含矿物质的小行星群吸引了一些星之子亡命徒对它们进行非法开采。"
+    "value": "这片富含矿物质的小行星群吸引了一些星之子亡命徒对它们进行非法开采。"
   },
   {
     "op": "replace",
     "path": "/wizardabode/parameters/description",
     "raw": "One of the Hogwash School of Technowizardry's many campuses. Here, hopeful Glitch study the arts of wrangling machine spirits.",
-    "value": "这是霍格沃兹技术巫师学校的诸多校区之一。在这里，充满希望的电子人们研究关于机器精神争论的艺术。"
+    "value": "这是霍格沃兹技术巫师学校的诸多校区之一。在这里，渴求知识的电子人们研究关于机器精神争论的艺术。"
   },
   {
     "op": "replace",
     "path": "/apexweaponsplatform/parameters/description",
     "raw": "The flagships of the Skath fleet, deployed at the head of an armada or on solitary missions. This one appears to be on the hunt.",
-    "value": "绘世者舰队的旗舰，被部署在舰队之首或执行单独的任务。这艘似乎是在捕猎。"
+    "value": "部署在舰队的舰首或执行单独任务的绘世者舰队旗舰。这艘似乎在狩猎。"
   },
   {
     "op": "replace",
     "path": "/spacestation_food/parameters/description",
     "raw": "A space station dedicated to trading items and goods, as well as accepting investments for benefits.",
-    "value": "一间空间站，专门用于交易货物和接受利润投资。"
+    "value": "一处专门用于交易物品和商品，以及接受投资赚取利润的空间站。"
   },
   {
     "op": "replace",
     "path": "/spacestation_medical/parameters/description",
     "raw": "A space station offering medical supplies, as well as long lasting body enhancers.",
-    "value": "这间空间站提供医疗用品，以及持久的身体增强剂。"
+    "value": "这处空间站提供医疗用品，以及持久的身体增强。"
   },
   {
     "op": "replace",
     "path": "/spacestation_weapons/parameters/description",
     "raw": "A battle station deployed by military agencies. Serves as a (legal) place to purchase weaponry, and hire crew.",
-    "value": "军事机构部署的一个战斗用空间站。作为一个（合法的）购买武器和雇用船员的地方。"
+    "value": "一处军事机构部署的战斗站。购买武器和雇佣船员的（合法）场所。"
   },
   {
     "op": "replace",

@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/systemTypes/binary1/variationParameters/3/description",
     "raw": "Huge Binary Star",
-    "value": "巨大双星"
+    "value": "巨星双星"
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/systemTypes/redsun1/variationParameters/3/description",
     "raw": "Huge Red Star",
-    "value": "巨大红星"
+    "value": "巨星红星"
   },
   {
     "op": "replace",
@@ -69,7 +69,7 @@
     "op": "replace",
     "path": "/systemTypes/bluesun1/variationParameters/3/description",
     "raw": "Huge Blue Star",
-    "value": "巨大蓝星"
+    "value": "巨星蓝星"
   },
   {
     "op": "replace",
@@ -93,7 +93,7 @@
     "op": "replace",
     "path": "/systemTypes/bluesun2/variationParameters/3/description",
     "raw": "Huge Blue Star",
-    "value": "巨大蓝星"
+    "value": "巨星蓝星"
   },
   {
     "op": "replace",
@@ -135,7 +135,7 @@
     "op": "replace",
     "path": "/systemTypes/dying1/variationParameters/3/description",
     "raw": "Huge Green Star",
-    "value": "巨大绿星"
+    "value": "巨星绿星"
   },
   {
     "op": "replace",
