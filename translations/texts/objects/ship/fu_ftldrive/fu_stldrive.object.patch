@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "An STL drive for a space ship. Allows travel within a system, but isn't strong enough to travel to others.\n^red;BYOS Only^reset;",
-    "value": ""
+    "value": "太空飞船的STL驱动器。允许在一个星系内旅行，但还没有强大到可以旅行到其他地方。\n^red;只限BYOS^reset;"
   },
   {
     "op": "replace",

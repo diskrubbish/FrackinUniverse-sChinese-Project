@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A rock covered in moss.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
-    "value": "一块长满青苔的石头。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+    "value": "一块长满青苔的石头。\n^green;可萃取^reset;，^orange;可粉碎^reset;。"
   },
   {
     "op": "replace",

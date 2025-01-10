@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A block of rusted junk.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
-    "value": "一块生锈的废料。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+    "value": "一块生锈的废料。\n^green;可萃取^reset;，^orange;可粉碎^reset;。"
   },
   {
     "op": "replace",

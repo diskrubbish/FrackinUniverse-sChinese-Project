@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/description",
     "raw": "A crudely produced set of rock bricks.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
-    "value": "一组制作粗糙的岩砖。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+    "value": "一组制作粗糙的岩砖。\n^green;可萃取^reset;，^orange;可粉碎^reset;。"
   }
 ]

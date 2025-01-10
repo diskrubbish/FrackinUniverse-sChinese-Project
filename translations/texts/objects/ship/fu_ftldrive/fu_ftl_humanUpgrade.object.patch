@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "An FTL drive for Human space ships. Allows faster interstellar travel.\n^yellow;Ship Speed: +30^reset;. ^red;BYOS Only^reset;",
-    "value": ""
+    "value": "一座人族飞船的超光速引擎。允许更快的星际旅行。\n^yellow;飞船速度：+30^reset;。^red;只限BYOS^reset;"
   },
   {
     "op": "replace",

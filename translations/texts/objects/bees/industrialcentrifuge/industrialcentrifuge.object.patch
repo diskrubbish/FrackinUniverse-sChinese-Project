@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "An enormous centrifuge with expandable attachments. Fast but inefficient. ^cyan;Requires ^orange;12W ^cyan;power.^reset;",
-    "value": ""
+    "value": "这个庞大的离心机可以加装蜂蜜灌装机。快速但效率低。\n^cyan;需要^orange;12W^cyan;电力^reset;。"
   },
   {
     "op": "replace",

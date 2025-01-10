@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/description",
     "raw": "Stone rubble which appears to be debris from an old structure.\n^green;Extractable^reset;, ^orange;Crushable^reset;.",
-    "value": "古老的建筑上掉下来的碎石。\n^green;可萃取^reset;，^orange;可破碎^reset;。"
+    "value": "古老的建筑上掉下来的碎石。\n^green;可萃取^reset;，^orange;可粉碎^reset;。"
   }
 ]
