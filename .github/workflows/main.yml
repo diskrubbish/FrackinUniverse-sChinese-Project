@@ -58,7 +58,7 @@ jobs:
             python export_mod_para.py
             ${{github.workspace}}/script/tools/asset_packer ${{github.workspace}}/translations/mods ${{github.workspace}}/temp/paks/FU_Schinese.pak
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
             name: my-artifact
             path: ${{github.workspace}}/temp/paks/FU_Schinese.pak
