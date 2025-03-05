@@ -1,0 +1,8 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/clientAssetsMismatchMessage",
+    "raw": "You must enable 'Allow assets mismatch' in the game settings to connect to this server",
+    "value": ""
+  }
+]

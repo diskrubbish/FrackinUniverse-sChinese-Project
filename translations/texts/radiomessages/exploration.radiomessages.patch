@@ -261,7 +261,7 @@
     "op": "replace",
     "path": "/radienmsg/text",
     "raw": "^green;Excellent^reset;! You have remembered how to spawn X'i Bulbs. With them you can craft many things in your [C] menu, or use them for other purposes unique to the X'i.",
-    "value": "^green;太棒了！^reset;你已经记住了如何生成艾肯球茎。通过它们，你可以在[C]键菜单中制造许多东西，或者用于其他独属于锡安的用途。"
+    "value": "^green;太棒了！^reset;你已经记住了如何生成艾肯球茎。通过它们，你可以在[C]键菜单中制造许多东西，或者用于其他独属于艾肯的用途。"
   },
   {
     "op": "replace",

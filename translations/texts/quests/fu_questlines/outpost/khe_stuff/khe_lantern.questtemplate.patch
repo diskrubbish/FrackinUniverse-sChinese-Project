@@ -8,14 +8,14 @@
   {
     "op": "replace",
     "path": "/text",
-    "raw": "Mew lantern broke. Sad, sad mew. Find mew another one? Also, mew wants an accordion.",
-    "value": "喵喵灯笼坏了。难过，难过喵。能为喵再弄一个喵？另外，喵想要一把手风琴。"
+    "raw": "Hey, you. Mew lantern broke. Sad, sad mew. You found another for mew?",
+    "value": ""
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
-    "raw": "Bring ^cyan;Khe^reset; the ingredients.",
-    "value": "将成分带给^cyan;溪^reset;。"
+    "raw": "Bring the Ghost Lantern to ^cyan;Khe^reset; at the Science Outpost.",
+    "value": ""
   },
   {
     "op": "replace",
