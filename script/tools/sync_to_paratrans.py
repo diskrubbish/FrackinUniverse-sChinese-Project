@@ -109,7 +109,7 @@ if __name__ == "__main__":
                 para_id,
                 para_token,
                 os.path.join(para_path, add_file),
-                normpath(os.path.dirname(add_file)),
+                os.path.dirname(add_file),
                 encoding="utf-8-sig",
             )
         online_list = {
