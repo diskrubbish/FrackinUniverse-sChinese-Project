@@ -9,13 +9,13 @@
     "op": "replace",
     "path": "/text",
     "raw": "Hey, you. Mew lantern broke. Sad, sad mew. You found another for mew?",
-    "value": ""
+    "value": "嘿，你。喵的灯笼坏了。难过，难过喵。能为喵再弄一个喵？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Bring the Ghost Lantern to ^cyan;Khe^reset; at the Science Outpost.",
-    "value": ""
+    "value": "将幽灵灯笼带给位于科学前哨站的^cyan;溪^reset;。"
   },
   {
     "op": "replace",

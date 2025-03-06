@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/clientAssetsMismatchMessage",
     "raw": "You must enable 'Allow assets mismatch' in the game settings to connect to this server",
-    "value": ""
+    "value": "您必须在游戏设置中启用“允许资源不匹配”才能连接到此服务器。"
   }
 ]

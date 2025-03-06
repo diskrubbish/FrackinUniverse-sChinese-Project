@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "^cyan;Headlamp^reset;\n\n^orange;Set Bonuses^reset; (^orange;Part 1^reset;):\n^yellow;^reset; ^cyan;Auto-Medic^reset;: 10%\n^yellow;^reset; ^cyan;Adaptive Armor^reset;: ^red;0.8^reset;x^gray;-^red;0.5^reset;x",
-    "value": ""
+    "value": "^cyan;头灯^reset;\n\n^orange;套装奖励^reset;(^orange;第一部分^reset;):\n^yellow;^reset; ^cyan;自动医疗^reset;: 10%\n^yellow;^reset; ^cyan;自适应护甲^reset;: ^red;0.8^reset;x^gray;-^red;0.5^reset;x"
   },
   {
     "op": "replace",
