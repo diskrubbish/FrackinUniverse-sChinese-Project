@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "The shadowy tip is great for poking.\n^cyan;Universal Damage^reset;",
-    "value": "这柄阴暗的尖矛很适合戳刺。\n^cyan;通用伤害^reset;"
+    "raw": "The shadowy tip is great for poking.",
+    "value": ""
   },
   {
     "op": "replace",

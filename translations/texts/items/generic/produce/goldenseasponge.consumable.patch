@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "^yellow;^reset;^cyan;Swim Boost 2^reset;, ^cyan;Immune^reset;: Poison: 2m",
-    "value": "^yellow;^reset;^cyan;游泳加速 2^reset;, ^cyan;免疫^reset;: 中毒: 2m"
+    "raw": "^yellow;^reset;^cyan;Swim Boost 2^reset;, ^cyan;Immune^reset;: Poisoned: 2m",
+    "value": ""
   },
   {
     "op": "replace",

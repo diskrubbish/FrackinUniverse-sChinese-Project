@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Pink, but not wimpy.\n^green;Inflicts Poison^reset;\n^red;Inflicts Bee Stings^reset;",
-    "value": "粉嫩，但并不脆弱。\n^green;附加中毒效果^reset;\n^red;造成蜂蜇^reset;"
+    "raw": "Pink, but not wimpy.\n^green;Inflicts Poisoned^reset;\n^red;Inflicts Bee Stings^reset;",
+    "value": ""
   },
   {
     "op": "replace",

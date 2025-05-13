@@ -230,8 +230,8 @@
   {
     "op": "replace",
     "path": "/ffbiomeproto/text",
-    "raw": "^red;WARNING! POISON ATMOSPHERE DETECTED ^reset;! With ^green;Proto-Poison protection^reset; you'll be fine. Otherwise, Proto poison slowly drains your vitality. Poison resistance reduces or nullifies the effects.",
-    "value": "^red;危险警告：检测到有毒大气！^reset;请装备^green;原毒保护^reset;来确保平安。否则，原始毒素会慢慢耗尽你的生命力。毒素抗性可以减少或抵消这种效果。"
+    "raw": "^red;WARNING! POISON ATMOSPHERE DETECTED ^reset;! With ^green;Proto-Poison protection^reset; you'll be fine. Otherwise, Proto-poison slowly drains your vitality. Poison resistance reduces or nullifies the effects.",
+    "value": ""
   },
   {
     "op": "replace",

@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "^yellow;^reset;^cyan;Headlamp 2^reset;: 2m\n^yellow;^reset;^cyan;Immune^reset;: Poison: 90s",
-    "value": "^yellow;^reset;^cyan;头灯 2^reset;: 2m\n^yellow;^reset;^cyan;免疫^reset;: 中毒: 90s"
+    "raw": "^yellow;^reset;^cyan;Headlamp 2^reset;: 2m\n^yellow;^reset;^cyan;Immune^reset;: Poisoned: 90s",
+    "value": ""
   },
   {
     "op": "replace",

@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Fantastically stylish.\n^cyan;Universal Damage^reset;",
-    "value": "非常时尚。\n^cyan;通用伤害^reset;"
+    "raw": "Fantastically stylish.",
+    "value": ""
   },
   {
     "op": "replace",

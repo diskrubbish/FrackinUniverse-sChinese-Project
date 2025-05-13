@@ -314,8 +314,8 @@
   {
     "op": "replace",
     "path": "/sulphurstormlesser",
-    "raw": "Mild Sulphuric Storm",
-    "value": "轻度硫酸风暴"
+    "raw": "Slight Sulphuric Storm",
+    "value": ""
   },
   {
     "op": "replace",
@@ -392,8 +392,8 @@
   {
     "op": "replace",
     "path": "/poisongasstorm3",
-    "raw": "Extreme Poison Gas",
-    "value": "极端毒气"
+    "raw": "Severe Poison Gas",
+    "value": ""
   },
   {
     "op": "replace",
@@ -446,8 +446,8 @@
   {
     "op": "replace",
     "path": "/fusuddenchill3",
-    "raw": "Extreme Chill",
-    "value": "极度寒冷"
+    "raw": "Intense Chill",
+    "value": ""
   },
   {
     "op": "replace",
@@ -464,8 +464,8 @@
   {
     "op": "replace",
     "path": "/fuheatblast3",
-    "raw": "Extreme Heatwaves",
-    "value": "极端热浪"
+    "raw": "Intense Heatwaves",
+    "value": ""
   },
   {
     "op": "replace",

@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Horrify the enemy with clouds of stinging, angry bugs.\n^cyan;Causes stings, weakening and poison^reset;",
-    "value": "用一团刺人、愤怒的虫子恫吓敌人。\n^cyan;附加蜂蜇、虚弱、中毒效果^reset;"
+    "raw": "Horrify the enemy with clouds of stinging, angry bugs.\n^cyan;Causes stings, weakening and poisoned^reset;",
+    "value": ""
   },
   {
     "op": "replace",

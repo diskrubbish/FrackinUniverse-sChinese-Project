@@ -2,8 +2,8 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "Craft into bombs, or extract for iron.\n^yellow;^reset;^red;Poison^reset;: 5s\n^yellow;Type: Robot Food^reset;",
-    "value": "可制成炸弹，或提取铁。\n^yellow;^reset;^red;中毒^reset;: 5s\n^yellow;类型：机械食物^reset; "
+    "raw": "Craft into bombs, or extract for iron.\n^yellow;^reset;^red;Poisoned^reset;: 5s\n^yellow;Type: Robot Food^reset;",
+    "value": ""
   },
   {
     "op": "replace",
