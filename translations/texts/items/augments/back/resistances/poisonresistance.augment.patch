@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "An EPP module that resists various Poisons.\n^green;+25% Poison Resist.\nImmune: Poisoned, Proto-Poison, Bio-ooze^reset;.",
-    "value": ""
+    "value": "一个能够抵抗多种毒素的EPP模块。\n^green;毒素抗性+25%。\n免疫：中毒、原毒和生物软泥^reset;。"
   },
   {
     "op": "replace",

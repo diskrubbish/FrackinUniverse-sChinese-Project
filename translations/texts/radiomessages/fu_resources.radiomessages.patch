@@ -105,7 +105,7 @@
     "op": "replace",
     "path": "/pickupSalt/text",
     "raw": "^orange;Salt^reset; is quite abundant (especially in salt water) and is applied as a resource in numerous scientific branches.",
-    "value": ""
+    "value": "^orange;盐^reset;是一种普遍存在的物质（尤其在咸水中）。它适用于绝大多数科学研究。"
   },
   {
     "op": "replace",

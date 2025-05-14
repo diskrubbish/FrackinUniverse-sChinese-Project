@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "^yellow;^reset;^cyan;Immune^reset;: Poisoned: 2m",
-    "value": ""
+    "value": "^yellow;^reset;^cyan;免疫^reset;: 中毒: 2m"
   },
   {
     "op": "replace",

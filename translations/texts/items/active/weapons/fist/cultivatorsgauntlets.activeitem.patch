@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "No, they are not perfectly balanced.\n^yellow;Inflicts burn, poisoned, electrified, defense reduction and shadow.^reset;",
-    "value": ""
+    "value": "并非平衡。\n^yellow;附加燃烧、中毒、辐射烧伤、防御下降和暗影效果。^reset;"
   },
   {
     "op": "replace",

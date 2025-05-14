@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "^yellow;^reset;^cyan;Immune^reset;: Poisoned, Sulphuric Acid: 90s",
-    "value": ""
+    "value": "^yellow;^reset;^cyan;免疫^reset;: 中毒, 硫酸: 90s"
   },
   {
     "op": "replace",

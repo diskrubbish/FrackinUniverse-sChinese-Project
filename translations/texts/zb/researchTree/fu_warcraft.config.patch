@@ -171,7 +171,7 @@
     "op": "replace",
     "path": "/strings/research/penumbritegear/1",
     "raw": "^orange;Tier 3^reset;\n\nPenumbrite is a potent metal that holds a sharp edge better than Titanium, making it ideal in many weapons. It alloys with Silver especially well, creating a unique style of weapon that deals damage that is resisted by only a few creatures.",
-    "value": ""
+    "value": "^orange;3级^reset;\n\n半影是一种强有力的金属，具有比钛更好的锋利边缘，使其成为许多武器的理想选择。它与银的合金效果特别好，能制作一种独特的武器，造成只有少数生物能够抵抗的伤害。"
   },
   {
     "op": "replace",
@@ -327,7 +327,7 @@
     "op": "replace",
     "path": "/strings/research/quietusgear/1",
     "raw": "^orange;Tier 4^reset;\n\nQuietus metal is a strange, highly poisonous substance that almost seems to be alive, somehow. Few metals hold a sharp edge like Quietus, making it great in melee weapons. It's also quite potent in armors and ballistic weapons.",
-    "value": "^orange;4级^reset;\n\n寂灭键数是一种奇怪的、剧毒的物质，不知何故，它看起来几乎是活的。很少有金属拥有像寂灭金属一样锋利的边缘，这使其在近战武器中非常出色。它也能用于制造相当强大的盔甲和远程武器。"
+    "value": "^orange;4级^reset;\n\n寂灭金属是一种奇怪的、剧毒的物质，不知何故，它看起来几乎是活的。很少有金属拥有像寂灭金属一样锋利的边缘，这使其在近战武器中非常出色。它也能用于制造相当强大的盔甲和远程武器。"
   },
   {
     "op": "replace",

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A poisonous sniping experience.\n^yellow;Inflicts Poisoned, ^cyan;Floran^reset;",
-    "value": ""
+    "value": "毒辣的狙击体验。\n^yellow;附加中毒效果，^cyan;叶族^reset;"
   },
   {
     "op": "replace",

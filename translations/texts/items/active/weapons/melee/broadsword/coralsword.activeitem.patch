@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Massively dangerous. Do not touch.\n^cyan;Inflicts Poisoned^reset;",
-    "value": ""
+    "value": "过于危险，还是别触碰它的锋刃了。\n^cyan;附加中毒效果^reset;"
   },
   {
     "op": "replace",

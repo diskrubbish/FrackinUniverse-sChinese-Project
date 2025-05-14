@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Stab the hell out of your foolish foes.\n^yellow;Inflicts Poisoned,^reset;\n^cyan;Summons Pterobombs, Floran^reset;",
-    "value": ""
+    "value": "在愚蠢敌人的射程之外把他们送进地狱吧！\n^cyan;附加中毒效果^reset;\n^yellow;召唤飞翼爆弹，叶族武器^reset;"
   },
   {
     "op": "replace",
@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "What greater joy than cooking flesh?\n^yellow;Inflicts Poisoned^reset;\n^cyan;Summons Pterobombs^reset;",
-    "value": ""
+    "value": "有什么比烹肉更快乐呢？\n^cyan;附加中毒效果^reset;\n^yellow;召唤飞翼爆弹^reset;"
   },
   {
     "op": "replace",

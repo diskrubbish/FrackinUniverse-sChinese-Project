@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Ejects poisonous clouds. Fun.\n^yellow;Inflicts Poisoned^reset;",
-    "value": ""
+    "value": "释放毒气云。有意思。\n^cyan;附加中毒效果^reset;"
   },
   {
     "op": "replace",

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A sharp, shiny blade ready to poison foes.\n^cyan;Inflicts Poisoned^reset;\n^cyan;Hunting weapon^reset;",
-    "value": ""
+    "value": "一把锋利闪亮的刀，随时准备着毒害敌人。\n^cyan;造成中毒^reset;\n^cyan;狩猎武器^reset;"
   },
   {
     "op": "replace",

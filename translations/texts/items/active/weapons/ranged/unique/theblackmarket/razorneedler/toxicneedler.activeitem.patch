@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Horribly poisonous barbs just aching to enter your foes.\n^yellow;Inflicts Poisoned^reset;",
-    "value": ""
+    "value": "可怕的有毒倒钩正渴望着刺痛你的敌人。\n^cyan;附加中毒效果^reset;"
   },
   {
     "op": "replace",

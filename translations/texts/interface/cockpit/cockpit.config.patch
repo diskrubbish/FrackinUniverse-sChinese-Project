@@ -1611,7 +1611,7 @@
     "op": "replace",
     "path": "/visitableTypeDescription/strangesea/0",
     "raw": "This world is covered in a ^#da67b8;strange sea^reset;. Scanners reveal dense concentrations of Plasmic Fluid. ^red;Deadly gas!^reset; ^cyan;Recommend Poison Gas Immunity^reset;",
-    "value": ""
+    "value": "这个世界被^#da67b8;诡之海^reset;所覆盖，扫描仪显示其中有密集的血原液。探测到^red;致命的毒气！^reset;^cyan;推荐：毒气保护^reset;"
   },
   {
     "op": "replace",
@@ -2445,7 +2445,7 @@
     "op": "replace",
     "path": "/displayWeathers/sulphurstormlesser/displayName",
     "raw": "Slight Sulphuric Storm",
-    "value": ""
+    "value": "轻度硫酸风暴"
   },
   {
     "op": "replace",
@@ -2523,7 +2523,7 @@
     "op": "replace",
     "path": "/displayWeathers/poisongasstorm3/displayName",
     "raw": "Severe Poison Gas",
-    "value": ""
+    "value": "严酷毒气"
   },
   {
     "op": "replace",
@@ -2577,7 +2577,7 @@
     "op": "replace",
     "path": "/displayWeathers/fusuddenchill3/displayName",
     "raw": "Intense Chill",
-    "value": ""
+    "value": "极端寒冷"
   },
   {
     "op": "replace",
@@ -2595,7 +2595,7 @@
     "op": "replace",
     "path": "/displayWeathers/fuheatblast3/displayName",
     "raw": "Intense Heatwaves",
-    "value": ""
+    "value": "极端热浪"
   },
   {
     "op": "replace",
