@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "It's an orange. ^green;Type: Plant^reset;",
+    "raw": "It's an orange. ^green;Type: Fruit^reset;",
     "value": ""
   },
   {
