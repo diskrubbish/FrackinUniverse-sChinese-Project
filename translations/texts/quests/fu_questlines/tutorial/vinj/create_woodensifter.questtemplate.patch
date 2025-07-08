@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Make a ^green;Sifter^reset; at your ^orange;Electronics Center^reset;.",
-    "value": ""
+    "value": "在^orange;电子设备制造机^reset;处制造一台^green;筛粉机^reset;"
   },
   {
     "op": "replace",
