@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "It's an orange. ^green;Type: Plant^reset;",
-    "value": ""
+    "value": "就是个橙子。\n^green;类型：植物^reset;"
   },
   {
     "op": "replace",

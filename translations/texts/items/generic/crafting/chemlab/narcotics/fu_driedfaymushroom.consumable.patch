@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Weight : 0.1g^reset; ^red;Narcotic\n^white; Triggers severe hallucinations. Breaks the mind, but inspires creativity.\n^blue;Madness Gain^reset; 9",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dried Fay Mushrooaams",
+    "value": ""
+  }
+]

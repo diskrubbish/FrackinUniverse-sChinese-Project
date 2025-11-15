@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A box of guns confiscated from a gun-running sting operation. It's not like they need them anymore.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Box of Confiscated Weapons",
+    "value": ""
+  }
+]

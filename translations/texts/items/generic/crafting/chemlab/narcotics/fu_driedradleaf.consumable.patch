@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Weight : 1g^reset;^red; Narcotic\n^white;Relaxes your mind, opening it to vistas of scientific possibility previously unconsidered.\n^blue;Madness Gain^reset; 3\n",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Dried Radleaf",
+    "value": ""
+  }
+]

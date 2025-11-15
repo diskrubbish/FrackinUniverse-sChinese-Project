@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A data disk containing research seized from an illegal Miniknog blacksite. You can put it to better use. Maybe.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Illicit Research Disk",
+    "value": ""
+  }
+]

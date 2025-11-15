@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "^green;Weight : 1g^reset;^red; Narcotic\n^white;Reduces defense by 80%, but gain 60% energy regen rates.\n^blue;Madness Gain^reset; 3\n",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Ghost Mushrooms",
+    "value": ""
+  }
+]

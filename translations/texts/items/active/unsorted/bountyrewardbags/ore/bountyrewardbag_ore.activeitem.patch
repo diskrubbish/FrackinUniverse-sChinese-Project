@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "A box of ores seized from a raid on an illegal Novakid asteroid mine. You can have the surplus.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Box of Contraband Ores",
+    "value": ""
+  }
+]
