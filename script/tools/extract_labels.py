@@ -198,9 +198,9 @@ patch_serialization = {
     "craftingfurnace.object.patch": {"upgradeStages": {"index": 2, "increase": False}},
     "craftingwheel.object.patch": {"upgradeStages": {"index": 2, "increase": False}},
 }
-dir_blacklist = ""
-path_blacklist = ""
-ignore_filelist = ""
+dir_blacklist = []
+path_blacklist = {}
+ignore_filelist = []
 string_blacklist = [
     "0",
     "set at runtime",

@@ -103,7 +103,8 @@ foi = {
     "kukagps/planets.config": [".*"],
     "kukagps/stars.config": [".*"],
     "kukagps/weather.config": [".*"],
-    "buildsaplingfu.config":["^(foliage|stem)/.+$"]
+    "buildsaplingfu.config":["^(foliage|stem)/.+$"],
+    "beeData.config":["stats/.*/[0-9]+/name$"]
 }
 files_of_interest = dict()
 for ext, poi in foi.items():
