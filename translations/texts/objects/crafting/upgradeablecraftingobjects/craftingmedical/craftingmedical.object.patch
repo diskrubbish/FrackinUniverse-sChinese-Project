@@ -1,67 +1,67 @@
 ﻿[
   {
     "op": "replace",
-    "path": "/upgradeStages/2/itemSpawnParameters/description",
+    "path": "/upgradeStages/-/itemSpawnParameters/description",
     "raw": "A top-of-the-line medical station.",
     "value": "一座顶级的医疗站。"
   },
   {
     "op": "replace",
-    "path": "/upgradeStages/2/itemSpawnParameters/shortdescription",
+    "path": "/upgradeStages/-/itemSpawnParameters/shortdescription",
     "raw": "^orange;Health Center^reset;",
     "value": "^orange;健康中心^reset;"
   },
   {
     "op": "replace",
-    "path": "/upgradeStages/2/itemSpawnParameters/apexDescription",
+    "path": "/upgradeStages/-/itemSpawnParameters/apexDescription",
     "raw": "A table with a bunch of medical tools.",
     "value": "一张上面有一堆医疗工具的工作台。"
   },
   {
     "op": "replace",
-    "path": "/upgradeStages/2/itemSpawnParameters/avianDescription",
+    "path": "/upgradeStages/-/itemSpawnParameters/avianDescription",
     "raw": "A chance to display one's medical ability.",
     "value": "一个展示自己医疗能力的机会。"
   },
   {
     "op": "replace",
-    "path": "/upgradeStages/2/itemSpawnParameters/floranDescription",
+    "path": "/upgradeStages/-/itemSpawnParameters/floranDescription",
     "raw": "Floran ussse table. Patch ssself up.",
     "value": "叶族人使使使用工作台。给自己己己包扎。"
   },
   {
     "op": "replace",
-    "path": "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+    "path": "/upgradeStages/-/itemSpawnParameters/glitchDescription",
     "raw": "Inspired. Medical module activated.",
     "value": "灵感。医疗模块已激活。"
   },
   {
     "op": "replace",
-    "path": "/upgradeStages/2/itemSpawnParameters/humanDescription",
+    "path": "/upgradeStages/-/itemSpawnParameters/humanDescription",
     "raw": "I can use materials I've found here to create new healing items.",
     "value": "我能用我在这里找到的材料来制作一些新的医疗物品。"
   },
   {
     "op": "replace",
-    "path": "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+    "path": "/upgradeStages/-/itemSpawnParameters/hylotlDescription",
     "raw": "This gives me the ability to heal and rejuvenate after incurring damage.",
     "value": "这让我在我在受到伤害后有治疗与康复的能力。"
   },
   {
     "op": "replace",
-    "path": "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+    "path": "/upgradeStages/-/itemSpawnParameters/novakidDescription",
     "raw": "This table looks good for treatin' wounds.",
     "value": "这个工作台对治疗伤口很有利。"
   },
   {
     "op": "replace",
-    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "path": "/upgradeStages/-/interactData/paneLayoutOverride/windowtitle/title",
     "raw": " Health Center",
     "value": " 健康中心"
   },
   {
     "op": "replace",
-    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "path": "/upgradeStages/-/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " ^#b9b5b2;Health and well-being",
     "value": "^#b9b5b2;健康且幸福"
   }

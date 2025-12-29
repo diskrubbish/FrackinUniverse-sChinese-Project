@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "^green;Weight : 1g^reset;^green;Weight : 1g^reset; ^red;Narcotic.\n^white; Doubles health, but halves energy reserve.\n^blue;Madness Gain^reset; 3\n",
-    "value": ""
+    "value": "^green;重量：1克^reset;^red;麻醉品。\n^white; 生命上线翻倍，但能量上限减半。\n^blue;疯癫获取量^reset;：3 "
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Aethercreep",
-    "value": ""
+    "value": "以太嬗变"
   }
 ]

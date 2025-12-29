@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A box of ores seized from a raid on an illegal Novakid asteroid mine. You can have the surplus.",
-    "value": ""
+    "value": "在一次对星之子非法小行星矿场的突袭中缴获的一箱矿石。多余的部分归你所有。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Box of Contraband Ores",
-    "value": ""
+    "value": "收缴矿石箱"
   }
 ]

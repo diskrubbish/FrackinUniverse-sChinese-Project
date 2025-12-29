@@ -1,0 +1,422 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/stats/carpenter/0/name",
+    "raw": "carpenter",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/carpenter/1/name",
+    "raw": "woodCarver",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/honey/0/name",
+    "raw": "honey",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/honey/1/name",
+    "raw": "platedHoneybee",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/leafcutter/0/name",
+    "raw": "leafcutter",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/leafcutter/1/name",
+    "raw": "meanderer",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/mason/0/name",
+    "raw": "mason",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/mason/1/name",
+    "raw": "ironmason",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/plasterer/0/name",
+    "raw": "plasterer",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/plasterer/1/name",
+    "raw": "mincer",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/squash/0/name",
+    "raw": "squash",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/squash/1/name",
+    "raw": "harrowwing",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/sweat/0/name",
+    "raw": "sweat",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/sweat/1/name",
+    "raw": "pesterer",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/crystalwing/0/name",
+    "raw": "crystalwing",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/crystalwing/1/name",
+    "raw": "shuttershard",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/artisan/0/name",
+    "raw": "artisan",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/artisan/1/name",
+    "raw": "workman",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/inventor/0/name",
+    "raw": "inventor",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/inventor/1/name",
+    "raw": "windsweeper",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/scoria/0/name",
+    "raw": "scoria",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/scoria/1/name",
+    "raw": "firetip",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/bumblebee/0/name",
+    "raw": "bumblebee",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/bumblebee/1/name",
+    "raw": "chubbychump",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/exspiravit/0/name",
+    "raw": "exspiravit",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/exspiravit/1/name",
+    "raw": "burrower",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/orchid/0/name",
+    "raw": "orchid",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/orchid/1/name",
+    "raw": "ulrotra",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/tunguskudae/0/name",
+    "raw": "tunguskudae",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/tunguskudae/1/name",
+    "raw": "pordratetch",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/sandprowler/0/name",
+    "raw": "sandprowler",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/sandprowler/1/name",
+    "raw": "dunedropper",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/goldensaint/0/name",
+    "raw": "goldensaint",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/goldensaint/1/name",
+    "raw": "purewing",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/devoratrix/0/name",
+    "raw": "devoratrix",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/devoratrix/1/name",
+    "raw": "fleshCarver",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/aquarum/0/name",
+    "raw": "aquarum",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/aquarum/1/name",
+    "raw": "mariner",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/gelidburrower/0/name",
+    "raw": "gelidburrower",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/gelidburrower/1/name",
+    "raw": "snowStalker",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/digger/0/name",
+    "raw": "digger",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/digger/1/name",
+    "raw": "miner",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/oremason/0/name",
+    "raw": "oremason",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/oremason/1/name",
+    "raw": "eyeGouger",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/cybernetic/0/name",
+    "raw": "cybernetic",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/cybernetic/1/name",
+    "raw": "cybermorphic",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/isovapitdae/0/name",
+    "raw": "isovapitdae",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/isovapitdae/1/name",
+    "raw": "gunkMucker",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/harlequin/0/name",
+    "raw": "harlequin",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/harlequin/1/name",
+    "raw": "lacedLady",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/shrouded/0/name",
+    "raw": "shrouded",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/shrouded/1/name",
+    "raw": "vocadahl",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/stellar/0/name",
+    "raw": "stellar",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/stellar/1/name",
+    "raw": "cosmonaut",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/cuckoo/0/name",
+    "raw": "cuckoo",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/cuckoo/1/name",
+    "raw": "feignFly",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/loamzipper/0/name",
+    "raw": "loamzipper",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/loamzipper/1/name",
+    "raw": "veilFlush",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/stalwart/0/name",
+    "raw": "stalwart",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/stalwart/1/name",
+    "raw": "armored",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/rimewing/0/name",
+    "raw": "rimewing",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/rimewing/1/name",
+    "raw": "snatchling",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/xenodaemonae/0/name",
+    "raw": "xenodaemonae",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/xenodaemonae/1/name",
+    "raw": "puker",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/redbanded/0/name",
+    "raw": "redbanded",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/redbanded/1/name",
+    "raw": "stalkerBee",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/assassin/0/name",
+    "raw": "assassin",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/assassin/1/name",
+    "raw": "burrowJack",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/reaper/0/name",
+    "raw": "reaper",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/stats/reaper/1/name",
+    "raw": "deathSting",
+    "value": ""
+  }
+]

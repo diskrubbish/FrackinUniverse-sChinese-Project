@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Claw slash. (Read ^yellow;Core Guide^reset;: ^blue;Special Techs^reset;)",
-    "value": "利爪切裂：按^green;[F]^reset;使用。(详请参阅^yellow;核心指南^reset;: ^blue;特殊科技^reset;)"
+    "value": "爪击：(详请参阅^yellow;核心指南^reset;: ^blue;特殊科技^reset;)"
   },
   {
     "op": "replace",
     "path": "/shortDescription",
     "raw": "Hunter Claws",
-    "value": "猎人之爪"
+    "value": "狩猎利爪"
   }
 ]
