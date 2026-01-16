@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A table made from Zerchesium. Keeps your food cold.",
-    "value": "一张用高熔点素制成的桌子。可以保持食物冷藏。"
+    "value": "一张用极熔金素制成的桌子。可以保持食物冷藏。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Zerchesium Table",
-    "value": "高熔点桌"
+    "value": "极熔金桌"
   },
   {
     "op": "replace",

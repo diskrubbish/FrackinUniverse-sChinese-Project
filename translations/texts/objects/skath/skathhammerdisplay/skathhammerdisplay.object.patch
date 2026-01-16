@@ -3,19 +3,19 @@
     "op": "replace",
     "path": "/description",
     "raw": "A Skath Plasma Hammer, decommissioned for display.",
-    "value": "一个绘世者等离子锤，退役后用于展示。"
+    "value": "一个海鳞族等离子锤，退役后用于展示。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Skath Hammer Display",
-    "value": "绘世者锤式展台"
+    "value": "海鳞族锤式展台"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "This hammer looks extraordinarily heavy. How do the Skath even wield them?.",
-    "value": "这把锤子看起来特别重。绘世者是怎么挥舞它们的？。"
+    "value": "这把锤子看起来特别重。海鳞族是怎么挥舞它们的？。"
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Skath weaponry is truly terrifying.",
-    "value": "绘世者的武器真非常恐怖。"
+    "value": "海鳞族的武器真非常恐怖。"
   },
   {
     "op": "replace",
@@ -57,6 +57,6 @@
     "op": "replace",
     "path": "/skathDescription",
     "raw": "Hammers like these are fitted with an internal plasma accelerator, to crush power armour and vehicles both. Only the strongest Skath can wield these unassisted.",
-    "value": "像这样的锤子装有内部等离子加速器，用来粉碎动力装甲和车辆。只有最强大的绘世者才能在无人协助的情况下使用这些武器。"
+    "value": "像这样的锤子装有内部等离子加速器，用来粉碎动力装甲和车辆。只有最强大的海鳞族才能在无人协助的情况下使用这些武器。"
   }
 ]

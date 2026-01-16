@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/title",
     "raw": "The Pharitu Homeworld",
-    "value": "法瑞图的家园"
+    "value": "法瑞图：家园"
   },
   {
     "op": "replace",
@@ -15,24 +15,24 @@
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "The homeworld of the unusual race known as the Pharitu is a hostile and hellish place, where survival on the surface is nearly impossible for any other known intelligent species. Extremophiles able to withstand vast electric discharges fatal to most species are the",
-    "value": "被称为法瑞图的这种不寻常种族的家乡是充满敌意的地狱般的地方，对于其他已知的智能物种而言，几乎不可能在其表面上生存。能够承受对大多数物种致命的大量放电的极端微生物是"
+    "value": "法瑞图这个独特种族的家园，是一个充满敌意、宛若地狱的世界。对于其他已知的智慧物种而言，在其地表生存几乎是不可能的。唯一的例外是那些能够承受足以致命的强电流的极端微生物，但即便是它们，也难以适应那里异常的大气环境。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "only real exception to this, and even they have issues with the atmospheric conditions. In fact, so hostile is the environment that even the Pharitu themselves stick to subterranean regions except during very specific weather conditions (more on this later, as this is an entire",
-    "value": "能够承受对大多数物种致命的大量放电的极端微生物是唯一真正的例外，甚至他们的大气状态都有问题。实际上，环境如此恶劣，以至于法瑞图人都选择居住在地下地区，除非在非常特殊的天气条件下（稍后再介绍，因为这本身就是一个完整的章节内容）。"
+    "value": "事实上，环境之恶劣，使得法瑞图人自己也选择栖居于地下区域，仅在特定天气条件下才会前往地表（关于这一点，后续将有独立章节详述）。"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     "raw": "chapter in and of itself). Few species can truly appreciate the toil of their daily existence (less problematic now than it was millenia ago). Suffice to say, nearly nobody has ever visited this world due to most technology being at great risk of overloading in the atmosphere,",
-    "value": "很少有物种能够真正体会到他们日常生存的艰苦（他们现在状况已经比千年前好的多的情况下）。可以说，几乎没有人去过这个世界，因为大多数技术都面临着大气超载的巨大风险，"
+    "value": "几乎没有种族能真正体会他们日常生存的艰辛（尽管如今的境况已比千年前好上许多）。可以说，几乎无人曾造访过这个世界，因为绝大多数科技造物都面临大气过载的巨大风险，而多数尝试者皆以不幸告终。"
   },
   {
     "op": "replace",
     "path": "/contentPages/3",
     "raw": "and most that have attempted to do so have met an ill end. For those wishing to play at diplomacy with this species: invite them to -you- instead. It beats being eradicated via exceptionally devastating electric discharges.",
-    "value": "而大多数试图这样做的人都迎来了不幸的结局。对于那些希望与这个种物种进行外交的人：邀请他们代替-你-。这样来根除异常的毁灭性放电。"
+    "value": "对于有意与法瑞图族进行外交接触者，谨此建议：邀请他们前来你的地盘，而非反之。这总好过被异常猛烈的放电现象彻底毁灭。"
   }
 ]

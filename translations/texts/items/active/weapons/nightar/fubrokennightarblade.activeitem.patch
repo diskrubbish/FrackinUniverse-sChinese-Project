@@ -10,5 +10,17 @@
     "path": "/shortdescription",
     "raw": "Broken Densinium Sword",
     "value": "破损的超致密剑"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/shortdescription",
+    "raw": "Reforged Densinium Sword",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeParameters/description",
+    "raw": "An old, tarnished blade now reforged and glowing with an otherworldly light.",
+    "value": ""
   }
 ]

@@ -9,54 +9,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "A Mantizi children's book.",
-    "value": "一本甲虫族童话书。"
+    "value": "一本甲虫族童书。"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "Dave is diseased. He is leprous. Don't Touch Dave! (picture of a diseased fat man)",
-    "value": "戴夫有病。他有麻风。别碰戴夫! (照片上是一个有病的胖子)"
+    "value": "戴夫有病，他生麻风。别碰戴夫！（插画：一个生病的胖男人）"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "Look at Dave! He's ugly and smelly! His fingers fall off at random! (picture of same man in an insultingly tight outfit)",
-    "value": "看看戴夫！又丑又臭！手指乱掉！ (同一个男人穿着无礼的紧身衣的照片)"
+    "value": "快看戴夫！又丑又臭！手指随便掉！（插画：同一个男人穿着紧得离谱的衣服）"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     "raw": "If you touch Dave, he'll kill you and your entire family in slow and agonizing ways! (picture of a jet, and three flamingo-like birds wearing hats)",
-    "value": "如碰戴夫，他会杀你，和你整家，缓慢痛苦！ (一架喷气式飞机和三只戴着帽子的火烈鸟的图片)"
+    "value": "要是碰戴夫，他会杀你，还杀你全家，慢慢折磨死！（插画：一架喷气机，和三只戴帽子的火烈鸟）"
   },
   {
     "op": "replace",
     "path": "/contentPages/3",
     "raw": "Dave doesn't mean to be evil! It's his virulent plague! (image of dead mantizi, drawn in comical fashion)",
-    "value": "戴夫不坏！瘟疫作祟！ (死人的形象，以滑稽的方式描绘)"
+    "value": "戴夫不是故意坏！是瘟疫作怪！（插画：滑稽画风的甲虫族死人）"
   },
   {
     "op": "replace",
     "path": "/contentPages/4",
     "raw": "Everyone run away! Dave has escaped his stab-cage! (picture of a bloody cage with strategic holes for stabbing)",
-    "value": "大家快跑！戴夫出笼！(照片上是一个血淋淋的笼子，上面有用来刺人的战略洞)"
+    "value": "大家快跑！戴夫逃出刺笼啦！（插画：带战略刺孔的血笼子）"
   },
   {
     "op": "replace",
     "path": "/contentPages/5",
     "raw": "The Praetorian has killed Dave with a spear! Let's burn Dave! (picture of someones dinner)",
-    "value": "禁军长矛！杀死戴夫！烧死戴夫！(某人晚餐的照片)"
+    "value": "禁军长矛捅死戴夫！烧了戴夫！（插画：某个人的晚餐）"
   },
   {
     "op": "replace",
     "path": "/contentPages/6",
     "raw": "Dave is ashes! Leprous infection is gone! (a hastily scribbled image of some sort of worm)",
-    "value": "戴夫化灰！麻风消失！(一张匆忙涂鸦的某种蠕虫的图片)"
+    "value": "戴夫成灰啦！麻风病没啦！（插画：胡乱涂鸦的虫子）"
   },
   {
     "op": "replace",
     "path": "/contentPages/7",
     "raw": "Hurray for Dave! (image of fat man clapping)",
-    "value": "戴夫万岁！(胖子鼓掌的画面)"
+    "value": "戴夫万岁！（插画：胖男人在鼓掌）"
   }
 ]

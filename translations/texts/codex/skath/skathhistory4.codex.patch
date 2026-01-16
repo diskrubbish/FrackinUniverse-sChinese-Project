@@ -3,30 +3,30 @@
     "op": "replace",
     "path": "/title",
     "raw": "Skath History 4",
-    "value": "绘世者历史4"
+    "value": "海鳞族历史 其四"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "A log from Her'Lur about the history of the Skath race.",
-    "value": "《绘世者种族历史研究》   Her'Lur 著"
+    "value": "关于海鳞族历史的记录，赫勒尔著。"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "Our homeworld all but decimated after the First Contact War and the following inter-Spawnpool territorial disputes, the Skathian people were forced to head outward among the stars. With no real guidance, we blindly groped among the cosmos for a new home. We found many.",
-    "value": "在第一次接触战争和随后的国际领土争端之后，我们的家园几乎毁灭殆尽，绘世者人被迫在星空中流浪。没有真正的指导，我们盲目地在宇宙中摸索着寻找新家。我们发现了很多。"
+    "value": "第一次接触战争及随后的孵化池间领土争端，令我们的母星几近毁灭，海鳞族被迫向星海迁徙。缺乏明确指引，我们在宇宙中盲目摸索，寻找新的家园，而我们也确实找到了许多。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "While invention was something we'd always excelled at, astronomy was not. Our knowledge of the stars was limited. We are, on the other hand, the most capable undersea species there is and our own architectural style had an advantage: it was already designed for high pressure.",
-    "value": "虽然发明是我们一直擅长的事情，但天文学却不是。我们对星球的了解是有限的。另一方面，我们是最有能力的海底物种，我们自己的建筑风格有一个优势：它已经被设计用于高压。"
+    "value": "发明创造虽是我们一贯所长，天文学却非其列。我们对星辰的认知本就有限。然而，作为最具适应力的深海物种，我们的建筑风格拥有一项天然优势：它本就为承受高压而设计。"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     "raw": "without much further argument, we began to seed the universe the only way we knew how: By sending mating pairs to as many worlds as possible. Within only three generations, our society went from ironworking to interstellar travel. Imagine where it could take us next?",
-    "value": "在没有进一步争论的情况下，我们开始以我们知道的唯一方式给宇宙播种：将物种送到尽可能多的世界。仅仅三代人的时间里，我们的社会就从钢铁时代变成了星际旅行。想象一下下一步我们会去哪里？"
+    "value": "无需过多争论，我们开始以唯一知晓的方式向宇宙播撒生命：向尽可能多的世界派遣配对个体。仅仅三代之内，我们的社会便从铁器时代迈入了星际航行。试想，下一步又将带我们走向何方？"
   }
 ]

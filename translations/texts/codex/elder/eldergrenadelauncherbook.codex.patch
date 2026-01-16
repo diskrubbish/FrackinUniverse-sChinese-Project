@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Detonatus Mondus",
-    "value": "穆图斯雷管"
+    "value": "爆炸者雷管"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "Veil-Tearer",
-    "value": "戴面纱的人"
+    "value": "破帷者"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "A picture of some sort of grenade-launcher weapon. There are diagrams for several Elder Cores, along with several pieces of Unknown Technology. Cresting these is a singular Elder Artifact.",
-    "value": "这是某种榴弹发射器的描述。它上面说你只需要一些远古核心，再搭配上一些其他未知的科技产物，就可以构造出这把奇特的武器。"
+    "value": "此图所绘乃异形榴射之器，构造诡谲：需以数枚远古核心为基，佐以若干未知科技残片，顶端更需独一远古神器镇临。"
   }
 ]

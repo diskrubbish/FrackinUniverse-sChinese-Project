@@ -15,24 +15,24 @@
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "I met with the lead diplomat of the X'i earlier this week at our briefing regarding the more recent spate of attacks on the outlying colonies. She goes by the name...perhaps title, I am uncertain... of Risen. She's one of the few that can speak enough Common to communicate with us at all. No X'i has ever been recorded to be taller than her--it? If leaders were chosen by height alone, she'd be a good fit at over 4 meters.",
-    "value": "本周早些时候，我会见艾肯的首席外交官，在我们的简报会上，我们讨论了关于最近对外围殖民地的一连串攻击。她的名字是...也许是头衔，我不确定是不是......叫崛醒者。她是少数几个能说足够的普通话与我们交流的人之一。据记录，从来没有一个艾肯人比她高--啊？如果仅凭身高来选择领导人，她肯定是不二之选，毕竟超过了4米。"
+    "value": "本周早些时候，我在关于外围殖民地近期遭受一连串袭击的简报会上，会见了艾肯的首席外交官。她的名字，或者可能是头衔，我不太确定，应该是叫“崛醒者”。她是少数能说足够通用语与我们进行基本交流的艾肯人之一。据记载，从未有艾肯人比她更高，或者说“它”？如果仅凭身高来选领导人，身高超过4米的她无疑是不二之选。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "Standing at 12'7'' or 384cm, she towers over our team of shrimpy humans. It's a little imposing. Risen tells tales of how she fought in a war between stars and black holes, and how she helped drive the stars away to save the near-extinct black holes. We aren't quite sure, but we believe the stars may, in fact, be a reference to the Novakid. It wasn't so much what was said, but -how- it was said. If I recall, it was ",
-    "value": "她身高12英寸7哩，或者说384厘米，完全高碾压我们这群小矮人，令人望而生畏。崛醒者讲述了她如何在恒星和黑洞之间的战争中战斗的故事，以及她如何帮助赶走恒星以拯救接近灭绝的黑洞。也许我们不太相信，但是星星们会，对的，指的是星之子。这并不是说了什么，而是--如何--说出来的。"
+    "value": "身高超过4米的她无疑是不二之选。她站立时高达12英尺7英寸（约384厘米），让我们这群“矮小”的人类相形见绌，确实有些令人望而生畏。崛醒者讲述了她在恒星与黑洞之间的战争中作战的经历，以及她如何帮助驱赶恒星，以拯救濒临灭绝的黑洞。我们并不十分确定其真实性，但推测“恒星”可能实际上指的是“星之子”。关键不在于她说了什么，而在于她“如何”说的。"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     "raw": "'The star-children of the First wanted to drive away the anti-children. We aided the anti-children'. However, we can find no record of this conflict in any known galactic database. If it happened it was a long, long time ago.",
-    "value": "如需我重新组织语言，那就是：“第一代的星之子想要赶走对立之子。我们帮助了对立之子。”。然而，在宇宙任何已知数据库中，我们都找不到关于这场冲突的记录。如果发生过，那也是很久很久以前的事了。"
+    "value": "如果我没记错，她是这样表述的：“第一代的星之子想要驱逐对立之子。我们帮助了对立之子。他们的星云得以保全，并通过他们迎来了‘诞生’。”然而，我们在任何已知的星际数据库中都无法找到关于这场冲突的记录。如果它确实发生过，那也一定是在非常久远的时代。"
   },
   {
     "op": "replace",
     "path": "/longContentPages/0",
     "raw": "I met with the lead diplomat of the X'i earlier this week at our briefing regarding the more recent spate of attacks on the outlying colonies. She goes by the name...perhaps title, I am uncertain... of Risen. She's one of the few that can speak enough Common to communicate with us at all. No X'i has ever been recorded to be taller than her--it? If leaders were chosen by height alone, she'd be a good fit at over 4 meters. Standing at 12'7'' or 384cm, she towers over our team of shrimpy humans. It's a little imposing. Risen tells tales of how she fought in a war between stars and black holes, and how she helped drive the stars away to save the near-extinct black holes. We aren't quite sure, but we believe the stars may, in fact, be a reference to the Novakid. It wasn't so much what was said, but -how- it was said. If I recall, it was :\n\n'The star-children of the First wanted to drive away the anti-children. We aided the anti-children. Their nebulas were safe, and through them came the Birthing'.\n\nHowever, we can find no record of this conflict in any known galactic database. If it happened it was a long, long time ago.",
-    "value": "本周早些时候，我会见艾肯的首席外交官，在我们的简报会上，我们讨论了关于最近对外围殖民地的一连串攻击。她的名字是...也许是头衔，我不确定是不是......叫崛醒者。她是少数几个能说足够的普通话与我们交流的人之一。据记录，从来没有一个艾肯人比她高--啊？如果仅凭身高来选择领导人，她肯定是不二之选，毕竟超过了4米。她身高12英寸7哩，或者说384厘米，完全高碾压我们这群小矮人，令人望而生畏。崛醒者讲述了她如何在恒星和黑洞之间的战争中战斗的故事，以及她如何帮助赶走恒星以拯救接近灭绝的黑洞。也许我们不太相信，但是星星们会，对的，指的是星之子。这并不是说了什么，而是--如何--说出来的。如需我重新组织语言，那就是：\n\n“第一代的星之子想要赶走对立之子。我们帮助了对立之子。”\n\n。然而，在宇宙任何已知数据库中，我们都找不到关于这场冲突的记录。如果发生过，那也是很久很久以前的事了。"
+    "value": "本周早些时候，我在关于外围殖民地近期遭受一连串袭击的简报会上，会见了艾肯的首席外交官。她的名字，或者可能是头衔，我不太确定，应该是叫“崛醒者”。她是少数能说足够通用语与我们进行基本交流的艾肯人之一。据记载，从未有艾肯人比她更高，或者说“它”？如果仅凭身高来选领导人，身高超过4米的她无疑是不二之选。她站立时高达12英尺7英寸（约384厘米），让我们这群“矮小”的人类相形见绌，确实有些令人望而生畏。崛醒者讲述了她在恒星与黑洞之间的战争中作战的经历，以及她如何帮助驱赶恒星，以拯救濒临灭绝的黑洞。我们并不十分确定其真实性，但推测“恒星”可能实际上指的是“星之子”。关键不在于她说了什么，而在于她“如何”说的。如果我没记错，她是这样表述的：\n\n“第一代的星之子想要驱逐对立之子。我们帮助了对立之子。他们的星云得以保全，并通过他们迎来了‘诞生’。”\n\n然而，我们在任何已知的星际数据库中都无法找到关于这场冲突的记录。如果它确实发生过，那也一定是在非常久远的时代。"
   }
 ]

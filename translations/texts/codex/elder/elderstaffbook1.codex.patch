@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Grimoire of Nalshakk",
-    "value": "Nalshakk魔典"
+    "value": "纳尔沙克魔典"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "A rather droll text all about one particular staff. It's quite ridiculous.",
-    "value": "某人对于一根法杖的描述，或许这只是恶作剧。"
+    "value": "此卷通篇皆在描述某根特异法杖，言辞滑稽，荒诞不经。"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "[page 854] - And then it was that I at long last assembled it from the Elder Tome, two Rune Wands and an Elder Artifact. My enemies shook in terror, for the staff I held was capable of might untold! I was invincible! And hungry. Popcorn? Yes. That seemed a reasonable...",
-    "value": "[第854页] - 然后我终于用壹本远古之书，贰根密文魔杖和壹个远古神器把它组装起来了。我的敌人惊恐万分，因为我手中的法杖强大得不能说话。我有点饿，爆米花？似乎挺合口..."
+    "value": "[第854页] - 正是在那时，我终于将古籍、两根符文魔杖和一件上古遗物组合完成。我的敌人们惊恐万分，因为我手中所持法杖蕴含着无法言喻的强大力量！我已无敌于天下！同时，也感到饿了。爆米花？嗯，这似乎是个不错的选择..."
   }
 ]

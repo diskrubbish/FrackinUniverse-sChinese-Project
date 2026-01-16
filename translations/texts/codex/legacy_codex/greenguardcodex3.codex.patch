@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/title",
     "raw": "Greenguard Journal 3",
-    "value": "绿卫记录 3"
+    "value": "绿林卫队日志 3"
   },
   {
     "op": "replace",
@@ -15,12 +15,12 @@
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "Perhaps my only reservation about being stationed in The Dust is the elders' insistence on transferring us regularly between outposts. It's to stop Greenguards becoming attached to prisoners, they say, although the chances of some of my peers developing any kind of emotional bond is next to zero.",
-    "value": "也许对于驻扎在尘土地牢中我来说，唯一的保留活动就是长老们坚持定期把我们调到前哨基地。他们说，这是为了防止绿林守卫对囚犯产生依恋，尽管我和一些同龄人建立任何情感纽带的可能性几乎为零。"
+    "value": "若说我对驻扎在尘狱的唯一顾虑，那大概就是长老们坚持要我们定期在前哨站之间轮换。他们说，这是为了防止绿林守卫对囚犯产生依恋。尽管在我看来，我某些同僚能发展出任何情感纽带的几率，根本是零。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "The journey between outposts is stressful, particularly with the Drysap working its magic. But this is the price I must pay to follow my dreams.",
-    "value": "前哨站之间的旅程充满压力，尤其是干树叶施展魔法的时候。但这是我追求梦想必须付出的代价。"
+    "value": "前哨站之间的旅途令人压力重重，尤其是在干树汁施展其“魔力”的时候。但这就是我追寻梦想所必须付出的代价。"
   }
 ]

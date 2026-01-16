@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/title",
     "raw": "Ahvis Scripture",
-    "value": "阿维斯圣经"
+    "value": "阿维斯圣典"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "A dreamily written holy book",
-    "value": "一本梦幻般的圣书"
+    "value": "一部如梦似幻的圣书"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "Apparently a holy text, this codex details a creature referred to as Ahvis and her divine guidance over the Eld'uukhar people. Most specifically, it details her literal link to all crystalline formations in the universe. The importance of the Male and Female Purpose are spoken of in great detail, likely pointing to a gender-based role-heavy society in the historical context. The effects of various crystals on the genders is explored in excruciatingly boring detail.",
-    "value": "显然这是一本神圣的经文，这本手抄本详细记载了一个被称为阿维斯的造物以及她对于厄休安龙人的神圣指引。更具体地说，它详细描述了宇宙中所有水晶构造的文字联系。人们非常详细地谈到了男性和女性目标的重要性，这可能表明，在历史背景下，社会基于性别的角色十分重要。各种各样的晶体对性别的影响在极其枯燥的细节中被探索。"
+    "value": "此手抄本显然为神圣经文，详尽记载了被称为“阿维斯”的存在及其对晶龙族的神圣指引，尤其阐述了她与宇宙间一切水晶构造的直接联系。书中反复强调“男性使命”与“女性使命”的重要性，似折射出历史背景下社会对性别角色的严格划分。各类水晶对性别的影响亦以极为繁琐的细节展开探讨。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "Allegedly, red crystals when imbibed by a male Eld'uukhar, result in a `sexual deviant that will mate with more than one dragon`, while a green crystal ingested by a female will cause the same effect. A blue crystal by either is said to bring euphoria, but only if it is sky blue. Cyan will lead to psychosis...apparently. This is likely not fact, and more than likely heavily influenced by dogmatic principles.",
-    "value": "据说，当雄性的厄休安吸收红色水晶时，会导致性变态，然后与不止一条族人进行交配，而雌性吸收的绿色水晶也会导致同样的结果。据说，蓝色水晶中的任何一种都能带来性快感，但前提是它是天蓝色的。显然青色会导致精神错乱。这很可能不是事实，而更可能是受教条主义原则的严重影响。"
+    "value": "据载，雄性晶龙若吸收红色水晶，将沦为“性悖逆者”，与不止一条同族交配；雌性服用绿色水晶亦会导致相同后果。而天蓝色水晶无论对男女皆可带来极度愉悦，但青蓝色则据说会引发精神错乱...此类描述恐非事实，更多似受教条原则的深刻影响。"
   }
 ]

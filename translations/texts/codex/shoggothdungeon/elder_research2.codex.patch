@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Sickness",
-    "value": "恶疾之灾"
+    "value": "恶疾"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "A somewhat ominous entry.",
-    "value": "不详开端"
+    "value": "一则不祥的记录。"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "Apparently, this specimen is infectious. I have come down with a strange sickness I cannot detect in my cells. It's changing me somehow, and I don't think I like it. I won't tell the others, though. The last thing we need is a panic with everything else already going on. I'm sure it'll be fine.",
-    "value": "显然，这是一个已被感染的样本。自从静下来之后我在我体内发现了一种从未发现过的新型疾病。我非常厌恶它正逐渐改变我身体的这种感觉，但我并不会把它告诉给任何人，因为这样做只是雪上加霜罢了。希望一切都会好起来。"
+    "value": "显然，此样本具有传染性。我体内出现了一种无法从细胞层面识别的怪疾。它正以某种方式改变着我，而我对这种变化深感不安。但我不会告知其他人。在已有诸多变故之时，引发恐慌只会让情况更糟。但愿一切会好转。"
   }
 ]

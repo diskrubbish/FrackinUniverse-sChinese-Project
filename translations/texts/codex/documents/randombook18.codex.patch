@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/title",
     "raw": "About the Hylotl's low numbers...",
-    "value": "关于鲛人低人口..."
+    "value": "关于鲛人的低人口数…"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "Another part of the truth.",
-    "value": "真相的另一部分。"
+    "value": "真相的另一面"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "So, you know how we pivoted so easily to protecting the Hylotl when the Florans started their war? Well, while we did honestly help defend them, they could've easily kept their numbers as high as they are anyways; we were preventing them from exploding in numbers before the Florans came in and started doing so; we're just preventing the plants from being too aggressive in the population control. Think about it for a bit, and it'll make sense. What do fish and frogs do naturally? Lay a lot of eggs. Hylotl are quite similar in that regard. I'm not sure how there's so many Florans or how more are made, But as for the Hylotl? Eggs out the wazoo.",
-    "value": "那么，你知道当叶族人发动战争时，我们为何会轻易地转向保护鲛人的吗？ 虽然我们确实帮助保护了他们，但是它们本来可以轻易地保持他们的数量不变; 我们在叶族人入侵之前就已经防止了他们的数量爆炸; 我们只是在防止这些植物在控制种群方面过于激进。 稍微想一想，这一切就会变得有意义。 鱼和青蛙天生做什么？ 产很多卵。鲛人在这方面非常相似。 我不知道怎么会有这么多叶族人，或者怎么会有更多，至于鲛人？ 大量的卵。"
+    "value": "你知道当叶族发动战争时，我们为何能如此迅速地转为“保护”鲛人吗？嗯，我们确实真心实意地帮助他们进行防卫，但即便没有我们，他们也能轻易保持现有的人口水平；事实上，在叶族入侵并开始“控制”之前，我们就在防止鲛人数量爆炸性增长了；我们只是阻止那些“植物”在种群控制方面做得太过火。稍微想一想，你就会明白。鱼和青蛙的天性是什么？产大量的卵。鲛人在这方面非常相似。我不清楚叶族为何数量如此庞大或其繁衍方式，但至于鲛人？他们的卵多到数不清。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "Next time they whine at you about their numbers, let 'em have that food for thought. Sure, only 15% of the survivors from our constant raiding might've come out the other side of the Hylotl-Floran wars, which means about 10% of the overall population pulled through, but that was still more than enough to defend themselves (with a little bit of assistance, of course) instead of becoming lunch. If our kind starts breaking the treaty we signed, though, there might actually be a reason for them to worry about underpopulation.",
-    "value": "下次他们向你抱怨他们的人口时，让他们好好想想。当然，只有15%的幸存者从持续不断的掠劫中逃出了叶族-鲛人战争，这意味着大约10%的总人口度过了难关，但这仍然足以保护他们自己(当然，只需要一点点帮助)，而不是成为叶族人的午餐。然而，如果我们的种族开始违反我们签署的条约，他们可能真的有理由会担心人口不足。"
+    "value": "下次他们再向你哭诉人口问题，就把这点“食粮”抛给他们思考。诚然，在持续不断的劫掠中，只有约15%的鲛人-叶族战争幸存者能活到战争结束，这意味着其总人口中大约只有10%成功渡过了难关，但这仍然足够他们进行自卫（当然，只需一点点协助），而不至于沦为叶族的午餐。不过，倘若我方种族开始违背我们签署的条约，那他们倒真有可能要为人手不足而发愁了。"
   }
 ]

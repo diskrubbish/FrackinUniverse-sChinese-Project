@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Schematics for some abhorrent weapon",
-    "value": "邪恶之兵图"
+    "value": "某亵渎兵刃锻造图录"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "With a hacking chop, you will sever the limbs of His foes for the glory of all. The flesh sacrament can then be imbibed, and the true path to fighteousness revealed. Upon the altar, place five Noxcium, one Valtan Casing and four Blade Shards.",
-    "value": "使用这把锤子，你会为你所有的荣耀而切断他们的敌人的四肢，然后你可以吸收他们的肉体作为圣礼，以揭示真正的正义之路。在祭坛上放置伍块诺克石锭，壹个沃尔坦核心和肆块刀剑碎片，你就可以得到它。"
+    "value": "挥此锤者，当为祂之荣光，以裂肢断骨之刑惩戒诸敌。继而可啜饮其血肉圣礼，昭示真正征道之路。祭坛之上，需奉上：\n伍块诺克石锭\n壹个沃尔坦核心\n肆块刀剑碎片。"
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/title",
     "raw": "Varok Hashtur",
-    "value": "瓦洛克 哈斯塔"
+    "value": "Varok Hashtur（永恒预言）"
   },
   {
     "op": "replace",
@@ -15,24 +15,24 @@
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "S'uhn nglui ph'bug ee 'bthnk ebunma nw shogg naflshagg nasll'ha, shoggoth grah'nog nabug gof'nn Nyarlathotep ebunma mnahn'. Y'hah nnnsyha'h ah Chaugnar Faugn sll'ha ph'vulgtlagln uh'e vulgtm 'ai Dagon, h'ftaghu sll'ha Tsathoggua",
-    "value": "S'uhn nglui ph'bug ee 'bthnk ebunma nw shogg naflshagg nasll'ha, shoggoth grah'nog nabug gof'nn Nyarlathotep ebunma mnahn'. Y'hah nnnsyha'h ah Chaugnar Faugn sll'ha ph'vulgtlagln uh'e vulgtm 'ai Dagon, h'ftaghu sll'ha Tsathoggua"
+    "value": "S'uhn nglui ph'bug ee 'bthnk ebunma nw shogg naflshagg nasll'ha, shoggoth grah'nog nabug gof'nn Nyarlathotep ebunma mnahn'. \n（在梦境与扭曲现实的彼端，吾等知晓那来自深渊的、非属任何实体的低语。奈亚拉托提普那千变万化的意志正穿梭于修格斯的巢穴之中。）"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "hai Shub-Niggurath s'uhn shogg cChaugnar Faugn f'hlirgh, ngluiyar 'ai shtunggli geb y-s'uhn nw r'luh Cthulhu. H'gnaiih wgah'n ph'shagg Azathoth vulgtlagln naflsyha'h nguln nog zhro, 'bthnknyth R'lyeh lloig shugg shtunggli goka uln kn'a, naflFaugn",
-    "value": "hai Shub-Niggurath s'uhn shogg cChaugnar Faugn f'hlirgh, ngluiyar 'ai shtunggli geb y-s'uhn nw r'luh Cthulhu. H'gnaiih wgah'n ph'shagg Azathoth vulgtlagln naflsyha'h nguln nog zhro, 'bthnknyth R'lyeh lloig shugg shtunggli goka uln kn'a, naflFaugn"
+    "value": "Y'hah nnnsyha'h ah Chaugnar Faugn sll'ha ph'vulgtlagln uh'e vulgtm 'ai Dagon, h'ftaghu sll'ha Tsathogguahai Shub-Niggurath s'uhn shogg cChaugnar Faugn f'hlirgh, ngluiyar 'ai shtunggli geb y-s'uhn nw r'luh Cthulhu.\n（看啊！那无以名状者与楚格纳·法格恩正侍奉着自污秽光辉中升起的达贡。而在撒托古亚与莎布·尼古拉丝的污秽之地，楚格纳·法格恩于深渊中蠕动。梦境与时空本身，皆指向克苏鲁那神圣的苏醒。）"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     "raw": "nw nilgh'ri ngstell'bsna Cthulhu lw'nafhog ya Stell'bsnayar hafh'drn ngy'hah 'bthnk Tsathoggua 'bthnk kadishtu R'lyeh, shtungglinyth mnahn' ilyaa gnaiih R'lyeh nnnShub-Niggurath 'ai ngDagon, k'yarnak Tsathoggua gnaiih Yoggoth",
-    "value": "nw nilgh'ri ngstell'bsna Cthulhu lw'nafhog ya Stell'bsnayar hafh'drn ngy'hah 'bthnk Tsathoggua 'bthnk kadishtu R'lyeh, shtungglinyth mnahn' ilyaa gnaiih R'lyeh nnnShub-Niggurath 'ai ngDagon, k'yarnak Tsathoggua gnaiih Yoggoth"
+    "value": " H'gnaiih wgah'n ph'shagg Azathoth vulgtlagln naflsyha'h nguln nog zhro, 'bthnknyth R'lyeh lloig shugg shtunggli goka uln kn'a, naflFaugnnw nilgh'ri ngstell'bsna Cthulhu lw'nafhog ya Stell'bsnayar hafh'drn ngy'hah 'bthnk Tsathoggua 'bthnk kadishtu R'lyeh, shtungglinyth mnahn' ilyaa gnaiih R'lyeh nnnShub-Niggurath 'ai ngDagon, \n（阿撒托斯那巨大的眼眸在污秽光辉中注视，其不可名状的低语穿透深渊。拉莱耶的巨石在时空的尽头震动。当星辰归位之时，克苏鲁将从其星宿的墓穴中获得自由。赞美拉莱耶！赞美撒托古亚！时空的扭曲将生命转化为对拉莱耶的觐见。）"
   },
   {
     "op": "replace",
     "path": "/contentPages/3",
     "raw": "Y-ep shogg lloigor ebunma n'gha orr'e naflkn'a ftaghu naflhlirgh, cDagon nilgh'ri ep mnahn' ooboshu gnaiih mg f'grah'n",
-    "value": "Y-ep shogg lloigor ebunma n'gha orr'e naflkn'a ftaghu naflhlirgh, cDagon nilgh'ri ep mnahn' ooboshu gnaiih mg f'grah'n"
+    "value": "k'yarnak Tsathoggua gnaiih Yoggoth Y-ep shogg lloigor ebunma n'gha orr'e naflkn'a ftaghu naflhlirgh, cDagon nilgh'ri ep mnahn' ooboshu gnaiih mg f'grah'n\n（莎布·尼古拉丝与达贡将降临。撒托古亚将在伊格的黑暗中知晓一切，深渊的住民将再次以万千面目现身。不再有生命，不再有希望，唯有达贡所指引的、通往永恒疯狂与深渊巢穴的路径。）"
   }
 ]

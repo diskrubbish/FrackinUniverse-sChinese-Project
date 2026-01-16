@@ -441,13 +441,13 @@
     "op": "replace",
     "path": "/strings/research/metals_zerchesium/0",
     "raw": "Zerchesium",
-    "value": "高熔点矿"
+    "value": "极熔金矿"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_zerchesium/1",
     "raw": "^orange;Tier 3.5^reset;\n\nLearn to process ^cyan;Zerchesium^reset;. \n\nZerchesium can be located on ^green;Mountainous^reset; biomes, but sometimes appears on ^green;Sulphuric^reset; worlds as well.",
-    "value": "^orange;3.5级^reset;\n\n学习如何处理^cyan;高熔点矿^reset;\n\n高熔点矿大部分藏于^green;山脉^reset;生物群落中，但有时也会出现在^green;硫酸^reset;世界中。"
+    "value": "^orange;3.5级^reset;\n\n学习如何处理^cyan;极熔金矿^reset;\n\n极熔金矿大部分藏于^green;山脉^reset;生物群落中，但有时也会出现在^green;硫酸^reset;世界中。"
   },
   {
     "op": "replace",

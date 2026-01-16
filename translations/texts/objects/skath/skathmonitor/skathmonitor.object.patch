@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A Skath monitor, for monitoring things.",
-    "value": "绘世者监视器，用于监视事物。"
+    "value": "海鳞族监视器，用于监视事物。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Skath Monitor",
-    "value": "绘世者监视器"
+    "value": "海鳞族监视器"
   },
   {
     "op": "replace",
@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Confused. The writings of the Skath are still unreadable by me.",
-    "value": "迷糊。 我仍然读不懂绘世者的作品。"
+    "value": "迷糊。 我仍然读不懂海鳞族的作品。"
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "The writings of the Skath are still a mystery to so many.",
-    "value": "绘世者的作品对许多人来说仍然是个谜。"
+    "value": "海鳞族的作品对许多人来说仍然是个谜。"
   },
   {
     "op": "replace",

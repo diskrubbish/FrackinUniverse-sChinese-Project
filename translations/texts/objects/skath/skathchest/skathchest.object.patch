@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A chest made by the Skath.",
-    "value": "一个由绘世者制作的箱子。"
+    "value": "一个由海鳞族制作的箱子。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Skath Chest",
-    "value": "绘世者箱子"
+    "value": "海鳞族箱子"
   },
   {
     "op": "replace",
@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Eager. I wonder what the Skath hide inside this!",
-    "value": "渴望。 我想知道绘世者在这里面藏着什么！"
+    "value": "渴望。 我想知道海鳞族在这里面藏着什么！"
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "The Skath pay far too little attention to the appearance of their furniture.",
-    "value": "绘世者对家具的外观太不注意了。"
+    "value": "海鳞族对家具的外观太不注意了。"
   },
   {
     "op": "replace",

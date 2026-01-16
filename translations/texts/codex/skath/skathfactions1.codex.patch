@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/title",
     "raw": "Skath Factions 1",
-    "value": "绘世者派系 1"
+    "value": "海鳞族派系 其一"
   },
   {
     "op": "replace",
@@ -15,24 +15,24 @@
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "The Vanguard are the military arm and command the fleets and fortress worlds of the Skath. It is without doubt the biggest faction of their kind, due in part to their desire to protect their spawn-worlds. The Vanguard believes that with enough warships and enough defensive measurements, other races will not dare to attack, thus resulting in peace. Unfortunately, this is but a concept...and not how things actually work in practice.",
-    "value": "先驱是掌控绘世者舰队和要塞世界的军队。毫无疑问这是他们同类中最大的派系，部分原因是他们想要保护自己的繁衍世界。先驱认为当掌握了足够的战舰和防御手段，其他种族便不敢发起攻击，从而实现和平。不幸的是这只是理想...而不是现实。"
+    "value": "先驱是掌控海鳞族舰队与要塞世界的军事力量，无疑为其种族中规模最大的派系，部分源于其对繁衍世界的保护欲。先驱认为，只要拥有足够战舰与防御手段，他族便不敢进犯，从而实现和平。可惜这仅是理想...而非现实。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "The Vanguards duty is to protect Skath worlds by any means necessary. Commanders and Admirals of their fleets have follow the Codex of War to the letter. Of course, these rules are subject to change at a moments notice due to the interference of the Council, and even the most intelligent Admiral is at their mercy when it comes to rule of law.",
-    "value": "先驱的职责使用一切必要的手段保护绘世者世界，他们舰队的指挥官与将军也严格遵守《战争法典》。当然，由于议会的干涉，这些条例随时可能改变，即使最聪明的将军也无法逃离法律的支配。"
+    "value": "先驱的职责是以一切必要手段守护海鳞族世界，其舰队指挥官与将领严格遵循《战争法典》。然而，因议会干预，这些条例随时可能变更，即便最睿智的将领亦难逃法律束缚。"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     "raw": "More than one invasion has been carried out under the pretense of 'protecting' their kind, and many more will follow so long as inept leadership is allowed to rule their people. The very nature of their council is corrupt at its root, and the average Skath is ignorant of the extent of this issue. The result is a social heirarchy reliant on unjust and idiotic leaders quite accepting of bribes and general favoritism based on profits.",
-    "value": "侵略战争往往是以“自保”的名义发起，只要无能的领导人在台上多一天，就会有更多战争到来。大多数绘世者不了解拥有一个腐败议会的严重性，这将导致整个社会阶层都受那些愚蠢的不公正的贪官污吏控制。"
+    "value": "多次侵略战争皆以“自卫”之名发动。只要无能的领导继续执政，战事便不会止息。多数海鳞族未能察觉腐败议会的危害，整个社会阶层正被愚蠢不公、受贿徇私的官僚所控。"
   },
   {
     "op": "replace",
     "path": "/contentPages/3",
     "raw": "Some have even whispered that the Kirhosi may be partly responsible for this corruption through the promotion of trade markets in Skathian territories, but this is hearsay I cannot verify. By casual observation, I would tend to agree...to a point. Kirhosi are hardly secretive about their love of Trade for profit.",
-    "value": "有些人甚至在私下说鼠人可能是导致腐败的部分原因，因为他们在绘世者地区推广贸易市场，但这终究只是我无法确认的传闻。通过偶然的发现，我倾向于同意...至少是在某种程度上。那就是鼠人毫不掩饰他们对贸易的热爱。"
+    "value": "有人私下指出，鼠族人或为腐败推手之一，因其在海鳞族领地大力推广贸易市场。然此说仅为未经证实的流言。据我偶然观察，我倾向于认同...至少部分认同。鼠族人对贸易牟利的热衷，可谓毫不掩饰。"
   }
 ]

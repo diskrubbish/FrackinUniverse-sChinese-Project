@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Pellucid Shaping",
-    "value": "透明塑形"
+    "value": "晶莹塑形"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "A guide to vibrant crystals",
-    "value": "一本生动的水晶指南"
+    "value": "活力水晶指南"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "<Written in Eld'uukharic script, this draconic guide informs the user on the best method of growing various crystals to what it describes as 'most holy perfection'.",
-    "value": "这本龙形指南以厄休安龙族脚本写成，告诉使用者种植各种水晶的最佳方法，并将其称之为“最神圣的完美”。"
+    "value": "以晶龙文书写，这本龙族指南向使用者传授了将各种水晶培育至其所谓“至圣完美”境界的最佳方法。"
   }
 ]

@@ -9,24 +9,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "A log explaining the government of the Skath.",
-    "value": "阐述绘世者政府的笔记"
+    "value": "一份关于海鳞族政体的说明记录。"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "The body politic of the Skath is referred to as 'The Council of Elders' and is exactly what it sounds like. The four eldest of their kind rule the entire species. It is the only such form of government known in the cosmos (for how can only four dictate the course of an entire species?) but has maintained power over the Skath Imperium for at least two to three hundred years.",
-    "value": "绘世者一族的政体被称为“古老者议会”，就像它的名字一样，四位他们种族的古老者统治着整个族群。这是宇宙中已知的唯一一种这样形式的政府（为什么四个人就可以决定整个族群的命运？），但他却维持了绘世者帝国至少两百到三百年的秩序。"
+    "value": "海鳞族的政治体制被称为“古老者议会”，顾名思义，由四位种族中最年长的成员统御全族。此为已知宇宙中唯一此类政体（何以仅凭四人决断整个族群的命运？），但“古老者议会”已维持海鳞帝国秩序至少二至三百年。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "To be considered for the council, a Skath must first reach the age of Last Nest (somewhere around sixty in human years) and have no less than three hundred offspring. His role in the military must have been a major one, with a rank no less than Admiral. Finally, they must have seen combat at least twice (heroics and long-standing combat records are preferred.)",
-    "value": "要想加入议会，一位绘世者需要先达到“最后生一窝”年龄（先当于人类的六十岁），并且剩余不少于三百个后代。同时他必须在军队中担任重要职务，军衔不低于上将。最后，他至少参加过两次战役（有英雄事迹与长期参战记录者优先）。"
+    "value": "欲入议会者，须先达“末巢之年”（约合人类六十岁），且拥有不少于三百名后代。同时需曾任军队要职，军衔不低于上将，并至少参与过两次战役（具战功或长期作战记录者优先）。"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     "raw": "The first council is said to have been voted upon by the people, but all documentation of that era has been long since lost. Personally, I find it hard to believe that an entire species agreed that absolute power over all should rest on the shoulders of their Elders. The logistics of that are frightening, to say the least. The reality is worse.",
-    "value": "据说第一届议会是由人民投票选出的，但关于那个时代的所有文件早已失传。就我个人而言，我很难相信整个族群都会同意凌驾于一切之上的权利应该被赋予古老者。这其中的逻辑令人害怕，至少可以说，现实比我们想象的更糟。"
+    "value": "据传首届议会经由民选产生，然该时代所有文献早已散佚。就个人而言，我难以相信全族会同意将至高权柄尽付古老者之手。此中运作逻辑令人悚然，而现实恐怕更糟。"
   }
 ]

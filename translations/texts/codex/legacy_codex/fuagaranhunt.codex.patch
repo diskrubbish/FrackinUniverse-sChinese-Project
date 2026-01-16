@@ -9,24 +9,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "A warning.",
-    "value": "这是一份紧急警报。"
+    "value": "一则警告。"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "Greetings, intrepid space explorer. Don't ask who we are, or how we've found you. You're better off not knowing. We'll get straight to the point. Mushrooms. Mushrooms are taking over the galaxy. Agarans, to be precise. I'm sure you've seen them, waddling about, making their terrifying pods, yelling in unknown tongues. What you may not be aware of is just how dangerous they are.",
-    "value": "首先，我要向无畏的太空探险家，就是你，问好。请不要问我们是谁。一个紧急警报。蘑菇人正在大肆入侵整个星系，或许你已经见到它们狰狞的面孔，不过你可能还是不了解它们到底有多恐怖。"
+    "value": "向您问好，无畏的太空探险家。请不要询问我们是谁，或是如何找到了您。不知情对您更好。我们长话短说：蘑菇，准确地说，是蘑菇人，正在占领银河系。想必您已见过它们，蹒跚而行，培育着可怕的菌荚，用未知的语言嘶吼。但您可能尚未意识到它们究竟有多危险。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "We, an unknown organization in no way associated with Thornwing or Big Ape, are attempting to translate their speech patterns and quell their uprising. And that's where you come in. We need you to get close to the Agarans, to study them, to hit them with heavy weaponry until they surrender.",
-    "value": "我们，是一个与荆棘之翼或老大猿毫无瓜葛的组织，我们正试图翻译它们的语言，平息这场战争。无论你从哪里来，我们需要你靠近蘑菇人，监视它们，并用重型武器打到它们投降为止。"
+    "value": "我们，一个与荆棘之翼或老大猿绝无任何瓜葛的匿名组织，正试图破译它们的语言以平息这场暴动。而这正是您发挥作用之时。我们需要您接近蘑菇人，研究它们，并用重型武器攻击直至其投降。"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     "raw": "To aid you in your unsolicited mission - which we are very grateful for, of course - we have provided you with a foolproof Agaran disguise that will let you get close to these vile fungi. Wear it, or don't, it's up to you. Oh, one thing. We've heard talk of giant pods appearing around the galaxy. Maybe avoid those, leave them to the experts.",
-    "value": "为了帮助你更好地进行这项使命，我们会提供绝对不会被看穿的蘑菇人伪装服，这能让你靠近那些卑劣的蘑菇人。当然，穿与不穿都取决于你。噢，对了，我们听说在这附近的星系出现了一些巨型真菌，或许远离它们是个好办法。"
+    "value": "为协助您完成这项我们...呃，当然非常感激的未经请求的使命，我们为您准备了一件绝不会被识破的蘑菇人伪装，以便您接近这些卑劣的真菌。穿或不穿，随您心意。哦，还有一事。我们听闻银河系各处出现了巨型菌荚。也许最好避开它们，留给专家处理。"
   }
 ]

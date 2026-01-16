@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Why does this exist?",
-    "value": "这玩意有什么存在的必要吗？"
+    "value": "这书有什么存在的必要吗？"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "A surprisingly informative book devoted entirely to fitting small objects into larger objects. Page length: 280 pages. Publisher: Penguin",
-    "value": "这是一本信息量惊人的书，完全致力于将小物体放入大物体中。页数: 280页。出版者: 企鹅"
+    "value": "一本居然真能教你“怎么把小东西怎么塞进大东西”的实用手册，整整280页。出版方：企鹅出版社。"
   }
 ]
