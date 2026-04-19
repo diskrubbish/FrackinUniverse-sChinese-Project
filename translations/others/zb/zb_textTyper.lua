@@ -45,6 +45,31 @@ require "/scripts/utf8.lua"
 textTyper = {}
 textTyper.allowedScrambleCharacters = "abdeghnopqsuvyzABDGHJKNOPQRSUVXY023456789_~"
 
+-- 将字符位置转换为字节位置（用于utf8find）
+local function charToBytePos(str, charPos)
+	if charPos <= 1 then return 1 end
+	local bytePos = 1
+	local currentChar = 1
+	while currentChar < charPos and bytePos <= #str do
+		local char = string.byte(str, bytePos)
+		if char > 127 then
+			if char > 240 then
+				bytePos = bytePos + 4
+			elseif char > 225 then
+				bytePos = bytePos + 3
+			elseif char > 192 then
+				bytePos = bytePos + 2
+			else
+				bytePos = bytePos + 1
+			end
+		else
+			bytePos = bytePos + 1
+		end
+		currentChar = currentChar + 1
+	end
+	return bytePos
+end
+
 function textTyper.init(textData, str, sound)
 	if not textData then
 		sb.logError("[ZB] textTyper.init in textTyper recieved no textData table, writing aborted.")
@@ -83,7 +108,7 @@ function textTyper.init(textData, str, sound)
 		else
 			local str = utf8sub(textCopy, i, 1)
 			if str == "^" then
-				local formatEnd = utf8find(textCopy, ";", string.len(utf8sub(textCopy,1,i)))
+				local formatEnd = utf8find(textCopy, ";", charToBytePos(textCopy, i))
 				if formatEnd then
 					str = utf8sub(textCopy, i, formatEnd - i + 1)
 					skippedChars = skippedChars + utf8len(str) - 1
@@ -91,9 +116,9 @@ function textTyper.init(textData, str, sound)
 				end
 				
 			elseif str == "[" then
-				local bracketEnd = utf8find(textCopy, "]", string.len(utf8sub(textCopy,1,i)))
+				local bracketEnd = utf8find(textCopy, "]", charToBytePos(textCopy, i))
 				if bracketEnd then
-					local format = utf8sub(textCopy, i + 1, bracketEnd - i)
+					local format = utf8sub(textCopy, i + 1, bracketEnd - i - 1)
 					if format == "(playername)" then
 						formatPause = bracketEnd - i
 						
@@ -103,16 +128,16 @@ function textTyper.init(textData, str, sound)
 						end
 						str = nil
 						
-					elseif string.find(format, "(pause)") then
+					elseif utf8find(format, "(pause)") then
 						formatPause = bracketEnd - i
 						str = utf8sub(textCopy, i, bracketEnd - i + 1)
 						
-					elseif string.find(format, "(instant)") then
+					elseif utf8find(format, "(instant)") then
 						formatPause = bracketEnd - i
 						str = utf8sub(textCopy, i + 10, bracketEnd - i - 10)
 						skippedChars = skippedChars + utf8len(str) - 1
 					
-					elseif string.find(format, "(data)") then
+					elseif utf8find(format, "(data)") then
 						formatPause = bracketEnd - i
 						
 						str = utf8sub(textCopy, i + 7, bracketEnd - i - 7)
@@ -131,7 +156,7 @@ function textTyper.init(textData, str, sound)
 						
 						str = nil
 						
-					elseif string.find(format, "(scramble)") then
+					elseif utf8find(format, "(scramble)") then
 						amount = tonumber(utf8sub(textCopy, i + 11, bracketEnd - i - 11))
 						table.insert(textData.scrambingLetters, #textData.toWrite + skippedChars..";"..#textData.toWrite + skippedChars + amount)
 						
@@ -142,7 +167,7 @@ function textTyper.init(textData, str, sound)
 						formatPause = bracketEnd - i
 						str = nil
 						
-					elseif string.find(format, "(function)") then
+					elseif utf8find(format, "(function)") then
 						funcName = utf8sub(textCopy, i + 11, bracketEnd - i - 11)
 						textData.functionCalls[#textData.toWrite] = funcName
 						
@@ -178,11 +203,11 @@ function textTyper.splitTableString(str)
 	local copy = str
 	local temp = ""
 	local dotPos = 0
-	local length = string.len(str)
+	local length = utf8len(str)
 	
 	while dotPos do
 		dotPos = string.find(copy, "%.", 1)
-		temp = string.sub(copy, 1, dotPos, 1)
+		temp = string.sub(copy, 1, dotPos)
 		copy = string.gsub(copy, temp, "", 1)
 		temp = string.gsub(temp, "%.", "", 1)
 		table.insert(split, temp)
@@ -218,13 +243,13 @@ function textTyper.update(textData, wd, sound, volume, cutoffSound)
 					end
 				end
 				
-				local length = string.len(textData.written)
+				local length = utf8len(textData.written)
 				if textData.functionCalls and textData.functionCalls[length] then
 					textData[textData.functionCalls[length]]()
 				end
 				
-				if string.len(write) > 1 then
-					if string.sub(write, 1, 8) == "[(pause)" then
+				if utf8len(write) > 1 then
+					if utf8sub(write, 1, 8) == "[(pause)" then
 						local pause = string.gsub(write, "%D", "")
 						textData.textPause = math.ceil(tonumber(pause))
 						table.remove(textData.toWrite, 1)
@@ -259,8 +284,8 @@ function textTyper.skip(textData, wd)
 	if not textData.isFinished then
 		for i = 1, #textData.toWrite do
 			local write = textData.toWrite[i]
-			if string.len(write) > 1 then
-				if string.sub(write, 1, 8) ~= "[(pause)" then
+			if utf8len(write) > 1 then
+				if utf8sub(write, 1, 8) ~= "[(pause)" then
 					textData.written = textData.written..write
 				end
 			else
@@ -281,24 +306,24 @@ function textTyper.scrambling(textData)
 	if not textData or not textData.scrambingLetters or #textData.scrambingLetters == 0 then return end
 	
 	for _, coords in ipairs(textData.scrambingLetters) do
-		local textLength = string.len(textData.written)
-		local coordsBreaker = string.find(coords, ";")
-		local pointA = tonumber(string.sub(coords, 1, coordsBreaker-1))
-		local pointB = tonumber(string.sub(coords, coordsBreaker+1, string.len(coords)))
+		local textLength = utf8len(textData.written)
+		local coordsBreaker = utf8find(coords, ";")
+		local pointA = tonumber(utf8sub(coords, 1, coordsBreaker-1))
+		local pointB = tonumber(utf8sub(coords, coordsBreaker+1, utf8len(coords)))
 		
 		if textLength < pointA then return end
 		if textLength < pointB then pointB = textLength end
 		
-		local preScramble = string.sub(textData.written, 1, pointA)
-		local toScramble = string.sub(textData.written, pointA + 1, pointB)
-		local postScramble = string.sub(textData.written, pointB + 1, textLength)
+		local preScramble = utf8sub(textData.written, 1, pointA)
+		local toScramble = utf8sub(textData.written, pointA + 1, pointB)
+		local postScramble = utf8sub(textData.written, pointB + 1, textLength)
 		
 		if toScramble ~= "" then
 			local replacement = ""
-			for i = 1, string.len(toScramble) do
-				-- replacement = replacement..textTyper.allowedScrambleCharacters[math.random(1,#textTyper.allowedScrambleCharacters)]
-				local rnd = math.random(1, string.len(textTyper.allowedScrambleCharacters))
-				replacement = replacement..string.sub(textTyper.allowedScrambleCharacters, rnd, rnd)
+			for i = 1, utf8len(toScramble) do
+				-- replacement = replacement..textTyper.allowedScrambleCharacters[math.random(1,utf8len(textTyper.allowedScrambleCharacters))]
+				local rnd = math.random(1, utf8len(textTyper.allowedScrambleCharacters))
+				replacement = replacement..utf8sub(textTyper.allowedScrambleCharacters, rnd, rnd)
 			end
 			
 			textData.written = preScramble..replacement..postScramble
