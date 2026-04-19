@@ -9,18 +9,18 @@
     "op": "replace",
     "path": "/text",
     "raw": "The map is broadcasting a distress signal, along with coordinates to a remote lunar facility. Perhaps I should investigate.",
-    "value": "在这份地图的坐标地点一直发送着某个求救信号，或许我应该调查清楚到底发生何事。"
+    "value": "这份地图正在播发一条求救信号，附带一个偏远卫星设施的坐标。或许我该去调查一下。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Investigate the distress signal.",
-    "value": "调查求救信号来源。"
+    "value": "调查求救信号。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Having survived this horrific place, I must follow S.A.I.L.'s instructions and destroy it. There's no time to waste!",
-    "value": "我必须遵循S.A.I.L的提示在这可怕的地方生存下来，并摧毁目标。快行动，没时间了！"
+    "value": "在这恐怖之地幸存下来后，我必须遵从S.A.I.L.的指示，彻底摧毁这里。刻不容缓！"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Hires a lowly red-shirt.",
-    "value": "雇用一名地位低微的士兵。"
+    "value": "雇佣一名卑微的红衫军。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Red Shirt Contract",
-    "value": "合同：士兵"
+    "value": "合同：红衫军"
   }
 ]

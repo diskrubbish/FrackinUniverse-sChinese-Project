@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/speak/default/default/0",
     "raw": "You're really cutting it close, <entityname>. Please hurry inside before the emergency meeting starts.",
-    "value": "你可真是掐着时间来的啊。请在紧急会议开始前赶快进去。"
+    "value": "<entityname>，你真是卡着点来的。紧急会议马上就要开始了，请赶快进来吧。"
   },
   {
     "op": "replace",

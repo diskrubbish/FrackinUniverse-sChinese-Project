@@ -9,18 +9,18 @@
     "op": "replace",
     "path": "/text",
     "raw": "The map has directions showing the coordinates to a far-off snowy world where an Apex rebel outpost lies. It seems they have a hostage situation on their hands...you could help, if you're interested.",
-    "value": "地图上有一个坐标，它位于遥远彼岸的一个雪类行星。那上面有猿族反抗军前哨，科学发展部似乎绑架了一位要员作为人质威胁他们，或许你可以帮帮他们？"
+    "value": "地图上标注着通往遥远冰雪世界的坐标，那里藏着一座猿族反抗军的前哨站。他们似乎正面临人质危机...如果你有兴趣，或许可以伸出援手。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Help the Apex Rebels with their hostage situation.",
-    "value": "帮助猿族反抗军。"
+    "value": "协助猿族反抗军处理人质危机。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Thank you for rescuing me! There's a teleporter in the basement, we can use that to escape! Before that, though, take this! You've earned it.",
-    "value": "谢谢你救了我！在地下室有一个传送门，我们可以利用它离开这里，在这之前，拿着这个，这是你应得的奖励。"
+    "value": "谢谢你救了我！地下室有个传送器，我们可以用它逃出去！不过在那之前，先收下这个！这是你应得的。"
   }
 ]

@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "I've heard of ^orange;Ice Crystals^reset; before, but I have yet to actually see one. Can you bring me one? I have no idea where they even come from!",
-    "value": "我以前听说过^orange;冰晶体^reset;，但我还没有真正见过，你能给我拿一个来吗？我甚至都不知道它们是从哪里来的！"
+    "value": "我听说过^orange;冰晶体^reset;，但还从未亲眼见过。你能带一个给我吗？我甚至不知道它们是从哪里来的！"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Have a nice hunk of cash as my thanks.",
-    "value": "干的不错，这是你应得的奖励。"
+    "value": "这是一笔可观的报酬，聊表谢意。"
   }
 ]

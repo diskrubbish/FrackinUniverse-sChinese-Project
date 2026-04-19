@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Explosive Redirection III",
-    "value": "重定义爆炸 III"
+    "value": "爆炸重定向 III"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "Another upgrade to the Zero Burst tech!",
-    "value": "我把爆炸跳跃改善得更完美了。"
+    "value": "零点爆发科技再次迎来升级！"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "I can now boost exceptionally high!",
-    "value": "我现在可以跳得更高。"
+    "value": "我现在可以跳得异常高！"
   }
 ]

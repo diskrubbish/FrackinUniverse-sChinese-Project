@@ -3,31 +3,31 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0",
     "raw": "Jump right in, the water's fine!",
-    "value": "跳进去吧，水很好！"
+    "value": "快跳进来吧，水温正好！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
     "raw": "Want to swim with the fishes?",
-    "value": "想和鱼儿一起游泳吗？"
+    "value": "想和鱼儿一起畅游吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
     "raw": "Floran wantsss see the fisshess.",
-    "value": "叶族人想想想看看这条鱼鱼鱼。"
+    "value": "叶族人想想想去看鱼儿。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Boastful. I am personally acquanted with Shamu, you know.",
-    "value": "自夸。 你知道，我个人很喜欢杀人鲸。"
+    "value": "自夸。我本人可是认识沙姆的，你知道吗。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
     "raw": "Jump right in, the water's fine!",
-    "value": "跳进去吧，水很好！"
+    "value": "快跳进来吧，水温正好！"
   },
   {
     "op": "replace",
@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Mocking. Afraid of a little dip?",
-    "value": "嘲笑。 害怕稍稍的浸水吗？"
+    "value": "嘲笑。怕这点小浪？"
   },
   {
     "op": "replace",
@@ -51,6 +51,6 @@
     "op": "replace",
     "path": "/scriptConfig/crew/role/field",
     "raw": "Nautical Studies",
-    "value": "航海研究"
+    "value": "航海学"
   }
 ]

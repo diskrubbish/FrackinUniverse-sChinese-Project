@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/title",
     "raw": "^green;Infiltration",
-    "value": "^green;入侵"
+    "value": "^green;潜入"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "The map shows the way to a remote Miniknog stronghold on a distant planet. Seems like the rebels need help.",
-    "value": "地图上显示出遥远星球上科技发展部建筑的坐标。猿族反叛军正需要你的帮助。"
+    "value": "地图上标示着通往遥远星球上一处偏僻的科技发展部据点的路径。看来反抗军需要支援。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Infiltrate the Miniknog facility and assassinate the research team.",
-    "value": "入侵科学发展部建筑并试图暗杀其内的科学研究人员。"
+    "value": "潜入科学发展部设施，刺杀研究团队。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "The deed is done. Let's get out of here.",
-    "value": "交易已经完成，让我们离开这儿吧。"
+    "value": "事情办妥了，我们快离开这里。"
   }
 ]

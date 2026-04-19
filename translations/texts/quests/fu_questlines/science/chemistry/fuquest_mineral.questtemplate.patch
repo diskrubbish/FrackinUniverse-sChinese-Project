@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/text",
     "raw": "Next up: ^orange;Mineral Samples^reset;. Make some in your ^orange;Chemistry Lab^reset;. Like DNA samples they are ^green;essential^reset; in lab use.",
-    "value": "下一步：^orange;矿物样本^reset;。你可以在化学操作台里制作它。就如同DNA样本一样，这也是你实验中需要到的重要物质。"
+    "value": "接下来是：^orange;矿物样本^reset;。在你的^orange;化学操作台^reset;处制作一些。如同DNA样本一样，它们在实验室使用中^green;至关重要^reset;。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "With mineral and DNA samples in your possession you've opened up a whole new world of research and possibility. Now you should upgrade to a ^orange;Bio-Chem Lab^reset; for even more advanced research!",
-    "value": "随着你成功制作出了矿物样本和DNA样本后，你已经进入了一片新的领域。我建议你应该升级到^orange;生化实验室^reset;，以应付更为复杂的研究！"
+    "value": "手握矿物与DNA样本，您已开启了一个充满无限可能与全新研究的世界。现在，升级至^orange;生化实验室^reset;，迎接更前沿的科研探索吧！"
   }
 ]

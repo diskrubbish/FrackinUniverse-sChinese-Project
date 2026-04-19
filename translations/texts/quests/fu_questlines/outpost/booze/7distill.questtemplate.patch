@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "Let's get what we need for our next beverage. Mash some ^green;apples, pears, grapes and peaches^reset;.",
-    "value": "让我们来制作下一种饮料所需的材料吧！你需要把^green;苹果、梨、葡萄和桃子^reset;捣碎。"
+    "value": "让我我们来准备下一杯饮品所需的材料。把^green;苹果、梨、葡萄和桃子^reset;捣碎。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Now let's move on to something a little harder. Something with some oomph!",
-    "value": "现在让我们再加把劲！你需要做得更出色！"
+    "value": "现在，我们来挑战一些更有难度、更具冲击力的内容吧！"
   }
 ]

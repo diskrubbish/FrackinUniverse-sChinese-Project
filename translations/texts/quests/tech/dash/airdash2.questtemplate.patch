@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Enhancing Inferior Tech",
-    "value": "获得能量猛冲"
+    "value": "升级低端科技"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "I think this technology will help me to enhance my ^orange;Air Dash^reset; tech! With this new ^orange;Advanced Dash^reset; I should see significant improvements!",
-    "value": "我认为这项科技能增加我在空中冲刺的距离！使用新科技^orange;空中冲刺 II^reset;，我应该可以看到显著的提升。"
+    "value": "我认为这项技术将有助于提升我的^orange;空中冲刺^reset;科技！有了这个新的^orange;高级冲刺^reset;，我应该能看到显著的进步！"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "I think this technology will help me to enhance my ^orange;Air Dash^reset; tech! With this new ^orange;Advanced Dash^reset; I should see significant improvements!",
-    "value": "我认为这项科技能增加我在空中冲刺的距离！使用新科技^orange;空中冲刺 II^reset;，我应该可以看到显著的提升。"
+    "value": "我认为这项技术将有助于提升我的^orange;空中冲刺^reset;科技！有了这个新的^orange;高级冲刺^reset;，我应该能看到显著的进步！"
   }
 ]

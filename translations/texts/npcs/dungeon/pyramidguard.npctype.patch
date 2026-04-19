@@ -3,19 +3,19 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "raw": "Intruder!",
-    "value": "闯入者！"
+    "value": "入侵者！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/0",
     "raw": "You... desecrate... this place...",
-    "value": "你...亵渎了...这个地方..."
+    "value": "你...竟敢...亵渎...此地..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/1",
     "raw": "I must... defend. I am compelled...",
-    "value": "我必须...保护这里..."
+    "value": "我必须...守护。我身不由己..."
   },
   {
     "op": "replace",
@@ -27,96 +27,96 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/3",
     "raw": "You dishonor this tomb...",
-    "value": "你玷污了这个神圣的地方..."
+    "value": "你玷污了这座陵寝..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/4",
     "raw": "They... they want you gone...",
-    "value": "他们...他们想要你离开..."
+    "value": "他们...他们想要你消失..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/5",
     "raw": "Trespass... and you die...",
-    "value": "胆敢侵犯这神圣的地方...你即将死亡..."
+    "value": "擅闯者...死..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/6",
     "raw": "Thief... Kluex will strike you down...",
-    "value": "小偷...克鲁西斯会审判你的..."
+    "value": "窃贼...克鲁西斯必将降罚于你..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/7",
     "raw": "You will be buried... with the rest...",
-    "value": "你将会被埋葬在这里..."
+    "value": "你将与其他人一同...被埋葬..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/8",
     "raw": "Please, release me from my bonds...",
-    "value": "请你，解开我的束缚..."
+    "value": "请，解开我的束缚..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/9",
     "raw": "Die by my sword...",
-    "value": "在我的武器下灭亡吧..."
+    "value": "死于我的剑下..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/0",
     "raw": "You will... join me... in the ground...",
-    "value": "你会和我一起被亘古埋葬..."
+    "value": "你将...与我一同...长眠于地下..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/1",
     "raw": "Desecrator... I must destroy you...",
-    "value": "亵渎者...我必须摧毁你..."
+    "value": "亵渎者...我必将毁灭你..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/2",
     "raw": "Unbeliever... I have no choice...",
-    "value": "亵渎者...你没有其他选择..."
+    "value": "不信者...我别无选择..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/3",
     "raw": "You spat upon Kluex... now you will die...",
-    "value": "你竟然敢亵渎克鲁西斯...我宣布你死亡..."
+    "value": "你曾唾弃克鲁克斯...现在，你将迎来死亡..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/4",
     "raw": "Turn back, heretic...",
-    "value": "快离开，亵渎者..."
+    "value": "回头吧，异端者..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/5",
     "raw": "Get out... you are forbidden...",
-    "value": "滚出去...你不能踏入此地..."
+    "value": "滚出去...你不被允许..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/6",
     "raw": "They... compel me... run while you still can...",
-    "value": "他们...正在强迫我...趁现在...快离开..."
+    "value": "他们...逼我...趁还能跑，快逃..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/7",
     "raw": "Heresy...",
-    "value": "你这个亵渎者..."
+    "value": "异端..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/8",
     "raw": "I... I remember Avos...",
-    "value": "我...我还记得阿沃斯..."
+    "value": "我...我记得阿沃斯..."
   }
 ]

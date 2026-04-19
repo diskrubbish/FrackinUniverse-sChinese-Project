@@ -3,25 +3,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
     "raw": "I'll give you a 5% fuel cost reduction whenever we're on the ship!",
-    "value": "当我在船上时，我会降低你5%的燃料消耗！"
+    "value": "只要我们在船上，我就给你5%的燃料消耗减免！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
     "raw": "Floran will give ship fuel boostsss when we are on ship!",
-    "value": "当我在船上时，叶族人会会会给你提高燃料利用率。"
+    "value": "我们在船上时，叶族人会提供飞船燃料加成！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Friendly. I'll give you a 5% fuel cost reduction whenever we're on the ship!",
-    "value": "友好。 当我在船上时，我会降低你5%的燃料消耗！"
+    "value": "友好。只要我们在船上，我就给你5%的燃料消耗减免！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
     "raw": "Sir, let me increase your defense!",
-    "value": "先生，让我提升你的防御！"
+    "value": "先生，让我来为您提升防御力！"
   },
   {
     "op": "replace",

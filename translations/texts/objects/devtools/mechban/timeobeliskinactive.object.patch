@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Despawns all mechs in range.",
-    "value": "破坏范围内的所有机甲。"
+    "value": "移除范围内的所有机甲。"
   },
   {
     "op": "replace",

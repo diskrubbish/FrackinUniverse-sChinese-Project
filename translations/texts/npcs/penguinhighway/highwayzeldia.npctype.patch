@@ -3,36 +3,36 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/speak/default/default/0",
     "raw": "A new face...",
-    "value": "呵...新面孔。"
+    "value": "一张新面孔..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "raw": "Hmm. You responded to our distress signal? You certainly don't look like you're from around these parts. My name's Zeldia.",
-    "value": "嗯哼，你收到了我们的求救信号？很高兴你能来，我是Zeldia。"
+    "value": "嗯。你回应了我们的求救信号？看起来你肯定不是本地人。我叫泽尔迪亚。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "raw": "A Protector, you say? Well, that's close enough to being a Guardian...you might not be with SMASH, but we need all the help we can get.",
-    "value": "你是来帮助我们的？很高兴能看到你，我们现在急需援兵。"
+    "value": "守护者？嗯，这和我们‘守护者’也差不多...你可能不属于SMASH，但眼下我们正需要一切能集结的力量。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "raw": "The penguins are swarming all over the highway, causing all sorts of chaos. We're heavily outnumbered here, you'll be facing awful odds.",
-    "value": "企鹅们占据了这条路，造成了各种混乱。它们数量众多，可能对你来说是个严峻的挑战。"
+    "value": "企鹅们正成群结队地涌上高速公路，引发了一片混乱。我们这边人手严重不足，你们将面临极其不利的局面。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/3",
     "raw": "Some of my friends are out there, so they might even things out a bit. If you see them, tell them I said hi.",
-    "value": "我的一些朋友在那边，或许他们手中会有你需要的东西，如果你看到了他们，请替我向他们问好。"
+    "value": "我有些朋友也在那边，他们或许能让局面稍微平衡些。如果你见到他们，代我打个招呼。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/4",
     "raw": "The penguins won't show you any mercy, so show them none! We've got to restore order to this city!",
-    "value": "企鹅们可不会仁慈地对待你！我们必须把它们击垮，解救这座城市。"
+    "value": "企鹅们不会对你手下留情，你也无需客气！我们必须恢复这座城市的秩序！"
   }
 ]

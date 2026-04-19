@@ -3,97 +3,97 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/attack/default/default/0",
     "raw": "Valorous. Into the fray!",
-    "value": "勇气。战至亡！"
+    "value": "勇气。投入战斗！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/attack/default/default/1",
     "raw": "Enraged. Your blood will soil the land!",
-    "value": "愤怒。你的血将会染红这片土地！"
+    "value": "愤怒。你的鲜血将玷污这片土地！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/attack/default/default/2",
     "raw": "Grim. To battle!",
-    "value": "严肃。战斗即将来临！"
+    "value": "严肃。战斗吧！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/join/default/default/0",
     "raw": "Grateful. Thank you for rescuing me.",
-    "value": "感激。谢谢你救了我。"
+    "value": "感激。感谢你救了我。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/join/default/default/1",
     "raw": "Eager. Allow me to do my duty as a knight and join you.",
-    "value": "急切。请允许我加入你的队伍，履行骑士的职责。"
+    "value": "急切。请允许我履行骑士的职责，与您并肩作战。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/join/default/default/2",
     "raw": "Vengeful. Let me after those who locked me in here!",
-    "value": "复仇。我要杀光那些曾虐待我的人！"
+    "value": "复仇。让我去追杀那些把我关在这里的人！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/0",
     "raw": "Victorious. You are no match for me!",
-    "value": "胜利。你不配作为我的对手！"
+    "value": "胜利。你根本不是我的对手！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/1",
     "raw": "Dark. You are weak!",
-    "value": "邪恶。你太弱了！"
+    "value": "黑暗。你太弱了！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/2",
     "raw": "Smug. Is this the best of the Warlord's lackeys?",
-    "value": "自命不凡。这就是领主最忠诚的走狗？"
+    "value": "得意。这就是军阀走狗中的佼佼者吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/3",
     "raw": "Pumped. Is that all they have to throw at us?",
-    "value": "紧张。发生了什么事？"
+    "value": "紧张。这就是他们能拿出的全部招数了吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/4",
     "raw": "Calm. Rest in peace.",
-    "value": "冷静。平静下来。"
+    "value": "平静。安息吧。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/wait/default/default/0",
     "raw": "Unhappy. Must you go on without me? I wish to fight for glory!",
-    "value": "难受。你要我离开？下次我会更好地为你作战的！"
+    "value": "不悦。你定要独自前行？我渴望为荣耀而战！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/wait/default/default/1",
     "raw": "Thankful. You are kind to scout ahead.",
-    "value": "感谢。你来带路吧。"
+    "value": "感谢。你真好，还先去探路。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/wait/default/default/2",
     "raw": "Bored. Guard duty, eh?",
-    "value": "无聊。守卫的工作。"
+    "value": "无聊。要我站岗，是吧？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/wait/default/default/3",
     "raw": "Questioning. Do you need a moment?",
-    "value": "疑问。你是否需要一个人独处？"
+    "value": "疑问。你需要一点时间吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/0",
     "raw": "Acknowledgement. Greetings once more.",
-    "value": "感谢。再次感谢。"
+    "value": "致谢。再次问候。"
   },
   {
     "op": "replace",
@@ -105,6 +105,6 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/2",
     "raw": "Eager. You ready to move on?",
-    "value": "急迫。你准备好再次出发了吗？"
+    "value": "急迫。你准备好继续前进了吗？"
   }
 ]

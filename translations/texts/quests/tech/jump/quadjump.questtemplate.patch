@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/text",
     "raw": "I've come up with a way to double a double-jump tech!",
-    "value": "我创造出了可以连跳五次的科技。"
+    "value": "我想到了一个让二段跳科技翻倍的方法！"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Using some fancy ancient tech I think I can produce a Quad-Jump tech!",
-    "value": "通过借鉴一种奇特的古老科技，我创造出了五段跳。"
+    "value": "借助一些奇妙的古老技术，我想我能研发出四段跳科技！"
   }
 ]

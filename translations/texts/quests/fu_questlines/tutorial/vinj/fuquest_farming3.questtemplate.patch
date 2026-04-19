@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/text",
     "raw": "An ^orange;Incubator^reset; might be a worthwhile idea if you want to hatch eggs! With it, you can toss in an egg and quickly generate a baby animal. Well, quicker than letting nature handle it, anyhow. Make one at a ^orange;Foraging Table^reset;.",
-    "value": "如果你打算孵化蛋，使用^orange;孵化器^reset;是最好的途径！有了它，你可以让蛋在短时间内成长成动物。快去^orange;采集工作台^reset;制作一个吧。"
+    "value": "如果您想孵化蛋，^orange;孵化器^reset;或许是个不错的选择！有了它，您可以放入一枚蛋，迅速孵出小动物。无论如何，这总比让自然慢慢孵化要快得多。在^orange;采集工作台^reset;制作一个吧。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Try incubating different eggs, and see what sort of wonderful animals you can bring to life!",
-    "value": "快去尝试孵化不一样的蛋，看看里面到底是什么生物吧！"
+    "value": "尝试孵化不同的蛋，看看您能让哪些奇妙的动物诞生！"
   }
 ]

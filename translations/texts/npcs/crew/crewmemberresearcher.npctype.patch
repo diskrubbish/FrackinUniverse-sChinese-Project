@@ -3,43 +3,43 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
     "raw": "I'd love to come along and observe a field mission, sometime.",
-    "value": "我很乐意有时间一起去观察野外任务。"
+    "value": "我很想找个时间，去实地观察一次任务执行。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
     "raw": "Floran wantss to sstudy the sstarss!",
-    "value": "叶族人想想想见星星星！"
+    "value": "叶族人想想想要研究星星星！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Intrigued. Do take me along next time you explore an alien world, won't you?",
-    "value": "感兴趣。 下次你探索外星世界的时候，带我一起去吧，好吗？"
+    "value": "兴趣。下次你去探索外星世界时，一定要带上我，好吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
     "raw": "Simply fascinating!",
-    "value": "简直太迷人了！"
+    "value": "真是令人着迷！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
     "raw": "Exactly as I hypothesised!",
-    "value": "和我假设的一模一样！"
+    "value": "正如我所假设的！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
     "raw": "Such intriguing alien fauna!",
-    "value": "这么有趣的外星动物！"
+    "value": "多么迷人的外星生物群！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
     "raw": "Floran iss taking notess!",
-    "value": "叶族人在在在记笔笔笔记！"
+    "value": "叶族人正在做笔记！"
   },
   {
     "op": "replace",
@@ -51,31 +51,31 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
     "raw": "Floran learning sso much!",
-    "value": "叶族人学学学到太多了！"
+    "value": "叶族人学学学到了很多！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Sympathetic. That must have hurt.",
-    "value": "同情。 那一定很痛。"
+    "value": "同情。那一定很疼。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
     "raw": "Excited. I can't wait to return to the lab!",
-    "value": "兴奋。 我等不及要回实验室了！"
+    "value": "兴奋。 我迫不及待想回到实验室！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
     "raw": "Intrigued. I wonder if I could replicate that?",
-    "value": "感兴趣。 我想知道我是否可以复制它？"
+    "value": "兴趣。我在想，我能否复制那个呢？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
     "raw": "Curious. Could you do that again?",
-    "value": "奇妙。 你能再来一次吗？"
+    "value": "奇妙。你能再做一次吗？"
   },
   {
     "op": "replace",

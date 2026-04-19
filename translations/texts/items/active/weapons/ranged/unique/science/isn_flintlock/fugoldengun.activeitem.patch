@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "You feel bonded to this weapon\n^yellow;+600% Sexual Charisma^reset;",
-    "value": "一旦使用就无法逃离这件武器。\n^yellow;性魅力+600^reset;%"
+    "value": "你与这件武器之间产生了羁绊。\n^yellow;性张力+600^reset;%"
   },
   {
     "op": "replace",

@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "The Pew Pew",
-    "value": "射 射 射"
+    "value": "砰砰砰！"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "I keep getting devoured on this planet! It sucks! Could you build me an ^orange;F4 Energy Rifle^reset; to help me survive? I'd compensate you well enough...",
-    "value": "我在这个星球上受尽折磨！真让人火大!你能给我造一支^orange;F4能量步枪^reset;来帮助我生存吗？我会给你足够的补偿..."
+    "value": "我在这颗星球上受尽了折磨！真让人火大！你能帮我造一把^orange;F4能量步枪^reset;来助我生存吗？我会给你足够的补偿..."
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "I'm not much of a scientist... so umm take this.",
-    "value": "我谈不上是什么科学家...所以，呃，请收下着这个。"
+    "value": "我谈不上是什么科学家...所以，呃，这个给你。"
   }
 ]

@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Hyper Targeting Chip",
-    "value": "超瞄准芯片"
+    "value": "超精准定位芯片"
   },
   {
     "op": "replace",
     "path": "/augment/displayName",
     "raw": "Targeting Chip",
-    "value": "瞄准芯片"
+    "value": "定位芯片"
   }
 ]

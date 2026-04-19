@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "Getting into Plastics",
-    "value": "得到塑料"
+    "value": "进军塑料产业"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "If you're going to make it as a scientist, you are going to need ^orange;Advanced Plastic^reset;. Find some ^orange;Oil^reset; from a ^green;Desert^reset; or from ^orange;Bonemeal^reset; and then head to your ^orange;Bio Lab^reset;. Bring me back one single piece!",
-    "value": "如果你想成为一名科学家的话，你会需要很多^orange;高级塑料^reset;的。在^green;沙漠^reset;中找到一些^orange;油^reset;，或者从^orange;骨粉^reset;中提取一些，然后在你的^orange;生化实验室^reset;着手制造。给我拿来一块吧！"
+    "value": "若想成为一名成功的科学家，你需要^orange;高级塑料^reset;。去^green;沙漠^reset;采集或者从^orange;骨粉^reset;中提取一些^orange;油^reset;，然后前往你的^orange;生化实验室^reset;。记得给我带回来一块！"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Excellent! You'll need a lot of plastic, so keep well stocked.",
-    "value": "真棒！你会需要很多塑料的，所以就多储存一些吧。"
+    "value": "很好！你需要大量塑料，所以务必保持充足库存。"
   }
 ]

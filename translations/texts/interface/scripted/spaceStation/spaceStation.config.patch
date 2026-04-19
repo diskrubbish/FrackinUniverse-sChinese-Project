@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
     "raw": " Interact with the station",
-    "value": " 与其互动"
+    "value": " 与站点互动"
   },
   {
     "op": "replace",
@@ -87,7 +87,7 @@
     "op": "replace",
     "path": "/gui/text/value",
     "raw": "I AM ERROR",
-    "value": "*我是错误的*"
+    "value": "*我是错误*"
   },
   {
     "op": "replace",

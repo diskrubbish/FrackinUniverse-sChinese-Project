@@ -51,7 +51,7 @@
     "op": "replace",
     "path": "/ffbiomecold2",
     "raw": "Moderate Cold",
-    "value": "严酷寒冷"
+    "value": "中度寒冷"
   },
   {
     "op": "replace",
@@ -75,7 +75,7 @@
     "op": "replace",
     "path": "/ffbiomeheat2",
     "raw": "Moderate Heat",
-    "value": "严酷炎热"
+    "value": "中度炎热"
   },
   {
     "op": "replace",
@@ -99,7 +99,7 @@
     "op": "replace",
     "path": "/radioactiveweathernew2",
     "raw": "Moderate Radiation",
-    "value": "严酷辐射"
+    "value": "中度辐射"
   },
   {
     "op": "replace",

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Fires teleport-node discs. Quite useful. Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "发射传送节点。十分实用。\n在^orange;三度仪^reset;处升级。"
+    "value": "发射传送节点盘。相当实用。\n使用你的^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Fires teleport-node discs. Quite useful. Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "发射传送节点。十分实用。\n在^orange;三度仪^reset;处升级。"
+    "value": "发射传送节点盘。相当实用。\n使用你的^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
     "op": "replace",
     "path": "/upgradeParameters2/description",
     "raw": "Fires teleport-node discs. Quite useful. Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "发射传送节点。十分实用。\n在^orange;三度仪^reset;处升级。"
+    "value": "发射传送节点盘。相当实用。\n使用你的^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/upgradeParameters3/description",
     "raw": "Fires teleport-node discs. Quite useful. Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "发射传送节点。十分实用。\n在^orange;三度仪^reset;处升级。"
+    "value": "发射传送节点盘。相当实用。\n使用你的^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -51,12 +51,12 @@
     "op": "replace",
     "path": "/upgradeParameters4/description",
     "raw": "Fires teleport-node discs. Quite useful. ^green;Fully Upgraded^reset;.",
-    "value": "发射传送节点。十分实用。\n^green;已完全升级^reset;。"
+    "value": "发射传送节点盘。相当实用。\n^green;已完全升级^reset;。"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters4/shortdescription",
     "raw": "Transwarpator^#e43774;^reset;",
-    "value": "扭曲传送枪^#e43774;^reset;"
+    "value": "超旋传送枪^#e43774;^reset;"
   }
 ]

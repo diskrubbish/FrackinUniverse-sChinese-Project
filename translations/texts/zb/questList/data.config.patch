@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/strings/instructions/title",
     "raw": "Corvex Research Task Terminal",
-    "value": "Corvex科研任务终端"
+    "value": "科维克斯科研任务终端"
   },
   {
     "op": "replace",
     "path": "/strings/instructions/description",
     "raw": "To select a task, click on its name on the left window, and relevant information will be displayed here.\n\nTasks also come with a color to represent your progress with them: \n^red;red^reset; : unavailable\n^yellow;yellow^reset; : available\n^cyan;cyan^reset; : in progress\n^green;green^reset; : complete.\n\nThere may be different task branches, which you can access by pressing the big image at the top of the window on the left. More become available as you unlock them.",
-    "value": "要想选择一个任务，点击左边窗口上的对应任务名称，相关信息将会显示在这里。\n\n你的任务进度也会用一种特定的颜色表示；\n^red;红色：^reset;：不可进行\n^yellow;黄色^reset;：可进行\n^cyan;青色^reset;：正在进行\n^green;绿色^reset;：已完成\n\n这里可能有不同的任务分支，你可以通过点击窗口顶部的大图进行访问。一旦你解锁它们，更多的任务将会变得可行。"
+    "value": "要选择任务，请点击左侧窗口中的任务名称，相关信息将显示在此处。\n\n您的任务进度会以特定颜色表示：\n^red;红色^reset;：不可用\n^yellow;黄色^reset;：可用\n^cyan;青色^reset;：进行中\n^green;绿色^reset;：已完成\n\n可能存在不同的任务分支，您可以通过点击左侧窗口顶部的大图来访问它们。随着不断解锁，将有更多任务变为可用。"
   },
   {
     "op": "replace",
@@ -21,31 +21,31 @@
     "op": "replace",
     "path": "/strings/questlines/fu_tutorial/description",
     "raw": "Learn the basics of Frackin Universe through this series of quests. You'll be guided through each of the initial stations and inform you of basic resource acquisition and mechanics.\n\n The focus is on getting you to use the ^orange;Research System^reset; first and foremost, so be sure to keep your Tricorder handy.",
-    "value": "通过这一系列的任务学习Frackin Universe的基础知识。它将会为你指导每个初始工作站的用途，以及基础资源的获取。\n\n重点是学习使用^orange;研究系统^reset;，因此首先且最重要的是，请确保随身携带你的三度仪。"
+    "value": "通过这一系列任务来学习富兰克林的宇宙的基础知识。它将引导您了解每个初始工作站的用途，并告知您基础资源的获取方法与游戏机制。\n\n重点是引导您首先学会使用 ^orange;研究系统^reset;，因此请务必随身携带您的三度仪。"
   },
   {
     "op": "replace",
     "path": "/strings/questlines/fu_general/title",
     "raw": "General Tasks",
-    "value": "普通任务"
+    "value": "常规任务"
   },
   {
     "op": "replace",
     "path": "/strings/questlines/fu_general/description",
     "raw": "A wide variety of quests fill this group, from basic survival to more complex things such as teaching poodles to fly, or the French Revolution.",
-    "value": "这里充满了各种各样的任务，从最基本的生存到更复杂的事物，诸如教导贵妃犬飞行，或者法国大革命。"
+    "value": "该任务组中包含各式各样的任务，范围涵盖从基本的生存挑战到更为复杂的事物，例如教导贵宾犬飞行，或是（体验）法国大革命。"
   },
   {
     "op": "replace",
     "path": "/strings/questlines/fu_sciences/title",
     "raw": "Scientific Study",
-    "value": "学习科学"
+    "value": "科学研究"
   },
   {
     "op": "replace",
     "path": "/strings/questlines/fu_sciences/description",
     "raw": "To build a lab, you have a great number of things to do. This set of quests will serve to aid you in doing exactly that. Learn the function of each station, how it is used in conjunction with other stations in your arsenal and more!",
-    "value": "要想建立一个实验室，你需要做一大堆的事情。这组任务恰巧可以帮助你。学习每个工作站的功能，以及如何在你的军械库或者其他地方，结合其他工作站使用它们！"
+    "value": "建立实验室需要完成大量工作。而这组任务正是为了助您达成此目标。您将学习每个工作站的功能，以及如何将它们与军械库或其他地方的工作站结合使用！"
   },
   {
     "op": "replace",
@@ -57,31 +57,31 @@
     "op": "replace",
     "path": "/strings/questlines/fu_outpost_tasks/description",
     "raw": "Here you can track miscellaneous tasks which may not fit into other quest groupings.",
-    "value": "你可以在这里跟踪那些不适合放入其他任务分组中的杂项任务。"
+    "value": "您可以在此追踪那些可能不适合归入其他任务组的杂项任务。"
   },
   {
     "op": "replace",
     "path": "/strings/questlines/fu_kevin_tasks/title",
     "raw": "Kevin's Amazing Tasks",
-    "value": "凯文的惊奇任务"
+    "value": "凯文的惊世任务"
   },
   {
     "op": "replace",
     "path": "/strings/questlines/fu_kevin_tasks/description",
     "raw": "These tasks are of the utmost importance. Without completing them nobody will think you are as awesome as I am. That is clearly not something you would desire. I guarantee it is worth your while.",
-    "value": "这些任务是最重要的。不完成这些任务，没有人会认为你像我一样了不起。这显然不是你所希望的。我保证这值得你去做。"
+    "value": "这些任务至关重要。若不完成，无人会认为你如我一般出色。这显然不是你愿意看到的。我保证，这绝对值得你付出。"
   },
   {
     "op": "replace",
     "path": "/strings/questlines/fu_battle/title",
     "raw": "Battle",
-    "value": "战斗向"
+    "value": "战斗！"
   },
   {
     "op": "replace",
     "path": "/strings/questlines/fu_battle/description",
     "raw": "Quests in this grouping tend to be related to battle, be it killing monsters or creating new sorts of weaponry.",
-    "value": "这一分组中的任务往往与战斗有关，例如杀死怪物，或者制造新类型的武器。"
+    "value": "此分组中的任务通常与战斗相关，例如消灭怪物，或是打造新类型的武器。"
   },
   {
     "op": "replace",
@@ -93,18 +93,18 @@
     "op": "replace",
     "path": "/strings/questlines/fu_exploration/description",
     "raw": "Going places will lead to the completion of tasks in this grouping. If travel is your aim, you'll have no problems here.",
-    "value": "在这个分组中，任务的完成需要前往不同的地方。如果你的目的是旅行，那么就不会有任何问题。"
+    "value": "完成此分组中的任务需要您前往不同地点。若您本就意在旅行，那么完成起来将毫无困难。"
   },
   {
     "op": "replace",
     "path": "/strings/questlines/fu_byos/title",
     "raw": "Build Your Own Ship",
-    "value": "建造你自己的飞船"
+    "value": "“建造你自己的飞船”"
   },
   {
     "op": "replace",
     "path": "/strings/questlines/fu_byos/description",
     "raw": "The basics of manual ship building.",
-    "value": "飞船建造的基础知识。"
+    "value": "徒手造船的基础知识。"
   }
 ]

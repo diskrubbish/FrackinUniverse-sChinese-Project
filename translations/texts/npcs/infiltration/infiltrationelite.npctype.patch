@@ -3,25 +3,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "raw": "You made a big mistake coming here!",
-    "value": "你犯了一个大错！"
+    "value": "你到这里来，真是大错特错！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/1",
     "raw": "You cannot hurt me! I am bulletproof!",
-    "value": "你无法伤害我！我可是防弹的！"
+    "value": "你伤不了我！我可是刀枪不入的！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/2",
     "raw": "Intruder spotted! Isolate. Destroy.",
-    "value": "发现入侵者！包围，消灭。"
+    "value": "发现入侵者！立即隔离。予以消灭。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/apex/0",
     "raw": "Rebel scum! Today, you die!",
-    "value": "逆贼！你今天死定了！"
+    "value": "叛军渣滓！今日便是你们的死期！"
   },
   {
     "op": "replace",
@@ -33,12 +33,12 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/apex/2",
     "raw": "Why do you fight? You cannot hope to win.",
-    "value": "为什么要反抗呢？你毫无胜算。"
+    "value": "你为何还要战斗？你根本没有胜算。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/apex/3",
     "raw": "You cannot hurt me! I am bulletproof!",
-    "value": "你无法伤害我！我可是防弹的！"
+    "value": "你伤不了我！我可是刀枪不入的！"
   }
 ]

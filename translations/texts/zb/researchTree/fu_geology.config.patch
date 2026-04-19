@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/strings/research/default/1",
     "raw": ". Select a research by clicking one of the icons on the grid.\nYou can navigate the grid by dragging with the left mouse button.\nThe left button at the top left corner will move the view to the center of the tree, and the left button will open a list of researches, from which you can zoom to other researches.",
-    "value": ". 通过点击网格上的一个图标来选择一项研究。\n您可以通过用鼠标左键拖动来导航网格。\n点击左上角的按钮将视图移动到树的中心，\n点击左边的按钮会打开一个研究列表，您可以从中缩放到其他研究。"
+    "value": ". 通过点击网格上的图标来选择一项研究。\n您可以通过按住鼠标左键拖动来导航网格。\n左上角左边用于将视图移至树的中心，且打开研究列表，从中可缩放至其他研究。"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
     "op": "replace",
     "path": "/strings/research/survival_1/1",
     "raw": "^orange;Tier 1^reset;\n\nYour training, thanks to four years in the Protectorate Academy, provides you with basic survival skills to keep you alive for extended periods in the event of a crash.",
-    "value": "^orange;1级^reset;\n\n你在大地守护团学院的四年训练，为你提供了基本的生存技能，使你在碰撞事故中能够长时间存活。"
+    "value": "^orange;1级^reset;\n\n得益于在守护团学院的四年学习，您所受的训练为你提供了基本的生存技能，确保在发生坠机等意外时能够长时间维持生命。"
   },
   {
     "op": "replace",
@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/strings/research/amber/1",
     "raw": "^orange;Tier 2^reset;\n\nYou've learned to smelt organic substances into usable forms. You can now make chunks of amber and hardened slime 'gems' at your furnace.",
-    "value": "^orange;2级^reset;\n\n你已经学会了将有机物质转化为可用的形式。你现在可以在熔炉里制作琥珀和硬化的粘液“宝石”。"
+    "value": "^orange;2级^reset;\n\n您已学会将有机物质冶炼成可用的形态。现在，您可以在熔炉里制作琥珀块和硬化粘液‘宝石’了。"
   },
   {
     "op": "replace",
@@ -51,7 +51,7 @@
     "op": "replace",
     "path": "/strings/research/metals_tier1/1",
     "raw": "^orange;Blacksmithing - Tier 1^reset;\n\nLearn to process ^cyan;Copper^reset; and ^cyan;Iron^reset; ores. Through these materials you'll be able to dive into crafting and really get started. This research will lead to greater knowledge of metalworking.\n\nYou've also learn to smelt basic items like ^cyan;Clay^reset; and ^cyan;Glass^reset;. Should you have trouble locating the requirements for these, you'll need to dig. You'll find both ^cyan;Clay^reset; and ^cyan;Sand^reset; readily.",
-    "value": "^orange;锻造 - 1级^reset;\n\n学习加工^cyan;铜^reset;和^cyan;铁^reset;矿石。通过这些材料，你可以入门手工艺，并真正开始。这项研究将使你对金属加工有更多的了解。\n\n你还可以学习一些基本的东西，比如^cyan;粘土^reset;和^cyan;玻璃^reset;如果你无法找到这些材料，那就去挖矿吧。你会发现粘土和沙子都很容易得到。"
+    "value": "^orange;锻造 - 1级^reset;\n\n学习加工^cyan;铜^reset;和^cyan;铁^reset;矿石。掌握这些材料，您便能深入手工艺制作，真正起步。这项研究将引领您更深入地了解金属加工。\n\n您还学会了冶炼^cyan;粘土^reset;和^cyan;玻璃^reset;这类基础物品。如果难以找到这些材料所需的资源，去挖掘吧。您会发现^cyan;粘土^reset;和^cyan;沙子^reset;都很容易获得。"
   },
   {
     "op": "replace",
@@ -63,7 +63,7 @@
     "op": "replace",
     "path": "/strings/research/metals_tier2/1",
     "raw": "^orange;Steelworker - Tier 2^reset;\n\nLearn to process ^cyan;Tungsten^reset; and ^cyan;Telebrium^reset; and work it into useful equipment. This will grant access to higher quality gear and dramatically increase survivability through defensive gear.",
-    "value": "^orange;钢铁工人 - 2级^reset;\n\n学习加工^cyan;钨^reset;和^cyan;特勒贝矿^reset;，并把它们变成有用的设备。现在你可以获得更高质量的装备，并通过防御装备显著提高生存能力。"
+    "value": "^orange;钢铁工人 - 2级^reset;\n\n学习加工^cyan;钨^reset;和^cyan;特勒贝^reset;矿石，并将它们制成有用的设备。这将使您能够获得更高质量的装备，并通过防御性装备显著提升生存能力。"
   },
   {
     "op": "replace",
@@ -75,7 +75,7 @@
     "op": "replace",
     "path": "/strings/research/metals_tier3/1",
     "raw": "^orange;Industrial Metals - Tier 3^reset;\n\nNow you can work with ^cyan;Titanium^reset;, and through it you'll be able to upgrade many of your crafting stations. Furthermore, you'll learn to work with more unusual materials such as ^cyan;Protocite^reset; and ^cyan;Penumbrite^reset; (both of which are quite useful).",
-    "value": "^orange;工业金属 - 3级^reset;\n\n现在你可以使用^cyan;钛^reset;，通过它你可以升级你工作站。此外，你还将学习使用更多不同寻常的材料，如^cyan;原体岩^reset;和^cyan;半影岩^reset;(两者都非常有用)。"
+    "value": "^orange;工业金属 - 3级^reset;\n\n现在您可以使用^cyan;钛^reset;了，并能用它来升级您的许多制作站。此外，您还将学会使用更多不寻常的材料，例如^cyan;原体岩^reset;和^cyan;半影岩^reset;（它们都非常有用）。"
   },
   {
     "op": "replace",
@@ -87,7 +87,7 @@
     "op": "replace",
     "path": "/strings/research/metals_tier4/1",
     "raw": "^orange;Space-Age Metals - Tier 4^reset;\n\nDurasteel is a fantastic material. Through this metal, all of your crafting tables will be able to upgrade to their maximum capacity. You'll also find a much more potent set of defensive and offensive gear.",
-    "value": "^orange;航天时代金属 - 4级^reset;\n\n耐钢是一种奇妙的材料。通过这种金属，你所有的制造台将能够进行最大程度的升级。你也会发现一套更有效的防守和进攻装备。"
+    "value": "^orange;航天时代金属 - 4级^reset;\n\n耐钢是一种极佳的材料。利用这种金属，您可以将所有制造台升级至其最大程度。此外您还将发现一套更为强大的防御与进攻装备。"
   },
   {
     "op": "replace",
@@ -99,7 +99,7 @@
     "op": "replace",
     "path": "/strings/research/metals_tier5/1",
     "raw": "^orange;Elemental Metals - Tier 5^reset;\n\nAegisalt, Ferozium and Violium are sought after resources of relatively high value, and are capable of being forged into very useful equipment.",
-    "value": "^orange;元素金属 - 5级^reset;\n\n霓磷盐，菲洛合金和维奥合金都是相对值得寻找的高价值的资源，并且能够被锻造成非常有用的设备。"
+    "value": "^orange;元素金属 - 5级^reset;\n\n霓磷盐、菲洛合金和维奥合金都是备受追捧、价值较高的资源，并且能够被锻造成非常实用的设备。"
   },
   {
     "op": "replace",
@@ -111,7 +111,7 @@
     "op": "replace",
     "path": "/strings/research/metals_tier6/1",
     "raw": "^orange;Superior Metals - Tier 6^reset;\n\nSolarium, Pyreite, Isogen and Densinium are all remarkable metals guaranteed to excel in their particular idiom. Through these metals you will be able to forge fantastic things.",
-    "value": "^orange;优势金属 - 6级^reset;\n\n日耀，永燃，寒霜和超致密矿 都是高级的的金属，性能优秀，卓尔不凡。通过这些金属，你将能够锻造出奇妙的东西。"
+    "value": "^orange;卓越金属 - 6级^reset;\n\n日耀石、永燃、寒霜和坚密钢，每一种都是在其独特领域内表现卓越的非凡材料。借助这些金属，您将能够打造出令人惊叹的杰作。"
   },
   {
     "op": "replace",
@@ -123,7 +123,7 @@
     "op": "replace",
     "path": "/strings/research/metals_tier7/1",
     "raw": "^orange;Multi-Phasic Metals - Tier 7^reset;\n\nYou can now delve into metals that violate the very laws of physics. Anything beyond here is truly wonderous to behold, and the fact that you can work with it puts you a step above nearly every living metalsmith in the galaxy.",
-    "value": "^orange;多相金属 - 7级^reset;\n\n你现在可以钻研那些违反物理定律的金属。任何超越这种材料的东西简直就是天方夜谭，事实上，你可以用它来制造，你现在比星系中几乎所有活着的金属工匠高一个台阶。"
+    "value": "^orange;多相金属 - 7级^reset;\n\n现在，你将能深入探索那些违背物理定律的金属。此后的每一处发现都堪称奇观，而你能驾驭它们，这已让你超越了宇宙中几乎所有的金属匠人。"
   },
   {
     "op": "replace",
@@ -135,7 +135,7 @@
     "op": "replace",
     "path": "/strings/research/metals_tier8/1",
     "raw": "^orange;Impossible Metals - Tier 8^reset;\n\nHarnessing the very essence of the cosmos, you are able to form it into a new form of matter specially created to be nearly perfect. You have mastered all there is to know about this artform.",
-    "value": "^orange;以太金属 - 8级^reset;\n\n利用宇宙的本质，你可以把它形成一种新的物质形式，这种物质是专门为近乎完美而创造的。你已经掌握了所有关于这种艺术形式的知识。"
+    "value": "^orange;不可能金属 - 8级^reset;\n\n汲取宇宙之精髓，您得以将其塑造成一种近乎完美的新物质形态。这门艺术的奥秘，您已全然掌握。"
   },
   {
     "op": "replace",
@@ -147,7 +147,7 @@
     "op": "replace",
     "path": "/strings/research/metals_copper/1",
     "raw": "^orange;Tier 1^reset;\n\nThe simplest of the metals for you to work with. It is soft, conductive and abundant. ^cyan;Copper^reset; remains useful in most industrial processes thanks to its requirement in wiring. \n\nYou'll find ^cyan;Copper^reset; on ^green;most worlds^reset;, as it is extremely abundant throughout the cosmos.",
-    "value": "^orange;1级^reset;\n\n最简单的金属材料，质地柔软，导电性强，^cyan;铜^reset;在大多数工业生产过程中仍然有用，这要归功于它在布线方面的要求。在^green;大多数世界^reset;你都能找到^cyan;铜^reset;，因为它在宇宙中极其丰富。"
+    "value": "^orange;1级^reset;\n\n这是最容易加工的金属之一。它质地柔软、导电性强且储量丰富。由于在布线中的广泛应用，^cyan;铜^reset;在大多数工业流程中依然不可或缺。\n\n^cyan;铜^reset;在宇宙中分布极广，因此在^green;绝大多数星球^reset;上都能发现它的踪迹。"
   },
   {
     "op": "replace",
@@ -159,7 +159,7 @@
     "op": "replace",
     "path": "/strings/research/metals_iron/1",
     "raw": "^orange;Tier 1^reset;\n\n^cyan;Iron^reset; is perhaps the most commonly used metal, even in our current age. Without it, the fundamentals of industrialization seldom come to pass. It forms the backbone for early survival, fashioning useful hunting weapons.\n\n ^cyan;Iron^reset; is found on a great deal of worlds, but is most easily located on ^green;Lush^reset; worlds.",
-    "value": "^orange;1级^reset;\n\n即使在我们这个时代，^cyan;铁^reset;也许是最常用的金属。没有它，工业化的根本就很难实现。它形成了早期生存的支柱，被锻成了有用的狩猎武器。\n\n^cyan;铁^reset;存在于许多星球上，但最容易在郁葱星球找到。"
+    "value": "^orange;1级^reset;\n\n^cyan;铁^reset;或许是应用最广泛的金属，即便在当今时代也是如此。没有它，工业化的基础便难以实现。它构成了早期生存的支柱，被锻造成实用的狩猎武器。\n\n^cyan;铁元素^reset;广泛存在于众多星球上，但在^green;葱郁^reset;星球中最易被发现。"
   },
   {
     "op": "replace",
@@ -171,7 +171,7 @@
     "op": "replace",
     "path": "/strings/research/metals_tungsten/1",
     "raw": "^orange;Tier 2^reset;\n\n^cyan;Tungsten^reset; is a tough metal with a very high melting point. This makes it a favorite in advanced construction, as it is exceptionally useful in weapons and equipment. \n\n^cyan;Tungsten^reset; can be found on many worlds but is most easily found on ^green;Forest^reset; and ^green;Desert^reset; biomes. You've also learned to make a functionally similar steel-like substitute by alloying Iron ore at an ^orange;Industrial Furnace^reset;.",
-    "value": "^orange;2级^reset;\n\n^cyan;钨^reset;是一种极高熔点的坚韧金属。这使得它成为先进建设的最爱，因为它是非常有用的武器和装备。\n\n^cyan;钨^reset;可以在许多星球上找到，但在^green;森林^reset;和^green;沙漠^reset;生物群落中最容易找到。您还学会了在^orange;工业熔炉^reset;中通过合金化铁矿石来制造类似的功能钢替代品。"
+    "value": "^orange;2级^reset;\n\n^cyan;钨^reset;是一种坚韧的金属，具有极高的熔点。这使得它在先进建筑中备受青睐，尤其在武器和装备制造中表现出色。\n\n^cyan;钨^reset;在许多星球上都能找到，但在^green;森林^reset;和^green;沙漠^reset;生态群落最为常见。此外，您还学会了在^orange;工业熔炉^reset;中将铁矿石合金化，制造出功能类似的钢质替代品。"
   },
   {
     "op": "replace",
@@ -183,7 +183,7 @@
     "op": "replace",
     "path": "/strings/research/metals_silver/1",
     "raw": "^orange;Tier 2^reset;\n\n^cyan;Silver^reset; is a soft metal that is heralded for its beauty. It's a good way to turn a profit, but can also be used to create useful gear. \n\n^cyan;Silver^reset; is found on most worlds, generally ^green;below the first layer of the biome^reset;.",
-    "value": "^orange;2级^reset;\n\n^cyan;银^reset;是一种柔软的金属，是为其美丽的预示。这是一个赚钱的好方法，但也可以用来创造有用的装备。\n\n^cyan;银^reset;存在于大多数世界，通常在生物群落的^green;第一层以下^reset;。"
+    "value": "^orange;2级^reset;\n\n^cyan;银^reset;是一种质地柔软的金属，以其美丽而备受赞誉。它不仅是盈利的好途径，还能用来制作实用的装备。\n\n在大多数星球中都能找到^cyan;银^reset;，通常位于^green;生物群系的第一层之下^reset;。"
   },
   {
     "op": "replace",
@@ -195,7 +195,7 @@
     "op": "replace",
     "path": "/strings/research/metals_gold/1",
     "raw": "^orange;Tier 2^reset;\n\n^cyan;Gold^reset; has always been a status symbol, valuable among metals. It's soft, and thus not particularly useful in weapons and armor. \n\n^cyan;Gold^reset; is found on most worlds, generally ^green;below the first and second layer of the biome^reset;.",
-    "value": "^orange;2级^reset;\n\n在金属中，^cyan;金^reset;一直是地位的象征，价值连城。它是柔软的，因此在武器和盔甲上不是特别有用。\n\n大多数世界都有^cyan;金^reset;，通常在生物群落的^green;第一地层和第二底层之下^reset;。"
+    "value": "^orange;2级^reset;\n\n^cyan;金^reset;历来是地位的象征，在金属中价值非凡。它质地柔软，因此在武器和盔甲制造中并不特别实用。\n\n在大多数世界中都能发现^cyan;金^reset;，通常埋藏于^green;生物群系的第一层和第二层之下^reset;。"
   },
   {
     "op": "replace",
@@ -207,7 +207,7 @@
     "op": "replace",
     "path": "/strings/research/metals_titanium/1",
     "raw": "^orange;Tier 3^reset;\n\nDurable, extremely hard to melt, and one of the most important metals for construction in the known galaxy. \n\nYou can find ^cyan;Titanium^reset; on most ^green;Tier 3^reset; worlds. ^green;Oceanic^reset; worlds prove to be the lowest threat, but also have less abundant sources.",
-    "value": "^orange;3级^reset;\n\n耐用且极难熔化，^cyan;钛^reset;是已知宇宙中最重要的建筑材料之一。\n\n你可以在大多数^green;3级世界^reset;中找到钛。其中^green;海洋世界^reset;威胁最低，但贮存量却不丰富。"
+    "value": "^orange;3级^reset;\n\n坚固耐用，极难熔化，^cyan;钛^reset;是已知星系中最重要的建筑金属之一。\n\n你可以在大多数^green;三级^reset;星球上找到^cyan;钛^reset;。^green;海洋^reset;星球虽然威胁性最低，但钛资源储量也相对较少。"
   },
   {
     "op": "replace",
@@ -219,19 +219,19 @@
     "op": "replace",
     "path": "/strings/research/metals_durasteel/1",
     "raw": "^orange;Tier 4^reset;\n\nA dense metal with the uncanny ability to meld seamlessly against a vaccuum, ^cyan;Durasteel^reset; is a favorite among space engineers. \n\n^cyan;Durasteel^reset; can be found on nearly all ^green;Tier 4^reset; worlds. ^green;Alien^reset;, ^green;Sulphuric^reset;, ^green;Mountainous^reset; are all good sources.",
-    "value": "^orange;4级^reset;\n\n高密度金属，简直为真空量身打造，^cyan;耐刚^reset;是太空工程师的最爱。几乎所有的 ^green;4级^reset;世界都可以找到耐钢。^green;外星^reset;，^green;硫磺，^green;山脉^reset;都是很好的来源。"
+    "value": "^orange;4级^reset;\n\n^cyan;耐钢^reset;是一种密度极高的金属，以其能与真空环境无缝融合的非凡特性而备受太空工程师青睐。\n\n在几乎所有^green;四级^reset;星球上都能发现^cyan;耐钢^reset;的踪迹，^green;外星^reset;、^green;硫磺^reset;以及^green;山脉^reset;星球都是其优质来源。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_ferozium/0",
     "raw": "Ferozium",
-    "value": "菲洛"
+    "value": "菲洛合金"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_ferozium/1",
     "raw": "^orange;Tier 5^reset;\n\nLearn to process ^cyan;Ferozium^reset;. \n\nYou can find ^reset;Ferozium^reset; on any world that is ^green;Tier 5^reset;.",
-    "value": "^orange;5级^reset;\n\n学习处理^cyan;菲洛矿^reset;。你可以在任何^green;5级^reset;世界中找到^cyan;菲洛矿^reset;。"
+    "value": "^orange;5级^reset;\n\n学习如何加工^cyan;菲洛合金^reset;。\n\n您可以在任何达到^green;五级^reset;的世界中找到^cyan;菲洛合金^reset;。"
   },
   {
     "op": "replace",
@@ -243,79 +243,79 @@
     "op": "replace",
     "path": "/strings/research/metals_aegisalt/1",
     "raw": "^orange;Tier 5^reset;\n\nLearn to process ^cyan;Aegisalt^reset;. \n\nYou can find ^reset;Aegisalt^reset; on any world that is ^green;Tier 5^reset;.",
-    "value": "^orange;5级^reset;\n\n学习处理^cyan;霓磷盐^reset;。你可以在任何^green;5级^reset;世界中找到^cyan;霓磷盐^reset;。"
+    "value": "^orange;5级^reset;\n\n学习如何加工^cyan;霓磷盐^reset;。\n\n您可以在任何达到^green;五级^reset;的世界中找到^cyan;霓磷盐^reset;。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_violium/0",
     "raw": "Violium",
-    "value": "维奥"
+    "value": "维奥合金"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_violium/1",
     "raw": "^orange;Tier 5^reset;\n\nLearn to process ^cyan;Violium^reset;. \n\nYou can find ^reset;Violium^reset; on any world that is ^green;Tier 5^reset;.",
-    "value": "^orange;5级^reset;\n\n学习处理^cyan;维奥矿^reset;。你可以在任何^green;5级^reset;世界中找到^cyan;维奥矿^reset;。"
+    "value": "^orange;5级^reset;\n\n学习如何加工^cyan;维奥合金^reset;。\n\n您可以在任何达到^green;五级^reset;的世界中找到^cyan;维奥合金^reset;。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_solarium/0",
     "raw": "Solarium",
-    "value": "日耀"
+    "value": "日耀石"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_solarium/1",
     "raw": "^orange;Tier 6^reset;\n\nLearn to process ^cyan;Solarium^reset;. \n\nYou can find ^reset;Solarium^reset; on any world that is ^green;Tier 6^reset;.",
-    "value": "^orange;6级^reset;\n\n学习处理^cyan;日耀矿^reset;。你可以在任何^green;5级^reset;世界中找到^cyan;日耀矿^reset;。"
+    "value": "^orange;6级^reset;\n\n学习如何加工^cyan;日耀石^reset;。\n\n您可以在任何达到^green;六级^reset;的世界中找到^cyan;日耀石^reset;。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_telebrium/0",
     "raw": "Telebrium",
-    "value": "特勒贝晶体"
+    "value": "特勒贝"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_telebrium/1",
     "raw": "^orange;Tier 2.5^reset;\n\nLearn to process the unusual ore known as ^cyan;Telebrium^reset;. Lightweight, conductive enough to create charge but unsuitable for holding it long-term, this metal has found use in numerous areas.\n\nYou can find Telebrium primarily on ^green;Moons^reset;, where it can be found abundantly forming.",
-    "value": "^orange;2.5级^reset;\n\n学习处理被称为^cyan;特勒贝^reset;的不寻常矿石。这种金属重量轻，导电性好，足以产生电荷，但不适合长期使用，特勒贝已经在许多领域得到应用。你可以在卫星上找到特勒贝，在那里可以看到大量形成的特勒贝矿。"
+    "value": "^orange;2.5级^reset;\n\n学习如何加工这种被称为^cyan;特勒贝^reset;的特殊矿石。这种金属质地轻盈，导电性足以产生电荷，但不适合长期储存，因此已在多个领域得到应用。\n\n特勒贝主要分布于^green;卫星^reset;上，在那里可以找到大量形成的矿藏。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_densinium/0",
     "raw": "Densinium",
-    "value": "超致密"
+    "value": "坚密钢"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_densinium/1",
     "raw": "^orange;Tier 6^reset;\n\nLearn to process ^cyan;Densinium^reset;. \n\nYou can find Densinium primarily on ^green;Cyberspheres^reset;. It can also rarely be found on ^green;Sulphuric^reset; biomes and ^green;Gas Giants^reset;. It is the most dense of metals, capable of unimaginable resistance against force. It is extremely hard to work with as a result, reserved for the most skilled weaponsmiths.",
-    "value": "^orange;6级^reset;\n\n学会处理^cyan;超致密矿^reset;。\n\n你可以在^green;赛博星球^reset;上找到超致密矿。在^green;硫酸^reset;生物群落和^green;气态巨行星^reset;上也能找到很少的量。它是最致密的金属，具有难以想象的抗力。因此，处理这种金属时保留给最熟练的武器匠人的辛苦活计。"
+    "value": "^orange;6级^reset;\n\n学习如何加工^cyan;坚密钢^reset;。\n\n坚密钢主要出现在^green;赛博^reset;星球上，偶尔也能在^green;硫酸^reset;生物群落和^green;气态巨行星^reset;上发现。它是密度最高的金属，能提供超乎想象的抗压强度。正因如此，加工难度极大，只有技艺最精湛的武器匠才能驾驭。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_effigium/0",
     "raw": "Effigium",
-    "value": "幻影矿"
+    "value": "幻影钢"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_effigium/1",
     "raw": "^orange;Tier 5^reset;\n\nLearn to process ^cyan;Effigium^reset;. \n\nYou can find Effigium  only on ^green;Lightless^reset; worlds, where it blends into the terrain around it as if it were insubstantial. This is a strange trick of physics that few can even begin to understand, but many have theorized that it is able to repel light photons.",
-    "value": "^orange;5级^reset;\n\n学习处理^cyan;幻影矿^reset;。\n\n你只能在^green;无光^reset;世界中找到幻影矿，在那里它融入到它周围的地形中，就好像它是虚无的。这是种很少有人能够开始理解的物理学上的奇怪把戏，但是许多人从理论上认为它能够排斥光子。"
+    "value": "^orange;5级^reset;\n\n学习如何加工^cyan;幻影钢^reset;。\n\n您只能在^green;无光^reset;世界中找到幻影钢，它仿佛无形般融入周围的地形。这是一种奇特的物理现象，几乎无人能理解其原理，但许多理论推测它能够排斥光子。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_irradium/0",
     "raw": "Irradium",
-    "value": "镭"
+    "value": "铱射钢"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_irradium/1",
     "raw": "^orange;Tier 4.5^reset;\n\nLearn to process ^cyan;Irradium^reset;. \n\nYou can find Irradium primarily on ^green;Irradiated^reset; biomes. Easily the most radioactive of ores you can safely work with, it fills an interesting niche in geological terms: it both creates and nullifies radioactivity.",
-    "value": "^orange;4.5级^reset;\n\n学习处理^cyan;镭^reset;。\n\n你可以在^green;辐射^reset;生物群落中找到镭。你可以很容易且安全地使用最具放射性的矿石，它填补了地质学术语中一个有趣的空白: 它既产生放射性，又消除放射性。"
+    "value": "^orange;4.5级^reset;\n\n学习如何加工^cyan;铱射钢^reset;。\n\n铱射钢主要分布于^green;辐照^reset;生物群落中。作为可安全开采的矿石中放射性最强的一种，它在地质学上占据了一个独特的位置：既能产生放射性，又能消除放射性。"
   },
   {
     "op": "replace",
@@ -327,19 +327,19 @@
     "op": "replace",
     "path": "/strings/research/metals_isogen/1",
     "raw": "^orange;Tier 6^reset;\n\nLearn to process ^cyan;Isogen^reset;. \n\nYou can find Isogen primarily on dangerous freezing worlds like ^green;Ice Wastes^reset;. Even touching this ore can risk frostbite, so care should be excercised when working with it. It can make fantastic shielding against heat, and can be worked into deadly frost weapons.",
-    "value": "^orange;6级^reset;\n\n学习处理^cyan;寒霜矿^reset;。\n\n你可以在危险的冰冻世界找到大量的寒霜矿，比如^green;冰冻废土^reset;。即使接触到这种矿石也有冻伤的危险，因此在使用时应该谨慎锻造。它可以制造出奇妙的屏蔽热量的装置，也可以制造致命的冰霜武器。"
+    "value": "^orange;6级^reset;\n\n学习如何加工^cyan;寒霜矿^reset;。\n\n寒霜矿要分布于危险的冰冻星球，如^green;冰冻废土^reset;。这种矿石即使触碰也可能导致冻伤，因此在处理时必须格外小心。它能够制成卓越的隔热护盾，也可被锻造成致命的寒冰武器。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_pyreite/0",
     "raw": "Pyreite",
-    "value": "永燃矿"
+    "value": "永燃石"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_pyreite/1",
     "raw": "^orange;Tier 6^reset;\n\nLearn to process ^cyan;Pyreite.^reset; \n\nYou can find Pyreite primarily on dangerous burning worlds like ^green;Infernus^reset;. It is perhaps the best known insulator against cold temperatures and doubly great for incendiary use. Do not leave on any easily melted surface for longer than 2 minutes. This metal never grows fully cold.",
-    "value": "^orange;6级^reset;\n\n学习处理^cyan;永燃矿^reset;。\n\n你可以在危险的炎热世界找到大量的永燃矿，比如^green;炼狱^reset;。它可能是最著名的御寒绝缘体，尤其适用于燃烧用途。不要将其在任何容易融化的表面上停留超过2分钟。这种金属永远不会完全冷却。"
+    "value": "^orange;6级^reset;\n\n学习如何加工^cyan;永燃石^reset;。\n\n永燃石主要存在于如^green;炼狱^reset;这类危险的燃烧星球上。它可能是最广为人知的抗寒绝缘材料，同时在燃烧用途上表现尤为出色。请勿将其置于任何易熔表面超过两分钟。这种金属永远不会完全冷却。"
   },
   {
     "op": "replace",
@@ -351,43 +351,43 @@
     "op": "replace",
     "path": "/strings/research/metals_morphite/1",
     "raw": "^orange;Tier 4.5^reset;\n\nLearn to process ^cyan;Morphite^reset;. \n\nMorphite is invented, not natural. You can syntesize it in a ^green;Chem Lab^reset;.",
-    "value": "^orange;4.5级^reset;\n\n学习处理^cyan;吗啡^reset;。\n\n吗啡是人造的，不是天然的。你可以在化学实验室合成它。"
+    "value": "^orange;4.5级^reset;\n\n学习如何加工^cyan;异极合金^reset;。\n\n异极合金并非天然产物，而是人工发明。您可以在^green;化学实验室^reset;处合成它。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_nocxium/0",
     "raw": "Nocxium",
-    "value": "诺克石"
+    "value": "冥寂金"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_nocxium/1",
     "raw": "^orange;Tier 7^reset;\n\nLearn to process ^cyan;Nocxium^reset;. \n\nNocxium is exceedingly rare, found only in the whispered dark reaches of the universe. Absolutely nobody knows how it first formed, or what elements it is composed of, for all attempts at study defy any such thing.",
-    "value": "^orange;7级^reset;\n\n学习处理^cyan;诺克石^reset;。\n\n诺克石异常罕见，只有在低语萦绕的宇宙深处中才能找到。几乎没有人知道它最初是如何形成的，或者它是由什么元素组成的，因为所有的研究尝试都是对这些东西的挑战。"
+    "value": "^orange;7级^reset;\n\n学习如何加工^cyan;冥寂金^reset;。\n\n冥寂金极为罕见，仅存于宇宙幽暗的低语深处。无人知晓它最初如何形成，亦不知其由何种元素构成，因为所有试图研究它的尝试都违背了任何此类可能。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_penumbrite/0",
     "raw": "Penumbrite",
-    "value": "半影矿"
+    "value": "半影石"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_penumbrite/1",
     "raw": "^orange;Tier 3.5^reset;\n\nLearn to process ^cyan;Penumbrite^reset;. \n\nYou can find Penumbrite on ^green;Penumbra^reset; biomes. It gleams under light, shimmering for several seconds after being returned to darkness. It possesses a dull blue glow, making it simple to locate even in the dark.",
-    "value": "^orange;3.5级^reset;\n\n学习加工^cyan;半影矿^cyan;。你可以在^green;半影^reset;生物群落中找到半影矿。它在光线下闪闪发光，回到黑暗之后也会闪光几秒。它有一种暗淡的蓝光，使它即使在黑暗中也很容易被定位。"
+    "value": "^orange;3.5级^reset;\n\n学习如何加工^cyan;半影石^reset;。\n\n您可以在^green;半影^reset;生物群落中找到半影石。它在光照下会闪烁，移回黑暗后仍能持续发光数秒。它散发出一种柔和的蓝色光芒，即使在黑暗中也很容易找到。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_protocite/0",
     "raw": "Protocite",
-    "value": "原体矿"
+    "value": "原体石"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_protocite/1",
     "raw": "^orange;Tier 3.5^reset;\n\nLearn to process ^cyan;Protocite^reset;. \n\nYou can find Protocite only on ^green;Proto Worlds^reset;. This ore is famed for its ability to store and channel power while insulating at the same time, making it a popular metal for numerous processes. It glows yellow, giving away its presence to the intrepid miner.",
-    "value": "^orange;3.5级^reset;\n\n学习处理^cyan;原体矿^reset;。\n\n你只能在^green;原体世界^reset;中找到原体矿。这种矿石是以储存并沟通能量的能力出名，且保持隔离，使其在许多金属工艺中大受欢迎。它发出黄色的光芒，向每个勇敢的矿工暴露自己的存在。"
+    "value": "^orange;3.5级^reset;\n\n学习如何加工^cyan;原体石^reset;。\n\n您只能在^green;原体世界^reset;找到原石。这种矿石因其既能储存和传导能量，又能同时提供绝缘而闻名，使其成为众多工艺中广受欢迎的材料。它散发着黄色光芒，为勇敢的矿工揭示其存在。"
   },
   {
     "op": "replace",
@@ -399,7 +399,7 @@
     "op": "replace",
     "path": "/strings/research/metals_quietus/1",
     "raw": "^orange;Tier 4^reset;\n\nLearn to process ^cyan;Quietus^reset;. \n\nThis horrifying metal is found only on ^green;Atropus^reset; biomes. It pulses and throbs almost imperceptibly, and when worked hard under a hammer it can almost be heard to 'scream'. It possesses useful properties, especially in regard to biological weapons.",
-    "value": "^orange;4级^reset;\n\n学习处理^cyan;寂灭矿^reset;。\n\n这种可怕的金属只存在于^green;肉源^reset;生物群落中。它的在不知不觉种颤动着，当对它努力下锤时几乎让心’尖叫’。它具有实用特性，特别是在生物武器方面。"
+    "value": "^orange;4级^reset;\n\n学习如何加工^cyan;寂灭矿^reset;。\n\n这种令人恐惧的金属仅存在于^green;肉源^reset;生物群落。它几乎难以察觉地脉动与搏动，当在锤下被大力锻造时，几乎能听到它的“尖啸”。它具有实用特性，尤其在生物武器方面表现突出。"
   },
   {
     "op": "replace",
@@ -411,55 +411,55 @@
     "op": "replace",
     "path": "/strings/research/metals_lunari/1",
     "raw": "^orange;Tier 2.5^reset;\n\nLearn to process ^cyan;Lunari^reset;. \n\nThis unique crystal can be found on ^green;Crystalline^reset; biomes and is a fantastic means of transferring and storing energy. This makes it particularly popular for weapons and armor.",
-    "value": "^orange;2.5级^reset;\n\n学会处理^cyan;月晶^reset;。\n\n这种独特的晶体存在于^green;晶体^reset;生物群落中，是一种传递和储存能量的神奇手段。这使得它在武器和盔甲中大显身手。"
+    "value": "^orange;2.5级^reset;\n\n学习如何加工^cyan;月晶^reset;。\n\n这种独特的水晶可在^green;结晶^reset;生物群系中找到，是传输和储存能量的绝佳媒介。因此，它在武器和护甲制造中尤为受欢迎。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_trianglium/0",
     "raw": "Trianglium",
-    "value": "原力矿"
+    "value": "三角铱"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_trianglium/1",
     "raw": "^orange;Tier 4^reset;\n\nLearn to process ^cyan;Trianglium^reset;. \n\nThs unusual shape of this ore can be found readily on several biomes. The most common source are ^green;Tar Balls^reset;.",
-    "value": "^orange;4级^reset;\n\n学习处理^cyan;原力矿^reset;。\n\n这种不寻常的矿石形状在几个生物群落中很容易找到。最常见的来源是^green;焦油星球^reset;。"
+    "value": "^orange;4级^reset;\n\n学习如何加工^cyan;三角铱矿^reset;。\n\n这种矿石的独特形态在多个生物群落中均可见到，最常见的来源是^green;焦油星球^reset;。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_xithricite/0",
     "raw": "Xithricite Crystal",
-    "value": "赛德瑞瑟晶体"
+    "value": "赛斯瑞晶"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_xithricite/1",
     "raw": "^orange;Tier 6^reset;\n\nLearn to process ^cyan;Xithricite^reset;. \n\nThese crystals can be found only on ^green;Aether Worlds^reset;, or from the bowels of a ^green;Doom Wyrm^reset;.",
-    "value": "^orange;6级^reset;\n\n学习处理^cyan;赛德瑞瑟晶体^reset;。\n\n这些水晶只能在^green;以太世界^reset;中找到，或者来自^green;毁灭妖怪^reset;的内部。"
+    "value": "^orange;6级^reset;\n\n学习如何加工^cyan;赛斯瑞晶^reset;。\n\n这些晶体仅能在^green;以太世界^reset;中发现，或是从^green;毁灭巨蠕^reset;的腹中获取。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_zerchesium/0",
     "raw": "Zerchesium",
-    "value": "极熔金矿"
+    "value": "极熔金"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_zerchesium/1",
     "raw": "^orange;Tier 3.5^reset;\n\nLearn to process ^cyan;Zerchesium^reset;. \n\nZerchesium can be located on ^green;Mountainous^reset; biomes, but sometimes appears on ^green;Sulphuric^reset; worlds as well.",
-    "value": "^orange;3.5级^reset;\n\n学习如何处理^cyan;极熔金矿^reset;\n\n极熔金矿大部分藏于^green;山脉^reset;生物群落中，但有时也会出现在^green;硫酸^reset;世界中。"
+    "value": "^orange;3.5级^reset;\n\n学习如何加工^cyan;极熔金^reset;。\n\n极熔金主要分布于^green;山脉^reset;生物群落中，偶尔也会在^green;硫酸^reset;星球上出现。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_lasombrium/0",
     "raw": "Lasombrium",
-    "value": "混乱原生质"
+    "value": "熵影金"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_lasombrium/1",
     "raw": "^orange;Tier 4^reset;\n\nLearn to process ^cyan;Lasombrium^reset;. \n\nRaw chaos and entropy given form, this metal is unique and not a natural part of the universe. It phases between solid and non nearly constantly. It is only found in ^green;Corruption^reset; sub biomes, found on and beneath many types of decaying worlds.\n\nTo process this rare and unusual mineral, you'll need at least a ^orange;Chem Lab^reset; (upgrade of the Alchemy station) to properly cleanse the toxic outer shell and remove impurities. A ^orange;Blast Furnace^reset; or ^orange;Arc Smelter^reset; can also do the trick on their own.",
-    "value": "^orange;4级^reset;\n\n学习处理^cyan;混乱原生质^reset;。\n\n原始的混沌和熵赋予其形式，这种金属是独一无二的，绝对不是宇宙的自然部分。它在固态和非固态之间不断变化。它只存在于^green;腐化^reset;子生物群落中，其在许多类型的腐化世界地上地下被发现。\n\n要处理这种稀有和不寻常的矿物，你至少需要^orange;生化实验台^reset;(从炼金工作台升级而来)以正确清洁有毒的外壳并清除杂质。一台^orange;高炉^reset;或^orange;电弧冶炼炉^reset;也可以自行处理。"
+    "value": "^orange;4级^reset;\n\n学习如何加工^cyan;熵影金^reset;。\n\n原始混沌与熵被赋予形态，这种金属独一无二，并非宇宙自然产物。它几乎持续在固态与非固态之间转换相位。仅见于^green;腐化^reset;亚生态群落中，分布于多种衰败星球的表面与地下。\n\n要处理这种稀有而奇特的矿物，您至少需要一个^reset;化学实验室^orange;（炼金工作台的升级版）来彻底净化其有毒外壳并去除杂质。单独使用^orange;高炉^reset;或^orange;电弧冶炼炉^reset;也能达到同样效果。"
   },
   {
     "op": "replace",
@@ -471,19 +471,19 @@
     "op": "replace",
     "path": "/strings/research/metals_plasmiccrystal/1",
     "raw": "^orange;Tier 4^reset;\n\nLearn to process ^cyan;Plasmic Crystal^reset;. \n\nYou can find these rare crystals only in ^green;Bloodstone Seas^reset; and ^green;Atropus^reset; biomes.",
-    "value": "^orange;4级^reset;\n\n学习处理^cyan;血晶^reset;。\n\n你只能在^green;血石海^reset;和^green;肉源^reset;生物群中找到这些稀有的晶体。"
+    "value": "^orange;4级^reset;\n\n学习如何加工^cyan;血晶^reset;。\n\n您仅能在^green;血石海^reset;和^green;肉源^reset;生物群落中找到这些稀有的晶体。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_prisilite/0",
     "raw": "Prisilite",
-    "value": "棱镜之星"
+    "value": "棱镜晶"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_prisilite/1",
     "raw": "^orange;Tier 4^reset;\n\nLearn to process ^cyan;Prisilite^reset;. \n\nPrisilite is a truly interesting mineral. Capable of holding charge but not discharging it without an impact, it has been harnessed for many creative purposes across the galaxy.\n\nYou can find this chromatic crystal in many places, but ^green;Chromatic^reset; biomes are among the best places to hunt.",
-    "value": "^orange;4级^reset;\n\n学习处理^cyan;棱镜之星^reset;。\n\n棱镜之星一种耐人玩味的矿物。它能够保持电荷，但不能在没有冲击的情况下放电，它已经被用于宇宙间的许多创造性发明。你可以在很多地方找到这种彩色晶体，但^green;多彩^reset;生物群落是最好的狩猎地点之一。"
+    "value": "^orange;4级^reset;\n\n学习如何加工^cyan;棱镜晶^reset;。\n\n棱镜晶是一种极其有趣的矿物。它能够储存电荷，但只有在受到冲击时才会释放，这一特性使其在宇宙中被广泛应用于各种创新用途。\n\n这种多彩晶体在许多地方都能找到，但^green;多彩^reset;生物群落无疑是搜寻它的最佳地点之一。"
   },
   {
     "op": "replace",
@@ -495,19 +495,19 @@
     "op": "replace",
     "path": "/strings/research/metals_crystal/1",
     "raw": "^orange;Tier 2^reset;\n\nGlittering beautifully, crystals have long fascinated people across the cosmos. Through this branch of research you will learn to process Crystals. If you're desperate for some, crystals are best found on ^green;Crystalline^reset; biomes.\n\nTo craft or process these gems, you'll need a ^orange;Crystal Fusion Station^reset;.",
-    "value": "^orange;2级^reset;\n\n晶体闪闪发光的美丽，长期以来一直吸引着整个宇宙的人们。通过这个分支的研究，你将学习处理晶体。如果你急需一些晶体，你最好去^green;晶体^reset;生物群落中找找看。\n\n要制作或加工这些宝石，你需要^orange;水晶融合站^reset;。"
+    "value": "^orange;2级^reset;\n\n晶莹剔透的水晶长久以来令宇宙中的人们为之着迷。通过这一研究分支，您将学会如何加工水晶。若您急需获取，水晶最佳采集地是^green;晶体^reset;生物群落。\n\n要制作或加工这些宝石，您需要一台^orange;水晶融合站^reset;。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_crystal2/0",
     "raw": "Elemental Crystals",
-    "value": "元素晶体"
+    "value": "元素水晶"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_crystal2/1",
     "raw": "^orange;Tier 2^reset;\n\nLearn to process Elemental Crystals of various sorts. These are utilized in a wide variety of uses by certain races, but have little value apart from trade otherwise.\n\nTo craft or process these gems, you'll need a ^orange;Crystal Fusion Station^reset;.",
-    "value": "^orange;2级^reset;\n\n学习处理各种各样的元素晶体。它们被某些种族广泛地用于各种用途，但除了贸易以外几乎没有什么价值。\n\n要制作或加工这些宝石，你需要^orange;水晶融合站^reset;。"
+    "value": "^orange;2级^reset;\n\n学习处理各类元素水晶。这些水晶被某些种族广泛应用于多种用途，但除了交易之外，其他方面的价值有限。\n\n要制作或加工这些宝石，您需要一台^orange;水晶融合站^reset;。"
   },
   {
     "op": "replace",
@@ -519,19 +519,19 @@
     "op": "replace",
     "path": "/strings/research/metals_diamond/1",
     "raw": "^orange;Tier 4^reset;\n\nSought after as decorative for reasons few have ever been able to discern, diamonds are allegedly beautiful (nevermind the fact that they are colorless and bland!). However, diamond is exceptionally useful to those with the means to make the most of them. You're able to do just that, and will be able to make exceptionally useful gear.",
-    "value": "^orange;4级^reset;\n\n钻石作为装饰品被追捧的原因，是因为很少有人能够辨别出来，据说钻石是美丽(不要在意它们是无色和乏味的!).然而，钻石对于那些有能力充分利用它们的人来说是非常有用的。你能够做到这一点，并将能够做出非常有用的装备。"
+    "value": "^orange;4级^reset;\n\n钻石之所以备受追捧，作为装饰品的原因鲜有人能真正理解，据说它们很美（尽管它们其实无色且平淡无奇！）。然而，对于那些有能力充分利用钻石的人来说，它们却异常有用。您恰好具备这种能力，能用钻石打造出极其实用的装备。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_honedlunari/0",
     "raw": "Peerless Lunari",
-    "value": "无双月晶"
+    "value": "绝世月晶"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_honedlunari/1",
     "raw": "^orange;Tier 6^reset;\n\nConvert Lunari into a vastly superior form of itself, shot-through with potent veins of energy.",
-    "value": "^orange;6级^reset;\n\n将月晶做成巨大的一块，充满活力的能量脉络。"
+    "value": "^orange;6级^reset;\n\n将月晶转化为其自身的极致升华形态，周身贯穿着强大的能量脉络。"
   },
   {
     "op": "replace",
@@ -543,7 +543,7 @@
     "op": "replace",
     "path": "/strings/research/metals_alloy1/1",
     "raw": "^orange;Tier 2.5^reset;\n\nWhile it doesn't look it, Carbon houses great potential, and you'll need it for many useful technologies. It plays a part in a great deal of crafting, and paves the way to strong alloys and powerful equipment.\n\nCreating carbon is simple enough, through research into ^green;Chemistry^reset; or by extracting coal. Turning it into a form that is useable in everyday processes for crafting is another matter entirely. You've learned to do just that.",
-    "value": "^orange;2.5级^reset;\n\n虽然看起来不怎么样，但是碳元素蕴藏着巨大的潜力，你需要它来开发许多有用的技术。它在大量的手工制作中扮演着重要的角色，并且为强力合金和强大的设备铺平了道路。\n\n制造碳非常简单。通过研究^green;化学^reset;或萃取煤即可。将碳元素转换为可用于日常制作程序的形式完全是另一回事。 您已经学会了做到这一点。"
+    "value": "^orange;2.5级^reset;\n\n碳虽貌不惊人，却蕴藏着巨大潜力，许多实用技术都离不开它。它在大量制造工艺中扮演关键角色，为打造高强度合金与强力装备铺平道路。\n\n获取碳的方法相当简单，通过研究^green;化学^reset;或煤炭提炼即可实现。但将其转化为适用于日常制造流程的可用形态，则完全是另一回事。而您已经掌握了这门技艺。"
   },
   {
     "op": "replace",
@@ -555,7 +555,7 @@
     "op": "replace",
     "path": "/strings/research/metals_alloy2/1",
     "raw": "^orange;Tier 3.5^reset;\n\nCombining several metals together allows you to create a superior type of alloy.",
-    "value": "^orange;3.5级^reset;\n\n将几种金属结合在一起可以创造出更高级的合金类型。"
+    "value": "^orange;3.5级^reset;\n\n将几种金属混合在一起，可以制造出性能更优越的合金。"
   },
   {
     "op": "replace",
@@ -567,7 +567,7 @@
     "op": "replace",
     "path": "/strings/research/metals_alloy3/1",
     "raw": "^orange;Tier 4.5^reset;\n\nFew metals can look as beautiful as Tritanium, one of the most potent known alloys. Beneath its surface, subtly moving striations of gold and opalescent blue fluctuate in random fractal patterns. The effect is magical in appearance.",
-    "value": "^orange;4.5级^reset;\n\n几乎没有什么金属能像三相这样美丽，三相是已知的最有效的合金之一。在它的表面之下，金色和乳白色的蓝色微条纹在随机的分形图案中起伏。视觉效果拉满。"
+    "value": "^orange;4.5级^reset;\n\n很少有金属能像三相合金那样展现出如此迷人的美感，这是目前已知性能最强的合金之一。其表面之下，金色与虹彩蓝的细微纹路如活物般缓缓流动，随机分形的图案变幻莫测，呈现出近乎魔幻的视觉奇观。"
   },
   {
     "op": "replace",
@@ -579,7 +579,7 @@
     "op": "replace",
     "path": "/strings/research/metals_alloy4/1",
     "raw": "^orange;Tier 5.5^reset;\n\nMerging Violium, Ferozium and Aegisalt together allows the creation of a super-strong alloy useful in many processes.",
-    "value": "^orange;5.5级^reset;\n\n在多道工序中融合维奥，菲洛和霓磷盐允许你制造一种超强的合金。"
+    "value": "^orange;5.5级^reset;\n\n将维奥合金，菲洛合金和霓磷盐融合在一起，可以制造出一种超强合金，适用于多种工艺过程。"
   },
   {
     "op": "replace",
@@ -591,19 +591,19 @@
     "op": "replace",
     "path": "/strings/research/metals_alloy5/1",
     "raw": "^orange;Tier 6^reset;\n\nYou have absolultely no idea what the Precursors created this alloy from, but you've at least learned to work with it.",
-    "value": "^orange;6级^reset;\n\n你完全不知道先驱是用什么创造出这种合金的，但至少你已经学会了如何使用它。"
+    "value": "^orange;6级^reset;\n\n您完全不知道先驱是用什么材料制造出这种合金的，但至少您已经学会了如何运用它。"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_alloy6/0",
     "raw": "Aetherium Alloy",
-    "value": "以太合金"
+    "value": "阳清合金"
   },
   {
     "op": "replace",
     "path": "/strings/research/metals_alloy6/1",
     "raw": "^orange;Tier 8^reset;\n\nYou've invented an entirely new form of alloy, and none created before it can claim to be its rival.",
-    "value": "^orange;8级^reset;\n\n你已经发明了一种全新的合金形式，而且没人敢声称在你之前就把其创造出来。"
+    "value": "^orange;8级^reset;\n\n您发明了一种全新的合金，此前任何已有的合金都无法与之匹敌。"
   },
   {
     "op": "replace",
@@ -615,7 +615,7 @@
     "op": "replace",
     "path": "/strings/research/isotopes1/1",
     "raw": "^orange;Tier 2^reset;\n\nProcessing isotopes is dangerous to the uninitiated. That used to be you. Now, though, you're confident that you can safely handle these sorts of materials and utilize them in very lucrative scientific pursuits.\n\nYou're ready to start working with Plutonium, which can be quite useful for numerous applications",
-    "value": "^orange;2级^reset;\n\n加工同位素对外行来说是危险的。对于曾经的你来说。现在，尽管，你相信你可以安全地处理这些材料，并利用它们在非常有利可图的科学追求。\n\n你已经准备好开始处理钚了，它在很多应用中都非常有用。"
+    "value": "^orange;2级^reset;\n\n处理同位素对新手来说充满危险，这曾是您的写照。但如今，您已确信自己能够安全操作这类材料，并将其用于极具价值的科研探索中。\n\n您已准备好开始接触钚元素，它在众多应用领域中都展现出非凡的潜力。"
   },
   {
     "op": "replace",
@@ -627,7 +627,7 @@
     "op": "replace",
     "path": "/strings/research/isotopes2/1",
     "raw": "^orange;Tier 3^reset;\n\nThough Plutonium is quite a bit more dangerous than Uranium, Uranium is somewhat harder to smelt. It has a high degree of usefulness in numerous machines and can even be worked into weaponry.",
-    "value": "^orange;3级^reset;\n\n虽然钚比铀要危险一些，但铀比前者难冶炼。铀在许多机器中具有高度的实用性，甚至可以用于武器装备。"
+    "value": "^orange;3级^reset;\n\n尽管钚的危险性远高于铀，但铀的冶炼难度相对较大。它在众多机械设备中具有广泛的用途，甚至可以被加工成武器。"
   },
   {
     "op": "replace",
@@ -639,7 +639,7 @@
     "op": "replace",
     "path": "/strings/research/isotopes3/1",
     "raw": "^orange;Tier 4^reset;\n\nWhile not as radioactive, Neptunium has a number of applications that are not shared with Uranium.",
-    "value": "^orange;4级^reset;\n\n虽然没有那么强的放射性，但镎有许多应用程序并不与铀共享。"
+    "value": "^orange;4级^reset;\n\n尽管放射性较弱，镎仍有一些铀所不具备的应用领域。"
   },
   {
     "op": "replace",
@@ -651,7 +651,7 @@
     "op": "replace",
     "path": "/strings/research/isotopes4/1",
     "raw": "^orange;Tier 5^reset;\n\nNot inherently dangerous or unstable, Thorium is quite a beneficial material when used creatively in a lab.",
-    "value": "^orange;5级^reset;\n\n除开天生的危险或不稳定，钍是一种相当有益的材料，能够创造性地使用在实验室。"
+    "value": "^orange;5级^reset;\n\n钍本身并不具有危险性或不稳定性，在实验室中若能创新运用，它其实是一种相当有益的材料。"
   },
   {
     "op": "replace",
@@ -663,7 +663,7 @@
     "op": "replace",
     "path": "/strings/research/isotopes_enriched/1",
     "raw": "^orange;Tier 6^reset;\n\nThanks to your wealth of knowledge on this subject matter, you now have the ability to vastly improve Uranium and Plutonium by enhancing them with Deuterium and Erchius Fuel at your ^orange;Chem Lab^reset;. These isotopes will provide far more radioactive energy than before.",
-    "value": "^orange;6级^reset;\n\n由于你在这方面的渊博学识，你们现在有能力用与氘和厄尔吉斯燃料在^orange;生化实验台^reset;处增强放铀和钚。这些同位素提供的放射性能量将远远超过以前。"
+    "value": "^orange;6级^reset;\n\n得益于您在该领域的丰富知识，您现在可以在^orange;化学实验室^reset;处通过添加氘和厄尔吉斯燃料来大幅提升铀和钚的性能。这些同位素将释放出远超以往的放射性能量。"
   },
   {
     "op": "replace",
@@ -675,7 +675,7 @@
     "op": "replace",
     "path": "/strings/research/isotopes6/1",
     "raw": "^orange;Tier 7^reset;\n\nYou've learned to harness the power of isotopes to your utmost advantage and advanced the knowledge in this field by a generation or two in the process. You've learned to create an entirely new form of isotope with properties hitherto unseen.",
-    "value": "^orange;7级^reset;\n\n你已经学会了最大限度地利用同位素的力量，并且在这个过程中通过一两代人的努力提升了这个领域的知识。你已经学会了创造一种全新的同位素形式，其性质迄今为止尚未见过。"
+    "value": "^orange;7级^reset;\n\n您已学会最大限度地利用同位素的力量，并在此过程中将这一领域的知识推进了一两代人的水平。您还掌握了创造一种全新同位素形态的方法，其特性前所未见。"
   },
   {
     "op": "replace",
@@ -687,7 +687,7 @@
     "op": "replace",
     "path": "/strings/research/fossils1/1",
     "raw": "^orange;Tier 1^reset;\n\nThrough your scientific studies, you've found a certain fascination with the past. You've studied the basics of Archaeology and Anthropology, and can now create gear to help you find ^green;Fossils and Artifacts^reset;. You can craft the ^orange;Fossil Station^reset; at your ^orange;Inventor's Table^reset;.\n\nTo dig up fossils, you'll first need to find some in the soil underground. Once you do, simply stand next to the fossil and target it with your Fossil Brush of choice, and swipe it for a few seconds. You'll then be taken to the Fossil Minigame for a skill-testing challenge.",
-    "value": "^orange;1级^reset;\n\n通过你的科学研究，你已经发现了对过去的某种迷恋。您已经学习了考古学和人类学的基础知识，现在可以创建齿轮来帮助您发现化石和人工制品。你可以在你的发明者桌上制作化石站。要挖掘化石，你首先需要在地下的土壤中找到一些。一旦你这么做了，只需站在化石旁边，用你选择的化石刷瞄准它，然后刷它几秒钟。然后你将被带到 Fossil Minigame 进行技能测试挑战。"
+    "value": "^orange;1级^reset;\n\n通过您的科学研究，您对过去产生了浓厚的兴趣。您已经学习了考古学和人类学的基础知识，现在可以制作工具来帮助您寻找^green;化石和文物^reset;。您可以在^orange;发明家工作台^reset;上制作^orange;化石工作站^reset;。\n\n要挖掘化石，首先需要在地下土壤中找到它们。一旦发现，只需站在化石旁边，用您选择的化石刷对准它，轻轻刷动几秒钟。随后，您将进入化石小游戏，迎接一场考验技巧的挑战。"
   },
   {
     "op": "replace",
@@ -699,7 +699,7 @@
     "op": "replace",
     "path": "/strings/research/fossils2/1",
     "raw": "^orange;Tier 2^reset;\n\nWith firmer understanding of techniques, you can now create more efficient tools to procure fossils with.",
-    "value": "^orange;2级^reset;\n\n随着对技术的更深入理解，你现在可以创造更有效的工具来获取化石。"
+    "value": "^orange;2级^reset;\n\n随着对技术更深入的理解，您现在可以制作出更高效的工具来采集化石。"
   },
   {
     "op": "replace",
@@ -711,7 +711,7 @@
     "op": "replace",
     "path": "/strings/research/fossils3/1",
     "raw": "^orange;Tier 3^reset;\n\nYou're able to create top of the line gear capable of unearthing even the most fragile of fossilized remains or ancient buried artifacts.",
-    "value": "^orange;3级^reset;\n\n你可以创造出顶级的设备，甚至可以挖掘出最脆弱的化石残骸或古代埋藏的工艺品。"
+    "value": "^orange;3级^reset;\n\n您能打造出顶尖装备，足以发掘最脆弱的化石遗骸或深埋地下的古老文物。"
   },
   {
     "op": "replace",
@@ -723,19 +723,19 @@
     "op": "replace",
     "path": "/strings/research/fossils4/1",
     "raw": "^orange;Tier 4^reset;\n\nUsing unconventional materials, you can create amazing new tools capable of near effortless archaeological digs.\n\n^cyan;You'll require just a hint of madness to figure this one out^reset;.",
-    "value": "^orange;4级^reset;\n\n使用非常规材料，您可以创建惊人的新工具，能够轻松进行考古挖掘。\n\n^cyan;您只需要一点点疯癫就可以解决这个问题^reset;。"
+    "value": "^orange;4级^reset;\n\n运用非传统材料，您可以打造出令人惊叹的新工具，让考古挖掘变得近乎毫不费力。\n\n^cyan;想要解开这样的谜，您只需要一丝疯癫的灵感。^reset;"
   },
   {
     "op": "replace",
     "path": "/strings/research/terraforming1/0",
     "raw": "Terraforming I",
-    "value": "地质改造 I"
+    "value": "地形改造 I"
   },
   {
     "op": "replace",
     "path": "/strings/research/terraforming1/1",
     "raw": "^orange;Tier 4^reset;\n\nYour understanding of science and geology now makes it possible to directly interfere with planetary ecology. Through advanced technology you can edit the very nature of worlds you explore.\n\nThe first step: ^orange;Microformers^reset;. These handy devices can be placed to convert small regions into new biomes.",
-    "value": "^orange;4级^reset;\n\n你对科学和地质学的理解现在可以直接干预行星的生态。通过先进的技术，你可以编辑你所探索的世界的本质。\n\n第一步: ^orange;微型转化器^reset;。这些方便的设备可以用来将小区域转换成新的生物群落。"
+    "value": "^orange;4级^reset;\n\n凭借您对科学与地质学的深刻理解，现在您已能直接干预行星生态系统。借助尖端科技，您可以重塑所探索星球的本质属性。\n\n第一步：^orange;微型转化器^reset;。这些便携装置可被部署，将小片区域转化为全新的生态群落。"
   },
   {
     "op": "replace",
@@ -747,7 +747,7 @@
     "op": "replace",
     "path": "/strings/research/terraforming2/1",
     "raw": "^orange;Tier 5^reset;\n\nYou can create more exotic forms of Microformer now, providing access to a number of materials you may otherwise have had to hunt for.",
-    "value": "^orange;5级^reset;\n\n现在你可以创造更多的奇怪转换器，提供一些你可能不得不寻找的材料。"
+    "value": "^orange;5级^reset;\n\n现在，您可以创造出更多独特的微型转化器，从而获得多种以往可能需要费力寻找的材料。"
   },
   {
     "op": "replace",
@@ -759,6 +759,6 @@
     "op": "replace",
     "path": "/strings/research/terraforming3/1",
     "raw": "^orange;Tier 6^reset;\n\nWith the science of Microformers now easily understood, you've moved on to more advanced forms of terrestrial editing. You can now craft Terraformers capable of converting an entire planetary biome to one of your choosing.\n\nNote that in order to make these devices function you will require ^#e43774;Ancient Essence^reset;. This rare resource can be found in many mysterious places.",
-    "value": "^orange;6级^reset;\n\n随着微型转换器现在很容易理解，你已经将注意力转移到更高级的地形改造形式。你现在可以制造能够将整个行星生物群转化为你所选择的生物群落的改造器。\n\n请注意，为了使这些设备的功能，你将需要^#e43774;古代精华^reset;。这种稀有的资源可以在许多神秘的地方找到。"
+    "value": "^orange;6级^reset;\n\n随着微型转化器的科学原理如今已易于掌握，您已转向更高级的地表改造技术。现在，您可以制造出能够将整个行星生态系统转变为任意选定形态的地形转化器。\n\n请注意，要使这些设备正常运行，您需要用到^#e43774;古代精华^reset;。这种稀有资源可在许多神秘之地寻获。"
   }
 ]

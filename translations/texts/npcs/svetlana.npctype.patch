@@ -3,36 +3,36 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/speak/default/default/0",
     "raw": "Oh hey, you managed to find me!",
-    "value": "呵呵，你找到了我！"
+    "value": "哦嘿，你居然找到我啦！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "raw": "Hello! My name is Svetlana Twofeather. I'm The Observer's main character, so to speak.",
-    "value": "你好，我的名字是Svetlana_Twofeather，另外，你也可以称我为观察者。"
+    "value": "你好！我叫斯维特拉娜·双羽。可以说，我是个“观察者”。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "raw": "He usually hides me in places that're way hard to find! I don't appear in all dungeons, but I am in this one!",
-    "value": "他通常把我藏在难以发现的地方，我只藏在某个地城内。"
+    "value": "他通常把我藏在很难找到的地方！我不是每个地牢都会出现，但这次我就在这儿！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "raw": "That you managed to find me shows your dedication towards finding all the little secrets he's hidden in his work, and I commend you for taking the time to search every nook and cranny of his dungeons!",
-    "value": "你设法找到了我隐藏起来的所有秘密，你做得真棒！"
+    "value": "你能找到我，足见你对他作品中隐藏的每个小秘密都倾注了极大的热忱。我赞赏你愿意花时间，将他地下城的每个角落都探寻一遍！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/3",
     "raw": "Bonus points if you didn't open up the mod and cheat...but I know not too many people do that, right? It's much more fun to explore like this.",
-    "value": "希望你没有使用admin指令，因为这样实在太无趣了，是吧？相比起来，逐步探索更有趣。"
+    "value": "如果你没有加载模组作弊的话，值得额外加分...但我知道这么做的人不多，对吧？像这样探索才更有趣。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/4",
     "raw": "Take a moment to rest up before you continue with your adventure! I have some supplies you might find handy, and thank you for playing Extra Dungeons again!",
-    "value": "休息一下再继续你的旅程吧！我有一些物品，或许可以让你更方便地探索这个世界，最后希望你再次游玩地城。"
+    "value": "在继续你的冒险之前，先稍作休息吧！我这儿有些补给品，或许能派上用场。再次感谢你游玩“额外地牢”模组！"
   }
 ]

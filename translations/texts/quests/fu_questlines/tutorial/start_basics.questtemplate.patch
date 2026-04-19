@@ -9,18 +9,18 @@
     "op": "replace",
     "path": "/text",
     "raw": "Hi there! I've not seen another new soul besides that ^green;slug-lookin' feller^reset; in a long time. If yer fixin' to escape this world, I kin help a bit, maybe. Bring me say...^orange;5 potatoes^reset;, and we'll talk. A ^orange;Greenhouse^reset; might help you make some, in a pinch.",
-    "value": "你好啊！ 除了那个长得像^green;鼻涕虫的家伙^reset;，我好久没见过别的新灵魂了。如果你想逃离这个世界，我也许可以帮你一点忙，也许吧。 带给我说的..^orange;5个土豆^reset;，然后我们再谈谈。一间^orange;温室^reset;可以帮你做些什么，在必要的时候。"
+    "value": "嘿，好久没见到新面孔了，除了那个^green;长得像鼻涕虫的家伙^reset;。如果你想离开这个世界，我或许能帮上点忙。给我带...^orange;5个土豆来^reset;，咱们再细聊。紧急情况下，^orange;温室^reset;或许能帮你种出一些。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Gather or Grow ^orange;5 potatoes^reset; and return to ^green;Welchie^reset;.",
-    "value": "收获或者长出^orange;5个土豆^reset;并带给^green;韦尔奇^reset;。"
+    "value": "收集或种植^orange;5个土豆^reset;并带给^green;韦尔奇^reset;。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Thanks fer the tasty tots, friend. As a thanks, you can have this store of ^green;Iron Ore^reset; my grand-papa kept around when this place was still nice. T'aint worth a thing to me, but it'll sure be useful for you!",
-    "value": "朋友，谢谢你的美味小食。为了表示感谢，你可以在这个地方还不错的时候把这些我爷爷存的^green;铁矿石^reset;储藏留着。它对我来说一文不值，但对你肯定有用！"
+    "value": "多谢你的美味薯球，朋友。作为回报，这堆我爷爷留下的^green;铁矿石^reset;就送给你吧，那会儿这地方还挺像样的。这玩意儿对我没啥用，但对你肯定大有用处！"
   }
 ]

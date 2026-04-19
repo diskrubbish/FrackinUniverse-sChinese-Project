@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "Sharpening the Blade",
-    "value": "磨刀"
+    "value": "磨砺锋芒"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "I'll be blunt. My sword sucks. Make me a new one. Go craft a ^orange;Steel Warblade^reset; in your ^orange;Assembly Line^reset;! You'll need to upgrade your ^orange;Armorworks^reset; first.",
-    "value": "直说了吧，我的剑太烂了。给我一把新的。去你的^orange;军械车间^reset;制作一柄^orange;钢制战刃^reset;！你需要先升级你的^orange;军备作坊^reset;。"
+    "value": "我就直说了。我这把剑太烂了，给我弄把新的。去你的^orange;军械车间^reset;打造一把^orange;钢制战刃^reset;！不过你得先升级你的^orange;军备作坊^reset;。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Excellent, enjoy cutting stuff up. Here, take this off my hands.",
-    "value": "很棒，我喜欢切砍东西。给，这是你的报酬。"
+    "value": "太好了，我要尽情享受切割的乐趣了。这个就交给你了。"
   }
 ]

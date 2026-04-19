@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/stats/honey/0/name",
     "raw": "honey",
-    "value": ""
+    "value": "蜂蜜"
   },
   {
     "op": "replace",
@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/stats/mason/0/name",
     "raw": "mason",
-    "value": ""
+    "value": "石匠"
   },
   {
     "op": "replace",
@@ -75,7 +75,7 @@
     "op": "replace",
     "path": "/stats/sweat/0/name",
     "raw": "sweat",
-    "value": ""
+    "value": "勤劳"
   },
   {
     "op": "replace",
@@ -207,7 +207,7 @@
     "op": "replace",
     "path": "/stats/devoratrix/0/name",
     "raw": "devoratrix",
-    "value": ""
+    "value": "吞食"
   },
   {
     "op": "replace",

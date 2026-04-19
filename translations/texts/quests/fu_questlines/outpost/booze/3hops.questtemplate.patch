@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "I hops",
-    "value": "我好了"
+    "value": "我的啤酒花"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "For the next steps you'll need some ^orange;Hops^reset;. Make them grow and gather at least 2 ^orange;Hops^reset;. Because without ^orange;hops^reset;, we get no ^green;beer^reset;. And without beer we cry.",
-    "value": "接下来你会用到^orange;啤酒花^reset;。种植并收获至少^orange;2个啤酒花^reset;。没有^orange;啤酒花^reset;就没法酿^green;啤酒^reset;，不喝啤酒，我浑身难受！"
+    "value": "接下来你需要一些^orange;啤酒花^reset;。让它们生长并至少收集2份^orange;啤酒花^reset;。因为没有^orange;啤酒花^reset;，我们就酿不出啤酒；而没有^green;啤酒^reset;，我们只能黯然神伤。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "That's a good start. Be sure to keep some wheat as you'll need it next.",
-    "value": "一个好的开始。请务必收集一些小麦，因为你下一步会需要到它。"
+    "value": "这是个不错的开始。记得留些小麦，接下来你会用到的。"
   }
 ]

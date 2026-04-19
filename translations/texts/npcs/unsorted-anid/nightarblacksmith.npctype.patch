@@ -3,84 +3,84 @@
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
     "raw": "  Nightar Blacksmith",
-    "value": "  夜族黑匠"
+    "value": "  夜族铁匠"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
     "raw": "  Lethally crafted penumbrite.",
-    "value": "  精心制作的致命半影。"
+    "value": "  致命锻造的半影石。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/nightar/default/0",
     "raw": "Buy a sword, save your life.",
-    "value": "买一把剑，拯救你的生命。"
+    "value": "买把剑，保你命。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/nightar/default/1",
     "raw": "The finest weapons here.",
-    "value": "这里最好的武器。"
+    "value": "此处有最精良的兵器。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/nightar/default/2",
     "raw": "Blades, blessed by the Matriarch!",
-    "value": "刀刃，愿女族长祝福你！"
+    "value": "这些兵刃，受女组长赐福！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/nightar/default/3",
     "raw": "My skill is supreme. Puruse my wares.",
-    "value": "我的技艺是至高无上的，请使用我的器皿。"
+    "value": "我的技艺登峰造极。请赏鉴我的作品。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/nightar/default/0",
     "raw": "You will come again, yes?",
-    "value": "你会再来的，对吗？"
+    "value": "你还会再来的，对吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/nightar/default/1",
     "raw": "Slay something for me.",
-    "value": "为我杀死一些东西。"
+    "value": "为我展现杀戮吧。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/nightar/default/2",
     "raw": "Tarnish not my masterwork in your battles.",
-    "value": "不要在你的战斗中玷污我的杰作。"
+    "value": "莫让你的战斗玷污我的杰作。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/follow/nightar/default/0",
     "raw": "Follow if you wish to purchase.",
-    "value": "如果你想购买，请跟随。"
+    "value": "有意购买的话，请跟我来。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/follow/nightar/default/1",
     "raw": "My creations are in my shop.",
-    "value": "我的作品在我的商店里。"
+    "value": "我的作品都在我的店铺里。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/nightar/default/0",
     "raw": "What wares seeketh thee?",
-    "value": "你在这寻觅什么?"
+    "value": "你欲求何物？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/nightar/default/1",
     "raw": "My craftsmanship is sublime.",
-    "value": "我的手艺非常高超。"
+    "value": "我的技艺精湛绝伦。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/nightar/default/2",
     "raw": "Make your purchase.",
-    "value": "买东西。"
+    "value": "你得买东西啊。"
   }
 ]

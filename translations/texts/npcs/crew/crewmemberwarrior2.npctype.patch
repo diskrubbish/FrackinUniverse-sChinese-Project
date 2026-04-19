@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/scriptConfig/crew/role/name",
     "raw": "Veteran",
-    "value": "战士"
+    "value": "老兵"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/crew/role/field",
     "raw": "Battle",
-    "value": "战斗向"
+    "value": "战斗"
   }
 ]

@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "I like it Hot!",
-    "value": "我喜欢火辣！"
+    "value": "我爱吃辣！"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "I love spicy foods but getting what I need here is a pain. Using a ^orange;Gene Design Lab^reset; could you perhaps make me some ^orange;Ignus Chili Seeds^reset;? I'd reward you for the effort.",
-    "value": "我非常喜欢吃辣，但在这里很难得到辣椒。能使用^orange;基因设计实验室^white;为我制作一些^green;伊格纳斯辣椒种子^reset;吗？我会给你奖励的。"
+    "value": "我喜欢吃辣，但在这里想弄到需要的食材真是麻烦。你能用^orange;基因设计实验室^reset;帮我培育一些^orange;伊格纳斯辣椒种子^reset;吗？我会好好酬谢你的。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "I can't wait to make some chili with these! Take this ^green;alloy^reset;: it should do you more good than I. Enjoy.",
-    "value": "我已经迫不及待要把它做成辣酱了！拿着这块^green;合金^reset;：它在你那更有用处。啊，爽。"
+    "value": "我已经迫不及待要用这些种子来种辣椒了！拿着这块^green;合金^reset;：它对你来说比对我更有用。好好享用吧。"
   }
 ]

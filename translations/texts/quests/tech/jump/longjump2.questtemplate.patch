@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/text",
     "raw": "A few tweaks to this implant and I can adjust gravities effect on the user!",
-    "value": "现在我可以跳得更远！"
+    "value": "只需对这植入体稍作调整，我就能调节重力对使用者的影响！"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "You don't get much jumpier than this!",
-    "value": "我想我不会跳得比这还高了！"
+    "value": "这简直让人紧张到极点！"
   }
 ]

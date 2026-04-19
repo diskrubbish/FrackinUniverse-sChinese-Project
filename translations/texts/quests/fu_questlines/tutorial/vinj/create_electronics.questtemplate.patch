@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "Now that you have a firm concept of how to use your well-earned resources, perhaps it is time we delve into something more cerebral? You can start by making an ^orange;Electronics Center^reset;. Conduct ^orange;Research^reset; into ^orange;Electronics^reset; to get started.",
-    "value": "现在你对如何使用你得到的资源已经有了一定的概念，也许我们是时候来点更深奥的了？你可以通过建造^orange;电子设备制造机^reset;来入门。为了开始请记得把^orange;研究^reset;进程深入到^orange;电气^reset;。"
+    "value": "既然您已经对如何善用来之不易的资源有了清晰的概念，或许现在该深入探讨一些更具智识性的内容了？您可以从建立一台^orange;电子设备制造机^reset;开始，通过对^orange;电学^reset;的^orange;研究^reset;来迈出第一步。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "This will really bring your lab to the next level! I recommend learning to use an ^orange;Item Transference Device^reset; as soon as you can. It is a truly powerful piece of technology when paired with ^orange;Terminals^reset; and powered machinery.",
-    "value": "这将使您的实验室水平真正提升一个档次！我建议你尽快学习使用 ^orange;物品传输器^reset;。当配合^orange;Terminals^reset;与动力机械使用时，这门技术非常强大 。"
+    "value": "这绝对能让您的实验室提升一个档次！我建议您尽快学会使用 ^orange;物品传输器^reset;。当它与^orange;终端^reset;和动力机械配合使用时，这项技术将展现出真正的强大威力。"
   }
 ]

@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Stimulant Rig",
-    "value": "狂经脉 I"
+    "value": "刺激装置"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "Using what I've learned from research, I have devised a new tech. The ^orange;Stimulant Rig^reset;! It injects ^red;unsafe levels of narcotic stimulants^reset; to provide a constant speed boost! Hurray!",
-    "value": "从我进行的研究中，我发现了控制神经的思路。通过注射这种未经临床试验的药剂，它能让我身体内的神经异常成长，成为极为发达的神经系统：^orange;狂经脉^reset;。"
+    "value": "基于我的研究成果，我开发了一项新技术 - ^orange;刺激装置^reset;！它能注入^red;超安全剂量的麻醉兴奋剂^reset;，提供持续的速度提升！太棒了！"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "I can probably improve on this substantially as I learn more.",
-    "value": "我比以前跑得更快了。"
+    "value": "随着我不断学习，我或许能在这方面取得显著的进步。"
   }
 ]

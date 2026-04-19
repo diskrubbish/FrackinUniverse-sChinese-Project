@@ -3,204 +3,204 @@
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
     "raw": "The Burger Fool",
-    "value": "汉堡福"
+    "value": "小憨堡"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
     "raw": "  Dinner and a... show?",
-    "value": "  晚餐和一场...闹剧？"
+    "value": "  晚餐与...一场表演?"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/default/default/0",
     "raw": "Distraught. How am I supposed to give quality customer service when I voice my loathing with every sentence?",
-    "value": "心烦意乱。当我每一句话都表达出我的厌恶时，我又怎么能提供高质量的客户服务呢？"
+    "value": "心烦。每句话都透着厌恶，我该如何提供优质的客户服务呢？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/default/default/1",
     "raw": "Uninterested. Welcome to Burger Fool, where even the fools eat like kings.",
-    "value": "无趣。欢迎来到汉堡福，在这里即使是傻瓜也能吃得像国王一样。"
+    "value": "无趣。欢迎光临小憨堡，在这里，即便是傻瓜也能吃得像个国王。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/default/default/2",
     "raw": "Pained. Oh, milord! What can this humble fool do for you today?",
-    "value": "痛苦。哦，老爷！这个卑微的傻瓜今天能为你做些什么呢？"
+    "value": "痛苦。哦，大人！今日愚仆有何能为您效劳？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/0",
     "raw": "Distraught. How am I supposed to give quality customer service when I voice my loathing with every sentence?",
-    "value": "心烦意乱。 当我每一句话都表达出我的厌恶时，我又怎么能提供高质量的客户服务呢？"
+    "value": "心烦。每句话都透着厌恶，我该如何提供优质的客户服务呢？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/1",
     "raw": "Uninterested. Welcome to Burger Fool, where even the fools eat like kings.",
-    "value": "不感兴趣。 欢迎来到汉堡福，在这里即使是傻瓜也能吃得像国王一样。"
+    "value": "无趣。欢迎光临小憨堡，在这里，即便是傻瓜也能吃得像个国王。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/2",
     "raw": "Pained. Oh, milord! What can this humble fool do for you today?",
-    "value": "疼痛。 哦，老爷！这个卑微的傻瓜今天能为你做些什么呢？"
+    "value": "痛苦。哦，大人！今日愚仆有何能为您效劳？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
     "raw": "Tired. Unlimited refills today for just an extra 25 pixels.",
-    "value": "疲倦。今天无限续杯,只需额外的25像素。"
+    "value": "疲倦。今日无限续杯，仅需额外支付25像素点。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
     "raw": "Irritable. No, milord, we do not have a drive-through, my deepest apologies.",
-    "value": "易怒。不,老爷,我们没有免下船餐厅,非常抱歉。"
+    "value": "易怒。不，大人，我们这里没有免下船服务，我深感抱歉。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
     "raw": "Insincere. Can I interest you in a fine meal, my liege?",
-    "value": "不真诚。有兴趣吃一顿美餐吗，我的陛下？"
+    "value": "虚伪。陛下，可否赏光享用一顿美餐？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/glitch/default/0",
     "raw": "Tired. Unlimited refills today for just an extra 25 Pixels.",
-    "value": "累了。 今天无限续杯，只需额外的25像素。"
+    "value": "疲倦。今日无限续杯，仅需额外支付25像素点。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/glitch/default/1",
     "raw": "Irritable. No, milord, we do not have a drive-through, my deepest apologies.",
-    "value": "易怒。 不,老爷,我们没有免下船餐厅,非常抱歉。"
+    "value": "易怒。不，大人，我们这里没有免下船服务，我深感抱歉。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/glitch/default/2",
     "raw": "Insincere. Can I interest you in a fine meal, my liege?",
-    "value": "不诚恳的。 有兴趣吃一顿美餐吗，我的陛下？"
+    "value": "虚伪。陛下，可否赏光享用一顿美餐？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/end/default/default/0",
     "raw": "Desperate. Please give us a good review - my manager will kill me...",
-    "value": "绝望。请给我们一个好评——不然我的经理会杀了我的..."
+    "value": "绝望。请给我们一个好评吧 - 不然经理会要了我的命..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/end/glitch/default/0",
     "raw": "Desperate. Please give us a good review - my manager will kill me...",
-    "value": "绝望的。 请给我们一个好评——不然我的经理会杀了我的..."
+    "value": "绝望。请给我们一个好评吧 - 不然经理会要了我的命..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/tout/default/default/0",
     "raw": "Unenthused. Unlimited refills today, for just an extra 25 Pixels!",
-    "value": "缺乏热情。今天无限续杯，只需额外的25像素!"
+    "value": "兴致缺缺。今日无限续杯，仅需额外支付25像素点！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/tout/default/default/1",
     "raw": "Stressed. Come dine at Burger Fool, where we make burgers and you the rules!",
-    "value": "压力。来汉堡夫用餐吧，我们做汉堡，你们即是主宰！"
+    "value": "压力。来小憨堡用餐吧，这里我们做汉堡，规矩由你定！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/tout/default/default/2",
     "raw": "Tired. 110% quality, 25/8 - that's our #1 rule! Come one, come all, to Burger Fool!",
-    "value": "疲倦。110% 的质量，25/8-这是我们的首要原则！来吧，大家一起来吧，来汉堡福吧！"
+    "value": "疲倦。百分百品质，全天候服务 - 这是我们铁打的第一准则！欢迎各位光临小憨堡！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/tout/glitch/default/0",
     "raw": "Unenthused. Unlimited refills today, for just an extra 25 Pixels!",
-    "value": "缺乏热心的。 今天无限续杯，只需额外的25像素!"
+    "value": "兴致缺缺。今日无限续杯，仅需额外支付25像素点！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/tout/glitch/default/1",
     "raw": "Stressed. Come dine at Burger Fool, where we make burgers and you the rules!",
-    "value": "心力交瘁。 来汉堡福用餐吧，我们做汉堡，你们即是主宰！"
+    "value": "压力。来小憨堡用餐吧，这里我们做汉堡，规矩由你定！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/tout/glitch/default/2",
     "raw": "Tired. 110% quality, 25/8 - that's our #1 rule! Come one, come all, to Burger Fool!",
-    "value": "累了。 110% 的质量，25/8-这是我们的首要原则！来吧，大家一起来吧，来汉堡福吧！"
+    "value": "疲倦。百分百品质，全天候服务 - 这是我们铁打的第一准则！欢迎各位光临小憨堡！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/beacon/default/default/0",
     "raw": "Uninterested. Welcome to Burger Fool, where even the fools eat like kings.",
-    "value": "无趣。欢迎来到汉堡福，在这里即使是傻瓜也能吃得像国王一样。"
+    "value": "无趣。欢迎光临小憨堡，在这里，即便是傻瓜也能吃得像个国王。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/beacon/default/default/1",
     "raw": "Pained. Oh, milord! What can this humble fool do for you today?",
-    "value": "痛苦。哦，老爷！这个卑微的傻瓜今天能为你做些什么呢？"
+    "value": "痛苦。哦，大人！今日愚仆有何能为您效劳？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/beacon/default/default/2",
     "raw": "Insincere. Can I interest you in a fine meal, my liege?",
-    "value": "不真诚。有兴趣吃一顿美餐吗，我的陛下？"
+    "value": "虚伪。陛下，可否赏光享用一顿美餐？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/beacon/glitch/default/0",
     "raw": "Uninterested. Welcome to Burger Fool, where even the fools eat like kings.",
-    "value": "不感兴趣。 欢迎来到汉堡福，在这里即使是傻瓜也能吃得像国王一样。"
+    "value": "无趣。欢迎光临小憨堡，在这里，即便是傻瓜也能吃得像个国王。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/beacon/glitch/default/1",
     "raw": "Pained. Oh, milord! What can this humble fool do for you today?",
-    "value": "疼痛。 哦，老爷！这个卑微的傻瓜今天能为你做些什么呢？"
+    "value": "痛苦。哦，大人！今日愚仆有何能为您效劳？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/beacon/glitch/default/2",
     "raw": "Insincere. Can I interest you in a fine meal, my liege?",
-    "value": "不诚恳的。 有兴趣吃一顿美餐吗，我的陛下？"
+    "value": "虚伪。陛下，可否赏光享用一顿美餐？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/rent/default/default/0",
     "raw": "Worried. We don't have Pixels to spare, so I hope you'd have this - it might be a collectible some day!",
-    "value": "焦虑。我们没有多余的像素，所以我希望你能有这个——它在某一天可能是一个收藏品！"
+    "value": "焦虑。我们手头没有多余的像素点可以找零，所以希望你能收下这个 - 说不定哪天它就成了收藏品呢！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/rent/default/default/1",
     "raw": "Embarassed. I'm still living on food stamps, so this is all I've got to pay my rent.",
-    "value": "尴尬。我仍然靠食品券生活，所以我只能靠这些来付房租。"
+    "value": "尴尬。我还在靠食品券度日，所以这是我仅有的钱来付房租。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/rent/default/default/2",
     "raw": "Insincere. Here's something for your troubles, I'm sure you'd like it!",
-    "value": "不真诚。这是给你的东西，我相信你会喜欢的！"
+    "value": "虚伪。这点小意思，算是给你的，相信你会喜欢的！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/rent/glitch/default/0",
     "raw": "Worried. We don't have Pixels to spare, so I hope you'd have this - it might be a collectible some day!",
-    "value": "担心。 我们没有多余的像素，所以我希望你能有这个——它在某一天可能是一个收藏品！"
+    "value": "焦虑。我们手头没有多余的像素点可以找零，所以希望你能收下这个 - 说不定哪天它就成了收藏品呢！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/rent/glitch/default/1",
     "raw": "Embarassed. I'm still living on food stamps, so this is all I've got to pay my rent.",
-    "value": "犯难。 我仍然靠食品券生活，所以我只能靠这些来付房租。"
+    "value": "尴尬。我还在靠食品券度日，所以这是我仅有的钱来付房租。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/tenant/arrivedHome/rent/glitch/default/2",
     "raw": "Insincere. Here's something for your troubles, I'm sure you'd like it!",
-    "value": "不诚恳的。 这是给你的东西，我相信你会喜欢的！"
+    "value": "虚伪。这点小意思，算是给你的，相信你会喜欢的！"
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
     "raw": "Dude. Are you ready for the @#$%^$^#ing party or what?!?!",
-    "value": "伙计。你准备好轰他@#$%^$^#的趴还是要？！？！"
+    "value": "哥们儿，你准备好参加那个超 @#$%^$^#的派对了吗？！？！"
   },
   {
     "op": "replace",
@@ -15,25 +15,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
     "raw": "HEY MAN, DO YOU WANT A LIGHT SHOW?!?!?!",
-    "value": "嘿，伙计，你渴望一场灯光秀吗！"
+    "value": "嘿，哥们儿，想看灯光秀吗？！？！？！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
     "raw": "PAAAAAAAAAAAAAAAAAAAAAAAAAAAARRRTY!",
-    "value": "趴啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊踢！"
+    "value": "派派派派派派派派派派派对！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
     "raw": "DID YOU SAY PARTY? I'M 300% POSITIVE THAT YOU DID!",
-    "value": "你是说派对吗？我百分之三百肯定是你办的！"
+    "value": "你刚才说的是派对吗？我百分之三百确定你说了！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
     "raw": "MAN, YOU LOOK LIKE YOU NEED TO PARTY!",
-    "value": "伙计，你看起来需要开个派对！"
+    "value": "兄弟，你看上去急需来场狂欢派对！"
   },
   {
     "op": "replace",
@@ -45,31 +45,31 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1",
     "raw": "Holy crap that was intense. Wanna hug?",
-    "value": "我勒个去，太紧张了。想来个拥抱吗？"
+    "value": "天啊，刚才太刺激了。想抱一下吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/2",
     "raw": "I just wanna touch everything right now.",
-    "value": "我现在只想接触所有的东西。"
+    "value": "我现在就想把一切都摸个遍。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/3",
     "raw": "PHEW! I THOUGHT THE PARTY WAS OVER, THERE!",
-    "value": "呼！我还以为派对结束了呢！"
+    "value": "呼！我还以为派对已经结束了呢！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/4",
     "raw": "PLUR BROUGHT ME BACK FOR ONE LAST PARTY!",
-    "value": "请把我带回来参加最后一个派对！"
+    "value": "呼，带我回来参加最后一场狂欢！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/5",
     "raw": "I don't have syphilis.",
-    "value": "我没得梅毒。"
+    "value": "我没有感染梅毒。"
   },
   {
     "op": "replace",
@@ -81,7 +81,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/7",
     "raw": "I think I talked to God.",
-    "value": "我认为我和上帝说过话。"
+    "value": "我想我是在与神对话。"
   },
   {
     "op": "replace",
@@ -99,19 +99,19 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
     "raw": "PAAAAAAAAAAAAAAAAAAAAAAAAAAAARRRTY!",
-    "value": "趴啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊踢！"
+    "value": "派派派派派派派派派派派对！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
     "raw": "DID YOU SAY PARTY? I'M 300% POSITIVE THAT YOU DID!",
-    "value": "你是说派对吗？我百分之三百肯定是你办的！"
+    "value": "你刚才说的是派对吗？我百分之三百确定你说了！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/4",
     "raw": "MAN, YOU LOOK LIKE YOU NEED TO PARTY!",
-    "value": "伙计，你看起来需要开个派对！"
+    "value": "兄弟，你看上去急需来场狂欢派对！"
   },
   {
     "op": "replace",
@@ -129,7 +129,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
     "raw": "Without music? You suck.",
-    "value": "没有音乐听？真是糟透了。"
+    "value": "没有音乐？你真逊。"
   },
   {
     "op": "replace",
@@ -141,7 +141,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/default/default/0",
     "raw": "!@#$#@%@ YES ARE YOU READY TO PARTY?!??",
-    "value": "!@#$#@%@准备好轰趴了吗?!??"
+    "value": "!@#$#@%@你准备好狂欢了吗？！？？"
   },
   {
     "op": "replace",
@@ -153,25 +153,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/default/default/2",
     "raw": "I swear I didn't touch your underwear, man.",
-    "value": "我发誓我没碰你的内裤。"
+    "value": "我发誓，哥们，我真没碰你的内衣。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
     "raw": "DUDE! SLOW THE HECK DOWN! I'M WASTED.",
-    "value": "伙计！搞慢点！我醉了。"
+    "value": "哥们儿！慢点行不行！我喝大了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
     "raw": "Cmon dude....you're too far.",
-    "value": "拜托，伙计...你离我太远了。"
+    "value": "拜托老兄...你这也太远了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
     "raw": "Seriously? Slow down, Wally West.",
-    "value": "真的吗？慢点，沃利·韦斯特。"
+    "value": "真的假的？慢点，沃利·韦斯特。"
   },
   {
     "op": "replace",
@@ -183,7 +183,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
     "raw": "CAN'T WE JUST STAY STILL AND DANCE?!?!?",
-    "value": "我们就不能好好地跳舞吗？"
+    "value": "难道我们不能就这样静静起舞吗？！？！？"
   },
   {
     "op": "replace",
@@ -195,6 +195,6 @@
     "op": "replace",
     "path": "/scriptConfig/crew/role/field",
     "raw": "Partyime Pal",
-    "value": "派对狂魔"
+    "value": "派对咖"
   }
 ]

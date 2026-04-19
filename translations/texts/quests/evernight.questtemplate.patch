@@ -9,18 +9,18 @@
     "op": "replace",
     "path": "/text",
     "raw": "I've discovered the location of ancient ruins deep in a far-off planet's jungle. This could make for interesting exploration.",
-    "value": "在遥远的星球丛林中，我找到了一个古代遗迹。这或许是个有趣的消遣。"
+    "value": "我在遥远星球深处的丛林里发现了古代遗迹的位置，这或许会带来一次有趣的探险。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Follow the coordinates to the jungle via SAIL and investigate.",
-    "value": "使用S.A.I.L到永夜林进行调查。"
+    "value": "根据坐标，通过SAIL系统前往丛林进行调查。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "What were cultists doing in here? They were up to something with the locals, but I don't know what. Well, it doesn't matter now. Their loot is mine!",
-    "value": "这些邪教徒到底在做什么？他们打算联合本地居民干一些事情，但我不知道那是什么。算了，他们的事我不想深入调查，我只对有价值的事物感兴趣。"
+    "value": "那些邪教徒在这里搞什么鬼？他们和当地人密谋着什么，但我也不清楚。算了，现在这些都不重要了。他们的战利品归我了！"
   }
 ]

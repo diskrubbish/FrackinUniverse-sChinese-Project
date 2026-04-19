@@ -9,37 +9,37 @@
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
     "raw": "  Get your caffeine fix!",
-    "value": "  补充你的咖啡因！"
+    "value": "  来杯咖啡提提神吧！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/default/default/0",
     "raw": "We've got a special on coffee today... And every other day too, for that matter!",
-    "value": "我们今天有特价咖啡...就此而言，每隔一天也是如此！"
+    "value": "今天咖啡有特价...其实每天都是如此！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/default/default/1",
     "raw": "Okay! Will that be a short, a tall, a grande, a venti, or a... shoot. Lost track again...",
-    "value": "好吧！你要小杯的，中杯的，大杯的，超大杯的，还是...等等。我又忘了..。"
+    "value": "好的！您是要小杯、中杯、大杯、超大杯，还是...哎呀，又搞混了..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/default/default/2",
     "raw": "Now, what can I get for you today?",
-    "value": "好了，今天想来点什么？"
+    "value": "今天您想点些什么呢？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/0",
     "raw": "Floran's coffee is extra good today!",
-    "value": "叶族人的咖啡今天特级棒！"
+    "value": "叶族人今天的咖啡格外香醇！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/floran/default/1",
     "raw": "Floran's coffee comes in five sssizes! ... Though Floran forgets what.",
-    "value": "叶族人的咖啡有五种大小小小！虽然叶族人忘记了。"
+    "value": "叶族人的咖啡有五种规格！...虽然叶族人自己都忘了是哪五种。"
   },
   {
     "op": "replace",
@@ -51,198 +51,198 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/0",
     "raw": "Cheery. We've got a special on coffee today... And everyday too, for that matter!",
-    "value": "愉快。 我们今天有特价咖啡...每一天都是如此，就是这样！"
+    "value": "开心。今天我们咖啡有特价...其实每天都是如此！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/1",
     "raw": "Nervous. Will that be a short, a tall, a grande, a venti, or a... Frustrated. Oh no, I've lost track again...",
-    "value": "神经紧张。 你要小杯的，中杯的，大杯的，超大杯的，还是...悲伤。哦，不，我又忘了..."
+    "value": "紧张。是要小杯、中杯、大杯、超大杯，还是....沮丧。糟糕，我又搞混了..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/glitch/default/2",
     "raw": "Cordial. Right then, what can I brew for you today?",
-    "value": "亲切。 那么，我今天能为你酿点什么呢？"
+    "value": "亲切。那么，今天能为您冲泡点什么呢？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/felin/default/0",
     "raw": "Our coffee's brewed from the best beans, selected by the best ca--. Um, forget it.",
-    "value": "我们的咖啡是用最好的咖啡豆酿造的，由最好的咖——。嗯，忘了它。"
+    "value": "我们的咖啡选用最优质的豆子，由最顶尖的咖- 呃，算了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/felin/default/1",
     "raw": " Will that be a short, a tall, a grande, a venti, or a... Oh no, I've lost track again...",
-    "value": " 你要小杯的，中杯的，大杯的，超大杯的，还是...哦，不，我又忘了..."
+    "value": "您是要小杯、中杯、大杯、超大杯，还是...哦别，我又搞混了..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/felin/default/2",
     "raw": "Right then, what can I brew for you today?",
-    "value": "那么，我今天能为你酿点什么呢？"
+    "value": "那么，今天能为您冲泡点什么呢？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/felin/default/3",
     "raw": "Kopi luwak? sorry, we don't have that ... for obvious reasons. But we do serve other tasty treats!",
-    "value": "麝香猫咖啡？对不起，我们没有那个...原因很明显。 但我们确实提供其他美味的食物！"
+    "value": "猫屎咖啡？抱歉，我们没有这款...原因显而易见。不过，我们这里还有其他美味的饮品可供选择！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/novakid/default/0",
     "raw": "Got a special on coffee today... Always do, come to think of it.",
-    "value": "今天有特价咖啡...每天都有，考虑一下。"
+    "value": "今天咖啡有特价...仔细一想，好像天天都这样。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/novakid/default/1",
     "raw": "We got coffee in a few different sizes. Beats me what they were called though...",
-    "value": "我们有不同尺寸的咖啡。我不知道他们叫什么..."
+    "value": "我们这儿咖啡有好几种杯型，不过具体叫什么名字，我还真说不上来..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/novakid/default/2",
     "raw": "Now what can I fix you with?",
-    "value": "现在我能用什么修理你呢？"
+    "value": "现在我能为您准备些什么？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
     "raw": "Next please!",
-    "value": "有请下一位！"
+    "value": "下一位！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/1",
     "raw": "The line starts right over here!",
-    "value": "队伍从这里开始！"
+    "value": "队伍从这里开始排起！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/default/default/2",
     "raw": "Welcome! Come right in!",
-    "value": "欢迎！进来吧！"
+    "value": "欢迎！请直接进来吧！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/floran/default/0",
     "raw": "Floran makes great foodssstuff!!",
-    "value": "叶族人做的食物物物很好吃！"
+    "value": "叶族人制作的美食食食非常出色！！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/floran/default/1",
     "raw": "Come try Floran's sssweets!",
-    "value": "来尝尝叶族人的甜甜甜品吧！"
+    "value": "快来尝尝叶族人的甜品吧！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/floran/default/2",
     "raw": "Line is thisss way. No stabbing, promise!",
-    "value": "排队队伍在这这这边。我保证不会捅你！"
+    "value": "这边走。保证不捅刀子，放心！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/glitch/default/0",
     "raw": "Hospitable. Please do come in!",
-    "value": "好客的。 请进！"
+    "value": "好客。请进！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/glitch/default/1",
     "raw": "Assured. Ours is a quality brew, I assure you.",
-    "value": "保证。 我们的啤酒足够带劲，我向你保证。"
+    "value": "放心。我向您保证，我们的冲泡品质上乘。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/glitch/default/2",
     "raw": "Welcoming. Oh! A patron!",
-    "value": "欢迎。 哦！赞助人！"
+    "value": "欢迎。哦！有客人来了！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/felin/default/0",
     "raw": "Welcome to Four Felins' Coffee Corner! our coffees won't taste like cat poop, honest!",
-    "value": "欢迎来到四只小猫咖啡角！我们的咖啡不会有猫屎的味道，真的！"
+    "value": "欢迎来到四只猫咪的咖啡角！我们的咖啡绝对不会有猫屎味，请放心品尝！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/felin/default/1",
     "raw": "We've coffees so rich in flavour you'd think they were brewed with ... um, never mind!",
-    "value": "我们的咖啡味道太浓了，你会觉得它们是用...嗯，算了！"
+    "value": "我们的咖啡风味如此浓郁，仿佛是用....嗯，算了，不提也罢！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/felin/default/2",
     "raw": "Welcome to Four Felins' Coffee Corner! Stay a while, and drink something!",
-    "value": "欢迎来到四只小猫咖啡角！待一会儿，喝点东西！"
+    "value": "欢迎来到四只猫咪的咖啡角！请稍作停留，来杯饮品吧！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/felin/default/3",
     "raw": "Nothing but the finest coffee, purr-colated to purr-fection!",
-    "value": "没有最好的咖啡，只有更好的咖啡！"
+    "value": "唯有最上乘的咖啡，经过精心滴滤，方能成就完美醇香！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/felin/default/4",
     "raw": "We serve all coffee brews - with the exception of kopi luwak, so don't worry!",
-    "value": "我们提供所有的咖啡与酿造品——除了麝香猫咖啡，所以不用担心！"
+    "value": "我们提供各种咖啡冲泡方式 - 除了猫屎咖啡，所以请放心！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/novakid/default/0",
     "raw": "Heya! The line's over this-a-way!",
-    "value": "嘿！排队队伍在这边！"
+    "value": "嘿！队伍在这边！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/novakid/default/1",
     "raw": "Well blow me down, it's a customer!",
-    "value": "谁把我吓到了，是个顾客！"
+    "value": "哎呀，真是稀客啊！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/novakid/default/2",
     "raw": "We gotta a whole bunch of stuff for ya to try!",
-    "value": "我们有很多东西可以让你尝试！"
+    "value": "我们为你准备了一大堆好东西来试试！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/default/default/0",
     "raw": "Come back and rest a spell anytime!",
-    "value": "随时回来休息一下吧！"
+    "value": "随时回来歇歇脚！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/floran/default/0",
     "raw": "Tell your friends about Floran's coffee!",
-    "value": "向你的朋友安利叶族人的咖啡厅！"
+    "value": "向你的朋友们推荐叶族人的咖啡吧！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/glitch/default/0",
     "raw": "Desperate. Don't forget to review us online!",
-    "value": "绝望的。 别忘了在网上评论我们！"
+    "value": "绝望。别忘了给我们在线好评！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/felin/default/0",
     "raw": "Don't forget to review us online!",
-    "value": "别忘了在网上评论我们！"
+    "value": "别忘了给我们在线好评！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/felin/default/1",
     "raw": "Wait! where are you going?!",
-    "value": "等等！你要去哪里? ！"
+    "value": "等等！你要去哪儿？！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/novakid/default/0",
     "raw": "Y'all come back now, ya hear?",
-    "value": "你们都给我回来，听见了吗？"
+    "value": "你们可要记得回来啊，听见没？"
   }
 ]

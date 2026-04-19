@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Popular lower-street wear.\n+^green;10^reset;% Crit Damage",
-    "value": "Popular lower-street wear.\n+^green;10^reset;% 暴击伤害"
+    "value": "流行的低档服饰。\n+^green;10^reset;% 暴击几率"
   },
   {
     "op": "replace",

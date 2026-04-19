@@ -3,25 +3,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "raw": "WHERE'S THE LAMB SAUCE?!",
-    "value": "羊肉酱在哪？！"
+    "value": "羊肉酱在哪里？！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/1",
     "raw": "WHAT ARE YOU? AN IDIOT SANDWICH!",
-    "value": "你是什么？白痴三明治！"
+    "value": "你是什么？一个白痴三明治！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/2",
     "raw": "And here comes today's fresh meat!",
-    "value": "今天的鲜肉来了！"
+    "value": "今天的鲜肉来啦！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/3",
     "raw": "And it's Frackin' RAAAAAAWWWWW!!!",
-    "value": "这就是带带克苏鲁的咆咆咆哮！！"
+    "value": "而且这玩意儿是纯天然无添加的啊啊啊啊啊啊！！！"
   },
   {
     "op": "replace",
@@ -33,13 +33,13 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/5",
     "raw": "You're going straight on the grill!",
-    "value": "你直接火化了吧！"
+    "value": "你马上要上烤架了！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/6",
     "raw": "What is going on?!",
-    "value": "怎么回事？！"
+    "value": "发生什么事了？！"
   },
   {
     "op": "replace",
@@ -51,25 +51,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/0",
     "raw": "WHERE'S THE LAMB SSSSSAUCE?!",
-    "value": "小羊排排排骨在哪里？！"
+    "value": "羊肉酱酱酱在哪里？！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/1",
     "raw": "WHAT ARE YOU? AN IDIOT SSSSSANDWICH!",
-    "value": "你是什么？ 一个傻瓜三明治！"
+    "value": "你是什么？一个白痴三三三明治！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/2",
     "raw": "And here comes today's fressssh meat!",
-    "value": "今天的烤肉肉肉来了！"
+    "value": "今天的鲜肉肉肉来啦！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/floran/default/3",
     "raw": "And it's Frackin' RAAAAAAWWWWW!!!",
-    "value": "这就是带带克苏鲁的咆咆咆哮！！"
+    "value": "而且这玩意儿是纯天然无添加的啊啊啊啊啊啊！！！"
   },
   {
     "op": "replace",
@@ -87,48 +87,48 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/0",
     "raw": "Enraged. WHERE'S THE LAMB SAUCE?!",
-    "value": "气死。 羊肉酱在哪？！"
+    "value": "气愤。羊肉酱在哪里？！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/1",
     "raw": "beligerant. WHAT ARE YOU? AN IDIOT SANDWICH!",
-    "value": "优美。 你是什么？白痴三明治！"
+    "value": "勤勉。你是什么？一个白痴三明治！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/2",
     "raw": "Threatening. And here comes today's fresh meat!",
-    "value": "威胁。 今天的鲜肉来了！"
+    "value": "威胁。今天的鲜肉来啦！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/3",
     "raw": "Exacerbated. And it's Frackin' RAAAAAAWWWWW!!!",
-    "value": "加剧。 这就是带带克苏鲁的咆咆咆哮！！"
+    "value": "恶化。而且这玩意儿是纯天然无添加的啊啊啊啊啊啊！！！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/4",
     "raw": "Angry. GET OUT!!",
-    "value": "愤怒。 滚出去！"
+    "value": "愤怒。滚出去！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/5",
     "raw": "Hungry. You're going straight on the grill!",
-    "value": "饥饿。 你直接火化了吧！"
+    "value": "饥饿。你马上要上烤架了！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/6",
     "raw": "Irritated. What is going on?!!",
-    "value": "生气。 这是怎么回？！！"
+    "value": "生气。发生什么事了？！ "
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/glitch/default/7",
     "raw": "Insulting. You donkey!!",
-    "value": "侮辱。 你这头蠢驴！"
+    "value": "侮辱。你这头蠢驴！"
   }
 ]

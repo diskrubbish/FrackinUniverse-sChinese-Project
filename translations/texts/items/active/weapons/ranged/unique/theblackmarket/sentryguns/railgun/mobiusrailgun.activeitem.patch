@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "This beast absolutely murders the enemy!\n^yellow;Inflicts frozen-fire^reset;\n^cyan;Summons Assault Drones^reset;",
-    "value": "毫无疑问，这把狂野的武器能把敌人轰杀至渣！\n^cyan;附加霜灼效果^reset;\n^yellow;召唤2只两足机器人协助战斗^reset;"
+    "value": "这头猛兽简直是在虐杀对手！\n^cyan;造成霜灼效果^reset;\n^yellow;召唤突击无人机^reset;"
   },
   {
     "op": "replace",

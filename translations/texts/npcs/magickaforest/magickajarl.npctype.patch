@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "raw": "Tae Glitch have sent a champion, I see.",
-    "value": "看来你就是电子人派来的。"
+    "value": "我看到了，电子人们派来了一位冠军。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/1",
     "raw": "I was gettin' tired anyways...",
-    "value": "你这个虫子，怎么还不去死？"
+    "value": "反正我也累了..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/2",
     "raw": "Tae heck with ye!",
-    "value": "你让我生气了！"
+    "value": "去你的！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/3",
     "raw": "Tae Glitch can only send a wee craven to face me?",
-    "value": "你这个懦夫，难道就不敢和我正面对抗吗？"
+    "value": "电子人们就只敢派个懦弱小卒来对付我？"
   }
 ]

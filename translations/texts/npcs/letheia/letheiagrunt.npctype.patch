@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "raw": "Halt! Who are you?",
-    "value": "住手！你是谁？"
+    "value": "站住！你是谁？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/1",
     "raw": "This is a restricted zone!",
-    "value": "这是禁区！滚出去！"
+    "value": "此处为限制区域！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/2",
     "raw": "Only employees of Letheia Corp allowed here!",
-    "value": "你无权进入此地！"
+    "value": "此处仅限莱西亚公司员工进入！"
   }
 ]

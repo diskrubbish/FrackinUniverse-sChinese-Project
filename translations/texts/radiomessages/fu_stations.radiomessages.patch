@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/pickupmatterassembler/text",
     "raw": "You've created a Matter Assembler? Excellent. You can use this technology to create a wide assortment of technological gear, resources and lab equipment.",
-    "value": "你已经制作了一个加工台？很好，现在你可以利用它去制造各种装备，资源以及实验设备。"
+    "value": "你已经制造出了物质汇编机？太棒了。这项技术能让你制造出各式各样的科技装备、资源以及实验室设备。"
   },
   {
     "op": "replace",
     "path": "/pickupextractor/text",
     "raw": "The Extraction Lab is perhaps your most important basic lab station. With it you can gather hidden resources from most types of soils, produce, meats and so on.",
-    "value": "物质萃取器是你最重要的基础研究设备。有了它，你就可以从物质中获得各种无法直接获取的资源。"
+    "value": "物质萃取器可能是你最重要的基础实验设备。通过它，你可以从大多数类型的土壤、农产品、肉类等中收集隐藏的资源。"
   },
   {
     "op": "replace",
     "path": "/pickupfissionfurnace/text",
     "raw": "With a Fission Furnace you can produce the highest quality metals known, allowing you access to a vastly expanded tree of equipment.",
-    "value": "使用电弧熔炼炉，你可以通过熔炼高质量金属，解锁你闻所未闻的各类护甲！"
+    "value": "使用裂变反应炉，你可以生产出已知最高品质的金属，从而解锁一个大幅扩展的装备制造体系。"
   },
   {
     "op": "replace",
     "path": "/pickuplabdirectory/text",
     "raw": "The Lab Directory can save you a great deal of time. Place it near an extractor, centrifuge, or any other processing station and examine it to view all the items which can be produced there. Give it a try!",
-    "value": "Frackin'Universe数据库可以为你节省大量的时间。将它放在萃取机、离心机或任何其他加工站附近，并检查它以查看所有可以在那里生产的物品。去试一试吧！"
+    "value": "Frackin'Universe数据库能为你节省大量时间。将其放置在提取器、离心机或其他任何处理设备的附近，通过查看目录即可了解该设备可生产的所有物品。快去试试吧！"
   }
 ]

@@ -9,13 +9,13 @@
     "op": "replace",
     "path": "/text",
     "raw": "Not long ago, the abominable Miniknog perfected a warrior variant of their genome. It must be stamped out! Kill one of the ^orange;Apex War-Born^reset; and you'll be rewarded.",
-    "value": "不久前，可恶的科学发展部完善了他们的变种战士。一定要根绝这个麻烦！杀死一名^orange;猿族战争之子^reset;，你会得到奖励。"
+    "value": "不久前，可憎的科学发展部完善了他们基因组的战士变种。必须将其彻底铲除！击杀一名^orange;猿族战争之子^reset;，你将获得奖赏。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Bring the ^green;Claws^reset; to me at the ^orange;Science Outpost^reset;",
-    "value": "把^green;强力拳套^reset;带给我。(位于^orange;科学前哨站^reset;)"
+    "value": "把^green;战争之子的爪子^reset;带给我。(位于^orange;科学前哨站^reset;)"
   },
   {
     "op": "replace",

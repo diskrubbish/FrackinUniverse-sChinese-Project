@@ -9,18 +9,18 @@
     "op": "replace",
     "path": "/text",
     "raw": "I need to ^green;borrow^reset; an ^orange;Atmospheric Regulator^reset; so I can colonize a hostile world. You'll find it at your ^orange;Power Station^reset;. I'll need to keep it for a while but I'll pay top dollar for it.",
-    "value": "我需要^green;借^reset;一个^green;抵抗立场发生器^reset;来在环境恶劣的星球殖民。你可以在^orange;能源设备制造器^reset;里找到它。我要使用一段时间，但会付你钱。"
+    "value": "我需要^green;借^reset;用一台^orange;大气调节器^reset;，以便在恶劣环境中建立殖民地。你可以在你的^orange;能源设备制造器^reset;找到它。我可能需要借用一段时间，但我会为此支付高价。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Bring the ^orange;Atmosphere Regulator^reset; to the scientist at the ^orange;Science Outpost^reset;",
-    "value": "把^orange;抵抗立场发生器^reset;带给这名科学家。(位于^orange;科学前哨站^reset;)"
+    "value": "把^orange;大气调节器^reset;带给这名科学家。(位于^orange;科学前哨站^reset;)"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Excellent, and the one I ordered is already on the way. There we go. As promised, ^green;a ton of money.^green;",
-    "value": "斯巴拉西，我订购的那台已经在顺丰了。按照承诺，我会给你^green;超多的钱^green;。"
+    "value": "太好了，我订购的那件已经在路上了。这就对了，如约而至，^green;一笔巨款^green;。"
   }
 ]

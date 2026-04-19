@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Beekeeping 101",
-    "value": "初次养蜂"
+    "value": "养蜂入门指南"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "Care to try a simpler life, ^green;breeding bees^reset; and reaping the profits? Build an ^orange;Apiary Crafting Station^reset; and you can get started.",
-    "value": "想尝试更简单的生活方式，比如^green;养殖蜜蜂^reset;来获取利润？建造一个^orange;蜂场工作台^reset;来试试。"
+    "value": "想过一种更简单的生活，^green;养蜂采蜜^reset;，收获利润吗？建造一个^orange;蜂场工作台^reset;，你就能开始这段旅程。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "With the ^orange;Apiary Crafting Station^reset;, you'll be able to craft a whole new array of goods you've likely not seen before!",
-    "value": "你可以在^orange;蜂场工作台^reset;制作一些你从未见过的新玩意。"
+    "value": "有了^orange;蜂场工作台^reset;，你将能制作一系列前所未见的新奇物品！"
   }
 ]

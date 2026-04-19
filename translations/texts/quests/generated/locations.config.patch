@@ -87,7 +87,7 @@
     "op": "replace",
     "path": "/floranencounter/nomad/name",
     "raw": "wide clearing",
-    "value": "宽边清理"
+    "value": "宽阔空地"
   },
   {
     "op": "replace",
@@ -99,7 +99,7 @@
     "op": "replace",
     "path": "/floranencounter/pinfriend/name",
     "raw": "wide clearing",
-    "value": "宽边清理"
+    "value": "宽阔空地"
   },
   {
     "op": "replace",
@@ -171,13 +171,13 @@
     "op": "replace",
     "path": "/boneencounter/clearing1/name",
     "raw": "clearing",
-    "value": "清算"
+    "value": "空地"
   },
   {
     "op": "replace",
     "path": "/boneencounter/clearing2/name",
     "raw": "clearing",
-    "value": "清算"
+    "value": "空地"
   },
   {
     "op": "replace",
@@ -189,13 +189,13 @@
     "op": "replace",
     "path": "/colourfulencounter/clearing1/name",
     "raw": "clearing",
-    "value": "清算"
+    "value": "空地"
   },
   {
     "op": "replace",
     "path": "/colourfulencounter/clearing2/name",
     "raw": "clearing",
-    "value": "清算"
+    "value": "空地"
   },
   {
     "op": "replace",
@@ -213,7 +213,7 @@
     "op": "replace",
     "path": "/eyeencounter/ruinwell/name",
     "raw": "well next to the old ruins",
-    "value": "就在废墟旁边"
+    "value": "古老遗迹旁的井"
   },
   {
     "op": "replace",
@@ -231,7 +231,7 @@
     "op": "replace",
     "path": "/eyeencounter/clearing/name",
     "raw": "clearing",
-    "value": "清算"
+    "value": "空地"
   },
   {
     "op": "replace",
@@ -363,7 +363,7 @@
     "op": "replace",
     "path": "/genericunderground/minesmall/name",
     "raw": "small abandoned mine shaft",
-    "value": "废弃的小矿井"
+    "value": "废弃的小型矿井"
   },
   {
     "op": "replace",
@@ -387,7 +387,7 @@
     "op": "replace",
     "path": "/apexunderground/treasure/name",
     "raw": "underground vault",
-    "value": "地下室"
+    "value": "地下金库"
   },
   {
     "op": "replace",
@@ -777,7 +777,7 @@
     "op": "replace",
     "path": "/apexunderwaterlabs/entrance/name",
     "raw": "underwater Miniknog facility",
-    "value": "水下科技发展部设备"
+    "value": "水下科技发展部设施"
   },
   {
     "op": "replace",
@@ -795,19 +795,19 @@
     "op": "replace",
     "path": "/tundra/buildingfupeglaci/name",
     "raw": "Peglaci research station",
-    "value": "企鹅研究站"
+    "value": "羊蹄族究站"
   },
   {
     "op": "replace",
     "path": "/fupeglacipeacekeeper/west/name",
     "raw": "west entrance of the Peglaci Peacekeeper outpost",
-    "value": "企鹅维和前哨站的西部出口"
+    "value": "羊蹄族维和前哨站的西部出口"
   },
   {
     "op": "replace",
     "path": "/fupeglacipeacekeeper/east/name",
     "raw": "east entrance of the Peglaci Peacekeeper outpost",
-    "value": "企鹅维和前哨站的东部出口"
+    "value": "羊蹄族维和前哨站的东部出口"
   },
   {
     "op": "replace",
@@ -825,12 +825,12 @@
     "op": "replace",
     "path": "/fuasteroidbelt/stabbedthings/name",
     "raw": "'Stabbed Things Emporium'",
-    "value": "'被刺伤之物帝国'"
+    "value": "“刺头鲜肉卖场”"
   },
   {
     "op": "replace",
     "path": "/fuasteroidbelt/apexmining/name",
     "raw": "Miniknog black site",
-    "value": "科技发展部黑点"
+    "value": "科技发展部秘密基地"
   }
 ]

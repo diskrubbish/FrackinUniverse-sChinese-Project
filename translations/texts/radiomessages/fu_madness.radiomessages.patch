@@ -3,25 +3,25 @@
     "op": "replace",
     "path": "/madness1/text",
     "raw": "Why have you decided to suddenly munch on some plant fibre? Don't try to deny it. My sensors indicate you have ingested it.",
-    "value": "你为什么突然决定吃一些植物纤维？别否认。我的传感器显示你摄入了它。"
+    "value": "你怎么突然开始啃植物纤维了？别想否认，我的传感器显示你已经摄入了。"
   },
   {
     "op": "replace",
     "path": "/madness2/text",
     "raw": "I am detecting abnormalities in your brain that seem to be causing you to have issues in utilizing your full physical capacity. It should pass, eventually.",
-    "value": "我正在检测你大脑中的异常，这些异常似乎正导致你在充分利用你身体的方面出了些问题。这问题最终会过去的，大概。"
+    "value": "我检测到你大脑中存在异常，这似乎影响了您充分发挥身体机能。不过，这种情况应该会逐渐好转。"
   },
   {
     "op": "replace",
     "path": "/madnessroot/text",
     "raw": "Your brain has stopped sending signals to your legs. It appears to be a synaptic issue, likely related to your bouts of insanity.",
-    "value": "你的大脑已经停止向腿部发送信号。这似乎是一个突触问题，可能与你的精神病发作有关。"
+    "value": "你的大脑已停止向腿部发送信号。这似乎是突触层面的问题，很可能与你间歇性的精神失常有关。"
   },
   {
     "op": "replace",
     "path": "/madnessharm/text",
     "raw": "I suggest you put that knife down. You just cut your own arm open and appear to be bleeding profusely.",
-    "value": "我建议你把刀放下。你刚刚切开了自己的手臂，似乎流了很多血。"
+    "value": "我建议你放下那把刀。你刚刚割伤了自己的手臂，看起来血流不止。"
   },
   {
     "op": "replace",
@@ -33,49 +33,49 @@
     "op": "replace",
     "path": "/madnessharminvert/text",
     "raw": "<^yellow;You feel a compulsion to stab yourself, and in doing so somehow begin regenerating.^reset;>",
-    "value": "<^yellow;你觉得有种想刺伤自己的冲动，并在这样做的过程中以某种方式开始再生。^reset;>"
+    "value": "<^yellow;你感到一股强烈的冲动想要刺伤自己，而这一举动竟意外地启动了某种再生机制。^reset;>"
   },
   {
     "op": "replace",
     "path": "/madnessfood/text",
     "raw": "Your brain and body are currently in dispute over your hunger.",
-    "value": "你的大脑和躯体正在为你的饥渴做斗争。"
+    "value": "你的大脑和身体正在就饥饿感展开一场争论。"
   },
   {
     "op": "replace",
     "path": "/madnessenergy/text",
     "raw": "Did you just lick your battery pack? Don't deny it. My sensors indicate you did.",
-    "value": "你真的只是舔了电池包？ 不要否认。我的传感器表明你干过了。"
+    "value": "你刚才是不是舔了电池包？别否认，我的传感器显示你确实这么做了。"
   },
   {
     "op": "replace",
     "path": "/madnessvuln/text",
     "raw": "Run. Everything will kill you. Run! DROP EVERYTHING AND RUN!",
-    "value": "不要停下来啊！每个人都向你投来了杀意！跑路吧！放下所做，卡其脱离太！"
+    "value": "跑。万物皆可致命。快跑！放下一切，卡其脱离太！"
   },
   {
     "op": "replace",
     "path": "/sanitygain/text",
     "raw": "You have recovered some of your lost mental stability.",
-    "value": "你已经恢复了一些你失去的精神稳态。"
+    "value": "你的精神状态已部分恢复稳定。"
   },
   {
     "op": "replace",
     "path": "/sanitygainboost/text",
     "raw": "Your madness has just led to inspiration! Your mind fills with new possibilities for research topics.",
-    "value": "你的疯狂刚刚带来了灵感! 你的脑子里充满了研究课题的新可能性。"
+    "value": "你的疯狂刚刚点燃了灵感！脑海中涌现出研究课题的全新可能。"
   },
   {
     "op": "replace",
     "path": "/madnesscombust/text",
     "raw": "Well, it would appear that your current seat has randomly caught ^orange;on fire^reset;. That, or you set it on fire. Either way: it is ^orange;on fire^reset;. And so are you.",
-    "value": "怎么说呢，你现在坐的座位好像^orange;着火^reset;了。要不然就是你自己放的火。不管怎样，它^orange;着火^reset;了。你也是。"
+    "value": "嗯，看来你现在的座位不知怎么突然^orange;着火^reset;了。要么是它自己烧起来的，要么是你点的火。总之：它^orange;着火^reset;了。而你也是。"
   },
   {
     "op": "replace",
     "path": "/madnesscombustinvert/text",
     "raw": "As amusing as it may be, spraying the contents of a ^orange;molotov^reset; from your mouth is not recommended, particularly not with a lighter.",
-    "value": "虽然可能很有趣，但不建议从嘴里喷出^orange;莫洛托夫燃烧弹^reset;的内容物，特别是不要用打火机。"
+    "value": "尽管听起来很有趣，但请不要尝试用嘴喷洒^orange;莫洛托夫鸡尾酒^reset;的内容物，尤其不要同时使用打火机。"
   },
   {
     "op": "replace",
@@ -87,7 +87,7 @@
     "op": "replace",
     "path": "/madnessinvuln/text",
     "raw": "You are not allowed to get hurt. Or die. Don't even bother trying.",
-    "value": "你不允许受伤。或死亡。甚至不要去尝试。"
+    "value": "不准受伤，更不准死。连试都别试。"
   },
   {
     "op": "replace",
@@ -99,19 +99,19 @@
     "op": "replace",
     "path": "/crazycarry/text",
     "raw": "You are carrying something that is making you slowly lose your mind. It may be something gross, spooky, horrifying or simply unknowable. The terrible secrets of the universe are fun!",
-    "value": "你携带的东西会使您逐渐失去理智。这件物品粗暴怪异，不为所知。所以宇宙的可怕秘密很有趣！"
+    "value": "你正携带着某种东西，它正让你逐渐失去理智。那或许是令人作呕、毛骨悚然、惊骇万分，抑或仅仅是无法理解的存在。宇宙的可怕秘密，真是有趣极了！"
   },
   {
     "op": "replace",
     "path": "/madnessbeans/text",
     "raw": "Beans. All you can think of is beans, and now you are bloated and gassy like you ate some. Maybe you did eat some! Or maybe that was your toe.",
-    "value": "豆子。您所能想到的只是豆子，现在你就像吃了些豆子一样胀气。也许你确实吃了一些！也许你吃的是你的脚趾。"
+    "value": "豆子。你满脑子都是豆子，现在你胀气难受，就像刚吃了一堆似的。说不定你真吃了呢！又或者，那只是你的脚趾头。"
   },
   {
     "op": "replace",
     "path": "/madnesscat/text",
     "raw": "Perhaps you should take a moment to truly appreciate the majesty of the animal kingdom by mimicking their sound effects as loudly as possible.",
-    "value": "也许您应该花点时间通过尽可能大声地模仿它们的声音效果，来真正欣赏动物王国的威严。"
+    "value": "或许你该花点时间，通过尽可能大声地模仿动物的声音效果，来真正领略动物王国的壮丽。"
   },
   {
     "op": "replace",
@@ -129,6 +129,6 @@
     "op": "replace",
     "path": "/madnessrand3/text",
     "raw": "Don't forget to milk that thing.",
-    "value": "别忘了捞一把那东西。"
+    "value": "别忘了给那东西挤奶。"
   }
 ]

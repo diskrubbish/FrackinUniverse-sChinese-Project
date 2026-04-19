@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "The sun, in your hands. Truly deadly, and unique.\n^yellow;Homing alt^reset;\n^green;Bouncing projectiles^reset;",
-    "value": "其内蕴含的能量犹如恒星般庞大。这把致命而独特的武器如今为你所用。\n^yellow;次要攻击可跟踪目标^reset;\n^yellow;弹跳弹^reset;"
+    "value": "掌握于你手中的恒星，既致命又独一无二。\n^yellow;次要攻击跟踪目标^reset;\n^green;弹跳射弹^reset;"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Even more powerful and boomy.\n^yellow;Homing alt^reset;\n^green;Bouncing projectiles^reset;",
-    "value": "更加强大，更大的嗡嗡声。\n^yellow;次要攻击可跟踪目标^reset;\n^green;弹跳弹"
+    "value": "更加强劲有力，震撼人心。\n^yellow;次要攻击跟踪目标^reset;\n^green;弹跳射弹^reset;"
   }
 ]

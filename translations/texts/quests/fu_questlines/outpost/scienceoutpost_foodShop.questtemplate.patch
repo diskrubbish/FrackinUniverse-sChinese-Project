@@ -9,18 +9,18 @@
     "op": "replace",
     "path": "/text",
     "raw": "I've looked everywhere and can't figure out where the heck Kevin hid my damned lucky coin. I ^red;know^reset; it was that buffoon. He left a note that claimed he was getting it repaired. A coin. Honestly. If you come across a rare 12th century Earth coin...it's mine. Please bring it to me. I'll be ^green;quite^reset; generous in return.",
-    "value": "我到处都找遍了，还是搞不清楚傻逼凯文到底把我那该死的幸运硬币藏哪儿了。我^red;知道^reset;这很滑稽，他留下了一张字条，上面说他正在找人修理。可是真的，这只是一枚硬币而已。如果你偶然发现了一枚罕见的21世纪的地球的硬币...它是我的，请把它带给我。作为回报，我会^green;非常^reset;慷慨的。"
+    "value": "我翻遍了所有地方，就是找不到凯文那家伙把我那该死的幸运硬币藏哪儿了。^red;肯定^reset;是那个蠢货干的。他还留了张纸条，说拿去修了。一枚硬币，修什么修。说真的，如果你碰巧看到一枚稀有的12世纪地球硬币....那是我的。请务必带给我，^green;必有重谢^reset;。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Bring the ^orange;rare Lucky Coin^reset; to the ^green;Food Shop^reset; at the ^orange;Science Outpost^reset;",
-    "value": "把一枚稀有的^orange;幸运硬币^reset;带给^green;食品商店^reset;(位于^orange;科学前哨站^reset;)"
+    "value": "把一枚^orange;稀有的幸运硬币^reset;带给^green;食品商店^reset;(位于^orange;科学前哨站^reset;)"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "The depths of my thanks cannot even be expressed. Replacing this is literally impossible now, what with Earth being slightly destroyed and all. Have this in exchange for your time and bravery.",
-    "value": "我真的对你感激不尽。即使地球已经被毁灭，这枚硬币仍然是不可替代的。作为你的时间和勇气的交换，拿上这个吧。"
+    "value": "我的感激之情无以言表。如今地球已遭部分损毁，要找到替代品几乎不可能。请收下这个，以感谢您付出的时间与勇气。"
   }
 ]

@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "I'm lookin' to acquire some ^orange;Silver^reset;, but I ain't no good in enclosed spaces. ^green;Rarer ores are more commonly found at depths below the surface^reset;. ^orange;1 Silver Bar^reset; should be plenty. You'll need to ^orange;Research^reset; into ^orange;Geology^reset; to learn how.",
-    "value": "我希望得到^orange;银^reset;，但我会在封闭空间中感到不适。^green;越稀少的矿物在地表之下的越深处就越容易发现^reset;。^orange;1个银锭^reset;应该够了。为了挖掘你需要^orange;研究^reset;^orange;地质^reset;科学进行学习。"
+    "value": "我想弄点^orange;银^reset;，但我不太擅长在密闭空间里活动。^green;稀有矿石通常在地表深处更常见^reset;。^orange;一块银锭^reset;应该就足够了。你需要^orange;研究^reset;^orange;地质学^reset;才能知道具体该干什么。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "I kin finally make ^green;Clementine^reset; the ^orange;symbol of our love^reset; I always promised 'afore her tragic passing back in '72. Take this and my thanks, friend.",
-    "value": "我终于可以制造象征着我和^green;克里门汀^reset;^orange;爱情的信物了^reset;，我总是在她72年不幸去世之前答应她。拿着这个，谢谢你，朋友。"
+    "value": "我终于能实现承诺，让^green;克莱门汀^reset;成为我们^orange;爱情的象征^reset;，这誓言早在1972年她不幸离世前便已许下。收下这份心意与我的谢意，朋友。"
   }
 ]

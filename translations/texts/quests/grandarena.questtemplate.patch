@@ -9,18 +9,18 @@
     "op": "replace",
     "path": "/text",
     "raw": "The map shows me the way to a grand jungle arena where Floran hunters go test their strength. There's a prize advertised for those who manage to survive...",
-    "value": "这张地图指出了通往叶族猎人为了测试实力而修建的竞技场的路。"
+    "value": "地图指引我前往一处宏伟的丛林竞技场，叶族猎人们常去那里检验自身实力。告示上说，凡能成功生还者，皆可获得奖赏..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Survive all waves in the Grand Arena without dying.",
-    "value": "在大竞技场生存下来。"
+    "value": "在大竞技场中存活所有波次，全程无阵亡。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Now that was one hell of a brawl! Time to claim my hard-earned loot!",
-    "value": "经历了一场场如同炼狱般的战斗，现在是时候获得我的奖赏了！"
+    "value": "刚才那场架打得可真够劲！是时候领取我辛苦得来的战利品了！"
   }
 ]

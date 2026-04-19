@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/medical/0/4",
     "raw": "25% More Power, Increased Movement Speed. \n-50% Knockback Resistance, -35 Protection.",
-    "value": "增加25%攻击，增加移动速度。\n-50% 击退抗性,-35防御。"
+    "value": "攻击力提升25%，提高移动速度。  \n击退抗性降低50%，防御降低35%。"
   },
   {
     "op": "replace",
@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/medical/1/4",
     "raw": "100% More Damage at the cost of 90% Less Protection",
-    "value": "100%伤害增幅，90%防御降低"
+    "value": "伤害提升100%，但防御降低90%"
   },
   {
     "op": "replace",
@@ -33,19 +33,19 @@
     "op": "replace",
     "path": "/medical/2/4",
     "raw": "Provides immunity to most negative status effects. 10% Less Power and Protection.",
-    "value": "提供绝大多数负面状态的免疫。10%的攻击和防御降低。"
+    "value": "提供对大多数负面状态效果的免疫。攻击与防御降低10%。"
   },
   {
     "op": "replace",
     "path": "/medical/3/0",
     "raw": "^white;Juggernaut",
-    "value": "^white;神像"
+    "value": "^white;主宰"
   },
   {
     "op": "replace",
     "path": "/medical/3/4",
     "raw": "You become immune to knockback and gain 50 protection, but your movement speed is reduced by 33%.",
-    "value": "你对击退免疫并获得50点防御，但是你的移动速度减少33% 。"
+    "value": "你获得击退免疫，并增加50点护甲，但移动速度降低33%。"
   },
   {
     "op": "replace",
@@ -57,7 +57,7 @@
     "op": "replace",
     "path": "/medical/4/4",
     "raw": "Every 3 seconds a toxic cloud that lasts 5 seconds and deals 30 piercing damage is released at your location. Every time this happens, you take 5 piercing damage. 20% Increased Hunger Drain.",
-    "value": "每3秒钟在你所在的位置就会释放出持续5秒并造成30点穿透伤害的毒云。每次释放，你会受到5穿刺伤害。饥饿消耗增加20%。"
+    "value": "每3秒，你所在位置会释放一片持续5秒的毒云，造成30点穿透伤害。每次释放时，你自身会受到5点穿透伤害。饥饿速率增加20%。"
   },
   {
     "op": "replace",
@@ -69,7 +69,7 @@
     "op": "replace",
     "path": "/medical/5/4",
     "raw": "Applies random positive and/or negative statuses every 10 seconds which last 15-25 seconds.",
-    "value": "每10秒应用随机的正/负状态，持续15-25秒。"
+    "value": "每10秒随机施加持续15至25秒的正面或负面状态效果。"
   },
   {
     "op": "replace",
@@ -81,7 +81,7 @@
     "op": "replace",
     "path": "/medical/6/4",
     "raw": "Regenerate 40% of damage taken over 5 seconds, at the cost of 20% Less HP and 50% increased Energy Block Time.",
-    "value": "5秒内恢复收到伤害40%的HP ，代价是减少20%的血量和增加50%的能量重充能时间。"
+    "value": "在5秒内恢复所受伤害的40%，代价是生命值降低20%且能量重充能时间延长50%。"
   },
   {
     "op": "replace",
@@ -93,7 +93,7 @@
     "op": "replace",
     "path": "/medical/7/4",
     "raw": "50% More Energy, 33% More Energy Regeneration. Hunger Drain increased by 25%. 100% Increased Energy Block Time.",
-    "value": "50%最大能量增幅，33%能量再生增幅。饥饿消耗增加25%。100%能重新充能时间延长。"
+    "value": "能量上线提高50%，能量恢复速度提升33%。饥饿速率提高25%。能量重充能时间延长100%。"
   },
   {
     "op": "replace",
@@ -105,19 +105,19 @@
     "op": "replace",
     "path": "/medical/8/4",
     "raw": "33% More Energy Regen, -50 Energy. In addition, Increased movement speed the less energy you have (up to +67% speed at 35% energy remaining). Taking damage briefly stops energy regen, and  consumes energy for 150% of damage.",
-    "value": "33% 能源恢复增幅,-50能量。 此外，提高移动速度，你拥有的能量越少增幅·越高(在剩余能量35% 的情况下，提高67% 的移动速度)。受到伤害时短暂停止能量回复，并消耗150%伤害的能量。"
+    "value": "能量回复速度提升33%，能量上限降低50点。此外，能量越低移动速度越快（剩余能量为35%时最高可提升67%移速）。受到伤害会短暂中断能量回复，并消耗相当于伤害值150%的能量。"
   },
   {
     "op": "replace",
     "path": "/medical/9/0",
     "raw": "^green;Hivemind",
-    "value": "^green;母巢"
+    "value": "^green;蜂群思维"
   },
   {
     "op": "replace",
     "path": "/medical/9/4",
     "raw": "Shoots a projectile at the closest enemy in a medium radius with a clear line of fire every second, dealing 2.5% of your HP as base damage (^orange;affected by power multiplier^reset;) on impact. Drains 0.5% of your current health every 0.5 seconds as long as you have more than 10%.",
-    "value": "每秒向最近的敌人发射一束中等热射光线，造成2.5%的基础伤害(^orange;受到攻击倍增的影响^reset;)。只要你的HP超过最大的10% ，每0.5秒消耗你当前HP的0.5% 。"
+    "value": "每秒向中等半径内、射程清晰的最远敌人发射一枚投射物，命中时造成相当于自身生命值2.5%的基础伤害（^orange;受攻击力系数影响^reset;）。只要生命值高于10%，每0.5秒将持续消耗当前生命值的0.5%。"
   },
   {
     "op": "replace",
@@ -129,7 +129,7 @@
     "op": "replace",
     "path": "/medical/10/4",
     "raw": "Consumes 2 energy to regenerate 1 health every 0.15 seconds. Energy will regenerate only at full health.",
-    "value": "每0.15秒消耗2点能量来再生1点生命值。能量只有在完全生命值时才能再生。"
+    "value": "每0.15秒消耗2点能量以恢复1点生命值。能量仅在生命值全满时才会恢复。"
   },
   {
     "op": "replace",

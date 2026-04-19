@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Short-ranged grapple. ^red;Regenerates health^reset; when attached. Improves healing.",
-    "value": "用于极短距离的格斗。击中时^red;回复HP^reset;。提高治疗效果。"
+    "value": "短程抓钩。附着时^red;恢复生命值^reset;。增强治疗效果。"
   },
   {
     "op": "replace",

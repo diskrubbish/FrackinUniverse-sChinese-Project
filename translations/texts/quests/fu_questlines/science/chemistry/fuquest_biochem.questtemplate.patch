@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Alchemy, Chemistry...whatever",
-    "value": "炼金，化学...和万物"
+    "value": "炼金术，化学...随便怎么称呼"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "So you've built an ^orange;Alchemy Table^reset; and want to learn to use it? Simple enough. Just don't blow yourself to bits, please. Place it down and start by making some ^orange;Mulch^reset; for fertilizer.",
-    "value": "所以你已经建造了一个^orange;炼金台^reset;，想要学习如何使用它吗？很简单，只是，请不要把自己炸成碎片。放置好它，通过制作一些用作肥料的^orange;护根^reset;，开始你的炼金之旅吧。"
+    "value": "所以你造了个^orange;炼金台^reset;，想学会怎么用？这很简单。只要别把自己炸飞就好。把它放下来，先从制作一些堆肥用的^orange;护根^reset;开始吧"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "^orange;Mulch^reset; is useful in a ^orange;Growing Tray^reset; as a ^green;weak fertilizer^reset;. You can craft all sorts of chemicals, plastics and lab-made materials. Be sure to upgrade the ^orange;Alchemy Table^reset; when you can!",
-    "value": "^orange;护根^reset;作为一种^green;弱效的肥料^reset;，放到^orange;生长托盘^reset;中会很有用。你可以制造各种各样的化学物质、塑料和实验室材料。一定要确保第一时间在^orange;炼金台^reset;处升级它们！"
+    "value": "在^orange;生长托盘^reset;中，^orange;护根^reset;可作为^green;弱效肥料^reset;使用。你可以制作各种化学品、塑料及实验室合成材料。记得适时升级你的^orange;炼金台^reset;！"
   }
 ]

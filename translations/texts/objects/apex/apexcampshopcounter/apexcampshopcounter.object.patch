@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "The counter of an arms dealer. He fits you with weapons. And some of them in the form of words!",
-    "value": "军火商的柜台。他给你配备了武器。还有一些是以文字的形式出现的！"
+    "value": "一位军火商的柜台。他为你配备武器，其中一些以言语的形式呈现！"
   },
   {
     "op": "replace",
@@ -15,42 +15,42 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "Disreputable arms dealers are sometimes all us resistance members have access to.",
-    "value": "声名狼藉的军火商们有时是我们抵抗军成员可以接触到的。"
+    "value": "不光彩的军火商有时是我们抵抗组织成员唯一能接触到的渠道。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "Apex rebels are second only to penguins in illegal weapons distributions.",
-    "value": "在非法分发武器方面，猿人反抗军仅次于企鹅。"
+    "value": "在非法武器分销领域，猿人反抗军的势力仅次于企鹅。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran feels like a kid in a candy store!",
-    "value": "叶族人感觉就像一个进了糖果店的孩子！"
+    "value": "叶族人感觉自己就像进了糖果店的孩子！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Disturbed. The desperate ferocity Apex rebels display is rather frightening.",
-    "value": "不安。 猿人反抗军表现出的破釜沉舟十分可怕。"
+    "value": "不安。猿人反抗军所展现出的那种破釜沉舟，着实令人心惊。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "There's all kinds of weapons here, but its mostly explosives.",
-    "value": "这里有各种各样的武器，但大部分是炸药。"
+    "value": "这里武器种类繁多，但主要还是以爆炸物为主。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Only when their arms are sufficient beyond doubt, can they never be employed again...",
-    "value": "只有当他们的武装足够强大，毫无疑问，他们才能永远不再被雇佣..."
+    "value": "唯有当他们手中的武器足够强大，无可置疑时，这些武器才可能永远不再被使用..."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Armed to the teeth ain't they?",
-    "value": "他们全副武装，不是吗？"
+    "value": "他们这不是全副武装吗？"
   }
 ]

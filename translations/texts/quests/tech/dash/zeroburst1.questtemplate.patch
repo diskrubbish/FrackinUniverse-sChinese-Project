@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Explosive Redirection",
-    "value": "重定义爆炸"
+    "value": "爆炸重定向"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "With a bit of tinkering I think I could adapt rapid-burn of fuel safely to create a ^orange;Zero Burst Tech^reset;! With it equipped, I should ^orange;tap up twice^reset; to boost.",
-    "value": "通过修改这项科技的方案，我想我可以使用我新研发的^orange;爆炸跳跃^reset;，我可以双击^orange;[W]^reset;使用它。"
+    "value": "稍作调整，我想我就能安全地实现燃料的快速燃烧，从而创造出^orange;零点爆发科技^reset;！装备上它后，我只需^orange;轻触按两次方向键^reset;就能实现起跳。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "With a bit of tinkering I think I could adapt rapid-burn of fuel safely to create a ^orange;Zero Burst Tech^reset;! With it equipped, I should ^orange;tap up twice^reset; to boost.",
-    "value": "通过修改这项科技的方案，我想我可以使用我新研发的^orange;爆炸跳跃^reset;，我可以双击^orange;[W]^reset;使用它。"
+    "value": "稍作调整，我想我就能安全地实现燃料的快速燃烧，从而创造出^orange;零点爆发科技^reset;！装备上它后，我只需^orange;轻触按两次方向键^reset;就能实现起跳。"
   }
 ]

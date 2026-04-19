@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "It pulls you up automatically! Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "它可以自动得把你拉上去！\n可在^orange;三度仪^reset;进行升级。"
+    "value": "它会自动把你拉上来！\n可在^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "It pulls you up automatically! Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "它可以自动得把你拉上去！\n可在^orange;三度仪^reset;进行升级。"
+    "value": "它会自动把你拉上来！\n可在^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
     "op": "replace",
     "path": "/upgradeParameters2/description",
     "raw": "It pulls you up automatically! ^green;Fully Upgraded^reset;.",
-    "value": "它可以自动得把你拉上去！\n^green;已完全升级^reset;。"
+    "value": "它会自动把你拉上来！\n^green;已完全升级^reset;。"
   },
   {
     "op": "replace",

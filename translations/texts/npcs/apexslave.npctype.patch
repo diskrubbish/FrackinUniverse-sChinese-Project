@@ -3,114 +3,114 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "raw": "We will never be free.",
-    "value": "我们永远无法得到自由。"
+    "value": "我们永远不会获得自由。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/0",
     "raw": "We will never be free.",
-    "value": "我们永远无法得到自由。"
+    "value": "我们永远不会获得自由。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/1",
     "raw": "Leave now. This is not your concern, stranger.",
-    "value": "快走。这和你没关系，陌生人。"
+    "value": "立刻离开。这不关你的事，陌生人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/2",
     "raw": "Do not fear for us, stranger. This is the way of things.",
-    "value": "不要害怕我们，陌生人。"
+    "value": "不必为我们担忧，陌生人。世事本就如此。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/3",
     "raw": "I'm so hungry... so hungry...",
-    "value": "我好饿...好饿..."
+    "value": "我好饿啊...饿死了..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/4",
     "raw": "Take me with you, stranger. Please.",
-    "value": "请你带我离开这里，陌生人。"
+    "value": "陌生人，请带我一起走吧。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/5",
     "raw": "I'll never escape the gaze of Big Ape.",
-    "value": "我永远躲不掉老大猿的目光。"
+    "value": "我永远无法逃离老大猿的注视。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/6",
     "raw": "Do not cause trouble, stranger. It won't end well for either of us.",
-    "value": "不要引起麻烦，陌生人。这样对你我都有好处。"
+    "value": "别惹麻烦，陌生人。这对我们谁都没好处。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/7",
     "raw": "Freedom is lost to me, stranger.",
-    "value": "我失去了自由，陌生人。"
+    "value": "自由已离我而去，陌生人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/apex/0",
     "raw": "We will never be free.",
-    "value": "我们永远无法得到自由。"
+    "value": "我们永远不会获得自由。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/apex/1",
     "raw": "Leave now. This is not your concern, friend.",
-    "value": "快走。这和你没关系，朋友。"
+    "value": "现在离开吧。朋友，这不关你的事。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/apex/2",
     "raw": "Do not fear for us, friend. This is the way of things.",
-    "value": "不要害怕我们，朋友。"
+    "value": "朋友，不必为我们担忧。世事本如此。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/apex/3",
     "raw": "I'm so hungry... so hungry...",
-    "value": "我好饿...好饿..."
+    "value": "我好饿啊...饿死了..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/apex/4",
     "raw": "Take me with you, friend. Please.",
-    "value": "请你带我离开这里，朋友。"
+    "value": "请带我一起走吧，朋友。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/apex/5",
     "raw": "I'll never escape the gaze of Big Ape.",
-    "value": "我永远躲不掉老大猿的目光。"
+    "value": "我永远无法逃离老大猿的注视。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/apex/6",
     "raw": "Do not cause trouble, friend. It won't end well for either of us.",
-    "value": "不要引起麻烦，朋友。这样对你我都有好处。"
+    "value": "别惹麻烦，朋友。这对我们谁都没好处。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/apex/7",
     "raw": "Freedom is lost to me, friend.",
-    "value": "我失去了自由，朋友。"
+    "value": "自由已离我而去，朋友。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/apex/8",
     "raw": "Be glad you are not one of us, friend.",
-    "value": "很高兴你不在我们其中，朋友。"
+    "value": "庆幸你不是我们中的一员吧，朋友。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/apex/9",
     "raw": "Be free.",
-    "value": "为了自由。"
+    "value": "自由啊。"
   }
 ]

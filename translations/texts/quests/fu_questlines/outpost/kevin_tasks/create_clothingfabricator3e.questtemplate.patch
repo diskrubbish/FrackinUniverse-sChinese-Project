@@ -9,18 +9,18 @@
     "op": "replace",
     "path": "/text",
     "raw": "I bet you can't collect more brains than I can! In fact, I ^orange;double-dog-dare^reset; you to collect ^orange;more brains^reset; than I can! Remove ^orange;50 brains^reset; from random life-forms...that's a decent start.",
-    "value": "我打赌你不可能比我收集到更多的大脑！事实上，我^orange;敢赌^reset;你收集的大脑^orange;比我还多^reset;！从随机的生命中移除^orange;50个大脑^reset;...这是一个不错的开始。"
+    "value": "我打赌你收集的脑子不可能^orange;比我多^reset;！说真的，我^orange;加倍赌^reset;你绝对做不到！先从随机生物身上取下^orange;50个脑子^reset;...这算是个不错的开端。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Bring ^red;Kevin^reset; 50 ^orange;Brains^reset; of average quality.",
-    "value": "给^red;凯文^reset;整50个质量可以不同的^orange;大脑^reset;。"
+    "value": "给^red;凯文^reset;整50个普通品质的^orange;大脑^reset;。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "That's a whole lot of brains! Also, I didn't even bother collecting any. You beat me! You're also now ^orange;a murderer^reset;! Congratulations!",
-    "value": "那可是一大堆脑子啊！而且，我甚至懒得去收集任何东西。你打败我了！你现在也是个^orange;疯子^reset;了！祝贺你！"
+    "value": "这得有多少脑子啊！而且我压根没费心去收集。你赢了！你现在还是个^orange;杀人犯^reset;！恭喜恭喜！"
   }
 ]

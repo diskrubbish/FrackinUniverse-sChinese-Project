@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Methanol - Nature's Booze",
-    "value": "甲醇-自然之酿"
+    "value": "甲醇 - 大自然的“醉”爱"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "^orange;Methanol^reset; will be useful in the production of a number of goods and eventually get you on track to a masterful laboratory. ^green;You'll find it via wood extraction^reset;.",
-    "value": "^orange;甲醇^reset;将在各类物品产出以及实验室的壮大中扮演重要的角色。^green;你可以通过萃取原木得到它。"
+    "value": "^orange;甲醇^reset;在多种产品的生产中都将发挥重要作用，并最终助你打造出实验室。^green;你可以通过萃取木材的方式获得它^reset;。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Great work. I think it's time to move on.",
-    "value": "干得漂亮。我想是时候进行下一步了。"
+    "value": "干得漂亮。我觉得是时候继续前进了。"
   }
 ]

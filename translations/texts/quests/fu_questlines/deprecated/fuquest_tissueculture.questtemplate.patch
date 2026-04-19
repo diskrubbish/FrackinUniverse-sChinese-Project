@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/text",
     "raw": "^green;Seeds^reset; are best extracted for useful ^orange;Tissue Culture^reset;. Without them you will be unable to complete a ^orange;DNA Sample^reset; which is rather important to your success.",
-    "value": "^green;种子^reset;的萃取最好用于有用的^orange;组织培养^reset;。没有它们，你就无法完成一份^orange;DNA样本^reset;，而它对于你的成功来说相当重要。。"
+    "value": "为进行有效的^orange;组织培养^reset;，最好萃取^green;种子^reset;。若无种子，你将无法完成至关重要的^orange;DNA样本^reset;采集，这对你的成功至关重要。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Remember: Almost everything natural can extract, and more besides. Experiment, and you'll find some truly interesting things.",
-    "value": "记住：几乎所有的自然物质都可以进行萃取。还请多多实践，这样你才会发现更多有趣的事物。"
+    "value": "记住：几乎所有自然之物皆可萃取，甚至更多。勇于尝试，你会发现一些真正有趣的事物。"
   }
 ]

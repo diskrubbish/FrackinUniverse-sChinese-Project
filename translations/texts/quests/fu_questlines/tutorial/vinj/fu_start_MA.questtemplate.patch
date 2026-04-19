@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "You've been tasked with creating a ^orange;Machining Table^white;. ^green;Build one on your default crafting menu [C]^reset; to complete this task.",
-    "value": "你的任务是制造一个^orange;加工台^white;，^green; 从你的制造菜单[C]制造一个^reset;来完成这个任务。"
+    "value": "你已接到制作^orange;加工台^white;的任务。^green;请打开默认制作菜单 [C]，制作一个加工台^reset;以完成此任务。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Great! This card contains directions to the facility I spoke of. There are many fellow scientists there with whom you can meet!",
-    "value": "厉害！这张卡片标明了我提到的设施所在的方位。你能在那里遇见许多研究员！"
+    "value": "太好了！这张卡片上有我之前提到的那个设施的路线指引。那里有许多科学家同行，你可以去和他们交流！"
   }
 ]

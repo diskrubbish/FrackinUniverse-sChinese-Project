@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Mites",
-    "value": "螨虫危机"
+    "value": "螨虫"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "It should be noted that bees have a natural predator: ^green;Mites^reset;. These parasites infest your apiaries from time to time, and reduce their productivity and can even kill the bees. Create an ^orange;Anti-Mite frame^reset; to combat them.",
-    "value": "你应该警惕蜜蜂的天敌：^orange;瓦螨^reset;。这种寄生虫会在逐渐在蜂箱内滋生，降低蜂蜜产量甚至杀死蜜蜂。制造^orange;抗瓦螨巢框^reset;来对付他们。"
+    "value": "需要注意的是，蜜蜂有一个天敌：^green;螨虫^reset;。这些寄生虫会不时侵扰你的蜂场，降低蜜蜂的生产力，甚至可能导致蜜蜂死亡。请制作一个^orange;防螨框巢^reset;来对抗它们。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Simply placing this in an apiary will work its magic. ^red;Mites hate these things^reset; and will be killed or driven off by them. Keep some handy. That's all I can teach you, it's up to you to experiment and breed the best bees you can! Bee all you can bee!",
-    "value": "把它装在养蜂场就能见效。^red;瓦螨惧怕这些东西^reset;，会被驱走或杀死。多准备一些。我已经没什么可教的了，剩余的就要靠你试验了，祝你好运。"
+    "value": "只需将其放置在蜂房中，它便会发挥神奇功效。^red;螨虫极其厌恶这类东西^reset;，会被其杀死或驱离。记得常备一些。我能教你的就这么多，接下来就靠你自己去尝试，培育出最棒的蜜蜂了！尽情释放你的养蜂潜能吧！"
   }
 ]

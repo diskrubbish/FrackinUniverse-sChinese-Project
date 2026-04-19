@@ -3,19 +3,19 @@
     "op": "replace",
     "path": "/title",
     "raw": "Dark Imperator",
-    "value": "黑暗使者"
+    "value": "黑暗帝王"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "Next on da list, smacking da monkey. Okay, not that kind. Go kill a Big Ape.",
-    "value": "清单上的下一个项目是抽猴子。好吧，不是那种。去杀一只大猴子。"
+    "value": "接下来，名单上的是，痛扁那只猴子。好吧，不是那种意思。去干掉一只老大猿。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Okay, mew is really really concerned now. New Kevin message. \"My fault. All my fault. ALL MY FAULT.\" Very unlike him. What his fault though?",
-    "value": "好吧，喵现在真的非常担心。来自凯文的新信息。“我的错。都是我的错。都是我的错。”很不像他。但他又做错了什么呢？"
+    "value": "好的，本喵现在真的非常非常担心。凯文发来新消息：“我的错。全是我的错。全都是我的错。”这完全不像他平时的样子。可他到底做错了什么呢？"
   },
   {
     "op": "replace",
@@ -27,6 +27,6 @@
     "op": "replace",
     "path": "/scriptConfig/descriptions/turnIn",
     "raw": "Return to ^orange;Khe^reset; at ^orange;the Science Outpost^reset;",
-    "value": "回到^orange;科学前哨站^reset;去找^orange;溪^reset;"
+    "value": "回到^orange;科学前哨站^reset;的^orange;溪^reset;处"
   }
 ]

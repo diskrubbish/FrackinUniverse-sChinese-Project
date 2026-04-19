@@ -3,84 +3,84 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
     "raw": "I'll give you a 4% fuel cost reduction whenever we're on the ship! I cook *that* well!",
-    "value": "当我在船上时，我会降低你4%的燃料消耗！这钵是肉蛋葱鸡！"
+    "value": "只要我们在船上，我就给你4%的燃料消耗减免！这钵啊是肉蛋葱鸡！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
     "raw": "Warm meals from me will keep you fed!",
-    "value": "我的料理会让你乐不思蜀！"
+    "value": "我做的热饭，保你吃得饱饱的！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
     "raw": "Let me feed you!",
-    "value": "快来吃我做的料理！"
+    "value": "让我来喂你吧！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
     "raw": "I'm gonna fill your stomache with tasty nomz.",
-    "value": "我会用美味的食物填饱肚子的。"
+    "value": "我要用美味的食物填饱你的肚子。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
     "raw": "Would you like this fine sandwich? Take it! Non-optional!",
-    "value": "你喜欢这份三明治？给，拿去！"
+    "value": "想要这份美味的三明治吗？拿去吧！没得商量！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
     "raw": "Floran hasss things to help you eat! Promise iss not a baby!",
-    "value": "叶族人为你制作的食谱可以让你更健康！噢，come on，别拒绝我的好意！"
+    "value": "叶族人有东西西西能帮你吃饱饱！保证不是婴儿食品！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1",
     "raw": "Floran can help out! I is feeds with foodss!",
-    "value": "叶族人可以帮到你！叶族人这里有食食食物！"
+    "value": "叶族人可以帮忙！我会用食物来喂养！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
     "raw": "Floran hasss things to help! Meatss!",
-    "value": "叶族人做了一些肉肉肉料理，香喷喷的噢！"
+    "value": "叶族人有东西西西能帮忙！香喷喷的肉！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Eager. I can help you out with a fine delicacy.",
-    "value": "渴望。 我可以帮你做很多好吃的。"
+    "value": "渴望。我可以为你推荐一道精致佳肴。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
     "raw": "Excited. Perhaps you could do with a hot meal?",
-    "value": "兴奋。 或许你可以吃点我做的热腾腾的料理？"
+    "value": "兴奋。或许你需要一顿热腾腾的饭菜？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
     "raw": "Intrigued. I wonder if this delicious nourishment will help you?",
-    "value": "感兴趣。 我会严格按照能量配对，给你最适合的食材搭配。"
+    "value": "感兴趣。我想知道这美味的滋养品是否对你有益？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
     "raw": "Helpful. Take this, it will help keep you fed!",
-    "value": "乐于助人。 给，这样你就勿需担心饥饿的问题了！"
+    "value": "乐于助人。拿着这个，它能帮你填饱肚子！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/crew/role/name",
     "raw": "Sous Chef",
-    "value": "顶级厨师"
+    "value": "副厨师长"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/crew/role/field",
     "raw": "Meal Prep",
-    "value": "烹饪"
+    "value": "餐食准备"
   }
 ]

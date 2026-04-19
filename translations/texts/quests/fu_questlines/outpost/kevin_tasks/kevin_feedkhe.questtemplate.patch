@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "Minion, I have an ^red;extremely important^reset; task for you: my pet cat is starving and needs food. Only the finest sustenance will do, so I need you to feed her one ^red;Neutron Bomb^reset;.",
-    "value": "我的仆人啊，我有一个^red;极其重要^reset;任务给你: 我的宠物猫饿了，需要食物。只有最好的食物才行，所以我需要你喂她一个^red;中子弹^reset;。"
+    "value": "小喽啰，我有个^red;极其重要^reset;的任务交给你：我的宠物猫快饿坏了，急需食物。只有最顶级的营养品才配得上她，所以你得喂她一颗^red;中子弹^reset;。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "...pet? Well...that's awkward and completely wrong. Won't turn down good food, though. Don't tell anyone about him saying that...and take this blueprint. It's not 'useful', but it was certainly fun to design.",
-    "value": "...宠物？好吧... 这太尴尬了，而且完全错了。不过我不会拒绝好吃的食物。 不要告诉任何人他这么说过... 着这张蓝图。它不是有用的，但是设计起来确实很有趣。"
+    "value": "...宠物？呃...这说法既尴尬又完全不对。不过，美食当前我可不会拒绝。别告诉任何人他这么说过……还有，这张图纸你收好。它虽不‘实用’，但设计过程确实充满乐趣。"
   }
 ]

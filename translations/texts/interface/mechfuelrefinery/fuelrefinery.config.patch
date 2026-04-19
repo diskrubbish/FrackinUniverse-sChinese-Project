@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/gui/lblText/value",
     "raw": "^#b9b5b2;Place oil in the left slot to refine into mech fuel.",
-    "value": "^#b9b5b2;将油放入左侧槽位来提炼成机甲燃料。"
+    "value": "^#b9b5b2;将油放入左侧格子，可精炼为机甲燃料。"
   }
 ]

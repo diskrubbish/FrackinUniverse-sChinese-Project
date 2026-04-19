@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "^cyan;Headlamp^reset;\n^orange;Set Bonuses^reset;\n^yellow;^reset; ^cyan;Immune^reset;: Moderate Radiation, Radiation Burn, Pus, Liq. Nitrogen",
-    "value": "^cyan;头灯^reset;\n^orange;套装奖励^reset;\n^yellow;^reset; ^cyan;免疫^reset;: 严酷辐射, 辐射烧伤, 脓液, 液氮"
+    "value": "^cyan;头灯^reset;\n^orange;套装奖励^reset;\n^yellow;^reset; ^cyan;免疫^reset;: 中度辐射, 辐射烧伤, 脓液, 液氮"
   },
   {
     "op": "replace",

@@ -9,18 +9,18 @@
     "op": "replace",
     "path": "/text",
     "raw": "A dread Glitch warlord has been terrorising nearby planets from his tower on a far-off planet. I should do something about this.",
-    "value": "一位作恶多端的电子人领主正在遥远的行星上压迫附近的人民，我应该铲除这个坏蛋。"
+    "value": "一位令人畏惧的电子人军阀，正从他位于遥远星球上的高塔中，对邻近行星实施恐怖统治。我该对此采取行动了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Defeat the dread warlord of the Tower Invincible.",
-    "value": "击败电子人领主。"
+    "value": "击败永世塔塞的军阀。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Ha ha! A true test and proof of my stremf! Now time to help myself to all this sweet, sweet loot!",
-    "value": "哈哈！我终于知道自己到底有多强了，现在让我来看看到底有什么战利品！"
+    "value": "哈哈！这真是对我实力的真正考验与证明！现在，是时候尽情享用这些甜美无比的战利品了！"
   }
 ]

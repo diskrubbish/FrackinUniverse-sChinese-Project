@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Extracts a targets brain at the moment of death.\n^cyan;Collects Brains from enemies^reset;\n^yellow;Counts as Bio-Weapon^reset;",
-    "value": "在目标死亡的那一刻提取目标大脑。\n^cyan;收集敌人的大脑^reset;\n^yellow;生物武器^reset;"
+    "value": "在死亡瞬间提取目标大脑。\n^cyan;收集敌人的大脑^reset;\n^yellow;算作生物武器^reset;"
   },
   {
     "op": "replace",

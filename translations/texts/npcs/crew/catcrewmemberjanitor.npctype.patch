@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/cat/default/0",
     "raw": "Meow! I'm <selfname>, the kitty Janitor! What? No, I'm not using my tail to sweep!",
-    "value": "喵！我是<selfname>，小猫清洁工！什么？不，我不会用尾巴扫地的！"
+    "value": "喵！我是<selfname>，猫咪清洁工！什么？不，我可没用尾巴扫地哦！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/cat/default/1",
     "raw": "Meow. Don't mind me. I'm just doing what nobody else wants to do around here.",
-    "value": "喵。 别管我。我只是在做别人不想做的事。"
+    "value": "喵。别在意我。我只是在做这里没人愿意做的事。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/crew/role/name",
     "raw": "Janitor",
-    "value": "清洁工"
+    "value": "Janitor"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/crew/role/field",
     "raw": "Cleanliness",
-    "value": "清洁工"
+    "value": "保洁员"
   }
 ]

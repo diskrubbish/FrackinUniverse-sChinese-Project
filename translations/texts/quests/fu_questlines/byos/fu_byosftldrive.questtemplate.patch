@@ -9,13 +9,13 @@
     "op": "replace",
     "path": "/text",
     "raw": "Welcome back, dear. Let's get your ship fixed, shall we? To get to other stars you'll need to repair your ^cyan;FTL drive^reset;. First thing's first, though. Build an ^orange;STL drive^reset; so you can explore the system you're in.",
-    "value": "欢迎回来，亲爱的。让我们把你的飞船修好，好吗？要去其他星球，你需要修复你的^cyan;FTL引擎^reset;。不过，首先要做的是。制造一台^orange;STL引擎^reset;，这样你就可以探索你所在的星系了。"
+    "value": "欢迎回来，亲爱的。让我们来修理你的飞船吧，好吗？要前往其他星系，你需要修复你的^cyan;FTL引擎^reset;。不过，首先得从基础做起。建造一个^orange;STL引擎^reset;，这样你就能探索你所在的星系了。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "All you need to do is place that ^cyan;FTL Drive^reset; in your ship and you'll be able to travel between stars. Good work, agent!",
-    "value": "只需要把这台^orange;FTL引擎^reset;放在飞船里你就可以进行星际旅行了。干得好，干员！"
+    "value": "你只需将那台^cyan;FTL引擎^reset;安装到飞船上，就能实现星际旅行。干得漂亮，干员！"
   },
   {
     "op": "replace",

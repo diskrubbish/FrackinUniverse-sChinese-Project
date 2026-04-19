@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/text",
     "raw": "I have no idea what this strange alien technology is, but it looks valuable and unique.",
-    "value": "我不知道这种奇怪的外星技术是什么，但它看起来很有价值且独特。"
+    "value": "我对这个奇特的外星科技一无所知，但它看起来既珍贵又独一无二。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "I have no idea what this strange alien technology is, but it looks valuable and unique.",
-    "value": "我不知道这种奇怪的外星技术是什么，但它看起来很有价值且独特。"
+    "value": "我对这个奇特的外星科技一无所知，但它看起来既珍贵又独一无二。"
   }
 ]

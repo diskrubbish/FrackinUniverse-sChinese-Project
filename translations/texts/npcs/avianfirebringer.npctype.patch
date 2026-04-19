@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "raw": "I grew weary of watching my Apex brothers and sisters being tormented at the hands of the Miniknog, so I left.",
-    "value": "我无法忍受目睹科技发展部对我的同胞们折磨，但是我又无能为力，所以我离开了。"
+    "value": "目睹我的猿族同胞们在科技发展部手中饱受折磨，我实在无法忍受，于是选择了离开。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/0",
     "raw": "I grew weary of watching my Apex brothers and sisters  being tormented at the hands of the Miniknog, so I left.",
-    "value": "我无法忍受目睹科技发展部对我的同胞们折磨，但是我又无能为力，所以我离开了。"
+    "value": "看着我的猿族同胞们在科技发展部手中受苦，我实在不忍心再旁观下去，于是选择了离开。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/apex/0",
     "raw": "It makes me happy to see another Apex who has escaped the brutality of the Miniknog.",
-    "value": "我很高兴见到又一位猿族同胞逃脱了科技发展部的残暴统治。"
+    "value": "看到又一位猿族同胞逃离了科技发展部的暴政，我感到由衷的欣慰。"
   }
 ]

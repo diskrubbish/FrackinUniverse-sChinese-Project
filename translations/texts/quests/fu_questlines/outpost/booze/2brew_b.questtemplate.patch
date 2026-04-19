@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "Next, you'll need to make ^orange;Yeast Water^reset;. Use ^orange;Water^reset; and ^orange;Wheat^reset; in the ^orange;Mashing Tun^reset; to make 3 ^orange;Grain Water^reset;. Use ^orange;Sugar^reset; with the ^orange;Grain Water^reset; in the ^orange;Mashing Tun^reset; to make ^orange;Yeast Water^reset;.",
-    "value": "接下来，你需要制作^orange;酵母水^reset;。使用^orange;水^reset;和^orange;小麦^reset;在^orange;糖化桶^reset;里发酵出3份^orange;瓶装酵母^reset;。用^orange;糖^reset;和^orange;瓶装酵母^reset;在^orange;糖化桶^reset;中制作出^orange;酵母水^reset;。"
+    "value": "接下来，你需要制作^orange;酵母水^reset;。在^orange;糖化桶^reset;中使用^orange;水^reset;和^orange;小麦^reset;制作3份^orange;谷物水^reset;。然后在^orange;糖化桶^reset;中将^orange;糖^reset;与^orange;谷物水^reset;混合，即可制成^orange;酵母水^reset;。"
   },
   {
     "op": "replace",

@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "A rather broken and tarnished blade. It bears fine etched details.",
-    "value": "一把破损的、生了锈的剑。它带有精美的蚀刻细节。"
+    "value": "一把相当残破且失去光泽的刀刃，上面刻有精美的蚀刻纹饰。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Broken Densinium Sword",
-    "value": "破损的超致密剑"
+    "value": "破损的坚密钢剑"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "Reforged Densinium Sword",
-    "value": "重铸的超致密剑"
+    "value": "重铸的坚密钢剑"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "An old, tarnished blade now reforged and glowing with an otherworldly light.",
-    "value": "一把古老而失去光泽的刀刃，如今被重铸，闪烁着超凡脱俗的光芒。"
+    "value": "一把古老而黯淡的刀锋，如今重铸后焕发着异世的光芒。"
   }
 ]

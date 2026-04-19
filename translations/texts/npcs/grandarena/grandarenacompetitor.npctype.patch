@@ -3,60 +3,60 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "raw": "I have nothing to sssay to you",
-    "value": "叶族人没有话想和你说说说。"
+    "value": "我没什什什么可对你说说说的。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/floran/default/0",
     "raw": "Remember to eatsss up well before going in!",
-    "value": "记得吃饱了才进进进去！"
+    "value": "进去之前记得好好吃饭！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/floran/default/1",
     "raw": "During the flying monstersss phassse, the ground becomesss treacherousss!",
-    "value": "在飞行类怪怪怪物出现的阶段，地面将会变得危险起来！"
+    "value": "飞行怪物来袭袭袭时，地面将变得危机四四四伏！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/floran/default/2",
     "raw": "The number of torchesss tellsss you how many wavesss remain.",
-    "value": "火炬数量将会告诉你还还还有多少波攻击。"
+    "value": "火炬的数数数量告诉你还有多少波敌人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/floran/default/3",
     "raw": "Monstersss are teleported into arena with magicsss!",
-    "value": "怪物将会被魔魔魔法传送到竞技场内！"
+    "value": "怪物们会被魔法传送送送进竞技场！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/floran/default/4",
     "raw": "Thisss isss a tessst of onessself, we will not ssstab you...today.",
-    "value": "这是对于你的考验，叶族人不会真的捅捅捅你，至少今天不会。"
+    "value": "这是是是对自己的考验，我们今天不会对你动手手手...今天不会。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/floran/default/5",
     "raw": "Even if you sssurvive the lassst wave, you mussst ssstab all enemiesss to win.",
-    "value": "如果你想在生存下来，你必须击败每一波的敌敌敌人。"
+    "value": "即便你撑过了最后一波攻击，也必须消消消灭所有敌人才能获胜胜胜。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/floran/default/6",
     "raw": "Floran ran out of energy lassst time, but remembered to bring ssspear to ssstab!",
-    "value": "叶族人上次在里面耗尽了体力，别忘了再进去前带好刺刺刺。"
+    "value": "叶族人上次能量耗尽，但这次记得带上长矛来刺刺刺！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/floran/default/7",
     "raw": "Floran wasss ssslow in ssstabbing monstersss lassst time. Got ssswamped.",
-    "value": "叶族人上次花了很久时间才刺到那那那只怪物。"
+    "value": "叶族人上上上次打怪时动作太慢，结果被怪物淹没了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/floran/default/8",
     "raw": "Floran likesss rocket launchersss for arena! Hurtsss many enemiesss at once! But also sometimes hurtsss self...",
-    "value": "叶族人非常喜欢竞技场里面的火箭箭箭发射器！它可以一次性攻击很多敌人！不过有时候也会伤到叶族人..."
+    "value": "叶族人喜欢在竞技场用火箭发射射射器！一次能伤伤伤到好多敌人！但有时也会伤伤伤到自己..."
   }
 ]
