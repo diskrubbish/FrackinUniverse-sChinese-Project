@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Zipzap The Astounder",
-    "value": "电棍破坏神"
+    "value": "霹雳惊奇棍"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "2 Zip 2 Furious ^yellow;^reset;",
-    "value": "两棒灭魂^yellow;^reset;"
+    "value": "电棍与激情^yellow;^reset;"
   }
 ]

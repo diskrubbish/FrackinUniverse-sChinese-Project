@@ -9,13 +9,13 @@
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
     "raw": "For making mash.",
-    "value": "用来制作麦芽。"
+    "value": "用于制作麦芽浆。"
   },
   {
     "op": "replace",
     "path": "/paneLayout/btnCraft/caption",
     "raw": "Mash",
-    "value": "麦芽"
+    "value": "糖化"
   },
   {
     "op": "replace",

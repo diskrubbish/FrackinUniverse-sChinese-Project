@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/text",
     "raw": "Bees won't be happy without flowers to pollinate. Get a ^orange;Red Flower^reset; to plant next to your apiary and your bees will get going!",
-    "value": "没有可以授粉的花朵，蜜蜂便会不高兴。找一些^orange;红色的花^reset;种在蜂园旁边，这样蜜蜂就会去采蜜。"
+    "value": "没有花朵授粉，蜜蜂可不会开心。在你的蜂箱旁种上一朵^orange;红花^reset;，你的蜜蜂们就会忙碌起来！"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Pretty much any flower will do, by the way. And be patient. Bees take time to breed, and they only ^green;'do it'^reset; when there are flowers and sun. ^orange;Some plants^reset; are more appealing to certain species.",
-    "value": "多数花朵都可以产蜜，当然，你要有点耐心。蜜蜂要花时间培养，它们只在有花和阳光的时候才^green;采蜜^reset;。^orange;一些植物^reset;对某些种类的蜜蜂更有吸引力。"
+    "value": "顺便说一句，几乎任何花都可以。要有耐心，蜜蜂繁殖需要时间，而且它们只在有花有阳光的时候才会^green;“行动”^reset;。^orange;某些植物^reset;对特定种类的蜜蜂更具吸引力。"
   }
 ]

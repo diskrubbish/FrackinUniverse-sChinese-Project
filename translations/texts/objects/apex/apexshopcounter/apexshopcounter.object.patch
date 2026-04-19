@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "You think YOUR retail job is hell?",
-    "value": "你认为你的零售工作是地狱？"
+    "value": "你觉得你的零售工作就是地狱？"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Shop Counter, Apex Town",
-    "value": "猿人城镇售货柜台"
+    "value": "猿人城镇的售货柜台"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "Apex merchants are punished much more severely for shopthefts under their watch than the thieves themselves.",
-    "value": "在猿人们自己的监视下，猿人商店的商人因盗窃而受到的惩罚要比小偷本人严厉得多。"
+    "value": "猿族商家在监管下发生的店内盗窃，商家所受的惩罚往往比小偷本身更为严厉。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "Apex cashiers seem almost... unnaturally cheery...",
-    "value": "猿人收银员看起来有点...强颜欢笑..."
+    "value": "猿族超市的收银员们看起来异常地...欢快，很不自然。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Monkey merchants' sssmile seems forced.",
-    "value": "猴子商人的笑笑笑容看起来很勉强。"
+    "value": "猴子商人的笑容显得很勉强。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Concerned. I'd ask if the merchant here was alright, but I'm not sure they would give me a straight answer.",
-    "value": "关注。 我想问问这里的商人是否安好，但我不确定他们是否能给我一个直接的答案。"
+    "value": "担心。本想问问这里的商家是否安好，但不确定他们是否会坦诚相告。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "I've never seen an Apex behind one of these that didn't look like they had a gun pressed up against the back of their head.",
-    "value": "我从来没有见过像他们这种看起来像的被枪口压在他们脑勺后面的猿人。"
+    "value": "我从未见过哪个猿人站在这些后面时，看起来不像是有把枪顶在他们后脑勺上。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Apex merchants' wares and smiles are both blatantly plastic.",
-    "value": "猿人商店的商品和微笑都是明显的假料。"
+    "value": "猿族商贩的货品与笑容，都赤裸裸地透着塑料感。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "I don't feel all that comfortable striking up a conversation at this register.",
-    "value": "我觉得在这处收银台聊天不太舒服。"
+    "value": "在这个场合主动开启对话，我总觉得不太自在。"
   }
 ]

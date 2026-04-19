@@ -9,31 +9,31 @@
     "op": "replace",
     "path": "/text",
     "raw": "Perhaps this friendly creature can help me ^green;repair the ship^reset; and get away from this star system. I'll need to work at it either way, using my ^orange;Personal Tricorder^reset; to conduct research whenever I can.",
-    "value": "也许这个友好的生物可以帮助我^green;修理飞船^reset;并摆脱这个恒星系统。无论通过哪种方式，我都需要使用^orange;三度仪^reset;尽我所能进行研究。"
+    "value": "也许这个友好的生物能帮我^green;修复飞船^reset;，离开这个星系。无论如何，我都得尽我所能，一有机会就用我的^orange;个人三度仪^reset;进行研究。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Thanks to ^green;Vinalisj^reset;, you've managed your first steps towards escaping this planet. He asked you to visit a nearby ^orange;Dark Cavern^reset;, which seems to have an ^green;Energy Source^reset; that may prove vital in your repairs.",
-    "value": "感谢^green;维纳利斯^reset;，你已经成功完成了逃离这个星球的第一步。它叫你去探索附近的^orange;黑暗洞穴·^reset;，其中似乎有个^green;能源^reset;，也许对你的维修至关重要。"
+    "value": "多亏了^green;维纳利斯^reset;，你已成功迈出了逃离这个星球的第一步。他建议你去附近的^orange;黑暗洞穴^reset;探索，那里似乎存在一种^green;能量源^reset;，可能对你的修复工作至关重要。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/descriptions/makeFurnace",
     "raw": "Research ^cyan;Geology^reset; and create a ^orange;Furnace^reset;.",
-    "value": "研究^cyan;地质^reset;并制作^orange;熔炉^reset;."
+    "value": "研究^cyan;地质^reset;并制作一台^orange;熔炉^reset;."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/descriptions/makeForaging",
     "raw": "Research ^cyan;Agriculture^reset; and create a ^orange;Foraging Table^reset;.",
-    "value": "研究^cyan;农业^reset;并制作一个^orange;采集工作站^reset;"
+    "value": "研究^cyan;农业^reset;并制作一张^orange;采集工作站^reset;"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/descriptions/makeTable",
     "raw": "Research ^cyan;Engineering^reset; and create a ^orange;Machining Table^reset;.",
-    "value": "研究^cyan;工程^reset;并制作^orange;加工台^reset;"
+    "value": "研究^cyan;工程学^reset;并制作一张^orange;加工台^reset;"
   },
   {
     "op": "replace",

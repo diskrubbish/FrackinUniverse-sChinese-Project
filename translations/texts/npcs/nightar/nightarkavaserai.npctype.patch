@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/1",
     "raw": "Your death comes this day.",
-    "value": "你的死期就在今天。"
+    "value": "你的死期就在今日。"
   },
   {
     "op": "replace",
@@ -21,12 +21,12 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/3",
     "raw": "Honor meets honor. Blood meets blood.",
-    "value": "誉血交织。"
+    "value": "荣耀相会荣耀，鲜血相会鲜血。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/4",
     "raw": "I do as She commands.",
-    "value": "我听从她的命令。"
+    "value": "我遵从她的命令。"
   }
 ]

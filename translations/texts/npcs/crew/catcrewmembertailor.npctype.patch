@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
     "raw": "Meow. I might be a cat, but my fashion sense is as keen as any other's!",
-    "value": "喵。我虽然是一只猫，但是我的时尚感和其他人一样敏锐！"
+    "value": "喵。虽然我可能是只猫，但我的时尚品味可不输给任何人！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
     "raw": "Meow. I might be a cat, but I can still use a needle with my powers! Talk to me when you want to change outfits.",
-    "value": "喵。我虽然是一只猫，但我仍然可以舞针弄线！当你想换衣服的时候告诉我。"
+    "value": "喵。虽然我可能是只猫，但凭借我的能力，用针线也不在话下！想换装时，尽管来找我聊聊吧。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/scriptConfig/crew/role/field",
     "raw": "Fashion",
-    "value": "时尚家"
+    "value": "时尚"
   }
 ]

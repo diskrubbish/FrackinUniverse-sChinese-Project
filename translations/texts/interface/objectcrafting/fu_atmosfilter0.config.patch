@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/gui/lblText/value",
     "raw": "^#b9b5b2;Place augments in slots to apply their effects in range.",
-    "value": "^#b9b5b2;请将EPP插件放入插槽，以在有效范围内应用它们的效果。"
+    "value": "^#b9b5b2;将增强模块放入格子中，使其效果在范围内生效。"
   }
 ]

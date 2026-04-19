@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpme/default/2",
     "raw": "Guards! I've been accosted!",
-    "value": "守卫！我已经事先提醒你了！"
+    "value": "卫兵！有人袭击我！"
   },
   {
     "op": "replace",
@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpme/glitch/2",
     "raw": "Abused. Guards! I've been accosted!",
-    "value": "虐待。 守卫！我已经事先提醒你了！"
+    "value": "虐待。卫兵！有人袭击我！"
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpme/glitch/4",
     "raw": "Terrified. Save me!",
-    "value": "吓坏了。 救救我！"
+    "value": "恐慌。救救我啊！"
   },
   {
     "op": "replace",
@@ -57,7 +57,7 @@
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpme/floran/0",
     "raw": "Ssstabby time for me!",
-    "value": "哈！轮到到到我刺啦"
+    "value": "我要被捅了！"
   },
   {
     "op": "replace",
@@ -105,7 +105,7 @@
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpthem/glitch/3",
     "raw": "Terrified. Save me!",
-    "value": "吓坏了。 救救我！"
+    "value": "恐慌。救救我啊！"
   },
   {
     "op": "replace",
@@ -117,13 +117,13 @@
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpthem/glitch/5",
     "raw": "Righteous. I will write an electronic letter in protest!",
-    "value": "正直。 我会提交一封电子信以示我的抗议！"
+    "value": "正义。我将撰写一封电子抗议信！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/helpthem/floran/0",
     "raw": "Ssstabby time for me!",
-    "value": "哈！轮到到到我刺啦"
+    "value": "我要被捅了！"
   },
   {
     "op": "replace",
@@ -213,78 +213,78 @@
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/encourage/floran/3",
     "raw": "Greenguard destroy it!",
-    "value": "绿叶卫兵，快刺刺刺它！"
+    "value": "绿叶卫兵，快摧毁它！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/default/0",
     "raw": "Phew, I think I got away.",
-    "value": "*反感*，我想我该走了。"
+    "value": "呼，我想我总算脱身了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/default/1",
     "raw": "I've escaped with my life!",
-    "value": "我不想回到以前的日子！"
+    "value": "我侥幸逃过一劫！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/default/2",
     "raw": "Is this the safe zone?",
-    "value": "这里安全吗？"
+    "value": "这里是安全区吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/glitch/0",
     "raw": "Relieved. Phew, I think I got away.",
-    "value": "宽慰。 *反感*，我想我该走了。"
+    "value": "宽慰。呼，我想我总算脱身了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/glitch/1",
     "raw": "Thankful. I've escaped with my life!",
-    "value": "感激。 我不想回到以前的日子！"
+    "value": "感激。我侥幸逃过一劫！ "
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/glitch/2",
     "raw": "Wishful. If only I could afford a keep.",
-    "value": "热切。 如果只有我能承受的话。"
+    "value": "热切。要是我能买得起一座城堡就好了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/glitch/3",
     "raw": "Hopeful. Am I safe?",
-    "value": "充满希望。 我安全了？"
+    "value": "满怀希望。我安全了吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/glitch/4",
     "raw": "Embarrassed. I think I leaked a little oil.",
-    "value": "尴尬。 我想我漏油了。"
+    "value": "尴尬。我想我漏油了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/floran/0",
     "raw": "Floran sssafe now.",
-    "value": "叶族人现在安全全全了。"
+    "value": "叶族人现现现在安全了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/floran/1",
     "raw": "Floran not get ssstabbed after all.",
-    "value": "叶族人再也不不不会被刺到了。"
+    "value": "叶族人终究没有挨那一刀。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/floran/2",
     "raw": "Them lucky Floran not have weapon.",
-    "value": "叶族人正好没有武武武器，他们很走运。"
+    "value": "他们很幸运，叶族人没有武器。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/flee/dialog/safe/floran/3",
     "raw": "Sssalvation!",
-    "value": "得得得救了！"
+    "value": "救赎！"
   }
 ]

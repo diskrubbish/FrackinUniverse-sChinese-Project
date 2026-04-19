@@ -9,30 +9,30 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Solus Katana",
-    "value": "独奏之刃"
+    "value": "阳炎切"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Asra Nox's sword, Now with more Valiantness! And killy Kunais! ...By the way, is it just me or is the color a bit off?",
-    "value": "阿斯拉·诺克斯的剑，现在更具勇武，以及更多致命的苦无！顺带一提，是我的问题还是说它真的有点掉色了？"
+    "value": "阿斯拉·诺克斯的剑，如今更添勇武之气！还有致命的手里剑！...话说回来，是我眼花吗，这颜色是不是有点不对劲？"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "Valiantus Katana",
-    "value": "勇士之刃"
+    "value": "英豪切"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters2/description",
     "raw": "Your constant meddling with Asra's Katana and Essence has changed the blade's color to purple! Oh, and it's far more killy too.",
-    "value": "与远古精华的长期接触使阿斯拉的剑变成了紫色！它变得更加致命了！"
+    "value": "你总是摆弄阿斯拉的武士刀和远古精华，现在刀身都变成紫色了！而且，它的杀伤力也大大增强了。"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters2/shortdescription",
     "raw": "Essenus Katana",
-    "value": "原质之刃"
+    "value": "原质切"
   }
 ]

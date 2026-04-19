@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "So you now have a ^orange;Hand Mill^reset; or ^orange;Extraction Lab^reset;, but aren't sure what to do with it? It's simple, really. Go place it somewhere, and toss a bunch of ^green;logs^reset; in there. 10 should do. Create 10 ^orange;Methanol^reset; with them.",
-    "value": "所以，你现在有^orange;物质萃取器^reset;或^orange;研磨机^reset;，但不确定能用它来干嘛？其实很简单。把它放置在某地，扔大概10个^green;原木^reset;到里面。用它们制造10份^orange;甲醇^reset;。"
+    "value": "现在你有了^orange;研磨机^reset;或^orange;物质萃取器^reset;，却不确定如何使用？其实很简单。找个地方放置它，然后往里面投入一堆^green;原^reset;，大约10根就够了。用它们来制造10份^orange;甲醇^reset;吧。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "That, my friend, is how you make ^orange;Methanol^reset; from scratch. Now let's move on to ^orange;Cobblestone^reset;! ",
-    "value": "那么，我的朋友, 这就是如何制造^orange;甲醇^reset;的方法。现在我们试试往里面扔^orange;鹅卵石^reset;！"
+    "value": "朋友，这就是从零开始制造^orange;甲醇^reset;的方法。接下来，让我们把目光转到^orange;鹅卵石^reset;！"
   }
 ]

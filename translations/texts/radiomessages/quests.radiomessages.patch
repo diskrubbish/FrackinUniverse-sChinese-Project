@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/gaterepair-findGate/text",
     "raw": "My scans indicate there is some kind of ^orange;Welcome Beacon^reset; on this planet. I estimate a ^green;82% chance that it is worth investigating^reset;, and a 98% chance that you have nothing better to do.",
-    "value": "我的扫描显示在这个星球上有某种^orange;欢迎信标^reset;我估计有^green;82%的可能性值得调查^reset;，还有98% 的可能性是你没有更好的事情可做。"
+    "value": "我的扫描显示，这颗星球上存在某种^orange;欢迎信标^reset;。据我估算，有82%的概率^green;值得前去探查^reset;，而你有98%的概率没有其他更值得做的事。"
   },
   {
     "op": "replace",
@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/gaterepair-gateFound1/text",
     "raw": "^orange;Welcome^reset; to my Mobile Lab, traveller! Come on in and visit! I've got a big comfy couch and a medical bay if you have any nasty injuries to heal up!",
-    "value": "^orange;欢迎^reset;来到我的移动实验室，旅行者！欢迎光临！如果你有任何讨厌的伤口需要愈合，我这有张舒适的大沙发和一间医疗舱！"
+    "value": "^orange;欢迎^reset;来到我的移动实验室，旅行者！快进来参观吧！这里有宽敞舒适的沙发，如果您受了什么严重的伤需要治疗，还有医疗舱可以帮你恢复！"
   },
   {
     "op": "replace",
     "path": "/gaterepair-gateFound1b/text",
     "raw": "If you've picked up this message, you must be near an ^orange;Ancient Gateway^reset; - please activate it to come and find me. ^green;You can power up the Gate with ^orange;Core Fragments^reset; and a ^orange;Tricorder^reset;.",
-    "value": "如果你收到了这条信息，那么你一定是在^orange;古代传送门^reset;附近——请启动它来找到我。^green;你可以用^orange;星核碎片^reset;和^orange;一个三度仪^reset;来激活传送门。"
+    "value": "如果你收到了这条信息，说明你正身处一座^orange;远古传送门^reset;附近 - 请启动它来找我。^green;你可以使用^orange;星核碎片^reset;和^orange;三度仪^reset;为传送门充能"
   },
   {
     "op": "replace",
@@ -33,6 +33,6 @@
     "op": "replace",
     "path": "/gaterepair-gateFound2/text",
     "raw": "In order to fix your ship you'll need to complete ^orange;several tasks^reset;. ^green;Speak to me^reset; to begin.",
-    "value": "为了修好你的飞船，你需要完成^orange;几个任务^reset;。^green;和我对话^reset;来接取任务。"
+    "value": "为了修复你的飞船，你需要完成^orange;几项任务^reset;。^green;跟我对话^reset;来开始吧。"
   }
 ]

@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/strings/research/default/1",
     "raw": "Select a research by clicking one of the icons on the grid.\nYou can navigate the grid by dragging with the left mouse button.\n\n- The left most button at the upper part of the screen opens a list of research trees to pick from.\n\n- The second button opens a list of non-hidden research options. Click a research on the displayed to center the view on it. Click again to hide the list.\n\n- The third button will center the view on the middle of the tree, or the currently selected research.\n\n- The last button toggles ^orange;low quality mode^reset;. This makes the GUI jump to a position instead of panning to it, or the center button. In addition, dragging/navigating on the the main screen will update only after you release the mouse button. It is best to use the search list with this mode enabled.",
-    "value": "通过点击网格上的一个图标来选择一项研究。\n您可以通过用鼠标左键拖动来导航网格。\n\n-屏幕上方最左边的按钮会打开一个可供选择的研究树列表。\n-第二个按钮会打开一个非隐藏的搜索选项列表。点击显示列表中的一项研究，可以将该项研究的图标置于中心位置。再次点击按钮来隐藏列表。\n-第三个按钮将把视图置于科技树的中央，或者是当前选择的研究项目。\n-最后一个按钮能够开关^orange;低质量模式^reset;，这将使GUI直接跳转到一个位置，而不是通过搜索列表或中心按钮播放平移动画。此外，在主屏幕上拖动和导航只有在释放鼠标按钮后才会更新。最好在启用此模式的情行下使用搜索列表。"
+    "value": "通过点击网格上的图标来选择一项研究。\n您可以通过按住鼠标左键拖动来导航网格。\n\n- 屏幕顶部最左侧的按钮用于打开可供选择的研究树列表。\n\n- 第二个按钮用于打开非隐藏的研究选项列表。点击列表中显示的研究项，可将视图居中定位到该研究的图标上。再次点击该按钮可隐藏列表。\n\n- 第三个按钮用于将视图居中定位到科技树的中心，或者当前选中的研究项目上。\n\n- 最后一个按钮用于切换 ^orange;低质量模式^reset;。此模式下，界面将直接跳转到目标位置，而非通过平移动画（搜索列表或居中按钮触发的动画）移动。此外，在主屏幕上的拖动导航操作，仅在释放鼠标按钮后才会更新视图。建议在此模式下使用搜索列表功能。"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
     "op": "replace",
     "path": "/strings/research/survival_1/1",
     "raw": "^orange;Tier 1^reset;\n\nYour training, thanks to four years in the Protectorate Academy, provides you with basic survival skills to keep you alive for extended periods in the event of a crash.",
-    "value": "^orange;1级^reset;\n\n你在大地守护团学院的四年训练，为你提供了基本的生存技能，使你在碰撞事故中能够长时间存活。"
+    "value": "^orange;1级^reset;\n\n得益于在守护团学院的四年学习，您所受的训练为你提供了基本的生存技能，确保在发生坠机等意外时能够长时间维持生命。"
   },
   {
     "op": "replace",
@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/strings/research/irongear/1",
     "raw": "^orange;Tier 1^reset;\n\nYou've learned the basics of making weapons and armor. You can now create an ^orange;Armorworks^reset; at your ^orange;Machining Table^reset; where you can create a huge variety of EPPs, armor, and weapons out of many materials. There, you can now make a variety of basic armor and equipment out of simple metals like iron.\n\n^yellow;Note^reset;: While the old Anvil is still available, it has essentially been superseded by the Armorworks in function. You no longer really have a reason to make one.",
-    "value": "^orange;1级^reset;\n\n你已经学会了制造武器和盔甲的基本知识。你现在可以在你的^orange;加工台^reset;处制作^orange;军备作坊^reset;，在军备作坊处你可以用很多材料制造各种各样的EPP、盔甲和武器。现在，你可以用简单金属，如铁，制造各种基本的盔甲和装备。\n\n^yellow;注意^reset;: 虽然旧的铁砧仍然可用，但它在功能上基本上已经被军备作坊所取代。你已经没理由去做铁砧了。"
+    "value": "^orange;1级^reset;\n\n您已经掌握了制作武器和盔甲的基础知识。现在，您可以在^orange;加工台^reset;处制造一座^orange;军备作坊^reset;，在那里您可以用多种材料制作各式各样的EPP、盔甲和武器。目前，您可以使用铁等简单金属制造多种基础护甲和装备。\n\n^yellow;注意^reset;：虽然旧式铁砧仍然可用，但其功能基本上已被军备作坊所取代。现在你已没有太多理由再去制作一块铁砧了。"
   },
   {
     "op": "replace",
@@ -51,7 +51,7 @@
     "op": "replace",
     "path": "/strings/research/bonegear/1",
     "raw": "^orange;Tier 1^reset;\n\nFashioning weapons and armor out of bone is pretty simple, at least compared to metalworking. You can now carve a variety of useful bone-based equipment ^green;by hand [C]^reset;. They might be primitive compared to metal, but they sure beat sticks and stones.",
-    "value": "^orange;1级^reset;\n\n用骨头制造武器和盔甲相当简单，至少相比金属加工来说。你现在可以用^green;手工 [C]键^reset;雕刻各种有用的骨制装备。它们可能不如金属强力，但肯定比棍子和石头强。"
+    "value": "^orange;1级^reset;\n\n用骨头制作武器和盔甲相当简单，至少与金属加工相比是如此。现在，你可以^green;手工 [C]^reset;雕刻出多种实用的骨制装备。虽然与金属制品相比可能显得原始，但它们绝对胜过木棍和石头。"
   },
   {
     "op": "replace",
@@ -63,7 +63,7 @@
     "op": "replace",
     "path": "/strings/research/telebriumgear/1",
     "raw": "^orange;Tier 2^reset;\n\nYou've learned how best to utilize Telebrium in the creation of lightweight, poison-themed weapons and armor.",
-    "value": "^orange;2级^reset;\n\n你已经学会了如何最好地利用特勒贝矿来创造轻量级，以毒为主题的武器和盔甲。"
+    "value": "^orange;2级^reset;\n\n您已经掌握了如何最有效地运用特勒贝晶体来打造轻便且带有毒素主题的武器与护甲。"
   },
   {
     "op": "replace",
@@ -75,43 +75,43 @@
     "op": "replace",
     "path": "/strings/research/lunarigear/1",
     "raw": "^orange;Tier 2^reset;\n\nNow that you can forge Lunari into a usuable form, you can weaponize it. You can now create a large amount of Lunari-based gear.",
-    "value": "^orange;2级^reset;\n\n现在你可以把月晶锻造成一种堪用的形式，你可以将其武器化。你现在可以制造大量基于月晶的装备。"
+    "value": "^orange;2级^reset;\n\n既然您已经能够将月晶锻造成可用的形态，现在便可以将其武器化。如今，您可以制造大量基于月晶的装备了。"
   },
   {
     "op": "replace",
     "path": "/strings/research/cottongear/0",
     "raw": "Cotton-based Armors",
-    "value": "棉质盔甲"
+    "value": "棉质护甲"
   },
   {
     "op": "replace",
     "path": "/strings/research/cottongear/1",
     "raw": "^orange;Tier 2^reset;\n\nYou've learned how to best apply cotton and plastic polymers in the creation of comfortable and useful armor that will be quite helpful when you're in atmosphere.",
-    "value": "^orange;2级^reset;\n\n你已经学会了如何最好地应用棉花和塑料聚合物来制造舒适实用的盔甲，当你在大气层中的时候会非常有帮助。"
+    "value": "^orange;2级^reset;\n\n您已经掌握了如何最佳地运用棉质与塑料聚合物来打造既舒适又实用的护甲，这在大气层内活动时将大有裨益。"
   },
   {
     "op": "replace",
     "path": "/strings/research/silkgear/0",
     "raw": "Silk-based Armors",
-    "value": "丝质铠甲"
+    "value": "丝质护甲"
   },
   {
     "op": "replace",
     "path": "/strings/research/silkgear/1",
     "raw": "^orange;Tier 3^reset;\n\nUsing your knowledge of complex weaving, you can create more powerful textile-based armors that are both practical and fashionable using silk and similar-quality fibres.",
-    "value": "^orange;3级^reset;\n\n利用你对复杂织造的知识，你可以使用丝和类似质量的纤维创造更强大的织物盔甲，既实用又时尚。"
+    "value": "^orange;3级^reset;\n\n运用你对复杂编织工艺的了解，您可以使用丝绸及类似品质的纤维，制作出既实用又时尚、防护性能更强的纺织类护甲。"
   },
   {
     "op": "replace",
     "path": "/strings/research/monsterplategear/0",
     "raw": "Advanced Woven Armors",
-    "value": "高级编织盔甲"
+    "value": "高级编织护甲"
   },
   {
     "op": "replace",
     "path": "/strings/research/monsterplategear/1",
     "raw": "^orange;Tier 4^reset;\n\nYour skill in weaving is matched by few. You can make the best non-metallic armors available and have also learned to work with monster plating to create powerful organic armor.",
-    "value": "^orange;4级^reset;\n\n你的织布技术世间无人能及。你可以制造最好的非金属盔甲，也学会用怪物的材料制造强大的有机盔甲。"
+    "value": "^orange;4级^reset;\n\n您的编织技艺鲜有人能及。您不仅能制作出最顶级的非金属护甲，还学会了利用怪物甲壳打造强大的有机护甲。"
   },
   {
     "op": "replace",
@@ -123,7 +123,7 @@
     "op": "replace",
     "path": "/strings/research/tungstengear/1",
     "raw": "^orange;Tier 2^reset;\n\nYou've learned to work Tungsten like steel in the creation of more advanced forged weapons, armors, and the especially useful ^orange;Breathing EPP^reset;. Besides being generally quite durable when forged correctly, Tungsten also has the heat tolerance to start making useful energy weapons.",
-    "value": "^orange;2级^reset;\n\n你已经学会了用钨钢制造更先进的钨制武器，盔甲和特别有用的^orange;呼吸EPP^reset;。除了正确锻造后的持久，钨也有热耐受性能用来制造有用的入门级能量武器。"
+    "value": "^orange;2级^reset;\n\n在打造更高级的锻造武器、护甲以及特别实用的^orange;呼吸EPP^reset;时，你已学会像处理钢铁一样驾驭钨。除了在正确锻造后具备出色的耐用性外，钨还拥有良好的耐热性，足以开始制造实用的能量武器。"
   },
   {
     "op": "replace",
@@ -135,7 +135,7 @@
     "op": "replace",
     "path": "/strings/research/titaniumgear/1",
     "raw": "^orange;Tier 3^reset;\n\nNot too heavy and very resistant to damage, Titanium sees use in all sorts of weapons and armor which are now available for your creation. You can make a variety of weapons and armor that are better than Tungsten.",
-    "value": "^orange;3级^reset;\n\n轻巧而对伤害的抵抗力很强，钛可以用在各种各样的武器和盔甲上，现在你可以使用钛制造装备了。你可以制造各种比钨质更好的武器和盔甲。"
+    "value": "^orange;3级^reset;\n\n钛金属不仅重量适中，且极其耐损，因此被广泛应用于各类武器和护甲的制造中，现在您也可以用它来打造装备了。您可以制作出比钨制品更出色的多种武器和护甲。"
   },
   {
     "op": "replace",
@@ -147,7 +147,7 @@
     "op": "replace",
     "path": "/strings/research/carbonarmorgear/1",
     "raw": "^orange;Tier 3^reset;\n\nWhen worked properly, Carbon is extremely durable, resistant to elements and very lightweight. You've learned to apply it to the creation of powerful armors. As your skill with weaponmaking grows, Carbon Plating will be the basis of many weapons and armor down the line. It pairs especially well with ^orange;Zerchesium^reset; ore, forming a solid and nearly indestructible cutting edge.",
-    "value": "^orange;3级^reset;\n\n只要加工得当，碳非常耐用，耐元素且非常轻便。你已经学会了应用碳板来制造强大的盔甲。随着你武器制造技能的增长，碳板将成为许多武器和装甲的基础。"
+    "value": "^orange;3级^reset;\n\n当正确加工时，碳材料极其耐用，能抵抗各种环境侵蚀，且非常轻便。您已学会将其用于制造强大的护甲。随着武器锻造技能的提升，碳板将成为未来众多武器和护甲的基础材料。它与^orange;极熔金^reset;尤其相配，能形成坚固且几乎无法摧毁的锋利刃口。"
   },
   {
     "op": "replace",
@@ -159,7 +159,7 @@
     "op": "replace",
     "path": "/strings/research/wastelandgear/1",
     "raw": "^orange;Tier 3^reset;\n\nYou've learned to make potent equipment out of junk - a helpful skill to know if you're ever marooned on a post-apocalyptic planet. If you've a fondness for rusty nails and scrap metal, these are the weapons for you.",
-    "value": "^orange;3级^reset;\n\n您已经学会了用垃圾制造强大的装备 - 这是一项有用的技能，可帮助您在末世废土上大放异彩。 如果您喜欢生锈的钉子和废金属，这些都是适合您的武器。"
+    "value": "^orange;3级^reset;\n\n您已学会如何将废料打造成强力装备 - 若不幸流落于末日后的星球，这无疑是一项宝贵的求生技能。如果您对锈蚀的铁钉与废弃金属情有独钟，这些武器正是为您量身打造。"
   },
   {
     "op": "replace",
@@ -171,7 +171,7 @@
     "op": "replace",
     "path": "/strings/research/penumbritegear/1",
     "raw": "^orange;Tier 3^reset;\n\nPenumbrite is a potent metal that holds a sharp edge better than Titanium, making it ideal in many weapons. It alloys with Silver especially well, creating a unique style of weapon that deals damage that is resisted by only a few creatures.",
-    "value": "^orange;3级^reset;\n\n半影是一种强有力的金属，具有比钛更好的锋利边缘，使其成为许多武器的理想选择。它与银的合金效果特别好，能制作一种独特的武器，造成只有少数生物能够抵抗的伤害。"
+    "value": "^orange;3级^reset;\n\n半影石是一种强效金属，其保持锋利边缘的能力优于钛，因此在众多武器中备受青睐。它与银的合金化尤为出色，能打造出独特风格的武器，其造成的伤害仅有少数生物能够抵抗。"
   },
   {
     "op": "replace",
@@ -183,7 +183,7 @@
     "op": "replace",
     "path": "/strings/research/protocitegear/1",
     "raw": "^orange;Tier 3^reset;\n\nAlthough Protocite conducts energy well, it is a bit too soft to make melee weapons. Still, it is fantastic as a compliment to ranged weapons and certain armors, which you can now create.",
-    "value": "^orange;3级^reset;\n\n虽然原体草料能很好地传导能量，但是对于近战武器有点太软了。尽管如此，其用在可制造的远程武器和某些盔甲上很棒。"
+    "value": "^orange;3级^reset;\n\n尽管原体石传导能量的性能出色，但其质地偏软，不太适合制作近战武器。不过，作为远程武器和某些护甲的辅助材料，它表现卓越，现在您已能利用它进行制作。"
   },
   {
     "op": "replace",
@@ -195,7 +195,7 @@
     "op": "replace",
     "path": "/strings/research/zerchesiumgear/1",
     "raw": "^orange;Tier 3^reset;\n\nIn terms of weaponmaking, Zerchesium takes the best parts of Tungsten and takes them to the extreme. Durable and super heat resistant, it can be used in the creation of a huge amount of potent weapons and armor.",
-    "value": "^orange;3级^reset;\n\n在武器制造方面，极熔金采用了钨的最好的部分，并把优点提升到了极致。其耐用且超耐热，可用于制造大量的强力武器和盔甲。"
+    "value": "^orange;3级^reset;\n\n在武器制造领域，极熔金汲取了钨的精华，并将其性能推向极致。它不仅极其耐用，还具备卓越的耐高温特性，因此被广泛用于打造大量威力强大的武器和坚固的护甲。"
   },
   {
     "op": "replace",
@@ -207,7 +207,7 @@
     "op": "replace",
     "path": "/strings/research/advancealloygear/1",
     "raw": "^orange;Tier 4^reset;\n\nAdvanced Alloy takes all the best parts of its components and combines them together into one metal. While its weapons and armor tend to be rather bulky, they are fantastic when put to test in combat.",
-    "value": "^orange;4级^reset;\n\n高级合金取众家之长，并去其糟泊。虽然用它制造的武器和装甲往往相当笨重，但在战斗中进行测试时却表现出色。"
+    "value": "^orange;4级^reset;\n\n高级合金是一种汲取了其构成元素的所有精华融合而成的独特金属。尽管用它打造的武器和盔甲往往显得颇为厚重，但在实战中经受考验时，其卓越性能令人惊叹。"
   },
   {
     "op": "replace",
@@ -219,43 +219,43 @@
     "op": "replace",
     "path": "/strings/research/durasteelgear/1",
     "raw": "^orange;Tier 4^reset;\n\nDurasteel is known to be tailor-made for use in a vacuum because of its amazing ability to smooth dents and cuts, assuming anything is strong enough to scratch it. Unsurprisingly, it is a great metal to make armor and weapons out of - something you now have the skill to do after much painstaking practice with 'easier' metals.",
-    "value": "^orange;4级^reset;\n\n众所周知，耐钢简直是为真空环境量身定做的，因为就算假设油东西能足够强大到可以划伤它，它也还是有着惊人的抗划抗破的能力。不出所料，它是一种很好的金属，可以用来制造盔甲和武器 - 你可以用“更容易锻造”的金属进行艰苦的练习。"
+    "value": "^orange;4级^reset;\n\n耐钢因其卓越的修复划痕和凹痕的能力而闻名，特别适合在真空环境中使用，前提是有足够强大的物体能够对其造成损伤。毫不意外，这是一种制造护甲和武器的绝佳金属。经过对“较软”金属的刻苦练习，您现在已掌握了用耐钢打造装备的技艺。"
   },
   {
     "op": "replace",
     "path": "/strings/research/triangliumgear/0",
     "raw": "Trianglium Equipment",
-    "value": "原力装备"
+    "value": "三角铱装备"
   },
   {
     "op": "replace",
     "path": "/strings/research/triangliumgear/1",
     "raw": "^orange;Tier 4^reset;\n\nThe natural tendency of Trianglium to form into triangles no matter the circumstance means that it can be used in some very pointy implements. It is also a critical material in handling atomic and subatomic particles, so it's great in energy weapons as well.",
-    "value": "^orange;4级^reset;\n\n原力矿无论在什么情况下都会自然地形成三角形，这意味着它可以用在一些非常尖锐的工具上。它也是处理原子和亚原子粒子的关键材料，因此在能量武器方面也很重要。"
+    "value": "^orange;4级^reset;\n\n无论何种环境下，三角铱都能自然形成三角形结构，这一特性使其非常适合用于制造尖锐的工具。同时，它也是处理原子及亚原子粒子的关键材料，因此在能量武器领域同样表现出色。"
   },
   {
     "op": "replace",
     "path": "/strings/research/prisilitegear/0",
     "raw": "Prisilite Equipment",
-    "value": "棱镜之星装备"
+    "value": "棱镜晶装备"
   },
   {
     "op": "replace",
     "path": "/strings/research/prisilitegear/1",
     "raw": "^orange;Tier 4^reset;\n\nFavored by lovers of all things cute for its sparkly, neon appearance, Prisilite is nontheless a very handy crystal in making combat equipment. The sparkling might even be a bonus if you're so inclined!",
-    "value": "^orange;4级^reset;\n\n由于其闪闪发光的霓虹灯外观，受到所有可爱东西的爱好者的青睐，棱镜之星在制造战斗装备方面性能优异。如果你愿意的话，那就用它变成闪光少女吧！"
+    "value": "^orange;4级^reset;\n\n棱镜晶以其闪亮霓虹般的外观深受可爱事物爱好者的青睐，然而在制作战斗装备时，它却是一种极为实用的水晶。若您恰好偏爱这种闪耀特质，那更是锦上添花！"
   },
   {
     "op": "replace",
     "path": "/strings/research/irradiumgear/0",
     "raw": "Irradium Equipment",
-    "value": "镭制装备"
+    "value": "铱射钢装备"
   },
   {
     "op": "replace",
     "path": "/strings/research/irradiumgear/1",
     "raw": "^orange;Tier 4^reset;\n\nNot only is Irradium far more durable than common isotopes, but its radiation can, uniquely, be contained to an extent. When treated correctly, Irradium will only undergo its deadly radioactive decay when pressure is applied to it, allowing for the creation of weapons that 'discharge' when striking foes but won't slowly fizzle out when stored. It's all around a great way to give your foes cancer in their last moments before death.",
-    "value": "^orange;4级^reset;\n\n镭不仅比普通同位素更耐用，而且独特的是它的辐射能够在一定程度上得到控制。如果处理得当，只有在施加压力的情况下，镭才会体现致命的放射性，这样就可以制造出在毁灭敌人时可以发射的武器，储存起来也不会慢慢失效。用放射性的力量让你的敌人终结于癌症中吧！"
+    "value": "^orange;4级^reset;\n\n铱射钢不仅远比普通同位素更为坚固，其辐射还具备独特的可控性。经过适当处理后，铱射钢只有在受到压力时才会触发致命的放射性衰变，这使得制造出的武器能在击中敌人时\"释放\"辐射，而在储存期间不会缓慢衰减。这是一种绝佳的方式，能在敌人临终前的最后一刻，让他们患上癌症。"
   },
   {
     "op": "replace",
@@ -267,43 +267,43 @@
     "op": "replace",
     "path": "/strings/research/tritaniumgear/1",
     "raw": "^orange;Tier 5^reset;\n\nEven more durable than its constituent Durasteel, Tritanium is very light, very durable, and very resistant to hostile environments. Armor made from Tritanium is among the most readily available source of protection from the ^red;lethal pressure^reset; within gas giants, while its weapons are reliable and very destructive.",
-    "value": "^orange;5级^reset;\n\n从组成层面上甚至比耐钢更耐用，三相合金非常轻便耐用，且抵抗极端恶劣环境。三相合金制造的装甲让人安心，可以抵御气态巨行星内部的致命压力，而用它制造的武器同样可靠，具有强大的破坏力。"
+    "value": "^orange;5级^reset;\n\n比其构成材料耐钢更为坚固，三相合金不仅极其轻盈、耐用，还对恶劣环境有着卓越的抵抗力。由三相合金制成的护甲，是抵御气态巨行星内部^red;致命压力^reset;最为便捷的防护装备之一，而其打造的武器则兼具可靠性与强大破坏力。"
   },
   {
     "op": "replace",
     "path": "/strings/research/kirhosgear/0",
     "raw": "Kirhosi Weapons",
-    "value": "鼠人武器"
+    "value": "鼠族武器"
   },
   {
     "op": "replace",
     "path": "/strings/research/kirhosgear/1",
     "raw": "^orange;Tier 2^reset;\n\nYou've learned the Kirhos style of weaponmaking - raw power over all else is their philosophy. Kirhos energy guns are very powerful, but prone to overheating.",
-    "value": "^orange;2级^reset;\n\n你已经学会了鼠人的武器制造风格 - 一力破万技是他们的哲学。鼠人的能量枪非常强大，但容易过热。"
+    "value": "^orange;2级^reset;\n\n您已习得鼠族的武器锻造技艺 - 他们的理念是纯粹的力量胜过一切。鼠族的能量枪威力巨大，但容易过热。"
   },
   {
     "op": "replace",
     "path": "/strings/research/elduugear/0",
     "raw": "Elduu Weapons",
-    "value": "厄休安武器"
+    "value": "晶龙族武器"
   },
   {
     "op": "replace",
     "path": "/strings/research/elduugear/1",
     "raw": "^orange;Tier 2^reset;\n\nThe Elduu race use crystals for most everything. Gleaming and beautiful. You've learned to mimic that style and can make such weapons on your own.",
-    "value": "^orange;2级^reset;\n\n厄休安龙人几乎所有的东西都会使用水晶。闪闪发光，引人入迷。你已经学会了模仿这种风格，并且可以自己制造这种武器。"
+    "value": "^orange;2级^reset;\n\n晶龙族几乎在所有事物上都使用水晶，它们闪耀而美丽。您已经学会了模仿这种风格，能够独立制作出类似的武器。"
   },
   {
     "op": "replace",
     "path": "/strings/research/veluuishgear/0",
     "raw": "Vel'uuish Weapons",
-    "value": "灵猫武器"
+    "value": "灵猫族武器"
   },
   {
     "op": "replace",
     "path": "/strings/research/veluuishgear/1",
     "raw": "^orange;Tier 2^reset;\n\nThe Vel'uuish race alloys gold with Duskiline crystals, creating heavy but surprisingly durable weaponry. You've learned to mimic that style and can make such weapons on your own.",
-    "value": "^orange;2级^reset;\n\n灵猫族用黄金和薄暮水晶组成的特色合金，制造出重型但耐用的武器。你已经学会了模仿这种风格，并且可以自己制造这种武器。"
+    "value": "^orange;2级^reset;\n\n灵猫族将黄金与暮光水晶融合，打造出沉重却异常坚韧的武器。您已学会模仿这种工艺，现在能够独立制作此类兵器。"
   },
   {
     "op": "replace",
@@ -315,7 +315,7 @@
     "op": "replace",
     "path": "/strings/research/skathgear/1",
     "raw": "^orange;Tier 2^reset;\n\nThe Skath were almost rendered extinct thanks to a long-forgotten enemy, and it has shaped their culture ever since. Skath are quite adept with weaponry, especially plasma.",
-    "value": "^orange;2级^reset;\n\n由于被世界所遗忘的敌人，海鳞族几近灭绝，从那时起，灾难就塑造了他们的文化。海鳞族擅长制造武器装备，尤其是等离子武器。"
+    "value": "^orange;2级^reset;\n\n海鳞族曾因一支被遗忘已久的敌人而几近灭绝，这一历史深刻塑造了他们的文化。海鳞族在武器运用上极为娴熟，尤其擅长等离子武器的使用。"
   },
   {
     "op": "replace",
@@ -327,7 +327,7 @@
     "op": "replace",
     "path": "/strings/research/quietusgear/1",
     "raw": "^orange;Tier 4^reset;\n\nQuietus metal is a strange, highly poisonous substance that almost seems to be alive, somehow. Few metals hold a sharp edge like Quietus, making it great in melee weapons. It's also quite potent in armors and ballistic weapons.",
-    "value": "^orange;4级^reset;\n\n寂灭金属是一种奇怪的、剧毒的物质，不知何故，它看起来几乎是活的。很少有金属拥有像寂灭金属一样锋利的边缘，这使其在近战武器中非常出色。它也能用于制造相当强大的盔甲和远程武器。"
+    "value": "^orange;4级^reset;\n\n寂灭金属是一种奇特且剧毒的物质，仿佛拥有生命一般。很少有金属能像寂灭金属那样保持锋利的刃口，这使其成为近战武器的绝佳材料。同时，它在护甲和弹道武器中也表现出极强的效力。"
   },
   {
     "op": "replace",
@@ -339,7 +339,7 @@
     "op": "replace",
     "path": "/strings/research/bioweaponsgear/1",
     "raw": "^orange;Tier 4^reset;\n\nBy applying your knowledge of biology to weapon creation, you've made a variety of weapons that don't just seem to be alive, but are definitely living, breathing murder devices. Though dubiously legal, they are excellent for killing stuff.",
-    "value": "^orange;4级^reset;\n\n通过将你的生物学知识应用到武器制造中，你已经制造出了各种各样的武器，它们不仅看起来是活的，世界上也绝对是能呼吸的活体谋杀装置。虽然它们的合法性值得怀疑，但它们确实是杀戮的好工具。"
+    "value": "^orange;4级^reset;\n\n运用您的生物学知识来制造武器，您创造出了各式各样的装备，它们不仅看起来栩栩如生，更是真正有生命、会呼吸的杀戮工具。尽管其合法性存疑，但在消灭目标方面，它们的效果堪称卓越。"
   },
   {
     "op": "replace",
@@ -357,25 +357,25 @@
     "op": "replace",
     "path": "/strings/research/violiumgear/0",
     "raw": "Violium Equipment",
-    "value": "维奥装备"
+    "value": "维奥合金装备"
   },
   {
     "op": "replace",
     "path": "/strings/research/violiumgear/1",
     "raw": "^orange;Tier 5^reset;\n\nYou've learned to work with the potent crystal Violium to create fantastic weapons and armor.",
-    "value": "^orange;5级^reset;\n\n你已经学会加工强力的维奥晶体，用其制造奇妙的武器和盔甲。"
+    "value": "^orange;5级^reset;\n\n你已学会运用强大的晶态维奥合金，打造出非凡的武器与盔甲。"
   },
   {
     "op": "replace",
     "path": "/strings/research/feroziumgear/0",
     "raw": "Ferozium Equipment",
-    "value": "菲洛装备"
+    "value": "菲洛合金装备"
   },
   {
     "op": "replace",
     "path": "/strings/research/feroziumgear/1",
     "raw": "^orange;Tier 5^reset;\n\nYou've learned to work with the potent crystal Ferozium to create fantastic weapons and armor.",
-    "value": "^orange;5级^reset;\n\n你已经学会加工强力的菲洛晶体，用其制造奇妙的武器和盔甲。"
+    "value": "^orange;5级^reset;\n\n你已学会运用强大的晶态菲洛合金，打造出非凡的武器与盔甲。"
   },
   {
     "op": "replace",
@@ -387,43 +387,43 @@
     "op": "replace",
     "path": "/strings/research/densealloygear/1",
     "raw": "^orange;Tier 5^reset;\n\nNow that you've learned to alloy Aegisalt, Violium and Ferozium, you can put that alloy to work in armor and weapons that surpass its component crystals by a wide margin. Though very heavy, Dense Alloy equipment is among the best.",
-    "value": "^orange;5级^reset;\n\n现在你已经学会了将霓磷盐，维奥矿和菲洛矿做成合金，你可以把这种合金用在在装甲和武器上，其性能远超组成合金的晶体。虽然非常重，致密合金装备确实是不二之选。"
+    "value": "^orange;5级^reset;\n\n既然您已经掌握了将维奥合金、菲洛合金与霓磷盐合金化的技艺，现在便可将这种合金用于锻造远超单一晶体性能的护甲与武器。致密合金装备虽然极为沉重，但其卓越性能堪称顶级之选。"
   },
   {
     "op": "replace",
     "path": "/strings/research/effigiumgear/0",
     "raw": "Effigium Equipment",
-    "value": "幻影装备"
+    "value": "幻影钢装备"
   },
   {
     "op": "replace",
     "path": "/strings/research/effigiumgear/1",
     "raw": "^orange;Tier 5^reset;\n\nEffigium is strange and hard to forge because of its tendency to phase in and out of existence, but it is one of the few sources of the deadly Shadow element. With your skill, you can handle it with ease, putting it to use in some quite fearsome weaponry.",
-    "value": "^orange;5级^reset;\n\n因为其在相位与存在间摇摆不定的趋势，幻影矿奇异且难以伪造，但它是致命的暗影元素的少数来源之一。凭借你的技能，你可以轻而易举地操作它，将它用在一些相当可怕的武器上。"
+    "value": "^orange;5级^reset;\n\n幻影钢因其存在状态时隐时现的特性而显得奇异且难以锻造，但它却是少数几种蕴含致命暗影元素的来源之一。凭借您的技艺，您可以轻松驾驭它，将其用于制造一些相当骇人的武器。"
   },
   {
     "op": "replace",
     "path": "/strings/research/solariumgear/0",
     "raw": "Solarium Equipment",
-    "value": "日耀矿装备"
+    "value": "日耀石装备"
   },
   {
     "op": "replace",
     "path": "/strings/research/solariumgear/1",
     "raw": "^orange;Tier 6^reset;\n\nSolarium is one of the few things known to the galaxy that is more radioactive than Irradium, and it's extremely heat-resistant to boot. Despite these barriers to working with Solarium, your incredible skill has made weaponizing it downright easy. You can make fantastic, lethal weapons and armor out of Solarium.",
-    "value": "^orange;6级^reset;\n\n日耀矿是银河系中已知的少数几种比镭具有更强放射性的东西之一，而且其易爆并具有极强的耐热性。尽管这对处理日耀矿是挑战，但是用你不可思议的技能来制造日耀武器简直是小菜一碟。你可以用日耀矿制造出奇妙而致命的武器和盔甲。"
+    "value": "^orange;6级^reset;\n\n日耀石是宇宙中已知少数比铱射钢更具放射性的物质之一，同时还具备极强的耐热性。尽管处理日耀石存在诸多困难，但您凭借非凡的技艺，将其武器化变得轻而易举。利用日耀石，您能打造出威力惊人、致命无比的武器与护甲。"
   },
   {
     "op": "replace",
     "path": "/strings/research/densiniumgear/0",
     "raw": "Densinium Equipment",
-    "value": "超致密装备"
+    "value": "坚密钢装备"
   },
   {
     "op": "replace",
     "path": "/strings/research/densiniumgear/1",
     "raw": "^orange;Tier 6^reset;\n\nAs the heaviest and most generally indestructible metal found naturally, the only thing harder than finding veins of Densinium is forging it. Nonetheless, you've succeeded at this Herculean feat, creating nigh-indestructible and unbelievably powerful armor and weapons.",
-    "value": "^orange;6级^reset;\n\n作为自然界中最重、最坚不可摧的金属，唯一比寻找超致密矿脉更难的就是锻造它。尽管如此，你还是成功地完成了这项艰巨的壮举，制造出了近乎坚不可摧、难以置信的强力盔甲和武器。"
+    "value": "^orange;6级^reset;\n\n作为自然界中最重且通常最坚不可摧的金属，比寻找坚密钢矿脉更难的事，莫过于将其锻造。然而，您成功完成了这项艰巨的壮举，打造出了几乎无法摧毁、威力惊人的盔甲与武器。"
   },
   {
     "op": "replace",
@@ -435,7 +435,7 @@
     "op": "replace",
     "path": "/strings/research/pyreitegear/1",
     "raw": "^orange;Tier 6^reset;\n\nFamed for its tendency to be blazingly hot at all times, Pyreite is as much a danger to its user as it is to foes... were that user anyone but you. With your skill, you can create the hottest weapons and armor in existence, which will not only fry the competition to a crisp but protect you from the worst cold the galaxy has to offer.",
-    "value": "^orange;6级^reset;\n\n以其在任何时候都极其灼热的倾向而闻名，永燃矿对它的使用者和敌人一样危险...除了你以外。凭借你的技能，你可以制造出现存最热的武器和盔甲，这不仅可以让你的竞争对手焦头烂额，而且可以保护你免受宇宙间最严寒的侵袭。"
+    "value": "^orange;6级^reset;\n\n以其始终炽热如火而闻名，永燃石对使用者与敌人同样危险...除非使用者是您。凭借你的技艺，你能打造出世间最炽热的武器与盔甲，不仅能将对手烤得焦脆，还能保护你免受宇宙中最刺骨严寒的侵袭。"
   },
   {
     "op": "replace",
@@ -447,19 +447,19 @@
     "op": "replace",
     "path": "/strings/research/isogengear/1",
     "raw": "^orange;Tier 6^reset;\n\nThe fact that Isogen ceaseslessly devours all heat, and somehow remains just above absolute zero, presents an interesting dilemma: how do you forge and work with something like that? Well, you've figured it out with your smart blacksmith brain, and can create the coldest weapons and armor in existence. Not only will they freeze your foes solid, but Isogen armor will let you dive into an ocean of lava and come out no worse for wear.",
-    "value": "^orange;6级^reset;\n\n事实上，寒霜矿不停地吞噬所有的热量，并且不知何故保持在绝对零度以上，这提出了一个有趣的两难问题: 你如何锻造和处理这样的东西？好吧，你已经用你聪明的铁匠大脑算出来了，你可以制造出现存最冷的武器和盔甲。它们不仅可以把你的敌人冻成固体，而且寒霜盔甲可以让你潜入熔岩的海洋，出来时也是毫发无损。"
+    "value": "^orange;6级^reset;\n\n寒霜矿不断吞噬所有热量，却始终维持在绝对零度之上，这一特性带来了一个有趣的难题：如何锻造并运用这样的物质？不过，凭借您聪明的铁匠头脑，您已经找到了方法，能够打造出世间最寒冷的武器与盔甲。它们不仅能将敌人彻底冻结，寒霜矿制成的盔甲还能让您纵身跃入熔岩之海后毫发无损地归来。"
   },
   {
     "op": "replace",
     "path": "/strings/research/xithricitegear/0",
     "raw": "Xithricite Equipment",
-    "value": "赛瑟瑞德装备"
+    "value": "赛斯瑞晶装备"
   },
   {
     "op": "replace",
     "path": "/strings/research/xithricitegear/1",
     "raw": "^orange;Tier 6^reset;\n\nXithricite is the only known crystal which naturally radiates Cosmic energy. It can be used in the creation of many absurdly deadly weapons and amazingly durable armors now that you have the know-how and skill to do so.",
-    "value": "^orange;6级^reset;\n\n赛德瑞瑟晶体是唯一已知的自然辐射射线能量的晶体。它可以用于制造许多荒谬的致命武器和令人惊讶的耐用盔甲，现在你有了加工赛德瑞瑟晶体的技能和诀窍。"
+    "value": "^orange;6级^reset;\n\n赛斯瑞晶是已知唯一能自然辐射宇宙能量的晶体。如今您已掌握相关知识与技艺，可利用它打造出诸多威力骇人的致命武器，以及坚韧得令人惊叹的护甲。"
   },
   {
     "op": "replace",
@@ -471,7 +471,7 @@
     "op": "replace",
     "path": "/strings/research/aetheriumgear/1",
     "raw": "^orange;Tier 7^reset;\n\nThough you only recently discovered what you've dubbed 'Aetherium' alloy, you've already set about weaponizing it in the creation of the literal best weapons and armor known to man, Floran, and everything in between. You'd have to make a pact with an eldritch god to do better than this.",
-    "value": "^orange;7级^reset;\n\n虽然你最近才发现了你所谓的阳清合金，但你已经开始着手制造人类，叶族，万国之中已知的最好的武器和盔甲。而你必须和一位不可名状之神签订协议才能做得比这还好。"
+    "value": "^orange;7级^reset;\n\n尽管您最近才发现了被您称为阳清装备的材料，您却已着手将其武器化，打造出人类、叶族至所有种族认知中最顶尖的武器与护甲。若想超越这般成就，恐怕得与上古邪神缔结契约才行。"
   },
   {
     "op": "replace",
@@ -483,7 +483,7 @@
     "op": "replace",
     "path": "/strings/research/enrichedgear/1",
     "raw": "^orange;Tier 5^reset;\n\nNow that you've learned to enrich isotopes, you can put them to use in useful weapons. Ever gotten shot by a depleted uranium bullet? I wouldn't recommend it.",
-    "value": "^orange;5级^reset;\n\n现在你已经学会了浓缩同位素，你可以把它们用在有用的武器上。曾经被贫铀的子弹击中吗？那我无可奉告。"
+    "value": "^orange;5级^reset;\n\n既然您已经学会了如何富集同位素，现在就可以将它们用于制造实用武器了。有没有尝过贫铀弹的滋味？我可不推荐您亲身体验。"
   },
   {
     "op": "replace",
@@ -495,7 +495,7 @@
     "op": "replace",
     "path": "/strings/research/epps1/1",
     "raw": "^orange;Tier 2^reset;\n\nYou've learned make better EPPs which improve on the basic breathing model or do other useful things like resisting elements or improving your combat capability.\n\n^yellow;Reminder^reset;: EPPs in Frackin' Universe are much different than vanilla! There's no one EPP that is perfect for all situations, and the kind of EPP you choose should be tailored to the planet you want to explore.",
-    "value": "^orange;2级^reset;\n\n你已经学会了制造更好的EPP，它可以改进基本的呼吸模式或者提供其他的增益，比如抵抗元素或者提高你的战斗能力。\n\n^yellow;提醒^reset;: 在FU中，EPP与原版相比有很大的不同！没有一个EPP可以适用于所有的情况，你应该根据想要探索的星球来选择适合的EPP。"
+    "value": "^orange;2级^reset;\n\n您已经学会了制作更好的EPP，它们不仅能改进基础的呼吸模式，还能实现其他实用功能，比如抵抗元素伤害或提升你的战斗能力。\n\n^yellow;提醒^reset;：在富兰克林的宇宙中，EPP与原版大不相同！没有一种EPP能完美适应所有情况，选择哪种EPP应根据您计划探索的星球特性来定制。"
   },
   {
     "op": "replace",
@@ -507,19 +507,19 @@
     "op": "replace",
     "path": "/strings/research/epps2/1",
     "raw": "^orange;Tier 3^reset;\n\nYou can make even better EPPs which serve more functions and perform existing roles better than before.",
-    "value": "^orange;3级^reset;\n\n你可以制造更好的EPP，这些EPP可以提供更多的功能，并比以前更好地履行现有的职责。"
+    "value": "^orange;3级^reset;\n\n您可以制作出功能更全面、性能更出色的EPP，超越以往的表现。"
   },
   {
     "op": "replace",
     "path": "/strings/research/epps3/0",
     "raw": "Superior EPPs",
-    "value": "高级EPP"
+    "value": "卓越EPP"
   },
   {
     "op": "replace",
     "path": "/strings/research/epps3/1",
     "raw": "^orange;Tier 4^reset;\n\nYou can make extremely good EPPs which can completely neutralize hostile atmospheres and provide even more utility.",
-    "value": "^orange;4级^reset;\n\n你可以制造出极好的EPP，它可以完全消除不良大气的印象，提供更强的实用功能。"
+    "value": "^orange;4级^reset;\n\n您可以制造出性能卓越的EPP，它们不仅能完全中和敌对大气环境，还能提供更多实用功能。"
   },
   {
     "op": "replace",
@@ -531,7 +531,7 @@
     "op": "replace",
     "path": "/strings/research/epps4/1",
     "raw": "^orange;Tier 6^reset;\n\nYou've mastered the art of EPP creation and can make the best EPPs around.",
-    "value": "^orange;6级^reset;\n\n第6层你已经掌握了EPP制造的艺术，可以制作出最好的EPP。"
+    "value": "^orange;6级^reset;\n\n您已经掌握了制作EPP的精髓，能够打造出最出色的EPP作品。"
   },
   {
     "op": "replace",
@@ -543,7 +543,7 @@
     "op": "replace",
     "path": "/strings/research/ambergear/1",
     "raw": "^orange;Tier 4^reset;\n\nYou've gotten very good at shaping organic materials, and can now forge hard amber into a variety of bee and honey-themed armors and weapons. (Not by hand, of course!)",
-    "value": "^orange;4级^reset;\n\n你已经非常擅长塑造有机材料，现在你可以锻造各种以蜜蜂和蜂蜜为主题的盔甲和琥珀武器。(当然不是用手做!)"
+    "value": "^orange;4级^reset;\n\n您已精通塑造有机材料，如今能将坚硬的琥珀锻造成各式蜜蜂与蜂蜜主题的盔甲与武器。（当然，并非徒手完成！）"
   },
   {
     "op": "replace",
@@ -555,7 +555,7 @@
     "op": "replace",
     "path": "/strings/research/slimegear1/1",
     "raw": "^orange;Tier 2^reset;\n\nIt might seem pretty gross, but with some clever engineering you could form solid slime capable of being used as weapons or armor. Don't argue. Just accept.\n\nSome recipes require the ^cyan;Biochemist Table^reset;. Research it in the ^green;Geology tree^reset;.",
-    "value": "^orange;2级^reset;\n\n粘液看起来相当恶心，但是通过一些巧妙的工程技术，你可以将其凝结成用在武器或盔甲的固体粘液。别在这哔哔赖赖了。接受现实吧。\n\n大部分的配方需要用到^cyan;生化制作台^reset;。请在^green;地质科技树^reset;进行相应的研究。"
+    "value": "^orange;2级^reset;\n\n这听起来可能有点恶心，但通过巧妙的工程改造，您可以制造出坚固的黏液，用作武器或护甲。别争辩，接受就好。\n\n部分配方需要^cyan;生化制作台^reset;。请在^green;地质科技树^reset;中研究解锁。"
   },
   {
     "op": "replace",
@@ -567,7 +567,7 @@
     "op": "replace",
     "path": "/strings/research/slimegear2/1",
     "raw": "^orange;Tier 4^reset;\n\nIt might seem pretty gross, but with some clever engineering you could form solid slime capable of being used as weapons or armor. Don't argue. Just accept.",
-    "value": "^orange;4级^reset;\n\n粘液看起来相当恶心，但是通过一些巧妙的工程技术，你可以将其凝结成用在武器或盔甲的固体粘液。别在这哔哔赖赖了。接受现实吧。"
+    "value": "^orange;4级^reset;\n\n这听起来可能有点恶心，但通过巧妙的工程改造，您可以制造出坚固的黏液，用作武器或护甲。别争辩，接受就好。"
   },
   {
     "op": "replace",
@@ -579,6 +579,6 @@
     "op": "replace",
     "path": "/strings/research/slimegear3/1",
     "raw": "^orange;Tier 5^reset;\n\nIt might seem pretty gross, but with some clever engineering you could form solid slime capable of being used as weapons or armor. Don't argue. Just accept.",
-    "value": "^orange;5级^reset;\n\n粘液看起来相当恶心，但是通过一些巧妙的工程技术，你可以将其凝结成用在武器或盔甲的固体粘液。别在这哔哔赖赖了。接受现实吧。"
+    "value": "^orange;5级^reset;\n\n这听起来可能有点恶心，但通过巧妙的工程改造，您可以制造出坚固的黏液，用作武器或护甲。别争辩，接受就好。"
   }
 ]

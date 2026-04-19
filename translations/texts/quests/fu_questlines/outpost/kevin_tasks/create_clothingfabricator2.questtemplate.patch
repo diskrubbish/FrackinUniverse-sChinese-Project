@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "I just don't know...",
-    "value": "莫名其妙..."
+    "value": "我只是不知道..."
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "5 ^orange;Biofuel Canisters^reset; would be all that I needed to create a ^cyan;rocket-powered guinea pig^reset;. With some ^orange;Algae^reset; found in a ^orange;Bog^reset; biome you'd have no problem making some. I promise to ^red;not^reset; reward you with deadly bees this time!",
-    "value": "我只要5个^orange;生物燃料罐^reset;就能制造出^cyan;火箭动力豚鼠^reset;。用^orange;沼泽^reset;里发现的^orange;藻豆荚^reset;你也能做出来。我保证这次^red;不会^reset;用致命的蜜蜂来当奖励了。"
+    "value": "我只需要5个^orange;生物燃料罐^reset;就能造出一只^cyan;火箭驱动的豚鼠^reset;。在^orange;沼泽^reset;生态群落找到一些^orange;藻类^reset;，制作起来就毫无难度。这次我保证^red;不会^reset;用致命的蜜蜂来答谢你！"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Thanks. You look like you could use some ^orange;party time^reset;! It's dangerous to go alone! Take ^green;this^reset;! Also, if you feel up to it and want to die, I could use help testing my newest invention. It's called a ^orange;Kill Pod^reset; and it's super neat!",
-    "value": "谢谢。你看起来似乎需要来点^orange;娱乐^reset;！自娱自乐很危险！拿着^green;这个^reset;！如果你上瘾后想byebye，请不要急，我正好能用你来试试的新想法。我叫它^orange;自杀舱^reset;，保证无痛。"
+    "value": "谢谢。看你这样子，真该好好^orange;放松一下^reset;！独自前行太危险了，带上^green;这个^reset;吧！另外，如果你觉得状态不错，甚至想体验一把“生死边缘”的感觉，我正好需要人帮忙测试我的最新发明。它叫^orange;绝命舱^reset;，真是酷“毙”了！"
   }
 ]

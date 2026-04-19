@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "Contraband",
-    "value": "违禁品箱"
+    "value": "违禁品"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "AI is expressly forbidden on my homeworld. But I need an ^orange;AI Chip^reset; for my research! Can you please bring me one? I would reward you nicely.",
-    "value": "我的家乡明令禁止AI。但为了我的研究，我需要一个^orange;智能芯片^reset;！你能带我一个吗？我很乐意给你报酬。"
+    "value": "在我的母星，人工智能是被明令禁止的。但我的研究急需一块^orange;智能芯片^reset;！你能帮我带一块来吗？我一定会好好酬谢你的。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Thanks. I've transferred payment for your troubles directly to your account.",
-    "value": "谢谢，这是我给你的奖励。"
+    "value": "谢谢。我已经将酬劳直接转账到你的账户了。"
   }
 ]

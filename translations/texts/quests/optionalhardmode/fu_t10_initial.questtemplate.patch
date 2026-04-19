@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "Mew. Need help. See Kevin? New copy from terminal. Nobody noticed lack of corpse yet. Have temporo-spatial beacons to universe where he went, don't ask how. Help find traces, find what happened.\n^red;This begins the optional, tier 10, hard mode for Frackin Universe and Vanilla dungeons. It is designed to be a form of challenge for those who have reached the heights of what FU offers.^reset;",
-    "value": "喵。需要帮助。看到凯文了吗？来自终端的新副本。还没有人注意到缺少尸体。有时间空间信标，可以知道他去了哪里，别问怎么去的。帮忙找找痕迹，看看发生了什么。\n^red;这是为Frackin Universe和更多地下城设计的可选的10级困难模式。这是为那些已经达到FU所提供的高度的人提供一种挑战模式。^reset;"
+    "value": "喵。需要帮助。看到凯文了吗？从终端收到新副本。还没人注意到尸体不见了。有他前往宇宙的时空信标，别问怎么来的。帮忙寻找踪迹，查明发生了什么。\n^red;这标志着富兰克林的宇宙与原版地牢的可选十级困难模式开启。专为那些已探索至FU巅峰的玩家设计，旨在提供一种挑战形式。^reset;"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "You gonna help mew? YAY! Can provide more beacons for shiny, if you can't manage first try.",
-    "value": "你要帮助喵吗？好啊! 如果你不能一次解决，我可以提供更多的信标给你。"
+    "value": "你要帮本喵吗？太好了！如果你第一次尝试没成功，我可以提供更多指引来帮助你找到闪亮的目标。"
   }
 ]

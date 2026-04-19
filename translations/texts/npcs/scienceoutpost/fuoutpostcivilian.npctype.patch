@@ -3,85 +3,85 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/elduukhar/default/0",
     "raw": "We should hang out sometime. Get smashed. Eat garflipps. Avoid Kevin.",
-    "value": "我们应该在某个时间出去玩玩，吃点东西什么的，当然，最好别被凯文看到了。"
+    "value": "我们改天应该聚聚。喝个痛快，吃点加布林，避开凯文。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/elduukhar/default/1",
     "raw": "My calculations are infallible. That means we're all going to die soon!",
-    "value": "我的计算无懈可击。这意味着我们都将很快死去！"
+    "value": "我的计算从不出错。这意味着我们很快都会死掉！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/elduukhar/default/2",
     "raw": "There's rumored to be a place at the edge of known space made ^yellow;entirely^reset; of shrimp.",
-    "value": "传说在已知空间的边缘有一个^yellow;完全^reset;由虾组成的地方。"
+    "value": "传闻在已知宇宙的边缘，有一处^yellow;完全^reset;由虾构成的地方。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/elduukhar/default/3",
     "raw": "I wonder...what if we're entirely wrong about everything?",
-    "value": "我想知道...如果我们所知的一切都是完全错误的呢？"
+    "value": "我在想...如果我们对所有事情的看法都完全错了呢？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/slimeperson/default/0",
     "raw": "I'm sorry if my appearance bothers you. That's your problem, not mine.",
-    "value": "如果我的外表让你感到困扰，我很抱歉。那是你的问题，不是我的。"
+    "value": "如果我的外表让你感到不适，那是你的问题，不是我的。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/slimeperson/default/1",
     "raw": "My odour is none of your concern. Nor are the circumstances of my birth, so do not ask.",
-    "value": "我的气味与你无关。我的出生情况也与我无关，所以不要过言。"
+    "value": "我的气味与你无关。我的出身亦是如此，所以请勿多问。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/slimeperson/default/2",
     "raw": "Ever had a feeling of Deja Vu?",
-    "value": "你有没有过既视感的那种奇妙感觉？"
+    "value": "是否曾有过似曾相识的感觉？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/slimeperson/default/3",
     "raw": "You don't know the hell of remembering a life you never lived, so do not deign to judge my people.",
-    "value": "你没法回忆你从未经历过的生活的地狱，所以不要对我的人民妄加评论。"
+    "value": "你未曾体会过铭记一段从未经历的人生的煎熬，所以请不要妄加评判我的人民。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/slimeperson/default/4",
     "raw": "Us Slimes need to stick together. We are rare, fractured, and unique.",
-    "value": "我们史莱姆需要团结起来。我们稀有、断裂、独特。"
+    "value": "我们史莱姆必须团结一致。我们稀有、分散，却又独一无二。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/slimeperson/default/5",
     "raw": "I am the first among my people, that I know of, to obtain a doctorate.",
-    "value": "据我所知，我是我们民族中第一个获得博士学位的人。"
+    "value": "据我所知，我是我们种族中第一个获得博士学位的人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/slimeperson/default/6",
     "raw": "Life for a Slime is one of horrified looks, threatened whispers and being hated for something we cannot help.",
-    "value": "史莱姆生活在惊恐的眼神、威胁的低语和因我们无法帮助之事的憎恶之下。"
+    "value": "史莱姆的生活，充满了惊恐的目光、威胁的低语，以及因无法改变的本性而遭受的憎恨。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/slimeperson/default/7",
     "raw": "This is why I practice science here. I can be safe, and not worry about the prejudices present in the universe.",
-    "value": "这就是为什么我在这里实践科学。我可以很安全，而且不用担心宇宙中存在的偏见。"
+    "value": "这就是我在此钻研科学的原因。在这里，我能安心工作，不必担忧宇宙中无处不在的偏见。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/veluu/default/0",
     "raw": "Mrowr. There is a constant source of aggravation that plagues us, and its name is Kevin.",
-    "value": "唔姆。有个挥之不去的恼火源头烦着我们，就是名字叫凯文的沙口。"
+    "value": "唔姆。总有一个源源不断的烦恼困扰着我们，那就是凯文。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/veluu/default/1",
     "raw": "I can do a backflip. I have it on good authority that you are not able to do so.",
-    "value": "我能做一个后空翻。而且我有很好的证据表明你不能这样做。"
+    "value": "我能做后空翻。据可靠消息，你做不到这一点。"
   },
   {
     "op": "replace",
@@ -93,121 +93,121 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/veluu/default/3",
     "raw": "You look like you do not groom yourself enough. I suggest you emulate my people. None are cleaner.",
-    "value": "你看起来没有好好的梳理下自己。我建议你效仿我们的人。这里没有一个人是干净的。"
+    "value": "你看起来似乎不太注重个人打理。我建议你效仿我们的人，他们无一不是整洁干净的典范。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/veluu/default/4",
     "raw": "I long for the hunt, but my mind is far more valuable a tool.",
-    "value": "虽然我的血液渴望着狩猎，但我的思想是更有价值的工具。"
+    "value": "我渴望狩猎，但我的头脑才是更为珍贵的利器。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuizku/default/0",
     "raw": "I honestly had no idea it was possible to coat this entire facility with lip gloss. That was an interesting day.",
-    "value": "老实说，我不知道有没有可能给这整个设施涂上唇彩。那会是有趣的一天。"
+    "value": "说实话，我真没想到能把整个设施都涂上唇彩。那天可真是有意思。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuizku/default/1",
     "raw": "I'd bet 1000 pixels that you can't lick your elbows without dislocating bones.",
-    "value": "我敢打赌，1000个像素，赌你得脱臼才能舔到你的手肘。"
+    "value": "我敢赌一千像素，你绝对没法在不脱臼的情况下舔到自己的手肘。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuizku/default/2",
     "raw": "Let us rejoice and dance the dance of joy.",
-    "value": "让我们欢欣鼓舞，跳起欢乐的舞蹈。"
+    "value": "让我们欢欣鼓舞，跳起喜悦之舞。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuizku/default/3",
     "raw": "Beauty is in the eye of the beholder. My people know this better than most.",
-    "value": "美存在于欣赏者的眼中。我的人民比大多数人更了解这一点。"
+    "value": "美存在于观者眼中。我族对此的理解，比多数人更为深刻。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuizku/default/4",
     "raw": "What are you staring at? There is science to do!",
-    "value": "你瞅啥呢？科学证明还不够吗!"
+    "value": "你在看什么？科学正等着我们去探索！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuizku/default/5",
     "raw": "There is no reality in which you are smarter than I.",
-    "value": "事实上，你没有我聪明。"
+    "value": "在任何情况下，你都不可能比我更聪明。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuizku/default/6",
     "raw": "I'd love to skin a ponex and stuff its rotting carcass. Taxidermy is a hobby of mine, and Ponexes are horrifying flesh-devouring monsters.",
-    "value": "我喜欢剥下彩虹小马的皮肤然后在里面填充各种腐烂动物的尸体。标本制作是我的一个爱好，而这些儿童邪典是他妈的食肉怪物。"
+    "value": "我倒是很想剥下一只“彩虹马驹”的皮，把它的腐尸做成标本。标本制作是我的爱好，而“彩虹马驹”是那种令人毛骨悚然、吞噬血肉的怪物。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuizku/default/7",
     "raw": "Dogs are incapable of flight. Who knew? Sorry, Fluffy! *sob*",
-    "value": "狗没法飞，我很抱歉，毛毛！*哭泣*"
+    "value": "狗儿不会飞，谁曾想到呢？抱歉了，毛毛！*啜泣*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuizku/default/8",
     "raw": "There is no reality in which you are smarter than I.",
-    "value": "事实上，你没有我聪明。"
+    "value": "在任何情况下，你都不可能比我更聪明。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuanodyne/default/0",
     "raw": "If I see Kevin before lunch, I am going to get Thorlokk to pummel him into pulp.",
-    "value": "别让我在吃中饭前见到凯文，要不然我会让索罗克揍到他妈都不认得。"
+    "value": "如果午饭前让我碰到凯文，我就让索洛克把他揍成肉泥。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuanodyne/default/1",
     "raw": "Watch your step. I hear Kevin has been hiding weird crap all over the station again.",
-    "value": "注意脚下。我听说凯文又把奇怪的垃圾藏在站点的各个角落。"
+    "value": "小心脚下。听说凯文又在站点各处藏了些奇怪的东西。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuanodyne/default/2",
     "raw": "Another day, another dollar. And another annoying prank.",
-    "value": "又是一天，又是一美元。还有另一个恼人的恶作剧。"
+    "value": "又是一天，又是一块钱。外加一个烦人的恶作剧。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuanodyne/default/3",
     "raw": "Ever seen a Garflipp? They are weird worms capable of psionic cleansing...something no other known species can accomplish.",
-    "value": "见过加布林吗？它们是能够净化幻觉的奇怪虫子...这是其他已知物种无法做到的。"
+    "value": "见过加布林吗？它们是一种奇特的蠕虫，能够进行心灵净化...这是目前已知其他物种都无法做到的能力。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuanodyne/default/4",
     "raw": "I am recording all of our social interactions for data. I hope you don't mind.",
-    "value": "我正在记录我们所有的社会互动，以获取数据。我希望你不要介意。"
+    "value": "我正在记录我们所有的社交互动作为数据。希望你不介意。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuanodyne/default/5",
     "raw": "One of these days this trash can will do something interesting. Today is not that day.",
-    "value": "总有一天，这些垃圾货也会做一些有趣的事情。不过今天还不是那一天。"
+    "value": "总有一天，这堆垃圾也能做出点有趣的事来。可惜今天还不是时候。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fuanodyne/default/6",
     "raw": "Is it difficult being fleshy? I often wonder what it feels like to chew things, or to excrete waste. These are things I shall never experience.",
-    "value": "做一个有血有肉的人很难吗？我经常想知道咀嚼东西的感觉，或者排泄废物的感觉。这些都是我永远不会经历的事情。"
+    "value": "身为血肉之躯是否艰难？我时常思索，咀嚼食物是何感受，排泄废物又是怎样体验。这些，我永远无法知晓。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/0",
     "raw": "I was to be a sandwich maker, like my father before me. But I chose a lesser path in life: Knowledge. I'll leave the sandwiches to true masters.",
-    "value": "我将成为一名三明治制作者，就像我的父亲一样。但我选择了一条次一点的人生道路: 追寻知识。我会把做三明治的活计留给真正的大师。"
+    "value": "我曾注定要成为一名三明治师傅，就像我父亲那样。但我选择了人生中一条较为平凡的道路：求知。至于三明治，就留给真正的大师们去创造吧。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/1",
     "raw": "You aren't one of those people that use...white bread...with their sandwiches, are you? We can't be friends if this is the case.",
-    "value": "你不是那种把...白面包...和三明治一起吃的人吧？如果是这样的话，我们就不能做朋友。"
+    "value": "你该不会是用...白面包做三明治的那种人吧？如果是这样，我们可没法做朋友了。"
   },
   {
     "op": "replace",
@@ -219,67 +219,67 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/3",
     "raw": "<entityname>, why is it you have such a high body count? Do you just walk around murdering everything?",
-    "value": "<entityname>，为什么你的死亡指数这么高？你是不是到处杀人？"
+    "value": "<entityname>，为何你身上背负如此多的命案？难道你四处游荡，见人就杀吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/4",
     "raw": "I'm Kevin. Everyone here hates me. This pleases me.",
-    "value": "我是凯文。这里的每个人都讨厌我。这让我引以为豪。"
+    "value": "我是凯文。这里每个人都讨厌我。这让我很满意。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/5",
     "raw": "I lie all the time. By the way, I'm Kevin.",
-    "value": "我一直在撒谎。顺便说一下，我是凯文。"
+    "value": "我总在说谎。顺便一提，我是凯文。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/6",
     "raw": "I'm <entityname>,<entityname>. You cannot also be <entityname>. Change your name. I won't.",
-    "value": "我是<entityname>,<entityname>。你也肯定不是<entityname>。快改了你的名字，我可不想这么做。"
+    "value": "我是<entityname>,<entityname>。你也肯定不是<entityname>。改个名字吧。我不改。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/7",
     "raw": "There is a universal conspiracy whispered that Mantizi invented bread. If we had invented bread, we would have first had to invent the universe.",
-    "value": "有个普遍的阴谋论说，是甲虫组发明了面包。不过如果我们发明了面包，我们首先就得发明宇宙。"
+    "value": "坊间流传着一个普遍的阴谋论，说甲虫族发明了面包。倘若真是我们发明了面包，那首先得先发明整个宇宙才行。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/8",
     "raw": "I'm Kevin. I am well loved around here.",
-    "value": "我是凯文。我在这里很受欢迎。"
+    "value": "我是凯文，在这里很受大家喜爱。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/9",
     "raw": "Life is 27.3% less enjoyable when wearing pants. Prove me wrong.",
-    "value": "当你穿裤子的时候，生活就少了27.3%的乐趣。快来证明我是错的。"
+    "value": "穿裤子时，生活的乐趣会减少27.3%。不服来辩。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/10",
     "raw": "I could make a career out of sandwich making, but that seems so ....plain.",
-    "value": "我可以以做三明治为职业，但这似乎太...平淡无奇了。"
+    "value": "我本可以靠做三明治谋生，但那似乎太...平淡无奇了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/11",
     "raw": "I once went without pants for 3 full cycles. This was during my earlier years.",
-    "value": "有一次我连续三个周期没穿裤子。那时我还年轻。"
+    "value": "我曾整整三个周期没穿裤子，那是在我年轻的时候。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/12",
     "raw": "There's no easy way to say this...so I won't.",
-    "value": "说出来并不容易...所以我不说。"
+    "value": "这件事很难启齿...所以我还是不说了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/13",
     "raw": "You smell exactly like garflipps. Why?",
-    "value": "你闻起来就像加布林。为什么？"
+    "value": "你闻起来简直和加布林一模一样。为什么？"
   },
   {
     "op": "replace",
@@ -291,247 +291,247 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/15",
     "raw": "<entityname> is an interesting name. It reminds me of a philosopher of my people, Jeff. He came up with the noble profession of Sandwich Maker.",
-    "value": "<entityname>是个有趣的名字。这让我想起了我们民族的哲学家杰夫。他想出了三明治制造者这个高尚的职业。"
+    "value": "<entityname>是个有趣的名字。它让我想起了我们民族的一位哲学家，杰夫。他提出了“三明治制作师”这一崇高职业。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/16",
     "raw": "There are three types of people. You're the good kind. Flavor-wise, I mean.",
-    "value": "有三种类型的人。你是好人。我的意思是，口味方面。"
+    "value": "世上有三种人。你是好的那种。我是说，在品味上。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/17",
     "raw": "It smells like mushrooms and everyone looks like they want to kill me. Just like home!",
-    "value": "这玩意闻起来像蘑菇，每个人看起来都想杀了我。就像我在家里一样！"
+    "value": "闻起来有蘑菇的味道，而且每个人都像是想杀了我。就像在家一样！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/18",
     "raw": "I can't believe nobody noticed the lip gloss...",
-    "value": "真不敢相信居然没人注意到我的唇彩。"
+    "value": "真不敢相信居然没人注意到唇彩..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/19",
     "raw": "I'm debating on the merits of strange matter for my next amazing sculpture. Thoughts? And don't bother with that 'it's going to kill us all' nonsense.",
-    "value": "我正在为我的下一个惊人的雕塑争论奇怪的物质的优点。你有什么想法吗？还有，不要用 “它会杀死我们所有人”的废话来搪塞我。"
+    "value": "我正在考虑用奇异物质作为我下一件惊艳雕塑的材料，你觉得如何？别拿“它会毁灭全人类”那套废话来烦我。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/20",
     "raw": "I once defeated a Xar in a farting contest. That's really hard to do, given that my people don't have buttcheeks.",
-    "value": "我曾经在一次放屁比赛中打败过一个Xar。这真的很难做到，因为我们的族人并没有屁股。"
+    "value": "我曾在一场放屁比赛中赢过一个夏尔人。这确实很难做到，毕竟我们族人没有屁股瓣。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/21",
     "raw": "There are exactly three stenches that get me excited. Four, now. The fourth is you.",
-    "value": "只有三种臭味会让我兴奋。现在有第四种了。第四种是你的。"
+    "value": "能让我心动的气味，原本只有三种。现在，是四种了。第四种，是你。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/22",
     "raw": "How many waffles can you fit in a single catheter bag?",
-    "value": "一个导尿袋能装下多少华夫饼？"
+    "value": "一个导尿袋里能装多少华夫饼？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/23",
     "raw": "I'd imagine somewhere between zero and thirty.",
-    "value": "我想现在应该在零到三十之间。"
+    "value": "我猜大概在零到三十之间。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/24",
     "raw": "I guess it would depend on how they were added. Are they solid waffles? Liquified? Have they been garflipped?",
-    "value": "看，你已有一处已安装的mod冲突。快去看一下你的starbound.log。哈！就让你看一下。但是说真的，注意你的mod，笨蛋。"
+    "value": "我猜这得看它们是怎么被加进去的。是完整的华夫饼吗？还是液化的？有没有经过加布林处理？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/25",
     "raw": "I'm going to uncover this mystery, and the entire universe will thank me for it. Who doesn't love a waffle?",
-    "value": "我要揭开这个谜底，整个宇宙都会为此感谢我。就是谁不喜欢华夫饼呢？"
+    "value": "我要揭开这个谜团，整个宇宙都会为此感谢我。谁不爱华夫饼呢？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/26",
     "raw": "I'm absolutely positive that there are medical applications to stabbing.",
-    "value": "我十分敢肯定捅人有着医学上的应用。"
+    "value": "我完全确信，刺伤在医学上也有其应用价值。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/27",
     "raw": "Look, you have a mod conflict installed. Go to your starbound.log and check. Hah! Made you look. But really, keep an eye on your mods, stupid.",
-    "value": "看，你已有一处已安装的mod冲突。快去看一下你的starbound.log。哈！就让你看一下。但是说真的，注意你的mod，笨蛋。"
+    "value": "看，你装的模组有冲突。去查查你的starbound.log文件吧。哈！骗到你了。不过说真的，蠢货，多留意你的模组情况。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/28",
     "raw": "Have you ever wondered why you aren't currently dead? I do all the time.",
-    "value": "你有没有想过为什么你现在还活着？我一直都在这么做。"
+    "value": "你是否曾想过，为何此刻自己还活着？我时常这样问自己。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/29",
     "raw": "Don't believe the infraction log. That was...a different Kevin. Honest.",
-    "value": "不要相信违规记录。那是...另一个凯文。说实话。"
+    "value": "别信那个违规记录。那其实是...另一个凯文干的。真的。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/30",
     "raw": "Stop staring at my pecs, <entityname>.",
-    "value": "不要盯着我的胸肌看，<entityname>。"
+    "value": "别老盯着我的胸肌看，<entityname>。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/31",
     "raw": "Earth? Never did get a chance to go there. I heard it was pretty nice.",
-    "value": "地球？我没机会去那里。我听说那里曾经很不错。"
+    "value": "地球？一直没机会去那儿。听说那儿挺不错的。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/32",
     "raw": "That's my cloaca. My eyes are up here. Surely my gender cannot be that important to you.",
-    "value": "那是我的“下水道”。我的眼睛在上面。对你来说，我的性别肯定没有那么重要。"
+    "value": "那是我的泄殖腔。我的眼睛在这儿呢。我的性别对你来说，应该没那么重要吧。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/33",
     "raw": "Nobody loves you. Except for me. Work with me. Why? Dancing velociraptors. Need I say more?",
-    "value": "没人爱你。除了我。和我一起工作。为什么？跳舞的迅猛龙。还需要我多说吗？"
+    "value": "没人爱你。除了我。跟我合作吧。为什么？因为跳舞的迅猛龙。还需要多说吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/34",
     "raw": "I like filling briefcases and boxes with super fun things and then selling them. Or giving them away!",
-    "value": "我喜欢用超级有趣的东西装满公文包和盒子，然后卖掉。或者把它们送人！"
+    "value": "我喜欢把超有趣的东西塞满公文包和盒子，然后卖掉它们，或者干脆送人！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/35",
     "raw": "Have you ever been hugged by intestines? Oddly comforting, really.",
-    "value": "你曾经被肠子抱过吗？真是奇怪的安慰。"
+    "value": "你曾被肠子拥抱过吗？奇怪的是，竟有种莫名的安心感。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/36",
     "raw": "Unfortunately, you can't hide weapons in a urethra. I've tried. The subjects always get irate.",
-    "value": "不幸的是，你不能把武器藏在尿道里。我试过了。受试者总是很生气。"
+    "value": "可惜的是，尿道里藏不了武器。我试过，实验对象总是会暴怒。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/37",
     "raw": "There is no way to alter the gender of a starfish using only a hammer. You win this time, nature.",
-    "value": "仅仅用锤子是无法改变海星的性别的。这次你赢了，大自然。"
+    "value": "仅凭一把锤子，是无法改变海星的性别的。这次算你赢了，大自然。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/38",
     "raw": "You look like you want to judge me. But I watched what you did using my infini-cam.",
-    "value": "你看起来像是要审判我。但我用我的永火摄像头观看了你的行为。"
+    "value": "你看起来想评判我。但我用我的无限摄像头看到了你的所作所为。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/39",
     "raw": "I can't believe you killed the *entire* village.",
-    "value": "真不敢相信你屠杀了*整座*村子。"
+    "value": "我简直不敢相信你竟然屠杀了*整个*村庄。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/40",
     "raw": "You're a murderer.",
-    "value": "你也不过是他人死亡的推手之一罢了。"
+    "value": "你是个虾仁犯。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/41",
     "raw": "I wondered why humans looked uncomfortably when I asked if I could use a nutcracker on them. I later found out that human language has...interesting intricacies",
-    "value": "我想知道为什么当我问人类能不能对他们使用胡桃夹子时，他们的表情很不自在。后来我发现，人类的语言有......有趣的错综复杂之处。"
+    "value": "我曾好奇，为何当我问能否用胡桃夹子夹他们时，人类会露出不适的表情。后来才发现，人类的语言里藏着...耐人寻味的微妙之处。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/42",
     "raw": "What? No, I am most certainly *not* an avatar of an Elder God. Why would you insinuate such a thing? I'm not handsome enough.",
-    "value": "什么？不，我绝对绝对绝对绝对不是上帝的化身。你为什么要暗示这样的事情？我还不够帅。"
+    "value": "啥？不，我绝对*不是*某个上古之神的化身。你怎么会暗示这种事？我可不够帅。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/43",
     "raw": "I have quite thoroughly mastered the art of placing smaller things into larger things. Few can surpass me in the art of stacking. It's not a particularly -useful- skill, but there you have it.",
-    "value": "我已经相当彻底地掌握了把小东西放到大东西里的艺术。在堆叠的艺术方面，很少有人能超过我。这不算是项特别有用的技能，但是埏埴以为器，当其无，有器之用。"
+    "value": "我深谙将小物置入大物的技艺，在堆叠之道上鲜有人能及。这虽非什么实用技能，但确实如此。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/44",
     "raw": "I've been watching you for a very long time, <entityname>. You do really strange things in your free time. Really, really strange.",
-    "value": "我已经观察你很长时间了，<entityname>。你在空闲时间会做一些奇怪的事情。真的真的很奇怪。"
+    "value": "我已经观察你很久了，<entityname>。你在空闲时间做的事情真的很奇怪，非常非常奇怪。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/45",
     "raw": "Meditating in a field of tendrils as you listen to the calming wails of a stillborn planet is the best way to meditate on the nature of the universe. Trust me.",
-    "value": "在满是卷须的田野中沉思，聆听一颗死亡星球的宁静哀号，这是冥想宇宙本质的最佳方式。相信我。"
+    "value": "在一片藤蔓丛生的原野中冥想，聆听着一颗死寂行星的宁静哀鸣，这是参悟宇宙本质的最佳方式。相信我。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/46",
     "raw": "I have convinced one of the staff here that they should sneak into your ship to watch you sleep. For science. I may have implied that you were immortal.",
-    "value": "我已经说服了这里的一个员工，他应该会溜进你的船去看你睡觉。为了科学。我可能暗示过他你是不朽的。"
+    "value": "我已经说服这里的一位工作人员，让他们偷偷溜上你的飞船，观察你睡觉。为了科学。我可能暗示过你是不朽的。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fukirhos/default/0",
     "raw": "Recently I purchased a new FTL drive. This sweet baby is going to impress my Arkology so much!",
-    "value": "最近我购买了一个新的FTL引擎。这个可爱的宝贝会让我的Arkology号再创新高勇攀高峰！"
+    "value": "最近我入手了一台新的超光速引擎。这小宝贝绝对会让我的生态建筑惊艳不已！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fukirhos/default/1",
     "raw": "It even has an auto-failsafe in its quantum-state capacitor. The third of its kind! Of course, it isn't strictly ^red;legal^reset; by Protectorate standards...so lets keep that between us.",
-    "value": "这玩意的量子态电容中甚至有个自动故障保险。这是同类产品中的第三个! 当然，按照守护团的标准，它并不是严格意义上的^red;合法^reset;产品...所以让我们保留这个秘密吧。"
+    "value": "它甚至在量子态电容器中配备了自动故障保险装置，这可是第三代技术！当然，按照守护团的标准，这并不完全^red;合法^reset;...所以这件事就我们之间知道就好。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fukirhos/default/2",
     "raw": "Might we exchange pleasantries when I am not working? I have to complete this horticultural examination.",
-    "value": "当我不工作的时候，我们能不能寒暄几句？我必须完成这个园艺考试。"
+    "value": "在我闲暇时，我们可否寒暄几句？我得先完成这份园艺考试。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fukirhos/default/3",
     "raw": "There is no greater threat to sanity than boredom. Never let your mind be totally idle!",
-    "value": "对理智的最大威胁莫过于无聊。永远不要让你的头脑完全空闲下来！"
+    "value": "对心智最大的威胁莫过于无聊。永远别让你的大脑完全闲置！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fukirhos/default/4",
     "raw": "Don't invest in Sigma-Tyovis at this point in time. Their market value is a bit too volatile. Futures projections are grim.",
-    "value": "在这个时候不要投资Sigma-Tyovis。他们的市值也太布稳了。期货预测来看不太轻松。"
+    "value": "目前不宜投资西格玛·泰维斯公司。其市值波动过于剧烈，未来前景亦不容乐观。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fukirhos/default/5",
     "raw": "I'd bet money on just about any wager if the stakes are right. Why, last Tuesday I made 4 million pixels from Kevin. I should probably be more concerned about this than I am.",
-    "value": "如果值得一搏，我愿意在几乎所有的赌注上赌钱。为什么，上周二我从凯文那里赚了400万像素。我也许应该比我更关心这个问题。"
+    "value": "只要赌注合适，我几乎什么赌都敢下。就说上周二吧，我从凯文那儿赢了四百万像素。按理说我该更在意这事才对。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fukirhos/default/6",
     "raw": "I find it exceptionally difficult to adjust to new gravity fields. I prefer artificial gravity like we have at home on the Novustech Arkology.",
-    "value": "我发现要适应新的重力场真的非常困难。我更喜欢人工重力，就像我在Novustech Arkology上的家里一样。"
+    "value": "我发现适应新的重力场异常困难。我更喜欢像我们在诺瓦斯特克生态城中那样的人造重力环境。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fukirhos/default/7",
     "raw": "Where do you hail from? I don't see many folks like you around here.",
-    "value": "你来自哪里？我在这里可没有看过几个像你这样的人。"
+    "value": "你来自哪里？这附近很少见到像你这样的人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fukirhos/default/8",
     "raw": "<entityname>! Nice to see you. We should have lunch sometime and discuss your stocks!",
-    "value": "<entityname>！很高兴见到你。我们应该找个时间共进午餐，讨论一下你的股票！"
+    "value": "<entityname>！很高兴见到你。我们找个时间一起吃午饭，聊聊你的股票吧！"
   },
   {
     "op": "replace",
@@ -543,264 +543,264 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/thelusian/default/1",
     "raw": "^yellow;*clicks*^reset; If you annoy me, I'll beat the stupid right out of you.",
-    "value": "^yellow;*咳咳咳*^reset; 如果你惹恼了我，我就会把你的铸币脑袋给取出来。"
+    "value": "^yellow;*咳咳咳*^reset; 如果你惹恼了我，我就把你揍得清醒过来。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/thelusian/default/2",
     "raw": "I often wonder at how much force it would take to crush Kevins windpipe. That guy sucks.",
-    "value": "我一直想知道凯文要克服呕吐到底需要多大的力量，你知道的，他喉咙不舒服。"
+    "value": "我常常好奇，究竟需要多大的力气才能捏碎凯文的气管。那家伙真是让人讨厌。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/thelusian/default/3",
     "raw": "Back off, fleshy one. I require personal space.",
-    "value": "退后，肉人。我需要个人空间。"
+    "value": "退后，血肉之躯。我需要私人空间。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/thelusian/default/4",
     "raw": "My Queen will return one day, and I shall rejoin the hive.",
-    "value": "我的女王总有一天会如闪电般归来，我也将重新加入大巢。"
+    "value": "我的女王终将归来，而我亦将重返大巢。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantis/default/0",
     "raw": "I'm going to strangle Kevin to death while he sleeps if he licks my lab notes again.",
-    "value": "如果凯文还继续舔我的实验室笔记，我保证会在他睡觉的时候杀了他。"
+    "value": "要是凯文再敢舔我的实验笔记，等他睡着我就掐死他。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantis/default/1",
     "raw": "Underneath my carapace is a heart of gold.",
-    "value": "我冷漠的外表下，有一颗对人热忱的心。"
+    "value": "我的甲壳之下，藏着一颗金子般的心。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantis/default/2",
     "raw": "Ever wonder why humans record their acts of mating for entertainment? It is baffling. Soon, it may be all that remains of them.",
-    "value": "有没有想过，为什么人类要记录他们的交配行为以示娱乐？这令人费解。不过很快，这可能也是他们留给宇宙的所有东西了。"
+    "value": "你是否曾好奇，为何人类会将交配行为录制成娱乐内容？这实在令人费解。或许不久之后，这将成为他们仅存的痕迹。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fudarkizku/default/0",
     "raw": "I honestly had no idea it was possible to coat this entire facility with lip gloss. That was an interesting day.",
-    "value": "老实说，我不知道有没有可能给这整个设施涂上唇彩。那会是有趣的一天。"
+    "value": "说实话，我真没想到能把整个设施都涂上唇彩。那天可真是有意思。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fudarkizku/default/1",
     "raw": "I'd bet 1000 pixels that you can't lick your elbows without dislocating bones.",
-    "value": "我敢打赌，1000个像素，赌你得脱臼才能舔到你的手肘。"
+    "value": "我敢赌一千像素，你绝对没法在不脱臼的情况下舔到自己的手肘。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fudarkizku/default/2",
     "raw": "Let us rejoice and dance the dance of joy.",
-    "value": "让我们欢欣鼓舞，跳起欢乐的舞蹈。"
+    "value": "让我们欢欣鼓舞，跳起喜悦之舞。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fudarkizku/default/3",
     "raw": "Beauty is in the eye of the beholder. My people know this better than most.",
-    "value": "美存在于欣赏者的眼中。我的人民比大多数人更了解这一点。"
+    "value": "美存在于观者眼中。我族对此的理解，比多数人更为深刻。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fudarkizku/default/4",
     "raw": "What are you staring at? There is science to do!",
-    "value": "你瞅啥呢？科学证明还不够吗!"
+    "value": "你在看什么？科学正等着我们去探索！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fudarkizku/default/5",
     "raw": "There is no reality in which you are smarter than I.",
-    "value": "事实上，你没有我聪明。"
+    "value": "在任何情况下，你都不可能比我更聪明。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fudarkizku/default/6",
     "raw": "I'd love to skin a ponex and stuff its rotting carcass. Taxidermy is a hobby of mine, and Ponexes are horrifying flesh-devouring monsters.",
-    "value": "我喜欢剥下彩虹小马的皮肤然后在里面填充各种腐烂动物的尸体。标本制作是我的一个爱好，而这些儿童邪典是他妈的食肉怪物。"
+    "value": "我倒是很想剥下一只“彩虹马驹”的皮，把它的腐尸做成标本。标本制作是我的爱好，而“彩虹马驹”是那种令人毛骨悚然、吞噬血肉的怪物。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fudarkizku/default/7",
     "raw": "Dogs are incapable of flight. Who knew? Sorry, Fluffy! *sob*",
-    "value": "狗没法飞，我很抱歉，毛毛！*哭泣*"
+    "value": "狗儿不会飞，谁曾想到呢？抱歉了，毛毛！*啜泣*"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fudarkizku/default/8",
     "raw": "There is no reality in which you are smarter than I.",
-    "value": "事实上，你没有我聪明。"
+    "value": "在任何情况下，你都不可能比我更聪明。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/0",
     "raw": "I wish these glasses fit me properly. But they don't. As a result I look like an idiot. Thanks, Kevin.",
-    "value": "我希望这些眼镜里有能适合我的，不过很可惜。另外需要一提的是，真多亏了凯文，我看起来像个白痴一样。"
+    "value": "真希望这副眼镜能合适我，可惜并不。结果我看起来像个傻瓜。谢谢你啊，凯文。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/1",
     "raw": "I am currently designing a bio-agent keyed to Kevin's immune system. It will give him chronic vomiting issues for a long, long time.",
-    "value": "我正在开发一种以凯文免疫系统为基础的生物试剂，希望可以治好他的长期呕吐问题。"
+    "value": "我正在设计一种针对凯文免疫系统的生物制剂，它将让他长期遭受慢性呕吐的困扰。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/0",
     "raw": "There's so much data for me to record around here. It is fascinating.",
-    "value": "这么多的数据，我全都记录下来了。这真是让人着迷。"
+    "value": "这里的数据多得让我应接不暇，真是令人着迷。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/1",
     "raw": "Hopefully this location will be a good place for my research into what happened to Earth.",
-    "value": "希望这里将会是我研究地球到底发生什么事的好地方。"
+    "value": "希望这个地点能成为我研究地球遭遇之谜的理想场所。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/2",
     "raw": "I'm writing a research paper on biodiversity. It will be extremely important.",
-    "value": "我在写一篇关于生物多样性的研究论文。这将是非常重要的论文。"
+    "value": "我正在撰写一篇关于生物多样性的研究论文，这将至关重要。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/human/default/3",
     "raw": "I'm not quite sure yet, but I think my hypothesis is correct. More testing is required.",
-    "value": "我还不太确定，我需要进行更多的测试以证明我的假设是对的。"
+    "value": "我还不太确定，但我觉得我的假设是正确的。还需要更多的测试来验证。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/floran/default/0",
     "raw": "I'd love to ssskin a ponex and ssstuff its rotting carcassss. Taxidermy isss a hobby of mine.",
-    "value": "我想要一个彩虹虹虹小马的尸体。制作动物标本一直是我的爱好。"
+    "value": "我很想剥一只彩虹小小小马的皮，把它的腐尸尸尸做成标本。标本剥制是我的爱好。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/floran/default/1",
     "raw": "I'm hesssitant to publisssh these findings. Sssome things should not be shared, but instead...ssstabbed!",
-    "value": "我不愿意公布我发现的。某些东西不不不应该用来共享，而应该用来...刺别人！"
+    "value": "我犹豫是是是否该公布这些发现。有些事事事不该公之于众，而应...彻底捅捅捅杀！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/floran/default/2",
     "raw": "I ssswears I am reformified and no longer eatsss fleshes of sssentients. Mostly.",
-    "value": "我发誓，我再也不会吃吃吃这么多肉了。"
+    "value": "我发誓誓誓我已经改过自新，不再吃智慧生生生灵的肉了。基本上是这样。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/avian/default/0",
     "raw": "I have no qualms about flight. It's the landing that presents the issue.",
-    "value": "我对飞行没有质疑。不过这次登陆过程出现了一些问题。"
+    "value": "我对飞行毫无畏惧，问题在于如何着陆。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/avian/default/1",
     "raw": "Personally, I think religion is a sham and should be erased from existence. My people, shamefully, disagree.",
-    "value": "就个人而言，我认为宗教信仰是虚构的，这种虚假的东西本就应该从现实中被消除。我的族人认为我是错的，不同意我的看法。"
+    "value": "我个人认为，宗教不过是一场骗局，应当彻底消失。遗憾的是，我的同胞们并不认同这一点。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/avian/default/2",
     "raw": "I often wonder exactly what is wrong with people that think sentient mystical ponies are acceptable entertainment sources.",
-    "value": "我一直想知道，可以接受彩虹小马的人到底是对还是错。"
+    "value": "我常常纳闷，那些认为有感知力的神秘小马可以作为娱乐消遣的人，到底哪里不对劲。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/avian/default/3",
     "raw": "I mean, just look at these stupid things! How do they operate machinery? They have hooves! And building castles? How?",
-    "value": "我的意思是，看看这些愚蠢的东西吧！他们是如何操作机器的？他们用的是蹄子！还能建造城堡？怎么建的？"
+    "value": "我是说，看看这些蠢东西！它们怎么操作机械？它们长着蹄子！还有建城堡？怎么可能？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/avian/default/4",
     "raw": "And don't spew that cop-out 'magic' nonsense. There's no such thing!",
-    "value": "而且请不要喷出那种应付式的“魔法”废话。根本没有这种东西！。"
+    "value": "别再用“魔法”这种借口来搪塞了。根本不存在这种东西！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/hylotl/default/0",
     "raw": "^cyan;Silicon^reset;? That's easy. Loose Silt sand, in an extractor. How do you not know this by now?",
-    "value": "你要^cyan;硅^reset;？这很简单，把沙丢到萃取设备里就好了。"
+    "value": "你要^cyan;硅^reset;？这很简单。找些松散的沙，用萃取设备处理。你怎么到现在还不知道这个？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/hylotl/default/1",
     "raw": "Everything you know is wrong. Science has proven this to us time and time again. I sense another breakthrough of this nature is coming soon.",
-    "value": "你所知道的一切都错了。科学已经一次又一次地向我们证明了这一点。我感觉这种性质的另一个突破很快就会到来。"
+    "value": "你所知的一切都是错误的。科学已经一次又一次地向我们证明了这一点。我感觉到，另一场类似的突破即将到来。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/hylotl/default/2",
     "raw": "Universal Constants are that way for a reason. Why am I trying to change one?!?! I'm a ^yellow;genius^reset;, thats why!",
-    "value": "通用常量这样规定肯定是有原因的。不过我为什么要改他妈的一个呢？！？！我真是一个^yellow;天才^reset;，这就是原因！"
+    "value": "宇宙常数之所以如此，自有其道理。我为何要试图改变其中之一？！因为我是^yellow;天才^reset;，这就是原因！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/hylotl/default/3",
     "raw": "Whatever you do, never trust Kevin. Not entirely. His heart is in the right place. His mind, on the other hand...",
-    "value": "无论你做什么，永远不要相信凯文。也不完全是吧。他的心在正轨上。不过相对来说，他的小脑壳里面..."
+    "value": "无论你做什么，都别完全相信凯文。他本心不坏，但心思嘛...就不好说了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/default/0",
     "raw": "Distinguished. I have obtained no less than 11 scientific accolades.",
-    "value": "尊敬。 我获得了至少十一项科学奖项。"
+    "value": "卓越。我已荣获不少于11项科学奖项。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/default/1",
     "raw": "Pleased. You are a well respected member of this research community.",
-    "value": "很高兴。 你在这个科学研究机构里是一位受人尊敬的科学家。"
+    "value": "高兴。您是这一研究领域备受尊敬的成员。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/default/2",
     "raw": "Informative. There are 1,282 follicles on your nose. Each appears to be more hateful than the last.",
-    "value": "增长见闻。 你的鼻子上有1,282个毛囊。每一个似乎都比上一个更可恨。"
+    "value": "见闻。你的鼻子上有1282个毛孔。每一个看起来都比上一个更令人讨厌。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/glitch/default/3",
     "raw": "Annoyed. Kevin. Why does he exist?",
-    "value": "恼怒。 所以凯文这比为啥子会存在哦？"
+    "value": "恼怒。凯文。他为何存在？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/novakid/default/0",
     "raw": "Agreeing to disagree is always preferable to the alternative.",
-    "value": "同意不同意见总比做另类更好。"
+    "value": "与其争执不休，不如求同存异。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/novakid/default/1",
     "raw": "I kin' feel fer the people with nobody to love. Grief ain't nothin' to wish on anyone.",
-    "value": "我让没有人去爱的人感到恐惧。而悲伤却并没有向任何人祈愿。"
+    "value": "我能体会那些无人可爱的人的心情。悲伤这东西，真不该降临在任何人身上。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/novakid/default/2",
     "raw": "I may not have what ye'd call a 'degree' in science, but I kin sure get the research done if I'm needin' ter!",
-    "value": "我可能没有所谓的“科学”学位，但是如果我需要的话，我可以立马就完成研究！"
+    "value": "我可能没有你们所说的那种科学“学位”，但只要需要，我肯定能把研究搞定！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/novakid/default/3",
     "raw": "Sometimes I feel a bit lonely. When that 'appens, I'll jes' sing ter myself softly. Often in the dark.",
-    "value": "有时候我感到有点孤独。当我有这种感觉到时候，我通常会在暗处轻声唱歌。"
+    "value": "有时我会感到些许孤单。每当这时，我便会在黑暗中轻声为自己哼唱。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/novakid/default/4",
     "raw": "Life kin be bad from time ter time. When yer feeling down, you just need ter find yer center again.",
-    "value": "生活有时会很糟糕。当你坠入低谷时，你只需要再次找到心之所向即可。"
+    "value": "生活偶尔会不如意。当你感到低落时，只需重新找回内心的平静。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/novakid/default/5",
     "raw": "I hear someone 'eer found a new dimension called...er...K4VC-9? 'Parently, it's all made o' shrimps!",
-    "value": "我听说有人发现了一个新的空间，叫做......呃......K4VC-9？老表们，这世界里面什么都是由虾子做的！"
+    "value": "听说有人发现了一个新维度，叫什么来着...K4VC-9？据说那地方完全是由虾构成的！"
   }
 ]

@@ -3,66 +3,66 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/hail/default/default/0",
     "raw": "Hostile. Intruder!",
-    "value": "敌对。你是个入侵者！"
+    "value": "敌意。入侵者！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/hail/default/default/1",
     "raw": "Intimidating. Fall to your knees and beg for mercy!",
-    "value": "恐吓。你还不快点跪下求饶？"
+    "value": "恐吓。跪下求饶吧！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/hail/default/default/2",
     "raw": "Confident. You will die this day!",
-    "value": "信心。你今天会死在这里！"
+    "value": "信心。今日便是你的死期！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/hail/default/default/3",
     "raw": "Arrogant. You shall be an easy kill.",
-    "value": "自大。你太容易被击杀了。"
+    "value": "自大。你会很容易被杀死。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/hail/default/default/4",
     "raw": "Bloodthirsty. Don't die too quickly; I want to savour this!",
-    "value": "嗜血。别这么容易死，我还没有出力呢！"
+    "value": "嗜血。别死得太快，我还想好好品味这一刻呢！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/hail/default/default/5",
     "raw": "Excited. Finally, a worthy adversary!",
-    "value": "兴奋。终于遇到一位值得一战的敌人。"
+    "value": "兴奋。终于，来了个像样的对手！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/hail/default/default/6",
     "raw": "Threatening. You chose the wrong castle to invade!",
-    "value": "威胁。你选了个错误的对手！"
+    "value": "威胁。你选错了要攻打的城堡！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/hail/default/default/7",
     "raw": "Daring. Come forth and prove your mettle!",
-    "value": "大胆。来吧，证明你的勇气！"
+    "value": "大胆。来吧，展现你的实力！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/hail/default/default/8",
     "raw": "Malevolent. I will run you through!",
-    "value": "恶意。我会让你安全过去的！"
+    "value": "恶意。我会把你捅个对穿！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/hail/default/default/9",
     "raw": "Furious. Prepare to die, intruder!",
-    "value": "狂怒。准备死吧，入侵者！"
+    "value": "狂怒。准备受死吧，入侵者！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/hail/default/default/10",
     "raw": "Contemptuous. What a repulsive specimen you are!",
-    "value": "蔑视。你真让我讨厌！"
+    "value": "蔑视。你这副模样真是令人作呕！"
   }
 ]

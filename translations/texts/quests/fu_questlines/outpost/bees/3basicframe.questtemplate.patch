@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/text",
     "raw": "A ^orange;Basic Frame^reset; is placed within an ^green;apiary^reset; to act as housing for the bees. Create one now.",
-    "value": "^orange;基础巢框^reset;在^green;蜂箱^reset;中作为蜜蜂的房子来使用。立马做一个看看。"
+    "value": "将一个^orange;基础巢框^reset;放置在^green;蜂房^reset;内，作为蜜蜂的栖息之所。现在制作一个。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "There are ^green;many types of frames^reset;, and different bees will prefer certain types. You'll need to be creative.",
-    "value": "^orange;巢框有许多种类^reset;，不同的蜜蜂喜好不同。这需要你来摸索。"
+    "value": "^green;巢框种类繁多^reset;，不同的蜜蜂会偏爱特定的类型。你需要发挥创意。"
   }
 ]

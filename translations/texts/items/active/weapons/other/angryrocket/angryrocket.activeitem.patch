@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Deadly rockets. Internal battery charged by your energy pool when not in use.\n^cyan;Heat-Seeking Alt (3 tick lock-on)^reset;\n^yellow;Alt slows, irradiates and burns!^reset;",
-    "value": "致命的火箭. 当其不被使用时其内部电池由你的能量池充能。\n^cyan;热感应寻敌(3刻度锁定)^reset;\n^yellow;造成减速, 辐射和烧伤!^reset;"
+    "value": "致命的火箭。闲置时，由你的能量池为其内置电池充电。\n^cyan;次要攻击热寻式制导（3秒锁定）^reset;\n^yellow;次要攻击造成减速，辐射和烧伤！^reset;"
   },
   {
     "op": "replace",

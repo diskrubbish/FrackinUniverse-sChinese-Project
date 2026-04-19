@@ -3,151 +3,151 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/default/default/0",
     "raw": "Perhaps together we can annihilate our foes.",
-    "value": "带上我，我们就能消灭所有的敌人。"
+    "value": "或许我们可以联手，一举歼灭我们的敌人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/default/default/1",
     "raw": "I wish to utilize my weaponry on the enemy. Hire me.",
-    "value": "我渴望将我的攻击倾泻到敌人身上，雇用我吧。"
+    "value": "我希望用我的武器对付敌人。雇佣我吧。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/default/default/2",
     "raw": "My programming requires that I obliterate the enemy. Hire me!",
-    "value": "我只为抹灭敌人而存在，雇用我吧。"
+    "value": "我的编程指令要求我彻底消灭敌人。雇佣我吧！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/default/default/3",
     "raw": "We should band together and annihilate your foes.",
-    "value": "我们应当团结起来，消灭你的敌人。"
+    "value": "我们应当团结一致，彻底消灭你的敌人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/floran/default/0",
     "raw": "Let'ss work together and annihilate our foess.",
-    "value": "让让我们一起努力，消灭我们的垃圾。"
+    "value": "让我们携携携手并肩，彻底击溃敌人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/floran/default/1",
     "raw": "Floran wantss to sstab and burn enemiess. Hire Floran.",
-    "value": "叶族人想想想要刺杀和烧死敌人人人. 雇用叶族人。"
+    "value": "叶族人渴望刺刺刺穿并焚烧烧烧敌人。雇佣叶族人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/floran/default/2",
     "raw": "Floran's programming requires that Floran obliterate the enemy. Hire Floran!",
-    "value": "叶族人的程式要求叶族人消灭敌人。雇用叶族人！"
+    "value": "叶族人的编程指令要求我彻底消消消灭敌人。雇佣叶族人！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
     "raw": "Menacing. My organic components feel only rage. Let us annihilate our foes together.",
-    "value": "威胁。 我的有机成分只感觉到愤怒。让我们一起消灭我们的敌人。"
+    "value": "威胁。我的有机体只感受到愤怒。让我们一同歼灭敌人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
     "raw": "Fevered. I was told that the installation of an Apex adrenal gland would drive me insane. I acquired one anyways. Hire me.",
-    "value": "狂热。 有人告诉我，安装猿人肾上腺会让我发疯。无论如何我已经用上了。雇用我。"
+    "value": "狂热。有人告诉我，安装猿族的肾上腺会让我发疯。但我还是装上了。雇佣我吧。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
     "raw": "My organic brain components drive me to obliterate the enemy. Hire me!",
-    "value": "我的有机脑成分驱使我消灭敌人。雇用我吧！"
+    "value": "我的有机体只感受到愤怒。让我们一同歼灭敌人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
     "raw": "I will interface with SAIL and increase your ships speed.",
-    "value": "我将对接SAIL，提高你的飞船速度。"
+    "value": "我将与SAIL系统对接，以提升你飞船的航行速度。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
     "raw": "Floran will interface with SAIL and increase ssship sspeed!",
-    "value": "叶族人将与SAIL对接，提高飞飞飞船速度"
+    "value": "叶族人将与SAIL系系系统对接，以提升飞船的航行速速速度！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Intense. With my biological enhancements, I can increase your ships speed.",
-    "value": "疯狂。 通过我的生物强化，我可以提高你的船的速度。"
+    "value": "疯狂。凭借我的生物强化技术，我能提升你飞船的速度。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/0",
     "raw": "I remain ever-ready to vanquish the enemy.",
-    "value": "我一直在待命中，快下令让我杀掉所有胆敢与你为敌的人吧。"
+    "value": "我时刻准备着征服敌人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/1",
     "raw": "Circuits reset. Commencing program.",
-    "value": "程序已启动，开始运行。"
+    "value": "电路重置。程序启动。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/default/default/2",
     "raw": "I seek retribution, fearless leader.",
-    "value": "我寻求业报，无惧的长官。"
+    "value": "我寻求复仇，无畏的领袖。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/0",
     "raw": "Floran remainss ever-ready to vanquish enemiess.",
-    "value": "叶族人仍然随时准备征服敌人人人."
+    "value": "叶族人随时时时准备征服敌人。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/1",
     "raw": "Circuitss reset. Commencing program.",
-    "value": "电路复位，开始程序。"
+    "value": "电路重置。程序序序启动。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/floran/default/2",
     "raw": "Floran sseekss retribution, sstrong leader.",
-    "value": "叶族人寻寻寻求报应，和强大大大的领导者。"
+    "value": "叶族人寻寻寻求复仇，强强强大的领袖。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/0",
     "raw": "Manic. I cannot rest until I slay the one who slew me.",
-    "value": "狂躁。 不杀了杀我的人，我是不会罢休的。"
+    "value": "狂躁。不杀仇敌，誓不罢休。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/1",
     "raw": "Concerned. My organic neural components appear to have grown in size. Is this normal?",
-    "value": "关注。 我的有机神经元件似乎长大了。这正常吗？"
+    "value": "关注。我的有机神经组件似乎变大了。这正常吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/respawned/glitch/default/2",
     "raw": "Furious. I am ready for retribution, fearless leader.",
-    "value": "气愤。 我已经做好了业报的准备，无畏的领袖。"
+    "value": "气愤。我寻求复仇，无畏的领袖。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
     "raw": "I can protect you from the Aether, and murder things.",
-    "value": "我可以为你抵御以太，并且杀戮敌人！"
+    "value": "我能保护你免受以太的侵害，并消灭威胁。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
     "raw": "Floran hasss things to help you out in the Aether. I also excel at destructive tasks!",
-    "value": "叶族人能能能够提供帮助，让你畅游以太。我同样也精通毁灭之道！"
+    "value": "叶族人能够提供帮助，让你畅游以太。我也擅擅擅长搞破坏！！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Eager. I can grant immunity to Aether and target enemies with glee!",
-    "value": "渴望。 我可以提供以太免疫，并且将敌人轰杀至渣！"
+    "value": "渴望。 我可以提供以太免疫，并满怀欣喜地锁定敌人！"
   },
   {
     "op": "replace",
@@ -159,13 +159,13 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
     "raw": "I'll stay here. Come back when you need me, captain!",
-    "value": "船长，我会在这里待着，直到你需要我。"
+    "value": "我会留在这里。需要我的时候就回来找我，船长！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/2",
     "raw": "I'll stay here for now, captain.",
-    "value": "我会一直待在这里的，船长。"
+    "value": "我暂时留在这里，船长。"
   },
   {
     "op": "replace",
@@ -177,13 +177,13 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/4",
     "raw": "I'll stay here for now, then.",
-    "value": "我会一直待在这里的！"
+    "value": "那我就先留在这里吧。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/default/default/5",
     "raw": "I'll stay here.",
-    "value": "我会一直留守的这里的。"
+    "value": "我会留在这里。"
   },
   {
     "op": "replace",
@@ -195,61 +195,61 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/1",
     "raw": "Floran will sstay here.",
-    "value": "叶族人会待待待在这里。"
+    "value": "叶族人会待在这里。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/floran/default/2",
     "raw": "Floran will sstay, then...",
-    "value": "叶族人会待在这里，然后..."
+    "value": "叶族人会待在这里，那么..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
     "raw": "Obliging. I will remain here for now, then.",
-    "value": "乐于助人。 从现在起，我会一直待在这里。"
+    "value": "尽职。那我就暂时留在这里。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1",
     "raw": "Patient. I can wait here, captain.",
-    "value": "耐心。 我会在这里等待你的下一个命令，船长。"
+    "value": "耐心。我可以在这里等，船长。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2",
     "raw": "Amicable.  I will remain here if you want me to, captain.",
-    "value": "友好。 船长，如果你打算让我待在这里，我会无条件地执行你的命令。"
+    "value": "友好。如果您需要我留下，船长，我会留在这里。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3",
     "raw": "Agreeable. I can stay here if you prefer, captain.",
-    "value": "愉快。 我会听从你的命令待在这里的，船长。"
+    "value": "愉快。如果你希望的话，我可以留在这里，船长。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/0",
     "raw": "I'll just be here... Waiting...",
-    "value": "我会在这里...一直等你..."
+    "value": "我就留在这里...静静等待..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/1",
     "raw": "Alright, boss, I'll wait here.",
-    "value": "好的，船长，我会在这里等你的。"
+    "value": "好的，老大，我就在这儿等着。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/2",
     "raw": "I can wait here.",
-    "value": "我会留守在这里。"
+    "value": "我可以在这里等。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/unfollow/penguin/default/3",
     "raw": "I'll just wait here, rest my flippers.",
-    "value": "我就在这里等着，放松下我的小脚蹼。"
+    "value": "我就在这儿等着，让我的脚蹼歇会儿。"
   },
   {
     "op": "replace",
@@ -261,7 +261,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/default/default/1",
     "raw": "Captain!",
-    "value": "是是是的，船长！"
+    "value": "船长！"
   },
   {
     "op": "replace",
@@ -279,7 +279,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/default/default/4",
     "raw": "Are we going somewhere?",
-    "value": "我们要去哪里？"
+    "value": "我们要去哪儿？"
   },
   {
     "op": "replace",
@@ -303,7 +303,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/floran/default/3",
     "raw": "Floran ready to go again!",
-    "value": "叶族人准备好再次出出出发了！"
+    "value": "叶族人准备好再次出发了！"
   },
   {
     "op": "replace",
@@ -315,37 +315,37 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/0",
     "raw": "Humble. I shall follow, captain.",
-    "value": "谦卑。 我会跟着你的，船长。"
+    "value": "谦卑。遵命，船长。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/1",
     "raw": "Alert. Shall we go, captain?",
-    "value": "提防。 打算去哪里，船长？"
+    "value": "提防。我们出发吧，船长？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/2",
     "raw": "Solemn. Is it time to move, captain?",
-    "value": "庄重。 该走了吗？船长。"
+    "value": "庄重。是时候行动了吗，船长？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/glitch/default/3",
     "raw": "Inquisitive. Are we going somewhere?",
-    "value": "好奇。 我们要去哪里？"
+    "value": "好奇。 我们要去哪儿？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/0",
     "raw": "Okay, I'm ready, waddle on.",
-    "value": "好了，我准备好了！"
+    "value": "好了，我已准备就绪，摇摇摆摆地前进吧。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/follow/penguin/default/1",
     "raw": "Let's go then.",
-    "value": "出发咯。"
+    "value": "那我们出发吧。"
   },
   {
     "op": "replace",
@@ -387,25 +387,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
     "raw": "Let me catch up!",
-    "value": "等等我！"
+    "value": "让我跟上！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/0",
     "raw": "Floran too far away!",
-    "value": "叶族人被拉拉拉在后面了！"
+    "value": "叶族人离太远了！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/1",
     "raw": "Floran iss left behind!",
-    "value": "叶族人离离离你太远了！"
+    "value": "叶族人被落下下下了！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/floran/default/2",
     "raw": "Floran not close enough to you!",
-    "value": "叶族人离你你你不够近！"
+    "value": "叶族人离你还不够近！"
   },
   {
     "op": "replace",
@@ -417,13 +417,13 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1",
     "raw": "Concerned. Wait for me!",
-    "value": "关注。 等会儿我！"
+    "value": "关注。等我啊！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/crew/role/name",
     "raw": "Cyborg",
-    "value": "半机械体"
+    "value": "赛博格"
   },
   {
     "op": "replace",

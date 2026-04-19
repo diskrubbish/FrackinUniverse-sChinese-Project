@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "Quaid's Start",
-    "value": "高级能源"
+    "value": "奎德，启动反应堆！"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "You can generate a lot of power with a ^orange;Fission Reactor^reset; in your lab. Show you can make one using your ^orange;Power Station^reset; and you can have this ^green;crew contract^reset;. I don't have room for crew on my ship anyhow.",
-    "value": "你能在实验室用^orange;裂变反应堆^reset;产出大量电力。证明你能在^orange;能源设备制造器^reset;中制造出来，这份^green;船员合同^reset;就是你的了。我的飞船已经满员了。"
+    "value": "在你的实验室里，用^orange;裂变反应堆^reset;能产生大量能源。只要你能在^orange;能源设备制造器^reset;里造出一个，这份^green;船员合同^reset;就归你了。反正我的飞船上也没地方容纳更多船员。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Great! As thanks: This ^green;contract^reset; will allow you to recruit a ^cyan;unique^reset; hired crewmember!",
-    "value": "太棒了！作为感谢：拿着这个^green;合同^reset;，它能让你雇佣一个^cyan;独特^reset;的船员！"
+    "value": "太好了！作为感谢：这份^green;合同^reset;将允许你招募一名^cyan;独特^reset;的雇佣船员！"
   }
 ]

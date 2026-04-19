@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Crispy on the outside, hot as molten lava on the inside.",
-    "value": "外面酥脆，里面热得像岩浆。"
+    "value": "外皮酥脆，内里滚烫如熔岩。"
   },
   {
     "op": "replace",
@@ -21,12 +21,12 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Tentative. I should be careful to not to scald myself eating this.",
-    "value": "试探。 吃这个东西的时候我应该小心一点防止烫伤自己。"
+    "value": "试探。我得小心别把自己烫着了。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Nothin' fancy, but mighty tasty all the same.",
-    "value": "没什么特别的，但还是很好吃。"
+    "value": "虽不花哨，却同样美味十足。"
   }
 ]

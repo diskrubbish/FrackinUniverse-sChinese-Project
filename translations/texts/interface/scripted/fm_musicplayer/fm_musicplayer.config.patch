@@ -3,19 +3,19 @@
     "op": "replace",
     "path": "/gui/settings/children/labelLabel/value",
     "raw": "Toggle current track label above object",
-    "value": "切换至当前跟踪标签上方的对象"
+    "value": "切换对象上方的当前轨道标签"
   },
   {
     "op": "replace",
     "path": "/gui/settings/children/rangeLabel/value",
     "raw": "Select music player range (Default is 30)",
-    "value": "选择音乐播放器范围(默认为30)"
+    "value": "选择音乐播放器范围（默认值为30）"
   },
   {
     "op": "replace",
     "path": "/gui/settings/children/rangeSublabel/value",
     "raw": "^red;This setting only applies to this specific music player, and not to every other one its wired to.",
-    "value": "^red;该设置只适用于此特定的音乐播放器，而不适用于它连接到的其他播放器。"
+    "value": "^red;此设置仅适用于此特定音乐播放器，不适用于与其连接的其他任何设备。"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
     "op": "replace",
     "path": "/gui/titleSubtext/value",
     "raw": "Frackin' Music Player",
-    "value": "Frackin'音乐播放器"
+    "value": "富兰克林音乐播放器"
   },
   {
     "op": "replace",

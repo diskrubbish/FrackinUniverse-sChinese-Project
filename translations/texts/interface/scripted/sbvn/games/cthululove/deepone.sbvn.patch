@@ -3,43 +3,43 @@
     "op": "replace",
     "path": "/displayConfig/title",
     "raw": "Humped by a Deep One",
-    "value": "深陷"
+    "value": "沉溺深潜者之中"
   },
   {
     "op": "replace",
     "path": "/displayConfig/subtitle",
     "raw": "A sickening, creepy love epic",
-    "value": "令人作呕的，可怕的爱情史诗"
+    "value": "一部令人作呕、毛骨悚然的爱情史诗"
   },
   {
     "op": "replace",
     "path": "/scenes/pre_credits/text",
     "raw": "[This appears to be a journal, written by one C.C Wagner. The cover is blood-stained, ruining the once meticulously tidy book. Mostly, it's boring entries detailing nothing interesting. Sample data, climate experiments...]",
-    "value": "[这本日志似乎是C.C.瓦格纳的。日志的封面满是斑驳的血迹，里面的内容大多数是一些日常记录，像是样本数据和一些气候实验等等内容。]"
+    "value": "[这似乎是一本日记，由一位名叫C.C.瓦格纳的人所写。封面沾有血迹，破坏了原本精心打理的书本外观。内容大多是枯燥的条目，记录着无趣的日常：样本数据、气候实验...]"
   },
   {
     "op": "replace",
     "path": "/scenes/intro0/text",
     "raw": "[...and then you find the juicy bits. Near the end of the book, scrawled in a more hasty hand (yes, they actually wrote on real live paper instead of digital!) a number of entries are found that are quite unsettling.]",
-    "value": "[...你继续翻阅着，接着你感觉这本湿漉漉的。在这本书的后面，字迹更加潦草，在仔细分辨字迹时，你发觉这字迹根本就是直接用手指沾着鲜血书写的，接下来的内容更让你坐立不安了。]"
+    "value": "[...接着，你发现了那些引人入胜的细节。在书的末尾，有几处匆忙写下的记录（没错，他们是真的写在实实在在的纸上，而非数字设备上！），读来令人颇为不安。]"
   },
   {
     "op": "replace",
     "path": "/scenes/intro1a/text",
     "raw": "Jun 4 - Something in the ice",
-    "value": "6月4日-冰里的东西"
+    "value": "6月4日 - 冰封之物"
   },
   {
     "op": "replace",
     "path": "/scenes/intro1/text",
     "raw": "The driller fell through the damned ice! The entire thing is lost, utterly unsalvagable without some means to block the effects of the liquid nitrogen pool. And that still doesn't help lug the thing out.",
-    "value": "司钻掉进了该死的冰里！如果没有一些方法来阻止液氮池的影响，整个事情就会完全失去意义，完全无法挽救。但这仍然不能帮助我们把这东西拖出来。"
+    "value": "司钻掉进了该死的冰层！如果没有办法阻隔液氮池的影响，整个钻探设备就彻底报废了，完全无法抢救。可即便解决了液氮问题，我们还是没法把那玩意儿拖出来。"
   },
   {
     "op": "replace",
     "path": "/scenes/intro2/text",
     "raw": "We found some sort of corpse in the ice. I can't even discern what it is. Never seen anything like it. It's like a chimera of lifeforms. Terrifying to behold. I'm going to bring it to MacReady to autopsy.",
-    "value": "我们在冰层中发现了一些尸体。我无法根据它们的外貌分辨出它到底是什么生物，因为我根本没有见过这样的物种。这太可怕了，不过我还是得把它们带给麦克瑞迪，或许在他对它们进行解剖后就能真相大白了。"
+    "value": "我们在冰层里发现了一具尸体，完全辨认不出是什么东西。从未见过这样的生物，简直像是多种生命体的嵌合体。看着就让人毛骨悚然。我打算把它带给麦克瑞迪做解剖分析。"
   },
   {
     "op": "replace",
@@ -51,13 +51,13 @@
     "op": "replace",
     "path": "/scenes/intro3c/text",
     "raw": "MacReady has been acting strange lately. I can't place my finger on it, but ever since that...thing...fell under his operating knife he's changed. It's unsettling.",
-    "value": "麦克瑞迪最近变得有些奇怪。从那次解剖实验之后他就不一样了，这令我有些不安。"
+    "value": "麦克雷迪最近举止怪异。我说不清具体从何时开始，但自打那...东西...在他的手术刀下被剖开之后，他就变了。这令人不安。"
   },
   {
     "op": "replace",
     "path": "/scenes/intro3a/text",
     "raw": "Actually, I think it may be in the eyes. It's almost as if he sees you and...knows you. Knows you in ways he shouldn't. He remarked on Doakes's sordid past, and he wasn't there.",
-    "value": "说真的，我认为这种改变更多体现在于眼睛。他似乎可以无时无刻地监视你，探寻你的内心。他曾在背地里辱骂多克，这在以前，这是不可能会发生的。"
+    "value": "实际上，我觉得问题可能出在他的眼神里。他看你的样子，就好像...能看透你。以一种本不该有的方式了解你。他提到了多克斯不堪的过去，可当时他并不在场。"
   },
   {
     "op": "replace",
@@ -69,19 +69,19 @@
     "op": "replace",
     "path": "/scenes/intro4/text",
     "raw": "We found one of the dogs this morning. It had been strung up and vivisected. Its organs were in a neat pile beside it on the floor, stacked to resemble that malign aberration I found.",
-    "value": "今天我们发现了一条狗，准确的说，是一条狗的尸体。从它挣扎的痕迹看出，它是活生生的被吊起来然后被解剖的，而它的器官则在地板上整齐地罗列着，它就好像我交给麦克瑞迪的生物一样，完美地被解剖开了。"
+    "value": "今天早上我们发现了一只狗。它被吊起并实施了活体解剖，器官整整齐齐堆在身旁地板上，排列方式竟与我们之前发现的那个恶性变异体如出一辙。"
   },
   {
     "op": "replace",
     "path": "/scenes/intro5/text",
     "raw": "We've confined MacReady to the labs. He's totally lost it. At least we can seal the door remotely and he can be holed up with that...thing. I should investigate beyond the cliffs...see what is going on.",
-    "value": "我们把麦克瑞迪关在了实验室里。这下他没法出来了！我应该去原先的那个山崖下方，看看到底是什么让麦克瑞迪变得如此...癫狂。"
+    "value": "目前我们已将麦克雷迪禁闭在实验室内。他已完全失控。至少我们可以远程封住门，让他和那个...东西困在一起。我得去悬崖那边探查一下...看看究竟发生了什么。"
   },
   {
     "op": "replace",
     "path": "/scenes/intro6/text",
     "raw": "I'm taking the first rover tomorrow morning, and leaving the second for the rest should I fail to return. At least then they can still escape. Now we just need to hope for some damned answers. I'm starting to lose it.",
-    "value": "明天早上我将乘坐第一辆探测车，如果我不能返回，我将把第二辆留给其余的人。至少他们还有机会逃跑。现在我们只需要期待一些该死的答案。我开始失控了。"
+    "value": "明天一早我就驾驶第一辆漫游车出发，如果我没能回来，第二辆就留给其他人。至少这样他们还有机会逃离。现在，我们只能寄希望于那些该死的答案了。我快要撑不住了。"
   },
   {
     "op": "replace",
@@ -93,73 +93,73 @@
     "op": "replace",
     "path": "/scenes/intro8/text",
     "raw": "The find I have just made rewrites the knowledge of the cosmos in its entirety. There are ruins past the mountain. It was a treacherous climb but well worth it. This place is ancient beyond telling.",
-    "value": "我眼前的一切彻底颠覆了我的认知。这个地方非常的古老，可能在还没有发明语言之前就已经存在了。"
+    "value": "山峦另一侧的发现彻底颠覆了我对宇宙的认知。那是一座险峻而陡峭的山峰，攀登异常艰难，却终究值得。此地古老得难以言喻。"
   },
   {
     "op": "replace",
     "path": "/scenes/intro9/text",
     "raw": "These ruins match no known species, language or style I am aware of. Something about them is wrong, though. The angles are just...off. Dimensions seem larger or smaller than they should. My mind is cracking.",
-    "value": "废墟中看到的雕像与我见过的物种完全不符合，所有物种应该有的特征在这些雕像上完全体现不出来。我感觉我的脑子快要裂开了。"
+    "value": "此处的建筑风格、铭文与壁画，与任何已知文明皆不相符。它们的存在本身便违背常理，结构的角度扭曲异常，维度时大时小。我的思维正在崩溃。"
   },
   {
     "op": "replace",
     "path": "/scenes/intro10/text",
     "raw": "My vision slowly returns to me, and I feel warm sand beneath my hands and feet. Am I on a planet's surface? Is that the sun I feel upon me, or perhaps I am merely on fire?",
-    "value": "我的视觉慢慢的恢复，我感到手和脚下有温暖的沙子。我是在行星的表面上吗？那感觉是太阳，还是仅仅是我在燃烧？"
+    "value": "我的视线逐渐清晰，手与脚底传来温热的沙粒触感。我这是身处某颗星球的地表吗？那照耀着我的，究竟是真实的太阳，还是我自身在燃烧的错觉？"
   },
   {
     "op": "replace",
     "path": "/scenes/intro11/text",
     "raw": "I am not on fire, but that doesn't give me much reassurance. The place I am in is almost entirely unfamiliar.",
-    "value": "我没有着急，但也并不舒心。我所处的地方几乎完全陌生。"
+    "value": "我并未身处火海，但这并未让我感到多少安心。眼前的一切几乎完全陌生。"
   },
   {
     "op": "replace",
     "path": "/scenes/intro12/text",
     "raw": "I am on the shore of a small island, in the center of which is a grand pagoda. A sun sets above me. It is clear to me that I must plan my next move very carefully...",
-    "value": "我在一个小岛的岸边，岛的中心是一座宏伟的宝塔。太阳在我头上落下。很明显，我必须非常仔细地计划我的下一步行动..."
+    "value": "我站在一座小岛的岸边，岛中央矗立着一座宏伟的宝塔。夕阳在我头顶缓缓沉落。我清楚地意识到，必须审慎规划下一步的行动..."
   },
   {
     "op": "replace",
     "path": "/scenes/sneak1/text",
     "raw": "An unfamiliar land, a pounding headache... I decide to approach this situation with stealth. I crouch low, making my way across the beach towards the pagoda.",
-    "value": "一处陌生的地方，一阵剧烈的头痛...我决定悄悄地处理这种情况。我低下身，穿过海滩朝宝塔走去。"
+    "value": "陌生的土地，剧烈的头痛...我决定悄然应对。我压低身子，沿着海滩匍匐前进，朝那座塔楼靠近。"
   },
   {
     "op": "replace",
     "path": "/scenes/sneak2/text",
     "raw": "The air is quiet, except for the soft lapping of waves on this mysterious beach. The ocean appears to be water, and not acid or magma. This fact calms me somewhat.",
-    "value": "空气是安静的，除了在这处神秘的海滩上轻轻拍打的海浪。海洋似乎是水，而不是酸或岩浆。这个事实使我平静了一些。"
+    "value": "空气静谧，唯有神秘海滩上轻柔的浪花拍岸声。眼前的大海是澄澈的水体，而非酸液或熔岩，这让我稍感安心。"
   },
   {
     "op": "replace",
     "path": "/scenes/sneak3/text",
     "raw": "I hear voices! I hide behind a nearby post. The architecture is all Hylotl, so at least my chances of being in Floran territory seems low.",
-    "value": "我听到声音了！我躲在附近的一根柱子后面。这里的建筑都是鲛人风格的，所以至少我进入叶族人领土的几率似乎不大。"
+    "value": "我听到声音了！我赶紧躲到旁边一根柱子后面。这里的建筑风格全是鲛族的，看来我身处叶族领地的可能性应该不大。"
   },
   {
     "op": "replace",
     "path": "/scenes/sneak4/text",
     "raw": "Outside the entrance to the pagoda, I see a girl, kneeling in the sand. I gasp, unable to steel myself, and she turns to see me!",
-    "value": "在塔门外，我看见一个女孩跪在沙滩上。我喘着粗气，无法控制自己，之后她转过身来看我！"
+    "value": "塔门外，我看见一个女孩跪在沙地上。我倒吸一口气，无法镇定心神，而她恰好转身，与我四目相对！"
   },
   {
     "op": "replace",
     "path": "/scenes/yell1/text",
     "raw": "I panic and start yelling. I'm sure I will draw the attention of a helpful authority figure who will help me in my predicament.",
-    "value": "我惊慌失措，开始大喊大叫。我确信我会引起一个有帮助的权威人物的注意，他会在困境中帮助我。"
+    "value": "我惊慌失措，开始大喊大叫。我确信这会引起一位乐于助人的权威人士的注意，他会帮我摆脱困境。"
   },
   {
     "op": "replace",
     "path": "/scenes/yell2/text",
     "raw": "However, who instead greets me is a beautiful girl, dressed in strange ceremonial robes. Grasped in her hands is a pink staff.",
-    "value": "然而，迎接我的却是一个美丽的姑娘，穿着奇怪的礼服。她的手里握着一根粉红色的拐杖。"
+    "value": "然而，迎接我的却是一位身着奇异礼袍的美丽少女，她手中紧握着一根粉色的法杖。"
   },
   {
     "op": "replace",
     "path": "/scenes/kasumi1a/text",
     "raw": "\"Who are you, and why are you sneaking around?\" says the girl, light dancing off her beautiful, clammy skin.",
-    "value": "“你是谁？为什么在这附近鬼鬼祟祟？”，那个女孩说道，她那湿漉漉的美丽皮肤上的光芒在翩翩起舞"
+    "value": "“你是谁，鬼鬼祟祟地在这里做什么？”那个女孩说道，她那湿漉漉的美丽皮肤上的光芒在翩翩起舞"
   },
   {
     "op": "replace",
@@ -171,67 +171,67 @@
     "op": "replace",
     "path": "/scenes/explanation1a/text",
     "raw": "\"You're at the Grand Hylotl Library, which is opening one week from tonight.\" She explains.",
-    "value": "“你现在在大塔图书馆，本图书馆从今晚起开放一周”她解释到。"
+    "value": "“你正身处大塔图书馆，它将于今晚起一周后正式开放。”她解释到。"
   },
   {
     "op": "replace",
     "path": "/scenes/explanation2a/text",
     "raw": "\"No-one else is supposed to be here whilst I bless the island! Why did you come here?\"",
-    "value": "“当我为这座岛祈福的时候，其他人不该在这里！你为什么会来这里？”"
+    "value": "“在我为这座岛屿祈福时，本不该有旁人在场！你为何会来此地？”"
   },
   {
     "op": "replace",
     "path": "/scenes/explanation1b/text",
     "raw": "\"I am Kasumi, a shrine maiden sent to bless the Grand Hylotl Library before its opening next week.\" She explains.",
-    "value": "“我是霞，我是在下周为大塔图书馆开幕仪式祈福的巫女。”她说道。"
+    "value": "“我是霞，一名被派来为即将在下周开放的大塔图书馆祈福的巫女。”她说道。"
   },
   {
     "op": "replace",
     "path": "/scenes/explanation2b/text",
     "raw": "\"No-one else is supposed to be here, though! Why did you come here?\"",
-    "value": "“任何人都不该在这里！你为什么会来这里？”"
+    "value": "“这里应该没有别人啊！你怎么会来这里？”"
   },
   {
     "op": "replace",
     "path": "/scenes/question_beauty1/text",
     "raw": "She is taken aback by the abruptness of my statement. I panic, wondering why that would be one of the first things I would say to a girl.",
-    "value": "我发言的唐突使她吃了一惊。我惊慌失措，想知道为什么这会是我对一个女孩说的第一句话。"
+    "value": "她被我这突如其来的话语惊得愣住了。我心中一阵慌乱，不明白为何会对一个女孩说出这样的话作为开场白。"
   },
   {
     "op": "replace",
     "path": "/scenes/question_beauty2/text",
     "raw": "She replies, \"Well I'm afraid you've come to the wrong place, because the Grand Hylotl Library isn't open to the public just yet.\"",
-    "value": "她回答说: “恐怕你来错地方了，因为大塔图书馆还没有对公众开放。”"
+    "value": "她回答道：“恐怕您来错地方了，因为宏伟的大塔图书馆目前尚未对公众开放。”"
   },
   {
     "op": "replace",
     "path": "/scenes/question_beauty3/text",
     "raw": " I assume that she misunderstood the implication of my remark, but I cannot help stare a little too long into her triumvirate of ruby red eyes.",
-    "value": "我觉得她误解了我的意思，我忐忑地望着她那如同红宝石般的眼眸，却又无法辩解。"
+    "value": "我猜她是误解了我话里的意思，但我还是忍不住久久凝视着她那三颗如红宝石般的眼睛。"
   },
   {
     "op": "replace",
     "path": "/scenes/question_beauty4a/text",
     "raw": "\"Where are my manners,\" she adds suddenly, \"I forgot to ask you your name. Who are you?\"",
-    "value": "“失礼了，”她突然说道，“我忘了问你的名字了，你叫什么？”"
+    "value": "“我真是太失礼了，”她突然补充道，“都忘了问你的名字。你是谁？”"
   },
   {
     "op": "replace",
     "path": "/scenes/question_beauty4b/text",
     "raw": "\"Where are my manners,\" she adds suddenly, \"My name is Kasumi. And who might you be?\"",
-    "value": "“失礼了，”她突然说道，“我叫霞，你的名字是？”"
+    "value": "“我真是太失礼了，”她突然补充道，“我叫霞。请问你怎么称呼？”"
   },
   {
     "op": "replace",
     "path": "/scenes/question_beauty5a/text",
     "raw": "\"...That's a weird name,\" she says flatly. \"Why would your parents even call you that?\"",
-    "value": "“你的名字真奇怪。”，她淡然说道，“为什么你的父母会打电话给你？”"
+    "value": "“这名字真怪，”她语气平淡地说，“你父母怎么会给你起这样的名字？”"
   },
   {
     "op": "replace",
     "path": "/scenes/question_beauty5b/text",
     "raw": "\"It's a pleasure to meet you, Vaughn St. Lovecastle!\" she says with a pleasant smile. \"Why are you interested in this unopened library, of all places?\"",
-    "value": "“很高兴见到你，沃恩·圣洛夫卡斯尔！”她笑着说。“在这么多地方之中您为什么独对这座未开馆的图书馆感兴趣呢？”"
+    "value": "“很高兴见到你，沃恩·圣·爱城堡！”她带着愉快的微笑说道。“在所有地方中，你为什么偏偏对这个尚未开放的图书馆感兴趣呢？”"
   },
   {
     "op": "replace",
@@ -249,7 +249,7 @@
     "op": "replace",
     "path": "/scenes/question_time1/text",
     "raw": "\"Travelled... Through time?\" she repeats, confused. \"But doesn't everyone travel through time?\"",
-    "value": "“时间...旅行？”她困惑的重复道，“但是，不是每个人都可以穿越时间吗？”"
+    "value": "“穿越...时间？”她困惑地重复道，“但每个人不都在时间中前行吗？”"
   },
   {
     "op": "replace",
@@ -261,13 +261,13 @@
     "op": "replace",
     "path": "/scenes/question_time3/text",
     "raw": "\"We're all moving through time, at a rate of around 1 second per second.\" she elaborates.",
-    "value": "“我们都已穿越了时空，速度大概是每秒1秒左右”她详细说明道"
+    "value": "“我们都在时间里穿行，速度大约是每秒一秒。”她进一步解释道。"
   },
   {
     "op": "replace",
     "path": "/scenes/question_time4/text",
     "raw": "I cannot tell if this beautiful girl is a genius or insane.",
-    "value": "我不知道这个漂亮女孩是天才还是疯子。"
+    "value": "我无法判断这位美丽的女孩是天才还是疯子。"
   },
   {
     "op": "replace",
@@ -291,7 +291,7 @@
     "op": "replace",
     "path": "/scenes/pagoda4a/text",
     "raw": "\"Your story is far-fetched, Mr. Lovecastle,\" she begins, \"But you don't look or talk like anyone I've ever known. Perhaps your story is true.\"",
-    "value": "“你说的话很牵强，洛夫卡斯尔先生”她说，“但你看起来不像我认识的任何人，可能你说的是真的。”"
+    "value": "“你说的话很牵强，爱城堡先生”她说，“但你看起来不像我认识的任何人，可能你说的是真的。”"
   },
   {
     "op": "replace",

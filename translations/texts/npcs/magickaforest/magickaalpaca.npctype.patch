@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "raw": "Tae battle!",
-    "value": "Tae battle!"
+    "value": "战斗吧！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/1",
     "raw": "Ye blood shall soil the land!",
-    "value": "Ye blood shall soil the land!"
+    "value": "尔等之血，必将玷污这片土地！"
   },
   {
     "op": "replace",
@@ -21,24 +21,24 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/3",
     "raw": "Raidin' time came early today!",
-    "value": "Raidin' time came early today!"
+    "value": "今天突袭来得真早！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/4",
     "raw": "Hopin' tae catch me with mah socks off, were ye?",
-    "value": "Hopin' tae catch me with mah socks off, were ye?"
+    "value": "想趁我不备逮个正着，是吧？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/5",
     "raw": "Yer havin' a laff, ain't'cha?",
-    "value": "Yer havin' a laff, ain't'cha?"
+    "value": "你这是在开玩笑吧，不是吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/6",
     "raw": "I'll take ye as a warm-up 'fore the monastery!",
-    "value": "I'll take ye as a warm-up 'fore the monastery!"
+    "value": "在去修道院之前，先拿你热热身！"
   }
 ]

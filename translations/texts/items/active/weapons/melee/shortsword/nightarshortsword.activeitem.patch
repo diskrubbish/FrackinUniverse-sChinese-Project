@@ -3,31 +3,31 @@
     "op": "replace",
     "path": "/description",
     "raw": "Poor balance, but holds a sharp edge.\tUpgrade for lethality.",
-    "value": "平衡性差，但有着锋利的刀刃。升级提升其致命性。"
+    "value": "平衡性欠佳，却锋芒毕露。升级以增强杀伤力。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Nightarian Shortsword",
-    "value": "夜族短剑"
+    "value": "夜刃短剑"
   },
   {
     "op": "replace",
     "path": "/improvedParameters/shortdescription",
     "raw": "Honed Nightar Blade",
-    "value": "磨炼夜刃"
+    "value": "珩磨夜刃"
   },
   {
     "op": "replace",
     "path": "/improvedParameters/description",
     "raw": "A fine, lethal edge.",
-    "value": "剑刃锋利，刀刀致命。"
+    "value": "一道锐利而致命的锋刃。"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "Peerless Nightar Blade",
-    "value": "卓越夜刃"
+    "value": "绝世夜刃"
   },
   {
     "op": "replace",
@@ -45,6 +45,6 @@
     "op": "replace",
     "path": "/upgradeParameters2/description",
     "raw": "The finest edge possible.",
-    "value": "力劈华山，所向披靡。"
+    "value": "极致锋锐，所向披靡。"
   }
 ]

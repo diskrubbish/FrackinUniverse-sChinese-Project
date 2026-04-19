@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/text",
     "raw": "The ^orange;Gene Sequencer^reset; is useful to produce genes you already discovered ^green;without needing to melt down seeds^reset; in the ^orange;Xeno Lab^reset;.",
-    "value": "有了^orange;基因定序仪^reset;，你再也不需要在^orange;基因提取器^reset;里^green;浪费种子^reset;了。"
+    "value": "^orange;基因测序仪^reset;非常实用，它能够直接生成你已经发现的基因，无需在^orange;基因提取器^reset;中^green;熔解种子^reset;。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "The ^orange;Gene Sequencer^reset; can produce genes that you've already discovered, offering a consistent alternative to acquiring them ^green;from extraction^reset; via the ^orange;Xeno Lab^reset;.",
-    "value": "^orange;基因定序仪^reset;可以生成你已获得的基因，无论是^orange;基因提取器^reset;获得的，还是^orange;野外探险^reset;获得的。"
+    "value": "^orange;基因测序仪^reset;能够生成你已发现的基因，为通过^orange;基因提取器^reset;^green;提取^reset;获取基因提供了一种稳定的替代方案。"
   }
 ]

@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "Shortest distance is zero",
-    "value": "最短的距离是零"
+    "value": "最短距离为零"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "I am in dire need of your assistance. I need a ^orange;Teleporter Core^reset; to finish my teleporter, but ^green;the courier delivering my supplies is late^reset; and I'm running out of time. You can craft one in your ^orange;Matter Assembler^reset;.",
-    "value": "我急需你的帮助。我的传送器需要一个^orange;传送器核心^reset;才能完成，但^green;卖家发了个EMS快递^reset;导致我没时间了。希望你能在^orange;物质汇编机^reset;上制作一个。"
+    "value": "我急需你的帮助。我的传送器就差一个^orange;传送器核心^reset;了，但^green;送货员迟迟未到^reset;，时间紧迫。你可以在你的^orange;物质汇编机^reset;里制作一个。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Without ^orange;Teleporter Cores^reset;, you won't be able to craft several useful technologies. Plus, teleporters are just plain fun!!! Oh, there's the courier with ^green;your replacement core^reset;.",
-    "value": "没有^orange;传送器核心^reset;，你将不能制作某些有用的技术。另外，传送器简单又好玩！！！看，顺丰立马就把^green;你备用的传送器核心^reset;送来了。"
+    "value": "没有^orange;传送器核心^reset;，你将无法制造多种实用科技。此外，传送器本身就超级有趣！！！哦，快递员送来了^green;你的替换核心^reset;。"
   }
 ]

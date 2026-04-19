@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Explosive Redirection II",
-    "value": "重定义爆炸 II"
+    "value": "爆炸重定向 II"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "I've created an ungraded version of the Zero Burst tech.",
-    "value": "通过微调，爆炸跳跃的效果更好了。"
+    "value": "我已经制作出了零点爆发科技的未升级版本。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "I can now boost a lot higher than before.",
-    "value": "我现在感觉真的不一样了。"
+    "value": "我现在能跳得比以前高多了。"
   }
 ]

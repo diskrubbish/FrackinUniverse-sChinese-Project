@@ -3,67 +3,67 @@
     "op": "replace",
     "path": "/flyingpyramid/parameters/description",
     "raw": "An Avian spacefaring structure full of murderous zealots. Pyramids are a traditional favourite.",
-    "value": "一座充满着狂热嗜杀者的翼族航天建筑，金字塔是传统派的最爱。"
+    "value": "一座由翼族打造的航天建筑，其中充斥着嗜杀的狂热者。金字塔形态向来是他们的传统所好。"
   },
   {
     "op": "replace",
     "path": "/ninjapagoda/parameters/description",
     "raw": "You hear stories of Hylotl isolated in space who still believe they're fighting the Floran-Hylotl war. Guess they never got the message, huh?",
-    "value": "你肯定听说过关于一些与世隔绝的鲛人的传说，他们仍认为鲛人-叶族战争正在持续。猜猜它们从未收到过消息，嗯？"
+    "value": "你应该听过那些传说吧？有些鲛人至今隔离在太空深处，仍以为鲛人和叶族的战争没完没了。看来他们是压根没收到消息，也许吧？"
   },
   {
     "op": "replace",
     "path": "/ixolinggrounds/parameters/description",
     "raw": "Ixoling husbandry is a long-standing and respected profession amongst Floran - and oddly enough, best carried out in space.",
-    "value": "蜱虫养殖业是叶族中备受尊敬的行当，奇怪的是——这项事业最适合在太空中进行。"
+    "value": "蜱虫养殖业是叶族中一项历史悠久且备受尊敬的行当 - 但说来奇怪，这行当偏偏最适合在太空中进行。"
   },
   {
     "op": "replace",
     "path": "/letheiafleet/parameters/description",
     "raw": "A fleet of starships belonging to the Letheia Corporation. Extremely dangerous and more than willing to kill to preserve corporate secrets.",
-    "value": "莱西亚公司旗下的一支星际舰队。极其危险，为了保守公司机密不惜杀戮。"
+    "value": "莱西亚公司麾下的一支星际舰队。他们极度危险，为保守公司机密不惜大开杀戒。"
   },
   {
     "op": "replace",
     "path": "/outlawmine/parameters/description",
     "raw": "This cluster of mineral-rich asteroids has attracted some Novakid outlaws into staking an illegal claim to them.",
-    "value": "这片富含矿物质的小行星群吸引了一些星之子亡命徒对它们进行非法开采。"
+    "value": "这片矿物丰饶的小行星带引来了一伙星之子亡命徒，他们正试图在此非法圈地开采。"
   },
   {
     "op": "replace",
     "path": "/wizardabode/parameters/description",
     "raw": "One of the Hogwash School of Technowizardry's many campuses. Here, hopeful Glitch study the arts of wrangling machine spirits.",
-    "value": "这是霍格沃兹技术巫师学校的诸多校区之一。在这里，渴求知识的电子人们研究关于机器精神争论的艺术。"
+    "value": "此地是霍格沃兹技术巫师学院众多分校之一。在这里，满怀希冀的电子人们研习着驾驭机器之灵的法门。"
   },
   {
     "op": "replace",
     "path": "/apexweaponsplatform/parameters/description",
     "raw": "The flagships of the Skath fleet, deployed at the head of an armada or on solitary missions. This one appears to be on the hunt.",
-    "value": "部署在舰队的舰首或执行单独任务的海鳞族舰队旗舰。这艘似乎在狩猎。"
+    "value": "海鳞族舰队的旗舰，既可领军冲锋，亦能独行千里。此刻，它仿佛正在狩猎。"
   },
   {
     "op": "replace",
     "path": "/spacestation_food/parameters/description",
     "raw": "A space station dedicated to trading items and goods, as well as accepting investments for benefits.",
-    "value": "一处专门用于交易物品和商品，以及接受投资赚取利润的空间站。"
+    "value": "一座专营货物贸易，并接纳投资以牟利的空间站。"
   },
   {
     "op": "replace",
     "path": "/spacestation_medical/parameters/description",
     "raw": "A space station offering medical supplies, as well as long lasting body enhancers.",
-    "value": "这处空间站提供医疗用品，以及持久的身体增强。"
+    "value": "一座提供医疗补给与长效身体增强方案的空间站。"
   },
   {
     "op": "replace",
     "path": "/spacestation_weapons/parameters/description",
     "raw": "A battle station deployed by military agencies. Serves as a (legal) place to purchase weaponry, and hire crew.",
-    "value": "一处军事机构部署的战斗站。购买武器和雇佣船员的（合法）场所。"
+    "value": " 一座由军事机构部署的战斗站点，（合法地）提供武器采购与船员雇佣服务。"
   },
   {
     "op": "replace",
     "path": "/fastfoodspace/parameters/description",
     "raw": "The largest fast-food franchise in the galaxy. More than 83 Quadrillion Served.",
-    "value": "星际间规模最大的快餐连锁店，连锁店超过83千万亿家。"
+    "value": "全宇宙规模最大的快餐连锁。服务人次逾83千万亿。"
   },
   {
     "op": "replace",
@@ -123,7 +123,7 @@
     "op": "replace",
     "path": "/spacestation_weapons/parameters/displayName",
     "raw": "Military Battlestation",
-    "value": "军事演习场"
+    "value": "军事战斗站"
   },
   {
     "op": "replace",

@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "You're probably starting to have some issues surviving by now in different biomes. So let's get you building ^green;augments^reset;! Show me an ^orange;Acid Shield^reset; augment made by your own two hands!",
-    "value": "你现在可能苦恼于如何在不同环境的星球上生存。让我教你制造一些^green;EPP模块^reset;！把你自己制作的^orange;EPP模块（酸蚀护盾）^reset;给我看看！"
+    "value": "现在，你可能已经开始在不同生态区生存时遇到一些挑战了。那么，让我们来教你制作^green;EPP模块^reset;吧！展示一下你亲手打造的^orange;EPP模块（酸蚀护盾）^reset;！"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Perhaps one day I might call on your talents to help me with a little problem I am having...I'll need to consider.",
-    "value": "也许有一天，我还会麻烦你这样的天才来帮助我，但是...我现在需要一个人思考一会儿，抱歉。"
+    "value": "或许有一天，我会需要借助你的才能，帮我解决一个小小的问题...我得好好考虑一下。"
   }
 ]

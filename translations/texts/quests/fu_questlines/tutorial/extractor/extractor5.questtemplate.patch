@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "^green;Meat^reset; is both delicious and useful. Extract some ^green;meat^reset; and bring me 5 of the results.",
-    "value": "^green;肉类^reset;既好吃又实用。把一些^green;肉^reset;拿去萃取，然后交5份萃取物给我。"
+    "value": "^green;肉^reset;既美味又实用。萃取一些^green;肉类^reset;，并给我带来五份成果。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Genetic material comes from many things, not just meat. Remember that if it is alive and full of cells, it just might give you some.",
-    "value": "不仅是肉类，遗传物质来自许多物质。只需要记住，只要是生存着的细胞结构的生物，那么它里面很可能就会存在一些遗传物质。"
+    "value": "遗传物质来源广泛，并非仅存在于肉类中。请记住，只要是活体且充满细胞，它就有可能为你提供一些。"
   }
 ]

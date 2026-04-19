@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "Sometimes, the darkness can prove a horrible hindrance. That's where tha ^orange;Oil^reset; I got ya ter make comes in: You can craft a ^orange;Lantern Stick^reset; to see in the dark at a ^orange;Foraging Table^reset;. ^green;Research^reset; into ^orange;Agriculture^reset; to learn how.",
-    "value": "有时，黑暗会成为可怕的障碍。我给你的 ^orange;油^reset; 就是为了这个: 你可以制作一个^orange;灯笼杆^reset;来保护眼睛。去 ^orange;采集工作台^reset;制作。^green;研究^reset;一哈^orange;农业^reset;来学习制作"
+    "value": "有时，黑暗会成为可怕的阻碍。这正是我让你制作的那种^orange;油^reset;的用武之地：你可以在^orange;采集工作台^reset;处制作^orange;灯笼杆^reset;，以便在黑暗中看清。通过^green;研究^reset;^orange;农业^reset;科技树来学习制作方法。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Now you'll be able to slap that on your back and travel without needing to hold a flashlight! Also, I found some ^orange;Plant Fibre^reset; in storage. Why don't you take it?",
-    "value": "现在你可以把它戴在背上，旅行时就不用再拿着手电筒了！而且，我在仓库找到一些^orange;植物纤维^reset;。你不拿去？"
+    "value": "现在你可以把它贴在背上，旅行时就不用再拿着手电筒了！另外，我在仓库里找到了一些^orange;植物纤维^reset;，你要不要带上？"
   }
 ]

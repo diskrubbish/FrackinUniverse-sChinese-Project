@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "An EPP module that repels heat up to 500 Kelvin. ^cyan;Immune: Moderate Heat^reset;",
-    "value": "一个能够抵御高达500开氏度的高温的EPP模块。\n^cyan;免疫严酷炎热；"
+    "value": "一个能够抵御高达500开氏度的高温的EPP模块。\n^cyan;免疫中度炎热；^reset;"
   },
   {
     "op": "replace",

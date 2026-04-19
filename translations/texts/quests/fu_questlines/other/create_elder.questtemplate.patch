@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "Dark Obsession",
-    "value": "黑暗崇拜"
+    "value": "暗黑执念"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "I am obsessed with ancient civilizations. Truly. I hear tell of an ^orange;elder race^reset; that once wandered the stars. If you can ^orange;bring me a Cthulhu Statue^reset; I would reward you very well.",
-    "value": "我一直痴迷于古代文明，真的。我听说某个^orange;远古种族^reset;曾经漫游于群星之间。如果你能给我带回一个^orange;克苏鲁雕像^reset;，我会好好报答你的。"
+    "value": "我对古代文明极为着迷，真的。听说曾有一个^orange;古老的种族^reset;在星际间漫游。如果你能为我^orange;带来一尊克苏鲁雕像^reset;，我必定会给予你丰厚的回报。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "This is a ^green;breathtaking specimen^reset;, but oddly maddening to look at. Your reward? Of course! It's all I have in savings, but it should cover your costs.",
-    "value": "这真是一尊^green;令人惊叹的工艺品^reset;，但是看起来古怪而狂乱。你的奖励？当然，我怎么会忘记呢。这是我所有的积蓄，但足够支付你的费用了。"
+    "value": "这真是件^green;令人惊叹的标本^reset;，但奇怪的是，看着它竟让人有些抓狂。你的报酬？当然！这是我全部的积蓄，不过应该足够支付你的费用了。"
   }
 ]

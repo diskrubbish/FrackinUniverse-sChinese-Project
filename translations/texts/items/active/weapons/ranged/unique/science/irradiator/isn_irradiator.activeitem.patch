@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Most certainly against intergalactic weapons laws.\n^yellow;Area-Effect weapon^reset;\n^green;Inflicts radiation burn^reset;",
-    "value": "绝对违反了星际武器法的武器。\n^cyan;附加辐射烧伤效果\n^yellow;范围性武器^reset;^reset;"
+    "value": "这绝对违反了星际武器法规。\n^yellow;区域效应武器^reset;\n^green;造成辐射烧伤^reset;"
   },
   {
     "op": "replace",

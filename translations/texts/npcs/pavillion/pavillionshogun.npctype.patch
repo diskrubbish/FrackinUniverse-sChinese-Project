@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/hylotl/default/0",
     "raw": "One of the princess' lapdogs! Time to test my blade on you!",
-    "value": "看来在得先在你身上试试我刀子是否锋利了！"
+    "value": "公主的走狗之一吗！正好拿你来试剑！"
   },
   {
     "op": "replace",
@@ -27,6 +27,6 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/hylotl/default/3",
     "raw": "So, you invade my village and castle? Audacious indeed!",
-    "value": "所以你就打算闯入我的城堡？多么动听的谎言！"
+    "value": "所以，你们竟敢入侵我的村庄和城堡？真是胆大包天！"
   }
 ]

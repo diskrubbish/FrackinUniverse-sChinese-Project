@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/hylotl/default/0",
     "raw": "For the glory of Shogun Kigai!",
-    "value": "为将军的荣耀而战！"
+    "value": "为木亥将军的荣耀而战！"
   },
   {
     "op": "replace",
@@ -21,12 +21,12 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/hylotl/default/2",
     "raw": "A thousand blows shall rain upon you!",
-    "value": "我要将你轰杀至渣！"
+    "value": "千般打击将如雨般降临于你！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/hylotl/default/3",
     "raw": "Banzai!",
-    "value": "幕府万岁！"
+    "value": "半载！"
   }
 ]

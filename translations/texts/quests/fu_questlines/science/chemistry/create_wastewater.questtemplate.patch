@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "Useful Liquid",
-    "value": "有用的液体"
+    "value": "实用液体"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "I just can't figure out how to make the ^orange;Contaminated Water^reset; for some of my chemical stock. Can you help and make me some in a ^green;centrifuge^reset;?",
-    "value": "我不知道该如何为我的化学原料制造一些^orange;污染水^reset;，你能帮我在^green;离心机^reset;中制造一些吗？"
+    "value": "我实在搞不懂怎么配制一些化学原料所需的^orange;污染水^reset;。你能帮我在^green;离心机^reset;里制作一些吗？"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "When you are able to, ^green;upgrade to an advanced centrifuge^reset; to really step up your lab game! Oh and be sure to keep your ^orange;Contaminated Water^reset;, you might need it.",
-    "value": "如果你能做到，就把离心机^green;升级到高级离心机^reset;，加强你的实验游戏吧！务必保留一些^orange;污染水^reset;，你可能会需要它。"
+    "value": "当你有条件时，升^green;级到高级离心机^reset;，让你的实验室水平更上一层楼！对了，记得保留好你的^orange;污染水^reset;，说不定以后会派上用场。"
   }
 ]

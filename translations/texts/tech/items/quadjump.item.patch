@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Get up to four mid-air jumps.",
-    "value": "可连续跳跃五次。"
+    "value": "最多可进行四次空中跳跃。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^#77acc3;Quad Jump^reset;",
-    "value": "^#77acc3;五段跳^reset;"
+    "value": "^#77acc3;四段跳^reset;"
   }
 ]

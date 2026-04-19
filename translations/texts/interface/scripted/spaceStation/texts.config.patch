@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/generic/welcome",
     "raw": "Welcome to the {STATIONNAME} station [(playername)]. Enjoy your stay!",
-    "value": "欢迎来到{STATIONNAME}空间站，[(playername)]，愿你享受此刻！"
+    "value": "欢迎来到{STATIONNAME}空间站，[(playername)]。祝您在此停留愉快！"
   },
   {
     "op": "replace",
     "path": "/generic/chat1",
     "raw": "*Additional supplies depots required*\n[(pause)5]...[(pause)5]\nPardon me - wrong AI state.",
-    "value": "*需要额外的补给*\n[(pause)5]...[(pause)5]\n抱歉 - AI状态错误。"
+    "value": "*需增设补给站*\n[(pause)5]...[(pause)5]\n抱歉 - AI状态有误"
   },
   {
     "op": "replace",
@@ -21,61 +21,61 @@
     "op": "replace",
     "path": "/generic/chat3",
     "raw": "You're totally not a brain in a jar living a simulation, serving as a processor.",
-    "value": "你绝不是个只作为处理器存在而生活在模拟世界里的罐装大脑。"
+    "value": "你完全不是一个生活在模拟世界中的缸中之脑，充当着处理器的角色。"
   },
   {
     "op": "replace",
     "path": "/generic/chat4",
     "raw": "*Incoming Transmission*\n[(pause)5]*Processing...*\n[(pause)5]*Printing to screen*\nAccording to all known laws of aviation, there is no way a bee should be able to fly.\nIts wings are too small to get its fat little body off the ground.\nThe bee, of course, flies anyway because bees don't care what humans think is impossible.\nYellow, black. Yellow, black.\nYellow, black. Yellow, black.\nOoh, black and yellow!\nLet's shake it up a little.\nBarry! Breakfast is ready!\nOoming!\nHang on a second.\nHello?\n- Barry?\n- Adam?\n- Oan you believe this is happening?\n- I can't. I'll pick you up.\nLooking sharp.\nUse the stairs. Your father\npaid good money for those.\nSorry. I'm excited.\nHere's the graduate.\nWe're very proud of you, son.",
-    "value": "*传入传输*\n[(pause)5]*正在处理…*\n[(pause)5]*打印到屏幕*\n根据所有已知的航空定律，蜜蜂不可能会飞。\n它的翅膀太小了，无法让它肥胖的小身体离开地面。\n当然，蜜蜂还是会飞，因为蜜蜂不在乎人类认为不可能的事情。\n黄色，黑色。黄色，黑色。\n黄色，黑色。黄色，黑色。\n哦，黑色和黄色！\n让我们稍微摇摆一下。\n巴里！早餐准备好了！\n嗯！\n等一下。\n喂？\n- 巴里？\n- 亚当？\n- 你能相信这正在发生吗？\n- 我不敢相信。我来接你。\n看起来很精神。\n用楼梯。你爸爸\n花了不少钱买的。\n抱歉。我很兴奋。\n这是毕业证。\n我们为你感到非常骄傲，儿子。"
+    "value": "*收到讯息*\n[(pause)5]*处理中...*\n[(pause)5]*打印到屏幕*\n根据所有已知的航空法则，蜜蜂根本不可能飞得起来。\n它的翅膀太小，无法将它那胖乎乎的小身体带离地面。\n然而，蜜蜂当然还是飞起来了，因为蜜蜂才不在乎人类认为什么是不可能的。\n黄色，黑色。黄色，黑色。\n黄色，黑色。黄色，黑色。\n哦，黑黄相间！\n让我们来点不一样的。\n巴瑞！早餐准备好了！\n嗡鸣！\n稍等一下。\n喂？\n- 巴瑞？\n- 亚当？\n- 你能相信这是真的吗？\n- 不敢相信。我来接你。\n看起来真精神。\n走楼梯。你爸爸可是花了大价钱买的。\n抱歉，我太兴奋了。\n毕业生来了。\n我们为你感到骄傲，儿子。"
   },
   {
     "op": "replace",
     "path": "/generic/chat5",
     "raw": "*Searching archives for entertainment*\n[(pause)5].[(pause)5].[(pause)5].[(pause)10] *Entertainment detected. Printing to screen*\n[(pause)3]Now this is a story all about how\nMy life got flipped-turned upside down\nAnd I'd like to take a minute\nJust sit right there\nI'll tell you how I became the prince of a town called Bel-Air\nIn west Philadelphia born and raised\nOn the playground was where I spent most of my days\nChillin' out maxin' relaxin' all cool\nAnd all shooting some b-ball outside of the school\nWhen a couple of guys who were up to no good\nStarted making trouble in my neighborhood\nI got in one little fight and my mom got scared\nShe said, 'You're movin' with your auntie and uncle in Bel-Air.'",
-    "value": "*搜索娱乐档案*\n[(pause)5].[(pause)5].[(pause)5].[(pause)10] *检测到娱乐内容。正在打印到屏幕。*\n[(pause)3]以下这故事是有关\n我人生彻底扭转乾坤的故事\n我只想花一两分钟\n先坐好\n我马上告诉你我怎么成为贝莱尔的“茶煲王子”\n出生于西费城，宾夕法尼亚州\n我大多数花的时间都在游乐场里面\n自然自在的，放放松\n无聊就在学校外打打篮球\n就当某些不安好心的神经病\n在我临近胡闹乱搞麻烦\n我跟他们就动了殴，我妈却胆小如鼠\n之后说：“你必须搬去贝莱尔跟你姨妈和舅舅住。”"
+    "value": "*搜索娱乐档案*\n[(pause)5].[(pause)5].[(pause)5].[(pause)10] *检测到娱乐内容。正在打印至屏幕*\n[(pause)3]话说有这么一段故事  \n我的人生突然天翻地覆  \n且听我花点时间  \n就在这儿稍坐片刻  \n给你讲讲我如何成了贝尔艾尔镇的王子  \n西费城是我的故乡  \n游乐场消磨了年少时光  \n悠闲自在 从容不迫  \n放学后常在校门外投篮作乐  \n直到几个不安分的家伙  \n开始在街区惹是生非  \n一次小小冲突让母亲忧心忡忡  \n她说：“你得搬去贝尔艾尔，和姨妈姨父同住。”"
   },
   {
     "op": "replace",
     "path": "/generic/chat6",
     "raw": "You've got mail!",
-    "value": "你有封新邮件！"
+    "value": "您有新邮件！"
   },
   {
     "op": "replace",
     "path": "/generic/chat7",
     "raw": "Would you like some cake?",
-    "value": "你想来些蛋糕吗？"
+    "value": "你想要一些蛋糕吗？"
   },
   {
     "op": "replace",
     "path": "/generic/chat8",
     "raw": "When travelling on Sulphuric worlds, if you are able to protect yourself against the ravages of the environment you will be capable of procuring enormous quantities of ore. With hazard comes reward.",
-    "value": "前往硫酸世界旅行的时候若是你能够保护自己免受环境的侵害，你就可以获取大量的矿石。正所谓风险与回报并存。"
+    "value": "在硫酸世界上旅行时，若能抵御恶劣环境的侵袭，你将有机会获取大量矿石。正所谓风险与回报并存。"
   },
   {
     "op": "replace",
     "path": "/generic/chat9",
     "raw": "There are legends of an ancient race, long forgotten, that came here from some unknown sector of space. Allegedly, there is a treasure trove of powerful technology awaiting the intrepid explorer.",
-    "value": "传说中有一支早已被遗忘古老的种族，他们来自宇宙中某处未知的区域。据传那里藏着强大科技的宝藏，等待着勇敢的探险者去发掘。"
+    "value": "传说中，曾有一支古老的种族，来自宇宙的未知角落，如今早已被世人遗忘。据说，那里藏有强大的科技宝藏，正等待着无畏的探险者去发现。"
   },
   {
     "op": "replace",
     "path": "/generic/chat10",
     "raw": "Exposure to psionically damaging effects can permanently affect your brain. Madness -can- lead to genius, but not if you completely lose your mind.",
-    "value": "接触到精神损害效应会永久地影响你的大脑。天才向-左-疯子向右，但如果你完全失去理智那就真完蛋啦。"
+    "value": "暴露于灵能伤害效应可能会对你的大脑造成永久性影响。天才向-左-疯子向右，但前提是你不能彻底丧失理智。"
   },
   {
     "op": "replace",
     "path": "/generic/militarySpecial",
     "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
-    "value": "作为一处军事站点，我们的特殊服务是允许你雇佣新的船员。价格随着质量而上涨，当他们从某些异世界的怪物手上中拯救你时就物有所值啦。但很不幸，我们只能为每位船长分配一名船员。到最后我们不想成为需要船员的那一方..."
+    "value": "作为一处军事站点，我们的特色服务是允许您招募新船员。价格随船员素质提升而上涨，当他们从异界怪物手中救您一命时，回报也同样丰厚。遗憾的是，每位船长我们只能提供一名船员名额，毕竟我们可不想落得自己缺人手的境地..."
   },
   {
     "op": "replace",
     "path": "/generic/medicalSpecial",
     "raw": "As a medical research lab, our special service is providing you with powerful body enhancers, for the right price of course.\nDue to health hazard, you can have only one enhancer active at a time, but they last until death, or until removed at a medical station for 500 pixels.\nRemember - Every medical station has its own collection of enhancers, so be sure to check them all out!",
-    "value": "作为一家医学研究实验室，我们的特殊服务是为你提供强大的身体增强，价格肯定公道。\n但由于健康风险，你一次只能使用一种增强剂，但它们会持续到您死亡，或者在医疗站花费500像素移除。\n请记住 - 每个医疗站都有自己的增强系列，所以一定要应看尽看！"
+    "value": "作为一家医学研究实验室，我们的特色服务是以合理的价格为您提供强效的身体增强剂。  \n出于健康风险考虑，您一次只能激活一种增强剂，但其效果将持续至生命终结，或可在医疗站以500像素币的价格进行移除。  \n请注意 - 每个医疗站都拥有独特的增强剂库存，务必逐一探索！"
   },
   {
     "op": "replace",
@@ -87,13 +87,13 @@
     "op": "replace",
     "path": "/generic/tradingSpecial",
     "raw": "As a trading center, we care primarily about pixels and their value.\nShould you be able to raise a high enough amount and invest in us, we'll make sure it'll be worth your while.\nWith each investment you make, the prices in our shops will shift in your favor, allowing you to buy and sell goods at better rates!\nInvest enough, and the prices for all space stations will have a shift in your favor!",
-    "value": "作为一处交易中心，我们主要关心像素及其价值。\n如果你能筹集到足够高的金额并投资于我们，我们将确保这一切值得。\n随着你的每一次投资，我们商店的价格将向你倾斜，让您以更好的价格买卖商品！\n要是投资足够多，所有空间站的价格都会对你有利！"
+    "value": "作为交易中心，我们最关注的是像素及其价值。  \n如果您能筹集到足够资金并投资于我们，我们保证这将物超所值。  \n您的每一笔投资都将使本店价格向对您有利的方向调整，让您能以更优价格买卖商品！  \n投资达到一定额度，所有空间站的价格都将为您而调整！"
   },
   {
     "op": "replace",
     "path": "/generic/tradingSpecialMax",
     "raw": "Thank you for your great contribution!\nThanks to you, we are now a bustling trading station with a lot of goods to pick from, with good prices for everyone!\nWe'll make sure your contribution is known beyond the bounds of this station, providing you with a better price rate when you buy or sell from other vendors across the stars!",
-    "value": "谢谢你的巨大贡献！\n多亏了您，我们现在是一处繁忙的交易站，有很多商品可供挑选，价格优惠！\n我们将确保您的贡献能超出本站的范围，当您从其他供应商处购买或出售时，他们会为您提供更好的价格！"
+    "value": "感谢您的卓越贡献！  \n多亏了您，我们如今已成为一个繁华的交易站，货物琳琅满目，价格实惠，惠及每一位访客！  \n我们将确保您的贡献传遍星际，让您在与其他星系的商人交易时，享受更优惠的买卖价格！"
   },
   {
     "op": "replace",
@@ -105,19 +105,19 @@
     "op": "replace",
     "path": "/generic/cantAfford1",
     "raw": "Seems like you're a bit short on pixels...",
-    "value": "看起来你的像素有点不够啊…"
+    "value": "看起来你的像素有点不够用呢..."
   },
   {
     "op": "replace",
     "path": "/generic/cantAfford2",
     "raw": "You're low on pixels.",
-    "value": "你带的像素太少啦。"
+    "value": "你的像素不足。"
   },
   {
     "op": "replace",
     "path": "/generic/cantAfford3",
     "raw": "You can not afford that.",
-    "value": "你买不起那个。"
+    "value": "你负担不起那个。"
   },
   {
     "op": "replace",
@@ -129,13 +129,13 @@
     "op": "replace",
     "path": "/generic/activeEnhancer",
     "raw": "I'm sorry, but for your own safety we cannot apply another enhancer while another one is active.\nWe can remove your current one for 500 pixels if you'd like.",
-    "value": "很抱歉，为了你的安全起见，在增强仍然生效时我们无法为你施加另一个增强。\n如果你愿意，我们可以以500像素的价格为你移除当前的增强。"
+    "value": "很抱歉，为了您的安全考虑，当前激活的增强剂尚未失效时，我们无法为您叠加使用新的增强剂。  \n如果您愿意，我们可以以500像素的价格为您移除现有的增强剂。"
   },
   {
     "op": "replace",
     "path": "/generic/acquireEnhancer",
     "raw": "Don't forget you'll lose the enhancer should you die, or you can ask us to remove it should you tire from it.\nIn addition, side effects may include: dry mouth, nausea, vomiting, water retention, painful rectal itch, hallucination, dementia, psychosis, coma, death, and halitosis.",
-    "value": "别忘了，如果你死了，你会失去增强，要是你厌倦了，你也可以要求我们将其移除。\n此外，副作用可能包括：口干、恶心、呕吐、积水、疼痛直肠瘙痒、幻觉、痴呆、精神病、昏迷、死亡和口臭。"
+    "value": "请记住，若您不幸离世，增强将随之失效；若您厌倦其存在，也可请求我们将其移除。  \n此外，可能出现的副作用包括：口干、恶心、呕吐、水肿、肛门瘙痒疼痛、幻觉、痴呆、精神错乱、昏迷、死亡，以及口臭。"
   },
   {
     "op": "replace",
@@ -147,19 +147,19 @@
     "op": "replace",
     "path": "/generic/removeEnhancer",
     "raw": "Enhancer removed. Enjoy your enhancer free body!",
-    "value": "增强已移除。尽情享受你无添加的身体！"
+    "value": "增强剂已清除。享受无增强剂的纯净身体吧！"
   },
   {
     "op": "replace",
     "path": "/generic/hireMerc",
     "raw": "Heres the contract, use it to call and recruit them.",
-    "value": "这是合同，用它来联系和招募人员。"
+    "value": "这是合同，用它来联系并招募人员。"
   },
   {
     "op": "replace",
     "path": "/generic/noMoreMerc",
     "raw": "Sorry, we only allow one crewmate per captain.\nTry checking other military stations if you're in need for more crewmates.",
-    "value": "抱歉，我们只允许每位船长带走一名船员。\n如果你需要更多船员，试着找一下其他军事站点。"
+    "value": "抱歉，每位船长仅限招募一名船员。  \n如需更多船员，请尝试前往其他军事站点查看。"
   },
   {
     "op": "replace",
@@ -177,7 +177,7 @@
     "op": "replace",
     "path": "/apex/chat2",
     "raw": "Serving up here is a lot more fun than being a common worker.",
-    "value": "在这里工作比做普通工人要有趣得多。"
+    "value": "在这里服务可比当个普通工人有趣多了。"
   },
   {
     "op": "replace",
@@ -189,13 +189,13 @@
     "op": "replace",
     "path": "/apex/chat4",
     "raw": "Get out of here stalker!",
-    "value": "滚出去，跟踪者！"
+    "value": "滚开，跟踪狂！"
   },
   {
     "op": "replace",
     "path": "/apex/militarySpecial",
     "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
-    "value": "作为一处军事站点，我们的特殊服务是允许你雇佣新的船员。价格随着质量而上涨，当他们从某些异世界的怪物手上中拯救你时就物有所值啦。但很不幸，我们只能为每位船长分配一名船员。到最后我们不想成为需要船员的那一方..."
+    "value": "作为一处军事站点，我们的特色服务是允许您招募新船员。价格随船员素质提升而上涨，当他们从异界怪物手中救您一命时，回报也同样丰厚。遗憾的是，每位船长我们只能提供一名船员名额，毕竟我们可不想落得自己缺人手的境地..."
   },
   {
     "op": "replace",
@@ -213,13 +213,13 @@
     "op": "replace",
     "path": "/apex/tradingSpecial",
     "raw": "As a trading center, we care primarily about pixels and their value.\nShould you be able to raise a high enough amount and invest in us, we'll make sure it'll be worth your while.\nWith each investment you make, the prices in our shops will shift in your favor, allowing you to buy and sell goods at better rates!\nInvest enough, and the prices for all space stations will have a shift in your favor!",
-    "value": "作为一处交易中心，我们主要关心像素及其价值。\n如果你能筹集到足够高的金额并投资于我们，我们将确保这一切值得。\n随着你的每一次投资，我们商店的价格将向你倾斜，让您以更好的价格买卖商品！\n要是投资足够多，所有空间站的价格都会对你有利！"
+    "value": "作为交易中心，我们最关注的是像素及其价值。  \n如果您能筹集到足够资金并投资于我们，我们保证这将物超所值。  \n您的每一笔投资都将使本店价格向对您有利的方向调整，让您能以更优价格买卖商品！  \n投资达到一定额度，所有空间站的价格都将为您而调整！"
   },
   {
     "op": "replace",
     "path": "/apex/tradingSpecialMax",
     "raw": "Thank you for your great contribution!\nThanks to you, we are now a bustling trading station with a lot of goods to pick from, with good prices for everyone!\nWe'll make sure your contribution is known beyond the bounds of this station, providing you with a better price rate when you buy or sell from other vendors across the stars!",
-    "value": "谢谢你的巨大贡献！\n多亏了您，我们现在是一处繁忙的交易站，有很多商品可供挑选，价格优惠！\n我们将确保您的贡献能超出本站的范围，当您从其他供应商处购买或出售时，他们会为您提供更好的价格！"
+    "value": "感谢您的卓越贡献！  \n多亏了您，我们如今已成为一个繁华的交易站，货物琳琅满目，价格实惠，惠及每一位访客！  \n我们将确保您的贡献传遍星际，让您在与其他星系的商人交易时，享受更优惠的买卖价格！"
   },
   {
     "op": "replace",
@@ -231,19 +231,19 @@
     "op": "replace",
     "path": "/apex/cantAfford1",
     "raw": "Seems like you're a bit short on pixels...",
-    "value": "看起来你的像素有点不够啊…"
+    "value": "看起来你的像素有点不够用呢..."
   },
   {
     "op": "replace",
     "path": "/apex/cantAfford2",
     "raw": "You're low on pixels.",
-    "value": "你带的像素太少啦。"
+    "value": "你的像素不足。"
   },
   {
     "op": "replace",
     "path": "/apex/cantAfford3",
     "raw": "You can not afford that.",
-    "value": "你买不起那个。"
+    "value": "你负担不起那个。"
   },
   {
     "op": "replace",
@@ -255,13 +255,13 @@
     "op": "replace",
     "path": "/apex/activeEnhancer",
     "raw": "I'm sorry, but for your own safety we cannot apply another enhancer while another one is active.\nWe can remove your current one for 500 pixels if you'd like.",
-    "value": "很抱歉，为了你的安全起见，在增强仍然生效时我们无法为你施加另一个增强。\n如果你愿意，我们可以以500像素的价格为你移除当前的增强。"
+    "value": "很抱歉，为了您的安全考虑，当前激活的增强剂尚未失效时，我们无法为您叠加使用新的增强剂。  \n如果您愿意，我们可以以500像素的价格为您移除现有的增强剂。"
   },
   {
     "op": "replace",
     "path": "/apex/acquireEnhancer",
     "raw": "Don't forget you'll lose the enhancer should you die, or you can ask us to remove it should you tire from it.\nIn addition, side effects may include: dry mouth, nausea, vomiting, water retention, painful rectal itch, hallucination, dementia, psychosis, coma, death, and halitosis.",
-    "value": "别忘了，如果你死了，你会失去增强，要是你厌倦了，你也可以要求我们将其移除。\n此外，副作用可能包括：口干、恶心、呕吐、积水、疼痛直肠瘙痒、幻觉、痴呆、精神病、昏迷、死亡和口臭。"
+    "value": "请记住，若您不幸离世，增强将随之失效；若您厌倦其存在，也可请求我们将其移除。  \n此外，可能出现的副作用包括：口干、恶心、呕吐、水肿、肛门瘙痒疼痛、幻觉、痴呆、精神错乱、昏迷、死亡，以及口臭。"
   },
   {
     "op": "replace",
@@ -273,43 +273,43 @@
     "op": "replace",
     "path": "/apex/removeEnhancer",
     "raw": "Enhancer removed. Enjoy your enhancer free body!",
-    "value": "增强已移除。尽情享受你无添加的身体！"
+    "value": "增强剂已清除。享受无增强剂的纯净身体吧！"
   },
   {
     "op": "replace",
     "path": "/apex/hireMerc",
     "raw": "Heres the contract, use it to call and recruit them.",
-    "value": "这是合同，用它来联系和招募人员。"
+    "value": "这是合同，用它来联系并招募人员。"
   },
   {
     "op": "replace",
     "path": "/apex/noMoreMerc",
     "raw": "Sorry, we only allow one crewmate per captain.\nTry checking other military stations if you're in need for more crewmates.",
-    "value": "抱歉，我们只允许每位船长带走一名船员。\n如果你需要更多船员，试着找一下其他军事站点。"
+    "value": "抱歉，每位船长仅限招募一名船员。  \n如需更多船员，请尝试前往其他军事站点查看。"
   },
   {
     "op": "replace",
     "path": "/avian/welcome",
     "raw": "Welcome to the {STATIONNAME} station [(playername)], Kluex watch over you!",
-    "value": "欢迎来到{STATIONNAME}空间站，[(playername)]，克鲁西斯会保佑你！"
+    "value": "欢迎来到{STATIONNAME}空间站，[(playername)]，愿克鲁西斯守护你！"
   },
   {
     "op": "replace",
     "path": "/avian/chat1",
     "raw": "I may be flightless, but I imagine floating through space is just as fun!",
-    "value": "我可能无法飞行，但我想，在太空中漂浮也一定很有趣！"
+    "value": "我虽不能飞翔，但想象在太空中漂浮一定同样有趣！"
   },
   {
     "op": "replace",
     "path": "/avian/chat2",
     "raw": "Tell me of your adventures!",
-    "value": "讲讲你的冒险经历呗！"
+    "value": "说说你的冒险故事吧！"
   },
   {
     "op": "replace",
     "path": "/avian/chat3",
     "raw": "One day I'll save enough to buy my own ship!",
-    "value": "总有一天我也能存够钱买一艘自己的飞船！"
+    "value": "总有一天，我会攒够钱买下属于自己的飞船！"
   },
   {
     "op": "replace",
@@ -321,13 +321,13 @@
     "op": "replace",
     "path": "/avian/militarySpecial",
     "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
-    "value": "作为一处军事站点，我们的特殊服务是允许你雇佣新的船员。价格随着质量而上涨，当他们从某些异世界的怪物手上中拯救你时就物有所值啦。但很不幸，我们只能为每位船长分配一名船员。到最后我们不想成为需要船员的那一方..."
+    "value": "作为一处军事站点，我们的特色服务是允许您招募新船员。价格随船员素质提升而上涨，当他们从异界怪物手中救您一命时，回报也同样丰厚。遗憾的是，每位船长我们只能提供一名船员名额，毕竟我们可不想落得自己缺人手的境地..."
   },
   {
     "op": "replace",
     "path": "/avian/medicalSpecial",
     "raw": "As a medical research lab, our special service is providing you with powerful body enhancers, for the right price of course.\nDue to health hazard, you can have only one enhancer active at a time, but they last until death, or until removed at a medical station for 500 pixels.\nRemmember - Every medical station has its own collection of enhancers, so be sure to check them all out!",
-    "value": "作为一家医学研究实验室，我们的特殊服务是为你提供强大的身体增强，价格肯定公道。\n但由于健康风险，你一次只能使用一种增强剂，但它们会持续到您死亡，或者在医疗站花费500像素移除。\n请记住 - 每个医疗站都有自己的增强系列，所以一定要应看尽看！"
+    "value": "作为一家医学研究实验室，我们的特色服务是以合理的价格为您提供强效的身体增强剂。  \n出于健康风险考虑，您一次只能激活一种增强剂，但其效果将持续至生命终结，或可在医疗站以500像素币的价格进行移除。  \n请注意 - 每个医疗站都拥有独特的增强剂库存，务必逐一探索！"
   },
   {
     "op": "replace",
@@ -339,13 +339,13 @@
     "op": "replace",
     "path": "/avian/tradingSpecial",
     "raw": "As a trading center, we care primarly about pixels and their value.\nShould you be able to raise a high enough amount and invest in us, we'll make sure it'll be worth your while.\nWith each investment you make, the prices in our shops will shiftin your favor, allowing you to buy and sell goods at better rates!\nInvest enough, and the prices for all space stations will have a shift in your favor!",
-    "value": "作为一处交易中心，我们主要关心像素及其价值。\n如果你能筹集到足够高的金额并投资于我们，我们将确保这一切值得。\n随着你的每一次投资，我们商店的价格将向你倾斜，让您以更好的价格买卖商品！\n要是投资足够多，所有空间站的价格都会对你有利！"
+    "value": "作为交易中心，我们最关注的是像素及其价值。  \n如果您能筹集到足够资金并投资于我们，我们保证这将物超所值。  \n您的每一笔投资都将使本店价格向对您有利的方向调整，让您能以更优价格买卖商品！  \n投资达到一定额度，所有空间站的价格都将为您而调整！"
   },
   {
     "op": "replace",
     "path": "/avian/tradingSpecialMax",
     "raw": "Thank you for your great contribution!\nThanks to you, we are now a bustling trading station with a lot of goods to pick from, with good prices for everyone!\nWe'll make sure your contribution is known beyond the bounds of this station, providing you with a better price rate when you buy or sell from other vendors across the stars!",
-    "value": "谢谢你的巨大贡献！\n多亏了您，我们现在是一处繁忙的交易站，有很多商品可供挑选，价格优惠！\n我们将确保您的贡献能超出本站的范围，当您从其他供应商处购买或出售时，他们会为您提供更好的价格！"
+    "value": "感谢您的卓越贡献！  \n多亏了您，我们如今已成为一个繁华的交易站，货物琳琅满目，价格实惠，惠及每一位访客！  \n我们将确保您的贡献传遍星际，让您在与其他星系的商人交易时，享受更优惠的买卖价格！"
   },
   {
     "op": "replace",
@@ -357,19 +357,19 @@
     "op": "replace",
     "path": "/avian/cantAfford1",
     "raw": "Seems like you're a bit short on pixels...",
-    "value": "看起来你的像素有点不够啊…"
+    "value": "看起来你的像素有点不够用呢..."
   },
   {
     "op": "replace",
     "path": "/avian/cantAfford2",
     "raw": "You're low on pixels.",
-    "value": "你带的像素太少啦。"
+    "value": "你的像素不足。"
   },
   {
     "op": "replace",
     "path": "/avian/cantAfford3",
     "raw": "You can not afford that.",
-    "value": "你买不起那个。"
+    "value": "你负担不起那个。"
   },
   {
     "op": "replace",
@@ -381,13 +381,13 @@
     "op": "replace",
     "path": "/avian/activeEnhancer",
     "raw": "I'm sorry, but for your own safety we cannot apply another enhancer while another one is active.\nWe can remove your current one for 500 pixels if you'd like.",
-    "value": "很抱歉，为了你的安全起见，在增强仍然生效时我们无法为你施加另一个增强。\n如果你愿意，我们可以以500像素的价格为你移除当前的增强。"
+    "value": "很抱歉，为了您的安全考虑，当前激活的增强剂尚未失效时，我们无法为您叠加使用新的增强剂。  \n如果您愿意，我们可以以500像素的价格为您移除现有的增强剂。"
   },
   {
     "op": "replace",
     "path": "/avian/acquireEnhancer",
     "raw": "Don't forget you'll lose the enhancer should you die, or you can ask us to remove it should you tire from it.\nIn addition, side effects may include: dry mouth, nausea, vomiting, water retention, painful rectal itch, hallucination, dementia, psychosis, coma, death, and halitosis.",
-    "value": "别忘了，如果你死了，你会失去增强，要是你厌倦了，你也可以要求我们将其移除。\n此外，副作用可能包括：口干、恶心、呕吐、积水、疼痛直肠瘙痒、幻觉、痴呆、精神病、昏迷、死亡和口臭。"
+    "value": "请记住，若您不幸离世，增强将随之失效；若您厌倦其存在，也可请求我们将其移除。  \n此外，可能出现的副作用包括：口干、恶心、呕吐、水肿、肛门瘙痒疼痛、幻觉、痴呆、精神错乱、昏迷、死亡，以及口臭。"
   },
   {
     "op": "replace",
@@ -399,31 +399,31 @@
     "op": "replace",
     "path": "/avian/removeEnhancer",
     "raw": "Enhancer removed. Enjoy your enhancer free body!",
-    "value": "增强已移除。尽情享受你无添加的身体！"
+    "value": "增强剂已清除。享受无增强剂的纯净身体吧！"
   },
   {
     "op": "replace",
     "path": "/avian/hireMerc",
     "raw": "Heres the contract, use it to call and recruit them.",
-    "value": "这是合同，用它来联系和招募人员。"
+    "value": "这是合同，用它来联系并招募人员。"
   },
   {
     "op": "replace",
     "path": "/avian/noMoreMerc",
     "raw": "Sorry, we only allow one crewmate per captain.\nTry checking other military stations if you're in need for more crewmates.",
-    "value": "抱歉，我们只允许每位船长带走一名船员。\n如果你需要更多船员，试着找一下其他军事站点。"
+    "value": "抱歉，每位船长仅限招募一名船员。  \n如需更多船员，请尝试前往其他军事站点查看。"
   },
   {
     "op": "replace",
     "path": "/floran/welcome",
     "raw": "Floran must welcome [(playername)] to the {STATIONNAME} ssstation. Ssstate your businesss",
-    "value": "叶族人衷心欢迎[(playername)]到{STATIONNAME}空间站。请说说说明你要办的业务。"
+    "value": "叶族人必须须须欢迎[(playername)]来到{STATIONNAME}空间站。请说说说明您的来意。"
   },
   {
     "op": "replace",
     "path": "/floran/chat1",
     "raw": "Nice weather. Good for Floransss.",
-    "value": "好天气。叶族人很舒舒舒服。"
+    "value": "天气真好。对叶族人来说正合适。"
   },
   {
     "op": "replace",
@@ -435,31 +435,31 @@
     "op": "replace",
     "path": "/floran/chat3",
     "raw": "Floran lossst their meat. Floran susspects Sssteve.",
-    "value": "叶族人丢了他们的肉。叶族人怀疑史史史蒂夫。"
+    "value": "叶族人的肉不见了。叶族人怀疑是斯史蒂夫干的。"
   },
   {
     "op": "replace",
     "path": "/floran/chat4",
     "raw": "Is Floran wilting?",
-    "value": "叶族人萎了？"
+    "value": "叶族人正在枯萎吗？"
   },
   {
     "op": "replace",
     "path": "/floran/chat5",
     "raw": "Starsss are boring. Too far away to stab.",
-    "value": "星星无聊。太远了，戳戳戳不到。"
+    "value": "星星真无趣，遥不可及，刺刺刺不到。"
   },
   {
     "op": "replace",
     "path": "/floran/chat6",
     "raw": "There is no meat for sale. Everything is in a tube.",
-    "value": "这里不卖肉，啥啥啥玩意都装在管子里。"
+    "value": "这里没有肉卖。所所所有东西都是管装的。"
   },
   {
     "op": "replace",
     "path": "/floran/chat7",
     "raw": "Floran will ssstab if you act bad.",
-    "value": "叶族人戳戳戳你要是你坏坏。"
+    "value": "如果你行为不端，叶族人会捅捅捅你。"
   },
   {
     "op": "replace",
@@ -471,79 +471,79 @@
     "op": "replace",
     "path": "/floran/questStage0",
     "raw": "Floran doesss have something they want done...",
-    "value": "叶族人确实有一些事事事想想想做..."
+    "value": "叶族人确实有件事事事需要完成..."
   },
   {
     "op": "replace",
     "path": "/floran/questStage1",
     "raw": "Greedy! Come back when you've finissshed the lassst one.",
-    "value": "贪心心心心鬼！做完最后一个再过来。"
+    "value": "贪贪贪心！等你把上上上一个任务彻底完成再回来。"
   },
   {
     "op": "replace",
     "path": "/floran/questStage2",
     "raw": "Floran will not give rewards for nothing.",
-    "value": "叶族人不会无缘无故地发奖励。"
+    "value": "叶族人不会无缘无故给予奖赏赏赏。"
   },
   {
     "op": "replace",
     "path": "/floran/questStage3",
     "raw": "Floran could have done better...\nHere isss your payment.",
-    "value": "叶族人本可以做得更好…\n这是你的报酬。"
+    "value": "叶族人本可以做得更好...\n这是你的报酬。"
   },
   {
     "op": "replace",
     "path": "/floran/militarySpecial",
     "raw": "Floransss sstation isss military, and Floran hiresss out crew membersss. The better you pay Floran, the better the hunter, but you can only take one. We are good, ssstrong fightersss but even we can't fight alone...",
-    "value": "叶族人的站点是是是军事站，叶族人提供船员雇佣。你付给叶族人的钱越多，猎手手手就越厉害，但你只选选选择一个。我们是优秀秀秀强壮的战士，但即使使使是是是我们也不能独自战斗..."
+    "value": "叶族人的站点隶属属属军方，叶族人提供雇佣船员服务。你付的酬劳越高，猎手手手就越精锐，但每人仅限雇佣一位。我们骁勇善善善战，但即便是我们，也无法孤军奋战..."
   },
   {
     "op": "replace",
     "path": "/floran/medicalSpecial",
     "raw": "Floran will sssell power boosssters for weaklingss.\nBoosstersss don't ssstay after death, weakling.\nCan alsso remove boosster if you regret. Cosssts 500 pixelss.",
-    "value": "叶族人为弱者出售售售力量增强器。\n增强在死死死后不会保留，弱者。\n如果后悔，也可以移除增强。费用为500像素素素。"
+    "value": "叶族人为弱者提供力量增强剂。  \n增强剂不会在死死死亡后保留，弱者。  \n若后悔也可移除增强剂，需需需花费500像素。"
   },
   {
     "op": "replace",
     "path": "/floran/scientificSpecial",
     "raw": "Floransss peoplesss are sciencey and will trade for different things they needsss.\nIf you have the wrong stuff Floran may need it later. Wait or be eaten.",
-    "value": "叶族人很科学学学，并会用他们需需需要的不同东西进行交易。\n如果你拥有错误的物品叶族人可能以后会需需需要它。请等者或被吃掉。"
+    "value": "叶族人崇尚尚尚科学，会根据自身需需需求交易各类物品。  \n如果你手头的东西他们暂时不需需需要，也许日后会派上用场。耐心等待，否则小心被吃掉。"
   },
   {
     "op": "replace",
     "path": "/floran/tradingSpecial",
     "raw": "Thisss isss a trading center, so we like ssshiny pixelssss.\nIf you give usss money we will ssscare our shopss into giving you better pricess.\nIf you give usss enough pixelss, we sscare all other sspace sstation shops to give you better pricess.",
-    "value": "这里是是是交易中心心心，所所所以我们喜喜喜欢闪闪闪的像素素素。\n如果你给我们钱，我们会吓吓吓我们的商店给你更好的价格。\n如果您给我们足够的像素素素，我们会吓吓吓所有其他空间站商店，让他们给你提供更优惠的价格。"
+    "value": "这里是交易中心心心，我们钟爱闪闪闪亮的像素点。  \n若您支付费用，我们将促使使使我们的商铺为您提供更优价格。  \n若您支付足够多的像素点，我们将让所所所有空间站商铺都为您提供更优价格。"
   },
   {
     "op": "replace",
     "path": "/floran/tradingSpecialMax",
     "raw": "Floran should thank you for your money...\nNow we have more ssstuff to ssstab and thingsss.\nFloran will frighten other sellers into giving their ssstuff away cheaper and giving more pixelsss for your ssstuff!",
-    "value": "叶族人感谢你给的钱...\n现现现在我们有更多东西可以捅捅捅和物物物。\n叶族人会吓吓吓其他卖家，让他们把东西卖得更便宜，并为你的东西提供更多像素素素。"
+    "value": "叶族人该感谢谢谢你的钱...\n现在我们有了更多可以刺刺刺的东西和玩意儿。  \n叶族人会吓吓吓其他卖家，让他们把东西便宜卖，还给你更多像素换你的货！"
   },
   {
     "op": "replace",
     "path": "/floran/returnSpecial",
     "raw": "Floran can sell you more thingsss...",
-    "value": "叶族人可以卖你更多的东西西西啦..."
+    "value": "叶族人可以卖给你更多东西西西..."
   },
   {
     "op": "replace",
     "path": "/floran/cantAfford1",
     "raw": "You don't have enough moneysss.",
-    "value": "你没这么多钱。"
+    "value": "你的钱钱钱不够。"
   },
   {
     "op": "replace",
     "path": "/floran/cantAfford2",
     "raw": "Come back when you have enough pixelsss, wimp.",
-    "value": "等你有足够的像素素素再回来，懦夫。"
+    "value": "等你像素攒够了再回来吧，胆小鬼。"
   },
   {
     "op": "replace",
     "path": "/floran/cantAfford3",
     "raw": "Floran needsss more pixelsss for that.",
-    "value": "叶族人需要更多的像素素素。"
+    "value": "叶族人需需需要更多像素。"
   },
   {
     "op": "replace",
@@ -555,13 +555,13 @@
     "op": "replace",
     "path": "/floran/activeEnhancer",
     "raw": "Floran iss told to ssay, can't have more than one enhancer active at a time.\nCan remove active enhancer for 500 pixels.",
-    "value": "叶族人被告知，一次只能激活一个增强。\n可以用500像素素素移除激活的增强。"
+    "value": "叶族人被告知，一次只能激活一种增强剂。\n移除已激活的增强剂需需需要花费500像素。"
   },
   {
     "op": "replace",
     "path": "/floran/acquireEnhancer",
     "raw": "Floran is told to say: 'ssside effects may include: dry mouth, nausea, vomiting, water retention, painful rectal itchyness, hallucination, dementia, psychosisss, coma, death, and halitosis.'\nThat wasss a mouthful. Also, boossster gone if you die, weakling. Come back if you need another.",
-    "value": "叶族人被告知：“副作用可能包括：口干、恶心、呕吐、积水、疼痛直肠瘙痒、幻觉、痴呆、精神病、昏迷、死亡和口臭。”\n说说说得太多了，还有，如果你死了，强化就没了，弱者，如果你还要就再过来。"
+    "value": "叶族人被告知：“副作用可能包括：口干、恶心、呕吐、积水、疼痛直肠瘙痒、幻觉、痴呆、精神病、昏迷、死亡和口臭。”\n那可真是一大段话。还有，如果你死死死了，强化效果就没了，弱鸡。需要的话再来。"
   },
   {
     "op": "replace",
@@ -573,49 +573,49 @@
     "op": "replace",
     "path": "/floran/removeEnhancer",
     "raw": "Enhancer removed. Enjoy your enhancer free body!",
-    "value": "增强已移除。尽情享受你无添加的身体！"
+    "value": "增强剂已清除。享受无增强剂的纯净身体吧！"
   },
   {
     "op": "replace",
     "path": "/floran/hireMerc",
     "raw": "Here isss contract. Good for one hunter.",
-    "value": "这是是是合同。对猎人来说说说很好。"
+    "value": "这是合同。适适适用于一名猎人。"
   },
   {
     "op": "replace",
     "path": "/floran/noMoreMerc",
     "raw": "Huntersss are come in sssingles. Go somewhere elesse for more.",
-    "value": "猎人总是形形形单影只。去别的地方看看吧。"
+    "value": "猎手独行而来。要寻寻寻更多，请移步他处。"
   },
   {
     "op": "replace",
     "path": "/glitch/welcome",
     "raw": "Cordial. Welcome to the {STATIONNAME} station [(playername)]. Enjoy your stay!",
-    "value": "亲切。欢迎来到{STATIONNAME}空间站，[(playername)]，愿你享受此刻！"
+    "value": "亲切。欢迎来到{STATIONNAME}空间站，[(playername)]。祝您在此停留愉快！"
   },
   {
     "op": "replace",
     "path": "/glitch/chat1",
     "raw": "Welcoming. We rarely receive visitors.",
-    "value": "欢迎。我们很少有访客。"
+    "value": "欢迎。我们这里很少有访客。"
   },
   {
     "op": "replace",
     "path": "/glitch/chat2",
     "raw": "Content. It is good to have you here.",
-    "value": "充实。很高兴你在这里。"
+    "value": "充实。很高兴你能来。"
   },
   {
     "op": "replace",
     "path": "/glitch/chat3",
     "raw": "Puzzled. I can't find my lunchbag.",
-    "value": "困惑。我找不到我的午餐袋。"
+    "value": "困惑。我找不到我的午餐袋了。"
   },
   {
     "op": "replace",
     "path": "/glitch/chat4",
     "raw": "Nostalgic. I miss proper metallic cuisine.",
-    "value": "怀旧。我想念正宗的金属烹饪。"
+    "value": "怀旧。我怀念地道的金属料理。"
   },
   {
     "op": "replace",
@@ -627,115 +627,115 @@
     "op": "replace",
     "path": "/glitch/chat6",
     "raw": "Observant. Your mech is of interesting craft.",
-    "value": "观察。你的机甲制作得相当有趣。"
+    "value": "观察。你的机甲工艺颇为有趣。"
   },
   {
     "op": "replace",
     "path": "/glitch/chat7",
     "raw": "Calm. It's so quiet out here, among the void...",
-    "value": "宁静。在这片虚空中，万籁俱寂……"
+    "value": "宁静。此地如此寂静，仿佛置身于虚无之中..."
   },
   {
     "op": "replace",
     "path": "/glitch/chat8",
     "raw": "Cautious. Those warriors from Terra, they got curved swords. Curved. Swords.",
-    "value": "小心。那些来自泰拉的战士，他们用的是弯刀！弯！刀！"
+    "value": "小心。那些来自泰拉的勇士们，手持弯刀。弯的。刀。"
   },
   {
     "op": "replace",
     "path": "/glitch/questStage0",
     "raw": "Affirmative. IF you want to help, there's something we need.",
-    "value": "肯定。如果你愿意帮忙，我们有一事相求。"
+    "value": "肯定。如果你想帮忙，我们确实需要一些东西。"
   },
   {
     "op": "replace",
     "path": "/glitch/questStage1",
     "raw": "Irraritated. Finish your previous assigment before asking for another.",
-    "value": "恼怒。在要求另一个任务之前请先完成你之前的任务。"
+    "value": "恼怒。在请求新任务之前，请先完成之前的。"
   },
   {
     "op": "replace",
     "path": "/glitch/questStage2",
     "raw": "Negative. You failed to honor your part of the deal.\nYou won't receive any payment.",
-    "value": "否定。你没有履行协议的承诺。\n你将不会收到任何报酬。"
+    "value": "否定。你未能履行协议中的责任部分。\n你将不会收到任何款项。"
   },
   {
     "op": "replace",
     "path": "/glitch/questStage3",
     "raw": "Approving. Here, take this as payment.",
-    "value": "批准。这里，拿这个作为报酬。"
+    "value": "批准。给，这个当作报酬。"
   },
   {
     "op": "replace",
     "path": "/glitch/militarySpecial",
     "raw": "Explanatory. As a military station, we deal in specialized crewmember contracts. Price and quality are tied, so go the extra mile if you want to be extra safe.\nKeep in mind that we can only spare one crew member per captain, in order to remain functional ourselves.",
-    "value": "说明。作为一处军事站点，我们处理专门的船员合同。价格和质量是捆绑在一起的，所以如果你想保证额外的安全，就多花点钱吧。\n请记住，我们只能为每位船长分配一名船员，以保证我们自身的正常运转。"
+    "value": "说明。作为军事站点，我们专门处理船员合同业务。价格与质量直接挂钩，若想确保万无一失，请务必加倍用心。\n请注意，为维持自身正常运转，每位船长我们仅能提供一名船员。"
   },
   {
     "op": "replace",
     "path": "/glitch/medicalSpecial",
     "raw": "Explanatory. As a medical research lab, we deal in all sort of long lasting enhancers.\nThey will remain with you until your eventual death, or until removed.\nThey can be removed at any medical station for 500 pixels.",
-    "value": "说明，作为一家医学研究实验室，我们处理各种持久增强。\n它们会一直陪伴你直到最终死亡，或者被移除。\n它们可以在任何医疗站点500像素的价格移除。"
+    "value": "说明。作为一家医学研究实验室，我们提供各类长效增强剂。  \n这些增强剂将伴随您直至生命终结，或通过医疗站移除。  \n您可随时前往任意医疗站，支付500像素点进行移除。"
   },
   {
     "op": "replace",
     "path": "/glitch/scientificSpecial",
     "raw": "Discoursing. As a scientific research lab, our main branch of action is synthesysing and trading all sorts of materials.\nDo remember to check back every now and then, as our stored goods may vary quite a bit.",
-    "value": "论述。我们是一间科研实验室，主要从事合成和交易各种材料。\n请记得定期查看，因为我们的存货可能会有所变化。"
+    "value": "论述。作为一家科研实验室，我们的主要业务是合成与交易各类材料。\n请记得时常回来查看，因为我们库存的货物可能会有较大变动。"
   },
   {
     "op": "replace",
     "path": "/glitch/tradingSpecial",
     "raw": "Discoursing. As a trading center, we are here mainly to amass pixels.\nWe are accepting investments, which may bring you a great profit if sufficient.\nWith each investment you make, our prices will shift in your favor.\nEncouraging. Raising enough pixels in our name will award you with a better price through out all the space stations in the cosmos!",
-    "value": "论述。作为一处交易中心，我们主要在这里积累像素。\n我们接受投资，如果投资足够的话，也许能给你带来巨大的利润。\n每次你投资，我们的价格都会朝着你的利益方向变动。\n鼓励。在我们的名下积累足够的像素将使你在宇宙中所有太空站中获得更好的价格！"
+    "value": "论述。作为交易中心，我们的主要目标是汇聚像素资源。  \n我们正在接受投资，若资金充足，您将可能获得丰厚回报。  \n您的每一次投资，都将推动我们的价格向对您有利的方向调整。  \n振奋。以我们的名义筹集足够像素，将让您在宇宙所有空间站享受更优价格！"
   },
   {
     "op": "replace",
     "path": "/glitch/tradingSpecialMax",
     "raw": "Pleased. Thank you for this important aid.\nAll thanks to you, this is now a prosperous merchant outpost with a large variety of goods to offer.\nWe'll make sure your contribution is known far and wide, allowing you to get better prices when buying or selling with other vendors as well.",
-    "value": "高兴。谢谢您的重要帮助。\n多亏了您，这里现在是一处繁荣的商人哨站，有各种各样的商品可以提供。\n我们将确保您的贡献广为人知，让您在与其他供应商购买或销售时也能获得更好的价格。"
+    "value": "高兴。感谢您提供的重要援助。  \n多亏了您，这里如今已成为一个繁荣的商栈，货物种类繁多。  \n我们定会将您的贡献广而告之，让您与其他商贩交易时也能获得更优的价格。"
   },
   {
     "op": "replace",
     "path": "/glitch/returnSpecial",
     "raw": "Questioning. Do you need anything else?",
-    "value": "疑问。你需要我做什么吗？"
+    "value": "疑问。你还需要别的吗？"
   },
   {
     "op": "replace",
     "path": "/glitch/cantAfford1",
     "raw": "Disappointed. You lack economical possessions.",
-    "value": "失望。你缺乏经济财产。"
+    "value": "失望。你缺乏经济上的拥有物。"
   },
   {
     "op": "replace",
     "path": "/glitch/cantAfford2",
     "raw": "Patient. Please return with more pixels.",
-    "value": "耐心。请提供更多像素。"
+    "value": "耐心。请带回更多像素。"
   },
   {
     "op": "replace",
     "path": "/glitch/cantAfford3",
     "raw": "Explanatory. You can not afford that.",
-    "value": "解释。你买不起那个。"
+    "value": "解释。你负担不起那个。"
   },
   {
     "op": "replace",
     "path": "/glitch/cantAfford4",
     "raw": "Disagreeing. That is not enough to pay for this.",
-    "value": "不同意。这还不足以支付。"
+    "value": "不同意。这还不够支付这个的费用。"
   },
   {
     "op": "replace",
     "path": "/glitch/activeEnhancer",
     "raw": "Explanatory. As stated, you cannot have more than one enhancer active at a time.\nWe can remove your active enhancer for 500 pixels if desired.",
-    "value": "解释。如前所述，你不能同时拥有多个处于激活状态的增强。\n如果需要，我们可以为你移除当前激活的增强，费用为500像素。"
+    "value": "解释。如前所述，您一次只能激活一个增强剂。  \n如果您需要，我们可以以500像素的价格移除您当前激活的增强剂。"
   },
   {
     "op": "replace",
     "path": "/glitch/acquireEnhancer",
     "raw": "Hopeful. Come back if you would like another enhancer.\nAdvisory. The Galactic Food & Drug Agency has not fully approved this type of mechanism, and possible side effects are not completely known yet. Have fun, and remember to come back for another when you die!",
-    "value": "希望。如果你想要另一种增强，请回来。\n提醒。银河食品药品管理局尚未完全批准这种机制，可能的副作用尚不完全明确。玩得开心，并记得在你死后再回来！"
+    "value": "希望。若想再次体验强化效果，欢迎随时回来。  \n温馨提示：宇宙食品与药物管理局尚未完全批准此类机制，其潜在副作用尚未完全明确。尽情享受，并记得在生命终结时再来一次！"
   },
   {
     "op": "replace",
@@ -747,19 +747,19 @@
     "op": "replace",
     "path": "/glitch/removeEnhancer",
     "raw": "Pleased. Enhancer removed. Enjoy your enhancer free body!",
-    "value": "愉快。增强已移除。享受您无增强的身体！"
+    "value": "愉快。增强剂已清除。享受无增强剂的纯净身体吧！"
   },
   {
     "op": "replace",
     "path": "/glitch/hireMerc",
     "raw": "Explanatory. Here is your contract, use it to call your recruit.",
-    "value": "说明。这是合同，用它来联系和招募。"
+    "value": "说明。这是合同，用它来联系并招募人员。"
   },
   {
     "op": "replace",
     "path": "/glitch/noMoreMerc",
     "raw": "Apologizing. We only allow one crewmate per captain.\nIf you need more crew members, check in with other military stations.",
-    "value": "抱歉。我们只允许每位船长带走一名船员。\n如果你需要更多船员，试着找一下其他军事站点。"
+    "value": "抱歉。每位船长仅限带走一名船员。  \n如需更多船员，请向其他军事站点咨询。"
   },
   {
     "op": "replace",
@@ -771,13 +771,13 @@
     "op": "replace",
     "path": "/human/chat1",
     "raw": "Damn tentacled beasts, destroying planets and childhoods...",
-    "value": "该死的触手怪兽，毁灭了我们的星球和童年……"
+    "value": "该死的触手怪物，毁掉星球也毁掉了童年..."
   },
   {
     "op": "replace",
     "path": "/human/chat2",
     "raw": "You have my attention.",
-    "value": "你成功引起了我的注意。"
+    "value": "你已引起我的注意。"
   },
   {
     "op": "replace",
@@ -789,37 +789,37 @@
     "op": "replace",
     "path": "/human/chat4",
     "raw": "C'mooooooon it's been 3 hours since I last checked the time, and only ten minutes have passed!",
-    "value": "哦哦哦哦哦哦哦哦哦，我感觉已经三个小时没看时间了，结果才过了十分钟！"
+    "value": "拜托啊啊啊啊啊啊！我上次看时间才过了三小时，结果现在只过了十分钟！"
   },
   {
     "op": "replace",
     "path": "/human/chat5",
     "raw": "One more loot box, and I'll finally complete my cosmetic set in Hats n' Guns 2!",
-    "value": "再开一个箱，我就能在“壮志凌顶2”里集齐我的整套饰品啦！"
+    "value": "再开一个战利品箱，我就能在《帽子与枪2》里集齐全套外观了！"
   },
   {
     "op": "replace",
     "path": "/human/chat6",
     "raw": "Hey, I'm pretty sure I've seen you on- ...nevermind.",
-    "value": "嘿，我很确定我见-...别在意。"
+    "value": "嘿，我肯定在哪儿见过...算了，当我没说。"
   },
   {
     "op": "replace",
     "path": "/human/chat7",
     "raw": "I used to be a spacefarer like you, but then I took a laser to the knee.",
-    "value": "我曾经和你一样是个星际远行者，直到我的膝盖中了一激光。"
+    "value": "我曾和你一样，是个遨游星海的旅人，直到膝盖中了一束激光。"
   },
   {
     "op": "replace",
     "path": "/human/militarySpecial",
     "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
-    "value": "作为一处军事站点，我们的特殊服务是允许你雇佣新的船员。价格随着质量而上涨，当他们从某些异世界的怪物手上中拯救你时就物有所值啦。但很不幸，我们只能为每位船长分配一名船员。到最后我们不想成为需要船员的那一方..."
+    "value": "作为一处军事站点，我们的特色服务是允许您招募新船员。价格随船员素质提升而上涨，当他们从异界怪物手中救您一命时，回报也同样丰厚。遗憾的是，每位船长我们只能提供一名船员名额，毕竟我们可不想落得自己缺人手的境地..."
   },
   {
     "op": "replace",
     "path": "/human/medicalSpecial",
     "raw": "As a medical research lab, our special service is providing you with powerful body enhancers, for the right price of course.\nDue to health hazard, you can have only one enhancer active at a time, but they last until death, or until removed at a medical station for 500 pixels.\nRemmember - Every medical station has its own collection of enhancers, so be sure to check them all out!",
-    "value": "作为一家医学研究实验室，我们的特殊服务是为你提供强大的身体增强，价格肯定公道。\n但由于健康风险，你一次只能使用一种增强剂，但它们会持续到您死亡，或者在医疗站花费500像素移除。\n请记住 - 每个医疗站都有自己的增强系列，所以一定要应看尽看！"
+    "value": "作为一家医学研究实验室，我们的特色服务是以合理的价格为您提供强效的身体增强剂。  \n出于健康风险考虑，您一次只能激活一种增强剂，但其效果将持续至生命终结，或可在医疗站以500像素币的价格进行移除。  \n请注意 - 每个医疗站都拥有独特的增强剂库存，务必逐一探索！"
   },
   {
     "op": "replace",
@@ -831,13 +831,13 @@
     "op": "replace",
     "path": "/human/tradingSpecial",
     "raw": "As a trading station, we care primarly about pixels and their value.\nShould you be able to raise a high enough amount and invest in us, we'll make sure it'll be worth your while.\nWith each investment you make, the prices in our shops will shiftin your favor, allowing you to buy and sell goods at better rates!\nInvest enough, and the prices for all space stations will have a shift in your favor!",
-    "value": "作为一处交易中心，我们主要关心像素及其价值。\n如果你能筹集到足够高的金额并投资于我们，我们将确保这一切值得。\n随着你的每一次投资，我们商店的价格将向你倾斜，让您以更好的价格买卖商品！\n要是投资足够多，所有空间站的价格都会对你有利！"
+    "value": "作为交易站，我们最关注的是像素及其价值。  \n如果您能筹集到足够资金并投资于我们，我们保证这将物超所值。  \n您的每一笔投资都将使本店价格向对您有利的方向调整，让您能以更优价格买卖商品！  \n投资达到一定额度，所有空间站的价格都将为您而调整！"
   },
   {
     "op": "replace",
     "path": "/human/tradingSpecialMax",
     "raw": "Thank you for your great contribution!\nThanks to you, we are now a bustling trading station with a lot of goods to pick from, with good prices for everyone!\nWe'll make sure your contribution is known beyond the bounds of this station, providing you with a better price rate when you buy or sell from other vendors across the stars!",
-    "value": "谢谢你的巨大贡献！\n多亏了您，我们现在是一处繁忙的交易站，有很多商品可供挑选，价格优惠！\n我们将确保您的贡献能超出本站的范围，当您从其他供应商处购买或出售时，他们会为您提供更好的价格！"
+    "value": "感谢您的卓越贡献！  \n多亏了您，我们如今已成为一个繁华的交易站，货物琳琅满目，价格实惠，惠及每一位访客！  \n我们将确保您的贡献传遍星际，让您在与其他星系的商人交易时，享受更优惠的买卖价格！"
   },
   {
     "op": "replace",
@@ -849,19 +849,19 @@
     "op": "replace",
     "path": "/human/cantAfford1",
     "raw": "Seems like you're a bit short on pixels...",
-    "value": "看起来你的像素有点不够啊…"
+    "value": "看起来你的像素有点不够用呢..."
   },
   {
     "op": "replace",
     "path": "/human/cantAfford2",
     "raw": "You're low on pixels.",
-    "value": "你带的像素太少啦。"
+    "value": "你的像素不足。"
   },
   {
     "op": "replace",
     "path": "/human/cantAfford3",
     "raw": "You can not afford that.",
-    "value": "你买不起那个。"
+    "value": "你负担不起那个。"
   },
   {
     "op": "replace",
@@ -873,13 +873,13 @@
     "op": "replace",
     "path": "/human/activeEnhancer",
     "raw": "I'm sorry, but for your own safety we cannot apply another enhancer while another one is active.\nWe can remove your current one for 500 pixels if you'd like.",
-    "value": "很抱歉，为了你的安全起见，在增强仍然生效时我们无法为你施加另一个增强。\n如果你愿意，我们可以以500像素的价格为你移除当前的增强。"
+    "value": "很抱歉，为了您的安全考虑，当前激活的增强剂尚未失效时，我们无法为您叠加使用新的增强剂。  \n如果您愿意，我们可以以500像素的价格为您移除现有的增强剂。"
   },
   {
     "op": "replace",
     "path": "/human/acquireEnhancer",
     "raw": "Don't forget you'll lose the enhancer should you die, or you can ask us to remove it should you tire from it.\nIn addition, side effects may include: dry mouth, nausea, vomiting, water retention, painful rectal itch, hallucination, dementia, psychosis, coma, death, and halitosis.",
-    "value": "别忘了，如果你死了，你会失去增强，要是你厌倦了，你也可以要求我们将其移除。\n此外，副作用可能包括：口干、恶心、呕吐、积水、疼痛直肠瘙痒、幻觉、痴呆、精神病、昏迷、死亡和口臭。"
+    "value": "请记住，若您不幸离世，增强将随之失效；若您厌倦其存在，也可请求我们将其移除。  \n此外，可能出现的副作用包括：口干、恶心、呕吐、水肿、肛门瘙痒疼痛、幻觉、痴呆、精神错乱、昏迷、死亡，以及口臭。"
   },
   {
     "op": "replace",
@@ -891,61 +891,61 @@
     "op": "replace",
     "path": "/human/removeEnhancer",
     "raw": "Enhancer removed. Enjoy your enhancer free body!",
-    "value": "增强已移除。尽情享受你无添加的身体！"
+    "value": "增强剂已清除。享受无增强剂的纯净身体吧！"
   },
   {
     "op": "replace",
     "path": "/human/hireMerc",
     "raw": "Heres the contract, use it to call and recruit them.",
-    "value": "这是合同，用它来联系和招募人员。"
+    "value": "这是合同，用它来联系并招募人员。"
   },
   {
     "op": "replace",
     "path": "/human/noMoreMerc",
     "raw": "Sorry, we only allow one crewmate per captain.\nTry checking other military stations if you're in need for more crewmates.",
-    "value": "抱歉，我们只允许每位船长带走一名船员。\n如果你需要更多船员，试着找一下其他军事站点。"
+    "value": "抱歉，每位船长仅限招募一名船员。  \n如需更多船员，请尝试前往其他军事站点查看。"
   },
   {
     "op": "replace",
     "path": "/hylotl/welcome",
     "raw": "Greetings [(playername)], and welcome to the {STATIONNAME} station ",
-    "value": "你好，[(playername)]，欢迎来到{STATIONNAME}空间站！"
+    "value": "你好啊[(playername)]，欢迎来到{STATIONNAME}空间站！"
   },
   {
     "op": "replace",
     "path": "/hylotl/chat1",
     "raw": "I ate a fish the other day and got weird looks from the humans on board...",
-    "value": "前几天我吃了一条鱼，结果站里的人类都用奇怪的眼神看着我..."
+    "value": "前几天我吃了条鱼，结果船上的人类都投来了异样的目光..."
   },
   {
     "op": "replace",
     "path": "/hylotl/chat2",
     "raw": "Have you seen [you can quite make out what they're saying]?? Its the best show ever!",
-    "value": "你看过《你能听清他们在说什么吗》吗？这是有史以来最棒的节目！"
+    "value": "你看过《你几乎能听清他们在说什么》吗？这绝对是有史以来最棒的节目！"
   },
   {
     "op": "replace",
     "path": "/hylotl/chat3",
     "raw": "When my shifts over, I'm going back to working on my novel!",
-    "value": "轮完班我就回去继续写小说了！"
+    "value": "等我下班后，就要继续写我的小说了！"
   },
   {
     "op": "replace",
     "path": "/hylotl/chat4",
     "raw": "I broke my favorite brush yesterday and now I'm too sad to draw anything.",
-    "value": "昨天我不小心把我最喜欢的画笔弄坏了，现在心情太难过了啥都不想画。"
+    "value": "昨天我不小心弄坏了我最心爱的画笔，现在难过得什么也画不出来。"
   },
   {
     "op": "replace",
     "path": "/hylotl/militarySpecial",
     "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrocity. Sadly, we can only spare one crew member per captain. We don't want to end up being the ones in need of crew members...",
-    "value": "作为一处军事站点，我们的特殊服务是允许你雇佣新的船员。价格随着质量而上涨，当他们从某些异世界的怪物手上中拯救你时就物有所值啦。但很不幸，我们只能为每位船长分配一名船员。到最后我们不想成为需要船员的那一方..."
+    "value": "作为一处军事站点，我们的特色服务是允许您招募新船员。价格随船员素质提升而上涨，当他们从异界怪物手中救您一命时，回报也同样丰厚。遗憾的是，每位船长我们只能提供一名船员名额，毕竟我们可不想落得自己缺人手的境地..."
   },
   {
     "op": "replace",
     "path": "/hylotl/medicalSpecial",
     "raw": "As a medical research lab, our special service is providing you with powerful body enhancers, for the right price of course.\nDue to health hazard, you can have only one enhancer active at a time, but they last until death, or until removed at a medical station for 500 pixels.\nRemmember - Every medical station has its own collection of enhancers, so be sure to check them all out!",
-    "value": "作为一家医学研究实验室，我们的特殊服务是为你提供强大的身体增强，价格肯定公道。\n但由于健康风险，你一次只能使用一种增强剂，但它们会持续到您死亡，或者在医疗站花费500像素移除。\n请记住 - 每个医疗站都有自己的增强系列，所以一定要应看尽看！"
+    "value": "作为一家医学研究实验室，我们的特色服务是以合理的价格为您提供强效的身体增强剂。  \n出于健康风险考虑，您一次只能激活一种增强剂，但其效果将持续至生命终结，或可在医疗站以500像素币的价格进行移除。  \n请注意 - 每个医疗站都拥有独特的增强剂库存，务必逐一探索！"
   },
   {
     "op": "replace",
@@ -957,13 +957,13 @@
     "op": "replace",
     "path": "/hylotl/tradingSpecial",
     "raw": "As a trading station, we care primarly about pixels and their value.\nShould you be able to raise a high enough amount and invest in us, we'll make sure it'll be worth your while.\nWith each investment you make, the prices in our shops will shiftin your favor, allowing you to buy and sell goods at better rates!\nInvest enough, and the prices for all space stations will have a shift in your favor!",
-    "value": "作为一处交易中心，我们主要关心像素及其价值。\n如果你能筹集到足够高的金额并投资于我们，我们将确保这一切值得。\n随着你的每一次投资，我们商店的价格将向你倾斜，让您以更好的价格买卖商品！\n要是投资足够多，所有空间站的价格都会对你有利！"
+    "value": "作为交易站，我们最关注的是像素及其价值。  \n如果您能筹集到足够资金并投资于我们，我们保证这将物超所值。  \n您的每一笔投资都将使本店价格向对您有利的方向调整，让您能以更优价格买卖商品！  \n投资达到一定额度，所有空间站的价格都将为您而调整！"
   },
   {
     "op": "replace",
     "path": "/hylotl/tradingSpecialMax",
     "raw": "Thank you for your great contribution!\nThanks to you, we are now a bustling trading station with a lot of goods to pick from, with good prices for everyone!\nWe'll make sure your contribution is known beyond the bounds of this station, providing you with a better price rate when you buy or sell from other vendors across the stars!",
-    "value": "谢谢你的巨大贡献！\n多亏了您，我们现在是一处繁忙的交易站，有很多商品可供挑选，价格优惠！\n我们将确保您的贡献能超出本站的范围，当您从其他供应商处购买或出售时，他们会为您提供更好的价格！"
+    "value": "感谢您的卓越贡献！  \n多亏了您，我们如今已成为一个繁华的交易站，货物琳琅满目，价格实惠，惠及每一位访客！  \n我们将确保您的贡献传遍星际，让您在与其他星系的商人交易时，享受更优惠的买卖价格！"
   },
   {
     "op": "replace",
@@ -975,19 +975,19 @@
     "op": "replace",
     "path": "/hylotl/cantAfford1",
     "raw": "Seems like you're a bit short on pixels...",
-    "value": "看起来你的像素有点不够啊…"
+    "value": "看起来你的像素有点不够用呢..."
   },
   {
     "op": "replace",
     "path": "/hylotl/cantAfford2",
     "raw": "You're low on pixels.",
-    "value": "你带的像素太少啦。"
+    "value": "你的像素不足。"
   },
   {
     "op": "replace",
     "path": "/hylotl/cantAfford3",
     "raw": "You can not afford that.",
-    "value": "你买不起那个。"
+    "value": "你负担不起那个。"
   },
   {
     "op": "replace",
@@ -999,13 +999,13 @@
     "op": "replace",
     "path": "/hylotl/activeEnhancer",
     "raw": "I'm sorry, but for your own safety we cannot apply another enhancer while another one is active.\nWe can remove your current one for 500 pixels if you'd like.",
-    "value": "很抱歉，为了你的安全起见，在增强仍然生效时我们无法为你施加另一个增强。\n如果你愿意，我们可以以500像素的价格为你移除当前的增强。"
+    "value": "很抱歉，为了您的安全考虑，当前激活的增强剂尚未失效时，我们无法为您叠加使用新的增强剂。  \n如果您愿意，我们可以以500像素的价格为您移除现有的增强剂。"
   },
   {
     "op": "replace",
     "path": "/hylotl/acquireEnhancer",
     "raw": "Don't forget you'll lose the enhancer should you die, or you can ask us to remove it should you tire from it.\nIn addition, side effects may include: dry mouth, nausea, vomiting, water retention, painful rectal itch, hallucination, dementia, psychosis, coma, death, and halitosis.",
-    "value": "别忘了，如果你死了，你会失去增强，要是你厌倦了，你也可以要求我们将其移除。\n此外，副作用可能包括：口干、恶心、呕吐、积水、疼痛直肠瘙痒、幻觉、痴呆、精神病、昏迷、死亡和口臭。"
+    "value": "请记住，若您不幸离世，增强将随之失效；若您厌倦其存在，也可请求我们将其移除。  \n此外，可能出现的副作用包括：口干、恶心、呕吐、水肿、肛门瘙痒疼痛、幻觉、痴呆、精神错乱、昏迷、死亡，以及口臭。"
   },
   {
     "op": "replace",
@@ -1017,37 +1017,37 @@
     "op": "replace",
     "path": "/hylotl/removeEnhancer",
     "raw": "Enhancer removed. Enjoy your enhancer free body!",
-    "value": "增强已移除。尽情享受你无添加的身体！"
+    "value": "增强剂已清除。享受无增强剂的纯净身体吧！"
   },
   {
     "op": "replace",
     "path": "/hylotl/hireMerc",
     "raw": "Heres the contract, use it to call and recruit them.",
-    "value": "这是合同，用它来联系和招募人员。"
+    "value": "这是合同，用它来联系并招募人员。"
   },
   {
     "op": "replace",
     "path": "/hylotl/noMoreMerc",
     "raw": "Sorry, we only allow one crewmate per captain.\nTry checking other military stations if you're in need for more crewmates.",
-    "value": "抱歉，我们只允许每位船长带走一名船员。\n如果你需要更多船员，试着找一下其他军事站点。"
+    "value": "抱歉，每位船长仅限招募一名船员。  \n如需更多船员，请尝试前往其他军事站点查看。"
   },
   {
     "op": "replace",
     "path": "/novakid/welcome",
     "raw": "Howdy [(playername)]! Welcome to the {STATIONNAME} station pardner!",
-    "value": "你好啊[(playername)]！欢迎来到{STATIONNAME}空间站，老哥！"
+    "value": "嘿，[(playername)]！欢迎来到{STATIONNAME}空间站，伙计！"
   },
   {
     "op": "replace",
     "path": "/novakid/chat1",
     "raw": "Ya ever stare into a sun and get a funny feeling in yer eyes?\nI don't, got no eyes to feel!",
-    "value": "你有没有盯着太阳看，然后眼睛感觉怪？\n我没眼，所以没感觉！"
+    "value": "你曾盯着太阳看，眼睛有种奇怪的感觉吗？\n我没有，连感受的眼睛都没有！"
   },
   {
     "op": "replace",
     "path": "/novakid/chat2",
     "raw": "Now where'd I leave my banjo at?",
-    "value": "我把我班卓琴放哪啦？"
+    "value": "我到底把班卓琴放哪儿了？"
   },
   {
     "op": "replace",
@@ -1065,13 +1065,13 @@
     "op": "replace",
     "path": "/novakid/militarySpecial",
     "raw": "Ya want extra guns by your side? You at the right military station cowboy!\nYa can hire a merc here ta help ya on yer travels, but we only allow one crewmate per captn', otherwise we'd end up being the ones hiring!",
-    "value": "想要身边多几杆枪？你来对征兵站啦，牛仔！\n你可以在这里雇佣一名雇佣兵来帮助你旅行，但我们只允许每位船长带走一名船员，否则我们全部得变成被雇佣的那一方了！"
+    "value": "想要身边多带几把枪吗？牛仔，你来对军事站了！  \n在这儿你可以雇个佣兵陪你上路，但每位船长只能带一个伙计，不然就该轮到我们雇人啦！"
   },
   {
     "op": "replace",
     "path": "/novakid/medicalSpecial",
     "raw": "If ya lookin' for a boon, you at the right medical station!\nWe're sellin' all sorts of enhancers that do all kinds of stuff.\nWe can't let ya walk around with more than one though, bad for yer health n' all that, but they strong enough to last you a life time, so dying ain't advised if ya have one. They can also be removed at any med station for 500 pixels if you'd like.\nAnd don't forget - Every station has its own collection of boosters, so be sure to check em' all out!",
-    "value": "如果你找福音，你来对医疗站了！\n我们卖各种增强，功能多样。\n不过我们不能让你身上带多个，对健康不好，但它们足够强大，能维持一辈子，所以如果你有一个的话最好不要去世。如果你想的话，它们也可以在任何医疗站移除，只需500像素。\n别忘了 - 每个站都有自己的增强系列，一定要全部看看！"
+    "value": "如果你在寻找一份恩赐，那你可来对医疗站了！  \n我们这儿卖各种增强剂，功能五花八门。  \n不过，我们可不能让你带着超过一个在身上晃悠，对健康不好嘛。但这些玩意儿效果强劲，足够你用一辈子，所以要是有了一个，可别轻易想不开哦。如果你愿意，随时可以在任意医疗站花500像素点把它取下来。  \n别忘了 - 每个站点都有自己独特的增强剂收藏，记得全都逛逛看！"
   },
   {
     "op": "replace",
@@ -1083,37 +1083,37 @@
     "op": "replace",
     "path": "/novakid/tradingSpecial",
     "raw": "Ya like pixels? So do we!\nIn this trading station, ya can invest pixels to better prices in yer favor.\nOnce ya invest enough, we'll make sure all stations, no matter what type, will have a better price ta offer ya!",
-    "value": "你喜欢像素？俺们也一样！\n在这个交易站，你可以投资像素以获得更有利于你的价格。\n一旦你投资足够多，我们会确保所有的站点，无论是什么类型，都会给你提供更好的价格！"
+    "value": "喜欢像素吗？我们也一样！  \n在这个交易站，你可以投资像素来换取更优惠的价格。  \n一旦你投资足够，我们保证所有站点，无论何种类型，都会为你提供更划算的价格！"
   },
   {
     "op": "replace",
     "path": "/novakid/tradingSpecialMax",
     "raw": "We all grateful to yer countribution pardenr!\nWe'll make sure any other station floating out there will have a better price for you!",
-    "value": "我们都非常感谢您的贡献，伙计！\n我们会确保任何其他漂浮在那里的站点都会给您一个更好的价格！"
+    "value": "我们衷心感谢您的贡献，伙计！\n我们保证，未来任何其他站点都会为您提供更优惠的价格！"
   },
   {
     "op": "replace",
     "path": "/novakid/returnSpecial",
     "raw": "Anything else pardner?",
-    "value": "还有其他需要吗，伙计？"
+    "value": "还有别的事吗，伙计？"
   },
   {
     "op": "replace",
     "path": "/novakid/cantAfford1",
     "raw": "Ya low on pixels.",
-    "value": "你带的像素少。"
+    "value": "你的像素不够用了。"
   },
   {
     "op": "replace",
     "path": "/novakid/cantAfford2",
     "raw": "Sorry, ya can't afford that.",
-    "value": "抱歉，你买不起那个。"
+    "value": "抱歉，你买不起这个。"
   },
   {
     "op": "replace",
     "path": "/novakid/cantAfford3",
     "raw": "You'll need more pixels for that.",
-    "value": "你得要多多的像素。"
+    "value": "要那个你需要更多的像素。"
   },
   {
     "op": "replace",
@@ -1125,13 +1125,13 @@
     "op": "replace",
     "path": "/novakid/activeEnhancer",
     "raw": "Like I said, can't have more than one enhancer active at a time.\nWe can remove your active enhancer for 500 pixels if ya'd like.",
-    "value": "就像我说的，一次只能有一个增强生效。\n如果你愿意的话，我们可以以500像素的价格移除你当前的增强。"
+    "value": "就像我说的，一次只能激活一个增强剂。  \n如果你愿意，我们可以花500像素移除你当前激活的增强剂。"
   },
   {
     "op": "replace",
     "path": "/novakid/acquireEnhancer",
     "raw": "Aaaaaand done!\nRemember - ya don't keep them if ya die, and we can remove em for 500 pixels if ya want.",
-    "value": "啊啊啊啊啊啊哈，完成啦！\n记住-如果你挂了就没法留着它们，如果你想要我们可以用500像素移除。"
+    "value": "搞定啦！  \n记住 - 要是挂了，这些可带不走；想要移除的话，500像素点就能帮你搞定。"
   },
   {
     "op": "replace",
@@ -1143,31 +1143,31 @@
     "op": "replace",
     "path": "/novakid/removeEnhancer",
     "raw": "Enhancer removed, good as new!",
-    "value": "增强已移除。和新的一样！"
+    "value": "增强剂已清除。和新的一样！"
   },
   {
     "op": "replace",
     "path": "/novakid/hireMerc",
     "raw": "Heres the contract for em'. Use it ta call em' in and recruit em'.",
-    "value": "这是他们的合同，用它来联系和招募。"
+    "value": "这是给他们的合同。用它来召集并招募他们。"
   },
   {
     "op": "replace",
     "path": "/novakid/noMoreMerc",
     "raw": "Sorry pardner, we only allow one crew per capn'. Try askin' other military stations!",
-    "value": "抱歉伙计，我们只允许每位船长带走一个船员。去问问其他军事站点吧！"
+    "value": "抱歉伙计，我们这儿每位船长只能带一位船员。试试问问其他军事站点吧！"
   },
   {
     "op": "replace",
     "path": "/cari/welcome",
     "raw": "Welcome to the {STATIONNAME} station. Don't break anything.",
-    "value": "欢迎来到{STATIONNAME}空间站，不要把任何东西弄坏。"
+    "value": "欢迎来到{STATIONNAME}站。请勿损坏任何物品。"
   },
   {
     "op": "replace",
     "path": "/cari/chat1",
     "raw": "I know what you did.",
-    "value": "我知道你干了啥。"
+    "value": "我知道你做了什么。"
   },
   {
     "op": "replace",
@@ -1179,67 +1179,67 @@
     "op": "replace",
     "path": "/cari/chat3",
     "raw": "Did you know Avians can be alcoholics?",
-    "value": "你知道翼族人也能酗酒吗？"
+    "value": "你知道吗，翼族也可能成为酒鬼？"
   },
   {
     "op": "replace",
     "path": "/cari/chat4",
     "raw": "I'd give a tailfeather for some lunch.",
-    "value": "我愿意为了午餐献上一根尾羽。"
+    "value": "我愿用一根尾羽换一顿午餐。"
   },
   {
     "op": "replace",
     "path": "/cari/chat5",
     "raw": "Did you know the sign is blue?",
-    "value": "你知道标志是蓝色的吗？"
+    "value": "你知道这个标志是蓝色的吗？"
   },
   {
     "op": "replace",
     "path": "/cari/chat6",
     "raw": "I'm banned from the Beakeasy.",
-    "value": "我被易喙酒吧禁止入内。"
+    "value": "我被禁止进入易喙酒吧。"
   },
   {
     "op": "replace",
     "path": "/cari/chat7",
     "raw": "Welcome to our station! No loitering.",
-    "value": "欢迎光临本站！禁止闲逛。"
+    "value": "欢迎来到本站！请勿在此逗留。"
   },
   {
     "op": "replace",
     "path": "/cari/chat8",
     "raw": "I eat chicken.",
-    "value": "我会吃鸡。"
+    "value": "我吃鸡肉。"
   },
   {
     "op": "replace",
     "path": "/cari/militarySpecial",
     "raw": "As a military station, our special service is allowing you to hire new crew members. The price goes up with the quality, so does the return when they save your ass from some otherwordly monstrosity. Sadly, we can only spare one crew member per captain. I don't know if you're capable of handling more.",
-    "value": "作为一处军事站点，我们的特殊服务是允许你雇佣新的船员。价格随着质量而上涨，当他们从某些异世界的怪物手上中拯救你时就物有所值啦。但很不幸，我们只能为每位船长分配一名船员。我不清楚你能否够处理更多人。"
+    "value": "作为一处军事站点，我们的特色服务是允许您招募新船员。价格随船员素质提升而上涨，当他们从异界怪物手中救您一命时，回报也同样丰厚。遗憾的是，每位船长我们只能提供一名船员名额，我不知道你是否能承受更多。"
   },
   {
     "op": "replace",
     "path": "/cari/medicalSpecial",
     "raw": "As a medical research lab, our special service is providing you with all sort of long lasting enhancers, for the right price of course.\nDue to health hazard, only one enhancer can be applied.\nLucky you, they stay with you until your inevitable death!\nOr you can remove them for 500 pixels at any medical station, if death doesn't do it for you by the time you get to one.",
-    "value": "作为一家医学研究实验室，我们的特殊服务是为你提供强大的身体增强，价格肯定公道。\n但由于健康风险，你一次只能应用一种增强。\n幸运的是，它们会陪伴你直到你不可避免的死亡！\n但它们会持续到您死亡，或者在医疗站花费500像素移除。"
+    "value": "作为一家医学研究实验室，我们的特色服务是提供各类长效增强剂，当然，价格公道。  \n出于健康风险考虑，每人仅能使用一种增强剂。  \n幸运的是，这些效果将伴随您直至生命终结！  \n若您改变主意，也可随时前往任意医疗站支付500像素点将其移除，前提是您能活着抵达那里。"
   },
   {
     "op": "replace",
     "path": "/cari/scientificSpecial",
     "raw": "As a scientific research lab, we specialize in synthesysing all sorts of materials, and are willing to trade them for others.\nBe sure to check in often though, we don't always have or need the same materials!",
-    "value": "作为一间科研实验室，我们专门从事各种材料的合成，并愿意用它们来交换其他材料。\n但请务必经常查看，因为我们并不总是需要或拥有相同的材料！"
+    "value": "作为一家科研实验室，我们专注于合成各类材料，并乐于通过交换获取其他资源。  \n请记得常来查看，因为我们拥有的需求和材料会不时变化！"
   },
   {
     "op": "replace",
     "path": "/cari/tradingSpecial",
     "raw": "As a trading center, we care primarly about pixels and their value.\nShould you be able to raise a high enough amount and invest in us, we'll make sure it'll be worth your while.\nWith each investment you make, the prices in our shops will shiftin your favor, allowing you to buy and sell goods at better rates!\nInvest enough, and the prices for all space stations will have a shift in your favor!",
-    "value": "作为一处交易中心，我们主要关心像素及其价值。\n如果你能筹集到足够高的金额并投资于我们，我们将确保这一切值得。\n随着你的每一次投资，我们商店的价格将向你倾斜，让您以更好的价格买卖商品！\n要是投资足够多，所有空间站的价格都会对你有利！"
+    "value": "作为交易中心，我们最关注的是像素及其价值。  \n如果您能筹集到足够资金并投资于我们，我们保证这将物超所值。  \n您的每一笔投资都将使本店价格向对您有利的方向调整，让您能以更优价格买卖商品！  \n投资达到一定额度，所有空间站的价格都将为您而调整！"
   },
   {
     "op": "replace",
     "path": "/cari/tradingSpecialMax",
     "raw": "Thank you for your great contribution!\nThanks to you, we are now a bustling trading station with a lot of goods to pick from, with good prices for everyone!\nWe'll make sure your contribution is known beyond the bounds of this station, providing you with a better price rate when you buy or sell from other vendors across the stars!",
-    "value": "谢谢你的巨大贡献！\n多亏了您，我们现在是一处繁忙的交易站，有很多商品可供挑选，价格优惠！\n我们将确保您的贡献能超出本站的范围，当您从其他供应商处购买或出售时，他们会为您提供更好的价格！"
+    "value": "感谢您的卓越贡献！  \n多亏了您，我们如今已成为一个繁华的交易站，货物琳琅满目，价格实惠，惠及每一位访客！  \n我们将确保您的贡献传遍星际，让您在与其他星系的商人交易时，享受更优惠的买卖价格！"
   },
   {
     "op": "replace",
@@ -1251,37 +1251,37 @@
     "op": "replace",
     "path": "/cari/cantAfford1",
     "raw": "Seems like you're a bit short on pixels...",
-    "value": "看起来你的像素有点不够啊…"
+    "value": "看起来你的像素有点不够用呢..."
   },
   {
     "op": "replace",
     "path": "/cari/cantAfford2",
     "raw": "You're broke.",
-    "value": "你身无分文。"
+    "value": "你破产了。"
   },
   {
     "op": "replace",
     "path": "/cari/cantAfford3",
     "raw": "You're poor. Come back richer.",
-    "value": "你很穷。挣点钱再回来。"
+    "value": "你太穷了。等有钱了再来吧。"
   },
   {
     "op": "replace",
     "path": "/cari/cantAfford4",
     "raw": "Time is money. You seem to be out of both.",
-    "value": "时间就是金钱。而你似乎两样都没有。"
+    "value": "时间就是金钱。而你看起来两样都缺。"
   },
   {
     "op": "replace",
     "path": "/cari/activeEnhancer",
     "raw": "Like I said, you can't have more than one enhancer active at a time.\nWe can remove your active enhancer for 500 pixels if you'd like.",
-    "value": "就像我说的，你不能同时激活多个增强。\n如果你愿意的话，我们可以以500像素的价格移除你当前的增强。"
+    "value": "就像我说的，你一次只能激活一个增强剂。  \n如果你愿意，我们可以花500像素移除你当前激活的增强剂。"
   },
   {
     "op": "replace",
     "path": "/cari/acquireEnhancer",
     "raw": "Come back if you want another one!\nOh, and side effects may include: dry mouth, nausea, vomiting, water retention, tingling rectal itch, hallucination, epiphany, psychosis, coma, death, and a fate worse than death.",
-    "value": "如果你想要另一种的话，欢迎再回来！\n哦对了，副作用可能包括：口干、恶心、呕吐、积水、疼痛直肠瘙痒、幻觉、痴呆、精神病、昏迷、死亡和口臭。"
+    "value": "如果你想要另一种的话，欢迎再回来！\n哦对了，副作用可能包括：口干、恶心、呕吐、水肿、肛门刺痒、幻觉、顿悟、精神错乱、昏迷、死亡，以及比死亡更糟的命运。"
   },
   {
     "op": "replace",
@@ -1293,18 +1293,18 @@
     "op": "replace",
     "path": "/cari/removeEnhancer",
     "raw": "Enhancer removed. Enjoy your enhancer free body!",
-    "value": "增强已移除。尽情享受你无添加的身体！"
+    "value": "增强剂已清除。享受无增强剂的纯净身体吧！"
   },
   {
     "op": "replace",
     "path": "/cari/hireMerc",
     "raw": "Heres the contract, use it to call and recruit them.",
-    "value": "这是合同，用它来联系和招募人员。"
+    "value": "这是合同，用它来联系并招募人员。"
   },
   {
     "op": "replace",
     "path": "/cari/noMoreMerc",
     "raw": "Sorry, we only allow one crewmate per captain.\nTry checking other military stations.\nNo refunds.",
-    "value": "抱歉，每位船长只能带走一名船员。\n请尝试查看其他军事站点。\n恕不退款。"
+    "value": "抱歉，每位船长仅限招募一名船员。\n请尝试查询其他军事站点。  \n恕不退款。"
   }
 ]

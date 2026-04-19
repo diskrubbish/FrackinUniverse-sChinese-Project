@@ -3,19 +3,19 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/attack/default/default/0",
     "raw": "Sacrifice me, will you?",
-    "value": "你会丢下我吗？"
+    "value": "你要献祭我，你会吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/attack/default/default/1",
     "raw": "I'll escape or die trying!",
-    "value": "我是应该逃跑或是坦然接受死亡？"
+    "value": "我宁愿拼死一搏，也绝不坐以待毙！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/join/default/default/0",
     "raw": "Thank you for saving me! I don't fancy being a sacrifice.",
-    "value": "谢谢你救了我，我不想死。"
+    "value": "谢谢你救了我！我可不想成为祭品。"
   },
   {
     "op": "replace",
@@ -27,31 +27,31 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/0",
     "raw": "Let's move on.",
-    "value": "快离开这里。"
+    "value": "继续前进吧。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/1",
     "raw": "I'm impressed.",
-    "value": "哇，真令我大吃一惊。"
+    "value": "印象深刻。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/2",
     "raw": "How did you get here anyway?",
-    "value": "你是从哪儿来的？"
+    "value": "你到底是怎么到这儿来的？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/3",
     "raw": "We're a team worth fearing!",
-    "value": "我们是不可阻挡的！"
+    "value": "我们是一支令人敬畏的队伍！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromCombat/default/default/4",
     "raw": "Who's the sacrifice now?",
-    "value": "现在谁牺牲了？"
+    "value": "现在谁是祭品？"
   },
   {
     "op": "replace",
@@ -63,30 +63,30 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/wait/default/default/1",
     "raw": "I'll stay here, don't leave me alone too long!",
-    "value": "我会在这里停留，请不要让我呆在这儿太久。"
+    "value": "我会留在这里，别让我一个人待太久！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/wait/default/default/2",
     "raw": "Do you need a moment?",
-    "value": "你需要一点时间？"
+    "value": "你需要一点时间吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/0",
     "raw": "Hello again.",
-    "value": "嗨，你好。"
+    "value": "又见面了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/1",
     "raw": "Let's head off together.",
-    "value": "让我们一起离开吧。"
+    "value": "我们一起出发吧。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/follower/returnFromWait/default/default/2",
     "raw": "You ready to move on?",
-    "value": "你准备好离开这里了吗？"
+    "value": "你准备好继续前进了吗？"
   }
 ]

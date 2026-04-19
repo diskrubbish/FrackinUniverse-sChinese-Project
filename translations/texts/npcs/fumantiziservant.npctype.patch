@@ -3,79 +3,79 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/greeting/default/default/0",
     "raw": "You oughta speak to the Consul, I gotta clean the whole flingin' house 'fore I get to eat.",
-    "value": "你应该跟执政官说说，我得把整个房子打扫干净才能吃东西。"
+    "value": "你得去跟领事谈谈，我得把这整栋该死的房子打扫干净才能吃饭。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/greeting/default/default/1",
     "raw": "Wotcher, chum. I oughta get off just afore moonspeak if yous wants to chinwag then.",
-    "value": "你好，朋友。我应该在月语前离开，如果你想唠叨。"
+    "value": "嘿，伙计。要是你想聊会儿天，我最好在月亮说话前就溜。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/greeting/default/default/2",
     "raw": "The Consul what lives here might call us lot servants, but I don't feel a midge freer than no Apex.",
-    "value": "住在这里的执政官可能会称我们为仆人，但我不觉得比没有老大猿更自由。"
+    "value": "住在这里的领事或许会把我们这些人称作仆人，但我并不觉得自己比那些猿人自由多少。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/greeting/default/default/3",
     "raw": "Hail, mate. I hope things are goin' better for you lot than it is for us.",
-    "value": "你好，伙计。我希望你们的情况比我们好。"
+    "value": "嘿，伙计。希望你们那边的情况比我们这儿顺当些。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/greeting/fumantizi/default/0",
     "raw": "You oughta speak to the Consul, I gotta clean the whole flingin' house 'fore I get to eat.",
-    "value": "你应该跟执政官说说，我得把整个房子打扫干净才能吃东西。"
+    "value": "你得去跟领事谈谈，我得把这整栋该死的房子打扫干净才能吃饭。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/greeting/fumantizi/default/1",
     "raw": "Wotcher, chum. I oughta get off just afore moonspeak if yous wants to chinwag then.",
-    "value": "你好，朋友。我应该在月语前离开，如果你想唠叨。"
+    "value": "嘿，伙计。要是你想聊会儿天，我最好在月亮说话前就溜。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/greeting/fumantizi/default/2",
     "raw": "The Consul what lives here might call us lot servants, but I don't feel a midge freer than no Apex.",
-    "value": "住在这里的执政官可能会称我们为仆人，但我不觉得比没有老大猿更自由。"
+    "value": "住在这里的领事或许会把我们这些人称作仆人，但我并不觉得自己比那些猿人自由多少。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/greeting/fumantizi/default/3",
     "raw": "Hail, mate. I hope things are goin' better for you lot than it is for us.",
-    "value": "你好，伙计。我希望你们的情况比我们好。"
+    "value": "嘿，伙计。希望你们那边的情况比我们这儿顺当些。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "raw": "You oughta speak to the Consul, I gotta clean the whole flingin' house 'fore I get to eat.",
-    "value": "你应该跟执政官说说，我得把整个房子打扫干净才能吃东西。"
+    "value": "你得去跟领事谈谈，我得把这整栋该死的房子打扫干净才能吃饭。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/1",
     "raw": "Wotcher, chum. I oughta get off just afore moonspeak if yous wants to chinwag then.",
-    "value": "你好，朋友。我应该在月语前离开，如果你想唠叨。"
+    "value": "嘿，伙计。要是你想聊会儿天，我最好在月亮说话前就溜。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/2",
     "raw": "The Consul what lives here might call us lot servants, but I don't feel a midge freer than no Apex.",
-    "value": "住在这里的执政官可能会称我们为仆人，但我不觉得比没有老大猿更自由。"
+    "value": "住在这里的领事或许会把我们这些人称作仆人，但我并不觉得自己比那些猿人自由多少。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/3",
     "raw": "Hail, mate. I hope things are goin' better for you lot than it is for us.",
-    "value": "你好，伙计。我希望你们的情况比我们好。"
+    "value": "嘿，伙计。希望你们那边的情况比我们这儿顺当些。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/0",
     "raw": "You oughta speak to the Consul, I gotta clean the whole flingin' house 'fore I get to eat.",
-    "value": "你应该跟执政官说说，我得把整个房子打扫干净才能吃东西。"
+    "value": "你得去跟领事谈谈，我得把这整栋该死的房子打扫干净才能吃饭。"
   },
   {
     "op": "replace",
@@ -87,12 +87,12 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/2",
     "raw": "The Consul what lives here might call us lot servants, but I don't feel a midge freer than no Apex.",
-    "value": "住在这里的执政官可能会称我们为仆人，但我不觉得比没有老大猿更自由。"
+    "value": "住在这里的领事或许会把我们这些人称作仆人，但我并不觉得自己比那些猿人自由多少。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/fumantizi/default/3",
     "raw": "Hail, mate. I hope things are goin' better for you lot than it is for us.",
-    "value": "你好，伙计。我希望你们的情况比我们好。"
+    "value": "嘿，伙计。希望你们那边的情况比我们这儿顺当些。"
   }
 ]

@@ -3,43 +3,43 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
     "raw": "With my special materials, your ship will be much lighter and use less fuel.",
-    "value": "经过我的调试，你的飞船变得更轻，油耗更少。"
+    "value": "使用我的特殊材料，你的飞船将变得更轻，燃料消耗也会大幅减少。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
     "raw": "Floran help ship be fassst.",
-    "value": "叶族人可以帮帮帮你的船跑得更快。"
+    "value": "叶族人帮助飞船加速速速。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Statement. With my special materials, your ship will be much lighter and use less fuel.",
-    "value": "声明。 经过我的调试，你的飞船变得更轻，油耗更少。"
+    "value": "声明。使用我的特殊材料，你的飞船将变得更轻，燃料消耗也会大幅减少。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
     "raw": "I'll protect you from heat!",
-    "value": "我可以保护你免疫炎热！"
+    "value": "我会保护你免受炎热！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
     "raw": "Let me help you out!",
-    "value": "让我来帮你吧！"
+    "value": "我来助你！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
     "raw": "Looks like you could use my assistance!",
-    "value": "看上去你需要我的帮忙！"
+    "value": "看来你需要我的帮助！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
     "raw": "I can help!",
-    "value": "我会帮上忙的！"
+    "value": "我可以帮忙！"
   },
   {
     "op": "replace",
@@ -51,6 +51,6 @@
     "op": "replace",
     "path": "/scriptConfig/crew/role/field",
     "raw": "Volcanology",
-    "value": "火山学家"
+    "value": "火山学"
   }
 ]

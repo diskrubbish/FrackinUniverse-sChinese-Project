@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "So *hic* with all these mashed fruits we're ready to make some ^green;shpirits^white;. You'll need some ^orange;Yeast Water^reset; and ^orange;Water^reset; too. Bring all to the ^green;distiller^reset; and do yer magic! *hic*",
-    "value": "那*嗝*么，你要利用这些捣碎的水果制作^green;精制酒^white;。除了此之外，你还需要^orange;糖^reset;和^orange;酵母水^reset;还有^orange;水^reset;。把所有材料放到^green;蒸馏器^reset;开始酿造吧！*嗝*"
+    "value": "那么*嗝*，有了这些捣碎的水果，我们就可以开始制作一些^green;烈酒^white;了。你还需要一些^orange;酵母水^reset;和^orange;清水^reset;。把所有材料放进^green;蒸馏器^reset;里，施展你的魔法吧！*嗝*"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Nice work! Now, we'll have one last recipe to do.",
-    "value": "干得好！现在让我们来学习最后一项知识吧！"
+    "value": "干得漂亮！现在，我们只剩下最后一道配方要完成了。"
   }
 ]

@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/scriptConfig/merchant/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " Rocks and Rock-like things.",
-    "value": " 出售石头或类似石头的东西。"
+    "value": " 出售岩石与类岩石之物。"
   },
   {
     "op": "replace",
@@ -39,72 +39,72 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/human/default/2",
     "raw": "Psst! Hey, you! Buy my stuff!",
-    "value": "喂！嘿，你！来买我的东西！"
+    "value": "啧，喂！你！来买我的东西吧！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/human/default/0",
     "raw": "Remember - no refunds.",
-    "value": "请记住 - 恕不退款。"
+    "value": "请注意 - 概不退款。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/human/default/1",
     "raw": "We've got a good thing going here. Don't mess it up!",
-    "value": "我们这里有一桩好事。不要搞砸了！"
+    "value": "我们这儿进展得不错，可别搞砸了！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/human/default/2",
     "raw": "Pleasure doing business with you, partner.",
-    "value": "很高兴与您做生意，合作伙伴。"
+    "value": "很高兴与您合作，伙伴。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/human/default/3",
     "raw": "Keep this on the down-low, will you?",
-    "value": "保持低调，可否？"
+    "value": "这事别声张，行吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/follow/human/default/0",
     "raw": "We can do business at my... uh, store.",
-    "value": "我们可以在我的...额，商店里，做一些生意。"
+    "value": "我们可以在我...呃，店里谈生意。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/follow/human/default/1",
     "raw": "Not so loud! Follow me...",
-    "value": "别这么大声！跟我来..."
+    "value": "小声点！跟我来..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/human/default/0",
     "raw": "I've got what you need...",
-    "value": "我有你需要的东西..."
+    "value": "我这儿有你想要的东西..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/human/default/1",
     "raw": "The goods are all here.",
-    "value": "商品全在这里了。"
+    "value": "货物全在这里了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/human/default/2",
     "raw": "Plenty of other buyers out there. Got anything to sell?",
-    "value": "外面还有很多买家。有什么要卖的吗？"
+    "value": "市场上买家众多。你有什么要出手的吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/human/default/3",
     "raw": "Here we are. They're worth every pixel.",
-    "value": "我们到了。每一个像素对于它们来说都是值得的。。"
+    "value": "我们到了。每一像素都物有所值。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/human/default/4",
     "raw": "It's not easy to get ahold of this stuff.",
-    "value": "要弄到这些东西可不容易。"
+    "value": "这东西可不容易弄到手。"
   }
 ]

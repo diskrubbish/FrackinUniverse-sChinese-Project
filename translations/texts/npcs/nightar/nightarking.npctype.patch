@@ -27,13 +27,13 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/lostTarget/default/default/0",
     "raw": "It is pointless to hide!",
-    "value": "别东躲西藏了！"
+    "value": "藏起来毫无意义！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/outOfSight/default/default/0",
     "raw": "You really believe the darkness to be your ally, challenger...?",
-    "value": "汝真的相信黑暗是你的盟友吗，挑战者... ？"
+    "value": "汝当真以为黑暗是你的盟友吗，挑战者...？"
   },
   {
     "op": "replace",

@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "Do you have a ^orange;Blast Furnace^reset; yet? If so, try to smelt ^orange;Obsidian^reset; and bring me the results. I will be most grateful for your assistance.",
-    "value": "你有^orange;冶炼炉^reset;吧？如果有的话，请试着熔炼^orange;黑曜石^reset;并把产物给我。我会很感激你协助。"
+    "value": "你有^orange;^reset;高炉^reset;吧？如果有的话，试着熔炼一些^orange;黑曜石，并把结果带给我。我将非常感谢你的帮助。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Fantastic work! Truly amazing. Thank you for the help. As thanks, here's payment for your troubles.",
-    "value": "不得不说，你做得实在是太棒了！感谢你的帮助，这是你应得的报酬。"
+    "value": "太棒了！真是令人惊叹。感谢你的帮助。作为谢意，这是给你的酬劳。"
   }
 ]

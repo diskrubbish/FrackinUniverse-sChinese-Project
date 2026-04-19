@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "So you want to make your own booze? Great! I'll help you. You must start by crafting a ^orange;Booze Kit^reset;. Place it against a wall and you can start your path to becoming a Brew Master!",
-    "value": "你想自己酿酒？很好！我会帮你的。首先你要制造一个^orange;酿酒工作台^reset;。把它放到靠墙的地方，你就可以开始酿酒之路了！"
+    "value": "所以你想自己酿酒？太棒了！我来助你。首先你需要制作一个^orange;酿酒工作台^reset;。把它靠在墙边，你就可以踏上成为酿酒大师的旅程了！"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Your path to brewing enlightment has started. Before we really start with the alcohol though, you must first use the Booze Kit to craft the other stations you'll require.",
-    "value": "你的酿造启蒙之路已经开始了。在我们开始酿造工作之前，你必须先建造酿酒工作台，因为你会用到其他更多的东西"
+    "value": "你的酿酒启蒙之路已经开启。但在真正开始酿造之前，你首先需要使用酿酒工作台制作出其他所需的工作台。"
   }
 ]

@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "^orange;Greenhouses^reset; are all the rage these days. I want one, but my budget can't swing it. Do you have one lying around I might use?",
-    "value": "^orange;温室^reset;可以让植物不受外界干扰。我想要一个，但是很可惜我没有足够的预算。请问你可以为我制作一个吗？"
+    "value": "最近^orange;温室^reset;大棚特别火。我也想要一个，但预算实在不够。你那儿有没有闲置的可以借我用用？"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Thanks so much. You are a life saver! Now I can tinker with plant life! Maybe I can figure out how to upgrade it, too!",
-    "value": "非常谢谢你，你真是帮了我一个大忙！现在我可以拯救这些植物了，也许我还可以找到把它升级的方法。"
+    "value": "太感谢了！你真是我的救星！现在我可以好好研究植物了！说不定还能琢磨出怎么给它升级呢！"
   }
 ]

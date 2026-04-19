@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "A Strange Place",
-    "value": "一个奇怪的地方"
+    "value": "一个陌生的地方"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "Where am I? This ^green;data-disc^reset; at least presents the coordinates. What is odd, is that this sector has always been devoid of...everything. I should definitely explore this place.",
-    "value": "我在哪里？尽管这个^green;数据盘^reset;有在显示坐标，但奇怪的是，这个区域一直缺乏...一切。我一定要探索这个地方。"
+    "value": "我在哪儿？至少这个^green;数据盘^reset;显示了坐标。奇怪的是，这片区域向来空无一物...什么都没有。我确实该好好探索一下这个地方。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "I've explored the mysteries of the Precursor ruins, and it was worth every minute.",
-    "value": "我探索了先驱废墟的奥秘，在这儿的每一分钟都是值得的。"
+    "value": "我探寻了先驱遗迹的奥秘，每一分钟都无比值得。"
   }
 ]

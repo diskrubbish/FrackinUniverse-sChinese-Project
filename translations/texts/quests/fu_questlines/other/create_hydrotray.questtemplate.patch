@@ -9,18 +9,18 @@
     "op": "replace",
     "path": "/text",
     "raw": "Kevin urinated on my ^orange;Hydroponics Tray^reset; during a drunken staff party and broke it! I don't have a ^orange;Power Station^reset; to craft a new one... could you bring one to me?",
-    "value": "在一个醉酒派对中，凯文尿在了我的^orange;水培托盘^reset;上，把它弄坏了！我没有^orange;能源设备制造器^reset;来制造新的...你能拿一个给我吗？"
+    "value": "凯文在员工醉酒派对的时候把尿撒在我的^orange;水培托盘^reset;上，还把它弄坏了！我没有^orange;能源设备制造器^reset;来制作新的...你能带一个给我吗？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Deliver the ^orange;Hydroponics Tray^reset;.",
-    "value": "提供^orange;水培托盘^reset;。"
+    "value": "交付^orange;水培托盘^reset;。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Awesome. You are good people. As a thanks, have a contract that summons some most assuredly ^red;not^reset; good people!",
-    "value": "谢谢你，你真是个好人！给你这个，只有它才能表达我对你的感激之情！"
+    "value": "太棒了。你真是个好人。作为感谢，这里有一份契约，可以召唤一些绝对算^red;不^reset;上好人的家伙！"
   }
 ]

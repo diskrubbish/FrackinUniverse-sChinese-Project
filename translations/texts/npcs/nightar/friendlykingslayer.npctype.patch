@@ -3,19 +3,19 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "raw": "I guard the path set by the Matriarch.",
-    "value": "我守护着女族长所设定的道路。"
+    "value": "我守护着女族长所设下的道路。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/reattack/default/default/0",
     "raw": "Face my wrath, you wretch!",
-    "value": "面对我的愤怒吧，你个可怜虫！"
+    "value": "面对我的怒火吧，你这可悲的家伙！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/killedTarget/default/default/0",
     "raw": "The foe is slain. Thank you for your assistance, my friend. Until we meet again.",
-    "value": "敌人已经被击败。谢谢你的帮助，我的朋友。期望我们再次相见。"
+    "value": "敌人已被击败。感谢你的帮助，我的朋友。后会有期。"
   },
   {
     "op": "replace",
@@ -27,18 +27,18 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/outOfSight/default/default/0",
     "raw": "It is pointless to hide!",
-    "value": "别东躲西藏了！"
+    "value": "藏起来毫无意义！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/cheerOn/default/default/0",
     "raw": "Show them no quarter!",
-    "value": "别对他们手下留情！"
+    "value": "绝不手下留情！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/cantReach/default/default/0",
     "raw": "The darkness will turn on you...!",
-    "value": "暗影会降临到你身上...！"
+    "value": "黑暗将反噬于你...！"
   }
 ]

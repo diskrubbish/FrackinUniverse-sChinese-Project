@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "This guy is annoying.",
-    "value": "这B真没趣。"
+    "value": "这家伙真烦人。"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "There is no such thing as an orange fruit. Prove me wrong.",
-    "value": "这世界上根本没有橙子这种东西。快来证明我是错的。"
+    "value": "世界上并不存在所谓的橙子这种水果。请证明我是错的。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "That isn't orange. But thanks for trying, loser.",
-    "value": "那不是橙的。但还是谢谢你的努力，渣渣。"
+    "value": "那不是橙子。不过还是谢谢你的尝试，渣渣。"
   }
 ]

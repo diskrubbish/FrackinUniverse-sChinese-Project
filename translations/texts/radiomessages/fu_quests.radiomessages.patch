@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/fu_start_greetings0/text",
     "raw": "Greetings, stranger! I detected your ^cyan;Protectorate Energy Signature^reset; entering the system and investigated immediately. You were on a ^red;collision course with the sun^reset;, so I went ahead and redirected your nav system.",
-    "value": "你好，陌生人！我检测到了你的^orange;守护团能量信标^reset;进入了星系，并立即进行了调查。 当时你的飞船^red;与这里的恒星发生了一次碰撞^reset;，因此我继续研究，并重新定向了你的导航系统。"
+    "value": "您好，陌生人！我侦测到您的^cyan;守护团能量信号^reset;进入系统，便立刻前来查看。您的航行路线正与^red;恒星发生碰撞^reset;，所以我已先行调整了您的导航系统。"
   },
   {
     "op": "replace",
@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/fu_start_greetings1/text",
     "raw": "Seems I was just in time, too. Your ^orange;FTL drive^reset; is ^red;broken^reset; and your impulse drive is basically dead in the water. Your teleporter is fried, too. Each use increases the risk of a catastrophic failure.",
-    "value": "看起来我的出现很是及时，你的^orange;FTL引擎^reset;已经^red;毁坏^reset;了，而你的推动引擎基本上也彻底失效了。你的传送器也炸了。每次使用都会增加灾难性故障的风险。"
+    "value": "看来我赶得正是时候。您的^orange;超光速引擎^reset;^red;坏了^reset;，脉冲推进器也基本瘫痪。传送装置同样烧毁了，每次使用都会增加灾难性故障的风险。"
   },
   {
     "op": "replace",
@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/fu_start_greetings1b/text",
     "raw": "I could use the help of a ^cyan;Protectorate Agent^reset; to investigate a local anomaly I am unable to reach, and -you- could use my help getting your ship repaired. So, why don't we work together, hmm?",
-    "value": "我可以借助^cyan;守护团干员^reset;之手来调查我无法到达的局部异常，而 - 你可以利用我的帮助来修复您的飞船。所以，我们没有理由不合作，嗯？"
+    "value": "我需要一位^cyan;守护团干员^reset;协助调查一处我无法抵达的本地异常现象，而 - 您 - 也需要我帮忙修复你的飞船。不如我们携手合作，如何？"
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/fu_start_greetings2/text",
     "raw": "To get off this planet, you're going to need to ^green;repair your ship^reset;. But let's start small: ^green;Research^reset; how to make a ^orange;Furnace^reset; in your ^cyan;Geology^reset; research tree. Afterwards, craft one!",
-    "value": "要想离开这个星球，你需要^green;修理你的飞船^reset;。但是，让我们从小事开始：在^cyan;地质学^reset;研究树中^green;研究^reset;如何制造^orange;熔炉^reset;。然后制作一座熔炉！"
+    "value": "要离开这个星球，您需要先^green;修复飞船^reset;。不过，让我们从小处着手：在^cyan;地质^reset;科技树中^green;研究^reset;如何制造^orange;熔炉^reset;，然后动手制作一个吧！"
   },
   {
     "op": "replace",
@@ -57,7 +57,7 @@
     "op": "replace",
     "path": "/fu_start_greetingspickaxe/text",
     "raw": "Why don't you take this Spare ^green;Pickaxe^reset; I had lying around. It should help you dig a bit faster for a little while. Before long you'll have ^green;superior tools^reset;.",
-    "value": "为什么不拿上我闲置的这把备用^green;矿镐^reset;呢？ 它应该可以帮助您更快地挖掘，节省一点时间。不用努力多久，你就能用上^green;高级工具^reset;了。"
+    "value": "这把多余的^green;镐子^reset;我留着也没用，不如您拿去用吧。它能让您挖得更快些，虽然只是暂时的。很快你就能换上^green;更好的工具^reset;了。"
   },
   {
     "op": "replace",
@@ -69,7 +69,7 @@
     "op": "replace",
     "path": "/fu_start_makeFurnace/text",
     "raw": "That takes care of step one! Use your ^orange;Furnace^reset; to smelt ores into metal bars. Next, ^green;Research^reset; how to make a ^orange;Foraging Table^reset; in the ^cyan;Agriculture^reset; research tree. Craft one.",
-    "value": "第一步完成！请使用你的^orange;熔炉^reset;将矿石熔炼成锭。接下来，请在^cyan;农业^reset;研究中^green;研究^reset;如何在建立^orange;采集工作台^reset;，并制造一张。"
+    "value": "第一步完成！现在，用您的^orange;熔炉^reset;将矿石熔炼成金属锭。接下来，在^cyan;农业^reset;科技树中^green;研究^reset;如何制作^orange;采集工作台^reset;，并动手制作一个。"
   },
   {
     "op": "replace",
@@ -81,7 +81,7 @@
     "op": "replace",
     "path": "/fu_start_makeForaging/text",
     "raw": "This station will help you with ^green;Survival^reset; and ^green;Farming^reset;. You've proven you're capable, so go ahead and ^green;Research^reset; how to make a ^orange;Machining Table^reset; and then craft it. You'll find it in the ^cyan;Engineering^reset; research tree.",
-    "value": "采集工作站能帮助你^green;生存^reset;和^green;耕作^reset;。你已经证明自己的能力，所以继续努力吧，开始^green;研究^reset;如何制作^orange;加工台^reset;并制造一张。你能在^cyan;工程学^reset;研究树中找到它。"
+    "value": "这个工作站将协助你掌握^green;生存^reset;与^green;农耕^reset;技能。您已证明了自己的能力，现在可以开始^green;研究^reset;如何制作^orange;加工台^reset;，并亲手打造它。您可以在^cyan;工程学^reset;科技树中找到相关选项。"
   },
   {
     "op": "replace",
@@ -93,7 +93,7 @@
     "op": "replace",
     "path": "/fu_start_makeTable/text",
     "raw": "Great work! Next, you are going to need to make ^orange;Wire^reset; at the ^green;Machining Table^reset;. With that I'll be able to jury-rig a fix for your ^green;Teleporter^reset;. Its buffer is registering as degraded, which is not optimal.",
-    "value": "棒极了！接下来，你需要在你的^green;加工台^reset;制造一些^orange;铜线^reset;。有了它我就能对你的^green;传送器^reset;进行应急修理。它的缓冲器被注册为降级的，而这不是最佳状态。"
+    "value": "干得漂亮！接下来，您需要在^green;加工台^reset;处制作一些^orange;铜线^reset;。有了它，我就能临时修复你的^green;传送器^reset;了。它的缓冲器显示为性能下降，这可不是理想状态。"
   },
   {
     "op": "replace",
@@ -105,7 +105,7 @@
     "op": "replace",
     "path": "/fu_start_makeWire/text",
     "raw": "There's one more step to getting your ^green;Teleporter^reset; fixed: an ^orange;Electromagnet^reset;. Build one at your ^green;Machining Table^reset; for me, if you don't mind?",
-    "value": "还差一步就能修好你的^green;传送器^reset;：一个^orange;电磁铁^reset;。如果你不介意，就在你的^green;加工台^reset;为我制作一个吧？"
+    "value": "修复您的^green;传送器^reset;还差最后一步：一块^orange;电磁铁^reset;。如果您不介意的话，请在您的^green;加工台^reset;上帮我制作一个好吗？"
   },
   {
     "op": "replace",
@@ -117,7 +117,7 @@
     "op": "replace",
     "path": "/fu_start_makeElectromagnet/text",
     "raw": "I can now fix up your ship's ^green;Teleporter^reset;. It should no longer have a 17.3% chance of scrambling your DNA! Now you'll need to find an energy source sufficient to assemble a new ^orange;STL Drive^reset; to get your ship space-worthy.",
-    "value": "我现在可以帮你修复你的飞船^green;传送器^reset;。它应该不再有17.3%的几率会干扰你的DNA！现在你需要找到一个足够强大的能量源来组装一个新的^orange;STL引擎^reset;，以使你的飞船能够再次触及太空旅行。"
+    "value": "我现在可以修您飞船的^green;传送器^reset;了。它应该不会再出现17.3%的DNA错乱概率！接下来，您需要找到足够的能源来组装一个新的^orange;亚光速引擎^reset;，让您的飞船能够重返太空。"
   },
   {
     "op": "replace",
@@ -129,7 +129,7 @@
     "op": "replace",
     "path": "/fu_start_Complete1a/text",
     "raw": "Now let's see about your part of the bargain, shall we? It shouldn't be too dangerous, but do make sure you at least have ^orange;Built an Armorworks^reset; through the ^cyan;Armor and Weapons^reset; research tree. You'll want armor and weapons.",
-    "value": "现在，让我们看看你的行头？ 虽然那里不会特别危险，但要确保至少通过^cyan;装甲和武器^reset;研究树^orange;制造军备作坊^reset;。你会需要装甲和武器的。"
+    "value": "现在来看看您该履行的部分了，对吧？应该不会太危险，但务必确保您至少已经通过^cyan;装甲和武器^reset;科技树^orange;建立了军备作坊^reset;。您会需要装甲和武器的。"
   },
   {
     "op": "replace",
@@ -141,7 +141,7 @@
     "op": "replace",
     "path": "/fu_start_Complete1b/text",
     "raw": "What for, you ask? There's a ^orange;Dark Cavern^reset; on the surface I can't fit inside. I've previously detected ^cyan;strange readings^reset; coming from within. They're strong enough that the source ^green;may provide the energy source you need^reset; to get off-world.",
-    "value": "你问什么？ 这个星球的地表上有一处我进不去的^orange;黑暗洞穴^reset;，我先前曾检测到来自这里面的^orange;奇怪的读数^reset;，它们足够强大，其源头或许能够提供^green;让你离开这个世界的能量源^reset;。"
+    "value": "您问要履行啥？地面上有个^orange;黑暗洞穴^reset;，我进不去。之前我探测到里面传出^cyan;异常读数^reset;，强度足够，其源头或许能^green;提供您离开这个星球所需的能量^reset;。"
   },
   {
     "op": "replace",
@@ -153,43 +153,43 @@
     "op": "replace",
     "path": "/fu_start_Complete1c/text",
     "raw": "The cave was previously locked, but I just opened it with a ^orange;key^reset; that I interestingly found in the ^green;old, ruined house^reset; on the surface. You should be able to enter now.",
-    "value": "要进入洞穴，你会需要这把 ^orange;钥匙^reset;，我偶然心血来潮在地表^green;破旧的老房子里^reset;找到了它。它似乎与洞穴反应，允许人进入其中。^red;请随身携带这把钥匙，否则你无法进入洞穴^reset;。"
+    "value": "这个洞穴之前是锁着的，但我刚刚用一把^orange;钥匙^reset;打开了它，有趣的是，这把钥匙是我在地面上那座^green;破旧的老房子^reset;里找到的。现在您应该可以进去了。"
   },
   {
     "op": "replace",
     "path": "/fu_start_Complete2/text",
     "raw": "The ^orange;Personal Tricorder^reset; is your most important tool.^reset; The primary ^green;[Mouse 1]^reset; function provides access to ^orange;Stats^reset;, ^orange;Mech Configuration^reset;, ^orange;Tech Upgrades^reset; and other useful functions. You've got one in your ^green;[I]^reset;nventory.",
-    "value": "^orange;个人三度仪^reset;对于你的生存至关重要。主要的^green;[鼠标左键]^reset;功能允许你访问^orange;状态^reset;，^orange;机甲配置^reset;，^orange;科技升级^reset;等页面。你已经在你的^cyan;[I]背包^reset;中得到了一个。"
+    "value": "个人^orange;三度仪^reset;是您最重要的工具。其主要^green;[鼠标左键]^reset;功能可访问^orange;状态^reset;、^orange;机甲配置^reset;、^orange;技术升级^reset;及其他实用功能。您的^green;[I]^reset;物品栏中已配备一台。"
   },
   {
     "op": "replace",
     "path": "/fu_start_Complete2a/text",
     "raw": "In your ^orange;Personal Tricorder^reset; the ^orange;Research^reset; menu will be of utmost importance, providing you with access to Blueprint unlocks for -all- crafting. Access the ^orange;Research^reset; menu via ^green;[Shift] + [Mouse 1]^reset; or the ^orange;Beaker^reset; icon within the ^green; [ Mouse 1 ]^reset; menu.",
-    "value": "在你的^orange;个三度仪^reset;中，^orange;研究^reset;菜单将是最重要的部分。研究可让您解锁用于制造万事万物的蓝图。按^green;[Shift + 鼠标左键]或者通过^green;[左键]^reset;单击菜单中的^green;绿色烧瓶^reset;图标访问^orange;研究菜单^reset;。"
+    "value": "在您的^orange;个人三度仪^reset;中，^orange;研究^reset;菜单至关重要，它将为您解锁所有制作所需的蓝图。您可以通过按下^green;[Shift] + [鼠标左键]^reset;或在^green;[鼠标左键]^reset;菜单中点击^orange;烧杯^reset;图标来访问^orange;研究^reset;菜单。"
   },
   {
     "op": "replace",
     "path": "/fu_start_Complete2b/text",
     "raw": "I suggest familiarizing yourself with the ^orange;Research Menu^reset; as soon as possible, since that is going to be your sole means of progress if you wish to ever get this ship space-worthy again. Why not ^cyan;Research^reset; a little into ^orange;Agriculture^reset; to get you started?",
-    "value": "我建议你尽快熟悉^orange;研究菜单^reset;，因为如果你想让你的飞船重新触及星空，这是唯一可行的手段。为什么不先研究一下^orange;农业学^reset;来迈出第一步呢？"
+    "value": "我建议您尽快熟悉^orange;研究菜单^reset;，因为如果您想再次让这艘飞船具备太空航行能力，这将是唯一的进展途径。何不从^cyan;研究^reset;^orange;农业^reset;入手，先迈出第一步呢？"
   },
   {
     "op": "replace",
     "path": "/fu_start_Complete3/text",
     "raw": "With the ^orange;Personal Tricorder^reset; selected, press ^green;[Mouse 2]^reset; for the ^orange;Task Manager^reset;, where you can access your FU related Quests. Completing these will result in useful rewards and unique loot.",
-    "value": "选择^orange;个人三度仪^reset;之后，按^green;[鼠标右键]^reset;打开^orange;任务管理器^reset;，这里你可以进入FU的相关任务，完成它们可以得到有用的回报和独特的战利品。"
+    "value": "选择^orange;个人三度仪^reset;后，按下^green;[鼠标右键]^reset;打开^orange;任务管理器^reset;，即可查看与FU相关的任务。完成这些任务将获得实用奖励和独特战利品。"
   },
   {
     "op": "replace",
     "path": "/fu_start_Complete3a/text",
     "raw": "Press ^green;[Shift + Mouse 2]^reset; for the ^orange;Tool Configuration^reset; dialog. Here, you can adjust your Matter Manipulator, or even place different tools or weapons into your Primary slots if you desire. Just drag and drop!",
-    "value": "按^green;[Shift + 鼠标右键]^reset;打开^orange;工具配置^reset;对话框。在这里，你可以调整你的物质枪，甚至是根据需要将其他工具或武器放入主插槽。只需拖放即可！"
+    "value": "按下^green;[Shift + 鼠标右键]^reset;打开^orange;工具配置^reset;对话框。在这里，您可以调整你的物质枪，甚至可以根据需要将不同的工具或武器拖放到主槽位中。只需简单拖放即可完成！"
   },
   {
     "op": "replace",
     "path": "/fu_start_Complete3b/text",
     "raw": "The ^orange;Personal Tricorder^reset; is ^red;EXTREMELY^reset; important. Do not throw it out. Ever! Should you lose it, you can always create a new ^orange;Personal Tricorder^reset; in your ^green;Tinkering Table^reset;.",
-    "value": "^orange;个人三度仪^reset;^red;非常重要^reset;，不要弄丢了，永远都不！不过……如果你弄丢了，你仍然可以在你的^orange;改造台^reset;中重新制作一个新的。"
+    "value": "^orange;个人三度仪^reset;^red;极其重要^reset;。切勿丢弃，永远不要！如果不慎遗失，您随时可以在你的^green;改造台^reset;上制作一新的^orange;个人三度仪^reset;。"
   },
   {
     "op": "replace",
@@ -201,7 +201,7 @@
     "op": "replace",
     "path": "/fu_outpost1/text",
     "raw": "Thanks for investigating that for me! Your help is ^green;deeply appreciated^reset;! If you haven't already, be sure to ^orange;visit the ^cyan;Science Outpost^reset;.",
-    "value": "非常感谢你为我所做的调查！你的帮助让我^green;非常感激^reset;！如果不嫌弃的话，请务必去^orange;参观一下^cyan;科技前哨站^reset;。"
+    "value": "感谢您为我做的调查！您的帮助我^green;深表感激^reset;！如果还没去过，一定要来^orange;参观一下^cyan;科学前哨站^reset;。"
   },
   {
     "op": "replace",
@@ -213,7 +213,7 @@
     "op": "replace",
     "path": "/fu_outpost2/text",
     "raw": "Some of the galaxy's finest scientific minds work there, and there is a great deal you could learn. Find the ^orange;Science Outpost^reset; on your SAIL!",
-    "value": "全宇宙一流的科学流派经常会参观这里，在这里，你能学到很多东西。快点在你的SAIL上找到^orange;科学前哨站^reset;的位置吧！"
+    "value": "那里汇聚了宇宙顶尖的科学精英，蕴藏着丰富的知识等待你去探索。在您的SAIL上找到^orange;科学前哨站^reset;吧！"
   },
   {
     "op": "replace",
@@ -225,7 +225,7 @@
     "op": "replace",
     "path": "/fu_byosftldrive-makeSTL/text",
     "raw": "You can research the ^orange;STL Drive^reset; in your ^cyan;Engineering^reset; tree, dear. You'll need a few core fragments to get it working, so you might have to do a little digging!",
-    "value": "你可以在你的^cyan;工程^reset;科技树处研究^orange;STL引擎^reset;，亲爱的。你需要一些星核碎片才能让它工作，所以你可能要做一些挖掘工作！"
+    "value": "亲爱的，你可以在^cyan;工程学^reset;科技树中研究^orange;STL引擎^reset;。需要一些星心碎片才能让它运作起来，所以你可能得花点功夫去做挖掘工作！"
   },
   {
     "op": "replace",
@@ -237,7 +237,7 @@
     "op": "replace",
     "path": "/fu_byosftldrive-getErchius1/text",
     "raw": "Good work, dear! Once you install that ^orange;STL Drive^reset; on your ship, you'll be able to fly around within your current star system.",
-    "value": "干得好，亲爱的！你在你的飞船上安装了那台^orange;STL引擎^reset;，你现在可以在你当前的恒星系统内飞行了。"
+    "value": "干得漂亮，亲爱的！一旦你在飞船上安装好那个^orange;STL引擎^reset;，就能在当前星系内自由翱翔了。"
   },
   {
     "op": "replace",
@@ -249,7 +249,7 @@
     "op": "replace",
     "path": "/fu_byosftldrive-getErchius2/text",
     "raw": "You'll need some ^pink;erchius crystals^reset; to get your ship fully functional. Look for a moon, they're often a good source, but you'll probably need an ^cyan;Environmental Protection Pack^reset; to breathe.",
-    "value": "你需要一些^pink;厄尔吉斯水晶^reset;来让你的飞船完全发挥作用。寻找一个卫星，它们通常是燃料的良好来源，但你可能需要一个^cyan;环境保护背包^reset;来呼吸。"
+    "value": "要让你的飞船完全恢复运作，你需要一些^pink;厄尔吉斯^reset;水晶。去月球上找找看，那里通常是个不错的来源，不过你可能需要带上^cyan;环境防护包^reset;才能呼吸。"
   },
   {
     "op": "replace",
@@ -261,7 +261,7 @@
     "op": "replace",
     "path": "/fu_byosftldrive-getErchius3/text",
     "raw": "You can research ^cyan;EPPs^reset; in your ^orange;Armor and Weapons^reset; tree, they're made in the ^orange;Armorworks^reset;. You'll need some tungsten, so head to a forest or desert planet!",
-    "value": "你可以在你的^orange;军备武器^reset;科技树处研究^cyan;EPP^reset;，而它们在^orange;军备制作台^reset;处制造。所以你需要一些钨，那就快去森林或沙漠星球找找吧！"
+    "value": "你可以在^orange;护甲和武器^reset;科技树中研究^cyan;EPP^reset;，它们需要在^orange;军备作坊^reset;处制造。你需要一些钨资源，所以前往森林或沙漠星球采集吧！"
   },
   {
     "op": "replace",
@@ -273,6 +273,6 @@
     "op": "replace",
     "path": "/fu_byosftldrive-makeFTL/text",
     "raw": "Well done! Good work evading that ghost. With that ^pink;erchius^reset;, and a little tungsten, you'll have everything you need to craft the ^cyan;Small FTL Drive^reset; and explore the universe. You can research it in your ^orange;Engineering^reset; tree.",
-    "value": "干得好！你现在可是和捉鬼敢死队一样勇敢！有了那个^pink;厄尔吉斯水晶^reset;，再加上一点钨，你就有了制作^cyan;小型FTL引擎^reset;和探索宇宙所需的一切。你可以在你的^orange;工程^reset;研究树处研究它。"
+    "value": "干得漂亮！你成功地躲过了那个幽灵。有了那些^pink;厄尔吉斯水晶^reset;和一点钨，你就能制作^cyan;小型FTL引擎^reset;，开启宇宙探索之旅了。你可以在^orange;工程学^reset;科技树中研究它。"
   }
 ]

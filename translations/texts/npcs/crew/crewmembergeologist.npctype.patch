@@ -9,25 +9,25 @@
     "op": "replace",
     "path": "/scriptConfig/crew/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " Rocks and Rock-like things.",
-    "value": " 出售石头或类似石头的东西。"
+    "value": " 出售岩石与类岩石之物。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
     "raw": "I've got things to sell.",
-    "value": "我可以在这里购买或者出售物品。"
+    "value": "我有东西要卖。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
     "raw": "Floran sssell thingss to you.",
-    "value": "叶族人有些东西西西卖给你。"
+    "value": "叶族人向你出售售售物品。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Statement. I've got things to sell.",
-    "value": "声明。 我可以在这里购买或者出售物品。"
+    "value": "声明。我有东西要卖"
   },
   {
     "op": "replace",

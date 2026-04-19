@@ -9,18 +9,18 @@
     "op": "replace",
     "path": "/text",
     "raw": "Taking the tech to entirely unthought power, this ancient technology is astounding.",
-    "value": "难以想象的力量，这个古代科技真是太惊人了。"
+    "value": "将物质枪技术推向前所未有的高度，这项古老的技艺令人惊叹不已。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Activate it.",
-    "value": "激活它"
+    "value": "激活它。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "I doubt much in the universe can destroy matter faster than this. Challenge accepted?",
-    "value": "我怀疑宇宙中有很多东西破坏物质的速度都比它快。接受挑战吗？"
+    "value": "我怀疑宇宙中鲜有能比这更快摧毁物质的存在。敢来挑战吗？"
   }
 ]

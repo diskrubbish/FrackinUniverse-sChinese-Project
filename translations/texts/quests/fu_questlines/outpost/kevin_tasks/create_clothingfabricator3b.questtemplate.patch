@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/title",
     "raw": "Infantile Deliciousness",
-    "value": "幼稚的美味"
+    "value": "脍稚人口"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "You ever wonder how many ^orange;baby heads^reset; you can fit in a refrigerator? I do! Let's find out, shall we? If you were to gather say...200 ^orange;baby heads on sticks^reset; I'd be ever so thankful.",
-    "value": "你有没有想过冰箱里能装下多少个婴儿头？我知道！我们来看看，好吗？如果你能收集的话...200个在棍子上的婴儿脑袋，谢谢茄子。"
+    "value": "你有没有想过，一个冰箱能装下多少^orange;婴儿的头^reset;？我就想过！不如我们来算算看？如果你能收集到...比如说，200个^orange;插在棍子上的婴儿头^reset;，谢谢茄子。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Bring ^red;Kevin, your overlord^reset; 200 ^orange;Baby Heads on Sticks^reset;",
-    "value": "给你的^red;凯文老爷^reset;带200份^orange;在棍子上的婴儿脑袋^reset;"
+    "value": "给你的^red;凯文老爷^reset;带200份^orange;（串在棍子上的）婴儿头^reset;"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Many thanks, Lester. This time I have an ^orange;honestly good^reset; thing for you! Promise!",
-    "value": "谢谢你，莱斯特。 这次我真的有^orange;好东西^reset;给你！我保证！"
+    "value": "非常感谢，莱斯特。这次我真的有个^orange;很棒的东西^reset;要给你！保证！"
   }
 ]

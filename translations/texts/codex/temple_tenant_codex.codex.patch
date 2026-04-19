@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "Housing Request",
-    "value": "建造申请"
+    "value": "建造请求"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "A torn page from a cultist's journal.",
-    "value": "信徒日记上撕下来的一页。"
+    "value": "一页从邪教徒日记中撕下的残页。"
   },
   {
     "op": "replace",

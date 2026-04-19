@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/pickupDeuterium/text",
     "raw": "Deuterium is relatively common, but difficult to extract. It is also necessary for unstable particles which are *extremely* useful in the lab.",
-    "value": "氘相对常见，但难以提取。它是制作不稳定粒子的必要材料。"
+    "value": "氘相对常见，但提取难度较大。它在实验室中极为有用的不稳定粒子研究中也是必需的。"
   },
   {
     "op": "replace",
     "path": "/pickupTritium/text",
     "raw": "Tritium is produced by fission reaction, and is a viable means to obtain helium-3 as well, via extraction in a laboratory.",
-    "value": "氚是核聚变反应所生成的，可以把它萃取制作成氦-3。"
+    "value": "氚可通过裂变反应产生，同时也是在实验室中提取氦-3的一种可行途径。"
   },
   {
     "op": "replace",
     "path": "/pickupEnrichedplutonium/text",
     "raw": "Much more viable as a fuel and resource than its unrefined self. Enriched Plutonium can help you reach the stars.",
-    "value": "相比提纯之前，提纯后的钚是一种更加强效的燃料和资源，它可以帮助你飞向更远的星空。"
+    "value": "相较于未经提炼的原始形态，浓缩钚作为燃料和资源更具可行性。它能助你触及星辰，探索无垠宇宙。"
   },
   {
     "op": "replace",
     "path": "/pickupEnricheduranium/text",
     "raw": "Enriched uranium finds itself a unique niche: armor piercing ability when applied to metallic rounds.",
-    "value": "浓缩铀有着独一无二的穿甲能力。可以用于制作武器。"
+    "value": "浓缩铀在金属弹头应用中占据了一个独特的地位：具备出色的穿甲能力。"
   },
   {
     "op": "replace",
     "path": "/pickupNeptunium/text",
     "raw": "Slightly more radioactive than uranium, and also a much more useful source of fuel, Neptunium will be your friend when you need it.",
-    "value": "镎的放射性比铀略高，也可以作为燃料。"
+    "value": "比铀的放射性稍强，同时也是更实用的燃料来源，镎会在你需要时成为可靠伙伴。"
   },
   {
     "op": "replace",
     "path": "/pickupThorium/text",
     "raw": "Relatively rare, but exceptionally useful, Thorium will provide a boost to your survival and ability to travel the stars.",
-    "value": "钍是相对罕见，但又非常有用的物质。它会提高你的生存和星际旅行的能力。"
+    "value": "相对稀有却异常实用，钍元素将显著提升你的生存能力与星际航行能力。"
   },
   {
     "op": "replace",
     "path": "/pickupUltronium/text",
     "raw": "Who knows how this is even possible, but you have created a whole new type of radiation. Let us call it: Ultronium. Check out that fuel capability!",
-    "value": "恭喜你，你创造出了一种全新的辐射物质。让我们把它称为：奥创棒！快去测试一下这个新的燃料的性能吧。"
+    "value": "真是难以置信，你竟然创造出了一种全新的辐射类型。我们不妨称之为：奥创素。快看看它的燃料性能有多惊人！"
   },
   {
     "op": "replace",
     "path": "/pickupNeutronium/text",
     "raw": "This was supposed to be a ^yellow;hypothetical^reset; element. You've gone ahead and created it. I heavily (and I cannot stress this enough) recommend against being careless with this.",
-    "value": "这本应是一种^yellow;假想的^reset;元素，而你已经创造了它。我强烈建议(并且再怎么强调都不为过)你小心对待它。"
+    "value": "这原本只是一个^yellow;假想中^reset;的元素。你却已经将其创造出来。我强烈（这一点再怎么强调都不为过）建议你对此务必谨慎行事。"
   },
   {
     "op": "replace",
     "path": "/pickupAntiNeutronium/text",
     "raw": "^red;WARNING!!!^reset;: This element is extremely dangerous and should, under no circumstances, be used to make an explosive paired with Neutronium.",
-    "value": "^red;警告！！！^reset;这种元素在任何情况下都是极其危险的！它被用来和中子素配对，以制造一场大爆炸。"
+    "value": "^red;警告！！！^reset;：此元素极其危险，在任何情况下都不得用于与中子素结合制造爆炸物。"
   }
 ]

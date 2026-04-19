@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "<^red;A voice speaks in your head:^reset; Most upsetting. Expedition was a failure. Could not locate ^orange;Ancient Remote^reset; to sell at exorbitant price. If mortal biped locates one, I would be most grateful to purchase it.>",
-    "value": "<^red;一个声音在你的脑海中说话：^reset;心情非常烦乱。远征已成失败。无法定位^orange;古代远程设备^reset;，无法再以高价出售。如若两足之辈找到一个，吾辈将感激不尽，吾辈会购买它。>"
+    "value": "<^red;一个声音在你脑海中响起：^reset;真是令人沮丧。远征失败了。未能找到那台可以高价出售的^orange;古代远程设备^reset;。若有凡人寻得此物，我愿高价收购，感激不尽。>"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "<Great joy is felt by this being. Appreciation will be shown with gratuitous monetary payment. Fleshlings appreciate such gestures. With it you could purchase goods and services.>",
-    "value": "<极大的快乐正被这个生物感受到。感谢将以免费货币支付的形式表现。血肉的存在感激这些手势。以它你可支付商品和服务。>"
+    "value": "<此身深感喜悦。将以无偿金钱支付表达感激之情。血肉之躯常珍视此类馈赠。凭此你可购置物品与服务。>"
   }
 ]

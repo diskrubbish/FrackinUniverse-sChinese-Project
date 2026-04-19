@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "This looks like the control panel for the gate. It still seems to work.",
-    "value": "这看起来像大门的控制面板，他似乎仍然在工作。"
+    "value": "这看起来像是大门的控制面板，它似乎还能正常运作。"
   },
   {
     "op": "replace",
@@ -15,42 +15,42 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "An extremely old piece of technology.",
-    "value": "极其古老的科技。"
+    "value": "一件极其古老的科技造物。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "This console must be as old at the gate itself. That's old!",
-    "value": "这个控制台一定和这扇大门一样旧。他们都太旧了！"
+    "value": "这控制台一定和星门本身一样古老，那可真是够老的！"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Ancient controlsss for the ancient gate.",
-    "value": "用来控制古代大门的古代控控控制台。"
+    "value": "适用于古代星门的古代操操操作面板。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Impressed. The control panel for the gate, it looks very old indeed.",
-    "value": "印象深刻。 这是这扇大门的控制台，它看起来真的很旧。"
+    "value": "感动。星门的操作面板，它看起来确实很古老。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "The gate control panel. It must be as old as the gate.",
-    "value": "这扇大门的控制面板。它一定和这扇大门一样古老。"
+    "value": "星门的操作面板，它一定和星门本身一样古老。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "The gate console. Like the gate, it is a mystery.",
-    "value": "这扇大门的控制台。和这扇大门一样，它是个谜。"
+    "value": "星门的控制台。它是个谜，就像星门一样。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Let's see if I can't get this old thing workin'.",
-    "value": "让我们看看我能不能让这个古老的设备工作。"
+    "value": "让我来看看我能不能让这古老的设备开始工作。"
   }
 ]

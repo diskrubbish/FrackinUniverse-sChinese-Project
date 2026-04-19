@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/displayConfig/subtitle",
     "raw": "An interactive field guide to identifying monsters.",
-    "value": "一台能让你现场识别怪物的可交互指南。"
+    "value": "一本用于识别怪物的互动式野外指南。"
   },
   {
     "op": "replace",
@@ -765,31 +765,31 @@
     "op": "replace",
     "path": "/scenes/poptop1/text",
     "raw": "A small, deceptively cute-looking monster found strolling in garden biomes. Their constant tendency to sing often causes uninformed adventurers to mistaken them for a docile creature.",
-    "value": "一种可爱外观十分具有欺骗性的小小怪物，常被发现在花园群系的环境里散步。他们不断歌唱的习性常常导致不知情的冒险者误以为他们是一种温顺的动物。"
+    "value": "一种体型小巧、外表极具欺骗性的可爱怪物，常出没于花园生态群落。它们无时无刻不在歌唱的习性，常使不明真相的冒险者误以为这是温顺的生物。"
   },
   {
     "op": "replace",
     "path": "/scenes/poptop2/text",
     "raw": "This of course is a dangerous mistake for the unprepared. They're actually highly aggressive predators, and will actively snap at their prey.",
-    "value": "对于手无寸铁的人来说，这当然是一个危险的错误。他们实际上是极具攻击性的捕食者，而且会积极地捕食它们的猎物。"
+    "value": "对于毫无准备的人来说，这无疑是一个危险的误解。它们实际上是极具攻击性的捕食者，会主动猛咬猎物。"
   },
   {
     "op": "replace",
     "path": "/scenes/adultpoptop0/text",
     "raw": "MONSTER: Adult Poptop - FAMILY: Poptop - SPECIES: Poptop - BIOMES: Jungle",
-    "value": "怪物：成年 吐舌娃 - 家族：吐舌娃 - 种系：吐舌娃 - 生物群落：丛林"
+    "value": "怪物：成年吐舌娃 - 家族：吐舌娃 - 种系：吐舌娃 - 生物群落：丛林"
   },
   {
     "op": "replace",
     "path": "/scenes/adultpoptop1/text",
     "raw": "Few realize that the unassuming Poptop can grow up to be quite the ferocious monster. They attack with forceful sweeps of their huge clawed arms.",
-    "value": "很少有人意识到，不起眼的吐舌娃事实上可以长大成为相当凶猛的怪兽。它们有力地挥舞着长有爪子的巨臂进行攻击。"
+    "value": "很少有人知道，看似不起眼的吐舌娃长大后竟会变成如此凶猛的怪物。它们会用巨大的利爪手臂猛烈横扫，发起攻击。"
   },
   {
     "op": "replace",
     "path": "/scenes/adultpoptop2/text",
     "raw": "Most adults are found in jungles, but you will usually find a Mother Poptop somewhere on Lush planets...",
-    "value": "大多数成年吐舌娃都是在丛林中被发现的，但是你通常会在葱郁星球上的某个地方发现一头巨大的吐舌娃妈妈..."
+    "value": "大多数成年波普托普栖息于丛林之中，但在葱郁行星的地表某处，你通常能发现一只吐舌娃母兽的踪迹..."
   },
   {
     "op": "replace",

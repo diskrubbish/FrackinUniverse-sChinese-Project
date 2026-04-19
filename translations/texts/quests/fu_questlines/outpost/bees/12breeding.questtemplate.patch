@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Breeding New Variants",
-    "value": "孕育新品种"
+    "value": "培育新品种"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "So, you've got apiaries and honey bees. Now, I wonder: what would happen if you put a ^orange;Orchid Queen^reset; and some ^orange;Honey Drones^reset; into that ^orange;Giant Apiary^reset;? And what about if you added a ^orange;Tungsten Frame^reset;?",
-    "value": "现在，你已经有了许多蜂箱，以及蜜蜂，森林蜜蜂等。我在想：如果把^orange;兰草蜂后^reset;和^orange;蜂蜜工蜂^reset;放在^orange;大型蜂箱^reset;会发生什么？如果你再加上^orange;钨制框巢^reset;呢？"
+    "value": "那么，你已经有蜂箱和蜜蜂了。现在我在想：如果把一只^orange;兰草蜂后^reset;和^orange;蜂蜜工蜂^reset;放进那个^orange;巨型蜂箱^reset;里，会发生什么呢？要是再加上一个^orange;钨制巢框^reset;呢？"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "You can create countless bee variants by selectively choosing traits in queens and drones to influence their offspring. ^red;Not all bees^reset; can be bred with every family-type. You'll need to experiment yourself to find out what works.",
-    "value": "你可以通过选择蜂后和工蜂的特征来影响它们的后代，从而创造出无数的蜜蜂变种。但^orange;不是所有蜜蜂^reset;都可以杂交成功。你需要大量的实验才能找出规律。"
+    "value": "通过有选择地挑选蜂后和工蜂的性状，你可以创造出无数种蜜蜂变体，从而影响其后代。并非^red;所有蜜蜂^reset;都能与每个家族类型进行交配。你需要亲自尝试，才能发现哪些组合是可行的。"
   }
 ]

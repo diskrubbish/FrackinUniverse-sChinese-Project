@@ -9,18 +9,18 @@
     "op": "replace",
     "path": "/text",
     "raw": "I should poke the crystal again to get my reward.",
-    "value": "我应该再次使用水晶，以获得我的奖励。"
+    "value": "我应该再戳一下水晶来领取我的奖励。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Poke the strange crystal again to get your reward.",
-    "value": "再次使用水晶以获取奖励。"
+    "value": "再次触碰那块奇异的水晶，即可领取你的奖励。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "This was all just so weird.",
-    "value": "这里的一切都很奇怪。"
+    "value": "这一切都太奇怪了。"
   }
 ]

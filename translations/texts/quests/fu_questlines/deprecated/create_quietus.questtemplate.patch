@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "I'm offering 6000 pixels for a bit of aid, if you can spare a few moments? I need 5 ^orange;Quietus Bars^reset; in order to finish my work. Can you bring some to me?",
-    "value": "你能抽出一些时间吗？我能提供6000像素作为报酬。我需要5枚^orange;寂灭锭^reset;来完成我的工作。你能帮我带过来吗？"
+    "value": "我愿以6000像素作为酬谢，能否请你稍作停留帮个小忙？我需要5块^orange;寂灭锭^reset;来完成手头的工作，你方便带一些给我吗？"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Well done, ol' chap. As promised: The cash. Enjoy.",
-    "value": "做得好。这是我的承诺：像素。好好享受吧。"
+    "value": "干得漂亮，老伙计。如约奉上：现金。请笑纳。"
   }
 ]

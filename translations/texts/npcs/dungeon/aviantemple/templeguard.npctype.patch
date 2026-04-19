@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "raw": "Intruder!",
-    "value": "闯入者！"
+    "value": "入侵者！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/0",
     "raw": "Intruder! Leave this hallowed ground!",
-    "value": "入侵者! 离开这个神圣的地方！"
+    "value": "入侵者！速速离开这片神圣之地！"
   },
   {
     "op": "replace",
@@ -21,49 +21,49 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/2",
     "raw": "You dishonour Kluex!",
-    "value": "你玷污了克鲁西斯！"
+    "value": "你这是在亵渎克鲁西斯！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/3",
     "raw": "You are unwelcome, stranger!",
-    "value": "你不受欢迎，陌生人！"
+    "value": "这里不欢迎你，陌生人！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/4",
     "raw": "Today, Kluex claims another soul!",
-    "value": "现在，克鲁西斯渴望另一个灵魂！"
+    "value": "今日，克鲁西斯再夺一魂！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/5",
     "raw": "The wrath of Kluex will fall upon you!",
-    "value": "克鲁西斯的愤怒会降临到你身上！"
+    "value": "克鲁西斯的怒火将降临于你！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/default/6",
     "raw": "The power of Kluex compels me to slay you!",
-    "value": "克鲁西斯的力量迫使我杀了你！"
+    "value": "克鲁西斯的力量驱使着我，必须将你消灭！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/0",
     "raw": "Filthy Grounded scum! Today, you die!",
-    "value": "肮脏的凡间人渣! 今天，你死定了！"
+    "value": "肮脏的凡民！今日便是你的死期！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/1",
     "raw": "Rend the unbeliever limb from limb!",
-    "value": "把异教徒撕成碎片！"
+    "value": "将异教徒碎尸万段！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/2",
     "raw": "Your disbelief will be your undoing!",
-    "value": "你的怀疑将是你的毁灭！"
+    "value": "你的怀疑终将毁了你！"
   },
   {
     "op": "replace",
@@ -75,18 +75,18 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/4",
     "raw": "Your disregard towards our mighty Kluex is despicable!",
-    "value": "你对我们强大的克鲁西斯的漠视是可鄙的！"
+    "value": "你对伟大的克鲁西斯的蔑视令人不齿！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/5",
     "raw": "We'll throw you off the tower and see if you can fly!",
-    "value": "我们会把你扔下塔，看看你能不能飞！"
+    "value": "我们要把你从塔上扔下去，看看你能不能飞起来！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/avian/avian/6",
     "raw": "I... I must destroy you, heretic! I have no choice!",
-    "value": "我...我必须毁灭你，异教徒! 我别无选择！"
+    "value": "我...我必须消灭你，异端！我别无选择！"
   }
 ]

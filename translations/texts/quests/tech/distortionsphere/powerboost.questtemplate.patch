@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/text",
     "raw": "I've devised a way to change my own body chemistry using technology. This should allow me to blend in to my surroundings and surprise foes with attacks.",
-    "value": "我设计出了可以调整自身颜色的科技。它可以让我融入周围环境。"
+    "value": "我设计了一种利用科技改变自身生理机能的方法。这能让我更好地融入环境，并在攻击时给敌人出其不意的打击。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "I can now press [f] when Phase Attack is active to vanish. My next attack will do x2 damage. Movement speed is slowed while sneaking.",
-    "value": "我现在可以按下^green;[F]^reset;进入隐匿状态，我的下一次攻击的伤害将会翻倍，但移动速度会降低。"
+    "value": "当相位攻击就绪时，我可以按下[F]键进入隐身状态。我的下一次攻击将造成双倍伤害。潜行时移动速度会减慢。"
   }
 ]

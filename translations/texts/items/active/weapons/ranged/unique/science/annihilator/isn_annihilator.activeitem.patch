@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Fires unusual blasts that ignore physics.\n^yellow;Ignores walls^reset;",
-    "value": "射出忽视物理的异常爆炸。\n^yellow;穿墙攻击^reset;"
+    "value": "发射无视物理法则的异常冲击波。\n^yellow;无视墙体^reset;"
   },
   {
     "op": "replace",

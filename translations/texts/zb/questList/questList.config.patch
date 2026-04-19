@@ -21,12 +21,12 @@
     "op": "replace",
     "path": "/gui/questTitle/value",
     "raw": "I AM ERROR",
-    "value": "*我是错误的*"
+    "value": "*我是错误*"
   },
   {
     "op": "replace",
     "path": "/gui/textScrollArea/children/questText/value",
     "raw": "I AM ERROR",
-    "value": "*我是错误的*"
+    "value": "*我是错误*"
   }
 ]

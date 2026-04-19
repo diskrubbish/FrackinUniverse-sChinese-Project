@@ -3,60 +3,60 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "raw": "You shouldn't be seeing this.",
-    "value": "你不该看这玩意儿。"
+    "value": "你不应该看到这个。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/0",
     "raw": "Watch out for explosive barrels under switches. You can blow those up to destroy and deactivate the switch.",
-    "value": "留意开关下的炸药桶，你可以攻击它来破坏开关。"
+    "value": "注意开关下方的爆炸桶。你可以引爆它们来摧毁并关闭开关。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/1",
     "raw": "I hear there's an entrance to the sewers in the caves.",
-    "value": "我听说洞穴的下水道内有一个入口。"
+    "value": "我听说洞穴里有个通往下水道的入口。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/2",
     "raw": "It's chilly out there. Wrap up well.",
-    "value": "休息一会儿，整理一下自己的补给。"
+    "value": "外面挺冷的，穿暖和点。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/3",
     "raw": "I hope you succeed - mostly because if you don't, we'll have to go out ourselves.",
-    "value": "我衷心希望你能成功！因为一旦你失败，我们就只能拼命了。"
+    "value": "我希望你能成功 - 主要是因为你若失败，我们就得亲自出马了。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/4",
     "raw": "Hostage situations are the worst.",
-    "value": "现在情况处于最遭的时候。"
+    "value": "人质事件是最糟糕的情况。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/5",
     "raw": "Whatever route you take into the dacha, good luck!",
-    "value": "祝你好运，希望你能成功！"
+    "value": "无论你选择哪条路前往乡间别墅，祝你好运！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/6",
     "raw": "The Miniknog often takes hostages to insure good behaviour, but this is something else altogether.",
-    "value": "科学发展部这次挟持了我们的人作为人质。"
+    "value": "科技发展部常以扣押人质来确保民众顺从，但这次的情况却截然不同。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/7",
     "raw": "Don't forget to load up before you go. We don't have much, but we'll sell you what we can.",
-    "value": "在你走之前记得检查自己的补给，虽说我们没有太多物品提供给你，但是只要你要，我们就会给你。"
+    "value": "出发前别忘了补充物资。我们存货不多，但会尽力供应你所需。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/apex/default/8",
     "raw": "This is as close as we dare to get to the commissar's dacha.",
-    "value": "这已是距离目标建筑最近的距离了。"
+    "value": "这是我们敢靠近政委别墅的最近距离了。"
   }
 ]

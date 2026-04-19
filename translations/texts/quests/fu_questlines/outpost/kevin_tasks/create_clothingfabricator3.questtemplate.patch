@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "Okay, I kinda get why...",
-    "value": "好吧，我终于明白了..."
+    "value": "好吧，我大概明白为什么了..."
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "I cannot possibly poison-tip the ^cyan;rocket-powered guinea pigs^reset; without a supply of 5 ^orange;Alien Compound^reset;. Perhaps you could get me some? I would (in theory) handsomely reward you!",
-    "value": "我需要5份^orange;外星化合物^reset;来给^cyan;火箭动力豚鼠^reset;淬毒。也许你能弄到？我会(理论上)慷慨地奖励你的。"
+    "value": "没有5份^orange;外星化合物^reset;，我可没法给那些^cyan;火箭驱动的豚鼠^reset;下毒。或许你能帮我弄点来？事成之后，我（理论上）会给你丰厚的回报！"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Thanks, Dave. Now I can construct a weapon the likes of which nobody has ever seen. Bonus: They're also ^green;delicious^reset;!",
-    "value": "谢谢你，戴夫。现在我可以建造一种从未见过的武器。而且还很^green;好吃^reset;！"
+    "value": "谢谢，戴夫。现在我能打造出一件前所未见的武器。额外惊喜是：它们还很^green;美味^reset;！"
   }
 ]

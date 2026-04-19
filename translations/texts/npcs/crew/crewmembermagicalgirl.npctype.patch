@@ -3,19 +3,19 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
     "raw": "My powers of love will protect you from the powers of shadow.",
-    "value": "我的力量将保护你，使你免受暗影伤害。"
+    "value": "我的爱之力将守护你，免受阴影之力的侵袭。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
     "raw": "Floran'ss power of love will protect you from the powerss of shadow!",
-    "value": "叶族人的爱之力会保护你免受暗影之力力力的影响！"
+    "value": "叶族人的爱之力将守守守护你，免受受受阴影之力的侵袭。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
     "raw": "Valiant. My powers of love will protect you from the powers of shadow.",
-    "value": "英勇。 我的力量将保护你，使你免受暗影伤害。"
+    "value": "英勇。我的爱之力将守护你，免受阴影之力的侵袭。"
   },
   {
     "op": "replace",
@@ -27,25 +27,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
     "raw": "Let me help you out!",
-    "value": "让我来帮你吧！"
+    "value": "我来助你！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
     "raw": "Looks like you could use some love!",
-    "value": "看来你可以使用爱的力量！"
+    "value": "看起来你需要一点关爱！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
     "raw": "I can help!",
-    "value": "我会帮上忙的！"
+    "value": "我可以帮忙！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
     "raw": "Floran knowss only love!",
-    "value": "叶族人为爱而生！"
+    "value": "叶族人为爱而生生生！"
   },
   {
     "op": "replace",
@@ -57,25 +57,25 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
     "raw": "Floran hasss the power of kindnesss!",
-    "value": "叶族人掌掌掌握着善心之力！"
+    "value": "叶族人掌握着善心心心之力！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
     "raw": "Valiant. Darkness be gone!",
-    "value": "英勇。 黑暗退散！"
+    "value": "英勇。黑暗退散！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
     "raw": "Caring. Looks like you could use some love!",
-    "value": "关心 看来你可以使用爱的力量！"
+    "value": "关心。看起来你需要一点关爱！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
     "raw": "Brave. Let me help you out!",
-    "value": "勇敢。 让我来帮你吧！"
+    "value": "勇敢。我可以帮忙！"
   },
   {
     "op": "replace",

@@ -3,150 +3,150 @@
     "op": "replace",
     "path": "/futestdrive00/text",
     "raw": "Welcome to your Mech Training Course. You can exit and enter your Mech with ^#FF1493;[E]^reset;.",
-    "value": "欢迎来到你的机械培训课程！你可以按^#FF1493;[E]^reset;进入或退出机甲。若进入机甲后无法操作，请退出任务并重新进入。"
+    "value": "欢迎来到机甲训练课程。你可以通过按下^#FF1493;[E]^reset;键进出您的机甲。"
   },
   {
     "op": "replace",
     "path": "/futestdrive01/text",
     "raw": "The ^#orange;Tricorder^reset; can help you ^orange;equip^reset; and ^orange;refuel^reset; your mech. Fuel is important, so keep your mech topped up. Press the corresponding buttons on the tricorder after this mission to check it out. ^#Red;(If you see 'unauthorized user' restart the mission.)",
-    "value": "^orange;三度仪^reset;可以帮助你对你的机甲^orange;更换装备^reset;和^orange;加油^reset;。燃料很重要，所以保持机甲燃料充足。任务之后请在三度仪里面检查相应的按钮 ^red;(如果你看到“unauthorized user”，请重新开始任务。)。"
+    "value": "^#orange;三度仪^reset;能帮助你^orange;装备^reset;机甲并^orange;补充燃料^reset;。燃料至关重要，请确保机甲燃料充足。任务结束后，按下三度仪上的对应按钮即可查看状态。^#Red;（若显示“unauthorized user”，请重新开始任务。）"
   },
   {
     "op": "replace",
     "path": "/futestdrive02/text",
     "raw": "Your mech can ^#FF1493;duck by pressing ^#FF1493;[DOWN]^reset;, or ^#FF1493;sprint with a ^#FF1493;[double-tap]^reset; in the direction you are walking.",
-    "value": "你的机甲可以按^#FF1493;[DOWN]^reset;进行躲避，或者^#FF1493;[双击方向键]^reset;朝你走的方向冲刺。"
+    "value": "你的机甲可以通过按下^#FF1493;[下]^reset;键^#FF1493;进行下蹲^reset;，或向行走方向^#FF1493;[双击方向键]^reset;以进行^#FF1493;冲刺^reset;。"
   },
   {
     "op": "replace",
     "path": "/futestdrive03/text",
     "raw": "Your mech will auto-crouch to fit into areas that it can pass, should the need arise. Such as at the top of this passage.",
-    "value": "如果需要的话，你的机甲将自动蹲伏，以适应它可以通过的狭小空间。例如在这一段设施的顶部。"
+    "value": "当需要时，你的机甲会自动蹲伏以通过可通行的区域，例如这段通道的顶部。"
   },
   {
     "op": "replace",
     "path": "/testdrive04/text",
     "raw": "Remember, you can create a ^orange;Mech Repair tool^reset; at your ^orange;Tinkering Table^reset; and upgrade it to be more effective using your ^orange;Tricorder's upgrade menu^reset;.",
-    "value": "请记住，你可以在你的^orange;改造台^reset;制作^orange;机甲修理工具^reset;并使用你的^orange;三度仪的升级菜单^reset;对其进行升级，使之更加有效。"
+    "value": "请记住，你可以在你的^orange;改造台^reset;处制作^orange;机甲修理工具^reset;，并通过^orange;三度仪的升级菜单^reset;来提升其效能。"
   },
   {
     "op": "replace",
     "path": "/futestdrive03b/text",
     "raw": "Your mech switches to a ground-movement configuration when in an environment with gravity, you can manually switch from ground-movement to flight-mode by ^#FF1493;double tapping the [UP] key^reset;, even on planets. Do so now to continue.",
-    "value": "在有重力的环境下，你的机甲会切换为地面移动模式。你可以手动^#FF1493;双击 [上] 方向键^reset;切换地面模式为飞行模式，甚至在星球上也可以这么做。立即执行以继续。"
+    "value": "当处于有重力的环境中时，你的机甲会自动切换至地面移动模式。即使是在行星上，你也可以通过^#FF1493;双击[上]键^reset;手动从地面移动模式切换至飞行模式。现在请执行此操作以继续。"
   },
   {
     "op": "replace",
     "path": "/futestdrive03c/text",
     "raw": "Please be aware of your mech's ^#bf2fe2;fuel^white; and ^#1d8e25;health^white; reserves, visualised respectively as the ^green;colored bars you can see above your vehicle^reset;. The ^#bf2fe2;fuel^white; will deplete over time and the ^#1d8e25;health^white; bar will deplete when the mech takes damage.",
-    "value": "请注意你的机甲的^#bf2fe2;燃料储备^white;和^#1d8e25;耐久^white;，^green;两者分别可视化为机甲上方的彩色条^white;。随着时间的推移，^#bf2fe2;燃料条^white;会耗尽，当机甲受到伤害时，^#1d8e25;耐久条^white;会被损耗。"
+    "value": "请注意观察你机甲的^#bf2fe2;燃料^white;和^#1d8e25;生命值^white;储备，它们分别以^green;彩色条的形式显示在载具上方^reset;。^#bf2fe2;燃料^white;会随时间逐渐消耗，而^#1d8e25;生命值^white;会在机甲受到伤害时减少。"
   },
   {
     "op": "replace",
     "path": "/futestdrive04/text",
     "raw": "Zero gravity combat is a bit trickier than on flat ground. Accuracy is important, so you'll need to learn to lead your targets properly.",
-    "value": "零重力战斗要比平地上的更为棘手。精度是至关重要的，因此你需要学会正确引导你的目标。"
+    "value": "在零重力环境下作战比在平地上要复杂一些。精准度至关重要，因此你需要学会如何正确预判目标的移动轨迹。"
   },
   {
     "op": "replace",
     "path": "/testdrive05/text",
     "raw": "Hostile entities also exist in zero-gravity environments. My cosmonautical records indicate that defeating them may result in obtaining an erchius battery, which your mech can absorb to replenish health and fuel.",
-    "value": "敌对实体也存在于零重力环境中。我的宇航员记录显示，击败它们可能会得到一个厄尔吉斯电池，你的机甲可以吸收这个电池来补充耐久和燃料。"
+    "value": "在零重力环境中同样存在敌对实体。根据我的航天记录，击败它们有可能获得厄尔吉斯电池，你的机甲可以吸收这种电池来恢复生命值和燃料。"
   },
   {
     "op": "replace",
     "path": "/futestdrive05/text",
     "raw": "Now try throwing your mass around. Try to ^#FF1493;leap and ^#FF1493;stomp^reset; on the creatures ahead.",
-    "value": "现在试着把这些杂碎清理掉。试着^#FF1493;跳跃^reset;和^#FF1493;践踏^reset;前方的生物。"
+    "value": "现在试着用你的质量去冲撞。尝试^#FF1493;跳跃并^#FF1493;踩踏^reset;前方的生物。"
   },
   {
     "op": "replace",
     "path": "/biomeplaceholder_mech/text",
     "raw": "WARNING: Your vehicle is not certified \nfor this ^#FF1493;weird^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
-    "value": "^red;危险警告：你的机体无法承受此处的^#FF1493;怪异^red;环境！^reset;\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+    "value": "警告：您的载具未获认证\n适用于此^#FF1493;异常^reset;环境！  \n忽视此警告可能导致驾驶员死亡和或载具保修失效。"
   },
   {
     "op": "replace",
     "path": "/biomepressure_mech/text",
     "raw": "WARNING: Your vehicle is not certified \nfor this ^#A0522D;high pressure^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
-    "value": "^red;危险警告：你的机体无法承受此处的^#A0522D;高压^red;环境！^reset;\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+    "value": "警告：您的载具未获认证\n适用于此^#A0522D;高压^reset;环境！  \n忽视此警告可能导致驾驶员死亡和或载具保修失效。"
   },
   {
     "op": "replace",
     "path": "/biomeproto_mech/text",
     "raw": "WARNING: Your vehicle is not certified \nfor this ^#9ACD32;proto^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
-    "value": "^red;危险警告：你的机体无法抵御此处的^#9ACD32;原毒^red;环境！^reset;\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+    "value": "警告：您的载具未获认证\n适用于此^#9ACD32;原毒^reset;环境！  \n忽视此警告可能导致驾驶员死亡和或载具保修失效。"
   },
   {
     "op": "replace",
     "path": "/biomeelectric_mech/text",
     "raw": "WARNING: Your vehicle is not certified \nfor this ^#6A5ACD;electrically-charged^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
-    "value": "^red;危险警告：你的机体无法承受此处的^#6A5ACD;带电^red;环境！\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+    "value": "警告：您的载具未获认证\n适用于此^#6A5ACD;带电^reset;环境！  \n忽视此警告可能导致驾驶员死亡和或载具保修失效。"
   },
   {
     "op": "replace",
     "path": "/biomepoison_mech/text",
     "raw": "WARNING: Your vehicle is not certified \nfor this ^#32CD32;poisonous^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
-    "value": "^red;危险警告：你的机体无法承受此处的^#32CD32;有毒^red;环境！^reset;\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+    "value": "警告：您的载具未获认证\n适用于此^#32CD32;有毒^reset;环境！  \n忽视此警告可能导致驾驶员死亡和或载具保修失效。"
   },
   {
     "op": "replace",
     "path": "/biomeradiation_mech/text",
     "raw": "WARNING: Your vehicle is not certified \nfor this ^#00FF00;radioactive^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
-    "value": "^red;危险警告：你的机体无法承受此处的^#00FF00;辐射^red;环境！^reset;\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+    "value": "警告：您的载具未获认证\n适用于此^#00FF00;辐射^reset;环境！  \n忽视此警告可能导致驾驶员死亡和或载具保修失效。"
   },
   {
     "op": "replace",
     "path": "/biomecold_mech/text",
     "raw": "WARNING: Your vehicle is not certified \nfor this ^#00BFFF;cold^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
-    "value": "^red;危险警告：你的机体无法承受此处的^#00BFFF;寒冷^red;环境！^reset;\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+    "value": "警告：您的载具未获认证\n适用于此^#00BFFF;寒冷^reset;环境！  \n忽视此警告可能导致驾驶员死亡和或载具保修失效。"
   },
   {
     "op": "replace",
     "path": "/biomeheat_mech/text",
     "raw": "WARNING: Your vehicle is not certified \nfor this ^#FF4500;hot^reset; environment!\nDisregarding this warning may cause pilot death and/or invalidation of vehicle warranty.",
-    "value": "^red;危险警告：你的机体无法承受此处的^#FF4500;炎热^red;环境！^reset;\n无视此警告可能导致驾驶员死亡或车辆保修失效。"
+    "value": "警告：您的载具未获认证\n适用于此^#FF4500;炎热^reset;环境！  \n忽视此警告可能导致驾驶员死亡和或载具保修失效。"
   },
   {
     "op": "replace",
     "path": "/aether_mech/text",
     "raw": "DANGER! This fluid is rapidly shorting out every system on board the mech. We should leave this liquid soon or risk death.",
-    "value": "危险！这种液体可以使机甲系统短路。我们应该尽快离开这里。"
+    "value": "警告！这种液体正在迅速导致机甲上所有系统短路。我们必须尽快离开这片液体区域，否则将有生命危险。"
   },
   {
     "op": "replace",
     "path": "/proto_mech/text",
     "raw": "Curious. This liquid appears to be restoring your mechs energy, rather than causing negative effects.",
-    "value": "有意思。这种液体可以恢复机甲的能量，而不是引起负面效果。"
+    "value": "有趣。这种液体似乎正在恢复你机甲的能源，而非产生负面效果。"
   },
   {
     "op": "replace",
     "path": "/lava_mech/text",
     "raw": "DANGER! Your mech's temperature control systems are failing! Evacuate immediately!",
-    "value": "危险！机甲温控系统正在逐渐失效！请立即撤退！"
+    "value": "警告！你的机甲温度控制系统正在失效！请立即撤离！"
   },
   {
     "op": "replace",
     "path": "/darkwater_mech/text",
     "raw": "DANGER! This poisonous water seems to seep into your mechs components and cause serious issues. You should get out sooner than later.",
-    "value": "危险！毒水看起来已经渗入了机甲组件，造成了严重的损坏。你应该尽快离开这里。"
+    "value": "危险！这种有毒液体似乎正在渗入你的机甲部件，引发严重故障。建议你尽快撤离，切勿拖延。"
   },
   {
     "op": "replace",
     "path": "/nitrogen_mech/text",
     "raw": "DANGER! Your mechs servos and components are rapidly freezing within the liquid nitrogen. That isn't a good thing. Evacuate soon or you will know regret.",
-    "value": "危险！液氮正在迅速冻结机甲的伺服系统和组件！这并不是好事。请尽快撤退，否则你会后悔的。"
+    "value": "警告！你的机甲伺服系统和部件正在液氮中迅速冻结。这可不是什么好事。尽快撤离，否则你将追悔莫及。"
   },
   {
     "op": "replace",
     "path": "/acid_mech/text",
     "raw": "DANGER! Sulphuric acid has compromised your mech plating. I suggest leaving the liquid immediately.",
-    "value": "危险！硫酸已经破坏了你的机甲镀层。我建议你立刻离开。"
+    "value": "危险！硫酸已侵蚀你的机甲外壳。建议立即离开液体区域。"
   },
   {
     "op": "replace",
     "path": "/elder_mech/text",
     "raw": "DANGER! Essentia Obscura is rapidly turning your mech into pudding! Get out swiftly!",
-    "value": "危险！黯灵之露正在迅速地把你的机器变成布丁！快点从这里出去！"
+    "value": "危险！黯灵之露正迅速将你的机甲变成布丁！请立即撤离！"
   }
 ]

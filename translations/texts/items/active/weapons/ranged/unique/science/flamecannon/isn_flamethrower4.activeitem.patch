@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A rather large flame weapon.\n^yellow;Inflicts burning^reset;",
-    "value": "巨大的喷火武器。\n^cyan;附加燃烧效果^reset;"
+    "value": "一把相当大型的喷火武器。\n^yellow;造成燃烧效果^reset;"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "^cyan;Fleshroaster^reset; ^yellow;^reset;",
-    "value": "^cyan;嫩肉烤箱^reset; ^yellow;^reset;"
+    "value": "^cyan;血肉炙烤者^reset; ^yellow;^reset;"
   },
   {
     "op": "replace",

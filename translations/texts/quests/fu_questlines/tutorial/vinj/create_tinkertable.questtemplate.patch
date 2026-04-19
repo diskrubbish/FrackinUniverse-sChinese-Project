@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "Without a ^orange;Tinkering Table^reset; you'll be hard-pressed to create ^green;augments, upgrades and specialist tools^reset;. When you get a chance, ^orange;Research^reset; into ^orange;Engineering^reset; and build one for me.",
-    "value": "如果没有^orange;改造台^reset;，你将很难^green;扩充，升级和特化工具^reset;。如果有机会，记得^orange;研究^reset;^orange;工程^reset;科学并试着建造一个。"
+    "value": "没有一张^orange;改造台^reset;，您将很难制作出^green;增强模块、升级件和专用工具^reset;。有机会的话，^orange;研究^reset;一下^orange;工程学^reset;，然后为我造一个出来。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Might I recommend starting with a ^orange;Mining Laser?^reset; They are truly effective tools to use for rapidly digging through dirt!",
-    "value": "为何我会建议从^orange;激光挖掘器^reset;着手？因为它确实是挖掘土块的高效工具！"
+    "value": "或许我可以推荐您先尝试使用从^orange;激光挖掘器^reset;开始？这确实是快速挖掘泥土的高效工具！"
   }
 ]

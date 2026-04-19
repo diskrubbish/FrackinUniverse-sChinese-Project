@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/default/default/0",
     "raw": "You shouldn't be seeing this.",
-    "value": "你不该看这玩意儿。"
+    "value": "你不应该看到这个。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/converse/novakid/default/0",
     "raw": "Howdy, stranger. You're after the bounty, aren't you? Hawkeye Hank's place is on the other side of the hill...his men are thick as thieves on it, though. You could fight your way through them, or you could make your way through the mines...choice's up to you. Just come back safely, okay?",
-    "value": "好奇。陌生人，你是冲‘鹰眼’而来的？他在山的另一边，他可是个狡猾的家伙，你可以随意选择前进的路线，希望你可以安全归来。"
+    "value": "嘿，陌生人，你是冲着赏金来的吧？鹰眼汉克的地盘就在山那头...不过他那帮手下可都是穿一条裤子的。你可以硬闯过去，或者走矿道绕行...怎么选随你。一定要平安回来，好吗？"
   }
 ]

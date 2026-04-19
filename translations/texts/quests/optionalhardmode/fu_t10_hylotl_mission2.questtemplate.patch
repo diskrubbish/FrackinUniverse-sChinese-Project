@@ -9,13 +9,13 @@
     "op": "replace",
     "path": "/text",
     "raw": "Hero visits the library! Right? Get events out of order sometimes. Kevin probably went there. Go look.",
-    "value": "英雄参观图书馆！对吗？偶尔会把事件弄错顺序。凯文可能去了那里。去看看。"
+    "value": "英雄造访图书馆！对吧？有时候事件顺序会乱。凯文可能去那儿了，去看看吧。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Artifact had energy signature, yus. Different. Encoded message. Kevin's. \"There was no Kevin.\" That's...concerning. Well...cookie trail.",
-    "value": "造物有能量签名，是的。不同的是。编码信息。凯文的。“此地无凯三百两。”  ...令人担忧。嗯... 饼干的痕迹。"
+    "value": "神器带有能量签名，是的。与众不同。加密信息。凯文的。“没有凯文这个人。”这...令人担忧。好吧...线索追踪。"
   },
   {
     "op": "replace",

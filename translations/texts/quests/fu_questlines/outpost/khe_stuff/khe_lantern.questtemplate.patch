@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "Hey, you. Mew lantern broke. Sad, sad mew. You found another for mew?",
-    "value": "嘿，你。喵的灯笼坏了。难过，难过喵。能为喵再弄一个喵？"
+    "value": "嘿，你。本喵的小灯笼坏了，好难过，好难过喵。你能再帮本喵找一个吗？"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Yay! Happy kitty! You can keep the old lantern. I got lots of those.",
-    "value": "好极了！猫猫快乐！你可以保留旧灯笼。我还有很多。"
+    "value": "太好了！猫猫快乐！你可以留着那个旧灯笼。我有很多这样的。"
   }
 ]

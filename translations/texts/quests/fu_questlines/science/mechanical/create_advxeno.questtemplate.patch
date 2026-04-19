@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "Can you out-science me? I doubt it. If you think you can, prove it by bringing me a completed ^orange;Advanced Xeno Lab^reset;!",
-    "value": "你能为我进行科学启蒙吗？我表示怀疑。如果你认为你可以，那就造出^orange;高级基因提取器^reset;来证明！"
+    "value": "你能在科学上超越我吗？我深表怀疑。若你自认有此能力，那就建一台完整的^orange;高级基因提取器^reset;来证明吧！"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Well...I guess that settles it. I suck. Since you bested me fair and square, have these ^orange;Tech Cards^reset;",
-    "value": "好吧...我想这样就解决了。既然你光明正大的击败了我，这些^orange;科技卡^reset;就给你了。"
+    "value": "好吧...看来这就是定局了。我认输了。既然你光明正大地赢了我，这些^orange;科技卡^reset;就归你了。"
   }
 ]

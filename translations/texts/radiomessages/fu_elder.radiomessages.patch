@@ -3,19 +3,19 @@
     "op": "replace",
     "path": "/eatingYourself/text",
     "raw": "Biting ones own body and eating it is probably not the best idea, sir. I don't suggest doing that again. Eventually you'll run out of pieces, and then what will you have left to eat? Also, now you're bleeding everywhere. Nicely done.",
-    "value": "先生，我不建议你吞噬自己的身体，因为你终究还是会把自己吃完，那时候你还剩什么呢？再说了，如今你已经血流不止，你应该停下这种毫无意义的行为。"
+    "value": "先生，咬自己的身体并吃掉它恐怕不是个好主意。建议您别再这么做了。毕竟，身体部位是有限的，吃完了还剩下什么呢？而且，您现在弄得四处都是血，真是干得漂亮。"
   },
   {
     "op": "replace",
     "path": "/pickupCthulhureward/text",
     "raw": "Whatever the hell this thing is, it reads unlike anything I have ever seen before. I literally get nothing when I try, yet it moves and pulses...",
-    "value": "无论这是什么，都不像是我所见过的任何事物。我尝试分析但确实没能得到任何有用信息。而且它仍然在搏动着..."
+    "value": "这鬼东西到底是什么，读起来跟我见过的任何东西都不同。我试着理解时简直一头雾水，可它却在动，还在脉动..."
   },
   {
     "op": "replace",
     "path": "/pickupElderaltar/text",
     "raw": "While I applaud your bravery even touching this altar, I would advise caution. It clearly is not a good thing. Perhaps some lore can shed light on how to use it...",
-    "value": "我建议你小心行事，尽管我十分钦佩你敢于触摸这令人感觉不妙的祭坛的勇气。也许从古老的传说中，我们可以了解它的奥秘..."
+    "value": "尽管我钦佩您敢于触碰这座祭坛的勇气，但我仍要提醒您小心行事。这显然不是什么好事。或许某些古老的传说能揭示如何正确使用它..."
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
     "op": "replace",
     "path": "/shoggothmission0/text",
     "raw": "I'll be with you during this investigation. I'm on vacation, but that doesn't mean I don't have to do my duty as director. It looks like you came in through their backup teleporter. Did something happen to the main?",
-    "value": "在调查期间，我会和你在一起。虽然我正在度假，但这并不意味着我不用承担指导你的职责。看起来你是通过他们的备用传送器进来的。这里发生了什么事情？"
+    "value": "这次调查我会全程陪同。虽然我在休假，但这并不意味着可以卸下总监的职责。看来您是通过他们的备用传送装置进来的，主传送器出什么问题了吗？"
   },
   {
     "op": "replace",
@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/shoggothmission1/text",
     "raw": "Not to worry, it's a short walk to the ^orange;Research Station^reset; down the cliff. Watch your step, it tends to be very icy there.",
-    "value": "别担心，距悬崖边的目标地点 ^orange;前哨站^reset; 的距离很近。在过去的时候请小心，冰面可能很滑。"
+    "value": "别担心，从悬崖下去到^orange;研究站^reset;的路程很短。小心脚下，那里通常结着冰，很滑。"
   },
   {
     "op": "replace",
@@ -51,7 +51,7 @@
     "op": "replace",
     "path": "/shoggothmission1a/text",
     "raw": "I'm picking up biological signatures. Stand by while I ^red;****^reset;...oh dear. The weather is interfering with our connection. If I can no longer reach you, SAIL can guide you.",
-    "value": "我在收集生物特征。当我在 ^red;****^reset; 时站在我旁边...天哪。天气干扰了我们之间的连接。如果一会我无法再联系到你，S.A.I.L.会指引你的。"
+    "value": "我正在接收生物信号。请稍候，我正尝试^red;****^reset;...糟糕。天气状况干扰了我们的连接。如果无法再联系到您，SAIL可以为您提供指引。"
   },
   {
     "op": "replace",
@@ -63,7 +63,7 @@
     "op": "replace",
     "path": "/shoggothmission2/text",
     "raw": "How odd! I can only recognize one signature from our database. I am also picking up readings that match nothing I've ^red;****^reset;. The connec^red;*** ***^reset;blems are ^red;****^reset; scans.",
-    "value": "这真奇怪！我只能根据数据库辨认出一个签名。我拿起了这本与我之前读过的 ^red;****^reset; 没有任何关系的书。这个连 ^red;*** ***^reset; 问题来 ^red;****^reset; 扫描器。"
+    "value": "真奇怪！我只能从数据库中识别出一个签名。我还检测到一些读数，与我所知的任何记录都不 ^red;****^reset;。连接 ^red;****^reset;导致扫描 ^red;****^reset;。"
   },
   {
     "op": "replace",
@@ -75,7 +75,7 @@
     "op": "replace",
     "path": "/shoggothmission3/text",
     "raw": "What in the world happened to this team? Where is everyone? Who broke the lock? Check everything you can.",
-    "value": "这个小队到底遇到了什么？大家在哪？谁破坏了门锁？检查你能看见的所有事物。"
+    "value": "这支队伍到底出了什么事？人都去哪儿了？谁把锁弄坏了？把所有能查的都查一遍。"
   },
   {
     "op": "replace",
@@ -87,7 +87,7 @@
     "op": "replace",
     "path": "/shoggothmissiongoretunnel/text",
     "raw": "Oh- oh no, this is horrible. I...we... *vomiting sounds*. We- we have to keep going. Find out what happened so it will never happen again.",
-    "value": "哦- 哦不！那太可怕了，我...我们... *呕吐声*. 我们- 我们必须继续前进。弄清楚这里发生了什么，并让它不再发生。"
+    "value": "哦 - 天哪，这太可怕了。我...我们...*呕吐声*。我们 - 我们必须继续前进。查明真相，确保这种事永远不会再发生。"
   },
   {
     "op": "replace",
@@ -99,7 +99,7 @@
     "op": "replace",
     "path": "/shoggothmission4/text",
     "raw": "There's a failsafe switch on the far wall of this room. It should override the main lab doors, which should give us access to the power breakers so we can see more clearly.",
-    "value": "这个房间的远处的墙上有一个安全开关。它应该能够控制实验室的主门，它能够让我们访问电源断路器，使我们能够看得更清楚。"
+    "value": "这个房间远端墙上有一个紧急备用开关。它能强制打开主实验室门，这样我们就能进入电源断路器区域，以便看得更清楚。"
   },
   {
     "op": "replace",
@@ -111,7 +111,7 @@
     "op": "replace",
     "path": "/shoggothmission5/text",
     "raw": "The power breakers are at the end of this corridor. Be careful in the dark, we don't know what's down there.",
-    "value": "电源断路器在这个走廊的尽头。在黑暗中请小心，我们不知道那里有什么东西。"
+    "value": "电源断路器在这条走廊的尽头。黑暗中请小心，我们不清楚下面有什么情况。"
   },
   {
     "op": "replace",
@@ -123,7 +123,7 @@
     "op": "replace",
     "path": "/shoggothmission6/text",
     "raw": "I understand you wanting to leave, and I whole-heartedly agree with you. As I said, however, check everything you can for clues. This can't happen again. I won't let it.",
-    "value": "我理解你想离开的想法，我真心地同意你。正如我说的那样，然而，调查所有的东西来寻找线索。那件事不会再发生了，我不会让它发生的。"
+    "value": "我明白您想离开，也完全理解您的决定。但正如我之前所说，请仔细检查所有可能的线索。这样的事绝不能再发生，我绝不会允许。"
   },
   {
     "op": "replace",
@@ -135,7 +135,7 @@
     "op": "replace",
     "path": "/shoggothmission7/text",
     "raw": "This blizzard is unrelenting. There are some tall cliffs up ahead. Use them for shelter from the wind if you need to. Our connection may fail soon, as well.",
-    "value": "这场暴风雪冷酷无情。前面有一些高高的悬崖。如果需要的话，你可以用它们挡风避雨。我们的连接也很快就会断开。"
+    "value": "这场暴风雪毫无停歇的迹象。前方有几处高耸的峭壁，必要时可以避风。我们的通讯可能很快也会中断。"
   },
   {
     "op": "replace",
@@ -147,7 +147,7 @@
     "op": "replace",
     "path": "/shoggothmission8/text",
     "raw": "Fascinating! A mutated form of ^red;*******^reset;, one I've never seen the likes of before. Be careful, though. They appear rabid, and may possess any number of terrible ^red;******^reset; diseases.",
-    "value": "迷人！一种 ^red;*******^reset; 的突变体，我以前从未见过它。要小心，它们看起来很疯狂。并可能携带任意数量的可怕的 ^red;******^reset; 疾病。"
+    "value": "真令人着迷！这是一种^red;*******^reset;的变异形态，我从未见过类似的存在。不过要小心，它们看起来异常狂躁，可能携带着多种可怕的^red;******^reset;疾病。"
   },
   {
     "op": "replace",
@@ -159,7 +159,7 @@
     "op": "replace",
     "path": "/shoggothmission9/text",
     "raw": "This pillar... this stone... We can't even be sure if this -is- stone. There aren't any similarities to known minerals within it. Continue onward, for the sake of our team and for science.",
-    "value": "这根支柱...这块石头...我甚至不能确定这到底是不是石头。它所含的物质与任何已知的矿物质都不符。我将继续前进，为了我的队伍和科学。"
+    "value": "这根石柱...这块石头...我们甚至无法确定它是否真的是石头。其内部结构与任何已知矿物都毫无相似之处。为了我们的团队，也为了科学，继续前进吧。"
   },
   {
     "op": "replace",
@@ -171,7 +171,7 @@
     "op": "replace",
     "path": "/shoggothmission10/text",
     "raw": "That can't be right. This has to be an error. Scans place the age of this place at somewhere around 1 billion years. I must know more. Keep going. I should ^red;***** *** ******^reset;!",
-    "value": "这不是对的。这必须是一个错误。扫描仪显示这个地方大约有10亿年的历史。我必须了解更多东西。继续前进，我应该 ^red;***** *** ******^reset;！"
+    "value": "这不可能。这一定是哪里出错了。扫描结果显示这个地方的年龄大约在10亿年左右。我必须了解更多。继续前进。我应该^red;***** *** ******^reset;！"
   },
   {
     "op": "replace",
@@ -183,7 +183,7 @@
     "op": "replace",
     "path": "/shoggothmission11/text",
     "raw": "This sculpture somewhat resembles ^red;********^reset;e Ruin. There are key differe^red;*******^reset; factors, of course. Some sort of ancient Ruin worship, perhaps?",
-    "value": "这个雕塑有点类似于 ^red;********^reset; 废墟中的。有一个关键地区别与 ^red;*******^reset; 的因素，当然，也许是某种古老的废墟崇拜？"
+    "value": "这座雕塑与^red;********^reset;遗迹有几分相似。当然，两者间存在关^red;*******^reset;异。或许，这源于某种对古代遗迹的崇拜？"
   },
   {
     "op": "replace",
@@ -195,7 +195,7 @@
     "op": "replace",
     "path": "/shoggothmission12/text",
     "raw": "What manner of ^red;*****^reset; is this, and what became of them? Nothing ever recorded matches this...thing. Whatever this place is, it will redefine galactic history.",
-    "value": "这是什么 ^red;*****^reset; 形态，他们是由什么变成的？没有任何记录与这个...东西相吻合。不管这是个什么地方，它都将改写宇宙的历史。"
+    "value": "这究竟是何种^red;*****^reset;，它们又遭遇了什么？从未有任何记载能与这....东西相匹敌。无论此地为何处，它都将重新定义宇宙的历史。"
   },
   {
     "op": "replace",
@@ -207,7 +207,7 @@
     "op": "replace",
     "path": "/shoggothmission13/text",
     "raw": "The storm is ^red;******^reset; ^red;******^reset;. My scanners are ^red;*bzzzzzzzzzz*^reset; and ^red;******^reset;. I am ^red;******^reset;.",
-    "value": "这里的风暴 ^red;******^reset; ^red;******^reset;。我的扫描仪 ^red;*bzzzzzzzzzz*^reset; 并且 ^red;******^reset;。 我 ^red;******^reset;。"
+    "value": "这里的风暴 ^red;******^reset; ^red;******^reset;。我的扫描仪 ^red;*滋滋滋滋滋*^reset; 并且 ^red;******^reset;。 我 ^red;******^reset;。"
   },
   {
     "op": "replace",
@@ -255,7 +255,7 @@
     "op": "replace",
     "path": "/shoggothmission16/text",
     "raw": "<you hear some sort of whispers in the dark>",
-    "value": "<你听到了黑暗中的某种私语>"
+    "value": "<你在黑暗中听到某种低语声>"
   },
   {
     "op": "replace",
@@ -267,7 +267,7 @@
     "op": "replace",
     "path": "/shoggothmission17/text",
     "raw": "<the whispers are growing louder>",
-    "value": "<耳语的声音变大了>"
+    "value": "<低语声正变得越来越响>"
   },
   {
     "op": "replace",
@@ -279,7 +279,7 @@
     "op": "replace",
     "path": "/shoggothmission18/text",
     "raw": "...ahf'- fm'latgh geb ehye chtenff k'yarnak...",
-    "value": "...ahf'- fm'latgh geb ehye chtenff k'yarnak...\n^blue;...燃烧信念，血脉同源...^reset;"
+    "value": "...ahf'- fm'latgh geb ehye chtenff k'yarnak...\n^blue;...须知汝之理性，即为终极之疯狂...^reset;"
   },
   {
     "op": "replace",
@@ -291,7 +291,7 @@
     "op": "replace",
     "path": "/shoggothmission19/text",
     "raw": "...kn'a lw'nafh nilgh'ri ooboshu phlegeth shtunggli...",
-    "value": "...kn'a lw'nafh nilgh'ri ooboshu phlegeth shtunggli...\n^blue;...随梦而生，质对访问...^reset;"
+    "value": "...kn'a lw'nafh nilgh'ri ooboshu phlegeth shtunggli...\n^blue;...凡有生命，皆注定踏上那条焚时灭宙的终末之途。...^reset;"
   },
   {
     "op": "replace",
@@ -303,7 +303,7 @@
     "op": "replace",
     "path": "/shoggothmission20/text",
     "raw": "ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn!",
-    "value": "ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn!"
+    "value": "ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn!\n^blue;在拉莱耶的宅邸中，长眠的克苏鲁候汝入梦！^reset;"
   },
   {
     "op": "replace",
@@ -315,7 +315,7 @@
     "op": "replace",
     "path": "/shoggothmission21/text",
     "raw": "Lagash ni'mofghek Shoggoth! IA! IA! IA!",
-    "value": "Lagash ni'mofghek Shoggoth! IA! IA! IA!"
+    "value": "Lagash ni'mofghek Shoggoth! IA! IA! IA!\n^blue;碾碎那血肉之躯吧，修格斯！Ia！Ia！Ia！^reset;"
   },
   {
     "op": "replace",
@@ -327,7 +327,7 @@
     "op": "replace",
     "path": "/shoggothmission22/text",
     "raw": "^orange;-ONLINE-^reset; You're ALIVE! I thought for certain you were dead! What did you discover about the temple, and what happened to our team? Report to me as soon as you can with your findings.",
-    "value": "^orange;-在线-^reset; 你还活着！我确信你已经死了！你在这里发现了什么？我们的队伍出了什么事？尽快向我报告你的发现。"
+    "value": "^orange;-在线-^reset; 你还活着！我一度确信您已经遇难了！关于那座神庙，您发现了什么？我们的队伍遭遇了什么情况？请尽快向我汇报您的发现。"
   },
   {
     "op": "replace",
@@ -339,7 +339,7 @@
     "op": "replace",
     "path": "/shoggothmissionshootdoor/text",
     "raw": "Oh my. The lock was destroyed. Perhaps you could try blasting the door open with an explosiv^red;***** ** ****^reset;? There seems to be little other choice. Hurry, a ^red;****^reset; storm is coming!",
-    "value": "我的天。这把门锁被损坏了。也许你可以试着用炸 ^red;***** ** ****^reset; 把门炸开？似乎没有其他选择了。快点！有一 ^red;****^reset; 风暴要来了！"
+    "value": "天哪，锁被毁坏了。或许您可以试试用爆^red;***** ** ****^reset;把门炸开？看来没有其他选择了。快点，一^red;****^reset;风暴就要来了！"
   },
   {
     "op": "replace",
@@ -351,7 +351,7 @@
     "op": "replace",
     "path": "/shoggothmissionmicrosphere/text",
     "raw": "The path seems to be blocked. Oh, there's a small tunnel that seems to lead somewhere. Perhaps a Translocator or a Microsphere tech would do the trick.",
-    "value": "这条路被堵住了。哦！这有一个好像能通到某个地方的小地道，也许传送枪和微型球能帮到你。"
+    "value": "这条路似乎被堵住了。哦，这里有个小隧道，看起来通往某个地方。也许传送枪和微型球科技能派上用场。"
   },
   {
     "op": "replace",
@@ -363,7 +363,7 @@
     "op": "replace",
     "path": "/shoggothmissionvinwagner/text",
     "raw": "MacReady! What happened to him? What's on his face? That thing seems to be influencing him. I hate to encourage this, but please defend yourself. Put him out of his misery for his sake.",
-    "value": "麦克雷迪！他怎么了？他脸上的那个东西是什么？那个东西似乎在影响他。我讨厌这么说，但请保护好你自己。请为他着想，结束他的痛苦。"
+    "value": "麦克雷迪！他怎么了？他脸上是什么东西？那玩意儿好像在影响他。虽然我不鼓励这样，但请保护好自己。为了他好，让他解脱吧。"
   },
   {
     "op": "replace",
@@ -375,7 +375,7 @@
     "op": "replace",
     "path": "/shoggothmissionlore/text",
     "raw": "Secret knowledge! We should search these shelves and ^red;**** **^reset; anything we find. Who knows what useful information or ancient ^red;**** *****^reset;we might uncover in the process!",
-    "value": "秘密的知识！我们应该搜索这些架子和 ^red;**** **^reset; 我们发现的任何东西。谁知道什么有用的信息或者古老的 ^red;**** *****^reset; 能在这个过程中被我们发现。"
+    "value": "秘密情报！我们应该搜查这些书架，把找到的东西都^red;**** **^reset;。谁知道在这个过程中，我们可能会发现什么有用的信息或古老的^red;**** *****^reset;！"
   },
   {
     "op": "replace",
@@ -387,6 +387,6 @@
     "op": "replace",
     "path": "/shoggothmissionlore2/text",
     "raw": "Perhaps check the books on the shelves for a hint. You may need that to progress, and look for similar things in further rooms.",
-    "value": "也许你可以从书架里的书中获得提示。想要前进，你或许需要这些提示。在接下来的房间中也这么做。"
+    "value": "或许可以查看书架上的书籍寻找线索。你可能需要它来推进进程，并在后续房间中留意类似的事物。"
   }
 ]

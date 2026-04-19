@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Debug tool to print clock stuffs to log.",
-    "value": "用于将时钟内容打印至日志的调试工具"
+    "value": "调试工具，用于将时钟相关信息打印到日志中。"
   },
   {
     "op": "replace",

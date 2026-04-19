@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "Why do they hate Kevin?",
-    "value": "他们为什么这么讨厌凯文？"
+    "value": "他们为什么讨厌凯文？"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "I need to remind someone they aren't young and attractive anymore. Can you make me a ^orange;Booster Croptop^reset; that I can mail them? You can make one on a ^green;Sewing Wheel^reset;! I'll pay you.",
-    "value": "我想委婉地提醒某个又老又没吸引力的人。你能在^green;纺车^reset;上给我制作一个^orange;增强铠甲^reset;吗？我会付钱的！"
+    "value": "我得提醒下某些人，他们已不再年轻貌美。你能帮我做一件^orange;增强上衣^reset;寄给他们吗？用^green;缝纫机^reset;就能做！我会付钱给你的。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Now for phase two! She'll never see it coming! Thanks for the help. Take this awesome briefcase. Don't open it here, or everyone will get ^green;super jealous^reset; and try to steal it. Trust me.",
-    "value": "现在到第二步了！她永远不会见到它的！谢谢你的帮助。带上这个牛逼的手提箱。不过不要在这里打开它，否则所有人会^green;超级嫉妒^reset; 你并试图偷走它！相信我。"
+    "value": "第二阶段开始！她绝对想不到！多谢帮忙。这个超酷的手提箱给你。别在这儿打开，不然大家都会^green;眼红^reset;得想抢走它。相信我。"
   }
 ]

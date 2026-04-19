@@ -3,108 +3,108 @@
     "op": "replace",
     "path": "/pickupPrism/text",
     "raw": "^orange;Prism shards^reset; are a sort of ^orange;crystal/metal hybrid^reset; capable of being forged into a variety of handy equipment. You can work it into some ^green;unique and unusual gear^reset;.",
-    "value": "^orange;棱镜碎片^reset;是一种^orange;晶体与金属的混合物质^reset;，它不仅可以锻造成各种有用的设备，还可以做成一些^green;独特的装备^reset;。"
+    "value": "^orange;棱镜碎片^reset;是一种^orange;晶体与金属的混合体^reset;，能够被锻造成多种实用装备。你可以用它打造出^green;独特而别具一格的器具^reset;。"
   },
   {
     "op": "replace",
     "path": "/pickupMoonstone/text",
     "raw": "^orange;Telebrium^reset; is a strange crystal that ^green;conducts energy^reset; and can ^green;withstand concussive force^reset;. This makes it ideal for many purposes.",
-    "value": "^orange;特勒贝晶体^reset;是一种特性奇特的晶体，它能传递能量，而且它的耐冲击性非常强，这使得它的用途格外广泛。"
+    "value": "^orange;特勒贝^reset;是一种奇特的晶体，能够^green;传导能量^reset;并^green;承受冲击力^reset;，因此非常适合多种用途。"
   },
   {
     "op": "replace",
     "path": "/pickupLead/text",
     "raw": "^orange;Lead^reset; has a variety of uses but is also ^green;toxic to carbon-based life^reset; so be sure to handle it with care. If a friend says lead-juice is tasty, they are a liar. Avoid them.",
-    "value": "^orange;铅^reset;具有广泛的用途，但是对碳基生物而言，它是一种^green;有毒物质^reset;，所以请在处理时务必小心。如果你的朋友说铅汁是美味的，那么他就是一个大骗子，请和他绝交。"
+    "value": "^orange;铅^reset;有多种用途，但对^green;碳基生命体具有毒性^reset;，务必小心处理。如果有朋友说铅汁美味，那他们是在撒谎，请远离这样的人。"
   },
   {
     "op": "replace",
     "path": "/pickupIrradium/text",
     "raw": "Highly radioactive, ^orange;irradium^reset; was thought unharnessable at one point. But thanks to advancements it can be made inert to the user. I suggest using it as a ^green;barrier against the elements^reset;.",
-    "value": "^orange;镭矿^reset;的特点在于其惰性和超高的放射性。你可以利用其惰性研究出^green;某些阻挡分子结构的护盾^reset;。"
+    "value": "^orange;铱射钢^reset;曾因其高放射性而被认为无法利用。但随着技术进步，现已能使其对使用者无害。我建议将其用作^green;抵御元素的防护屏障^reset;。"
   },
   {
     "op": "replace",
     "path": "/pickupSivite/text",
     "raw": "^orange;Sivite^reset; can be ^green;smelted or extracted^reset; to obtain the useful resources contained within. While not essential, it will be quite handy to have around.",
-    "value": "^orange;闪银石^reset;可以通过熔炼或萃取以获得^green;更有用的资源^reset;。虽然它并非必不可少的矿物，但我建议你还是收集一些为好。"
+    "value": "^orange;闪银石^reset;可通过^green;熔炼或提炼^reset;获取其中所含的有用资源。虽然并非必需品，但随身携带会相当便利。"
   },
   {
     "op": "replace",
     "path": "/pickupProtocite/text",
     "raw": "^orange;Protocite is a resource unique to Proto Worlds^reset;. It is rich in energy, and capable of being hardened into an alloy or ^green;liquefied for powering goods^reset;. Its value is high.",
-    "value": "^orange;原体矿是^reset;原毒世界的一种独有资源。它富含能量，能够硬化成合金，或者^green;在液化后为电子设备提供电力^reset;。它有着很高的价值。"
+    "value": "^orange;原体石是原毒世界独有的资源^reset;。它富含能量，既能被硬化成合金，也可^green;液化用于驱动物品^reset;，价值极高。"
   },
   {
     "op": "replace",
     "path": "/pickupCarbon/text",
     "raw": "^orange;Carbon^reset; is quite abundant, but that doesn't mean it has no use. Carbon is ^green;essential, and can produce things like Graphene^reset;. You want it.",
-    "value": "^orange;碳^reset;随处可见，但并不代表它没有用途，其实在科研中，它是最基础也是最重要的材料之一，可以制造出类似于^green;石墨烯^reset;这样的高级材料。"
+    "value": "^orange;碳^reset;虽然相当丰富，但这并不意味着它毫无用处。碳^green;至关重要，能够制造出像石墨烯这样的材料^reset;。你确实需要它。"
   },
   {
     "op": "replace",
     "path": "/pickupCinnabar/text",
     "raw": "^orange;Cinnabar^reset; is most useful for obtaining the ^green;mercury within^reset; it. This particular variety is extremely rare, with 99% or greater purity.",
-    "value": "^orange;朱砂^reset;最大的用处在于可以制造出^green;汞^reset;。这种纯度接近于99%甚至更高的特殊物质非常罕见！"
+    "value": "^orange;朱砂^reset;的主要价值在于从中^green;提取汞^reset;。这种高纯度品种极为罕见，其纯度可达99%以上。"
   },
   {
     "op": "replace",
     "path": "/pickupCorruption/text",
     "raw": "^orange;Lasombrium^reset; exists in dimensional flux and is out of phase with this universe. ^green;Its exact nature is unknown^reset;, but it taints any life it touches here.",
-    "value": "^orange;混乱原生质^reset;存在于不稳定空间，且超出了这个宇宙的维度。^green;它的确切性质无人知晓^reset;，唯一已知的是它会感染接触过的任何生物。"
+    "value": "^orange;熵影金^reset;存在于维度流变之中，与当前宇宙相位错位。^green;其确切本质尚不明确^reset;，但任何被其触及的生命体都会受到污染。"
   },
   {
     "op": "replace",
     "path": "/pickupDensinium/text",
     "raw": "The most ^green;dense and unbreakable^reset; naturally occurring ore that is currently known to science. ^orange;Densinium^reset; is quite rare, leading to an absurd market value.",
-    "value": "^orange;超致密矿^reset;是宇宙中已知的^green;致密度极高、坚不可摧^reset;的天然矿物，由于它极其罕见，所以在矿物交易市场上有着不合理的高价。"
+    "value": "目前科学界已知^green;密度最高、最坚硬^reset;的天然矿石。^orange;坚密钢^reset;极为稀有，因此其市场价值高得离谱。"
   },
   {
     "op": "replace",
     "path": "/pickupGraphene/text",
     "raw": "The protective ability of ^orange;graphene^reset; is astounding. A ^green;single atom thick^reset;, it also conducts energy very well and acts as a capacitor.",
-    "value": "^orange;石墨烯^reset;不仅有着惊人的防护能力，由于它是^green;只有一个碳原子厚度^reset;的二维材料，所以可以作为更好的传输能源的材料，并且也可以作为超级电容。"
+    "value": "^orange;石墨烯^reset;的保护能力令人惊叹。它^green;仅有一个原子厚度^reset;，却具备优异的能量传导性，同时还能充当电容器。"
   },
   {
     "op": "replace",
     "path": "/pickupSulphur/text",
     "raw": "Abundant and simple to find, ^orange;sulphur^reset; is important for numerous applications. Its primary use is in ^green;fertilizers^reset;.",
-    "value": "^orange;硫磺^reset;的储量极其丰富，在许多研究中它都是极为重要的物质。它主要用于制作肥料。"
+    "value": "^orange;硫磺^reset;资源丰富且易于获取，在众多应用领域中至关重要，其主要用途是制造^green;化肥^reset;。"
   },
   {
     "op": "replace",
     "path": "/pickupMagnesium/text",
     "raw": "^orange;Magnesium^reset; is a relatively common resource that you'll be needing ^green;quite a fair amount of^reset; to run a successful biology lab. ^orange;Magnesite^reset; is one source. It can be ^orange;smelted or extracted^reset;.",
-    "value": "^orange;镁^reset;是一种常见资源，它可以^orange;用于冶炼或者萃取^reset;。如果你想让你生化实验更出色，就请多多的收集。"
+    "value": "^orange;镁^reset;是一种相对常见的资源，在成功运营生物实验室的过程中，你将需要^green;相当数量^reset;的镁。^orange;菱镁矿^reset;是其主要来源之一，可通过^orange;冶炼或提取^reset;方式获得。"
   },
   {
     "op": "replace",
     "path": "/pickupMascagnite/text",
     "raw": "^orange;Mascagnite^reset; is readily available in most biomes and can be ^green;smelted or extracted^reset; at your leisure for different results.",
-    "value": "^orange;铵矾^reset;在大多数星球中都可以找到，你可以试着^green;熔炼或者萃取^reset;。"
+    "value": "^orange;铵矾^reset;在大多数生态群落中都很常见，你可以随时^green;熔炼或萃取^reset;它，以获得不同的产物。"
   },
   {
     "op": "replace",
     "path": "/pickupPenumbrite/text",
     "raw": "^orange;Penumbrite^reset; is a most unusual glowing metal. It is found ^green;naturally on Penumbra planets^reset; and few other locales. Acquire it and guard it jealously.",
-    "value": "^orange;半影矿^reset;是最不寻常的发光矿物。它主要存在于^green;半影星球^reset;。得到它，让人们嫉妒你吧。"
+    "value": "^orange;半影石^reset;是一种极为罕见的发光金属，主要^green;自然形成于半影行星^reset;及少数其他特殊地带。获取后务必珍视并严密守护。"
   },
   {
     "op": "replace",
     "path": "/pickupQuietus/text",
     "raw": "^orange;Quietus^reset; is useful for smooth, ^green;exceptionally sleek weapons and armor^reset;. Do not, however, get any in cuts due to potential toxins.",
-    "value": "^orange;寂灭矿^reset;是非常有效的打磨材料，通过它可以^green;使武器和护甲更为强力^reset;。不过，由于它是有毒物质，在处理时请小心！"
+    "value": "^orange;寂灭矿^reset;适用于打造光滑、^green;异常精致的武器与盔甲^reset;。但请注意，切勿让其接触伤口，以防潜在毒素侵入。"
   },
   {
     "op": "replace",
     "path": "/pickupSolari/text",
     "raw": "This ^orange;lunari crystal^reset; shines with the light of a yellow sun, and possesses ^green;strange qualities^reset; that bestow strange properties to metals and plastics.",
-    "value": "^orange;月晶碎片^reset;会散发出黄色的光芒，由于它^green;奇怪的特性^reset;，可以进一步制造出各种奇特的金属或塑料。"
+    "value": "这块^orange;月晶^reset;闪耀着如黄日般的光芒，其^green;奇异特质^reset;能赋予金属与塑料非同寻常的特性。"
   },
   {
     "op": "replace",
     "path": "/pickupZerchesium/text",
     "raw": "Slightly ^green;harder than tungsten^reset;, ^orange;Zerchesium^reset; is also revered for its ability to manipulate explosive force with ease.",
-    "value": "^orange;极熔金矿^reset;的硬度比^green;钨^reset;还要高，因其能轻易抵抗爆炸而广受推崇。"
+    "value": "比^green;钨稍硬一些^reset;，^orange;极熔金^reset;因其能轻松操控爆炸力而备受推崇。"
   }
 ]

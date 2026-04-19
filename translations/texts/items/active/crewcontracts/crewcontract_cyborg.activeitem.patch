@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Hires a deadly cyborg. Increases ship speed by 1.25 and grants ^pink;Aether Immunity^reset;.",
-    "value": "雇用一名致命的半机械体，提高1.25的飞船行驶速度，并赋予你^pink;以太免疫^reset;。"
+    "value": "雇用一名致命的赛博格，提高1.25的飞船行驶速度，并赋予你^pink;以太免疫^reset;。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Cyborg Contract",
-    "value": "合同：半机械体"
+    "value": "合同：赛博格"
   }
 ]

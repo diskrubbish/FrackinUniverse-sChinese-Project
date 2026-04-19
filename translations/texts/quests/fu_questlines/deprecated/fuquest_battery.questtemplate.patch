@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Fuel Your Power",
-    "value": "充能完毕"
+    "value": "充你电"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "You don't need batteries, but they will be extremely useful. Create a ^orange;Basic Battery^reset; in your ^orange;Electronics Center^reset; to try one out.",
-    "value": "你可能现在不需要，但以后电池一定会很有用。在你的^orange;电子设备制造器^reset;制造一个^orange;基础电池^reset;，来试一试吧。"
+    "value": "你不需要电池，但它们会非常有用。在你的^orange;电子设备制造器^reset;处制作一个^orange;基础电池^reset;来试试看。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Once you place it, use your ^orange;Wiring Tool^reset; to link to a ^green;generator^reset; to a ^blue;blue node^reset; on your battery.",
-    "value": "当你要给电池充电的时候，使用你的^orange;接线工具^reset;把^green;发电机^reset;与^blue;电池上的蓝色节点^reset;连接在一起。"
+    "value": "放置好后，请使用^orange;接线工具^reset;将^green;发电机^reset;连接到电池上的^blue;蓝色节点^reset;。"
   }
 ]

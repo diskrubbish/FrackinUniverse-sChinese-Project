@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Quint Jump",
-    "value": "六段跳"
+    "value": "五段跳"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "Using some fancy ancient tech a ^orange;Quint Jump^reset; schematic was revealed to me. I should ^orange;be able to jump 5 times^reset; rather than once or twice!",
-    "value": "某个古老的装置向我展示了一种奇特的古老科技：^orange;六段跳^reset;，我现在应该可以^orange;连跳六次^reset;。"
+    "value": "借助某种奇妙的古老技术，我眼前浮现出一幅^orange;五段跳^reset;的蓝图。这下我不仅能跳一次两次，而是^orange;能连续跳跃五次^reset;了！"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Using some fancy ancient tech a ^orange;Quint Jump^reset; schematic was revealed to me. I should ^orange;be able to jump 5 times^reset; rather than once or twice!",
-    "value": "某个古老的装置向我展示了一种奇特的古老科技：^orange;六段跳^reset;，我现在应该可以^orange;连跳六次^reset;。"
+    "value": "借助某种奇妙的古老技术，我眼前浮现出一幅^orange;五段跳^reset;的蓝图。这下我不仅能跳一次两次，而是^orange;能连续跳跃五次^reset;了！"
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Siphons light and ^orange;converts it to food^reset; when extended.",
-    "value": "当它伸出的时候带有虹吸灯且可以^orange;转换为食物^reset;"
+    "value": "伸展时吸收光线，并将其^orange;转化为养分^reset;。"
   },
   {
     "op": "replace",

@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "Astounding stopping power.",
-    "value": "惊人的制动力。"
+    "value": "惊人的制动性能。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Fellshot Revolver",
-    "value": "强力左轮手枪"
+    "value": "“落弹”左轮手枪"
   },
   {
     "op": "replace",
@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Revolver...evolved.\n^cyan;+1 projectile^reset;",
-    "value": "左轮手枪……进化。\n^cyan;弹药数+1^reset;"
+    "value": "“左轮”一转，时代已变。\n^cyan;+1射弹^reset;"
   },
   {
     "op": "replace",
@@ -33,6 +33,6 @@
     "op": "replace",
     "path": "/upgradeParameters2/description",
     "raw": "Open many large holes in your foes.\n^cyan;+2 projectile^reset;",
-    "value": "在你的敌人身上开洞。\n^cyan;弹数+2^reset;"
+    "value": "在你的敌人身上开洞。\n^cyan;+2射弹^reset;"
   }
 ]

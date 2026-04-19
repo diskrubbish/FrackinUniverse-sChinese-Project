@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/text",
     "raw": "If you have spare ^orange;Dirt^reset;...and you certainly will...^green;why not extract it^reset;? You'll get something useful for 50 ^orange;Dirt^reset;.",
-    "value": "如果你有多余的^orange;土块^reset;...你肯定会...^green;为什么不把它萃取了^reset;? 你会得到相当于50份^orange;土块^reset;价值的东西。"
+    "value": "如果你有多余的^orange;土块^reset;....而且你肯定会有...^green;何不将其萃取呢^reset;？用50份^orange;土块^reset;，你就能换得一些有用的东西。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "See? Not so hard. Let's move on, shall we?",
-    "value": "看到了吗？这并不困难。让我们继续下一步，好吗？"
+    "value": "看吧？没那么难。我们继续，好吗？"
   }
 ]

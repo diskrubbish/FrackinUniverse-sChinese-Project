@@ -9,13 +9,13 @@
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
     "raw": "^#b9b5b2; Select your destination",
-    "value": "^#b9b5b2; 选择你的目的地"
+    "value": "^#b9b5b2;选择你的目的地"
   },
   {
     "op": "replace",
     "path": "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value",
     "raw": "Planet Name",
-    "value": "星球名称"
+    "value": "星球名"
   },
   {
     "op": "replace",
@@ -57,7 +57,7 @@
     "op": "replace",
     "path": "/gui/jumpDialog/children/title/value",
     "raw": "Confirm FTL",
-    "value": "迁跃界面"
+    "value": "确认超光速航行"
   },
   {
     "op": "replace",
@@ -75,7 +75,7 @@
     "op": "replace",
     "path": "/gui/coordinatesFrame/children/go/caption",
     "raw": "GO",
-    "value": "GO"
+    "value": "出发"
   },
   {
     "op": "replace",
@@ -117,19 +117,19 @@
     "op": "replace",
     "path": "/gui/transitLabel/value",
     "raw": "SHIP IN TRANSIT",
-    "value": "飞船正在迁跃中"
+    "value": "跃迁中"
   },
   {
     "op": "replace",
     "path": "/gui/systemName/value",
     "raw": "SYSTEM NAME",
-    "value": "星系名"
+    "value": "系统名"
   },
   {
     "op": "replace",
     "path": "/gui/bookmarksFrame/children/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value",
     "raw": "Bookmark Name",
-    "value": "标签名称"
+    "value": "标签名"
   },
   {
     "op": "replace",
@@ -147,7 +147,7 @@
     "op": "replace",
     "path": "/gui/jumpDialog/children/text/value",
     "raw": "FTL travel will consume ^green;%s fuel^reset;.\nConfirm to proceed.",
-    "value": "迁跃将消耗^green;%i^reset;单位燃料。\n请再次确认是否进行迁跃。"
+    "value": "超光速航行将消耗^green;%s燃料^reset;。\n点击确认以继续。"
   },
   {
     "op": "replace",
@@ -165,37 +165,37 @@
     "op": "replace",
     "path": "/gui/clusterinfo/children/inner/children/name/value",
     "raw": "THIS IS A CLUSTER",
-    "value": "这是一个星系"
+    "value": "这是个集群"
   },
   {
     "op": "replace",
     "path": "/gui/clusterinfo/children/inner/children/moons/value",
     "raw": "MANY MOONS",
-    "value": "多卫星"
+    "value": "很多卫星"
   },
   {
     "op": "replace",
     "path": "/gui/objectinfo/children/inner/children/name/value",
     "raw": "SPACE OBJECT",
-    "value": "空间站"
+    "value": "空间对象"
   },
   {
     "op": "replace",
     "path": "/gui/objectinfo/children/inner/children/description/value",
     "raw": "THIS IS A VERY NICE SPACE OBJECT",
-    "value": "这是一个非常棒的空间站"
+    "value": "这是个非常好的空间对象"
   },
   {
     "op": "replace",
     "path": "/gui/objectinfo/children/inner/children/threat/value",
     "raw": "REQUIRES MECH TO DEPLOY",
-    "value": "需要机甲才能降落"
+    "value": "需要机甲以部署"
   },
   {
     "op": "replace",
     "path": "/gui/systeminfo/children/inner/children/type/value",
     "raw": "STAR TYPE",
-    "value": "恒星类型"
+    "value": "星球类型"
   },
   {
     "op": "replace",
@@ -207,19 +207,19 @@
     "op": "replace",
     "path": "/gui/systeminfo/children/inner/children/planetList/schema/listTemplate/type/value",
     "raw": "PLANET TYPE",
-    "value": "星球类型"
+    "value": "星球种类"
   },
   {
     "op": "replace",
     "path": "/gui/planetinfo/children/inner/children/name/value",
     "raw": "THIS IS A PLANET",
-    "value": "这是一颗星球"
+    "value": "这是个星球"
   },
   {
     "op": "replace",
     "path": "/gui/planetinfo/children/inner/children/description/value",
     "raw": "DESCRIPTION OF THIS PLANET",
-    "value": "这颗星球的描述"
+    "value": "此星球的描述"
   },
   {
     "op": "replace",
@@ -231,7 +231,7 @@
     "op": "replace",
     "path": "/gui/planetinfo/children/inner/children/ores/value",
     "raw": "Geological Analysis",
-    "value": "地质资源分析"
+    "value": "地质分析"
   },
   {
     "op": "replace",
@@ -243,13 +243,13 @@
     "op": "replace",
     "path": "/gui/remoteTitle/value",
     "raw": "REMOTE SYSTEM VIEW",
-    "value": "星图远观界面"
+    "value": "远程系统视图"
   },
   {
     "op": "replace",
     "path": "/gui/remoteDescription/value",
     "raw": "UNMAPPED CELESTIAL OBJECTS UNAVAILABLE",
-    "value": "未探索过的星系无法获取到其资料"
+    "value": "未映射的天体不可用"
   },
   {
     "op": "replace",
@@ -279,13 +279,13 @@
     "op": "replace",
     "path": "/fu_text/notOnOwnShip",
     "raw": "ONLY USABLE ON YOUR OWN SHIP",
-    "value": "非拥有者无权运行"
+    "value": "仅限自己的飞船上使用"
   },
   {
     "op": "replace",
     "path": "/fu_text/noSystemTravel",
     "raw": "Unable to use FTL capabilities, please install a proper FTL drive",
-    "value": "无法使用FTL功能，请安装合适的FTL引擎"
+    "value": "无法使用超光速功能，请安装合适的FTL引擎"
   },
   {
     "op": "replace",
@@ -303,7 +303,7 @@
     "op": "replace",
     "path": "/planetInfoBox/bookmarkButtonCaption/disabled",
     "raw": "CANNOT BOOKMARK",
-    "value": "无法添加标签"
+    "value": "无法标签"
   },
   {
     "op": "replace",
@@ -333,7 +333,7 @@
     "op": "replace",
     "path": "/objectInfoBox/bookmarkButtonCaption/disabled",
     "raw": "CANNOT BOOKMARK",
-    "value": "无法添加标签"
+    "value": "无法标签"
   },
   {
     "op": "replace",
@@ -357,889 +357,889 @@
     "op": "replace",
     "path": "/visitableTypeDescription/garden/0",
     "raw": "^#76fe68;Lush ^reset;foothills mark this landing location. Both flora and fauna are abundant here. A beam site of immeasurable safety.",
-    "value": "这是一颗^#76fe68;葱郁^white;星球，这里有着丰富的动植物。扫描发现这上面非常的安全，如果你打算登陆，还可以顺便带个野餐篮。"
+    "value": "^#76fe68;葱郁的^reset;山麓标志着此着陆点。此地动植物极为丰富。一处安全系数无可估量的着落场。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/garden/1",
     "raw": "The beam site is located in a tranquil area of great bio-diversity. There are resources here that you could use. A ^#76fe68;lush ^reset;and pleasant land.",
-    "value": "这颗星球生机盎然，宁静宜人，另外这里基础资源丰富，你可以试着来度个假什么的。总而言之，这里是一个^#76fe68;葱郁^white;宜居的星球。"
+    "value": "着陆点位于一片生物多样性丰富且宁静的区域。此处存在可供利用的资源。一片^#76fe68;葱郁^reset;宜人的土地。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/garden/2",
     "raw": "Readings indicate the landing site is not unfavourable - the area is safe, and lavish with both flora and fauna. A ^#76fe68;lush ^reset;and hospitable place.",
-    "value": "扫描发现这颗星球非常的安全，动植物都非常丰富，这里是一个^#76fe68;葱郁^white;友善的地方。"
+    "value": "扫描读数表明该着陆点并非不利 - 此区域安全，且动植物资源丰富。一片^#76fe68;葱郁^reset;而适宜驻留的土地。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/forest/0",
     "raw": "Densely colonized by trees and other flora, this ^#15ce02;forest ^reset;landing site is a hospitable location that supports a diversity of life - potentially including your own.",
-    "value": "由密集的树木及其他植物占领，这个^#15ce02;森林^white;着陆点是个拥有生物多样化(—也包括你)的地区。"
+    "value": "此处被树木及其他植物群落密集占据，这处^#15ce02;森林^reset;着陆点是一个适宜的环境，支持着多样的生命形式 - 或许，其中也包括你。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/forest/1",
     "raw": "Leafy trees abound in this ^#15ce02;forest ^reset;location. The area is hospitable to life, my database indicates that you may encounter woodland creatures.",
-    "value": "多叶树木环绕着这个^#15ce02;森林^white;。这个地方欢迎生命，我的数据库显示你可能遇到林地生物。"
+    "value": "此处^#15ce02;森林^reset;地带遍布阔叶林木。该区域适宜生命栖息，据我数据库显示，你或许会遇见林地生物。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/forest/2",
     "raw": "Your beam site for this planet is located in a ^#15ce02;forest^reset;. Readings indicate that this wooded area is relatively tranquil.",
-    "value": "你在这个星球的登陆点位于^#15ce02;森林^white;中。扫描显示这里充满了静谧，非常适合休憩。"
+    "value": "你在此星球的传送点位于一片^#15ce02;森林^reset;中。扫描读数显示，该林区氛围相对宁静。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/desert/0",
     "raw": "There is limited flora here on this ^#e6c801;desert^reset;, but the location does support life. ^red;Hot days, cool nights^reset;.",
-    "value": "只有为数不多的植物能在这片^#e6c801;沙漠^white;中生存，不过这里的确孕育着生命。这里白天^red;酷热^reset;，夜晚^blue;寒冷^reset;。"
+    "value": "此片^#e6c801;沙漠^reset;植被有限，但该地确实孕育着生命。^red;日间炎热，夜间凉爽^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/desert/1",
     "raw": "A ^#e6c801;desert^reset; area populated by cacti, as well as various animal life. A relatively safe landing site, so long as you avoid the sandstorms. ^red;Quite warm^reset;.",
-    "value": "这片气候^red;暖暖^reset;的^#e6c801;沙漠^white;中生长有仙人掌，就连动物也能在此生存。只要你避开沙尘暴，一切都很安全。"
+    "value": "一片^#e6c801;沙漠^reset;区域，栖息着仙人掌及多种动物。一处^red;相当温暖^reset;且相对安全的着陆点，前提是避开沙尘暴。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/desert/2",
     "raw": "Sand. Readings indicate sand. Also some cacti... but predominantly sand. This ^#e6c801;desert^reset; is ^red;uncomfortably warm^reset; but rich in resources.",
-    "value": "沙子。扫描发现这片^#e6c801;沙漠^white;全是沙子。虽然还有一些仙人掌...但还是基本上全是沙子。虽然这里的温度有些让人^red;不适^reset;，但是这里资源非常丰富。"
+    "value": "沙。扫描显示是沙。还有一些仙人掌...但主要还是沙。这片^#e6c801;沙漠^reset;^red;温暖得令人不适^reset;，但资源丰富。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/snow/0",
     "raw": "This chilly landing site is laden with ^#69f1fd;snow^reset;. Sundry trees grow here and various animals also thrive in the cold conditions. An excellent place to make snowballs.",
-    "value": "这是一个寒冷的星球，上面到处都是^#69f1fd;雪^white;。各种耐寒的植物和动物在这里繁衍生息。另外，这真是个打雪仗的好地方！"
+    "value": "此寒冷着陆点覆满^#69f1fd;积雪^reset;。各种树木在此生长，多种动物亦于严寒中繁盛。一个制作雪球的绝佳场所。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/snow/1",
     "raw": "The landing location is cold, but not perilously so. ^#69f1fd;Snow^reset; covers the area and blizzards are a possibility. A hat and gloves may be advisable.",
-    "value": "登陆点有些冷，但还不至于造成致命。整个星球都被^#69f1fd;雪^white;所覆盖，暴风雪是最常见的天气。"
+    "value": "着陆点寒冷，但尚不致命。^#69f1fd;积雪^reset;覆盖该区域，且可能出现暴风雪。建议佩戴帽子与手套。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/snow/2",
     "raw": "This location is relatively chill, and ^#69f1fd;snow^reset; lies thickly on the ground. My sensors indicate that there are critters scampering through the soft blanket of white.",
-    "value": "这颗星球相对于普通星球来说有些冷，上面有着厚厚的^#69f1fd;雪^white;。我的传感器显示有小动物在这片柔软的白色雪毯上窜来窜去。"
+    "value": "此处相对寒冷，^#69f1fd;积雪^reset;厚覆地面。传感器显示有小动物正窜行于柔软的白色雪毯之中。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/savannah/0",
     "raw": "The landing site is situated in an area of ^#ffe21d;dry grassland ^reset;that is hot and prone to dust storms. It is neither especially pleasant, nor especially dangerous.",
-    "value": "降落地点位于既热又容易出现沙尘暴的^#ffe21d;干草地^white;。既不是特别舒适，也不是特别危险。"
+    "value": "着陆点位于一片炎热且易发沙尘暴的^#ffe21d;干旱草地^reset;。此地既不特别舒适，也不特别危险。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/savannah/1",
     "raw": "This area of ^#ffe21d;dry grassland ^reset;is sparsely populated by trees. It is not excessively inhospitable - readings indicate that there is a hare bouncing around.",
-    "value": "这片^#ffe21d;干草地^white;只有稀疏的树木。并不过于荒凉，至少扫描发现正在有只野兔正在跳来跳去。"
+    "value": "这片^#ffe21d;干旱草地^reset;树木稀疏。它并非极度荒芜 - 扫描读数显示有野兔正在四处跳跃。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/savannah/2",
     "raw": "The landing location is located in an area of ^#ffe21d;dry grassland^reset;. Trees and shrubs grow sparsely in the heat. A dusty place of wide, flat vistas.",
-    "value": "着陆位置位于^#ffe21d;干草地^white;中。树木和灌木由于热而生长稀疏。一个有宽阔、平坦景观的多尘土的地方。"
+    "value": "着陆点位于一片^#ffe21d;干旱草地^reset;。树木与灌木因炎热而生长稀疏。这是一处尘土飞扬、视野广阔而平坦的地方。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/ocean/0",
     "raw": "A planet of deep ^#008aff;oceans^reset; and small islands. My readings indicate that aquatic life is abundant and that the islets of the surface are extremely picturesque.",
-    "value": "这是一颗^#008aff;海洋^white;星球，上面布满了各种小型岛屿。扫描发现海洋内各种水生物繁多，而且岛屿上面风景如画。"
+    "value": "一颗遍布深邃^#008aff;海洋^reset;与小型岛屿的星球。扫描读数表明，水生生物十分丰富，且星球表面的小岛风光美丽如画。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/ocean/1",
     "raw": "An ^#008aff;ocean^reset; covered planet spotted with islands and teeming with life. My readings indicate that there is a great deal of activity in the depths of the waters.",
-    "value": "这是一颗生机勃勃的^#008aff;海洋^white;星球，上面有一些小岛屿。我的扫描发现，在深海里存在有生命的活动迹象。"
+    "value": "一颗^#008aff;海洋^reset;覆盖、岛屿点缀且生机盎然的星球。我的扫描读数表明，水域深处存在大量的活动迹象。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/ocean/2",
     "raw": "Floating desert islands pepper the surface of this ^#008aff;ocean^reset; planet. An environment of tropical ambiance and aesthetic.",
-    "value": "浮动的沙岛像是撒在这个^#008aff;海洋^white;星球表面的胡椒粉。一个有着热带氛围与美的环境。"
+    "value": "漂浮的沙岛如胡椒粉般点缀于这颗^#008aff;海洋^reset;星球的表面。一处兼具热带氛围与美学享受的环境。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/toxic/0",
     "raw": "This planet is ^#06ff00;toxic^reset; - the air is putrefied and the oceans are poisonous. ^red;Radiation levels are moderate^reset; and dense clouds of ^06ff00;poison^reset; cover the surface.",
-    "value": "因腐烂而生成的^#06ff00;毒气^white;遍布了整颗星球，另外由于^red;中等程度的辐射^white;，使其更为危险，请准备好你所需的装备，这样才能对抗那些稠密的^#06ff00;毒素^reset;。"
+    "value": "这颗星球有^#06ff00;毒^reset; - 空气已腐坏，海洋含剧毒。^red;辐射水平为中等^reset;，且地表覆盖着稠密的^#06ff00;毒云^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/toxic/1",
     "raw": "This ^red;moderately radioactive^reset; planet is a poisonous wilderness inhabited by irradiated lifeforms. Its luminescent surface is ^#06ff00;toxic^reset; with dense ^red;poisonous air^reset;. ",
-    "value": "整颗行星呈现出^red;中等程度辐射^white;状态，同时也掺杂了大量的^#06ff00;毒素^white;，请小心。"
+    "value": "这颗^red;中等放射性^reset;行星是一片有毒的荒野，栖息着受辐射的生命形式。其发光的地表呈现^#06ff00;剧毒^reset;特性，并弥漫着稠密的^red;有毒空气^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/toxic/2",
     "raw": "This is a ^#06ff00;toxic^reset; planet replete with ^red;radiation and poisonous air^reset;. The noxious oceans are ^red;lethally poisonous^reset;. ",
-    "value": "这是一颗^#06ff00;毒素^white;星球，^red;辐射能与毒素^white;是上面能遇上的常客，另外也扫描到^red;毒素海^reset;。"
+    "value": "这是一颗充满^#06ff00;毒性^reset;的星球，遍布^red;辐射与有毒空气^reset;。其有害的海洋^red;具有致命毒性^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/jungle/0",
     "raw": "The landing site is in a dense, hot ^#12a003;jungle^reset;. A menagerie of astounding creatures live amongst the lush flora. It is a shame about the ^red;moderately high radiation^reset;.",
-    "value": "这颗星球的登陆点在密林之中，该星球是^#12a003;丛林^white;地貌，让人大开眼界的生物就居住在这片葱郁的植被里，令人惋惜的检测到了^red;中等程度的辐射^white;。"
+    "value": "登陆点位于一片茂密、炎热的^#12a003;丛林^reset;中。各种令人惊叹的生物栖息在繁茂的植物群中。遗憾的是，这里有^red;中高程度的辐射^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/jungle/1",
     "raw": "A ^#12a003;jungle^reset; landing site densely inhabited by flora and fauna of many kinds. The area is rich with resources but quite hot and ^red;moderately radioactive^reset;.",
-    "value": "该星球由各类动植物所组成的^#12a003;丛林^white;，并且在其上检测到了^red;中等程度的辐射^white;。"
+    "value": "一处^#12a003;丛林^reset;登陆点，密集栖息着多种动植物。该区域资源丰富，但相当炎热且^red;具有中等放射性^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/jungle/2",
     "raw": "^red;Moderate, unsafe levels of radiation^reset; render this ^#12a003;jungle^reset; location an extremely hostile environment and local fauna is similarly unwelcoming.",
-    "value": "非常不安全的^red;中等程度的辐射^white;令这颗^#12a003;丛林^white;星球越加危险，恶劣的环境加上不欢迎外来生物的动物，使得在这里探索变得异常艰难。"
+    "value": "^red;中度、不安全的辐射水平^reset;使得这片^#12a003;丛林^reset;点成为一处极度恶劣的环境，当地的动物群也同样不友好。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/alien/0",
     "raw": "This is a somewhat risky landing site - ^red;radiation levels are moderately high^reset;. However, the ^#7800ff;mutated^reset; terrain could be described as darkly whimsical.",
-    "value": "这是一颗危险的星球，不单单是由于^red;中等程度辐射^white;的原因，更多的是因辐射引起的各种^#7800ff;突变体^white;，这里的地形很可能是你所有旅程中最不可思议的。"
+    "value": "这是一处略有风险的登陆点 - ^red;辐射水平中高^reset;。然而，其^#7800ff;突变后的^reset;地形或可描述为一种诡异的奇观。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/alien/1",
     "raw": "A landing site characterised by odd flora, aggressive fauna and ^red;moderately high levels of radiation^reset;. The area's inhabitants are severely ^#7800ff;mutated^reset;.",
-    "value": "这里植物大多数因^red;中等程度的辐射^white;而变得形态各异，另外该星球上的生命因^#7800ff;变异^white;而变得极其富有侵略性。"
+    "value": "一个以奇特植物群、富有攻击性的动物群以及^red;中高辐射水平^reset;为特征的登陆点。该区域的栖居者遭受了严重的^#7800ff;突变^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/alien/2",
     "raw": "The beam location is situated in a ^#7800ff;mutated^reset; landscape. The ^red;moderate levels of radiation^reset; create a noxious environment. I advise you to avoid swimming.",
-    "value": "整个星球由于充满了^#7800ff;中等程度辐射^white;而变得更为危险，各种^red;突变生物^white;比比皆是，另外需要一提的是，这里充斥着大量毒素，最后，我要提醒你千万不要游泳。"
+    "value": "信标地点坐落于一片^#7800ff;突变后的^reset;地貌中。^red;中等辐射水平^reset;造就了一个有毒的环境。我建议你避免游泳。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arctic/0",
     "raw": "^red;Temperatures at the landing site are dangerously low.^reset; You will be beaming onto a small island surrounded by ^#00ffe4;frigid ocean^reset;. I strongly advise you to wear a scarf.",
-    "value": "这颗星球的温度已经低至^red;致命级别^white;，登陆点是一个被^#00ffe4;寒冷海洋^white;包围的小岛上，希望你已经准备好了^#00ffe4;防寒^white;措施！"
+    "value": "^red;登陆点的温度已低至危险水平^reset;。你将被传送至一个被^#00ffe4;冰冷海洋^reset;环绕的小岛。我强烈建议你戴条围巾。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arctic/1",
     "raw": "The beam site is ^red;intensely cold^reset;: a tiny island in a ^#00ffe4;frigid ocean^reset;. There is a 0.025% chance you will mis-beam into the water, quickly succumbing to the awful chill.",
-    "value": "这是一个^red;非常寒冷^white;的海洋星球，如果你打算登陆，通过计算，有99.975%你登录的位置将会在岛屿上，而有0.025%你则会掉到冰冷的海水中。"
+    "value": "信标地点^red;极度寒冷^reset;：一个位于^#00ffe4;冰冷海洋^reset;中的小岛。你有0.025%的几率会误传至水中，并迅速死于可怕的严寒。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arctic/2",
     "raw": "A site of ^red;dangerously low temperatures^reset;. There are few animals here, and no plant-life at all - just forsaken islands in a ^#00ffe4;frigid ocean^reset;.",
-    "value": "这是一个^red;危险的低温^white;星球。生命样式只有少量的耐寒动物，而植物则完全没有！另外在星球上的这片^#00ffe4;冰冷海洋^white;中仍有几座被遗弃的岛屿。"
+    "value": "一个^red;温度低至危险水平^reset;的地点。这里的动物寥寥无几，且完全没有植物生命 - 唯有^#00ffe4;冰冷海洋^reset;中几座被遗弃的岛屿。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tundra/0",
     "raw": "A ^#61ffe3;frozen^reset; place, formed of ice - the permafrost runs deep here. Snow storms are common, and ^red;temperatures are dangerously low^reset;.",
-    "value": "这是一个^#61ffe3;冰冻^white;星球，主要构造是冰和冻土。由于温度^red;极其寒冷^white;，所以暴风雪是最常见的天气。"
+    "value": "一片^#61ffe3;冰冻^reset;之地，由冰构成 - 这里的永冻层很深。暴风雪很常见，且^red;温度低至危险水平^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tundra/1",
     "raw": "This ^red;dangerously cold.^reset; landing site is ^#61ffe3;frozen^reset; solid. High likelihood of accidental self-cryopreservation. Protect yourself from the cold.",
-    "value": "这颗星球温度已达到^red;致命级别^white;！如果在不准备供暖设备的情况下登陆，极有可能造成^red;死亡^reset;！"
+    "value": "该着陆点^red;极度寒冷^reset;，已^#61ffe3;彻底冻结^reset;。意外自我冷冻的可能性很高。请做好防寒措施。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tundra/2",
     "raw": "^red;Temperatures at the beam site are dangerously low^reset;. The area is ^#61ffe3;frozen^reset;, and inhabited only by flora and fauna that are extremely resistant to the cold. ",
-    "value": "这颗星球完全被^#61ffe3;冰冻^white;住了，通过扫描，上面寒冷指数已经超出^red;致命级别^white;，只有异常耐寒的植物和动物才能存活。"
+    "value": "^red;传送着陆点的温度低至危险水平^reset;。该区域已^#61ffe3;冻结^reset;，仅有极度耐寒的动植物在此生存。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/volcanic/0",
     "raw": "The ^#e11212;volcanic^reset; landing site is ^red;catastrophically hot^reset;. If you wish, I can calculate your likelihood of immediately bursting into flame upon beam down...",
-    "value": "这颗^#e11212;火山^white;星球的气温会让人^red;热得受不了^white;。如果你愿意的话，我可以计算出你登陆后自燃的几率..."
+    "value": "该^#e11212;火山^reset;着陆点^red;灾难性地炎热^reset;。如果你希望，我可以计算你传送抵达后立即自燃的可能性..."
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/volcanic/1",
     "raw": "^#e11212;Volcanic^reset; activity blights this planet and the beam site is in an area of particular virulence. The ^red;temperature is far beyond normally survivable levels^reset;.",
-    "value": "^#e11212;火山^white;活动摧残了这个星球，着陆点在一个具有特定毒性的区域中。^red;温度远超过正常生存水平^white;。"
+    "value": "^#e11212;火山^reset;活动摧残着这颗星球，且传送点所在区域尤为猛烈。^red;温度远超出正常可生存水平^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/volcanic/2",
     "raw": "The beam site is situated in ^#e11212;volcanic^reset; terrain and is ^red;exquisitely hot^reset;. Your interest in this place certainly displays your dauntless tenacity.",
-    "value": "着陆点位于^#e11212;火山^white;地形中，而且^red;热的出奇^white;。你对于这个地方的兴致表明了你大无畏的执着。"
+    "value": "传送着陆点位于^#e11212;火山^reset;地形中，并且^red;极为炎热^reset;。你对此地的兴趣无疑展现了你无畏的执着。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/midnight/0",
     "raw": "This is a ^#e11212;dark^reset; world where the sun never rises. The surface is ^red;dangerously cold^reset;. You should prepare yourself both mentally and physically before landing here.",
-    "value": "恒星永远不会照耀这颗^#e11212;黑暗^white;星球，其上^red;极其寒冷^white;。你应当给自己做好心理和生理上的双重准备。"
+    "value": "这是一个^#e11212;黑暗^reset;的世界，太阳永不升起。地表^red;危险地寒冷^reset;。在着陆于此地之前，你应当在心理和生理上都做好准备。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/midnight/1",
     "raw": "This ^#e11212;dark^reset; world is ^red;perilously cold^reset;. Strange shadowy figures dwell here, hidden in the unremitting night.",
-    "value": "这^#e11212;黑暗^white;的世界^red;十分寒冷^white;。这里住着奇怪的、隐藏在永夜之中的影子。"
+    "value": "这个^#e11212;黑暗^reset;的世界^red;危险地寒冷^reset;。奇怪而影影绰绰的身影栖息于此，隐藏在永无止境的黑夜之中。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/midnight/2",
     "raw": "Scans show that the surface is ^#e11212;dark^reset;. In fact, scans show little else on account of all the darkness. However, I surmise that the surface is ^red;dangerously cold^reset;.",
-    "value": "扫描显示星球表面是^#e11212;黑暗^white;的。实际上，扫描除了黑暗之外无其他显示。然而，我推测表面肯定^red;寒冷刺骨^white;。"
+    "value": "扫描显示地表是^#e11212;黑暗^reset;的。事实上，由于这片黑暗，扫描几乎未能显示其他信息。然而，我推测地表是^red;危险地寒冷^reset;的。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/scorchedcity/0",
     "raw": "The landing location is a ^#b24301;scorched^reset; wasteland. The atmospheric ^red;temperature is severely high^reset;. It is impressively brave of you to consider this destination.",
-    "value": "这颗星球属于^#b24301;焦灼荒漠^white;地形，其上空气温度^red;极高^white;。祝你好运。"
+    "value": "着陆点是一片^#b24301;焦灼的^reset;荒原。大气^red;温度极高^reset;。你考虑此地作为目的地，着实令人钦佩你的勇气。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/scorchedcity/1",
     "raw": "The beam site is ^#b24301;scorched^reset; and desolate. Little is capable of surviving here as the ^red;temperature is severely high^reset;. People live in the area, but I cannot fathom why.",
-    "value": "扫描发现，这颗星球属于^#b24301;焦灼荒漠^white;地形，由于温度^red;极高^white;，所以仅有少量生命生存于其上。"
+    "value": "传送着陆点是一片^#b24301;焦灼^reset;而荒芜的土地。由于^red;温度极高^reset;，几乎没什么能在此生存。此地有人居住，但我无法理解其原因。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/scorchedcity/2",
     "raw": "The landing site is ^#b24301;scorched^reset; by the ^red;intense heat of the planet's surface^reset;. Only a few hardy individuals remain, possibly out of pure habit.",
-    "value": "无垠的^#b24301;焦灼荒漠^white;覆盖着整个星球，只有少数顽强的生命才能于如此^red;高温^white;的条件下存活。"
+    "value": "着陆点被^red;行星表面的酷热^reset;所^#b24301;炙烤^reset;。仅剩少数顽强的个体留存，可能仅仅是出于纯粹的习惯。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/magma/0",
     "raw": "This ^red;dangerously hot^reset; planet is chiefly composed of ^#ff1818;magma^reset;. Remember, your resilient spirit is admirable, but it is not flame retardant.",
-    "value": "这颗星球主要由^#ff1818;岩浆^white;构成，上面有着^red;致命的高温^white;！请记得不要在没有防护措施的情况下登陆。"
+    "value": "这颗^red;危险高温的^reset;行星主要由^#ff1818;岩浆^reset;构成。请记住，你坚韧的精神令人钦佩，但它并非阻燃材料。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/magma/1",
     "raw": "The planet surface is ^red;dangerously hot^reset;. Few creatures seek out an existence amongst the planet's vast oceans of ^#ff1818;magma^reset;.",
-    "value": "这个星球的表面都是^red;致命的高温^reset;。很少有生物能在这个星球上宽广的^#ff1818;岩浆^white;海洋里生存。"
+    "value": "该行星表面^red;极度危险地炽热^reset;。很少有生物会选择在这颗行星广阔的^#ff1818;岩浆^reset;海洋中寻求生存。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/magma/2",
     "raw": "The beam site is a tiny island isolated in a sea of ^#ff1818;magma^reset;. That you would consider visiting this ^red;searingly hot^reset; planet speaks volumes of your fortitude.",
-    "value": "计算机判断登陆点将会在^#ff1818;岩浆海^white;中的某个岛屿上。你准备好参观这颗^red;异常炎热^white;的星球了吗？"
+    "value": "传送着陆点是一片隔绝于^#ff1818;岩浆^reset;海洋中的微小岛屿。你会考虑拜访这颗^red;灼热难耐^reset;的行星，这充分说明了你的坚韧。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon/0",
     "raw": "A lonely ^#949493;moon^reset; with ^red;no breathable atmosphere^reset;; the sky is open to the stars, there is fuel below the ground. Likelihood of feeling lonesome and desolate: 92%.",
-    "value": "这颗^#949493;卫星^white;上面^red;没有氧气^white;，另外，矿物扫描器发现地层有燃料存在。"
+    "value": "一颗孤独的^#949493;卫星^reset;，拥有^red;不可呼吸的大气^reset;；天空向星辰敞开，地下蕴藏着燃料。感到孤寂的可能性：92%。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon/1",
     "raw": "This ^#949493;moon^reset; supports no life and has ^red;no atmosphere^reset;. However, fuel is abundant here - scans indicate that there is a wealth of it buried below the surface. ",
-    "value": "这个^#949493;卫星^white;上没有生命并且也^red;没有氧气^white;。然而，这里有丰富的燃料，扫描显示地表以下埋藏了大量燃料。"
+    "value": "这颗^#949493;卫星^reset;不支持任何生命存在，并且^red;没有大气层^reset;。然而，这里的燃料十分丰富 - 扫描显示地表之下埋藏着大量的燃料。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon/2",
     "raw": "This vacant ^#949493;moon^reset; has ^red;no breathable atmosphere^reset;, but there are caverns below ground that contain vast fuel deposits. In summation: useful, but not enticing.",
-    "value": "这个^#949493;卫星^white;^red;没有可供呼吸的空气^white;，但地层内含有丰富的燃料。总而言之，如果需要燃料还算得上是颗有用的星球。"
+    "value": "这颗空置的^#949493;卫星^reset;^red;没有可供呼吸的大气^reset;，但地下洞穴中蕴藏着巨大的燃料矿藏。总结来说：有用，但不诱人。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/asteroids/0",
     "raw": "A bare cluster of ^#d7711e;asteroids^reset;. Readings indicate ^red;there is no atmosphere^reset; or life here. Just endless nothingness, with plenty of space for construction.",
-    "value": "这是一圈^#d7711e;小行星带^white;，扫描发现这里^red;没有氧气^white;，并且上面毫无生命迹象，这里只有无尽的虚空，如果你需要建造基地，这里有的是位置供你修建。"
+    "value": "一簇光秃秃的^#d7711e;小行星^reset;。读数表明^red;此处没有大气^reset;或生命。只有无尽虚空，但有充足的空间可供建造。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/asteroids/1",
     "raw": "A lifeless band of ^#d7711e;asteroids^reset; ^red;without atmosphere^reset;: drifting through space, anchored to a distant star... A nice place to build a house.",
-    "value": "扫描发现这个^#d7711e;小行星带^white;上没有任何生物，另外需要提醒的是，这里并^red;没有氧气^white;，不过这里到是个建造基地的好地方。"
+    "value": "一条无生命的^#d7711e;小行星带^reset;，^red;没有大气^reset;：在太空中漂移，围绕着一颗遥远的恒星...一个建造家园的好地方。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/asteroids/2",
     "raw": "A clutch of ^#d7711e;asteroids^reset; drifting along an elliptical orbit. Readings indicate ^red;there is no atmosphere here^reset;. Or anything else for that matter...",
-    "value": "这个^#d7711e;小行星带^white;正随着恒星轨道缓慢运转着。扫描发现其上并^red;无氧气^white;。"
+    "value": "一簇^#d7711e;小行星^reset;，沿椭圆轨道漂移。读数表明^red;此处没有大气^reset;。或者说，除本体以外也空无一物..."
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/barren/0",
     "raw": "This location is ^#999966;barren^reset; and lifeless. Readings show there is nothing here. Be cautious however, as scans are not infallible.",
-    "value": "这个地点十分^#999966;荒芜^white;，没有生命。读数显示这里一无所有。不过要小心，因为扫描并非绝对可靠。"
+    "value": "此地^#999966;贫瘠^reset;且无生命。读数显示此处空无一物。但请谨慎，因为扫描并非绝对可靠。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/barren/1",
     "raw": "This planet is ^#999966;barren^reset;, supporting no apparent life of any kind. Be aware that scanners can make mistakes, however, when subterranean depths are involved.",
-    "value": "这个星球非常 ^#999966;荒芜^white;，不适宜任何形式的生命。但是要注意，当涉及到地下深处时，扫描仪可能会出错。"
+    "value": "该星球^#999966;贫瘠^reset;，没有任何明显的生命迹象。然而，当涉及地下深处时，扫描仪可能会出错。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/barren/2",
     "raw": "Readings indicate that the landing site is of unusual hue. Also, that it is a ^#999966;barren^reset; location and would be suitable for construction. Sub-planet scans inconclusive.",
-    "value": "读数显示着陆点的色调异常。此外，这是一个^#999966;荒芜^white;的星球，适合建设。子行星扫描不确定。"
+    "value": "读数显示着陆点色调异常。此外，该地点^#999966;贫瘠^reset;，适合建设。次行星扫描结果不确定。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/ancientgateway/0",
     "raw": "An ^#571cff;Ancient Gateway^reset; of unknown provenance; an edifice of great power and mystery.",
-    "value": "这是一个^#571cff;远古庇护所^white;，其内潜藏着巨大且神秘的能量。"
+    "value": "一座^#571cff;远古传送门^reset;，来源未知；一个蕴含巨大力量与神秘感的建筑。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/aethersea/0",
     "raw": "This ^#e78442;aetheric world^reset; is dark, strange and quiet. ^orange;Xithricite Ore detected^reset;.^cyan; Recommend: Cosmic Resistance^reset;.",
-    "value": "^#e78442;以太世界^reset;犹如漆黑的死寂一般。另外也检测到了^orange;赛德瑞瑟晶体碎片^reset;的存在。^cyan;推荐：射线抗性^reset;"
+    "value": "这处^#e78442;以太世界^reset;黑暗、奇异且寂静。^orange;已检测到赛斯瑞晶矿^reset;。^cyan;建议：宇宙抗性^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/aethersea/1",
     "raw": "Serious weather, high-tides and strangeness abound on this bizarre ^#e78442;aetheric world^reset;. ^cyan;Recommend: Cosmic Resistance/ Aether Protection^reset;",
-    "value": "这是一个诡谲多变的星球，地貌结构属于^#e78442;以太世界^reset;，巨浪持续地拍击着狰狞的礁石！^cyan;推荐：以太保护/射线抗性^reset;"
+    "value": "恶劣天气、高潮汐及异常现象普遍存在于这个诡异的^#e78442;以太世界^reset;。^cyan;建议：宇宙抗性/以太保护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/aethersea/2",
     "raw": "A bizarre planetoid that seems to straddle dimensions, this ^#e78442;aetheric world^reset; calls to you with its dark serenity. ^cyan;Recommend: Cosmic Resistance/ Aether Protection^reset;",
-    "value": "一颗似乎超越维度的奇异行星。^#e78442;以太世界^reset;的黑暗寂静也在呼唤着你。^cyan;推荐：射线抗性/以太保护^reset;"
+    "value": "一颗似乎在维度间跨越的奇异星体，这个^#e78442;以太世界^reset;以其黑暗的宁静向你发出召唤。^cyan;建议：宇宙抗性/以太保护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/astral/0",
     "raw": "This ^#e78442;aetheric world^reset; is dark, strange and quiet. ^orange;Xithricite Ore detected^reset;.^cyan; Recommend: Cosmic Resistance^reset;.",
-    "value": "^#e78442;以太世界^reset;犹如漆黑的死寂一般。另外也检测到了^orange;赛德瑞瑟晶体碎片^reset;的存在。^cyan;推荐：射线抗性^reset;"
+    "value": "这处^#e78442;以太世界^reset;黑暗、奇异且寂静。^orange;已检测到赛斯瑞晶矿^reset;。^cyan;建议：宇宙抗性^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/astral/1",
     "raw": "Serious weather and strangeness abound on this bizarre ^#e78442;aetheric world^reset;. ^cyan;Recommend: Cosmic Resistance/ Aether Protection^reset;",
-    "value": "在这个奇异的^#e78442;以太世界^reset;上，严峻的天气和异常的景象比比皆是。^cyan;推荐：以太保护/射线抗性^reset;"
+    "value": "严峻天气和异常现象普遍存在于这个诡异的^#e78442;以太世界^reset;。^cyan;建议：宇宙抗性/以太保护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/astral/2",
     "raw": "A bizarre planetoid that seems to straddle dimensions, this ^#e78442;aetheric world^reset; calls to you with its dark serenity. ^cyan;Recommend: Cosmic Resistance/ Aether Protection^reset;",
-    "value": "一颗似乎超越维度的奇异行星。^#e78442;以太世界^reset;的黑暗寂静也在呼唤着你。^cyan;推荐：射线抗性/以太保护^reset;"
+    "value": "一颗似乎在维度间跨越的奇异星体，这个^#e78442;以太世界^reset;以其黑暗的宁静向你发出召唤。^cyan;建议：宇宙抗性/以太保护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arcticdark/0",
     "raw": "^red;Temperatures at the landing site are dangerously low.^reset; You will be beaming onto a small island surrounded by ^#00ffe4;frigid ocean^reset;. I strongly advise you to wear a scarf.",
-    "value": "这颗星球的温度已经低至^red;致命级别^white;，登陆点是一个被^#00ffe4;寒冷海洋^white;包围的小岛上，希望你已经准备好了^#00ffe4;防寒^white;措施！"
+    "value": "^red;登陆点的温度已低至危险水平^reset;。你将被传送至一个被^#00ffe4;冰冷海洋^reset;环绕的小岛。我强烈建议你戴条围巾。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arcticdark/1",
     "raw": "The beam site is ^red;intensely cold^reset;: a tiny island in a ^#00ffe4;frigid ocean^reset;. There is a 0.025% chance you will mis-beam into the water, quickly succumbing to the awful chill.",
-    "value": "这是一个^red;非常寒冷^white;的海洋星球，如果你打算登陆，通过计算，有99.975%你登录的位置将会在岛屿上，而有0.025%你则会掉到冰冷的海水中。"
+    "value": "信标地点^red;极度寒冷^reset;：一个位于^#00ffe4;冰冷海洋^reset;中的小岛。你有0.025%的几率会误传至水中，并迅速死于可怕的严寒。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arcticdark/2",
     "raw": "A site of ^red;dangerously low temperatures^reset;. There are few animals here, and no plant-life at all - just forsaken islands in a ^#00ffe4;frigid ocean^reset;.",
-    "value": "这是一个^red;危险的低温^white;星球。生命样式只有少量的耐寒动物，而植物则完全没有！另外在星球上的这片^#00ffe4;冰冷海洋^white;中仍有几座被遗弃的岛屿。"
+    "value": "一个^red;温度低至危险水平^reset;的地点。这里的动物寥寥无几，且完全没有植物生命 - 唯有^#00ffe4;冰冷海洋^reset;中几座被遗弃的岛屿。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arboreal/0",
     "raw": "^#59a849;Giant trees^reset; are abundant on this ^#cd5d02;primeval forest^reset; world. Abundant ^orange;organic resources^reset; detected.",
-    "value": "在这个^#cd5d02;原始丛林^reset;般的世界具有各种^#59a849;高耸的树木^reset;。系统扫描到蕴含有^orange;丰富的有机资源^reset;。"
+    "value": "^#59a849;巨型树木^reset;在这颗^#cd5d02;原始森林^reset;世界上十分丰富。已检测到丰富的^orange;有机资源^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arboreal/1",
     "raw": "Scanners have detected extremely dense ^#cd5d02;primeval forests^reset; on this planet. ^orange;Reptilian^reset; life-signs detected.",
-    "value": "扫描仪发现这颗星球上有着非常密集的^#cd5d02;原始森林^reset;，另外检测到^orange;爬行类生命体^reset;。"
+    "value": "扫描仪已检测到该星球上存在极其茂密的^#cd5d02;原始森林^reset;。^orange;爬行类^reset;生命信号已检测到。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arboreal/2",
     "raw": "^#59a849;Primeval forest^reset; planets are early in their life-cycles and rich in ^orange;organic resources^reset;.",
-    "value": "^#59a849;原始森林^reset;星球是生命诞生最早的星球之一，这里有着无法估量的^orange;有机资源^reset;。"
+    "value": "^#59a849;原始森林^reset;行星处于其生命周期的早期阶段，且富含^orange;有机资源^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arboreal2/0",
     "raw": "^#59a849;Giant trees^reset; are abundant on this oppressively hot ^#cd5d02;volcanic primeval forest^reset; world. Abundant ^orange;organic resources^reset; detected.",
-    "value": "这个星球是一个^#cd5d02;有着火山的原始森林^reset;，上面的气候非常闷热。^#59a849;巨型树木^reset;在这里比比皆是。另外系统检测到这颗星球上存在有丰富的^orange;有机资源^reset;。"
+    "value": "^#59a849;巨型树木^reset;在这颗闷热难耐的^#cd5d02;火山原始森林^reset;世界上十分丰富。已检测到丰富的^orange;有机资源^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arboreal2/1",
     "raw": "This ^#59a849;primeval forest^reset; is ripe with ^#cd5d02;volcanic activity^reset; and unpleasantly hot. Abundant ^orange;organic resources^reset; detected.",
-    "value": "这是一颗^#59a849;原始森林^reset;星球，不过除了森林还有活动频繁的^#cd5d02;火山^reset;和较高的温度。扫描仪检测到丰富的^orange;有机资源^reset;。"
+    "value": "这片^#59a849;原始森林^reset;充满^#cd5d02;火山活动^reset;且炎热不适。已检测到丰富的^orange;有机资源^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arboreal2/2",
     "raw": "Tread carefully on this stifling ^#59a849;primeval forest^reset; world. ^#cd5d02;Heavy volcanic activity^reset; detected.",
-    "value": "这颗星球你在探索时需格外小心，因为除了窒息的空气还有高大的^#59a849;原始森林^reset;地貌也有^#cd5d02;火山^reset;地貌。"
+    "value": "在这片令人窒息的^#59a849;原始森林^reset;世界上，请谨慎行进。已检测到^#cd5d02;强烈的火山活动^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arborealdark/0",
     "raw": "There is little light penetrating the tree canopies here on this ^#59a849;dark primeval^reset; forest planet. Bring a light-source.",
-    "value": "在这颗行星上，那片^#59a849;黑暗原始森林^reset;中，光完全不能穿透高耸入云的树冠照射到地表。"
+    "value": "在这颗^#59a849;黑暗原始^reset;的森林行星上，仅有极少光线能穿透这里的树冠。请携带光源。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arborealdark/1",
     "raw": "Sunlight rarely touches this ^#59a849;dark primeval^reset; world, yet somehow the plant life grows thick and lush.",
-    "value": "恒星的光芒没法照耀到这个^#59a849;黑暗原始^reset;的世界，但是为什么这里的植物却依然生长得如此茂盛？"
+    "value": "阳光罕至这片^#59a849;黑暗原始^reset;的世界，然而此地的植物却不知何故生长得浓密而茂盛。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/arborealdark/2",
     "raw": "Darkness covers the dense woodlands of this ^#59a849;dark primeval^reset; planet.",
-    "value": "这颗^#59a849;原始^reset;星球有着无比浓密的植被，并且一直被黑暗所笼罩。"
+    "value": "黑暗笼罩着这颗^#59a849;黑暗原始^reset;星球上浓密的林地。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/atropus/0",
     "raw": "This horrific ^#cc8d5a;atropus^reset; world appears to be composed of flesh, sinew, and gore. ^#b41c1c;Quietus ore^reset; detected. ^red;Warning: Causes Madness^reset;.",
-    "value": "这是由肉团、筋骨和血块组成的^#cc8d5a;肉源^reset;世界！矿物扫描仪在这里检测到^#b41c1c;寂灭矿^reset;。^red;警告：会诱发狂乱(精神错乱)^reset;。"
+    "value": "这个可怖的^#cc8d5a;肉源^reset;世界似乎由血肉、筋骨和凝血构成。检测到^#b41c1c;寂灭矿^reset;。^red;警告：导致疯狂^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/atropus/1",
     "raw": "^#cc8d5a;Atropus^reset; worlds are abhorrent, hellish spheres composed of matter both living and dead. ^#b41c1c;Plasmic Crystal^reset; detected. ^red;Warning: Insanity-causing agents detected.^reset;",
-    "value": "令人厌恶的^#cc8d5a;肉源^reset;世界是由活物与死物组成的地狱般的球体。检测到^#b41c1c;血钻^reset;。^red;警告：检测到致疯介质^reset;。"
+    "value": "^#cc8d5a;肉源^reset;世界是令人憎恶的、地狱般的球体，由生与死的物质构成。检测到^#b41c1c;血晶^reset;。^red;警告：检测到致疯介质^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/atropus/2",
     "raw": "Lovingly called 'worlds born dead', ^#cc8d5a;atropus^reset; planets are not for the faint of heart or the weak-stomached. ^red;Warning: Psionically disruptive atmosphere^reset;.",
-    "value": "这颗星球是^#cc8d5a;肉源^reset;地形，这里可不是游乐园，心脏不好的人请止步。^red;警告：混乱灵能大气，会诱发精神错乱^reset;"
+    "value": "被戏称为“生而死亡的世界”，^#cc8d5a;肉源^reset;行星不适合胆小或肠胃脆弱者。^red;警告：灵能干扰大气^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/atropusdark/0",
     "raw": "This horrific ^#cc8d5a;atropus^reset; world appears to be composed of flesh, sinew, and gore. ^#b41c1c;Quietus ore^reset; detected. ^red;Warning: Causes Madness and fatal illusions^reset;.",
-    "value": "这是由肉团、筋骨和血块组成的^#cc8d5a;肉源^reset;世界！矿物扫描仪在这里检测到^#b41c1c;寂灭矿^reset;。^red;警告：会诱发狂乱(精神错乱)和致命幻觉^reset;。"
+    "value": "这个可怖的^#cc8d5a;肉源世界^reset;似乎由血肉、筋骨和凝血构成。检测到^#b41c1c;寂灭矿^reset;。^red;警告：导致疯狂和致命幻觉^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/atropusdark/1",
     "raw": "^#cc8d5a;Atropus^reset; worlds are abhorrent, hellish spheres composed of matter both living and dead. ^#b41c1c;Plasmic Crystal^reset; detected. ^red;Warning: Causes Insanity and fatal hallucinations^reset;.",
-    "value": "令人厌恶的^#cc8d5a;肉源^reset;世界是由活物与死物组成的地狱般的球体。检测到^#b41c1c;血钻^reset;。^red;警告：会诱发狂乱(精神错乱)和致命幻觉^reset;。"
+    "value": "^#cc8d5a;肉源^reset;世界是令人憎恶的、地狱般的球体，由生与死的物质构成。检测到^#b41c1c;血晶^reset;。^red;警告：导致精神错乱和致命幻觉^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/atropusdark/2",
     "raw": "A ^#aa6b48;dark atropus^reset; world. This unusual planet appears to be ^#cc8d5a;biologically mutated^reset; as if created by an insane God. ^red;Warning: Psionically disruptive atmosphere^reset;.",
-    "value": "这是一个^#aa6b48;黑暗肉源^reset;星球。这颗星球上存在有大量的^#cc8d5a;变种生物^reset;。^red;警告：混乱灵能大气，会诱发精神错乱^reset;"
+    "value": "一个^#aa6b48;黑暗肉源^reset;世界。这颗不寻常的星球似乎^#cc8d5a;发生了生物性突变^reset;，宛如由一位疯狂的上帝所创造。^red;警告：灵能干扰大气^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/bloodstone/0",
     "raw": "Scanners show strange ^#ba3b04;bloodstone^reset; formations and ^#8e5ca6;unknown organic^reset; elements. A source of ^red;Plasmic Crystal and quietus ore^reset;.",
-    "value": "扫描仪显示出奇怪的^#ba3b04;血石^reset;结构和^#8e5ca6;未知的有机元素^reset;。产有^red;血钻和寂灭矿^reset;。"
+    "value": "扫描仪显示出奇怪的^#ba3b04;血石^reset;构造和^#8e5ca6;未知的有机^reset;元素。是^red;血晶与寂灭矿^reset;的来源。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/bloodstone/1",
     "raw": "Scanners show strange ^#ba3b04;bloodstone^reset; formations and ^#8e5ca6;unknown organic^reset; elements. A source of ^red;Plasmic Crystal and quietus ore^reset;.",
-    "value": "扫描仪显示出奇怪的^#ba3b04;血石^reset;结构和^#8e5ca6;未知的有机元素^reset;。产有^red;血钻和寂灭矿^reset;。"
+    "value": "扫描仪显示出奇怪的^#ba3b04;血石^reset;构造和^#8e5ca6;未知的有机^reset;元素。是^red;血晶与寂灭矿^reset;的来源。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/bloodstone/2",
     "raw": "Scanners show strange ^#ba3b04;bloodstone^reset; formations and ^#8e5ca6;unknown organic^reset; elements. A source of ^red;Plasmic Crystal and quietus ore^reset;.",
-    "value": "扫描仪显示出奇怪的^#ba3b04;血石^reset;结构和^#8e5ca6;未知的有机元素^reset;。产有^red;血钻和寂灭矿^reset;。"
+    "value": "扫描仪显示出奇怪的^#ba3b04;血石^reset;构造和^#8e5ca6;未知的有机^reset;元素。是^red;血晶与寂灭矿^reset;的来源。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/bloodstonesea/0",
     "raw": "Scanners show disgusting ^#ba3b04;atropal seas^reset; ripe with ^#8e5ca6;unknown organic^reset; elements. A source of ^red;Plasmic Crystal and quietus ore^reset;. ^red;Warning: Causes Madness^reset;",
-    "value": "扫描发现充满^#8e5ca6;未知有机元素^reset;的^#ba3b04;萎缩之海^reset;。产有^red;血钻和寂灭矿^reset;。^red;警告：会诱发狂乱(精神错乱)^reset;。"
+    "value": "扫描仪显示出令人作呕的^#ba3b04;肉源海^reset;，富含^#8e5ca6;未知的有机^reset;元素。是^red;血晶与寂灭矿^reset;的来源。^red;警告：导致疯狂^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/bloodstonesea/1",
     "raw": "While tempting, avoid the urge to swim in the gore and guts on this ^#ba3b04;atropus sea^reset; planet. ^red;Warning: Causes Madness^reset;",
-    "value": "虽然在血块里游泳更能展现出你的勇气，但是我还是建议你不要呆在^#ba3b04;肉源海^reset;里的好。^red;警告：会诱发狂乱(精神错乱)^reset;"
+    "value": "虽然很诱人，但请克制在这个^#ba3b04;肉源海^reset;星球上，于血肉与内脏中游泳的冲动。^red;警告：导致疯狂^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/bloodstonesea/2",
     "raw": "^#ba3b04;Atropus Seas^reset; are putrid and repulsive, loaded with ^#8e5ca6;unknown organic^reset; elements. ^red;Warning: Causes Madness^reset;",
-    "value": "腐烂与丑恶并存的^#ba3b04;肉源海^reset;是这颗星球的主要地形。系统扫描出海里充满了^#8e5ca6;未知的有机元素^reset;。^red;警告：会诱发狂乱(精神错乱)^reset;"
+    "value": "^#ba3b04;肉源海^reset;是腐烂且令人厌恶的，充满了^#8e5ca6;未知的有机^reset;元素。^red;警告：导致疯狂^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/bog/0",
     "raw": "A deep, thick ^#97be6a;bog^reset; covers nearly all of this world. Rich in ^green;Algae^reset; and other organic resources.",
-    "value": "一片又深又厚的^#97be6a;沼泽^reset;几乎覆盖了这个世界，但是这里却有着丰富的^green;藻豆荚^reset;还有各种有机资源。"
+    "value": "一片深而厚的^#97be6a;沼泽^reset;覆盖了这个世界几乎全部区域。富含^green;藻类^reset;及其他有机资源。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/bog/1",
     "raw": "Nearly impenetrable ^#97be6a;bog^reset; blankets this moist and rainy world. ^green;Algae^reset; for bio-fuel is abundant.",
-    "value": "大片的^#97be6a;沼泽^reset;覆盖着这个潮湿多雨的行星，在这里蕴含着丰富的^green;藻豆荚^reset;！"
+    "value": "几乎无法穿越的^#97be6a;沼泽^reset;覆盖着这个潮湿多雨的世界。用于生物燃料的^green;藻类^reset;储量丰富。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/bog/2",
     "raw": "Wet, mucky ground and dense ^#97be6a;bog^reset; extends across most of the surface. Harvesting ^green;algae^reset; should prove simple.",
-    "value": "潮湿的地面，茂密的植被，无边的^#97be6a;沼泽^reset;，在这颗行星上无处不在。另外，值得一提的是这里有着丰富的^green;藻豆荚^reset;。"
+    "value": "潮湿泥泞的地面和茂密的^#97be6a;沼泽^reset;延伸覆盖了地表的大部分区域。采集^green;藻类^reset;应会很简单。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/crystalmoon/0",
     "raw": "A ^#a56caf;crystalline^reset; planet. These worlds are the sole source of ^#e6c011;lunari crystals^reset;. Silicate ^e43774;crystal formations^reset; detected.",
-    "value": "这是一颗^#a56caf;结晶^reset;行星。在这颗星球上检测到大量的^#e43774;晶体^reset;，并且这也是获取^#e6c011;月晶碎片^reset;唯一的途径。"
+    "value": "一颗^#a56caf;结晶^reset;行星。这些星球是^#e6c011;月晶^reset;的唯一来源。检测到硅酸盐^e43774;晶体结构^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/crystalmoon/1",
     "raw": "This ^#a56caf;crystalline world^reset; is rich in ^#e6c011;lunari crystals^reset; and shines beautifully from the light of the nearby sun.",
-    "value": "这个^#a56caf;结晶^reset;的世界中有着丰富的^#e6c011;月晶碎片^reset;，单单是那种光线照射在上面那种闪烁的光芒就能让你赞叹不已！"
+    "value": "这个^#a56caf;结晶^reset;世界富含^#e6c011;月晶^reset;，并在附近恒星的光芒下闪耀着美丽的光辉。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/crystalmoon/2",
     "raw": "Silicate ^e43774;crystals^reset; such as ^#e6c011;lunari^reset; have been detected on this ^#a56caf;crystalline world^reset;.",
-    "value": "通过扫描，这个^#a56caf;结晶^reset;的行星上蕴含着各类^#e43774;晶体^reset;，而^#e6c011;月晶碎片^reset;则是其中一种。"
+    "value": "硅酸盐^e43774;晶体^reset;，例如^#e6c011;月晶^reset;，已在此^#a56caf;结晶^reset;世界上被检测到。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/chromatic/0",
     "raw": "^#ffc2f9;Chromatic^reset; worlds are strange and ^orange;radioactive^reset; but rich in valuable ^green;prism shards^reset;. ^cyan;Recommended: Extreme Radiation protection^reset;",
-    "value": "这颗是^#ffc2f9;多彩^reset;星球，这类星球具有强烈的^orange;辐射^reset;，但却蕴含有非常有价值的^green;棱镜碎片^reset;。^cyan;推荐：极端辐射保护^reset;"
+    "value": "^#ffc2f9;多彩^reset;世界奇特且^orange;具放射性^reset;，但富含宝贵的^green;棱镜碎片^reset;。^cyan;推荐：极端辐射防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/chromatic/1",
     "raw": "This unusual planet is ^#ffc2f9;chromatic^reset;, with a ^orange;radioactive atmosphere^reset;. Our scanners detect rare mineral deposits. ^cyan;Recommended: Extreme Radiation protection^reset;",
-    "value": "这是一颗^#ffc2f9;多彩^reset;星球，上面有大量的^orange;放射性^reset;物质！矿物扫描仪发现上面有稀有矿物。^cyan;推荐：极端辐射保护^reset;"
+    "value": "这颗不寻常的行星是^#ffc2f9;多彩的^reset;，具有^orange;放射性大气^reset;。我们的扫描仪探测到稀有矿藏。^cyan;推荐：极端辐射防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/chromatic/2",
     "raw": "^#ffc2f9;Chromatic^reset; worlds sparkle like a ^orange;radioactive rainbow^reset; with glistening ^green;prism shards^reset;. ^cyan;Recommended: Extreme Radiation protection^reset;",
-    "value": "这是一颗^#ffc2f9;多彩^reset;行星，上面的景色犹如霓虹般绚丽，矿物扫描仪从上面检测到^green;棱镜碎片^reset;。^cyan;推荐：极端辐射保护^reset;"
+    "value": "^#ffc2f9;多彩^reset;世界像一道^orange;放射性的彩虹^reset;般闪烁，伴随着闪闪发光的^green;棱镜碎片^reset;。^cyan;推荐：极端辐射防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/desertwastes/0",
     "raw": "The majority of the planet's surface is a scorching ^#c80000;red desert^reset;. Bio-scans reveal interesting flora and fauna. ^cyan;Recommend: Extreme Heat protection^reset;",
-    "value": "这颗行星的绝大部分地表都被^#c80000;红色沙漠^reset;所覆盖。^cyan;推荐：极端炎热保护^reset;"
+    "value": "该行星的大部分地表是灼热的^#c80000;红色沙漠^reset;。生物扫描揭示了有趣的动植物群。^cyan;推荐：极端高温防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/desertwastes/1",
     "raw": "Bring heat protection when exploring this ^#c80000;red desert^reset; as exposure for prolonged periods will prove 100% fatal. ^cyan;Recommend: Extreme Heat protection^reset;",
-    "value": "如果你打算登陆这颗^#c80000;红色沙漠^reset;星球，请注意不要暴露太长时间，因为那样会对你的生命造成致命的影响。^cyan;推荐：极端炎热保护^reset;"
+    "value": "探索这颗^#c80000;红色沙漠^reset;时请携带热防护装备，因为长时间暴露将是100%致命的。^cyan;推荐：极端高温防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/desertwastes/2",
     "raw": "A ^#c80000;red desert^reset; stretches across almost the entire circumference of this exceptionally hot world. ^cyan;Recommend: Extreme heat protection^reset;",
-    "value": "这是一颗由^#c80000;红色沙漠^reset;构成的异常炎热的星球。炎热和沙子遍布整个地表。^cyan;推荐：极端炎热保护^reset;"
+    "value": "一片^#c80000;红色沙漠^reset;几乎横跨了这个异常炎热世界的整个表面。^cyan;推荐：极端高温防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/desertwastesdark/0",
     "raw": "The majority of the planet's surface is a scorching ^#c80000;red desert^reset;. Bio-scans reveal interesting flora and fauna. ^cyan;Recommend: Extreme Heat protection^reset;",
-    "value": "这颗行星的绝大部分地表都被^#c80000;红色沙漠^reset;所覆盖。^cyan;推荐：极端炎热保护^reset;"
+    "value": "该行星的大部分地表是灼热的^#c80000;红色沙漠^reset;。生物扫描揭示了有趣的动植物群。^cyan;推荐：极端高温防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/desertwastesdark/1",
     "raw": "Bring heat protection when exploring this ^#c80000;red desert^reset; as exposure for prolonged periods will prove 100% fatal. ^cyan;Recommend: Extreme Heat protection^reset;",
-    "value": "如果你打算登陆这颗^#c80000;红色沙漠^reset;星球，请注意不要暴露太长时间，因为那样会对你的生命造成致命的影响。^cyan;推荐：极端炎热保护^reset;"
+    "value": "探索这颗^#c80000;红色沙漠^reset;时请携带热防护装备，因为长时间暴露将是100%致命的。^cyan;推荐：极端高温防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/desertwastesdark/2",
     "raw": "A ^#c80000;red desert^reset; stretches across almost the entire circumference of this exceptionally hot world. ^cyan;Recommend: Extreme Heat protection^reset;",
-    "value": "这是一颗由^#c80000;红色沙漠^reset;构成的异常炎热的星球。炎热和沙子遍布整个地表。^cyan;推荐：极端炎热保护^reset;"
+    "value": "一片^#c80000;红色沙漠^reset;几乎横跨了这个异常炎热世界的整个表面。^cyan;推荐：极端高温防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/eden/0",
     "raw": "This ^#00f0ff;eden ^reset;has very little in the way of hostile life and very little darkness. A lovely place to build a home. ^#9dbeef;Healing waters^reset; dot the surface.",
-    "value": "这是一个^#00f0ff;伊甸^reset;星球！如果你忍受不了其他星球上的各种恶劣环境，就请来这里玩耍吧！或者把家安置在这里也是个不错选择！在地表发现^#9dbeef;生命之水^reset;。"
+    "value": "这颗^#00f0ff;伊甸^reset;星球几乎没有敌对生物，也几乎没有黑暗。一个建造家园的可爱之地。^#9dbeef;生命之水^reset;点缀着地表。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/eden/1",
     "raw": "This ^#00f0ff;eden^reset; looks incredibly hospitable. I detect few life signs and ample ^#9dbeef;Healing waters^reset;. An ideal place to make a home.",
-    "value": "这是一个^#00f0ff;伊甸^reset;行星。扫描仪检测到某种生命体和大量的^#9dbeef;生命之水^reset;，如果你要找一个完美的星球建造一个家来享受阳光和轻风，就选这里吧！"
+    "value": "这个^#00f0ff;伊甸^reset;世界看起来极其宜居。我检测到少量生命迹象和充足的^#9dbeef;生命之水^reset;。一个建造家园的理想之地。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/eden/2",
     "raw": "Bright and sunny most of the time, this ^#00f0ff;eden^reset; awaits an intrepid explorer to make it a civilized stop along this star route.",
-    "value": "那里充满了阳光与希望！这犹如^#00f0ff;伊甸^reset;般美好的行星正在等待一位勇敢的探险者，你还在等什么？"
+    "value": "大部分时间明亮且阳光充足，这片^#00f0ff;伊甸^reset;世界正等待着一位无畏的探险者，将其打造成这条星际航线上的一个文明驿站。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/ffunknown/0",
     "raw": "^#e43774;Unknown^reset; interference prevents scanning of the planet surface. Proceed carefully. ^red;Potentially Lethal!^reset;",
-    "value": "这颗星球发出某种^#e43774;干扰^reset;导致无法扫描！如要探索，请务必^red;小心^reset;！"
+    "value": "^#e43774;未知^reset;干扰阻止了对行星表面的扫描。请谨慎前进。^red;可能致命！^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/ffunknown/1",
     "raw": "Something here is ^red;blocking our scanners^reset;, leaving this planet's composition essentially ^#e43774;unknown^reset;. ^red;Potentially Lethal!^reset;",
-    "value": "这颗行星^red;无法扫描^reset;，所有的情况都是^#e43774;未知^reset;的。如要探索，请^red;小心^reset;行事！"
+    "value": "这里有某种东西^red;阻挡了我们的扫描仪^reset;，使得这颗行星的构成基本上^#e43774;未知^reset;。^red;可能致命！^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/ffunknown/2",
     "raw": "^#e43774;Unknown^reset; readings are confusing our scanners. I can glean nothing useful from them. ^red;Potentially Lethal!^reset;",
-    "value": "这颗星球发出的^#e43774;干扰^reset;太过强大！无法扫描！如果你要登陆，请时刻保持^red;警惕^reset;！"
+    "value": "^#e43774;未知^reset;读数正在干扰我们的扫描仪。我无法从中获取任何有用信息。^red;可能致命！^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/frozenvolcanic/0",
     "raw": "^#b86c00;Frozen Volcanic^reset; worlds are relatively rare, and possess a dangerous mix of ice, burning rock and lava. ^green;Many useful resources^reset; detected. ^cyan;Recommend: Moderate Cold Protection^reset;",
-    "value": "这是^#b86c00;冰冻火山^reset;星球，这里有着冰、燃烧的石头、岩浆等危险物质。系统检测到^green;许多有用的资源^reset;。^cyan;推荐：重度寒冷保护^reset;"
+    "value": "^#b86c00;冰冻火山^reset;世界相对罕见，危险地混合着冰层、炽热的岩石与熔岩。^green;检测到许多有用资源^reset;。^cyan;建议：中度寒冷防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/frozenvolcanic/1",
     "raw": "^#b86c00;Frozen Volcanic^reset;? How is this even possible? Science is at a loss to provide an explanation. ^green;Many useful resources^reset; detected. ^cyan;Recommend: Moderate Cold Protection^reset;",
-    "value": "这是一颗^#b86c00;冰冻火山^reset;星球，这类星球形成的原因没人知道，这完全推翻了常识！系统检测到这颗行星上有着^green;许多有用的资源^reset;。^cyan;推荐：重度寒冷保护^reset;"
+    "value": "^#b86c00;冰冻火山^reset;？这怎么可能？科学界也无法提供解释。^green;检测到许多有用资源^reset;。^cyan;建议：中度寒冷防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/frozenvolcanic/2",
     "raw": "A ^#b86c00;frozen volcanic^reset; surface ripe with hazards awaits below. ^red;Beware of lava, cold and liquid nitrogen dangers.^reset; ^cyan;Recommend: Moderate Cold Protection^reset;",
-    "value": "这颗^#b86c00;冰冻火山^reset;星球存在着两种极端。你完全不知道会有什么危险或者宝藏在你的脚底下，请小心^red;岩浆、液氮^reset;。^cyan;推荐：重度寒冷保护^reset;"
+    "value": "地表下方是一片危机四伏的^#b86c00;冰冻火山^reset;。^red;小心熔岩、寒冷和液氮的危险。^reset; ^cyan;建议：中度寒冷防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant/0",
     "raw": "A ^#e43774;gas giant^reset; with enough mass to allow exploration. Take ^red;extreme caution^reset; wandering here. ^cyan;Recommend: Extreme Pressure Protection^reset;.",
-    "value": "这是一颗体积庞大的^#e43774;气态巨行星^reset;。在探索过程中请保持警惕。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗质量足以允许探索的^#e43774;气态巨行星^reset;。^red;在此漫游时需极度小心^reset;。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant/1",
     "raw": "A ^#e43774;gas giant^reset; swirling with massive storms and chemical clouds. ^red;Fatal danger^reset; is present here. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗^#e43774;气态巨行星^reset;^cyan;，这里有着剧烈的风暴与各种化学气体，这里^red;非常危险^reset;。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗^#e43774;气态巨行星^reset;，翻腾着巨大的风暴和化学云团。^red;致命的危险^reset;存在于此处。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant/2",
     "raw": "Whirling colors and thick gas circle this ^#e43774;gas giant^reset;. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "多彩的各类气体生成的厚重大气层紧紧包裹着这一颗^#e43774;气态巨行星^reset;。^cyan;推荐：极端压强保护^reset;。"
+    "value": "旋转的色彩与浓厚的气体环绕着这颗^#e43774;气态巨行星^reset;。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant/3",
     "raw": "A ^red;deadly^reset; but wonderfully unique ^#e43774;gas giant^reset; with enough atmosphere to explore.^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗^red;致命^reset;但独特的^#e43774;气态巨行星^reset;。它肯定能满足你那好奇的探险欲望。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗^red;致命的^reset;但奇妙独特的^#e43774;气态巨行星^reset;，拥有足以探索的大气层。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant/4",
     "raw": "While it has almost no ground to speak of, ^#505f50;a gas ball^reset; can yield useful resources. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这颗^#505f50;气态巨行星^reset;蕴含着许多有用的资源。^cyan;推荐：极端压强保护^reset;"
+    "value": "虽然它几乎谈不上有地面，但^#505f50;一个气态巨行星^reset;能产出有用的资源。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant/5",
     "raw": "A ^#505f50;gas ball^reset; with enough atmosphere to provide access to ^orange;valuable resources^reset;. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗蕴含着宝贵资源的^#505f50;气态巨行星^reset;，极高的压强包裹着整个星球。^cyan;推荐：极端压强保护^reset;"
+    "value": "一颗拥有足够大气层的^#505f50;气态巨行星^reset;，能够提供获取^orange;宝贵资源^reset;的途径。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant2/0",
     "raw": "A ^#e43774;gas giant^reset; with enough mass to allow exploration. Take ^red;extreme caution^reset; wandering here. ^cyan;Recommend: Extreme Pressure Protection^reset;.",
-    "value": "这是一颗体积庞大的^#e43774;气态巨行星^reset;。在探索过程中请保持警惕。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗质量足以允许探索的^#e43774;气态巨行星^reset;。^red;在此漫游时需极度小心^reset;。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant2/1",
     "raw": "A ^#e43774;gas giant^reset; swirling with massive storms and chemical clouds. ^red;Fatal danger^reset; is present here. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗^#e43774;气态巨行星^reset;^cyan;，这里有着剧烈的风暴与各种化学气体，这里^red;非常危险^reset;。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗^#e43774;气态巨行星^reset;，翻腾着巨大的风暴和化学云团。^red;致命的危险^reset;存在于此处。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant2/2",
     "raw": "Whirling colors and thick gas circle this ^#e43774;gas giant^reset;. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "多彩的各类气体生成的厚重大气层紧紧包裹着这一颗^#e43774;气态巨行星^reset;。^cyan;推荐：极端压强保护^reset;。"
+    "value": "旋转的色彩与浓厚的气体环绕着这颗^#e43774;气态巨行星^reset;。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant2/3",
     "raw": "A ^red;deadly^reset; but wonderfully unique ^#e43774;gas giant^reset; with enough atmosphere to explore.^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗^red;致命^reset;但独特的^#e43774;气态巨行星^reset;。它肯定能满足你那好奇的探险欲望。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗^red;致命的^reset;但奇妙独特的^#e43774;气态巨行星^reset;，拥有足以探索的大气层。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant2/4",
     "raw": "While it has almost no ground to speak of, ^#505f50;a gas ball^reset; can yield useful resources. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这颗^#505f50;气态巨行星^reset;蕴含着许多有用的资源。^cyan;推荐：极端压强保护^reset;"
+    "value": "虽然它几乎谈不上有地面，但^#505f50;一个气态巨行星^reset;能产出有用的资源。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant2/5",
     "raw": "A ^#505f50;gas ball^reset; with enough atmosphere to provide access to ^orange;valuable resources^reset;. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗蕴含着宝贵资源的^#505f50;气态巨行星^reset;，极高的压强包裹着整个星球。^cyan;推荐：极端压强保护^reset;"
+    "value": "一颗拥有足够大气层的^#505f50;气态巨行星^reset;，能够提供获取^orange;宝贵资源^reset;的途径。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant3/0",
     "raw": "A ^#e43774;gas giant^reset; with enough mass to allow exploration. Take ^red;extreme caution^reset; wandering here. ^cyan;Recommend: Extreme Pressure Protection^reset;.",
-    "value": "这是一颗体积庞大的^#e43774;气态巨行星^reset;。在探索过程中请保持警惕。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗质量足以允许探索的^#e43774;气态巨行星^reset;。^red;在此漫游时需极度小心^reset;。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant3/1",
     "raw": "A ^#e43774;gas giant^reset; swirling with massive storms and chemical clouds. ^red;Fatal danger^reset; is present here. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗^#e43774;气态巨行星^reset;^cyan;，这里有着剧烈的风暴与各种化学气体，这里^red;非常危险^reset;。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗^#e43774;气态巨行星^reset;，翻腾着巨大的风暴和化学云团。^red;致命的危险^reset;存在于此处。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant3/2",
     "raw": "Whirling colors and thick gas circle this ^#e43774;gas giant^reset;. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "多彩的各类气体生成的厚重大气层紧紧包裹着这一颗^#e43774;气态巨行星^reset;。^cyan;推荐：极端压强保护^reset;。"
+    "value": "旋转的色彩与浓厚的气体环绕着这颗^#e43774;气态巨行星^reset;。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant3/3",
     "raw": "A ^red;deadly^reset; but wonderfully unique ^#e43774;gas giant^reset; with enough atmosphere to explore.^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗^red;致命^reset;但独特的^#e43774;气态巨行星^reset;。它肯定能满足你那好奇的探险欲望。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗^red;致命的^reset;但奇妙独特的^#e43774;气态巨行星^reset;，拥有足以探索的大气层。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant3/4",
     "raw": "While it has almost no ground to speak of, ^#505f50;a gas ball^reset; can yield useful resources. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这颗^#505f50;气态巨行星^reset;蕴含着许多有用的资源。^cyan;推荐：极端压强保护^reset;"
+    "value": "虽然它几乎谈不上有地面，但^#505f50;一个气态巨行星^reset;能产出有用的资源。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant3/5",
     "raw": "A ^#505f50;gas ball^reset; with enough atmosphere to provide access to ^orange;valuable resources^reset;. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗蕴含着宝贵资源的^#505f50;气态巨行星^reset;，极高的压强包裹着整个星球。^cyan;推荐：极端压强保护^reset;"
+    "value": "一颗拥有足够大气层的^#505f50;气态巨行星^reset;，能够提供获取^orange;宝贵资源^reset;的途径。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant4/0",
     "raw": "A ^#e43774;gas giant^reset; with enough mass to allow exploration. Take ^red;extreme caution^reset; wandering here. ^cyan;Recommend: Extreme Pressure Protection^reset;.",
-    "value": "这是一颗体积庞大的^#e43774;气态巨行星^reset;。在探索过程中请保持警惕。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗质量足以允许探索的^#e43774;气态巨行星^reset;。^red;在此漫游时需极度小心^reset;。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant4/1",
     "raw": "A ^#e43774;gas giant^reset; swirling with massive storms and chemical clouds. ^red;Fatal danger^reset; is present here. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗^#e43774;气态巨行星^reset;^cyan;，这里有着剧烈的风暴与各种化学气体，这里^red;非常危险^reset;。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗^#e43774;气态巨行星^reset;，翻腾着巨大的风暴和化学云团。^red;致命的危险^reset;存在于此处。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant4/2",
     "raw": "Whirling colors and thick gas circle this ^#e43774;gas giant^reset;. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "多彩的各类气体生成的厚重大气层紧紧包裹着这一颗^#e43774;气态巨行星^reset;。^cyan;推荐：极端压强保护^reset;。"
+    "value": "旋转的色彩与浓厚的气体环绕着这颗^#e43774;气态巨行星^reset;。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant4/3",
     "raw": "A ^red;deadly^reset; but wonderfully unique ^#e43774;gas giant^reset; with enough atmosphere to explore.^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗^red;致命^reset;但独特的^#e43774;气态巨行星^reset;。它肯定能满足你那好奇的探险欲望。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗^red;致命的^reset;但奇妙独特的^#e43774;气态巨行星^reset;，拥有足以探索的大气层。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant4/4",
     "raw": "While it has almost no ground to speak of, ^#505f50;a gas ball^reset; can yield useful resources. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这颗^#505f50;气态巨行星^reset;蕴含着许多有用的资源。^cyan;推荐：极端压强保护^reset;"
+    "value": "虽然它几乎谈不上有地面，但^#505f50;一个气态巨行星^reset;能产出有用的资源。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant4/5",
     "raw": "A ^#505f50;gas ball^reset; with enough atmosphere to provide access to ^orange;valuable resources^reset;. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗蕴含着宝贵资源的^#505f50;气态巨行星^reset;，极高的压强包裹着整个星球。^cyan;推荐：极端压强保护^reset;"
+    "value": "一颗拥有足够大气层的^#505f50;气态巨行星^reset;，能够提供获取^orange;宝贵资源^reset;的途径。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant5/0",
     "raw": "A ^#e43774;gas giant^reset; with enough mass to allow exploration. Take ^red;extreme caution^reset; wandering here. ^cyan;Recommend: Extreme Pressure Protection^reset;.",
-    "value": "这是一颗体积庞大的^#e43774;气态巨行星^reset;。在探索过程中请保持警惕。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗质量足以允许探索的^#e43774;气态巨行星^reset;。^red;在此漫游时需极度小心^reset;。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant5/1",
     "raw": "A ^#e43774;gas giant^reset; swirling with massive storms and chemical clouds. ^red;Fatal danger^reset; is present here. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗^#e43774;气态巨行星^reset;^cyan;，这里有着剧烈的风暴与各种化学气体，这里^red;非常危险^reset;。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗^#e43774;气态巨行星^reset;，翻腾着巨大的风暴和化学云团。^red;致命的危险^reset;存在于此处。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant5/2",
     "raw": "Whirling colors and thick gas circle this ^#e43774;gas giant^reset;. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "多彩的各类气体生成的厚重大气层紧紧包裹着这一颗^#e43774;气态巨行星^reset;。^cyan;推荐：极端压强保护^reset;。"
+    "value": "旋转的色彩与浓厚的气体环绕着这颗^#e43774;气态巨行星^reset;。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant5/3",
     "raw": "A ^red;deadly^reset; but wonderfully unique ^#e43774;gas giant^reset; with enough atmosphere to explore.^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗^red;致命^reset;但独特的^#e43774;气态巨行星^reset;。它肯定能满足你那好奇的探险欲望。^cyan;推荐：极端压强保护^reset;。"
+    "value": "一颗^red;致命的^reset;但奇妙独特的^#e43774;气态巨行星^reset;，拥有足以探索的大气层。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant5/4",
     "raw": "While it has almost no ground to speak of, ^#505f50;a gas ball^reset; can yield useful resources. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这颗^#505f50;气态巨行星^reset;蕴含着许多有用的资源。^cyan;推荐：极端压强保护^reset;"
+    "value": "虽然它几乎谈不上有地面，但^#505f50;一个气态巨行星^reset;能产出有用的资源。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fugasgiant5/5",
     "raw": "A ^#505f50;gas ball^reset; with enough atmosphere to provide access to ^orange;valuable resources^reset;. ^cyan;Recommend: Extreme Pressure Protection^reset;",
-    "value": "这是一颗蕴含着宝贵资源的^#505f50;气态巨行星^reset;，极高的压强包裹着整个星球。^cyan;推荐：极端压强保护^reset;"
+    "value": "一颗拥有足够大气层的^#505f50;气态巨行星^reset;，能够提供获取^orange;宝贵资源^reset;的途径。^cyan;建议：极端压强防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fungus/0",
     "raw": "This planet seems to be covered in a giant ^#7fe96e;fungal^reset; colony. Beware of ^red;poison gas^reset; from huge spore clouds.",
-    "value": "整个星球已经被^#7fe96e;真菌^reset;所覆盖。小心孢子喷吐出的^red;毒气^reset;。"
+    "value": "这颗行星似乎被一个巨大的^#7fe96e;真菌^reset;菌落所覆盖。小心来自巨大孢子云的^red;毒气^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fungus/1",
     "raw": "A mutant ^#7fe96e;fungus^reset; has grown out of control, covering this world. Spores Galore! ^red;Poison gas clouds^reset; are quite common.",
-    "value": "这里的^#7fe96e;真菌^reset;已经失控，暴走的真菌覆盖了整个星球，各类孢子遍地都是！空气散布随处可见的^red;毒气^reset;。"
+    "value": "一种变异的^#7fe96e;真菌^reset;已失控生长，覆盖了这个世界。孢子遍地！^red;毒气云^reset;相当常见。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/fungus/2",
     "raw": "A ^#7fe96e;fungal^reset; colony of unsurpassed size engulfs almost this entire world. Pockets of ^red;poisonous clouds^reset; detected.",
-    "value": "无比庞大的^#7fe96e;真菌^reset;群落已经吞噬了这个世界。^red;毒气^reset;也到处都是。"
+    "value": "一个规模无与伦比的^#7fe96e;真菌^reset;菌落几乎吞噬了整个世界。检测到多处^red;有毒云团^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/icemoon/0",
     "raw": "A frigid, ^#86a8c5;frozen moon^reset;. Slippery surfaces could prove hazardous. Abundant ^#e43558;telebrium ore^reset; detected. ^cyan;Recommend: Moderate Cold Protection^reset;",
-    "value": "这是一颗寒冷的^#86a8c5;冰冻卫星^reset;。扫描仪发现上面存在着危险，不过也检测到地层中蕴藏的^#e43558;月海晶体碎片^reset;。^cyan;推荐：重度寒冷保护^reset;"
+    "value": "一颗寒冷的^#86a8c5;冰冻卫星^reset;。光滑的表面可能构成危险。检测到丰富的^#e43558;特勒贝矿^reset;。^cyan;推荐：中度寒冷保护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/icemoon/1",
     "raw": "A ^#86a8c5;frozen moon^reset;. Watch your footing, and beware ^red;dangerous wildlife^reset;. Abundant ^#e43558;telebrium ore^reset; detected. ^cyan;Recommend: Moderate Cold Protection^reset;",
-    "value": "这是一颗^#86a8c5;冰冻卫星^reset;。请在登陆后小心行事，留意你所发现的任何生物，因为它们都可对你造成生命^red;威胁^reset;。另外，在地层中检测到了^#e43558;月海晶体碎片^reset;。^cyan;推荐：重度寒冷保护^reset;"
+    "value": "一颗^#86a8c5;冰冻卫星^reset;。注意脚下，并警惕^red;危险的野生动物^reset;。检测到丰富的^#e43558;特勒贝矿^reset;。^cyan;推荐：中度寒冷保护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/icemoon/2",
     "raw": "^#86a8c5;Frozen moons^reset; are cold and dangerous to the unwary. I am detecting valuable ^#e43558;telebrium ore^reset; underground. ^cyan;Recommend: Moderate Cold Protection^reset;",
-    "value": "^#86a8c5;冰冻卫星^reset;对于不了解就盲目登陆的人而言是非常致命的！因为上面又冷又危险。矿石扫描器在这颗冰冻卫星地层中检测到^#e43558;月海晶体碎片^reset;。^cyan;建议：重度寒冷保护^reset;"
+    "value": "^#86a8c5;冰冻卫星^reset;对不谨慎者是寒冷且危险的。检测到地下有价值的^#e43558;特勒贝矿^reset;。^cyan;推荐：中度寒冷保护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/icewaste/0",
     "raw": "Scanners show ^red;deadly ice and absolute zero temperatures^reset; on this ^#69f1fd;ice waste^reset;. Proceed with caution. ^orange;Isogen Ore^reset; detected. ^cyan;Recommend: Extreme Cold protection^reset;",
-    "value": "在这颗^#69f1fd;冰冷荒原^reset;星球上的温度已经接近^red;绝对零度^reset;。请小心行事。矿石扫描仪发现上面蕴含^orange;寒霜矿^reset;。^cyan;推荐：极端严寒保护^reset;"
+    "value": "扫描显示，这颗^#69f1fd;冰原废土^reset;上存在^red;致命的冰层与绝对零度^reset;。请谨慎前进。检测到^orange;寒霜矿^reset;。^cyan;推荐：极端严寒防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/icewaste/1",
     "raw": "This ^#69f1fd;ice waste^reset; appears to have fatal temperatures, so be sure you have cold protection. I am detecting valuable resources underground. ^cyan;Recommend: Extreme Cold protection^reset;",
-    "value": "这是^#69f1fd;冰冻荒原^reset;行星。扫描仪检测到地层内含有宝贵的资源。^cyan;推荐：极端严寒保护^reset;"
+    "value": "这片^#69f1fd;冰原废土^reset;似乎温度极低，足以致命，请务必做好防寒措施。检测到地下有价值的资源。^cyan;推荐：极端严寒防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/icewaste/2",
     "raw": "Scanners show this ^#69f1fd;ice waste^reset; is ^red;extremely dangerous^reset; and has unusual terrain. ^orange;Isogen Ore^reset; detected. ^cyan;Recommend: Extreme Cold protection^reset;",
-    "value": "这颗行星是由非常危险的^#69f1fd;冰冷荒原^reset;构成的，这里的地形^red;极其危险^reset;！扫描仪发现了^orange;寒霜矿^reset;。^cyan;推荐：极端严寒保护^reset;"
+    "value": "扫描显示，这片^#69f1fd;冰原废土^reset;^red;极其危险^reset;且地形异常。检测到^orange;寒霜矿^reset;。^cyan;推荐：极端严寒防护^reset;。"
   },
   {
     "op": "replace",
@@ -1251,241 +1251,241 @@
     "op": "replace",
     "path": "/visitableTypeDescription/icewastedark/1",
     "raw": "This ^#69f1fd;ice waste^reset; appears to have fatal temperatures, so be sure you have cold protection. Nearly all light is blocked by the atmosphere. ^cyan;Recommend: Extreme Cold protection^reset;",
-    "value": "这颗^#69f1fd;冰冻荒原^reset;星球的大气层已经阻挡住了任何光线！^cyan;推荐：极端严寒保护^reset;"
+    "value": "这片^#69f1fd;冰原废土^reset;似乎温度极低，足以致命，请务必做好防寒措施。大气层几乎阻挡了所有光线。^cyan;推荐：极端严寒防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/icewastedark/2",
     "raw": "Scanners show this ^#69f1fd;ice waste^reset; is ^red;extremely dangerous^reset; and nearly no light. ^orange;Trianglium ore^reset; detected. ^cyan;Recommend: Extreme Cold protection^reset;",
-    "value": "扫描仪发现这是^red;极其危险^reset;的^#69f1fd;冰冷荒原^reset;星球，上面几乎没有光！从星球上检测到了^orange;原力矿^reset;。^cyan;推荐：极端严寒保护^reset;"
+    "value": "扫描显示，这片^#69f1fd;冰原废土^reset;^red;极其危险^reset;且几乎没有光线。检测到^orange;三角铱矿^reset;。^cyan;推荐：极端严寒防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/infernus/0",
     "raw": "Volatile lava and extreme deadly heat await on ^#cd5d02;infernus^reset; worlds. Protection recommended. ^orange;Pyreite Ore^reset; detected. ^cyan;Recommend: Extreme Heat protection^reset;",
-    "value": "这是一颗温度极高的^#cd5d02;炼狱^reset;行星，上面岩浆肆虐。矿石扫描仪在上面发现了^orange;永燃矿^reset;。^cyan;推荐：极端炎热保护^reset;"
+    "value": "不稳定的岩浆和极端致命的高温正等待着^#cd5d02;炼狱^reset;星球上的探险者。建议做好防护。检测到^orange;永燃矿^reset;。^cyan;推荐：极端炎热防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/infernus/1",
     "raw": "A hellish ^#cd5d02;infernus^reset; planet covered in ^red;lava^reset; and ^red;lethal temperatures^reset;. Bring heat protection. ^cyan;Recommend: Extreme Heat protection^reset;",
-    "value": "这是一颗^#cd5d02;炼狱^reset;星球。上面几乎全是^red;岩浆^reset;和^red;能把生命蒸熟的热气^reset;。^cyan;推荐：极端炎热保护^reset;"
+    "value": "一颗被^red;岩浆^reset;和^red;致命高温^reset;覆盖的^#cd5d02;炼狱^reset;星球。记得带上防热装备。^cyan;推荐：极端炎热防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/infernus/2",
     "raw": "^#cd5d02;Infernus^reset; worlds are ^red;exceptionally deadly^reset; and not to be undertaken without protection. ^orange;Pyreite Ore^reset; detected. ^cyan;Recommend: Extreme Heat protection^reset;",
-    "value": "这是一颗^#cd5d02;炼狱^reset;行星，如果你在没有对应保护的情况下登陆，将会导致^red;死亡^reset;！系统从上面扫描到^orange;永燃矿^reset;。^cyan;推荐：极端炎热保护^reset;"
+    "value": "^#cd5d02;炼狱^reset;星球^red;异常致命^reset;，无防护不应前往。检测到^orange;永燃矿^reset;。^cyan;推荐：极端炎热防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/infernusdark/0",
     "raw": "Volatile lava and extreme deadly heat await on ^#cd5d02;infernus^reset; worlds. Protection recommended. ^#d16fff;Densinium ore^reset; detected. ^cyan;Recommend: Extreme Heat protection^reset;",
-    "value": "扫描仪从这颗^#cd5d02;炼狱^reset;行星上检测到流动的岩浆和致命的高温，并且还发现了^#d16fff;超致密矿^reset;。^cyan;推荐：极端炎热保护^reset;"
+    "value": "不稳定的岩浆和极端致命的高温正等待着^#cd5d02;炼狱^reset;星球上的探险者。建议做好防护。检测到^#d16fff;坚密矿^reset;。^cyan;推荐：极端炎热防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/infernusdark/1",
     "raw": "A hellish ^#cd5d02;infernus^reset; planet covered in ^red;lava^reset; and ^red;lethal temperatures^reset;. Bring heat protection. ^cyan;Recommend: Extreme Heat protection^reset;",
-    "value": "这是一颗^#cd5d02;炼狱^reset;星球。上面几乎全是^red;岩浆^reset;和^red;能把生命蒸熟的热气^reset;。^cyan;推荐：极端炎热保护^reset;"
+    "value": "一颗被^red;岩浆^reset;和^red;致命高温^reset;覆盖的^#cd5d02;炼狱^reset;星球。记得带上防热装备。^cyan;推荐：极端炎热防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/infernusdark/2",
     "raw": "^#cd5d02;Infernus^reset; worlds are ^red;exceptionally deadly^reset; and not to be undertaken without protection. ^#d16fff;Densinium ore^reset; detected. ^cyan;Recommend: Extreme Heat protection^reset;",
-    "value": "这是一颗^#cd5d02;炼狱^reset;行星，如果你在没有对应保护的情况下登陆，将会导致^red;死亡^reset;！系统从上面扫描到^#d16fff;超致密矿^reset;。^cyan;推荐：极端炎热保护^reset;"
+    "value": "^#cd5d02;炼狱^reset;星球^red;异常致命^reset;，无防护不应前往。检测到^#d16fff;坚密矿^reset;。^cyan;推荐：极端炎热防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/irradiated/0",
     "raw": "^#83b369;Irradiated^reset; world. Dense pockets of lethal radiation, and large quantities of ^#4444ff;Irradium ore^reset; detected. ^cyan;Recommend: Moderate Radiation protection^reset;",
-    "value": "这是一颗^#83b369;辐射^reset;星球。上面布满了各种致命的辐射源，矿石扫描仪发现上面存在有大量的^#4444ff;镭^reset;。^cyan;推荐：重度辐射保护^reset;"
+    "value": "一颗^#83b369;辐射^reset;星球。检测到密集的致命辐射区，以及大量的^#4444ff;铱射矿^reset;。^cyan;推荐：中度辐射防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/irradiated/1",
     "raw": "This unusual ^#83b369;irradiated^reset; world should not be visited without ^green;radiation protection^reset;. ^#4444ff;Irradium ore^reset; detected. ^cyan;Recommend: Moderate Radiation protection^reset;",
-    "value": "这颗行星上有着极为危险的^#83b369;辐射^reset;。扫描仪发现星球上蕴含有^#4444ff;镭^reset;。^cyan;推荐：重度辐射保护^reset;"
+    "value": "这颗不寻常的^#83b369;辐射^reset;星球，不应在无^green;辐射防护^reset;的情况下访问。检测到^#4444ff;铱射矿^reset;。^cyan;推荐：中度辐射防护^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/irradiated/2",
     "raw": "Mutated trees and bizarre fauna are abundant on this ^#83b369;irradiated^reset; planet. ^cyan;Recommend: Moderate Radiation protection^reset;",
-    "value": "在这颗^#83b369;辐射^reset;星球上，有着各种奇形怪状的植物和生命。^cyan;推荐：极端辐射保护^reset;"
+    "value": "在这颗遭受^#83b369;辐射^reset;的星球上，变异的树木与奇异的动植物随处可见。^cyan;推荐：中度辐射保护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/lightless/0",
     "raw": "This strange ^#64616f;lightless sphere^reset; reflects or absorbs light. Reason unknown. ^#c62c7f;Effigium ore^reset; detected.",
-    "value": "这颗奇怪的^#64616f;无光星球^reset;表面反射任何光亮，原因不明。检测到^#c62c7f;幻影矿石^reset;"
+    "value": "这个奇怪的^#64616f;无光星球^reset;能够反射或吸收光线。原因不明。检测到^#c62c7f;幻影矿石^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/lightless/1",
     "raw": "The atmosphere of this ^#64616f;lightless sphere^reset; blocks any source of light from penetrating completely. Scans inconclusive.",
-    "value": "这是一颗^#64616f;无光星球^reset;扫面结果：星球表面阻止任何光线穿过。"
+    "value": "这颗^#64616f;无光星球^reset;的大气完全阻挡任何光源穿透。扫描结果不确定。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/lightless/2",
     "raw": "A ^#64616f;lightless sphere^reset; with no light but plenty of ^#d16fff;Effigium ore^reset; detected. Near-total darkness awaits.",
-    "value": "一颗^#64616f;无光星球^reset;表面没有任何光亮，地下蕴藏着^#d16fff;幻影矿石^reset;检测到完全的黑暗。"
+    "value": "一颗^#64616f;无光星球^reset;，没有光源但富含^#d16fff;幻影矿石^reset;。近乎完全的黑暗正等待着。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/magmadark/0",
     "raw": "This ^red;dangerously hot^reset; planet is chiefly composed of ^#ff1818;magma^reset;. Remember, your resilient spirit is admirable, but it is not flame retardant.",
-    "value": "这颗星球主要由^#ff1818;岩浆^white;构成，上面有着^red;致命的高温^white;！请记得不要在没有防护措施的情况下登陆。"
+    "value": "这颗^red;危险高温的^reset;行星主要由^#ff1818;岩浆^reset;构成。请记住，你坚韧的精神令人钦佩，但它并非阻燃材料。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/magmadark/1",
     "raw": "The planet surface is ^red;dangerously hot^reset;. Few creatures seek out an existence amongst the planet's vast oceans of ^#ff1818;magma^reset;.",
-    "value": "这个星球的表面都是^red;致命的高温^reset;。很少有生物能在这个星球上宽广的^#ff1818;岩浆^white;海洋里生存。"
+    "value": "该行星表面^red;极度危险地炽热^reset;。很少有生物会选择在这颗行星广阔的^#ff1818;岩浆^reset;海洋中寻求生存。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/magmadark/2",
     "raw": "The beam site is a tiny island isolated in a sea of ^#ff1818;magma^reset;. That you would consider visiting this ^red;searingly hot^reset; planet speaks volumes of your fortitude.",
-    "value": "计算机判断登陆点将会在^#ff1818;岩浆海^white;中的某个岛屿上。你准备好参观这颗^red;异常炎热^white;的星球了吗？"
+    "value": "传送着陆点是一片隔绝于^#ff1818;岩浆^reset;海洋中的微小岛屿。你会考虑拜访这颗^red;灼热难耐^reset;的行星，这充分说明了你的坚韧。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/metallicmoon/0",
     "raw": "^#666666;Cyber-Sphere^reset; worlds hold ^#90ac7c;abundant rare metals^reset; guarded by dangerous servitors. ^#d16fff;Densinium ore^reset; and ^#ffda44;high metallic content^reset; detected.",
-    "value": "^#666666;赛博^reset;世界蕴含有无比丰富的金属资源，但某种机械生物和各种危险充斥着整个星球。矿物扫描仪除了^#d16fff;超致密矿^reset;之外还发现了其他的^#ffda44;稀有金属^reset;。"
+    "value": "^#666666;赛博世界^reset;蕴藏着^#90ac7c;丰富的稀有金属^reset;，由危险的仆从守卫。检测到^#d16fff;坚密矿^reset;和^#ffda44;高金属含量^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/metallicmoon/1",
     "raw": "Scanners detect that this ^#666666;cybernetic world^reset; is over ^#90ac7c;12 million^reset; years old. Who built this marvel, and why?",
-    "value": "扫描仪指出这颗^#666666;赛博^reset;星球已经存在了^#90ac7c;一千二百万年^reset;！这到底是谁为了什么而创造了它？"
+    "value": "扫描仪检测到，这个^#666666;赛博世界^reset;已存在超过^#90ac7c;1200万年^reset;。是谁建造了这个奇迹，又是为了什么？"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/metallicmoon/2",
     "raw": "A ^#666666;metallic world^reset; built by an ancient race. ^#90ac7c;Abundant rare metals^reset; detected. Scans also show mechanical beings.",
-    "value": "这是由古老的未知种族改造的^#666666;赛博^reset;星球。矿物扫描仪检测到上面含有^#90ac7c;极其丰富的稀有金属^reset;。另外也扫描到某种机械类生命体。"
+    "value": "一个由古老种族建造的^#666666;金属世界^reset;。检测到^#90ac7c;丰富的稀有金属^reset;。扫描也显示了有机械生命体。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_toxic/0",
     "raw": "^#414556;Toxic^reset; materials compose the majority of this moon. A ^red;severely poisonous^reset; miasma covers the surface.",
-    "value": "^#414556;有毒^reset;物质是这颗卫星的主要构成部分。一种^red;剧毒^reset;毒气覆盖了整个表面。"
+    "value": "这颗卫星主要由^#414556;有毒^reset;物质构成。一层^red;剧毒^reset;瘴气覆盖着表面。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_toxic/1",
     "raw": "A putrid and ^#414556;toxic^reset; moon. While not inherently dangerous, I recommend a ^cyan;Poison EPP II^reset;.",
-    "value": "这是一颗^#414556;毒性^reset;卫星。虽然上面不是很危险，但是我还是建议你装备上^cyan;祛毒EPP II^reset;"
+    "value": "一颗腐烂且^#414556;有毒^reset;的卫星。虽非天生险恶，但我建议装备^cyan;祛毒EPP II^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_toxic/2",
     "raw": "A ^#414556;toxic^reset; moon covered in deposits of long-rotted soil, and a dense cloud of ^red;toxic, severely poisonous gas^reset;",
-    "value": "这是一颗充满^#414556;毒素^reset;的卫星，上面有着无数岁月沉积下来的腐烂土壤，还有浓密的^red;有毒气体云^reset;"
+    "value": "一颗^#414556;有毒^reset;的卫星，覆盖着长期腐烂的土壤沉积物，以及一团浓密、^red;剧毒且致命^reset;的气体云。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_desert/0",
     "raw": "This ^#b3947c;desert moon^reset; is dry, frozen, dusty and unpopulated. ^red;Low temperatures^reset; mean you should bring some limited measure of cold protection.",
-    "value": "这是一颗^#b3947c;沙漠卫星^reset;，渺无人烟、尘土飞扬。建议你在登陆前采取一些最基础的防寒措施。"
+    "value": "这颗^#b3947c;沙漠卫星^reset;干燥、冰冻、多尘且无人居住。^red;低温^reset;意味着你应携带一些有限的防寒措施。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_desert/1",
     "raw": "A lifeless ^#b3947c;desert moon^reset;. Take care, as the temperature is ^red;slightly freezing^reset; and will eventually prove fatal if you are not cautious.",
-    "value": "这是一颗毫无生命痕迹的^#b3947c;沙漠卫星^reset;。上面气温^red;有些低^reset;，如果不谨慎的话，或许你将会失去生命。"
+    "value": "一颗无生命的^#b3947c;沙漠卫星^reset;。请注意，气温^red;略低于冰点^reset;，若不谨慎应对，最终可能导致严重后果。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_desert/2",
     "raw": "A cold, sandy ^#b3947c;desert moon^reset;. A thin layer of cold protection should be sufficient to protect you.",
-    "value": "这是一颗^#b3947c;寒冷、沙漠化^reset;的卫星。你只需要普通防寒措施就可以征服它。"
+    "value": "一颗寒冷、多沙的^#b3947c;沙漠卫星^reset;。一层薄薄的防寒措施应足以保护你。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_stone/0",
     "raw": "A ^#999999;rocky moon^reset; with jagged and dangerous stone formations.",
-    "value": "这是一颗由锯齿状的石块为主要结构的^#999999;岩石卫星^reset;。"
+    "value": "一颗布满崎岖而险峻石峰的^#999999;岩石卫星^reset;，。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_stone/1",
     "raw": "^#999999;Rocky moons^reset; are tough terrain, but otherwise harmless.",
-    "value": "这颗^#999999;岩石卫星^reset;除了复杂的地形之外，并没有什么致命的危险。"
+    "value": "^#999999;岩石卫星^reset;是崎岖之地，但除此之外无害。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_stone/2",
     "raw": "Travel may be slower going on this ^#999999;rocky moon^reset;.",
-    "value": "这是一颗^#999999;岩石卫星^reset;。崎岖的地形或许会减慢你的探索速度。"
+    "value": "在这颗^#999999;岩石的星^reset;上旅行可能会变得缓慢。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_shadow/0",
     "raw": "A ^#505f50;Cloying, total darkness^reset; makes this resource-rich moon a rather spooky, dangerous place. Watch your step. ^red;Unknown bio-sign detected^reset;.",
-    "value": "一颗^#505f50;完全黑暗^reset;的月球，资源储量丰富，但是相当危险，小心台阶！^red;检测到未知生物标识^reset;。"
+    "value": "这片资源丰富的卫星笼罩在^#505f50;令人窒息的、彻底的黑暗之中^reset;，使其成为一个相当阴森危险的地方。请小心脚下。^red;检测到未知生物信号^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_shadow/1",
     "raw": "There are few places darker than a ^#505f50;shadow moon^reset;. Scanners detect unknown material signatures as well as ^red;an ancient unknown entity^reset;.",
-    "value": "这是一颗^#505f50;暗影卫星^reset;，扫描仪无法作用，所有数据未知！似乎探测到一个^red;古老未知的实体^reset;。"
+    "value": "几乎没有地方比一颗^#505f50;暗影卫星^reset;更黑暗。扫描仪探测到了未知的物质信号，以及^red;一个古老未知的实体^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_shadow/2",
     "raw": "A ^#505f50;shadow moon^reset; prevents most light from penetrating its dark miasma. I detect ^orange;valuable resources^reset; and ^red;some sort of unknown bio-signature^reset;.",
-    "value": "一颗^#505f50;暗影卫星^reset;大气中漂浮着光线难以穿透的黑色气体。我检测到了某些^orange;稀有资源^reset;还有^red;一些未知生物标识e^reset;。"
+    "value": "^#505f50;暗影卫星^reset;那层幽暗的瘴气阻挡了大部分光线。我检测到了^orange;有价值的资源^reset;和^red;某种未知的生物信号^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_volcanic/0",
     "raw": "^#663322;Volcanic activity^reset; runs rampant on this moon. Temperatures are ^red;severely hot^reset; and protection should be worn when exploring.",
-    "value": "频繁的^#663322;火山^reset;活动是这颗卫星上最正常的一件事。星球温度是^red;致命的热^reset;探索时请装备致命热源保护。"
+    "value": "^#663322;火山活动^reset;在这颗卫星上肆虐横行。温度^red;极其炎热^reset;，探索时应穿戴防护。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_volcanic/1",
     "raw": "This ^#663322;volcanic moon^reset; should contain abundant erchius fuel, but use caution or protection when travelling in the ^red;severe heat^reset;.",
-    "value": "这颗^#663322;火山卫星^reset;蕴含着丰富的厄尔吉斯晶态燃料。但是你得小心上面的^red;热度^reset;。"
+    "value": "这颗^#663322;火山卫星^reset;应含有丰富的厄尔吉斯燃料，但在^red;极端高温^reset;中旅行时，需谨慎或采取防护。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/moon_volcanic/2",
     "raw": "A ^#663322;volcanic^reset; moon flowing with ^red;lava and severe heat^reset;. Take care when exploring.",
-    "value": "这颗由^#663322;火山^reset;构成的卫星充斥着^red;高温和岩浆^reset;。在探索时请时刻保持警惕。"
+    "value": "一颗^#663322;火山^reset;卫星，^red;熔岩流淌，酷热难当^reset;。探索时务必小心。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/mountainous/0",
     "raw": "This ^#b398ba;mountainous^reset; world is studded with immensely tall rocky mountains. Scans show large bipedal primitives. ^#e47998;Zerchesium ore^reset; detected. High-Gravity events are common.",
-    "value": "这个^#b398ba;山脉^reset;世界布满了极高的落基山脉。扫描显示有大量双足原始人。探测到^#e47998;Z极熔金矿^reset;。常常发生高重力事件。"
+    "value": "这个^#b398ba;山脉^reset;世界遍布极高的岩石山脉。扫描显示大量双足原始生物。探测到^#e47998;极熔金矿^reset;。高重力事件很常见。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/mountainous/1",
     "raw": "This ^#b398ba;mountainous^reset; world is absolutely riddled with ^#e47998;ores of many sorts^reset;, though is plagued by ^red;violent weather patterns^reset;.",
-    "value": "这个^#b398ba;山脉^reset;世界充斥着^#e47998;不同种类的矿^reset;，虽然受到^red;暴风雨天气模式^reset;的困扰。"
+    "value": "这个^#b398ba;山脉^reset;世界遍布着^#e47998;各类矿石^reset;，却饱受^red;狂暴天气^reset;的侵扰。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/mountainous/2",
     "raw": "A ^#b398ba;mountainous^reset; surface makes for slow travel, but it has ^#e47998;abundant sources of metals^reset; that should prove useful.",
-    "value": "这颗行星上地形属于^#b398ba;山脉^reset;结构，这会导致你的探索进程异常缓慢。不过这里有着^#e47998;丰富的金属储量^reset;。"
+    "value": "崎岖的^#b398ba;山地^reset;地形使得行进缓慢，但这里蕴藏着^#e47998;丰富的金属资源^reset;，以后定能派上用场。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/mountainous/3",
     "raw": "A ^#b398ba;mountainous^reset; with ^#e47998;zerchesium veins^reset; that should prove useful. High-Gravity weather is frequent. Use caution.",
-    "value": "这颗行星上地形属于^#b398ba;山脉^reset;结构并带有^#e47998;高熔点纹理^reset;。小心频繁的高重力天气。"
+    "value": "一个富含^#e47998;极熔金矿脉^reset;的^#b398ba;山脉^reset;世界，预计有开采价值。高重力天气频繁出现，请务必小心。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/nitrogensea/0",
     "raw": "A deadly ^#69f1fd;liquid nitrogen sea^reset; awaits beneath a dense layer of ice. ^cyan;Recommend: Moderate Cold Protection^reset;",
-    "value": "别看星球全都是冰，系统可是扫描出在冰层下面可是有着致命的^#69f1fd;液氮海^reset;。^cyan;推荐：重度寒冷保护^reset;"
+    "value": "致命的^#69f1fd;液氮海^reset;潜藏在厚冰层之下。^cyan;推荐：中度寒冷防护^reset;"
   },
   {
     "op": "replace",
@@ -1497,25 +1497,25 @@
     "op": "replace",
     "path": "/visitableTypeDescription/nitrogensea/2",
     "raw": "It should be assumed that this ^#69f1fd;liquid nitrogen sea^reset; is both ^red;dangerously cold^reset; and slippery. ^cyan;Recommend: Moderate Cold Protection^reset;",
-    "value": "这颗星球存在着^#69f1fd;液氮海^reset;，温度已经低至^red;致命级别^reset;。^cyan;推荐：重度寒冷保护^reset;"
+    "value": "应假设这片^#69f1fd;液氮海^reset;既^red;极度寒冷^reset;又湿滑。^cyan;推荐：中度寒冷防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/penumbra/0",
     "raw": "Sunlight rarely penetrates ^#78657f;penumbral^reset; atmospheres. Rich sources of ^#9d5bd0;penumbrite ore^reset; detected.",
-    "value": "这是一颗^#78657f;半影^reset;行星，恒星光芒无法穿过厚重的大气层！矿物扫描仪在星球上发现了^#9d5bd0;半影矿^reset;。"
+    "value": "阳光极少穿透^#78657f;半影^reset;星球的大气层。探测到丰富的^#9d5bd0;半影矿^reset;矿源。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/penumbra/1",
     "raw": "^#78657f;Penumbra^reset; planets have a unique makeup that blocks light but not UV. They are the sole source of ^#9d5bd0;penumbrite ore^reset;.",
-    "value": "这是一颗^#78657f;半影^reset;星球，这类星球都具有阻挡光线而不阻挡紫外线的独特大气构造。它们是^#9d5bd0;半影矿^reset;的唯一来源。"
+    "value": "^#78657f;半影^reset;行星具有独特的构造，能阻挡可见光却无法过滤紫外线。它们是^#9d5bd0;半影矿石^reset;的唯一来源。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/penumbra/2",
     "raw": "Dark, but with plenty of bioluminescent fauna, ^#78657f;penumbra^reset; worlds are the only known viable source of ^#9d5bd0;penumbrite^reset;.",
-    "value": "这是黑暗的^#78657f;半影^reset;世界，但是却生存着大量的发光生物，并且这类世界也是唯一已知可以产出^#9d5bd0;半影矿^reset;的星球。"
+    "value": "^#78657f;半影^reset;世界虽光线昏暗，却遍布大量发光生物，是目前已知唯一可产出^#9d5bd0;半影矿^reset;的可行来源。"
   },
   {
     "op": "replace",
@@ -1527,13 +1527,13 @@
     "op": "replace",
     "path": "/visitableTypeDescription/protoworld/1",
     "raw": "I am detecting unusual life signs on this ^#517f51;proto world^reset;. It appears this life has been purposefully mutated. ^#e2ef55;Unusual ores^reset; detected. ^cyan;Recommend: Proto-Poison protection^reset;",
-    "value": "这颗^#517f51;原毒^reset;星球上除了扫描到某种异常生物，还发现了某些^#e2ef55;特别的矿石^reset;。^cyan;推荐：原毒保护^reset;"
+    "value": "我正在这颗^#517f51;原始星球^reset;上检测到异常的生命迹象。这种生命似乎被有意进行了突变改造。检测到^#e2ef55;异常矿石^reset;。^cyan;推荐：原毒保护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/protoworld/2",
     "raw": "Mutated life runs rampant here on this ^#517f51;proto world^reset;. Valuable ^#e2ef55;protocite^reset; is found in abundance. ^cyan;Recommend: Proto-Poison protection^reset;",
-    "value": "突变的生命体在这颗^#517f51;原毒^reset;星球上肆虐！矿物扫描仪发现存在有^#e2ef55;原体矿^reset;。^cyan;推荐：原毒保护^reset;"
+    "value": "突变生命在此^#517f51;原毒世界^reset;上肆虐！发现大量有价值的^#e2ef55;原体矿^reset;。^cyan;推荐：原毒防护^reset;"
   },
   {
     "op": "replace",
@@ -1545,301 +1545,301 @@
     "op": "replace",
     "path": "/visitableTypeDescription/protoworlddark/1",
     "raw": "I am detecting unusual life signs on this ^#517f51;proto world^reset;. It appears this life has been purposefully mutated. ^#e2ef55;Unusual ores^reset; detected. ^cyan;Recommend: Proto-Poison protection^reset;",
-    "value": "这颗^#517f51;原毒^reset;星球上除了扫描到某种异常生物，还发现了某些^#e2ef55;特别的矿石^reset;。^cyan;推荐：原毒保护^reset;"
+    "value": "我正在这颗^#517f51;原始星球^reset;上检测到异常的生命迹象。这种生命似乎被有意进行了突变改造。检测到^#e2ef55;异常矿石^reset;。^cyan;推荐：原毒保护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/protoworlddark/2",
     "raw": "Mutated life runs rampant here on this ^#517f51;proto world^reset;. Valuable ^#e2ef55;protocite^reset; is found in abundance. ^cyan;Recommend: Proto-Poison protection^reset;",
-    "value": "突变的生命体在这颗^#517f51;原毒^reset;星球上肆虐！矿物扫描仪发现存在有^#e2ef55;原体矿^reset;。^cyan;推荐：原毒保护^reset;"
+    "value": "突变生命在此^#517f51;原毒世界^reset;上肆虐！发现大量有价值的^#e2ef55;原体矿^reset;。^cyan;推荐：原毒防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/shadow/0",
     "raw": "A ^#ccfa33;shadow world^reset; that seems to block our scanners. Whatever is down there, it's likely rather dark. ^red;Potentially Lethal!^reset;",
-    "value": "我们的扫描系统无法作用于这颗^#ccfa33;暗影^reset;行星。建议携带充足的照明工具，^red;小心那些潜伏在黑暗中的危险！^reset;"
+    "value": "一个似乎能屏蔽我们扫描仪的^#ccfa33;暗影^reset;世界。无论下面有什么，那里很可能相当黑暗。^red;潜在致命！^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/shadow/1",
     "raw": "I get no readings whatsoever off of this ^#ccfa33;shadow world^reset;, but it appears there will be little light on the surface to speak of. ^red;Potentially Lethal!^reset;",
-    "value": "这个^#ccfa33;暗影^reset;世界无法扫描，可能存在着^red;致命的危险！^reset;"
+    "value": "我从此^#ccfa33;暗影世界^reset;得不到任何读数，但地表似乎几乎无光可言。^red;潜在致命！^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/shadow/2",
     "raw": "This ^#ccfa33;shadow world^reset; prevents any and all scans. ^red;Use extreme caution when travelling^reset;.",
-    "value": "这颗^#ccfa33;暗影^reset;星球无法扫描！"
+    "value": "此^#ccfa33;暗影世界^reset;阻止任何及所有扫描。^red;旅行时需极度谨慎^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/slimeworld/0",
     "raw": "A ^#517f51;gelatinous^reset;, slimy world. High elasticity. Strange, ^red;massive lifeforms^reset; and a ^red;poisonous atmosphere^reset; detected.",
-    "value": "这是一个^#517f51;凝胶状^reset;的世界，你可以在这里找到在弹簧床上玩耍的感觉。并且系统检测到了^red;奇怪巨型生命体^reset;和致命的毒气。"
+    "value": "一个^#517f51;凝胶状^reset;、黏滑的世界。弹性很强。探测到奇特的^reset;巨大生命形态^red;和^red;有毒大气^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/slimeworld/1",
     "raw": "^#517f51;Slime^reset; forms almost this entire planet. ^red;Huge nocturnal creatures^reset; detected. The atmosphere is full of ^red;poisonous vapours^reset;.",
-    "value": "这颗星球几乎就是由^#517f51;黏液^reset;组成。系统扫描到某种^red;巨大的夜行生命体^reset;。大气中则充满了^red;有毒气体^reset;。"
+    "value": "^#517f51;黏液^reset;构成了几乎整个星球。检测到^red;巨大的夜行生物^reset;。大气中充满了^red;有毒蒸汽^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/slimeworld/2",
     "raw": "A bouncy, sticky, ^#517f51;gelatinous^reset; world. It is evident that this will make for some rather gross exploration. ^red;Poisonous atmosphere^reset; detected.",
-    "value": "这是一个充满弹性的^#517f51;凝胶^reset;状世界。如果你准备好了，就快去冒险吧！探测到大气中含有^red;有毒气体^reset;。"
+    "value": "一个充满弹性、黏糊糊的^#517f51;胶质^reset;世界。显然，这将带来相当令人不适的探索体验。检测到^red;有毒大气^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/snowdark/0",
     "raw": "This chilly landing site is laden with ^#69f1fd;snow^reset;. Sundry trees grow here and various animals also thrive in the cold conditions. An excellent place to make snowballs.",
-    "value": "这是一个寒冷的星球，上面到处都是^#69f1fd;雪^white;。各种耐寒的植物和动物在这里繁衍生息。另外，这真是个打雪仗的好地方！"
+    "value": "此寒冷着陆点覆满^#69f1fd;积雪^reset;。各种树木在此生长，多种动物亦于严寒中繁盛。一个制作雪球的绝佳场所。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/snowdark/1",
     "raw": "The landing location is cold, but not perilously so. ^#69f1fd;Snow^reset; covers the area and blizzards are a possibility. A hat and gloves may be advisable.",
-    "value": "登陆点有些冷，但还不至于造成致命。整个星球都被^#69f1fd;雪^white;所覆盖，暴风雪是最常见的天气。"
+    "value": "着陆点寒冷，但尚不致命。^#69f1fd;积雪^reset;覆盖该区域，且可能出现暴风雪。建议佩戴帽子与手套。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/snowdark/2",
     "raw": "This location is relatively chill, and ^#69f1fd;snow^reset; lies thickly on the ground. My sensors indicate that there are critters scampering through the soft blanket of white.",
-    "value": "这颗星球相对于普通星球来说有些冷，上面有着厚厚的^#69f1fd;雪^white;。"
+    "value": "此处相对寒冷，^#69f1fd;积雪^reset;厚覆地面。传感器显示有小动物正窜行于柔软的白色雪毯之中。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/strangesea/0",
     "raw": "This world is covered in a ^#da67b8;strange sea^reset;. Scanners reveal dense concentrations of Plasmic Fluid. ^red;Deadly gas!^reset; ^cyan;Recommend Poison Gas Immunity^reset;",
-    "value": "这个世界被^#da67b8;诡之海^reset;所覆盖，扫描仪显示其中有密集的血原液。探测到^red;致命的毒气！^reset;^cyan;推荐：毒气保护^reset;"
+    "value": "这个世界被一片^#da67b8;奇怪的海洋^reset;所覆盖。扫描仪显示高浓度的血原液。^red;致命气体！^reset;^cyan;推荐毒气免疫^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/strangesea/1",
     "raw": "A ^#da67b8;strange sea^reset; covers this planet. Scanners reveal little useful info apart from large quantities of plasmic liquid and a gaseous, airless atmosphere. ^red;Potentially Lethal Gas!^reset;",
-    "value": "这颗星球被^#da67b8;诡之海^reset;所覆盖着。扫描仪除了显示大量的等离子体液体和没有可呼吸空气的大气外，几乎没有什么有用的信息。探测到^red;潜藏的致命毒气！^reset;"
+    "value": "这颗星球被一片^#da67b8;奇异的海洋^reset;所覆盖。扫描仪显示，除了大量的血原液和一个充满气体、无氧的大气层外，几乎没有其他有用信息。^red;潜在致命气体！^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/strangesea/2",
     "raw": "Plasmic Fluid forms the bulk of this unusual world. ^#da67b8;strange sea^reset;. ^red;Poisonous gas clouds ^reset; are common.",
-    "value": "血原液构成了这个不寻常世界的绝大部分。^#da67b8;这星球被诡异的海洋所覆盖^reset;。^red;有毒气体云^reset;在这颗星球上普遍存在。"
+    "value": "血原液构成了这个奇异世界的主体，形成了一片诡异的^#da67b8;海洋^reset;。^red;毒气云层^reset;在此处司空见惯。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/sulphuric/0",
     "raw": "^#ffea00;Sulphuric^reset; worlds are extremely dangerous. Airless, acidic and toxic atmosphere. Abundant ^#772211;cinnabar^reset; detected. ^cyan;Recommend: Acid Protection^reset;",
-    "value": "这是一颗^#ffea00;硫酸^reset;行星。上面没有可供呼吸的氧气，只有各种酸性和毒性的气体！矿物扫描仪在上面检测到丰富的^#772211;朱砂^reset;。^cyan;推荐：酸蚀保护^reset;"
+    "value": "^#ffea00;硫酸^reset;世界极度危险。大气层稀薄，充满酸性与毒性物质。检测到大量^#772211;朱砂^reset;矿藏。^cyan;推荐：酸蚀保护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/sulphuric/1",
     "raw": "^#ffea00;Sulphuric^reset; acid atmosphere detected. ^red;Deadly pools of acid and lethal storms^reset; lie below in abundance. ^cyan;Recommend: Acid Protection^reset;",
-    "value": "扫描仪发现这颗行星的空气中存在有^#ffea00;酸性大气^reset;，而地表则有^red;致命的硫酸池^reset;。另外矿物扫描仪在地层内检测出^#772211;丰富的矿物资源^reset;。^cyan;推荐：酸蚀保护^reset;"
+    "value": "检测到^#ffea00;硫酸^reset;大气环境。下方遍布^red;致命的酸液池与致命风暴。^reset;^cyan;推荐：酸蚀保护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/sulphuric/2",
     "raw": "A ^red;deadly^reset; ^#ffea00;sulphuric^reset; world. Exploration without protection will prove fatal. ^cyan;Recommend: Sulphuric Acid and Breath protection^reset;",
-    "value": "这是一个^red;致命^reset;的^#ffea00;硫磺^reset;世界，如果你没有防护措施就登陆，那么你将有可能失去生命。^cyan;推荐：酸蚀、窒息保护^reset;"
+    "value": "一个^red;致命^reset;的^#ffea00;硫酸世界^reset;。无防护探索将导致死亡。^cyan;推荐：酸蚀防护与呼吸防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/sulphuricdark/0",
     "raw": "^#ffea00;Sulphuric^reset; worlds are extremely dangerous. Airless, acidic and toxic atmosphere. Abundant ^#772211;cinnabar^reset; detected. ^cyan;Recommend: Acid Protection^reset;",
-    "value": "这是一颗^#ffea00;硫酸^reset;行星。上面没有可供呼吸的氧气，只有各种酸性和毒性的气体！矿物扫描仪在上面检测到丰富的^#772211;朱砂^reset;。^cyan;推荐：酸蚀保护^reset;"
+    "value": "^#ffea00;硫酸^reset;世界极度危险。大气层稀薄，充满酸性与毒性物质。检测到大量^#772211;朱砂^reset;矿藏。^cyan;推荐：酸蚀保护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/sulphuricdark/1",
     "raw": "^#ffea00;Sulphuric^reset; acid atmosphere detected. ^red;Deadly pools of acid and lethal storms^reset; lie below in abundance. ^cyan;Recommend: Acid Protection^reset;",
-    "value": "扫描仪发现这颗行星的空气中存在有^#ffea00;酸性大气^reset;，而地表则有^red;致命的硫酸池^reset;。另外矿物扫描仪在地层内检测出^#772211;丰富的矿物资源^reset;。^cyan;推荐：酸蚀保护^reset;"
+    "value": "检测到^#ffea00;硫酸^reset;大气环境。下方遍布^red;致命的酸液池与致命风暴。^reset;^cyan;推荐：酸蚀保护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/sulphuricdark/2",
     "raw": "A ^red;deadly^reset; ^#ffea00;sulphuric^reset; world. Exploration without protection will prove fatal. ^cyan;Recommend: Sulphuric Acid and Breath protection^reset;",
-    "value": "这是一个^red;致命^reset;的^#ffea00;硫磺^reset;世界，如果你没有防护措施就登陆，那么你将有可能失去生命。^cyan;推荐：酸蚀、窒息保护^reset;"
+    "value": "一个^red;致命^reset;的^#ffea00;硫酸世界^reset;。无防护探索将导致死亡。^cyan;推荐：酸蚀防护与呼吸防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/sulphuricocean/0",
     "raw": "A ^#ffea00;sulphuric ocean^reset; covers almost the entire surface. Abundant ^#772211;cinnabar^reset; detected. ^cyan;Recommend: Acid protection^reset;",
-    "value": "这颗星球的海洋是由^#ffea00;硫酸^reset;构成的。系统检测到了大量^#772211;朱砂^reset;。^cyan;推荐：酸蚀保护^reset;"
+    "value": "一片^#ffea00;硫酸海^reset;几乎覆盖了整个地表。检测到大量^#772211;朱砂^reset;矿藏。^cyan;推荐：酸蚀保护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/sulphuricocean/1",
     "raw": "A ^#ffea00;sulphuric ocean^reset;. This planet is ^red;extremely dangerous. Use caution^reset;. Likely a terrible vacation spot. ^cyan;Recommend: Acid protection^reset;",
-    "value": "这是一颗^#ffea00;硫酸海^reset;星球。这属于^red;非常危险^reset;的星球，如果你要在这里度假，请务必小心。^cyan;推荐：酸蚀保护^reset;"
+    "value": "一片^#ffea00;硫酸海^reset;。这颗星球^red;极其危险，请务必小心^reset;。恐怕是个糟糕的度假地。^cyan;推荐：酸蚀保护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/sulphuricocean/2",
     "raw": "A ^#ffea00;sulphuric ocean^reset; ripe with ^red;devastatingly brutal weather^reset;. ^cyan;Recommend: Acid protection^reset;",
-    "value": "我不建议你在没有装备保护的情况下，横渡这个星球的^#ffea00;硫酸海^reset;，因为除了硫酸之外，你还要警惕那^red;严峻的天气^reset;状况。^cyan;推荐：酸蚀保护^reset;"
+    "value": "一片^#ffea00;硫酸海^reset;，肆虐着^red;毁灭性的狂暴天气^reset;。^cyan;推荐：酸蚀保护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/superdense/0",
     "raw": "^#914560;Super-dense^reset; worlds have enormous gravitational force. ^red;Extreme danger from falling^reset;.",
-    "value": "这是一颗^#914560;致密星^reset;。提醒：从高处跳下是非常危险的行为，可能会导致^red;死亡^reset;！"
+    "value": "^#914560;超致密^reset;星体拥有巨大的引力，^red;在其中坠落将面临极度的危险。^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/superdense/1",
     "raw": "This unusually ^#914560;super-dense^reset; planet has gravity ^orange;far above normal^reset;. Be very careful. ^red;Falling means certain death^reset;.",
-    "value": "这是一颗^#914560;致密星^reset;！在上面尤其要注意的一点是，从高处坠落通常意味着^red;死亡^reset;。"
+    "value": "这颗异常的^#914560;超致密^reset;行星引力^orange;远超寻常^reset;。务必万分小心，^red;在这颗行星上坠落绝无生还可能。^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/superdense/2",
     "raw": "A ^#914560;Super-dense^reset; world with a much higher gravitational force than other planets of the same size. ^red;Very dangerous. Tread carefully.",
-    "value": "这是一颗^#914560;致密星^reset;，上面的重力和相同体积的普通行星对比有数倍之多。这里^red;非常危险^reset;，请小心。"
+    "value": "一个^#914560;超致密^reset;世界，其引力远超同等大小的其他行星。^red;极其危险，务必小心前行。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tabularasa/0",
     "raw": "Some hideous catastrophe has resulted in this planet becoming a ^#59a849;Tabula Rasa^reset;. A doomsday virus? Maybe you can find out.",
-    "value": "这颗行星因为某种灾难而变成了^#59a849;无人区^reset;。是病毒引起还是其他原因？或许你可以查明真相！"
+    "value": "一场可怕的灾难使这颗星球沦为^#59a849;一片空白^reset;。是末日病毒吗？或许你能找到答案。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tabularasa/1",
     "raw": "Some hideous catastrophe has resulted in this planet becoming a ^#59a849;Tabula Rasa^reset;. A long-ago nuclear armageddon? Who knows?",
-    "value": "是什么原因令这个星球变成了^#59a849;无人区^reset;？是核武战争？"
+    "value": "一场可怕的灾难将这颗星球化为^#59a849;一片空白^reset;。是远古的核战争浩劫吗？无人知晓。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tabularasa/2",
     "raw": "Some hideous catastrophe has resulted in this planet becoming a ^#59a849;Tabula Rasa^reset;. A Floran invasion? Who can tell?",
-    "value": "某种可怕的灾难导致这个星球变成了^#59a849;无人区^reset;。难道是叶族入侵？抑或是其他？"
+    "value": "一场可怕的灾难让这颗星球沦为^#59a849;一片空白^reset;。是叶族入侵？无人知晓。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tarball/0",
     "raw": "A ^#8349cc;tar ball^reset; with a semi-livable surface. Encumbering bodies of liquid with ^#555555;abundant oil^reset; litter the surface. ^cyan;Recommend: Heat protection^reset;",
-    "value": "这一颗^#8349cc;焦油^reset;星球有一半的面积是适于居住的。星球上的^#555555;油^reset;储量非常丰富。^cyan;推荐：炎热保护"
+    "value": "一颗表面勉强可居的^#8349cc;焦油星球^reset;。大量^#555555;污油^reset;覆盖其上，使液态水体变得沉重不堪。^cyan;推荐：炎热防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tarball/1",
     "raw": "A ^#8349cc;tar-covered world^reset; with breathable atmosphere. ^orange;Hazardous sticky pools of tar^reset; will make for slow travel. ^cyan;Recommend: Heat protection^reset;",
-    "value": "这是被^#8349cc;焦油^reset;覆盖的世界。别忘记了，^orange;焦油会让你移动缓慢^reset;。^cyan;推荐：炎热保护"
+    "value": "一个^#8349cc;被焦油覆盖的世界^reset;，却拥有可供呼吸的大气。^orange;危险的粘稠焦油池^reset;将使行进变得缓慢。^cyan;推荐：炎热防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tarball/2",
     "raw": "A ^#8349cc;tar ball^reset; with ^#555555;abundant oil sources^reset; detected on and below the surface. Some sort of ^orange;tar protection^reset; could prove useful. ^cyan;Recommend: Heat protection^reset;",
-    "value": "系统检测到这颗^#8349cc;焦油^reset;星球上蕴含着丰富的^#555555;油^reset;。或许你可以顺带检测一下你的^orange;焦油保护^reset;护具是否有效。^cyan;推荐：炎热保护"
+    "value": "在地表及地下探测到^#555555;丰富的油源^reset;，形成了一颗含油丰富的^#8349cc;焦油星球^reset;。采取某种^orange;焦油防护^reset;可能会很有帮助。^cyan;推荐：炎热防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/thickjungle/0",
     "raw": "^#8cf387;Rainforest^reset; has claimed the majority of this organic-rich world. Abundant ^#green;organic resources^reset; detected.",
-    "value": "^#8cf387;雨林^reset;已经成为这颗行星的主要生态环境。系统检测到无数的^green;有机资源^reset;。"
+    "value": "这片富含有机物的世界大部分已被^#8cf387;雨林^reset;覆盖。检测到丰富的^#green;有机资源^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/thickjungle/1",
     "raw": "A ^#8cf387;rainforest^reset; planet absolutely ripe with organic life. Abundant ^#green;organic resources^reset; detected.",
-    "value": "这颗^#8cf387;雨林^reset;星球存在有茂密的植物体系和大量的动物族群。如果你需要^green;有机资源^reset;，这就是天堂！"
+    "value": "一颗^#8cf387;雨林^reset;星球，生机盎然，有机生命极为繁盛。检测到丰富的^#green;有机资源^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/thickjungle/2",
     "raw": "^#8cf387;Rainforest^reset; covers nearly the entire surface of this warm and inviting planet. ^green;Bamboo and other organic resources detected in large quantities.^reset;",
-    "value": "这颗温暖宜居的星球大部分地表都被^#8cf387;雨林^reset;所覆盖。系统扫描到^green;竹子和其他有机资源^reset;。"
+    "value": "这颗温暖宜人的星球表面几乎完全被^#8cf387;雨林^reset;覆盖。^green;探测显示这里蕴藏着大量竹子及其他有机资源。^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tidewater/0",
     "raw": "This ^#008aff;tidewater^reset; world is subject to massive tidal forces. Ocean currents show fauna rich in ^orange;mutated nodules^reset; with interesting applications. ^cyan;Recommend: Poison protection^reset;",
-    "value": "这是一颗^#008aff;潮汐^reset;行星，星球上的海流会受到各种引力的牵动变成擎天的浪潮。海中有着丰富的^orange;突变生命群落^reset;期待你去发现。^cyan;推荐：毒素保护^reset;"
+    "value": "这个^#008aff;潮汐^reset;世界承受着巨大的潮汐力。洋流中孕育着丰富的^orange;变异结节^reset;生物群，具有引人注目的应用潜力。^cyan;推荐：毒素防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tidewater/1",
     "raw": "^#008aff;Tidal^reset; forces are extra strong on this ocean world. Unusual ^orange;rare resources^reset; detected on the ocean floor. ^cyan;Recommend: Poison protection^reset;",
-    "value": "^#008aff;潮汐^reset;的力量在这海洋的世界里变得极其强大！系统扫描到在海底存在有^orange;特别稀有的资源^reset;。^cyan;推荐：毒素保护^reset;"
+    "value": "这颗海洋星球上的^#008aff;潮汐^reset;力异常强大。在海底探测到了罕见的^orange;特殊资源^reset;。^cyan;推荐：毒素防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tidewater/2",
     "raw": "A ^#008aff;tidewater^reset; planet covered in sharp reefs, spike-like stone formations and ^orange;rare resources^reset;. ^cyan;Recommend: Poison protection^reset;",
-    "value": "这是一颗表面覆盖着锋利礁石的^#008aff;潮汐^reset;星球。有着穗状石头的构造并且还蕴含着^orange;稀有资源^reset;。^cyan;推荐：毒素保护"
+    "value": "一颗^#008aff;潮汐^reset;行星，遍布锋利的暗礁、尖刺般的石林与^orange;珍稀资源^reset;。^cyan;推荐：毒素防护^reset;"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tundradark/0",
     "raw": "A ^#61ffe3;frozen^reset; place, formed of ice - the permafrost runs deep here. Snow storms are common, and ^red;temperatures are dangerously low^reset;.",
-    "value": "这是一个^#61ffe3;冰冻^white;星球，主要构造是冰和冻土。由于温度^red;极其寒冷^white;，所以暴风雪是最常见的天气。"
+    "value": "一片^#61ffe3;冰冻^reset;之地，由冰构成 - 这里的永冻层很深。暴风雪很常见，且^red;温度低至危险水平^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tundradark/1",
     "raw": "This ^red;dangerously cold.^reset; landing site is ^#61ffe3;frozen^reset; solid. High likelihood of accidental self-cryopreservation. Protect yourself from the cold.",
-    "value": "这颗星球温度已达到^red;致命级别^white;！如果在不准备供暖设备的情况下登陆，极有可能造成^red;死亡^reset;！"
+    "value": "该着陆点^red;极度寒冷^reset;，已^#61ffe3;彻底冻结^reset;。意外自我冷冻的可能性很高。请做好防寒措施。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/tundradark/2",
     "raw": "^red;Temperatures at the beam site are dangerously low^reset;. The area is ^#61ffe3;frozen^reset;, and inhabited only by flora and fauna that are extremely resistant to the cold. ",
-    "value": "这颗星球完全被^#61ffe3;冰冻^white;住了，通过扫描，上面寒冷指数已经超出^red;致命级别^white;，只有异常耐寒的植物和动物才能存活。"
+    "value": "^red;传送着陆点的温度低至危险水平^reset;。该区域已^#61ffe3;冻结^reset;，仅有极度耐寒的动植物在此生存。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/urbanwasteland/0",
     "raw": "A ^#848484;wasteland^reset; housing the remains of a once great civilization. Something awful happened here, long ago. ^#43a43a;Ancient ruins^reset; hold many lost treasures. ^red;Violent weather detected^reset;.",
-    "value": "某个伟大文明的起源就在这个^#848484;废土^reset;星球上。远古时由于某种可怕的事导致了那个文明的灭亡，如今在这些废墟之中还残留有各种^#43a43a;古老的宝藏^reset;。另外还探测到各种^red;极端天气^reset;。"
+    "value": "一片^#848484;荒芜之地^reset;，掩埋着昔日辉煌文明的遗迹。很久以前，这里曾发生过可怕的事情。^#43a43a;古老的废墟^reset;中藏匿着无数失落的宝藏。^red;检测到剧烈天气变化^reset;。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/urbanwasteland/1",
     "raw": "A ^#848484;wasteland^reset;. Abundant ruins of ^#43a43a;a dead civilization^reset; located primarily near coastlines. Strange and often ^red;severely deadly^reset; storms form from time to time.",
-    "value": "这是一颗^#848484;废土^reset;星球。某个湮灭文明的废墟就在^#43a43a;海岸线^reset;上。探测到强烈的^red;致命风暴^reset;。"
+    "value": "一片^#848484;荒芜之地^reset;。^#43a43a;一个消亡文明^reset;的大量遗迹主要散布在海岸线附近。时而会形成诡异且^red;往往致命^reset;的风暴。"
   },
   {
     "op": "replace",
     "path": "/visitableTypeDescription/urbanwasteland/2",
     "raw": "Once a thriving world, something eradicated most life on this ^#848484;wasteland^reset;. ^red;Bandits and raiders^reset; are commonly found scavenging for resources amid ^red;extremely dangerous weather^reset; patterns.",
-    "value": "这曾经是一颗繁荣的星球，但是由于这里严重的^#848484;荒漠^reset;化，所以衰败了。这里除了遍地^red;强盗^reset;外，还有^red;极端恶劣的天气^reset;。"
+    "value": "这里曾是一片生机勃勃的世界，如今却沦为^#848484;荒芜之地^reset;，某种力量几乎抹去了所有生命。在^red;极端恶劣的天气^reset;中，^red;强盗和掠夺者^reset;四处游荡，搜寻着残存的资源。"
   },
   {
     "op": "replace",
     "path": "/terraformedPlanetDescription/0",
     "raw": "This planet has been altered beyond recognition by extensive terraforming.",
-    "value": "这个星球已经被转化到连原先的模样都看不到了。"
+    "value": "这颗行星经过大规模的地形改造，已变得面目全非。"
   },
   {
     "op": "replace",
     "path": "/terraformedPlanetDescription/1",
     "raw": "Terraforming has made this planet safe for habitation, though unnatural in appearance.",
-    "value": "转化可以让这个星球更适宜居住，虽然外形上看起来不太自然。"
+    "value": "尽管外观上仍显非自然，但经过地形改造，这颗行星已适宜居住。"
   },
   {
     "op": "replace",
     "path": "/terraformedPlanetDescription/2",
     "raw": "This planet's climate and ecosystems have been dramatically altered by terraforming.",
-    "value": "这个星球的气候和生态系统已完全改变了。"
+    "value": "这颗星球的气候与生态系统因地形改造而发生了翻天覆地的变化。"
   },
   {
     "op": "replace",
     "path": "/worldTypeDescription/GasGiant/0",
     "raw": "A giant ball of gases intermingling with one another. There is simply nothing here to land on.",
-    "value": "一颗彼此交织的的气体巨星，无法登录。"
+    "value": "一颗由各种气体交织而成的巨大星体。这里根本没有任何可供着陆之处。"
   },
   {
     "op": "replace",
     "path": "/worldTypeDescription/GasGiant/1",
     "raw": "A gas giant. There is no solid substance to this planet, just a collection of swirling gases.",
-    "value": "一颗气体巨星，没有任何固体物质，它只是一团旋转的气体。"
+    "value": "一颗气态巨行星。这颗星球没有固态物质，只有不断旋转的气体云团。"
   },
   {
     "op": "replace",
     "path": "/worldTypeDescription/GasGiant/2",
     "raw": "Can't land. The crushing pressure and tearing winds of this gas giant would kill you instantly.",
-    "value": "无法着陆，这颗气体巨星的巨大压力和毁灭性暴风能够将你撕裂。"
+    "value": "无法降落。这颗气态巨行星的极端压力和撕裂性风暴会瞬间将你摧毁。"
   },
   {
     "op": "replace",
@@ -1851,13 +1851,13 @@
     "op": "replace",
     "path": "/threatLevelText/default/1",
     "raw": "Low (II)",
-    "value": "低风险(II)"
+    "value": "低(II)"
   },
   {
     "op": "replace",
     "path": "/threatLevelText/default/2",
     "raw": "Moderate (III)",
-    "value": "中度(III)"
+    "value": "中等(III)"
   },
   {
     "op": "replace",
@@ -1887,7 +1887,7 @@
     "op": "replace",
     "path": "/threatLevelText/default/7",
     "raw": "Impossible (VIII)",
-    "value": "极端危险(VIII)"
+    "value": "荒谬(VIII)"
   },
   {
     "op": "replace",
@@ -1983,7 +1983,7 @@
     "op": "replace",
     "path": "/displayOres/effigium/displayName",
     "raw": "Effigium",
-    "value": "幻影矿"
+    "value": "幻影钢"
   },
   {
     "op": "replace",
@@ -2001,7 +2001,7 @@
     "op": "replace",
     "path": "/displayOres/xithricite/displayName",
     "raw": "Xithricite",
-    "value": "赛德瑞瑟晶体"
+    "value": "赛斯瑞晶"
   },
   {
     "op": "replace",
@@ -2037,7 +2037,7 @@
     "op": "replace",
     "path": "/displayOres/densinium/displayName",
     "raw": "Densinium",
-    "value": "超致密"
+    "value": "坚密钢"
   },
   {
     "op": "replace",
@@ -2049,7 +2049,7 @@
     "op": "replace",
     "path": "/displayOres/irradium/displayName",
     "raw": "Irradium",
-    "value": "镭"
+    "value": "铱射钢"
   },
   {
     "op": "replace",
@@ -2073,13 +2073,13 @@
     "op": "replace",
     "path": "/displayOres/trianglium/displayName",
     "raw": "Trianglium",
-    "value": "原力矿"
+    "value": "三角铱"
   },
   {
     "op": "replace",
     "path": "/displayOres/zerchesium/displayName",
     "raw": "Zerchesium",
-    "value": "极熔金矿"
+    "value": "极熔金"
   },
   {
     "op": "replace",
@@ -2121,7 +2121,7 @@
     "op": "replace",
     "path": "/displayOres/nocxium/displayName",
     "raw": "Nocxium",
-    "value": "诺克石"
+    "value": "冥寂金"
   },
   {
     "op": "replace",
@@ -2157,7 +2157,7 @@
     "op": "replace",
     "path": "/displayWeathers/ember/displayName",
     "raw": "Cinder Showers",
-    "value": "小型灰烬雨"
+    "value": "煤渣阵雨"
   },
   {
     "op": "replace",
@@ -2175,13 +2175,13 @@
     "op": "replace",
     "path": "/displayWeathers/ash/displayName",
     "raw": "Ashfall",
-    "value": "尘埃"
+    "value": "落尘"
   },
   {
     "op": "replace",
     "path": "/displayWeathers/lightash/displayName",
     "raw": "Light Ashfall",
-    "value": "中型灰烬雨"
+    "value": "轻落尘"
   },
   {
     "op": "replace",
@@ -2205,7 +2205,7 @@
     "op": "replace",
     "path": "/displayWeathers/crystalrain/displayName",
     "raw": "Crystal Rain",
-    "value": "晶体雨"
+    "value": "晶雨"
   },
   {
     "op": "replace",
@@ -2223,13 +2223,13 @@
     "op": "replace",
     "path": "/displayWeathers/windstorm/displayName",
     "raw": "Windstorms",
-    "value": "暴风"
+    "value": "风暴"
   },
   {
     "op": "replace",
     "path": "/displayWeathers/spacejunk/displayName",
     "raw": "Orbital Debris",
-    "value": "太空垃圾"
+    "value": "轨道碎片"
   },
   {
     "op": "replace",
@@ -2253,7 +2253,7 @@
     "op": "replace",
     "path": "/displayWeathers/duststorm/displayName",
     "raw": "Dust Storms",
-    "value": "沙尘暴"
+    "value": "尘暴"
   },
   {
     "op": "replace",
@@ -2301,7 +2301,7 @@
     "op": "replace",
     "path": "/displayWeathers/crystalstormmajor/displayName",
     "raw": "Severe Crystal Storm",
-    "value": "大型晶体风暴"
+    "value": "强烈晶体风暴"
   },
   {
     "op": "replace",
@@ -2313,19 +2313,19 @@
     "op": "replace",
     "path": "/displayWeathers/freezestorm/displayName",
     "raw": "Freeze Storm",
-    "value": "小型冰冻风暴"
+    "value": "冰冻风暴"
   },
   {
     "op": "replace",
     "path": "/displayWeathers/freezestormlesser/displayName",
     "raw": "Lesser Freeze Storm",
-    "value": "中型冰冻风暴"
+    "value": "轻微冰冻风暴"
   },
   {
     "op": "replace",
     "path": "/displayWeathers/freezestormminor/displayName",
     "raw": "Minor Freeze Storm",
-    "value": "大型冰冻风暴"
+    "value": "小型冰冻风暴"
   },
   {
     "op": "replace",
@@ -2337,7 +2337,7 @@
     "op": "replace",
     "path": "/displayWeathers/gravrainlight/displayName",
     "raw": "Light Anti-Gravity Rain",
-    "value": "小型反重力雨"
+    "value": "轻微反重力雨"
   },
   {
     "op": "replace",
@@ -2349,7 +2349,7 @@
     "op": "replace",
     "path": "/displayWeathers/orangegravrainlight/displayName",
     "raw": "Light Gravity Rain",
-    "value": "小型重力雨"
+    "value": "轻微重力雨"
   },
   {
     "op": "replace",
@@ -2397,13 +2397,13 @@
     "op": "replace",
     "path": "/displayWeathers/magmastorm/displayName",
     "raw": "Magma Storm",
-    "value": "小型岩浆风暴"
+    "value": "岩浆风暴"
   },
   {
     "op": "replace",
     "path": "/displayWeathers/magmastormgreater/displayName",
     "raw": "Severe Magma Storm",
-    "value": "大型岩浆风暴"
+    "value": "强烈岩浆风暴"
   },
   {
     "op": "replace",
@@ -2421,13 +2421,13 @@
     "op": "replace",
     "path": "/displayWeathers/slimestorm/displayName",
     "raw": "Slime Storm",
-    "value": "小型黏液风暴"
+    "value": "黏液风暴"
   },
   {
     "op": "replace",
     "path": "/displayWeathers/slimestormlesser/displayName",
     "raw": "Weak Slime Storm",
-    "value": "中型黏液风暴"
+    "value": "微弱黏液风暴"
   },
   {
     "op": "replace",
@@ -2469,7 +2469,7 @@
     "op": "replace",
     "path": "/displayWeathers/fulightningrain2/displayName",
     "raw": "Severe Rainy Lightning Storm",
-    "value": "重度雷雨闪电风暴"
+    "value": "强烈雷雨闪电风暴"
   },
   {
     "op": "replace",
@@ -2487,19 +2487,19 @@
     "op": "replace",
     "path": "/displayWeathers/gasgiantstorm/displayName",
     "raw": "Dense Gas",
-    "value": "小型重力风暴"
+    "value": "致密气体"
   },
   {
     "op": "replace",
     "path": "/displayWeathers/gasgiantstorm2/displayName",
     "raw": "Super Dense Gas",
-    "value": "中型重力风暴"
+    "value": "超致密气体"
   },
   {
     "op": "replace",
     "path": "/displayWeathers/gasgiantstorm3/displayName",
     "raw": "Impossibly Dense Gas",
-    "value": "大型重力风暴"
+    "value": "荒谬致密气体"
   },
   {
     "op": "replace",
@@ -2511,13 +2511,13 @@
     "op": "replace",
     "path": "/displayWeathers/poisongasstorm/displayName",
     "raw": "Poison Gas",
-    "value": "小型毒气风暴"
+    "value": "毒气"
   },
   {
     "op": "replace",
     "path": "/displayWeathers/poisongasstorm2/displayName",
     "raw": "Dense Poison Gas",
-    "value": "中型毒气风暴"
+    "value": "致密毒气"
   },
   {
     "op": "replace",
@@ -2535,13 +2535,13 @@
     "op": "replace",
     "path": "/displayWeathers/fuearthquakelesser/displayName",
     "raw": "Minor Earthquakes",
-    "value": "地震"
+    "value": "小型地震"
   },
   {
     "op": "replace",
     "path": "/displayWeathers/fuearthquakesevere/displayName",
     "raw": "Severe Earthquakes",
-    "value": "重度地震"
+    "value": "强烈地震"
   },
   {
     "op": "replace",
@@ -2565,7 +2565,7 @@
     "op": "replace",
     "path": "/displayWeathers/fusuddenchill/displayName",
     "raw": "Sudden Chill",
-    "value": "寒冷"
+    "value": "突然降温"
   },
   {
     "op": "replace",
@@ -2589,7 +2589,7 @@
     "op": "replace",
     "path": "/displayWeathers/fuheatblast2/displayName",
     "raw": "Severe Heatwaves",
-    "value": "重度热浪"
+    "value": "强烈热浪"
   },
   {
     "op": "replace",
@@ -2613,13 +2613,13 @@
     "op": "replace",
     "path": "/displayWeathers/thunderclapgreater/displayName",
     "raw": "Severe Thunder",
-    "value": "重度雷电"
+    "value": "强烈雷电"
   },
   {
     "op": "replace",
     "path": "/displayWeathers/fusparklejoy/displayName",
     "raw": "Sparklejoy",
-    "value": "闪电"
+    "value": "火花骤现"
   },
   {
     "op": "replace",
@@ -2631,7 +2631,7 @@
     "op": "replace",
     "path": "/displayWeathers/cosmicblast/displayName",
     "raw": "Cosmic Blasts",
-    "value": "射线爆炸"
+    "value": "宇宙爆发"
   },
   {
     "op": "replace",
@@ -2793,7 +2793,7 @@
     "op": "replace",
     "path": "/planetTypeNames/arcticdark",
     "raw": "Dark Arctic",
-    "value": "极地(黑夜)"
+    "value": "黑暗极地"
   },
   {
     "op": "replace",
@@ -2811,7 +2811,7 @@
     "op": "replace",
     "path": "/planetTypeNames/arborealdark",
     "raw": "Dark Primeval",
-    "value": "原始火山(黑夜)"
+    "value": "黑暗原始"
   },
   {
     "op": "replace",
@@ -2823,7 +2823,7 @@
     "op": "replace",
     "path": "/planetTypeNames/atropusdark",
     "raw": "Nightmare Atropus",
-    "value": "肉源(黑夜)"
+    "value": "噩梦肉源"
   },
   {
     "op": "replace",
@@ -2865,7 +2865,7 @@
     "op": "replace",
     "path": "/planetTypeNames/desertwastesdark",
     "raw": "Dark Red Desert",
-    "value": "红色沙漠(黑夜)"
+    "value": "黑暗红色沙漠"
   },
   {
     "op": "replace",
@@ -2937,7 +2937,7 @@
     "op": "replace",
     "path": "/planetTypeNames/icewastedark",
     "raw": "Dark Ice Waste",
-    "value": "冰冻荒原(黑夜)"
+    "value": "黑暗冰冻荒原"
   },
   {
     "op": "replace",
@@ -2949,13 +2949,13 @@
     "op": "replace",
     "path": "/planetTypeNames/infernusdark",
     "raw": "Dark Infernus",
-    "value": "炼狱(黑夜)"
+    "value": "黑暗炼狱"
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/irradiated",
     "raw": "Irradiated",
-    "value": "辐射"
+    "value": "辐照"
   },
   {
     "op": "replace",
@@ -2967,7 +2967,7 @@
     "op": "replace",
     "path": "/planetTypeNames/magmadark",
     "raw": "Dark Magma",
-    "value": "岩浆(黑夜)"
+    "value": "黑暗岩浆"
   },
   {
     "op": "replace",
@@ -3039,7 +3039,7 @@
     "op": "replace",
     "path": "/planetTypeNames/protoworlddark",
     "raw": "Shadow Proto World",
-    "value": "原毒(黑夜)"
+    "value": "暗影原毒"
   },
   {
     "op": "replace",
@@ -3057,7 +3057,7 @@
     "op": "replace",
     "path": "/planetTypeNames/snowdark",
     "raw": "Dark Snow",
-    "value": "雪原(黑夜)"
+    "value": "黑暗雪原"
   },
   {
     "op": "replace",
@@ -3075,7 +3075,7 @@
     "op": "replace",
     "path": "/planetTypeNames/sulphuricdark",
     "raw": "Dark Sulphur",
-    "value": "硫酸(黑夜)"
+    "value": "黑暗硫酸"
   },
   {
     "op": "replace",
@@ -3117,7 +3117,7 @@
     "op": "replace",
     "path": "/planetTypeNames/tundradark",
     "raw": "Dark Tundra",
-    "value": "苔原(黑夜)"
+    "value": "黑暗苔原"
   },
   {
     "op": "replace",
@@ -3129,7 +3129,7 @@
     "op": "replace",
     "path": "/starTypeNames/default",
     "raw": "Mysterious Star",
-    "value": "神秘之星"
+    "value": "神秘的星"
   },
   {
     "op": "replace",
@@ -3201,31 +3201,31 @@
     "op": "replace",
     "path": "/jumpDialog/valid",
     "raw": "FTL travel will consume ^green;%i fuel^reset;.\nConfirm to proceed.",
-    "value": "迁跃将消耗^green;%i^reset;单位燃料。\n请再次确认是否进行迁跃。"
+    "value": "超光速航行将消耗^green;%s燃料^reset;。\n点击确认以继续。"
   },
   {
     "op": "replace",
     "path": "/jumpDialog/invalid",
     "raw": "FTL travel requires ^red;%i fuel^reset;.\n Not enough fuel to proceed.",
-    "value": "迁跃需要^red;%i^reset;单位燃料。\n当前燃料存量不足以启动FTL引擎。"
+    "value": "超光速航行需要^red;%i燃料^reset;。\n没有足够的燃料以继续。"
   },
   {
     "op": "replace",
     "path": "/topLeftButtonTooltips/showBookmarkList",
     "raw": "Bookmarks",
-    "value": "标签列表"
+    "value": "标签"
   },
   {
     "op": "replace",
     "path": "/topLeftButtonTooltips/goToShip",
     "raw": "View ship",
-    "value": "查看飞船位置"
+    "value": "查看飞船"
   },
   {
     "op": "replace",
     "path": "/topLeftButtonTooltips/goToQuest",
     "raw": "View quest location",
-    "value": "查看任务位置"
+    "value": "查看任务地点"
   },
   {
     "op": "replace",
@@ -3237,7 +3237,7 @@
     "op": "replace",
     "path": "/systemTooltip/exploredLabel/explored",
     "raw": "VISITED",
-    "value": "访问"
+    "value": "曾经访问"
   },
   {
     "op": "replace",

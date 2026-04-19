@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/title",
     "raw": "Insanity and Rage.",
-    "value": "疯狂与愤怒"
+    "value": "疯狂与暴怒。"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "I'm unsure I can trust you after that whole ^orange;orange fruit^reset; thing, but we'll try again I guess. You ever laid hands on some ^orange;Plasmic Crystal^reset;? If so, I could use about 20. For...reasons. Certainly not involving large flightless birds and carnage.",
-    "value": "在那件^orange;橙色水果^reset;事件之后，我不确定我是否可以信任你，但我们会再试一次，我想。你曾经把手放在一些^orange;等离子水晶^reset;上？如果是这样，我想用个大约20个。因为...一些原因。当然不包括不会飞的大鸟和大屠杀。"
+    "value": "经历了之前那场关于^orange;橙色水果^reset;的风波后，我不太确定还能否信任你，但我想我们可以再试一次。你接触过^orange;血晶^reset;吗？如果有的话，我需要大约20块。至于用途嘛...确有原因。当然，这绝对跟那些不会飞的大鸟和血腥事件无关。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Bring ^red;Kevin^reset; 20 ^orange;Plasmic Crystals^reset;.",
-    "value": "给^red;凯文^reset;带20个^orange;等离子水晶^reset;。"
+    "value": "给^red;凯文^reset;带20个^orange;血晶^reset;。"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "Excellent. Now I can distill raw rage into crystalline form and feed it to my babies! Just in time for the ballet! Take this crap as a thanks.",
-    "value": "好极了。 现在我可以将原始愤怒提炼成水晶形态，并把它喂给我的孩子们！现在正好赶上芭蕾舞表演！来把这些垃圾当作我的谢礼吧。"
+    "value": "太好了。现在我能将原始的愤怒提炼成晶体，喂给我的宝贝们了！正好赶上芭蕾舞表演！这点小意思就当是谢礼了。"
   }
 ]

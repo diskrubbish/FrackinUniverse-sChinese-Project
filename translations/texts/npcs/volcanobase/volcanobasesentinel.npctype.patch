@@ -3,36 +3,36 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/0",
     "raw": "Dark. You will regret coming here!",
-    "value": "邪恶。你将会后悔来到这儿！"
+    "value": "黑暗。你会后悔来到这里的！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/1",
     "raw": "Bloodthirsty. Your blood will soil the land!",
-    "value": "嗜血。你的血将染红这片土地。"
+    "value": "嗜血。你的鲜血将玷污这片土地！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/2",
     "raw": "Fanatical. Die, fool!",
-    "value": "狂热。给我去死吧，蠢货！"
+    "value": "自满。给我去死吧，蠢货！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/3",
     "raw": "Determined. We are the unyielding.",
-    "value": "毅力。我们无所畏惧。"
+    "value": "决心。我们坚不可摧。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/4",
     "raw": "Confident. I am unstoppable!",
-    "value": "信念。吾，不可阻挡！"
+    "value": "自信。我不可阻挡！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/attack/default/default/5",
     "raw": "Enraged. Death to intruders!",
-    "value": "愤怒。入侵者，死来！"
+    "value": "愤怒。入侵者，必死！"
   }
 ]

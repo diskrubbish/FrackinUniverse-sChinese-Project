@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A good source of information.",
-    "value": "很好的信息来源。"
+    "value": "一个可靠的信息来源。"
   },
   {
     "op": "replace",
@@ -15,324 +15,324 @@
     "op": "replace",
     "path": "/chatOptions/0",
     "raw": "Welcome to the ^green;Science Outpost^reset;! Any friend of Vinalisj is a friend of ours. If you need some advice, I'm here! Just... try to stay away from Kevin.",
-    "value": "欢迎来到^green;科学前哨站^reset;！维纳利斯的任何朋友都是我们的朋友。 如果您需要一些建议，就我在这里！ 对了.....最好远离凯文。"
+    "value": "欢迎来到^green;科学前哨站^reset;！凡是维纳利斯的朋友，就是我们的朋友。如果你需要建议，我随时都在！只是...尽量离凯文远点。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/1",
     "raw": "First things first, I'd recommend you take a look at the Frackin' Universe guide codexes - you should have a set of them in your ship's locker, but just in case, there's also a set of them in a bookshelf near the west side of this building.",
-    "value": "首先，我建议你看一下Frackin' Universe的指南 - 你的船柜里应该有一套，但为了以防万一，在这栋楼西侧附近的书架上也有一套。"
+    "value": "首先，我建议你先查阅一下富兰克林的宇宙的指南手册 - 你的飞船储物柜里应该有一套，不过以防万一，这栋建筑西侧的书架上也放着一套。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/2",
     "raw": "Some of the information in those codexes might not seem relevant right now, but even some of our veteran researchers have learned something they didn't know through those books, so keep them in mind!",
-    "value": "那些手抄本中的一些信息现在看来可能并不相关，但即使是我们一些资深的研究人员也通过这些书学到了一些他们不知道的东西，所以最好留一份心眼！"
+    "value": "那些典籍中的信息或许此刻看来并不相关，但即便是我们经验丰富的研究员，也曾从中发现新知。因此，请务必牢记于心！"
   },
   {
     "op": "replace",
     "path": "/chatOptions/3",
     "raw": "Looks like most of your Protectorate crafting databanks have been scrambled at some point - You'll need to use your Tricorder to research how to craft a lot of things.",
-    "value": "看起来你的大部分守护团制造数据库在某个时候被打乱了- 你需要用你的三度仪来研究如何制作很多的其他东西。"
+    "value": "看起来你的大部分守护团制造数据库都曾遭到扰乱 - 你需要使用你的三度仪来研究如何制作许多物品。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/4",
     "raw": "I'd recommend researching extraction technology sooner rather than later. A Hand Mill might not be as fast as a full Extraction Lab, but it's still one of the most powerful tools in your arsenal.",
-    "value": "我建议尽早研究提取技术。手摇磨可能没有完整的萃取仪器那么快，但它仍然是你工具堆中最强大的工具之一。"
+    "value": "我建议你尽早研究萃取技术。研磨机或许不如完整的萃取仪器高效，但它仍是你工具堆中最强大的工具之一。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/5",
     "raw": "Having trouble keeping your ship's tank topped up? Remember, Erchius isn't the only fuel you can use - Isotopes, bio-fuels, and even Hydrogen can all act as fuel sources - and some are more effective than others!",
-    "value": "难以保持你的船的油箱充盈？请记住，厄尔吉斯并不是你唯一可以使用的燃料 - 同位素、生物燃料，甚至是氢气都可以作为燃料来源 - 而且有些燃料比其他的更有效！"
+    "value": "还在为飞船燃料不足而烦恼吗？记住，厄尔吉斯并非唯一可用的燃料 - 同位素、生物燃料，甚至氢气都能作为能源使用，而且其中一些燃料的效率更高哦！"
   },
   {
     "op": "replace",
     "path": "/chatOptions/6",
     "raw": "Having trouble gaining research? Your passive research gain will increase the longer you play.",
-    "value": "在获得研究点数的方面有困难？你玩的时间越长，你的被动研究收益就越高。"
+    "value": "研究进展缓慢？别担心，随着游戏时间的增加，您将获得更多的被动研究收益。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/7",
     "raw": "Research will also increase based on the tier of the planet you're on - Exploring more dangerous planets lets you gather research more quickly!",
-    "value": "研究点数也将根据你所在星球的等级而增加 - 探索更危险的星球可以让你更快地收集研究资料！"
+    "value": "根据你所处星球的等级，研究速度也会相应提升 - 探索更危险的星球能让你更快地收集研究数据！"
   },
   {
     "op": "replace",
     "path": "/chatOptions/8",
     "raw": "Okay, so a couple of coworkers were saying they were leaving to go snarsh some garflipps, and I asked them what that meant, and they looked at me like I was an idiot. Is that normal? Am I the weird one for not knowing what that means?",
-    "value": "好吧，有几个同事说他们要离开去生恰一点加布林，我问他们那是什么意思，他们看着我，好像我是个白痴。这正常吗？我是那个不知道那是什么意思的怪人吗？"
+    "value": "好吧，有几个同事说他们要离开去“生恰一点加布林”，我问他们这是什么意思，结果他们看我的眼神就像我是个白痴。这正常吗？难道不知道这个意思的我才是怪人吗？"
   },
   {
     "op": "replace",
     "path": "/chatOptions/9",
     "raw": "A randomly-generated weapon will almost always be weaker than one you've crafted yourself. Crafted weapons also generally have special abilities designed to complement the weapon.",
-    "value": "随机生成的武器基本上都弱于你自己制作的武器。 手工制作的武器一般也有为补强武器而设计的特殊能力。"
+    "value": "随机生成的武器几乎总是比你自己打造的武器要弱。此外，打造的武器通常还具备专门设计来增强其性能的特殊能力。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/10",
     "raw": "Consider using a computer to turn randomly-generated weapons into research, instead! It can prove to be quite useful, especially with more valuable weapons. This applies to objects and items as well.",
-    "value": "你可以考虑使用计算机将随机生成的武器转化为研究点数！你会发现这很有，特别是对于高价值的武器。同样的方法也适用于物体和物品。"
+    "value": "不妨考虑用计算机将随机生成的武器转化为研究！这可能会非常有用，尤其是对于价值较高的武器。同样，这个方法也适用于其他物品和装备。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/11",
     "raw": "Have a favorite weapon or armor set that you don't want to leave behind as you progress? Good news - you don't have to! Using your Tricorder's Upgrade function.",
-    "value": "有一套最喜欢的武器或盔甲套装，而你不想随着你的游戏进展将其遗弃？好消息--你不必这样做! 使用你三度仪中的的升级功能。"
+    "value": "有没有一件心爱的武器或盔甲套装，让你在升级过程中舍不得更换？好消息是 - 你无需舍弃它们！只需使用你三度仪的升级功能即可。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/12",
     "raw": "You can use Upgrade modules to improve almost all Frackin' Universe weapons or armor. By doing this, you can ensure that any armor or weapon stays viable!",
-    "value": "你可以使用升级模块来改进几乎所有的Frackin' Universe武器或盔甲。只要这样你就可以确保任何盔甲或武器都能保持有用的状态！"
+    "value": "你可以使用升级模块来提升几乎所有富兰克林的宇宙中的武器或护甲。通过这种方式，你可以确保任何装备都能保持其有效性！"
   },
   {
     "op": "replace",
     "path": "/chatOptions/13",
     "raw": "Does an enemy seem almost invincible? It might just be resistant to the damage type you're using. Try switching things up with different weapons to find a weakness!",
-    "value": "敌人看起来几乎无敌？它可能只是对你所造成的伤害类型有抵抗力。试着用不同的武器造成不同属性的伤害，以找到弱点!"
+    "value": "敌人看起来几乎无法战胜？或许它只是对你使用的伤害类型有抗性。尝试更换不同武器，寻找它的弱点吧！"
   },
   {
     "op": "replace",
     "path": "/chatOptions/14",
     "raw": "Don't know where to find a specific item or material? A Lab Directory can tell you if it's an output from any of your nearby machines. If that fails, check the official wiki displayed on the main menu!",
-    "value": "不知道在哪里能找到一个特定的项目或材料？实验室目录可以告诉你它是否是你附近任何机器的输出物。如果这也不行，请查阅主菜单上显示的官方维基!"
+    "value": "不知道在哪里找到特定的物品或材料？Frackin'Universe数据库可以告诉你它是否是你附近任何机器的产出。如果还是找不到，不妨查看主菜单上显示的官方维基页面！"
   },
   {
     "op": "replace",
     "path": "/chatOptions/15",
     "raw": "Even carnivores have a reason to set up plant farms - many of the growable plants that Frackin' Universe adds can be eaten by anyone.",
-    "value": "即使是食肉动物也有理由建造植物农场 - Frackin' Universe增加的许多可种植的植物可以被任何人食用。"
+    "value": "即使是肉食者也有理由建立植物农场 - 因为富兰克林的宇宙添加的许多可种植植物，任何人都可以食用。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/16",
     "raw": "For example, Meatvine is a reliable source of nutrition for carnivores. Nevermind the fact that a plant is growing raw meat from its bulbs.",
-    "value": "例如，肉串是肉食动物的一个可靠的营养来源。甭管它是植物，它的球茎上却还是能长出生肉。"
+    "value": "例如，肉串是肉食动物可靠的营养来源。别在意这植物是从球茎中长出鲜肉的事实。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/17",
     "raw": "Most plants and their seeds can be extracted into useful materials! They can be a benefit in a wide array of circumstances. Experiment and try many!",
-    "value": "大多数植物和它们的种子都可以被提取成有用的材料！它们在各种情况下都能带来好处。多尝试广实验!"
+    "value": "大多数植物及其种子都能提取出有用的物质！它们在多种情况下都能带来益处。不妨多尝试、多实验！"
   },
   {
     "op": "replace",
     "path": "/chatOptions/18",
     "raw": "Sorry we can't let you use most of the crafting and processing machines - We had to restrict access after Kevin tried to use them to create a gun that shot smaller versions of itself.",
-    "value": "很抱歉，我们不能让你使用大部分的制造和加工机器 - 在凯文试图用它们来制造一把可以射出更小自己的枪之后，我们不得不限制它们的使用。"
+    "value": "很抱歉，我们不能让你使用大部分的制造和加工设备 - 在凯文试图用它们制造一把能发射缩小版自己的枪之后，我们不得不限制使用权限。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/19",
     "raw": "Most hazardous environmental effects can be prevented with either an immunity to that effect, or often through a high enough resistance to specific damage types.",
-    "value": "大多数危险的环境影响可以通过对该影响的免疫来预防，或者通常通过对特定的伤害类型有足够高的抵抗力来预防。"
+    "value": "大多数有害的环境影响可以通过对该效果的免疫来避免，或者通常通过足够高的特定伤害类型抗性来预防。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/20",
     "raw": "Immunities and resistances are seperate - Even if you're immune to a planet's extreme heat, that won't reduce damage from fiery attacks unless you increase your heat resistance.",
-    "value": "免疫和抗性是分开的 - 即使你对一个星球的极端炎热有免疫，也不会减少火炎攻击的伤害，除非你增加你的火炎抗性。"
+    "value": "免疫与抗性是不同的概念 - 即使你对某个星球的极端高温免疫，这也不会减少火炎攻击造成的伤害，除非你提升了自身的火炎抗性。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/21",
     "raw": "If things don't seem to be working right, first check to make sure you don't have any incompatible mods installed. If that doesn't work, post your full log file to the bug channel on the Frackin' Universe Discord.",
-    "value": "如果游戏看起来不对头，首先检查一下，确保你没有安装任何不兼容的mods。如果这还不行，请将你的完整日志文件发布到Frackin' Universe Discord的BUG频道上。"
+    "value": "如果遇到问题，请先检查是否安装了不兼容的模组。若问题依旧存在，请将完整的日志文件发布到富兰克林的宇宙Discord的故障反馈频道。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/22",
     "raw": "Take your time - if you rush to advance as fast as possible, you'll miss all sorts of fun things - like these hints!",
-    "value": "慢慢来--如果你急于尽快推进，你会错过各种有趣的东西--比如这些提示！"
+    "value": "好事多磨 - 如果急于求成，反而会错过许多有趣的发现，比如这些提示！"
   },
   {
     "op": "replace",
     "path": "/chatOptions/23",
     "raw": "Mixing certain liquids can have unexpected results - do things right, and you can make more of almost any liquid!",
-    "value": "混合某些液体会产生意想不到的结果 - 做对了，你就可以制造出更多的几乎任何液体！"
+    "value": "混合某些液体可能会带来意想不到的结果 - 只要方法得当，几乎任何液体都能变得更多！"
   },
   {
     "op": "replace",
     "path": "/chatOptions/24",
     "raw": "Liquids will drain away if there's not a background block keeping them there - though oceans are an exception.",
-    "value": "如果没有背景阻隔，液体就会流走 - 尽管海洋是一个例外。"
+    "value": "如果没有背景方块作为支撑，液体会流失 - 不过海洋是个例外。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/25",
     "raw": "Don't feel like using the teleporter to descend to the planet you're orbiting? Go down far enough outside your ship, and you'll fall to the planet below!",
-    "value": "不喜欢用传送器降落到到你正在绕轨运行的星球吗？在你的飞船外面下到足够远的地方，你就会坠落到下面的星球上!"
+    "value": "不想用传送器降落到你正环绕的行星上？那就离开飞船足够远，你会直接坠落到下方的星球！"
   },
   {
     "op": "replace",
     "path": "/chatOptions/26",
     "raw": "If some of my advice doesn't make sense to you right now, don't worry about it. You never know - it might come up later!",
-    "value": "如果我的一些建议现在对你没有意义，不要担心。你永远不知道-当其无，有器之用！"
+    "value": "如果我的某些建议现在对你来说不太明白，别担心。- 当其无，有器之用！"
   },
   {
     "op": "replace",
     "path": "/chatOptions/27",
     "raw": "If you ever find alien ruins with grey bricks and purple or blue glyphs, you've probably found something built by the Ancients, a long-extinct race.",
-    "value": "如果你曾发现有灰色砖块和紫色或蓝色石刻的外星遗迹，你可能发现了古人建造的东西，他们早已灭绝的。"
+    "value": "如果你发现由灰色砖块和紫色或蓝色符号构成的外星遗迹，那很可能就是远古种族，早已灭绝的“古人”所建造的。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/28",
     "raw": "Apparently, many Peglaci claim that there was another race even older than the Ancients, but not much is known about that time period of galactic history. It has been lost to time.",
-    "value": "显然，许多且声称有另一个比古人更古老的种族，但对没几个人星际历史的那个时期有所了解。它已经消失在时间中了。"
+    "value": "据称，许多羊蹄人声称存在一个比古人更为古老的种族，但关于那段时期的宇宙历史知之甚少，它已随时间流逝而湮没无闻。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/29",
     "raw": "If you are looking to trade, head to a space station. You'll find you can invest, play the market, or hire custom mercenaries and unique medical procedures.",
-    "value": "如果你想进行交易，请前往空间站。你会发现你可以投资，玩弄市场，或雇用定制的雇佣兵，或者购买独特的医疗产品。"
+    "value": "如果你想进行交易，请前往空间站。在那里，你可以进行投资、参与市场交易，或是雇佣定制佣兵和体验独特的医疗服务。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/30",
     "raw": "The Kirhosi also have set up special sections on each one of these space stations. I couldn't tell you what is inisde them, though: Specialized access is required in order to enter.",
-    "value": "鼠人还在这些空间站中的每一个地方设立了专门的区域。不过，我无法告诉你里面有什么。要想进入，需要专门的权限。"
+    "value": "鼠人还在每个空间站内设立了特殊区域。不过，我无法告诉你里面有什么：进入这些区域需要专门的权限。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/31",
     "raw": "A second reminder: Kevin is a genius, he really is. Super smart. However, I am absolutely certain he is at least a little bit insane. Read the infraction log, and you'll very swiftly understand what I mean.",
-    "value": "再提醒你一下：凯文是一个天才，毫无疑问，聪明绝顶。 但是，我绝对肯定确定他有点魔怔。去读一下违规日志，你就知道我在说啥了。"
+    "value": "再提醒你一下：凯文是个天才，毫无疑问。他聪明绝顶。但我敢肯定，我绝对肯定确定他有点魔怔。看看违规记录，你很快就会明白我的意思。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/32",
     "raw": "I mean, the whole lip gloss thing? Yea, it was me that came across it first. I'm always the first one to show up for the day. Trust me - that was awe-inspiringly confusing. I remain uncertain of how he coated the entire base in less than 5 hours. Every surface. Even ones behind objects weighing several tons.",
-    "value": "我是说，整个基地被唇彩涂满的事情？是的，是我先发现的。我总是第一个发现这些的。相信我--那可真是叹为观止。我仍然不确定他是如何在不到5个小时内将整个基地涂满的。每一个表面。甚至是那些重达几吨的物体后面。"
+    "value": "我是说，唇彩的事？没错，是我最先发现的。每天我都是第一个到岗的人。相信我 - 那场面简直令人困惑到震撼。我至今想不通，他是如何在不到五小时内把整个基地都涂满的。每一寸表面，连那些重达数吨的物体背后都没放过。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/33",
     "raw": "Suffice it to say, we have a love-hate relationship with Kevin. He does bring in a rather large amount of income in funding, purchases -and- donations, though the means through which even this is accomplished defy explanation.",
-    "value": "可以说，我们对凯文有一种爱恨交加的关系。他确实在资金、采购和捐款方面带来了相当大的收入，尽管不知道是通过什么手段完成的，也无法解释。"
+    "value": "可以说，我们对凯文是又爱又恨。他确实带来了相当可观的资金、采购和捐赠收入，然而，即便是这些成就的达成方式，也令人难以解释。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/34",
     "raw": "Did you know that one time he obtained a 3-trillion pixel donation from a wealthy investor solely because, as he went on to claim, he made a really good sandwich for the man. Is any sandwich that good? I am sceptical.",
-    "value": "你知道吗，有一次他从一个富有的投资者那里获得了3万亿像素的捐款，并说是因为他给这个富商做了一个非常好吃的三明治。有那么好吃的三明治吗？我信你个鬼。"
+    "value": "你知道吗，有一次他从一位富有的投资者那里获得了三万亿像素的捐赠，他声称，仅仅是因为他为那人做了一个特别美味的三明治。真有那么好吃的三明治吗？我信他个鬼。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/35",
     "raw": "In your travels, you will find some truly unusual things. Be advised that those which are too far out-there are likely to cause just a tiny bit of madness or insanity. This can cause a wide variety of side-effects (both positive and negative).",
-    "value": "在你的旅行中，你会发现一些不寻常的秘辛。请注意，那些太过出格的东西很可能会导致一点点疯狂或精神错乱。这可能会导致各种各样的副作用（包括积极和消极的）。"
+    "value": "在旅途中，你可能会遇到一些极其奇特的事物。请注意，那些过于离奇的存在，或许会引发一丝微妙的疯狂或精神错乱。这可能导致多种多样的副作用（既有积极的一面，也有消极的影响）。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/36",
     "raw": "When you are suffering from this madness, you should go ahead and have a seat in the InstaFreud to the left of us. That nifty device is essentially an AI-Driven Psychologist that is reknowned for its ability to fix even some of the most dramatic mental afflictions, given enough time.",
-    "value": "当你受到这种疯狂的折磨时，你应该去我们左边的虚拟弗洛伊德里坐一坐。那件别致的设备本质上是一个人工智能驱动的心理学家，因其能够修复最折磨人心的的精神床上而闻名，前提是花上足够的时间。"
+    "value": "当你深陷这种疯狂时，不妨去我们左侧的“虚拟弗洛伊德”坐坐。那台精巧的设备本质上是一位人工智能驱动的心理学家，以其能够治愈最严重的精神困扰而闻名，前提是给予足够的时间。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/37",
     "raw": "^red;Do not^reset; use Kevins Kill-Pod technology. It does to you exactly what it says on the tin. This is likely not your desire. It sure wasn't the desire of Dr.Demento, revered Mime of Nippango IV. He ignored the warning. Now he's dead. So yea. Careful.",
-    "value": "^red;不要^reset;使用凯文牌死亡科技罐头。它会如字面所说对你造成影响。你不会想要这玩意的。这也肯定不是德门托先生想要的，他是尼潘戈IV星球上受人尊敬的哑剧艺术家。他无视警告。所以现在他已经死了。吼吼，说的就是你。小心点。"
+    "value": "^red;切勿^reset;使用凯文的“自杀豆”技术。它的效果正如其名，很可能并非你所愿。尼潘戈四号星上备受尊敬的默剧大师德门托博士便是前车之鉴。他无视警告，如今已命丧黄泉。所以，务必当心。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/38",
     "raw": "My favorite thing in the entire universe is probably fish. Yum. A close second, though, is the Darklight Flower. Personally, I don't think any flora is more beautiful and haunting.",
-    "value": "整个宇宙中我最喜欢的东西可能是鱼。好吃。不过，紧随其后的是暗光花。就个人而言，我认为没有任何植物比它更美丽，更令人神往。"
+    "value": "整个宇宙里我最爱的，大概就是鱼了。真美味啊。不过紧随其后的，是暗光花。在我心中，没有哪种植物能比它更美、更令人魂牵梦萦了。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/39",
     "raw": "When I get bored at this desk, I tend to talk a little bit. Some might even say too much. I just drone on, and on, and on...I'd be less bored if there was anything fun to do.",
-    "value": "当我在这张桌子上感到无聊的时候，我往往会说一点话。有人甚至会说太多了。我只是不停地唠叨，不停地唠叨......如果有什么有趣的事情可以做，我就不会那么无聊了。"
+    "value": "坐在这张桌子前感到无聊时，我总忍不住要说上几句。有人甚至觉得我话太多了。我就这么絮絮叨叨，没完没了...要是有点有趣的事做，或许就不会这么无聊了。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/40",
     "raw": "It should go without saying, but the 'meat shop' in the market here at the Science Outpost sells some rather...morally questionable wares that sane folk would probably be wise to avoid.",
-    "value": "不用说，科学前哨站市场处的“肉店”在出售一些相当...道德层面有问题的商品，理智的人可能会明智地避免。"
+    "value": "不言而喻，科学前哨站市场的这家“肉铺”所售的商品...在道德层面颇为令人不安，理智之人最好还是敬而远之为妙。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/41",
     "raw": "Mechs might be beefy and cumbersome but long-term they are quite useful. Why wouldn't you want a walking tank equipped with a flight mode that can decimate entire swathes of enemies with huge guns?",
-    "value": "机甲可能很笨重，但从长远来看，它们相当有用。一台配备了飞行模式的步行坦克，可以用巨大的枪支摧毁整个大面积的敌人，你会嫌多吗？"
+    "value": "机甲或许笨重且庞大，但从长远来看，它们确实非常实用。谁不想要一台能行走的坦克，配备飞行模式，还能用巨型火炮横扫大片敌人呢？"
   },
   {
     "op": "replace",
     "path": "/chatOptions/42",
     "raw": "Of course, you'll need to craft it yourself, but that's okay. Totally worth the effort for the extra protection and power.",
-    "value": "当然，你需要自己制作它，但这没关系。为了获得额外的保护和力量，这些努力完全值得。"
+    "value": "当然，你需要自己动手制作，但这没关系。为了额外的保护和力量，这份努力完全值得。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/43",
     "raw": "Sorry, I am just too loquacious for my own good sometimes, I swear. I don't mean to be, but it isn't often that someone actually talks to me for this long. I'm starting to wonder if maybe there's more to it. Do you have a thing for aquatic women?",
-    "value": "对不起，我只是有时太健谈了，我发誓。我不是故意的，但很少有人真的和我谈这么久。我开始怀疑，这里面有更深一层的含义。你对水里出生的女人会有想法吗？"
+    "value": "抱歉，有时候我确实话太多了，我发誓不是故意的。只是很少有人会和我聊这么久，这让我不禁开始多想。你是不是对水生女性生物有什么特别的兴趣？"
   },
   {
     "op": "replace",
     "path": "/chatOptions/44",
     "raw": "You aren't really my type, but there is certainly something about you that I can't quite define that I find interesting. Compelling, even. Maybe its your aroma.",
-    "value": "你并不是我喜欢的类型，但你身上确实有一些我无法完全定义的东西，我觉得很有趣。甚至引人注目。也许是你的香气。"
+    "value": "你确实不是我通常喜欢的类型，但你身上有种难以言说的特质，让我觉得很有意思，甚至有些着迷。或许是你独特的气质吧。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/45",
     "raw": "Eek! That's far too personal, sorry. Please, don't take offense. That's the last thing I wanted to do!",
-    "value": "赣哦！这也太奇怪了，对不起。请不要见怪。这是我最不愿意做的事情！"
+    "value": "额！这问题太私人了，抱歉。请千万别介意，我绝对没有冒犯的意思！"
   },
   {
     "op": "replace",
     "path": "/chatOptions/46",
     "raw": "Back on topic, I guess: The market here at the science outpost has a whole bunch of super-useful stuff you can purchase to help make your life a little easier. You should check it out.",
-    "value": "回到主题，我想：科学前哨站的市场有一大堆超级有用的东西，能让你的生活更加的便捷。你应该去看看。"
+    "value": "言归正传，我想说的是：这个科学前哨站的市场里有很多超级实用的物品，购买它们能让你的生活更轻松一些。你应该去看看。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/47",
     "raw": "When you -do- check it out, though, maybe wear pants. Kevin has a habit of shopping before he even gets dressed in the morning. If it wasn't for his carapace...well, let's just say there would be entirely too much alien wing-wong around.",
-    "value": "不过，当你真去--做--检查时，最好穿上裤子。凯文有一个习惯，早上不穿衣服就去购物。如果不是因为他的外壳......好吧，只能说周围都是外星人的老二。"
+    "value": "不过，当你真的去查看时，或许最好穿上裤子。凯文有个习惯，早上还没穿好衣服就开始购物。要不是他那身“外壳”...嗯，这么说吧，不然周围的外星人就得“刀剑乱舞”了。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/48",
     "raw": "Kevin has absolutely no issue with you randomly dropping into his office to use his autopsy table. This is rather unsettling. Sometimes you can hear the squishing sounds in the lunch room.",
-    "value": "凯文对你随意进入他的办公室使用他的验尸台完全没有意见。这让人相当不放心。有时你可以在午餐室里听到挤压的声音。"
+    "value": "凯文对你随意闯进他办公室使用解剖台这件事毫无意见，这反而令人不安。有时在午餐室里，你甚至能听到那种湿漉漉的挤压声。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/49",
     "raw": "My fingernails? Oh, thanks! ^red;*blush*^reset;. I have pretty much nothing to do most of the time, so I spent essentially 3 hours on any given day preeing myself. I think it pays off. Don't you?",
-    "value": "我的指甲？ 哦谢谢！^red;*脸红*。^reset;我大部分时间几乎无事可做，所以我在任何一天基本上都花3个小时为自己做准备。我认为这是有回报的。你不觉得吗？"
+    "value": "我的指甲？哦，谢谢！^red;*脸红*^reset;。我平时大部分时间都没什么事做，所以基本上每天会花三个小时打理自己。我觉得这很值得，你觉得呢？"
   },
   {
     "op": "replace",
     "path": "/chatOptions/50",
     "raw": "Fenerox are adorable. I'm fairly sure this is the only reason their acute xenophobic racism is tolerated. It's too cute to not love! Just listen to them talk about insectoids, and you'll understand.",
-    "value": "耳廓狐很可爱。我相当肯定这就是他们严重的排外种族主义被容忍的唯一原因。它们太可爱了，不能不爱！只要听他们谈论昆虫类，你就会明白。"
+    "value": "耳廓狐们真是可爱极了。我相当确信，这正是他们那种极端的排外种族主义能被容忍的唯一原因。他们实在太萌了，让人无法不爱！听听他们谈论虫族时的样子，你就会明白了。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/51",
     "raw": "No matter how many times he asks, do not go with Kevin to 'Fun Town'. It is neither fun, nor a town. Just heed the advice, or you might end up like me: taped to a wall in an office screaming obscenities into a fan.",
-    "value": "无论他要求多少次，都不要和凯文去“好玩的小镇”。它既不有趣，也不是一个小镇。最好听话，否则你可能会像我一样：被绑在办公室的墙上，对着风扇大喊大叫。"
+    "value": "无论他问多少次，都别跟凯文去“欢乐镇”。那里既不欢乐，也不是个镇子。听劝就好，否则你可能会落得和我一样的下场：被胶带粘在办公室墙上，对着风扇破口大骂。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/52",
     "raw": "Is it lunch yet? If sure feels like it. I am incredibly hungry, and my coffee hole is empty. I think I'll head to the Starbucks on the lower west floor soon. Advice: leave the Chunky Meat Coffee for the carnivores.",
-    "value": "现在是午餐时间吗？只要觉得是那就是。我非常饿，而我的咖啡因严重不足。我想我很快就会去西下层的星八颗。建议：把大块肉咖啡留给食肉动物。"
+    "value": "午饭时间到了吗？感觉确实像。我饿得不行，咖啡杯也空了。我想我很快会去西边楼下那家星八克。建议：把厚切肉味咖啡留给肉食爱好者吧。"
   },
   {
     "op": "replace",
     "path": "/chatOptions/53",
     "raw": "Why are you still here? It's great having someone to talk to, but I seem to be doing all of the talking while you listen and make non-commital grunts like some kind of Apex simpleton.",
-    "value": "你为什么还在这里？有个人说话是很好的，但我包揽了话匣子，而你却在听，像某位猿人傻瓜一样发出非承诺的咕哝声。"
+    "value": "你怎么还在这儿？有人聊天固然不错，但似乎一直是我在说个不停，而你只是听着，偶尔发出些含糊的咕哝声，简直像个只会点头的猴脑袋呆子。"
   }
 ]

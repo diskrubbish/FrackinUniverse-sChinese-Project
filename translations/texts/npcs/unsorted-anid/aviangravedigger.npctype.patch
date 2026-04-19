@@ -9,61 +9,61 @@
     "op": "replace",
     "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
     "raw": "  The Igor to your Frankenstein.",
-    "value": "  从伊果到你的弗兰肯斯坦。"
+    "value": "  愿做您的伊戈尔，成就您的弗兰肯斯坦。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/0",
     "raw": "Live a little, buy a corpse!",
-    "value": "及时行乐，来一尸体！"
+    "value": "人生苦短，尸趣横生！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/1",
     "raw": "Got some extra dead stuff!",
-    "value": "整点阴间的东西！"
+    "value": "有一些额外的石块！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/start/avian/default/2",
     "raw": "Hey there... want some corpses?",
-    "value": "嘿...想要些尸体吗？"
+    "value": "嘿...想不想来点尸体？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/avian/default/0",
     "raw": "OK, that's a few more corpses 'buried'...",
-    "value": "好吧，那是几具被“埋葬”的尸体..."
+    "value": "好的，又“安葬”了几具尸体..."
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/avian/default/1",
     "raw": "I hope the Stargazers don't find out about this.",
-    "value": "我希望观星者不会对此有所了解。"
+    "value": "希望观星者们不会发现这件事。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/end/avian/default/2",
     "raw": "Whatever you're going to do with them, I don't wanna know.",
-    "value": "无论你打算和他们做什么，我都不关心。"
+    "value": "无论你打算怎么处理他们，我都不想知道。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/follow/avian/default/0",
     "raw": "This way, this way!",
-    "value": "这里，这里！"
+    "value": "这边，这边！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/follow/avian/default/1",
     "raw": "Gotta keep my secrets. Follow me.",
-    "value": "我得保守秘密。跟我来。"
+    "value": "得守住我的秘密。跟我来。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/avian/default/0",
     "raw": "These weren't going to Kluex anyways.",
-    "value": "无论如何，这些都不曾属于克鲁西斯的。"
+    "value": "反正这些也不会送到克鲁西斯那里去。"
   },
   {
     "op": "replace",
@@ -75,42 +75,42 @@
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/welcome/avian/default/2",
     "raw": "Plenty of corpses. Got some royal stuff too.",
-    "value": "大量的尸体。也有一些皇家的东西。"
+    "value": "供应大量尸体，我这儿还寻得些皇家葬物。"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/tout/avian/default/0",
     "raw": "Live a little, buy a corpse!",
-    "value": "及时行乐，来一尸体！"
+    "value": "人生苦短，尸趣横生！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/tout/avian/default/1",
     "raw": "Got some extra dead stuff!",
-    "value": "整点阴间的东西！"
+    "value": "有一些额外的石块！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/tout/avian/default/2",
     "raw": "Hey there... want some corpses?",
-    "value": "嘿...想要些尸体吗？"
+    "value": "嘿...想不想来点尸体？"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/converse/avian/default/0",
     "raw": "Live a little, buy a corpse!",
-    "value": "及时行乐，来一尸体！"
+    "value": "人生苦短，尸趣横生！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/converse/avian/default/1",
     "raw": "Got some extra dead stuff!",
-    "value": "整点阴间的东西！"
+    "value": "有一些额外的石块！"
   },
   {
     "op": "replace",
     "path": "/scriptConfig/dialog/merchant/converse/avian/default/2",
     "raw": "Hey there... want some corpses?",
-    "value": "嘿...想要些尸体吗？"
+    "value": "嘿...想不想来点尸体？"
   }
 ]

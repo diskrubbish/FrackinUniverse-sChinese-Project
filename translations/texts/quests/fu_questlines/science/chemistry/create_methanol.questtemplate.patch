@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/title",
     "raw": "A Useful Alcohol",
-    "value": "甲醇的用处"
+    "value": "实用的甲醇"
   },
   {
     "op": "replace",
     "path": "/text",
     "raw": "I could use some ^orange;Methanol^reset; but don't have the materials handy. Bring me 10 ^orange;Methanol^reset; and I'll toss you something useful in return. Not a grenade. Promise.",
-    "value": "我可能需要一些^orange;甲醇^reset;但是我手头没有现成的材料。带给我10份^orange;甲醇^reset;，我会给你一些有用的东西作为回报的。不是一个手榴弹。我承诺。"
+    "value": "我需要一些^orange;甲醇^reset;，但手头没材料。给我带10份^orange;甲醇^reset;来，我会给你些有用的东西作为回报。不是手榴弹，我保证。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/completionText",
     "raw": "Excellent. This will be quite useful, and goes quite appreciated. Take ^green;this augment^reset;, perhaps you can get more use out of it than I ever could.",
-    "value": "太好了。你所做的相当有用，并且应该得到相当的赞赏。拿上^green;这个EPP模块^reset;吧，也许你能从它身上发现更多的用途。"
+    "value": "很好。这将会非常有用，我对此深表感激。请收下这份^green;增强模块^reset;，或许你能比我更好地利用它。"
   }
 ]

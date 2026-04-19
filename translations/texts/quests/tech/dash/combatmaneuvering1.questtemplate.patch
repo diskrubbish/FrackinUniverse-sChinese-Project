@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/text",
     "raw": "The strange artifact washes some sort of energy over you when you step near. You feel stronger! ^orange;[You can now double-tap left or right to activate a short dodge^reset;]",
-    "value": "当你靠近时，这件奇怪的遗物释放出了一股能量，而你沐浴其中。你感觉你变得更强壮了！^orange;[你现在可以通过连按左键/右键激活短距离冲刺。^reset;]"
+    "value": "当你靠近时，这件奇异的器物散发出某种能量笼罩着你。你感到力量增强了！[^orange;现在你可以双击左或右方向键来激活短距离闪避^reset;]"
   },
   {
     "op": "replace",
     "path": "/completionText",
     "raw": "The strange artifact washes some sort of energy over you when you step near. You feel stronger! ^orange;[You can now double-tap left or right to activate a short dodge]^reset;",
-    "value": "当你靠近时，这件奇怪的遗物释放出了一股能量，而你沐浴其中。你感觉你变得更强壮了！^orange;[你现在可以通过连按左键/右键激活短距离冲刺。^reset;]"
+    "value": "当你靠近时，这件奇异的器物散发出某种能量笼罩着你。你感到力量增强了！[^orange;现在你可以双击左或右方向键来激活短距离闪避^reset;]"
   }
 ]

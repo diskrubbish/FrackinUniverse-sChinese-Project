@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/gui/lblText/value",
     "raw": "^#b9b5b2;Place ??? in slots to apply ??? effects in range.",
-    "value": "^#b9b5b2;在格子中放入???以应用范围内的???效果。"
+    "value": "^#b9b5b2;在指定格放置 ??? 以在范围内施加 ??? 效果。"
   }
 ]
