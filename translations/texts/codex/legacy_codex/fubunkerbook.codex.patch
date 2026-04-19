@@ -3,36 +3,36 @@
     "op": "replace",
     "path": "/title",
     "raw": "USCM Field Handbook",
-    "value": "USCM战斗手册"
+    "value": "USCM战场手册"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "Supplied to all operatives",
-    "value": "供所有士兵阅读"
+    "value": "下发至全体人员"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "Upon first contact with the Floran Brood in [Redacted], the USCM far underestimated the level of aggression, cunning and savagery the Floran race would eventually become known for.",
-    "value": "在[被涂抹]，USCM于叶族首次接触中，USCM远远低估了叶族的野蛮与狡猾与侵略性。"
+    "value": "在[数据删除]与叶族战团的首次接触中，USCM严重低估了该种族此后以之著称的侵略性、狡诈与野蛮程度。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "During one of many border skirmishes with the expansionist Florans, Commander [Redacted] of the Sabre-class Battlecruiser USS [Redacted] attempted to relieve embattled USCM troops by covering advancing Floran forces with thousands of gallons of Solution 2,4-D, otherwise known as herbicide.",
-    "value": "在与叶族进行的边境之战中，军刀级的战列巡洋舰USS的指挥官[被涂抹]使用数千加仑的2.4-D溶液(简称为除草剂)来阻挡叶族的进攻，以缓解日益疲劳的USCM部队。"
+    "value": "在与扩张主义的叶族发生的多次边境冲突之一中，军刀级战列巡洋舰USS [数据删除]的指挥官[数据删除]曾尝试解救被困的USCM部队，其方法是用数千加仑的2,4-D溶液（即除草剂）覆盖前进中的叶族军队。"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     "raw": "The effect however, did not perform as expected, with the solution having roughly the same poisonous qualities as alcohol does to a human. Nevertheless, the move \"distracted\" the Florans enough for the Marines to launch a counterattack and overwhelm them, securing the planetside colony long enough to complete its emergency evacuation.",
-    "value": "然而，效果不如预期中顺利，它对人类造成的作用相当于酒精一般。人类的醉酒行为，使得叶族对部队进行压倒性的反攻，以确保殖民飞船在足够长的时间内完成紧急撤退。"
+    "value": "然而，效果并未达到预期。该溶液对叶族产生的毒性作用，大致相当于酒精对人类的影响。尽管如此，此举已足以“干扰”叶族，使陆战队得以发动反攻并将其击溃，从而确保了行星表面殖民地的安全，争取到完成紧急撤离所需的足够时间。"
   },
   {
     "op": "replace",
     "path": "/contentPages/3",
     "raw": "The tactic has not seen use since, but lives on in history as the [Redacted] Manoeuvre.",
-    "value": "这个战术从[被涂抹]行动中使用至今，再也未被使用。"
+    "value": "此战术自此后未被再次使用，但作为“[数据删除]”机动载入了史册。"
   }
 ]

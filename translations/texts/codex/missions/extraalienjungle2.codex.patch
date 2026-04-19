@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "(Brine Star) Savage Scribbling",
-    "value": "涂鸦(盐湖之星)"
+    "value": "盐湖之星：野蛮涂鸦"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "Looks even worse than your usual Floran scrawl.",
-    "value": "这什么意思？比叶族画的画还糟糕。"
+    "value": "这看起来比你认识的叶族人平常的涂鸦还要糟糕。"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "RULESS OF TRIBE\n\nRUINSS GIVESS SSPARKLIESS\n\nSSPARKLIESS GIVESS POWER\n\nDEVOUR SSPARKLIESS\n\nKEEP AWAY MEATSSS\n\nKEEP AWAY OTHER FLORAN\n\nBECOME SSSTRONGESST",
-    "value": "部落的准则\n\n废墟给我们闪闪\n\n闪闪给我们力量\n\n吃了闪闪\n\n不再吃肉\n\n不再吃叶族人\n\n变得更强"
+    "value": "部落的规规条条\n\n废墟赐予咱闪闪闪亮\n\n闪闪闪亮赐予力量\n\n吞噬掉闪闪闪亮\n\n远离肉肉们\n\n远离其他叶族人\n\n成为最最强强"
   }
 ]

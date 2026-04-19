@@ -3,36 +3,36 @@
     "op": "replace",
     "path": "/title",
     "raw": "Ascendant's Tale 10",
-    "value": "飞升记事 10"
+    "value": "飞升者记事 其十"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "The Ascendant's Tale 10",
-    "value": "飞升记事10"
+    "value": "飞升者记事其十"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "Hish'eth was right. Why settle for joining Kluex, IF I survive? Once I leap off the tower, I have no way to give myself an advantage. It all rests in the hands of Kluex. I don't like those odds. I control my own destiny.",
-    "value": "希什是对的。如果我能活下来，为什么还要信仰克鲁克斯？一旦我从塔上跳下来，我就再也没法为自己创造优势。这一切都掌握在克鲁克斯的手中。我不喜欢那些概率。我想掌控我自己的命运。"
+    "value": "希什埃斯是对的。倘若我能幸存，又何必屈就于信仰克鲁西斯？一旦我从塔顶跃下，便再无为自己增添胜算的余地。一切皆系于克鲁西斯之手。我不喜欢这等赌局。我的命运，当由我亲手掌控。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "Hish'eth gave me a datapad with co-ordinates on it. I believe it to be a sector somewhere in Hylotl space. 'Go here,' he said. 'Go here and follow your true destiny' - and then he was gone.",
-    "value": "希什给了我一块带坐标数据板。我认为这是一片属于鲛人宇宙的区域。“到这里去，”他说。“到这里去，去跟随你真正的命运。”——然后他就走了。"
+    "value": "希什埃斯给了我一块载有坐标的数据板。据我所知，那应是鲛人星域内的某处。“去这里，”他说道，“去这里，追随你真正的命运。” - 言毕，他便消失了踪影。"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     "raw": "Finding a spaceship won't be hard. Getting off-planet won't be hard. I have the finances, and I have the means. Something in my heart is telling me that THIS is my destiny; not to become some old god, rotting on a Sunborn throne beside Kluex, but to carve my own throne in my image.",
-    "value": "找一艘宇宙飞船并不难。离开这颗星球也不难。我有得是财富，我有得是方法。我内心深处的某些东西告诉我，这，才是我的命运; 不是成为一位衰老的神，在克鲁西斯旁边的太阳宝座上腐烂，而是去雕刻属于自己的想象中的宝座。"
+    "value": "寻一艘宇宙飞船并非难事。离开这颗星球亦非难事。我拥有足够的财富，也具备必要的手段。内心深处有个声音在告诉我，这，才是我命定之路；并非成为某个日渐衰老的神祇，在克鲁西斯身旁的太阳宝座上腐朽，而是依照我的意志，亲手雕琢出属于我自己的王座。"
   },
   {
     "op": "replace",
     "path": "/contentPages/3",
     "raw": "I will become an unstoppable force. And the universe shall know the name Thornwing.",
-    "value": "我将成为一股不可阻挡的力量。荆棘之翼之名将响彻宇宙。"
+    "value": "我将化作一股无可阻挡的力量。而荆棘之翼之名，必将响彻寰宇。"
   }
 ]

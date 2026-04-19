@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A Skath medical storage unit.",
-    "value": "绘世者医疗存储装置。"
+    "value": "海鳞族医疗存储装置。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Skath Med-Store",
-    "value": "绘世者医学商店"
+    "value": "海鳞族医学商店"
   },
   {
     "op": "replace",
@@ -57,6 +57,6 @@
     "op": "replace",
     "path": "/skathDescription",
     "raw": "These Med-Store units are common on our ships, and contain medical supplies suited to Skath physiology.",
-    "value": "这些医疗存储单元在我们的船上很常见，包含适合绘世者生理学的医疗用品。"
+    "value": "这些医疗存储单元在我们的船上很常见，包含适合海鳞族生理学的医疗用品。"
   }
 ]

@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A creepy religious text",
-    "value": "令人毛骨悚然的宗教书籍。"
+    "value": "一段令人毛骨悚然的宗教文本"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "...for the True Believer will need no eyes,\n  Remove them for He whom Sees,\nPassage is barred for those with sight;\n  In Darkness you must dwell.",
-    "value": "...神迹不会降临在有视力的信徒身上，\n作为真正的信徒眼睛则是多余的，\n挖掉它们吧，\n你必须永远处于黑暗之中。"
+    "value": "...因真信者目无所依，\n为全视之神剜目以祭，\n凡具双眸者不得逾界；\n汝当永驻幽暗之境。"
   }
 ]

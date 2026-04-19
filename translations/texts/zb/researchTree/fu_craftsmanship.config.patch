@@ -477,13 +477,13 @@
     "op": "replace",
     "path": "/strings/research/workbenchzerchesium/0",
     "raw": "Zerchesium Construction",
-    "value": "高熔点建筑"
+    "value": "极熔金建筑"
   },
   {
     "op": "replace",
     "path": "/strings/research/workbenchzerchesium/1",
     "raw": "^orange;Tier 3^reset;\n\nYou've designed a whole bunch of Zerchesium-based furniture items.",
-    "value": "^orange;3级^reset;\n\n你设计了一整套以高熔点矿物为基础的家具。"
+    "value": "^orange;3级^reset;\n\n你设计了一整套以极熔金矿物为基础的家具。"
   },
   {
     "op": "replace",
@@ -825,13 +825,13 @@
     "op": "replace",
     "path": "/strings/research/workbenchskath/0",
     "raw": "Skath Construction",
-    "value": "绘世者建筑"
+    "value": "海鳞族建筑"
   },
   {
     "op": "replace",
     "path": "/strings/research/workbenchskath/1",
     "raw": "^orange;Tier 3^reset;\n\nThe engimatic Skath are quite adept with technology, and this seeps into just about everything they make.",
-    "value": "^orange;3级^reset;\n\n绘世者使用起科技十分娴熟，而科技也几乎渗透到他们生产的所有产品中。"
+    "value": "^orange;3级^reset;\n\n海鳞族使用起科技十分娴熟，而科技也几乎渗透到他们生产的所有产品中。"
   },
   {
     "op": "replace",

@@ -189,13 +189,13 @@
     "op": "replace",
     "path": "/strings/research/zerchesiumgear/0",
     "raw": "Zerchesium Equipment",
-    "value": "高熔点装备"
+    "value": "极熔金装备"
   },
   {
     "op": "replace",
     "path": "/strings/research/zerchesiumgear/1",
     "raw": "^orange;Tier 3^reset;\n\nIn terms of weaponmaking, Zerchesium takes the best parts of Tungsten and takes them to the extreme. Durable and super heat resistant, it can be used in the creation of a huge amount of potent weapons and armor.",
-    "value": "^orange;3级^reset;\n\n在武器制造方面，高熔点采用了钨的最好的部分，并把优点提升到了极致。其耐用且超耐热，可用于制造大量的强力武器和盔甲。"
+    "value": "^orange;3级^reset;\n\n在武器制造方面，极熔金采用了钨的最好的部分，并把优点提升到了极致。其耐用且超耐热，可用于制造大量的强力武器和盔甲。"
   },
   {
     "op": "replace",
@@ -309,13 +309,13 @@
     "op": "replace",
     "path": "/strings/research/skathgear/0",
     "raw": "Skath Weapons",
-    "value": "绘世者武器"
+    "value": "海鳞族武器"
   },
   {
     "op": "replace",
     "path": "/strings/research/skathgear/1",
     "raw": "^orange;Tier 2^reset;\n\nThe Skath were almost rendered extinct thanks to a long-forgotten enemy, and it has shaped their culture ever since. Skath are quite adept with weaponry, especially plasma.",
-    "value": "^orange;2级^reset;\n\n由于被世界所遗忘的敌人，绘世者几近灭绝，从那时起，灾难就塑造了他们的文化。绘世者擅长制造武器装备，尤其是等离子武器。"
+    "value": "^orange;2级^reset;\n\n由于被世界所遗忘的敌人，海鳞族几近灭绝，从那时起，灾难就塑造了他们的文化。海鳞族擅长制造武器装备，尤其是等离子武器。"
   },
   {
     "op": "replace",

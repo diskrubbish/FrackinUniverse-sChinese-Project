@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A rustic Skath-made workbench, used to craft furniture and farming supplies.",
-    "value": "一个基础级绘世者工作台，用来制作家具和农具。"
+    "value": "一个基础级海鳞族工作台，用来制作家具和农具。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^orange;Rustic Skath Workbench^reset;",
-    "value": "^orange;基础级绘世者工作台^reset;"
+    "value": "^orange;基础级海鳞族工作台^reset;"
   },
   {
     "op": "replace",
@@ -63,13 +63,13 @@
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "raw": "A rustic Skath-made workbench, used to craft furniture and farming supplies.",
-    "value": "一个基础级绘世者工作台，用来制作家具和农具。"
+    "value": "一个基础级海鳞族工作台，用来制作家具和农具。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
     "raw": "^orange;Rustic Skath Workbench^reset;",
-    "value": "^orange;基础级绘世者工作台^reset;"
+    "value": "^orange;基础级海鳞族工作台^reset;"
   },
   {
     "op": "replace",
@@ -123,7 +123,7 @@
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
     "raw": " Rustic Skath Workbench",
-    "value": "基础级绘世者工作台"
+    "value": "基础级海鳞族工作台"
   },
   {
     "op": "replace",
@@ -135,13 +135,13 @@
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "raw": "An improved Skath Workbench, for crafting high-quality furniture and farming supplies.",
-    "value": "一台升级版的绘世者工作台，能制作更高质量的家具和农具。"
+    "value": "一台升级版的海鳞族工作台，能制作更高质量的家具和农具。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
     "raw": "^orange;Skath Industrial Workbench^reset;",
-    "value": "^orange;工业级绘世者工作台^reset;"
+    "value": "^orange;工业级海鳞族工作台^reset;"
   },
   {
     "op": "replace",
@@ -177,7 +177,7 @@
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
     "raw": "The Skath appear to have a different definition of 'handmade' to the Hylotl.",
-    "value": "绘世者一族对手工制作的定义似乎与鲛人族不一样。"
+    "value": "海鳞族一族对手工制作的定义似乎与鲛人族不一样。"
   },
   {
     "op": "replace",
@@ -195,7 +195,7 @@
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
     "raw": " Skath Industrial Workbench",
-    "value": " 工业级绘世者工作台"
+    "value": " 工业级海鳞族工作台"
   },
   {
     "op": "replace",

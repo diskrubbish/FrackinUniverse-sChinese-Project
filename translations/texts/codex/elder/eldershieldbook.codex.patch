@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Vektai Molla",
-    "value": "Vektai Molla"
+    "value": "叠浪弧顶"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "A descriptive text about armor",
-    "value": "关于一副盔甲的描述性文字。"
+    "value": "关于盔甲的描述性文字"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "While hard to decipher, there are schematics within this book that detail a shield, of sorts, composed of various unusual materials. It states that one should place five Noxcium bars, an Elder Tome and five Elder Fragments within some sort of altar...",
-    "value": "虽然字迹很难辨认，但这本书中有关于一副盔甲的详细信息，它各种非同寻常的材料组成。书中说需要伍块诺克石锭，壹本远古之书和伍个远古残卷，然后再某种祭坛上完成..."
+    "value": "此书字迹虽晦涩难辨，却暗藏一副异质坚盾的锻造秘录。据载：\n需集齐伍块诺克石锭\n壹本远古之书\n伍个远古残卷，\n置于某座祭坛之上方可铸成..."
   }
 ]

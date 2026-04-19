@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Schematics for some abhorrent weapon",
-    "value": "邪恶之兵图"
+    "value": "某亵渎兵刃锻造图录"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "...the catalyst is that very material. After it is applied, you'll be able to simply annihilate the very DNA of your opponents. As a result, the battlefield will be riddled with the horrified screams of melting enemies. To grace them with such perfection you'll need a Unknown Reactor, an Engraved Device and five Elder Fragments.",
-    "value": "...催化剂非常重要。 应用之后，您将能够轻而易举地降解敌人的DNA。 结果是，战场上充满了融化敌人的恐怖尖叫。 为了给他们带来如此完美的优雅毁灭，你需要一个能量核心，一台浮雕装置和五个远古残卷。"
+    "value": "...催化剂正是那关键材料。一旦施用，你便能轻易抹除对手的DNA本质。届时，战场上将遍布敌人消融时的惊骇惨叫。要赋予他们如此极致的终结，你需要：\n壹枚未知反应堆\n壹台浮雕装置\n伍卷远古残卷。"
   }
 ]

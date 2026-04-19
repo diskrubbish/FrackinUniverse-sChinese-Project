@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A wall demonstrating Skath plasma technology.",
-    "value": "一堵展示绘世者等离子体技术的墙。"
+    "value": "一堵展示海鳞族等离子体技术的墙。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Skath Energy Wall",
-    "value": "绘世者能量墙"
+    "value": "海鳞族能量墙"
   }
 ]

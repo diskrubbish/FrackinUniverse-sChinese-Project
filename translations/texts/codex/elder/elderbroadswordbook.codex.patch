@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Cleaver of Souls",
-    "value": "灵魂宽剑"
+    "value": "魂裂宽刃"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "Schematics for some abhorrent weapon",
-    "value": "邪恶之兵图"
+    "value": "某亵渎兵刃锻造图录"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "None shall resist your blade. Six blade shards, two ancient glyphs and a rune wand upon the altar should bind the cosmos to the blade. Your rage shall sew chaos through the galaxy.",
-    "value": "如果你拥有它，你将所向披靡。在祭坛上献上陆块刀剑碎片、贰个远古雕文和壹根密文魔杖你就可以获得它。你的愤怒将在寰宇之间传播混乱。"
+    "value": "持此刃者，万灵皆当辟易。祭坛之上，需以如下之物为契：\n陆块刀剑碎片\n贰枚远古雕文\n壹根密文魔杖，\n诸界将缚于刃锋，汝之怒焰必使星河焚乱。"
   }
 ]

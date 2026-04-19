@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A rustic Skath-made forge, used to smelt alloys and craft weaponry and armors.",
-    "value": "一个基础级的绘世者铸造台，用来冶炼金属，铸造武器和盔甲。"
+    "value": "一个基础级的海鳞族铸造台，用来冶炼金属，铸造武器和盔甲。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^orange;Rustic Skath Forge^reset;",
-    "value": "^orange;基础级绘世者铸造台^reset;"
+    "value": "^orange;基础级海鳞族铸造台^reset;"
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "This looks like a makeshift forge, built by the Skath.",
-    "value": "这看起来像是绘世者一族的人建造的临时锻造台。"
+    "value": "这看起来像是海鳞族一族的人建造的临时锻造台。"
   },
   {
     "op": "replace",
@@ -63,19 +63,19 @@
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "raw": "A rustic Skath-made forge, used to smelt alloys and craft weaponry and armors.",
-    "value": "一个基础级的绘世者铸造台，用来冶炼金属，铸造武器和盔甲。"
+    "value": "一个基础级的海鳞族铸造台，用来冶炼金属，铸造武器和盔甲。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
     "raw": "^orange;Rustic Skath Forge^reset;",
-    "value": "^orange;基础级绘世者铸造台^reset;"
+    "value": "^orange;基础级海鳞族铸造台^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
     "raw": " Rustic Skath Forge",
-    "value": "基础级绘世者铸造台"
+    "value": "基础级海鳞族铸造台"
   },
   {
     "op": "replace",
@@ -87,19 +87,19 @@
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "raw": "A Skath Plasma Forge, able to craft high quality weaponry, armour and alloys.",
-    "value": "一个等离子级绘世者铸造台，能够制造高质量的武器、盔甲和合金。"
+    "value": "一个等离子级海鳞族铸造台，能够制造高质量的武器、盔甲和合金。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/shortdescription",
     "raw": "^orange;Skath Plasma Forge^reset;",
-    "value": "^orange;等离子级绘世者铸造台^reset;"
+    "value": "^orange;等离子级海鳞族铸造台^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
     "raw": " Skath Plasma Forge",
-    "value": "等离子级绘世者铸造台"
+    "value": "等离子级海鳞族铸造台"
   },
   {
     "op": "replace",

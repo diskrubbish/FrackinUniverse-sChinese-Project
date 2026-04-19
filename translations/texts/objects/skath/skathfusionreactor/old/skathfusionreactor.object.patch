@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A fusion reactor made by the skath. It provides a huge amount of energy.",
-    "value": "绘世者制造的聚变反应堆。它提供了大量的能量。"
+    "value": "海鳞族制造的聚变反应堆。它提供了大量的能量。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Skath Fusion Reactor",
-    "value": "绘世者聚变反应堆"
+    "value": "海鳞族聚变反应堆"
   },
   {
     "op": "replace",

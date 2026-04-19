@@ -1461,7 +1461,7 @@
     "op": "replace",
     "path": "/visitableTypeDescription/mountainous/0",
     "raw": "This ^#b398ba;mountainous^reset; world is studded with immensely tall rocky mountains. Scans show large bipedal primitives. ^#e47998;Zerchesium ore^reset; detected. High-Gravity events are common.",
-    "value": "这个^#b398ba;山脉^reset;世界布满了极高的落基山脉。扫描显示有大量双足原始人。探测到^#e47998;Z高熔点矿^reset;。常常发生高重力事件。"
+    "value": "这个^#b398ba;山脉^reset;世界布满了极高的落基山脉。扫描显示有大量双足原始人。探测到^#e47998;Z极熔金矿^reset;。常常发生高重力事件。"
   },
   {
     "op": "replace",
@@ -2079,7 +2079,7 @@
     "op": "replace",
     "path": "/displayOres/zerchesium/displayName",
     "raw": "Zerchesium",
-    "value": "高熔点矿"
+    "value": "极熔金矿"
   },
   {
     "op": "replace",

@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/apexweaponsplatform/parameters/description",
     "raw": "The flagships of the Skath fleet, deployed at the head of an armada or on solitary missions. This one appears to be on the hunt.",
-    "value": "部署在舰队的舰首或执行单独任务的绘世者舰队旗舰。这艘似乎在狩猎。"
+    "value": "部署在舰队的舰首或执行单独任务的海鳞族舰队旗舰。这艘似乎在狩猎。"
   },
   {
     "op": "replace",
@@ -105,7 +105,7 @@
     "op": "replace",
     "path": "/apexweaponsplatform/parameters/displayName",
     "raw": "Skath Dreadnought",
-    "value": "绘世者无畏舰"
+    "value": "海鳞族无畏舰"
   },
   {
     "op": "replace",

@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A sturdy bed, made by the Skath.",
-    "value": "一张结实的床，由绘世者制作。"
+    "value": "一张结实的床，由海鳞族制作。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Skath Bed",
-    "value": "绘世者床"
+    "value": "海鳞族床"
   },
   {
     "op": "replace",
@@ -57,6 +57,6 @@
     "op": "replace",
     "path": "/skathDescription",
     "raw": "This Skath-made bed has inbuilt hydrolium circuits that can adjust the temperature of the bed.",
-    "value": "这款绘世者床内置有可调节床温的水解回路。"
+    "value": "这款海鳞族床内置有可调节床温的水解回路。"
   }
 ]

@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/title",
     "raw": "Ascendant's Tale 1",
-    "value": "飞升记事 1"
+    "value": "飞升者记事 其一"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "The Ascendant's Tale 1",
-    "value": "飞升记事1"
+    "value": "飞升者记事其一"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "Finally, the day has come. I have been chosen. Chosen to begin my training, to become what I have always aspired to be. Strangers and friends have walked this path before me, and they have all failed. I will not.",
-    "value": "终于，这一天到来了。我被选中了。被选中去进行历练，去成为我一直渴望成为的人。在我之前，陌生人和友人们踏上过这条道路，但他们都失败了。不过我不会。"
+    "value": "这一天终于来临。我被选中了。被选中开始我的历练，去成为我梦寐以求的存在。曾有无数陌生人与友人行走于此道，而他们皆已失败。但我不会。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "I've prepared for this. All my life I've prepared. My body is at its peak; I can endure the Ascendant training, I can display glory and honour, and I can please Kluex. I know it. My family supports me, my friends support me, the only thing left is to get my head down and do this.",
-    "value": "我为此做好了准备。我的一生都在为此准备。我正值巅峰岁月; 我可以承受飞升历练，我可以展现出荣耀和尊严，我可以取悦克鲁西斯。我知道。我的家人支持我，我的朋友们支持我，剩下唯一需要的就是我的全力以赴。"
+    "value": "我为此做好了万全准备。我的一生都在为此准备。我的肉体正值巅峰；我能承受飞升之苦，我能展现荣光与尊严，我能取悦克鲁西斯。我深知于此。我的家人支持我，我的友人支持我，而今唯一所需，便是沉心静气，全力以赴。"
   }
 ]

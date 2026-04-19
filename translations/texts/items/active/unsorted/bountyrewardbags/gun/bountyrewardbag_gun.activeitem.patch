@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A box of guns confiscated from a gun-running sting operation. It's not like they need them anymore.",
-    "value": ""
+    "value": "在一次枪支走私诱捕行动中收缴的一箱枪支。反正他们再也用不着这些了。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Box of Confiscated Weapons",
-    "value": ""
+    "value": "收缴武器箱"
   }
 ]

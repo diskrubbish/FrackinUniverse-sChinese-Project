@@ -3,60 +3,60 @@
     "op": "replace",
     "path": "/title",
     "raw": "Classified document. 11 - 2 - XX",
-    "value": "机密文件。11-2-XX"
+    "value": "机密文件 11-2-XX"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "U.S.C.M. Final report by Cpt. M.",
-    "value": "U.S.C.M.最终报告。由M队长所著。"
+    "value": "U.S.C.M. 最终报告，M队长归档。"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "This document is only meant to be viewed by U.S.C.M bio-engineering staff of classification level 5 or higher. In the events this document is read by other eyes, it is meant to be destroyed. If you, are reading this, without being of any classification, you are about to uncover some truths.",
-    "value": "本文件仅供U.S.C.M生物工程部5级或更高级别的工作人员阅读。在其他人阅读这份文件时，它必须要被销毁。如果你正在阅读这篇文章，无论任何级别，你将会发现一些真相。"
+    "value": "本文件限U.S.C.M.生物工程部安全等级5级或以上人员查阅。若被非授权人员读取，应立即销毁。若您在不具备相应等级的情况下阅读本文，意味着您即将接触部分受控真相。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "09 - 4 - XX,05:00 AM\n\nA product case was suggested to the head of the leading science and recreation division of the science outpost, the location of which is disclosed to anyone without a direct invitation to the facility, or with means to contact them otherwise. Dr. V. was asked to conduct advisory roles for the development of project Termite Hill,",
-    "value": "09-4-XX，05:00 AM\n\n有人向科学前哨站的主要科学和娱乐部门的负责人提出了一个产品案例，未经直接邀请前往该设施的任何人或有其他方式与他们联系的任何人都可以知道该产品案例的位置。博士被要求为白蚁山计划的发展提供咨询服务,"
+    "value": "09-4-XX, 05:00 AM\n\n一项关于“产品”的提案被提交至科学前哨站主导科学与娱乐部门负责人处。该设施的位置对非直接受邀或无法通过其他途径联系者保密。V博士受邀为“白蚁山计划”的发展提供顾问服务。对于U.S.C.M.而言，“白蚁山计划”属机密项目，"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     "raw": "for the U.S.C.M. Termite hill is a classified project, but as this is a final report on the matter, I will be honest. We tried to make humans more disposable as before, by making - imperfect - clones. Clones close to humankind but in multiple ways genetically different so those soldiers would not be able to be traced back to us, nor mankind. An elite",
-    "value": "对于U.S.C.M.来说，白蚁山计划是一项机密的规划，但由于这是关于这个问题的最终报告，我将是坦诚相待。我们试图通过制造不完美的克隆体，让人类像以前一样更容易被抛弃。克隆人和人类很接近，但是基因上有很多不同，所以那些士兵不可能追溯到我们，也不可能追溯到人类。"
+    "value": "但鉴于本报告为事件最终报告，我将如实陈述。项目目标是通过制造不完美的克隆体，提升人类的可消耗性。克隆体与人类高度相似，但在基因层面存在多处差异，以确保这些士兵无法被追溯至我方或人类文明。"
   },
   {
     "op": "replace",
     "path": "/contentPages/3",
     "raw": "task force, with no name, no past, no future. Production went well.\n\n\n 22 - 6 - XX\n\nThe production passed its testing phase with flying colors, the clones were brought up from infantile sizes to full-grown produce. Trained in black ops combat, and tested against small villages of hostile alien species. Most of which unknown to the united federation of",
-    "value": "一支精英特遣部队，没有名字，没有过去，没有未来。生产进展顺利。\n\n\n22-6-XX\n\n产品出色地通过了测试，实现了无性系从婴儿期到成年期的成长。产品在秘密行动中接受过战斗训练，并在敌对的外来物种的小村庄中进行过测试。"
+    "value": "他们被设计为一支无名、无过去、无未来的精英特遣队。生产阶段进展顺利。\n\n\n 22 - 6 - XX\n\n产品测试阶段以优异成绩通过。无性系个体成功从婴儿期培育至完全成熟。产品接受了黑色行动战斗训练，并在敌对外星物种的小型聚落中进行了实战测试。"
   },
   {
     "op": "replace",
     "path": "/contentPages/4",
     "raw": "space inhabitants. Those that are known are the [REDACTED].\n\n\n13 - 7 - XX\n\nDr. V was disclosed from the project at his request, every involvement is erased and any technology provided reproduced. As such, efficiency in productivity dropped by 22%. But it was a sacrifice we were willing to take. Dr. V never spoke a word about it since.",
-    "value": "其中大部分是联邦政府所不知道的太空居民。那些人在公知中被认为是[已编辑]。\n\n\n13-7-XX\n\n在V博士的要求下，他揭发了这个项目，所有的涉足都被抹去，所提供的任何技术都被复制。因此，生产效率下降了22% 。但这是我们愿意做出的牺牲。从那以后，V博士再也没有提起过这件事。"
+    "value": "其中大部分物种不为太空居民联合联邦所知。已知物种部分为[已编辑]。\n\n\n13 - 7 - XX\n\n应V博士本人要求，其与项目的关联已被解除，所有参与记录均被抹去，其提供的技术均已完成复制。此举导致生产效率下降22%。但这是我们愿意承担的代价。自那时起，V博士未再提及此事。"
   },
   {
     "op": "replace",
     "path": "/contentPages/5",
     "raw": "08 - 8 - XX\n\nOur badly reproduced machinery have created a heat-signature strong enough to pass through our reinforced walls of the underground base on planet [REDACTED] - A Floran Armada picked up on the signature and invaded, making short work of the unprepared minimal security force, and several of the scientists on the work floor. Only a handful, including",
-    "value": "08-8-XX\n\n我们糟糕的复制机器产生了一次强大的热信号，足以穿透我们建立在[已编辑]的地下基地的加固墙壁，一支翼族人无敌舰队发现了这次信号并且对我们进行了入侵，,毫无准备的保安队伍，还有工作场地上的几个科学家打了个迅雷不及掩耳之势。"
+    "value": "08 - 8 - XX\n\n我们存在缺陷的复制设备产生了一次强烈的热信号，该信号足以穿透我们位于[已编辑]星球地下基地的加固墙壁。一支叶族无敌舰队侦测到此信号并发动入侵，迅速瓦解了毫无准备的薄弱安保力量及在场的数名科学家。仅有少数人员，"
   },
   {
     "op": "replace",
     "path": "/contentPages/6",
     "raw": "myself, escaped with our lives, and only minor injuries. We lost the project and our facility to the Florans that very day.",
-    "value": "只有一小部分人，包括我自己，死里逃生，只受了点小伤。就在那一天，我们失去了项目和设备。"
+    "value": "包括我在内，得以生还，且仅受轻伤。项目与设施于当日尽数损失于叶族之手。"
   },
   {
     "op": "replace",
     "path": "/contentPages/7",
     "raw": "Present Day\n\nWe have seen that several new food items have been universally spread by Floran distributors. Prepared human-like faces, and baby-heads on a stick. The baby heads have an exact match with the scrambled DNA sequence we had given the clones. It is clear what happened to our facility, and its clear what the Floran have turned it into. To this day, no-one has linked it back to humankind, nor the U.S.C.M",
-    "value": "现如今\n\n我们已经看到一些新的食品已经由叶族人经销商普遍传播。有准备好了人类脸皮，还有插在棍子上的婴儿头。婴儿的头包含完全匹配y于我们用于克隆的的打乱DNA序列。很明显，我们的设施发生了什么，也很明显，叶族人把它变成了什么。直到今天，还没有人把它与人类联系起来，也没有人把它与 U.S.C.M 联系起来"
+    "value": "现状\n\n我们观察到，由叶族经销商广泛传播数种新型食品。包括经处理的人类面皮，以及插在棍棒上的婴儿头部。婴儿头部的DNA序列与我们赋予克隆体的扰码序列完全匹配。我们设施内发生的事件，以及叶族对其的改造用途，已不言自明。截至目前，尚未有任何证据将这些产品与人类或U.S.C.M.联系起来。"
   }
 ]

@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A log about the Skath's strongest material.",
-    "value": "记载了绘世者发现的最强材料"
+    "value": "一份关于海鳞族最强材料的日志。"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "[REDACTED]",
-    "value": "[内容被擦除]"
+    "value": "[已编辑]"
   }
 ]

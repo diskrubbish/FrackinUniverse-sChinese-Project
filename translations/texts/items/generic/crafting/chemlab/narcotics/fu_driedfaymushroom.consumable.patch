@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "^green;Weight : 0.1g^reset; ^red;Narcotic\n^white; Triggers severe hallucinations. Breaks the mind, but inspires creativity.\n^blue;Madness Gain^reset; 9",
-    "value": ""
+    "value": "^green;重量：1克^reset;^red;麻醉品。\n^white; 引发严重幻觉。摧毁心智，但激发创造力。\n^blue;疯癫获取量^reset;：9"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Dried Fay Mushrooaams",
-    "value": ""
+    "value": "干仙灵蘑菇"
   }
 ]

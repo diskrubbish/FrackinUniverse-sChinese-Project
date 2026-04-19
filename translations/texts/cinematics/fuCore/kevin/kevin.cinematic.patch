@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/panels/5/text",
     "raw": "^red;What do you need now, Jesson?!?!?^reset; Oh. It's not him. Hi. What?",
-    "value": "^red;你想要啥，杰森?!?!?^reset;哦，还好不是他。嗨。咋了？"
+    "value": "^red;你想要啥，杰森？！？！？^reset;哎哟，还好不是他。嗨。咋了？"
   },
   {
     "op": "replace",
@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/panels/7/text",
     "raw": "No? Allright...you standing there is getting a bit annoying, then. On your bike. Off you go.",
-    "value": "你觉得我不是？ 唉...那你站在那里有点瞎我眼睛。骑上自行车。滚吧。"
+    "value": "没有？好吧...你站在那儿有点碍事了。骑上自行车。滚吧。"
   },
   {
     "op": "replace",
     "path": "/panels/8/text",
     "raw": "No? Allright. ^red;$#@@#%^reset; it I guess. I'm ^green;Kevin^reset;, and I am probably quite a bit smarter than you are.",
-    "value": "你觉得我不是？ 哎呦。我猜你^red;$#@@#^reset;%。哥们是^green;凯文^reset;，而且我可能比你聪明得多。"
+    "value": "不干？啊对对对。我猜你^red;$#@@#^reset;%。哥们叫^green;凯文^reset;，而且我可能比你聪明得多。"
   },
   {
     "op": "replace",
@@ -45,72 +45,72 @@
     "op": "replace",
     "path": "/panels/14/text",
     "raw": "For the bread? Rye of course. Not just any rye, though. Not that garbage Jesson used to sell down by the market. I mean real Rye. Stuff like Garla always has. Fresh. Succulent.",
-    "value": "要拿什么做面包？ 当然是黑麦。不过也不限黑麦。至少不是捡垃圾杰森以前在市场上抛售的垃圾货。 我是说真正的黑麦。像加尔拉虫一样的东西。新鲜的。肉肉的。"
+    "value": "面包用什么做？当然是黑麦。不过，可不是随便哪种黑麦。不是杰森在市场边常卖的那种劣质货。我说的是真正的黑麦，就像加尔拉虫的那种。新鲜，多汁。"
   },
   {
     "op": "replace",
     "path": "/panels/16/text",
     "raw": "From there, you need to set aside the loaf for a bit. You need to let it wait, anticipate your intentions. So for now, lets move on the the Horkulbeast. Get it fresh. It won't be cheap.",
-    "value": "从那里开始，你得把面包放在一边。您需要等待，预测你的意图。 因此现在，让我们把注意力转移到赫库尔兽上。整点它的肉。这些肉不会便宜。"
+    "value": "接下来，你需要将面包暂时搁置一旁。让它稍作等待，揣摩你的意图。现在，我们转向赫库尔兽。肉务必要新鲜的，价格自然不菲。"
   },
   {
     "op": "replace",
     "path": "/panels/17/text",
     "raw": "The difference in the meat quality though...that's unmistakeable. You won't ever want to eat another thing again, I promise you that. Once I add the rest of the ingredients...mmmmm.",
-    "value": "肉质的差异... 显而易见。我向你保证，你再也不想吃任何东西了。一旦我加入剩下的配料...嗯。"
+    "value": "不过，肉质上的差异..那是无可置疑的。我向你保证，尝过之后，你再也不想碰其他任何东西了。等我再加上剩下的配料...嗯。"
   },
   {
     "op": "replace",
     "path": "/panels/18/text",
     "raw": "Garlic, you ask? Hell yes there is garlid. As much as we can muster. We want about 4 cloves. Trust me here, any less is criminal. Set a pan out, turn on your burner and add some oil while it warms.",
-    "value": "大蒜，你问？ 肯定有啊，我们有多少找多少。我们要4瓣就差不多啦。相信我哥们，更何况这可是犯罪。放好锅，打开燃烧器然后在加热时加一些油。"
+    "value": "大蒜？当然要大蒜，越多越好。我们需要大约四瓣。相信我，少放一点都是罪过。拿出平底锅，点燃炉火，预热时加点油。"
   },
   {
     "op": "replace",
     "path": "/panels/20/text",
     "raw": "We're going to fry the horkulbeast now, at about medium for 3 minutes a side. While it cooks, mash up the garlic and add it in. Then we just need one more thing.",
-    "value": "我们现在要把马铃薯煎一下，大约中火煎个3分钟。煎的时候，把大蒜捣碎，加进去。然后我们还需要一样东西。"
+    "value": "我们现在开始煎赫库尔兽肉，用中火每面煎约三分钟。煎肉的同时，把大蒜捣碎加入。接下来，我们还需要最后一样东西。"
   },
   {
     "op": "replace",
     "path": "/panels/21/text",
     "raw": "What is it you ask? Why obviously thats love and tenderness! You wanna cook that stuff up for 3 mins per side, flipping only once.",
-    "value": "你问是啥？为什么会是那么明显的爱和温柔！你要把这些东西再炒3分钟，只炒一次。"
+    "value": "你问要加啥？那当然是爱与温柔啦！每面煎三分钟，只需翻一次面即可。"
   },
   {
     "op": "replace",
     "path": "/panels/23/text",
     "raw": "Just before you're about to take that horkulbeast, egg and garlic medley off the burder be sure to flap your arms like a bird and screech like a norlaac in mating season.",
-    "value": "在你准备从锅中取出赫库尔兽，鸡蛋和大蒜混合物之前，请务必学交配季节像鸟一样拍打您的手臂，并像诺拉克一样尖叫。"
+    "value": "就在你准备从汉堡上取下那霍库尔兽肉、鸡蛋与大蒜混合馅料之前，务必像鸟儿一样拍打双臂，并像交配季节的诺拉克兽那样尖声嘶鸣。"
   },
   {
     "op": "replace",
     "path": "/panels/25/text",
     "raw": "Kevin knows his stuff. Don't question the genius here: Next I got a nice spoonful of antimatter. I added that to 3 ounces of snarshed soda crackers.",
-    "value": "凯文对自己了如指掌。不要质疑如此的天才：接下来，我得到了一大匙反物质。 我往3盎司装苏打饼干里加了这个。"
+    "value": "我牢凯对此了如指掌。别质疑俺这个天才的智慧：接下来，我取了一勺恰到好处的反物质，将其加入到三盎司碾碎的苏打饼干中。"
   },
   {
     "op": "replace",
     "path": "/panels/26/text",
     "raw": "Now I needed to toast that bread. Then it was a simple matter of farlixxing the qualtross-barr barrier using the flesh-engine.",
-    "value": "现在我要烤面包。然后，使用肉体引擎简单地将夸特障碍物化为一个简单的问题。"
+    "value": "现在我需要把面包烤一下。然后，只需用血肉引擎对夸尔特罗斯-巴尔屏障进行法利克斯处理即可。"
   },
   {
     "op": "replace",
     "path": "/panels/29/text",
     "raw": "Then I combined all that crap. The perfect, sapient, singing sandwich. It looked amazing, by the way. Truly astonishing. The screams when devoured...less so.",
-    "value": "然后，我把所有的垃圾组合起来。完美的，聪明的，会唱歌的三明治诞生了。顺便说一句，它看起来棒极了。真的很怪哦。当然被吃掉时的尖叫声...就没那么好听了。"
+    "value": "随后我将所有那些玩意儿糅合在一起。一个完美的、有知觉的、会唱歌的三明治就此诞生。顺便说一句，它看起来棒极了，真是令人惊叹。不过被吞噬时的尖叫声……就没那么美妙了。"
   },
   {
     "op": "replace",
     "path": "/panels/30/text",
     "raw": "I gave up that noble profession, however. My true interest lay down the path of knowledge and understanding. I even invented the ^cyan;Kill-Pod^reset; in ^red;Strawberry^reset;!",
-    "value": "我放弃了那崇高的职业。我的真正兴趣在于知识和理解的道路。我甚至发明了藏在^red;草莓^reset;里的 ^cyan;杀人棍^reset;！"
+    "value": "然而，我放弃了那份高尚的职业。我真正的兴趣在于追求知识与理解的道路上。我甚至发明了藏在^red;草莓^reset;里的 ^cyan;杀人棍^reset;！"
   },
   {
     "op": "replace",
     "path": "/panels/31/text",
     "raw": "And now I'm here. At least until I no longer am. Thankfully that can't happen without a Quintex Obliterator, and those aren't invented yet. Did I miss anything?",
-    "value": "现在我就在这。至少直到我不再是我。值得庆幸的是，如果没有抗锯齿泯灭者，这种事情不可能发生，而且这玩意还没有被发明出来。我难道会怀念什么吗？"
+    "value": "现在我来了。至少在我消失之前会一直在这里。幸好没有昆泰克斯毁灭者就不会发生这种事，而那玩意儿还没发明出来呢。我有没有遗漏什么？"
   }
 ]

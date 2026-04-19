@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A comfortable bench made by the Skath.",
-    "value": "一张由绘世者做的舒适的长凳。"
+    "value": "一张由海鳞族做的舒适的长凳。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Skath Bench",
-    "value": "绘世者长凳"
+    "value": "海鳞族长凳"
   },
   {
     "op": "replace",
@@ -57,6 +57,6 @@
     "op": "replace",
     "path": "/skathDescription",
     "raw": "Even the Skath want to rest sometimes, and enjoy an ocean view.",
-    "value": "即使是绘世者有时也想休息一下，欣赏海景。"
+    "value": "即使是海鳞族有时也想休息一下，欣赏海景。"
   }
 ]

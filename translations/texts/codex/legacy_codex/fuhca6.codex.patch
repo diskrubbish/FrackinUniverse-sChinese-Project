@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/title",
     "raw": "Fight or Flight",
-    "value": "打架或者飞天"
+    "value": "是战还是闪"
   },
   {
     "op": "replace",
@@ -15,24 +15,24 @@
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "I was exploring the ship, as you do, when I encountered what appeared to be someone's private laboratory, marked with 'Keep Out' signs and warnings of delicate, breakable equipment within. I barged my way inside, and began to fiddle with all the exciting bits and bobs.",
-    "value": "我在探索这艘船,和你一样，的时候，找到了一处看起来像是某人的私人实验室的房间，上面写着“请勿进入”的标志，还有警告说里面有易碎的精密设备。所以我闯了进去，开始摆弄那些令人兴奋的东西。"
+    "value": "我在探索这艘船（就像你也会做的那样）时，发现了一个看起来像是某人私人实验室的地方，门上挂着“禁止入内”的牌子，还警告说里面有易碎的精密设备。于是我破门而入，开始摆弄起所有那些令人兴奋的零碎玩意儿。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "Imagine my alarm when, from out of nowhere, I was greeted by a dull robotic voice commanding me to 'prepare to die'. At first, I thought the Glitch had finally sent assassins to demand retribution for past transgressions, but the truth was much worse.",
-    "value": "想象一下我的警觉，不知从哪里冒出来，迎接我的是一个说着让我准备去死的迟钝机器人。起初，我以为电子人终于派出了刺客，要求他对我过去的罪行进行报复，但事实要糟糕得多。"
+    "value": "想象一下我有多惊恐：一个沉闷的机器人声音不知从哪儿冒出来，命令我“准备受死”。起初，我以为电子人终于派了刺客来找我清算旧账，但实际情况糟糕得多。"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     "raw": "A small, misshapen robot stood before me, vibrating on the spot. It looked like it had been made out of a kettle and some saucepans, but its eyes glowed red with malevolence. I knew this was it. Me or the robot. Live or die.",
-    "value": "一个小小的、畸形的机器人站在我面前，在原地震动。它看起来像是用一个水壶和一些平底锅做成的，但是它的眼睛因为恶意而闪着红光。我就知道会这样。我或者机器人。生存还是死亡。"
+    "value": "一个小巧、畸形的机器人站在我面前，在原地不停振动。它看起来像是用水壶和几个炖锅拼成的，但它的眼睛却闪着恶意的红光。我知道决战时刻到了。不是它死，就是我亡。"
   },
   {
     "op": "replace",
     "path": "/contentPages/3",
     "raw": "Screaming, I ran from the room, knocking machinery hither and thither. Avians stared at me as I ran through the ship, being pursued by the robot. Nobody even stepped in to help! Eventually I had to throw myself over the side, plummeting down to meet the ground below. Thankfully, the ship was passing over an outdoor Apex marriage ceremony, and the wedding cake broke my fall. A narrow escape!",
-    "value": "我尖叫着跑出房间，到处敲打着机器。当我穿过飞船时，翼族人们盯着我，还被机器人追赶者。甚至没有人来帮忙！最终我不得不从侧面跳下去，垂直坠落到地面上。谢天谢地，飞船正好经过一个户外的 猿人婚礼，结婚蛋糕接住了我。泥给路达哟！"
+    "value": "我尖叫着冲出房间，把机器设备撞得东倒西歪。我一路跑过飞船，被那机器人穷追不舍，翼族人都盯着我看。居然没有一个人出手相助！最后我不得不从船舷跳下去，垂直坠向下方的大地。万幸的是，飞船正经过一场猿人的户外婚礼，而结婚蛋糕恰好接住了我。真是死里逃生！"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "You should drink this.\n^blue;Madness Gain^reset; 3",
-    "value": ""
+    "value": "一口闷，感情深。\n^blue;疯癫获取量^reset;：3"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Mysterious Juice",
-    "value": ""
+    "value": "神必果汁"
   }
 ]

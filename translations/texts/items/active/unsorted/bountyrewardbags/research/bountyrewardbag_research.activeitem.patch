@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A data disk containing research seized from an illegal Miniknog blacksite. You can put it to better use. Maybe.",
-    "value": ""
+    "value": "一块从非法科技发展部据点缴获，装满了研究数据的磁盘。你可以更好地利用它。或许吧。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Illicit Research Disk",
-    "value": ""
+    "value": "非法研究磁盘"
   }
 ]

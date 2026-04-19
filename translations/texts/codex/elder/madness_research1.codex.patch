@@ -9,19 +9,19 @@
     "op": "replace",
     "path": "/description",
     "raw": "Eloptics Volume I",
-    "value": "丛书第一卷"
+    "value": "《光觉录》第一卷"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "All matter in the universe is composed of small packets of energy known as quantas. This energy, which goes into the making up of atoms pulsates or resonates at a particular frequency. Each atom being different therefore, has a slightly different pulsation or frequency.",
-    "value": "宇宙中所有的物质都是由被称为量子的微粒组成的。这种能量以特定的频率脉动或共振进入组成原子的过程中。因此，每个原子都有不同的脉冲或频率。"
+    "value": "土豆的整体与其各个部分之间存在着某种“电磁共鸣”。若将土豆切为两半，每一半的频率仍与原先完全相同。这一频率，在宇宙间仅此一例。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "Thus each material thing being made up of a combination of atoms, called molecules, has its own unique frequency, unlike any other. Now because each individual thing is unique, no potato for instance is exactly like any other potato.",
-    "value": "因此，每一种由原子组成的物质，被称为分子，都有自己独特的频率，不同于其他任何物质。因为每个单独的东西都是独一无二的，举个例子，没有一个土豆和其他的土豆完全一样。"
+    "value": "因此，由原子组合而成的分子所构成的每一种物质，皆拥有其独一无二的频率，迥异于其他万物。正因每个个体皆具独特性。譬如，世上不存在两颗完全相同的土豆。"
   },
   {
     "op": "replace",

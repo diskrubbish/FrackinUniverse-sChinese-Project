@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Vall Bokar",
-    "value": "Vall Bokar"
+    "value": "亡魂碎器"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "Schematics for some abhorrent weapon",
-    "value": "邪恶之兵图"
+    "value": "某亵渎兵刃锻造图录"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "None before the might of Asatoth! None before his touch! Place the sacrament at an altar: an Elder Artifact, two Blade Shards and a Trapezohedron.",
-    "value": "在阿萨图斯触摸它之前什么也不会有！放置以下祭品：壹个远古神器，贰块刀剑碎片和壹·个偏方三八面体。"
+    "value": "在阿萨托斯的威能面前，万物皆虚！在他的触碰面前，无一幸免！将圣物置于祭坛之上：\n壹个远古神器\n贰块刀剑碎片\n壹个偏方三八面体。"
   }
 ]

@@ -3,30 +3,30 @@
     "op": "replace",
     "path": "/title",
     "raw": "Ascendant's Tale 9",
-    "value": "飞升记事 9"
+    "value": "飞升者记事 其九"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "The Ascendant's Tale 9",
-    "value": "飞升记事9"
+    "value": "飞升者记事其九"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "It is done. Larbeaks is no more. Nobody suspects a thing. And yet I am shaken, concerned. You see, the Helion visited me after the kill. This is unheard of. Almost never do the Helion reveal themselves to their clients. And yet, I woke up in the night to feel a hand on my shoulder.",
-    "value": "已经完成了。大喙从此出局。没人怀疑什么。但我还是很担惊受怕。你看，那位氦离子刺客在完成暗杀后拜访了我。这简直闻所未闻。因为这些刺客几乎从不向客户展示自己。不过这次，我在夜晚醒来，感觉到一只手搭在我的肩膀上。"
+    "value": "事已办妥。大喙不复存在。无人起疑。然而我却心绪不宁，忧心忡忡。你瞧，那名赫利恩刺客在得手后，竟前来拜访了我。这简直是闻所未闻。他们几乎从不向委托人显露真容。可是，我在深夜醒来，竟感觉到一只手搭在我的肩头。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "The Helion was not what I expected. He was soft-spoken, calm. His name is Hish'eth and he said I knew my mother. That he'd been there when she died. I asked him if that meant what I thought it meant. He shook his head, and I thought I could detect a sadness in his eyes.",
-    "value": " 这位刺客不同于我的想象。他说话温和，冷静。他的名字叫希什，他说他不仅认识我母亲。她死的时候他也一直在她身旁。我问他这件事是否意味着我认为其中有蹊跷。他摇了摇头，我想我能从他的眼中看出悲伤。"
+    "value": "这位赫利恩与我预想的截然不同。他语调温和，神色平静。他名叫希什埃斯，他说他认识我母亲，并在她临终时伴其左右。我追问他，这是否意味着我所猜想的那层含义。他摇了摇头，而我仿佛从他眼中窥见一丝悲伤。"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     "raw": "He asked about the Ascension. I explained it all to him, about my journey to become a Sunborn. The Helion laughed and accused me of hubris. 'Why risk your life to achieve godhood when you can become a god of your own making?' he asked. I thought about the Celestial Tower, about the fall, about the numerous Avians who did not fly.",
-    "value": "他问起了飞升。 我向他解释了这一切，关于我成为太阳之子的历程。这为氦离子刺客笑了，并指责我的妄尊自大。 “当你能成为自己制造的神灵之时，你还有什么理由去冒着生命危险来得到神性呢？” 他问。 我开始思索，思索关于水晶塔，关于坠落，和那些没有飞起来的无数翼族人。"
+    "value": "他问起了飞升之事。我向他全盘托出，讲述了我成为太阳之子的征程。这位赫利恩笑了，指责我狂妄无知。“当你本可成为自我造就的神明时，又何必冒着生命危险去求取神性？”他问道。我不禁开始思索，想起水晶塔，想起那次坠落，想起那无数未能飞升的翼族先辈。"
   }
 ]

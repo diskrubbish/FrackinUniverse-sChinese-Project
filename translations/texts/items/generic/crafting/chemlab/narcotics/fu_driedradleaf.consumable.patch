@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "^green;Weight : 1g^reset;^red; Narcotic\n^white;Relaxes your mind, opening it to vistas of scientific possibility previously unconsidered.\n^blue;Madness Gain^reset; 3\n",
-    "value": ""
+    "value": "^green;重量：1克^reset;^red;麻醉品。\n^white; 放松你的思绪，开启未曾设想的科学可能性的广阔视野。\n^blue;疯癫获取量^reset;：3 "
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Dried Radleaf",
-    "value": ""
+    "value": "干镭叶"
   }
 ]

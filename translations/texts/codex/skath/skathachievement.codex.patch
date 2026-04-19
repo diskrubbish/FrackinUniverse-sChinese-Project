@@ -9,24 +9,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "A log about the greatest discovery of the Skath.",
-    "value": "《绘世者伟大的发现》"
+    "value": "关于海鳞族最伟大发现的日志。"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "Without the discovery of plasma weapons, the Skath would not be where we are today. We owe our very existence to these, our greatest weapons. With them, we fought for our freedom and won. Through them, we have taken worlds. Through them, we shall have more.",
-    "value": "如果没有等离子武器的发现，绘世者一族就不会是今天的样子。我们的存在都归功于这些，我们最伟大的武器。和他们一起，我们为自由而战并取得了胜利。通过他们，我们占领了世界。通过他们，我们将拥有更多。"
+    "value": "若无等离子武器的发现，海鳞族绝无今日之地位。我们得以存续，全然仰仗这些至强的兵器。凭借它们，我们为自由而战并赢得胜利；依靠它们，我们征服诸界；借助它们，我们必将夺取更多。"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     "raw": "How does it work, you ask? Honestly, we aren't all trusted with this knowledge. Those among the scientific caste are the ones you need to ask. In the War Caste...we just do the killing. And we do it well. Based on what I do know, I can tell you a tiny reactor generates amplified energy and converts it into the lethal plasmic ejections, not unlike gas converting to fire.",
-    "value": "问它是如何工作的？ 老实说，我们并不都相信这些知识。 那些属于科学种姓的人是您需要询问的人。 在战争种姓中……我们只做杀戮。 我们做得很好。 根据我所知道的，我可以告诉你一个微型反应堆会产生放大的能量并将其转化为致命的等离子体喷射，这与气体转化为火不同。"
+    "value": "若问其运作原理？实言相告，并非人人皆被授予此等知识。科学种姓的成员才是你该请教的对象。。至于战争种姓...我们只司杀戮。而我们精于此道。据我所知，可告知诸位：微型反应堆生成放大能量，并将其转化为致命等离子射流，此过程类同气体转化为火焰。"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     "raw": "The result is a brutal form of energy blast that can melt flesh and bone and decimate anything it touches. It brings fear to our foes, and gains us respect in the cosmic community. Best yet...the bigger we make them, the more other species leave us be.",
-    "value": "其结果是一种残忍的能量爆炸形式，它可以融化肉体和骨头，并摧毁任何它接触到的东西。它给我们的敌人带来恐惧，并在宇宙共同体中赢得我们的尊重。最好的情况是…我们把它们造得越大，其他物种留给我们的就越多。"
+    "value": "其效果乃一种狂暴的能量爆破，可熔蚀血肉骨骼，摧毁一切所触之物。它为敌人带去恐惧，为我们在星际共同体中赢得尊重。更妙的是...我们将其造得愈巨，他族便愈是避而远之。"
   }
 ]

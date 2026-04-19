@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A Skath Plasma Spear, decommissioned for display.",
-    "value": "一支绘世者等离子枪，退役后用于展示。"
+    "value": "一支海鳞族等离子枪，退役后用于展示。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Skath Spear Display",
-    "value": "绘世者长矛展台"
+    "value": "海鳞族长矛展台"
   },
   {
     "op": "replace",
@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/avianDescription",
     "raw": "Skath spears look intimidating. Our spearsmiths could learn a lot from them.",
-    "value": "绘世者长矛看起来很吓人。我们的矛匠可以从他们身上学到很多东西。"
+    "value": "海鳞族长矛看起来很吓人。我们的矛匠可以从他们身上学到很多东西。"
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Skath weaponry is truly terrifying.",
-    "value": "绘世者的武器真非常恐怖。"
+    "value": "海鳞族的武器真非常恐怖。"
   },
   {
     "op": "replace",

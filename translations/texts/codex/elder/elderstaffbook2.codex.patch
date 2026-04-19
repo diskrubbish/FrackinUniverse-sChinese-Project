@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/title",
     "raw": "Quellex Text",
-    "value": "入门教典"
+    "value": "魁勒克斯圣典"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "Instructions on constructing a fell staff",
-    "value": "其内描写了制作一把威力残虐的法杖的一些事宜。"
+    "value": "此卷乃锻造凶煞法杖之秘录。"
   },
   {
     "op": "replace",
     "path": "/contentPages/0",
     "raw": "Never be without your implements, young apprentice. The staff is your most favored good, and without it you are but meat to the Elder ones. You must fashion it from an Elder Tome, two Valtan Casings and an Elder Bust...",
-    "value": "年轻的学徒啊，永远不要离开你的武器。这根法杖是你最喜欢的物品，没有它，你只是旧日支配者们的食物。你必须用壹本远古之书贰个沃尔坦核心和壹个远古半身像来塑造它。"
+    "value": "年轻的学徒，切记：法杖不可离身。此杖乃汝最忠实的倚仗，若无它护体，汝不过是旧日支配者们的俎上鱼肉。需以：\n壹本远古之书\n贰个沃尔坦核心\n与壹个远古半身像铸其形魄..."
   }
 ]
