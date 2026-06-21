@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Enormous knockback potential.",
-    "value": "击退力极大。"
+    "value": "巨大的击退潜力。"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Blocker Blast",
-    "value": "拦截阵"
+    "value": "阻断爆破"
   }
 ]

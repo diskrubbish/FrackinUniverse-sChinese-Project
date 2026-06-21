@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "The wounds caused by these swords are said to never heal.\n^cyan;Combo Strikes causes targets to bleed^reset;\n^yellow;8 hit combo^reset;",
-    "value": "据说它造成的伤口永远无法愈合。\n^cyan;连击造成流血^reset;。\n^yellow;8连击^reset;"
+    "value": "据说这些斩击造成的伤口永远无法愈合。\n^cyan;连斩使目标流血^reset;。\n^yellow;8连斩^reset;"
   },
   {
     "op": "replace",

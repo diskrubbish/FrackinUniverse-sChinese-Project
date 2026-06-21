@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "An extra powerful jump pad. Repels objects with a strong elastic force",
-    "value": "一块强力的跳板，可以让物体升空。"
+    "value": "一块超强弹跳板。以强大的弹力将物体弹开。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Extra Jump Pad",
-    "value": "强力跳板"
+    "value": "额外弹跳板"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Repelss objectss with a ssstrong elastic force",
-    "value": "摔下来肯肯肯定很痛。"
+    "value": "以强强强大的弹力将物体弹开。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Impressed. Repels objects with a strong elastic force",
-    "value": "印象深刻。 摔下来肯定很痛。"
+    "value": "印象深刻。以强大的弹力将物体弹开。"
   }
 ]

@@ -9,19 +9,19 @@
     "op": "replace",
     "path": "/particleEmitters/noSignal/particles/0/particle/text",
     "raw": "^shadow;No signal currently set!",
-    "value": "^shadow;未设置信号！"
+    "value": "^shadow;当前未设置信号！"
   },
   {
     "op": "replace",
     "path": "/particleEmitters/emptySignalList/particles/0/particle/text",
     "raw": "^shadow;No frequencies saved!",
-    "value": "^shadow;频率没有保存！"
+    "value": "^shadow;未保存任何频率！"
   },
   {
     "op": "replace",
     "path": "/particleEmitters/isn_miningVendor/particles/0/particle/text",
     "raw": "^shadow;Accessing Ansible Network",
-    "value": "^shadow;访问安赛波购物台"
+    "value": "^shadow;访问安赛波网络"
   },
   {
     "op": "replace",

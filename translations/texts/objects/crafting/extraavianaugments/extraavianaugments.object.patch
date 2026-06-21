@@ -3,66 +3,66 @@
     "op": "replace",
     "path": "/description",
     "raw": "A small stall. It seems to be offering various items in exchange for ancient essence.",
-    "value": "一个小型的商店。可以用古代精华兑换各种物品。"
+    "value": "一个小摊。似乎在用各种物品交换远古精华。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Svetlana's Stall!",
-    "value": "斯韦特兰娜商店"
+    "value": "斯维特兰娜的小摊！"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/title",
     "raw": "Svetlana's Stall",
-    "value": "斯韦特兰娜商店"
+    "value": "斯维特兰娜的小摊"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": "Repurchase Past Rewards!",
-    "value": "购回物品"
+    "value": "回购过往奖励！"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "No Apex would dare leave their store unattended like this.",
-    "value": "我们猿族的商店才不会如同这样的无人看管。"
+    "value": "没有哪个猿人敢像这样让自己的店铺无人看管。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "Buying and selling on the honour system is something the grounded take pride in.",
-    "value": "在这里可以选择购买或贩卖是多么有意思的事。"
+    "value": "在信誉制度下进行买卖，是脚踏实地之人引以为傲的事情。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran would not ssteal from sstall. No meatss.",
-    "value": "叶族人才不会偷这里面面面的东西，都没有肉。"
+    "value": "叶族人不会从摊位偷东西西西。没有肉。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Interested. The goods displayed on this stall are remarkably rare.",
-    "value": "兴趣盎然。 店内所展示的商品都是稀罕物。"
+    "value": "感兴趣。 这个摊位上展示的商品极为罕见。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "The stuff here looks like it ought to be in the hands of a statue...",
-    "value": "这些玩意儿...我都不知怎么说才好。"
+    "value": "这里的东西看起来应该握在雕像的手中..."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Shops operating on the honour system denote a high level of societal trust.",
-    "value": "这种无人商店表示这个社会的信任度非常高。"
+    "value": "基于诚信制度运营的商店，体现了高度的社会信任。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "These here wares certainly are catching my interest.",
-    "value": "里面的商品肯定很有意思。"
+    "value": "这些商品确实引起了我的兴趣。"
   }
 ]

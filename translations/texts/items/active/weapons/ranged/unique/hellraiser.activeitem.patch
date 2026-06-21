@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Fires condensed magma bullets. Incredibly painful.\n^yellow;Inflicts melting^reset;",
-    "value": "发射浓缩的岩浆子弹。非常疼。\n^cyan;附加熔化效果^reset;"
+    "value": "发射凝聚的岩浆弹，痛彻心扉。\n^yellow;附加熔化效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Hellraiser",
-    "value": "地狱升起"
+    "value": "地狱使者"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "This hammer strikes like the waves of a tsunami.",
-    "value": "锤击如海啸津波。"
+    "value": "锤击之势犹如海啸之浪。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Reinforced Skath Hammer",
-    "value": "海鳞族战锤·中级"
+    "value": "强化海鳞族战锤"
   }
 ]

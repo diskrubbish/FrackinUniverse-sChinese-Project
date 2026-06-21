@@ -9,13 +9,13 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Kirhosi Rifle",
-    "value": "啮齿步枪"
+    "value": "鼠族步枪"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "^cyan;Kirhosi Rifle II^reset; ^yellow;^reset;",
-    "value": "^cyan;啮齿步枪II^reset; ^yellow;^reset;"
+    "value": "^cyan;鼠族步枪II^reset; ^yellow;^reset;"
   },
   {
     "op": "replace",

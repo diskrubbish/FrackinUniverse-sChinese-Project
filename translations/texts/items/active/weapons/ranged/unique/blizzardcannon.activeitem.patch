@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Freeze enemies with cryogenic rockets!\n^cyan;Freeze enemies^reset;\n^#e43774;Area Clear^reset;",
-    "value": "超低温火箭将会冰封你眼前的敌人！\n^cyan;冻结敌人^reset;\n^yellow;范围性武器^reset;"
+    "value": "用低温火箭冻结敌人！\n^cyan;冻结敌人^reset;\n^#e43774;区域已清除^reset;"
   },
   {
     "op": "replace",

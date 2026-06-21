@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Generates ^orange;15-360w^reset; power from hydrogen isotopes. Each slot outputs independently. ^Red;Needs coolant.^reset; ^blue;Left Input^reset;: On/Off Switch",
-    "value": "利用氢同位素产生^green;15-500w^reset;的电力。每格输出独立。\n^red;需要液体冷却剂。^reset;\n^blue;左边输入^reset;: 电源开关"
+    "value": "利用氢同位素产生^orange;15-360W^reset;的功率。\n每个燃料槽独立输出。\n^Red;需要液体冷却剂。^reset;\n^blue;左边输入^reset;: 开关电源"
   },
   {
     "op": "replace",
@@ -15,48 +15,48 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "It might explode and kill me, but cheap power is cheap power.",
-    "value": "它可能会爆炸并杀死我，但是便宜的能源就是便宜的能源。"
+    "value": "它可能会爆炸要了我的命，但是便宜的能源就是便宜的能源。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "Building this may have been a bad idea.",
-    "value": "建造这个可能是个坏主意。"
+    "value": "当初建造这个可能是个坏主意。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "What iss 'coolant'?",
-    "value": "什么是是是冷却剂？"
+    "value": "什么是是是“冷却剂”？"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Uneasy. I am not immune to radiation.",
-    "value": "不安。 我对辐射没有免疫力。"
+    "value": "不安。我对辐射并不免疫。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "I'm sure nothing will go wrong.",
-    "value": "我相信不会出什么差错的。"
+    "value": "我相信不会出什么问题的。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Clean, if dangerous, power.",
-    "value": "清洁，危险，强大。"
+    "value": "清洁，却危险的能源。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Now this is some good clean livin'!",
-    "value": "这才是干净的生活！"
+    "value": "这才是干净美好的生活！"
   },
   {
     "op": "replace",
     "path": "/skathDescription",
     "raw": "A fusion reactor, for powering a bunker or small ship. Its power output is fantastic.",
-    "value": "核聚变反应堆，用于为地堡或小型飞船提供动力。它的功率输出非常棒。"
+    "value": "一个用于为地堡或小型飞船提供动力的聚变反应堆，其能量输出极为惊人。"
   }
 ]

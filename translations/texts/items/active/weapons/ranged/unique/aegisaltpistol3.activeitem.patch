@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A basic Protectorate sidearm. Reliable and compact.",
-    "value": "一把标准、可靠、坚实耐用的守护团成员配枪。"
+    "value": "一把基础的守护团随身武器。可靠且紧凑。"
   },
   {
     "op": "replace",
@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/improvedParameters/description",
     "raw": "Fires two-round bursts.\n^cyan;+1 projectiles^reset;",
-    "value": "一次射击,两轮火力\n^cyan;发射物+1^reset;"
+    "value": "发射两发点射。\n^cyan;+1射弹^reset;"
   },
   {
     "op": "replace",
@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Fires two-round bursts.\n^cyan;+1 projectiles^reset;",
-    "value": "一次射击,两轮火力\n^cyan;发射物+1^reset;"
+    "value": "发射两发点射。\n^cyan;+1射弹^reset;"
   },
   {
     "op": "replace",
@@ -45,6 +45,6 @@
     "op": "replace",
     "path": "/upgradeParameters2/description",
     "raw": "A finely-tuned pistol with dangerous burst-fire!\n^cyan;+3 projectiles^reset;",
-    "value": "一把经过无数次精密的改造后拥有了可怕火力的手枪\n^cyan;发射物+3^reset;"
+    "value": "一把精心调校、具备危险连发功能的手枪！\n^cyan;+3射弹^reset;"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A product of mad science that appears to run from cannisters of still-living brains. ^orange;Gradually wakes up, consciousness determines output.^reset; Maximum power ^orange;60W^reset;. ^blue;Left Input^reset;: On/Off Switch",
-    "value": "疯狂科学的产物，似乎由仍然活着的大脑的样本来供能。\n^orange;逐渐苏醒，其中的意识决定产出。^reset;\n最大功率^orange;60W^reset;。\n^blue;左侧输入^reset;：电源开关"
+    "value": "一种疯狂科学的产物，似乎由装着仍存活大脑的罐子驱动。\n^orange;逐渐苏醒，意识决定输出。^reset;最大功率^orange;60W^reset;。\n^blue;左侧输入^reset;：开关电源"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^cyan;Neuro-Psionic Generator^reset;",
-    "value": "^cyan;灵能发电机^reset;"
+    "value": "^cyan;神经灵能发电机^reset;"
   }
 ]

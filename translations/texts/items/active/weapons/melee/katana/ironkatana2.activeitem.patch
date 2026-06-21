@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Well crafted, but heavy.\n^yellow;3 hit combo^reset;",
-    "value": "一把精心制作的武士刀，只是有点重。\n^yellow;3连斩^reset;"
+    "value": "做工精良，但略显沉重。\n^yellow;3连斩^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Kells Flawless Katana",
-    "value": "凯尔斯的无瑕疵武士刀"
+    "value": "凯尔斯无瑕武士刀"
   }
 ]

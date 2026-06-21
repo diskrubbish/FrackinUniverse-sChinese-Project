@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Freezing rounds mince enemies good.\n^yellow;Inflicts freezing^reset;",
-    "value": "噢，被定住了？来拍个照！\n^cyan;附加冻结效果^reset;"
+    "value": "冰冻弹能有效削弱敌人。\n^yellow;附加冻结效果^reset;"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Faster and more dangerous.\n^yellow;Inflicts freezing^reset;",
-    "value": "更快更危险。\n^cyan;附加冻结效果^reset;"
+    "value": "更快，也更危险。\n^yellow;附加冻结效果^reset;"
   }
 ]

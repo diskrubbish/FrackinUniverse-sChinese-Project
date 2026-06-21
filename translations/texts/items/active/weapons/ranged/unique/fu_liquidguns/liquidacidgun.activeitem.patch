@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "This gun shoots sulphuric acid! Fun!",
-    "value": "这把枪发射硫酸，好玩。"
+    "value": "这把枪能发射硫酸！真有趣！"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Acid Gun",
-    "value": "酸蚀之枪"
+    "value": "酸蚀枪"
   }
 ]

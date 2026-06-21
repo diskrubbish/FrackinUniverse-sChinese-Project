@@ -21,13 +21,13 @@
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Create genes from scratch.",
-    "value": " ^#dddddd;从无到有创建基因。"
+    "value": " ^#dddddd;从头开始创建基因。"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "Create genes from scratch.",
-    "value": "从无到有创建基因。"
+    "value": "从头开始创建基因。"
   },
   {
     "op": "replace",

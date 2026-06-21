@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Dangerously sharp bits of coral. Stabby!\n^cyan;Hunting weapon^reset;",
-    "value": "危险的珊瑚碎片。我刺！\n^cyan;狩猎武器^reset;"
+    "value": "危险的珊瑚碎片，锋利无比！刺人！\n^cyan;狩猎武器^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Coral Spear",
-    "value": "珊瑚长矛"
+    "value": "珊瑚矛"
   }
 ]

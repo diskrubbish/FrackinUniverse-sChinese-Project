@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "^cyan;(Frackin' Universe main table)^reset; Craft all sorts of useful gear.",
-    "value": "^cyan;(Frackin'Universe主设备)^reset;用于制作各种设备与基础道具。"
+    "value": "^cyan;（富兰克林的宇宙的主要工作台）^reset;\n制作各类实用装备。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "raw": "Craft all sorts of complex gear.",
-    "value": "制造各种复杂的设备"
+    "value": "制作各种复杂的装备。"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "raw": "Create more complicated gear.",
-    "value": "制造更复杂的设备。"
+    "value": "创造更复杂的装备。"
   },
   {
     "op": "replace",
@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "raw": "Create advanced technology.",
-    "value": "制造高科技。"
+    "value": "创造先进科技。"
   },
   {
     "op": "replace",
@@ -51,12 +51,12 @@
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblTitle/value",
     "raw": " ^red;UNAUTHORIZED ACCESS DETECTED^reset;",
-    "value": " ^red;已检测到未授权访问^reset;"
+    "value": " ^red;检测到未经授权的访问^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Access to terminal disabled.",
-    "value": " ^#dddddd;访问权限未取得。"
+    "value": " ^#dddddd;终端访问已禁用。"
   }
 ]

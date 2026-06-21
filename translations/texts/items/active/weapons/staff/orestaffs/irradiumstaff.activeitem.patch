@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Conjures a noxious cloud of poisonous gas.",
-    "value": "可释放出毒气团。"
+    "value": "召唤出一团有害的毒气云。"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Radioactive Portal",
-    "value": "放射性通道"
+    "value": "放射性传送门"
   }
 ]

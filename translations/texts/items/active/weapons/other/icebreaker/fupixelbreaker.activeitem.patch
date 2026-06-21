@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "An ice weapon of epic proportions.\n^yellow;Supreme frost power.^reset;\n^cyan;Large recoil. Crouch to minimize.^reset;",
-    "value": "一把史诗级的冰霜武器。\n^yellow;极致的冰霜之力。^reset;\n^cyan;后坐力较大。建议下蹲以减小影响。^reset;"
+    "value": "一把史诗级的冰霜武器。\n^yellow;极致的冰霜之力。^reset;\n^cyan;后坐力大。建议下蹲以最小化影响^reset;"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Energy Zone",
-    "value": "能源领域"
+    "value": "能量领域"
   }
 ]

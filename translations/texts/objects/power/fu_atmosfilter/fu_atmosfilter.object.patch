@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Filters most environment effects. Can broadcast augment effects to radius. ^cyan;Requires ^orange;100W^cyan; of power^reset;.",
-    "value": "过滤绝大部分环境效果。可以在作用半径内传播EPP插件的效果。\n^cyan;需要^orange;100W^cyan;电力^reset;。"
+    "value": "过滤大多数环境效果。可将EPP效果传播至一定半径。\n^cyan;需要^orange;100W^cyan;电力^reset;。"
   },
   {
     "op": "replace",

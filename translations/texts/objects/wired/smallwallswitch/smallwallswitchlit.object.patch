@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "Flippin' awesome! Can even be toggled when its input node is /'on'/.",
-    "value": "真是太棒了，切换为/ON/时就可以激活接入的节点。"
+    "value": "太棒了！甚至可以在其输入节点为“开启”状态时进行切换。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Small Wall Switch (Light)",
-    "value": "小型墙壁开关(灯)"
+    "value": "小型墙壁开关（灯）"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A switch. It activates something. It can even be toggled when its input node is /'on'/.",
-    "value": "一个用于激活节点的开关。切换为/ON/将会激活。"
+    "value": "一个开关。它能激活某些事物。甚至当其输入节点处于“开启”状态时，它也能被切换。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "This switch must activate something. I can also see that it can be toggled when its input node is /'on'/.",
-    "value": "这个开关必须激活某些东西。我还可以看到，当它的输入节点是/ON/。"
+    "value": "这个开关一定连接着某个功能。我还注意到，当它的输入节点处于“开启”状态时，开关是可以被切换的。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "How many times can I flip this switch on and off I wonder, either by hand, or when its input node is /'on'/?",
-    "value": "我想知道这个开关可以打开和关闭多少次，无论是用手，还是当它的输入节点显示为/ON/时，我应该做什么？"
+    "value": "我好奇，这个开关我能手动或在其输入节点为“开”时，来回拨动多少次？"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "A basic switch that can be used to activate something. It can even be toggled when its input node is /'on'/.",
-    "value": "一个最普通的开关。当它切换到/ON/会激活接入的节点。"
+    "value": "一个基础开关，可用于激活某物。即便其输入节点处于“开启”状态，也能进行切换操作。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "I can flip this here switch, either by hand, or when its input node is /'on'/!",
-    "value": "我可以按一下那里，就可以把它切换到/ON/状态！"
+    "value": "我可以手动拨动这里的开关，或者当它的输入节点为“开启”状态时，它也会自动切换！"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Ssswitch! Can even be toggled when itsss input node isss /'on'/.",
-    "value": "开开开关! 我可以把它切换到/ON/状态。"
+    "value": "开关！即使在其输输输入节点为“开启”状态时，也能进行切换操作。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Surprised. This small switch doesn't look that powerful, but I can toggle it either by hand, or when its input node is /'on'/.",
-    "value": "很惊讶。 这个开关虽然看上去挺小的，但它如果切换到/ON/时，就可以激活与其连接的设备了。"
+    "value": "惊讶。这个小开关看起来并不那么强大，但我既可以用手拨动它，也可以在其输入节点处于“开启”状态时触发它。"
   }
 ]

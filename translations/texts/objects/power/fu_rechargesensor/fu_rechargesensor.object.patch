@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Starts sending ^green;ON^reset; signal if all batteries are less than 10% full. Doesn't stop sending ^green;ON^reset; signal until all batteries become completely full. Knows about all batteries on this power conduit.\n^cyan;Useful for turning the reactors On/Off.^reset;",
-    "value": "当所有电池电量低于10%时，开始发送^green;开启^reset;信号。直到所有电池完全充满，才会停止发送^green;开启^reset;信号。感知此电源回路上的所有电池的状态。\n^cyan;适用于控制反应堆的开启与关闭。^reset;"
+    "value": "当所有电池电量低于10%时，开始发送^green;开启^reset;信号。直到所有电池完全充满后，才停止发送^green;开启^reset;信号。该设备感知此电力管线上的所有电池的状态。\n^cyan;适用于控制反应堆的开启与关闭。^reset;"
   },
   {
     "op": "replace",

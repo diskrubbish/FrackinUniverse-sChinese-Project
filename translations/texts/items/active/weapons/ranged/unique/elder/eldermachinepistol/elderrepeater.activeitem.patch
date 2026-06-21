@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "^#a5ff00;Fires other-dimensional blasts from generated micro-rifts.^reset;",
-    "value": "^#a5ff00;从产生的微小次元裂缝中发射来自其他维度的冲击。^reset;"
+    "value": "^#a5ff00;从生成的微型裂隙中释放出异次元冲击波。^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^#a5ff00;Dimensional Repeater^reset;",
-    "value": "次元连发枪"
+    "value": "^#a5ff00;次元连发枪^reset;"
   }
 ]

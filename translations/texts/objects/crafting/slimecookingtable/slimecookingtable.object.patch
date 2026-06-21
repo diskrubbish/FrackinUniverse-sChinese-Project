@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "This slimy counter seems to be used for food preparation.",
-    "value": "这种黏糊糊的柜台似乎是用来准备食物的。"
+    "value": "这个黏糊糊的台面似乎是用来准备食物的。"
   },
   {
     "op": "replace",
@@ -21,25 +21,25 @@
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " ^#b9b5b2;Prepare and cook food",
-    "value": "^#b9b5b2;快来烹饪美食吧！"
+    "value": " ^#b9b5b2;准备和烹饪食物"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "Slimy cooking table.",
-    "value": "黏黏的烹饪台。"
+    "value": "黏糊糊的烹饪台。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "I can use this to make delicious food. But it might turn sticky.",
-    "value": "我可以用它来做美味的食物。但可能有点粘手。"
+    "value": "我可以用这个来做美味的食物。但它可能会变得粘稠。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran can use thisss to make very very tasty food!",
-    "value": "叶族人可以用这这这个做出非常非常美味的食物！"
+    "value": "叶族人可以用这个做出非常非常美味的食食食物！"
   },
   {
     "op": "replace",
@@ -51,36 +51,36 @@
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Messy cooking table!",
-    "value": "脏兮兮的烹饪台！"
+    "value": "乱糟糟的烹饪台！"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "A slimy table, to be used for the preparation of food.",
-    "value": "一张黏糊糊的桌子，用来准备食物。"
+    "value": "一张黏糊糊的桌子，用于准备食物。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "These Slimes never cease to surprise me, such a messy kitchen!",
-    "value": "这些史莱姆总是让我惊讶，这么脏乱的厨房！"
+    "value": "这些史莱姆总是让我大吃一惊，厨房居然这么乱！"
   },
   {
     "op": "replace",
     "path": "/slimepersonDescription",
     "raw": "Very good stove, I can make good food here.",
-    "value": "很好的炉子，我可以在这里做好吃的。"
+    "value": "非常好的炉子，我在这儿能做出好菜来。"
   },
   {
     "op": "replace",
     "path": "/slimenpcDescription",
     "raw": "Food...cook here...very good...",
-    "value": "食物...在这里做的...非常好..."
+    "value": "食物...在这儿做...非常美味..."
   },
   {
     "op": "replace",
     "path": "/slimenpchumanDescription",
     "raw": "Flame inside to produce heat, very good for cooking.",
-    "value": "里面的火焰能产生热量，很适合烹饪。"
+    "value": "内部火焰产生热量，非常适合烹饪。"
   }
 ]

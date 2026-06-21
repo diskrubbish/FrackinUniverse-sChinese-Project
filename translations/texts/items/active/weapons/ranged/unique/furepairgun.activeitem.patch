@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Repairs damaged mechs. Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "修理损坏的机甲。\n可在^orange;三度仪^reset;进行升级。"
+    "value": "修复受损机甲。\n可在^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -63,6 +63,6 @@
     "op": "replace",
     "path": "/upgradeParameters8/description",
     "raw": "Repairs damaged mecha. ^green;Fully Upgraded^reset;.",
-    "value": "修理损坏的机甲。\n^green;已完全升级^reset;。"
+    "value": "修复受损机甲。\n^green;已完全升级^reset;。"
   }
 ]

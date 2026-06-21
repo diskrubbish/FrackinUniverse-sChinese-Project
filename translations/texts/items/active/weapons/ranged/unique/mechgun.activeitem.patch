@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A rifle popular in ages long-past by those known as the Precursors.",
-    "value": "在那久远的过去，那些被称作先驱者的人们最喜爱的武器之一。"
+    "value": "远古时代被称为“先驱”的人们所钟爱的一款步枪。"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Spread Shot",
-    "value": "蔓延射击"
+    "value": "散射射击"
   }
 ]

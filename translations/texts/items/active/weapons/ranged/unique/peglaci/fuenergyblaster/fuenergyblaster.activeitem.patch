@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "An extremely useful weapon utilizing controlled energy.\n^yellow;Exceptional utility^reset;\n^cyan;Inflicts Electrified status^reset;",
-    "value": "使用能量作为能源的非常有用的武器。\n^cyan;附加感电效果^reset;\n^yellow;功效出色^reset;"
+    "value": "一种非常有用的武器，利用可控的能量。\n^yellow;卓越的实用性^reset;\n^cyan;附加感电效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Energy Lobber",
-    "value": "能源抛射枪"
+    "value": "能量抛射枪"
   }
 ]

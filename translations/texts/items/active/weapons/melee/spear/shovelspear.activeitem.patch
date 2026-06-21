@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "A dangerous shovel for the discerning knight.\n^cyan;Hunting weapon^reset;\n^red;Inflicts Bleeding^reset;",
-    "value": "识铲骑士的杀戮利器。\n^cyan;狩猎武器^reset;\n^red;造成流血^reset; "
+    "value": "为明辨之士准备的致命铁锹。\n^cyan;狩猎武器^reset;\n^red;造成流血^reset; "
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "David Spade",
-    "value": "大卫的铲子"
+    "value": "大卫·斯佩德"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "The greatest shovel in the universe. ^yellow;It's true.^reset;\n^cyan;Hunting weapon^reset;\n^red;Inflicts Bleeding^reset;",
-    "value": "是全宇宙数一数二的铲铲。^yellow;毋须质疑。^reset;\n^cyan;狩猎武器^reset;\n^red;造成流血^reset; "
+    "value": "宇宙中最伟大的铲子。^yellow;毋须质疑。^reset;\n^cyan;狩猎武器^reset;\n^red;造成流血^reset; "
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "Shovel of Crail",
-    "value": "克莱尔的铲子"
+    "value": "克拉尔之铲"
   }
 ]

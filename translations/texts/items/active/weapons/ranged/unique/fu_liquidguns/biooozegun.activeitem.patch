@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Spews toxic poison. Fun!",
-    "value": "喷出有毒的毒液，有趣的武器。"
+    "value": "喷出有毒物质。有趣！"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Ooze Gun",
-    "value": "软泥之枪"
+    "value": "软泥枪"
   }
 ]

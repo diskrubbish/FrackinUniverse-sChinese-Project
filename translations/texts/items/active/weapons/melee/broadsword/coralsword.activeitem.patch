@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Massively dangerous. Do not touch.\n^cyan;Inflicts Poisoned^reset;",
-    "value": "过于危险，还是别触碰它的锋刃了。\n^cyan;附加中毒效果^reset;"
+    "value": "极度危险，请勿触碰。\n^cyan;附加中毒效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Coral Broadsword",
-    "value": "珊瑚宽剑"
+    "value": "珊瑚阔剑"
   }
 ]

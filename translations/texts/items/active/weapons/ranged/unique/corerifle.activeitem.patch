@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A primitive ^cyan;Energy^reset; blaster.\n^red;Prone to overheating^reset;\n^cyan;Upgrade to Empower^reset;",
-    "value": "一把原始的^cyan;能量^reset;抛射器。\n^cyan;升级以充能^reset;"
+    "value": "一把原始的^cyan;能量^reset;冲击枪。\n^red;容易过热^reset;\n^cyan;升级以赋能^reset;"
   },
   {
     "op": "replace",
@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/upgradeParametersTricorder/description",
     "raw": "Explosive, super-hot power.\n^cyan;Upgrade to Empower^reset;",
-    "value": "危险的烫手之力。\n^cyan;升级以充能^reset;"
+    "value": "爆炸性的超强力量。\n^cyan;升级以赋能^reset;"
   },
   {
     "op": "replace",
@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Lingering burning for extra pain.\n^cyan;Upgrade to Empower^reset;",
-    "value": "挥之不去的灼热，让人格外痛苦。\n^cyan;升级以充能^reset;"
+    "value": "余烬灼烧，痛楚难消。\n^cyan;升级以赋能^reset;"
   },
   {
     "op": "replace",
@@ -45,6 +45,6 @@
     "op": "replace",
     "path": "/upgradeParameters2/description",
     "raw": "Simple tech taken to extraordinary levels.",
-    "value": "简单的技术被强化到了非凡的水平。"
+    "value": "简单科技，非凡境界。"
   }
 ]

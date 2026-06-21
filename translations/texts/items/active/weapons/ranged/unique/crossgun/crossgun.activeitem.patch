@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A dangerously powerful minigun.\n^cyan;Counts as 'plasma' for set bonuses^reset;\n^yellow;Heavy. Extreme fire rate^reset;",
-    "value": "危险而强大的迷你机枪。\n^yellow;等离子武器^reset;\n^yellow;极端的射速^reset;\n^red;沉重^reset;"
+    "value": "一把威力惊人的迷你机枪。\n^cyan;等离子武器^reset;\n^yellow;沉重。极高的射速。^reset;"
   },
   {
     "op": "replace",

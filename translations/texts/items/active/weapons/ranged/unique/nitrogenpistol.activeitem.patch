@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Effective in most situations, though somewhat chilling.\n^yellow;Inflicts freezing^reset;",
-    "value": "虽然拿上去有些冰冷，却是一个优秀的武器。\n^cyan;附加冻结效果^reset;"
+    "value": "在大多数情况下有效，尽管略显冷酷。\n^yellow;附加冻结效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Nitrogen SMG",
-    "value": "氮气手枪"
+    "value": "氮气冲锋枪"
   }
 ]

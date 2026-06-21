@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Slowly breaks up rocky materials into useful items. ^cyan;Requires ^orange;6W ^cyan;power.^reset;",
-    "value": "将岩石材料缓慢分解成有用的物品。\n^cyan;需要^orange;6W^cyan;电力^reset;。"
+    "value": "缓慢地将岩石材料分解成有用的物品。\n^cyan;需要^orange;6W^cyan;电力^reset;。"
   },
   {
     "op": "replace",

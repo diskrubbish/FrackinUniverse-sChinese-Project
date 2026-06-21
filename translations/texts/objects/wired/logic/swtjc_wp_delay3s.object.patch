@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "A circuit that relays signals after a set delay.",
-    "value": "可设置延迟多少秒后继续中继信号。"
+    "value": "一种在设定延迟后中继信号的电路。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Delay Gate (3 Second)",
-    "value": "延迟门(3s)"
+    "value": "延迟门（3秒）"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "A circuit that relays signalsss after a sset delay.",
-    "value": "可设置延迟多少秒后后后继续中继信号。"
+    "value": "一种在设设设定延迟后中继信号的电路。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Neutral. A circuit that relays signals after a set delay.",
-    "value": "中立。 可设置延迟多少秒后继续中继信号。"
+    "value": "中立。一种在设定延迟后中继信号的电路。"
   }
 ]

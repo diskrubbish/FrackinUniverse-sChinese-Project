@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A traditional favorite of snipers and marksmen, this semi-automatic rifle's stopping power and accuracy make it ideal for covering long distances.",
-    "value": "这种半自动步枪的击退能力和准确性受到狙击手的喜爱，使其成为远距离射击的理想选择。"
+    "value": "这款半自动步枪是狙击手和神枪手们的传统最爱，其强大的停止作用力和精准度使其成为远距离掩护的理想选择。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "NPC Semi-Automatic Rifle",
-    "value": "NPC的半自动步枪"
+    "value": "NPC半自动步枪"
   }
 ]

@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/description",
     "raw": "Constantly searching for bleach.",
-    "value": "不断地寻找漂白剂。"
+    "value": "不断寻找漂白剂。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Gu's Slime Tendrils",
-    "value": "Gu的粘液触须"
+    "value": "古的粘液触须"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "Gu's Slime Tendrils ^yellow;^reset;",
-    "value": "Gu的粘液触须 ^yellow;^reset;"
+    "value": "古的粘液触须 ^yellow;^reset;"
   }
 ]

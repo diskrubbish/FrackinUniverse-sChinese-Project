@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A decidedly original .45 calibre weapon with bouncing and homing bullets.",
-    "value": "毫无疑问是一把发射弹跳和追踪子弹的点45口径武器。"
+    "value": "一款独具匠心的点45口径武器，配备弹跳与追踪子弹。"
   },
   {
     "op": "replace",
@@ -15,12 +15,12 @@
     "op": "replace",
     "path": "/upgradeParameters2/description",
     "raw": "A gun for those who just can't get enough death.",
-    "value": "一把为那些无法获得足够死亡的人准备的枪。"
+    "value": "一把为那些对死亡永不满足之人准备的枪。"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters2/shortdescription",
     "raw": "Vash's Strength",
-    "value": "窃魄者"
+    "value": "骸之力"
   }
 ]

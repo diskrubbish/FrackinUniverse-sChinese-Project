@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "Superior brutal long ranged rifle.\n^yellow;Inflicts bleeding^reset;",
-    "value": "极其残酷的远距离步枪。\n^cyan;附加出血效果^reset;"
+    "value": "卓越的远程暴力步枪。\n^yellow;附加出血效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "FarSight XR-72",
-    "value": "XR-72远视狙击枪"
+    "value": "远视 XR-72"
   },
   {
     "op": "replace",

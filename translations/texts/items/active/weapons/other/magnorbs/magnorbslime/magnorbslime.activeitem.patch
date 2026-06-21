@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Releases globs of delicious slime.",
-    "value": "会发射出味道很好的黏液。"
+    "value": "释放出一团团美味的黏液。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Slime Lobber",
-    "value": "黏液之珠"
+    "value": "黏液珠"
   }
 ]

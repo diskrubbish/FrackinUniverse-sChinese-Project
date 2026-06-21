@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Used to burn through ship hulls for deep-space boarding.\n^cyan;Hunting weapon^reset;\n^red;Inflicts Bleeding^reset;",
-    "value": "用来烧穿船体，进行深空登舰。\n^cyan;狩猎武器^reset;\n^red;造成流血^reset; "
+    "value": "用于穿透船体，实现深空登舰作战。\n^cyan;狩猎武器^reset;\n^red;造成流血^reset; "
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Kirhosi Boarding Pike",
-    "value": "鼠鼠登舰梭"
+    "value": "鼠族登舰梭"
   }
 ]

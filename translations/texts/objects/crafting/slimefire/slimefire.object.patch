@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Flame engulfed in slime, how does it get oxygen?.",
-    "value": "火焰被粘液吞没，那它又是如何得到氧气的？ ."
+    "value": "被黏液吞噬的火焰，它如何获得氧气？"
   },
   {
     "op": "replace",
@@ -15,60 +15,60 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A fire, inside a blob of slime.",
-    "value": "一团粘液中的一把火。"
+    "value": "一团火，在一团黏液之中。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "This fire works like a stove, it's useful for very basic cooking.",
-    "value": "这种火的工作原理就像一个炉子，对于非常基本的烹饪很有用。"
+    "value": "这堆火像炉子一样好用，对最简单的烹饪很有用。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran hate flamesss. Floran happy it's in slime.",
-    "value": "叶族人讨厌火火火。叶族人很高兴它在粘液里。"
+    "value": "叶族人讨厌火焰。叶族人很高兴兴兴它被黏液包裹住了。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Informed. Heating meat with fire is a basic form of cooking.",
-    "value": "见多识广。 用火加热肉类是烹饪的一种基本形式。"
+    "value": "了解。生火烤肉是一种基础的烹饪方式。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "I thought flames stop burning when they have no oxygen.",
-    "value": "我以为火焰没有氧气就不会燃烧了。"
+    "value": "我以为火焰在没有氧气时会停止燃烧。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "This flame is well protected. It could burn underwater!",
-    "value": "这火焰保护得很好。它可以在水下燃烧！"
+    "value": "这团火焰被保护得很好，甚至能在水下燃烧！"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Seems like burning flames inside a slime forms different kind of plasma.",
-    "value": "似乎粘液中燃烧的火焰形成了不同种类的等离子体。"
+    "value": "看起来像黏液内部的燃烧火焰形成了不同类型的等离子体。"
   },
   {
     "op": "replace",
     "path": "/slimepersonDescription",
     "raw": "Stove, I can cook here.",
-    "value": "篝火，我可以在这里烹饪。"
+    "value": "炉子，我可以在这里做饭。"
   },
   {
     "op": "replace",
     "path": "/slimenpcDescription",
     "raw": "Food...cook here...",
-    "value": "食物...在这里做..."
+    "value": "食物...在这儿做..."
   },
   {
     "op": "replace",
     "path": "/slimenpchumanDescription",
     "raw": "Flame heats up the plate, great for cooking.",
-    "value": "火焰能加热盘子，非常适合烹饪。"
+    "value": "火焰加热了盘子，非常适合烹饪。"
   }
 ]

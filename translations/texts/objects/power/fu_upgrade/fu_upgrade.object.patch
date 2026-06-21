@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Does nothing at all.",
-    "value": "什么都不能干。"
+    "value": "完全不起作用。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^cyan;I'm broken. Why U Spawn?^reset;",
-    "value": "^cyan;我没啥用，你还要生成？^reset;"
+    "value": "^cyan;我崩溃了。你为啥要生成这个？^reset;"
   }
 ]

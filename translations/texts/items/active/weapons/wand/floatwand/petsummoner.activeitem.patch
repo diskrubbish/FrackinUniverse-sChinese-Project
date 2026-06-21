@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Used to summon your pets to your side.\nHold ^green;Shift^reset; to summon crew instead.\n^red;Consumes ALL energy^reset;",
-    "value": "将你的宠物传送至身旁。\n按住^green;Shift^reset;召唤船员。\n^red;消 耗 所 有 能 量^reset;"
+    "value": "用于将你的宠物召唤到身边。\n按住^green;Shift键^reset;改为召唤船员。\n^red;消耗所有能量^reset;"
   },
   {
     "op": "replace",

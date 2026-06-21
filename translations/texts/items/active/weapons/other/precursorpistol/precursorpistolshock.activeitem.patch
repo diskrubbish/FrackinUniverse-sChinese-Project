@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Shockingly fun\n^yellow;Electrocute your enemies.^reset;",
-    "value": "让你的敌人试试被电的滋味吧。\n^yellow;电击你的敌人^reset;"
+    "value": "令人麻麻的有趣。\n^yellow;电击你的敌人^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Precursor Jolt Gun",
-    "value": "先驱震击枪"
+    "value": "先驱电击枪"
   }
 ]

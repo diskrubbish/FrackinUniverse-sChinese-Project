@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Sharpened edges make this boomerang cut foes deeply.\n^cyan;Inflicts bleeding^reset;",
-    "value": "锋利的边刃使这把回旋镖能轻易地给敌人带来一个很深的伤口。\n^cyan;造成流血^reset;"
+    "value": "锋利的边缘使这枚回旋镖能深深切入敌人体内。\n^cyan;造成流血^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Warspinner",
-    "value": "战争螺旋"
+    "value": "战争编织者"
   }
 ]

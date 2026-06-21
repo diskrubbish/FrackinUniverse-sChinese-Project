@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A loom built to spin crystals into materials.",
-    "value": "将水晶纺织成材料的织布机。"
+    "value": "一台用于将晶体纺制成材料的织布机。"
   },
   {
     "op": "replace",
@@ -15,42 +15,42 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A spinning wheel. A tool for tailors.",
-    "value": "一台纺车。裁缝工具。"
+    "value": "一台纺车。一种裁缝工具。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "A tool for working crystals into threads.",
-    "value": "把晶体加工成织线的工具。"
+    "value": "一种将晶体加工成丝线的工具。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran ssspin wheel, work thread.",
-    "value": "叶族人转转转动纺车，制出纱线。"
+    "value": "叶族人转动纺车，制出纱纱纱线。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Observant. A tailoring tool.",
-    "value": "善于观察。 一台裁缝的工具。"
+    "value": "观察。 一种裁缝工具。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "A wooden spinning wheel. So old-fashioned it's almost quaint.",
-    "value": "木制纺车。古雅悠远。"
+    "value": "一台木制的纺车。如此老式，几乎有些古朴。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "The Hylotl consider spinning yarn an art-form. Spinning crystals is new to me.",
-    "value": "鲛人认为纺纱是一种艺术形式。不过旋转水晶对我来说还真是新奇。"
+    "value": "鲛族认为纺纱是一种艺术。而纺水晶对我来说还是头一回。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Maybe I can make myself a new shirt on this.",
-    "value": "也许我可以用这个给自己做件新衬衫。"
+    "value": "也许我可以用这个给自己做一件新衬衫。"
   }
 ]

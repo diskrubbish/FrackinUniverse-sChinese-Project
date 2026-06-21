@@ -51,7 +51,7 @@
     "op": "replace",
     "path": "/strings/research/crops1/1",
     "raw": "^orange;Tier 1^reset;\n\nThough the universe is filled with many strange plants, the Protectorate academy taught you about quite a few. You've learned to start culvtivating these plants for yourself at a ^orange;Greenhouse^reset; which can be made at your ^orange;Machining Table^reset;. You can also (crudely) extract genetic material from plants for use in the creation of more complex plants at a ^cyan;Sprouting Table^reset;, also made at your Machining Table.\n\n^yellow;Tip:^reset; Grow lots of corn! Corn is an incredibly versatile crop, being a source of oil, cattle feed, and the basis of many more complex plants.",
-    "value": "^orange;1级^reset;\n\n虽然宇宙中充满奇异的植物，但守护团学院已为您打下扎实基础。您已学会在^orange;温室^reset;（可在^orange;加工台^reset;制作）中自行培育这些植物。此外，您还可在^orange;植物分析台^reset;（同样在^orange;加工台^reset;制作）从植物中（初步）提取遗传物质，用于在更复杂的环境中培育进阶植物。\n\n^yellow;小贴士：^reset;^red;多种玉米！^reset;玉米是一种用途极广的作物，可作为油料、牛饲料，也是许多复杂植物的培育基础。"
+    "value": "^orange;1级^reset;\n\n虽然宇宙中充满奇异的植物，但守护团学院已为您打下扎实基础。您已学会在^orange;温室^reset;（可在^orange;加工台^reset;制作）中自行培育这些植物。此外，您还可在^orange;发芽台^reset;（同样在^orange;加工台^reset;制作）从植物中（初步）提取遗传物质，用于在更复杂的环境中培育进阶植物。\n\n^yellow;小贴士：^reset;^red;多种玉米！^reset;玉米是一种用途极广的作物，可作为油料、牛饲料，也是许多复杂植物的培育基础。"
   },
   {
     "op": "replace",
@@ -63,7 +63,7 @@
     "op": "replace",
     "path": "/strings/research/crops2/1",
     "raw": "^orange;Tier 2^reset;\n\nYou've mastered all the plants the Protectorate Academy taught you about, allowing you to artificially create many more plants, including the all-important ^yellow;Cotton^reset;.\n\nYou're ready to start branching into making various medicinal plants that don't provide satiation, but don't spoil and provide useful buffs like environmental resistance, healing, increased stats, or even act as weapons!\n\nYou'll need ^orange;genes^reset; from this point on - found by processing seeds, saplings and some produce in the ^cyan;Sprouting Table^reset; or its upgrades. Some plants produce more seeds than others: flowers unsuited for dye-making are a good early source of seeds.",
-    "value": "^orange;2级^reset;\n\n您已掌握守护团学院传授的全部植物知识，现在可以人工培育更多作物，包括制作护甲、家具、时装和服装时至关重要的^yellow;棉花^reset;。\n\n接下来您可以着手培育各类药用植物，它们虽不提供饱腹感，但不会腐败，并能赋予环境抗性、治疗、属性增强等实用增益，甚至可作为武器使用！\n\n培育需要^orange;基因^reset;资源，可通过在^cyan;植物分析台^reset;或其升级设施中处理种子、树苗及部分农产品获得。不同植物的产种量有所差异：不适合制染料的花朵是早期的理想种子来源。"
+    "value": "^orange;2级^reset;\n\n您已掌握守护团学院传授的全部植物知识，现在可以人工培育更多作物，包括制作护甲、家具、时装和服装时至关重要的^yellow;棉花^reset;。\n\n接下来您可以着手培育各类药用植物，它们虽不提供饱腹感，但不会腐败，并能赋予环境抗性、治疗、属性增强等实用增益，甚至可作为武器使用！\n\n培育需要^orange;基因^reset;资源，可通过在^cyan;发芽台^reset;或其升级设施中处理种子、树苗及部分农产品获得。不同植物的产种量有所差异：不适合制染料的花朵是早期的理想种子来源。"
   },
   {
     "op": "replace",

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Be cruel and shoot freezing icicles at enemies.\n^yellow;Icy fun!^reset;",
-    "value": "射出冰残酷地消灭敌人。\n^yellow;如同玩雪般有趣！^reset;"
+    "value": "冷酷无情地向敌人发射冰冷的冰锥。\n^yellow;冰爽乐趣！^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Ice Blaster",
-    "value": "冰爆之枪"
+    "value": "冰爆"
   }
 ]

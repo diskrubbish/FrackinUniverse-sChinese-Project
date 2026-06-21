@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Uses radioactive materials to generate power. Generates ^orange;10-360W^reset;, each fuel slot outputs independently. Higher power creates ^red;radiation^reset;. ^blue;Left Input^reset;: On/Off Switch",
-    "value": "可使用放射性物质发电。在最佳条件下可产生^orange;10-360W^reset;电力。每个燃料格独立输出。电力高低随放入物质的放射性强弱变化，高电力产出制造^red;辐射^reset;。\n^blue;左侧输入^reset;：电源开关"
+    "value": "利用放射性材料发电，产生^orange;10-360W^reset;功率，\n每个燃料槽独立输出。\n功率越高，产生的^red;辐射^reset;越强。\n^blue;左侧输入^reset;：开关电源"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "I'll have to keep an eye on the radiation levels.",
-    "value": "我得留意一下辐射水平。"
+    "value": "我得留意辐射水平。"
   },
   {
     "op": "replace",
@@ -27,24 +27,24 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Rodsss go in, power comesss out.",
-    "value": "燃料棒棒棒进去，电力出出出来。"
+    "value": "燃料棒进去，电力出来。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Nervous. The consequences of using this unwisely are dire.",
-    "value": "神经紧张。 不够明智的话还是不要使用它了，不然后果将是可怕的！"
+    "value": "紧张。不明智地使用它的后果极其严重。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Let's not go overboard with this...",
-    "value": "这可是有辐射的，会不会太危险了一点..."
+    "value": "咱们别在这件事上做得太过分了..."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "I'll have to dispose of the toxic waste regularly.",
-    "value": "我必须定期处理这些有毒废物。"
+    "value": "我将不得不定期处理有毒废物。"
   }
 ]

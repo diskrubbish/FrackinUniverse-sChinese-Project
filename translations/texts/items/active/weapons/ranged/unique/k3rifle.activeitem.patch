@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "Made with that second shot in mind. Sporting.\n^yellow;Burst fire^reset;",
-    "value": "双重保障，敌人无处可逃。\n^yellow;喷射火焰^reset;"
+    "value": "专为第二击而设计。运动风范。\n^yellow;喷射火焰^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "K3 Double-Tap",
-    "value": "K3 双管枪"
+    "value": "K3 双击枪"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "^cyan;S7 Triple-Tap^reset; ^yellow;^reset;",
-    "value": "^cyan;S7三管枪^reset; ^yellow;"
+    "value": "^cyan;S7 三击枪^reset; ^yellow;^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Why stop at a double tap? Make extra sure!\n^yellow;More bursty^reset;\n^cyan;Burst fire^reset;",
-    "value": "不射第二发？赶紧地！\n^yellow;残暴加倍^reset;\n^yellow;喷射火焰^reset;"
+    "value": "为何止步于双击？要确保万无一失！\n^yellow;更加残暴^reset;\n^cyan;喷射火焰^reset;"
   }
 ]

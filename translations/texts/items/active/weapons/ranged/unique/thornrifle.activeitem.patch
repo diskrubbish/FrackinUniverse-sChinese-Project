@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Stab the hell out of your foolish foes.\n^yellow;Inflicts Poisoned,^reset;\n^cyan;Summons Pterobombs, Floran^reset;",
-    "value": "在愚蠢敌人的射程之外把他们送进地狱吧！\n^cyan;附加中毒效果^reset;\n^yellow;召唤飞翼爆弹，叶族武器^reset;"
+    "value": "狠狠刺穿你那愚蠢的敌人。\n^yellow;附加中毒效果^reset;\n^cyan;召唤飞翼爆弹\n叶族^reset;"
   },
   {
     "op": "replace",

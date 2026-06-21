@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/gui/windowtitle/title",
     "raw": "  Mech Loadouts Screen",
-    "value": "  机械装载显示屏"
+    "value": "  机甲装备配置界面"
   },
   {
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
     "raw": "Change your mech items with one click!",
-    "value": "只需点一下就可更改你的机械部件！"
+    "value": "一键更换你的机甲部件！"
   },
   {
     "op": "replace",
@@ -21,18 +21,18 @@
     "op": "replace",
     "path": "/gui/lblLoadout1/value",
     "raw": "Loadout 1",
-    "value": "装载1"
+    "value": "装备1"
   },
   {
     "op": "replace",
     "path": "/gui/lblLoadout2/value",
     "raw": "Loadout 2",
-    "value": "装载2"
+    "value": "装备2"
   },
   {
     "op": "replace",
     "path": "/gui/lblLoadout3/value",
     "raw": "Loadout 3",
-    "value": "装载3"
+    "value": "装备3"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Ancient and sophisticated.\n^cyan;Inflicts Minor Vulnerability^reset;",
-    "value": "由古老而复杂的工艺制作而成。\n^cyan;附加错调瑕疵效果^reset;"
+    "value": "古老而精妙。\n^cyan;附加错调瑕疵效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Precursor Spear",
-    "value": "先驱长矛"
+    "value": "先驱矛"
   }
 ]

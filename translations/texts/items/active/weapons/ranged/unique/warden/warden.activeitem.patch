@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A dangerously powerful minigun.\n^cyan;Counts as 'plasma' for set bonuses^reset;\n^yellow;Heavy. Extreme fire rate^reset;",
-    "value": "一把威力惊人的迷你机枪。\n^cyan;算作等离子武器，适用于套装加成效果。^reset;\n^yellow;沉重。极限射速^reset;"
+    "value": "一把威力惊人的迷你机枪。\n^cyan;等离子武器^reset;\n^yellow;沉重。极高的射速。^reset;"
   },
   {
     "op": "replace",
@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "^cyan;Chaingun of Destiny^reset; ^yellow;^reset;",
-    "value": "^cyan;堕命链枪^reset; ^yellow;"
+    "value": "^cyan;堕命链枪^reset; ^yellow;^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Nothing compares. Anywhere.\n^cyan;Counts as 'plasma' for set bonuses^reset;\n^yellow;Heavy. Extreme fire rate^reset;",
-    "value": "无与伦比。举世无双。\n^cyan;算作等离子武器，适用于套装加成效果。^reset;\n^yellow;沉重。极限射速^reset;"
+    "value": "无与伦比。举世无双。\n^cyan;等离子武器^reset;\n^yellow;沉重。极高的射速。^reset;"
   },
   {
     "op": "replace",

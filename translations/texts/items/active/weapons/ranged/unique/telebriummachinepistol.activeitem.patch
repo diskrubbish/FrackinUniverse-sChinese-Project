@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Telebrium SMG",
-    "value": "特勒贝自动手枪"
+    "value": "特勒贝冲锋枪"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "Rapid fire poison-tipped rounds.",
-    "value": "发射高速的有毒子弹。"
+    "value": "快速连射的毒尖弹头。"
   }
 ]

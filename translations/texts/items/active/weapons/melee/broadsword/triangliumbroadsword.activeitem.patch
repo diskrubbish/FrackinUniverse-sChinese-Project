@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Stacked Trianglium Pyramids shaped into a sword blade. More effective than you think.\n^cyan;Shoots radioactive exploding shards^reset;",
-    "value": "堆积成剑形的的三角铱矿石。比想象的更有杀伤力。\n^cyan;发射放射性爆炸碎片。^reset;"
+    "value": "堆叠的三角铱构成剑刃的形态，其威力远超你的想象。\n^cyan;发射放射性爆炸碎片。^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Trianglium Broadsword",
-    "value": "三角铱宽剑"
+    "value": "三角铱阔剑"
   }
 ]

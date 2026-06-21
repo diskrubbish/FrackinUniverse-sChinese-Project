@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Even if you graze 'em, the radiation burn is deadly.\n^yellow;Inflicts radiation burn^reset;",
-    "value": "让你的敌人常常辐射的厉害吧！\n^cyan;附加辐射烧伤效果^reset;"
+    "value": "即便只是擦伤，辐射灼伤也是致命的。\n^yellow;附加辐射烧伤效果^reset;"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Barrier Sphere",
-    "value": "障碍球"
+    "value": "屏障球体"
   }
 ]

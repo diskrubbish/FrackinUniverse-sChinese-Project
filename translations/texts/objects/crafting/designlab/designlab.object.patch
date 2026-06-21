@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Create plants from raw materials.",
-    "value": "使用材料培育出植物的种子。"
+    "value": "以原材料培育植物。"
   },
   {
     "op": "replace",
@@ -51,7 +51,7 @@
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "raw": "More advanced seed experimentation.",
-    "value": "更先进的种子研究。"
+    "value": "更高级的种子实验。"
   },
   {
     "op": "replace",
@@ -81,13 +81,13 @@
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Create more complex plants.",
-    "value": " ^#dddddd;创造复杂植物态生命。"
+    "value": " ^#dddddd;创造更复杂的植物。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "raw": "Create bizarre alien plantlife.",
-    "value": "创造奇异的异星植物生命。"
+    "value": "创造奇异的异星植物。"
   },
   {
     "op": "replace",
@@ -117,6 +117,6 @@
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Create advanced plant life.",
-    "value": " ^#dddddd;创造高级植物态生命。"
+    "value": " ^#dddddd;创造高级植物生命。"
   }
 ]

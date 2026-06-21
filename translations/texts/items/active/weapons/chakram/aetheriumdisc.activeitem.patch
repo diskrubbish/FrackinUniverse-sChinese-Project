@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Slice em up with cosmic power.",
-    "value": "以宇宙之力切碎他们。"
+    "value": "以宇宙之力，将敌人斩为碎片。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Derision be thy shield.",
-    "value": "嘲为汝盾。"
+    "value": "嘲讽作尔盾。"
   },
   {
     "op": "replace",

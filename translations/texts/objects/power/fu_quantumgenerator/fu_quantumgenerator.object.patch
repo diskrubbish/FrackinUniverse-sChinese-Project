@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Unmatched clean energy up to ^orange;620W^reset;. Fuel type will decide power output. ^orange;Heats up, heat increases output.^reset; ^blue;Left Input^reset;: On/Off Switch",
-    "value": "可以生产出绝佳的清洁能源，产出功率最高为^orange;620W^reset;。燃料类型会决定产出的电力功率。\n^orange;升温，输出随热量增加。^reset; \n^blue;左侧输入^reset;：电源开关"
+    "value": "无与伦比的清洁能源，功率高达^orange;620W^reset;。输出功率取决于燃料类型。\n^orange;加热升温，热量增加输出。^reset; \n^blue;左侧输入^reset;：开关电源"
   },
   {
     "op": "replace",

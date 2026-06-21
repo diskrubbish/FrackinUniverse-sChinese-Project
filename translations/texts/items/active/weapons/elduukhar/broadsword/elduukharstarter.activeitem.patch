@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A broken sword. The crystal is fractured and no longer shines.",
-    "value": "一把破损的剑。水晶已经破碎，不再发出光亮。"
+    "value": "一把断剑。水晶碎裂，光芒不再。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Broken Opul Broadsword",
-    "value": "破碎的大洋石宽剑"
+    "value": "损坏的欧普尔阔剑"
   }
 ]

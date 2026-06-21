@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "A /'NXOR'/ gate. Remains on unless an odd number of inputs are on, and the rest off.",
-    "value": "一个同或门。需要接入奇数输入节点才能激活/ON/。"
+    "value": "一个“同或”门。除非奇数个输入为“开启”状态，其余为“关闭”状态，否则保持工作状态。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "NXOR Gate (3 inputs)",
-    "value": "同或门(三输入)"
+    "value": "同或门（三输入）"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "A /'NXOR'/ gate. Remainsss on unlesss an odd number of inputsss are on, and the ressst off.",
-    "value": "一个同或门。需要接入奇数输入节点点点才能激活/ON/。"
+    "value": "一个“同或”门。除非奇数数数个输输输入为“开启”状态，其余为“关闭”状态，否则保持工作状态。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Observation. A /'NXOR'/ gate. Remains on unless an odd number of inputs are on, and the rest off.",
-    "value": "观察。 一个同或门。需要接入奇数输入节点才能激活/ON/。"
+    "value": "观察。一个“同或”门。除非奇数个输入为“开启”状态，其余为“关闭”状态，否则保持工作状态。"
   }
 ]

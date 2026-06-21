@@ -3,66 +3,66 @@
     "op": "replace",
     "path": "/description",
     "raw": "An /'OR'/ gate with 2 inputs and a built-in Not Gate, but no built-in Data Latch.",
-    "value": "一个或门。具有两个输入接口、非门，但无锁存器。"
+    "value": "一个具有2个输入且内置非门，但无内置数据锁存器的“或”门。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Advanced OR Gate (2 Inputs, No Latch)",
-    "value": "高级或门(二输入，无锁存器)"
+    "value": "高级或门（二输入，无锁存器）"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
-    "value": "与普通或门并不相同，相比而言，内置非门会更方便。"
+    "value": "与普通或门并无太大区别，但内置的非门设计颇为便捷。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
-    "value": "与普通或门并不相同，相比而言，内置非门会更方便。"
+    "value": "与普通或门并无太大区别，但内置的非门设计颇为便捷。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Not all that different from a normal OR Gate, but the built-in Not Gate isss convenient.",
-    "value": "与普通或门并不相同，相比而言，内置非非非门会更方便。"
+    "value": "与普通或门并无太大区别，但内置的非门设设设计颇为便捷。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Content. Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
-    "value": "满足。 与普通或门并不相同，相比而言，内置非门会更方便。"
+    "value": "满足。与普通或门并无太大区别，但内置的非门设计颇为便捷。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
-    "value": "与普通或门并不相同，相比而言，内置非门会更方便。"
+    "value": "与普通或门并无太大区别，但内置的非门设计颇为便捷。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
-    "value": "与普通或门并不相同，相比而言，内置非门会更方便。"
+    "value": "与普通或门并无太大区别，但内置的非门设计颇为便捷。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
-    "value": "与普通或门并不相同，相比而言，内置非门会更方便。"
+    "value": "与普通或门并无太大区别，但内置的非门设计颇为便捷。"
   },
   {
     "op": "replace",
     "path": "/penguinDescription",
     "raw": "Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
-    "value": "与普通或门并不相同，相比而言，内置非门会更方便。"
+    "value": "与普通或门并无太大区别，但内置的非门设计颇为便捷。"
   },
   {
     "op": "replace",
     "path": "/avaliDescription",
     "raw": "Not all that different from a normal OR Gate, but the built-in Not Gate is convenient.",
-    "value": "与普通或门并不相同，相比而言，内置非门会更方便。"
+    "value": "与普通或门并无太大区别，但内置的非门设计颇为便捷。"
   }
 ]

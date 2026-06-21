@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A powerful, super-dense blade.\n^cyan;Inflicts Electrified^reset;",
-    "value": "一把无坚不摧的宽剑。\n^cyan;附加感电效果^reset;"
+    "value": "一把威力强大、密度极高的刀刃。\n^cyan;附加感电效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Densinium Broadsword",
-    "value": "坚密钢宽剑"
+    "value": "坚密钢阔剑"
   },
   {
     "op": "replace",

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A barrel to collect rainwater!",
-    "value": "一个用于收集雨水的桶！"
+    "value": "一个收集雨水的桶！"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/subtitle",
     "raw": "Rain Barrel.",
-    "value": "接雨水的桶。"
+    "value": "雨水桶。"
   }
 ]

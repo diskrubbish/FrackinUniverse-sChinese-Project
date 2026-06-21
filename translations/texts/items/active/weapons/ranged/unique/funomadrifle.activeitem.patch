@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Highly useful weapon for wanderers.\n^yellow;Counts as Hunting weapon^reset;\n^green;Causes Radiation Burn^reset;",
-    "value": "对流浪者非常有用的武器。\n^yellow;狩猎武器^reset;\n^green;附加辐射烧伤效果^reset;"
+    "value": "对流浪者来说极为实用的武器。\n^yellow;狩猎武器^reset;\n^green;附加辐射烧伤效果^reset;"
   },
   {
     "op": "replace",
@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "^cyan;Expar Sniper Rifle^reset; ^yellow;^reset;",
-    "value": "^cyan;外来者狙击步枪^reset; ^yellow;"
+    "value": "^cyan;艾帕尔狙击步枪^reset; ^yellow;^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Highly useful weapon for wanderers.\n^yellow;Counts as Hunting weapon^reset;\n^green;Causes Radiation Burn^reset;",
-    "value": "对流浪者非常有用的武器。\n^yellow;狩猎武器^reset;\n^green;附加辐射烧伤效果^reset;"
+    "value": "对流浪者来说极为实用的武器。\n^yellow;狩猎武器^reset;\n^green;附加辐射烧伤效果^reset;"
   },
   {
     "op": "replace",

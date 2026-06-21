@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Amber and chitin grant bonus Fun Points.\n^cyan;Counts as Hunting weapon^reset;",
-    "value": "琥珀与甲壳使它乐趣大增。\n^yellow;狩猎武器^reset;"
+    "value": "琥珀与甲壳赋予额外趣味点数。\n^cyan;狩猎武器^reset;"
   },
   {
     "op": "replace",

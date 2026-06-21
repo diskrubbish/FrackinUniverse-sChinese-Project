@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Generates energy out of darkness. Can potentially generate ^orange;10W^reset;.",
-    "value": "从黑暗中获取能量，最大能输出^orange;10W^reset;电力。"
+    "value": "从黑暗中产生能量。潜在发电量可达^orange;10W^reset;。"
   },
   {
     "op": "replace",

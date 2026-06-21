@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Crystalline lunari to pierce foes throats.\n^cyan;Hunting weapon^reset;",
-    "value": "用月晶刺穿敌人的喉咙。\n^cyan;狩猎武器^reset;"
+    "value": "水晶月刃，刺穿敌喉。\n^cyan;狩猎武器^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Lunari Spear",
-    "value": "月晶长矛"
+    "value": "月晶矛"
   }
 ]

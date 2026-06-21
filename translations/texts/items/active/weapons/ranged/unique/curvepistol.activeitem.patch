@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A space pirate plasma sidearm.\n^yellow;+Bouncy and Burny^reset;",
-    "value": "一把太空海盗常用的等离子武器。\n^yellow;附加弹力和燃烧效果"
+    "value": "一把太空海盗使用的等离子手枪。\n^yellow;射弹弹跳且点燃目标^reset;"
   },
   {
     "op": "replace",
@@ -15,12 +15,12 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "A space pirate favorite in plasma technology.\n^yellow;+Bouncy and Burny^reset;",
-    "value": "一把太空海盗使用的等离子武器。\n^yellow;附加弹力和烧伤效果"
+    "value": "等离子技术中的太空海盗最爱。\n^yellow;射弹弹跳且点燃目标^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "^cyan;Breach Pistol^reset; ^yellow;^reset;",
-    "value": "^cyan;劫掠手枪^reset; ^yellow;"
+    "value": "^cyan;劫掠手枪^reset; ^yellow;^reset;"
   }
 ]

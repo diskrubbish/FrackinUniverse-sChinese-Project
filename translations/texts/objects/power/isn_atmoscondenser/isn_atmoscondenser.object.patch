@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Condenses the atmosphere into usable reagents. ^cyan;Requires ^orange;50J^cyan; every 2s^reset;. ^red;Slower production  when stacked^reset;. Scan for info.",
-    "value": "可以把空气凝结成有用的反应物的装置。\n^cyan;每2s需要^orange;50J^cyan;能量^reset;。\n^red;液体堆积时效率降低^reset;。\n扫描以查看更多信息。"
+    "value": "将大气凝结成可用的试剂。\n^cyan;每2秒^cyan;需要^orange;50J能量。\n^red;堆叠时生产速度变慢^reset;。\n扫描以获取更多信息。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^cyan;Atmospheric Condenser^reset;",
-    "value": "^cyan;空气冷凝器^reset;"
+    "value": "^cyan;大气冷凝器^reset;"
   }
 ]

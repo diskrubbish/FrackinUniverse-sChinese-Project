@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A /'NOT'/ gate. Inverts the input on the circuit.",
-    "value": "一个非门。颠倒的输入电路。例：输入ON，则输出OFF"
+    "value": "一个“非门”。反转电路中的输入信号。\n例：输入“开启”，则输出“关闭”"
   },
   {
     "op": "replace",

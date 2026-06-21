@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Create plants from raw materials.",
-    "value": "使用材料培育出植物的种子。"
+    "value": "以原材料培育植物。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "raw": "Breed basic plants",
-    "value": "最基础的种子研究"
+    "value": "培育基础植物"
   },
   {
     "op": "replace",
@@ -39,19 +39,19 @@
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblTitle/value",
     "raw": " ^red;UNAUTHORIZED ACCESS DETECTED^reset;",
-    "value": " ^red;已检测到未授权访问^reset;"
+    "value": " ^red;检测到未经授权的访问^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Access to terminal disabled.",
-    "value": " ^#dddddd;访问权限未取得。"
+    "value": " ^#dddddd;终端访问已禁用。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "raw": "More advanced seed experimentation.",
-    "value": "更先进的种子研究。"
+    "value": "更高级的种子实验。"
   },
   {
     "op": "replace",
@@ -63,7 +63,7 @@
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "raw": "Create bizarre alien plantlife",
-    "value": "创建新植物的最完美的设备"
+    "value": "创造奇异的异星植物"
   },
   {
     "op": "replace",

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Primitive weaponry.",
-    "value": "一把原始的武器。"
+    "value": "原始武器。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Curved Bone Blade",
-    "value": "曲骨匕首"
+    "value": "弧形骨刃"
   }
 ]

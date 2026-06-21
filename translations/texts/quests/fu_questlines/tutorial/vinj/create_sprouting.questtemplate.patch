@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/scriptConfig/turnInDescription",
     "raw": "Bring the ^green;Sprouting Table^reset; to me at the ^orange;Science Outpost^reset;",
-    "value": "把^green;植物分析台^reset;带给我。(位于^orange;科学前哨站^reset;)"
+    "value": "把^green;发芽台^reset;带给我。(位于^orange;科学前哨站^reset;)"
   },
   {
     "op": "replace",

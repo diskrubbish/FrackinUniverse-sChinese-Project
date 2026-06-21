@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/description",
     "raw": "A legendary weapon of war.\n^yellow;Counts as 'energy' for set bonuses^reset;\n^cyan;Hunting weapon^reset;",
-    "value": "战争中的传奇武器。\n^yellow;能量武器^reset;\n^cyan;狩猎武器^reset;"
+    "value": "传奇的战争武器。\n^yellow;能量武器^reset;\n^cyan;狩猎武器^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Mantizi Light Spear",
-    "value": "Mantizi闪电长矛"
+    "value": "甲虫族光矛"
   },
   {
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Light Blast",
-    "value": "闪电冲击"
+    "value": "光击"
   }
 ]

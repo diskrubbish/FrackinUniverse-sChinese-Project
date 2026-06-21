@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A scanning radar used to measure light and wind levels.",
-    "value": "用于测量光线和风向的扫描雷达。"
+    "value": "一种用于测量光照和风力水平的扫描雷达。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Weather Beacon",
-    "value": "天气信标"
+    "value": "气象信标"
   }
 ]

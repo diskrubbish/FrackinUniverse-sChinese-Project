@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "One of the most popular energy rifles on the galactic market\n^yellow;High efficiency^reset;\n^yellow;Counts as 'Energy' for set bonuses^reset;",
-    "value": "星际市场上最受欢迎的能量步枪之一。\n^yellow;高效率^reset;\n^yellow;能量武器^reset;"
+    "value": "星际市场上最受欢迎的能量步枪之一。\n^yellow;高效^reset;\n^yellow;能量武器^reset;"
   },
   {
     "op": "replace",
@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "You've gone and made it even better.\n^yellow;High efficiency^reset;",
-    "value": "你把它变得更棒。\n^yellow;高效率^reset;"
+    "value": "你让它变得更棒了。\n^yellow;高效^reset;"
   },
   {
     "op": "replace",
@@ -33,6 +33,6 @@
     "op": "replace",
     "path": "/upgradeParameters2/description",
     "raw": "You've gone and made it even better.\n^yellow;High efficiency^reset;",
-    "value": "你把它变得更棒。\n^yellow;高效率^reset;"
+    "value": "你让它变得更棒了。\n^yellow;高效^reset;"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A skathmade sword made out of titanium and durasteel.",
-    "value": "一把由钛和耐钢制成的海鳞族工艺宽剑。"
+    "value": "一把由钛合金与耐钢锻造而成的海鳞族造剑。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Reinforced Skath Blade",
-    "value": "海鳞族战刃·中级"
+    "value": "强化海鳞族之刃"
   }
 ]

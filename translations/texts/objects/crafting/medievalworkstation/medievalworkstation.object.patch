@@ -3,25 +3,25 @@
     "op": "replace",
     "path": "/description",
     "raw": "A large, somewhat primitive workstation. Crafts basic gear, but can't be upgraded.",
-    "value": "一个庞大的，模样有些原始的设备。可以制作各式基础设备，但无法升级。"
+    "value": "一个大型、略显原始的工作台。可制作基础装备，但无法升级。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Wistful. This brings back memories of the village I was built in.",
-    "value": "渴望。 这让我想起了我居住的那个村庄。"
+    "value": "惆怅。这勾起了我对那座村庄的回忆，我就是在那里被建造出来的。"
   },
   {
     "op": "replace",
     "path": "/feneroxDescription",
     "raw": "Large. Is solid. Make manyt sorts of basic things. Is good!",
-    "value": "大。坚实。做很多基本的事情。很好！"
+    "value": "大而坚固，能制造多种基础物品。很好！"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Medieval Workstation",
-    "value": "中古工作站"
+    "value": "中世纪工作站"
   },
   {
     "op": "replace",

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Shatteringly powerful homing missile swarm.",
-    "value": "威力惊人的自导导弹群。"
+    "value": "粉碎性的追踪导弹群。"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Blocker Blast",
-    "value": "拦截阵"
+    "value": "阻断爆破"
   }
 ]

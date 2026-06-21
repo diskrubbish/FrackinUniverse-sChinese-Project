@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Attaches to the forearm. Fires explosive blasts.\n^yellow;Counts as 'rocket launcher' for set bonuses^reset;",
-    "value": "可装在手臂上，发射出爆炸型子弹。\n^yellow;火箭发射器^reset;"
+    "value": "附着于前臂，发射爆炸冲击。\n^yellow;火箭发射器^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^red;Arm Cannon (Missile)^reset;",
-    "value": "^red;臂炮(飞弹)"
+    "value": "^red;臂炮（导弹）^reset;"
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Useless. Maybe with some upgrades...",
-    "value": "好像没什么用。也许需要一些升级..."
+    "value": "毫无用处。或许需要升级..."
   },
   {
     "op": "replace",
@@ -21,18 +21,18 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Actually capable of cutting.^reset;",
-    "value": "真的非常锋利。"
+    "value": "实际上具备切割能力。^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters2/shortdescription",
     "raw": "^cyan;God Cleaver^reset; ^yellow;^reset;",
-    "value": "^cyan;神之劈刀^reset; ^yellow;^reset;"
+    "value": "^cyan;断神^reset; ^yellow;^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters2/description",
     "raw": "Unsurpassed in lethality.\n^cyan;Gods fear it. Women crave it.^reset;",
-    "value": "无与伦比的杀伤力。\n^yellow;神明畏惧它。女性渴求它。^reset;"
+    "value": "致命性无与伦比。\n^cyan;诸神畏惧，女子渴求。^reset;"
   }
 ]

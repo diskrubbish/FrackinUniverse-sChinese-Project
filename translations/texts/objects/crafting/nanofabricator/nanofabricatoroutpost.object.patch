@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "This station helps with upgrading gear and creating ideas.",
-    "value": "这个设备可以升级你的物品。"
+    "value": "这个制造站用来升级装备和构思创意。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "raw": "This station helps with upgrading gear and creating ideas.",
-    "value": "这个设备可以升级你的物品。"
+    "value": "这个制造站用来升级装备和构思创意。"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "raw": "Upgrade and enhance, conceptualize and experiment.",
-    "value": "只为升级而存在。"
+    "value": "升级与增强，概念化与实验。"
   },
   {
     "op": "replace",
@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "raw": "Create upgrades and hi-tech gear with nanites.",
-    "value": "利用最先进的设备大幅地提高你的能力。"
+    "value": "利用纳米机器人制造升级与高科技装备。"
   },
   {
     "op": "replace",
@@ -63,12 +63,12 @@
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblTitle/value",
     "raw": " ^red;UNAUTHORIZED ACCESS DETECTED^reset;",
-    "value": " ^red;已检测到未授权访问^reset;"
+    "value": " ^red;检测到未经授权的访问^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Access to terminal disabled.",
-    "value": " ^#dddddd;访问权限未取得。"
+    "value": " ^#dddddd;终端访问已禁用。"
   }
 ]

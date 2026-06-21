@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Cold as ice.",
-    "value": "冷，极冷。"
+    "value": "冷若冰霜。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Frost Lobber",
-    "value": "寒冰之珠"
+    "value": "寒冰珠"
   }
 ]

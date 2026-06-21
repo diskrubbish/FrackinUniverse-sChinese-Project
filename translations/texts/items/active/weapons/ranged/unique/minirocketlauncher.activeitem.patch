@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Fires mini-missiles that enemies prefer to avoid...but can't!\n^yellow;Homing projectiles^reset;",
-    "value": "可发射小型导弹，敌人想跑都跑不掉啦！\n^yellow;追踪型弹药^reset;"
+    "value": "发射微型导弹，敌人虽想躲避...却无法逃脱！\n^yellow;追踪射弹^reset;"
   },
   {
     "op": "replace",

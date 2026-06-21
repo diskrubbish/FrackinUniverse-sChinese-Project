@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "An /'OR'/ gate. Requires at least 1 input to be /'on'/ to work.",
-    "value": "一个或门。至少需要接入一个输入节点才能激活/ON/。"
+    "value": "一个“或”门。需要至少一个输入为“开启”状态才能工作。"
   },
   {
     "op": "replace",
@@ -15,12 +15,12 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "An /'OR'/ gate. Requiresss at leassst 1 input to be /'on'/ to work.",
-    "value": "这是是是一个或门。至少需要接入一个输入节点点点才能激活/ON/。"
+    "value": "一个“或”门。需要至少一个输输输入为“开启”状态才能工作。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Observation. An /'OR'/ gate. Requires at least 1 input to be /'on'/ to work.",
-    "value": "观察。 一个或门。至少需要接入一个输入节点才能激活/ON/。"
+    "value": "观察。一个“或”门。需要至少一个输入为“开启”状态才能工作。"
   }
 ]

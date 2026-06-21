@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Fires repulsive glowy goo-globs.\n^yellow;Hunting weapon^reset;\n^cyan;Poisonous Alt Attack^reset;",
-    "value": "令人厌恶的闪闪发光的黏糊糊的球。\n^yellow;狩猎武器^reset;\n^cyan;附加毒素攻击^reset;"
+    "value": "发射令人厌恶的发光粘液球。\n^yellow;狩猎武器^reset;\n^cyan;次要攻击：带毒^reset;"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Thorn Spike",
-    "value": "尖刺球"
+    "value": "荆棘之刺"
   }
 ]

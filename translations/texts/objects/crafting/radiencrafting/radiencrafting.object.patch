@@ -15,24 +15,24 @@
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/lblTitle/value",
     "raw": " ^#ffea00;X'ian Forming Bulb",
-    "value": "^#ffea00;艾肯球茎工坊"
+    "value": "^#ffea00;艾肯塑型球泡"
   },
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;For everything to do with X'i",
-    "value": " ^#dddddd;制造关于艾肯的一切。"
+    "value": " ^#dddddd;关于艾肯的一切。"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "Allows a X'i to craft pieces of itself through direct melding.",
-    "value": "允许艾肯通过直接融合来制作自己的装备。"
+    "value": "允许艾肯直接熔炼来塑造自身的碎片。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "X'ian Forming Bulb",
-    "value": "艾肯球茎工坊"
+    "value": "艾肯塑型球泡"
   }
 ]

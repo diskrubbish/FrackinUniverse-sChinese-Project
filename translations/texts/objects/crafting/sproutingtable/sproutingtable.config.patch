@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/paneLayout/windowtitle/title",
     "raw": " SPROUTING TABLE",
-    "value": "植物分析台"
+    "value": " 植物分析台"
   },
   {
     "op": "replace",
     "path": "/paneLayout/windowtitle/subtitle",
     "raw": " Slowly works seeds",
-    "value": "缓慢地分析种子的构造"
+    "value": "缓慢地分析种子"
   },
   {
     "op": "replace",

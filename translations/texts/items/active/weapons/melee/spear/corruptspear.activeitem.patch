@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Laced with the entropic force of Corruption.\n^cyan;Hunting weapon^reset;",
-    "value": "掺杂着腐败的熵力。\n^cyan;狩猎武器^reset;"
+    "value": "浸染着熵增的腐化之力。\n^cyan;狩猎武器^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Corrupted Spear",
-    "value": "腐化长矛"
+    "value": "腐化矛"
   }
 ]

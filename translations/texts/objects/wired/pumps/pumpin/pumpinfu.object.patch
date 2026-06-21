@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "^cyan;Blue - Connect to signal^reset; ^red;Red - connect to Liquid Outlet^reset;",
-    "value": "^cyan;蓝色端——连接到电流^reset; ^red;红色端——连接到液体输出^reset;"
+    "value": "^cyan;蓝色节点 - 连接至信号^reset;\n^red;红色节点 - 连接至液体出口^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Liquid Mover Input",
-    "value": "液体输入泵"
+    "value": "液体移动泵输入"
   }
 ]

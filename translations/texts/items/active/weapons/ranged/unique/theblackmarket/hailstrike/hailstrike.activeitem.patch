@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Harness the power of the cosmos, in machinegun form.\n^yellow;Homing energy weapon.^reset;\n^green;Alt ignores walls^reset;",
-    "value": "以机枪之形，驾驭宇宙之力。\n^yellow;带有追踪性的能量武器^reset;\n^green;次要攻击可穿墙^reset;"
+    "value": "以机枪之形，驾驭宇宙之力。\n^yellow;追踪性能量武器。^reset;\n^green;次要攻击：无视墙体^reset;"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Perfection.\n^cyan;+2 projectiles^reset;\n^yellow;Homing projectiles^reset;\n^green;Alt ignores walls^reset;",
-    "value": "完美至极。\n^cyan;+2射弹^reset;\n^yellow;带有追踪性的能量武器^reset;\n^green;次要攻击可穿墙^reset;"
+    "value": "完美。\n^cyan;+2射弹^reset;\n^yellow;追踪射弹^reset;\n^green;次要攻击：无视墙体^reset;"
   }
 ]

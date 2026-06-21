@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "Prop Packaging's finest products avaliable at the touch of a button!",
-    "value": "满是家具的最新产品,触摸按钮一键送达！"
+    "value": "“满是家具”最优质的产品，一键轻松获取！"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^orange;Prop Pack Online Catalog^reset;",
-    "value": "^orange;满是家具在线目录^reset;"
+    "value": "^orange;“满是家具”在线目录^reset;"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "An online catalog! How convient.",
-    "value": "在线目录！真是方便。"
+    "value": "网上目录！真是太方便了。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "Brand new furniture delivered in microseconds. The future is now!",
-    "value": "全新的家具在微秒之内送达。未来即是现在！"
+    "value": "全新家具，微秒送达。未来已至！"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran likes to play with sssmooth touch screen.",
-    "value": "叶族人喜欢玩光光光滑的触摸屏。"
+    "value": "叶族人喜欢玩光滑的触摸屏。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Overjoyed. So many options to choose from!",
-    "value": "欣喜若狂。 这么多的选项可供选择！"
+    "value": "狂喜。有这么多选择可供挑选！"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Huh. This catalog seems... familiar?",
-    "value": "哈。这个目录看起来...熟悉吗？"
+    "value": "嗯。这个目录看起来...有点眼熟？"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "The furniture featured here very quality... And reasonably priced, as well!",
-    "value": "这里的家具质量很好...而且价格也合理！"
+    "value": "这里展示的家具质量非常棒...而且价格也很合理！"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "A mini virtual furniture catalog. Ain't that the darnedest thing.",
-    "value": "迷你虚拟家具目录。这难道不是最可恶的玩意吗？"
+    "value": "一个小型虚拟家具目录。这难道不是最稀奇的事儿吗？"
   }
 ]

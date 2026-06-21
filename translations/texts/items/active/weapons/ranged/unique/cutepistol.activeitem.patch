@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Prism-powered shots decimate the enemy.\n^yellow;Counts as 'energy' for set bonuses^reset;",
-    "value": "用附着棱镜能量的攻击消灭敌人。\n^yellow;能量武器^reset;"
+    "value": "棱镜加持的射击将敌人彻底击溃。\n^yellow;能量武器^reset;"
   },
   {
     "op": "replace",

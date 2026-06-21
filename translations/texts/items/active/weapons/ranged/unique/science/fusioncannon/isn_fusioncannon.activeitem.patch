@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A super-heavy fusion rocket launcher.\n^yellow;Huge radius^reset;\n^green;Destroys tiles^reset;",
-    "value": "一款超重型聚变火箭发射器。\n^yellow;巨大半径^reset;\n^green;破坏物块^reset;"
+    "value": "一款超重型核聚变火箭发射器。\n^yellow;巨大半径^reset;\n^green;破坏物块^reset;"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Increased projectile speed and knockback.^reset;",
-    "value": "提高射速以及击退。^reset;"
+    "value": "提升射弹的速度与击退效果。^reset;"
   }
 ]

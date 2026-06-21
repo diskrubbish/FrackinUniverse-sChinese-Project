@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A solid beam guaranteed to roast ghosts. Don't cross the streams!",
-    "value": "强力的激光保证可以把鬼轰成渣。不要越过溪流！(Don't cross the streams!)"
+    "value": "一股强力的光束，保证能烤焦鬼魂。千万别让光束交叉！"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Beam Gun (Ghostbuster)",
-    "value": "光束枪(捉鬼敢死队)"
+    "value": "光束枪（捉鬼敢死队）"
   }
 ]

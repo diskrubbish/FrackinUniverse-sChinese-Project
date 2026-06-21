@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Rapid reload and high performance.",
-    "value": "快速换弹，性能强悍。"
+    "value": "快速重载，性能卓越。"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "So fast it blows minds.",
-    "value": "如此之快,让人震惊。"
+    "value": "快到令人难以置信。"
   }
 ]

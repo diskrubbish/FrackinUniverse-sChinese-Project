@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Negative energy eradicates all solid matter.\n^yellow;Extreme fire speed^reset;\n^green;Paralyzing alt-Fire^reset;",
-    "value": "以负极能量根除所有固态物质。\n^yellow;极高的射速^reset;\n^yellow;次要攻击：射出瘫痪敌人的能量球^reset;"
+    "value": "以负极能量消融一切固态物质。\n^yellow;极高的射速^reset;\n^green;次要攻击：瘫痪敌人^reset;"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Bio-Disruptor",
-    "value": "生命破败"
+    "value": "生物干扰器"
   }
 ]

@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/label",
     "raw": "-20 Health",
-    "value": "生命值上限-20"
+    "value": "-20生命值上限"
   }
 ]

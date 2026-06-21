@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/label",
     "raw": "Heals 70 hp over 2 seconds",
-    "value": "在2秒回复70点生命值。"
+    "value": "在2秒内恢复70点生命值。"
   }
 ]

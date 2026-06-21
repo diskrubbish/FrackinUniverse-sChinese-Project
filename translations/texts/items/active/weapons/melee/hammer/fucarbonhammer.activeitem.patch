@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A heavy, reliable carbon hammer.",
-    "value": "一把沉重的碳制锤。"
+    "value": "一把沉重而可靠的碳纤维锤。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Carbon Hammerpick",
-    "value": "碳制锤"
+    "value": "碳制锤镐"
   }
 ]

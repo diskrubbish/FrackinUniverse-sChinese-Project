@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Great for stabby times. Really old\n^cyan;Hunting weapon^reset;",
-    "value": "很适合用来捅人。是把老古董\n^cyan;狩猎武器^reset;"
+    "value": "非常适合捅刺时刻。是把老古董。\n^cyan;狩猎武器^reset;"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Cosmic Blast",
-    "value": "射线冲击波"
+    "value": "宇宙冲击波"
   }
 ]

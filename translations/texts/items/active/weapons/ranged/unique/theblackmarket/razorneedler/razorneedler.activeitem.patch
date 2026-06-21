@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A black market customized special needler with razor sharp crystal shards.",
-    "value": "一把从黑市自定义过的特殊武器，发射剃刀般锋利的水晶碎片。"
+    "value": "一把黑市定制的特殊针枪，配备锋利如刃的水晶碎片。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^cyan;Shard Needler^reset;",
-    "value": "^cyan;碎片风暴^reset;"
+    "value": "^cyan;碎片穿刺者^reset;"
   }
 ]

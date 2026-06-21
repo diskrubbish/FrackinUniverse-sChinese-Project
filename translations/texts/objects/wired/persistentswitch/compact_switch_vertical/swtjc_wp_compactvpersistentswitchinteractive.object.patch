@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "A persistent switch that I can also toggle manually.",
-    "value": "这个持久开关我可以手动切换。"
+    "value": "一个我也可以手动切换的持久开关。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Compact Persistent Switch (Interactive)",
-    "value": "紧凑型持久开关(可交互)"
+    "value": "紧凑型持久开关（可交互）"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Persssissstent ssswitch that Floran can alssso toggle manually.",
-    "value": "这个开关，叶族人可以手动切换它。"
+    "value": "叶族人也可以手手手动切换的持久开关。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Pleased. A persistent switch that I can also toggle manually.",
-    "value": "很高兴。 这个持久开关我可以手动切换。"
+    "value": "高兴。 一个我也可以手动切换的持久开关。"
   }
 ]

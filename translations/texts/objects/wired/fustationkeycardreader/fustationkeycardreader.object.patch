@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "It scans keycards and allows only authorised personnel through. Requires: Kirhosi Station Keycard",
-    "value": "它扫描钥匙卡，只允许授权人员通过。需要：鼠族车站钥匙卡"
+    "value": "扫描钥匙卡，仅允许授权人员通行。所需物品：鼠族空间站贵宾卡"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Station Keycard Reader",
-    "value": "鼠族车站钥匙卡读取器"
+    "value": "鼠族空间站贵宾卡读取器"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A keycard reader. Normal in Apex society, though this one seems to require a Kirhosi Station Keycard, rather than Miniknog clearance.",
-    "value": "一个钥匙卡读取器。在猿族社会很正常，但这一次似乎需要一张鼠族车站的钥匙卡，而不是科技发展部的许可。"
+    "value": "一个钥匙卡读取器。在猿族社会中很常见，不过这个似乎需要鼠族空间站的钥匙卡，而非科技发展部的通行权限。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "An interesting security device, I'll have to find a key. Looks like it wants a Kirhosi Station Keycard.",
-    "value": "一个有趣的安全装置，我得找把钥匙。看起来它想要一张鼠族车站的钥匙卡。"
+    "value": "一个有趣的安全装置，我得找把钥匙。看起来它需要一张鼠族空间站的钥匙卡。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Device for ssscanning cards. Floran needss Kirhosssi Sstation Keycard...",
-    "value": "用于扫描卡片的设备。叶族人需要鼠族车站钥匙卡。。。"
+    "value": "卡片扫描装置。叶族人需要鼠族空间站的钥匙卡..."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Observant. A security device used to allow paying customers to enter restricted spaces. This one requires a Kirhosi Station Keycard.",
-    "value": "善于观察。 允许付费顾客进入受限空间的安全装置。这个需要一张鼠族车站的钥匙卡。"
+    "value": "观察。 一种用于允许付费客户进入受限区域的安全设备。此设备需要鼠族空间站钥匙卡。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "A Kirhosi Station Keycard scanner. Makes me feel like I'm in a spy movie.",
-    "value": "一台鼠族车站的钥匙卡扫描仪。让我觉得自己在拍间谍电影。"
+    "value": "一台鼠族空间站钥匙卡扫描器，让我感觉自己仿佛置身于间谍电影之中。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "I should look around for a Kirhosi Station Keycard.",
-    "value": "我应该到处找鼠族车站的钥匙卡。"
+    "value": "我应该四处找找看有没有鼠族空间站的钥匙卡。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "A type of scannin' device for cards. Looks t' need a Kirhosi Station Keycard.",
-    "value": "一种卡片扫描设备。看起来不需要鼠族车站的钥匙卡。"
+    "value": "一种卡片扫描装置。看起来需要一张鼠族空间站的钥匙卡。"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Not the sort of thing you fire indoors at a carpentry show.\n^yellow;Inflicts burning^reset;",
-    "value": "这玩意儿不适合在木制建筑物中使用。\n^cyan;附加燃烧效果^reset;"
+    "value": "这可不是那种能在木工展上室内发射的东西。\n^yellow;附加燃烧效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Napalm Launcher",
-    "value": "汽油弹发射器"
+    "value": "凝固汽油弹发射器"
   }
 ]

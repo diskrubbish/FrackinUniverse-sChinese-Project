@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A versatile fuel-burning generator. Generates up to ^orange;12W^reset;, fuel type determines consumption rate. ^orange;Heats up, heat determines output.^reset; ^blue;Left Input^reset;: On/Off Switch",
-    "value": "一台灵活的燃料发电机。可产生最高^orange;12W^reset;电力。燃料类型决定消耗率。\n^orange;发热，热量决定产出。^reset;\n^blue;左侧输入^reset;: 电源开关"
+    "value": "一款多功能的燃料燃烧发电机。最高输出功率达^orange;12W^reset;，燃料类型决定消耗速率。\n^orange;升温，热量决定输出。^reset;\n^blue;左侧输入^reset;：开关电源"
   },
   {
     "op": "replace",
@@ -15,42 +15,42 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "Low-class Apex housing is usually near generators like these. The constant noise prevents you from getting any good sleep.",
-    "value": "低阶层的猿族房屋基本都是靠近这类发电机。它发出的恒定的噪音将让你无法安眠。"
+    "value": "低级的猿族住宅通常位于此类发电机附近。持续的噪音让人难以安眠。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "I'm not a fan of heavy industry.",
-    "value": "我不是重工业的粉丝。"
+    "value": "我不太喜欢重工业。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran not like hot noisssy machine. Makesss noissy soundss all the time.",
-    "value": "叶族人不喜欢又热又闹闹闹的机器，它总是发出嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡的声音。"
+    "value": "叶族人不喜喜喜欢又热又吵的机器，那玩意儿总是发出嘈杂的声声声响。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Observation. It is designed with replaceable parts to minimize repair costs.",
-    "value": "观察。 它设计有可更换的部件，以减少维修成本。"
+    "value": "观察。其设计采用可替换部件，以最大限度降低维修成本。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "This'll generate a lot of power, but it'll eat up fuel.",
-    "value": "这将产生很大的能量，但它会消耗燃料。"
+    "value": "这会产出大量电力，但也会消耗大量燃料。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Fossil fuel generation. Crass and primitive. It is, however, effective.",
-    "value": "原始的利用燃料的方法。但是，它确实有效。"
+    "value": "化石燃料发电，粗陋而原始，然而，它确实有效。"
   },
   {
     "op": "replace",
     "path": "/feneroxDescription",
     "raw": "Loud machine is scare. Not like. Why clank and BRRRR? Just make power, no sound!",
-    "value": "吵闹的机器好吓人。不西幻。为什么要叮叮当当？只要能源，不要声音！"
+    "value": "嘈杂的机器真吓人，不喜欢。为什么哐当哐当还嗡嗡响？只管发电，别出声！"
   }
 ]

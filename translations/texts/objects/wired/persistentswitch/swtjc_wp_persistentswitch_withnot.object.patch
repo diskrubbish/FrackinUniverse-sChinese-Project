@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "A modified Persistent Switch with a built-in NOT Gate.",
-    "value": "这个持久开关内置了非门。"
+    "value": "一种内置非门的改进型持久开关。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Persistent Switch (with NOT Gate)",
-    "value": "持久开关(非门)"
+    "value": "持久开关（附带非门）"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "A modified Persssissstent Ssswitch with a built-in NOT Gate.",
-    "value": "这个持久开关关关内置了非门。"
+    "value": "一种内置非非非门的改进型持久开关。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Curious. A modified Persistent Switch with a built-in NOT Gate.",
-    "value": "奇妙。 这个持久开关内置了非门。"
+    "value": "奇妙。 一种内置非门的改进型持久开关。"
   }
 ]

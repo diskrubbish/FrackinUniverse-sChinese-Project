@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "The weapon of choice for desert wanderers.\n^yellow;Counts as Hunting weapon^reset;\n^green;Causes Radiation Burn^reset;",
-    "value": "沙漠流浪者的首选武器。\n^yellow;狩猎武器^reset;\n^green;造成辐射烧伤^reset;"
+    "value": "沙漠漫游者的首选武器。\n^yellow;狩猎武器^reset;\n^green;造成辐射烧伤^reset;"
   },
   {
     "op": "replace",
@@ -15,12 +15,12 @@
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "^cyan;Expar Rifle^reset; ^yellow;^reset;",
-    "value": "^cyan;外来者步枪^reset; ^yellow;"
+    "value": "^cyan;艾帕尔步枪^reset; ^yellow;^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "The weapon of choice for desert wanderers.\n^yellow;Counts as Hunting weapon^reset;\n^green;Causes Radiation Burn^reset;",
-    "value": "沙漠流浪者的首选武器。\n^yellow;狩猎武器^reset;\n^green;造成辐射烧伤^reset;"
+    "value": "沙漠漫游者的首选武器。\n^yellow;狩猎武器^reset;\n^green;造成辐射烧伤^reset;"
   }
 ]

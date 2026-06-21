@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Claws designed like a bird's talons.",
-    "value": "这个爪子设计得好像一只鸟的爪子一样。"
+    "value": "如鸟爪般设计的爪刃。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Zel-Claw",
-    "value": "类鸟爪"
+    "value": "泽尔之爪"
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A basic sifter which slowly extracts resources from loose materials. ^cyan;Requires ^orange;2W ^cyan;power.^reset;",
-    "value": "基本的筛分机，可以从松散的物料中缓慢地提取资源。\n^cyan;需要^orange;2W^cyan;电力^reset;。"
+    "value": "一台基础的筛分机，可缓慢地从松散材料中提取资源。\n^cyan;需要^orange;2W^cyan;电力^reset;。"
   },
   {
     "op": "replace",

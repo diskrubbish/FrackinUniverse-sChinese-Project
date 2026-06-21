@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "This sword has a grand design, but it looks like it would be difficult to wield.",
-    "value": "这把剑设计得非常豪华，但是看起来很难挥舞它。"
+    "value": "此剑设计宏伟，但看起来似乎不易驾驭。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Nhydri Broadsword",
-    "value": "纳德宽剑"
+    "value": "纳德阔剑"
   }
 ]

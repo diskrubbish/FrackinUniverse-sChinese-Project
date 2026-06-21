@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Fires super-cold dark matter infused rounds.\n^cyan;Spawns defensive drones^reset;",
-    "value": "发射注入极寒暗物质的子弹。\n^cyan;生成防御无人机"
+    "value": "发射注入极寒暗物质的弹药。\n^cyan;生成防御无人机^reset;"
   },
   {
     "op": "replace",

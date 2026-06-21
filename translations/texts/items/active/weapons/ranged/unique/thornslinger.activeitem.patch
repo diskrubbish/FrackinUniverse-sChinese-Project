@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Blaze through foes with a storm of poisoned needles.\n^yellow;Inflicts poison, ^cyan;Floran^reset;",
-    "value": "敌人绝对会爽翻天！\n^cyan;附加中毒效果，^cyan;叶族^reset;"
+    "value": "以毒针风暴之势，疾速击溃敌人。\n^yellow;附加中毒效果^reset;\n^cyan;叶族^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Thorn Slinger",
-    "value": "荆棘环"
+    "value": "荆棘之刺"
   }
 ]

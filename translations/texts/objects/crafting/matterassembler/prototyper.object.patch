@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "^cyan;(Frackin' Universe main table)^reset; Craft all sorts of useful gear.",
-    "value": "^cyan;(Frackin'Universe主设备)^reset;用于制作各种设备与基础道具。"
+    "value": "^cyan;（富兰克林的宇宙的主要工作台）^reset;\n制作各类实用装备。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "raw": "Craft all sorts of complex gear.",
-    "value": "制造各种复杂的设备"
+    "value": "制作各种复杂的装备。"
   },
   {
     "op": "replace",
@@ -45,13 +45,13 @@
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Create tech and components.",
-    "value": " ^#dddddd;制造科技与组件。"
+    "value": " ^#dddddd;创造科技与组件。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "raw": "Create more complicated gear.",
-    "value": "制造更复杂的设备。"
+    "value": "创造更复杂的装备。"
   },
   {
     "op": "replace",
@@ -81,13 +81,13 @@
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Create more complex gear.",
-    "value": " ^#dddddd;制造更复杂的零件。"
+    "value": " ^#dddddd;创造更复杂的装备。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "raw": "Create advanced technology.",
-    "value": "制造高科技。"
+    "value": "创造先进科技。"
   },
   {
     "op": "replace",
@@ -117,6 +117,6 @@
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Create advanced technology.",
-    "value": " ^#dddddd;制造高级科技。"
+    "value": " ^#dddddd;创造先进科技。"
   }
 ]

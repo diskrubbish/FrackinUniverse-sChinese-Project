@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "Primary: ^cyan;Snowball Machine Gun.^reset;\nAlt: ^cyan;Compressed Snowball Cannon^reset;",
-    "value": "左键：^cyan;雪球机枪。^reset;\n右键： ^cyan;压缩雪球大炮^reset;"
+    "value": "主要攻击：^cyan;雪球机关枪。^reset;\n右键： ^cyan;压缩雪球炮^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Broken Promise",
-    "value": "破碎的承诺"
+    "value": "破灭承诺"
   },
   {
     "op": "replace",

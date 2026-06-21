@@ -3,19 +3,19 @@
     "op": "replace",
     "path": "/description",
     "raw": "Generates a field that heals any lifeform within its area of effect. ^cyan;Requires ^orange;120W^cyan; of power^reset;.",
-    "value": "这个装置可以生成治疗周围单位的力场。\n^cyan;需要^orange;120W^cyan;电力^reset;。"
+    "value": "生成一个在其作用范围内治愈任何生命体的力场。\n^cyan;需要^orange;120W^cyan;电力^reset;。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^cyan;Regeneration Matrix^reset;",
-    "value": "^cyan;治疗力场发生器^reset;"
+    "value": "^cyan;再生矩阵^reset;"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "Ahhh. Refreshing.",
-    "value": "啊，空气真清新！"
+    "value": "啊，真清爽。"
   },
   {
     "op": "replace",
@@ -27,24 +27,24 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Healy box make Floran happy.",
-    "value": "治疗的盒子让叶族人感感感到很开心。"
+    "value": "治疗盒让叶族人感到开心心心。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Reassured. I won't die while standing near this machine.",
-    "value": "放心。 站在这台机器旁不会死的。"
+    "value": "放心。站在这个机器旁边，我不会死的。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "I won't have to worry about the peril of death near this thing!",
-    "value": "在这里不会担心死亡。"
+    "value": "有了这东西，我就不用担心死亡的威胁了！"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "This will provide excellent healing at a constant rate.",
-    "value": "这将提供以恒定速率的极好的愈合。"
+    "value": "这将提供持续稳定的卓越治疗效果。"
   }
 ]

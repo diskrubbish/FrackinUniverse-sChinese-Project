@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Play with chemicals. Endless fun.",
-    "value": "合理地使用化学来享受实验的乐趣。"
+    "value": "玩转化学品，乐趣无穷。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "raw": "Experiment with chemicals.",
-    "value": "以实验作舟，游化合海洋。"
+    "value": "以实验作舟，游化学海洋。"
   },
   {
     "op": "replace",
@@ -45,13 +45,13 @@
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Experiment with chemicals.",
-    "value": " ^#dddddd;以实验作舟，游化合海洋。"
+    "value": " ^#dddddd;以实验作舟，游化学海洋。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "raw": "More advanced experiments. More kaboom.",
-    "value": "更多的实验。更多的欢乐。"
+    "value": "更先进的实验。更猛烈的爆炸。"
   },
   {
     "op": "replace",
@@ -81,13 +81,13 @@
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;More advanced experiments. More kaboom.",
-    "value": " ^#dddddd;更多实验，瞬间爆炸！。"
+    "value": " ^#dddddd;更先进的实验。更猛烈的爆炸。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "raw": "Superior chemistry and biology experiments.",
-    "value": "最棒的化学与生物的实验设备"
+    "value": "卓越的化学与生物实验。"
   },
   {
     "op": "replace",
@@ -117,6 +117,6 @@
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Superior chemistry and biology experiments.",
-    "value": " ^#dddddd;高级的化学，生物的实验。"
+    "value": " ^#dddddd;卓越的化学与生物实验。"
   }
 ]

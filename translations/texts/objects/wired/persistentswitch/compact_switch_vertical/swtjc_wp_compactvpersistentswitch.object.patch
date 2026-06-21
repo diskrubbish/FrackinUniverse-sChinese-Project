@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Once triggered this switch will remain in its switched state.",
-    "value": "一旦激活，此开关将会保持在所选状态内。"
+    "value": "一旦触发，此开关将保持其切换状态。"
   },
   {
     "op": "replace",
@@ -15,12 +15,12 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Once triggered this sswitch will remain in its sswitched ssstate.",
-    "value": "一旦激活，此开关将会保持持持在所选状态内。"
+    "value": "一旦触发，此开关将保持持持其切换状态。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Neutral. Once triggered this switch will remain in its switched state.",
-    "value": "中立。 一旦激活，此开关将会保持在所选状态内。"
+    "value": "中立。一旦触发，此开关将保持其切换状态。"
   }
 ]

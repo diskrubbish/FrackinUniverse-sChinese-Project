@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Hot and spicy with a side of die.\n^cyan;Inflicts Burning^reset;",
-    "value": "一边感受着热，一边步入死亡！\n^cyan;附加燃烧效果^reset;"
+    "value": "热辣刺激，致命诱惑。\n^cyan;附加燃烧效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Hellfire Blade",
-    "value": "地狱火宽剑"
+    "value": "地狱火阔剑"
   }
 ]

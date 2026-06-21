@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Prismatic blasts that have a special property.\n^yellow;Impact with alt creates more projectiles^reset;",
-    "value": "射出具有特殊性能的碎片性爆炸伤害。\n^yellow;次要攻击会发射更多弹药^reset;"
+    "value": "具有特殊属性的棱镜爆破。\n^yellow;次要攻击：产生更多射弹^reset;"
   },
   {
     "op": "replace",

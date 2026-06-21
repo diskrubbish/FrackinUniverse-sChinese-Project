@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A station to heal pets, robots and...others.\nAutomated and Item Network capable.",
-    "value": "一个治疗宠物、机器人和...其他玩意的工作站。\n自动化且兼容物品传输网络。"
+    "value": "一个用于治疗宠物、机器人以及....其他玩意的工作站。\n可自动化并兼容物品网络。"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/subtitle",
     "raw": "For dead pets, broken bots, and more.",
-    "value": "无论是死去宠物，还是坏掉的机器，甚至是其他玩意。"
+    "value": "死去的宠物、故障的机器人及其他。"
   }
 ]

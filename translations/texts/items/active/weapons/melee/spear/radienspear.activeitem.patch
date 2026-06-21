@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Made from your own parts. Sturdy and dangerous.\n^cyan;Hunting weapon^reset;",
-    "value": "以己之身铸成，可靠而又危险。\n^cyan;狩猎武器^reset;"
+    "value": "由你自己的身体打造而成。坚固且危险。\n^cyan;狩猎武器^reset;"
   },
   {
     "op": "replace",
@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "^white;Bio-Spear^reset; ^cyan;^reset;",
-    "value": "^white;生物态长矛^reset; ^cyan;^reset;"
+    "value": "^white;生物态矛^reset; ^cyan;^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters2/shortdescription",
     "raw": "^white;Muta-Spear^reset; ^#d472ff;^reset;",
-    "value": "^white;无它长矛^reset; ^#d472ff;^reset;"
+    "value": "^white;变异之矛^reset; ^#d472ff;^reset;"
   },
   {
     "op": "replace",

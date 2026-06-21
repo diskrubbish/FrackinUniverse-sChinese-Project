@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A nest for eggs.",
-    "value": "一个鸡窝，用来给母鸡下蛋。"
+    "value": "一个蛋巢。"
   },
   {
     "op": "replace",
@@ -27,18 +27,18 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "A box of tassssty.",
-    "value": "里面全是好吃的。"
+    "value": "一盒美味。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Identify. Egg Nest.",
-    "value": "辨别。 供母鸡下蛋的巢。"
+    "value": "辨别。蛋巢。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "An egg nest.",
-    "value": "一个下蛋的地方。"
+    "value": "一个蛋巢。"
   }
 ]

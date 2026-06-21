@@ -213,7 +213,7 @@
     "op": "replace",
     "path": "/labels/swtjc_ewg_squadAutomaticWeapon",
     "raw": "Squad Automatic Weapon",
-    "value": "量产型自动武器"
+    "value": "班用自动武器"
   },
   {
     "op": "replace",
@@ -231,7 +231,7 @@
     "op": "replace",
     "path": "/labels/swtjc_ewg_sawedOffShotgun",
     "raw": "Short-Barreled Shotgun",
-    "value": "霰弹枪"
+    "value": "短管霰弹枪"
   },
   {
     "op": "replace",

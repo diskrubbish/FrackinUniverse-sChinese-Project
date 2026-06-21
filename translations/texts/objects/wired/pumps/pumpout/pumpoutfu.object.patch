@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "^cyan;Blue - connect to Liquid Pump^reset;",
-    "value": "^cyan;蓝色端——连接至液体泵^reset;"
+    "value": "^cyan;蓝色节点 - 连接至液体泵^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Liquid Mover Pump",
-    "value": "液体输出泵"
+    "value": "液体移动泵"
   }
 ]

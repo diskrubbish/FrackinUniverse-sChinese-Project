@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Radiation has never been so adorably lethal.\n^yellow;Inflicts radiation burn^reset;",
-    "value": "原来辐射这么容易杀人！\n^cyan;附加辐射烧伤效果^reset;"
+    "value": "辐射从未如此可爱又致命。\n^yellow;附加辐射烧伤效果^reset;"
   },
   {
     "op": "replace",

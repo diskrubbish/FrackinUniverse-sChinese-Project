@@ -75,7 +75,7 @@
     "op": "replace",
     "path": "/Data/misc/3/1",
     "raw": "^cyan;[FU]^reset; Toggle Shipwide Grabber",
-    "value": ""
+    "value": "^cyan;[FU]^reset; 切换全船抓取器"
   },
   {
     "op": "replace",

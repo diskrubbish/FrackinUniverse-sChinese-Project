@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Create special weapons and armor.",
-    "value": "制造特殊武器和盔甲。"
+    "value": "制造特殊武器和护甲。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "raw": "Create special weapons and armor.",
-    "value": "制造特殊武器和盔甲。"
+    "value": "制造特殊武器和护甲。"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "raw": "Even more advanced gear.",
-    "value": "可制造更先进的装备。"
+    "value": "更先进的装备。"
   },
   {
     "op": "replace",
@@ -51,19 +51,19 @@
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblTitle/value",
     "raw": " ^red;UNAUTHORIZED ACCESS DETECTED^reset;",
-    "value": " ^red;已检测到未授权访问^reset;"
+    "value": " ^red;检测到未经授权的访问^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Access to terminal disabled.",
-    "value": " ^#dddddd;访问权限未取得。"
+    "value": " ^#dddddd;终端访问已禁用。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "raw": "The best weapons and armor. Period.",
-    "value": "可制造最先进的装备。"
+    "value": "最好的武器和护甲，没有之一。"
   },
   {
     "op": "replace",
@@ -87,12 +87,12 @@
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblTitle/value",
     "raw": " ^red;UNAUTHORIZED ACCESS DETECTED^reset;",
-    "value": " ^red;已检测到未授权访问^reset;"
+    "value": " ^red;检测到未经授权的访问^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Access to terminal disabled.",
-    "value": " ^#dddddd;访问权限未取得。"
+    "value": " ^#dddddd;终端访问已禁用。"
   }
 ]

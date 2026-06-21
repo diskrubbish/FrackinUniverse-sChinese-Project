@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Assassination. With style.\n^cyan;Inflicts Minor Vulnerability^reset;",
-    "value": "刺客专用。\n^cyan;附加错调瑕疵效果^reset;"
+    "value": "刺杀。以格调之名。\n^cyan;附加错调瑕疵效果^reset;"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Death be thy shadow.",
-    "value": "死为汝影。"
+    "value": "死亡将如影随形。"
   },
   {
     "op": "replace",

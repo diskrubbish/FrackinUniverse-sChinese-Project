@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Attaches to the forearm. Fires fire blasts.\n^cyan;Fire weapon^reset;",
-    "value": "附在前臂上。发射火焰冲击。\n^cyan;狩猎武器^reset;"
+    "value": "附着于前臂，发射火焰冲击。\n^cyan;火焰武器^reset;"
   },
   {
     "op": "replace",

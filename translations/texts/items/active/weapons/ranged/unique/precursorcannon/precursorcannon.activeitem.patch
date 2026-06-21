@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "The compressed rage of the Precursors.\n^cyan;Charges Up^reset;",
-    "value": "饱含着先驱们的怒火。\n^yellow;可充能^reset;"
+    "value": "先驱们压抑的怒火。\n^cyan;可充能^reset;"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Photon Spread",
-    "value": "散射光子"
+    "value": "光子扩散"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Avoid indoor use.\n^green;Caution: Lava^reset;",
-    "value": "请勿在室内使用。\n^green;小心：岩浆^reset;"
+    "value": "避免在室内使用。\n^green;小心：岩浆^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Mr.Scorchy",
-    "value": "Mr.Scorchy"
+    "value": "斯考奇先生"
   }
 ]

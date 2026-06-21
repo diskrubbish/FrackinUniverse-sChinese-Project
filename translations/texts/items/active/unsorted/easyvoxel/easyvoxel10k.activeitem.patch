@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "10000 pixels compressed into a voxel. Now with easy decompress.",
-    "value": "将10000像素压缩为方块。现在可以轻松解压缩。"
+    "value": "将10000点像素压缩成一个体素。现在支持轻松解压。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "10k Voxel (EZ)",
-    "value": "10k像素块(简易)"
+    "value": "10k 像素块（简易）"
   }
 ]

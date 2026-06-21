@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "A uniquely deadly sniper rifle with super-cooled energy blasts.\n^yellow;Inflicts freezing^reset;",
-    "value": "一把独特的致命狙击步枪，可射出极冻能量。\n^yellow;狩猎武器^reset;;^yellow;附加冻结效果^reset;"
+    "value": "一把独特的致命狙击步枪，发射超低温能量冲击波。\n^yellow;附加冻结效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^cyan;Frostbringer^reset;",
-    "value": "^cyan;冰暴使者^reset;"
+    "value": "^cyan;冰霜使者^reset;"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Freezing death.\n^yellow;Brutal freezing shots^reset;",
-    "value": "死亡之寒。\n^yellow;射出猛烈的冰冻弹药^reset;"
+    "value": "死亡之寒。\n^yellow;冷酷无情的冰封射击^reset;"
   }
 ]

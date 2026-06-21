@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Jagged and not-too-friendly.\n^cyan;Inflicts Poisoned^reset;",
-    "value": "参差不齐，两面三刀。\n^cyan;附加中毒效果^reset;"
+    "value": "棱角分明，不太友善。\n^cyan;附加中毒效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Coral Stingblade",
-    "value": "珊瑚刺针宽剑"
+    "value": "珊瑚刺刃"
   }
 ]

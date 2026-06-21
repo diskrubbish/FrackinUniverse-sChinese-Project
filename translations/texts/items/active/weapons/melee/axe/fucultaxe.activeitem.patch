@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Sturdy iron. Deadly edge.",
-    "value": "用坚固的铁打造而成，非常锋利。"
+    "value": "坚固的铁，致命的锋刃。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Cruel Axe",
-    "value": "残忍的斧头"
+    "value": "残忍之斧"
   }
 ]

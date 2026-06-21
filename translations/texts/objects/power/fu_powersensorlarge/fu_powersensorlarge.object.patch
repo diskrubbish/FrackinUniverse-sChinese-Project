@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A large sensor that displays power levels flowing into it. This one goes up to 9999.",
-    "value": "一个大型电力传感器，可以显示通入的电力。最高显示数值为9999。"
+    "value": "一种显示流入其内部功率水平的大型传感器。这个传感器的量程高达9999。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^cyan;Large Power Sensor^reset;",
-    "value": "^cyan;电力传感器 II^reset;"
+    "value": "^cyan;大型电力传感器 II^reset;"
   }
 ]

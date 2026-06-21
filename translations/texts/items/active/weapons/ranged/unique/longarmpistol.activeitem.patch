@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A shotgun. In a pistol. Definitely fun.",
-    "value": "手枪模样的霰弹枪，真有趣。"
+    "value": "一把霰弹枪。装在手枪里。绝对好玩。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Longarm Pistol",
-    "value": "长臂霰弹手枪"
+    "value": "长管手枪"
   }
 ]

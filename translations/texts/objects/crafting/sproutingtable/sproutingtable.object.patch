@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Extracts useful Genes from Seeds.",
-    "value": "用于从种子中提取基因。"
+    "value": "从种子中提取有用基因。"
   },
   {
     "op": "replace",
@@ -15,42 +15,42 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^cyan;Sprouting Table^reset;",
-    "value": "^cyan;植物分析台^reset;"
+    "value": "^cyan;发芽台^reset;"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A primitive Sprouting Table.",
-    "value": "这个研究基因的设备真原始。"
+    "value": "一个简陋的发芽台。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "Delicious seeds all over this table...",
-    "value": "美味的种子全都在这个台子上..."
+    "value": "这张桌子上撒满了美味的种子..."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Can Floran makess mate on thiss?",
-    "value": "叶族人也想上上上去被研究一下。"
+    "value": "叶族人能在这上面交配吗？"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Identify. A Sprouting Table.",
-    "value": "辨别。 一个植物分析台。"
+    "value": "辨别。一个发芽台。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Some jars on a wooden slab with plants in 'em.",
-    "value": "在这个木板钉成的台子上摆放着一些植物切片和很多瓶子。"
+    "value": "一些放在木板上的罐子，里面种着植物。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "A quaint early type of plant cloning device.",
-    "value": "一种早期的植物基因解析装置。"
+    "value": "一种古朴的早期植物克隆装置。"
   }
 ]

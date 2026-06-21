@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "Only activates when its input node remains live for a set amount of time.",
-    "value": "一个能在设定好的时间过了就会激活的计时器。"
+    "value": "仅当其输入节点保持激活状态达到设定时间时才激活。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Countdown Delay Timer",
-    "value": "倒数激活器"
+    "value": "倒计时延迟定时器"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Only activatesss when itsss input node remainsss live for a ssset amount of time.",
-    "value": "只有到了设设设置的时间，其输入节节节点才会激活。"
+    "value": "仅当其输输输入节点保持激活状态达到设定时时时间时才激活。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Informative. Only activates when its input node remains live for a set amount of time.",
-    "value": "增长见闻。 一个能在设定好的时间过了就会激活的计时器。"
+    "value": "信息。仅当其输入节点保持激活状态达到设定时间时才激活。"
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Fires clouds of exploding gas.\n^yellow;Extremely loud^reset;\n^green;Massive explosive area^reset;",
-    "value": "射出可引起爆炸的气体。\n^yellow;非常响^reset;\n^green;大范围的爆炸^reset;"
+    "value": "喷射出爆炸性的气体云团。\n^yellow;声音极大^reset;\n^green;大规模爆炸区域^reset;"
   },
   {
     "op": "replace",

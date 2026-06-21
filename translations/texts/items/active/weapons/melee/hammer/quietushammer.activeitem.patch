@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A solid, dangerous weapon for a true warrior.\n^cyan;Inflicts Poisoned^reset;",
-    "value": "为真正勇士所用的坚固而危险的武器，\n^cyan;附加中毒效果^reset;"
+    "value": "一件坚实而危险的武器，专为真正的战士所铸。\n^cyan;附加中毒效果^reset;"
   },
   {
     "op": "replace",

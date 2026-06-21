@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "Hot and melty blade.\n^cyan;Inflicts Napalm^reset;",
-    "value": "极其炎热的熔化剑刃。\n^cyan;附加凝固效果^reset;"
+    "value": "炽热熔融的刀刃。\n^cyan;施加凝固汽油效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Pyreite Broadsword",
-    "value": "永燃宽剑"
+    "value": "永燃阔剑"
   },
   {
     "op": "replace",

@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/description",
     "raw": "^#a5ff00;Infused with strange energies, this alien weapon radiates menace.^reset;",
-    "value": "^#a5ff00;充斥着奇异的能量，这把外星武器辐射出威胁。^reset;"
+    "value": "^#a5ff00;这把异域武器蕴含着奇异能量，散发出威胁的气息。^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^#a5ff00;Disruptor Rifle^reset;",
-    "value": "^#a5ff00;干扰步枪^reset;"
+    "value": "^#a5ff00;破坏者步枪^reset;"
   },
   {
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Unfocused Blast",
-    "value": "失焦冲击"
+    "value": "无定向爆破"
   }
 ]

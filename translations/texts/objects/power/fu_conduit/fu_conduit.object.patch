@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Transmits power. Use with care. ^blue;Upper Input^reset;: On/Off Switch. You may need ^cyan;Watchers^reset; to keep distant stations running.",
-    "value": "传输电力。小心使用。 ^blue;上方输入^reset;：电力开关。 你也许需要 ^cyan;观察器^reset; 来在你远离它时保持运行。"
+    "value": "传递电力，请谨慎使用。\n^blue;上方输入^reset;：电源。\n你可能需要^cyan;观察器^reset;来维持远程站点的运行。"
   },
   {
     "op": "replace",

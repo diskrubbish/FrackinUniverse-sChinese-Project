@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Performs basic research on items.\n^cyan;Research Rate^reset;: 5%, 2s",
-    "value": "对物品执行基本的研究。\n^cyan;研究效率^reset;: 5%, 2s"
+    "value": "对物品进行基础研究。\n^cyan;研究效率^reset;：5%，2秒"
   },
   {
     "op": "replace",

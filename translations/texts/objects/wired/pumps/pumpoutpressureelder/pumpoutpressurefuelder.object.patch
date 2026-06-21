@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "^cyan;Blue - connect to Liquid Pump^reset;. This output pressurizes liquid it releases.",
-    "value": "^cyan;蓝色端——连接至液体泵^reset;。对输出的液体加压。"
+    "value": "^cyan;蓝色节点 - 连接至液体泵^reset;\n该输出装置对其释放的液体进行加压。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Elder Pressurized Output",
-    "value": "远古增压输出泵"
+    "value": "远古增压输出"
   }
 ]

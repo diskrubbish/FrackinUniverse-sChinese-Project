@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "Powered by cosmic dust.\n^cyan;Inflicts Minor Vulnerability^reset;",
-    "value": "由宇宙尘埃提供能源。\n^cyan;附加错调瑕疵效果^reset;"
+    "value": "源自宇宙尘埃的力量。\n^cyan;附加错调瑕疵效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Cosmic Broadsword",
-    "value": "赛斯瑞晶宽剑"
+    "value": "宇宙阔剑"
   },
   {
     "op": "replace",

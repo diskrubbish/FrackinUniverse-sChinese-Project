@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Don't use your finger! This trusty sensor indicates the presence of liquids.",
-    "value": "不要用你的手指测试它！这个传感器检测液体的存在。"
+    "value": "别用手指啦！这个可靠的传感器能指示液体的存在。"
   },
   {
     "op": "replace",
@@ -15,12 +15,12 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Don't use your finger! This ssensor indicatesss the presence of liquidss.",
-    "value": "不要用你的手指测试它！这个传感器检测液体的存在。"
+    "value": "别用手手手指了！这个可靠的传感器能指示液体的存在。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Impressed. This trusty sensor indicates the presence of liquids.",
-    "value": "印象深刻。 这种可靠的传感器用于监测液体的存在。"
+    "value": "难忘。该装置可以检测特定液体的存在。"
   }
 ]

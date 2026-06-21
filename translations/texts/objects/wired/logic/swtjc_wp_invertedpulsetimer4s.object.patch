@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "Stops transmitting signals for 4 seconds whenever it becomes active.",
-    "value": "当激活时会让脉冲信号中断4s。"
+    "value": "每当激活时，停止传输信号4秒。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Inv. 4-Sec. Pulse Transmitter",
-    "value": "反脉冲发射器(4s)"
+    "value": "4秒反相脉冲发射器"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Stopsss transssmitting sssignalsss for 4 sssecondsss whenever it becomesss active.",
-    "value": "当激活时会让脉冲信信信号中断4s。"
+    "value": "每当激活时时时，停止传输输输信号4秒。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Observation. Stops transmitting signals for 4 seconds whenever it becomes active.",
-    "value": "观察。 当激活时会让脉冲信号中断4s。"
+    "value": "观察。每当激活时，停止传输信号4秒。"
   }
 ]

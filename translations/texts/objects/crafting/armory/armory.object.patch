@@ -45,13 +45,13 @@
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Basic weapons and armor.",
-    "value": " ^#dddddd;基础武器和装甲。"
+    "value": " ^#dddddd;基础武器和护甲。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "raw": "Even more advanced gear.",
-    "value": "可制造更先进的装备。"
+    "value": "更先进的装备。"
   },
   {
     "op": "replace",
@@ -81,13 +81,13 @@
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Intermediate weapons and armor.",
-    "value": " ^#dddddd;中级武器和装甲。"
+    "value": " ^#dddddd;中级武器和护甲。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "raw": "The best weapons and armor.",
-    "value": "制作最好的武器与护甲。"
+    "value": "最好的武器和护甲。"
   },
   {
     "op": "replace",

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Literally a rock tied to a stick. Design by Dagnez",
-    "value": "说白了就是在一根棍子上绑上一块石头。由Dagnez设计。"
+    "value": "字面意思就是一块石头绑在棍子上。由Dagnez设计。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Stone Club",
-    "value": "石制钉头锤"
+    "value": "石棍"
   }
 ]

@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "Call in a devastating missile strike. Obliterates tiles.\n^cyan;Alt-fire increases damage^reset;",
-    "value": "从你的飞船上呼叫一轮毁灭性的导弹突袭，对目标进行地毯式的打击。\n^yellow;可破坏物块^reset;\n^yellow;次要攻击会增加伤害^reset;\n^red;只适合在室外环境使用^reset;"
+    "value": "发动毁灭性的导弹打击。可摧毁物块。\n^cyan;次要攻击：增伤^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Volatile Missile Salvo",
-    "value": "不稳定性导弹齐射导引器"
+    "value": "不稳定导弹齐射"
   },
   {
     "op": "replace",

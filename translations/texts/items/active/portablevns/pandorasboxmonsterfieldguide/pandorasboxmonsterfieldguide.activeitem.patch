@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "^green;[Arrow Keys] - Navigate options, [Space or Enter] - Select options^reset;",
-    "value": "^green;[箭头键]-导航选项，[空格或回车]-选择选项"
+    "value": "^green;[方向键] - 导航选项，[空格键或回车键] - 选择选项^reset;"
   },
   {
     "op": "replace",

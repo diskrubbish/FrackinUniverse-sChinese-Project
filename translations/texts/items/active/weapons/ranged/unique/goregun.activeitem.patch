@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/description",
     "raw": "A repulsive weapon that spews putrid blood. Awesome.\n^yellow;Alt shoots vomit! Fun!^reset;",
-    "value": "一把令人作呕的武器，真好玩！\n^yellow;射出恶心的弹药，好有趣！^reset;"
+    "value": "一把令人作呕的武器，喷溅着腐臭的血液。真是绝了。\n^yellow;次要攻击：呕吐喷射！真有趣！^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Gore Gun",
-    "value": "淤血枪"
+    "value": "血腥枪"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters2/description",
     "raw": "Absolutely -spews- gore.",
-    "value": "绝对是在“喷血”。"
+    "value": "绝对 - 喷溅 - 血腥。"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters2/shortdescription",
     "raw": "Ol' Pukey",
-    "value": "老普吉"
+    "value": "老吐爷"
   }
 ]

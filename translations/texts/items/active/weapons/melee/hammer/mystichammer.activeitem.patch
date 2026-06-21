@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "So mystic.",
-    "value": "太神秘了..."
+    "value": "太神秘了...\n^red;造成物理伤害^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Mystichammer\n^red;Deals Physical Damage^reset;",
-    "value": "神必大锤\n^red;造成物理伤害^reset;"
+    "value": "神必大锤"
   }
 ]

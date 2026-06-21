@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Hungry for bones to smash and color.\n^yellow;Counts as 'energy' for set bonuses^reset;",
-    "value": "这把多彩的武器渴望粉碎敌人的骨头。\n^yellow;能量武器^reset;"
+    "value": "渴望粉碎骨头并上色。\n^yellow;能量武器^reset;"
   },
   {
     "op": "replace",

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Fires a spread that's lethal at close and mid range.",
-    "value": "这把武器在近距离时的使用效果最好。"
+    "value": "发射的弹幕在近距离和中距离范围内具有致命性。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "NPC Shotgun",
-    "value": "NPC的霰弹枪"
+    "value": "NPC霰弹枪"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Horribly poisonous barbs just aching to enter your foes.\n^yellow;Inflicts Poisoned^reset;",
-    "value": "可怕的有毒倒钩正渴望着刺痛你的敌人。\n^cyan;附加中毒效果^reset;"
+    "value": "剧毒无比的倒刺，正渴望刺入敌人的血肉之中。\n^yellow;附加中毒效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^#5aff00;Toxic Needler^reset;",
-    "value": "^#5aff00;毒刺风暴^reset;"
+    "value": "^#5aff00;毒素穿刺者^reset;"
   }
 ]

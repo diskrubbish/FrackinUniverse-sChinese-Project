@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A shotgun custom-tailored to spread like crazy and look great doing it.",
-    "value": "这把定制的霰弹枪射起来肯定很棒！"
+    "value": "一把专为疯狂扩散而定制、且在此过程中尽显风采的霰弹枪。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Longarm Shotgun",
-    "value": "长臂霰弹枪"
+    "value": "长管霰弹枪"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "For when you need to quickly lob multiple grenades the extra distance.",
-    "value": "当你需要远距离使某种东西爆炸时的最佳选择。"
+    "value": "当您需要快速将多枚手榴弹投掷到更远距离时的选择。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "NPC Multi-Grenade Launcher",
-    "value": "NPC的榴弹发射器"
+    "value": "NPC榴弹发射器"
   }
 ]

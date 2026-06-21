@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Unsurpassed in its weapon class.\n^yellow;Utterly eradicates tiles^reset;",
-    "value": "无与伦比的武器。\n^yellow;可彻底地消灭物块^reset;"
+    "value": "在其武器类别中无与伦比。\n^yellow;彻底地清除物块^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Hyperion Particle Cannon",
-    "value": "海伯利安粒子炮"
+    "value": "亥伯龙粒子炮"
   }
 ]

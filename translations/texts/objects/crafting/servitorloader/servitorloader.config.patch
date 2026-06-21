@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/gui/scanButton/caption",
     "raw": "Load Servitor",
-    "value": "装入"
+    "value": "装入“侍者”"
   },
   {
     "op": "replace",
     "path": "/gui/lblText/value",
     "raw": "^#b9b5b2;Place Servitor in the left slot.",
-    "value": "^#b9b5b2;请将机器人放入左侧格子中"
+    "value": "^#b9b5b2;请将“侍者”放入左侧格子中。"
   }
 ]

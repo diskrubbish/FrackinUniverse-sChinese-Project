@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A truly unique weapon!\n^yellow;Incapacitate enemies^reset;\n^green;Redirect in zero-g^reset;",
-    "value": "一把真正独一无二的武器！\n^yellow;敌人将毫无还手之力^reset;\n^green;将重力归零^reset;"
+    "value": "一件真正独一无二的武器！\n^yellow;使敌人丧失行动能力^reset;\n^green;将重力归零^reset;"
   },
   {
     "op": "replace",

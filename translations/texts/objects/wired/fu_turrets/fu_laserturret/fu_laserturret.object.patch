@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Base Damage: 0.8\nFire Rate: 0.1\nEnergy per Shot: 3\nRange: Mid",
-    "value": "基础伤害: 0,8\n射速: 0.1\n每击能量消耗: 3\n范围: 中等"
+    "value": "基础伤害：0.8\n射速：0.1\n每发能量消耗：3\n射程：中"
   },
   {
     "op": "replace",
@@ -27,36 +27,36 @@
     "op": "replace",
     "path": "/avianDescription",
     "raw": "The monsters don't stand a chance, unless they can fly.",
-    "value": "除非怪物可以飞，要不然它跑不掉。"
+    "value": "怪物们根本没有可乘之机，除非它们能飞。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Effective againssst living thingsss.",
-    "value": "可以有效效效对抗生物。"
+    "value": "用来对对对付活物物物很有效。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Cautious. Must not disrupt my brother in his vigilance.",
-    "value": "小心翼翼。 不要打扰它，我的兄弟正在放哨。"
+    "value": "小心。一定不要在我哥们警惕的时候打扰它。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "An automated security system.",
-    "value": "这是自动化安全系统。"
+    "value": "一个自动化的安保系统。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Looks like a turret of some sort.",
-    "value": "看上去像炮塔？"
+    "value": "看起来像是某种类型的炮塔。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Looks like this thing sure could do some damage!",
-    "value": "这个东西应该是攻击类武器！"
+    "value": "看起来这玩意肯定会造成一些伤害！"
   }
 ]

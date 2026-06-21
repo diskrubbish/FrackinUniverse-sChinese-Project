@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A classy and deadly-looking weapon.\n^green;Inflicts Poisoned^reset;",
-    "value": "一把优雅而致命的武器。\n^green;附加中毒效果^reset; "
+    "value": "一件优雅且致命外观的武器。\n^green;附加中毒效果^reset; "
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Gold Sea Scion",
-    "value": "金海嫩芽"
+    "value": "金海之裔"
   }
 ]

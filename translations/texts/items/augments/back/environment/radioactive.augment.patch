@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Provides +10% Radioactive Resist",
-    "value": "^cyan;放射抗性+10^reset;%"
+    "value": "^cyan;辐射抗性+10^reset;%"
   },
   {
     "op": "replace",

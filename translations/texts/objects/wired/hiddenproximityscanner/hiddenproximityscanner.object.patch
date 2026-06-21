@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "Stealthily watch for anything nearby",
-    "value": "偷偷地观察附近的任何东西"
+    "value": "悄悄观察周围的一切"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Hidden Proximity Scanner",
-    "value": "隐藏式近距离扫描仪"
+    "value": "隐藏式近距扫描器"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "It's a proximity device. It'll sense when I get close to it.",
-    "value": "一个近距离扫描器。当我接近它的时候就会被识别出来。"
+    "value": "这是一个近距离感应装置。当我靠近它时，它就会感应到。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "A hidden proximity device. It could trigger something if I'm near.",
-    "value": "隐藏的近程检测装置。如果我在附近，它可能会触发什么。"
+    "value": "一个接近感应装置。当我靠近时，它可能会触发某些东西。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Sssecret eye on the wall. It can ssee!",
-    "value": "墙上有一只秘密的眼睛。它能看见！"
+    "value": "墙上的扫扫扫描眼，正盯着我看呢！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Suspicious. This proximity scanner might be aware of me.",
-    "value": "猜疑。 这个近距离扫描仪可能会注意到我。"
+    "value": "可疑。这个近距离扫描器可能已经察觉到了我的存在。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "A proximity sensor. It can tell when I'm near.",
-    "value": "一个近距离扫描器。能识别出我的距离。"
+    "value": "一个接近传感器。它能感知我何时靠近。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "This scanning device can tell when I'm present.",
-    "value": "这个扫描设备可以判断我是否出现。"
+    "value": "这款扫描设备能感知我的存在。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "A proximity scanner. Is it watching me right now?",
-    "value": "一个近距离扫描器。它正在看着我吗？"
+    "value": "一个近距离扫描仪。它现在正在监视我吗？"
   }
 ]

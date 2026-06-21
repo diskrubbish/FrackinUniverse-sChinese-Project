@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Super Choppy, Super Cute.",
-    "value": "超凶，超可爱。"
+    "value": "超级凶，超级萌。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Cute Greataxe",
-    "value": "可爱的巨斧"
+    "value": "可爱巨斧"
   }
 ]

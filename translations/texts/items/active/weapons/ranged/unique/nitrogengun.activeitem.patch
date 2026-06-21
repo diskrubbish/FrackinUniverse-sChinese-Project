@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Effective in most situations, though somewhat chilling.\n^yellow;Inflicts freezing^reset;",
-    "value": "虽然拿上去有些冰冷，却是一个优秀的武器。\n^cyan;附加冻结效果^reset;"
+    "value": "在大多数情况下有效，尽管有些令人不寒而栗。\n^yellow;附加冻结效果^reset;"
   },
   {
     "op": "replace",

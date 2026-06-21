@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Attaches to the forearm. Fires poison blasts.\n^cyan;Poison weapon^reset;",
-    "value": "附在前臂上。发射毒素冲击。\n^cyan;狩猎武器^reset;"
+    "value": "附着于前臂，发射毒素冲击。\n^cyan;毒素武器^reset;"
   },
   {
     "op": "replace",

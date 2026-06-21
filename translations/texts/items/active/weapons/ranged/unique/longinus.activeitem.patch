@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "High-Calibre. Super fun.\n^cyan;Counts as 'plasma' for set bonuses.^reset;\n^yellow;Counts as Hunting weapon^reset;",
-    "value": "大口径。超级有趣。\n^yellow;视为等离子武器，享受加成效果^reset;\n^yellow;狩猎武器^reset;"
+    "value": "高口径，超有趣。\n^cyan;等离子武器^reset;\n^yellow;狩猎武器^reset;"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Higher Calibre. Super duper fun.\n^cyan;Counts as 'plasma' for set bonuses.^reset;\n^yellow;Counts as Hunting weapon^reset;",
-    "value": "大口径。超级无敌有趣。\n^yellow;视为等离子武器，享受加成效果^reset;\n^yellow;狩猎武器^reset;"
+    "value": "更大口径，超级无敌有趣。\n^cyan;等离子武器^reset;\n^yellow;狩猎武器^reset;"
   }
 ]

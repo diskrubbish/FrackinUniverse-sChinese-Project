@@ -3,6 +3,6 @@
     "op": "replace",
     "path": "/label",
     "raw": "Bio-Ooze. Reduces all resistances except poison and shadow by ^red;60%^reset;. Increases Hunger rate. Resisted by Poison resistance.",
-    "value": "生物软泥。减少除毒素和暗影抗性外其他^red;60^reset;%的抗性。增加饥饿速率。被毒素抗性所抵抗。"
+    "value": "生物软泥。减少除毒素和暗影外的所有抗性^red;60%^reset;。提高饥饿速率。被毒素抗性抵抗。"
   }
 ]

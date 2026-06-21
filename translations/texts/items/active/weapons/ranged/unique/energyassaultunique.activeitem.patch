@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A highly overtuned energy rifle with a plain steel body.\n^yellow;High efficiency^reset;\n^yellow;Counts as 'Energy' for set bonuses^reset;",
-    "value": "一支超高规格的能量步枪，普通钢制枪体。\n^yellow;高效^reset;\n^yellow;能量武器^reset;"
+    "value": "一把高度调校的能量步枪，配有朴素的钢制枪身。\n^yellow;高效^reset;\n^yellow;能量武器^reset;"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "You've gone and made it even better.\n^yellow;High efficiency^reset;",
-    "value": "你把它变得更棒。\n^yellow;高效率^reset;"
+    "value": "你让它变得更棒了。\n^yellow;高效^reset;"
   }
 ]

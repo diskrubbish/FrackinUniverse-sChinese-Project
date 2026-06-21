@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Attaches to the forearm. Fires plasma bursts.\n^yellow;Counts as 'plasma' for set bonuses^reset;",
-    "value": "附着在前臂上。发射爆裂等离子体。\n^yellow;等离子武器^reset;"
+    "value": "附着于前臂，发射等离子冲击。\n^yellow;等离子武器^reset;"
   },
   {
     "op": "replace",
@@ -21,6 +21,6 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Attaches to the forearm. Fires plasma bursts.\n^yellow;Counts as 'plasma' for set bonuses^reset;",
-    "value": "附着在前臂上。发射爆裂等离子体。\n^yellow;等离子武器^reset;"
+    "value": "附着于前臂，发射等离子冲击。\n^yellow;等离子武器^reset;"
   }
 ]

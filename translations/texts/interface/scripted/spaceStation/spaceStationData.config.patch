@@ -93,7 +93,7 @@
     "op": "replace",
     "path": "/medical/7/4",
     "raw": "50% More Energy, 33% More Energy Regeneration. Hunger Drain increased by 25%. 100% Increased Energy Block Time.",
-    "value": "能量上线提高50%，能量恢复速度提升33%。饥饿速率提高25%。能量重充能时间延长100%。"
+    "value": "能量上限提高50%，能量恢复速度提升33%。饥饿速率提高25%。能量重充能时间延长100%。"
   },
   {
     "op": "replace",
@@ -141,7 +141,7 @@
     "op": "replace",
     "path": "/medical/11/4",
     "raw": "Increases shadow resistance by 50% and grants immunity to shadow status effects, but reduces the overall effectiveness of other resistances (except physical) by 33%.",
-    "value": "增加暗影抗性50%，并对暗影状态效果免疫，但是减少其他其他抗性(除物理)整体效果的33% 。"
+    "value": "提升50%的暗影抗性，并获得对暗影状态效果的免疫，但会降低其他抗性（物理抗性除外）的整体效果33%。"
   },
   {
     "op": "replace",
@@ -153,7 +153,7 @@
     "op": "replace",
     "path": "/medical/12/4",
     "raw": "Increases radiation resistance by 50% and grants immunity to radiation status effects, but reduces the overall effectiveness of other resistances (except physical) by 33%.",
-    "value": "增加辐射抗性50%，并对辐射状态效果免疫，但是减少其他其他抗性(除物理)整体效果的33% 。"
+    "value": "提升50%的辐射抗性，并获得对辐射状态效果的免疫，但会降低其他抗性（物理抗性除外）的整体效果33%。"
   },
   {
     "op": "replace",
@@ -165,7 +165,7 @@
     "op": "replace",
     "path": "/medical/13/4",
     "raw": "Increases poison resistance by 50% and grants immunity to poison status effects, but reduces the overall effectiveness of other resistances (except physical) by 33%.",
-    "value": "增加毒素抗性50%，并对毒素状态效果免疫，但是减少其他其他抗性(除物理)整体效果的33% 。"
+    "value": "提升50%的毒素抗性，并获得对毒素状态效果的免疫，但会降低其他抗性（物理抗性除外）的整体效果33%。"
   },
   {
     "op": "replace",
@@ -177,7 +177,7 @@
     "op": "replace",
     "path": "/medical/14/4",
     "raw": "Increases ice resistance by 50% and grants immunity to ice status effects, but reduces the overall effectiveness of other resistances (except physical) by 33%.",
-    "value": "增加寒气抗性50%，并对寒气状态效果免疫，但是减少其他其他抗性(除物理)整体效果的33% 。"
+    "value": "提升50%的寒气抗性，并获得对寒气状态效果的免疫，但会降低其他抗性（物理抗性除外）的整体效果33%。"
   },
   {
     "op": "replace",
@@ -189,7 +189,7 @@
     "op": "replace",
     "path": "/medical/15/4",
     "raw": "Increases fire resistance by 50% and grants immunity to fire status effects, but reduces the overall effectiveness of other resistances (except physical) by 33%.",
-    "value": "增加火炎抗性50%，并对火炎状态效果免疫，但是减少其他其他抗性(除物理)整体效果的33% 。"
+    "value": "提升50%的火炎抗性，并获得对火炎状态效果的免疫，但会降低其他抗性（物理抗性除外）的整体效果33%。"
   },
   {
     "op": "replace",
@@ -201,7 +201,7 @@
     "op": "replace",
     "path": "/medical/16/4",
     "raw": "Increases electric resistance by 50% and grants immunity to electric status effects, but reduces the overall effectiveness of other resistances (except physical) by 33%.",
-    "value": "增加电系抗性50%，并对电系状态效果免疫，但是减少其他其他抗性(除物理)整体效果的33% 。"
+    "value": "提升50%的电系抗性，并获得对电系状态效果的免疫，但会降低其他抗性（物理抗性除外）的整体效果33%。"
   },
   {
     "op": "replace",
@@ -213,7 +213,7 @@
     "op": "replace",
     "path": "/medical/17/4",
     "raw": "Increases cosmic resistance by 50% and grants immunity to cosmic status effects, but reduces the overall effectiveness of other resistances (except physical) by 33%.",
-    "value": "增加射线抗性50%，并对射线状态效果免疫，但是减少其他抗性(除了物理抗性)整体效果的33% 。"
+    "value": "提升50%的射线抗性，并获得对射线状态效果的免疫，但会降低其他抗性（物理抗性除外）的整体效果33%。"
   },
   {
     "op": "replace",
@@ -225,19 +225,19 @@
     "op": "replace",
     "path": "/military/0/4",
     "raw": "An assassin specialized in shooting stuff from afar.",
-    "value": "一个专门从远处射击的刺客。"
+    "value": "一名擅长远距离射击的刺客。"
   },
   {
     "op": "replace",
     "path": "/military/1/0",
     "raw": "Captain",
-    "value": "船长！"
+    "value": "船长"
   },
   {
     "op": "replace",
     "path": "/military/1/4",
     "raw": "Attacks and defends with a sword and a shield.",
-    "value": "用剑和盾攻击和防御。"
+    "value": "以剑为攻，以盾为守。"
   },
   {
     "op": "replace",
@@ -249,31 +249,31 @@
     "op": "replace",
     "path": "/military/2/4",
     "raw": "A commander who'll fight for you with a badass shotgun, and a nitrogen gun.",
-    "value": "一位手里拿着一把坏蛋散弹枪和一把氮气枪，将会为你而战的指挥官。"
+    "value": "一位指挥官，将手持威力十足的霰弹枪与氮气枪为你而战。"
   },
   {
     "op": "replace",
     "path": "/military/3/0",
     "raw": "^orange;Mercenary",
-    "value": "^green;唯利是图"
+    "value": "^orange;雇佣兵"
   },
   {
     "op": "replace",
     "path": "/military/3/4",
     "raw": "They fight for coin with a wide variety of ranged weapons. Yours, if you can afford their efforts..",
-    "value": "他们使用各种各样的远程武器为你的钱而战，如果你能负担得起他们的努力。"
+    "value": "他们使用各式各样的远程武器为金钱而战。只要你能支付得起，他们便为你效力。"
   },
   {
     "op": "replace",
     "path": "/military/4/0",
     "raw": "^red;Devastator",
-    "value": "^red;大力神"
+    "value": "^red;毁灭者"
   },
   {
     "op": "replace",
     "path": "/military/4/4",
     "raw": "They have a thing for explosions.",
-    "value": "他们特别喜欢爆炸。"
+    "value": "他们对爆炸情有独钟。"
   },
   {
     "op": "replace",
@@ -285,13 +285,13 @@
     "op": "replace",
     "path": "/military/5/4",
     "raw": "There are people in this universe you want on your side. This person, is one of them.",
-    "value": "在这个世界上，你希望有人站在你这边，这个人就是其中之一。"
+    "value": "宇宙之中，有些人你渴望与之并肩。此人，便是其中之一。"
   },
   {
     "op": "replace",
     "path": "/quests/dif0/0/objective",
     "raw": "kill a horde of Hippies",
-    "value": "杀死一群嬉皮士"
+    "value": "消灭一群嬉皮士"
   },
   {
     "op": "replace",
@@ -327,7 +327,7 @@
     "op": "replace",
     "path": "/quests/dif0/2/objective",
     "raw": "defeat a few Moonmen",
-    "value": "击几个月球人"
+    "value": "消灭几个月球人"
   },
   {
     "op": "replace",
@@ -345,7 +345,7 @@
     "op": "replace",
     "path": "/quests/dif1/0/objective",
     "raw": "exterminate a pack of huge spiders",
-    "value": "消灭一群巨大的蜘蛛"
+    "value": "消灭一群巨型蜘蛛"
   },
   {
     "op": "replace",

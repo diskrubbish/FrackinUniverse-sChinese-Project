@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Charge and release radioactive-electric blasts.\n^yellow;Increases damage with charge^reset;",
-    "value": "充能并释放放射性电爆。\n^yellow;随充能提升伤害^reset;"
+    "value": "充能并释放放射性电爆。\n^yellow;蓄力增加伤害^reset;"
   },
   {
     "op": "replace",

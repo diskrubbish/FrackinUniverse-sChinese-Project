@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A small handgun that fires streams of energy at distant targets with pinpoint accuracy, it's only as accurate as the one wielding it.",
-    "value": "拥有非常高的准确度，适用于攻击远处目标，可双持。"
+    "value": "一把小型手枪，能精准地向远处目标发射能量束，其精准度完全取决于持枪者的技艺。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "NPC Beam Pistol",
-    "value": "NPC的光束手枪"
+    "value": "NPC光束手枪"
   }
 ]

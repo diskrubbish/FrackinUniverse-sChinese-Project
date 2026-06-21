@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "This looks uncomfortable to get stabbed by.\n^yellow;4 hit combo^reset;",
-    "value": "看着这把武器就知道被砍到的人会很难受。\n^yellow;4连斩^reset;"
+    "value": "被这个刺中看起来会很不舒服。\n^yellow;4连斩^reset;"
   },
   {
     "op": "replace",

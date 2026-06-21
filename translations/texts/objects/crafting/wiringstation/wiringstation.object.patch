@@ -9,13 +9,13 @@
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " For everything to do with wiring",
-    "value": "做任何有关配线的事"
+    "value": " 关于布线的一切"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "Used to produce complex wiring components.",
-    "value": "用于生产复杂的电路元件。"
+    "value": "用于生产复杂的布线组件。"
   },
   {
     "op": "replace",
@@ -27,42 +27,42 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "I can create equipment to use for wiring here.",
-    "value": "我能在这打造配线用的设备。"
+    "value": "我可以在这里制造用于布线的设备。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "It's a workstation for crafting equipment to use for wiring.",
-    "value": "一个用来打造配线设备的工作站。"
+    "value": "这是一个用于制作布线设备的工作台。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran can make equipment for wiring thingsss.",
-    "value": "叶族人能制作用来装配线线线路的设备。"
+    "value": "叶族人可以制作用于连接各种东西西西的装备。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Pleased. A workstation for creating wiring related equipment. Very handy.",
-    "value": "很高兴。 一个创造配线相关设备的工作站。相当方便。"
+    "value": "高兴。 一个用于制作配线相关设备的工作台。非常方便。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Wiring related equipment can be crafted on this workstation. Neat!",
-    "value": "这个工作站上能制作配线相关的设备。棒！"
+    "value": "在这个工作台上可以制作接线相关设备。真整洁！"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "For wiring tools and accessories, this is the go to workstation.",
-    "value": "制作配线工具及配件，是这个工作站的作用。"
+    "value": "对于接线工具和配件而言，这是首选的工作站。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "A workstation for all things wirin' related.",
-    "value": "一个为了所有与配线有关的东西而存在的工作站。"
+    "value": "一处专为各种接线活儿打造的工作站。"
   }
 ]

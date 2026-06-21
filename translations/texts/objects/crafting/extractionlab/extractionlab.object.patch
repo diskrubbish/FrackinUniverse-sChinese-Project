@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Extracts useful materials from most blocks. ^cyan;Requires ^orange;10J^cyan; per extraction.^reset; Can be placed on floors -or- ceilings.",
-    "value": "从大部分块中提取出有用的材料。\n^cyan;每次萃取需要^orange;10J^reset;电力\n可以放置在地板或天花板上。"
+    "value": "从大多数方块中提取有用材料。\n^cyan;每次萃取需要^orange;10J^cyan;能量^reset;。\n可放置于地板或天花板。"
   },
   {
     "op": "replace",

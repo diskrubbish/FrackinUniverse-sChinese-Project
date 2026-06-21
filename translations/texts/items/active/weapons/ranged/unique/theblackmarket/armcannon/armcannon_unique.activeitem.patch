@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A strange name for such amazeness.\n^yellow;Counts as 'energy' for set bonuses^reset;",
-    "value": "如此神奇的东西竟然有这么奇怪的名字。\n^yellow;能量武器^reset;"
+    "value": "如此惊艳之物，竟有这般奇特之名。\n^yellow;能量武器^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Squelch",
-    "value": "压制"
+    "value": "静噪"
   }
 ]

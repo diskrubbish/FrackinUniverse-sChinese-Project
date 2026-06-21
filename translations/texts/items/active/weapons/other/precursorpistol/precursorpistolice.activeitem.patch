@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Frickin' Freezing!\n^yellow;Freeze enemies with cold^reset;",
-    "value": "这真的太冻了！\n^yellow;冻住敌人，伴随着寒冷^reset;"
+    "value": "冷得要命！\n^yellow;用寒冷冻结敌人^reset;"
   },
   {
     "op": "replace",

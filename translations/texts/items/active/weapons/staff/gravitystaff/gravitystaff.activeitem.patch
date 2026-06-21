@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "^orange;Primary^reset;: Foreground, ^orange;Secondary^reset;: Background.",
-    "value": "^orange;主要攻击^reset;：前景，^orange;次要攻击^reset;：背景"
+    "value": "^orange;主要攻击^reset;：前景\n^orange;次要攻击^reset;：背景"
   },
   {
     "op": "replace",

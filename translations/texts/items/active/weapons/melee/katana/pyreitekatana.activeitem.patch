@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "The heat of magma, mixed with bitter-cold steel.\n^yellow;8 hit combo^reset;\n^cyan;Inflicts Napalm^reset;",
-    "value": "这把武器将岩浆的灼热与钢铁的冰冷混合在一起。\n^yellow;8连斩^reset;\n^cyan;致命凝固汽油弹^reset;"
+    "value": "炽热岩浆，交融着刺骨寒钢。\n^yellow;8连斩^reset;\n^cyan;施加凝固汽油效果^reset;"
   },
   {
     "op": "replace",

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A curious, unique weapon of ancient design.\n^yellow;Inflicts Electrified^reset;\n^green;Incredible knockback^reset;",
-    "value": "一把古怪的、独特的古代设计风格的武器。\n^cyan;附加感电效果^reset;\n^cyan;难以置信的击退^reset;"
+    "value": "一件奇特而独特的古代设计武器。\n^yellow;附加感电效果^reset;\n^green;惊人的击退效果^reset;"
   },
   {
     "op": "replace",

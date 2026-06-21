@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "An egg incubator.",
-    "value": "一个孵化器。"
+    "value": "一台孵蛋器。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "An incubator for eggs.",
-    "value": "一个帮助蛋孵化的设备。"
+    "value": "一台蛋孵化器。"
   },
   {
     "op": "replace",
@@ -27,18 +27,18 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "A box of tassssty.",
-    "value": "里面全是好吃的。"
+    "value": "一盒美味。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Identify. Egg Incubation.",
-    "value": "辨别。 它可以用来孵蛋。"
+    "value": "辨别。孵蛋器。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "An incubator.",
-    "value": "一个孵化器。"
+    "value": "一台孵化器。"
   }
 ]

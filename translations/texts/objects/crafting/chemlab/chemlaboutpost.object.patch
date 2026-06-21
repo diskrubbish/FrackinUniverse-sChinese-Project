@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Play with chemicals. Endless fun.",
-    "value": "合理地使用化学来享受实验的乐趣。"
+    "value": "玩转化学品，乐趣无穷。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/description",
     "raw": "Experiment with chemicals. Super fun.",
-    "value": "可利用物质来进行化学反应。真是太有趣了。"
+    "value": "以实验作舟，游化学海洋。十分的有趣。"
   },
   {
     "op": "replace",
@@ -39,19 +39,19 @@
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblTitle/value",
     "raw": " ^red;UNAUTHORIZED ACCESS DETECTED^reset;",
-    "value": " ^red;已检测到未授权访问^reset;"
+    "value": " ^red;检测到未经授权的访问^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/lblSubTitle/value",
     "raw": " ^#dddddd;Access to terminal disabled.",
-    "value": " ^#dddddd;访问权限未取得。"
+    "value": " ^#dddddd;终端访问已禁用。"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/1/itemSpawnParameters/description",
     "raw": "More advanced experiments. More kaboom.",
-    "value": "更多的实验。更多的欢乐。"
+    "value": "更先进的实验。更猛烈的爆炸。"
   },
   {
     "op": "replace",
@@ -63,7 +63,7 @@
     "op": "replace",
     "path": "/upgradeStages/2/itemSpawnParameters/description",
     "raw": "Superior chemistry and biology experiments.",
-    "value": "最棒的化学与生物的实验设备"
+    "value": "卓越的化学与生物实验。"
   },
   {
     "op": "replace",

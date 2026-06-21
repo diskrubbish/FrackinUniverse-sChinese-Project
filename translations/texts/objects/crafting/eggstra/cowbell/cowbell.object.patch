@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "This bell calls the livestock home.",
-    "value": "这个铃铛是用来叫家畜回家的。"
+    "value": "这口钟召唤着牲畜回家。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "An iron bell. How Pavlovian.",
-    "value": "一个铁制的铃铛，典型的巴普洛夫模式。"
+    "value": "一只铁钟。多么巴甫洛夫式。"
   },
   {
     "op": "replace",
@@ -27,24 +27,24 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Big bell go ding dong!",
-    "value": "这个大铃铛能发出了叮~铛铛铛的声音！"
+    "value": "钟声声声叮咚响！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Informative. This bell signals food.",
-    "value": "增长见闻。 这种信号表示着食物来了。"
+    "value": "信息。这个铃是开饭的信号。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "A dinner bell. Can I ring it? Please!",
-    "value": "晚餐铃？我可以敲响吗？拜托了！"
+    "value": "一只晚餐铃。我能敲一下吗？拜托了！"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "The sound of bells is something most Hylotl have never heard.",
-    "value": "这种铃声作为鲛人的我从未听过。"
+    "value": "钟声是大多数鲛人从未听过的东西。"
   }
 ]

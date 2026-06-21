@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A man-portable machine gun that's bigger and meaner, albeit far less accurate, than your average assault rifle.",
-    "value": "便携式步枪，比普通的突击步枪更大更稳，不过有些不准。"
+    "value": "一款比普通突击步枪更大、更凶猛，但精度远不及后者的便携式机枪。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "NPC Squad Automatic Weapon",
-    "value": "NPC的量产型自动武器"
+    "value": "NPC班用自动武器"
   }
 ]

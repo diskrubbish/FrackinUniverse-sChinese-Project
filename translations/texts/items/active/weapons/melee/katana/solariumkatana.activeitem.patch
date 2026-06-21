@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Cleave with sun power. Two-handed.\n^yellow;10 hit combo^reset;",
-    "value": "用太阳的力量劈砍。双手握持。\n^yellow;10连斩^reset;"
+    "value": "以太阳之力劈斩。双手持握。\n^yellow;10连斩^reset;"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Shock Eruption",
-    "value": "冲击爆发"
+    "value": "震撼喷发"
   }
 ]

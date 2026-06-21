@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A pistol with shrouded origins.\n^yellow;Inflicts frozen-fire^reset;",
-    "value": "来源不明的手枪。\n^cyan;附加霜灼效果^reset;"
+    "value": "一把来历不明的手枪。\n^yellow;附加霜灼效果^reset;"
   },
   {
     "op": "replace",

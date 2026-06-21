@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Penetrating rounds cause devastating wounds.\n^yellow;Inflicts bleeding^reset;",
-    "value": "穿透性子弹，将撕开毁灭性的创伤。\n^cyan;附加出血效果^reset;"
+    "value": "穿透性弹头会造成毁灭性创伤。\n^yellow;附加出血效果^reset;"
   },
   {
     "op": "replace",

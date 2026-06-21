@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "This advanced Sifter efficiently extracts materials from loose or powdery materials. ^cyan;Requires ^orange;40W ^cyan;power.^reset;",
-    "value": "这款先进的筛分机能够高效地从松散或粉末状物料中提取所需材料。\n^cyan;需要^orange;40W^cyan;电力^reset;。"
+    "value": "这款先进的筛分机能够高效地从松散或粉末状材料中提取物料。\n^cyan;需要^orange;40W^cyan;电力^reset;。"
   },
   {
     "op": "replace",

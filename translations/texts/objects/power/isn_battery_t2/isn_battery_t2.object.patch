@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A slightly upgraded form of battery.^truncate; ^red;Scan for Info^reset;\nStorage Capacity: ^green;2500^reset;J",
-    "value": "略微升级的电力储存设备。\n^red;扫描以查看更多信息^reset;\n储存电能：^green;2500^reset;J"
+    "value": "一种略微升级的电池形式。\n^truncate;^red;扫描以查看更多信息^reset;\n存储容量：^green;2500^reset;J"
   },
   {
     "op": "replace",

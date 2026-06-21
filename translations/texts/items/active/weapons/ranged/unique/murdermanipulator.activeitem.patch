@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A repurposed manipulator. This one murders! Yay!\n^cyan;Floran^reset;",
-    "value": "一把“重新利用”的物质枪。极好的凶器！爽！\n^cyan;叶族^reset;"
+    "value": "一把被“重新利用”的物质枪。这个能杀人！耶！\n^cyan;叶族^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Murder Manipulator",
-    "value": "凶杀操纵者"
+    "value": "凶杀物质枪"
   }
 ]

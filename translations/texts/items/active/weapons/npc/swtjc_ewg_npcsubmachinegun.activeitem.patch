@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "The power of an assault rifle in a compact one-handed package. Shame that it isn't anywhere nearly as accurate...",
-    "value": "射速非常快的单手武器，可惜不是很准……"
+    "value": "突击步枪的威力，浓缩于单手可握的尺寸之中。可惜精准度远不及标准型号..."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "NPC Submachine Gun",
-    "value": "NPC的冲锋枪"
+    "value": "NPC冲锋枪"
   }
 ]

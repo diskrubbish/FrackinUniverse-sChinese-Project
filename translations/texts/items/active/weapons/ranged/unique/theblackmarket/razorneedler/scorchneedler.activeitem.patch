@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Blast the enemy with incendiary needles.\n^yellow;Inflicts burning^reset;",
-    "value": "使用燃烧的弹药杀伤敌人！\n^cyan;附加燃烧效果^reset;"
+    "value": "用燃烧针击溃敌人。\n^yellow;附加燃烧效果^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^red;Scorch Needler^reset;",
-    "value": "^red;灼热风暴^reset;"
+    "value": "^red;灼热穿刺者^reset;"
   }
 ]

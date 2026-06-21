@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Slow but devastating. Forbidden in the Helyn Sector.\n^cyan;Counts as plasma weapon for set bonuses^reset;\n^yellow;Extreme explosion^reset;\n^red;Heavy^reset;",
-    "value": "缓慢却致命。在海伦星区被禁止使用。\n^cyan;算作等离子武器，适用于套装加成效果。^reset;\n^yellow;极致的爆炸^reset;\n^red;很沉重^reset;"
+    "value": "缓慢却致命。赫林星域禁止使用。\n^cyan;等离子武器^reset;\n^yellow;极致的爆炸^reset;\n^red;沉重^reset;"
   },
   {
     "op": "replace",

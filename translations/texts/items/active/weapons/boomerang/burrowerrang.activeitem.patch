@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/description",
     "raw": "Ew! Throw it at someone!",
-    "value": "额！扔给某人！"
+    "value": "呃呃！扔给别人去！"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Burrower",
-    "value": "挖掘"
+    "value": "穴居者"
   },
   {
     "op": "replace",
     "path": "/upgradeParameters/shortdescription",
     "raw": "Giant Worm ^yellow;^reset;",
-    "value": "巨型蠕虫^yellow;^reset;"
+    "value": "巨型蠕虫 ^yellow;^reset;"
   }
 ]

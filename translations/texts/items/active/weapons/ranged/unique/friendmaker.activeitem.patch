@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/description",
     "raw": "Enormous damage potential.",
-    "value": "可造成巨大的伤害。"
+    "value": "巨大的破坏潜力。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Friendmaker",
-    "value": "跳跳火箭"
+    "value": "交友大师"
   },
   {
     "op": "replace",
     "path": "/altAbility/name",
     "raw": "Blocker Blast",
-    "value": "拦截阵"
+    "value": "阻断爆破"
   }
 ]

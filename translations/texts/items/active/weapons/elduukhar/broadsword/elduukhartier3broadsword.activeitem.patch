@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "An ornate greatsword crafted from metal and crystal.",
-    "value": "一把由金属和水晶制成的华丽的大剑。"
+    "value": "一把由金属与水晶精心雕琢而成的华丽巨剑。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Feya Broadsword",
-    "value": "菲亚宽剑"
+    "value": "菲亚阔剑"
   }
 ]

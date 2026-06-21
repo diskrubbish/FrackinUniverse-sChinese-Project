@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A dense aura of cold permeates this sword",
-    "value": "某种密集的冰冷气息围绕着这把剑。"
+    "value": "这把剑弥漫着浓郁的寒气。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Frost Blade",
-    "value": "冰霜短剑"
+    "value": "冰霜之刃"
   }
 ]

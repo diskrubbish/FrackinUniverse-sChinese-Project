@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A weird and unique weapon guaranteed to turn heads. And remove them.\n^yellow;Boomerang-blasts, ^cyan;Floran^reset;",
-    "value": "这种怪异的武器会发出类似回旋镖的弹药，正是敌人的噩梦。\n^yellow;回旋弹，^cyan;叶族^reset;"
+    "value": "一件奇特而独特的武器，保证能引人注目，还能让人身首异处。\n^yellow;回旋弹^reset;\n^cyan;叶族^reset;"
   },
   {
     "op": "replace",

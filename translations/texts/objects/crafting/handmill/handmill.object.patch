@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Extracts useful materials from most block types.",
-    "value": "可从绝大部分的块中提取出有用材料。"
+    "value": "从大多数方块中提取有用材料。"
   },
   {
     "op": "replace",
@@ -15,6 +15,6 @@
     "op": "replace",
     "path": "/subtitle",
     "raw": "Block Extractor",
-    "value": "用于提取块"
+    "value": "方块萃取"
   }
 ]

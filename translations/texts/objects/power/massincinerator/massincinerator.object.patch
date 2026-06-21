@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Instantly destroys any item placed within. Great for mass disposal.",
-    "value": "立即销毁放置在其中的任何物品。非常适合大规模处理。"
+    "value": "瞬间销毁放入其中的任何物品，非常适合批量处理。"
   },
   {
     "op": "replace",
@@ -15,36 +15,36 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "Anything going in here is gone forever.",
-    "value": "里面的任何东西都不会回来了。"
+    "value": "任何进入这里的东西都将永远消失。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "I should be careful not to put anything I don't want to lose in here.",
-    "value": "我应该小心使用，我可不想丢掉什么有价值的东西。"
+    "value": "我应该小心，别把任何我不想失去的东西放在这里。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran hate ssstupid can of fire.",
-    "value": "叶族人恨恨恨这个愚蠢可以发出火的罐子。"
+    "value": "叶族人讨厌那个愚蠢的火焰罐。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Content. This should allow me to dispose of anything cleanly.",
-    "value": "满足。 这应该能让我把一切都弄得整洁。"
+    "value": "满足。这应该能让我干净利落地处理掉任何东西。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "What goes in does not come out.",
-    "value": "什么进去了都不会出来。"
+    "value": "有进无出。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "A clean method of disposal. Excellent.",
-    "value": "一种彻底的处置方法。优秀。"
+    "value": "一种干净的处置方式。太棒了。"
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/upgradeStages/-/itemSpawnParameters/description",
     "raw": "There is effectively nothing that this furnace cannot melt down.",
-    "value": "这个熔炉没什么东西不能熔化。"
+    "value": "这台熔炉几乎没有什么是熔化不了的。"
   },
   {
     "op": "replace",
@@ -21,12 +21,12 @@
     "op": "replace",
     "path": "/upgradeStages/-/interactData/paneLayoutOverride/windowtitle/subtitle",
     "raw": " ^#b9b5b2;Bars and ingredients",
-    "value": "^#b9b5b2;矿物块与原料"
+    "value": "^#b9b5b2;矿锭与原料"
   },
   {
     "op": "replace",
     "path": "/slimepersonDescription",
     "raw": "Without the pain of the searing flame, the metal can never realize its potential.",
-    "value": "如果没有烈火焚身的痛苦，金属就永远无法实现它的潜力。"
+    "value": "未经烈火的灼痛，金属永远无法发掘其潜力。"
   }
 ]

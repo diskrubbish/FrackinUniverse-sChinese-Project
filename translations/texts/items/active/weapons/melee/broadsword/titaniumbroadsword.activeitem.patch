@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A large, heavy titanium blade.",
-    "value": "一把庞大的钛制刀刃。"
+    "value": "一把巨大而沉重的钛钢刀刃。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Titanium Broadsword",
-    "value": "钛制宽剑"
+    "value": "钛制阔剑"
   }
 ]

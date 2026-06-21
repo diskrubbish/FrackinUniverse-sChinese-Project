@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Ejects energy beams.\n^yellow;Projects energy beams^reset;",
-    "value": "可射出能量光束。\n^yellow;射出能量光束^reset;"
+    "value": "释放能量光束。\n^yellow;投射能量光束^reset;"
   },
   {
     "op": "replace",

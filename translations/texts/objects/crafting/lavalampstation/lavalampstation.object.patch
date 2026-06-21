@@ -3,37 +3,37 @@
     "op": "replace",
     "path": "/description",
     "raw": "A station for creating different lava lamps.",
-    "value": "制造不同熔岩灯的工作站。"
+    "value": "一个制作各式熔岩灯的工作站。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^orange;The Lamporium^reset;",
-    "value": "^orange;熔岩灯制作站^reset;"
+    "value": "^orange;灯之殿堂^reset;"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A large lava lamp.",
-    "value": "一大盏熔岩灯。"
+    "value": "一盏大型熔岩灯。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "A very large lamp.",
-    "value": "一盏巨大的灯"
+    "value": "一盏巨大的灯。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran likesss pretty lamp.",
-    "value": "叶族人喜喜喜欢这些漂亮的灯。"
+    "value": "叶族人喜喜喜欢漂亮的灯。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Observant. A large lamp.",
-    "value": "善于观察。 一盏大灯。"
+    "value": "观察。一盏大灯。"
   },
   {
     "op": "replace",
@@ -45,12 +45,12 @@
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "This is beautiful to look at.",
-    "value": "这看起来真漂亮。"
+    "value": "这看起来很美。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "This is mighty pretty.",
-    "value": "这可真不错。"
+    "value": "这真是太漂亮了。"
   }
 ]

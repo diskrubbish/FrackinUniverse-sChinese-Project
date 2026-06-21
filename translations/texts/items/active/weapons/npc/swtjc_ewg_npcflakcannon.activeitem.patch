@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "The bane of flocks of space birds throughout the galaxy (among other things).",
-    "value": "银河系中成群的太空鸟类的克星（也包括其他东西）。"
+    "value": "整个银河系中太空鸟群的祸根（以及其他事物）。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "NPC Flak Cannon",
-    "value": "NPC的地对空集束炮"
+    "value": "NPC高射炮"
   }
 ]

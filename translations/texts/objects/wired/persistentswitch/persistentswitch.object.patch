@@ -3,19 +3,19 @@
     "op": "replace",
     "path": "/description",
     "raw": "When the top or bottom nodes are active, the switch turns /'on'/ or /'off'/ respectively.",
-    "value": "当顶部或底部的输入节点激活，这个开关将分别在/ON/或者/OFF/之间切换。"
+    "value": "当顶部或底部节点激活时，开关分别切换到“开启”或“关闭”状态。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "When the top or bottom nodesss are active, the ssswitch turnsss /'on'/ or /'off'/ ressspectively.",
-    "value": "当顶部或底部的输入节节节点激活，这个开开开关将分别在/ON/或者/OFF/之间切切切换。"
+    "value": "当顶部或底部节点激活时，开关分别切切切换到“开启”或“关闭”状态。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Observation. When the top or bottom nodes are active, the switch turns /'on'/ or /'off'/ respectively.",
-    "value": "观察。 当顶部或底部的输入节点激活，这个开关将分别在/ON/或者/OFF/之间切换。"
+    "value": "观察。当顶部或底部节点激活时，开关分别切切切换到“开启”或“关闭”状态。"
   },
   {
     "op": "replace",
