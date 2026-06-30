@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "The most important survivor of Earth.\n^red;-^white;35% ^red;Run^gray;, ^red;Jump ^gray;(^white;125s^gray;)^reset;",
-    "value": "地球的最重要的幸存者。\n^red;-^white;35%^red;速度^gray;和^red;跳跃^gray;(^white;持续125s^gray;)^reset;"
+    "value": "地球上最重要的幸存者。\n^red;-^white;35%^red;速移速^gray;和^red;跳跃^gray;（^white;125秒^gray;）^reset;"
   },
   {
     "op": "replace",

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A thruster used for FTL travel.\n^yellow;Ship Speed: +32\n^cyan;BYOS Only^reset;",
-    "value": ""
+    "value": "一台用于超光速旅行的推进器。 \n^yellow;飞船速度：+32\n^cyan;只限BYOS^reset;"
   },
   {
     "op": "replace",

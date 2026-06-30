@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Effigium Wand",
     "value": "幻影钢魔杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Shadow Blast",
+    "value": ""
   }
 ]

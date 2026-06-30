@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Xithricite Staff",
     "value": "赛斯瑞晶法杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Cosmic Portal",
+    "value": ""
   }
 ]

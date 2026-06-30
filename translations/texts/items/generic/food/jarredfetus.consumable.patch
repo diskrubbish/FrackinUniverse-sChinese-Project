@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A fetus, too early in development to determine species without research. ^blue;Madness Gain^reset; 3 ^red;Type: Raw Meat^reset;",
-    "value": "一个胚胎，发育尚未到达能够确定物种的阶段。\n^blue;疯癫获取量^reset;：3\n^red;类型：生肉食^reset;"
+    "value": "一个发育尚早的胎儿，若不进行研究，尚无法确定其物种。\n^blue;疯癫获取量^reset;：3\n^red;类型：生肉食^reset;"
   },
   {
     "op": "replace",

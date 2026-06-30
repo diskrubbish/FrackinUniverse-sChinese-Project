@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "These leeches, placed in the ear, cure insanity and madness.\n^red;-^white;5% ^red;HP ^gray;(^white;2m^gray;)\n^cyan;-^white;80% ^cyan;Risk of Madness Effects^reset;",
-    "value": "把这些水蛭放在耳朵里，能治疗精神错乱和疯狂。\n^red;-^white;5% ^red;HP^gray;(^white;持续2m^gray;)\n^cyan;-^white;80%^cyan;疯癫带来的风险"
+    "value": "将这些水蛭置于耳中，可治愈癫狂与疯病。\n^red;-^white;5%^red;生命值上限^gray;（^white;2分钟^gray;）\n^cyan;-^white;80%^cyan;疯癫效应的风险^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Sanity Leech",
-    "value": "理智吸血鬼"
+    "value": "理智汲取虫"
   }
 ]

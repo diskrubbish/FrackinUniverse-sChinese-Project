@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Lunari Staff",
     "value": "月晶法杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Ice Swarm",
+    "value": ""
   }
 ]

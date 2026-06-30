@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Corrupt Wand",
     "value": "腐化魔杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Poison Blast",
+    "value": ""
   }
 ]

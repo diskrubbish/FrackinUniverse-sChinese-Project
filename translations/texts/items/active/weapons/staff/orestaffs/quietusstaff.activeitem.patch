@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Quietus Staff",
     "value": "寂灭法杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Blood Blade",
+    "value": ""
   }
 ]

@@ -13,6 +13,12 @@
   },
   {
     "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Gravity Siphon (F)",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/altAbility/name",
     "raw": "Gravity Siphon (R)",
     "value": "重力虹吸（R）"

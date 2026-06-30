@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Quietus Wand",
     "value": "寂灭魔杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Blood Barrage",
+    "value": ""
   }
 ]

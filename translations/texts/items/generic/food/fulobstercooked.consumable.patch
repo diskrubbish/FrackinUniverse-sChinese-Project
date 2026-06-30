@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Delicious aquatic horror. ^orange;Type: Cooked Seafood^reset;",
-    "value": "美味而吓人的水产。\n^green;类型: 熟海鲜^reset;"
+    "value": "美味的水生恐怖。\n^orange;类型: 熟海鲜^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Cooked Lobster",
-    "value": "熟龙虾"
+    "value": "煮熟的龙虾"
   }
 ]

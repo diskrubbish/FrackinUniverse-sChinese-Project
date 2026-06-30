@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "When scientists call it 'soup' they're being metaphorical, amino acids aren't food.\n^green;Regeneration^reset; ^gray;(^white;60s^gray;)^reset;\n^red;-^white;10%^red; HP^reset; ^gray;(^white;60s^gray;)^reset;",
-    "value": "当科学家称它为“汤”时，他们是在比喻，氨基酸不是食物。\n^green;再生^reset; ^gray;(^white;60s^gray;)^reset;\n^red;-^white;10%^red; HP^reset; ^gray;(^white;60s^gray;)^reset;"
+    "value": "当科学家称之为“汤”时，这是一种比喻，氨基酸并非食物。\n^green;恢复^reset; ^gray;（^white;60秒^gray;）^reset;\n^red;-^white;10%^red;生命值上限^reset;^gray;（^white;60秒^gray;）^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Warmed Organic Soup",
-    "value": "暖暖有机汤"
+    "value": "温润有机汤"
   }
 ]

@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Staff of Madness",
     "value": "疯狂之杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Elder Portal",
+    "value": ""
   }
 ]

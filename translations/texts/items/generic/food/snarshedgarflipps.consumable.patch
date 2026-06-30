@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A reality-challenging flavor. Is it meat? Is it fruit? Is it bike? It's all three\n^cyan;-^white;5% ^cyan;HP ^gray;(^white;70s^gray;)\n^cyan;-^white;60% ^cyan;Risk of Madness Effects^reset;",
-    "value": "毁灭现实的味道。是肉？是水果？是单车？这玩意啥都是。\n^cyan;-^white;5%^cyan;HP^gray;(^white;持续70s^gray;)\n^cyan;-^white;60%^cyan;疯癫带来的风险"
+    "value": "一种挑战现实的味道。是肉吗？是水果吗？是自行车吗？三者皆是。\n^cyan;+^white;5%^cyan;生命值上限^gray;（^white;70秒^gray;）\n^cyan;-^white;60%^cyan;疯癫效应的风险^reset; "
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Snarshed Garflipp",
-    "value": "啥都是加布林"
+    "value": "撕裂加布林"
   }
 ]

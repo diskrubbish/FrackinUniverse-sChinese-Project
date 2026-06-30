@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Not recommended for carbon-based lifeforms.\n^cyan;+^white;10% ^cyan;HP ^gray;(^white;45s^gray;)^reset;",
-    "value": "不推荐碳基生物食用。\n^cyan;+^white;10%^cyan;HP^gray;(^white;持续45s^gray;)^reset;"
+    "value": "不建议碳基生命体食用。\n^cyan;+^white;10%^cyan;生命值上限^gray;（^white;45秒^gray;）^reset;"
   },
   {
     "op": "replace",

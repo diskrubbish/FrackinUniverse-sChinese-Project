@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Crystalshard Staff",
     "value": "水晶碎片法杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Crystal Blade",
+    "value": "水晶长剑"
   }
 ]

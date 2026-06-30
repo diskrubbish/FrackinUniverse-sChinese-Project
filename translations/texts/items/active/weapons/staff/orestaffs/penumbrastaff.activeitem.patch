@@ -13,6 +13,12 @@
   },
   {
     "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Shadow Swarm",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/altAbility/name",
     "raw": "Shadow Rain",
     "value": "暗影之雨"

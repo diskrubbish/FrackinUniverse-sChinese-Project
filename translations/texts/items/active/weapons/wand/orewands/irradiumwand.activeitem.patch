@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Irradium Wand",
     "value": "铱射钢魔杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Radioactive Bouncer",
+    "value": ""
   }
 ]

@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Xithricite Wand",
     "value": "赛斯瑞晶魔杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Cosmic Blast",
+    "value": "宇宙冲击波"
   }
 ]

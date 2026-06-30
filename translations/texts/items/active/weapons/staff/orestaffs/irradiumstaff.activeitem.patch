@@ -13,6 +13,12 @@
   },
   {
     "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Radioactive Swarm",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/altAbility/name",
     "raw": "Radioactive Portal",
     "value": "放射性传送门"

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Not healthy, but useful. \n^yellow;Item Magnet II^reset; (400s)",
-    "value": "不健康，但是好用。\n^yellow;吸引物品 II^reset;（400秒）"
+    "value": "不健康，但有用。\n^yellow;物品磁铁 II^reset;（400秒）"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Chewable Magnet",
-    "value": "咀嚼磁石"
+    "value": "可嚼磁石"
   }
 ]

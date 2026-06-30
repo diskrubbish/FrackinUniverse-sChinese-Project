@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A confectionary made of cinnamon, sugar, and dough. ^green;Type: Grain Dessert^reset;",
-    "value": "一种由肉桂、糖、面团制成的蜜饯。\n类型:^green; 谷物甜食"
+    "value": "一种由肉桂、糖和面团制成的甜点。\n^green;类型：谷物甜食^reset;"
   },
   {
     "op": "replace",

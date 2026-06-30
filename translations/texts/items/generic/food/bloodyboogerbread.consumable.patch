@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Whose twisted idea was this?! Revolting! \n60^red;s -^reset;15^red;% Health^reset; \n^blue;Madness Gain^reset; 2",
-    "value": "这是谁的馊主意？恶心！ \n60秒内^red;-^reset;15^red;%生命值^reset;\n^blue;疯癫获取量^reset;：2"
+    "value": "这是谁出的馊主意？恶心！\n60秒内^red;-^reset;15^red;%生命值上限^reset;\n^blue;疯癫获取量^reset;：2"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Bloody Boogerbread",
-    "value": "血腥鼻涕包"
+    "value": "血腥怪味鼻涕包"
   }
 ]

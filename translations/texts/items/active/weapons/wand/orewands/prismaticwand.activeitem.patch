@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Prismatic Wand",
     "value": "棱镜魔杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Crystal Barrage",
+    "value": ""
   }
 ]

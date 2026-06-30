@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A cream-filled moon cake. ^orange;Type: Grain + Dairy + Eggs + Sugar^reset;",
-    "value": "一个奶油月饼。\n ^orange;类型：谷物 + 蛋奶 + 甜食^reset;"
+    "value": "一块奶油夹心月饼。\n^orange;类型：谷物 + 蛋奶 + 甜食^reset;"
   },
   {
     "op": "replace",

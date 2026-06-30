@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Fries with a fermented gravy, adorned with bacon. What a crappy meal. ^red;-^reset;5^red;% Health ^reset; ^blue;Madness Gain^reset; 2 ^orange;Type: Cooked Meat + Vegetables^reset;",
-    "value": "薯条配上发酵的肉汁，装饰着培根。多么蹩脚的一顿饭。\n^red;-^reset;5^red;%生命值^reset;\n^blue;疯癫获取量^reset;：2\n^orange;类型：熟肉食 + 蔬菜^reset;"
+    "value": "薯条配发酵肉汁，再点缀些培根。真是糟糕的一餐。\n^red;-^reset;5^red;%生命值上限^reset;\n^blue;疯癫获取量^reset;：2\n^orange;类型：熟肉食 + 蔬菜^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Sewer Fries with Bacon",
-    "value": "培根配废拉薯条"
+    "value": "下水道薯条配培根"
   }
 ]

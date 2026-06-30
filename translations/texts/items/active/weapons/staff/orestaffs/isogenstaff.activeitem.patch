@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Isogen Staff",
     "value": "寒霜法杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Freezing Rain",
+    "value": ""
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A meaty, mysterious menagerie of eyes and oculemon. ^cyan;+^reset;10^green;% Energy^reset;^red; Poisoned^reset; 10s^reset; ^blue;Madness Gain^reset; 3 ^green;Type: Meaty Plant^reset;",
-    "value": "肉肉的，神秘的眼珠子和眼球果。 \n^cyan;+^reset;10%^green; 能量^reset;\n^red; 中毒^reset;10秒^reset;\n^blue;疯癫获取量^reset;：3\n^green;类型：肉菜^reset;"
+    "value": "一盆丰富而神秘的，装满眼球与眼球菜的兽肉大杂烩。\n^cyan;+^reset;10%^green; 能量上限^reset;\n^red; 中毒^reset;10秒^reset;\n^blue;疯癫获取量^reset;：3\n^green;类型：肉菜^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Ocular Oobleck",
-    "value": "熘眼珠子"
+    "value": "眼珠糊糊菜"
   }
 ]

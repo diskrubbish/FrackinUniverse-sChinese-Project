@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Nuclear Wand",
     "value": "核素魔杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Radioactive Blast",
+    "value": "辐射爆裂"
   }
 ]

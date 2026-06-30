@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Almost like bread, but it tastes sort of odd.\n^cyan;+^white;20% ^cyan;HP ^gray;(^white;100s^gray;)^reset; \n^green;Type: Grain^reset;",
-    "value": "看上去很像普通的面包，但是吃起来味道很怪。\n^cyan;+^white;20%^cyan;HP ^gray;(^white;持续100s^gray;)^reset;\n^green;类型：谷物^reset;"
+    "value": "几乎像面包，但味道有点怪。\n^cyan;+^white;20%^cyan;生命值上限^gray;（^white;100秒^gray;）^reset;\n^green;类型：谷物^reset;"
   },
   {
     "op": "replace",

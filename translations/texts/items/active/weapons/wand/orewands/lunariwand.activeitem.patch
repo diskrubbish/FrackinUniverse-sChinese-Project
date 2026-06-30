@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Lunari Wand",
     "value": "月晶魔杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Ice Orb",
+    "value": ""
   }
 ]

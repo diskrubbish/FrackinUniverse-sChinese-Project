@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Penumbra Wand",
     "value": "半影魔杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Shadow Orb",
+    "value": ""
   }
 ]

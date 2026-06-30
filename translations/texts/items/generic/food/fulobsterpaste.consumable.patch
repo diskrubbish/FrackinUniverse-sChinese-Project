@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Mashed and reconstituted lobster... stuff. ^orange;Type: Cooked Seafood^reset;",
-    "value": "捣碎的、重新组合的龙虾...之类的东西。\n^orange;类型：熟海鲜^reset;"
+    "value": "捣碎并重组后的龙虾...菜品。\n^orange;类型：熟海鲜^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Lobster Paste",
-    "value": "虾酱"
+    "value": "龙虾酱"
   }
 ]

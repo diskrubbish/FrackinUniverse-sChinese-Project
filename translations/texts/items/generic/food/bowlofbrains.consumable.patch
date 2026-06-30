@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Looks like a nice, wholesome bowl of mashed brains matter. \n^blue;Madness Gain^reset; 2\n^red;Type: Raw Meat^reset;",
-    "value": "看起来就像一碗美味的脑浆。\n^blue;疯癫获取量^reset;：2\n^red;类型：生肉食^reset;"
+    "value": "看起来像是一碗美味又健康的脑浆糊。\n^blue;疯癫获取量^reset;：2\n^red;类型：生肉食^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Bowl o' Brains",
-    "value": "脑花杯"
+    "value": "一碗脑花"
   }
 ]

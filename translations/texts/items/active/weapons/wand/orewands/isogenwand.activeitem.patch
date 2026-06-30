@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Isogen Wand",
     "value": "寒霜魔杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Ice Blast",
+    "value": ""
   }
 ]

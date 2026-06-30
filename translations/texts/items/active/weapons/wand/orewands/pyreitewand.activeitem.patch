@@ -10,5 +10,11 @@
     "path": "/shortdescription",
     "raw": "Pyreite Wand",
     "value": "永燃魔杖"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/name",
+    "raw": "Fire Blast",
+    "value": ""
   }
 ]

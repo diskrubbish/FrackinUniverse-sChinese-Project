@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Improved carnivore slew. Not for sapient ingestion. You'll get sick.\n^red;-^white;5% ^red;HP^gray;, ^red;Poisoned ^gray;(^white;1m^gray;)^reset;",
-    "value": "改良了肉糜的品质，千万别吃，否则会得病。\n^red;-^white;5% ^red;HP^gray;，^red;中毒^gray;(^white;持续1m^gray;)^reset;"
+    "value": "改良过的肉糜，不宜智慧生物食用。你吃了会生病。\n^red;-^white;5%^red;生命值上限^gray;，^red;中毒^gray;（^white;1分钟^gray;）^reset;"
   },
   {
     "op": "replace",

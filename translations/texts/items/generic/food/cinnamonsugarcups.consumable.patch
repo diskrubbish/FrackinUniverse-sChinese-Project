@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Good with a cup of coffee! \n^cyan;+^reset;15%^green; HP^reset; \n^orange;Type: Grain Dairy Dessert^reset;",
-    "value": "和咖啡更配！\n^cyan;+^reset;15%^green; HP^reset;\n类型:^green; 谷物蛋奶甜食"
+    "value": "配上一杯咖啡，绝佳！\n^cyan;+^reset;15%^green;生命值上限^reset;\n^orange;类型：谷物蛋奶甜食^reset;"
   },
   {
     "op": "replace",

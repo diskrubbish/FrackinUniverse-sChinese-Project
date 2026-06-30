@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Delicious donut. ^orange;Type: Grain + Dairy + Eggs + Sugar^reset;",
-    "value": "美味的甜甜圈。\n^green;类型：谷物 + 蛋奶^reset;"
+    "value": "美味的甜甜圈。\n^orange;类型：谷物 + 蛋奶^reset;"
   },
   {
     "op": "replace",
