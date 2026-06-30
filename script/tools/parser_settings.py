@@ -61,7 +61,7 @@ foi = {
     ".augment": [".*/displayName$"],
     ".consumable": [],
     ".coinitem": [],
-    ".activeitem": ["^altAbility/name$"],
+    ".activeitem": ["^altAbility/name$","primaryAbility/name$"],
     ".namesource": ["^sourceNames/[0-9]+$"],
     ".particle": [],
     ".damage": [],
@@ -74,6 +74,7 @@ foi = {
     ".radiomessages": [],
     ".bush": [],
     ".grass": [],
+    ".combofinisher": ["comboFinisher/name"],
     ".monstertype": ["^(.+/)?dialog/.+$"],
     #".monsterskill": ["^label$"],
     ".aimission": [".*Text$"],
@@ -105,6 +106,7 @@ foi = {
     "kukagps/weather.config": [".*"],
     "buildsaplingfu.config":["^(foliage|stem)/.+$"],
     "beeData.config":["stats/.*/[0-9]+/name$"]
+    
 }
 files_of_interest = dict()
 for ext, poi in foi.items():
