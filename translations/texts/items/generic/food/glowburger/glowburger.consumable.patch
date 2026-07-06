@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A glowing hamburger with some violiroot and phasefruit inside.\n^cyan;+^#ffd700;20% ^cyan;HP ^gray;& ^cyan;EP ^gray;(^white;228^gray;)\n^white;Glow ^gray;(^white;2m^gray;)\n^red;Electrified ^gray;(^white;18s^gray;)^reset;",
-    "value": "一个发光的汉堡包，里面包着一些维奥根和相位果。\n^cyan;+^#ffd700;20%^cyan;生命值上限^gray;和^cyan;能量上限^gray;（^white;228秒^gray;)\n^white;发光^gray;(^white;2分钟^gray;)\n^red;感电^gray;(^white;18秒^gray;)^reset;"
+    "value": "一个发光的汉堡包，里面包着一些维奥根和相位果。\n^cyan;+^#ffd700;20%^cyan;生命值上限^gray;和^cyan;能量上限^gray;（^white;228秒^gray;)\n^white;发光^gray;（^white;2分钟^gray;）\n^red;感电^gray;（^white;18秒^gray;）^reset;"
   },
   {
     "op": "replace",

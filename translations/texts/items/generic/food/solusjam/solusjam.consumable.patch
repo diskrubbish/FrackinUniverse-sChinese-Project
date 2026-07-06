@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Jam made from solusberry. But is it so dangerous? Only one way to find out!\n^cyan;+^white;20% ^cyan;EP ^gray;(^white;325s^gray;)\n^red;Electrified ^gray;(^white;5s^gray;)^reset;",
-    "value": "由太阳浆果制成的果酱。你问我危险布？试一试就知道了！\n^cyan;+^white;20%^cyan;EP^gray;(^white;持续325s^gray;)\n^red;带电^gray;(^white;持续5s^gray;)^reset;"
+    "value": "太阳浆果制成的果酱。但它真的那么危险吗？只有一试方知！\n^cyan;+^white;20%^cyan;能量上限^gray;（^white;325秒^gray;）\n^red;感电^gray;（^white;5秒^gray;）^reset;"
   },
   {
     "op": "replace",

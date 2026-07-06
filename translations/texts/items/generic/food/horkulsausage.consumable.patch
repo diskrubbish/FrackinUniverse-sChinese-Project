@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A rare meat with potent nutrients\n^cyan;+^white;15% ^cyan;HP ^gray;(^white;125s^gray;)^reset; \n^orange;Type: Cooked Meat^reset;",
-    "value": "一种带有强力营养物质的珍稀肉食。\n^cyan;+^white;15%^cyan;HP^gray;(^white;持续125s^gray;)^reset;\n^orange;类型：熟肉食^reset;"
+    "value": "富含强效营养的稀有肉类。\n^cyan;+^white;15%^cyan;生命值上限^gray;（^white;125秒^gray;）^reset;\n^orange;类型：熟肉食^reset;"
   },
   {
     "op": "replace",

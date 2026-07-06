@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Canned, processed gnome corpses. Never goes bad! \n^red;-^white;5% ^red;HP^reset; (1m) \n^orange;Type: Cooked Meat^reset;",
-    "value": "罐装加工的侏儒尸体。永不变质！ \n^red;-^white;5% ^red;HP^gray; (1m)\n^orange;类型：熟肉食^reset;"
+    "value": "罐装、加工过的侏儒尸体。永不变质！\n^red;-^white;5%^red;生命值上限^reset;（1分钟）\n^orange;类型：熟肉食^reset;"
   },
   {
     "op": "replace",
