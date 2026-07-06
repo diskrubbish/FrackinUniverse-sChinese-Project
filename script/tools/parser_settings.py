@@ -105,7 +105,8 @@ foi = {
     "kukagps/stars.config": [".*"],
     "kukagps/weather.config": [".*"],
     "buildsaplingfu.config":["^(foliage|stem)/.+$"],
-    "beeData.config":["stats/.*/[0-9]+/name$"]
+    "beeData.config":["stats/.*/[0-9]+/name$"],
+    "fu_byosai.config":["gui/window(.*?)/value","gui/button(.*?)/caption","states/(.*?)/text","states/(.*?)/buttons/(.*?)/name","shipResetConfirmationDialogs/(.*?)/(subtitle|message|.*?Caption)"]
     
 }
 files_of_interest = dict()
