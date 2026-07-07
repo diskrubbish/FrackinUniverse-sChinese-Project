@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "^cyan;+^white;25% ^cyan;Mental Protection ^gray;(^white;60s^gray;)^reset;",
-    "value": "^cyan;+^white;25%^cyan;精神抗性^gray;(^white;60s^gray;)^reset;"
+    "value": "^cyan;+^white;25%^cyan;精神抗性^gray;（^white;60秒^gray;）^reset;"
   },
   {
     "op": "replace",

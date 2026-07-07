@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "This unsettling mask it eerily cheery. It gazes back.",
-    "value": "这张令人不安的面具出奇地欢快。它正看着你呢。"
+    "value": "这副令人不安的面具透着诡异欢快的神情，回望着你。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Creepy Mask",
-    "value": "骇人面具"
+    "value": "诡异面具"
   }
 ]

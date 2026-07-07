@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Use to check if you have any missing default unlocks. Prints items that could be causing the issue to the log.",
-    "value": "用于检查是否缺少任何默认解锁。将可能导致问题的物品打印到日志中。"
+    "value": "用于检查是否存在缺失的默认解锁项，并将可能导致问题的物品打印到日志中。"
   },
   {
     "op": "replace",

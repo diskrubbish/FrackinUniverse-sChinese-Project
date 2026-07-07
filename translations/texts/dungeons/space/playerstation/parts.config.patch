@@ -3,25 +3,25 @@
     "op": "replace",
     "path": "/parts/resshaft/description",
     "raw": "A 6 room residential shaft.",
-    "value": "一个6格宽的住宅竖井。"
+    "value": "一个六室的住宅竖井。"
   },
   {
     "op": "replace",
     "path": "/parts/reslarge/description",
     "raw": "A large residential room.",
-    "value": "一间大的住宅房间。"
+    "value": "一间宽敞的住宅房间。"
   },
   {
     "op": "replace",
     "path": "/parts/solarhall1/description",
     "raw": "A hallway with solar panels on top.",
-    "value": "顶部有太阳能电池板的走廊。"
+    "value": "顶部装有太阳能板的走廊。"
   },
   {
     "op": "replace",
     "path": "/parts/solarhall2/description",
     "raw": "A hallway with solar arrays on top.",
-    "value": "顶部有太阳能电池阵列的走廊。"
+    "value": "一条顶部装有太阳能阵列的走廊。"
   },
   {
     "op": "replace",

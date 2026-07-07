@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "This unusual meat never rots and constantly undulates in fear.",
-    "value": "这种不寻常的肉永远不会腐烂，而且在恐惧中不断蠕动。"
+    "value": "这团不寻常的肉永不腐烂，且始终在恐惧中微微波动。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Undulating Meat",
-    "value": "蠕动的肉"
+    "value": "起伏的肉"
   }
 ]

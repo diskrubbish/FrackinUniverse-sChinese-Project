@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Unlimited parking. For a different universe than this one.",
-    "value": "无限停车，通向另一个宇宙。"
+    "value": "无限停车位。不过是在另一个宇宙里。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Universal Parking",
-    "value": "宇宙停车场"
+    "value": "通用停车位"
   }
 ]

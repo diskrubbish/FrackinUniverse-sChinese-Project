@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Possessed by Richard Simmons. Unimaginably evil. And fit.\n^red;Insanity ^gray;(^white;1m^gray;)^reset;\n^red;Type: Raw Meat^reset;",
-    "value": "理查德·西蒙斯所有。难以置信的邪恶，以及美味。\n^red;精神错乱^gray;(^white;持续1m^gray;)^reset;\n^red;类型：生肉食^reset;"
+    "value": "被理查德·西蒙斯附身。邪恶得难以想象。且身材健美。\n^red;精神错乱^gray;（^white;1分钟^gray;）^reset;\n^red;类型：生肉食^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Crunchy Evil Chick",
-    "value": "邪恶小鸡"
+    "value": "酥脆邪恶小鸡"
   }
 ]

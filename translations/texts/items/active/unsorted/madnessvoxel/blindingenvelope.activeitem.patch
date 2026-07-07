@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Any time you glance at it, you are blinded for a moment.",
-    "value": "看向它的时候，你会暂时失明。"
+    "value": "每当你瞥见它，都会暂时失明。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Blinding Envelope",
-    "value": "盲目信封’"
+    "value": "盲目信封"
   }
 ]

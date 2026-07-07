@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "^cyan;If near death, warps you elsewhere and gives ^gray;(^white;10m^gray;) ^blue;Madness Gain^reset; 1",
-    "value": "^cyan;如果你快死了，那就使用它吧，它会将你传送到其他地方，并赋予^gray;（^white;10分钟^gray;）^blue;疯癫获取量^reset;：1"
+    "value": "^cyan;如果濒临死亡，将你传送至别处并给予^gray;（^white;10分钟^gray;）^blue;疯癫获取量^reset;：1"
   },
   {
     "op": "replace",

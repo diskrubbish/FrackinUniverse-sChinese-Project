@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "^cyan;+^white;15% ^cyan;Run ^gray;(^white;30s^gray;)^reset;",
-    "value": "^cyan;+^white;15%^cyan;速度^gray;(^white;持续30s^gray;)^reset;"
+    "value": "^cyan;+^white;15%^cyan;移速^gray;（^white;30秒^gray;）^reset;"
   },
   {
     "op": "replace",

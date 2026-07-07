@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/category",
     "raw": "You're a creep.",
-    "value": "你是个色鬼。"
+    "value": "你真是个怪胎。"
   },
   {
     "op": "replace",
     "path": "/description",
     "raw": "A book that pairs a sapient being with a random mythological creature.",
-    "value": "这本书中一个聪明人和随机的神话生物交配。"
+    "value": "一本将智慧生物与随机神话生物配对的书。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Bizarre Erotica",
-    "value": "怪异春卷"
+    "value": "怪诞情色"
   }
 ]

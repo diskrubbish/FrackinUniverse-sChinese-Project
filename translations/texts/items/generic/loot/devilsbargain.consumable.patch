@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "^red;-^white;25% ^red;HP ^gray;& ^red;EP^gray;,\n^cyan;+^white;20% ^pink;All ^cyan;Res ^gray;& ^cyan;Damage^gray;,\n^cyan;+^white;55% ^cyan;Run ^gray;(^white;2m^gray;)\n^blue;Madness Gain^reset; 3",
-    "value": "^red;-^white;25%^red;生命值^gray;和^red;能量^gray;,\n^cyan;+^white;20%^pink;所有^cyan;抗性^gray;&^cyan;伤害^gray;\n^cyan;+^white;55%^cyan;速度^gray;（^white;持续2分钟^gray;）\n^blue;疯癫获取量^reset;：3"
+    "value": "^red;-^white;25%^red;生命值上限^gray;和^red;能量上限^gray;\n^cyan;+^white;20%^pink;所有^cyan;抗性^gray;&^cyan;伤害^gray;\n^cyan;+^white;55%^cyan;移速^gray;（^white;2分钟^gray;）\n^blue;疯癫获取量^reset;：3"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "The Devil's Bargain",
-    "value": "恶魔契约药剂"
+    "value": "魔鬼的交易"
   }
 ]

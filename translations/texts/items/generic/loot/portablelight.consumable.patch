@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A handy portable light source.\n^#ffd700;Glow ^gray;(^white;20m^gray;)^reset;",
-    "value": "便携式光源。\n^#ffd700;发光^gray;(^white;持续20m^gray;)^reset;"
+    "value": "一款方便的便携式光源。\n^#ffd700;发光^gray;（^white;20分钟^gray;）^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Disposable Light",
-    "value": "发光药剂"
+    "value": "一次性灯"
   }
 ]

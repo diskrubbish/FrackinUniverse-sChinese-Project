@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A single use kit for upgrading a single piece of equipment.",
-    "value": "用于升级单件设备的套件。"
+    "value": "用于升级单件设备的一次性套件。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Transmutation Matrix",
-    "value": "变形矩阵"
+    "value": "嬗变矩阵"
   }
 ]

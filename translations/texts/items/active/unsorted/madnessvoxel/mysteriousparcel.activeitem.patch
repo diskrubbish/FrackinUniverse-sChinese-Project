@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Post-marked directly to you at your current location. No return-to-sender. ^red;Origin unknown^reset;.",
-    "value": "在您当前的位置直接为您加邮戳。没有退回发件人。^red;源头未知^reset;。"
+    "value": "直接寄到你当前所在地的邮戳。无法退回发件人。^red;来源未知^reset;。"
   },
   {
     "op": "replace",

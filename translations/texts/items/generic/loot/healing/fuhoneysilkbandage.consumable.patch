@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "^green;Heal ^white;120 ^gray;over ^white;20s\n^green;Cures ^pink;Burning^gray;, ^pink;Cold^gray;, ^pink;Electrified^gray;, ^pink;Poisoned^reset;",
-    "value": "^gray;在^white;20s内^green;治疗^white;120点生命值\n^green;治疗^pink;烧伤^gray;，^pink;冰冻^gray;，^pink;带电^gray;，^pink;中毒"
+    "value": "在^white;20秒^gray;内^green;恢复^white;120^reset;点生命值。\n^green;治疗^pink;烧伤^gray;，^pink;冰冻^gray;，^pink;感电^gray;，^pink;中毒^reset;"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Honeysilk Bandage",
-    "value": "甜蜜绷带"
+    "value": "蜂蜜丝绷带"
   }
 ]

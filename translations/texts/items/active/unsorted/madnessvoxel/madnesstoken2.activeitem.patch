@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "You have no idea what deity these markings praise, but it isn't pretty.",
-    "value": "你不知道这些斑纹赞美的是什么神，但它并不漂亮。"
+    "value": "你完全不知道这些纹路在颂扬哪路神明，但绝非什么善类。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Unknown Artifact",
-    "value": "未知造物"
+    "value": "未知遗物"
   }
 ]

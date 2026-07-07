@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A law book that encourages committing arson.",
-    "value": "鼓励纵火的法律书籍。"
+    "value": "一本鼓励纵火的法律书。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Law and Order",
-    "value": "法与序"
+    "value": "《法与序》"
   }
 ]

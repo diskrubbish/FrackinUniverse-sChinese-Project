@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "The fact that this place still exists is maddening.",
-    "value": "这地方竟然还在？真是疯了。"
+    "value": "这鬼馆子竟然还存在，真是令人抓狂。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "A Chipotle Coupon (2 for $24.99)",
-    "value": "辣椒优惠券(两个24.99美元)"
+    "value": "一张“启波特雷”优惠券（两份24.99美元）"
   }
 ]

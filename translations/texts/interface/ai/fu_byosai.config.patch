@@ -189,48 +189,48 @@
     "op": "replace",
     "path": "/states/initial/buttons/0/name",
     "raw": "Frackin' Ship",
-    "value": ""
+    "value": "富兰克林飞船"
   },
   {
     "op": "replace",
     "path": "/states/initial/buttons/1/name",
     "raw": "Vanilla Ship",
-    "value": ""
+    "value": "原版飞船"
   },
   {
     "op": "replace",
     "path": "/states/frackinShipChoice/buttons/0/name",
     "raw": "Select",
-    "value": ""
+    "value": "选择"
   },
   {
     "op": "replace",
     "path": "/states/frackinShipChoice/buttons/1/name",
     "raw": "Preview",
-    "value": ""
+    "value": "预览"
   },
   {
     "op": "replace",
     "path": "/states/frackinShipPreview/buttons/0/name",
     "raw": "Select",
-    "value": ""
+    "value": "选择"
   },
   {
     "op": "replace",
     "path": "/states/frackinShipSelected/buttons/0/name",
     "raw": "Confirm",
-    "value": ""
+    "value": "确认"
   },
   {
     "op": "replace",
     "path": "/states/vanillaShipSelected/buttons/0/name",
     "raw": "Confirm",
-    "value": ""
+    "value": "确认"
   },
   {
     "op": "replace",
     "path": "/states/skipRepairs/buttons/0/name",
     "raw": "Confirm",
-    "value": ""
+    "value": "确认"
   }
 ]

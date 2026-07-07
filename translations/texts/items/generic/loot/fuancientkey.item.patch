@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "^red;This item is no longer needed, it's safe to sell it.^reset;\nA strange device made by the Ancients.",
-    "value": "古人制造的一种奇怪的装置。"
+    "value": "^red;这件物品不再需要了，可以放心出售。^reset;\n古人制造的一种奇怪的装置。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Ancient Device",
-    "value": "古老的设备"
+    "value": "古代设备"
   }
 ]

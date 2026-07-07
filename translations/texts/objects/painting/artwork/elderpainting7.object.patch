@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Even looking at this painting hurts my eyes and yet I feel compelled to touch it...",
-    "value": "即使看着这幅画也会刺痛我的眼睛，但我还是觉得有必要去接触它..."
+    "value": "即便只是看着这幅画，我的眼睛就感到刺痛，但我却忍不住想要去触碰它..."
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Thing in the Dark",
-    "value": "暗藏玄机"
+    "value": "暗中之物"
   }
 ]
