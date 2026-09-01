@@ -19,3 +19,8 @@ out
 /temp
 
 /steamcmd
+
+# 新版工具链运行时产物
+/translations/temp
+/script/tools/src/__pycache__
+/script/tools/src/logs

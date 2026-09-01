@@ -1,0 +1,5 @@
+# FU 汉化 CI 依赖（run_ci.py 及 src/ 模块用）
+# - httpx：ParaTranz API（para_api.py 已从 requests 迁移到 httpx）
+# - pytz：export_mod_para.py create_metadata 的时区处理
+httpx
+pytz

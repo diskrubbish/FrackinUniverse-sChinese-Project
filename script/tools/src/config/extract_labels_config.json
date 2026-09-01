@@ -1,0 +1,99 @@
+{
+  "FrackinUniverse": {
+    "dir_blacklist": [],
+    "extra_category_list": [],
+    "extra_files_of_interest": {},
+    "extra_string_blacklist": [],
+    "ignore_filelist": [],
+    "para": {
+      "id": "7650",
+      "subdir": ""
+    },
+    "patch_serialization": {
+      "craftingmedical.object.patch": {
+        "upgradeStages": {
+          "index": 2,
+          "increase": false
+        }
+      },
+      "statuses.config.patch": {
+        "generic": {
+          "index": 70,
+          "increase": true
+        },
+        "cheerful": {
+          "index": 31,
+          "increase": true
+        },
+        "jerk": {
+          "index": 31,
+          "increase": true
+        },
+        "flirty": {
+          "index": 31,
+          "increase": true
+        },
+        "anxious": {
+          "index": 31,
+          "increase": true
+        },
+        "easilyspooked": {
+          "index": 32,
+          "increase": true
+        },
+        "clumsy": {
+          "index": 31,
+          "increase": true
+        },
+        "excited": {
+          "index": 31,
+          "increase": true
+        },
+        "intrusive": {
+          "index": 31,
+          "increase": true
+        },
+        "dumb": {
+          "index": 32,
+          "increase": true
+        },
+        "emo": {
+          "index": 30,
+          "increase": true
+        },
+        "fast": {
+          "index": 31,
+          "increase": true
+        },
+        "nocturnal": {
+          "index": 32,
+          "increase": true
+        },
+        "socialite": {
+          "index": 31,
+          "increase": true
+        },
+        "ambitious": {
+          "index": 30,
+          "increase": true
+        }
+      },
+      "craftingfurnace.object.patch": {
+        "upgradeStages": {
+          "index": 2,
+          "increase": false
+        }
+      },
+      "craftingwheel.object.patch": {
+        "upgradeStages": {
+          "index": 2,
+          "increase": false
+        }
+      }
+    },
+    "path_blacklist": {},
+    "prefix": "",
+    "root_dir": "",
+    "texts_prefix": "texts"
+  }
+}

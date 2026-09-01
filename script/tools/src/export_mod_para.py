@@ -1,3 +1,13 @@
+"""FU 专属导出模块。
+
+保留 FrackinUniverse 的导出语义，新工具链（StarBound）的 export_mod_para 没有这两块：
+1. create_metadata()：生成 Steam Workshop 需要的 mod.vdf，并回写 _metadata 版本/描述。
+2. export_mod_para()：带 test-inverse 包装的补丁合并——translations/others/ 里的手写补丁
+   需要 `[{"op":"test","inverse":true,...}, patch]` 包装，防止 Starbound 重复打补丁。
+
+仅由 run_ci.py 调用，不做硬编码路径。
+"""
+
 from os.path import dirname, exists
 from os.path import join as join_path
 from os import walk, makedirs
@@ -14,7 +24,6 @@ if platform == "win32":
 
     def normpath(path):
         return normpath_old(path).replace("\\", "/")
-
 else:
     from os.path import normpath
 
@@ -52,7 +61,7 @@ def create_metadata(root_dir, prefix, contentfolder, vdf_save_path):
     )
     mod_description = "\n".join(mod_description)
     mod_metadata["description"] = mod_description
-    mod_metadata["version"] = mod_adapt_version+"-"+mod_creat_time
+    mod_metadata["version"] = mod_adapt_version + "-" + mod_creat_time
     raw_steam_vdf = {
         "appid": "211820",
         "contentfolder": contentfolder,
@@ -62,7 +71,7 @@ def create_metadata(root_dir, prefix, contentfolder, vdf_save_path):
     steaam_vdf = ['"workshopitem"', "{"]
     for vdf_key in raw_steam_vdf.keys():
         steaam_vdf.append(
-            '"' + vdf_key + '"' + "		" + '"' + raw_steam_vdf[vdf_key] + '"'
+            '"' + vdf_key + '"' + "\t\t" + '"' + raw_steam_vdf[vdf_key] + '"'
         )
     steaam_vdf.append("}")
 
@@ -103,7 +112,7 @@ def export_mod_para(
                     for patch in json.load(open(patch_path, "r+", encoding="utf-8-sig")):
                         if patch["op"] != "replace":
                             result.append(
-                                [{"op": "test", "inverse": True,"path": patch["path"]}, patch]
+                                [{"op": "test", "inverse": True, "path": patch["path"]}, patch]
                             )
                         else:
                             replace_result.append(patch)
@@ -126,13 +135,3 @@ def export_mod_para(
                         json.dump(
                             result, f, ensure_ascii=False, indent=2, sort_keys=True
                         )
-
-
-if __name__ == "__main__":
-    create_metadata(
-        normpath(os.environ.get("GITHUB_WORKSPACE") + "/temp/FrackinUniverse"),
-        normpath(os.environ.get("GITHUB_WORKSPACE") + "/translations"),
-        normpath(os.environ.get("GITHUB_WORKSPACE") + "/temp/paks"),
-        normpath(os.environ.get("GITHUB_WORKSPACE") + "/temp"),
-    )
-    export_mod_para(normpath((os.environ.get("GITHUB_WORKSPACE") + "/translations")))
