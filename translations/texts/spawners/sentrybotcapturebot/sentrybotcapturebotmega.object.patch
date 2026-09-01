@@ -2,13 +2,13 @@
   {
     "op": "replace",
     "path": "/description",
-    "raw": "It's an orange. ^green;Type: Fruit^reset;",
+    "raw": "Captures creatures in Mega Pet Balls.",
     "value": ""
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "raw": "Orange",
-    "value": "橙子"
+    "raw": "Mega Capture Bot",
+    "value": ""
   }
 ]

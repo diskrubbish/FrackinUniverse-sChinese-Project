@@ -151,6 +151,12 @@
   },
   {
     "op": "replace",
+    "path": "/generic/medBrochure",
+    "raw": "Need a brochure? Sure thing, it's free!",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/generic/hireMerc",
     "raw": "Heres the contract, use it to call and recruit them.",
     "value": "这是合同，用它来联系并招募人员。"
@@ -277,6 +283,12 @@
   },
   {
     "op": "replace",
+    "path": "/apex/medBrochure",
+    "raw": "Need a brochure? Sure thing, it's free!",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/apex/hireMerc",
     "raw": "Heres the contract, use it to call and recruit them.",
     "value": "这是合同，用它来联系并招募人员。"
@@ -400,6 +412,12 @@
     "path": "/avian/removeEnhancer",
     "raw": "Enhancer removed. Enjoy your enhancer free body!",
     "value": "增强剂已清除。享受无增强剂的纯净身体吧！"
+  },
+  {
+    "op": "replace",
+    "path": "/avian/medBrochure",
+    "raw": "Need a brochure? Sure thing, it's free!",
+    "value": ""
   },
   {
     "op": "replace",
@@ -577,6 +595,12 @@
   },
   {
     "op": "replace",
+    "path": "/floran/medBrochure",
+    "raw": "Need a brochure? Ssure thing, it'ss free!",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/floran/hireMerc",
     "raw": "Here isss contract. Good for one hunter.",
     "value": "这是合同。适适适用于一名猎人。"
@@ -751,6 +775,12 @@
   },
   {
     "op": "replace",
+    "path": "/glitch/medBrochure",
+    "raw": "Excited. Need a brochure? Sure thing, it's free!",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/glitch/hireMerc",
     "raw": "Explanatory. Here is your contract, use it to call your recruit.",
     "value": "说明。这是合同，用它来联系并招募人员。"
@@ -895,6 +925,12 @@
   },
   {
     "op": "replace",
+    "path": "/human/medBrochure",
+    "raw": "Need a brochure? Sure thing, it's free!",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/human/hireMerc",
     "raw": "Heres the contract, use it to call and recruit them.",
     "value": "这是合同，用它来联系并招募人员。"
@@ -1021,6 +1057,12 @@
   },
   {
     "op": "replace",
+    "path": "/hylotl/medBrochure",
+    "raw": "Need a brochure? Sure thing, it's free!",
+    "value": ""
+  },
+  {
+    "op": "replace",
     "path": "/hylotl/hireMerc",
     "raw": "Heres the contract, use it to call and recruit them.",
     "value": "这是合同，用它来联系并招募人员。"
@@ -1144,6 +1186,12 @@
     "path": "/novakid/removeEnhancer",
     "raw": "Enhancer removed, good as new!",
     "value": "增强剂已清除。和新的一样！"
+  },
+  {
+    "op": "replace",
+    "path": "/novakid/medBrochure",
+    "raw": "Need a brochure? Sure thing pardner, on the house!",
+    "value": ""
   },
   {
     "op": "replace",

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Beware the sun. Increases Energy and Health by +50",
-    "value": "谨记太阳。\n^cyan;能量值上限和生命值上限+50^reset;"
+    "value": "当心太阳。\n能量上限与生命值上限+50。"
   },
   {
     "op": "replace",

@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Constantly applies increased movement so long as it is held.",
-    "value": "只要持有，就会不断地增加动作的速度。"
+    "value": "手持时会不断施加递增的移动力。"
   },
   {
     "op": "replace",

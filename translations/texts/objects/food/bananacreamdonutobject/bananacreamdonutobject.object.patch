@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Delicious donuts filled with banana and cream. It's almost healthy!",
-    "value": "美味的甜甜圈，里面装满了香蕉和奶油。这是种很健康的食物！"
+    "value": "一款美味的香蕉奶油夹心甜甜圈，几乎可以说是健康食品了！"
   },
   {
     "op": "replace",
@@ -15,18 +15,18 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Creamy monkeyman donuts.",
-    "value": "奶油猿人甜甜圈。"
+    "value": "奶油猴面人甜甜圈。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Doubtful. I have to question the nutritional value of these pastries.",
-    "value": "怀疑。 我不得不质疑这些糕点的营养价值。"
+    "value": "怀疑。我不得不质疑这些糕点的营养价值。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Bananas and cream, eh? Yeah, that sounds about right for the Apex.",
-    "value": "香蕉和奶油，嗯？是的，这听起来很适合猿人。"
+    "value": "香蕉和奶油，嗯？没错，这听起来挺符合猿族风格的。"
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A super sweet jam made of pineapples.",
-    "value": "由菠萝制成的超甜果酱。"
+    "value": "一款由菠萝制成的超甜果酱。"
   },
   {
     "op": "replace",
@@ -15,18 +15,18 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran can have pineapple without those ssstupid thorns!",
-    "value": "叶族人可以吃菠萝而避开那些愚蠢的刺！"
+    "value": "叶族人可以吃菠萝，不用管那些烦人的刺！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Appreciative. Pineapples are quite the luxury crop, at least to us Glitch. It makes this jam all the sweeter.",
-    "value": "感激的 菠萝是相当奢侈的作物，至少对我们来说是这样的。但它的加入可以使果酱更甜。"
+    "value": "感激。菠萝对我们电子人来说，可算得上是奢侈作物了。这让这果酱愈发甜美。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Nice to taste pineapple without wrestlin' with that prickly skin.",
-    "value": "菠萝的味道好极了，不用和皮上的刺做斗争了。"
+    "value": "品尝菠萝，无需与那带刺的外皮搏斗，真是惬意。"
   }
 ]

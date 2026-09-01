@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "+60% Radiation Resist. Use it on planets with ^red;extreme radiation levels^reset;. Provides air.",
-    "value": "对在^red;极端辐射^reset;的星球上的探险很有帮助。\n辐射抗性+60%，供给氧气"
+    "value": "+60%辐射抗性。在^red;极端辐射^reset;的星球上颇为实用。\n提供空气。"
   },
   {
     "op": "replace",

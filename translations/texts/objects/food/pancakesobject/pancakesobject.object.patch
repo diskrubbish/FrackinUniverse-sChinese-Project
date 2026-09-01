@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Pancake. Butter. Pancake. Butter. Pancake. Syrup. Eat.",
-    "value": "薄饼黄油薄饼黄油薄饼糖水吃"
+    "value": "薄饼。黄油。薄饼。黄油。薄饼。糖浆。开吃。"
   },
   {
     "op": "replace",
@@ -15,18 +15,18 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran likes to cook little flat cakes in funny ssshapes!",
-    "value": "叶族人喜欢做形状有趣的扁平小蛋糕！"
+    "value": "叶族人喜喜喜欢烹饪各种有趣形形形状的小薄饼！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Content. Just the smell of warm pancakes can make one ready to greet the day.",
-    "value": "满足。 只要闻一闻热煎饼的味道就可以让人准备迎接新的一天。"
+    "value": "满足。 仅仅是热腾腾的煎饼的香气，就能让人准备好迎接新的一天。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Some mighty fine smellin' flapjacks.",
-    "value": "一些味道很好的煎饼。"
+    "value": "这些煎饼闻起来可真香啊。"
   }
 ]

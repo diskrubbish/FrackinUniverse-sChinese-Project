@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A small crayon box for your table.",
-    "value": "为你的桌子准备一个小蜡笔盒。"
+    "value": "一个小巧的蜡笔盒，专为你的桌面设计。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Small Crayon Box",
-    "value": "小蜡笔盒"
+    "value": "小型蜡笔盒"
   }
 ]

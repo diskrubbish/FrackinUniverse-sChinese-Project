@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A sweet and flavoursome preserve, precious among Avians.",
-    "value": "一种甜而美味的果酱，在翼族人人中很珍贵。"
+    "value": "一种甜美且风味浓郁的蜜饯，在翼族人中备受珍视。"
   },
   {
     "op": "replace",
@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "...? Floran sssees a feather in there!",
-    "value": "...? 叶族人看见里面有一根羽毛！"
+    "value": "...？叶族人看到里面有一根羽毛！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Curious. Supposedly feathercrown is something of a luxury crop among Avians.",
-    "value": "奇妙。 据说羽冠花在翼族人中的文化是一种奢侈的作物。"
+    "value": "奇妙。据说羽冠花在翼族中算是一种奢侈品作物。"
   },
   {
     "op": "replace",

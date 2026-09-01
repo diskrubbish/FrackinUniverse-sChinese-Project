@@ -9,48 +9,48 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Fast Food Meal",
-    "value": "快餐"
+    "value": "快餐套餐"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "Sadly, these are larger portions than most rations Apex receive. And better quality too.",
-    "value": "可悲的是，这比大多数人得到的口粮都要多。而且质量也更好。"
+    "value": "遗憾的是，这些份量比大多数猿族配给要大得多，质量也更胜一筹。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "Maybe I'll just eat the fries...",
-    "value": "也许我会吃薯条..."
+    "value": "也许我就只吃薯条算了..."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Doesn't sssmell like real meat...",
-    "value": "闻起来不像真的肉..."
+    "value": "闻起来不像像像真肉的味道..."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Indecisive. My sensors indicate this meal isn't healthy in the slightest, but my stomach...",
-    "value": "优柔寡断。 我的传感器显示这顿饭一点也不健康，但我的胃..."
+    "value": "犹豫。我的传感器显示这顿饭一点也不健康，但我的胃..."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Make no mistake, if someone makes a move for my fries there may be bloodshed.",
-    "value": "小心点，如果有人动我的薯条，那他就会见血了。"
+    "value": "别搞错了，要是有人对我的薯条下手，那可能就要见血了。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "This meal is as greasy as the establishment that made it.",
-    "value": "这顿饭和做它的餐馆一样油腻。"
+    "value": "这顿饭油腻得就像做出它的那家店一样。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Food's food as far as I'm concerned.",
-    "value": "就我而言，食物就是食物。"
+    "value": "对我来说，食物就是食物。"
   }
 ]

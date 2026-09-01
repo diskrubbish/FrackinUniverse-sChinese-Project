@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A pie with a delightfully flakey crust.",
-    "value": "一块令人愉快的片状外壳的馅饼。"
+    "value": "一块馅饼，外皮酥脆得令人愉悦。"
   },
   {
     "op": "replace",
@@ -15,42 +15,42 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "Ah, this pie smells divine.",
-    "value": "啊，这个馅饼闻起来好极了。"
+    "value": "啊，这派闻起来真是绝了。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "What a fine smelling pie! I wonder what flavor it is?",
-    "value": "多香的馅饼啊！我想知道它是什么味道？"
+    "value": "好香的派啊！不知道是什么口味的？"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran hopes it's meatss pie.",
-    "value": "叶族人希望这是肉馅派。"
+    "value": "叶族人希希希望那是肉馅饼。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Blissful. A delicious pie. Whatever flavor it is, it smells delightful.",
-    "value": "幸福。 美味的馅饼。不管它是什么味道，闻起来都很香。"
+    "value": "幸福。一块美味的派。不论是什么口味，闻起来都令人心旷神怡。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Is it too hot to cut yet? I might be willing to risk it.",
-    "value": "天气这么热还不剪？是我的话早就剪了。"
+    "value": "现在切是不是太热了？我可能愿意冒个险。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "A pie. It seems to have just come out of the oven.",
-    "value": "馅饼。它好像刚从烤箱里出来。"
+    "value": "一个派。看起来刚出炉的样子。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "A real sweet treat right there.",
-    "value": "真是一次甜蜜的款待。"
+    "value": "这真是个甜蜜的享受。"
   }
 ]

@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "Shrimp that has been battered and deep fried. Delicious!",
-    "value": "打过糊的炸过的虾。美味的"
+    "value": "裹上面糊后油炸的虾仁，美味极了！"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Shrimp Tempura",
-    "value": "天妇罗"
+    "value": "虾天妇罗"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "It's pleasantly flaky on the outside, but soft and savory on the inside.",
-    "value": "它的外表令人愉悦，但里面柔软可口。"
+    "value": "外皮酥脆可口，内里柔软咸香。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "I quite like the breading on this dish.",
-    "value": "我很喜欢这道菜上的面包屑。"
+    "value": "我挺喜欢这道菜外面的那层裹粉。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "All that's left of sssilly shrimp is their ssshrimpy tails!",
-    "value": "这只愚蠢的虾只剩下它们的虾尾巴了！"
+    "value": "那些傻傻傻乎乎的小虾虾虾，只剩下它们那虾虾虾米般的小小小尾巴啦！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Pleased. A small but fine meal.",
-    "value": "很高兴。 一顿丰盛的小餐。"
+    "value": "高兴。一顿小而精致的餐食。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Oh sweet! Does it come with sauce?",
-    "value": "哦，太好了！有调味汁吗？"
+    "value": "哦，太棒了！这个有配酱料吗？"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "... Should I be eating this?",
-    "value": "... 我应该吃这个吗？"
+    "value": "...我该吃这个吗？"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Some fried up shellfish.",
-    "value": "一些炸贝类。"
+    "value": "一些炒过的贝类。"
   }
 ]

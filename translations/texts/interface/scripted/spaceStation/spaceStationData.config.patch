@@ -116,8 +116,8 @@
   {
     "op": "replace",
     "path": "/medical/9/4",
-    "raw": "Shoots a projectile at the closest enemy in a medium radius with a clear line of fire every second, dealing 2.5% of your HP as base damage (^orange;affected by power multiplier^reset;) on impact. Drains 0.5% of your current health every 0.5 seconds as long as you have more than 10%.",
-    "value": "每秒向中等半径内、射程清晰的最远敌人发射一枚投射物，命中时造成相当于自身生命值2.5%的基础伤害（^orange;受攻击力系数影响^reset;）。只要生命值高于10%，每0.5秒将持续消耗当前生命值的0.5%。"
+    "raw": "While over 10% health, drains 1.25% of your Current Health to shoot a projectile at the closest enemy, prioritizing targets not hit recently, in a medium radius with a clear line of fire every 0.5 seconds, dealing 2.5% of your Max HP as base damage (^orange;affected by power multiplier^reset;) on impact and causing Beestings.",
+    "value": ""
   },
   {
     "op": "replace",

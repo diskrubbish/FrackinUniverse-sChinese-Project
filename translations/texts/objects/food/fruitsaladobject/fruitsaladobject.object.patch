@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Various fruits all conveniently mixed together.",
-    "value": "各种水果都很方便地混合在一起。"
+    "value": "各种水果巧妙地混合在一起。"
   },
   {
     "op": "replace",
@@ -15,13 +15,13 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran once wanted to make Meat Sssalad! But Floran's Greenfinger sssaid no...",
-    "value": "叶族人曾经想做肉沙拉！但是叶族人的绿手指说不..."
+    "value": "叶族人曾想做一份肉沙沙沙拉！但叶族的绿手指不准..."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Pleased. A healthy and colorful treat.",
-    "value": "很高兴。 健康多彩的款待。"
+    "value": "高兴。一份健康又色彩缤纷的小食。"
   },
   {
     "op": "replace",
@@ -33,6 +33,6 @@
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Someone went and washed and peeled all them tasty fruits.",
-    "value": "有人去洗了洗，剥了所有美味的水果。"
+    "value": "有人把那些美味的水果都洗好削好了。"
   }
 ]

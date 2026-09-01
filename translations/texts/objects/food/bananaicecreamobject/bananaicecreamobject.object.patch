@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Creamy, icy, banana goodness.",
-    "value": "奶油、冰、香蕉的精华。"
+    "value": "丝滑冰爽，香蕉美味。"
   },
   {
     "op": "replace",
@@ -15,18 +15,18 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Icy monkeyman cream.",
-    "value": "冰镇猿人雪糕。"
+    "value": "冰镇猴子人雪糕。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Pleased. This ice cream is perfectly sweet.",
-    "value": "很高兴。 这个冰淇淋非常甜。"
+    "value": "高兴。这冰淇淋甜得恰到好处。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "I can see how Apex could get addicted to this.",
-    "value": "我终于明白猿人为什么会对这个上瘾。"
+    "value": "我能理解为什么猿人会对这个上瘾。"
   }
 ]

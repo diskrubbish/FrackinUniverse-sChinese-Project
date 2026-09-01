@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/label",
-    "raw": "^orange;[E]^reset; Electric Repel",
-    "value": "^orange;[E]^reset;电系排斥"
+    "raw": "^orange;Enhancement^reset;: Electric Repel",
+    "value": ""
   }
 ]

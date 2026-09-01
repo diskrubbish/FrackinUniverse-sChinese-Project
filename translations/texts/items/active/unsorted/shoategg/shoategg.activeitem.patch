@@ -9,12 +9,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Unwrap it to start hatching your own Shoat!",
-    "value": "打开它，然后你就可以开始孵化自己的小黏羊！"
+    "value": "拆开它，开始孵化属于你自己的小黏羊吧！"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Nicely packed Shoat egg",
-    "value": "包装漂亮的小黏羊蛋"
+    "value": "包装精美的小黏羊蛋"
   }
 ]

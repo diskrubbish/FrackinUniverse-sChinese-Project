@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/label",
-    "raw": "^orange;[E]^reset; Cosmic Repel",
-    "value": "^orange;[E]^reset;射线排斥"
+    "raw": "^orange;Enhancement^reset;: Cosmic Repel",
+    "value": ""
   }
 ]

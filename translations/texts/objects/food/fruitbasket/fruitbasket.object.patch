@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Perfect for garnishing tables.",
-    "value": "非常适合装饰桌子。"
+    "value": "非常适合点缀餐桌。"
   },
   {
     "op": "replace",
@@ -15,12 +15,12 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran hopes these aren't wax...",
-    "value": "叶族人希望这些不是蜡..."
+    "value": "叶族人希望这些不是蜡做的..."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Pleased. These look relatively fresh.",
-    "value": "很高兴。 这些看起来比较新鲜。"
+    "value": "愉悦。这些看起来相对新鲜。"
   }
 ]

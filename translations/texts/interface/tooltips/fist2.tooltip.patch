@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/shiftClickLabel/value",
     "raw": "^green;[Shift + Left Click]^reset; : Use Special",
-    "value": "^green;[Shift + 左键]^reset; : 使用特殊技能"
+    "value": "^green;[Shift + 左键点击]^reset;：使用特殊功能"
   },
   {
     "op": "replace",
@@ -33,6 +33,6 @@
     "op": "replace",
     "path": "/speedTitleLabel/value",
     "raw": "Speed:",
-    "value": "攻击速度："
+    "value": "速度："
   }
 ]

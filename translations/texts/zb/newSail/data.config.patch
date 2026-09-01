@@ -104,12 +104,18 @@
   {
     "op": "replace",
     "path": "/Data/misc/8/1",
+    "raw": "^orange;[ZB]^reset; Queue Research Recheck",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/Data/misc/9/1",
     "raw": "^orange;[ZB]^reset; Custom SAIL Info",
     "value": "^orange;[ZB]^reset; 自定义SAIL信息"
   },
   {
     "op": "replace",
-    "path": "/Data/misc/9/1",
+    "path": "/Data/misc/10/1",
     "raw": "Vanilla SAIL",
     "value": "原版SAIL"
   },

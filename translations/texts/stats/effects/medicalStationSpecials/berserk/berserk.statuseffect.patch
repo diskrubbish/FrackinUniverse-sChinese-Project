@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/label",
-    "raw": "^orange;[E]^reset; Berserker Rage",
-    "value": "^orange;[E]^reset;狂战士之怒"
+    "raw": "^orange;Enhancement^reset;: Berserker Rage",
+    "value": ""
   }
 ]

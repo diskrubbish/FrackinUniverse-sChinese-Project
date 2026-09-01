@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Gives +20% Poison Resist. Use it on planets with ^cyan;mild poison levels^reset;.",
-    "value": "对在^red;轻度毒素^reset;的星球上的探险很有帮助。\n毒素抗性+20%"
+    "value": "+20%毒素抗性。在^cyan;温和毒素^reset;的星球上颇为实用。 "
   },
   {
     "op": "replace",

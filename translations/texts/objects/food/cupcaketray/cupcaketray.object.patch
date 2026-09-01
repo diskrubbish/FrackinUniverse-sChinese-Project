@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "Sweet and colorful!",
-    "value": "甜美多彩！"
+    "value": "甜美又多彩！"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Cupcake Tray",
-    "value": "纸杯蛋糕盘"
+    "value": "纸杯蛋糕拼盘"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "So tiny! It's actually kind of adorable.",
-    "value": "太小了！它实际上有点可爱。"
+    "value": "真小啊！其实还挺可爱的。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "I could do without all the icing.",
-    "value": "我可以不用所有的糖霜。"
+    "value": "我可以不要那些糖霜。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Ssso pretty... Ssso sweet!",
-    "value": "太漂亮了...太好了！"
+    "value": "如此美丽...如此甜美！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Concerned. Won't the top cupcakes crush the icing of the bottom one's?",
-    "value": "关注。 顶部的纸杯蛋糕不会压碎底部的糖霜吗？"
+    "value": "关注。顶层的纸杯蛋糕不会压坏底层蛋糕的糖霜吗？"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "All the flavor of a regular cake, but none of the commitment!",
-    "value": "所有的味道都是普通蛋糕，但不敢保证！"
+    "value": "既有普通蛋糕的风味，又不会让人吃得太累！"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Who needs this much sugar, really...",
-    "value": "谁需要这么多糖，真的..."
+    "value": "谁需要这么多糖啊，真是的..."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "A bunch of pretty lookin' cupcakes.",
-    "value": "一堆漂亮的纸杯蛋糕。"
+    "value": "一堆看起来挺漂亮的纸杯蛋糕。"
   }
 ]

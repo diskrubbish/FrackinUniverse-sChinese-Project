@@ -15,18 +15,18 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Plain white rice.",
-    "value": "纯白米饭。"
+    "value": "白米饭。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Disgruntled. I could do with some sort of addition to this.",
-    "value": "不悦。 我想再加一点。"
+    "value": "不满。我倒是希望这个能再添点什么。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Can't get more plain than plain rice.",
-    "value": "再也吃不到比白米更纯的了。"
+    "value": "没有比白米饭更朴素的了。"
   }
 ]

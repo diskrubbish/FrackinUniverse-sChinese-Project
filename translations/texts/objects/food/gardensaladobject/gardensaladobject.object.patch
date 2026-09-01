@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A big bowl of mixed veggies. Nutritious!",
-    "value": "一大碗混合的有营养的蔬菜。"
+    "value": "一大碗什锦蔬菜，营养满满！"
   },
   {
     "op": "replace",
@@ -15,18 +15,18 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Peh. Who wants to eat leafy greensss when meat is ssso much more filling?",
-    "value": "额。肉多了，谁想吃绿叶蔬菜？"
+    "value": "哼，肉这么管饱，谁谁谁还想吃那些些些绿叶子菜啊？"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Approving. A healthy salad. And all from local crops too!",
-    "value": "同意。 健康的沙拉。而且都来自当地的农作物！"
+    "value": "同意。一份健康的沙拉。而且全部采用本地作物！"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Ain't bad havin' a salad once in a while.",
-    "value": "偶尔吃一次沙拉也不错。"
+    "value": "偶尔吃吃沙拉也不错嘛。"
   }
 ]

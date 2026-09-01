@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "And lots of it!",
-    "value": "而且很多！"
+    "value": "而且数量还不少呢！"
   },
   {
     "op": "replace",
@@ -15,42 +15,42 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "Noodles topped with a savory, tomato-based sauce.",
-    "value": "面条上涂有美味的番茄酱。"
+    "value": "面条上浇着浓郁的番茄酱汁。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "A dish like this warms the heart, regardless of the season.",
-    "value": "无论季节如何，这样的菜肴都能温暖人心。"
+    "value": "这样一道菜，无论季节如何，都能温暖人心。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran likes to sslurp up as many noodles as they can!",
-    "value": "叶族人喜欢尽可能多地吃面条！"
+    "value": "叶族人喜欢大口吸吸吸尽可能多的面条！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Blissful. The smell of this dish is making my mouth figuratively and metaphorically water.",
-    "value": "幸福。 这道菜的味道让我的嘴巴里充满了水。"
+    "value": "幸福。这道菜的香味让我垂涎欲滴，既是比喻也是写实。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Ah, good ol' 'ghetti. Just like mama used to make.",
-    "value": "啊，多么好吃的意大利面。就像妈妈以前做的一样。"
+    "value": "啊，经典的老式意面，就像妈妈以前做的那样。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Simple, but very flavorful. Not bad. Not bad at all.",
-    "value": "简单，但很有味道。不错。一点也不坏。"
+    "value": "简单，但味道十足。不错。真不错。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Just about anyone can make this, but only a handful do it well.",
-    "value": "做是能做，但只有少数人能做到。"
+    "value": "几乎人人都能做，但只有少数人能做得很好。"
   }
 ]

@@ -9,6 +9,6 @@
     "op": "replace",
     "path": "/description",
     "raw": "Create a submarine from stored nanites.",
-    "value": "这个纳米舱内储存了一艘潜艇。\n^yellow;尝试穿过不可通过液体时会停止移动^reset;"
+    "value": "利用储存的纳米机器人制造一台潜艇。\n^yellow;尝试穿过不可通过液体时会停止移动^reset;"
   }
 ]

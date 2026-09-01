@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "An advanced energy pack. Blocks electrical storms. Energy x1.2, +30% E. Regen, -15% E. Block, and a slight ^#b72ebc;glow^reset;.",
-    "value": "一个先进的能源背包。抵御雷电风暴。能量x1.2，+30%能量恢复速度，自带微弱的^#b72ebc;发光^reset;效果。"
+    "value": "一款先进的能量包。可阻挡雷电风暴。\n能量上限×1.2，能量恢复+30%，能量重充能时间-15%，并带有微弱的^#b72ebc;发光^reset;效果。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Antimatter Energy Pack",
-    "value": "反物质能量背包"
+    "value": "反物质能背包"
   }
 ]

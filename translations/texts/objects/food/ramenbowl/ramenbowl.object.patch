@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A Hylotl staple - wheat noodles served in a savory meat broth.",
-    "value": "一种鲛人主食小麦面条，在美味的肉汤中食用。"
+    "value": "一种鲛族的主食 - 小麦面条，配以鲜美的肉汤。"
   },
   {
     "op": "replace",
@@ -15,18 +15,18 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Sssmells so good...",
-    "value": "闻起来真香..."
+    "value": "闻起来真香香香..."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Ravenous. I might actually be willing to risk scalding my mouth for a taste.",
-    "value": "极度饥渴。 我可能真的愿意冒着被烫伤的风险尝一尝。"
+    "value": "饥渴。为了尝一口，我甚至愿意冒着烫伤嘴巴的风险。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "A step up from cup noodles for sure.",
-    "value": "这肯定是杯面的进化版。"
+    "value": "绝对比杯面高一个档次。"
   }
 ]

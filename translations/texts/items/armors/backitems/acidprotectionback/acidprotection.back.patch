@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "+10% Phys. Resist. Immune: Acid. Helpful on ^red;Sulphuric^reset; planets. +250s oxygen and halves how quickly you breathe.",
-    "value": "免疫酸蚀。+10%物理抗性。对探索^red;酸性^reset;行星有助。+25s氧气，且呼吸速率减半。"
+    "value": "+10%物理抗性，免疫：酸蚀。在^red;硫酸^reset;星球上颇为实用。\n+250秒氧气，并将呼吸速率减半。 "
   },
   {
     "op": "replace",

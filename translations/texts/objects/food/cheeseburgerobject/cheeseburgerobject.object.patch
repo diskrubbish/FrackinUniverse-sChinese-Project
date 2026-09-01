@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A juicy hamburger, topped with cheese.",
-    "value": "一个多汁的汉堡包，上面有奶酪。"
+    "value": "一个多汁的汉堡，上面铺满了奶酪。"
   },
   {
     "op": "replace",
@@ -21,12 +21,12 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Relieved. In spite of the name, I cannot detect any signs of pork in this sandwich.",
-    "value": "宽慰。 虽然这个三明治名字里面带肉，但我还是看不出有猪肉的痕迹。"
+    "value": "宽慰。 尽管名字如此，我在这份三明治里并未察觉到任何猪肉的迹象。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Nothin' beats a juicy burger.",
-    "value": "没有比多汁汉堡更好的了。"
+    "value": "没有什么比得上一个多汁的汉堡。"
   }
 ]

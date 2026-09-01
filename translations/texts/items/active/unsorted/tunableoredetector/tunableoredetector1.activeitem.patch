@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+    "value": "按住Shift键并点击进行配置。每次扫描一种矿石。\n可在^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/upgradeParameters/description",
     "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+    "value": "按住Shift键并点击进行配置。每次扫描一种矿石。\n可在^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
     "op": "replace",
     "path": "/upgradeParameters2/description",
     "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+    "value": "按住Shift键并点击进行配置。每次扫描一种矿石。\n可在^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -39,7 +39,7 @@
     "op": "replace",
     "path": "/upgradeParameters3/description",
     "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+    "value": "按住Shift键并点击进行配置。每次扫描一种矿石。\n可在^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -51,7 +51,7 @@
     "op": "replace",
     "path": "/upgradeParameters4/description",
     "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+    "value": "按住Shift键并点击进行配置。每次扫描一种矿石。\n可在^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -63,7 +63,7 @@
     "op": "replace",
     "path": "/upgradeParameters5/description",
     "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+    "value": "按住Shift键并点击进行配置。每次扫描一种矿石。\n可在^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -75,7 +75,7 @@
     "op": "replace",
     "path": "/upgradeParameters6/description",
     "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+    "value": "按住Shift键并点击进行配置。每次扫描一种矿石。\n可在^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -87,7 +87,7 @@
     "op": "replace",
     "path": "/upgradeParameters7/description",
     "raw": "Shift+click to configure. Scans one ore at a time. Upgrade using your ^orange;Tricorder^reset;.",
-    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n可在^orange;三度仪^reset;进行升级。"
+    "value": "按住Shift键并点击进行配置。每次扫描一种矿石。\n可在^orange;三度仪^reset;进行升级。"
   },
   {
     "op": "replace",
@@ -99,7 +99,7 @@
     "op": "replace",
     "path": "/upgradeParameters8/description",
     "raw": "Shift+click to configure. Scans one ore at a time. ^green;Fully Upgraded^reset;.",
-    "value": "Shift+左键打开配置菜单。一次扫描一种矿物。\n^green;已完全升级^reset;。"
+    "value": "按住Shift键并点击进行配置。每次扫描一种矿石。\n^green;已完全升级^reset;。"
   },
   {
     "op": "replace",

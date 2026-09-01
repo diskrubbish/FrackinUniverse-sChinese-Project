@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "Mega Capture Bot",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "The ultimate in Pet Hunting",
+    "value": ""
+  }
+]

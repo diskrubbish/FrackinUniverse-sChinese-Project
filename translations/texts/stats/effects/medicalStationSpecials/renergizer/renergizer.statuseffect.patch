@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/label",
-    "raw": "^orange;[E]^reset; Renergizer",
-    "value": "^orange;[E]^reset;劲量"
+    "raw": "^orange;Enhancement^reset;: Renergizer",
+    "value": ""
   }
 ]

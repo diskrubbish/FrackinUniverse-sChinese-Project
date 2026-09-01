@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Perfectly ripe pearlpeas work best for this hearty rice dish.",
-    "value": "完美成熟的珍珠豌豆最适合做这道丰盛的米饭佳肴。"
+    "value": "完美成熟的珍珠豆最适合这道丰盛的米饭料理。"
   },
   {
     "op": "replace",
@@ -15,18 +15,18 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Pearlpeasss? Floran would prefer meats...",
-    "value": "珍珠豆？叶族人更喜欢肉..."
+    "value": "珍珠豆？叶族人更喜喜喜欢肉..."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Approving. The pearlpeas add to the rice's flavor, but doesn't detract from it either.",
-    "value": "同意。 珍珠豆增加了米饭的味道，但也没有掩盖饭味。"
+    "value": "同意。珍珠豆为米饭增添了风味，却也不减其本味。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Some pearlpeas on rice.",
-    "value": "一些珍珠豌豆洒在米饭上。"
+    "value": "米饭上点缀着几颗珍珠豆。"
   }
 ]

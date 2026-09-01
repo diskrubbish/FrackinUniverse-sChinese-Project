@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Provides a Fall Damage Multiplier based on fall speed, scaling to ^green;0.0^reset;x at 200 Units per second.",
-    "value": "基于坠落速度降低坠落伤害倍率，200格每秒时，倍率降至^green;0.0^reset;x。"
+    "value": "根据坠落速度提供坠落伤害倍率，当速度达到每秒200单位时，倍率降至^green;0.0^reset;倍。"
   },
   {
     "op": "replace",

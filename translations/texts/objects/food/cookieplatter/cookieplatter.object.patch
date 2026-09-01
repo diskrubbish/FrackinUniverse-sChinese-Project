@@ -9,19 +9,19 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Cookie Platter",
-    "value": "饼干盘"
+    "value": "饼干拼盘"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "How yummy!",
-    "value": "多好吃啊！"
+    "value": "真好吃！"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "I am feeling a bit peckish...",
-    "value": "我觉得有点饿..."
+    "value": "我有点饿了..."
   },
   {
     "op": "replace",
@@ -33,24 +33,24 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Excited. They smell divine.",
-    "value": "兴奋。 它们闻起来很神圣。"
+    "value": "兴奋。它们闻起来美妙极了。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Let's hope they're not raisin....",
-    "value": "希望他们不是葡萄干...。"
+    "value": "希望它们不是葡萄干..."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "I can feel my teeth rotting just looking at this sugary nightmare.",
-    "value": "看着这甜蜜的噩梦，我能感觉到我的牙齿在腐烂。"
+    "value": "光是看着这糖分满满的噩梦，我就感觉牙齿在腐烂。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Don't mind if I do!",
-    "value": "别介意我这么做！"
+    "value": "那我就不客气了！"
   }
 ]

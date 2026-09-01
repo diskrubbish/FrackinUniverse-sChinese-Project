@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Damage x1.1. +4 Health, +4 Energy, +4 Shield Bash.",
-    "value": "伤害x1.1。+4HP，+4能量，+4盾牌反伤。"
+    "value": "伤害x1.1。+4生命值上限，+4能量上限，+4盾牌反伤。"
   },
   {
     "op": "replace",

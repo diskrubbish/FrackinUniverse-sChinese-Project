@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/holdEnergyTitleLabel/value",
     "raw": "Energy to Hold/s:",
-    "value": "蓄力能量每秒消耗："
+    "value": "蓄力每秒耗能："
   },
   {
     "op": "replace",
@@ -33,7 +33,7 @@
     "op": "replace",
     "path": "/perfectDamageTitleLabel/value",
     "raw": "Damage per Perfect Shot:",
-    "value": "完美射击每击伤害："
+    "value": "完美射击伤害："
   },
   {
     "op": "replace",
@@ -45,6 +45,6 @@
     "op": "replace",
     "path": "/damageTitleLabel/value",
     "raw": "Damage per Shot:",
-    "value": "每击伤害："
+    "value": "每发伤害："
   }
 ]

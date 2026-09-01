@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "Crispy on the outside, hot as molten lava on the inside.",
-    "value": "外皮酥脆，内里滚烫如熔岩。"
+    "value": "外酥里嫩，内馅滚烫如熔岩。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Baked Potato",
-    "value": "焗土豆"
+    "value": "烤土豆"
   },
   {
     "op": "replace",
@@ -21,7 +21,7 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Tentative. I should be careful to not to scald myself eating this.",
-    "value": "试探。我得小心别把自己烫着了。"
+    "value": "试探。我得小心点，吃这个别烫着自己。"
   },
   {
     "op": "replace",

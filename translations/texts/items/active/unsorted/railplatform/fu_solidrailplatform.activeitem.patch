@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Place a self-propelled platform that follows rails and can't be fallen through.",
-    "value": "放置一个沿着轨道运行的自走式平台，且无法从其上坠落。"
+    "value": "放置一个沿轨道移动且不会掉落的自走平台。"
   },
   {
     "op": "replace",

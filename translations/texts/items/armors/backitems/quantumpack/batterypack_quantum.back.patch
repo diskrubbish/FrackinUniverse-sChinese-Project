@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Extremely powerful energy tank. Blocks electrical storms. Energy x1.25, +40% E. Regen, -20% E. Block, and a slight ^#0000aa;glow^reset;.",
-    "value": "非常强大的储能背包。抵御雷电风暴，能量x1.25，+40%能量恢复速度，自带微弱的^#0000aa;发光效果^reset;。"
+    "value": "一款极其强大的能量罐。可阻挡雷电风暴。\n能量上限×1.25，能量恢复+40%，能量重充能时间-20%，并带有微弱的^#0000aa;发光^reset;效果。"
   },
   {
     "op": "replace",

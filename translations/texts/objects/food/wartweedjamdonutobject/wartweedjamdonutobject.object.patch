@@ -3,30 +3,30 @@
     "op": "replace",
     "path": "/description",
     "raw": "Many have been fooled by these unpleasant donuts' tempting appearance.",
-    "value": "许多人被这些令人不快的甜甜圈诱人的外表所愚弄。"
+    "value": "许多人都被这个看似诱人实则令人不快的甜甜圈给骗了。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Wartweed Jam Donuts",
-    "value": "疣草果酱甜甜圈"
+    "value": "瓦特果果酱甜甜圈"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Thisss donut is... warty.",
-    "value": "这个甜甜圈是...疣。"
+    "value": "这个甜甜圈...长满了疙瘩。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Disturbed. If I didn't know any better, I'd say this pastry had caught an especially hideous disease.",
-    "value": "不安。 如果我不知道的话，我会说这个糕点得了一种特别可怕的疾病。"
+    "value": "不安。要不是我了解情况，还真以为这糕点染上了什么特别可怕的病呢。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "I think I'll pass on these.",
-    "value": "我想我会把这些传下去。"
+    "value": "我想我还是跳过这些吧。"
   }
 ]

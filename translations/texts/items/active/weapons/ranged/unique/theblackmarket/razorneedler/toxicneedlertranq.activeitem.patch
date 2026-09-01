@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    "raw": "Poisonous barbs tipped with neurotoxin.\n^cyan;Non-lethal at range^reset;.",
+    "value": ""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "raw": "^#5aff00;Tranquilizer Pistol^reset;",
+    "value": ""
+  }
+]

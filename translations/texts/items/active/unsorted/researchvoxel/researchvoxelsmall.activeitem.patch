@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "A cache of 500 stored Research.",
-    "value": "可以储存500研究点数。"
+    "value": "包含500研究点数的缓存。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Research Microdisc",
-    "value": "微型研究磁盘"
+    "value": "研究用微型光盘"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/label",
-    "raw": "^orange;[E]^reset; Hypopanic",
-    "value": "^orange;[E]^reset;垂体"
+    "raw": "^orange;Enhancement^reset;: Hypopanic",
+    "value": ""
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "A very basic tank which provides ^yellow;60s^reset; oxygen, a ^orange;dim glow^reset;, and 10% ^blue;cold resistance^reset;.",
-    "value": "一个非常基本的背包，提供^yellow;60s^reset;氧气，发出^orange;微弱的光^reset;和10%^blue;寒气抗性^reset;。"
+    "value": "一个非常基础的储罐，提供^yellow;60秒^reset;的氧气、^orange;微弱光芒^reset;以及10%的^blue;寒气抗性^reset;。"
   },
   {
     "op": "replace",

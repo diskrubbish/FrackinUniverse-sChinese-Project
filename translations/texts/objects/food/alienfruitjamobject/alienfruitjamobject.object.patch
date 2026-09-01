@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Alien fruit jam. Sticky.",
-    "value": "外星果酱。黏乎乎的。"
+    "value": "外星果酱，黏糊糊的。"
   },
   {
     "op": "replace",
@@ -21,12 +21,12 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Puzzled. This fruit jam is rather sticky",
-    "value": "困惑。 这种果酱很粘"
+    "value": "困惑。这款水果果酱相当粘稠。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Some sticky alien fruit jam.",
-    "value": "一些粘乎乎的外星果酱。"
+    "value": "一些黏糊糊的外星水果酱。"
   }
 ]

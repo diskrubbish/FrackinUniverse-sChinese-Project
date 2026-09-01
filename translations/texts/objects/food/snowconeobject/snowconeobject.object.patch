@@ -3,30 +3,30 @@
     "op": "replace",
     "path": "/description",
     "raw": "One tasty snowcone, multiple flavours!",
-    "value": "一个美味的雪糕，多种口味！"
+    "value": "一个美味的雪糕筒，多种口味！"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Snow Cone",
-    "value": "雪锥"
+    "value": "雪糕筒"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Ssticky, sweet, ssnow!",
-    "value": "嘘，亲爱的，嘘！"
+    "value": "黏黏的，甜甜的，雪雪雪啊！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Pleased. A snowcone with several generous pumps of colorful syrup.",
-    "value": "很高兴。 一个装有大量彩色糖浆的雪糕筒。"
+    "value": "高兴。一个淋上了几大泵彩色糖浆的雪糕筒。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Hope the snow this came from was clean.",
-    "value": "希望这场雪是干净的。"
+    "value": "希望这些雪是干净的。"
   }
 ]
