@@ -16,6 +16,8 @@ jobs:
   workflow:
     runs-on: ubuntu-latest
     timeout-minutes: 360
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -71,12 +73,11 @@ jobs:
           path: ${{ github.workspace }}/temp/paks/FU_Schinese.pak
 
       - name: Upload Release
-        uses: ncipollo/release-action@v1.13.0
+        uses: ncipollo/release-action@v1.21.0
         with:
           tag: ${{ steps.downloadrelease.outputs.tag_name }}
           artifacts: "${{ github.workspace }}/temp/paks/FU_Schinese.pak"
           allowUpdates: true
-          token: ${{ secrets.ACTIONS_TOKEN }}
 
       - name: Generate auth code
         id: generate
@@ -99,4 +100,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "chore: sync translation memory [skip ci]" || echo "nothing to commit"
-          git push https://x-access-token:${{ secrets.ACTIONS_TOKEN }}@github.com/${{ github.repository }}.git Paratranz
+          git push https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git Paratranz
