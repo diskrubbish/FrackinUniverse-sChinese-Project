@@ -99,7 +99,7 @@
     "op": "replace",
     "path": "/paneLayout/mode/buttons/2/data/description",
     "raw": "When you die your character stays dead!",
-    "value": "如果角色死亡则将永久死亡！"
+    "value": "受饥饿影响。如果角色死亡：失去50%像素。掉落^red;所有^reset;物品。"
   },
   {
     "op": "replace",
