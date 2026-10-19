@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "Prop Packaging's finest products avaliable at the touch of a button!",
-    "value": "“满是家具”最优质的产品，一键轻松获取！"
+    "value": "“满屋物流”最优质的产品，一键轻松获取！"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^orange;Prop Pack Online Catalog^reset;",
-    "value": "^orange;“满是家具”在线目录^reset;"
+    "value": "^orange;“满屋物流”在线目录^reset;"
   },
   {
     "op": "replace",

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Captures creatures in Mega Pet Balls.",
-    "value": ""
+    "value": "使用超级宠物球捕获生物。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Mega Capture Bot",
-    "value": ""
+    "value": "超级抓宠机器人"
   }
 ]

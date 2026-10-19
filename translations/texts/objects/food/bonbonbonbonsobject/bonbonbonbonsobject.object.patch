@@ -3,30 +3,30 @@
     "op": "replace",
     "path": "/description",
     "raw": "Eureka! The only possible way to improve on perfection is to multiply it.",
-    "value": "我找到了！提高完美的唯一可能的方法就是让它倍增。"
+    "value": "找到了！锦上添花的唯一途径，就是将其倍增。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Bon Bon Bon Bons",
-    "value": "邦邦邦邦邦邦邦邦邦邦邦"
+    "value": "双份跳跳糖"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "SSSWEETS!",
-    "value": "亲爱的！"
+    "value": "好甜甜甜！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Disturbed. There is such a thing as too much sugar, you know.",
-    "value": "不安。 你知道，糖太多是一个大事。"
+    "value": "不安。你知道的，糖吃多了也是不行的。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Now this is just excessive.",
-    "value": "这太过分了。"
+    "value": "现在这简直太过分了。"
   }
 ]

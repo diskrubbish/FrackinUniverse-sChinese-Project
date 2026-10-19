@@ -3,30 +3,30 @@
     "op": "replace",
     "path": "/description",
     "raw": "Steamed meat dumplings. Beautifully simple!",
-    "value": "蒸肉饺子。漂亮简单！"
+    "value": "蒸肉饺，简约之美！"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Meat Dumplings",
-    "value": "肉饺子"
+    "value": "肉馅饺子"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Sssoft meat dumplings.",
-    "value": "软肉饺子。"
+    "value": "软滑的肉饺。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Neutral. A plate of steaming meat dumplings.",
-    "value": "中立。 一盘热气腾腾的肉饺子。"
+    "value": "中立。一盘热气腾腾的肉饺。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "These dumplings are small, but mighty savory.",
-    "value": "这些饺子虽小，但味道鲜美。"
+    "value": "这些饺子虽小，却鲜美无比。"
   }
 ]

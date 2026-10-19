@@ -3,30 +3,30 @@
     "op": "replace",
     "path": "/description",
     "raw": "A stack of canned food goods.",
-    "value": "一堆罐头食品。"
+    "value": "一摞罐头食品。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Stack of Cans",
-    "value": "一叠罐头"
+    "value": "一摞罐头"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Not fressh meat, but it'll do.",
-    "value": "肉质不鲜美，但还是可以吃。"
+    "value": "虽虽虽然不是鲜肉，倒也将就。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Approving. You can never have enough stockpiled foods for when an emergency strikes.",
-    "value": "同意。 你永远不会有足够的储备食物来应付紧急情况。"
+    "value": "同意。紧急情况来临时，储备的食物永远不嫌多。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "I ain't no stranger to beans from a can. Doesn't make 'em taste any better though.",
-    "value": "我对罐头里的豆子并不陌生。但这并不能让它们尝起来更好。"
+    "value": "我对罐头豆子可不陌生。不过，这也没让它们的味道好到哪儿去。"
   }
 ]

@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "A store shelf.",
-    "value": "货架。"
+    "value": "一个商店货架。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Store Shelf",
-    "value": "货架"
+    "value": "商店货架"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "Thankfully, I can reach the top shelves with ease.",
-    "value": "谢天谢地，我可以轻松地到达顶层货架。"
+    "value": "谢天谢地，我能轻松够到最上层的架子。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "I wonder how often they restock these shelves...",
-    "value": "我想知道他们多久会重新进货一次这些架子..."
+    "value": "不知道他们多久给这些货架补一次货..."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Canned meatss don't compare to fresh ones at all.",
-    "value": "罐头肉根本比不上新鲜肉。"
+    "value": "罐头肉跟新鲜鲜鲜肉根本没法比。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Pleased. A variety of common kitchen staples can be found here.",
-    "value": "很高兴。 在这里可以找到各种常见的厨房主食。"
+    "value": "高兴。这里可以找到各种常见的厨房常备食材。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Maybe I should become one of those extreme coupon collectors...",
-    "value": "也许我应该成为那些极端的优惠券收集者之一..."
+    "value": "也许我该成为那些极端的优惠券收集者中的一员..."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "It's wise to check the nutritional content for processed foods when comparison shopping.",
-    "value": "比较购物时，检查加工食品的营养成分是明智的。"
+    "value": "在货比三家时，查看加工食品的营养成分，是明智之举。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Just about all ya need to stock a pantry.",
-    "value": "你只需要准备一个食品储藏室。"
+    "value": "差不多就是你囤满一个食品储藏室所需的全部东西了。"
   }
 ]

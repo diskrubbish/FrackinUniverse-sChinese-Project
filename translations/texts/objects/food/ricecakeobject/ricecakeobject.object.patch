@@ -3,30 +3,30 @@
     "op": "replace",
     "path": "/description",
     "raw": "A simple snack formed of rice, held together by seaweed.",
-    "value": "一种简单的小吃，由米饭做成，用海藻粘在一起。"
+    "value": "一种简单的米制小吃，由海苔包裹而成。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Rice Cake",
-    "value": "年糕"
+    "value": "饭团"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Thessse donuts are great!",
-    "value": "甜甜圈太棒了！"
+    "value": "这些些些甜甜圈太棒了！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Delighted. Jelly-filled donuts are my favorite.",
-    "value": "很高兴。 果冻甜甜圈是我的最爱。"
+    "value": "高兴。果酱夹心甜甜圈是我的最爱。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Nothin' beats a jelly-filled donut. ",
-    "value": "没有什么比果冻甜甜圈更好的了。"
+    "value": "什么都比不过一个果酱夹心甜甜圈。"
   }
 ]

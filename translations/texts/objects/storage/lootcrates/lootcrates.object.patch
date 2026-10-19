@@ -9,48 +9,48 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Loot Crates",
-    "value": "赃物箱"
+    "value": "战利品箱"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "By god, these crates are filled to bursting with treasure!",
-    "value": "上帝啊，这些箱子装满了财宝！"
+    "value": "老天爷啊，这些箱子塞满了财宝，都快撑爆了！"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "Enough gold to shame Kluex himself...",
-    "value": "足够让克鲁西斯感到羞愧的金子..."
+    "value": "黄金多到足以令克鲁克斯本人都自惭形秽..."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Finderss keeperss!",
-    "value": "芬德斯·基珀斯！"
+    "value": "谁捡到就是谁谁谁的！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Amazed. An incredible hoard of treasures. Who could've collected all this?",
-    "value": "吃惊。 难以置信的宝藏。谁能收集到这些？"
+    "value": "吃惊。真是不可思议的一批宝藏。会是谁收集了这一切呢？"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Something tells me this loot wasn't acquired legally...",
-    "value": "有东西告诉我这些赃物不是合法获得的..."
+    "value": "直觉告诉我，这批战利品来路不正..."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "So much gold in one place makes me suspicious. I'll have to report this to the authorities... After taking a small finder's fee, of course.",
-    "value": "一个地方有这么多金子让我怀疑。我必须向当局报告这件事...当然，在收取了一小笔中介费之后。"
+    "value": "这么多金子集中在一处，让我不免起疑。我得向当局报告这件事...当然，是在拿了一小笔发现者酬金之后。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Whoo-ee! A fella could buy out a whole town with this much gold!",
-    "value": "哇！一个家伙可以用这么多黄金买下整个城镇！"
+    "value": "哎哟喂！有这么多金子，一个人都能把整座镇子买下来！"
   }
 ]

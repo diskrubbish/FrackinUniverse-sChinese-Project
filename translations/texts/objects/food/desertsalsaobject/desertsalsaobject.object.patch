@@ -3,30 +3,30 @@
     "op": "replace",
     "path": "/description",
     "raw": "A refreshing salsa made from desert fruits.",
-    "value": "一种由沙漠水果制成的清爽沙拉。"
+    "value": "一道清爽的沙漠水果萨尔萨酱。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Desert Salsa",
-    "value": "沙漠沙拉"
+    "value": "沙漠辣调味汁"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Ssspicy and Sssweet.",
-    "value": "辣的和甜的。"
+    "value": "嘶嘶嘶辣又嘶嘶嘶甜。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Satisfied. A pleasantly mixed salsa.",
-    "value": "满意。 令人愉快的混合沙拉。"
+    "value": "满意。一种令人愉悦的混合萨尔萨。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Now here's a REAL treat for out on the range.",
-    "value": "现在，这里有一个真正的意义上的款待。"
+    "value": "现在，这可真是一大享受。"
   }
 ]

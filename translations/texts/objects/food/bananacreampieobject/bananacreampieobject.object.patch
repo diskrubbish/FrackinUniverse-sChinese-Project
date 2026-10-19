@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Better for eating, or for throwing in people's faces?",
-    "value": "吃东西更好，还是扔到别人脸上更好？"
+    "value": "是用来吃的，还是用来砸人的？"
   },
   {
     "op": "replace",
@@ -15,18 +15,18 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Creamy and sweet, monkeyman treat!",
-    "value": "奶香甜味，来自猿人的款待！"
+    "value": "香香香甜甜的，猴人的美味点心！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Daunted. That's... quite a generous helping of whipped cream.",
-    "value": "吓倒。 那是...相当多的一份生奶油。"
+    "value": "发怵。这...鲜奶油的分量可真够足的。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Bit too sweet for my taste, if we're bein' honest.",
-    "value": "老实说，对我来说太甜了点。"
+    "value": "说实话，对我来说有点太甜了。"
   }
 ]

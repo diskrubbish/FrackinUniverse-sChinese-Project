@@ -3,30 +3,30 @@
     "op": "replace",
     "path": "/description",
     "raw": "Confectionery perfection.",
-    "value": "糖果的完美。"
+    "value": "糖果的完美境界。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Bon Bons",
-    "value": "邦邦"
+    "value": "跳跳糖"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Sweets!",
-    "value": "糖果！"
+    "value": "好甜！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Neutral. A bowl of sugary confections. Brushing before and after consumption is highly advised.",
-    "value": "中立。 一碗甜食。强烈建议在食用前后刷牙。"
+    "value": "中立。一碗含糖甜点。强烈建议食用前后刷牙。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "You can only eat about one of these in a sittin' without feeling sick.",
-    "value": "你只能坐着吃其中的一个而不感到恶心。"
+    "value": "这东西，你一次坐下来差不多只能吃一个，才不会觉得恶心。"
   }
 ]

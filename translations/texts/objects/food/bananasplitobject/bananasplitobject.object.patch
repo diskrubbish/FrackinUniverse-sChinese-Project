@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "The secret ingredient in this Apex favourite is pineapple!",
-    "value": "这种猿人最受欢迎的食物的秘密成分是菠萝！"
+    "value": "这款猿族最爱的秘密配料是菠萝！"
   },
   {
     "op": "replace",
@@ -21,12 +21,12 @@
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Deliberative. I highly doubt this is very healthy, BUT...",
-    "value": "协商。 我非常怀疑这是否健康，但是..."
+    "value": "深思。我非常怀疑这能有多健康，但..."
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Lots of fruit to spare, it looks like.",
-    "value": "看起来有很多水果要备用。"
+    "value": "看样子，水果还富余不少呢。"
   }
 ]

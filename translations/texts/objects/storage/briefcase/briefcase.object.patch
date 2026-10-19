@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Prepared or not, you'll still look the part with this briefcase at your side!",
-    "value": "不管准备好与否，你仍然会看到这个公文包在你身边！"
+    "value": "无论准备与否，只要随身带上这款公文包，你依旧能显得专业得体！"
   },
   {
     "op": "replace",
@@ -21,36 +21,36 @@
     "op": "replace",
     "path": "/avianDescription",
     "raw": "A secure transportation device for documents. It's cool to the touch.",
-    "value": "文件的安全运输装置。摸起来很酷。"
+    "value": "一款用于文件安全运输的装置，触感清凉。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Not big enough to carry meats or ssspears.",
-    "value": "不够大，不能装肉或矛。"
+    "value": "不够大，装不下肉，也装不下长矛。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Confident. The lock on this briefcase is sure to keep my most precious documents safe.",
-    "value": "自信。 这个公文包上的锁一定能保护我最珍贵的文件。"
+    "value": "自信。这个公文包上的锁一定能确保我最珍贵的文件安然无恙。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "OBJECTION! ... Heh, I sure sound the part of a lawyer, right?",
-    "value": "反对...嘿，我听起来像个律师，对吧？"
+    "value": "异议！...嘿，我听起来还真像那么回事，像个律师，对吧？"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Serviceable, if a bit utilitarian.",
-    "value": "如果有点实用的话，还是可以使用的。"
+    "value": "还算能用，只是有点偏实用主义。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "A fancy container for all yer paperwork.",
-    "value": "一个装你所有文件的漂亮容器。"
+    "value": "一个用来装你所有文书的精美容器。"
   }
 ]

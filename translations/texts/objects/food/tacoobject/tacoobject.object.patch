@@ -3,30 +3,30 @@
     "op": "replace",
     "path": "/description",
     "raw": "A corn tortilla filled with veggies and meat.",
-    "value": "装满蔬菜和肉的玉米玉米饼。"
+    "value": "一张玉米薄饼，里面塞满了蔬菜和肉。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Taco",
-    "value": "墨西哥玉米薄饼卷"
+    "value": "塔可"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Tacoss!",
-    "value": "墨西哥玉米！"
+    "value": "塔可！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Pleased. This taco is filled with just the right ratio of meat to  vegetables.",
-    "value": "很高兴。 这个玉米卷的肉和蔬菜的比例刚好合适。"
+    "value": "高兴。这个塔可的馅料中，肉和蔬菜的比例恰到好处。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "I'm more a burrito kind of fella myself.",
-    "value": "我自己更喜欢吃玉米煎饼。"
+    "value": "我自己倒是更偏爱墨西哥卷饼这一类的。"
   }
 ]

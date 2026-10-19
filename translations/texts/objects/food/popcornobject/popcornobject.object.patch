@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Pop it like it's hot!",
-    "value": "太烫了，爆开它！"
+    "value": "像烫手一般，把它爆开！"
   },
   {
     "op": "replace",
@@ -15,18 +15,18 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Pop all the corn! Right into Floran's mouth!",
-    "value": "爆米花！就在叶族人嘴里！"
+    "value": "把玉米全爆开！直接爆进叶族人的嘴里！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Amused. It's so strange how kernels react to heat by exploding their innards.",
-    "value": "开心。 果仁对热的反应是内部爆炸，这真是太奇怪了。"
+    "value": "开心。 真奇怪，颗粒受热后竟会把自己的内里炸开。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Salty and buttery. Can't beat the classics.",
-    "value": "咸的和黄油的都比不过原味的。"
+    "value": "咸香浓郁，黄油味十足。经典就是经典。"
   }
 ]

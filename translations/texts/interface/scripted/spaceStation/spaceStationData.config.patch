@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/medical/0/4",
     "raw": "25% More Power, Increased Movement Speed. \n-50% Knockback Resistance, -35 Protection.",
-    "value": "攻击力提升25%，提高移动速度。  \n击退抗性降低50%，防御降低35%。"
+    "value": "攻击力提升25%，提高移动速度。  \n击退抗性降低50%，防御降低35点。"
   },
   {
     "op": "replace",
@@ -45,7 +45,7 @@
     "op": "replace",
     "path": "/medical/3/4",
     "raw": "You become immune to knockback and gain 50 protection, but your movement speed is reduced by 33%.",
-    "value": "你获得击退免疫，并增加50点护甲，但移动速度降低33%。"
+    "value": "你获得击退免疫，并增加50点防御，但移动速度降低33%。"
   },
   {
     "op": "replace",
@@ -117,7 +117,7 @@
     "op": "replace",
     "path": "/medical/9/4",
     "raw": "While over 10% health, drains 1.25% of your Current Health to shoot a projectile at the closest enemy, prioritizing targets not hit recently, in a medium radius with a clear line of fire every 0.5 seconds, dealing 2.5% of your Max HP as base damage (^orange;affected by power multiplier^reset;) on impact and causing Beestings.",
-    "value": ""
+    "value": "生命值高于10%时，每0.5秒消耗当前生命值的1.25%，向中等范围内、射程清晰的最近敌人发射投射物（优先选择近期未被命中的目标）；命中时造成相当于自身最大生命值2.5%的基础伤害（^orange;受攻击倍率影响^reset;），并施加蜂蜇效果。"
   },
   {
     "op": "replace",

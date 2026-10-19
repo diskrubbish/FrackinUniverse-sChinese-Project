@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Dense, heavy bread packed full of seeds.",
-    "value": "装满种子的稠密、厚重的面包。"
+    "value": "厚实沉重的面包，里面塞满了种子。"
   },
   {
     "op": "replace",
@@ -15,18 +15,18 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Birdman filled this bread full of crunchy ssseeds.",
-    "value": "翼族用松脆的种子填满了面包。"
+    "value": "鸟人把这块面包塞塞塞满了脆脆的种子。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Surprised. The little seeds in this loaf are actually quite pleasant.",
-    "value": "诧异。 这个面包里的小种子其实很好吃。"
+    "value": "诧异。这面包里的小籽儿其实还挺讨喜的。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "A loaf of bread with a whole bunch of tiny seeds baked in.",
-    "value": "烤着一块里面夹杂着很多小种子的面包。"
+    "value": "一条面包，里面烤进了许多细小的种子。"
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "Ice cream with the delightful taste of custard.",
-    "value": "有奶油冻味道的冰淇淋。"
+    "value": "带有蛋奶冻般美妙滋味的冰淇淋。"
   },
   {
     "op": "replace",
@@ -15,18 +15,18 @@
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Taste jussst like birdman egg! But sssweeter.",
-    "value": "尝起来像鸟人蛋一样美味！但是更甜。"
+    "value": "味道简直和鸟人蛋一模一样！不过更甜。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Surprised. Much tastier than I would have imagined.",
-    "value": "诧异。 比我想象的美味多了。"
+    "value": "惊奇。比我想象中还要美味得多。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Pretty creamy. This ice cream's practically yogurt.",
-    "value": "奶油味的。这冰淇淋实际上是酸奶。"
+    "value": "挺绵密的。这冰淇淋简直就跟酸奶差不多了。"
   }
 ]

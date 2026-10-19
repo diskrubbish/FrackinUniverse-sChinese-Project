@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     "raw": "You just got a letter! Wonder who it's from?",
-    "value": "你刚收到一封信！不知道是谁寄来的？"
+    "value": "你刚收到一封信！会是谁寄来的呢？"
   },
   {
     "op": "replace",
@@ -15,42 +15,42 @@
     "op": "replace",
     "path": "/apexDescription",
     "raw": "I don't much care for mailboxes. They're too easily bugged and monitored.",
-    "value": "我不太喜欢邮箱。他们太容易被窃听和监视。"
+    "value": "我不太喜欢信箱。它们太容易被人装上窃听器、受到监视了。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "Avians with particularly large beaks are especially good mail carriers.",
-    "value": "喙特别大的鸟类是特别好的邮递员。"
+    "value": "长着格外大喙的翼族人尤其适合当邮递员。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran can't ssend weapons in the mail anymore without getting yelled at...",
-    "value": "叶族人再也不能在邮件中寄出武器而不被大喊大叫..."
+    "value": "叶族人再也不能邮寄武器了，不然就会被骂..."
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Irritated. Glitch couriers take forever to deliver messages.",
-    "value": "生气。 电子人信使需要永远传递信息。"
+    "value": "生气。 电子人信传个信能传到天荒地老。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "I bet it's all just junk mail anyhow...",
-    "value": "我打赌反正都是垃圾邮件..."
+    "value": "我敢打赌，反正那些都不过是垃圾邮件罢了..."
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "Physical mail is slowly becoming obsolete in the digital age, is it not?",
-    "value": "在数字时代，物理邮件正在慢慢过时，不是吗？"
+    "value": "在数字时代，实体邮件正在慢慢被淘汰，难道不是吗？"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "A might quicker than a pony express, I'd say.",
-    "value": "我想一辆可能比一辆小马快车快。"
+    "value": "要我说，这比驿马快信还快那么一点儿。"
   }
 ]

@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     "raw": "'A high tech minigun that fires plasma rounds.'",
-    "value": "发射等离子弹的高科技机枪。"
+    "value": "一把发射等离子弹的高科技机枪。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Rustic Skath Minigun",
-    "value": "海鳞族机枪·低级"
+    "value": "基础海鳞族机枪"
   },
   {
     "op": "replace",

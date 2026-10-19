@@ -3,54 +3,54 @@
     "op": "replace",
     "path": "/description",
     "raw": "A perfectly roasted bird. What a beautiful sight to behold.",
-    "value": "完全烤熟的鸟。多美的景色啊。"
+    "value": "一只烤得完美的鸟。多么赏心悦目的景象啊。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Cooked Poultry",
-    "value": "熟食家禽"
+    "value": "煮熟的鸟肉"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
     "raw": "A large and filling roast bird.",
-    "value": "一种又大又肥的烤鸟。"
+    "value": "一只硕大又管饱的烤鸟。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
     "raw": "... Oh dear, I'm... feeling rather faint...",
-    "value": "... 哦，天哪，我...感觉很虚弱..."
+    "value": "... 哎呀，我...觉得有些发晕..."
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran calls dibs on the thighss!",
-    "value": "叶族人在大腿上发号施令！"
+    "value": "叶族人宣布这些大腿先先先归自己了！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Awed. That's quite the large bird.",
-    "value": "敬畏。 那是一只很大的鸟。"
+    "value": "敬畏。那只鸟可真够大的。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
     "raw": "Cooked chicken. At least, that's what it looks like. Could be any bird, really.",
-    "value": "熟鸡肉。至少，它看起来是这样的。可能是任何一只鸟，真的。"
+    "value": "熟鸡肉。至少看起来是这样。说实话，也可能是任何一种鸟。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
     "raw": "That's quite the impressive catch. I would hope none of this meat goes to waste.",
-    "value": "这是一个令人印象深刻的收获。我希望这些肉不要浪费掉。"
+    "value": "这可真是相当了不起的收获。但愿这些肉一点也不会被浪费。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "Well now... That's a hefty meal right there.",
-    "value": "那么现在...那是一顿丰盛的晚餐。"
+    "value": "哎呀...这一顿可真是够实在的。"
   }
 ]

@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^orange;Rustic Skath Forge^reset;",
-    "value": "^orange;基础级海鳞族铸造台^reset;"
+    "value": "^orange;基础海鳞族铸造台^reset;"
   },
   {
     "op": "replace",
@@ -69,13 +69,13 @@
     "op": "replace",
     "path": "/upgradeStages/0/itemSpawnParameters/shortdescription",
     "raw": "^orange;Rustic Skath Forge^reset;",
-    "value": "^orange;基础级海鳞族铸造台^reset;"
+    "value": "^orange;基础海鳞族铸造台^reset;"
   },
   {
     "op": "replace",
     "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
     "raw": " Rustic Skath Forge",
-    "value": "基础级海鳞族铸造台"
+    "value": " 基础海鳞族铸造台"
   },
   {
     "op": "replace",
@@ -99,7 +99,7 @@
     "op": "replace",
     "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
     "raw": " Skath Plasma Forge",
-    "value": "等离子级海鳞族铸造台"
+    "value": " 等离子级海鳞族铸造台"
   },
   {
     "op": "replace",

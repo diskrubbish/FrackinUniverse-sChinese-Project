@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     "raw": "Poisonous barbs tipped with neurotoxin.\n^cyan;Non-lethal at range^reset;.",
-    "value": ""
+    "value": "发射带有神经毒素的剧毒倒刺。\n^cyan;远距离非致命^reset;。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "^#5aff00;Tranquilizer Pistol^reset;",
-    "value": ""
+    "value": "^#5aff00;麻醉手枪^reset;"
   }
 ]

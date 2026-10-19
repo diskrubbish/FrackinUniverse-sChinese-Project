@@ -3,30 +3,30 @@
     "op": "replace",
     "path": "/description",
     "raw": "A refreshing salsa made from tropical and ocean fruits.",
-    "value": "由热带水果和海洋水果制成的清爽莎莎酱。"
+    "value": "一款由热带与海洋水果制成的清爽萨尔萨酱。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     "raw": "Ocean Salsa",
-    "value": "海洋沙拉"
+    "value": "海洋辣调味汁"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
     "raw": "Floran can almost taste the sssea breeze in this jam.",
-    "value": "叶族人几乎可以在这种果酱中尝到海风的味道。"
+    "value": "叶族人几乎能在这罐果酱里尝出嘶嘶嘶海风的味道。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
     "raw": "Convinced. This would make a fantastic addition to any luau.",
-    "value": "确信。 这将是对任何卢奥(用嫩芋叶和章鱼或鸡加椰子酱烹制成的一种菜)的极好补充。"
+    "value": "确信。 这会给任何一场夏威夷宴会增色不少。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
     "raw": "This sure tastes like the sea, alright.",
-    "value": "这尝起来真像大海。"
+    "value": "这尝起来确实像大海的味道，没错。"
   }
 ]
