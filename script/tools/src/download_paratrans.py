@@ -101,6 +101,58 @@ class ParaTranzManager:
             print(f"正在更新文件：{local_file}")
             self._write_json_file(local_file, updated_dict)
 
+    def _restore_cloud_translations(self, local_json: Any, para_json: Any):
+        """
+        保护云端已有译文。
+
+        当本地条目同时满足以下条件时，用云端译文回填本地条目：
+
+        - 本地原文（raw）与云端一致
+        - 本地译文（value）为空字符串
+        - 云端已有非空译文
+
+        这样可以避免因文本提取或翻译记忆库匹配失败而产生的空译文
+        覆盖掉云端已有的翻译。
+
+        Args:
+            local_json: 本地补丁条目列表。
+            para_json: 从ParaTranz下载的补丁条目列表（云端状态快照）。
+
+        Returns:
+            (回填后的本地条目列表, 回填条数)
+        """
+        if not isinstance(local_json, list) or not isinstance(para_json, list):
+            return local_json, 0
+
+        cloud_by_path = {}
+        for item in para_json:
+            if isinstance(item, dict) and isinstance(item.get("path"), str):
+                cloud_by_path[item["path"]] = item
+
+        result = []
+        restored_count = 0
+        for item in local_json:
+            # 仅处理可翻译条目：raw 与 value 都必须是字符串，且本地译文为空
+            if (
+                isinstance(item, dict)
+                and isinstance(item.get("raw"), str)
+                and isinstance(item.get("value"), str)
+                and item["value"] == ""
+            ):
+                cloud_item = cloud_by_path.get(item["path"])
+                if (
+                    isinstance(cloud_item, dict)
+                    and cloud_item.get("raw") == item["raw"]
+                    and isinstance(cloud_item.get("value"), str)
+                    and cloud_item["value"] != ""
+                ):
+                    result.append({**item, "value": cloud_item["value"]})
+                    restored_count += 1
+                    continue
+            result.append(item)
+
+        return result, restored_count
+
     def download_translations(self):
         """
         从ParaTranz下载最新的翻译并更新本地文件。
@@ -187,6 +239,17 @@ class ParaTranzManager:
                 if name.startswith(self.subdir + "/")
             }
 
+        # fail-safe：下载制品失败或未执行下载时，temp 下不会有云端翻译快照。
+        # 此时继续同步会用本地空译文覆盖云端已有翻译，因此直接中止。
+        cloud_snapshot_dir = self.temp_path / "data" / "texts"
+        if online_files and not cloud_snapshot_dir.exists():
+            raise RuntimeError(
+                "中止同步：未找到云端翻译快照 "
+                f"{cloud_snapshot_dir.as_posix()}，"
+                "说明本次下载制品失败或未执行下载。继续同步会用本地空译文覆盖云端已有翻译，"
+                "因此已中止。请先成功执行下载后再同步。"
+            )
+
         local_set = set(local_files)
         online_set = set(online_files.keys())
 
@@ -207,6 +270,19 @@ class ParaTranzManager:
                 needs_upload = True
                 if para_json_path.exists():
                     para_json = self._load_json_file(para_json_path)
+                    # 保护云端已有译文：原文与云端一致但本地译文为空时，
+                    # 用云端译文回填，避免空译文覆盖云端已有翻译。
+                    if local_json is not None and para_json is not None:
+                        protected_json, restored_count = self._restore_cloud_translations(
+                            local_json, para_json
+                        )
+                        if restored_count:
+                            print(
+                                f"  保护云端译文: {file_rel_path} 中 {restored_count} 条空译文的原文与云端一致，"
+                                f"已回填云端译文，不再用空译文覆盖。"
+                            )
+                            self._write_json_file(local_path, protected_json)
+                            local_json = protected_json
                     if local_json == para_json:
                         needs_upload = False
                 
